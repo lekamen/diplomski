@@ -5,7 +5,6 @@ import java.util.List;
 public class TekstZakona {
 	
 	private Integer brojFilea;
-	private Integer nastavak;
 	private List<Token> naslov;
 	private List<Token> story;
 	
@@ -14,12 +13,6 @@ public class TekstZakona {
 	}
 	public void setBrojFilea(Integer brojFilea) {
 		this.brojFilea = brojFilea;
-	}
-	public Integer getNastavak() {
-		return nastavak;
-	}
-	public void setNastavak(Integer nastavak) {
-		this.nastavak = nastavak;
 	}
 	public List<Token> getNaslov() {
 		return naslov;
@@ -62,5 +55,15 @@ public class TekstZakona {
 		else if (!brojFilea.equals(other.brojFilea))
 			return false;
 		return true;
+	}
+	
+	@Override
+	public String toString() {
+		StringBuilder sb = new StringBuilder();
+		sb.append("TekstZakona[brojFilea=")
+			.append(brojFilea).append(",story=[");
+		story.stream().forEach(t -> sb.append(t).append(", "));
+		sb.append("]");
+		return sb.toString();
 	}
 }

@@ -49,6 +49,6 @@ public class PocetnaView extends VerticalLayout implements View {
 		
 		//ucitavanje tokena
 		UcitavanjeTagaILema ucitavanje = new UcitavanjeTagaILema();
-		ucitavanje.ucitajTagoveILeme();
+		ucitavanje.provjeri();
 	}
 }
