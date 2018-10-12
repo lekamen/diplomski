@@ -1,7 +1,9 @@
 
 # Created by https://www.gitignore.io/api/java,vaadin,windows,eclipse,java-web
 
-!.mvn/wrapper/
+.mvn/
+mvnw
+mvnw.cmd
 
 ### Eclipse ###
 
