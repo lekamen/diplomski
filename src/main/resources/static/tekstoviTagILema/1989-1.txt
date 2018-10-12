@@ -1,0 +1,36 @@
+Urbroj	urbroj	Ncmsn
+:	:	Z
+524	524	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+01/2	01/2	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+23	23	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+22.	22.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Mirando	Mirando	Npfsn
+Mrsić	Mrsić	Npfsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+OBRASCI	obrazac	Ncmpn
+

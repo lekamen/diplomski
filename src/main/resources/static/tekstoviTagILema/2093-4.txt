@@ -1,0 +1,51 @@
+NAPOMENA	napomena	Ncfsn
+–	–	Z
+mjerilo	mjerilo	Ncnsn
+se	sebe	Px--sa
+može	moći	Vmr3s
+koristiti	koristiti	Vmn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+sadržaja	sadržaj	Ncmsg
+proteina	protein	Ncmsg
+u	u	Sa
+:	:	Z
+
+–	–	Sl
+pšenici	pšenica	Ncfsl
+
+–	–	Sl
+ječmu	ječam	Ncmsl
+
+MJERILO	mjeriti	Vap-sn
+JE	biti	Var3s
+U	u	Sl
+GRANICAMA	granica	Ncfpl
+DOPUŠTENE	dopustiti	Appfpny
+POGREŠKE	pogreška	Ncfpn
+:	:	Z
+
+Stari	star	Agpmsny
+ovjerni	ovjeran	Agpmsny
+žig	žig	Ncmsn
+:	:	Z
+Novi	nov	Agpmsny
+ovjerni	ovjeran	Agpmsny
+žig	žig	Ncmsn
+:	:	Z
+
+–	–	Agpmsny
+Prilog	prilog	Ncmsn
+ispitnom	ispitan	Agpnsly
+izvješću	izvješće	Ncnsl
+:	:	Z
+ispis	ispis	Ncmsn
+kalibracija	kalibracija	Ncfpg
+
+Potpis	potpis	Ncmsn
+i	i	Cc
+žig	žig	Ncmsan
+ovlaštenog	ovlašten	Agpmsgy
+mjeritelja	mjeritelj	Ncmsg
+:	:	Z
+

@@ -1,0 +1,189 @@
+1	1	Mdc
+02.01.2015	02.01.2015	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+službenim	služben	Agpfply
+iskaznicama	iskaznica	Ncfpl
+i	i	Cc
+značkama	značka	Ncfpl
+inspektora	inspektor	Ncmsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prava	pravo	Ncnsg
+putnika	putnik	Ncmpg
+u	u	Sl
+željezničkom	željeznički	Agpmsly
+prijevozu	prijevoz	Ncmsl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POMORSTVA	pomorstvo	Ncnsg
+,	,	Z
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+
+19	19	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+33.	33.	Mdo
+stavka	stavak	Ncmsg
+8.	8.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+regulaciji	regulacija	Ncfsl
+tržišta	tržište	Ncnsg
+željezničkih	željeznički	Agpfpgy
+usluga	usluga	Ncfpg
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+71/14	71/14	Mds
+)	)	Z
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+PRAVILNIKA	pravilnik	Ncmpg
+O	o	Sl
+SLUŽBENIM	služben	Agpfply
+ISKAZNICAMA	iskaznica	Ncfpl
+I	i	Cc
+ZNAČKAMA	značka	Ncfpl
+INSPEKTORA	inspektor	Ncmsg
+ZA	za	Sa
+ZAŠTITU	zaštita	Ncfsa
+PRAVA	pravo	Ncnsg
+PUTNIKA	putnik	Ncmpg
+U	u	Sl
+ŽELJEZNIČKOM	željeznički	Agpmsly
+PRIJEVOZU	prijevoz	Ncmsl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Pravilniku	pravilnik	Ncmsl
+o	o	Sl
+službenim	služben	Agpfply
+iskaznicama	iskaznica	Ncfpl
+i	i	Cc
+značkama	značka	Ncfpl
+inspektora	inspektor	Ncmsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prava	pravo	Ncnsg
+putnika	putnik	Ncmpg
+u	u	Sl
+željezničkom	željeznički	Agpmsly
+prijevozu	prijevoz	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+136/14	136/14	Mds
+)	)	Z
+DODATAK	dodatak	Ncmsn
+1.	1.	Mdo
+a	a	Cc
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+sljedećim	sljedeći	Agpmsiy
+:	:	Z
+
+»	»	Z
+DODATAK	dodatak	Ncmsn
+1.	1.	Mdo
+a	a	Cc
+
+Službena	služben	Agpfsny
+iskaznica	iskaznica	Ncfsn
+inspektora	inspektor	Ncmsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prava	pravo	Ncnsg
+putnika	putnik	Ncmpg
+u	u	Sl
+željezničkom	željeznički	Agpmsly
+prijevozu	prijevoz	Ncmsl
+
+Prednja	prednji	Agpfsny
+strana	strana	Ncfsn
+
+Poleđina	poleđina	Ncfsn
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/14	01/14	Mdc
+-	-	Z
+02/131	02/131	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+14	14	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+22.	22.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+Ministar	ministar	Ncmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Siniša	Siniša	Npfsn
+Hajdaš	Hajdaš	Npfsn
+Dončić	Dončić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

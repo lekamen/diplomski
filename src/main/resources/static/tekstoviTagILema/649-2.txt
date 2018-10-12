@@ -1,0 +1,74 @@
+nazivi	naziv	Ncmpn
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+:	:	Z
+»	»	Z
+policijski	policijski	Agpmsny
+službenik	službenik	Ncmsn
+za	za	Sa
+unutarnje	unutarnji	Agpnsay
+osiguranje	osiguranje	Ncnsa
+«	«	Z
+i	i	Cc
+»	»	Z
+policijski	policijski	Agpmsny
+službenik	službenik	Ncmsn
+za	za	Sa
+vanjsko	vanjski	Agpnsay
+osiguranje	osiguranje	Ncnsa
+«	«	Z
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/23	03/23	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+18.	18.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

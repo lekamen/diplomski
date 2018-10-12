@@ -1,0 +1,687 @@
+fizičku	fizički	Agpfsay
+osobu	osoba	Ncfsa
+obvezno	obvezno	Rgp
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+;	;	Z
+
+2.	2.	Mdo
+osobni	osoban	Agpmsayn
+identifikacijski	identifikacijski	Agpmsayn
+broj	broj	Ncmsan
+;	;	Z
+
+3.	3.	Mdo
+datum	datum	Ncmsan
+i	i	Cc
+mjesto	mjesto	Ncnsa
+rođenja	rođenje	Ncnsg
+;	;	Z
+
+4.	4.	Mdo
+datum	datum	Ncmsan
+pohađanja	pohađanje	Ncnsg
+stručnog	stručan	Agpnsgy
+usavršavanja	usavršavanje	Ncnsg
+;	;	Z
+
+5.	5.	Mdo
+naziv	naziv	Ncmsn
+i	i	Cc
+osobni	osoban	Agpmsny
+identifikacijski	identifikacijski	Agpmsny
+broj	broj	Ncmsn
+Nositelja	nositelj	Ncmpg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+koji	koji	Pi-mpn
+ga	on	Pp3msa
+je	biti	Var3s
+proveo	provesti	Vmp-sm
+;	;	Z
+
+6.	6.	Mdo
+broj	broj	Ncmsn
+potvrde	potvrda	Ncfsg
+,	,	Z
+datum	datum	Ncmsan
+i	i	Cc
+mjesto	mjesto	Ncnsa
+izdavanja	izdavanje	Ncnsg
+potvrde	potvrda	Ncfsg
+;	;	Z
+
+7.	7.	Mdo
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+,	,	Z
+potpis	potpis	Ncmsn
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+Nositelja	nositelj	Ncmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+i	i	Cc
+njegov	njegov	Ps3msan
+pečat	pečat	Ncmsan
+.	.	Z
+
+VII	vii	Mrc
+.	.	Z
+
+NADZOR	nadzor	Ncmsn
+NAD	nad	Si
+RADOM	rad	Ncmsi
+NOSITELJA	nositelj	Ncmsg
+PROGRAMA	program	Ncmsg
+OSPOSOBLJAVANJA	osposobljavanje	Ncnsg
+
+Nadzor	nadzor	Ncmsn
+
+Članak	članak	Ncmsn
+34.	34.	Mdo
+
+Nadzor	nadzor	Ncmsn
+nad	nad	Si
+ispunjavanjem	ispunjavanje	Ncnsi
+uvjeta	uvjet	Ncmpg
+za	za	Sa
+provođenje	provođenje	Ncnsa
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+nad	nad	Si
+Nositeljima	nositelj	Ncmpi
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+provodi	provoditi	Vmr3s
+Ministarstvo	ministarstvo	Ncnsa
+i	i	Cc
+po	po	Sl
+potrebi	potreba	Ncfsl
+poduzima	poduzimati	Vmr3s
+propisane	propisati	Agpfpay
+mjere	mjera	Ncfpa
+.	.	Z
+
+Oduzimanje	oduzimanje	Ncnsn
+suglasnosti	suglasnost	Ncfsg
+
+Članak	članak	Ncmsn
+35.	35.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Ako	ako	Cs
+Nositelj	nositelj	Ncmsn
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+prestane	prestati	Vmr3s
+ispunjavati	ispunjavati	Vmn
+neki	neki	Pi-mpn
+od	od	Sg
+uvjeta	uvjet	Ncmpg
+propisanih	propisati	Appmpgy
+ovim	ovaj	Pd-msi
+Pravilnikom	pravilnik	Ncmsi
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+mu	on	Pp3msd
+rješenjem	rješenje	Ncnsi
+oduzeti	oduzeti	Vmn
+suglasnost	suglasnost	Ncfsa
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Ako	ako	Cs
+se	sebe	Px--sa
+utvrdi	utvrditi	Vmr3s
+nepravilnost	nepravilnost	Ncfsn
+u	u	Sl
+provođenju	provođenje	Ncnsl
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+odnosno	odnosno	Rgp
+nepravilnosti	nepravilnost	Ncfpg
+u	u	Sl
+provođenju	provođenje	Ncnsl
+drugih	drugi	Mlofpg
+obaveza	obaveza	Ncfpg
+Nositelja	Nositelj	Npmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+propisanih	propisati	Appnpgy
+ovim	ovaj	Pd-msi
+Pravilnikom	pravilnik	Ncmsi
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+Nositelju	Nositelju	Npmsn
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+rješenjem	rješenje	Ncnsi
+odrediti	odrediti	Vmn
+primjereni	primjeren	Agpmsayn
+rok	rok	Ncmsan
+za	za	Sa
+otklanjanje	otklanjanje	Ncnsa
+nepravilnosti	nepravilnost	Ncfsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Ako	ako	Cs
+Nositelj	nositelj	Ncmsn
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+ne	ne	Qz
+otkloni	otkloniti	Vmr3s
+nepravilnosti	nepravilnost	Ncfpa
+iz	iz	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+u	u	Sl
+danom	dan	Agpmsly
+roku	rok	Ncmsl
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+mu	on	Pp3msd
+rješenjem	rješenje	Ncnsi
+oduzeti	oduzeti	Vmn
+suglasnost	suglasnost	Ncfsa
+za	za	Sa
+provođenje	provođenje	Ncnsa
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+VIII	viii	Mrc
+.	.	Z
+
+REGISTAR	registar	Ncmsn
+NOSITELJA	nositelj	Ncmpg
+PROGRAMA	program	Ncmsg
+OSPOSOBLJAVANJA	osposobljavanje	Ncnsg
+
+Vođenje	vođenje	Ncnsn
+Registra	registar	Ncmsg
+
+Članak	članak	Ncmsn
+36.	36.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Registar	registar	Ncmsn
+Nositelja	nositelj	Ncmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+za	za	Sa
+certificirane	certificiran	Agpmpay
+instalatere	instalater	Ncmpa
+plitkih	plitak	Agpmpgy
+geotermalnih	geotermalan	Agpmpgy
+sustava	sustav	Ncmpg
+i	i	Cc
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+ustrojava	ustrojavati	Vmr3s
+i	i	Cc
+vodi	voditi	Vmr3s
+Ministarstvo	ministarstvo	Ncnsa
+u	u	Sl
+elektroničkom	elektronički	Agpmsly
+obliku	oblik	Ncmsl
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Izvadak	izvadak	Ncmsn
+iz	iz	Sg
+Registra	registar	Ncmsg
+Nositelja	nositelj	Ncmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+za	za	Sa
+certificirane	certificiran	Agpmpay
+instalatere	instalater	Ncmpa
+plitkih	plitak	Agpmpgy
+geotermalnih	geotermalan	Agpmpgy
+sustava	sustav	Ncmpg
+i	i	Cc
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+objavljuje	objavljivati	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+službenim	služben	Agpfply
+internetskim	internetski	Agpfply
+stranicama	stranica	Ncfpl
+Ministarstva	ministarstvo	Ncnsg
+.	.	Z
+
+Sadržaj	sadržaj	Ncmsn
+Registra	registar	Ncmsg
+
+Članak	članak	Ncmsn
+37.	37.	Mdo
+
+Registar	registar	Ncmsn
+Nositelja	nositelj	Ncmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+za	za	Sa
+certificirane	certificiran	Agpmpay
+instalatere	instalater	Ncmpa
+plitkih	plitak	Agpmpgy
+geotermalnih	geotermalan	Agpmpgy
+sustava	sustav	Ncmpg
+i	i	Cc
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+naziv	naziv	Ncmsn
+i	i	Cc
+osobni	osoban	Agpmsny
+identifikacijski	identifikacijski	Agpmsny
+broj	broj	Ncmsn
+Nositelja	nositelj	Ncmpg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+;	;	Z
+
+2.	2.	Mdo
+klasifikacijski	klasifikacijski	Agpmsayn
+broj	broj	Ncmsan
+,	,	Z
+urudžbeni	urudžbeni	Agpmsayn
+broj	broj	Ncmsan
+te	te	Cc
+datum	datum	Ncmsan
+izdavanja	izdavanje	Ncnsg
+suglasnosti	suglasnost	Ncfsg
+za	za	Sa
+provođenje	provođenje	Ncnsa
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+;	;	Z
+
+3.	3.	Mdo
+adresu	adresa	Ncfsa
+sjedišta	sjedište	Ncnsg
+,	,	Z
+e-mail	e-mail	Ncmsn
+adresu	adresa	Ncfsa
+,	,	Z
+broj	broj	Ncmsan
+telefona	telefon	Ncmsg
+Nositelja	Nositelj	Npmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+;	;	Z
+
+4.	4.	Mdo
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+Nositelja	nositelj	Ncmsg
+Programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+i	i	Cc
+njezin	njezin	Ps3msn
+osobni	osoban	Agpmsny
+identifikacijski	identifikacijski	Agpmsny
+broj	broj	Ncmsn
+;	;	Z
+
+5.	5.	Mdo
+imena	ime	Ncnsg
+i	i	Cc
+prezimena	prezime	Ncnsg
+stručnih	stručan	Agpfpgy
+osoba	osoba	Ncfpg
+koje	koji	Pi-fpn
+provode	provoditi	Vmr3p
+Program	program	Ncmsan
+izobrazbe	izobrazba	Ncfsg
+i	i	Cc
+njihove	njihov	Ps3mpa
+osobne	osoban	Agpmpay
+identifikacijske	identifikacijski	Agpmpay
+brojeve	broj	Ncmpa
+;	;	Z
+
+6.	6.	Mdo
+odjeljak	odjeljak	Ncmsan
+za	za	Sa
+napomene	napomena	Ncfpa
+.	.	Z
+
+IX	IX	Mrc
+.	.	Z
+
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Članak	članak	Ncmsn
+38.	38.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+osim	osim	Sg
+članka	članak	Ncmsg
+5.	5.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+koji	koji	Pi-msn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+dana	dan	Ncmpg
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2017.	2017.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+360	360	Mdc
+-	-	Z
+01/14	01/14	Mdc
+-	-	Z
+12/12	12/12	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+531	531	Mdc
+-	-	Z
+04	04	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+41	41	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministrica	ministrica	Ncfsn
+Anka	Anka	Npfsn
+Mrak-Taritaš	Mrak-Taritaš	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+arh	arh	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1.	1.	Mdo
+
+PROGRAM	program	Ncmsn
+IZOBRAZBE	izobrazba	Ncfsg
+
+Za	za	Sa
+Program	program	Ncmsan
+izobrazbe	izobrazba	Ncfsg
+utvrđen	utvrditi	Appmsnn
+je	biti	Var3s
+sljedeći	sljedeći	Agpmsny
+sadržaj	sadržaj	Ncmsn
+u	u	Sl
+trajanju	trajanje	Ncnsl
+od	od	Sg
+40	40	Mdc
+sati	sat	Ncmpg
+¸	¸	Z
+od	od	Sg
+čega	što	Pi3n-g
+25	25	Mdc
+sati	sat	Ncmpg
+teorijskog	teorijski	Agpmsgy
+dijela	dio	Ncmsg
+nastave	nastava	Ncfsg
+i	i	Cc
+15	15	Mdc
+sati	sat	Ncmpg
+praktičnog	praktičan	Agpmsgy
+dijela	dio	Ncmsg
+nastave	nastava	Ncfsg
+:	:	Z
+
+Teorijska	teorijski	Agpfsny
+nastava	nastava	Ncfsn
+–	–	Z
+25	25	Mdc
+sati	sat	Ncmpg
+
+1.	1.	Mdo
+Uvod	uvod	Ncmsn
+–	–	Z
+Promocija	promocija	Ncfsn
+i	i	Cc
+tržište	tržište	Ncnsa
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+2.	2.	Mdo
+Zakonska	zakonski	Agpfsny
+regulativa	regulativa	Ncfsn
+i	i	Cc
+zaštita	zaštita	Ncfsn
+okoliša	okoliš	Ncmsg
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+3.	3.	Mdo
+Osnovne	osnovan	Agpfsgy
+i	i	Cc
+pomoćne	pomoćan	Agpfpay
+komponente	komponenta	Ncfpa
+,	,	Z
+te	te	Cc
+princip	princip	Ncmsn
+rada	rad	Ncmsg
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+–	–	Z
+2,5	2,5	Mdc
+sati	sat	Ncmpg
+
+–	–	Z
+Kompresijske	kompresijski	Agpfsgy
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+
+–	i	Agpfsgy
+Sorpcijske	sorpcijski	Agpfsgy
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+
+4.	4.	Mdo
+Učinkovitost	učinkovitost	Ncfsn
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	–	Agpmsny
+Toplinski	toplinski	Agpmsny
+množitelj	množitelj	Ncmsn
+i	i	Cc
+faktor	faktor	Ncmsn
+hlađenja	hlađenje	Ncnsg
+
+–	–	Agpmsny
+Sezonski	sezonski	Agpmsny
+faktor	faktor	Ncmsn
+grijanja	grijanje	Ncnsg
+–	–	Z
+SPF	SPF	Npmsn
+
+5.	5.	Mdo
+Radne	radni	Agpfsgy
+tvari	tvar	Ncfsg
+kompresijskih	kompresijski	Agpfpgy
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+–	–	Z
+1,5	1,5	Mdc
+sati	sat	Ncmpg
+
+6.	6.	Mdo
+Izvori	izvor	Ncmpn
+topline	toplina	Ncfsg
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	–	Agpmsny
+Okolišni	okolišni	Agpmsny
+zrak	zrak	Ncmsn
+kao	kao	Cs
+izvor	izvor	Ncmsn
+topline	toplina	Ncfsg
+
+–	i	Agpnsny
+Direktno	direktan	Agpnsny
+sunčevo	sunčev	Agpnsny
+zračenje	zračenje	Ncnsn
+kao	kao	Cs
+izvor	izvor	Ncmsn
+topline	toplina	Ncfsg
+–	–	Z
+solarna	solarni	Agpfsny
+dizalica	dizalica	Ncfsn
+topline	toplina	Ncfsg
+
+–	i	Agpfsny
+Morska	morski	Agpfsny
+voda	voda	Ncfsn
+kao	kao	Cs
+izvor	izvor	Ncmsn
+topline	toplina	Ncfsg
+,	,	Z
+vode	voda	Ncfsg
+potoka	potok	Ncmsg
+,	,	Z
+rijeka	rijeka	Ncfpg
+,	,	Z
+jezera	jezero	Ncnsg
+
+–	–	Pd-fpn
+Podzemne	podzeman	Agpfsgy
+vode	voda	Ncfsg
+kao	kao	Cs
+izvor	izvor	Ncmsn
+topline	toplina	Ncfsg
+
+–	i	Agpnsny
+Tlo	tlo	Ncnsn
+kao	kao	Cs
+izvor	izvor	Ncmsn
+topline	toplina	Ncfsg
+
+7.	7.	Mdo
+Geologija	geologija	Ncfsn
+tla	tlo	Ncnsg
+i	i	Cc
+toplinska	toplinski	Agpnpay
+svojstva	svojstvo	Ncnpa
+tla	tlo	Ncnsg
+–	–	Z
+2,5	2,5	Mdc
+sati	sat	Ncmpg
+
+–	i	Agpfsny
+Geologija	geologija	Ncfsn
+Zemlje	zemlja	Ncfsg
+i	i	Cc
+geotermalna	geotermalan	Agpfsny
+energija	energija	Ncfsn
+
+–	i	Agpfsny
+Klasifikacija	klasifikacija	Ncfsn
+geotermalnih	geotermalan	Agpmpgy
+izvora	izvor	Ncmpg
+
+–	–	Agpmsny
+Geotermalni	geotermalan	Agpmsny
+potencijal	potencijal	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+
+–	–	Pd-mpn
+Temperaturni	temperaturni	Agpmpny
+izvori	izvor	Ncmpn
+tla	tlo	Ncnsg
+različitih	različit	Agpfpgy
+regija	regija	Ncfpg
+
+–	i	Agpnsgy
+Toplinska	toplinski	Agpnsgy
+svojstva	svojstvo	Ncnsg
+tla	tlo	Ncnsg
+
+8.	8.	Mdo
+Sustav	sustav	Ncmsn
+distribucije	distribucija	Ncfsg
+toplinske	toplinski	Agpfsgy
+i	i	Cc
+rashladne	rashladni	Agpfsgy
+energije	energija	Ncfsg
+i	i	Cc
+hidrauličko	hidraulički	Agpnsay
+uravnoteženje	uravnoteženje	Ncnsa
+–	–	Z
+3	3	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpnsny
+Polaganje	polaganje	Ncnsn
+

@@ -1,0 +1,840 @@
+7	7	Mdc
+22.01.2016	22.01.2016	Mdo
+Odluka	odluka	Ncfsn
+kojom	koji	Pi-fsi
+se	sebe	Px--sa
+utvrđuje	utvrđivati	Vmr3s
+Lista	lista	Ncfsn
+izmiritelja	izmiritelj	Ncmpg
+Centra	centar	Ncmsg
+za	za	Sa
+mirenje	mirenje	Ncnsa
+pri	pri	Sl
+Hrvatskoj	Hrvatska	Npfsl
+komori	komora	Ncfsl
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+
+HRVATSKA	hrvatski	Agpfsny
+KOMORA	komora	Ncfsn
+INŽENJERA	inženjer	Ncmpg
+GRAĐEVINARSTVA	građevinarstvo	Ncnsg
+
+108	108	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+5.	5.	Mdo
+Statuta	statut	Ncmsg
+Hrvatske	hrvatski	Agpfsgy
+komore	komora	Ncfsg
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+132/15.	132/15.	Mds
+)	)	Z
+Skupština	skupština	Ncfsn
+Hrvatske	hrvatski	Agpfsgy
+komore	komora	Ncfsg
+inženjera	inženjer	Ncmsg
+građevinarstva	građevinarstvo	Ncnsg
+je	biti	Var3s
+na	na	Sl
+pisanoj	pisan	Agpfsly
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+od	od	Sg
+22.	22.	Mdo
+12.	12.	Mdo
+2015.	2015.	Mdo
+–	–	Z
+08.	08.	Mdo
+01.	01.	Mdo
+2016.	2016.	Mdo
+donijela	donijeti	Vmp-sf
+
+ODLUKU	odluka	Ncfsa
+
+KOJOM	koji	Pi-fsi
+SE	sebe	Px--sa
+UTVRĐUJE	utvrđivati	Vmr3s
+LISTA	lista	Ncfsn
+IZMIRITELJA	izmiritelj	Ncmpg
+CENTRA	centar	Ncmsg
+ZA	za	Sa
+MIRENJE	mirenje	Ncnsa
+PRI	pri	Sl
+HRVATSKOJ	Hrvatska	Npfsl
+KOMORI	komora	Ncfsl
+INŽENJERA	inženjer	Ncmpg
+GRAĐEVINARSTVA	građevinarstvo	Ncnsg
+
+I.	I.	Y
+
+Na	na	Sa
+listu	lista	Ncfsa
+izmiritelja	izmiritelj	Ncmpg
+Centra	centar	Ncmsg
+za	za	Sa
+mirenje	mirenje	Ncnsa
+pri	pri	Sl
+Hrvatskoj	Hrvatska	Npfsl
+komori	komora	Ncfsl
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+1.	1.	Mdo
+Mirjana	Mirjana	Npfsn
+Andres	Andres	Npfsn
+Rogović	Rogović	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+umirovljenica	umirovljenica	Ncfsn
+
+2.	2.	Mdo
+Vitomir	Vitomir	Npfsn
+Bojić	Bojić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+Županijskog	županijski	Agpmsgy
+suda	sud	Ncmsg
+,	,	Z
+Velika	velik	Agpfsny
+Gorica	gorica	Ncfsn
+
+3.	3.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Josip	Josip	Npmsn
+Bošnjak	Bošnjak	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Rencon	Rencon	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Osijek	osijek	Ncmsn
+
+4.	4.	Mdo
+Franz	Franz	Npmsn
+Brezovec	Brezovec	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+PDM	pdi	Agpnsny
+savjetovanje	savjetovanje	Ncnsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Varaždin	Varaždin	Npmsn
+
+5.	5.	Mdo
+Dejan	Dejan	Npfsn
+Bubnič	Bubnič	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+6.	6.	Mdo
+Sergej	Sergej	Npmsn
+Črnjar	Črnjar	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+7.	7.	Mdo
+Boris	Boris	Npmsn
+Čupić	Čupić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Održivi	održiv	Agpmsny
+razvoj	razvoj	Ncmsn
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+8.	8.	Mdo
+Aleksej	Aleksej	Npmsn
+Dušek	Dušek	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+umirovljenik	umirovljenik	Ncmsn
+
+9.	9.	Mdo
+Gordana	Gordana	Npfsn
+Filipović	Filipović	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predsjednika	predsjednik	Ncmsg
+Građanskog	građanski	Agpmsgy
+odjela	odjel	Ncmsg
+i	i	Cc
+voditeljica	voditeljica	Ncfsn
+Službe	služba	Ncfsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+proučavanje	proučavanje	Ncnsa
+sudske	sudski	Agpfsgy
+prakse	praksa	Ncfsg
+u	u	Sl
+građanskim	građanski	Agpmply
+predmetima	predmet	Ncmpl
+Županijskog	županijski	Agpmsgy
+suda	sud	Ncmsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+
+10.	10.	Mdo
+
+Ana	Ana	Npfsn
+Gradišek	Gradišek	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+Građanskog	građanski	Agpmsgy
+odjela	odjel	Ncmsg
+Županijskog	županijski	Agpmsgy
+suda	sud	Ncmsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+
+11.	11.	Mdo
+
+Nebojša	Nebojša	Npfsn
+Grzunov	Grzunov	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+12.	12.	Mdo
+
+Miljenka	Miljenka	Npfsn
+Horvat	Horvat	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Tehnika	tehnika	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+13.	13.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Dražen	Dražen	Npfsn
+Jakovina	Jakovina	Npfsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predsjednika	predsjednik	Ncmsg
+Županijskog	županijski	Agpmsgy
+suda	sud	Ncmsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+i	i	Cc
+predsjednik	predsjednik	Ncmsn
+Građanskog	građanski	Agpmsgy
+odjela	odjel	Ncmsg
+
+14.	14.	Mdo
+
+Miro	Miro	Npmsn
+Jukić	Jukić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Zagrebačka	zagrebački	Agpfsny
+županija	županija	Ncfsn
+,	,	Z
+gradski	gradski	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+izgradnju	izgradnja	Ncfsa
+grada	grad	Ncmsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+15.	15.	Mdo
+
+Suzana	Suzana	Npfsn
+Kolesar	Kolesar	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Tajništvo	tajništvo	Ncnsn
+Suda	sud	Ncmsg
+časti	čast	Ncfsg
+HOK-a	HOK	Npmsg
+,	,	Z
+Arbitraže	arbitraža	Ncfsg
+i	i	Cc
+Centra	centar	Ncmsg
+za	za	Sa
+mirenje	mirenje	Ncnsa
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+16.	16.	Mdo
+
+Renata	renat	Agpfsny
+Košir	Košir	Npfsn
+Skračić	Skračić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Općinski	općinski	Agpmsny
+građanski	građanski	Agpmsny
+sud	sud	Ncmsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+17.	17.	Mdo
+
+Neven	neven	Ncmsn
+Kralj	kralj	Ncmsn
+,	,	Z
+dipl.	dipl.	Y
+rud	rud	Ncmsan
+.	.	Z
+,	,	Z
+Geotehnički	geotehnički	Agpmsny
+studio	studio	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+18.	18.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Stjepan	Stjepan	Npmsn
+Kralj	kralj	Ncmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+19.	19.	Mdo
+
+Željko	Željko	Npmsn
+Krstičević	Krstičević	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Dal-kon	Dal-kon	Npmsn
+ing.	ing.	Y
+d.o.o.	d.o.o.	Y
+,	,	Z
+Split	Split	Npmsn
+
+20.	20.	Mdo
+
+Božidar	Božidar	Npmsn
+Krstić	Krstić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+geol	geol	Ncmsan
+.	.	Z
+,	,	Z
+Karst	Karst	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+21.	21.	Mdo
+
+Srđan	Srđan	Npmsn
+Lašić	Lašić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Projektni	projektni	Agpmsny
+biro	biro	Ncmsn
+Split	Split	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Split	Split	Npmsn
+
+22.	22.	Mdo
+
+Neven	neven	Ncmsn
+Martinec	Martinec	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+23.	23.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Vjeran	Vjeran	Npmsn
+Mlinarić	Mlinarić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Sveučilište	sveučilište	Ncnsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Građevinski	građevinski	Agpmsayn
+fakultet	fakultet	Ncmsan
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+24.	24.	Mdo
+
+Marko	Marko	Npmsn
+Novak	Novak	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Ured	ured	Ncmsn
+ovlaštenog	ovlašten	Agpmsgy
+inženjera	inženjer	Ncmsg
+građevinarstva	građevinarstvo	Ncnsg
+Marko	Marko	Npmsn
+Novak	Novak	Npmsn
+,	,	Z
+Požega	Požega	Npmsn
+
+25.	25.	Mdo
+
+Ivan	Ivan	Npmsn
+Paska	paska	Ncfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Connecto	connecto	Aspmsnn
+projekt	projekt	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Varaždin	Varaždin	Npmsn
+
+26.	26.	Mdo
+
+Vesna	Vesna	Npfsn
+Pavličević	Pavličević	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Odvjetnički	odvjetnički	Agpmsny
+ured	ured	Ncmsn
+Vesna	Vesna	Npfsn
+Pavličević	Pavličević	Npfsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+27.	27.	Mdo
+
+Branko	Branko	Npmsn
+Pejaković	Pejaković	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+umirovljenik	umirovljenik	Ncmsn
+
+28.	28.	Mdo
+
+Andrino	Andrino	Npmsn
+Petković	Petković	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Hrvatske	hrvatski	Agpfsgy
+vode	voda	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+29.	29.	Mdo
+
+Branko	Branko	Npmsn
+Poljanić	Poljanić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+B.	B.	Y
+P.	P.	Y
+Poslovno	poslovan	Agpnsny
+savjetovanje	savjetovanje	Ncnsn
+d.o.o.	d.o.oi	Agpnsny
+,	,	Z
+Split	Split	Npmsn
+
+30.	30.	Mdo
+
+Siniša	Siniša	Npfsn
+Radaković	Radaković	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Exstructa	Exstruct	Npmsg
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+31.	31.	Mdo
+
+Marijan	Marijan	Npmsn
+Ricov	Ricov	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Vodovod	vodovod	Ncmsn
+i	i	Cc
+kanalizacija	kanalizacija	Ncfsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Split	Split	Npmsn
+
+32.	32.	Mdo
+
+Sunčana	sunčan	Agpfsny
+Rupić	Rupić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+glavna	glavni	Agpfsny
+tajnica	tajnica	Ncfsn
+Hrvatske	hrvatski	Agpfsgy
+komore	komora	Ncfsg
+inženjera	inženjer	Ncmsg
+građevinarstva	građevinarstvo	Ncnsg
+
+33.	33.	Mdo
+
+Zvonimir	Zvonimir	Npmsn
+Sever	Sever	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+Hrvatske	Hrvatska	Npfsg
+komora	komora	Ncfsn
+inženjera	inženjer	Ncmsg
+građevinarstva	građevinarstvo	Ncnsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+34.	34.	Mdo
+
+Željko	Željko	Npmsn
+Sokolić	Sokolić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Geotehnički	geotehnički	Agpmsny
+studio	studio	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+35.	35.	Mdo
+
+Zlatko	Zlatko	Npmsn
+Šavor	Šavor	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Sveučilište	sveučilište	Ncnsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Građevinski	građevinski	Agpmsayn
+fakultet	fakultet	Ncmsan
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+36.	36.	Mdo
+
+Srđan	Srđan	Npmsn
+Šimac	Šimac	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Visoki	visok	Agpmsny
+trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+37.	37.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Miroslav	Miroslav	Npmsn
+Šimun	Šimun	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Institut	institut	Ncmsn
+IGH	IGH	Npfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+38.	38.	Mdo
+
+Josip	Josip	Npmsn
+Špoljarić	Špoljarić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Gradnja	gradnja	Ncfsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Osijek	osijek	Ncmsn
+
+39.	39.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Željko	Željko	Npmsn
+Štromar	Štromar	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Hrvatska	hrvatski	Agpfsny
+elektroprivreda	elektroprivreda	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+40.	40.	Mdo
+
+Martina	Martina	Npfsn
+Tomašević	Tomašević	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Eurco	Eurco	Npmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Vinkovci	Vinkovc	Npmpn
+
+41.	41.	Mdo
+
+Daria	Daria	Npfsn
+Tonai	Tonai	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Geotehnički	geotehnički	Agpmsny
+studio	studio	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+42.	42.	Mdo
+
+Jakov	Jakov	Npmsn
+Vidović	Vidović	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Brod	brod	Ncmsn
+projekt	projekt	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Slavonski	slavonski	Agpmsny
+Brod	brod	Ncmsn
+
+43.	43.	Mdo
+
+Jurica	Jurica	Npmsn
+Vrdoljak	Vrdoljak	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Eurodom	Eurodom	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Osijek	osijek	Ncmsn
+
+44.	44.	Mdo
+
+Damir	Damir	Npmsn
+Vrselja	Vrselja	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Swietelsky	Swietelsky	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+45.	45.	Mdo
+
+Dragutin	Dragutin	Npmsn
+Vujić	Vujić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+umirovljenik	umirovljenik	Ncmsn
+
+46.	46.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Ivica	Ivica	Npmsn
+Završki	Završki	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+Sveučilište	sveučilište	Ncnsn
+u	u	Sl
+

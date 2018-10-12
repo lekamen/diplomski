@@ -1,0 +1,801 @@
+projekcija	projekcija	Ncfsn
+financijskih	financijski	Agpnpgy
+izvješća	izvješće	Ncnpg
+;	;	Z
+
+–		Agpfpgy
+analiza	analiza	Ncfpg
+likvidnosti	likvidnost	Ncfsg
+projekta	projekt	Ncmsg
+;	;	Z
+
+–		Agpfpgy
+analiza	analiza	Ncfpg
+profitabilnosti	profitabilnost	Ncfsg
+;	;	Z
+
+–		Agpfpgy
+analiza	analiza	Ncfpg
+pokrića	pokriće	Ncnsg
+izvora	izvor	Ncmpg
+financiranja	financiranje	Ncnsg
+projekta	projekt	Ncmsg
+;	;	Z
+
+15.	15.	Mdo
+izračun	izračun	Ncmsan
+i	i	Cc
+grafički	grafički	Agpmsayn
+prikaz	prikaz	Ncmsan
+očekivane	očekivati	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+za	za	Sa
+novac	novac	Ncmsan
+;	;	Z
+
+16.	16.	Mdo
+determinističku	deterministički	Agpfsay
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+stohastičku	stohastički	Agpfsay
+analizu	analiza	Ncfsa
+osjetljivosti	osjetljivost	Ncfsg
+;	;	Z
+«	«	Z
+.	.	Z
+
+Iza	iza	Sg
+točke	točka	Ncfsg
+16.	16.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+točka	točka	Ncfsn
+17.	17.	Mdo
+koja	koji	Pi-fsn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+17.	17.	Mdo
+zaključnu	zaključni	Agpfsay
+ocjenu	ocjena	Ncfsa
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+6.	6.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+javno-privatno	javno-privatan	Agpnsny
+partnerstvo	partnerstvo	Ncnsn
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+investicije	investicija	Ncfpa
+i	i	Cc
+konkurentnost	konkurentnost	Ncfsa
+«	«	Z
+.	.	Z
+
+U	u	Sl
+točki	točka	Ncfsl
+2.	2.	Mdo
+riječi	riječ	Ncfpg
+:	:	Z
+»	»	Z
+ili	ili	Cc
+će	htjeti	Var3s
+pravovremeno	pravovremeno	Rgp
+biti	biti	Van
+riješeni	riješiti	Appmpny
+«	«	Z
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+7.	7.	Mdo
+alineji	alineja	Ncfsl
+3.	3.	Mdo
+iza	iza	Sg
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+rizika	rizik	Ncmsg
+«	«	Z
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+riječi	riječ	Ncfpn
+:	:	Z
+»	»	Z
+neusklađenu	neusklađen	Agpfsay
+s	sa	Si
+promjenom	promjena	Ncfsi
+naknade	naknada	Ncfsg
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+9.	9.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+8.	8.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+ako	ako	Cs
+se	sebe	Px--sa
+u	u	Sa
+svrhu	svrha	Ncfsa
+provedbe	provedba	Ncfsg
+projekta	projekt	Ncmsg
+JPP-a	JPP	Npmsg
+zasniva	zasnivati	Vmr3s
+ili	ili	Cc
+prenosi	prenositi	Vmr3s
+pravo	pravo	Ncnsa
+građenja	građenje	Ncnsg
+«	«	Z
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+U	u	Sl
+stavku	stavak	Ncmsl
+2.	2.	Mdo
+ispred	ispred	Sg
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+ukupnih	ukupan	Agpmpgy
+«	«	Z
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+riječi	riječ	Ncfpn
+:	:	Z
+»	»	Z
+naknade	naknada	Ncfsg
+,	,	Z
+koja	koji	Pi-fsn
+proizlazi	proizlaziti	Vmr3s
+iz	iz	Sg
+izračuna	izračun	Ncmsg
+«	«	Z
+.	.	Z
+
+U	u	Sl
+stavku	stavak	Ncmsl
+3.	3.	Mdo
+iza	iza	Sg
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+JPP-a	JPP	Npmsg
+«	«	Z
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+zarez	zarez	Ncmsn
+i	i	Cc
+riječi	riječ	Ncfpn
+:	:	Z
+»	»	Z
+koji	koji	Pi-mpn
+nastanu	nastati	Vmr3p
+prije	prije	Sg
+sklapanja	sklapanje	Ncnsg
+ugovora	ugovor	Ncmsg
+o	o	Sl
+JPP-u	JPP	Npmsl
+,	,	Z
+«	«	Z
+.	.	Z
+
+U	u	Sl
+stavku	stavak	Ncmsl
+5.	5.	Mdo
+točka	točka	Ncfsn
+a	a	Cc
+)	)	Z
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+a	a	Cc
+)	)	Z
+sadašnju	sadašnji	Agpfsay
+vrijednost	vrijednost	Ncfsa
+naknade	naknada	Ncfsg
+koja	koji	Pi-fsn
+proizlazi	proizlaziti	Vmr3s
+iz	iz	Sg
+izračuna	izračun	Ncmsg
+ukupnih	ukupan	Agpmpgy
+životnih	životan	Agpmpgy
+troškova	trošak	Ncmpg
+u	u	Sl
+ugovorenom	ugovoriti	Agpnsly
+razdoblju	razdoblje	Ncnsl
+.	.	Z
+«	«	Z
+.	.	Z
+
+Točka	točka	Ncfsn
+b	b	X
+)	)	Z
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Iza	iza	Sg
+stavka	stavak	Ncmsg
+5.	5.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+novi	nov	Agpmsny
+stavak	stavak	Ncmsn
+6.	6.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+(	(	Z
+6	6	Mdc
+)	)	Z
+U	u	Sl
+postupku	postupak	Ncmsl
+odabira	odabir	Ncmsg
+privatnog	privatan	Agpmsgy
+partnera	partner	Ncmsg
+u	u	Sl
+projektima	projekt	Ncmpl
+JPP-a	jp	Agcfsgy
+male	mali	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+,	,	Z
+javno	javan	Agpnsny
+tijelo	tijelo	Ncnsn
+,	,	Z
+uz	uz	Sa
+kriterij	kriterij	Ncmsan
+iz	iz	Sg
+stavka	stavak	Ncmsg
+5.	5.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+,	,	Z
+mora	morati	Vmr3s
+koristiti	koristiti	Vmn
+i	i	Cc
+najmanje	malo	Rgs
+jedan	jedan	Mlcmsn
+od	od	Sg
+sljedećih	sljedeći	Agpmpgy
+kriterija	kriterij	Ncmpg
+:	:	Z
+
+a	a	Cc
+)	)	Z
+smanjenje	smanjenje	Ncnsn
+ukupne	ukupan	Agpfsgy
+instalirane	instaliran	Agpfsgy
+snage	snaga	Ncfsg
+,	,	Z
+
+b	b	Npmsn
+)	)	Z
+smanjenje	smanjenje	Ncnsa
+utroška	utrošak	Ncmsg
+,	,	Z
+ili	ili	Cc
+
+c	C	Npmsn
+)	)	Z
+smanjenje	smanjenje	Ncnsa
+troška	trošak	Ncmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+U	u	Sl
+dosadašnjem	dosadašnji	Agpmsly
+stavku	stavak	Ncmsl
+6.	6.	Mdo
+koji	koji	Pi-msn
+postaje	postajati	Vmr3s
+stavak	stavak	Ncmsan
+7.	7.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+životnih	životan	Agpmpgy
+troškova	trošak	Ncmpg
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječju	riječ	Ncfsi
+:	:	Z
+»	»	Z
+naknada	naknada	Ncfsn
+«	«	Z
+.	.	Z
+
+Dosadašnji	dosadašnji	Agpmsny
+stavak	stavak	Ncmsn
+7.	7.	Mdo
+postaje	postajati	Vmr3s
+stavak	stavak	Ncmsan
+8.	8.	Mdo
+
+Članak	članak	Ncmsn
+10.	10.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+9.	9.	Mdo
+stavku	stavak	Ncmsl
+4.	4.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+javno-privatno	javno-privatan	Agpnsny
+partnerstvo	partnerstvo	Ncnsn
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+investicije	investicija	Ncfpa
+i	i	Cc
+konkurentnost	konkurentnost	Ncfsa
+«	«	Z
+,	,	Z
+a	a	Cc
+riječi	riječ	Ncfpa
+:	:	Z
+»	»	Z
+koja	koji	Pi-fsn
+vrijedi	vrijediti	Vmr3s
+šest	šest	Mlc
+mjeseci	mjesec	Ncmpg
+od	od	Sg
+dana	dan	Ncmpg
+objave	objava	Ncfsg
+«	«	Z
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+11.	11.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+10.	10.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+javno-privatno	javno-privatan	Agpnsny
+partnerstvo	partnerstvo	Ncnsn
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+investicije	investicija	Ncfpa
+i	i	Cc
+konkurentnost	konkurentnost	Ncfsa
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+11.	11.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+točke	točka	Ncfsg
+5.	5.	Mdo
+i	i	Cc
+6.	6.	Mdo
+mijenjaju	mijenjati	Vmr3p
+se	sebe	Px--sa
+i	i	Cc
+glase	glasiti	Vmr3p
+:	:	Z
+
+»	»	Z
+5.	5.	Mdo
+umanjenjima	umanjenje	Ncnpi
+plaćanja	plaćanje	Ncnsg
+,	,	Z
+
+6.	6.	Mdo
+ostalim	ostali	Agpfpiy
+napomenama	napomena	Ncfpi
+.	.	Z
+«	«	Z
+.	.	Z
+
+Točka	točka	Ncfsn
+7.	7.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+13.	13.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+12.	12.	Mdo
+naziv	naziv	Ncmsn
+Priloga	prilog	Ncmsg
+III	III	Mrc
+.	.	Z
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Prilog	prilog	Ncmsn
+III	III	Mrc
+.	.	Z
+–	–	Z
+Obrazac	obrazac	Ncmsn
+za	za	Sa
+dostavu	dostava	Ncfsa
+Izvješća	izvješće	Ncnsg
+o	o	Sl
+provedbi	provedba	Ncfsl
+projekta	projekt	Ncmsg
+JPP-a	JPP	Npmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Iza	iza	Sg
+Priloga	prilog	Ncmsg
+III	III	Mrc
+.	.	Z
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+Prilog	prilog	Ncmsn
+IV	IV	Mrc
+.	.	Z
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Prilog	prilog	Ncmsn
+IV	IV	Mrc
+.	.	Z
+–	–	Z
+Obrazac	obrazac	Ncmsn
+za	za	Sa
+izračun	izračun	Ncmsan
+mogućnosti	mogućnost	Ncfsg
+preuzimanja	preuzimanje	Ncnsg
+dugoročnih	dugoročan	Agpfpgy
+obveza	obveza	Ncfpg
+u	u	Sl
+projektu	projekt	Ncmsl
+JPP-a	jpp-	Ncmsg
+male	mali	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+14.	14.	Mdo
+
+Sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+ove	ovaj	Pd-fsg
+Uredbe	uredba	Ncfsg
+jesu	biti	Var3p
+:	:	Z
+
+Prilog	prilog	Ncmsn
+III	III	Mrc
+.	.	Z
+–	–	Z
+Obrazac	obrazac	Ncmsn
+za	za	Sa
+dostavu	dostava	Ncfsa
+Izvješća	izvješće	Ncnsg
+o	o	Sl
+provedbi	provedba	Ncfsl
+projekta	projekt	Ncmsg
+JPP-a	JPP	Npmsg
+,	,	Z
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+zamjenjuje	zamjenjivati	Vmr3s
+dosadašnji	dosadašnji	Agpmsny
+Prilog	prilog	Ncmsn
+III	III	Mrc
+.	.	Z
+–	–	Z
+Obrazac	obrazac	Ncmsn
+izvješća	izvješće	Ncnsg
+o	o	Sl
+provedbi	provedba	Ncfsl
+projekta	projekt	Ncmsg
+javno-privatnog	javno-privatan	Agpnsgy
+partnerstva	partnerstvo	Ncnsg
+.	.	Z
+
+Prilog	prilog	Ncmsn
+IV	IV	Mrc
+.	.	Z
+–	–	Z
+Obrazac	obrazac	Ncmsn
+za	za	Sa
+izračun	izračun	Ncmsan
+mogućnosti	mogućnost	Ncfsg
+preuzimanja	preuzimanje	Ncnsg
+dugoročnih	dugoročan	Agpfpgy
+obveza	obveza	Ncfpg
+u	u	Sl
+projektu	projekt	Ncmsl
+JPP-a	jpp-	Ncmsg
+male	mali	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+15.	15.	Mdo
+
+Svi	sav	Agpmpny
+postupci	postupak	Ncmpn
+započeti	započeti	Vmn
+do	do	Sg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ove	ovaj	Pd-fsg
+Uredbe	uredba	Ncfsg
+,	,	Z
+dovršit	dovršiti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+po	po	Sl
+odredbama	odredba	Ncfpl
+Uredbe	uredba	Ncfsg
+o	o	Sl
+provedbi	provedba	Ncfsl
+projekata	projekat	Ncmpg
+javno-privatnog	javno-privatan	Agpnsgy
+partnerstva	partnerstvo	Ncnsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+88/2012	88/2012	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+16.	16.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/10	03/10	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/16	05/16	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+III	III	Mrc
+.	.	Z
+
+Obrazac	obrazac	Ncmsn
+za	za	Sa
+dostavu	dostava	Ncfsa
+Izvješća	izvješće	Ncnsg
+o	o	Sl
+provedbi	provedba	Ncfsl
+projekta	projekt	Ncmsg
+JPP-a	JPP	Npmsg
+
+Za	za	Sa
+razdoblje	razdoblje	Ncnsa
+od_______	od______i	Agpfsgy
+do_________	do________i	Agpfsgy
+godine1	godinea	Ncfsg
+
+1.	1.	Mdo
+PROJEKT	projekt	Ncmsn
+:	:	Z
+1.1.	1.1.	Mds
+
+PREDMET	predmet	Ncmsn
+1.2.	1.2.	Mds
+
+NAZIV	naziv	Ncmsn
+1.3.	1.3.	Mds
+
+TRAJANJE	trajanje	Ncnsn
+UGOVORA	ugovor	Ncmsg
+1.4.	1.4.	Mds
+
+PREOSTALO	preostao	Agpnsny
+VRIJEME	vrijeme	Ncnsn
+DO	do	Sg
+ISTEKA	istek	Ncmsg
+UGOVORA	ugovor	Ncmsg
+2.	2.	Mdo
+JAVNI	javan	Agpmsny
+PARTNER	partner	Ncmsn
+:	:	Z
+2.1.	2.1.	Mds
+
+NAZIV	naziv	Ncmsn
+2.2.	2.2.	Mds
+
+ADRESA	adresa	Ncfsn
+2.3.	2.3.	Mds
+
+OIB	oii	Agpnsny
+,	,	Z
+MB	MB	Npmsn
+2.4.	2.4.	Mds
+
+KONTAKT	kontakt	Ncmsn
+OSOBA	osoba	Ncfsn
+2.5.	2.5.	Mds
+
+TELEFON	telefon	Ncmsn
+,	,	Z
+E-MAIL	e-mail	Ncmsn
+ADRESA	adresa	Ncfsn
+3.	3.	Mdo
+PRIVATNI	privatan	Agpmsny
+PARTNER	partner	Ncmsn
+:	:	Z
+3.1.	3.1.	Mds
+
+NAZIV	naziv	Ncmsn
+3.2.	3.2.	Mds
+
+ADRESA	adresa	Ncfsn
+3.3.	3.3.	Mds
+
+OIB	oii	Agpnsny
+,	,	Z
+MB	MB	Npmsn
+3.4.	3.4.	Mds
+
+KONTAKT	kontakt	Ncmsn
+OSOBA	osoba	Ncfsn
+3.5.	3.5.	Mds
+
+TELEFON	telefon	Ncmsn
+,	,	Z
+E-MAIL	e-mail	Ncmsn
+ADRESA	adresa	Ncfsn
+4.	4.	Mdo
+UGOVORENA	ugovoriti	Appfsny
+NAKNADA	naknada	Ncfsn
+:	:	Z
+4.1.	4.1.	Mds
+
+UGOVORENA	ugovoriti	Appfsny
+NAKNADA	naknada	Ncfsn
+RAZDOBLJA2	razdobljai	Agpfsgy
+4.2.	4.2a	Ncfsg
+
+USKLAĐENA	uskladiti	Appfsny
+NAKNADA	naknada	Ncfsn
+RAZDOBLJA3	razdobljai	Agpfsgy
+4.3.	4.3a	Ncfsg
+
+ISPLAĆENA	isplatiti	Appfsny
+NAKNADA	naknada	Ncfsn
+RAZDOBLJA4	RAZDOBLJA4	Mdc
+5.	5.	Mdo
+UMANJENJA	umanjenje	Ncnsg
+PLAĆANJA	plaćanje	Ncnsg
+5.1.	5.1.	Mds
+
+Razlozi	razlog	Ncmpn
+umanjenja	umanjenje	Ncnsg
+naknade	naknada	Ncfsg
+:	:	Z
+6.	6.	Mdo
+OSTALE	ostali	Agpfpay
+NAPOMENE	napomena	Ncfpa
+:	:	Z
+
+_________________________________	_________________________________	Agpmsny
+Datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+izrade	izrada	Ncfsg
+Izvješća	izvješće	Ncnsg
+
+JAVNI	javan	Agpmsny
+PARTNER	partner	Ncmsn
+:	:	Z
+PRIVATNI	privatan	Agpmsny
+PARTNER	partner	Ncmsn
+:	:	Z
+
+___________________	___________________	Agpmsny
+_____________________	_____________________	Agpmsny
+Potpis	potpis	Ncmsn
+,	,	Z
+

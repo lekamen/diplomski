@@ -1,0 +1,158 @@
+perforacije	perforacija	Ncfpa
+za	za	Sa
+vijke	vijak	Ncmpa
+.	.	Z
+
+2.2.	2.2.	Mdo
+
+Ambalaža	ambalaža	Ncfsn
+:	:	Z
+
+–	–	Z
+kutija	kutija	Ncfsn
+s	sa	Si
+bijelom	bijel	Agpfsiy
+presvlakom	presvlaka	Ncfsi
+iz	iz	Sg
+mikrovala	mikroval	Ncmsg
+BS	BS	Npmsn
+/	/	Z
+E	e	Y
+(	(	Z
+s	sa	Si
+odvojivim	odvojiv	Agpmsiy
+dijelom	dio	Ncmsi
+za	za	Sa
+dodatnu	dodatan	Agpfsay
+opremu	oprema	Ncfsa
+)	)	Z
+,	,	Z
+
+–	–	Agpmsny
+uložak	uložak	Ncmsn
+iz	iz	Sg
+valovite	valovit	Agpfsgy
+ljepenke	ljepenka	Ncfsg
+PK2S	PK2S	Npmsn
+.	.	Z
+
+2.3.	2.3.	Mdo
+
+Set	set	Ncmsn
+za	za	Sa
+montažu	montaža	Ncfsa
+ploča	ploča	Ncfpg
+u	u	Sl
+PVC	PV	Npmsl
+vrećici	vrećica	Ncfsl
+:	:	Z
+
+–	–	Npfsn
+PVC	PVC	Npfsn
+tipla	tipti	Vmp-sf
+–	–	Z
+4	4	Mdc
+komada	komad	Ncmpg
+,	,	Z
+
+–	–	Pq3n-n
+vijak	vijak	Ncmsan
+s	sa	Si
+dvostrukim	dvostruk	Agpmsiy
+navojem	navoj	Ncmsi
+niklan	niklan	Agpmpgy
+,	,	Z
+M	m	Y
+6	6	Mdc
+x55	x55	Mdc
+–	–	Z
+4	4	Mdc
+komada	komad	Ncmpg
+,	,	Z
+
+–	–	Z
+šesterokutna	šesterokutan	Agpfsny
+ukrasna	ukrasni	Agpfsny
+matica	matica	Ncfsn
+–	i	Agpfsny
+površina	površina	Ncfsn
+presvučena	presvući	Appfsny
+niklom	nikal	Ncmsi
+(	(	Z
+DIN	din	Ncmsn
+1587	1587	Mdc
+)	)	Z
+–	–	Z
+4	4	Mdc
+komada	komad	Ncmpg
+,	,	Z
+
+–	–	Z
+distanceri	distancer	Ncmpn
+od	od	Sg
+cjevastog	cjevast	Agpmsgy
+prozirnog	proziran	Agpmsgy
+akrila	akril	Ncmsg
+visine	visina	Ncfsg
+1	1	Mdc
+cm	cm	Y
+–	–	Z
+4	4	Mdc
+komada	komad	Ncmpg
+,	,	Z
+
+–	–	Z
+ključ	ključ	Ncmsan
+za	za	Sa
+montažu	montaža	Ncfsa
+iz	iz	Sg
+nehrđajućeg	nehrđajući	Agpmsgy
+čelika	čelik	Ncmsg
+–	–	Z
+1	1	Mdc
+komad	komad	Ncmsan
+,	,	Z
+
+–		Agpfpgy
+uputa	uputa	Ncfpg
+za	za	Sa
+montažu	montaža	Ncfsa
+,	,	Z
+
+–	–	Agpmsny
+jamstveni	jamstveni	Agpmsny
+list	list	Ncmsn
+s	sa	Si
+rokom	rok	Ncmsi
+jamstva	jamstvo	Ncnsg
+od	od	Sg
+osam	osam	Mlc
+godina	godina	Ncfpg
+.	.	Z
+
+2.4.	2.4.	Mdo
+
+Montaža	montaža	Ncfsn
+:	:	Z
+
+–	i	Agpfsny
+montaža	montaža	Ncfsn
+se	sebe	Px--sa
+vrši	vršiti	Vmr3s
+uz	uz	Sa
+pomoć	pomoć	Ncfsa
+opreme	oprema	Ncfsg
+iz	iz	Sg
+točke	točka	Ncfsg
+2.	2.	Mdo
+3.	3.	Mdo
+ovog	ovaj	Pd-msg
+Priloga	prilog	Ncmsg
+s	sa	Si
+distancerima	distancer	Ncmpi
+između	između	Sg
+ploče	ploča	Ncfsg
+i	i	Cc
+podloge	podloga	Ncfsg
+.	.	Z
+

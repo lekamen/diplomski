@@ -1,0 +1,130 @@
+47	47	Mdc
+20.05.2016	20.05.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+Izvršnog	izvršan	Agpmsgy
+odbora	odbor	Ncmsg
+Nacionalne	nacionalan	Agpfsgy
+grupe	grupa	Ncfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+pri	pri	Sl
+Interparlamentarnoj	interparlamentaran	Agpfsly
+uniji	unija	Ncfsl
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+1202	1202	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+13.	13.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+IZVRŠNOG	izvršan	Agpmsgy
+ODBORA	odbor	Ncmsg
+NACIONALNE	nacionalan	Agpfsgy
+GRUPE	grupa	Ncfsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+PRI	pri	Sl
+INTERPARLAMENTARNOJ	interparlamentaran	Agpfsly
+UNIJI	unija	Ncfsl
+
+U	u	Sa
+Izvršni	izvršan	Agpmsayn
+odbor	odbor	Ncmsan
+Nacionalne	nacionalan	Agpfsgy
+grupe	grupa	Ncfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+pri	pri	Sl
+Interparlamentarnoj	interparlamentaran	Agpfsly
+uniji	unija	Ncfsl
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+predsjednicu	predsjednica	Ncfsa
+
+TANJA	Tanja	Npfsn
+VRBAT	VRBAT	Npfsn
+GRGIĆ	Grgić	Npfsn
+
+za	za	Sa
+potpredsjednicu	potpredsjednica	Ncfsa
+
+JASNA	Jasna	Npfsn
+MATULIĆ	MATULIĆ	Npfsn
+
+za	za	Sa
+članove	član	Ncmpa
+
+IVAN	Ivan	Npmsn
+ŠIPIĆ	ŠIPIĆ	Npmsn
+
+LJUBICA	ljubica	Ncfsn
+MAKSIMČUK	MAKSIMČUK	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+GORDANA	GORDANA	Npfsn
+RUSAK	RUSAK	Npfsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+VESNA	VESNA	Npfsn
+PUSIĆ	Pusić	Npfsn
+
+MIRANDO	MIRANDO	Npmsn
+MRSIĆ	MRSIĆ	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+04/08	04/08	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

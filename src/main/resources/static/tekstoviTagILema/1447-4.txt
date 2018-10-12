@@ -1,0 +1,628 @@
+radionica	radionica	Ncfsn
+servisa	servis	Ncmsg
+sa	sa	Si
+Stanicom	stanica	Ncfsi
+za	za	Sa
+tehnički	tehnički	Agpmsayn
+pregled	pregled	Ncmsan
+vozila	vozilo	Ncnsg
+14	14	Mdc
+7.2.6.3.3.1.	7.2.6.3.3.1.	Mds
+
+Pododsjek	pododsjek	Ncmsn
+održavanja	održavanje	Ncnsg
+i	i	Cc
+radno-terapijska	radno-terapijski	Agpfsny
+radionica	radionica	Ncfsn
+12	12	Mdc
+7.2.6.4.	7.2.6.4.	Y
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+28	28	Mdc
+7.2.7.	7.2.7.	Y
+
+Zatvorska	zatvorski	Agpfsny
+bolnica	bolnica	Ncfsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+185	185	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Kaznionici	kaznionica	Ncfsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+3	3	Mdc
+7.2.7.1.	7.2.7.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+16	16	Mdc
+7.2.7.1.1.	7.2.7.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+7	7	Mdc
+7.2.7.2.	7.2.7.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+11	11	Mdc
+7.2.7.3.	7.2.7.3.	Y
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+66	66	Mdc
+7.2.7.4.	7.2.7.4.	Y
+
+Odjel	odjel	Ncmsn
+radiologije	radiologija	Ncfsg
+5	5	Mdc
+7.2.7.5.	7.2.7.5.	Mdo
+
+Odjel	odjel	Ncmsn
+hematološko-biokemijskog	hematološko-biokemijski	Agpmsgy
+laboratorija	laboratorij	Ncmsg
+5	5	Mdc
+7.2.7.6.	7.2.7.6a	Ncfsg
+
+Odjel	odjel	Ncmsn
+bolničke	bolnički	Agpfsgy
+ljekarne	ljekarna	Ncfsg
+23	23	Mdc
+7.2.7.6.1.	7.2.7.6.1.	Mdo
+
+Pododsjek	pododsjek	Ncmsn
+glavnog	glavni	Agpmsgy
+medicinskog	medicinski	Agpmsgy
+tehničara	tehničar	Ncmsg
+/	/	Z
+sestre	sestra	Ncfsg
+19	19	Mdc
+7.2.7.7.	7.2.7.7.	Mdo
+
+Odjel	odjel	Ncmsn
+kirurgije	kirurgija	Ncfsg
+9	9	Mdc
+7.2.7.8.	7.2.7.8.	Mdo
+
+Odjel	odjel	Ncmsn
+interne	interni	Agpfsgy
+9	9	Mdc
+7.2.7.9	7.2.7.9	Agpmsny
+Odjel	odjel	Ncmsn
+plućnih	plućni	Agpfpgy
+i	i	Cc
+zaraznih	zarazan	Agpfpgy
+bolesti	bolest	Ncfpg
+8	8	Mdc
+7.2.7.10.	7.2.7.10.	Mdo
+
+Odjel	odjel	Ncmsn
+psihijatrije	psihijatrija	Ncfsg
+10	10	Mdc
+7.2.7.11.	7.2.7.11.	Mdo
+
+Odjel	odjel	Ncmsn
+forenzične	forenzičan	Agpfsgy
+psihijatrije	psihijatrija	Ncfsg
+9	9	Mdc
+7.2.7.12.	7.2.7.12.	Mdo
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+11	11	Mdc
+7.2.8.	7.2.8.	Y
+
+Kaznionica	kaznionica	Ncfsn
+i	i	Cc
+zatvor	zatvor	Ncmsan
+u	u	Sl
+Šibeniku	Šibenik	Npmsl
+607	607	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Kaznionici	kaznionica	Ncfsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+5	5	Mdc
+7.2.8.1.	7.2.8.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+35	35	Mdc
+7.2.8.1.1.	7.2.8.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+17	17	Mdc
+7.2.8.2.	7.2.8.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmpg
+u	u	Sl
+zatvoru	zatvor	Ncmsl
+11	11	Mdc
+7.2.8.2.1.	7.2.8.2.1.	Mds
+
+Odsjek	odsjek	Ncmsn
+prijama	prijam	Ncmsg
+,	,	Z
+otpusta	otpust	Ncmsg
+i	i	Cc
+matice	matica	Ncfpn
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.2.8.2.2.	7.2.8.2.2a	Ncfsg
+
+Odsjek	odsjek	Ncmsn
+provedbe	provedba	Ncfsg
+programa	program	Ncmsg
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+5	5	Mdc
+7.2.8.3.	7.2.8.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+u	u	Sl
+kaznionici	kaznionica	Ncfsl
+71	71	Mdc
+7.2.8.4.	7.2.8.4.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+rad	rad	Ncmsan
+i	i	Cc
+strukovnu	strukovni	Agpfsay
+izobrazbu	izobrazba	Ncfsa
+zatvorenika	zatvorenik	Ncmpg
+77	77	Mdc
+7.2.8.5.	7.2.8.5.	Mds
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+380	380	Mdc
+7.2.8.5.1.	7.2.8.5.1.	Mds
+
+Odsjek	odsjek	Ncmsn
+dežurstva	dežurstvo	Ncnsg
+i	i	Cc
+tehničkog	tehnički	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+32	32	Mdc
+7.2.8.5.2.	7.2.8.5.2.	Y
+
+Odsjek	odsjek	Ncmsn
+unutarnjeg	unutarnji	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+203	203	Mdc
+7.2.8.5.3.	7.2.8.5.3.	Mds
+
+Odsjek	odsjek	Ncmsn
+vanjskog	vanjski	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+i	i	Cc
+sprovođenja	sprovođenje	Ncnsg
+100	100	Mdc
+7.2.8.6.	7.2.8.6.	Mds
+
+Odjel	odjel	Ncmsn
+zdravstvene	zdravstven	Agpfsgy
+zaštite	zaštita	Ncfsg
+zatvorenika	zatvorenik	Ncmpg
+25	25	Mdc
+7.2.8.7.	7.2.8.7.	Mds
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+47	47	Mdc
+UKUPNO	ukupno	Rgp
+2378	2378	Mdc
+7.3.	7.3.	Y
+
+ZATVORI	zatvoriti	Vmr3s
+UKUPNO	ukupno	Rgp
+7.3.1.	7.3.1.	Mds
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Bjelovaru	Bjelovar	Npmsl
+59	59	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+7.3.1.1.	7.3.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+10	10	Mdc
+7.3.1.1.1.	7.3.1.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+3	3	Mdc
+7.3.1.2.	7.3.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+6	6	Mdc
+7.3.1.3.	7.3.1.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+42	42	Mdc
+7.3.2.	7.3.2.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Dubrovniku	Dubrovnik	Npmsl
+46	46	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+7.3.2.1.	7.3.2.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+7.3.2.1.1.	7.3.2.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+3	3	Mdc
+7.3.2.2.	7.3.2.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+6	6	Mdc
+7.3.2.3.	7.3.2.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+31	31	Mdc
+7.3.3.	7.3.3.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Gospiću	Gospić	Npmsl
+120	120	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+3	3	Mdc
+7.3.3.1.	7.3.3.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+7.3.3.1.1.	7.3.3.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+5	5	Mdc
+7.3.3.2.	7.3.3.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+11	11	Mdc
+7.3.3.2.1.	7.3.3.2.1.	Y
+
+Odsjek	odsjek	Ncmsn
+prijama	prijam	Ncmsg
+,	,	Z
+otpusta	otpust	Ncmsg
+i	i	Cc
+matice	matica	Ncfpn
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.3.3.2.2.	7.3.3.2.2a	Ncfsg
+
+Odsjek	odsjek	Ncmsn
+provedbe	provedba	Ncfsg
+programa	program	Ncmsg
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+5	5	Mdc
+7.3.3.3.	7.3.3.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+73	73	Mdc
+7.3.3.3.1.	7.3.3.3.1.	Y
+
+Odsjek	odsjek	Ncmsn
+dežurstva	dežurstvo	Ncnsg
+8	8	Mdc
+7.3.3.3.2.	7.3.3.3.2.	Mds
+
+Odsjek	odsjek	Ncmsn
+unutarnjeg	unutarnji	Agpmsgy
+i	i	Cc
+vanjskog	vanjski	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+64	64	Mdc
+7.3.3.4.	7.3.3.4.	Y
+
+Odjel	odjel	Ncmsn
+zdravstvene	zdravstven	Agpfsgy
+zaštite	zaštita	Ncfsg
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.3.3.5.	7.3.3.5a	Ncfsg
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+20	20	Mdc
+7.3.3.5.1.	7.3.3.5.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+poljoprivredna	poljoprivredni	Agpfsny
+radionica	radionica	Ncfsn
+11	11	Mdc
+7.3.4.	7.3.4.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Karlovcu	Karlovc	Npmsl
+50	50	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+7.3.4.1.	7.3.4.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+7.3.4.1.1.	7.3.4.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+3	3	Mdc
+7.3.4.2.	7.3.4.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+5	5	Mdc
+7.3.4.3.	7.3.4.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+36	36	Mdc
+7.3.5.	7.3.5.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Osijeku	osijek	Ncmsl
+106	106	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+2	2	Mdc
+7.3.5.1.	7.3.5.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+10	10	Mdc
+7.3.5.1.1.	7.3.5.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+5	5	Mdc
+7.3.5.2.	7.3.5.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+7	7	Mdc
+7.3.5.3.	7.3.5.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+76	76	Mdc
+7.3.5.4.	7.3.5.4.	Y
+
+Odjel	odjel	Ncmsn
+zdravstvene	zdravstven	Agpfsgy
+zaštite	zaštita	Ncfsg
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.3.5.5.	7.3.5.5a	Ncfsg
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+6	6	Mdc
+7.3.6.	7.3.6.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Puli	Pula	Npfsl
+–	–	Z
+Pola	polo	Rgp
+112	112	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+3	3	Mdc
+7.3.6.1.	7.3.6.1.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+11	11	Mdc
+7.3.6.1.1.	7.3.6.1.1.	Y
+
+Odsjek	odsjek	Ncmsn
+prijama	prijam	Ncmsg
+,	,	Z
+otpusta	otpust	Ncmsg
+i	i	Cc
+matice	matica	Ncfpn
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.3.6.1.2.	7.3.6.1.2a	Ncfsg
+
+Odsjek	odsjek	Ncmsn
+provedbe	provedba	Ncfsg
+programa	program	Ncmsg
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+5	5	Mdc
+7.3.6.2.	7.3.6.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+90	90	Mdc
+7.3.6.2.1.	7.3.6.2.1.	Y
+
+Odsjek	odsjek	Ncmsn
+dežurstva	dežurstvo	Ncnsg
+6	6	Mdc
+7.3.6.2.2.	7.3.6.2.2.	Mds
+
+Odsjek	odsjek	Ncmsn
+unutarnjeg	unutarnji	Agpmsgy
+i	i	Cc
+vanjskog	vanjski	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+83	83	Mdc
+7.3.6.3.	7.3.6.3.	Y
+
+Odjel	odjel	Ncmsn
+zdravstvene	zdravstven	Agpfsgy
+zaštite	zaštita	Ncfsg
+zatvorenika	zatvorenik	Ncmpg
+8	8	Mdc
+7.3.7.	7.3.7a	Ncfsg
+
+Zatvor	Zatvor	Npmsn
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+103	103	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+2	2	Mdc
+7.3.7.1.	7.3.7.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+11	11	Mdc
+7.3.7.1.1.	7.3.7.1.1.	Y
+
+Pododsjek	pododsjek	Ncmsn
+prehrane	prehrana	Ncfsg
+4	4	Mdc
+7.3.7.2.	7.3.7.2.	Mdo
+
+Odjel	odjel	Ncmsn
+tretmana	tretman	Ncmsg
+8	8	Mdc
+7.3.7.3.	7.3.7.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+osiguranja	osiguranje	Ncnsg
+69	69	Mdc
+7.3.7.4.	7.3.7.4.	Y
+
+Odjel	odjel	Ncmsn
+zdravstvene	zdravstven	Agpfsgy
+zaštite	zaštita	Ncfsg
+zatvorenika	zatvorenik	Ncmpg
+5	5	Mdc
+7.3.7.5.	7.3.7.5a	Ncfsg
+
+Odjel	odjel	Ncmsn
+financijsko-knjigovodstvenih	financijsko-knjigovodstven	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+7.3.8.	7.3.8.	Y
+
+Zatvor	zatvor	Ncmsn
+u	u	Sl
+Sisku	Sisk	Npmsl
+54	54	Mdc
+–	–	Z
+neposredno	neposredno	Rgp
+u	u	Sl
+Zatvoru	zatvor	Ncmsl
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+7.3.8.1.	7.3.8.1.	Mdo
+
+Odjel	odjel	Ncmsn
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+10	10	Mdc
+

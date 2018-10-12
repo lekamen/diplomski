@@ -1,0 +1,546 @@
+Predsjednik	predsjednik	Ncmsn
+:	:	Z
+________________________________________	________________________________________	Z
+
+Članovi	član	Ncmpn
+:	:	Z
+1.	1.	Mdo
+_______________________________________	_______________________________________	Z
+
+_______________________________________	_______________________________________	Ncfsn
+
+2.	2.	Mdo
+______________________________________	______________________________________	Z
+
+Tajnik	tajnik	Ncmsn
+:	:	Z
+________________________________________	________________________________________	Z
+
+Kandidat	kandidat	Ncmsn
+:	:	Z
+________________________________________	________________________________________	Z
+
+Obrazac	obrazac	Ncmsn
+2	2	Mdc
+
+KLASA	klasa	Ncfsn
+:	:	Z
+________________	________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+________________	________________	Z
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+________________	________________	Z
+
+Ministarstvo	ministarstvo	Ncnsn
+pravosuđa	pravosuđe	Ncnsg
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+polaganju	polaganje	Ncnsl
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+,	,	Z
+obuci	obuka	Ncfsl
+i	i	Cc
+usavršavanju	usavršavanje	Ncnsl
+povjerenika	povjerenik	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+12/2016.	12/2016.	Mds
+)	)	Z
+,	,	Z
+izdaje	izdavati	Vmr3s
+
+UVJERENJE	uvjerenje	Ncnsn
+
+Potvrđuje	potvrđivati	Vmr3s
+se	sebe	Px--sa
+da	da	Cs
+je	biti	Var3s
+________________	________________	Pd-nsn
+,	,	Z
+_________________	_________________	Npmsn
+iz	iz	Sg
+(	(	Z
+ime	ime	Ncnsn
+i	i	Cc
+prezime	prezime	Ncnsa
+)	)	Z
+(	(	Z
+zanimanje	zanimanje	Ncnsn
+)	)	Z
+
+_________________	_________________	Qr
+,	,	Z
+rođen	roditi	Appmsnn
+/	/	Z
+a	a	Cc
+________________	_______________a	Ncfpn
+u	u	Sl
+_____________	____________a	Ncfsl
+(	(	Z
+mjesto	mjesto	Ncnsn
+prebivališta	prebivalište	Ncnsg
+)	)	Z
+(	(	Z
+datum	datum	Ncmsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+(	(	Z
+mjesto	mjesto	Ncnsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+
+pristupio	pristupiti	Vmp-sm
+/	/	Z
+la	l	Ncmsg
+na	na	Sl
+osnovi	osnova	Ncfsl
+rješenja	rješenje	Ncnsg
+Ministarstva	ministarstvo	Ncnsg
+pravosuđa	pravosuđe	Ncnsg
+klasa	klas	Ncmsg
+:	:	Z
+__________	_________i	Agpnsny
+,	,	Z
+
+urbroj	urbroj	Ncmsn
+:	:	Z
+_________________________od	_________________________od	Sg
+________________	________________	Sl
+polaganju	polaganje	Ncnsl
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsan
+dana	dan	Ncmsg
+______________	______________	Qr
+.	.	Z
+
+Imenovani	imenovati	Appmpny
+/	/	Z
+la	la	Ncfsn
+je	biti	Var3s
+ispit	ispit	Ncmsn
+položio	položiti	Vmp-sm
+/	/	Z
+la	l	Ncmsg
+.	.	Z
+
+Ovo	ovaj	Pd-nsn
+uvjerenje	uvjerenje	Ncnsn
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+svrhu	svrha	Ncfsa
+ostvarivanja	ostvarivanje	Ncnsg
+prava	pravo	Ncnpg
+koja	koji	Pi-npn
+se	sebe	Px--sa
+stječu	stjecati	Vmr3p
+na	na	Sl
+osnovi	osnova	Ncfsl
+položenog	položiti	Agpmsgy
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+.	.	Z
+
+Uvjerenje	uvjerenje	Ncnsn
+je	biti	Var3s
+oslobođeno	osloboditi	Appnsny
+od	od	Sg
+plaćanja	plaćanje	Ncnsg
+pristojbe	pristojba	Ncfsg
+na	na	Sl
+osnovi	osnova	Ncfsl
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+točke	točka	Ncfsg
+22.	22.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+upravnim	upravan	Agpfply
+pristojbama	pristojba	Ncfpl
+.	.	Z
+
+TAJNIK	tajnik	Ncmsn
+ISPITNOG	ispitan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+_______________________	_______________________	Z
+
+Obrazac	obrazac	Ncmsn
+3	3	Mdc
+
+REPUBLIKA	republika	Ncfsn
+HRVATSKA	Hrvatska	Npfsn
+MINISTARSTVO	ministarstvo	Ncnsa
+PRAVOSUĐA	pravosuđe	Ncnsg
+
+Ispitno	ispitan	Agpnsny
+povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+polaganje	polaganje	Ncnsa
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+
+KLASA	klasa	Ncfsn
+:	:	Z
+UP	up	Ncmsn
+/	/	Z
+I	i	Cc
+–	–	Z
+_________________________	_________________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+_______________________________	_______________________________	Z
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+_______________________________	_______________________________	Z
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+polaganju	polaganje	Ncnsl
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+,	,	Z
+obuci	obuka	Ncfsl
+i	i	Cc
+usavršavanju	usavršavanje	Ncnsl
+povjerenika	povjerenik	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+12/2016.	12/2016.	Mds
+)	)	Z
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+
+S	sa	Si
+V	V	Xf
+J	j	Xf
+E	e	Xf
+D	D	Xf
+O	o	Sl
+D		Npmsl
+Ž		Npmsl
+B	b	X
+A	a	Cc
+
+O	o	Sl
+POLOŽENOM	položiti	Agpmsly
+STRUČNOM	stručan	Agpmsly
+ISPITU	ispit	Ncmsl
+ZA	za	Sa
+POVJERENIKA	povjerenik	Ncmsay
+
+__________________________________	_________________________________i	Agpnsny
+(	(	Z
+ime	ime	Ncnsn
+i	i	Cc
+prezime	prezime	Ncnsa
+)	)	Z
+
+________________	________________	Npmsn
+iz	iz	Sg
+________________	________________	Npfsg
+,	,	Z
+_______________	_______________	Pq3n-a
+,	,	Z
+(	(	Z
+zanimanje	zanimanje	Ncnsn
+)	)	Z
+(	(	Z
+mjesto	mjesto	Ncnsn
+prebivališta	prebivalište	Ncnsg
+)	)	Z
+(	(	Z
+OIB	OIB	Npmsn
+)	)	Z
+
+rođen	roditi	Appmsnn
+/	/	Z
+a	a	Cc
+_______________	______________a	Ncfpn
+u	u	Sl
+_________________	________________a	Ncfsl
+,	,	Z
+položio	položiti	Vmp-sm
+/	/	Z
+la	li	Agpfsny
+je	biti	Var3s
+(	(	Z
+datum	datum	Ncmsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+(	(	Z
+mjesto	mjesto	Ncnsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+
+stručni	stručan	Agpmsny
+ispit	ispit	Ncmsn
+za	za	Sa
+povjerenika	povjerenik	Ncmsan
+dana	dan	Ncmsg
+________________________	________________________	Z
+pred	pred	Si
+Ispitnim	ispitan	Agpnsiy
+povjerenstvom	povjerenstvo	Ncnsi
+
+za	za	Sa
+polaganje	polaganje	Ncnsa
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+svjedodžba	svjedodžba	Ncfsn
+je	biti	Var3s
+oslobođena	osloboditi	Appfsny
+od	od	Sg
+plaćanja	plaćanje	Ncnsg
+upravne	upravan	Agpfsgy
+pristojbe	pristojba	Ncfsg
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+točke	točka	Ncfsg
+22.	22.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+upravnim	upravan	Agpfply
+pristojbama	pristojba	Ncfpl
+.	.	Z
+
+M.	M.	Y
+P.	P.	Y
+
+TAJNIK	tajnik	Ncmsn
+PREDSJEDNIK	predsjednik	Ncmsn
+
+ISPITNOG	ispitan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+ISPITNOG	ispitan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+
+_________________________	_________________________	I
+_________________________	_________________________	Z
+
+Obrazac	obrazac	Ncmsn
+3	3	Mdc
+a	a	Cc
+
+REPUBLIKA	republika	Ncfsn
+HRVATSKA	Hrvatska	Npfsn
+MINISTARSTVO	ministarstvo	Ncnsa
+PRAVOSUĐA	pravosuđe	Ncnsg
+
+Ispitno	ispitan	Agpnsny
+povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+polaganje	polaganje	Ncnsa
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+
+KLASA	klasa	Ncfsn
+:	:	Z
+UP	up	Ncmsn
+/	/	Z
+I	i	Cc
+–	–	Z
+___________________________	___________________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+_______________________________	_______________________________	Z
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+_________________________________	_________________________________	Z
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+polaganju	polaganje	Ncnsl
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+,	,	Z
+obuci	obuka	Ncfsl
+i	i	Cc
+usavršavanju	usavršavanje	Ncnsl
+povjerenika	povjerenik	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+12/2016.	12/2016.	Mds
+)	)	Z
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+
+S	sa	Si
+V	V	Xf
+J	j	Xf
+E	e	Xf
+D	D	Xf
+O	o	Sl
+D		Npmsl
+Ž		Npmsl
+B	b	X
+A	a	Cc
+
+O	o	Sl
+POLOŽENOM	položiti	Agpmsly
+STRUČNOM	stručan	Agpmsly
+ISPITU	ispit	Ncmsl
+ZA	za	Sa
+POVJERENIKA	povjerenik	Ncmsay
+S	sa	Si
+POSEBNOM	poseban	Agpfsiy
+POHVALOM	pohvala	Ncfsi
+
+__________________________________	_________________________________i	Agpnsny
+(	(	Z
+ime	ime	Ncnsn
+i	i	Cc
+prezime	prezime	Ncnsa
+)	)	Z
+
+________________	________________	Npmsn
+iz	iz	Sg
+___________________	___________________	Npfsg
+,	,	Z
+_______________	_______________	Pq3n-a
+,	,	Z
+(	(	Z
+zanimanje	zanimanje	Ncnsn
+)	)	Z
+(	(	Z
+mjesto	mjesto	Ncnsn
+prebivališta	prebivalište	Ncnsg
+)	)	Z
+(	(	Z
+OIB	OIB	Npmsn
+)	)	Z
+
+rođen	roditi	Appmsnn
+/	/	Z
+a	a	Cc
+_______________	______________a	Ncfpn
+u	u	Sl
+_________________	________________a	Ncfsl
+,	,	Z
+položio	položiti	Vmp-sm
+/	/	Z
+la	li	Agpfsny
+je	biti	Var3s
+(	(	Z
+datum	datum	Ncmsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+(	(	Z
+mjesto	mjesto	Ncnsn
+rođenja	rođenje	Ncnsg
+)	)	Z
+
+stručni	stručan	Agpmsny
+ispit	ispit	Ncmsn
+za	za	Sa
+povjerenika	povjerenik	Ncmsan
+dana	dan	Ncmsg
+_______________________	_______________________	Z
+pred	pred	Si
+Ispitnim	ispitan	Agpnsiy
+povjerenstvom	povjerenstvo	Ncnsi
+
+za	za	Sa
+polaganje	polaganje	Ncnsa
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+svjedodžba	svjedodžba	Ncfsn
+je	biti	Var3s
+oslobođena	osloboditi	Appfsny
+od	od	Sg
+plaćanja	plaćanje	Ncnsg
+upravne	upravan	Agpfsgy
+pristojbe	pristojba	Ncfsg
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+točke	točka	Ncfsg
+22.	22.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+upravnim	upravan	Agpfply
+pristojbama	pristojba	Ncfpl
+.	.	Z
+
+M.	M.	Y
+P.	P.	Y
+
+TAJNIK	tajnik	Ncmsn
+PREDSJEDNIK	predsjednik	Ncmsn
+
+ISPITNOG	ispitan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+ISPITNOG	ispitan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+

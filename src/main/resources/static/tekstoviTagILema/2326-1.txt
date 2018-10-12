@@ -1,0 +1,693 @@
+prostora	prostor	Ncmsg
+,	,	Z
+područja	područje	Ncnsg
+,	,	Z
+površine	površina	Ncfsg
+ili	ili	Cc
+zone	zona	Ncfsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+određena	odrediti	Appfsny
+Planom	plan	Ncmsi
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+Prilogom	prilog	Ncmsi
+I.	I.	Sg
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+–	–	Z
+»	»	Z
+Pregled	pregled	Ncmsn
+prostornih	prostoran	Agpfpgy
+tema	tema	Ncfpg
+«	«	Z
+,	,	Z
+planira	planirati	Vmr3s
+se	sebe	Px--sa
+za	za	Sa
+namjene	namjena	Ncfpa
+propisane	propisati	Appfpay
+Prilogom	prilog	Ncmsi
+II	ii	Mrc
+.	.	Z
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+–	–	Z
+»	»	Z
+Sadržaj	sadržaj	Ncmsn
+namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+«	«	Z
+te	te	Cc
+se	sebe	Px--sa
+na	na	Sl
+njima	oni	Pp3-pl
+mogu	moći	Vmr3p
+graditi	graditi	Vmn
+građevine	građevina	Ncfpa
+,	,	Z
+odnosno	odnosno	Rgp
+provoditi	provoditi	Vmn
+zahvati	zahvat	Ncmpn
+u	u	Sl
+prostoru	prostor	Ncmsl
+propisane	propisati	Appfsgy
+tim	taj	Pd-msi
+Prilogom	prilog	Ncmsi
+.	.	Z
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpmpgy
+uvjeta	uvjet	Ncmpg
+(	(	Z
+režima	režim	Ncmsg
+)	)	Z
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpmpgy
+uvjeta	uvjet	Ncmpg
+(	(	Z
+režima	režim	Ncmsg
+)	)	Z
+određuju	određivati	Vmr3p
+se	sebe	Px--sa
+u	u	Sl
+grafičkom	grafički	Agpmsly
+dijelu	dio	Ncmsl
+Plana	plan	Ncmsg
+određivanjem	određivanje	Ncnsi
+zaštitnog	zaštitni	Agpmsgy
+prostora	prostor	Ncmsg
+ili	ili	Cc
+koridora	koridor	Ncmsg
+.	.	Z
+
+Posebne	poseban	Agpfpny
+mjere	mjera	Ncfpn
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+Posebne	poseban	Agpfpny
+mjere	mjera	Ncfpn
+su	biti	Var3p
+mjere	mjera	Ncfpn
+zaštite	zaštita	Ncfsg
+okoliša	okoliš	Ncmsg
+,	,	Z
+prirode	priroda	Ncfsg
+,	,	Z
+kulturne	kulturan	Agpfsgy
+baštine	baština	Ncfsg
+i	i	Cc
+zdravlja	zdravlje	Ncnsg
+,	,	Z
+mjere	mjera	Ncfpn
+zaštite	zaštita	Ncfsg
+od	od	Sg
+požara	požar	Ncmsg
+,	,	Z
+mjere	mjera	Ncfsg
+spašavanja	spašavanje	Ncnsg
+i	i	Cc
+druge	drugi	Mlofpn
+mjere	mjera	Ncfpn
+,	,	Z
+pravila	pravilo	Ncnpn
+i	i	Cc
+posebni	poseban	Agpmpny
+načini	način	Ncmpn
+korištenja	korištenje	Ncnsg
+,	,	Z
+odnosno	odnosno	Rgp
+ograničenja	ograničenje	Ncnsg
+propisani	propisati	Appmpny
+posebnim	poseban	Agpmpiy
+propisima	propis	Ncmpi
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+koji	koji	Pi-mpn
+proizlaze	proizlaziti	Vmr3p
+iz	iz	Sg
+zahtjeva	zahtjev	Ncmpg
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+postavljenog	postavljen	Agpnsgy
+prilikom	prilikom	Sg
+izrade	izrada	Ncfsg
+nacrta	nacrt	Ncmsg
+prijedloga	prijedlog	Ncmsg
+Plana	plan	Ncmsg
+,	,	Z
+koje	koji	Pi-fpn
+nisu	biti	Var3p
+uzete	uzeti	Appfpny
+u	u	Sa
+obzir	obzir	Ncmsan
+,	,	Z
+odnosno	odnosno	Rgp
+primijenjene	primijeniti	Appfpny
+prilikom	prilikom	Sg
+određivanja	određivanje	Ncnsg
+namjene	namjena	Ncfsg
+prostora	prostor	Ncmsg
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+propisivanja	propisivanje	Ncnsg
+pravila	pravilo	Ncnsg
+provedbe	provedba	Ncfsg
+zahvata	zahvat	Ncmsg
+.	.	Z
+
+DIO	dio	Ncmsn
+TREĆI	treći	Mlomsn
+POBLIŽI	pobliži	Agpmsny
+SADRŽAJ	sadržaj	Ncmsn
+PLANA	plan	Ncmsg
+
+Sadržaj	sadržaj	Ncmsn
+odredbi	odredba	Ncfpg
+za	za	Sa
+provedbu	provedba	Ncfsa
+Plana	plan	Ncmsg
+
+Članak	članak	Ncmsn
+9.	9.	Mdo
+
+Odredbe	odredba	Ncfpn
+za	za	Sa
+provedbu	provedba	Ncfsa
+Plana	plan	Ncmsg
+sadrže	sadržati	Vmr3p
+sljedeće	sljedeći	Agpmpay
+dijelove	dio	Ncmpa
+:	:	Z
+
+1.	1.	Mdo
+Uvodne	uvodan	Agpfpny
+odredbe	odredba	Ncfpn
+
+1.1.	1.1.	Mdo
+
+Osnovni	osnovan	Agpmpny
+podaci	podatak	Ncmpn
+o	o	Sl
+prostoru	prostor	Ncmsl
+
+1.2.	1.2.	Mdo
+
+Ciljevi	cilj	Ncmpn
+Plana	Plan	Npmsg
+
+1.3.	1.3.	Mdo
+
+Organizacija	organizacija	Ncfsn
+i	i	Cc
+osnovna	osnovan	Agpfsny
+namjena	namjena	Ncfsn
+i	i	Cc
+korištenje	korištenje	Ncnsa
+prostora	prostor	Ncmsg
+
+2.	2.	Mdo
+Uvjeti	uvjet	Ncmpn
+provedbe	provedba	Ncfsg
+zahvata	zahvat	Ncmsg
+za	za	Sa
+koje	koji	Pi-mpa
+je	biti	Var3s
+određena	odrediti	Appfsny
+namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+
+2.1.	2.1.	Mdo
+
+Namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+
+2.2.	2.2.	Mdo
+
+Građevinska	građevinski	Agpnpny
+područja	područje	Ncnpn
+
+2.3.	2.3.	Mdo
+
+Pravila	pravilo	Ncnpn
+provedbe	provedba	Ncfsg
+
+3.	3.	Mdo
+Uvjeti	uvjet	Ncmpn
+provedbe	provedba	Ncfsg
+za	za	Sa
+infrastrukturne	infrastrukturni	Agpmpay
+sustave	sustav	Ncmpa
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+
+3.1.	3.1.	Mdo
+
+Prometni	prometan	Agpmsny
+sustav	sustav	Ncmsn
+
+3.2.	3.2.	Mdo
+
+Komunikacijski	komunikacijski	Agpmsny
+sustav	sustav	Ncmsn
+
+3.3.	3.3.	Mdo
+
+Energetski	energetski	Agpmsny
+sustav	sustav	Ncmsn
+
+3.4.	3.4.	Mdo
+
+Vodnogospodarski	vodnogospodarski	Agpmsny
+sustav	sustav	Ncmsn
+
+4.	4.	Mdo
+Posebne	poseban	Agpfsgy
+mjere	mjera	Ncfsg
+
+4.1.	4.1.	Mdo
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpfpgy
+vrijednosti	vrijednost	Ncfpg
+
+4.2.	4.2.	Mdo
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpnpgy
+ograničenja	ograničenje	Ncnpg
+
+4.3.	4.3.	Mdo
+
+Područja	područje	Ncnpn
+posebnog	poseban	Agpmsgy
+načina	način	Ncmsg
+korištenja	korištenje	Ncnsg
+
+5.	5.	Mdo
+Smjernice	smjernica	Ncfsg
+za	za	Sa
+izradu	izrada	Ncfsa
+urbanističkih	urbanistički	Agpmpgy
+planova	plan	Ncmpg
+uređenja	uređenje	Ncnsg
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+i	i	Cc
+
+6.	6.	Mdo
+Mjere	mjera	Ncfsg
+za	za	Sa
+provedbu	provedba	Ncfsa
+plana	plan	Ncmsg
+.	.	Z
+
+Sadržaj	sadržaj	Ncmsn
+grafičkog	grafički	Agpmsgy
+dijela	dio	Ncmsg
+Plana	plan	Ncmsg
+
+Članak	članak	Ncmsn
+10.	10.	Mdo
+
+Grafički	grafički	Agpmsny
+dio	dio	Ncmsn
+Plana	Plan	Npmsg
+sadrži	sadržati	Vmr3s
+sljedeće	sljedeći	Agpfsgy
+kartografske	kartografski	Agpfsgy
+prikaze	prikaza	Ncfsg
+Plana	plan	Ncmsg
+:	:	Z
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+1.1.	1.1.	Mds
+
+Namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+1.2.	1.2.	Mds
+
+Građevinska	građevinski	Agpnpny
+područja	područje	Ncnpn
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+1.3.	1.3.	Mds
+
+Pravila	pravilo	Ncnpg
+provedbe	provedba	Ncfsg
+i	i	Cc
+područja	područje	Ncnsg
+obveze	obveza	Ncfsg
+donošenja	donošenje	Ncnsg
+prostornih	prostoran	Agpmpgy
+planova	plan	Ncmpg
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+2.1.	2.1.	Mds
+
+Prometni	prometan	Agpmsny
+sustav	sustav	Ncmsn
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+2.2.	2.2.	Mds
+
+Komunikacijski	komunikacijski	Agpmsny
+sustav	sustav	Ncmsn
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+2.3.	2.3.	Mds
+
+Energetski	energetski	Agpmsny
+sustav	sustav	Ncmsn
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+2.4.	2.4.	Mds
+
+Vodnogospodarski	vodnogospodarski	Agpmsny
+sustav	sustav	Ncmsn
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+3.1.	3.1.	Mds
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpfpgy
+vrijednosti	vrijednost	Ncfpg
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+3.2.	3.2.	Mds
+
+Područja	područje	Ncnpn
+posebnih	poseban	Agpnpgy
+ograničenja	ograničenje	Ncnpg
+i	i	Cc
+
+−	i	Agpfsny
+Karta	karta	Ncfsn
+3.3.	3.3.	Mds
+
+Područja	područje	Ncnpn
+posebnog	poseban	Agpmsgy
+načina	način	Ncmsg
+korištenja	korištenje	Ncnsg
+.	.	Z
+
+Smjernice	smjernica	Ncfpn
+za	za	Sa
+izradu	izrada	Ncfsa
+urbanističkih	urbanistički	Agpmpgy
+planova	plan	Ncmpg
+uređenja	uređenje	Ncnsg
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+
+Članak	članak	Ncmsn
+11.	11.	Mdo
+
+Smjernice	smjernica	Ncfpn
+za	za	Sa
+izradu	izrada	Ncfsa
+urbanističkih	urbanistički	Agpmpgy
+planova	plan	Ncmpg
+uređenja	uređenje	Ncnsg
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+mogu	moći	Vmr3p
+određivati	određivati	Vmn
+:	:	Z
+
+1.	1.	Mdo
+moguće	moguć	Agpnsny
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+obvezne	obvezan	Agpfsgy
+namjene	namjena	Ncfsg
+
+2.	2.	Mdo
+način	način	Ncmsan
+gradnje	gradnja	Ncfsg
+građevina	građevina	Ncfpg
+
+3.	3.	Mdo
+smještajni	smještajan	Agpmsayn
+kapacitet	kapacitet	Ncmsan
+(	(	Z
+broj	broj	Ncmsn
+kreveta	krevet	Ncmpg
+)	)	Z
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+planiranu	planiran	Agpfsay
+gustoću	gustoća	Ncfsa
+korištenja	korištenje	Ncnsg
+(	(	Z
+broj	broj	Ncmsn
+kreveta	krevet	Ncmsg
+/	/	Z
+ha	ha	I
+)	)	Z
+unutar	unutar	Sg
+građevinskog	građevinski	Agpnsgy
+područja	područje	Ncnsg
+ugostiteljsko-turističke	ugostiteljsko-turistički	Agpfsgy
+namjene	namjena	Ncfsg
+
+4.	4.	Mdo
+potrebu	potreba	Ncfsa
+sanacije	sanacija	Ncfsg
+terena	teren	Ncmsg
+(	(	Z
+odvodnjavanje	odvodnjavanje	Ncnsn
+,	,	Z
+izravnavanje	izravnavanje	Ncnsn
+,	,	Z
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+5.	5.	Mdo
+mjere	mjera	Ncfsg
+oblikovanja	oblikovanje	Ncnsg
+prostora	prostor	Ncmsg
+
+6.	6.	Mdo
+mjere	mjera	Ncfsg
+zaštite	zaštita	Ncfsg
+okoliša	okoliš	Ncmsg
+,	,	Z
+prirode	priroda	Ncfsg
+,	,	Z
+kulturne	kulturan	Agpfsgy
+baštine	baština	Ncfsg
+i	i	Cc
+zdravlja	zdravlje	Ncnsg
+,	,	Z
+mjere	mjera	Ncfpn
+zaštite	zaštita	Ncfsg
+od	od	Sg
+požara	požar	Ncmsg
+,	,	Z
+mjere	mjera	Ncfsg
+spašavanja	spašavanje	Ncnsg
+i	i	Cc
+druge	drugi	Mlofpn
+mjere	mjera	Ncfpn
+
+7.	7.	Mdo
+obvezu	obveza	Ncfsa
+izrade	izrada	Ncfsg
+stručnog	stručan	Agpnsgy
+rješenja	rješenje	Ncnsg
+
+8.	8.	Mdo
+druge	drugi	Mlofsg
+smjernice	smjernica	Ncfsg
+ovisno	ovisno	Rgp
+o	o	Sl
+posebnosti	posebnost	Ncfsl
+prostora	prostor	Ncmsg
+i	i	Cc
+potrebama	potreba	Ncfpi
+planiranih	planiran	Agpmpgy
+zahvata	zahvat	Ncmpg
+.	.	Z
+
+DIO	dio	Ncmsn
+ČETVRTI	četvrt	Ncfsg
+PROSTORNI	prostoran	Agpmpny
+STANDARDI	standard	Ncmpn
+ZA	za	Sa
+ODREĐIVANJE	određivanje	Ncnsa
+ODREĐENIH	određen	Agpnpgy
+ZEMLJIŠTA	zemljište	Ncnpg
+
+Osobito	osobito	Rgp
+vrijedno	vrijedan	Agpnsny
+zemljište	zemljište	Ncnsn
+namijenjeno	namijeniti	Appnsny
+poljoprivredi	poljoprivreda	Ncfsd
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+
+Planom	plan	Ncmsi
+se	sebe	Px--sa
+kao	kao	Cs
+osobito	osobito	Rgp
+vrijedno	vrijedan	Agpnsny
+zemljište	zemljište	Ncnsn
+namijenjeno	namijeniti	Appnsny
+poljoprivredi	poljoprivreda	Ncfsd
+može	moći	Vmr3s
+odrediti	odrediti	Vmn
+osobito	osobito	Rgp
+vrijedno	vrijedan	Agpnsny
+obradivo	obradiv	Agpnsny
+poljoprivredno	poljoprivredni	Agpnsny
+zemljište	zemljište	Ncnsn
+(	(	Z
+P1	P1	X
+)	)	Z
+,	,	Z
+meliorirano	melioriran	Agpnsny
+i	i	Cc
+okrupnjeno	okrupnjen	Agpnsny
+zemljište	zemljište	Ncnsn
+površine	površina	Ncfsg
+veće	velik	Agcfpny
+od	od	Sg
+200	200	Mdc
+ha	ha	Ncmpg
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+drugo	drugi	Mlonsn
+državno	državni	Agpnsay
+zemljište	zemljište	Ncnsa
+,	,	Z
+a	a	Cc
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+nalazi	nalaziti	Vmr3s
+izvan	izvan	Sg
+građevinskih	građevinski	Agpnpgy
+područja	područje	Ncnpg
+i	i	Cc
+usklađeno	uskladiti	Appnsny
+je	biti	Var3s
+s	sa	Si
+drugim	drugi	Agpfpiy
+površinama	površina	Ncfpi
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+.	.	Z
+
+Zemljište	zemljište	Ncnsn
+namijenjeno	namijeniti	Appnsny
+šumi	šumiti	Vmr3s
+i	i	Cc
+šumsko	šumski	Agpnsny
+zemljište	zemljište	Ncnsn
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+
+Članak	članak	Ncmsn
+13.	13.	Mdo
+
+Planom	plan	Ncmsi
+se	sebe	Px--sa
+kao	kao	Cs
+zemljište	zemljište	Ncnsn
+namijenjeno	namijeniti	Appnsny
+šumi	šuma	Ncfsl
+i	i	Cc
+šumsko	šumski	Agpnsny
+zemljište	zemljište	Ncnsn
+državnog	državni	Agpmsgy
+značaja	značaj	Ncmsg
+mogu	moći	Vmr3p
+odrediti	odrediti	Vmn
+šume	šuma	Ncfpa
+i	i	Cc
+šumsko	šumski	Agpnsny
+zemljište	zemljište	Ncnsn
+koje	koji	Pi-nsn
+sukladno	sukladno	Rgp
+člancima	članak	Ncmpd
+3.3.	3.3.	Mdo
+i	i	Cc
+3.4.	3.4.	Mds
+
+Kyotskog	kyotski	Agpmsgy
+protokola	protokol	Ncmsg
+kroz	kroz	Sa
+ponor	ponor	Ncmsan
+ugljika	ugljik	Ncmsg
+značajno	značajno	Rgp
+utječu	utjecati	Vmr3p
+na	na	Sa
+održavanje	održavanje	Ncnsa
+aktivnosti	aktivnost	Ncfsg
+gospodarenje	gospodarenje	Ncnsn
+šumama	šuma	Ncfpd
+iznad	iznad	Sg
+referentne	referentan	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+za	za	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+;	;	Z
+šume	šuma	Ncfpn
+i	i	Cc
+šumska	šumski	Agpnpay
+zemljišta	zemljište	Ncnpa
+u	u	Sl
+zaštićenim	zaštititi	Agpmply
+dijelovima	dio	Ncmpl
+prirode	priroda	Ncfsg
+i	i	Cc
+području	područje	Ncnsl
+NATURA	natura	Ncfsn
+2000	2000	Mdc
+,	,	Z
+šumski	šumski	Agpmpny
+sjemenski	sjemenski	Agpmpny
+objekti	objekt	Ncmpn
+,	,	Z
+te	te	Cc
+najkvalitetnije	kvalitetan	Agsfsgy
+šumske	šumski	Agpfpay
+sastojine	sastojina	Ncfpa
+koje	koji	Pi-fpn
+čine	činiti	Vmr3p
+okosnicu	okosnica	Ncfsa
+šumskog	šumski	Agpmsgy
+resursa	resurs	Ncmsg
+Republike	republika	Ncfsg
+

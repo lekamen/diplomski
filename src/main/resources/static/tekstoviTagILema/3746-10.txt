@@ -1,0 +1,661 @@
+sferična	sferičan	Agpfsny
+
+4.2.46.	4.2.46.	Mdo
+plutača	plutača	Ncfsn
+stožasta	stožast	Agpfsny
+
+4.2.47.	4.2.47.	Mdo
+plutača	plutača	Ncfsn
+strujomjerna	strujomjeran	Agpfsny
+
+4.2.48.	4.2.48.	Mdo
+plutača	plutača	Ncfsn
+u	u	Sl
+obliku	oblik	Ncmsl
+motke	motka	Ncfsg
+
+4.2.49.	4.2.49.	Mdo
+plutača	plutača	Ncfsn
+usamljene	usamljen	Agpfsgy
+opasnosti	opasnost	Ncfsg
+
+4.2.50.	4.2.50.	Mdo
+plutača	plutača	Ncfsn
+valografska	valografski	Agpfsny
+
+4.2.51.	4.2.51.	Mdo
+plutača	plutača	Ncfsn
+valjkasta	valjkast	Agpfsny
+
+4.2.52.	4.2.52.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+hidroavione	hidroavion	Ncmpa
+
+4.2.53.	4.2.53.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+ispust	ispust	Ncmsan
+
+4.2.54.	4.2.54.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+kabel	kabel	Ncmsan
+
+4.2.55.	4.2.55.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+kompenzaciju	kompenzacija	Ncfsa
+kompasa	kompas	Ncmpg
+
+4.2.56.	4.2.56.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+nečisto	nečist	Agpnsay
+dno	dno	Ncnsa
+
+4.2.57.	4.2.57.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+opasnu	opasan	Agpfsay
+zonu	zona	Ncfsa
+
+4.2.58.	4.2.58.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+područje	područje	Ncnsa
+demagnetizacije	demagnetizacija	Ncfsg
+
+4.2.59.	4.2.59.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+rekreacijsku	rekreacijski	Agpfsay
+zonu	zona	Ncfsa
+
+4.2.60.	4.2.60.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+sidrište	sidrište	Ncnsa
+za	za	Sa
+hidroavione	hidroavion	Ncmpa
+
+4.2.61.	4.2.61.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+sustav	sustav	Ncmsan
+odvojene	odvojiti	Agpfsgy
+plovidbe	plovidba	Ncfsg
+
+4.2.62.	4.2.62.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+posebne	poseban	Agpfpay
+namjene	namjena	Ncfpa
+
+4.2.63.	4.2.63.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+prikupljanje	prikupljanje	Ncnsa
+podataka	podatak	Ncmpg
+
+4.2.64.	4.2.64.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+vez	vez	Ncmsan
+
+4.2.65.	4.2.65.	Mds
+posebne	poseban	Agpfsgy
+oznake	oznaka	Ncfsg
+
+4.2.66.	4.2.66.	Mdo
+plutače	plutača	Ncfsg
+,	,	Z
+oznake	oznaka	Ncfsg
+
+4.2.67.	4.2.67.	Mdo
+prut	prut	Ncmsan
+
+4.2.68.	4.2.68.	Mdo
+putokaz	putokaz	Ncmsn
+
+4.2.69.	4.2.69.	Mdo
+radarski	radarski	Agpmsny
+reflektor	reflektor	Ncmsn
+
+4.2.70.	4.2.70.	Mdo
+rešetkasta	rešetkast	Agpfsny
+kula	kula	Ncfsn
+
+4.2.71.	4.2.71.	Mdo
+retroreflektirajući	retroreflektirajući	Agpmsayn
+materijal	materijal	Ncmsan
+
+4.2.72.	4.2.72.	Mdo
+sezonska	sezonski	Agpfsny
+plutača	plutača	Ncfsn
+
+4.2.73.	4.2.73.	Mdo
+smjer	smjer	Ncmsan
+označavanja	označavanje	Ncnsg
+plovidbenog	plovidben	Agpmsgy
+puta	put	Ncmsg
+
+4.2.74.	4.2.74.	Mdo
+sustav	sustav	Ncmsn
+pomorskih	pomorski	Agpfpgy
+oznaka	oznaka	Ncfpg
+IALA	IAL	Npmsg
+
+4.2.75.	4.2.75.	Mdo
+svjetleća	svjetleći	Agpfsny
+oznaka	oznaka	Ncfsn
+
+4.2.76.	4.2.76.	Mdo
+vez	vez	Ncmsan
+
+4.2.77.	4.2.77.	Mdo
+znak	znak	Ncmsan
+na	na	Sl
+vrhu	vrh	Ncmsl
+
+4.3.	4.3.	Mdo
+
+SIGNALI	signal	Ncmpn
+ZA	za	Sa
+MAGLU	magla	Ncfsa
+
+4.3.1.	4.3.1.	Mdo
+automatski	automatski	Agpmsayn
+signal	signal	Ncmsan
+za	za	Sa
+maglu	magla	Ncfsa
+
+4.3.2.	4.3.2.	Mdo
+dijafon	dijafoa	Ncfsg
+
+4.3.3.	4.3.3.	Mdo
+eksplozivni	eksplozivan	Agpmsayn
+signal	signal	Ncmsan
+
+4.3.4.	4.3.4.	Mdo
+gong	gong	Ncmsan
+
+4.3.5.	4.3.5.	Mdo
+nautofon	nautofam	Ncmsg
+
+4.3.6.	4.3.6.	Mdo
+pisak	pisak	Ncmsan
+
+4.3.7.	4.3.7.	Mdo
+radiosignal	radiosignal	Ncmsan
+za	za	Sa
+maglu	magla	Ncfsa
+
+4.3.8.	4.3.8.	Mdo
+pozicija	pozicija	Ncfsn
+signala	signal	Ncmsg
+za	za	Sa
+maglu	magla	Ncfsa
+
+4.3.9.	4.3.9.	Mdo
+rog	rog	Ncmsn
+
+4.3.10.	4.3.10.	Mds
+sirena	sirena	Ncfpg
+
+4.3.11.	4.3.11.	Mdo
+tifon	tifon	Ncmsn
+
+4.3.12.	4.3.12.	Mdo
+zviždaljka	zviždaljka	Ncfsn
+
+4.3.13.	4.3.13i	Agpnsny
+zvono	zvono	Ncnsn
+
+4.4.	4.4.	Mdo
+
+ELEKTRONIČKI	elektronički	Agpmsny
+NAVIGACIJSKI	navigacijski	Agpmsny
+I	i	Cc
+KOMUNIKACIJSKI	komunikacijski	Agpmpny
+SUSTAVI	sustav	Ncmpn
+
+4.4.1.	4.4.1.	Mdo
+aeronautički	aeronautički	Agpmsny
+radiofar	radiofar	Ncmsn
+
+4.4.2.	4.4.2.	Mdo
+elektronički	elektronički	Agpmpny
+sustavi	sustav	Ncmpn
+
+4.4.3.	4.4.3.	Mdo
+far-odgovarač	far-odgovarač	Ncmsn
+
+4.4.4.	4.4.4.	Mdo
+neusmjereni	neusmjeren	Agpmsny
+radiofar	radiofar	Ncmsn
+
+4.4.5.	4.4.5.	Mdo
+obalna	obalni	Agpfsny
+radarska	radarski	Agpfsny
+postaja	postaja	Ncfsn
+
+4.4.6.	4.4.6.	Mdo
+obalna	obalni	Agpfsny
+radiopostaja	radiopostaja	Ncfsn
+,	,	Z
+QTG	qt	Aspfsny
+služba	služba	Ncfsn
+
+4.4.7.	4.4.7.	Mdo
+postaja	postaja	Ncfsn
+radiogoniometarska	radiogoniometarski	Agpfsny
+
+4.4.8.	4.4.8.	Mdo
+postaja	postaja	Ncfsn
+radiotelefonska	radiotelefonski	Agpfsny
+
+4.4.9.	4.4.9.	Mdo
+postaja	postaja	Ncfsn
+radiotelegrafska	radiotelegrafski	Agpfsny
+
+4.4.10.	4.4.10.	Mdo
+
+Racon	Racon	Npmsn
+
+4.4.11.	4.4.11.	Mdo
+radar	radar	Ncmsan
+
+4.4.12.	4.4.12.	Mdo
+radarska	radarski	Agpfsny
+postaja	postaja	Ncfsn
+
+4.4.13.	4.4.13.	Mdo
+radarski	radarski	Agpmsny
+far-odgovarač	far-odgovarač	Ncmsn
+
+4.4.14.	4.4.14.	Mdo
+radarski	radarski	Agpmsny
+markantni	markantan	Agpmsny
+objekt	objekt	Ncmsn
+
+4.4.15.	4.4.15.	Mdo
+radarski	radarski	Agpmsny
+reflektor	reflektor	Ncmsn
+
+4.4.16.	4.4.16.	Mdo
+radiofar	radiofar	Qq
+aeronautički	aeronautički	Rgp
+
+4.4.17.	4.4.17.	Mdo
+radiofar	radiofar	Qq
+Consol	Consol	Npmsn
+
+4.4.18.	4.4.18.	Mdo
+radiofar	radiofar	Qq
+neusmjereni	neusmjeren	Agpmpny
+
+4.4.19.	4.4.19.	Mdo
+radiofar	radiofar	Ncmsn
+rotirni	rotirna	Ncfsl
+
+4.4.20.	4.4.20.	Mdo
+radiofar	radiofar	Rgp
+usmjereni	usmjeriti	Appmpny
+
+4.4.21.	4.4.21.	Mdo
+radiogoniometarska	radiogoniometarski	Agpfsny
+postaja	postaja	Ncfsn
+
+4.4.22.	4.4.22.	Mdo
+radionavigacijski	radionavigacijski	Agpmsayn
+sustav	sustav	Ncmsan
+
+4.4.23.	4.4.23.	Mdo
+radiopostaja	radiopostaja	Ncfsn
+
+4.4.24.	4.4.24.	Mdo
+
+Ramark	Ramark	Npmsn
+
+4.4.25.	4.4.25.	Mdo
+satelitski	satelitski	Agpmsny
+navigacijski	navigacijski	Agpmsny
+sustav	sustav	Ncmsn
+
+4.4.26.	4.4.26.	Mdo
+sustavi	sustav	Ncmpn
+za	za	Sa
+pozicioniranje	pozicioniranje	Ncnsa
+
+4.5.	4.5.	Mdo
+
+USLUGE	usluga	Ncfpn
+I	i	Cc
+OBJEKTI	objekt	Ncmpn
+ZA	za	Sa
+PRUŽANJE	pružanje	Ncnsa
+USLUGA	usluga	Ncfpg
+
+4.5.1.	4.5.1.	Mdo
+ambulanta	ambulanta	Ncfsn
+
+4.5.2.	4.5.2.	Mdo
+autokamp	autokamp	Ncmsn
+
+4.5.3.	4.5.3.	Mdo
+banka	banka	Ncfsn
+
+4.5.4.	4.5.4i	Agpnsny
+brodogradilište	brodogradilište	Ncnsn
+za	za	Sa
+čamce	čamac	Ncmpa
+
+4.5.5.	4.5.5.	Mdo
+brodska	brodski	Agpfsny
+oprema	oprema	Ncfsn
+
+4.5.6.	4.5.6.	Mdo
+crpka	crpka	Ncfsn
+za	za	Sa
+gorivo	gorivo	Ncnsa
+
+4.5.7.	4.5.7.	Mdo
+čamac	čamac	Ncmsan
+za	za	Sa
+spašavanje	spašavanje	Ncnsa
+
+4.5.8.	4.5.8.	Mdo
+jarbol	jarbol	Ncmsn
+
+4.5.9.	4.5.9.	Mdo
+javna	javan	Agpfsny
+telefonska	telefonski	Agpfsny
+govornica	govornica	Ncfsn
+
+4.5.10.	4.5.10.	Mdo
+jedrarska	jedrarski	Agpfsny
+radionica	radionica	Ncfsn
+
+4.5.11.	4.5.11.	Mdo
+jedriličarski	jedriličarski	Agpmsny
+klub	klub	Ncmsn
+
+4.5.12.	4.5.12.	Mdo
+kamp	kamp	Ncmsn
+
+4.5.13.	4.5.13.	Mdo
+lučica	lučica	Ncfsn
+
+4.5.14.	4.5.14.	Mds
+ljekarna	ljekarna	Ncfpg
+
+4.5.15.	4.5.15.	Mdo
+mareograf	mareograa	Ncfsg
+
+4.5.16.	4.5.16.	Mdo
+mareometar	mareometar	Qq
+
+4.5.17.	4.5.17.	Mdo
+marina	marina	Ncfsn
+
+4.5.18.	4.5.18.	Mdo
+meteorološka	meteorološki	Agpfsny
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+
+4.5.19.	4.5.19.	Mdo
+mjesto	mjesto	Ncnsa
+ukrcavanja	ukrcavanje	Ncnsg
+peljara	peljar	Ncmsg
+
+4.5.20.	4.5.20.	Mdo
+navoz	navoz	Ncmsan
+
+4.5.21.	4.5.21.	Mdo
+obalna	obalni	Agpfsny
+straža	straža	Ncfsn
+
+4.5.22.	4.5.22.	Mdo
+objekti	objekt	Ncmpn
+i	i	Cc
+usluge	usluga	Ncfpa
+za	za	Sa
+male	mali	Agpmpay
+brodove	brod	Ncmpa
+
+4.5.23.	4.5.23.	Mdo
+oznaka	oznaka	Ncfsn
+skloništa	sklonište	Ncnsg
+
+4.5.24.	4.5.24i	Agpnsny
+parkiralište	parkiralište	Ncnsn
+
+4.5.25.	4.5.25.	Mdo
+peljarenje	peljarenja	Ncfsg
+
+4.5.26.	4.5.26.	Mdo
+peljarska	peljarski	Agpfsny
+promatračnica	promatračnica	Ncfsn
+
+4.5.27.	4.5.27.	Mdo
+peljarski	peljarski	Agpmsny
+ured	ured	Ncmsn
+
+4.5.28.	4.5.28.	Mds
+plinske	plinski	Agpfsgy
+boce	boca	Ncfsg
+
+4.5.29.	4.5.29.	Mdo
+pokretni	pokretan	Agpmsny
+mostić	mostić	Ncmsn
+
+4.5.30.	4.5.30.	Mdo
+policija	policija	Ncfsn
+
+4.5.31.	4.5.31.	Mdo
+postaja	postaja	Ncfsn
+obalne	obalni	Agpfsgy
+straže	straža	Ncfsg
+
+4.5.32.	4.5.32.	Mdo
+postaja	postaja	Ncfsn
+oceanografska	oceanografski	Agpfsny
+
+4.5.33.	4.5.33.	Mdo
+postaja	postaja	Ncfsn
+s	sa	Si
+raketama	raketa	Ncfpi
+
+4.5.34.	4.5.34.	Mdo
+postaja	postaja	Ncfsn
+signalna	signalni	Agpfsny
+
+4.5.35.	4.5.35.	Mdo
+postaja	postaja	Ncfsn
+službe	služba	Ncfsg
+spašavanja	spašavanje	Ncnsg
+
+4.5.36.	4.5.36.	Mdo
+postaja	postaja	Ncfsn
+telegrafska	telegrafski	Agpfsny
+
+4.5.37.	4.5.37.	Mdo
+poštanski	poštanski	Agpmsny
+sandučić	sandučić	Ncmsn
+
+4.5.38.	4.5.38.	Mdo
+pozicija	pozicija	Ncfsn
+peljarskog	peljarski	Agpmsgy
+broda	brod	Ncmsg
+
+4.5.39.	4.5.39.	Mdo
+postaje	postaja	Ncfsg
+
+4.5.40.	4.5.40.	Mdo
+prehrambeni	prehramben	Agpmpny
+proizvodi	proizvod	Ncmpn
+
+4.5.41.	4.5.41.	Mdo
+priključak	priključak	Ncmsan
+za	za	Sa
+električnu	električan	Agpfsay
+energiju	energija	Ncfsa
+
+4.5.42.	4.5.42.	Mdo
+priključak	priključak	Ncmsan
+za	za	Sa
+vodu	voda	Ncfsa
+
+4.5.43.	4.5.43.	Mdo
+prometni	prometan	Agpmsny
+signal	signal	Ncmsn
+
+4.5.44.	4.5.44.	Mdo
+restoran	restoran	Ncmsan
+
+4.5.45.	4.5.45.	Mdo
+sanitarni	sanitaran	Agpmsny
+čvor	čvor	Ncmsn
+
+4.5.46.	4.5.46.	Mdo
+semafor	semafor	Ncmsn
+
+4.5.47.	4.5.47i	Agpnsny
+sidrište	sidrište	Ncnsn
+za	za	Sa
+gostujuće	gostujući	Agpmpay
+brodove	brod	Ncmpa
+
+4.5.48.	4.5.48.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+meteorološka	meteorološki	Agpfsny
+
+4.5.49.	4.5.49.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+s	sa	Si
+međunarodnim	međunarodni	Agpmpiy
+signalima	signal	Ncmpi
+
+4.5.50.	4.5.50.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+brodove	brod	Ncmpa
+u	u	Sl
+opasnosti	opasnost	Ncfsl
+
+4.5.51.	4.5.51.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+lučki	lučki	Agpmsayn
+nadzor	nadzor	Ncmsan
+
+4.5.52.	4.5.52.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+oluju	oluja	Ncfsa
+
+4.5.53.	4.5.53.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+opasnost	opasnost	Ncfsa
+
+4.5.54.	4.5.54.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+plimnu	plimni	Agpfsay
+struju	struja	Ncfsa
+
+4.5.55.	4.5.55.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+plimu	plima	Ncfsa
+
+4.5.56.	4.5.56.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+prolazak	prolazak	Ncmsan
+ispod	ispod	Sg
+mosta	most	Ncmsg
+
+4.5.57.	4.5.57.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+točno	točan	Agpnsay
+vrijeme	vrijeme	Ncnsa
+
+4.5.58.	4.5.58.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+ulaz	ulaz	Ncmsan
+i	i	Cc
+izlaz	izlaz	Ncmsan
+iz	iz	Sg
+luke	luka	Ncfsg
+
+4.5.59.	4.5.59.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+ustavu	ustava	Ncfsa
+
+4.5.60.	4.5.60.	Mdo
+signalna	signalni	Agpfsny
+postaja	postaja	Ncfsn
+za	za	Sa
+vježbe	vježba	Ncfpa
+gađanja	gađanje	Ncnsg
+
+4.5.61.	4.5.61.	Mdo
+signalni	signalni	Agpmsny
+jarbol	jarbol	Ncmsn
+
+4.5.62.	4.5.62.	Mdo
+siz	siz	Ncmsan
+
+4.5.63.	4.5.63.	Mdo
+sklonište	sklonište	Ncnsa
+za	za	Sa
+brodolomce	brodolomac	Ncmpa
+
+4.5.64.	4.5.64.	Mdo
+služba	služba	Ncfsn
+peljarska	peljarski	Agpfsny
+
+4.5.65.	4.5.65.	Mdo
+služba	služba	Ncfsn
+spašavanja	spašavanje	Ncnsg
+
+4.5.66.	4.5.66.	Mdo
+soha	soha	Ncfsn
+
+4.5.67.	4.5.67.	Mdo
+stepenice	stepenica	Ncfsg
+
+4.5.68.	4.5.68.	Mdo
+svjetlo	svjetlo	Ncnsa
+za	za	Sa
+označavanje	označavanje	Ncnsa
+mosta	most	Ncmsg
+
+4.5.69.	4.5.69.	Mdo
+telefonska	telefonski	Agpfsny
+govornica	govornica	Ncfsn
+
+4.5.70.	4.5.70.	Mdo
+tuševi	tuš	Ncmpn
+
+4.5.71.	4.5.71i	Agpfpay
+usluge	usluga	Ncfpa
+

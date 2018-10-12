@@ -7,6 +7,7 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
 
 import hr.lenak.diplomski.core.processing.PretProcesiranjeZakona;
+import hr.lenak.diplomski.core.processing.UcitavanjeTagaILema;
 import hr.lenak.diplomski.web.ViewNames;
 
 import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
@@ -45,5 +46,9 @@ public class PocetnaView extends VerticalLayout implements View {
 	private void processing() {
 		//pretprocesiranje zakona
 		//PretProcesiranjeZakona.saveAllElementsInFiles();
+		
+		//ucitavanje tokena
+		UcitavanjeTagaILema ucitavanje = new UcitavanjeTagaILema();
+		ucitavanje.ucitajTagoveILeme();
 	}
 }

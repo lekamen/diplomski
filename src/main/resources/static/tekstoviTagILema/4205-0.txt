@@ -1,0 +1,162 @@
+61	61	Mdc
+06.07.2016	06.07.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+predsjednika	predsjednik	Ncmsg
+i	i	Cc
+dijela	dio	Ncmsg
+članova	član	Ncmpg
+Nadzornog	nadzorni	Agpmsgy
+odbora	odbor	Ncmsg
+Financijske	financijski	Agpfsgy
+agencije	agencija	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1554	1554	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+11.	11.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+12.	12.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+Financijskoj	financijski	Agpfsly
+agenciji	agencija	Ncfsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+117/01	117/01	Mdc
+,	,	Z
+60/04	60/04	Mdc
+i	i	Cc
+42/05	42/05	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+8.	8.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+I	i	Cc
+DIJELA	dio	Ncmsg
+ČLANOVA	član	Ncmpg
+NADZORNOG	nadzorni	Agpmsgy
+ODBORA	odbor	Ncmsg
+FINANCIJSKE	financijski	Agpfsgy
+AGENCIJE	agencija	Ncfsg
+
+1.	1.	Mdo
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+IGOR	Igor	Npmsn
+RAĐENOVIĆ	Rađenović	Npmsn
+dužnosti	dužnost	Ncfsg
+predsjednika	predsjednik	Ncmsg
+Nadzornog	nadzorni	Agpmsgy
+odbora	odbor	Ncmsg
+Financijske	financijski	Agpfsgy
+agencije	agencija	Ncfsg
+.	.	Z
+
+2.	2.	Mdo
+Razrješuju	razrješivati	Vmr3p
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfsg
+članice	članica	Ncfsg
+Nadzornog	nadzorni	Agpmsgy
+odbora	odbor	Ncmsg
+Financijske	financijski	Agpfsgy
+agencije	agencija	Ncfsg
+:	:	Z
+
+–	–	Ncfsn
+ANA	Ana	Npfsn
+DORIĆ	DORIĆ	Npfsn
+ŠKEVA	ŠKEVA	Npfsn
+
+–	–	Npfsn
+ZRINKA	ZRINKA	Npfsn
+VRHOVSKI	VRHOVSKI	Npfsn
+,	,	Z
+radi	radi	Sg
+isteka	istek	Ncmsg
+mandata	mandat	Ncmsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/104	02/104	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+06	06	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

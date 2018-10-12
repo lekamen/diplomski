@@ -1,0 +1,52 @@
+objave	objava	Ncfpa
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+04/12	04/12	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+534	534	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+2/2	2/2	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+3.	3.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+prim	prim	Ncmsan
+.	.	Z
+
+Siniša	Siniša	Npfsn
+Varga	Varga	Npfsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+dent	dent	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

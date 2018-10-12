@@ -1,0 +1,397 @@
+kategorije	kategorija	Ncfsg
+L	l	Agpnsny
+,	,	Z
+vozilo	vozilo	Ncnsa
+koje	koji	Pi-nsn
+se	sebe	Px--sa
+ne	ne	Qz
+može	moći	Vmr3s
+uvrstiti	uvrstiti	Vmn
+u	u	Sa
+određenu	određen	Agpfsay
+kategoriju	kategorija	Ncfsa
+jer	jer	Cs
+ne	ne	Qz
+ispunjava	ispunjavati	Vmr3s
+najmanje	malo	Rgs
+jedno	jedan	Mlcnsn
+mjerilo	mjerilo	Ncnsn
+za	za	Sa
+navedenu	naveden	Agpfsay
+kategoriju	kategorija	Ncfsa
+,	,	Z
+uvrštava	uvrštavati	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+sljedeću	sljedeći	Agpfsay
+kategoriju	kategorija	Ncfsa
+čija	čiji	Pi-fsn
+mjerila	mjerilo	Ncnpa
+ispunjava	ispunjavati	Vmr3s
+.	.	Z
+
+To	taj	Pd-nsn
+se	sebe	Px--sa
+primjenjuje	primjenjivati	Vmr3s
+na	na	Sa
+sljedeće	sljedeći	Agpfpay
+skupine	skupina	Ncfpa
+kategorija	kategorija	Ncfpg
+i	i	Cc
+potkategorija	potkategorija	Ncfsn
+:	:	Z
+
+(	(	Z
+a	a	Cc
+)	)	Z
+kategoriju	kategorija	Ncfsa
+L1e	l1a	Ncfsg
+s	sa	Si
+potkategorijama	potkategorija	Ncfpi
+L1e-A	L1e-	Npmsg
+i	i	Cc
+L1e-B	l1e-a	Ncfpa
+i	i	Cc
+kategoriju	kategorija	Ncfsa
+L3e	l3a	Ncfsg
+s	sa	Si
+potkategorijama	potkategorija	Ncfpi
+L3e-A1	l3e-	Agpfpiy
+,	,	Z
+L3e-A2	L3e-A2	Npmsn
+i	i	Cc
+L3e-A3	l3e-ai	Agpnsny
+;	;	Z
+
+(	(	Z
+b	b	X
+)	)	Z
+kategoriju	kategorija	Ncfsa
+L2e	l2a	Ncfsg
+i	i	Cc
+kategoriju	kategorija	Ncfsa
+L5e	l5a	Ncfsg
+s	sa	Si
+potkategorijama	potkategorija	Ncfpi
+L5e-A	L5e-	Npmsg
+i	i	Cc
+L5e-B	l5e-i	Agpnsny
+;	;	Z
+
+(	(	Z
+c	C	Npmsn
+)	)	Z
+kategoriju	kategorija	Ncfsa
+L6e	l6a	Ncfsg
+s	sa	Si
+potkategorijama	potkategorija	Ncfpi
+L6e-A	L6e-	Npmsg
+i	i	Cc
+L6e-B	l6e-a	Ncfpa
+i	i	Cc
+kategoriju	kategorija	Ncfsa
+L7e	l7a	Ncfsg
+s	sa	Si
+potkategorijama	potkategorija	Ncfpi
+L7e-A	L7e-	Npmsg
+,	,	Z
+L7e-B	L7e-B	Npmsn
+i	i	Cc
+L7e-C	l7e-i	Agpnsny
+;	;	Z
+
+(	(	Z
+d	d	X
+)	)	Z
+bilo	bilo	Qo
+koji	koji	Pi-msan
+drugi	drugi	Mlomsan
+logični	logičan	Agpmsayn
+slijed	slijed	Ncmsan
+kategorija	kategorija	Ncfpg
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+potkategorija	potkategorija	Ncfpg
+koji	koji	Pi-msn
+predloži	predložiti	Vmr3s
+proizvođač	proizvođač	Ncmsn
+i	i	Cc
+odobri	odobriti	Vmr3s
+homologacijsko	homologacijski	Agpnsay
+tijelo	tijelo	Ncnsa
+.	.	Z
+«	«	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+U	u	Sl
+Prilogu	prilog	Ncmsl
+V	V	Mrc
+iza	iza	Sg
+obrasca	obrazac	Ncmsg
+»	»	Z
+IZJAVA	izjava	Ncfsn
+O	o	Sl
+SUKLADNOSTI	sukladnost	Ncfsl
+VOZILA	vozilo	Ncnsg
+«	«	Z
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+obrazac	obrazac	Ncmsn
+:	:	Z
+
+»	»	Z
+IZJAVA	izjava	Ncfsn
+O	o	Sl
+SUKLADNOSTI	sukladnost	Ncfsl
+VOZILA	vozilo	Ncnsg
+–	–	Z
+L	l	Y
+kategorija	kategorija	Ncfpg
+(	(	Z
+prema	prema	Sl
+Uredbi	uredba	Ncfsl
+(	(	Z
+EU	EU	Npmsn
+)	)	Z
+168/2013	168/2013	Mdc
+)	)	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+____________	____________	Z
+
+0.1.	0.1.	Mdo
+
+Marka	marka	Ncfsn
+vozila	vozilo	Ncnsg
+:	:	Z
+__________________________________	__________________________________	Z
+
+0.2.	0.2.	Mdo
+
+Tip	tip	Ncmsn
+:	:	Z
+__________________________________________	__________________________________________	I
+.	.	Z
+
+0.2.1.	0.2.1.	Mdo
+varijanta	varijanta	Ncfsn
+:	:	Z
+_____________________________________	_____________________________________	Qr
+.	.	Z
+
+0.2.2.	0.2.2.	Mdo
+izvedba	izvedba	Ncfsn
+:	:	Z
+_____________________________________	_____________________________________	Qr
+.	.	Z
+
+0.2.3.	0.2.3.	Mdo
+
+Trgovački	trgovački	Agpmsny
+naziv	naziv	Ncmsn
+:	:	Z
+_______________________________	_______________________________	I
+.	.	Z
+
+0.3.	0.3.	Mdo
+
+Kategorija	kategorija	Ncfsn
+/	/	Z
+potkategorija	potkategorija	Ncfsn
+/	/	Z
+potpotkategorija	potpotkategorija	Ncfsn
+vozila	vozilo	Ncnsg
+:	:	Z
+.	.	Z
+_______	_______	Qr
+.	.	Z
+
+0.4.	0.4.	Mdo
+
+Naziv	naziv	Ncmsn
+i	i	Cc
+adresa	adresa	Ncfsn
+proizvođača	proizvođač	Ncmsg
+vozila	vozilo	Ncnsg
+:	:	Z
+___________________	___________________	Z
+
+0.4.2.	0.4.2.	Mdo
+
+Naziv	naziv	Ncmsn
+i	i	Cc
+adresa	adresa	Ncfsn
+predstavnika	predstavnik	Ncmpg
+proizvođača	proizvođač	Ncmsg
+(	(	Z
+ako	ako	Cs
+postoji	postojati	Vmr3s
+)	)	Z
+:	:	Z
+__	__	Ncmsn
+.	.	Z
+
+0.5.	0.5.	Mdo
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+način	način	Ncmsn
+postavljanja	postavljanje	Ncnsg
+propisanih	propisati	Agpfpgy
+pločica	pločica	Ncfpg
+:	:	Z
+___________	___________	Qr
+.	.	Z
+
+0.6.	0.6.	Mdo
+
+Mjesto	mjesto	Ncnsn
+identifikacijske	identifikacijski	Agpfsgy
+oznake	oznaka	Ncfsg
+vozila	vozilo	Ncnsg
+__________________	__________________	Qr
+.	.	Z
+
+1.0.	1.0.	Mdo
+
+Identifikacijska	identifikacijski	Agpfsny
+oznaka	oznaka	Ncfsn
+vozila	vozilo	Ncnsg
+(	(	Z
+VIN	VIN	Npmsn
+)	)	Z
+:	:	Z
+__________________	__________________	Qr
+.	.	Z
+
+1.1.	1.1.	Mdo
+
+Broj	broj	Ncmsn
+EU	E	Npmsg
+homologacije	homologacija	Ncfpa
+vozila	vozilo	Ncnsg
+:	:	Z
+________________________	________________________	Z
+.	.	Z
+
+Izjavljujem	izjavljivati	Vmr1s
+da	da	Cs
+je	biti	Var3s
+navedeno	naveden	Agpnsny
+vozilo	vozilo	Ncnsn
+u	u	Sl
+cijelosti	cijelost	Ncfsl
+sukladno	sukladno	Rgp
+homologiranom	homologiran	Agpmsly
+tipu	tip	Ncmsl
+vozila	vozilo	Ncnpg
+za	za	Sa
+koji	koji	Pi-msan
+je	biti	Var3s
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+mjeriteljstvo	mjeriteljstvo	Ncnsa
+izdao	izdati	Vmp-sm
+Potvrdu	potvrda	Ncfsa
+o	o	Sl
+evidenciji	evidencija	Ncfsl
+tipa	tip	Ncmsg
+vozila	vozilo	Ncnpg
+
+Broj	broj	Ncmsn
+:	:	Z
+________	________	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+__________	__________	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+______________	______________	Ncmsn
+od	od	Sg
+:	:	Z
+_____________	_____________	Z
+
+Izdavač	izdavač	Ncmsn
+izjave	izjava	Ncfsg
+:	:	Z
+_________________________________________	_________________________________________	Z
+
+____________________________________________________	____________________________________________________	Ncfsn
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+datum	datum	Ncmsn
+:	:	Z
+___________	___________	Z
+
+M.	M.	Y
+P.	P.	Y
+Odgovorna	odgovoran	Agpfsny
+osoba	osoba	Ncfsn
+:	:	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+01/03	01/03	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+558	558	Mdc
+-	-	Z
+04	04	Mdc
+-	-	Z
+01/1	01/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+prosinca	prosinac	Ncmsg
+2015.	2015.	Mdo
+
+Zamjenik	zamjenik	Ncmsn
+ravnatelja	ravnatelj	Ncmsg
+mr.	mr.	Y
+sc.	sc.	Y
+Božidar	Božidar	Npmsn
+Ljubić	Ljubić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

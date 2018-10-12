@@ -1,0 +1,54 @@
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+izreci	izreka	Ncfsl
+.	.	Z
+
+Odluka	odluka	Ncfsn
+o	o	Sl
+objavi	objava	Ncfsl
+(	(	Z
+točka	točka	Ncfsn
+IV	IV	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-3327	U-III-3327	X
+/	/	Z
+2013	2013	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

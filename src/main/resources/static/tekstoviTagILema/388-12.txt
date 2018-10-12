@@ -1,0 +1,629 @@
+ona	on	Pp3fsn
+vrši	vršiti	Vmr3s
+rollback	rollbaca	Ncfpa
+bilo	biti	Vap-sn
+kakvih	kakav	Agpfpgy
+otvorenih	otvoren	Agpfpgy
+transakcija	transakcija	Ncfpg
+,	,	Z
+te	te	Cc
+priprema	priprema	Ncfsn
+neke	neki	Pi-fpa
+varijable	varijabla	Ncfpa
+za	za	Sa
+prijem	prijem	Ncmsan
+računa	račun	Ncmpg
+i	i	Cc
+ne	ne	Qz
+sadrži	sadržati	Vmr3s
+nikakve	nikakav	Pi-mpa
+parametre	parametar	Ncmpa
+.	.	Z
+
+Procedura	procedura	Ncfsn
+provjerava	provjeravati	Vmr3s
+da	da	Cs
+li	li	Cs
+je	biti	Var3s
+izvršena	izvršiti	Appfsny
+autorizacija	autorizacija	Ncfsn
+na	na	Sa
+sustav	sustav	Ncmsan
+.	.	Z
+
+Nakon	nakon	Sg
+toga	taj	Pd-nsg
+se	sebe	Px--sa
+šalje	slati	Vmr3s
+zaglavlje	zaglavlje	Ncnsa
+računa	račun	Ncmsg
+(	(	Z
+vidi	vidjeti	Vmr3s
+Pogreška	pogreška	Ncfsn
+!	!	Z
+
+Izvor	izvor	Ncmsn
+reference	referenca	Ncfsg
+nije	biti	Var3s
+pronađen	pronaći	Appmsnn
+.	.	Z
+)	)	Z
+te	te	Cc
+nakon	nakon	Sg
+nje	on	Pp3fsg
+se	sebe	Px--sa
+šalju	slati	Vmr3p
+stavke	stavka	Ncfpn
+jedna	jedan	Mlcfsn
+po	po	Sa
+jedna	jedan	Mlcfsn
+.	.	Z
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+poslanih	poslati	Appfpgy
+stavki	stavka	Ncfpg
+poziva	pozivati	Vmr3s
+se	sebe	Px--sa
+bill_send_commit	bill_send_commit	Ncmsn
+koji	koji	Pi-msn
+vraća	vraćati	Vmr3s
+BILL_ID	bill_ia	Ncfpa
+novokreiranog	novokreiran	Agpmsgy
+računa	račun	Ncmsg
+,	,	Z
+kojeg	koji	Pi-msan
+je	biti	Var3s
+moguće	moguć	Agpnsny
+vidjeti	vidjeti	Vmn
+pomoću	pomoć	Ncfsi
+:	:	Z
+
+select	select	Xf
+*	*	Z
+from	from	Xf
+vremote_bills_headers	vremote_bills_headers	Xf
+where	where	Xf
+bill_id	bill_id	Xf
+=	=	Z
+<BILL_ID>	<bill_idi	Agpnsny
+;	;	Z
+
+select	select	Xf
+*	*	Z
+from	fra	Ncfsi
+vremote_bills_data	vremote_bills_dati	Appfsny
+where	wherti	Vmp-sm
+bill_id	bill_id	Ncmsan
+=	=	Z
+<BILL_ID>	<bill_idi	Agpnsny
+;	;	Z
+
+Za	za	Sa
+nastavak	nastavak	Ncmsan
+slanja	slanje	Ncnsg
+podataka	podatak	Ncmpg
+o	o	Sl
+računima	račun	Ncmpl
+ponovno	ponovno	Rgp
+se	sebe	Px--sa
+poziva	pozivati	Vmr3s
+procedura	procedura	Ncfsn
+send_bill_start	send_bill_start	Ncmsn
+.	.	Z
+
+PRILOG	prilog	Ncmsn
+3	3	Mdc
+
+IZVJEŠTAJ	izvještaj	Ncmsn
+O	o	Sl
+GODIŠNJOJ	godišnji	Agpfsly
+POTROŠNJI	potrošnja	Ncfsl
+ENERGENATA	energent	Ncmpg
+I	i	Cc
+VODE	voda	Ncfsg
+
+Izvještaj	izvještaj	Ncmsn
+se	sebe	Px--sa
+kreira	kreirati	Vmr3s
+na	na	Sl
+osnovi	osnova	Ncfsl
+zadanih	zadati	Agpmpgy
+parametara	parametar	Ncmpg
+u	u	Sl
+ISGE-u	ISGE	Npmsl
+.	.	Z
+
+Izvještaj	izvještaj	Ncmsn
+mora	morati	Vmr3s
+sadržavati	sadržavati	Vmn
+sljedeće	sljedeći	Agpmpay
+parametre	parametar	Ncmpa
+:	:	Z
+
+•	•	Agpmsny
+Raspon	raspon	Ncmsn
+godina	godina	Ncfpg
+–	–	Z
+godina	godina	Ncfsn
+tražena	tražiti	Appfsny
+izvještajem	izvještaj	Ncmsi
+–	–	Z
+prošla	proći	Vmp-sf
+godina	godina	Ncfsn
+
+•	•	Z
+Godina	godina	Ncfsn
+od	od	Sg
+–	a	Ncfsg
+prošla	proći	Vmp-sf
+godina	godina	Ncfsn
+
+•	i	Agpfsny
+Godina	godina	Ncfsn
+do	do	Sg
+–	a	Ncfsg
+prošla	proći	Vmp-sf
+godina	godina	Ncfsn
+
+•	i	Agpfsny
+Grupa	grupa	Ncfsn
+vrste	vrsta	Ncfsg
+objekata	objekt	Ncmpg
+–	–	Z
+sve	sav	Agpfpay
+vrste	vrsta	Ncfpa
+objekata	objekt	Ncmpg
+(	(	Z
+ne	ne	Qz
+odabire	odabirati	Vmr3s
+se	sebe	Px--sa
+posebna	poseban	Agpfsny
+vrsta	vrsta	Ncfsn
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+
+•	i	Agpfsny
+Vrsta	vrsta	Ncfsn
+objekta	objekt	Ncmsg
+–	–	Z
+sve	sav	Agpfpay
+vrste	vrsta	Ncfpa
+objekata	objekt	Ncmpg
+(	(	Z
+ne	ne	Qz
+odabire	odabirati	Vmr3s
+se	sebe	Px--sa
+posebna	poseban	Agpfsny
+vrsta	vrsta	Ncfsn
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+
+•	•	Z
+Prikaži	prikazati	Vmm2s
+izvještaj	izvještaj	Ncmsan
+o	o	Sl
+godišnjoj	godišnji	Agpfsly
+potrošnji	potrošnja	Ncfsl
+–	–	Z
+DA	da	Qr
+(	(	Z
+odabir	odabir	Ncmsn
+plusa	plus	Ncmsg
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+
+•	•	Z
+Prikaži	prikazati	Vmm2s
+izvještaj	izvještaj	Ncmsan
+o	o	Sl
+mjesečnoj	mjesečan	Agpfsly
+potrošnji	potrošnja	Ncfsl
+–	–	Z
+DA	da	Qr
+(	(	Z
+odabir	odabir	Ncmsn
+plusa	plus	Ncmsg
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+
+•	•	Z
+Prikaži	prikazati	Vmm2s
+izvještaj	izvještaj	Ncmsan
+o	o	Sl
+vrstama	vrsta	Ncfpl
+objekata	objekt	Ncmpg
+–	–	Z
+DA	da	Qr
+(	(	Z
+odabir	odabir	Ncmsn
+plusa	plus	Ncmsg
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+
+•	•	Z
+Prikaži	prikazati	Vmm2s
+zbirne	zbirni	Agpmpay
+grafove	graf	Ncmpa
+po	po	Sl
+godinama	godina	Ncfpl
+na	na	Sl
+kraju	kraj	Ncmsl
+izvještaja	izvještaj	Ncmsg
+–	–	Z
+DA	da	Qr
+(	(	Z
+odabir	odabir	Ncmsn
+plusa	plus	Ncmsg
+na	na	Sl
+padajućem	padajući	Agpmsly
+izborniku	izbornik	Ncmsl
+)	)	Z
+.	.	Z
+
+Slika	slika	Ncfsn
+1.	1.	Mdo
+Primjer	primjer	Ncmsn
+odabira	odabir	Ncmsg
+parametara	parametar	Ncmpg
+u	u	Sl
+ISGE-u	ISGE	Npmsl
+.	.	Z
+
+Svaki	svaki	Pi-msn
+izvještaj	izvještaj	Ncmsn
+šalje	slati	Vmr3s
+se	sebe	Px--sa
+elektroničkim	elektronički	Agpmsiy
+putem	put	Ncmsi
+u	u	Sa
+.	.	Z
+pdf	pdf	Agpmsly
+formatu	format	Ncmsl
+(	(	Z
+lijeva	lijevati	Vmr3s
+ikonica	ikonica	Ncfsn
+na	na	Sl
+slici	slika	Ncfsl
+1.	1.	Mdo
+)	)	Z
+.	.	Z
+
+Točnim	točan	Agpmsiy
+odabirom	odabir	Ncmsi
+parametara	parametar	Ncmpg
+dobivaju	dobivati	Vmr3p
+se	sebe	Px--sa
+sljedeći	sljedeći	Agpmpny
+podaci	podatak	Ncmpn
+:	:	Z
+
+•	•	Z
+Početna	početan	Agpfsny
+stranica	stranica	Ncfsn
+izvještaja	izvještaj	Ncmsg
+,	,	Z
+koja	koji	Pi-fsn
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+o	o	Sa
+Opis	opis	Ncmsan
+odabranih	odabrati	Agpmpgy
+objekata	objekt	Ncmpg
+(	(	Z
+naziv	naziv	Ncmsn
+objekta	objekt	Ncmsg
+,	,	Z
+grupe	grupa	Ncfsg
+objekata	objekt	Ncmpg
+,	,	Z
+etikete	etiketa	Ncfpn
+)	)	Z
+
+o	o	Sl
+Odabrani	odabrati	Ncfsl
+raspon	raspon	Ncmsan
+godina	godina	Ncfpg
+
+o	o	Sa
+Datum	datum	Ncmsan
+
+o	o	Sl
+Broj	Bro	Npmsl
+ETC-ova	etc-o	Ncfpl
+sa	sa	Si
+zaključanim	zaključati	Agpmsiy
+periodom	period	Ncmsi
+
+o	o	Sl
+Ploština	ploština	Ncfsn
+korisne	koristan	Agpfsgy
+površine	površina	Ncfsg
+zgrade	zgrada	Ncfsg
+Ak	Ak	Xf
+[	[	Z
+m²	mi	Agpnsny
+]	]	Z
+
+o	o	Sa
+Obujam	obujam	Ncmsan
+grijanog	grijati	Agpmsgy
+dijela	dio	Ncmsg
+zgrade	zgrada	Ncfsg
+Ve	va	Ncfsg
+[	[	Z
+m³	mi	Agpnsny
+]	]	Z
+
+o	o	Sa
+Ukupan	ukupan	Agpmsann
+broj	broj	Ncmsan
+korisnika	korisnik	Ncmpg
+
+o	o	Sa
+Broj	broj	Ncmsan
+analiziranih	analizirati	Appmpgy
+ETC-ova	etc-	Ncmpg
+(	(	Z
+razvedeno	razvesti	Appnsny
+po	po	Sl
+vrsti	vrsta	Ncfsl
+ETC-a	ETC	Npmsg
+)	)	Z
+
+o	o	Sa
+Pregled	pregled	Ncmsan
+vrsta	vrsta	Ncfpg
+objekata	objekt	Ncmpg
+(	(	Z
+razvedeno	razvesti	Appnsny
+po	po	Sl
+vrsti	vrsta	Ncfsl
+objekata	objekt	Ncmpg
+)	)	Z
+
+APSOLUTNA	apsolutan	Agpfsny
+POTROŠNJA	potrošnja	Ncfsn
+ENERGIJE	energija	Ncfsg
+
+Slika	slika	Ncfsn
+2.	2.	Mdo
+Prikaz	prikaz	Ncmsn
+početne	početan	Agpfsgy
+stranice	stranica	Ncfsg
+izvještaja	izvještaj	Ncmsg
+.	.	Z
+
+•	i	Agpfsny
+Godišnja	godišnji	Agpfsny
+potrošnja	potrošnja	Ncfsn
+energenata	energent	Ncmpg
+i	i	Cc
+vode	voda	Ncfsg
+,	,	Z
+koja	koji	Pi-fsn
+sadrži	sadržati	Vmr3s
+
+o	o	Sl
+Potrošnja	potrošnja	Ncfsn
+po	po	Sl
+grupi	grupa	Ncfsl
+energenata	energent	Ncmpg
+
+o	o	Sl
+Potrošnja	Potrošnja	Npfsl
+u	u	Sl
+mjernim	mjerni	Agpfply
+jedinicama	jedinica	Ncfpl
+pojedinog	pojedini	Agpmsgy
+energenta	energent	Ncmsg
+i	i	Cc
+vode	voda	Ncfsg
+
+o	o	Sl
+Potrošnja	potrošnja	Ncfsn
+preračunata	preračunati	Appfsny
+na	na	Sa
+jedinicu	jedinica	Ncfsa
+kilovatsati	kilovatsat	Ncmpg
+[	[	Z
+kWh	kwh	Agpmpny
+]	]	Z
+
+o	o	Sa
+Trošak	trošak	Ncmsan
+[	[	Z
+kn	KN	Ncmsn
+]	]	Z
+
+o	o	Sl
+Emisije	Emisij	Npmsl
+CO₂	CO	Npmsl
+[	[	Z
+t	t	X
+]	]	Z
+
+o	o	Sa
+Popratni	popratni	Agpmsayn
+grafički	grafički	Agpmsayn
+prikaz	prikaz	Ncmsan
+pojedinih	pojedini	Agpmpgy
+elemenata	element	Ncmpg
+
+Slika	slika	Ncfsn
+3.	3.	Mdo
+Prikaz	prikaz	Ncmsn
+godišnje	godišnji	Agpfsgy
+potrošnje	potrošnja	Ncfsg
+.	.	Z
+
+•	•	Z
+Mjesečna	mjesečan	Agpfsny
+potrošnja	potrošnja	Ncfsn
+energenata	energent	Ncmpg
+i	i	Cc
+vode	voda	Ncfsg
+,	,	Z
+koja	koji	Pi-fsn
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+o	o	Sl
+Potrošnja	potrošnja	Ncfsn
+po	po	Sl
+pojedinom	pojedini	Agpmsly
+mjesecu	mjesec	Ncmsl
+
+o	o	Sl
+Potrošnja	potrošnja	Ncfsn
+po	po	Sl
+grupi	grupa	Ncfsl
+energenata	energent	Ncmpg
+
+o	o	Sl
+Potrošnja	Potrošnja	Npfsl
+u	u	Sl
+mjernim	mjerni	Agpfply
+jedinicama	jedinica	Ncfpl
+pojedinog	pojedini	Agpmsgy
+energenta	energent	Ncmsg
+i	i	Cc
+vode	voda	Ncfsg
+
+o	o	Sa
+Trošak	trošak	Ncmsan
+[	[	Z
+kn	KN	Ncmsn
+]	]	Z
+
+o	o	Sl
+Emisije	Emisij	Npmsl
+CO₂	CO	Npmsl
+[	[	Z
+t	t	X
+]	]	Z
+
+o	o	Sa
+Popratni	popratni	Agpmsayn
+grafički	grafički	Agpmsayn
+prikaz	prikaz	Ncmsan
+pojedinih	pojedini	Agpmpgy
+elemenata	element	Ncmpg
+
+Slika	slika	Ncfsn
+4	4	Mdc
+a.	a.	Y
+Tablični	tablični	Agpmsny
+prikaz	prikaz	Ncmsn
+mjesečne	mjesečan	Agpfsgy
+potrošnje	potrošnja	Ncfsg
+.	.	Z
+
+Slika	slika	Ncfsn
+4	4	Mdc
+b.	b.	Y
+Grafički	grafički	Agpmsny
+prikaz	prikaz	Ncmsn
+mjesečne	mjesečan	Agpfsgy
+potrošnje	potrošnja	Ncfsg
+.	.	Z
+
+•	i	Agpfsny
+Godišnja	godišnji	Agpfsny
+potrošnja	potrošnja	Ncfsn
+energenata	energent	Ncmpg
+i	i	Cc
+vode	voda	Ncfsg
+po	po	Sl
+vrsti	vrsta	Ncfsl
+objekta	objekt	Ncmsg
+,	,	Z
+koja	koji	Pi-fsn
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+o	o	Sl
+Potrošnja	Potrošnja	Npfsl
+po	po	Sl
+pojedinoj	pojedini	Agpfsly
+vrsti	vrsta	Ncfsl
+objekta	objekt	Ncmsg
+
+o	o	Sl
+Potrošnja	potrošnja	Ncfsn
+po	po	Sl
+grupi	grupa	Ncfsl
+energenata	energent	Ncmpg
+
+o	o	Sl
+Potrošnja	Potrošnja	Npfsl
+u	u	Sl
+mjernim	mjerni	Agpfply
+jedinicama	jedinica	Ncfpl
+pojedinog	pojedini	Agpmsgy
+energenta	energent	Ncmsg
+i	i	Cc
+vode	voda	Ncfsg
+
+o	o	Sa
+Trošak	trošak	Ncmsan
+[	[	Z
+kn	KN	Ncmsn
+]	]	Z
+
+o	o	Sl
+Emisije	Emisij	Npmsl
+CO₂	CO	Npmsl
+[	[	Z
+t	t	X
+]	]	Z
+
+o	o	Sa
+Popratni	popratni	Agpmsayn
+grafički	grafički	Agpmsayn
+prikaz	prikaz	Ncmsan
+pojedinih	pojedini	Agpmpgy
+elemenata	element	Ncmpg
+
+Slika	slika	Ncfsn
+5	5	Mdc
+a.	a.	Y
+Tablični	tablični	Agpmsny
+prikaz	prikaz	Ncmsn
+godišnje	godišnji	Agpfsgy
+potrošnje	potrošnja	Ncfsg
+po	po	Sl
+vrsti	vrsta	Ncfsl
+objekta	objekt	Ncmsg
+.	.	Z
+
+•	i	Agpfsny
+Godišnja	godišnji	Agpfsny
+potrošnja	potrošnja	Ncfsn
+kroz	kroz	Sa
+zbirne	zbirni	Agpmpay
+grafove	graf	Ncmpa
+
+Slika	slika	Ncfsn
+5	5	Mdc
+b.	b.	Y
+Grafički	grafički	Agpmsny
+prikaz	prikaz	Ncmsn
+godišnje	godišnji	Agpfsgy
+potrošnje	potrošnja	Ncfsg
+po	po	Sl
+vrsti	vrsta	Ncfsl
+objekta	objekt	Ncmsg
+.	.	Z
+

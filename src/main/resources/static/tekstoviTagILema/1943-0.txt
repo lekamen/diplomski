@@ -1,0 +1,166 @@
+100	100	Mdc
+18.09.2015	18.09.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+koeficijentu	koeficijent	Ncmsl
+korekcije	korekcija	Ncfsg
+za	za	Sa
+minimalni	minimalan	Agpmsayn
+pristupni	pristupni	Agpmsayn
+paket	paket	Ncmsan
+u	u	Sl
+2016.	2016.	Mdo
+godini	godina	Ncfsl
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1944	1944	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+željeznici	željeznica	Ncfsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+94/13	94/13	Mdc
+i	i	Cc
+148/13	148/13	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+17.	17.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+KOEFICIJENTU	koeficijent	Ncmsl
+KOREKCIJE	korekcija	Ncfsg
+ZA	za	Sa
+MINIMALNI	minimalan	Agpmsayn
+PRISTUPNI	pristupni	Agpmsayn
+PAKET	paket	Ncmsan
+U	u	Sl
+2016.	2016.	Mdo
+
+GODINI	godina	Ncfsl
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+određuje	određivati	Vmr3s
+se	sebe	Px--sa
+koeficijent	koeficijent	Ncmsn
+korekcije	korekcija	Ncfsg
+od	od	Sg
+0,4	0,4	Mdc
+za	za	Sa
+minimalni	minimalan	Agpmsayn
+pristupni	pristupni	Agpmsayn
+paket	paket	Ncmsan
+,	,	Z
+koji	koji	Pi-msn
+pruža	pružati	Vmr3s
+upravitelj	upravitelj	Ncmsn
+infrastrukture	infrastruktura	Ncfsg
+za	za	Sa
+vozni	vozan	Agpmsayn
+red	red	Ncmsan
+u	u	Sl
+2016.	2016.	Mdo
+godini	godina	Ncfsl
+,	,	Z
+poštujući	poštovati	Rr
+načelo	načelo	Ncnsa
+jednakih	jednak	Agpmpgy
+i	i	Cc
+nediskriminirajućih	nediskriminirajući	Agpfpgy
+naknada	naknada	Ncfpg
+za	za	Sa
+željezničke	željeznički	Agpfpay
+usluge	usluga	Ncfpa
+iz	iz	Sg
+članka	članak	Ncmsg
+24.	24.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+željeznici	željeznica	Ncfsl
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/395	04/395	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

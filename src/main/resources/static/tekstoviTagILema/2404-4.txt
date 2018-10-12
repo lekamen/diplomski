@@ -1,0 +1,64 @@
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+GORDANA	GORDANA	Npfsn
+RUSAK	RUSAK	Npfsn
+(	(	Z
+kandidatkinja	kandidatkinja	Ncfsn
+na	na	Sl
+kandidacijskoj	kandidacijski	Agpfsly
+listi	lista	Ncfsl
+pod	pod	Si
+rednim	redni	Agpmsiy
+brojem	broj	Ncmsi
+2.	2.	Mdo
+)	)	Z
+3.	3.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+IRENA	IREN	Npmsg
+PETRIJEVČANIN	PETRIJEVČANIN	Npmsn
+VUKSANOVIĆ	Vuksanović	Npmsn
+(	(	Z
+kandidatkinja	kandidatkinja	Ncfsn
+na	na	Sl
+kandidacijskoj	kandidacijski	Agpfsly
+listi	lista	Ncfsl
+pod	pod	Si
+rednim	redni	Agpmsiy
+brojem	broj	Ncmsi
+3.	3.	Mdo
+)	)	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+01/87	01/87	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+507/11	507/11	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+18	18	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Branko	Branko	Npmsn
+Hrvatin	Hrvatin	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

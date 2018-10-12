@@ -1,0 +1,157 @@
+30	30	Mdc
+06.04.2016	06.04.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predsjednika	predsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+
+MINISTARSTVO	ministarstvo	Ncnsn
+ZDRAVLJA	zdravlje	Ncnsg
+
+827	827	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+50.	50.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+medicinski	medicinski	Rgp
+pomognutoj	pomognut	Agpfsly
+oplodnji	oplodnja	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+86/12	86/12	Mdc
+)	)	Z
+ministar	ministar	Ncmsn
+zdravlja	zdravlje	Ncnsg
+donosi	donositi	Vmr3s
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+NACIONALNOG	nacionalan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+ZA	za	Sa
+MEDICINSKI	medicinski	Agpmsayn
+POMOGNUTU	pomognut	Agpfsay
+OPLODNJU	oplodnja	Ncfsa
+
+1.	1.	Mdo
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+VELIMIR	VELIMIR	Npmsn
+ŠIMUNIĆ	Šimunić	Npmsn
+predsjednikom	predsjednik	Ncmsi
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+.	.	Z
+
+2.	2.	Mdo
+Za	za	Sa
+članove	član	Ncmpa
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	–	Z
+doc.	doc.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+MARIJANA	MARIJANA	Npfsn
+BRAŠ	BRAŠ	Npfsn
+
+–	–	Z
+prof.	prof.	Y
+prim	prim	Ncmsan
+.	.	Z
+dr.	dr.	Y
+sc.	sc.	Y
+DINKA	DINKA	Npfsn
+PAVIČIĆ	Pavičić	Npfsn
+BALDANI	baldani	Agpmpny
+
+–	–	Agpmsny
+prim	prim	Ncmsn
+.	.	Z
+dr.	dr.	Y
+sc.	sc.	Y
+TATJANA	TATJANA	Npfsn
+PAVELIĆ	Pavelić	Npmsn
+TURUDIĆ	TURUDIĆ	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+02/11	02/11	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+534	534	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+2/1	2/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+doc.	doc.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Dario	Dario	Npmsn
+Nakić	Nakić	Npmsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

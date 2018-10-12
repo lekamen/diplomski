@@ -1,0 +1,634 @@
+1	137	Mdc	137	1	3
+2	23.12.2015	Mdo	23.12.2015	5	14
+3	Odluka	Ncfsn	odluka	16	21
+4	o	Sl	o	23	23
+5	imenovanju	Ncnsl	imenovanje	25	34
+6	predsjednika	Ncmpg	predsjednik	36	47
+7	i	Cc	i	49	49
+8	članova	Ncmpg	član	51	57
+9	ustavnosudskih	Agpnpgy	ustavnosudski	59	72
+10	vijeća	Ncnpg	vijeće	74	79
+11	do	Sg	do	81	82
+12	stupanja	Ncnsg	stupanje	84	91
+13	na	Sa	na	93	94
+14	dužnost	Ncfsa	dužnost	96	102
+15	novih	Agpmpgy	nov	104	108
+16	sudaca	Ncmpg	sudac	110	115
+17	Ustavnog	Agpmsgy	ustavan	117	124
+18	suda	Ncmsg	sud	126	129
+19	Republike	Ncfsg	republika	131	139
+20	Hrvatske	Npfsg	Hrvatska	141	148
+
+1	USTAVNI	Agpmsny	ustavan	1	7
+2	SUD	Ncmsn	sud	9	11
+3	REPUBLIKE	Ncfsg	republika	13	21
+4	HRVATSKE	Agpfsgy	hrvatski	23	30
+
+1	2587	Mdc	2587	1	4
+
+1	Na	Sl	na	1	2
+2	temelju	Ncmsl	temelj	4	10
+3	članka	Ncmsg	članak	12	17
+4	11.	Mdo	11.	19	21
+5	točaka	Ncfpg	točka	23	28
+6	2.	Mdo	2.	30	31
+7	i	Cc	i	33	33
+8	3.	Mdo	3.	35	36
+9	Poslovnika	Ncmsg	poslovnik	38	47
+10	Ustavnog	Agpmsgy	ustavan	49	56
+11	suda	Ncmsg	sud	58	61
+12	Republike	Ncfsg	republika	63	71
+13	Hrvatske	Npfsg	Hrvatska	73	80
+14	(	Z	(	82	82
+15	»	Z	»	83	83
+16	Narodne	Agpfpny	narodni	84	90
+17	novine	Ncfpn	novina	92	97
+18	«	Z	«	98	98
+19	broj	Ncmsn	broj	100	103
+20	181/03.	Mds	181/03.	105	111
+21	,	Z	,	112	112
+22	16/06.	Mds	16/06.	114	119
+23	,	Z	,	120	120
+24	30/08.	Mds	30/08.	122	127
+25	,	Z	,	128	128
+26	123/09.	Mds	123/09.	130	136
+27	,	Z	,	137	137
+28	63/10.	Mds	63/10.	139	144
+29	,	Z	,	145	145
+30	121/10.	Mds	121/10.	147	153
+31	,	Z	,	154	154
+32	19/13.	Mds	19/13.	156	161
+33	,	Z	,	162	162
+34	37/14.	Mds	37/14.	164	169
+35	,	Z	,	170	170
+36	83/14.	Mdo	83/14.	172	177
+37	–	Z	–	179	179
+38	pročišćeni	Agpmsayn	pročišćen	181	190
+39	tekst	Ncmsan	tekst	192	196
+40	,	Z	,	197	197
+41	2/15.	Mdo	2/15.	199	203
+42	)	Z	)	204	204
+43	Ustavni	Agpmsny	ustavan	206	212
+44	sud	Ncmsn	sud	214	216
+45	Republike	Ncfsg	republika	218	226
+46	Hrvatske	Npfsg	Hrvatska	228	235
+47	u	Sl	u	237	237
+48	sastavu	Ncmsl	sastav	239	245
+49	Jasna	Npfsn	Jasna	247	251
+50	Omejec	Npfsn	Omejec	253	258
+51	,	Z	,	259	259
+52	predsjednica	Ncfsn	predsjednica	261	272
+53	,	Z	,	273	273
+54	te	Cc	te	275	276
+55	suci	Ncmpn	sudac	278	281
+56	Mato	Npmsn	Mato	283	286
+57	Arlović	Npmsn	Arlović	288	294
+58	,	Z	,	295	295
+59	Marko	Npmsn	Marko	297	301
+60	Babić	Npmsn	Babić	303	307
+61	,	Z	,	308	308
+62	Snježana	Npfsn	Snježana	310	317
+63	Bagić	Npfsn	Bagić	319	323
+64	,	Z	,	324	324
+65	Slavica	Npmsn	Slavica	326	332
+66	Banić	Npmsn	Banić	334	338
+67	,	Z	,	339	339
+68	Mario	Npmsn	Mario	341	345
+69	Jelušić	Npmsn	Jelušić	347	353
+70	,	Z	,	354	354
+71	Antun	Npmsn	Antun	356	360
+72	Palarić	Npmsn	Palarić	362	368
+73	,	Z	,	369	369
+74	Aldo	Npmsn	Aldo	371	374
+75	Radolović	Npmsn	Radolović	376	384
+76	,	Z	,	385	385
+77	Duška	Npfsn	Duška	387	391
+78	Šarin	Npfsn	Šarin	393	397
+79	i	Cc	i	399	399
+80	Miroslav	Npmsn	Miroslav	401	408
+81	Šeparović	Npmsn	Šeparović	410	418
+82	,	Z	,	419	419
+83	na	Sl	na	421	422
+84	sjednici	Ncfsl	sjednica	424	431
+85	održanoj	Appfsly	održati	433	440
+86	21.	Mdo	21.	442	444
+87	prosinca	Ncmsg	prosinac	446	453
+88	2015.	Mdo	2015.	455	459
+89	donio	Vmp-sm	donijeti	461	465
+90	je	Var3s	biti	467	468
+
+1	ODLUKU	Ncfsa	odluka	1	6
+
+1	O	Sl	o	1	1
+2	IMENOVANJU	Ncnsl	imenovanje	3	12
+3	PREDSJEDNIKA	Ncmpg	predsjednik	14	25
+4	I	Cc	i	27	27
+5	ČLANOVA	Ncmpg	član	29	35
+6	USTAVNOSUDSKIH	Agpnpgy	ustavnosudski	37	50
+7	VIJEĆA	Ncnpg	vijeće	52	57
+8	DO	Sg	do	59	60
+9	STUPANJA	Ncnsg	stupanje	62	69
+10	NA	Sa	na	71	72
+11	DUŽNOST	Ncfsa	dužnost	74	80
+12	NOVIH	Agpmpgy	nov	82	86
+13	SUDACA	Ncmpg	sudac	88	93
+14	USTAVNOG	Agpmsgy	ustavan	95	102
+15	SUDA	Ncmsg	sud	104	107
+16	REPUBLIKE	Ncfsg	republika	109	117
+17	HRVATSKE	Npfsg	Hrvatska	119	126
+
+1	I.	Y	I.	1	2
+
+1	Ovom	Pd-fsi	ovaj	1	4
+2	odlukom	Ncfsi	odluka	6	12
+3	imenuju	Vmr3p	imenovati	14	20
+4	se	Px--sa	sebe	22	23
+5	predsjednici	Ncmpn	predsjednik	25	36
+6	i	Cc	i	38	38
+7	članovi	Ncmpn	član	40	46
+8	ustavnosudskih	Agpnpgy	ustavnosudski	48	61
+9	tijela	Ncnpg	tijelo	63	68
+10	iz	Sg	iz	70	71
+11	članka	Ncmsg	članak	73	78
+12	8.	Mdo	8.	80	81
+13	stavka	Ncmsg	stavak	83	88
+14	1.	Mdo	1.	90	91
+15	točaka	Ncfpg	točka	93	98
+16	2.	Mdo	2.	100	101
+17	–	Z	–	103	103
+18	5.	Mdo	5.	105	106
+19	Poslovnika	Ncmsg	poslovnik	108	117
+20	Ustavnog	Agpmsgy	ustavan	119	126
+21	suda	Ncmsg	sud	128	131
+22	Republike	Ncfsg	republika	133	141
+23	Hrvatske	Npfsg	Hrvatska	143	150
+24	.	Z	.	151	151
+
+1	Mandat	Ncmsn	mandat	1	6
+2	predsjednika	Ncmpg	predsjednik	8	19
+3	i	Cc	i	21	21
+4	članova	Ncmpg	član	23	29
+5	ustavnosudskih	Agpnpgy	ustavnosudski	31	44
+6	tijela	Ncnpg	tijelo	46	51
+7	iz	Sg	iz	53	54
+8	stavka	Ncmsg	stavak	56	61
+9	1.	Mdo	1.	63	64
+10	ove	Pd-fsg	ovaj	66	68
+11	točke	Ncfsg	točka	70	74
+12	traje	Vmr3s	trajati	76	80
+13	do	Sg	do	82	83
+14	stupanja	Ncnsg	stupanje	85	92
+15	na	Sa	na	94	95
+16	dužnost	Ncfsa	dužnost	97	103
+17	novih	Agpmpgy	nov	105	109
+18	sudaca	Ncmpg	sudac	111	116
+19	Ustavnog	Agpmsgy	ustavan	118	125
+20	suda	Ncmsg	sud	127	130
+21	Republike	Ncfsg	republika	132	140
+22	Hrvatske	Npfsg	Hrvatska	142	149
+23	.	Z	.	150	150
+
+1	Iznimno	Rgp	iznimno	1	7
+2	,	Z	,	8	8
+3	u	Sl	u	10	10
+4	slučaju	Ncmsl	slučaj	12	18
+5	izbora	Ncmpg	izbor	20	25
+6	manjeg	Agcmsgy	mali	27	32
+7	broja	Ncmsg	broj	34	38
+8	novih	Agpmpgy	nov	40	44
+9	sudaca	Ncmpg	sudac	46	51
+10	Ustavnog	Agpmsgy	ustavan	53	60
+11	suda	Ncmsg	sud	62	65
+12	Republike	Ncfsg	republika	67	75
+13	Hrvatske	Npfsg	Hrvatska	77	84
+14	od	Sg	od	86	87
+15	potrebnog	Agpmsgy	potreban	89	97
+16	,	Z	,	98	98
+17	ova	Pd-fsn	ovaj	100	102
+18	odluka	Ncfsn	odluka	104	109
+19	podliježe	Vmr3s	podlijegati	111	119
+20	odgovarajućim	Agpfpiy	odgovarajući	121	133
+21	izmjenama	Ncfpi	izmjena	135	143
+22	i	Cc	i	145	145
+23	dopunama	Ncfpl	dopuna	147	154
+24	.	Z	.	155	155
+
+1	II	Mrc	ii	1	2
+2	.	Z	.	3	3
+
+1	Za	Sa	za	1	2
+2	predsjednike	Ncmpa	predsjednik	4	15
+3	i	Cc	i	17	17
+4	članove	Ncmpa	član	19	25
+5	vijeća	Ncnsg	vijeće	27	32
+6	za	Sa	za	34	35
+7	odlučivanje	Ncnsa	odlučivanje	37	47
+8	o	Sl	o	49	49
+9	ustavnim	Agpfply	ustavan	51	58
+10	tužbama	Ncfpl	tužba	60	66
+11	imenuju	Vmr3p	imenovati	68	74
+12	se	Px--sa	sebe	76	77
+13	:	Z	:	78	78
+
+1	a	Cc	a	1	1
+2	)	Z	)	2	2
+3	Prvo	Mlonsn	prvi	4	7
+4	vijeće	Ncnsn	vijeće	9	14
+5	:	Z	:	15	15
+
+1	predsjednik	Ncmsn	predsjednik	1	11
+2	:	Z	:	12	12
+3	Antun	Npmsn	Antun	15	19
+4	Palarić	Npmsn	Palarić	21	27
+5	,	Z	,	28	28
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Marko	Npmsn	Marko	18	22
+4	Babić	Npmsn	Babić	24	28
+5	,	Z	,	29	29
+
+1	Slavica	Npfsn	Slavica	1	7
+2	Banić	Npmsn	Banić	9	13
+3	,	Z	,	14	14
+
+1	Mario	Npmsn	Mario	1	5
+2	Jelušić	Npmsn	Jelušić	7	13
+3	,	Z	,	14	14
+
+1	Aldo	Npmsn	Aldo	1	4
+2	Radolović	Npmsn	Radolović	6	14
+3	,	Z	,	15	15
+
+1	zamjenski	Agpmsny	zamjenski	1	9
+2	član	Ncmsn	član	11	14
+3	.	Z	.	15	15
+
+1	b	Npmsn	b	1	1
+2	)	Z	)	2	2
+3	Drugo	Mlonsn	drugi	4	8
+4	vijeće	Ncnsn	vijeće	10	15
+5	:	Z	:	16	16
+
+1	predsjednica	Ncfsn	predsjednica	1	12
+2	:	Z	:	13	13
+3	Snježana	Npfsn	Snježana	16	23
+4	Bagić	Npfsn	Bagić	25	29
+5	,	Z	,	30	30
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Mato	Npmsn	Mato	20	23
+4	Arlović	Npmsn	Arlović	25	31
+5	,	Z	,	32	32
+
+1	Duška	Npfsn	Duška	1	5
+2	Šarin	Npfsn	Šarin	7	11
+3	,	Z	,	12	12
+
+1	Miroslav	Npmsn	Miroslav	1	8
+2	Šeparović	Npmsn	Šeparović	10	18
+3	,	Z	,	19	19
+
+1	zamjenski	Agpmpny	zamjenski	1	9
+2	članovi	Ncmpn	član	11	17
+3	(	Z	(	19	19
+4	dvoje	Mls	dvoje	20	24
+5	sudaca	Ncmpg	sudac	26	31
+6	)	Z	)	32	32
+7	.	Z	.	33	33
+
+1	Zamjenski	Agpmsny	zamjenski	1	9
+2	član	Ncmsn	član	11	14
+3	za	Sa	za	16	17
+4	svaku	Agpfsay	svaki	19	23
+5	pojedinu	Agpfsay	pojedini	25	32
+6	sjednicu	Ncfsa	sjednica	34	41
+7	Prvog	Agpnsgy	prvi	43	47
+8	vijeća	Ncnsg	vijeće	49	54
+9	određuje	Vmr3s	određivati	56	63
+10	se	Px--sa	sebe	65	66
+11	između	Sg	između	68	73
+12	sudaca	Ncmpg	sudac	75	80
+13	članova	Ncmpg	član	82	88
+14	Drugog	Agpnsgy	drugi	90	95
+15	vijeća	Ncnsg	vijeće	97	102
+16	naizmjenično	Agpnsny	naizmjeničan	104	115
+17	prema	Sl	prema	117	121
+18	abecednom	Agpmsly	abecedni	123	131
+19	redu	Ncmsl	red	133	136
+20	prezimena	Ncnsg	prezime	138	146
+21	,	Z	,	147	147
+22	a	Cc	a	149	149
+23	zamjenski	Agpmpny	zamjenski	151	159
+24	članovi	Ncmpn	član	161	167
+25	za	Sa	za	169	170
+26	svaku	Pi-fsa	svaki	172	176
+27	pojedinu	Agpfsay	pojedini	178	185
+28	sjednicu	Ncfsa	sjednica	187	194
+29	Drugog	Agpnsgy	drugi	196	201
+30	vijeća	Ncnsg	vijeće	203	208
+31	određuju	Vmr3p	određivati	210	217
+32	se	Px--sa	sebe	219	220
+33	između	Sg	između	222	227
+34	sudaca	Ncmpg	sudac	229	234
+35	članova	Ncmpg	član	236	242
+36	Prvog	Agpnsgy	prvi	244	248
+37	vijeća	Ncnsg	vijeće	250	255
+38	,	Z	,	256	256
+39	naizmjenično	Rgp	naizmjenično	258	269
+40	po	Sa	po	271	272
+41	dvoje	Ncnsa	dvoje	274	278
+42	prema	Sl	prema	280	284
+43	abecednom	Agpmsly	abecedni	286	294
+44	redu	Ncmsl	red	296	299
+45	prezimena	Ncnsg	prezime	301	309
+46	.	Z	.	310	310
+
+1	c	Npmsn	C	1	1
+2	)	Z	)	2	2
+3	Treće	Mlonsn	treći	4	8
+4	vijeće	Ncnsn	vijeće	10	15
+5	:	Z	:	16	16
+
+1	predsjednik	Ncmsn	predsjednik	1	11
+2	:	Z	:	12	12
+3	Miroslav	Npmsn	Miroslav	17	24
+4	Šeparović	Npmsn	Šeparović	26	34
+5	,	Z	,	35	35
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Mario	Npmsn	Mario	20	24
+4	Jelušić	Npmsn	Jelušić	26	32
+5	,	Z	,	33	33
+
+1	Antun	Npmsn	Antun	1	5
+2	Palarić	Npmsn	Palarić	7	13
+3	,	Z	,	14	14
+
+1	promjenjivi	Agpmpny	promjenjiv	1	11
+2	članovi	Ncmpn	član	13	19
+3	(	Z	(	21	21
+4	troje	Mls	troje	22	26
+5	sudaca	Ncmpg	sudac	28	33
+6	)	Z	)	34	34
+7	.	Z	.	35	35
+
+1	Promjenjivi	Agpmpny	promjenjiv	1	11
+2	članovi	Ncmpn	član	13	19
+3	Trećeg	Agpnsgy	treći	21	26
+4	vijeća	Ncnsg	vijeće	28	33
+5	imenuju	Vmr3p	imenovati	35	41
+6	se	Px--sa	sebe	43	44
+7	na	Sa	na	46	47
+8	mandat	Ncmsan	mandat	49	54
+9	od	Sg	od	56	57
+10	dva	Mlc	dva	59	61
+11	(	Z	(	63	63
+12	2	Mdc	2	64	64
+13	)	Z	)	65	65
+14	mjeseca	Ncmsg	mjesec	67	73
+15	.	Z	.	74	74
+
+1	Sastav	Ncmsn	sastav	1	6
+2	i	Cc	i	8	8
+3	raspored	Ncmsan	raspored	10	17
+4	promjenjivih	Agpmpgy	promjenjiv	19	30
+5	članova	Ncmpg	član	32	38
+6	Trećeg	Agpnsgy	treći	40	45
+7	vijeća	Ncnsg	vijeće	47	52
+8	određuje	Vmr3s	određivati	54	61
+9	se	Px--sa	sebe	63	64
+10	na	Sa	na	66	67
+11	prijedlog	Ncmsan	prijedlog	69	77
+12	predsjednice	Ncfsg	predsjednica	79	90
+13	Ustavnog	Agpmsgy	ustavan	92	99
+14	suda	Ncmsg	sud	101	104
+15	Republike	Ncfsg	republika	106	114
+16	Hrvatske	Npfsg	Hrvatska	116	123
+17	posebnim	Agpmsiy	poseban	125	132
+18	zaključkom	Ncmsi	zaključak	134	143
+19	.	Z	.	144	144
+
+1	III	Mrc	III	1	3
+2	.	Z	.	4	4
+
+1	Za	Sa	za	1	2
+2	predsjednike	Ncmpa	predsjednik	4	15
+3	i	Cc	i	17	17
+4	članove	Ncmpa	član	19	25
+5	vijeća	Ncnsg	vijeće	27	32
+6	za	Sa	za	34	35
+7	rješavanje	Ncnsa	rješavanje	37	46
+8	pretpostavki	Ncfpg	pretpostavka	48	59
+9	za	Sa	za	61	62
+10	odlučivanje	Ncnsa	odlučivanje	64	74
+11	o	Sl	o	76	76
+12	ustavnim	Agpfply	ustavan	78	85
+13	tužbama	Ncfpl	tužba	87	93
+14	imenuju	Vmr3p	imenovati	95	101
+15	se	Px--sa	sebe	103	104
+16	:	Z	:	105	105
+
+1	a	Cc	a	1	1
+2	)	Z	)	2	2
+3	Prvo	Mlonsn	prvi	4	7
+4	vijeće	Ncnsn	vijeće	9	14
+5	:	Z	:	15	15
+
+1	predsjednica	Ncfsn	predsjednica	1	12
+2	:	Z	:	13	13
+3	Duška	Npfsn	Duška	18	22
+4	Šarin	Npfsn	Šarin	24	28
+5	,	Z	,	29	29
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Slavica	Npfsn	Slavica	22	28
+4	Banić	Npfsn	Banić	30	34
+5	,	Z	,	35	35
+6	sutkinja	Ncfsn	sutkinja	37	44
+7	izvjestiteljica	Ncfpg	izvjestiteljica	46	60
+8	,	Z	,	61	61
+
+1	Aldo	Npmsn	Aldo	1	4
+2	Radolović	Npmsn	Radolović	6	14
+3	.	Z	.	15	15
+
+1	b	Npmsn	b	1	1
+2	)	Z	)	2	2
+3	Drugo	Mlonsn	drugi	4	8
+4	vijeće	Ncnsn	vijeće	10	15
+5	:	Z	:	16	16
+
+1	predsjednik	Ncmsn	predsjednik	1	11
+2	:	Z	:	12	12
+3	Mario	Npmsn	Mario	19	23
+4	Jelušić	Npmsn	Jelušić	25	31
+5	,	Z	,	32	32
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Marko	Npmsn	Marko	22	26
+4	Babić	Npmsn	Babić	28	32
+5	,	Z	,	33	33
+
+1	Antun	Npmsn	Antun	1	5
+2	Palarić	Npmsn	Palarić	7	13
+3	.	Z	.	14	14
+
+1	c	Npmsn	C	1	1
+2	)	Z	)	2	2
+3	Treće	Mlonsn	treći	4	8
+4	vijeće	Ncnsn	vijeće	10	15
+5	:	Z	:	16	16
+
+1	predsjednik	Ncmsn	predsjednik	1	11
+2	:	Z	:	12	12
+3	Mato	Npmsn	Mato	18	21
+4	Arlović	Npmsn	Arlović	23	29
+5	,	Z	,	30	30
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Duška	Npfsn	Duška	21	25
+4	Šarin	Npfsn	Šarin	27	31
+5	,	Z	,	32	32
+
+1	Miroslav	Npmsn	Miroslav	1	8
+2	Šeparović	Npmsn	Šeparović	10	18
+3	.	Z	.	19	19
+
+1	IV	Mrc	IV	1	2
+2	.	Z	.	3	3
+
+1	Za	Sa	za	1	2
+2	predsjednike	Ncmpa	predsjednik	4	15
+3	i	Cc	i	17	17
+4	članove	Ncmpa	član	19	25
+5	vijeća	Ncnsg	vijeće	27	32
+6	za	Sa	za	34	35
+7	odlučivanje	Ncnsa	odlučivanje	37	47
+8	o	Sl	o	49	49
+9	žalbama	Ncfpl	žalba	51	57
+10	protiv	Sg	protiv	59	64
+11	odluka	Ncfpg	odluka	66	71
+12	o	Sl	o	73	73
+13	razrješenju	Ncnsl	razrješenje	75	85
+14	sudačke	Agpfsgy	sudački	87	93
+15	dužnosti	Ncfsg	dužnost	95	102
+16	i	Cc	i	104	104
+17	odluka	Ncfsn	odluka	106	111
+18	o	Sl	o	113	113
+19	stegovnoj	Agpfsly	stegovni	115	123
+20	odgovornosti	Ncfsl	odgovornost	125	136
+21	sudaca	Ncmpg	sudac	138	143
+22	imenuju	Vmr3p	imenovati	145	151
+23	se	Px--sa	sebe	153	154
+24	:	Z	:	155	155
+
+1	a	Cc	a	1	1
+2	)	Z	)	2	2
+3	Prvo	Mlonsn	prvi	4	7
+4	vijeće	Ncnsn	vijeće	9	14
+5	:	Z	:	15	15
+
+1	predsjednik	Ncmsn	predsjednik	1	11
+2	:	Z	:	12	12
+3	Marko	Npmsn	Marko	18	22
+4	Babić	Npmsn	Babić	24	28
+5	,	Z	,	29	29
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Slavica	Npfsn	Slavica	21	27
+4	Banić	Npfsn	Banić	29	33
+5	,	Z	,	34	34
+
+1	Mario	Npmsn	Mario	1	5
+2	Jelušić	Npmsn	Jelušić	7	13
+3	,	Z	,	14	14
+
+1	Antun	Npmsn	Antun	1	5
+2	Palarić	Npmsn	Palarić	7	13
+3	,	Z	,	14	14
+
+1	Aldo	Npmsn	Aldo	1	4
+2	Radolović	Npmsn	Radolović	6	14
+3	,	Z	,	15	15
+
+1	zamjenski	Agpmsny	zamjenski	1	9
+2	član	Ncmsn	član	11	14
+3	.	Z	.	15	15
+
+1	b	Npmsn	b	1	1
+2	)	Z	)	2	2
+3	Drugo	Mlonsn	drugi	4	8
+4	vijeće	Ncnsn	vijeće	10	15
+5	:	Z	:	16	16
+
+1	predsjednica	Ncfsn	predsjednica	1	12
+2	:	Z	:	13	13
+3	Snježana	Npfsn	Snježana	17	24
+4	Bagić	Npfsn	Bagić	26	30
+5	,	Z	,	31	31
+
+1	članovi	Ncmpn	član	1	7
+2	:	Z	:	8	8
+3	Mato	Npmsn	Mato	21	24
+4	Arlović	Npmsn	Arlović	26	32
+
+1	Duška	Npfsn	Duška	1	5
+2	Šarin	Npfsn	Šarin	7	11
+3	,	Z	,	12	12
+
+1	Miroslav	Npmsn	Miroslav	1	8
+2	Šeparović	Npmsn	Šeparović	10	18
+3	,	Z	,	19	19
+
+1	zamjenski	Agpmpny	zamjenski	1	9
+2	članovi	Ncmpn	član	11	17
+3	(	Z	(	19	19
+4	dvoje	Mls	dvoje	20	24
+5	sudaca	Ncmpg	sudac	26	31
+6	)	Z	)	32	32
+7	.	Z	.	33	33
+
+1	Zamjenski	Agpmsny	zamjenski	1	9
+2	član	Ncmsn	član	11	14
+3	za	Sa	za	16	17
+4	svaku	Agpfsay	svaki	19	23
+5	pojedinu	Agpfsay	pojedini	25	32
+6	sjednicu	Ncfsa	sjednica	34	41
+7	Prvog	Agpnsgy	prvi	43	47
+8	vijeća	Ncnsg	vijeće	49	54
+9	određuje	Vmr3s	određivati	56	63
+10	se	Px--sa	sebe	65	66
+11	između	Sg	između	68	73
+12	sudaca	Ncmpg	sudac	75	80
+13	članova	Ncmpg	član	82	88
+14	Drugog	Agpnsgy	drugi	90	95
+15	vijeća	Ncnsg	vijeće	97	102
+16	naizmjenično	Agpnsny	naizmjeničan	104	115
+17	prema	Sl	prema	117	121
+18	abecednom	Agpmsly	abecedni	123	131
+19	redu	Ncmsl	red	133	136
+20	prezimena	Ncnsg	prezime	138	146
+21	,	Z	,	147	147
+22	a	Cc	a	149	149
+23	zamjenski	Agpmpny	zamjenski	151	159
+24	članovi	Ncmpn	član	161	167
+25	za	Sa	za	169	170
+26	svaku	Pi-fsa	svaki	172	176
+27	pojedinu	Agpfsay	pojedini	178	185
+28	sjednicu	Ncfsa	sjednica	187	194
+29	Drugog	Agpnsgy	drugi	196	201
+30	vijeća	Ncnsg	vijeće	203	208
+31	određuju	Vmr3p	određivati	210	217
+32	se	Px--sa	sebe	219	220
+33	između	Sg	između	222	227
+34	sudaca	Ncmpg	sudac	229	234
+35	članova	Ncmpg	član	236	242
+36	Prvog	Mlomsg	prvi	244	248
+

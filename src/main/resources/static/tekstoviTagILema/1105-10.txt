@@ -1,0 +1,720 @@
+izmjenjivača	izmjenjivač	Ncmpg
+u	u	Sl
+tlu	tlo	Ncnsl
+
+–	–	Z
+Izvedba	izvedba	Ncfsn
+bunara	bunar	Ncmsg
+
+–	–	Sg
+Tehnologije	tehnologija	Ncfsg
+spajanja	spajanje	Ncnsg
+cijevi	cijev	Ncfsg
+
+–	–	Z
+Razvod	razvod	Ncmsn
+prijenosnika	prijenosnik	Ncmpg
+energije	energija	Ncfsg
+od	od	Sg
+izvora	izvor	Ncmsg
+topline	toplina	Ncfsg
+do	do	Sg
+isparivača	isparivač	Ncmsg
+
+–	–	Z
+Razvod	razvod	Ncmsn
+sustava	sustav	Ncmsg
+grijanja	grijanje	Ncnsg
+/	/	Z
+hlađenja	hlađenje	Ncnsg
+,	,	Z
+niskotemperaturni	niskotemperaturni	Agpmpny
+sustavi	sustav	Ncmpn
+grijanja	grijanje	Ncnsg
+,	,	Z
+akumulacija	akumulacija	Ncfsn
+toplinske	toplinski	Agpfsgy
+energije	energija	Ncfsg
+
+9.	9.	Mdo
+Instalacija	instalacija	Ncfsn
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+i	i	Cc
+puštanje	puštanje	Ncnsa
+u	u	Sa
+rad	rad	Ncmsan
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpfpny
+Izvedbe	izvedba	Ncfpn
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+u	u	Sl
+režimu	režim	Ncmsl
+grijanja	grijanje	Ncnsg
+i	i	Cc
+hlađenja	hlađenje	Ncnsg
+
+–	i	Agpnsny
+Odzračivanje	odzračivanje	Ncnsn
+sustava	sustav	Ncmsg
+
+–	i	Agpfsny
+Tlačna	tlačni	Agpfsny
+proba	proba	Ncfsn
+
+–	–	Z
+Načini	način	Ncmpn
+rada	rad	Ncmsg
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+
+–	–	Pd-mpn
+Pasivni	pasivan	Agpmpny
+sustavi	sustav	Ncmpn
+hlađenja	hlađenje	Ncnsg
+
+10.	10.	Mdo
+
+Upravljanje	upravljanje	Ncnsn
+i	i	Cc
+regulacija	regulacija	Ncfsn
+rada	rad	Ncmsg
+–	–	Z
+2,5	2,5	Mdc
+sati	sat	Ncmpg
+
+–	i	Agpfpny
+Osnove	osnova	Ncfpn
+upravljanja	upravljanje	Ncnsg
+
+–	–	Agpmsny
+Optimalni	optimalan	Agpmsny
+sustav	sustav	Ncmsn
+regulacije	regulacija	Ncfsg
+
+–	i	Agpnsny
+Praćenje	praćenje	Ncnsn
+svih	sav	Agpfpgy
+relevantnih	relevantan	Agpfpgy
+veličina	veličina	Ncfpg
+:	:	Z
+temperatura	temperatura	Ncfsn
+,	,	Z
+tlak	tlak	Ncmsn
+,	,	Z
+protok	protok	Ncmsn
+,	,	Z
+potrošnja	potrošnja	Ncfsn
+električne	električan	Agpfsgy
+energije	energija	Ncfsg
+,	,	Z
+toplinski	toplinski	Agpmsny
+i	i	Cc
+rashladni	rashladni	Agpmsayn
+učinak	učinak	Ncmsan
+
+11.	11.	Mdo
+
+Uobičajene	uobičajen	Agpfpny
+pogreške	pogreška	Ncfpn
+u	u	Sl
+radu	rad	Ncmsl
+i	i	Cc
+praktična	praktičan	Agpnpay
+iskustva	iskustvo	Ncnpa
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpfpny
+Pogreške	pogreška	Ncfpn
+u	u	Sl
+projektiranju	projektiranje	Ncnsl
+i	i	Cc
+izvedbi	izvedba	Ncfsl
+sustava	sustav	Ncmsg
+
+–	i	Agpfpny
+Pogreške	pogreška	Ncfpn
+u	u	Sl
+radu	rad	Ncmsl
+sustava	sustav	Ncmsg
+
+–	–	Z
+Načini	način	Ncmpn
+otkrivanja	otkrivanje	Ncnsg
+pogrešaka	pogreška	Ncfpg
+u	u	Sl
+radu	rad	Ncmsl
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+
+–	–	Agpmsny
+Sadržaj	sadržaj	Ncmsn
+redovitih	redovit	Agpmpgy
+servisa	servis	Ncmpg
+
+–	–	Agpmsny
+Sadržaj	sadržaj	Ncmsn
+dokumentacije	dokumentacija	Ncfsg
+sustava	sustav	Ncmsg
+prema	prema	Sl
+normi	norma	Ncfsl
+za	za	Sa
+ispitivanje	ispitivanje	Ncnsa
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+
+12.	12.	Mdo
+
+Hibridni	hibridan	Agpmpny
+sustavi	sustav	Ncmpn
+za	za	Sa
+grijanje	grijanje	Ncnsa
+s	sa	Si
+dizalicama	dizalica	Ncfpi
+topline	toplina	Ncfsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+13.	13.	Mdo
+
+Ekonomski	ekonomski	Agpmpny
+pokazatelji	pokazatelj	Ncmpn
+primjene	primjena	Ncfsg
+dizalica	dizalica	Ncfsn
+topline	toplina	Ncfsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+14.	14.	Mdo
+
+Zaštita	zaštita	Ncfsn
+na	na	Sl
+radu	rad	Ncmsl
+i	i	Cc
+zaštita	zaštita	Ncfsn
+od	od	Sg
+požara	požar	Ncmsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	–	Agpmpny
+propisi	propis	Ncmpn
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+na	na	Sl
+radu	rad	Ncmsl
+
+–	–	Sa
+siguran	siguran	Agpmsann
+rad	rad	Ncmsan
+i	i	Cc
+mjere	mjera	Ncfpn
+zaštite	zaštita	Ncfsg
+na	na	Sl
+radu	rad	Ncmsl
+
+–	–	Ps3fpa
+potencijalne	potencijalan	Agpfsgy
+opasnosti	opasnost	Ncfsg
+i	i	Cc
+načini	način	Ncmpn
+ublažavanja	ublažavanje	Ncnsg
+i	i	Cc
+izbjegavanja	izbjegavanje	Ncnsg
+opasnosti	opasnost	Ncfsg
+
+–	–	Agpmpny
+izvori	izvor	Ncmpn
+opasnosti	opasnost	Ncfsg
+(	(	Z
+električni	električan	Agpmpny
+,	,	Z
+toplinski	toplinski	Agpmsny
+)	)	Z
+
+15.	15.	Mdo
+
+Zakonodavna	zakonodavan	Agpfsny
+regulativa	regulativa	Ncfsn
+
+–	–	Agpmsny
+Zakon	zakon	Ncmsn
+o	o	Sl
+energetskoj	energetski	Agpfsly
+učinkovitosti	učinkovitost	Ncfsl
+
+–	–	Agpmsny
+Zakonski	zakonski	Agpmsny
+okvir	okvir	Ncmsn
+za	za	Sa
+obnovljive	obnovljiv	Agpmpay
+izvore	izvor	Ncmpa
+energije	energija	Ncfsg
+i	i	Cc
+kogeneraciju	kogeneracija	Ncfsa
+,	,	Z
+te	te	Cc
+postupak	postupak	Ncmsan
+stjecanja	stjecanje	Ncnsg
+statusa	status	Ncmsg
+povlaštenog	povlašten	Agpmsgy
+proizvođača	proizvođač	Ncmsg
+električne	električan	Agpfsgy
+energije	energija	Ncfsg
+
+–	–	Agpmsny
+Zakonski	zakonski	Agpmsny
+okvir	okvir	Ncmsn
+za	za	Sa
+proizvodnju	proizvodnja	Ncfsa
+toplinske	toplinski	Agpfsgy
+energije	energija	Ncfsg
+iz	iz	Sg
+obnovljivih	obnovljiv	Agpmpgy
+izvora	izvor	Ncmpg
+
+–	i	Agpfsny
+Strategija	strategija	Ncfsn
+energetskog	energetski	Agpmsgy
+razvoja	razvoj	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+NN	NN	Npmsn
+130/09	130/09	Mdc
+)	)	Z
+
+–	–	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+uvjetima	uvjet	Ncmpl
+i	i	Cc
+mjerilima	mjerilo	Ncnpl
+za	za	Sa
+utvrđivanje	utvrđivanje	Ncnsa
+sustava	sustav	Ncmsg
+kvalitete	kvaliteta	Ncfsg
+usluga	usluga	Ncfpg
+i	i	Cc
+radova	rad	Ncmpg
+za	za	Sa
+certificiranje	certificiranje	Ncnsa
+ovlaštenih	ovlašten	Agpmpgy
+instalatera	instalater	Ncmpg
+OIE	OIE	Npfsg
+–	–	Z
+dizalica	dizalica	Ncfsn
+topline	toplina	Ncfsg
+
+–	–	Agpmsny
+Pravni	pravni	Agpmsny
+okvir	okvir	Ncmsn
+za	za	Sa
+korištenje	korištenje	Ncnsa
+energije	energija	Ncfsg
+u	u	Sl
+EU	E	Npmsl
+i	i	Cc
+RH	RH	Var3p
+strateški	strateški	Agpmpny
+dokumenti	dokument	Ncmpn
+
+–	i	Agpfsny
+Norma	norma	Ncfsn
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+14511	14511	Mdc
+za	za	Sa
+dizalice	dizalica	Ncfpa
+topline	toplina	Ncfsg
+
+–	i	Agpfsny
+Norma	norma	Ncfsn
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+15450	15450	Mdc
+–	–	Z
+Sustavi	sustav	Ncmpn
+grijanja	grijanje	Ncnsg
+u	u	Sl
+zgradama	zgrada	Ncfpl
+–	–	Z
+Projektiranje	projektiranje	Ncnsn
+dizalica	dizalica	Ncfpg
+topline	toplina	Ncfsg
+
+–	–	Sa
+Toplinsko	toplinski	Agpnsay
+iskorištavanje	iskorištavanje	Ncnsa
+tla	tlo	Ncnsg
+–	i	Agpfsgy
+Geotermalne	geotermalan	Agpfsgy
+dizalice	dizalica	Ncfsg
+topline	toplina	Ncfsg
+(	(	Z
+VDI	VDI	Npmsn
+4640	4640	Mdc
+Thermal	Thermal	Xf
+use	use	Xf
+of	of	Xf
+the	the	Xf
+underground	underground	Xf
+–	–	Z
+Ground	Ground	Xf
+source	source	Xf
+heat	heat	Xf
+pumps	pumps	Xf
+systems	systems	Xf
+)	)	Z
+
+–	–	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+izobrazbi	izobrazba	Ncfsl
+osoba	osoba	Ncfpg
+koje	koji	Pi-fpn
+obavljaju	obavljati	Vmr3p
+djelatnost	djelatnost	Ncfsa
+prikupljanja	prikupljanje	Ncnsg
+,	,	Z
+provjere	provjera	Ncfsg
+propuštanja	propuštanje	Ncnsg
+,	,	Z
+ugradnje	ugradnja	Ncfsg
+i	i	Cc
+održavanja	održavanje	Ncnsg
+ili	ili	Cc
+servisiranja	servisiranje	Ncnsg
+opreme	oprema	Ncfsg
+i	i	Cc
+uređaja	uređaj	Ncmpg
+koji	koji	Pi-mpn
+sadrže	sadržati	Vmr3p
+tvari	tvar	Ncfpa
+koje	koji	Pi-fpn
+oštećuju	oštećivati	Vmr3p
+ozonski	ozonski	Agpmsayn
+sloj	sloj	Ncmsan
+ili	ili	Cc
+fluorirane	fluoriran	Agpmpay
+stakleničke	staklenički	Agpmpay
+plinove	plin	Ncmpa
+ili	ili	Cc
+o	o	Sl
+njima	oni	Pp3-pl
+ovise	ovisiti	Vmr3p
+(	(	Z
+NN	NN	Npmsn
+03/13	03/13	Mdc
+)	)	Z
+
+–	–	Pd-mpn
+Izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+–	–	Z
+bespovratna	bespovratan	Agpnpay
+sredstva	sredstvo	Ncnpa
+za	za	Sa
+općine	općina	Ncfpa
+i	i	Cc
+gradove	grad	Ncmpa
+
+–	a	Ncfpn
+EU	E	Npmsg
+programi	program	Ncmpn
+i	i	Cc
+fondovi	fond	Ncmpn
+
+–	–	Agpmpny
+Nacionali	nacional	Ncmpn
+programi	program	Ncmpn
+energetske	energetski	Agpfsgy
+obnove	obnova	Ncfsg
++	+	Z
+subvencije	subvencija	Ncfsg
+u	u	Sl
+HR	ha	Ncfsl
+
+–	i	Agpfsny
+Uredba	uredba	Ncfsn
+517/2014	517/2014	Mdc
+(	(	Z
+Ministarstva	ministarstvo	Ncnsg
+zaštite	zaštita	Ncfsg
+okoliša	okoliš	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+
+2.	2.	Mdo
+Praktična	praktičan	Agpfsny
+nastava	nastava	Ncfsn
+–	–	Z
+15	15	Mdc
+sati	sat	Ncmpg
+
+1.	1.	Mdo
+Prepoznavanje	prepoznavanje	Ncnsa
+osnovnih	osnovan	Agpfpgy
+komponenti	komponenta	Ncfpg
+sustava	sustav	Ncmsg
+s	sa	Si
+dizalicom	dizalica	Ncfsi
+topline	toplina	Ncfsg
+i	i	Cc
+način	način	Ncmsan
+kako	kako	Cs
+ih	oni	Pp3-pa
+povezati	povezati	Vmn
+u	u	Sa
+cjelinu	cjelina	Ncfsa
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	–	Agpmsny
+krug	krug	Ncmsn
+radne	radni	Agpfsgy
+tvari	tvar	Ncfsg
+
+–	–	Z
+krug	krug	Ncmsn
+izvora	izvor	Ncmsg
+topline	toplina	Ncfsg
+
+–	–	Z
+krug	krug	Ncmsn
+ponora	ponor	Ncmsg
+topline	toplina	Ncfsg
+
+2.	2.	Mdo
+Tehnologije	tehnologija	Ncfsg
+spajanja	spajanje	Ncnsg
+cijevi	cijev	Ncfsg
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+i	i	Cc
+zavarivanje	zavarivanje	Ncnsa
+PE	pa	Ncfsg
+,	,	Z
+PP	PP	Npmsn
+i	i	Cc
+PVC	PVC	Npmsn
+cijevi	cijev	Ncfsg
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+i	i	Cc
+lemljenje	lemljenje	Ncnsa
+bakrenih	bakren	Agpfpgy
+cijevi	cijev	Ncfpg
+
+–		Agcnsay
+spajanje	spajanje	Ncnsa
+čeličnih	čeličan	Agpfpgy
+cijevi	cijev	Ncfpg
+
+3.	3.	Mdo
+Ugradnja	ugradnja	Ncfsn
+pomoćnih	pomoćan	Agpfpgy
+komponenti	komponenta	Ncfpg
+u	u	Sa
+krug	krug	Ncmsan
+izvora	izvor	Ncmpg
+i	i	Cc
+ponora	ponor	Ncmsg
+topline	toplina	Ncfsg
+–	–	Z
+1,5	1,5	Mdc
+sati	sat	Ncmpg
+
+–	–	Agpmpny
+ventili	ventil	Ncmpn
+(	(	Z
+zatvarajući	zatvarati	Rr
+,	,	Z
+nepovratni	nepovratan	Agpmpny
+,	,	Z
+odzračni	odzračni	Agpmpny
+,	,	Z
+sigurnosni	sigurnosni	Agpmpny
+)	)	Z
+
+–	–	Z
+balansirajući	balansirati	Rr
+ventili	ventil	Ncmpn
+
+–	i	Agpfsny
+ekspanzijska	ekspanzijski	Agpfsny
+posuda	posuda	Ncfsn
+
+4.	4.	Mdo
+Polaganje	polaganje	Ncnsn
+izmjenjivača	izmjenjivač	Ncmpg
+u	u	Sl
+tlu	tlo	Ncnsl
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpfsny
+izvedba	izvedba	Ncfsn
+horizontalnog	horizontalan	Agpmsgy
+/	/	Z
+vertikalnog	vertikalan	Agpmsgy
+izmjenjivača	izmjenjivač	Ncmsg
+u	u	Sl
+tlu	tlo	Ncnsl
+
+–	i	Agpfpay
+pripremne	pripreman	Agpfpay
+radnje	radnja	Ncfpa
+za	za	Sa
+zahvat	zahvat	Ncmsan
+vode	voda	Ncfsg
+iz	iz	Sg
+podzemlja	podzemlje	Ncnsg
+
+–	i	Agpnsay
+polaganje	polaganje	Ncnsa
+isparivača	isparivač	Ncmpg
+u	u	Sl
+tlu	tlo	Ncnsl
+(	(	Z
+DX	dx	Agpmpny
+sustavi	sustav	Ncmpn
+)	)	Z
+
+–	–	Z
+izvedba	izvedba	Ncfsn
+ulaza	ulaz	Ncmsg
+cijevi	cijev	Ncfsg
+izmjenjivača	izmjenjivač	Ncmpg
+u	u	Sl
+tlu	tlo	Ncnsl
+u	u	Sa
+prostor	prostor	Ncmsan
+s	sa	Si
+dizalicom	dizalica	Ncfsi
+topline	toplina	Ncfsg
+
+5.	5.	Mdo
+Razvod	razvod	Ncmsn
+sustava	sustav	Ncmsg
+grijanja	grijanje	Ncnsg
+/	/	Z
+hlađenja	hlađenje	Ncnsg
+–	–	Z
+2,5	2,5	Mdc
+sati	sat	Ncmpg
+
+–	–	Z
+izvedba	izvedba	Ncfsn
+razdjelne	razdjelni	Agpfsgy
+grupe	grupa	Ncfsg
+s	sa	Si
+cirkulacijskom	cirkulacijski	Agpfsiy
+pumpom	pumpa	Ncfsi
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+akumulacijskog	akumulacijski	Agpmsgy
+spremnika	spremnik	Ncmsg
+i	i	Cc
+hidraulične	hidrauličan	Agpfsgy
+skretnice	skretnica	Ncfsg
+s	sa	Si
+dizalicom	dizalica	Ncfsi
+topline	toplina	Ncfsg
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+spremnika	spremnik	Ncmsg
+PTV-a	PTV	Npmsg
+s	sa	Si
+dizalicom	dizalica	Ncfsi
+topline	toplina	Ncfsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+troputnog	troputan	Agpmsgy
+ventila	ventil	Ncmsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+balansirajućih	balansirajući	Agpmpgy
+ventila	ventil	Ncmpg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+razdjelnog	razdjelni	Agpmsgy
+ormara	ormar	Ncmsg
+
+–	–	Z
+izolacija	izolacija	Ncfsn
+razvoda	razvod	Ncmsg
+
+6.	6.	Mdo
+Sigurnosne	sigurnosni	Agpfsgy
+provjere	provjera	Ncfsg
+i	i	Cc
+odzračivanje	odzračivanje	Ncnsa
+sustava	sustav	Ncmsg
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpfsny
+provedba	provedba	Ncfsn
+hidraulične	hidrauličan	Agpfsgy
+i	i	Cc
+tlačne	tlačni	Agpfsgy
+probe	proba	Ncfsg
+
+–		Agpfpgy
+priprema	priprema	Ncfpg
+i	i	Cc
+punjenje	punjenje	Ncnsa
+kruga	krug	Ncmsg
+izvora	izvor	Ncmsg
+/	/	Z
+ponora	ponor	Ncmsg
+topline	toplina	Ncfsg
+glikolnom	glikolan	Agpfsiy
+smjesom	smjesa	Ncfsi
+/	/	Z
+vodom	voda	Ncfsi
+
+–	i	Agpnsay
+odzračivanje	odzračivanje	Ncnsa
+sustava	sustav	Ncmsg
+
+–		Agpfpgy
+provjera	provjera	Ncfpg
+propusnosti	propusnost	Ncfsg
+pojedinog	pojedini	Agpmsgy
+kruga	krug	Ncmsg
+
+–	i	Agpnsay
+punjenje	punjenje	Ncnsa
+sustava	sustav	Ncmsg
+radnom	radni	Agpfsiy
+tvari	tvar	Ncfpg
+
+7.	7.	Mdo
+Upravljanje	upravljanje	Ncnsn
+i	i	Cc
+

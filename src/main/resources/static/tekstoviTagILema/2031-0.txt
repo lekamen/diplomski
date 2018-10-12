@@ -1,0 +1,792 @@
+104	104	Mdc
+30.09.2015	30.09.2015	Sa
+Popis	popis	Ncmsan
+članova	član	Ncmpg
+Povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+organoleptičko	organoleptički	Agpnsay
+ocjenjivanje	ocjenjivanje	Ncnsa
+vina	vino	Ncnsg
+i	i	Cc
+voćnih	voćni	Agpnpgy
+vina	vino	Ncnpg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POLJOPRIVREDE	poljoprivreda	Ncfsg
+
+2032	2032	Mdc
+
+Ministarstvo	ministarstvo	Ncnsn
+poljoprivrede	poljoprivreda	Ncfsg
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+37.	37.	Mdo
+stavka	stavak	Ncmsg
+5.	5.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+vinu	vino	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+96/2003	96/2003	Mdc
+,	,	Z
+55/2011	55/2011	Mds
+i	i	Cc
+14/2014	14/2014	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+2.	2.	Mdo
+svaka	svaki	Pi-fsn
+3.	3.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+organoleptičkom	organoleptički	Agpmsly
+(	(	Z
+senzornom	senzoran	Agpnsly
+)	)	Z
+ocjenjivanju	ocjenjivanje	Ncnsl
+vina	vino	Ncnsg
+i	i	Cc
+voćnih	voćni	Agpnpgy
+vina	vino	Ncnpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+106/2004	106/2004	Mdc
+,	,	Z
+137/2012	137/2012	Mds
+,	,	Z
+142/2013	142/2013	Mdc
+,	,	Z
+48/2014	48/2014	Mdc
+i	i	Cc
+1/2015	1/2015	Mdc
+)	)	Z
+i	i	Cc
+rješenja	rješenje	Ncnsg
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+članova	član	Ncmpg
+Povjerenstva	povjerenstvo	Ncnsg
+(	(	Z
+klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+01/08	01/08	Mdc
+-	-	Z
+01/39	01/39	Mdc
+,	,	Z
+urbroj	urbroj	Ncmsn
+:	:	Z
+525	525	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+08	08	Mdc
+-	-	Z
+2	2	Mdc
+od	od	Sg
+10.	10.	Mdo
+listopada	listopad	Ncmsg
+2008.	2008.	Mdo
+godine	godina	Ncfsg
+)	)	Z
+,	,	Z
+objavljuje	objavljivati	Vmr3s
+
+POPIS	popis	Ncmsn
+
+ČLANOVA	član	Ncmpg
+POVJERENSTVA	povjerenstvo	Ncnsg
+ZA	za	Sa
+ORGANOLEPTIČKO	organoleptički	Agpnsay
+OCJENJIVANJE	ocjenjivanje	Ncnsa
+VINA	vino	Ncnsg
+I	i	Cc
+VOĆNIH	voćni	Agpnpgy
+VINA	vino	Ncnpg
+
+1.	1.	Mdo
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Bernard	Bernard	Npmsn
+Kozina	Kozina	Npfsn
+;	;	Z
+
+2.	2.	Mdo
+Branka	Branka	Npfsn
+Mihaljević	Mihaljević	Npfsn
+;	;	Z
+
+3.	3.	Mdo
+Dubravko	dubravko	Agpmsny
+Ćuk	ćuk	Ncmsn
+;	;	Z
+
+4.	4.	Mdo
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Edi	Edi	Npfsn
+Maletić	Maletić	Npfsn
+;	;	Z
+
+5.	5.	Mdo
+Irena	Irena	Npfsn
+Vrtarić	Vrtarić	Npfsn
+;	;	Z
+
+6.	6.	Mdo
+Ivanka	Ivanka	Npfsn
+Rosati	Rosati	Npfsn
+;	;	Z
+
+7.	7.	Mdo
+Miljenko	Miljenko	Npfsn
+Bošnjak	Bošnjak	Npfsn
+;	;	Z
+
+8.	8.	Mdo
+Nikša	Nikša	Npfsn
+Zglav	Zglav	Npfsn
+;	;	Z
+
+9.	9.	Mdo
+Suzana	Suzana	Npfsn
+Jurišić	Jurišić	Npfsn
+;	;	Z
+
+10.	10.	Mdo
+
+Zdenko	Zdenko	Npmsn
+Ivanković	Ivanković	Npmsn
+;	;	Z
+
+11.	11.	Mdo
+
+Blaženka	Blaženka	Npfsn
+Mandarić	Mandarić	Npfsn
+;	;	Z
+
+12.	12.	Mdo
+
+Dunja	dunja	Ncfsn
+Mežnarić	Mežnarić	Npfsn
+;	;	Z
+
+13.	13.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Goran	Goran	Npmsn
+Zdunić	Zdunić	Npmsn
+;	;	Z
+
+14.	14.	Mdo
+
+Mato	Mato	Npmsn
+Violić	Violić	Npmsn
+;	;	Z
+
+15.	15.	Mdo
+
+Miroslav	Miroslav	Npmsn
+Ivanković	Ivanković	Npmsn
+;	;	Z
+
+16.	16.	Mdo
+
+Mladen	mladen	Agpmsny
+Papak	papak	Ncmsn
+;	;	Z
+
+17.	17.	Mdo
+
+Valter	Valter	Npfsn
+Legović	Legović	Npfsn
+;	;	Z
+
+18.	18.	Mdo
+
+Višnja	Višnja	Npfsn
+Zečević	Zečević	Npfsn
+;	;	Z
+
+19.	19.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Ana	Ana	Npfsn
+Jeromel	Jeromel	Npfsn
+;	;	Z
+
+20.	20.	Mdo
+
+Ante	Ante	Npmsn
+Grubišić	Grubišić	Npmsn
+;	;	Z
+
+21.	21.	Mdo
+
+Branka	Branka	Npfsn
+Franjević	Franjević	Npfsn
+;	;	Z
+
+22.	22.	Mdo
+
+Damir	Damir	Npmsn
+Risek	Risek	Npmsn
+;	;	Z
+
+23.	23.	Mdo
+
+Dragica	Dragica	Npfsn
+Kaštelanac	Kaštelanac	Npfsn
+;	;	Z
+
+24.	24.	Mdo
+
+Ivica	Ivica	Npmsn
+Perak	Perak	Npmsn
+;	;	Z
+
+25.	25.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Maja	Maja	Npfsn
+Firšt	Firšt	Npfsn
+Bača	Bača	Npfsn
+;	;	Z
+
+26.	26.	Mdo
+
+Robert	Robert	Npmsn
+Brkić	Brkić	Npmsn
+;	;	Z
+
+27.	27.	Mdo
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Stanka	Stanka	Npfsn
+Herjavec	Herjavec	Npfsn
+;	;	Z
+
+28.	28.	Mdo
+
+Vesna	Vesna	Npfsn
+Bakota	Bakota	Npfsn
+;	;	Z
+
+29.	29.	Mdo
+
+Mr.	Mr.	Y
+sc.	sc.	Y
+Franjo	Franjo	Npmsn
+Francem	Franc	Npmsi
+;	;	Z
+
+30.	30.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Ivana	Ivana	Npfsn
+Alpeza	Alpeza	Npfsn
+;	;	Z
+
+31.	31.	Mdo
+
+Ivanka	Ivanka	Npfsn
+Čelar	Čelar	Npfsn
+;	;	Z
+
+32.	32.	Mdo
+
+Janko	Janko	Npmsn
+Jovanov	Jovanov	Npmsn
+;	;	Z
+
+33.	33.	Mdo
+
+Marinko	Marinko	Npmsn
+Vladić	Vladić	Npmsn
+;	;	Z
+
+34.	34.	Mdo
+
+Melinda	Melinda	Npfsn
+Cossetto	Cossetto	Npfsn
+;	;	Z
+
+35.	35.	Mdo
+
+Miodrag	Miodrag	Npmsn
+Hruškar	Hruškar	Npmsn
+;	;	Z
+
+36.	36.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Sanja	Sanja	Npfsn
+Radeka	Radeka	Npfsn
+;	;	Z
+
+37.	37.	Mdo
+
+Slobodan	slobodan	Agpmsnn
+Čapin	Čapin	Npmsn
+;	;	Z
+
+38.	38.	Mdo
+
+Tomislav	Tomislav	Npmsn
+Plavša	Plavša	Npmsn
+;	;	Z
+
+39.	39.	Mdo
+
+Vera	vera	Ncfsn
+Zima	zima	Ncfsn
+;	;	Z
+
+40.	40.	Mdo
+
+Franjo	Franjo	Npmsn
+Majnarić	Majnarić	Npmsn
+;	;	Z
+
+41.	41.	Mdo
+
+Mandica	Mandica	Npfsn
+Erceg	Erceg	Npfsn
+;	;	Z
+
+42.	42.	Mdo
+
+Veljko	Veljko	Npmsn
+Katić	Katić	Npmsn
+;	;	Z
+
+43.	43.	Mdo
+
+Marija	Marija	Npfsn
+Pecotić	Pecotić	Npfsn
+;	;	Z
+
+44.	44.	Mdo
+
+Frano	Frano	Npmsn
+Vlašić	Vlašić	Npmsn
+;	;	Z
+
+45.	45.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Marko	Marko	Npmsn
+Karoglan	Karoglan	Npmsn
+;	;	Z
+
+46.	46.	Mdo
+
+Goran	Goran	Npmsn
+Marmilić	Marmilić	Npmsn
+;	;	Z
+
+47.	47.	Mdo
+
+Antun	Antun	Npmsn
+Filipec	Filipec	Npmsn
+;	;	Z
+
+48.	48.	Mdo
+
+Gordana	Gordana	Npfsn
+Bosankić	Bosankić	Npfsn
+;	;	Z
+
+49.	49.	Mdo
+
+Krešimir	Krešimir	Npmsn
+Hren	Hren	Npmsn
+;	;	Z
+
+50.	50.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Ivana	Ivan	Npmsg
+Vladimira	Vladimir	Npmsg
+Petric	Petri	Npmsg
+;	;	Z
+
+51.	51.	Mdo
+
+Zdravko	Zdravko	Npmsn
+Orlović	Orlović	Npmsn
+;	;	Z
+
+52.	52.	Mdo
+
+Saša	Saša	Npmsn
+Lukić	Lukić	Npmsn
+;	;	Z
+
+53.	53.	Mdo
+
+Željko	Željko	Npmsn
+Gregorić	Gregorić	Npmsn
+;	;	Z
+
+54.	54.	Mdo
+
+Aleksandar	Aleksandar	Npmsn
+Brodski	brodski	Agpmsny
+;	;	Z
+
+55.	55.	Mdo
+
+Marijan	Marijan	Npmsn
+Knežević	Knežević	Npmsn
+;	;	Z
+
+56.	56.	Mdo
+
+Vesna	Vesna	Npfsn
+Kostanjevečki	Kostanjevečki	Npfsn
+;	;	Z
+
+57.	57.	Mdo
+
+Mladen	Mladen	Npmsn
+Forko	Forko	Npmsn
+;	;	Z
+
+58.	58.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Vlasta	Vlasta	Npfsn
+Rubeša	Rubeša	Npfsn
+Vili	Vili	Npfsn
+;	;	Z
+
+59.	59.	Mdo
+
+Marijan	Marijan	Npmsn
+Čižmešija	Čižmešija	Npmsn
+;	;	Z
+
+60.	60.	Mdo
+
+Blaženka	Blaženka	Npfsn
+Mozer	Mozer	Npfsn
+;	;	Z
+
+61.	61.	Mdo
+
+Miroslav	Miroslav	Npmsn
+Matovinović	Matovinović	Npmsn
+;	;	Z
+
+62.	62.	Mdo
+
+Sanda	sand	Agpfsny
+Desnica	desnica	Ncfsn
+;	;	Z
+
+63.	63.	Mdo
+
+Ivna	Ivna	Npfsn
+Linke	Linke	Npfsn
+;	;	Z
+
+64.	64.	Mdo
+
+Ante	Ante	Npmsn
+Šeparović	Šeparović	Npmsn
+;	;	Z
+
+65.	65.	Mdo
+
+Ivana	Ivana	Npfsn
+Rendulić	Rendulić	Npfsn
+Jelušić	Jelušić	Npfsn
+;	;	Z
+
+66.	66.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Irena	Irena	Npfsn
+Budić	Budić	Npfsn
+Leto	Leto	Npfsn
+;	;	Z
+
+67.	67.	Mdo
+
+Dragica	Dragica	Npfsn
+Režek	Režek	Npfsn
+;	;	Z
+
+68.	68.	Mdo
+
+Antonija	Antonija	Npfsn
+Tomić	Tomić	Npfsn
+;	;	Z
+
+69.	69.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Stipe	Stipe	Npmsn
+Ivić	Ivić	Npmsn
+;	;	Z
+
+70.	70.	Mdo
+
+Slobodan	slobodan	Agpmsnn
+Vili	viti	Vmp-pm
+;	;	Z
+
+71.	71.	Mdo
+
+Dragutin	Dragutin	Npmsn
+Kamenjak	Kamenjak	Npmsn
+;	;	Z
+
+72.	72.	Mdo
+
+Tomislav	Tomislav	Npmsn
+Pavlešić	Pavlešić	Npmsn
+;	;	Z
+
+73.	73.	Mdo
+
+Suzana	Suzana	Npfsn
+Zovko	Zovko	Npfsn
+;	;	Z
+
+74.	74.	Mdo
+
+Zrinka	Zrinka	Npfsn
+Vinković	Vinković	Npfsn
+Jergović	Jergović	Npfsn
+;	;	Z
+
+75.	75.	Mdo
+
+Jasmina	Jasmina	Npfsn
+Šaško	Šaško	Npfsn
+;	;	Z
+
+76.	76.	Mdo
+
+Alfredo	Alfredo	Npmsn
+Cossetto	Cossetto	Npmsn
+;	;	Z
+
+77.	77.	Mdo
+
+Nataša	Nataša	Npfsn
+Puhelek	Puhelek	Npfsn
+Puština	Puština	Npfsn
+;	;	Z
+
+78.	78.	Mdo
+
+Miroslav	Miroslav	Npmsn
+Latal	Latal	Npmsn
+;	;	Z
+
+79.	79.	Mdo
+
+Joško	joško	Rgp
+Bubalo	bubati	Vmp-sn
+;	;	Z
+
+80.	80.	Mdo
+
+Nikola	Nikola	Npmsn
+Mladić	Mladić	Npmsn
+;	;	Z
+
+81.	81.	Mdo
+
+Hrvoje	Hrvoje	Npmsn
+August	August	Npmsn
+;	;	Z
+
+82.	82.	Mdo
+
+Mario	Mario	Npmsn
+Križanić	Križanić	Npmsn
+;	;	Z
+
+83.	83.	Mdo
+
+Ivana	Ivana	Npfsn
+Raguž	Raguž	Npfsn
+;	;	Z
+
+84.	84.	Mdo
+
+Marina	Marina	Npfsn
+Pavlović	Pavlović	Npfsn
+;	;	Z
+
+85.	85.	Mdo
+mr.	mr.	Y
+sc.	sc.	Y
+Josip	Josip	Npmsn
+Mesić	Mesić	Npmsn
+;	;	Z
+
+86.	86.	Mdo
+
+Marija	Marija	Npfsn
+Koščević	Koščević	Npfsn
+;	;	Z
+
+87.	87.	Mdo
+
+Nikolina	Nikolina	Npfsn
+Paleka	Paleka	Npfsn
+;	;	Z
+
+88.	88.	Mdo
+
+Mladen	Mladen	Npmsn
+Perak	Perak	Npmsn
+;	;	Z
+
+89.	89.	Mdo
+
+Tina	Tina	Npfsn
+Klepac	Klepac	Npfsn
+;	;	Z
+
+90.	90.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Marijan	Marijan	Npmsn
+Bubola	Bubola	Npmsn
+;	;	Z
+
+91.	91.	Mdo
+
+Mirela	Mirela	Npfsn
+Osrečak	Osrečak	Npfsn
+;	;	Z
+
+92.	92.	Mdo
+dr.	dr.	Y
+sc.	sc.	Y
+Darko	Darko	Npmsn
+Preiner	Preiner	Npmsn
+;	;	Z
+
+93.	93.	Mdo
+
+Ana-Marija	Ana-Marija	Npfsn
+Jagatić	Jagatić	Npfsn
+Korenika	Korenika	Npfsn
+;	;	Z
+
+94.	94.	Mdo
+
+Marin	Marin	Npmsn
+Mihaljević	Mihaljević	Npmsn
+Žulj	žulj	Ncmsn
+;	;	Z
+
+95.	95.	Mdo
+
+Darko	Darko	Npmsn
+Cenbauer	Cenbauer	Npmsn
+;	;	Z
+
+96.	96.	Mdo
+
+Nikola	Nikola	Npmsn
+Mirošević	Mirošević	Npmsn
+;	;	Z
+
+97.	97.	Mdo
+
+Dragana	dragana	Ncfsn
+Šulentić	Šulentić	Npfsn
+;	;	Z
+
+98.	98.	Mdo
+
+Marko	Marko	Npmsn
+Plichta	Plichta	Npmsn
+;	;	Z
+
+99.	99.	Mdo
+
+Milan	Milan	Npmsn
+Budinski	Budinski	Npmsn
+;	;	Z
+
+100.	100.	Mdo
+
+Nikolina	Nikolina	Npfsn
+Jedrejčić	Jedrejčić	Npfsn
+;	;	Z
+
+101.	101.	Mdo
+
+Ivana	Ivana	Npfsn
+Nemet	Nemet	Npfsn
+;	;	Z
+
+102.	102.	Mdo
+
+Ivan	Ivan	Npmsn
+Prša	Prša	Npmsn
+;	;	Z
+
+103.	103.	Mdo
+
+Saša	Saša	Npmsn
+Štula	Štula	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+01/14	01/14	Mdc
+-	-	Z
+01/229	01/229	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+525	525	Mdc
+-	-	Z
+07/0032	07/0032	Mdc
+-	-	Z
+14	14	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Tihomir	Tihomir	Npmsn
+Jakovina	Jakovina	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

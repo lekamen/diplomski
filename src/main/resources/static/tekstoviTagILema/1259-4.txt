@@ -1,0 +1,244 @@
+..................................................	..................................................	Z
+
+.....................................................................................................................	.....................................................................................................................	Z
+
+[	i	Agpnsay
+ime	ime	Ncnsa
+,	,	Z
+prezime	prezime	Ncnsa
+,	,	Z
+adresa	adresa	Ncfsn
+]	]	Z
+
+2.	2.	Mdo
+Priznajete	priznavati	Vmr2p
+li	li	Cs
+da	da	Cs
+ste	biti	Var2p
+počinili	počiniti	Vmp-pm
+prekršaj	prekršaj	Ncmsan
+?	?	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+(	(	Z
+1	1	Mdc
+)	)	Z
+
+3.	3.	Mdo
+Ukoliko	ukoliko	Cs
+ne	ne	Qz
+priznajete	priznavati	Vmr2p
+,	,	Z
+navedite	navesti	Vmm2p
+razloge	razlog	Ncmpa
+zašto	zašto	Rgp
+:	:	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+Pošaljite	poslati	Vmm2p
+ispunjeni	ispunjen	Agpmsayn
+obrazac	obrazac	Ncmsan
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+60	60	Mdc
+dana	dan	Ncmpg
+nakon	nakon	Sg
+primitka	primitak	Ncmsg
+ove	ovaj	Pd-fsg
+obavijesti	obavijest	Ncfsg
+sljedećem	sljedeći	Agpnsly
+tijelu	tijelo	Ncnsl
+:	:	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+na	na	Sa
+sljedeću	sljedeći	Agpfsay
+adresu	adresa	Ncfsa
+:	:	Z
+.................................................................................	.................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+OBAVIJEST	obavijest	Ncfsn
+
+Ovaj	ovaj	Pd-msn
+slučaj	slučaj	Ncmsn
+ispituje	ispitivati	Vmr3s
+nadležno	nadležan	Agpnsay
+tijelo	tijelo	Ncnsa
+.........................................................	.........................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+[	[	Sa
+ime	ime	Ncnsa
+države	država	Ncfsg
+članice	članica	Ncfsg
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+u	u	Sl
+kojoj	koji	Pi-fsl
+je	biti	Var3s
+počinjen	počiniti	Appmsnn
+prekršaj	prekršaj	Ncmsn
+]	]	Z
+
+Ukoliko	ukoliko	Cs
+istraga	istraga	Ncfsn
+slučaja	slučaj	Ncmsg
+ne	ne	Qz
+bude	biti	Var3s
+nastavljena	nastaviti	Appfsny
+,	,	Z
+bit	biti	Van
+ćete	htjeti	Var2p
+obaviješteni	obavijestiti	Appmpny
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+60	60	Mdc
+dana	dan	Ncmpg
+nakon	nakon	Sg
+primitka	primitak	Ncmsg
+obrasca	obrazac	Ncmsg
+za	za	Sa
+odgovor	odgovor	Ncmsan
+.	.	Z
+
+Ukoliko	ukoliko	Cs
+istraga	istraga	Ncfsn
+slučaja	slučaj	Ncmsg
+bude	biti	Var3s
+nastavljena	nastaviti	Appfsny
+,	,	Z
+primjenjuje	primjenjivati	Vmr3s
+se	sebe	Px--sa
+sljedeći	sljedeći	Agpmsny
+postupak	postupak	Ncmsn
+:	:	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+...................................................................................................................	...................................................................................................................	Z
+
+[	[	Z
+ispunjava	ispunjavati	Vmr3s
+država	država	Ncfsn
+članica	članica	Ncfpg
+u	u	Sl
+kojoj	koji	Pi-fsl
+je	biti	Var3s
+počinjen	počiniti	Appmsnn
+prekršaj	prekršaj	Ncmsn
+–	–	Z
+kakav	kakav	Pi-msn
+će	htjeti	Var3s
+biti	biti	Van
+daljnji	daljnji	Agpmsny
+postupak	postupak	Ncmsn
+,	,	Z
+uključujući	uključivati	Rr
+detalje	detalj	Ncmpa
+o	o	Sl
+mogućnosti	mogućnost	Ncfsl
+i	i	Cc
+postupku	postupak	Ncmsl
+podnošenja	podnošenje	Ncnsg
+žalbe	žalba	Ncfsg
+protiv	protiv	Sg
+odluke	odluka	Ncfsg
+da	da	Cs
+se	sebe	Px--sa
+nastavi	nastaviti	Vmr3s
+istraga	istraga	Ncfsn
+slučaja	slučaj	Ncmsg
+.	.	Z
+
+Ovi	ovaj	Pd-mpn
+detalji	detalj	Ncmpn
+,	,	Z
+u	u	Sl
+svakom	svaki	Pi-msl
+slučaju	slučaj	Ncmsl
+,	,	Z
+uključuju	uključivati	Vmr3p
+:	:	Z
+ime	ime	Ncnsa
+i	i	Cc
+adresu	adresa	Ncfsa
+tijela	tijelo	Ncnsg
+koje	koji	Pi-nsn
+je	biti	Var3s
+nadležno	nadležan	Agpnsny
+za	za	Sa
+istragu	istraga	Ncfsa
+slučaja	slučaj	Ncmsg
+,	,	Z
+rok	rok	Ncmsn
+za	za	Sa
+plaćanje	plaćanje	Ncnsa
+,	,	Z
+ime	ime	Ncnsa
+i	i	Cc
+adresu	adresa	Ncfsa
+dotičnog	dotičan	Agpnsgy
+tijela	tijelo	Ncnsg
+kojem	koji	Pi-msd
+se	sebe	Px--sa
+može	moći	Vmr3s
+uložiti	uložiti	Vmn
+žalba	žalba	Ncfsn
+;	;	Z
+rok	rok	Ncmsn
+za	za	Sa
+podnošenje	podnošenje	Ncnsa
+žalbe	žalba	Ncfsg
+]	]	Z
+.	.	Z
+
+Ovo	ovaj	Pd-nsn
+pismo	pismo	Ncnsn
+samo	samo	Rgp
+po	po	Sl
+sebi	sebe	Px--sl
+nema	nemati	Vmr3s
+pravnih	pravni	Agpfpgy
+posljedica	posljedica	Ncfpg
+.	.	Z
+
+_________________________	_________________________	Ncfsn
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Po	po	Sl
+potrebi	potreba	Ncfsl
+precrtati	precrtati	Vmn
+.	.	Z
+

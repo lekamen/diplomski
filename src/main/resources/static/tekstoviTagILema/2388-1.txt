@@ -1,0 +1,36 @@
+novinama	novina	Ncfpi
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+06/15	06/15	Mdc
+-	-	Z
+03/02	03/02	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+507/18	507/18	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Branko	Branko	Npmsn
+Hrvatin	Hrvatin	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

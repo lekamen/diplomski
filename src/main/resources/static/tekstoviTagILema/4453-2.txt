@@ -1,0 +1,7 @@
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,367 @@
+106	106	Mdc
+18.11.2016	18.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+utvrđivanju	utvrđivanje	Ncnsl
+obrasca	obrazac	Ncmsg
+zastupničke	zastupnički	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2264	2264	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+19.	19.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+15.	15.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+UTVRĐIVANJU	utvrđivanje	Ncnsl
+OBRASCA	obrazac	Ncmsg
+ZASTUPNIČKE	zastupnički	Agpfsgy
+ISKAZNICE	iskaznica	Ncfsg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+propisuje	propisivati	Vmr3s
+se	sebe	Px--sa
+obrazac	obrazac	Ncmsn
+zastupničke	zastupnički	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+za	za	Sa
+zastupnike	zastupnik	Ncmpa
+izabrane	izabran	Agpmpay
+u	u	Sa
+Hrvatski	hrvatski	Agpmsayn
+sabor	sabor	Ncmsan
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Obrasci	obrazac	Ncmpn
+iskaznica	iskaznica	Ncfpg
+izrađuju	izrađivati	Vmr3p
+se	sebe	Px--sa
+ispisom	ispis	Ncmsi
+na	na	Sl
+računalnom	računalni	Agpmsly
+sustavu	sustav	Ncmsl
+za	za	Sa
+izradu	izrada	Ncfsa
+službenih	služben	Agpfpgy
+iskaznica	iskaznica	Ncfpg
+,	,	Z
+izmjere	izmjera	Ncfsg
+85,60	85,60	Mdc
+mm	mm	Y
+×	×	Z
+53,98	53,98	Mdc
+mm	mm	Y
+.	.	Z
+
+Prednja	prednji	Agpfsny
+strana	strana	Ncfsn
+obrasca	obrazac	Ncmsg
+iskaznice	iskaznica	Ncfsg
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+–	–	Z
+grb	grb	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+
+–	–	Agpmsny
+natpis	natpis	Ncmsn
+»	»	Z
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+«	«	Z
+
+–	–	Sa
+sliku	slika	Ncfsa
+zastupnika	zastupnik	Ncmpg
+
+–	i	Agpnsay
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+zastupnika	zastupnik	Ncmpg
+
+–	–	Agpmsny
+vlastoručni	vlastoručan	Agpmsny
+potpis	potpis	Ncmsn
+zastupnika	zastupnik	Ncmpg
+
+–	–	Agpmsny
+natpis	natpis	Ncmsn
+»	»	Z
+ZASTUPNIČKA	zastupnički	Agpfsny
+ISKAZNICA	iskaznica	Ncfsn
+«	«	Z
+
+–	–	Agpmsny
+identifikacijski	identifikacijski	Agpmsny
+broj	broj	Ncmsn
+
+–	–	Z
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+mandata	mandat	Ncmpg
+zastupnika	zastupnik	Ncmpg
+
+–	i	Agpfsay
+oznaku	oznaka	Ncfsa
+saziva	saziv	Ncmpg
+.	.	Z
+
+Na	na	Sl
+poleđini	poleđina	Ncfsl
+iskaznice	iskaznica	Ncfsg
+navodi	navoditi	Vmr3s
+se	sebe	Px--sa
+imunitetno	imunitetni	Agpnsny
+pravo	pravo	Ncnsn
+zastupnika	zastupnik	Ncmpg
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Iskaznicu	iskaznica	Ncfsa
+izdaje	izdaja	Ncfsg
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+O	o	Sl
+izdanim	izdan	Agpfply
+iskaznicama	iskaznica	Ncfpl
+vodi	voditi	Vmr3s
+se	sebe	Px--sa
+evidencija	evidencija	Ncfsn
+u	u	Sl
+Tajništvu	tajništvo	Ncnsl
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+.	.	Z
+
+Evidencija	evidencija	Ncfsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+sadrži	sadržati	Vmr3s
+:	:	Z
+ime	ime	Ncnsn
+i	i	Cc
+prezime	prezime	Ncnsa
+zastupnika	zastupnik	Ncmsg
+kojem	koji	Pi-nsl
+je	biti	Var3s
+izdana	izdan	Agpfsny
+iskaznica	iskaznica	Ncfsn
+,	,	Z
+identifikacijski	identifikacijski	Agpmsny
+broj	broj	Ncmsn
+iskaznice	iskaznica	Ncfsg
+,	,	Z
+datum	datum	Ncmsan
+izdavanja	izdavanje	Ncnsg
+te	te	Cc
+rubriku	rubrika	Ncfsa
+za	za	Sa
+napomene	napomena	Ncfpa
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+Zastupnik	zastupnik	Ncmsn
+koji	koji	Pi-msn
+izgubi	izgubiti	Vmr3s
+iskaznicu	iskaznica	Ncfsa
+ili	ili	Cc
+na	na	Sa
+drugi	drugi	Mlomsan
+način	način	Ncmsan
+ostane	ostati	Vmr3s
+bez	bez	Sg
+zastupničke	zastupnički	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+dužan	dužan	Agpmsnn
+je	biti	Var3s
+o	o	Sl
+tome	taj	Pd-nsl
+odmah	odmah	Rgp
+izvijestiti	izvijestiti	Vmn
+Tajništvo	tajništvo	Ncnsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+.	.	Z
+
+U	u	Sl
+slučajevima	slučaj	Ncmpl
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovog	ovaj	Pd-msg
+članka	članak	Ncmsg
+troškove	trošak	Ncmpa
+izdavanja	izdavanje	Ncnsg
+nove	nov	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+snosi	snositi	Vmr3s
+zastupnik	zastupnik	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+6.	6.	Mdo
+
+Za	za	Sa
+vrijeme	vrijeme	Ncnsa
+mirovanja	mirovanje	Ncnsg
+zastupničkog	zastupnički	Agpmsgy
+mandata	mandat	Ncmsg
+zastupnik	zastupnik	Ncmsn
+je	biti	Var3s
+dužan	dužan	Agpmsnn
+vratiti	vratiti	Vmn
+zastupničku	zastupnički	Agpfsay
+iskaznicu	iskaznica	Ncfsa
+.	.	Z
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+Obrazac	obrazac	Ncmsn
+službene	služben	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+tiskan	tiskati	Appmsnn
+je	biti	Var3s
+uz	uz	Sa
+ovu	ovaj	Pd-fsa
+Odluku	odluka	Ncfsa
+i	i	Cc
+njezin	njezin	Ps3msn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+Donošenjem	donošenje	Ncnsi
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Odluka	odluka	Ncfsn
+o	o	Sl
+utvrđivanju	utvrđivanje	Ncnsl
+obrasca	obrazac	Ncmsg
+zastupničke	zastupnički	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+11/12.	11/12.	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+9.	9.	Mdo
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+prvoga	prvi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+14/16	14/16	Mdc
+-	-	Z
+07/04	07/04	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+ZASTUPNIČKA	zastupnički	Agpfsny
+ISKAZNICA	iskaznica	Ncfsn
+
+Veličina	veličina	Ncfsn
+(	(	Z
+85,60	85,60	Mdc
+×	×	Z
+53,98	53,98	Mdc
+mm	mm	Y
+)	)	Z
+

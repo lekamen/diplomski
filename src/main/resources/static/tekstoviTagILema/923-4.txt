@@ -1,0 +1,779 @@
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Pula	Pula	Npfsn
+–	–	Z
+Pola	polo	Rgp
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+crnogorsku	crnogorski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+makedonsku	makedonski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Rovinj	Rovinj	Npfsg
+–	–	Z
+Rovigno	rovigan	Agpnsny
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Umag	Umag	Npmsn
+–	–	Z
+Umago	Umago	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Vodnjan	Vodnjan	Npmsn
+–	–	Z
+Dignano	Dignano	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+17.2.	17.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Bale	bala	Ncfsg
+–	–	Z
+Valle	Valle	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Brtonigla	Brtonigl	Npmsg
+–	–	Z
+Verteneglio	Verteneglio	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Fažana	Fažan	Npmsg
+–		Npmsg
+Fasana	Fasan	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Grožnjan	Grožnjan	Npmsn
+–	–	Z
+Grisignana	Grisignan	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Kršan	kršan	Agpmsnn
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Medulin	Medulin	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Raša	Raš	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+18.	18.	Mdo
+
+U	u	Sl
+Dubrovačko-neretvanskoj	dubrovačko-neretvanski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+18.1.	18.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Dubrovnik	Dubrovnik	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Metković	Metković	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+18.2.	18.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Župa	župa	Ncfsn
+Dubrovačka	dubrovački	Agpfsny
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+19.	19.	Mdo
+
+U	u	Sl
+Međimurskoj	međimurski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+19.1.	19.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Čakovec	Čakovec	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Mursko	murski	Agpnsny
+Središće	Središće	Npnsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+19.2.	19.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Kotoriba	Kotorib	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Mala	mali	Agpfsny
+Subotica	Subotica	Npfsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Nedelišće	Nedelišće	Npnsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Orehovica	Orehovica	Npfsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Podturen	Podturen	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Pribislavec	Pribislavec	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+20.	20.	Mdo
+
+U	u	Sl
+Gradu	grad	Ncmsl
+Zagrebu	Zagreb	Npmsl
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+crnogorsku	crnogorski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+češku	češki	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+makedonsku	makedonski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+dan	dan	Ncmsan
+provedbe	provedba	Ncfsg
+izbora	izbor	Ncmpg
+određuje	određivati	Vmr3s
+se	sebe	Px--sa
+nedjelja	nedjelja	Ncfsn
+,	,	Z
+31.	31.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Naknada	naknada	Ncfsn
+troškova	trošak	Ncmpg
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+isplatit	isplatiti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+sukladno	sukladno	Rgp
+Odluci	odluka	Ncfsd
+o	o	Sl
+određivanju	određivanje	Ncnsl
+visine	visina	Ncfsg
+naknade	naknada	Ncfsg
+troškova	trošak	Ncmpg
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+za	za	Sa
+izbor	izbor	Ncmsan
+članova	član	Ncmpg
+vijeća	vijeće	Ncnsg
+i	i	Cc
+predstavnika	predstavnik	Ncmpg
+nacionalnih	nacionalan	Agpfpgy
+manjina	manjina	Ncfpg
+u	u	Sl
+jedinicama	jedinica	Ncfpl
+lokalne	lokalan	Agpfsgy
+i	i	Cc
+područne	područni	Agpfsgy
+(	(	Z
+regionalne	regionalan	Agpfpay
+)	)	Z
+samouprave	samouprava	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+56/2011	56/2011	Mds
+)	)	Z
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+30.	30.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/145	04/145	Mdc
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

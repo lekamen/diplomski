@@ -1,0 +1,665 @@
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Trsteniku	Trstenik	Npmsl
+1	1	Mdc
+4.11.13.	4.11.13.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Sobra	Sobr	Npmsg
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Sobri	Sobra	Npfsl
+1	1	Mdc
+4.11.14.	4.11.14.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Trpanj	Trpanj	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Trpnju	Trpnj	Npmsl
+1	1	Mdc
+4.11.15.	4.11.15.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Gradska	gradski	Agpfsny
+Luka	luka	Ncfsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Staroj	star	Agpfsly
+gradskoj	gradski	Agpfsly
+luci	luka	Ncfsl
+1	1	Mdc
+4.11.16.	4.11.16.	Mds
+
+Ispostava	ispostava	Ncfsn
+Komolac	Komolac	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Komolcu	Komolc	Npmsl
+1	1	Mdc
+Uprava	uprava	Ncfsn
+sigurnosti	sigurnost	Ncfsg
+plovidbe	plovidba	Ncfsg
+–	–	Z
+ukupno	ukupno	Rgp
+457	457	Mdc
+5.	5.	Mdo
+UPRAVA	uprava	Ncfsn
+CESTOVNOG	cestovan	Agpmsgy
+I	i	Cc
+ŽELJEZNIČKOG	željeznički	Agpmsgy
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+5.1.	5.1.	Mds
+
+Sektor	sektor	Ncmsn
+cestovnog	cestovan	Agpmsgy
+prometa	promet	Ncmsg
+1	1	Mdc
+5.1.1.	5.1.1a	Ncfsg
+
+Služba	služba	Ncfsn
+sigurnosti	sigurnost	Ncfsg
+cestovnog	cestovan	Agpmsgy
+prometa	promet	Ncmsg
+1	1	Mdc
+5.1.1.1.	5.1.1.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+cestovna	cestovan	Agpnpay
+motorna	motoran	Agpnpay
+vozila	vozilo	Ncnpa
+i	i	Cc
+prijevoz	prijevoz	Ncmsan
+opasnih	opasnii	Agpfsgy
+tvari	tvar	Ncfsg
+5	5	Mdc
+5.1.1.2.	5.1.1.2.	Y
+
+Odjel	odjel	Ncmsn
+pravnih	pravni	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+5.1.2.	5.1.2.	Y
+
+Služba	služba	Ncfsn
+cestovnog	cestovan	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+1	1	Mdc
+5.1.2.1.	5.1.2.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+prijevoz	prijevoz	Ncmsan
+putnika	putnik	Ncmpg
+8	8	Mdc
+5.1.2.2.	5.1.2.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+prijevoz	prijevoz	Ncmsan
+tereta	teret	Ncmsg
+6	6	Mdc
+5.2.	5.2.	Mds
+
+Sektor	sektor	Ncmsn
+željezničkog	željeznički	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+žičara	žičara	Ncfpg
+1	1	Mdc
+5.2.1.	5.2.1.	Mdo
+
+Služba	služba	Ncfsn
+željezničkog	željeznički	Agpnsgy
+i	i	Cc
+kombiniranog	kombiniran	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+i	i	Cc
+žičara	žičara	Ncfpg
+1	1	Mdc
+5.2.1.1.	5.2.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+željezničkog	željeznički	Agpnsgy
+i	i	Cc
+kombiniranog	kombiniran	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+5	5	Mdc
+5.2.1.2.	5.2.1.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+žičare	žičara	Ncfpa
+i	i	Cc
+EU	E	Npmsg
+poslove	posao	Ncmpa
+5	5	Mdc
+5.2.2.	5.2.2.	Mdo
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpfpgy
+i	i	Cc
+gospodarskih	gospodarski	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+5.2.2.1.	5.2.2.1.	Y
+
+Odjel	odjel	Ncmsn
+pravnih	pravni	Agpmpgy
+i	i	Cc
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+5.2.2.2.	5.2.2.2.	Y
+
+Odjel	odjel	Ncmsn
+gospodarskih	gospodarski	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+5.3.	5.3.	Y
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+cestovnu	cestovan	Agpfsay
+i	i	Cc
+željezničku	željeznički	Agpfsay
+infrastrukturu	infrastruktura	Ncfsa
+1	1	Mdc
+5.3.1.	5.3.1.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+planske	planski	Agpmpay
+dokumente	dokument	Ncmpa
+i	i	Cc
+financije	financije	Ncfpa
+1	1	Mdc
+5.3.1.1.	5.3.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+planske	planski	Agpmpay
+dokumente	dokument	Ncmpa
+i	i	Cc
+regulativu	regulativa	Ncfsa
+6	6	Mdc
+5.3.1.2.	5.3.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+financiranje	financiranje	Ncnsa
+i	i	Cc
+koncesije	koncesija	Ncfsg
+5	5	Mdc
+5.3.2.	5.3.2.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+razvoj	razvoj	Ncmsan
+i	i	Cc
+unaprjeđenje	unaprjeđenje	Ncnsa
+infrastrukture	infrastruktura	Ncfsg
+1	1	Mdc
+5.3.2.1.	5.3.2.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+cestovnu	cestovan	Agpfsay
+infrastrukturu	infrastruktura	Ncfsa
+6	6	Mdc
+5.3.2.2.	5.3.2.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+željezničku	željeznički	Agpfsay
+infrastrukturu	infrastruktura	Ncfsa
+5	5	Mdc
+Uprava	uprava	Ncfsn
+cestovnog	cestovan	Agpmsgy
+i	i	Cc
+željezničkog	željeznički	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+–	–	Z
+ukupno	ukupno	Rgp
+75	75	Mdc
+6.	6.	Mdo
+UPRAVA	uprava	Ncfsn
+ZRAČNOG	zračan	Agpmsgy
+PROMETA	promet	Ncmsg
+,	,	Z
+ELEKTRONIČKIH	elektronički	Agpfpgy
+KOMUNIKACIJA	komunikacija	Ncfpg
+I	i	Cc
+POŠTE	pošta	Ncfpn
+6.1.	6.1.	Mds
+
+Sektor	sektor	Ncmsn
+zračnog	zračan	Agpmsgy
+prometa	promet	Ncmsg
+1	1	Mdc
+6.1.1.	6.1.1a	Ncfsg
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpfpgy
+i	i	Cc
+gospodarskih	gospodarski	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+6.1.1.1.	6.1.1.1.	Y
+
+Odjel	odjel	Ncmsn
+pravnih	pravni	Agpmpgy
+i	i	Cc
+prekršajnih	prekršajni	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+6.1.1.2.	6.1.1.2.	Y
+
+Odjel	odjel	Ncmsn
+gospodarskih	gospodarski	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+6.1.1.3.	6.1.1.3.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+provedbu	provedba	Ncfsa
+strateških	strateški	Agpmpgy
+projekata	projekat	Ncmpg
+5	5	Mdc
+6.1.2.	6.1.2.	Y
+
+Služba	služba	Ncfsn
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+6.2.	6.2.	Y
+
+Sektor	sektor	Ncmsn
+elektroničkih	elektronički	Agpfpgy
+komunikacija	komunikacija	Ncfpg
+i	i	Cc
+pošte	pošta	Ncfsg
+1	1	Mdc
+6.2.1.	6.2.1.	Mdo
+
+Služba	služba	Ncfsn
+elektroničkih	elektronički	Agpfpgy
+komunikacija	komunikacija	Ncfpg
+1	1	Mdc
+6.2.1.1.	6.2.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+tehnologiju	tehnologija	Ncfsa
+elektroničkih	elektronički	Agpfpgy
+komunikacija	komunikacija	Ncfpg
+5	5	Mdc
+6.2.1.2.	6.2.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+pravnih	pravni	Agpmpgy
+i	i	Cc
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+6.2.2.	6.2.2.	Y
+
+Služba	služba	Ncfsn
+poštanskih	poštanski	Agpfpgy
+usluga	usluga	Ncfpg
+1	1	Mdc
+6.2.2.1.	6.2.2.1.	Mdo
+
+Odjel	odjel	Ncmsn
+pravnih	pravni	Agpmpgy
+i	i	Cc
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+u	u	Sl
+poštanskim	poštanski	Agpfply
+uslugama	usluga	Ncfpl
+5	5	Mdc
+6.2.2.2.	6.2.2.2.	Y
+
+Odjel	odjel	Ncmsn
+stručno-tehničkih	stručno-tehnički	Agpfpgy
+i	i	Cc
+gospodarskih	gospodarski	Agpmpgy
+poslova	posao	Ncmpg
+5	5	Mdc
+Uprava	uprava	Ncfpg
+zračnog	zračan	Agpmsgy
+prometa	promet	Ncmsg
+,	,	Z
+elektroničkih	elektronički	Agpfpgy
+komunikacija	komunikacija	Ncfpg
+i	i	Cc
+pošte	pošta	Ncfsg
+–	–	Z
+ukupno	ukupno	Rgp
+48	48	Mdc
+7.	7.	Mdo
+UPRAVA	uprava	Ncfsn
+PROMETNE	prometan	Agpfsgy
+INSPEKCIJE	inspekcija	Ncfsg
+7.1.	7.1.	Mds
+
+Sektor	sektor	Ncmsn
+inspekcije	inspekcija	Ncfsg
+sigurnosti	sigurnost	Ncfsg
+cestovnog	cestovan	Agpmsgy
+prometa	promet	Ncmsg
+1	1	Mdc
+7.1.1.	7.1.1a	Ncfsg
+
+Služba	služba	Ncfsn
+inspekcije	inspekcija	Ncfsg
+cestovnog	cestovan	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+1	1	Mdc
+7.1.1.1.	7.1.1.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+prijevoza	prijevoz	Ncmsg
+tereta	teret	Ncmsg
+9	9	Mdc
+7.1.1.2.	7.1.1.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+prijevoza	prijevoz	Ncmsg
+putnika	putnik	Ncmpg
+9	9	Mdc
+7.1.1.3.	7.1.1.3.	Mds
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+prijevoza	prijevoz	Ncmsg
+opasnih	opasan	Agpfpgy
+tvari	tvar	Ncfpg
+5	5	Mdc
+7.1.2.	7.1.2.	Y
+
+Služba	služba	Ncfsn
+inspekcije	inspekcija	Ncfsg
+socijalnog	socijalan	Agpnsgy
+zakonodavstva	zakonodavstvo	Ncnsg
+u	u	Sl
+cestovnom	cestovan	Agpmsly
+prijevozu	prijevoz	Ncmsl
+1	1	Mdc
+7.1.2.1.	7.1.2.1.	Mds
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+u	u	Sl
+tvrtkama	tvrtka	Ncfpl
+12	12	Mdc
+7.1.2.2.	7.1.2.2.	Y
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+na	na	Sl
+cestama	cesta	Ncfpl
+10	10	Mdc
+7.2.	7.2.	Y
+
+Sektor	sektor	Ncmsn
+inspekcije	inspekcija	Ncfsg
+sigurnosti	sigurnost	Ncfsg
+cesta	cesta	Ncfpg
+,	,	Z
+žičara	žičara	Ncfsn
+,	,	Z
+pravnih	pravni	Agpmpgy
+poslova	posao	Ncmpg
+i	i	Cc
+logistike	logistika	Ncfsg
+1	1	Mdc
+7.2.1.	7.2.1.	Mdo
+
+Služba	služba	Ncfsn
+inspekcije	inspekcija	Ncfsg
+sigurnosti	sigurnost	Ncfsg
+cesta	cesta	Ncfpg
+i	i	Cc
+žičara	žičara	Ncfsn
+1	1	Mdc
+7.2.1.1.	7.2.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+državnih	državni	Agpfpgy
+,	,	Z
+županijskih	županijski	Agpfpgy
+i	i	Cc
+lokalnih	lokalan	Agpfpgy
+cesta	cesta	Ncfpg
+5	5	Mdc
+7.2.1.2.	7.2.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+inspekcije	inspekcija	Ncfsg
+autocesta	autocesta	Ncfpg
+,	,	Z
+složenih	složen	Agpmpgy
+cestovnih	cestovan	Agpmpgy
+objekata	objekt	Ncmpg
+i	i	Cc
+žičara	žičara	Ncfsn
+7	7	Mdc
+7.2.2.	7.2.2.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+logistiku	logistika	Ncfsa
+8	8	Mdc
+Uprava	uprava	Ncfsn
+prometne	prometan	Agpfsgy
+inspekcije	inspekcija	Ncfsg
+–	–	Z
+ukupno	ukupno	Rgp
+70	70	Mdc
+8.	8.	Mdo
+UPRAVA	uprava	Ncfsn
+ZA	za	Sa
+FONDOVE	fond	Ncmpa
+EU	E	Npmsg
+8.1.	8.1.	Mds
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+Operativnim	operativan	Agpmsiy
+programom	program	Ncmsi
+1	1	Mdc
+8.1.1.	8.1.1.	Mds
+
+Služba	služba	Ncfsn
+za	za	Sa
+financijsko	financijski	Agpnsay
+planiranje	planiranje	Ncnsa
+,	,	Z
+upravljanje	upravljanje	Ncnsn
+i	i	Cc
+verifikaciju	verifikacija	Ncfsa
+1	1	Mdc
+8.1.1.1.	8.1.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+financijsko	financijski	Agpnsay
+planiranje	planiranje	Ncnsa
+i	i	Cc
+praćenje	praćenje	Ncnsa
+izvršenja	izvršenje	Ncnsg
+proračuna	proračun	Ncmsg
+5	5	Mdc
+8.1.1.2.	8.1.1.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+financijsku	financijski	Agpfsay
+kontrolu	kontrola	Ncfsa
+i	i	Cc
+izvješćivanje	izvješćivanje	Ncnsa
+5	5	Mdc
+8.1.2.	8.1.2.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Operativnog	operativan	Agpmsgy
+programa	program	Ncmsg
+i	i	Cc
+potporu	potpora	Ncfsa
+sustavu	sustav	Ncmsl
+8	8	Mdc
+8.1.3.	8.1.3.	Mds
+
+Služba	služba	Ncfsn
+za	za	Sa
+planiranje	planiranje	Ncnsa
+,	,	Z
+odabir	odabir	Ncmsan
+i	i	Cc
+ugovaranje	ugovaranje	Ncnsa
+projekata	projekat	Ncmpg
+1	1	Mdc
+8.1.3.1.	8.1.3.1.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+planiranje	planiranje	Ncnsa
+5	5	Mdc
+8.1.3.2.	8.1.3.2.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pripremu	priprema	Ncfsa
+,	,	Z
+odabir	odabir	Ncmsan
+i	i	Cc
+ugovaranje	ugovaranje	Ncnsa
+projekata	projekat	Ncmpg
+5	5	Mdc
+8.2.	8.2.	Y
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+potporu	potpora	Ncfsa
+i	i	Cc
+provedbu	provedba	Ncfsa
+projekata	projekat	Ncmpg
+1	1	Mdc
+8.2.1.	8.2.1.	Y
+
+Služba	služba	Ncfsn
+za	za	Sa
+potporu	potpora	Ncfsa
+projektima	projekt	Ncmpi
+1	1	Mdc
+8.2.1.1.	8.2.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+horizontalne	horizontalan	Agpfpay
+projektne	projektni	Agpfpay
+aktivnosti	aktivnost	Ncfpa
+i	i	Cc
+podršku	podrška	Ncfsa
+korisnicima	korisnik	Ncmpd
+5	5	Mdc
+8.2.1.2.	8.2.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravnu	pravni	Agpfsay
+potporu	potpora	Ncfsa
+EU	E	Npmsg
+projektima	projekt	Ncmpd
+5	5	Mdc
+8.2.2.	8.2.2.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+projekata	projekat	Ncmpg
+1	1	Mdc
+8.2.2.1.	8.2.2.1.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+projekata	projekat	Ncmpg
+7	7	Mdc
+8.2.2.2.	8.2.2.2.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+potporu	potpora	Ncfsa
+pri	pri	Sl
+administrativnim	administrativan	Agpfply
+provjerama	provjera	Ncfpl
+i	i	Cc
+provjerama	provjera	Ncfpl
+na	na	Sl
+licu	lice	Ncnsl
+mjesta	mjesto	Ncnsg
+5	5	Mdc
+Uprava	uprava	Ncfsn
+za	za	Sa
+fondove	fond	Ncmpa
+EU	E	Npmsg
+–	–	Z
+ukupno	ukupno	Rgp
+56	56	Mdc
+9.	9.	Mdo
+UPRAVA	uprava	Ncfsn
+ZA	za	Sa
+PRORAČUN	proračun	Ncmsan
+I	i	Cc
+FINANCIJE	financije	Ncfpa
+9.1.	9.1.	Mds
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+proračun	proračun	Ncmsan
+,	,	Z
+financijsko	financijski	Agpnsny
+upravljanje	upravljanje	Ncnsn
+i	i	Cc
+kontrole	kontrola	Ncfsg
+1	1	Mdc
+9.1.1.	9.1.1.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+planiranje	planiranje	Ncnsa
+i	i	Cc
+izvršavanje	izvršavanje	Ncnsa
+

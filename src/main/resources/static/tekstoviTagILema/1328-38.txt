@@ -1,0 +1,690 @@
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a9	a9	Qr
+.	.	Z
+3.1.	3.1.	Mds
+
+Provesti	provesti	Vmn
+analizu	analiza	Ncfsa
+načina	način	Ncmsg
+napredovanja	napredovanje	Ncnsg
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+a9	a9	Qr
+.	.	Z
+3.2.	3.2.	Mds
+
+Propisati	propisati	Vmn
+kriterije	kriterij	Ncmpa
+i	i	Cc
+načine	način	Ncmpa
+napredovanja	napredovanje	Ncnsg
+na	na	Sa
+viša	visok	Agpnpay
+radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+
+a9	a9	Qr
+.	.	Z
+3.3.	3.3.	Mds
+
+Kontinuirano	kontinuiran	Agpnsny
+pratiti	pratiti	Vmn
+napredovanje	napredovanje	Ncnsa
+zaposlenih	zaposlen	Agpmpgy
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p9	p9	Qr
+.	.	Z
+3.1.	3.1.	Mds
+
+Broj	broj	Ncmsn
+napredovanja	napredovanje	Ncnsg
+sukladno	sukladno	Rgp
+propisanim	propisati	Appmpdy
+kriterijima	kriterij	Ncmpd
+
+CILJ	cilj	Ncmsn
+10.	10.	Mdo
+
+UJEDNAČENI	ujednačiti	Appmsny
+SUSTAV	sustav	Ncmsn
+PLAĆA	plaćati	Vmr3s
+U	u	Sl
+JAVNOJ	javan	Agpfsly
+UPRAVI	uprava	Ncfsl
+
+Mjera	mjera	Ncfsn
+10.1.	10.1.	Mds
+
+Utvrditi	utvrditi	Vmn
+jedinstveni	jedinstven	Agpmsayn
+sustav	sustav	Ncmsan
+plaća	plaća	Ncfpg
+i	i	Cc
+nagrađivanja	nagrađivanje	Ncnsg
+za	za	Sa
+sve	sav	Agpnsay
+zaposlene	zaposliti	Appfpny
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+Nositelji	nositelj	Ncmpn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+financija	financije	Ncfpg
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+druga	drugi	Mlofsn
+javnopravna	javnopravni	Agpnpny
+tijela	tijelo	Ncnpn
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+IV	IV	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2016.	2016.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+15.000.000	15.000.000	Mdc
+kuna	kuna	Ncfpg
+
+Izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+:	:	Z
+EU	E	Npmsg
+fondovi	fond	Ncmpn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a10	a10	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Provesti	provesti	Vmn
+analizu	analiza	Ncfsa
+plaća	plaća	Ncfpg
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+a10	a10	Mdm
+.	.	Z
+1.2.	1.2.	Mds
+
+Uspostaviti	uspostaviti	Vmn
+jedinstveni	jedinstven	Agpmsayn
+strukturirani	strukturiran	Agpmsayn
+sustav	sustav	Ncmsan
+utvrđivanja	utvrđivanje	Ncnsg
+plaća	plaćati	Vmr3s
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+a10	a10	Mdm
+.	.	Z
+1.3.	1.3.	Mds
+
+Izraditi	izraditi	Vmn
+prijedlog	prijedlog	Ncmsan
+zakona	zakon	Ncmsg
+kojim	koji	Pi-msi
+će	htjeti	Var3s
+se	sebe	Px--sa
+urediti	urediti	Vmn
+sustav	sustav	Ncmsn
+plaća	plaća	Ncfpg
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+a10	a10	Mdm
+.	.	Z
+1.4.	1.4.	Mds
+
+Propisati	propisati	Vmn
+sustav	sustav	Ncmsan
+nagrađivanja	nagrađivanje	Ncnsg
+temeljen	temeljiti	Appmsnn
+na	na	Sl
+radnom	radni	Agpmsly
+učinku	učinak	Ncmsl
+zaposlenih	zaposlen	Agpmpgy
+
+a10	a10	Mdm
+.	.	Z
+1.5.	1.5.	Mds
+
+Uskladiti	uskladiti	Vmn
+podzakonske	podzakonski	Agpmpay
+propise	propis	Ncmpa
+i	i	Cc
+interne	interni	Agpmpay
+akte	akt	Ncmpa
+sa	sa	Si
+zakonom	zakon	Ncmsi
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+uređuju	uređivati	Vmr3p
+plaće	plaća	Ncfpn
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p10	p10	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Utvrđen	utvrditi	Appmsnn
+i	i	Cc
+propisan	propisati	Appmsnn
+jedinstven	jedinstven	Agpmsnn
+strukturirani	strukturiran	Agpmsny
+sustav	sustav	Ncmsn
+plaća	plaća	Ncfpg
+i	i	Cc
+nagrađivanja	nagrađivanje	Ncnsg
+utemeljen	utemeljiti	Appmsnn
+na	na	Sl
+radnom	radni	Agpmsly
+učinku	učinak	Ncmsl
+zaposlenih	zaposlen	Agpmpgy
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+CILJ	cilj	Ncmsn
+11.	11.	Mdo
+
+OPTIMALAN	optimalan	Agpmsann
+BROJ	broj	Ncmsan
+ZAPOSLENIH	zaposliti	Appmpgy
+U	u	Sl
+JAVNOJ	javan	Agpfsly
+UPRAVI	uprava	Ncfsl
+
+Mjera	mjera	Ncfsn
+11.1.	11.1.	Mds
+
+Uskladiti	uskladiti	Vmn
+broj	broj	Ncmsan
+zaposlenih	zaposlen	Agpmpgy
+s	sa	Sg
+pojednostavnjenim	pojednostavniti	Ncnpg
+i	i	Cc
+unaprijeđenim	unaprijediti	Agpmpiy
+procesima	proces	Ncmpi
+
+Nositelj	nositelj	Ncmsn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+sva	sav	Agpnpay
+javnopravna	javnopravni	Agpnpay
+tijela	tijelo	Ncnpa
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+IV	IV	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2020.	2020.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+naknadno	naknadno	Rgp
+će	htjeti	Var3s
+se	sebe	Px--sa
+procijeniti	procijeniti	Vmn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a11	a11	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Utvrditi	utvrditi	Vmn
+potreban	potreban	Agpmsann
+broj	broj	Ncmsan
+zaposlenika	zaposlenik	Ncmpg
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+a11	a11	Mdm
+.	.	Z
+1.2.	1.2.	Mds
+
+Donijeti	donijeti	Vmn
+program	program	Ncmsan
+prekvalifikacije	prekvalifikacija	Ncfsg
+i	i	Cc
+zbrinjavanja	zbrinjavanje	Ncnsg
+viška	višak	Ncmsg
+zaposlenih	zaposlen	Agpmpgy
+
+a11	a11	Mdm
+.	.	Z
+1.3.	1.3.	Mds
+
+Prekvalificirati	prekvalificirati	Vmn
+višak	višak	Ncmsan
+zaposlenih	zaposliti	Appmpgy
+za	za	Sa
+slobodna	slobodan	Agpnpay
+radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+
+a11	a11	Mdm
+.	.	Z
+1.4.	1.4.	Mds
+
+Provesti	provesti	Vmn
+program	program	Ncmsan
+zbrinjavanja	zbrinjavanje	Ncnsg
+za	za	Sa
+zaposlenike	zaposlenik	Ncmpa
+koje	koji	Pi-mpa
+nije	biti	Var3s
+moguće	moguć	Agpnsny
+prekvalificirati	prekvalificirati	Vmn
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p11	p11	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Broj	broj	Ncmsn
+zaposlenih	zaposlen	Agpmpgy
+odgovara	odgovarati	Ncmpg
+broju	broj	Ncmsd
+sistematiziranih	sistematiziran	Agpnpgy
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+
+CILJ	cilj	Ncmsn
+12.	12.	Mdo
+
+POŠTIVANJE	poštivanje	Ncnsa
+ETIČKIH	etički	Agpnpgy
+NAČELA	načelo	Ncnpg
+U	u	Sl
+JAVNOJ	javan	Agpfsly
+UPRAVI	uprava	Ncfsl
+
+Mjera	mjera	Ncfsn
+12.1.	12.1.	Mds
+
+Uspostaviti	uspostaviti	Vmn
+etički	etički	Agpmsayn
+sustav	sustav	Ncmsan
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+Nositelj	nositelj	Ncmsn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+Državna	državni	Agpfsny
+škola	škola	Ncfsn
+za	za	Sa
+javnu	javan	Agpfsay
+upravu	uprava	Ncfsa
+,	,	Z
+druga	drugi	Mlofsn
+javnopravna	javnopravni	Ncfsn
+tijela	tijelo	Ncnsg
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+kontinuirano	kontinuirano	Rgp
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+5.500.000	5.500.000	Mdc
+kuna	kuna	Ncfpg
+
+Izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+:	:	Z
+EU	E	Npmsg
+fondovi	fond	Ncmpn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a12	a12	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Utvrditi	utvrditi	Vmn
+opće	opći	Agpmpay
+standarde	standard	Ncmpa
+ponašanja	ponašanje	Ncnsg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+a12	a12	Mdm
+.	.	Z
+1.2.	1.2.	Mds
+
+Propisati	propisati	Vmn
+opće	opći	Agpmpay
+standarde	standard	Ncmpa
+ponašanja	ponašanje	Ncnsg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+i	i	Cc
+način	način	Ncmsan
+njihove	njihov	Ps3fsg
+implementacije	implementacija	Ncfsg
+
+a12	a12	Mdm
+.	.	Z
+1.3.	1.3.	Mds
+
+Donijeti	donijeti	Vmn
+etičke	etički	Agpmpay
+kodekse	kodeks	Ncmpa
+javnopravnih	javnopravni	Agpnpgy
+tijela	tijelo	Ncnpg
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+općim	opći	Agpmpiy
+standardima	standard	Ncmpi
+ponašanja	ponašanje	Ncnsg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+a12	a12	Mdm
+.	.	Z
+1.4.	1.4.	Mds
+
+Stvoriti	stvoriti	Vmn
+etički	etički	Agpmsayn
+sustav	sustav	Ncmsan
+i	i	Cc
+jačati	jačati	Vmn
+kapacitete	kapacitet	Ncmpa
+tijela	tijelo	Ncnsg
+potrebne	potreban	Agpfpny
+za	za	Sa
+provedbu	provedba	Ncfsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+provedbe	provedba	Ncfsg
+propisa	propis	Ncmsg
+
+a12	a12	Mdm
+.	.	Z
+1.5.	1.5.	Mds
+
+Pripremiti	pripremiti	Vmn
+program	program	Ncmsan
+izobrazbe	izobrazba	Ncfsg
+svih	sav	Agpfpgy
+zaposlenih	zaposlen	Agpmpgy
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+(	(	Z
+uključujući	uključivati	Rr
+i	i	Qo
+dužnosničku	dužnosnički	Agpfsay
+razinu	razina	Ncfsa
+)	)	Z
+i	i	Cc
+kontinuirano	kontinuirano	Rgp
+ga	on	Pp3msa
+provoditi	provoditi	Vmn
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p12	p12	Mdm
+.	.	Z
+1.1.	1.1.	Mds
+
+Postotak	postotak	Ncmsn
+javnopravnih	javnopravni	Agpnpgy
+tijela	tijelo	Ncnpg
+s	sa	Si
+ustrojenim	ustrojiti	Agpmsiy
+etičkim	etički	Agpmsiy
+sustavom	sustav	Ncmsi
+
+Mjera	mjera	Ncfsn
+12.2.	12.2.	Mds
+
+Unaprijediti	unaprijediti	Vmn
+mehanizme	mehanizam	Ncmpa
+prevencije	prevencija	Ncfsg
+i	i	Cc
+borbe	borba	Ncfsg
+protiv	protiv	Sg
+korupcije	korupcija	Ncfsg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+Nositelj	nositelj	Ncmsn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+pravosuđa	pravosuđe	Ncnsg
+,	,	Z
+druga	drugi	Mlofsn
+javnopravna	javnopravni	Ncfsn
+tijela	tijelo	Ncnsg
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+IV	IV	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2016.	2016.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+3.000.000	3.000.000	Mdc
+kuna	kuna	Ncfpg
+
+Izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+:	:	Z
+EU	E	Npmsg
+fondovi	fond	Ncmpn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a12	a12	Mdm
+.	.	Z
+2.1.	2.1.	Mds
+
+Uvesti	uvesti	Vmn
+praćenje	praćenje	Ncnsa
+i	i	Cc
+vođenje	vođenje	Ncnsa
+evidencije	evidencija	Ncfsg
+o	o	Sl
+izjavama	izjava	Ncfpl
+,	,	Z
+tj.	tj.	Y
+pisanim	pisan	Agpfpiy
+obavijestima	obavijest	Ncfpi
+zaposlenika	zaposlenik	Ncmpg
+o	o	Sl
+mogućem	moguć	Agpmsly
+sukobu	sukob	Ncmsl
+interesa	interes	Ncmsg
+
+a12	a12	Mdm
+.	.	Z
+2.2.	2.2.	Mds
+
+Provesti	provesti	Vmn
+analizu	analiza	Ncfsa
+rizika	rizik	Ncmsg
+mogućnosti	mogućnost	Ncfsg
+pojave	pojava	Ncfsg
+korupcije	korupcija	Ncfsg
+kod	kod	Sg
+osjetljivih	osjetljiv	Agpnpgy
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+
+a12	a12	Mdm
+.	.	Z
+2.3.	2.3.	Mds
+
+Izraditi	izraditi	Vmn
+planove	plan	Ncmpa
+integriteta	integritet	Ncmsg
+,	,	Z
+tj.	tj.	Y
+mjera	mjera	Ncfpg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+planiraju	planirati	Vmr3p
+poduzeti	poduzeti	Vmn
+radi	radi	Sg
+otklanjanja	otklanjanje	Ncnsg
+i	i	Cc
+prevencije	prevencija	Ncfsg
+korupcije	korupcija	Ncfsg
+te	te	Cc
+pratiti	pratiti	Vmn
+njihovu	njihov	Ps3fsa
+primjenu	primjena	Ncfsa
+
+a12	a12	Mdm
+.	.	Z
+2.4.	2.4.	Mds
+
+Uvesti	uvesti	Vmn
+obvezu	obveza	Ncfsa
+podnošenja	podnošenje	Ncnsg
+imovinskih	imovinski	Agpfpgy
+kartica	kartica	Ncfpg
+za	za	Sa
+osjetljiva	osjetljiv	Agpnpay
+radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+
+a12	a12	Mdm
+.	.	Z
+2.5	2.5	Mdc
+Provesti	provesti	Vmn
+ispitivanje	ispitivanje	Ncnsa
+javnog	javan	Agpnsgy
+mnijenja	mnijenje	Ncnsg
+o	o	Sl
+percepciji	percepcija	Ncfsl
+korupcije	korupcija	Ncfsg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p12	p12	Mdm
+.	.	Z
+2.1.	2.1.	Mds
+
+Broj	broj	Ncmsn
+javnopravnih	javnopravni	Agpnpgy
+tijela	tijelo	Ncnpg
+koja	koji	Pi-npn
+su	biti	Var3p
+implementirala	implementirati	Vmp-sf
+mehanizme	mehanizam	Ncmpa
+prevencije	prevencija	Ncfsg
+i	i	Cc
+borbe	borba	Ncfsg
+protiv	protiv	Sg
+korupcije	korupcija	Ncfsg
+
+p12	p12	Mdm
+.	.	Z
+2.2.	2.2.	Mds
+
+Smanjen	smanjiti	Appmsnn
+broj	broj	Ncmsn
+utemeljenih	utemeljen	Agpfpgy
+prijava	prijava	Ncfpg
+korupcije	korupcija	Ncfsg
+zaposlenih	zaposlen	Agpmpgy
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+CILJ	cilj	Ncmsn
+13.	13.	Mdo
+

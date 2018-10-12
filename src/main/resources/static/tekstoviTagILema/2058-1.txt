@@ -1,0 +1,108 @@
+Odluke	odluka	Ncfpn
+.	.	Z
+
+VIII	viii	Mrc
+.	.	Z
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+ovlašćuje	ovlašćivati	Vmr3s
+se	sebe	Px--sa
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+da	da	Cs
+sklopi	sklopiti	Vmr3s
+Dodatak	dodatak	Ncmsan
+br.	br.	Y
+2.	2.	Mdo
+Ugovoru	ugovor	Ncmsl
+o	o	Sl
+koncesiji	koncesija	Ncfsl
+u	u	Sa
+svrhu	svrha	Ncfsa
+gospodarskog	gospodarski	Agpnsgy
+korištenja	korištenje	Ncnsg
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+radi	radi	Sg
+obavljanja	obavljanje	Ncnsg
+djelatnosti	djelatnost	Ncfsg
+uzgoja	uzgoj	Ncmpg
+školjaka	školjka	Ncfpg
+i	i	Cc
+bijele	bijel	Agpfsgy
+morske	morski	Agpfsgy
+ribe	riba	Ncfsg
+u	u	Sl
+Limskom	limski	Agpmsly
+zaljevu	zaljev	Ncmsl
+u	u	Sl
+roku	rok	Ncmsl
+60	60	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+donošenja	donošenje	Ncnsg
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+.	.	Z
+
+IX	IX	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/451	04/451	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+1.	1.	Mdo
+listopada	listopad	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

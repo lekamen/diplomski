@@ -1,0 +1,10 @@
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Orsat	Orsat	Npmsn
+Miljenić	Miljenić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

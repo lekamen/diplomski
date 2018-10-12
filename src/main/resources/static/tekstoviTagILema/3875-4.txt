@@ -1,0 +1,91 @@
+UPUTA	uputa	Ncfsn
+O	o	Sl
+PRAVNOM	pravni	Agpmsly
+LIJEKU	lijek	Ncmsl
+
+Protiv	protiv	Sg
+ove	ovaj	Pd-fsg
+presude	presuda	Ncfsg
+dopuštena	dopustiti	Appfsny
+je	biti	Var3s
+žalba	žalba	Ncfsn
+o	o	Sl
+kojoj	koji	Pi-fsl
+odlučuje	odlučivati	Vmr3s
+Visoki	visok	Agpmsny
+upravni	upravan	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+.	.	Z
+
+Žalba	žalba	Ncfsn
+se	sebe	Px--sa
+podnosi	podnositi	Vmr3s
+ovom	ovaj	Pd-msd
+sudu	sud	Ncmsd
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+15	15	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+dostave	dostava	Ncfsg
+ove	ovaj	Pd-fsg
+presude	presuda	Ncfsg
+,	,	Z
+u	u	Sl
+dovoljnom	dovoljan	Agpmsly
+broju	broj	Ncmsl
+primjeraka	primjerak	Ncmpg
+za	za	Sa
+sud	sud	Ncmsan
+i	i	Cc
+sve	sav	Agpfpay
+stranke	stranka	Ncfpa
+u	u	Sl
+sporu	spor	Ncmsl
+.	.	Z
+
+Žalba	žalba	Ncfsn
+odgađa	odgađati	Vmr3s
+izvršenje	izvršenje	Ncnsa
+pobijane	pobijati	Agpfsgy
+presude	presuda	Ncfsg
+(	(	Z
+članci	članak	Ncmpn
+66.	66.	Mdo
+,	,	Z
+66.	66.	Mdo
+a	a	Cc
+i	i	Qo
+70.	70.	Mdo
+
+ZUS-a	ZUS	Npmsg
+)	)	Z
+.	.	Z
+
+Poslovni	poslovan	Agpmsny
+broj	broj	Ncmsn
+:	:	Z
+3	3	Mdc
+UsI-2229	UsI-2229	Mdc
+/	/	Z
+13	13	Mdc
+-	-	Z
+7	7	Mdc
+
+Split	Split	Npmsn
+,	,	Z
+29.	29.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Sudac	sudac	Ncmsn
+Leandra	Leandr	Npmsg
+Mojtić	Mojtić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

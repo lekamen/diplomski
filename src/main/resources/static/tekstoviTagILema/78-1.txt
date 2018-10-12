@@ -1,0 +1,426 @@
+Osijek	osijek	Ncmsn
+
+VHR	VHR	Npmsn
+Vidagro	Vidagro	Npmsn
+d.o.o.	d.o.o.	Y
+(	(	Z
+HR	HR	Npmsn
+)	)	Z
+
+PIO	piti	Vmp-sm
+Poljoprivredni	poljoprivredni	Agpmsny
+institut	institut	Ncmsn
+Osijek	osijek	Ncmsn
+,	,	Z
+Osijek	osijek	Ncmsn
+
+Ihr	Ihr	Npmsn
+Isterra	Isterra	Npmsn
+Hrvatska	Hrvatska	Npfsn
+d.o.o.	d.o.o.	Npfsn
+,	,	Z
+Nova	nov	Agpfsny
+Gradiška	Gradiška	Npfsn
+
+RMhr	rmhr	Agpmsny
+Rasadnik	rasadnik	Ncmsn
+Milić	Milić	Npmsn
+,	,	Z
+Donji	donji	Agpmsny
+Miholjac	Miholjac	Npmsn
+
+AThr	athr	Agpmsny
+Agro	agro	Agpmsny
+Trn	trn	Ncmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Martinska	martinski	Agpfsny
+Ves	Ves	Npfsn
+
+PZBM	PZBM	Npmsn
+PZ	PZ	Npmsn
+Brestove	brestov	Aspfsgy
+Međe	međa	Ncfsg
+,	,	Z
+Borovo	Borovo	Npnsa
+
+AT	AT	Npmsn
+Agrico	Agrico	Npmsn
+Trade	Trade	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Prelog	Prelog	Npmsn
+
+Agr	Agr	Npmsn
+Agrimatco	Agrimatco	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Petrijevci	Petrijevc	Npmpn
+
+Phr	Phr	Npfsn
+Podravka	Podravka	Npfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Koprivnica	Koprivnica	Npfsn
+
+DEKO	DEKO	Npmsn
+Udruga	udruga	Ncfsn
+ekoloških	ekološki	Agpmpgy
+proizvođača	proizvođač	Ncmpg
+Dalmacije	Dalmacija	Npfsg
+–	–	Z
+Dalmacija	Dalmacija	Npfsn
+EKO	EKO	Npfsn
+(	(	Z
+HR	HR	Npmsn
+)	)	Z
+
+POG	pog	Agpmsny
+Poljoprivredni	poljoprivredni	Agpmsny
+obrt	obrt	Ncmsn
+Gelenčir	Gelenčir	Npmsn
+,	,	Z
+Hercegovac	hercegovac	Ncmsn
+
+KWS	kwi	Agpnsny
+KWS	kwi	Agpnsny
+Sjeme	sjeme	Ncnsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Požega	Požega	Npfsn
+
+SyA	Sy	Npmsg
+Syngenta	Syngent	Npmsg
+Agro	agro	Agpmsny
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+Ho	Ho	Npmsn
+Hostonski	Hostonski	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Vinkovci	Vinkovc	Npmpn
+
+RWA	RW	Npmsg
+RWA	RW	Npmsg
+Raiffeisen	Raiffeisen	Npmsn
+Agro	Agro	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+PS	pi	Agpnsny
+Pioneer	pioneer	Agpnsny
+Sjeme	sjeme	Ncnsn
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+Bc	Bc	Npmsn
+Bc	Bc	Npmsn
+Institiut	Institiut	Npmsn
+d.	d.	Y
+d.	d.	Y
+Zagreb	Zagreb	Npmsn
+,	,	Z
+Dugo	dug	Agpnsny
+Selo	selo	Ncnsn
+
+CTS	CTS	Npmsn
+CT	CT	Npmsn
+Sjeme	sjeme	Ncnsn
+d.o.o.	d.o.o.	Ncfpg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+Ka	k	Sd
+Kadmo	Kadmo	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+AgS	AgS	Npmsn
+Agroservis	Agroservis	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Lučko	lučki	Agpnsny
+
+ZH	z	Agpfpgy
+Zeleni	zelen	Agpmsny
+hit	hit	Ncmsn
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+MonsH	MonsH	Npmsn
+Monsanto	Monsanto	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+PPK	PPK	Npmsn
+PP	PP	Npmsn
+KOMPLEKS	KOMPLEKS	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Nova	nov	Agpfsny
+Gradiška	Gradiška	Npfsn
+
+IKZPrs	IKZPrs	Xf
+–	–	Z
+Institut	institut	Ncmsn
+za	za	Sa
+kukuruz	kukuruz	Ncmsan
+»	»	Z
+Zemun	zemui	Agpnsny
+Polje	polje	Ncnsn
+«	«	Z
+(	(	Z
+RS	RS	Npfsn
+)	)	Z
+
+AHrs	AHrs	Xf
+–	–	Z
+As	as	Agpmpny
+Hibridi	hibrid	Ncmpn
+d.o.o.	d.o.o.	Y
+(	(	Z
+RS	RS	Npfsn
+)	)	Z
+
+SAMfr	SAMfr	Xf
+–	–	Z
+Sarl	Sarl	Npmsn
+Adrien	Adrien	Npmsn
+Momont	Momont	Xf
+et	et	Xf
+Fils	Fils	Xf
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+FDfr	FDfr	Xf
+–	–	Z
+Florimond	Florimond	Npmsn
+Desprez	Desprez	Npmsn
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+KWSLde	KWSLde	I
+–	–	Z
+KWS	KWS	Npmsn
+Lochow	Lochow	Npmsn
+GMBH	GMBH	Npmsn
+(	(	Z
+DE	DE	Npmsn
+)	)	Z
+
+ARIhu	ARIh	Npmsd
+–	–	Z
+Agricultural	Agricultural	Xf
+Research	Research	Xf
+Institute	institut	Xf
+(	(	Z
+HU	HU	Npmsn
+)	)	Z
+
+EPde	EPde	I
+–	–	Z
+Europlant	Europlant	Xf
+Pflanzenzucht	Pflanzenzucht	Xf
+GmbH	GmbH	Xf
+(	(	Z
+DE	DE	Npmsn
+)	)	Z
+
+MonsNl	MonsNl	Npmsn
+–	–	Z
+Monsanto	Monsanto	Npmsn
+Holland	Holland	Npmsn
+BV	BV	Npmsn
+(	(	Z
+NL	NL	Npmsn
+)	)	Z
+
+TEnl	TEnl	Xf
+–	–	Z
+Takii	Takii	Npfsg
+Europe	Europa	Npfsg
+B.	B.	Y
+V.	V.	Mro
+(	(	Z
+NL	NL	Npmsn
+)	)	Z
+
+SyAch	SyAch	Npfsn
+Syngenta	Syngenta	Npfsn
+Crop	Crop	Npfsn
+Protection	Protection	Xf
+AG	AG	Xf
+(	(	Z
+CH	CH	Npmsn
+)	)	Z
+
+Sde	Sda	Npfsg
+Strube	Struba	Npfsg
+GmbH	GmbH	Npfsg
+&	&	Z
+Co.	Co.	Y
+
+KG	KG	Npmsn
+(	(	Z
+DE	DE	Npmsn
+)	)	Z
+
+KWSde	KWSde	Npmsn
+KWS	KWS	Npmsn
+SAAT	SAAT	Npmsn
+AG	AG	Npmsn
+(	(	Z
+DE	DE	Npmsn
+)	)	Z
+
+Sbe	sb	Agpfpny
+SESVANDERHAVE	sesvanderhava	Ncfpn
+N.	N.	Y
+V.	V.	Y
+/	/	Z
+S.	S.	Y
+A.	A.	Y
+(	(	Z
+BE	ba	Ncfpn
+)	)	Z
+
+Mat	mat	Ncmsn
+Maribo	Maribo	Npmsn
+Seed	Seed	Npfsn
+Austria	Austria	Npfsn
+GmbH	GmbH	Npfsn
+(	(	Z
+AT	AT	Npmsn
+)	)	Z
+
+MonsFr	MonsFr	Npmsn
+Monsanto	Monsanto	Npmsn
+Technology	Technology	Xf
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+ESfr	ESfr	Npfsn
+Euralis	Euralis	Npfsn
+Semences	Semences	Npfsn
+,	,	Z
+Centre	Centre	Npmsn
+de	dati	Vmr3s
+Recherche	rechercha	Ncfpa
+de	dati	Vmr3s
+Mondoville	Mondoville	Npmsn
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+Rhu	Rhu	Npmsn
+Rijk	Rijk	Npmsn
+Zwaan	Zwaan	Npmsn
+Budapest	Budapest	Npmsn
+Kft	Kft	Npmsn
+(	(	Z
+HU	HU	Npmsn
+)	)	Z
+
+EZnl	EZnl	Npfsn
+Enza	Enza	Npfsn
+Zaden	Zaden	Npfsn
+Beheer	Beheer	Npfsn
+B.	B.	Y
+V.	V.	Mro
+(	(	Z
+NL	NL	Npmsn
+)	)	Z
+
+SVEfr	SVEfr	Xf
+Sakata	sakat	Agpfsny
+Vegetables	Vegetables	Npfsn
+Europe	Europa	Npfsg
+SAS	SAS	Npfsg
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+CSfr	CSfr	Xf
+Caussade	Caussade	Xf
+semences	semences	Xf
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+MSfr	MSfr	Xf
+Maisadour	Maisadour	Xf
+Semences	Semences	Xf
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+LEfr	LEfr	Npfsg
+Limagrain	Limagrain	Npfsg
+Europe	Europa	Npfsg
+SA	sa	Si
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+SDat	SDat	Xf
+Saatzucht	Saatzucht	Xf
+Donau	Donau	Xf
+GesmbH	GesmbH	Xf
+&	&	Z
+CoKG	coki	Agpnsny
+(	(	Z
+AT	AT	Npmsn
+)	)	Z
+
+SyAfr	SyAfr	Npfsn
+Syngenta	Syngenta	Npfsn
+Seeds	Seeds	Npfsn
+S.	S.	Y
+A.	A.	Y
+S.	S.	Y
+(	(	Z
+FR	FR	Npmsn
+)	)	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/13	01/13	Mdc
+-	-	Z
+01/54	01/54	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+525	525	Mdc
+-	-	Z
+09/1165	09/1165	Mdc
+-	-	Z
+14	14	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Tihomir	Tihomir	Npmsn
+Jakovina	Jakovina	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

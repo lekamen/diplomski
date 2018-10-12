@@ -1,0 +1,669 @@
+politika	politika	Ncfsn
+i	i	Cc
+strateških	strateški	Agpmpgy
+akata	akt	Ncmpg
+izrađenih	izraditi	Appmpgy
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+novom	nov	Agpfsiy
+metodologijom	metodologija	Ncfsi
+
+Mjera	mjera	Ncfsn
+1.2.	1.2.	Mds
+
+Unaprijediti	unaprijediti	Vmn
+proces	proces	Ncmsan
+godišnjeg	godišnji	Agpnsgy
+planiranja	planiranje	Ncnsg
+i	i	Cc
+izvještavanja	izvještavanje	Ncnsg
+u	u	Sl
+tijelima	tijelo	Ncmpl
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+
+Nositelji	nositelj	Ncmpn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+financija	financije	Ncfpg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+druga	drugi	Mlofsn
+tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+III	III	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2015.	2015.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+nisu	biti	Var3p
+potrebna	potreban	Agpnpny
+dodatna	dodatan	Agpnpny
+sredstva	sredstvo	Ncnpn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a1	A1	I
+.	.	Z
+2.1.	2.1.	Mds
+
+Prikupiti	prikupiti	Vmn
+i	i	Cc
+analitički	analitički	Agpmpny
+obraditi	obraditi	Vmn
+podatke	podatak	Ncmpa
+o	o	Sl
+godišnjem	godišnji	Agpnsly
+planiranju	planiranje	Ncnsl
+i	i	Cc
+izvještavanju	izvještavanje	Ncnsl
+u	u	Sl
+tijelima	tijelo	Ncnpl
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+(	(	Z
+podaci	podatak	Ncmpn
+o	o	Sl
+donošenju	donošenje	Ncnsl
+godišnjih	godišnji	Agpmpgy
+planova	plan	Ncmpg
+,	,	Z
+objavi	objava	Ncfsl
+,	,	Z
+izvršenju	izvršenje	Ncnsl
+planiranih	planiran	Agpfpgy
+aktivnosti	aktivnost	Ncfpg
+,	,	Z
+neplaniranim	neplaniran	Agpfply
+aktivnostima	aktivnost	Ncfpl
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+a1	A1	I
+.	.	Z
+2.2.	2.2.	Mds
+
+Izraditi	izraditi	Vmn
+normativni	normativan	Agpmsayn
+okvir	okvir	Ncmsan
+za	za	Sa
+izradu	izrada	Ncfsa
+,	,	Z
+donošenje	donošenje	Ncnsa
+,	,	Z
+izvršenje	izvršenje	Ncnsa
+,	,	Z
+praćenje	praćenje	Ncnsa
+i	i	Cc
+odgovornost	odgovornost	Ncfsa
+za	za	Sa
+izvršenje	izvršenje	Ncnsa
+godišnjih	godišnji	Agpmpgy
+planova	plan	Ncmpg
+rada	rad	Ncmsg
+i	i	Cc
+izvješća	izvješće	Ncnsg
+o	o	Sl
+radu	rad	Ncmsl
+
+a1	A1	I
+.	.	Z
+2.3.	2.3.	Mds
+
+Osigurati	osigurati	Vmn
+nadzor	nadzor	Ncmsan
+nad	nad	Si
+povezanošću	povezanost	Ncfsi
+strateškog	strateški	Agpmsgy
+,	,	Z
+godišnjeg	godišnji	Agpmsgy
+i	i	Cc
+proračunskog	proračunski	Agpnsgy
+planiranja	planiranje	Ncnsg
+u	u	Sl
+tijelima	tijelo	Ncfpl
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+
+a1	A1	I
+.	.	Z
+2.4.	2.4.	Mds
+
+Na	na	Sl
+razini	razina	Ncfsl
+tijela	tijelo	Ncnsg
+propisati	propisati	Vmn
+u	u	Sl
+opisima	opis	Ncmpl
+poslova	posao	Ncmpg
+izradu	izrada	Ncfsa
+godišnjih	godišnji	Agpmpgy
+planova	plan	Ncmpg
+
+a1	A1	I
+.	.	Z
+2.5.	2.5.	Mds
+
+Uvrštavati	uvrštavati	Vmn
+aktivnosti	aktivnost	Ncfpa
+iz	iz	Sg
+Strategije	strategija	Ncfsg
+u	u	Sa
+godišnje	godišnji	Agpmpay
+planove	plan	Ncmpa
+tijela	tijelo	Ncnsg
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+
+Pokazatelj	pokazatelj	Ncmsn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p1	p1	Qr
+.	.	Z
+2.1.	2.1.	Mds
+
+Postotak	postotak	Ncmsn
+godišnjih	godišnji	Agpmpgy
+planova	plan	Ncmpg
+izrađenih	izraditi	Appmpgy
+i	i	Cc
+objavljenih	objaviti	Appmpgy
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+novom	nov	Agpfsiy
+metodologijom	metodologija	Ncfsi
+
+p1	p1	Qr
+.	.	Z
+2.2.	2.2.	Mds
+
+Postotak	postotak	Ncmsn
+godišnjih	godišnji	Agpnpgy
+izvješća	izvješće	Ncnpg
+izrađenih	izraditi	Ncfpg
+i	i	Cc
+objavljenih	objaviti	Appmpgy
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+novom	nov	Agpfsiy
+metodologijom	metodologija	Ncfsi
+
+p1	p1	Qr
+.	.	Z
+2.3.	2.3.	Mds
+
+Postotak	postotak	Ncmsn
+tijela	tijelo	Ncnsg
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+u	u	Sa
+čije	čiji	Pi-nsa
+su	biti	Var3p
+godišnje	godišnji	Agpmpay
+planove	plan	Ncmpa
+ugrađene	ugraditi	Agpfpay
+aktivnosti	aktivnost	Ncfpa
+iz	iz	Sg
+Strategije	strategija	Ncfsg
+razvoja	razvoj	Ncmsg
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+za	za	Sa
+razdoblje	razdoblje	Ncnsa
+od	od	Sg
+2015.	2015.	Mdo
+do	do	Sg
+2020.	2020.	Mdo
+godine	godina	Ncfsg
+
+Mjera	mjera	Ncfsn
+1.3.	1.3.	Mds
+
+Standardizirati	standardizirati	Vmn
+poslove	posao	Ncmpa
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+
+Nositelji	nositelj	Ncmpn
+:	:	Z
+javnopravna	javnopravni	Agpnpny
+tijela	tijelo	Ncnpn
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+II	ii	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2016.	2016.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+nisu	biti	Var3p
+potrebna	potreban	Agpnpny
+dodatna	dodatan	Agpnpny
+sredstva	sredstvo	Ncnpn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a1	A1	I
+.	.	Z
+3.1.	3.1.	Mds
+
+Izraditi	izraditi	Vmn
+metodologiju	metodologija	Ncfsa
+prikupljanja	prikupljanje	Ncnsg
+podataka	podatak	Ncmpg
+o	o	Sl
+obavljanju	obavljanje	Ncnsl
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+,	,	Z
+uključujući	uključivati	Rr
+upravno	upravan	Agpnsay
+postupanje	postupanje	Ncnsa
+,	,	Z
+stručno-kreativne	stručno-kreativan	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+horizontalne	horizontalan	Agpfpay
+funkcije	funkcija	Ncfpa
+
+a1	A1	I
+.	.	Z
+3.2.	3.2.	Mds
+
+Izraditi	izraditi	Vmn
+analizu	analiza	Ncfsa
+vrsta	vrsta	Ncfpg
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+usporedno	usporedno	Rgp
+s	sa	Si
+prikazom	prikaz	Ncmsi
+opsega	opseg	Ncmsg
+poslova	posao	Ncmpg
+,	,	Z
+broja	broj	Ncmsg
+javnih	javan	Agpmpgy
+službenika	službenik	Ncmpg
+i	i	Cc
+namještenika	namještenik	Ncmpg
+koji	koji	Pi-mpn
+ih	oni	Pp3-pa
+obavljaju	obavljati	Vmr3p
+i	i	Cc
+njihovim	njihov	Ps3fpl
+kompetencijama	kompetencija	Ncfpl
+
+a1	A1	I
+.	.	Z
+3.3.	3.3.	Mds
+
+Izraditi	izraditi	Vmn
+sistematizaciju	sistematizacija	Ncfsa
+i	i	Cc
+klasifikaciju	klasifikacija	Ncfsa
+(	(	Z
+katalog	katalog	Ncmsn
+)	)	Z
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+i	i	Cc
+upravnih	upravan	Agpnpgy
+područja	područje	Ncnpg
+,	,	Z
+usluga	usluga	Ncfpg
+i	i	Cc
+procesa	proces	Ncmsg
+
+a1	A1	I
+.	.	Z
+3.4.	3.4.	Mds
+
+Definirati	definirati	Vmn
+standarde	standard	Ncmpa
+za	za	Sa
+pojedine	pojedini	Agpfpay
+vrste	vrsta	Ncfpa
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+
+a1	A1	I
+.	.	Z
+3.5.	3.5.	Mds
+
+Izraditi	izraditi	Vmn
+smjernice	smjernica	Ncfpa
+za	za	Sa
+standardiziranje	standardiziranje	Ncnsa
+upravnih	upravan	Agpmpgy
+poslova	posao	Ncmpg
+u	u	Sl
+jedinicama	jedinica	Ncfpl
+lokalne	lokalan	Agpfsgy
+i	i	Cc
+područne	područni	Agpfsgy
+(	(	Z
+regionalne	regionalan	Agpfsgy
+)	)	Z
+samouprave	samouprava	Ncfsg
+i	i	Cc
+pravnim	pravni	Agpfpdy
+osobama	osoba	Ncfpd
+s	sa	Si
+javnim	javan	Agpfpiy
+ovlastima	ovlast	Ncfpi
+sukladno	sukladno	Rgp
+djelokrugu	djelokrug	Ncmsd
+pojedinih	pojedini	Agpnpgy
+središnjih	središnji	Agpnpgy
+tijela	tijelo	Ncnpg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p1	p1	Qr
+.	.	Z
+3.1.	3.1.	Mds
+
+Postotak	postotak	Ncmsn
+tijela	tijelo	Ncnsg
+javne	javan	Agpfsgy
+uprave	uprava	Ncfsg
+čiji	čiji	Pi-mpn
+su	biti	Var3p
+ustrojstveni	ustrojstven	Agpmpny
+akti	akt	Ncmpn
+usklađeni	uskladiti	Appmpny
+s	sa	Si
+katalogom	katalog	Ncmsi
+upravnih	upravan	Agpfpgy
+funkcija	funkcija	Ncfpg
+i	i	Cc
+upravnih	upravan	Agpnpgy
+područja	područje	Ncnpg
+
+Mjera	mjera	Ncfsn
+1.4.	1.4.	Mds
+
+Pratiti	pratiti	Vmn
+i	i	Cc
+vrednovati	vrednovati	Vmn
+rezultate	rezultat	Ncmpa
+i	i	Cc
+učinke	učinak	Ncmpa
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+Nositelji	nositelj	Ncmpn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+financija	financije	Ncfpg
+
+Sunositelji	sunositelj	Ncmpn
+:	:	Z
+druga	drugi	Mlofsn
+tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+,	,	Z
+Državna	državni	Agpfsny
+škola	škola	Ncfsn
+za	za	Sa
+javnu	javan	Agpfsay
+upravu	uprava	Ncfsa
+
+Rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+:	:	Z
+II	ii	Mrc
+.	.	Z
+tromjesečje	tromjesečje	Ncnsa
+2016.	2016.	Mdo
+
+Potrebna	potreban	Agpnpay
+sredstva	sredstvo	Ncnpa
+:	:	Z
+procijeniti	procijeniti	Vmn
+
+Provedbene	provedbeni	Agpfpny
+aktivnosti	aktivnost	Ncfpn
+:	:	Z
+
+a1	A1	I
+.	.	Z
+4.1.	4.1.	Mds
+
+Razviti	razviti	Vmn
+smjernice	smjernica	Ncfpa
+i	i	Cc
+kriterije	kriterij	Ncmpa
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+vrednovanje	vrednovanje	Ncnsa
+rezultata	rezultat	Ncmpg
+i	i	Cc
+učinaka	učinak	Ncmpg
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+a1	A1	I
+.	.	Z
+4.2.	4.2.	Mds
+
+Odrediti	odrediti	Vmn
+tijelo	tijelo	Ncnsa
+nadležno	nadležan	Agpnsay
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+analizu	analiza	Ncfsa
+ostvarenih	ostvariti	Appmpgy
+rezultata	rezultat	Ncmpg
+i	i	Cc
+učinaka	učinak	Ncmpg
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+
+a1	A1	I
+.	.	Z
+4.3.	4.3.	Mds
+
+Kontinuirano	kontinuirano	Rgp
+osposobljavati	osposobljavati	Vmn
+rukovodeće	rukovodeći	Agpmpay
+državne	državni	Agpmpay
+službenike	službenik	Ncmpa
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+vrednovanje	vrednovanje	Ncnsa
+rezultate	rezultat	Ncmpa
+i	i	Cc
+učinaka	učinak	Ncmpg
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+u	u	Sl
+njihovoj	njihov	Ps3fsl
+nadležnosti	nadležnost	Ncfsl
+sukladno	sukladan	Agpnsny
+smjernicama	smjernica	Ncfpd
+
+a1	A1	I
+.	.	Z
+4.4.	4.4.	Mds
+
+Usvojiti	usvojiti	Vmn
+jedinstvenu	jedinstven	Agpfsay
+metodologiju	metodologija	Ncfsa
+za	za	Sa
+praćenje	praćenje	Ncnsa
+i	i	Cc
+vrednovanje	vrednovanje	Ncnsa
+rezultata	rezultat	Ncmpg
+i	i	Cc
+učinaka	učinak	Ncmpg
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+i	i	Cc
+definirati	definirati	Vmn
+pokazatelje	pokazatelj	Ncmpa
+do	do	Sg
+razine	razina	Ncfsg
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+
+a1	A1	I
+.	.	Z
+4.5.	4.5.	Mds
+
+Na	na	Sl
+razini	razina	Ncfsl
+tijela	tijelo	Ncnsg
+propisati	propisati	Vmn
+u	u	Sl
+opisima	opis	Ncmpl
+poslova	posao	Ncmpg
+praćenje	praćenje	Ncnsa
+i	i	Cc
+vrednovanje	vrednovanje	Ncnsa
+rezultata	rezultat	Ncmpg
+i	i	Cc
+učinaka	učinak	Ncmpg
+poslova	posao	Ncmpg
+u	u	Sl
+javnoj	javan	Agpfsly
+upravi	uprava	Ncfsl
+i	i	Cc
+odgovornost	odgovornost	Ncfsn
+za	za	Sa
+ostvarene	ostvariti	Agpmpay
+rezultate	rezultat	Ncmpa
+
+a1	A1	I
+.	.	Z
+4.6.	4.6.	Mds
+
+Propisati	propisati	Vmn
+način	način	Ncmsan
+,	,	Z
+oblik	oblik	Ncmsan
+i	i	Cc
+obvezu	obveza	Ncfsa
+tijela	tijelo	Ncnsg
+da	da	Cs
+obavještavaju	obavještavati	Vmr3p
+Vladu	vlada	Ncfsa
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+i	i	Cc
+javnost	javnost	Ncfsn
+o	o	Sl
+ostvarenim	ostvariti	Agpmply
+rezultatima	rezultat	Ncmpl
+
+Pokazatelji	pokazatelj	Ncmpn
+ostvarenosti	ostvarenost	Ncfsg
+mjere	mjera	Ncfsg
+:	:	Z
+
+p1	p1	Qr
+.	.	Z
+4.1.	4.1.	Mds
+
+Postotak	postotak	Ncmsn
+tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+koja	koji	Pi-fsn
+izvještavaju	izvještavati	Vmr3p
+Vladu	vlada	Ncfsa
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+obavještavaju	obavještavati	Vmr3p
+javnost	javnost	Ncfsa
+o	o	Sl
+ostvarenim	ostvariti	Agpmply
+rezultatima	rezultat	Ncmpl
+sukladno	sukladno	Rgp
+propisanoj	propisati	Agpfsly
+obvezi	obveza	Ncfsl
+
+p1	p1	Qr
+.	.	Z
+4.2.	4.2.	Mds
+
+Pozitivan	pozitivan	Agpmsnn
+trend	trend	Ncmsn
+pokazatelja	pokazatelj	Ncmsg
+uspješnosti	uspješnost	Ncfsg
+u	u	Sl
+odnosu	odnos	Ncmsl
+na	na	Sa
+prethodno	prethodan	Agpnsay
+razdoblje	razdoblje	Ncnsa
+
+Mjera	mjera	Ncfsn
+1.5.	1.5.	Mds
+
+Unaprijediti	unaprijediti	Vmn
+praćenje	praćenje	Ncnsa
+upravnog	upravan	Agpnsgy
+postupanja	postupanje	Ncnsg
+i	i	Cc
+odlučivanja	odlučivanje	Ncnsg
+u	u	Sl
+javnopravnim	javnopravni	Agpnply
+tijelima	tijelo	Ncnpl
+
+Nositelj	nositelj	Ncmsn
+:	:	Z
+Ministarstvo	ministarstvo	Ncnsn
+uprave	uprava	Ncfsg
+

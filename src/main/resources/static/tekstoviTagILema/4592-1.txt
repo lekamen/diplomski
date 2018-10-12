@@ -1,0 +1,61 @@
+interkonekciji	interkonekcija	Ncfsl
+Hrvatska	Hrvatska	Npfsn
+–	–	Z
+Mađarska	Mađarska	Npfsn
+PI	pi	Agpmpny
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+Ove	ovaj	Pd-fsg
+Dopune	dopuna	Ncfsg
+Metodologije	metodologija	Ncfsg
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+01/15	01/15	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+371	371	Mdc
+-	-	Z
+06/16	06/16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+10.	10.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Tomislav	Tomislav	Npmsn
+Jureković	Jureković	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

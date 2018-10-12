@@ -1,0 +1,740 @@
+1.1.49.	1.1.49.	Mdo
+vinograd	vinograd	Ncmsn
+
+1.1.50.	1.1.50.	Mds
+visina	visina	Ncfpg
+
+1.1.51.	1.1.51.	Mdo
+visina	visina	Ncfsn
+vrhova	vrh	Ncmpg
+drveća	drveće	Ncnsg
+
+1.1.52.	1.1.52.	Mdo
+vodeni	voden	Agpmpny
+oblici	oblik	Ncmpn
+
+1.1.53.	1.1.53.	Mdo
+vodopad	vodopad	Ncmsn
+
+1.1.54.	1.1.54i	Agpnsny
+vrelo	vrelo	Ncnsn
+
+1.1.55.	1.1.55.	Mdo
+vrt	vrt	Ncmsan
+
+1.2.	1.2.	Mdo
+
+GRAĐEVINE	građevina	Ncfpa
+
+1.2.1.	1.2.1.	Mdo
+autocesta	autocesta	Ncfsn
+
+1.2.2.	1.2.2.	Mdo
+cesta	cesta	Ncfsn
+
+1.2.3.	1.2.3.	Mdo
+cjevovod	cjevovod	Ncmsn
+,	,	Z
+podmorski	podmorski	Agpmsny
+
+1.2.4.	1.2.4.	Mdo
+dalekovod	dalekovod	Ncmsn
+
+1.2.5.	1.2.5i	Agpnsny
+gradsko	gradski	Agpnsny
+područje	područje	Ncnsn
+
+1.2.6.	1.2.6.	Mdo
+kolni	kolni	Agpmsayn
+put	put	Ncmsan
+
+1.2.7.	1.2.7i	Agpnsny
+mjesto	mjesto	Ncnsn
+
+1.2.8.	1.2.8.	Mdo
+most	most	Ncmsn
+na	na	Sa
+otvaranje	otvaranje	Ncnsa
+
+1.2.9.	1.2.9.	Mdo
+most	most	Ncmsn
+na	na	Sa
+podizanje	podizanje	Ncnsa
+
+1.2.10.	1.2.10.	Mdo
+most	most	Ncmsn
+na	na	Sa
+uvlačenje	uvlačenje	Ncnsa
+
+1.2.11.	1.2.11.	Mdo
+most	most	Ncmsn
+nepokretni	nepokretan	Agpmsny
+
+1.2.12.	1.2.12.	Mdo
+most	most	Ncmsn
+okretni	okretan	Agpmsny
+
+1.2.13.	1.2.13.	Mdo
+most	most	Ncmsn
+pokretni	pokretan	Agpmsny
+
+1.2.14.	1.2.14.	Mdo
+most	most	Ncmsn
+pontonski	pontonski	Agpmsny
+
+1.2.15.	1.2.15.	Mdo
+most	most	Ncmsn
+transportni	transportni	Agpmsny
+
+1.2.16.	1.2.16.	Mdo
+nafta	nafta	Ncfsn
+(	(	Z
+naziv	naziv	Ncmsn
+uz	uz	Sa
+oznaku	oznaka	Ncfsa
+cjevovoda	cjevovod	Ncmpg
+)	)	Z
+
+1.2.17.	1.2.17.	Mdo
+naselja	naselje	Ncnsg
+
+1.2.18.	1.2.18.	Mdo
+nasip	nasip	Ncmsn
+
+1.2.19.	1.2.19.	Mdo
+naziv	naziv	Ncmsn
+ulice	ulica	Ncfsg
+
+1.2.20.	1.2.20.	Mdo
+objekti	objekt	Ncmpn
+za	za	Sa
+orijentaciju	orijentacija	Ncfsa
+
+1.2.21.	1.2.21.	Mdo
+ograda	ograda	Ncfsn
+
+1.2.22.	1.2.22.	Mdo
+plin	plin	Ncmsn
+(	(	Z
+naziv	naziv	Ncmsn
+uz	uz	Sa
+oznaku	oznaka	Ncfsa
+cjevovoda	cjevovod	Ncmpg
+)	)	Z
+
+1.2.23.	1.2.23.	Mds
+ruševina	ruševina	Ncfpg
+
+1.2.24.	1.2.24.	Mdo
+sigurna	siguran	Agpfsny
+visina	visina	Ncfsn
+prolaza	prolaz	Ncmsg
+
+1.2.25.	1.2.25.	Mdo
+sletište	sletište	Ncnsa
+za	za	Sa
+zrakoplove	zrakoplov	Ncmpa
+
+1.2.26.	1.2.26.	Mdo
+staza	staza	Ncfsn
+
+1.2.27.	1.2.27.	Mdo
+stup	stup	Ncmsan
+
+1.2.28.	1.2.28.	Mdo
+širina	širina	Ncfsn
+prolaza	prolaz	Ncmsg
+
+1.2.29.	1.2.29.	Mdo
+telefonski	telefonski	Agpmsny
+kabel	kabel	Ncmsn
+
+1.2.30.	1.2.30.	Mdo
+telegrafski	telegrafski	Agpmsayn
+kabel	kabel	Ncmsan
+
+1.2.31.	1.2.31.	Mdo
+transporter	transporter	Ncmsan
+
+1.2.32.	1.2.32.	Mdo
+tunel	tunel	Ncmsn
+
+1.2.33.	1.2.33.	Mdo
+usjek	usjek	Ncmsn
+
+1.2.34.	1.2.34.	Mdo
+visina	visina	Ncfsn
+prolaza	prolaz	Ncmsg
+ili	ili	Cc
+svjetla	svjetlo	Ncnsg
+
+1.2.35.	1.2.35.	Mds
+zgrada	zgrada	Ncfpg
+
+1.2.36.	1.2.36.	Mdo
+zračna	zračan	Agpfsny
+cijev	cijev	Ncfsn
+
+1.2.37.	1.2.37.	Mdo
+zračna	zračan	Agpfsny
+luka	luka	Ncfsn
+
+1.2.38.	1.2.38.	Mdo
+zračni	zračan	Agpmsayn
+kabel	kabel	Ncmsan
+
+1.2.39.	1.2.39.	Mdo
+željeznička	željeznički	Agpfsny
+postaja	postaja	Ncfsn
+
+1.2.40.	1.2.40.	Mdo
+željeznička	željeznički	Agpfsny
+pruga	pruga	Ncfsn
+
+1.2.41.	1.2.41.	Mdo
+žičani	žičan	Agpmsny
+transporter	transporter	Ncmsn
+
+1.3.	1.3.	Mdo
+
+OBJEKTI	objekt	Ncmpn
+ZA	za	Sa
+ORIJENTACIJU	orijentacija	Ncfsa
+
+1.3.1.	1.3.1.	Mdo
+crkva	crkva	Ncfsn
+
+1.3.2.	1.3.2.	Mdo
+crkvena	crkven	Agpfsny
+kupola	kupola	Ncfsn
+
+1.3.3.	1.3.3.	Mdo
+crkveni	crkven	Agpmsayn
+toranj	toranj	Ncmsan
+
+1.3.4.	1.3.4.	Mdo
+crkveni	crkven	Agpmsny
+zvonik	zvonik	Ncmsn
+
+1.3.5.	1.3.5.	Mdo
+dimnjak	dimnjak	Ncmsan
+
+1.3.6.	1.3.6.	Mdo
+dvorac	dvorac	Ncmsn
+
+1.3.7.	1.3.7.	Mdo
+džamija	džamija	Ncfsn
+
+1.3.8.	1.3.8i	Agpnsay
+groblje	groblje	Ncnsa
+
+1.3.9.	1.3.9.	Mdo
+hram	hram	Ncmsan
+
+1.3.10.	1.3.10.	Mdo
+istaknuti	istaknuti	Vmn
+objekt	objekt	Ncmsan
+za	za	Sa
+orijentaciju	orijentacija	Ncfsa
+
+1.3.11.	1.3.11.	Mdo
+izvor	izvor	Ncmsn
+vode	voda	Ncfsg
+
+1.3.12.	1.3.12.	Mdo
+kamenolom	kamenolom	Ncmsan
+
+1.3.13.	1.3.13.	Mdo
+kapelica	kapelica	Ncfsn
+
+1.3.14.	1.3.14.	Mdo
+kaptirani	kaptiran	Agpmsny
+izvor	izvor	Ncmsn
+
+1.3.15.	1.3.15.	Mdo
+križ	križ	Ncmsan
+
+1.3.16.	1.3.16.	Mdo
+kula	kula	Ncfsn
+
+1.3.17.	1.3.17.	Mdo
+kupola	kupola	Ncfsn
+
+1.3.18.	1.3.18.	Mdo
+manja	mali	Agcfsny
+utvrda	utvrda	Ncfsn
+
+1.3.19.	1.3.19.	Mdo
+minaret	minaret	Ncmsan
+
+1.3.20.	1.3.20.	Mdo
+mlin	mlin	Ncmsn
+
+1.3.21.	1.3.21.	Mdo
+motor	motor	Ncmsn
+na	na	Sa
+vjetreni	vjetreni	Agpmsayn
+pogon	pogon	Ncmsan
+
+1.3.22.	1.3.22.	Mdo
+pagoda	pagoda	Ncfsn
+
+1.3.23.	1.3.23.	Mdo
+parabolična	paraboličan	Agpfsny
+antena	antena	Ncfsn
+
+1.3.24.	1.3.24.	Mdo
+plamenik	plamenik	Ncmsn
+
+1.3.25.	1.3.25.	Mdo
+radarska	radarski	Agpfsny
+kupola	kupola	Ncfsn
+
+1.3.26.	1.3.26.	Mdo
+radarska	radarski	Agpfsny
+antena	antena	Ncfsn
+
+1.3.27.	1.3.27.	Mdo
+radarski	radarski	Agpmsny
+stup	stup	Ncmsn
+
+1.3.28.	1.3.28.	Mdo
+radarski	radarski	Agpmsny
+toranj	toranj	Ncmsn
+
+1.3.29.	1.3.29.	Mdo
+radiostup	radiostua	Ncfsg
+
+1.3.30.	1.3.30.	Mdo
+radiotoranj	radiotorana	Ncfsg
+
+1.3.31.	1.3.31.	Mdo
+rudnik	rudnik	Ncmsn
+
+1.3.32.	1.3.32.	Mdo
+silos	silos	Ncmsan
+
+1.3.33.	1.3.33.	Mdo
+slikovni	slikovni	Agpmpny
+znakovi	znak	Ncmpn
+
+1.3.34.	1.3.34.	Mdo
+spomenik	spomenik	Ncmsn
+
+1.3.35.	1.3.35.	Mdo
+stadion	stadion	Ncmsan
+
+1.3.36.	1.3.36.	Mdo
+tank	tank	Ncmsan
+za	za	Sa
+vodu	voda	Ncfsa
+
+1.3.37.	1.3.37.	Mdo
+tank	tana	Ncfsg
+
+1.3.38.	1.3.38.	Mdo
+televizijski	televizijski	Agpmsny
+stup	stup	Ncmsn
+
+1.3.39.	1.3.39.	Mdo
+televizijski	televizijski	Agpmsny
+toranj	toranj	Ncmsn
+
+1.3.40.	1.3.40.	Mdo
+toranj	toranj	Ncmsn
+
+1.3.41.	1.3.41.	Mdo
+mauzolej	mauzolej	Ncmsn
+
+1.3.42.	1.3.42.	Mdo
+utvrda	utvrda	Ncfsn
+
+1.3.43.	1.3.43.	Mdo
+vedute	veduta	Ncfsg
+
+1.3.44.	1.3.44.	Mds
+visina	visina	Ncfpg
+
+1.3.45.	1.3.45.	Mdo
+vjetrenjača	vjetrenjača	Ncfsn
+
+1.3.46.	1.3.46.	Mdo
+vodenica	vodenica	Ncfsn
+
+1.3.47.	1.3.47.	Mdo
+vodotoranj	vodotoranj	Ncmsn
+
+1.3.48.	1.3.48.	Mdo
+zastavno	zastavni	Agpnsny
+koplje	koplje	Ncnsn
+
+1.3.49.	1.3.49.	Mdo
+zdenac	zdenac	Ncmsn
+
+1.3.50.	1.3.50.	Mdo
+zvonik	zvonik	Ncmsn
+
+1.4.	1.4.	Mdo
+
+LUKE	luka	Ncfpn
+I	i	Cc
+LUČKI	lučki	Agpmpny
+OBJEKTI	objekt	Ncmpn
+
+1.4.1.	1.4.1	Agpfpgy
+bolnica	bolnica	Ncfpg
+
+1.4.2.	1.4.2.	Mds
+brana	brana	Ncfpg
+za	za	Sa
+zadržavanje	zadržavanje	Ncnsa
+nafte	nafta	Ncfsg
+
+1.4.3.	1.4.3.	Mds
+brana	brana	Ncfpg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+obale	obala	Ncfsg
+
+1.4.4.	1.4.4.	Mds
+brana	brana	Ncfpg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+od	od	Sg
+nafte	nafta	Ncfsg
+
+1.4.5.	1.4.5.	Mds
+brana	brana	Ncfpg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+od	od	Sg
+poplave	poplava	Ncfsg
+
+1.4.6.	1.4.6	Agpfpgy
+carinarnica	carinarnica	Ncfpg
+
+1.4.7.	1.4.7.	Mdo
+dok	dok	Cs
+mokri	mokar	Agpmpny
+
+1.4.8.	1.4.8	Agpfpgy
+dizalica	dizalica	Ncfpg
+
+1.4.9.	1.4.9.	Mdo
+dok	dok	Cs
+plutajući	plutajući	Agpmsny
+
+1.4.10.	1.4.10.	Mdo
+dok	dok	Cs
+suhi	suh	Agpmsny
+
+1.4.11.	1.4.11.	Mdo
+gat	gat	Ncmsan
+
+1.4.12.	1.4.12.	Mdo
+građevinski	građevinski	Agpmpny
+radovi	rad	Ncmpn
+
+1.4.13.	1.4.13.	Mdo
+hidrant	hidrant	Ncmsan
+
+1.4.14.	1.4.14.	Mdo
+hidrotehnički	hidrotehnički	Agpmpny
+objekti	objekt	Ncmpn
+
+1.4.15.	1.4.15i	Agpnsny
+istezalište	istezalište	Ncnsn
+
+1.4.16.	1.4.16.	Mds
+javne	javan	Agpfsgy
+zgrade	zgrada	Ncfsg
+
+1.4.17.	1.4.17.	Mdo
+kanal	kanal	Ncmsn
+
+1.4.18.	1.4.18.	Mdo
+kolac	kolac	Ncmsn
+
+1.4.19.	1.4.19.	Mdo
+kontejnerska	kontejnerski	Agpfsny
+dizalica	dizalica	Ncfsn
+
+1.4.20.	1.4.20.	Mdo
+lučka	lučki	Agpfsny
+ispostava	ispostava	Ncfsn
+
+1.4.21.	1.4.21.	Mdo
+lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+
+1.4.22.	1.4.22.	Mdo
+lučki	lučki	Agpmsny
+bazen	bazen	Ncmsn
+
+1.4.23.	1.4.23.	Mdo
+lučki	lučki	Agpmpny
+objekti	objekt	Ncmpn
+
+1.4.24.	1.4.24.	Mdo
+lučki	lučki	Agpmpny
+uređaji	uređaj	Ncmpn
+
+1.4.25.	1.4.25.	Mdo
+luka	luka	Ncfsn
+brodogradilišna	brodogradilišni	Agpfsny
+
+1.4.26.	1.4.26.	Mdo
+luka	luka	Ncfsn
+industrijska	industrijski	Agpfsny
+
+1.4.27.	1.4.27.	Mdo
+luka	luk	Ncmsg
+nautičkog	nautički	Agpmsgy
+turizma	turizam	Ncmsg
+
+1.4.28.	1.4.28.	Mdo
+luka	luka	Ncfsn
+ribarska	ribarski	Agpfsny
+
+1.4.29.	1.4.29.	Mdo
+luka	luka	Ncfsn
+sportska	sportski	Agpfsny
+
+1.4.30.	1.4.30.	Mdo
+luka	luka	Ncfsn
+vojna	vojni	Agpfsny
+
+1.4.31.	1.4.31.	Mdo
+lukobran	lukobran	Ncmsn
+
+1.4.32.	1.4.32.	Mdo
+mali	mali	Agpmsny
+gat	gat	Ncmsn
+
+1.4.33.	1.4.33.	Mdo
+manji	mali	Agcmsayn
+stup	stup	Ncmsan
+
+1.4.34.	1.4.34.	Mdo
+molo	moti	Vmp-sn
+
+1.4.35.	1.4.35i	Agpnsny
+nasipanje	nasipanje	Ncnsn
+
+1.4.36.	1.4.36.	Mdo
+navoz	navoz	Ncmsan
+
+1.4.37.	1.4.37.	Mdo
+oštećeni	oštetiti	Appmsayn
+gat	gat	Ncmsan
+
+1.4.38.	1.4.38.	Mds
+otvorena	otvoriti	Appfsny
+luka	luka	Ncfsn
+
+1.4.39.	1.4.39.	Mds
+zatvorena	zatvoriti	Appfsny
+luka	luka	Ncfsn
+
+1.4.40.	1.4.40.	Mdo
+otvoreni	otvoren	Agpmsny
+lučki	lučki	Agpmsny
+bazen	bazen	Ncmsn
+
+1.4.41.	1.4.41.	Mdo
+zatvoreni	zatvoren	Agpmsny
+lučki	lučki	Agpmsny
+bazen	bazen	Ncmsn
+
+1.4.42.	1.4.42.	Mdo
+oznaka	oznaka	Ncfsn
+devijacije	devijacija	Ncfsg
+kompasa	kompas	Ncmpg
+
+1.4.43.	1.4.43.	Mdo
+oznaka	oznaka	Ncfsn
+veza	veza	Ncfpg
+
+1.4.44.	1.4.44.	Mdo
+plutajuća	plutajući	Agpfsny
+brana	brana	Ncfsn
+
+1.4.45.	1.4.45.	Mdo
+područje	područje	Ncnsa
+nasipanja	nasipanje	Ncnsg
+
+1.4.46.	1.4.46.	Mdo
+podvodna	podvodan	Agpfsny
+gradnja	gradnja	Ncfsn
+
+1.4.47.	1.4.47.	Mdo
+ponton	ponton	Ncmsn
+
+1.4.48.	1.4.48.	Mdo
+pošta	pošta	Ncfsn
+
+1.4.49.	1.4.49.	Mdo
+potporni	potporni	Agpmsny
+zid	zid	Ncmsn
+
+1.4.50.	1.4.50.	Mdo
+prekrcaj	prekrcaj	Ncmsan
+tereta	teret	Ncmsg
+
+1.4.51.	1.4.51.	Mdo
+pristan	pristan	Ncmsan
+
+1.4.52.	1.4.52i	Agpnsny
+pristanište	pristanište	Ncnsn
+
+1.4.53.	1.4.53.	Mdo
+prsten	prsten	Ncmsan
+za	za	Sa
+vez	vez	Ncmsan
+
+1.4.54.	1.4.54.	Agpmpny
+radovi	rad	Ncmpn
+na	na	Sl
+kopnu	kopno	Ncnsl
+
+1.4.55.	1.4.55.	Agpmpny
+radovi	rad	Ncmpn
+na	na	Sl
+moru	more	Ncnsl
+
+1.4.56.	1.4.56.	Agpmpny
+radovi	rad	Ncmpn
+u	u	Sl
+tijeku	tijek	Ncmsl
+
+1.4.57.	1.4.57.	Mdo
+rešetka	rešetka	Ncfsn
+za	za	Sa
+čišćenje	čišćenje	Ncnsa
+
+1.4.58.	1.4.58.	Mdo
+
+Ro-Ro	ro-ro	Agpmsny
+terminal	terminal	Ncmsn
+
+1.4.59.	1.4.59.	Mdo
+siz	siz	Ncmsan
+
+1.4.60.	1.4.60i	Agpnsny
+skladište	skladište	Ncnsn
+
+1.4.61.	1.4.61i	Agpnsny
+spremište	spremište	Ncnsn
+
+1.4.62.	1.4.62.	Mdo
+stepenice	stepenica	Ncfsg
+
+1.4.63.	1.4.63.	Mdo
+stup	stup	Ncmsan
+
+1.4.64.	1.4.64.	Mdo
+stup	stup	Ncmsan
+za	za	Sa
+vez	vez	Ncmsan
+
+1.4.65.	1.4.65.	Mdo
+šetnica	šetnica	Ncfsn
+
+1.4.66.	1.4.66.	Mdo
+tranzitno	tranzitni	Agpnsny
+spremište	spremište	Ncnsn
+
+1.4.67.	1.4.67.	Mdo
+trokraka	trokrak	Agpfsny
+dizalica	dizalica	Ncfsn
+
+1.4.68.	1.4.68.	Mdo
+trup	trup	Ncmsn
+
+1.4.69.	1.4.69.	Mdo
+ustava	ustav	Ncmsg
+
+1.4.70.	1.4.70.	Mdo
+vez	vez	Ncmsan
+
+1.4.71.	1.4.71.	Mdo
+zaštitni	zaštitni	Agpmsny
+zid	zid	Ncmsn
+
+1.4.72.	1.4.72.	Mdo
+zdravstvena	zdravstven	Agpfsny
+ustanova	ustanova	Ncfsn
+
+1.4.73.	1.4.73.	Mdo
+zidani	zidati	Appmsayn
+pristan	pristan	Ncmsan
+
+2.	2.	Mdo
+HIDROGRAFSKI	hidrografski	Agpmpny
+PODACI	podatak	Ncmpn
+
+2.1.	2.1.	Mdo
+
+MORSKE	morski	Agpfpay
+MIJENE	mijena	Ncfpa
+I	i	Cc
+STRUJE	struja	Ncfsg
+
+2.1.1.	2.1.1.	Mdo
+geodetska	geodetski	Agpfsny
+nula	nula	Ncfsn
+
+2.1.2.	2.1.2.	Mdo
+hidrografska	hidrografski	Agpfsny
+nula	nula	Ncfsn
+
+2.1.3.	2.1.3.	Mdo
+namreškanost	namreškanost	Ncfsn
+mora	morati	Vmr3s
+
+2.1.4.	2.1.4.	Mdo
+razine	razina	Ncfsg
+morskih	morski	Agpfpgy
+mijena	mijena	Ncfpg
+
+2.1.5.	2.1.5.	Mdo
+struja	struja	Ncfsn
+morska	morski	Agpfsny
+
+2.1.6.	2.1.6.	Mdo
+struja	struja	Ncfsn
+morskih	morski	Agpfpgy
+mijena	mijena	Ncfpg
+
+2.1.7.	2.1.7.	Mdo
+struja	struja	Ncfsn
+oseke	oseka	Ncfsg
+
+2.1.8.	2.1.8.	Mdo
+struja	struja	Ncfsn
+plime	plima	Ncfsg
+
+2.1.9.	2.1.9	Agpfpgy
+tablica	tablica	Ncfpg
+morskih	morski	Agpfpgy
+mijena	mijena	Ncfpg
+
+2.1.10.	2.1.10.	Mdo
+visina	visina	Ncfsn
+svjetla	svjetlo	Ncnsg
+
+2.1.11.	2.1.11.	Mdo
+vrtlozi	vrtlog	Ncmpn
+
+2.2.	2.2.	Mdo
+
+DUBINE	dubina	Ncfsg
+
+2.2.1.	2.2.1.	Mds
+crta	crta	Ncfpg
+niske	nizak	Agpfsgy
+vode	voda	Ncfsg
+
+2.2.2.	2.2.2.	Mdo
+dragiranje	dragiranje	Ncnsa
+

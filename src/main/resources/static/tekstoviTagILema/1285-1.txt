@@ -1,0 +1,79 @@
+pustit	pustiti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sa
+prodaju	prodaja	Ncfsa
+23.	23.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+15.	15.	Mdo
+
+Prodaju	prodaja	Ncfsa
+prigodnoga	prigodan	Agpmsgy
+zlatnoga	zlatan	Agpmsgy
+i	i	Cc
+srebrnoga	srebrn	Agpmsgy
+kovanog	kovati	Agpmsgy
+novca	novac	Ncmsg
+iz	iz	Sg
+točaka	točka	Ncfpg
+2.	2.	Mdo
+i	i	Cc
+3.	3.	Mdo
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+obavljat	obavljati	Vmn
+će	htjeti	Var3s
+Hrvatska	hrvatski	Agpfsny
+narodna	narodni	Agpfsny
+banka	banka	Ncfsn
+.	.	Z
+
+16.	16.	Mdo
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+prvi	prvi	Mlomsan
+dan	dan	Ncmsan
+od	od	Sg
+dana	dan	Ncmsg
+njezine	njezin	Ps3fsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+O.	O.	Y
+br.	br.	Y
+802/2015.	802/2015.	Mds
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Zamjenjuje	zamjenjivati	Vmr3s
+predsjednika	predsjednik	Ncmsay
+Savjeta	savjet	Ncmsg
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+zamjenik	zamjenik	Ncmsn
+guvernera	guverner	Ncmpg
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+Relja	Relja	Npfsn
+Martić	Martić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

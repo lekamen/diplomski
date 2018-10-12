@@ -1,0 +1,100 @@
+pregovarački	pregovarački	Agpmsny
+tim	tim	Ncmsn
+.	.	Z
+
+Nakon	nakon	Sg
+završetka	završetak	Ncmsg
+pregovora	pregovor	Ncmpg
+nacrt	nacrt	Ncmsan
+ugovora	ugovor	Ncmsg
+o	o	Sl
+istraživanju	istraživanje	Ncnsl
+i	i	Cc
+podjeli	podjela	Ncfsl
+eksploatacije	eksploatacija	Ncfsg
+ugljikovodika	ugljikovodik	Ncmpg
+bit	biti	Van
+će	htjeti	Var3s
+dostavljen	dostaviti	Appmsnn
+Vladi	Vlada	Npfsd
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+na	na	Sa
+suglasnost	suglasnost	Ncfsa
+,	,	Z
+a	a	Cc
+isti	isti	Agpmsny
+će	htjeti	Var3s
+biti	biti	Van
+sklopljen	sklopiti	Appmsnn
+između	između	Sg
+Ovlaštenika	ovlaštenik	Ncmpg
+dozvole	dozvola	Ncfsg
+i	i	Cc
+ovlaštenog	ovlašten	Agpmsgy
+predstavnika	predstavnik	Ncmsg
+Vlade	vlada	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+u	u	Sa
+ime	ime	Ncnsa
+i	i	Cc
+za	za	Sa
+račun	račun	Ncmsan
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+.	.	Z
+
+X.	X.	Y
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/14	03/14	Mdc
+-	-	Z
+04/527	04/527	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2.	2.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

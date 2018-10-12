@@ -1,0 +1,178 @@
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+poljsku	poljski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+rusku	ruski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+rusinsku	rusinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+tursku	turski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+ukrajinsku	ukrajinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+za	za	Sa
+židovsku	židovski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+dan	dan	Ncmsan
+provedbe	provedba	Ncfsg
+izbora	izbor	Ncmpg
+određuje	određivati	Vmr3s
+se	sebe	Px--sa
+nedjelja	nedjelja	Ncfsn
+,	,	Z
+31.	31.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Naknada	naknada	Ncfsn
+troškova	trošak	Ncmpg
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+isplatit	isplatiti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+sukladno	sukladno	Rgp
+Odluci	odluka	Ncfsd
+o	o	Sl
+određivanju	određivanje	Ncnsl
+visine	visina	Ncfsg
+naknade	naknada	Ncfsg
+troškova	trošak	Ncmpg
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+za	za	Sa
+izbor	izbor	Ncmsan
+članova	član	Ncmpg
+vijeća	vijeće	Ncnsg
+i	i	Cc
+predstavnika	predstavnik	Ncmpg
+nacionalnih	nacionalan	Agpfpgy
+manjina	manjina	Ncfpg
+u	u	Sl
+jedinicama	jedinica	Ncfpl
+lokalne	lokalan	Agpfsgy
+i	i	Cc
+područne	područni	Agpfsgy
+(	(	Z
+regionalne	regionalan	Agpfpay
+)	)	Z
+samouprave	samouprava	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+56/2011	56/2011	Mds
+)	)	Z
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+30.	30.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/146	04/146	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

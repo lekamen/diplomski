@@ -1,0 +1,56 @@
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/65	01/65	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+4	4	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+9.	9.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+dr.	dr.	Y
+sc.	sc.	Y
+Siniša	Siniša	Npfsn
+Hajdaš	Hajdaš	Npfsn
+Dončić	Dončić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

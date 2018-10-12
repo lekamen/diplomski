@@ -1,0 +1,711 @@
+2749.	2749.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+LIDIJA	LIDIJA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+BARIŠIĆ	Barišić	Npmsn
+BOGIŠIĆ	BOGIŠIĆ	Npmsn
+
+2750.	2750.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+LIDIJA	LIDIJA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+BEKAVAC	BEKAVAC	Npmsn
+
+2751.	2751.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BELINDA	BELINDA	Npfsn
+(	(	Z
+Miljenkova	Miljenkova	Npfsn
+)	)	Z
+BLAGDAN	blagdan	Ncmsn
+
+2752.	2752.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+NEDA	NEDA	Npfsn
+(	(	Z
+Miloradova	Miloradova	Npfsn
+)	)	Z
+BOGOVIĆ	BOGOVIĆ	Npmsn
+
+2753.	2753.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ROMANA	Romana	Npfsn
+(	(	Z
+Stjepanova	Stjepanova	Npfsn
+)	)	Z
+BORIĆ	BORIĆ	Npmsn
+
+2754.	2754.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ELEONORA	ELEONORA	Npfsn
+(	(	Z
+Mijina	Mijina	Npfsn
+)	)	Z
+BRČIĆ	Brčić	Npmsn
+JEĐUD	JEĐUD	Npmsn
+
+2755.	2755.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+JASMINKA	JASMINKA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+BUKVIĆ	Bukvić	Npmsn
+
+2756.	2756.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MILENA	Milena	Npfsn
+(	(	Npfsn
+Mitrova	Mitrova	Npfsn
+)	)	Z
+BURČUL	BURČUL	Y
+PAŠARA	PAŠAR	Npmsg
+
+2757.	2757.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+DIJANA	DIJANA	Npfsn
+(	(	Z
+Nikolina	Nikolina	Npfsn
+)	)	Z
+BUTKOVIĆ	Butković	Npmsn
+
+2758.	2758.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MANDA	mand	Ncmsg
+(	(	Z
+Petrova	Petrov	Npmsg
+)	)	Z
+ČIKOTIĆ	Čikotić	Npmsn
+
+2759.	2759.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ZVJEZDANA	ZVJEZDANA	Npfsn
+(	(	Z
+Nikolina	Nikolina	Npfsn
+)	)	Z
+ČORBA	čorba	Ncfsn
+
+2760.	2760.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+KATA	kat	Ncmsg
+(	(	Z
+Markova	Markova	Npfsn
+)	)	Z
+DASOVIĆ	DASOVIĆ	Npmsn
+
+2761.	2761.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ALMA	ALMA	Npfsn
+(	(	Z
+Ibrahimova	Ibrahimova	Npfsn
+)	)	Z
+EMINAGIĆ	EMINAGIĆ	Npmsn
+
+2762.	2762.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ANKICA	ANKICA	Npfsn
+(	(	Z
+Antunova	Antunova	Npfsn
+)	)	Z
+FAK	FAK	Npmsn
+
+2763.	2763.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+FERIĆ	FERIĆ	Npmsn
+
+2764.	2764.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VANJA	Vanja	Npmsn
+(	(	Z
+Petrova	Petrov	Aspfsny
+)	)	Z
+GRAHOVAC	GRAHOVAC	Npmsn
+
+2765.	2765.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+RADOJKA	RADOJKA	Npfsn
+(	(	Z
+Vukojičina	Vukojičina	Npfsn
+)	)	Z
+GREGUROVIĆ	GREGUROVIĆ	Npmsn
+
+2766.	2766.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+JADRANKA	Jadranka	Npfsn
+(	(	Z
+Pavlova	Pavlova	Npfsn
+)	)	Z
+GUCIĆ	GUCIĆ	Npmsn
+
+2767.	2767.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BRANKA	Branka	Npfsn
+(	(	Npfsn
+Pavlova	Pavlova	Npfsn
+)	)	Z
+GUDELJ	GUDELJ	Npmsn
+
+2768.	2768.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+SNJEŽANA	SNJEŽANA	Npfsn
+(	(	Z
+Stjepanova	Stjepanova	Npfsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+2769.	2769.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+SNJEŽANA	SNJEŽANA	Npfsn
+(	(	Z
+Franjina	Franjina	Npfsn
+)	)	Z
+HUDI	hudi	Agpmpny
+
+2770.	2770.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+ILIJIĆ	ILIJIĆ	Npmsn
+
+2771.	2771.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ŠTEFICA	ŠTEFICA	Npfsn
+(	(	Z
+Dragutinova	Dragutinova	Npfsn
+)	)	Z
+JANČIĆ	Jančić	Npmsn
+
+2772.	2772.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+SLAĐANA	SLAĐANA	Npfsn
+(	(	Z
+Milanova	Milanova	Npfsn
+)	)	Z
+KARABA	KARABA	Npfsn
+
+2773.	2773.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+DARIJA	DARIJA	Npfsn
+(	(	Z
+Matina	Matina	Npfsn
+)	)	Z
+KATIĆ	Katić	Npmsn
+
+2774.	2774.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+IVANKA	Ivanka	Npfsn
+(	(	Z
+Stjepanova	Stjepanova	Npfsn
+)	)	Z
+KOLAK	KOLAK	Npmsn
+
+2775.	2775.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VERA	vera	Ncfsn
+(	(	Z
+Franjina	Franjina	Npfsn
+)	)	Z
+KORENT	KORENT	Npmsan
+
+2776.	2776.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+DIVNA	divan	Agpfsny
+(	(	Z
+Matina	Matina	Npfsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+2777.	2777.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ANA	Ana	Npfsn
+(	(	Npfsn
+Stipina	Stipina	Npfsn
+)	)	Z
+KUHAR	kuhar	Ncmsn
+
+2778.	2778.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+LJERKA	LJERKA	Npfsn
+(	(	Z
+Zvonkova	zvonkov	Aspfsny
+)	)	Z
+KUNA	kuna	Ncfsn
+
+2779.	2779.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VIŠNJA	VIŠNJA	Npfsn
+(	(	Z
+Stjepanova	Stjepanov	Aspfsny
+)	)	Z
+KUNA	kuna	Ncfpg
+
+2780.	2780.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ANICA	ANICA	Npfsn
+(	(	Z
+Matina	Matina	Npfsn
+)	)	Z
+MARAS	MARAS	Npmsn
+
+2781.	2781.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+SNJEŽANA	SNJEŽANA	Npfsn
+(	(	Z
+Tomina	Tomina	Npfsn
+)	)	Z
+MARUŠIĆ	Marušić	Npmsn
+
+2782.	2782.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+SENKA	SENKA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+MATETIĆ	MATETIĆ	Npmsn
+
+2783.	2783.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ANĐA	ANĐ	Npmsg
+(	(	Z
+Antina	Antina	Npfsn
+)	)	Z
+MATIĆ	Matić	Npmsn
+
+2784.	2784.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+GORDANA	GORDANA	Npfsn
+(	(	Z
+Matina	Matina	Npfsn
+)	)	Z
+MATOKOVIĆ	MATOKOVIĆ	Npmsn
+
+2785.	2785.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ĐEJN	ĐEJN	Npfsn
+(	(	Z
+Ivina	Ivina	Npfsn
+)	)	Z
+MATULJA	matu	Agcfsny
+
+2786.	2786.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Vjekoslavova	Vjekoslavova	Npfsn
+)	)	Z
+MAURIĆ	MAURIĆ	Npmsn
+
+2787.	2787.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MARIJA	Marija	Npfsn
+(	(	Z
+Milanova	Milanova	Npfsn
+)	)	Z
+MIHINAC	MIHINAC	Npmsn
+
+2788.	2788.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+LJUBICA	LJUBICA	Npfsn
+(	(	Z
+Andrijina	Andrijina	Npfsn
+)	)	Z
+MILOŠ	MILOŠ	Npmsn
+
+2789.	2789.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+GORDANA	GORDANA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+MILOVANOVIĆ	Milovanović	Npmsn
+
+2790.	2790.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+IVANKA	Ivanka	Npfsn
+(	(	Npfsn
+Matina	Matina	Npfsn
+)	)	Z
+MODRUŠAN	MODRUŠAN	Npmsn
+
+2791.	2791.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+JADRANKA	Jadranka	Npfsn
+(	(	Z
+Vukašinova	Vukašinova	Npfsn
+)	)	Z
+MUTIĆ	MUTIĆ	Npmsn
+
+2792.	2792.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MARIJA	Marija	Npfsn
+(	(	Z
+Milina	milina	Ncfsn
+)	)	Z
+PAULIĆ	PAULIĆ	Npmsn
+
+2793.	2793.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+RANKA	RANKA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+PONGRAC-BETI	pongrac-beta	Ncfsg
+
+2794.	2794.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MARIJANA	MARIJANA	Npfsn
+(	(	Z
+Antunova	Antunova	Npfsn
+)	)	Z
+POSEL	POSEL	Qq
+
+2795.	2795.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+INGRID	INGRID	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+RAČKI	rački	Agpmsny
+
+2796.	2796.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MARIJA	Marija	Npfsn
+(	(	Npfsn
+Jandrina	Jandrina	Npfsn
+)	)	Z
+RADINOVIĆ	RADINOVIĆ	Npmsn
+
+2797.	2797.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Stankova	Stankova	Npfsn
+)	)	Z
+RIČKO	rički	Agpnsny
+
+2798.	2798.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+TATJANA	TATJANA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+ROCE	roce	Ncnsn
+
+2799.	2799.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ANICA	ANICA	Npfsn
+(	(	Z
+Marinova	Marinova	Npfsn
+)	)	Z
+SAMBRAILO	sambraiti	Vmp-sn
+
+2800.	2800.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MIRELA	mireti	Vmp-sf
+(	(	Z
+Milanova	Milanova	Npfsn
+)	)	Z
+SIGURNJAK	SIGURNJAK	Npmsn
+
+2801.	2801.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+RENATA	renat	Ncmpg
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+SLATKOVIĆ	SLATKOVIĆ	Npmsn
+
+2802.	2802.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Jozina	Jozina	Npfsn
+)	)	Z
+SMODLAKA	smodlak	Ncmpg
+
+2803.	2803.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BISERKA	biserka	Ncfsn
+(	(	Z
+Mijina	Mijina	Npfsn
+)	)	Z
+SOKOLOVIĆ	Sokolović	Npmsn
+
+2804.	2804.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BLAŽICA	BLAŽICA	Npfsn
+(	(	Z
+Zlatkova	Zlatkova	Npfsn
+)	)	Z
+SRNEC	SRNEC	Npmsn
+
+2805.	2805.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VERICA	VERICA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+STANOJEVIĆ	Stanojević	Npmsn
+
+2806.	2806.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+MILA	miti	Vmp-sf
+(	(	Z
+Matina	Matina	Npfsn
+)	)	Z
+ŠAKIĆ	ŠAKIĆ	Npmsn
+
+2807.	2807.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+NADICA	NADICA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+ŠILEC-VUGRINEC	ŠILEC-VUGRINEC	Npmsn
+
+2808.	2808.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+KORANKA	KORANKA	Npfsn
+(	(	Z
+Petrova	Petrov	Aspfsny
+)	)	Z
+ŠIMIČIĆ	ŠIMIČIĆ	Npfsg
+
+2809.	2809.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+NADA	Nada	Npfsn
+(	(	Z
+Viktorova	Viktorova	Npfsn
+)	)	Z
+ŠOŠTARKO	ŠOŠTARKO	Npmsn
+PAVLOVIĆ	Pavlović	Npmsn
+
+2810.	2810.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Andrijina	Andrijina	Npfsn
+)	)	Z
+ŠRENK	ŠRENK	Npmsn
+
+2811.	2811.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BLAŽENKA	BLAŽENKA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+ŠTEBIH	štebih	Ncnsn
+
+2812.	2812.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+DUBRAVKA	DUBRAVKA	Npfsn
+(	(	Z
+Nikolina	Nikolina	Npfsn
+)	)	Z
+TADIĆ	Tadić	Npmsn
+
+2813.	2813.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+VIŠNJA	višnji	Agpfsny
+(	(	Z
+Franjina	Franjina	Npfsn
+)	)	Z
+TAFRA	tafr	Ncmsg
+
+2814.	2814.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+BLAŽENKA	BLAŽENKA	Npfsn
+(	(	Z
+Mirkova	Mirkova	Npfsn
+)	)	Z
+TOMLJENOVIĆ	TOMLJENOVIĆ	Npmsn
+--	--	Z
+SOČKOVIĆ	SOČKOVIĆ	Npmsn
+
+2815.	2815.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+JASMINKA	JASMINKA	Npfsn
+(	(	Z
+Marijanova	Marijanova	Npfsn
+)	)	Z
+TUCAK	TUCAK	Npmsn
+
+2816.	2816.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+LIDIJA	LIDIJA	Npfsn
+(	(	Z
+Zlatkova	Zlatkova	Npfsn
+)	)	Z
+VID	vid	Ncmsan
+
+2817.	2817.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ŽELJKA	Željko	Npmsg
+(	(	Z
+Dragutinova	Dragutinova	Npfsn
+)	)	Z
+VRHOVSKI	vrhovski	Agpmsny
+ZLOKIĆ	ZLOKIĆ	Npmsn
+
+2818.	2818.	Mdo
+državna	državni	Agpfsny
+službenica	službenica	Ncfsn
+ZVJEZDANA	ZVJEZDANA	Npfsn
+(	(	Z
+Miljenkova	miljenkov	Aspfsny
+)	)	Z
+ZUBČIĆ	ZUBČIĆ	Npmsn
+
+2819.	2819.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+ANIĆ-BOŽIĆ	ANIĆ-BOŽIĆ	Npmsn
+
+2820.	2820.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+MILENKO	MILENKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BABAN	BABAN	Npmsn
+
+2821.	2821.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+BRANIMIR	BRANIMIR	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+BAJIĆ	Bajić	Npmsn
+
+2822.	2822.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Dževadov	Dževadov	Npmsn
+)	)	Z
+BAJRAKTAREVIĆ	BAJRAKTAREVIĆ	Npmsn
+
+2823.	2823.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+ZVONIMIR	ZVONIMIR	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+BALENT	BALENT	Npmsan
+
+2824.	2824.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+BATINIĆ	Batinić	Npmsn
+
+2825.	2825.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BEKAVAC	BEKAVAC	Npmsn
+
+2826.	2826.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+PREDRAG	PREDRAG	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+BELOŠEVIĆ	BELOŠEVIĆ	Npmsn
+
+2827.	2827.	Mdo
+

@@ -1,0 +1,27 @@
+Republike	republika	Ncfpn
+Hrvatske	Hrvatska	Npfsg
+Boris	Boris	Npmsn
+Pleša	Pleša	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+Sindikat	sindikat	Ncmsn
+policije	policija	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Dubravko	Dubravko	Npfsg
+Jagić	Jagić	Npfsg
+,	,	Z
+v.	v.	Agpmsny
+r.	r.	Agpmsny
+Nezavisni	nezavisan	Agpmsny
+sindikat	sindikat	Ncmsn
+djelatnika	djelatnik	Ncmpg
+Ministarstva	ministarstvo	Ncnsg
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+Zdravko	Zdravko	Npmsn
+Lončar	lončar	Ncmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

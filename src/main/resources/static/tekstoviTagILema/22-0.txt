@@ -1,0 +1,92 @@
+1	1	Mdc
+02.01.2015	02.01.2015	Mdo
+Eskontna	eskontni	Agpfsny
+stopa	stopa	Ncfsn
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+
+HRVATSKA	hrvatski	Agpfsny
+NARODNA	narodni	Agpfsny
+BANKA	banka	Ncfsn
+
+23	23	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+29.	29.	Mdo
+stavka	stavak	Ncmsg
+8.	8.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+obveznim	obvezan	Agpmply
+odnosima	odnos	Ncmpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+35/2005.	35/2005.	Mdo
+i	i	Cc
+41/2008.	41/2008.	Mds
+)	)	Z
+Hrvatska	hrvatski	Agpfsny
+narodna	narodni	Agpfsny
+banka	banka	Ncfsn
+objavljuje	objavljivati	Vmr3s
+
+ESKONTNU	eskontni	Agpfsay
+STOPU	stopa	Ncfsa
+
+HRVATSKE	hrvatski	Agpfsgy
+NARODNE	narodni	Agpfsgy
+BANKE	banka	Ncfsg
+
+Eskontna	eskontni	Agpfsny
+stopa	stopa	Ncfsn
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+na	na	Sa
+dan	dan	Ncmsan
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+iznosi	iznositi	Vmr3s
+7	7	Mdc
+%	%	Z
+godišnje	godišnje	Rgp
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+479	479	Mdc
+-	-	Z
+020/12	020/12	Mdc
+-	-	Z
+14	14	Mdc
+/	/	Z
+BV	bv	Mrc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+Guverner	guverner	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Vujčić	Vujčić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

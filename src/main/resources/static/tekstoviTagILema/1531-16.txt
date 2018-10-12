@@ -1,0 +1,756 @@
+upravljanje	upravljanje	Ncnsn
+zaštićenim	zaštititi	Agpnsiy
+područjem	područje	Ncnsi
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Za	za	Sa
+šume	šuma	Ncfpa
+i	i	Cc
+šumska	šumski	Agpnpay
+zemljišta	zemljište	Ncnpa
+zaštićena	zaštititi	Appfsny
+u	u	Sl
+kategoriji	kategorija	Ncfsl
+posebni	poseban	Agpmsny
+rezervat	rezervat	Ncmsn
+šumske	šumski	Agpfsgy
+vegetacije	vegetacija	Ncfsg
+i	i	Cc
+park-šumu	park-šuma	Ncfsa
+donosi	donositi	Vmr3s
+se	sebe	Px--sa
+program	program	Ncmsn
+zaštite	zaštita	Ncfsg
+šuma	šum	Ncmsg
+koji	koji	Pi-msn
+sadrži	sadržati	Vmr3s
+mjere	mjera	Ncfpa
+njihove	njihov	Ps3fsg
+zaštite	zaštita	Ncfsg
+i	i	Cc
+sastavni	sastavan	Agpmsny
+je	biti	Var3s
+dio	dio	Ncmsn
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+te	te	Cc
+se	sebe	Px--sa
+izrađuje	izrađivati	Vmr3s
+i	i	Cc
+provodi	provoditi	Vmr3s
+u	u	Sl
+sklopu	sklop	Ncmsl
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Šumama	šuma	Ncfpl
+i	i	Cc
+šumskim	šumski	Agpnsiy
+zemljištem	zemljište	Ncnsi
+zaštićenim	zaštititi	Agpnsiy
+u	u	Sl
+ostalim	ostali	Agpfply
+kategorijama	kategorija	Ncfpl
+zaštite	zaštita	Ncfsg
+gospodari	gospodariti	Vmr3s
+se	sebe	Px--sa
+šumskogospodarskim	šumskogospodarski	Agpmsiy
+planom	plan	Ncmsi
+gospodarske	gospodarski	Agpfsgy
+jedinice	jedinica	Ncfsg
+u	u	Sl
+sklopu	sklop	Ncmsl
+koje	koji	Pi-fsg
+se	sebe	Px--sa
+nalazi	nalaziti	Vmr3s
+,	,	Z
+a	a	Cc
+program	program	Ncmsn
+posebne	poseban	Agpfsgy
+namjene	namjena	Ncfsg
+njegov	njegov	Ps3msn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+85.	85.	Mdo
+
+Program	program	Ncmsn
+zaštite	zaštita	Ncfsg
+šuma	šum	Ncmsg
+iz	iz	Sg
+članka	članak	Ncmsg
+84.	84.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+sadržava	sadržavati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+Uređajni	uređajan	Agpmsny
+zapisnik	zapisnik	Ncmsn
+;	;	Z
+
+2.	2.	Mdo
+Iskaz	iskaz	Ncmsn
+površina	površina	Ncfsn
+šuma	šum	Ncmsg
+i	i	Cc
+šumskih	šumski	Agpnpgy
+zemljišta	zemljište	Ncnpg
+;	;	Z
+
+3.	3.	Mdo
+Tablicu	tablica	Ncfsa
+vrednovanja	vrednovanje	Ncnsg
+općekorisnih	općekoristan	Agpfpgy
+funkcija	funkcija	Ncfpg
+šuma	šuma	Ncfpg
+;	;	Z
+
+4.	4.	Mdo
+Opis	opis	Ncmsn
+staništa	stanište	Ncnsg
+i	i	Cc
+sastojina	sastojina	Ncfpg
+;	;	Z
+
+5.	5.	Mdo
+Tablicu	tablica	Ncfsa
+dobnih	dobni	Agpmpgy
+razreda	razred	Ncmpg
+jednodobnih	jednodoban	Agpfpgy
+šuma	šuma	Ncfpg
+i	i	Cc
+tablicu	tablica	Ncfsa
+debljinskih	debljinski	Agpmpgy
+razreda	razred	Ncmpg
+prebornih	preboran	Agpmpgy
+i	i	Cc
+raznodobnih	raznodoban	Agpfpgy
+šuma	šuma	Ncfpg
+;	;	Z
+
+6.	6.	Mdo
+Plan	plan	Ncmsn
+radova	rad	Ncmpg
+biološke	biološki	Agpfsgy
+obnove	obnova	Ncfsg
+šuma	šum	Ncmsg
+;	;	Z
+
+7.	7.	Mdo
+Popis	popis	Ncmsn
+šuma	šum	Ncmsg
+prema	prema	Sl
+stupnju	stupanj	Ncmsl
+ugroženosti	ugroženost	Ncfsg
+od	od	Sg
+požara	požar	Ncmsg
+;	;	Z
+
+8.	8.	Mdo
+Grafičke	grafički	Agpfpay
+prikaze	prikaza	Ncfpa
+drvne	drvni	Agpfpay
+zalihe	zaliha	Ncfpa
+po	po	Sl
+dobnoj	dobni	Agpfsly
+i	i	Cc
+debljinskoj	debljinski	Agpfsly
+strukturi	struktura	Ncfsl
+;	;	Z
+
+9.	9.	Mdo
+Osnovne	osnovan	Agpfsgy
+,	,	Z
+pregledne	pregledan	Agpfpay
+i	i	Cc
+druge	drugi	Mlofpn
+karte	karta	Ncfpn
+;	;	Z
+
+10.	10.	Mdo
+
+Izračun	izračun	Ncmsn
+dendrometrijskih	dendrometrijski	Agpmpgy
+podataka	podatak	Ncmpg
+;	;	Z
+
+11.	11.	Mdo
+
+Tarife	tarifa	Ncfpn
+;	;	Z
+tablice	tablica	Ncfsg
+postotka	postotak	Ncmsg
+prirasta	prirast	Ncmsg
+;	;	Z
+
+12.	12.	Mdo
+
+Evidenciju	evidencija	Ncfsa
+o	o	Sl
+izvršenim	izvršen	Agpfply
+sječama	sječa	Ncfpl
+;	;	Z
+
+13.	13.	Mdo
+
+Evidencije	evidencija	Ncfpn
+o	o	Sl
+izvršenim	izvršen	Agpmply
+radovima	rad	Ncmpl
+biološke	biološki	Agpfsgy
+obnove	obnova	Ncfsg
+šuma	šum	Ncmsg
+;	;	Z
+
+14.	14.	Mdo
+
+Evidenciju	evidencija	Ncfsa
+promjene	promjena	Ncfsg
+namjene	namjena	Ncfsg
+zemljišta	zemljište	Ncnsg
+;	;	Z
+
+15.	15.	Mdo
+
+Uvjete	uvjet	Ncmpa
+zaštite	zaštita	Ncfsg
+prirode	priroda	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+86.	86.	Mdo
+
+Uređajni	uređajan	Agpmsny
+zapisnik	zapisnik	Ncmsn
+sadržava	sadržavati	Vmr3s
+:	:	Z
+
+Uvod	uvod	Ncmsn
+
+I.	i.	Agpmsny
+Povijesni	povijesni	Agpmsny
+prikaz	prikaz	Ncmsn
+zaštićenog	zaštititi	Agpnsgy
+područja	područje	Ncnsg
+:	:	Z
+
+II	ii	Mrc
+.	.	Z
+
+Prirodne	prirodan	Agpfpny
+značajke	značajka	Ncfpn
+:	:	Z
+
+1.	1.	Mdo
+Orografske	orografski	Agpfsgy
+i	i	Cc
+hidrografske	hidrografski	Agpfsgy
+prilike	prilika	Ncfsg
+;	;	Z
+
+2.	2.	Mdo
+Geološka	geološki	Agpfsny
+podloga	podloga	Ncfsn
+i	i	Cc
+tlo	tlo	Ncnsa
+;	;	Z
+
+3.	3.	Mdo
+Klima	klima	Ncfsn
+;	;	Z
+
+4.	4.	Mdo
+Šumske	šumski	Agpfsgy
+zajednice	zajednica	Ncfsg
+i	i	Cc
+stanišni	stanišni	Agpmpny
+tipovi	tip	Ncmpn
+;	;	Z
+
+5.	5.	Mdo
+Zaštićena	zaštititi	Appnpny
+područja	područje	Ncnpn
+,	,	Z
+ugrožene	ugroziti	Appfpny
+i	i	Cc
+strogo	strogo	Rgp
+zaštićene	zaštititi	Appfsgy
+vrste	vrsta	Ncfsg
+;	;	Z
+
+6.	6.	Mdo
+Ekološka	ekološki	Agpfsny
+mreža	mreža	Ncfsn
+(	(	Z
+ciljne	ciljan	Agpfsgy
+vrste	vrsta	Ncfsg
+i	i	Cc
+stanišni	stanišni	Agpmpny
+tipovi	tip	Ncmpn
+te	te	Cc
+ciljevi	cilj	Ncmpn
+i	i	Cc
+mjere	mjera	Ncfpn
+očuvanja	očuvanje	Ncnsg
+)	)	Z
+,	,	Z
+
+III	III	Mrc
+.	.	Z
+
+Općekorisne	općekoristan	Agpfpay
+funkcije	funkcija	Ncfpa
+šuma	šuma	Ncfpg
+,	,	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Prikaz	prikaz	Ncmsn
+dosadašnjega	dosadašnji	Agpnsgy
+upravljanja	upravljanje	Ncnsg
+šumama	šuma	Ncfpd
+i	i	Cc
+šumskim	šumski	Agpnply
+zemljištima	zemljište	Ncnpl
+s	sa	Si
+bilancom	bilanca	Ncfsi
+po	po	Sl
+odjelima	odjel	Ncmpl
+i	i	Cc
+odsjecima	odsjek	Ncmpl
+za	za	Sa
+proteklo	protekao	Agpnsay
+polurazdoblje	polurazdoblje	Ncnsa
+:	:	Z
+
+1.	1.	Mdo
+Radovi	rad	Ncmpn
+biološke	biološki	Agpfsgy
+obnove	obnova	Ncfsg
+;	;	Z
+
+2.	2.	Mdo
+Obavljena	obaviti	Appfsny
+sječa	sječa	Ncfsn
+stabala	stablo	Ncmpg
+;	;	Z
+
+V.	V.	Y
+Sadašnje	sadašnji	Agpnsny
+stanje	stanje	Ncnsn
+šuma	šuma	Ncfpg
+i	i	Cc
+šumskih	šumski	Agpnpgy
+zemljišta	zemljište	Ncnpg
+i	i	Cc
+usporedba	usporedba	Ncfsn
+s	sa	Si
+prijašnjim	prijašnji	Agpnsiy
+stanjem	stanje	Ncnsi
+:	:	Z
+
+1.	1.	Mdo
+Površina	površina	Ncfsn
+;	;	Z
+
+2.	2.	Mdo
+Drvne	drvni	Agpfpny
+zalihe	zaliha	Ncfpn
+i	i	Cc
+prirasti	prirast	Ncfsg
+;	;	Z
+
+3.	3.	Mdo
+Tablice	tablica	Ncfsg
+dobnih	dobni	Agpmpgy
+odnosno	odnosno	Rgp
+debljinskih	debljinski	Agpmpgy
+razreda	razred	Ncmpg
+;	;	Z
+
+4.	4.	Mdo
+Opis	opis	Ncmsan
+uređajnih	uređajan	Agpmpgy
+razreda	razred	Ncmpg
+;	;	Z
+
+5.	5.	Mdo
+Zdravstveno	zdravstven	Agpnsny
+stanje	stanje	Ncnsn
+šuma	šum	Ncmsg
+,	,	Z
+
+VI	VI	Mrc
+.	.	Z
+
+Buduće	budući	Agpnsny
+upravljanje	upravljanje	Ncnsn
+šumama	šuma	Ncfpi
+i	i	Cc
+šumskim	šumski	Agpnply
+zemljištima	zemljište	Ncnpl
+:	:	Z
+
+1.	1.	Mdo
+Cilj	cilj	Ncmsn
+i	i	Cc
+način	način	Ncmsan
+upravljanja	upravljanje	Ncnsg
+zaštićenim	zaštititi	Appnsiy
+područjem	područje	Ncnsi
+;	;	Z
+
+2.	2.	Mdo
+Radovi	rad	Ncmpn
+biološke	biološki	Agpfsgy
+obnove	obnova	Ncfsg
+šuma	šum	Ncmsg
+;	;	Z
+
+3.	3.	Mdo
+Zaštita	zaštita	Ncfsn
+faune	fauna	Ncfsg
+,	,	Z
+
+VII	vii	Mrc
+.	.	Z
+
+Plan	plan	Ncmsn
+provedbe	provedba	Ncfsg
+mjera	mjera	Ncfsn
+očuvanja	očuvanje	Ncnsg
+područja	područje	Ncnsg
+,	,	Z
+
+VIII	viii	Mrc
+.	.	Z
+
+Usklađenost	usklađenost	Ncfsn
+programa	program	Ncmsg
+zaštite	zaštita	Ncfsg
+šuma	šuma	Ncfpg
+s	sa	Si
+odrednicama	odrednica	Ncfpi
+prostornog	prostoran	Agpnsgy
+planiranja	planiranje	Ncnsg
+,	,	Z
+
+IX	IX	Mrc
+.	.	Z
+
+Usklađenost	usklađenost	Ncfsn
+programa	program	Ncmsg
+zaštite	zaštita	Ncfsg
+šuma	šuma	Ncfpg
+s	sa	Si
+uvjetima	uvjet	Ncmpi
+zaštite	zaštita	Ncfsg
+prirode	priroda	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+87.	87.	Mdo
+
+Program	program	Ncmsn
+zaštite	zaštita	Ncfsg
+šuma	šum	Ncmsg
+iz	iz	Sg
+članka	članak	Ncmsg
+84.	84.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+sadržava	sadržavati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+opće	opći	Agpmpay
+podatke	podatak	Ncmpa
+(	(	Z
+proglašenje	proglašenje	Ncnsn
+,	,	Z
+popis	popis	Ncmsn
+odsjeka	odsjek	Ncmsg
+,	,	Z
+površinu	površina	Ncfsa
+,	,	Z
+drvnu	drvni	Agpfsay
+zalihu	zaliha	Ncfsa
+,	,	Z
+prirast	prirast	Ncfsa
+)	)	Z
+;	;	Z
+
+2.	2.	Mdo
+mjere	mjera	Ncfsg
+zaštite	zaštita	Ncfsg
+šuma	šum	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+88.	88.	Mdo
+
+Program	program	Ncmsn
+posebne	poseban	Agpfsgy
+namjene	namjena	Ncfsg
+iz	iz	Sg
+članka	članak	Ncmsg
+84.	84.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+sadržava	sadržavati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+opće	opći	Agpmpay
+podatke	podatak	Ncmpa
+(	(	Z
+proglašenje	proglašenje	Ncnsn
+,	,	Z
+popis	popis	Ncmsn
+odsjeka	odsjek	Ncmsg
+,	,	Z
+površinu	površina	Ncfsa
+,	,	Z
+drvnu	drvni	Agpfsay
+zalihu	zaliha	Ncfsa
+,	,	Z
+prirast	prirast	Ncfsa
+)	)	Z
+;	;	Z
+
+2.	2.	Mdo
+smjernice	smjernica	Ncfsg
+gospodarenja	gospodarenje	Ncnsg
+.	.	Z
+
+IX	IX	Mrc
+.	.	Z
+
+OPERATIVNI	operativan	Agpmsny
+GODIŠNJI	godišnji	Agpmsny
+PLAN	plan	Ncmsn
+
+Članak	članak	Ncmsn
+89.	89.	Mdo
+
+Način	način	Ncmsn
+izrade	izrada	Ncfsg
+i	i	Cc
+sadržaj	sadržaj	Ncmsan
+operativnoga	operativan	Agpmsgy
+godišnjeg	godišnji	Agpmsgy
+plana	plan	Ncmsg
+,	,	Z
+općim	opći	Agpmsiy
+aktom	akt	Ncmsi
+,	,	Z
+određuje	određivati	Vmr3s
+Trgovačko	trgovački	Agpnsay
+društvo	društvo	Ncnsa
+,	,	Z
+Savjetodavna	savjetodavan	Agpfsny
+služba	služba	Ncfsn
+i	i	Cc
+pravne	pravni	Agpfpay
+osobe	osoba	Ncfpa
+sa	sa	Si
+statusom	status	Ncmsi
+javne	javan	Agpfsgy
+ustanove	ustanova	Ncfsg
+čiji	čiji	Pi-msn
+je	biti	Var3s
+osnivač	osnivač	Ncmsn
+Republika	republika	Ncfsn
+Hrvatska	Hrvatska	Npfsn
+i	i	Cc
+njihove	njihov	Ps3fsg
+znanstveno	znanstveno	Rgp
+–	–	Z
+nastavne	nastavni	Agpfpay
+sastavnice	sastavnica	Ncfpa
+koje	koji	Pi-fpn
+svoju	svoj	Px-fsa
+znanstveno	znanstveno	Rgp
+–	–	Z
+nastavnu	nastavni	Agpfsay
+djelatnost	djelatnost	Ncfsa
+i	i	Cc
+znanstvenoistraživački	znanstvenoistraživački	Agpmsayn
+rad	rad	Ncmsan
+obavljaju	obavljati	Vmr3p
+iz	iz	Sg
+područja	područje	Ncnsg
+šumarstva	šumarstvo	Ncnsg
+.	.	Z
+
+X.	X.	Mdo
+REVIZIJA	revizija	Ncfsn
+I	i	Cc
+OBNOVA	obnova	Ncfsn
+
+Članak	članak	Ncmsn
+90.	90.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Osnova	osnova	Ncfsn
+područja	područje	Ncnsg
+podliježe	podlijegati	Vmr3s
+postupku	postupak	Ncmsd
+obnove	obnova	Ncfsg
+u	u	Sl
+desetoj	deseti	Mlofsl
+godini	godina	Ncfsl
+važenja	važenje	Ncnsg
+;	;	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Osnove	osnova	Ncfsg
+gospodarenja	gospodarenje	Ncnsg
+,	,	Z
+programi	program	Ncmpn
+gospodarenja	gospodarenje	Ncnsg
+,	,	Z
+programi	program	Ncmpn
+gospodarenja	gospodarenje	Ncnsg
+šumoposjednika	šumoposjednik	Ncmpg
+i	i	Cc
+programi	program	Ncmpn
+posebne	poseban	Agpfsgy
+namjene	namjena	Ncfsg
+,	,	Z
+osim	osim	Sg
+programa	program	Ncmsg
+gospodarenja	gospodarenje	Ncnsg
+šumskim	šumski	Agpmply
+sjemenskim	sjemenski	Agpmply
+objektima	objekt	Ncmpl
+u	u	Sl
+kategoriji	kategorija	Ncfsl
+»	»	Z
+kvalificiran	kvalificirati	Appmsnn
+«	«	Z
+i	i	Cc
+»	»	Z
+testiran	testirati	Appmsnn
+«	«	Z
+podliježu	podlijegati	Vmr3p
+postupku	postupak	Ncmsl
+:	:	Z
+
+–	i	Agpfsgy
+izrade	izrada	Ncfsg
+kod	kod	Sg
+prvog	prvi	Mlomsg
+uređivanja	uređivanje	Ncnsg
+šuma	šum	Ncmsg
+,	,	Z
+
+–	i	Mlofsg
+revizije	revizija	Ncfsg
+u	u	Sl
+desetoj	deseti	Mlofsl
+godini	godina	Ncfsl
+važenja	važenje	Ncnsg
+;	;	Z
+
+–	i	Mlofsg
+obnove	obnova	Ncfsg
+u	u	Sl
+dvadesetoj	dvadeseti	Mlofsl
+godini	godina	Ncfsl
+važenja	važenje	Ncnsg
+;	;	Z
+
+–	–	Z
+izvanredne	izvanredan	Agpfsgy
+revizije	revizija	Ncfsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Program	program	Ncmsn
+gospodarenja	gospodarenje	Ncnsg
+šumama	šuma	Ncfpd
+šumoposjednika	šumoposjednik	Ncmsg
+ne	ne	Qz
+podliježe	podlijegati	Vmr3s
+točki	točka	Ncfsd
+4.	4.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Radovi	rad	Ncmpn
+obnove	obnova	Ncfsg
+ili	ili	Cc
+revizije	revizija	Ncfpn
+započinju	započinjati	Vmr3p
+u	u	Sl
+zadnjoj	zadnji	Agpfsly
+godini	godina	Ncfsl
+važenja	važenje	Ncnsg
+,	,	Z
+a	a	Cc
+završavaju	završavati	Vmr3p
+u	u	Sl
+prvom	prvi	Mlonsl
+polugodištu	polugodište	Ncnsl
+prve	prvi	Mlofsg
+godine	godina	Ncfsg
+važenja	važenje	Ncnsg
+nove	nov	Agpfsgy
+osnove	osnova	Ncfsg
+ili	ili	Cc
+programa	program	Ncmsg
+.	.	Z
+
+(	(	Z
+5	5	Mdc
+)	)	Z
+U	u	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+za	za	Sa
+koju	koji	Pi-fsa
+je	biti	Var3s
+istekla	isteći	Vmp-sf
+valjanost	valjanost	Ncfsn
+šumsko	šumski	Agpnsny
+-	-	Z
+gospodarskog	gospodarski	Agpmsgy
+plana	plan	Ncmsg
+u	u	Sl
+prvoj	prvi	Mlofsl
+godini	godina	Ncfsl
+valjanosti	valjanost	Ncfsg
+do	do	Sg
+donošenja	donošenje	Ncnsg
+novog	nov	Agpmsgy
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+radovi	rad	Ncmpn
+biološke	biološki	Agpfsgy
+

@@ -1,0 +1,77 @@
+22	22	Mdc
+25.02.2015	25.02.2015	Agpmsny
+Indeks	indeks	Ncmsn
+potrošačkih	potrošački	Agpfpgy
+cijena	cijena	Ncfpg
+u	u	Sl
+siječnju	siječanj	Ncmsl
+2015.	2015.	Mdo
+
+DRŽAVNI	državni	Agpmsny
+ZAVOD	zavod	Ncmsn
+ZA	za	Sa
+STATISTIKU	statistika	Ncfsa
+
+464	464	Mdc
+
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+statistiku	statistika	Ncfsa
+objavljuje	objavljivati	Vmr3s
+
+INDEKS	indeks	Ncmsn
+
+POTROŠAČKIH	potrošački	Agpfpgy
+CIJENA	cijena	Ncfpg
+U	u	Sl
+SIJEČNJU	siječanj	Ncmsl
+2015.	2015.	Mdo
+
+Indeks	indeks	Ncmsn
+potrošačkih	potrošački	Agpfpgy
+cijena	cijena	Ncfpg
+u	u	Sl
+siječnju	siječanj	Ncmsl
+2015.	2015.	Mdo
+u	u	Sl
+odnosu	odnos	Ncmsl
+na	na	Sa
+prosinac	prosinac	Ncmsan
+2014.	2014.	Mdo
+iznosi	iznositi	Vmr3s
+99,5.	99,5.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+957	957	Mdc
+-	-	Z
+04/15	04/15	Mdc
+-	-	Z
+01/3	01/3	Mdc
+
+Urbroj	urbroj	Ncmsn
+.	.	Z
+555	555	Mdc
+-	-	Z
+09	09	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+20.	20.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+Ravnatelj	ravnatelj	Ncmsn
+Mirko	Mirko	Npmsn
+Krištof	Krištof	Npmsn
+,	,	Z
+v.	v.	Mro
+r.	r.	Y
+

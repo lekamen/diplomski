@@ -1,0 +1,165 @@
+61	61	Mdc
+06.07.2016	06.07.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predsjednika	predsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Upravnog	upravan	Agpmsgy
+odbora	odbor	Ncmsg
+Hrvatske	hrvatski	Agpfsgy
+matice	matica	Ncfsg
+iseljenika	iseljenik	Ncmsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1553	1553	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+9.	9.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Hrvatskoj	Hrvatska	Npfsl
+matici	matica	Ncfsl
+iseljenika	iseljenik	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+59/90	59/90	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+8.	8.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+UPRAVNOG	upravan	Agpmsgy
+ODBORA	odbor	Ncmsg
+HRVATSKE	hrvatski	Agpfsgy
+MATICE	matica	Ncfsg
+ISELJENIKA	iseljenik	Ncmsg
+
+1.	1.	Mdo
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+MILAN	Milan	Npmsn
+KOVAČ	KOVAČ	Npmsn
+predsjednikom	predsjednik	Ncmsi
+Upravnog	upravan	Agpmsgy
+odbora	odbor	Ncmsg
+Hrvatske	hrvatski	Agpfsgy
+matice	matica	Ncfsg
+iseljenika	iseljenik	Ncmsg
+.	.	Z
+
+2.	2.	Mdo
+Za	za	Sa
+članove	član	Ncmpa
+Upravnog	upravan	Agpmsgy
+odbora	odbor	Ncmsg
+Hrvatske	hrvatski	Agpfsgy
+matice	matica	Ncfsg
+iseljenika	iseljenik	Ncmpg
+,	,	Z
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	–	Npmsn
+HRVOJE	HRVOJE	Npmsn
+HITREC	HITREC	Npmsn
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+VJEKOSLAV	VJEKOSLAV	Npmsn
+JELEČ	JELEČ	Npmsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+
+–	–	Npmsn
+ĐURO	ĐURO	Npmsn
+VIDMAROVIĆ	VIDMAROVIĆ	Npmsn
+
+–	–	Sg
+LADA	LAD	Npmsg
+KANAJET	KANAJET	Npmsn
+ŠIMIĆ	Šimić	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/357	01/357	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

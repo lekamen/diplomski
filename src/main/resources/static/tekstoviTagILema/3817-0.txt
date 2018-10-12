@@ -1,0 +1,298 @@
+45	45	Mdc
+13.05.2016	13.05.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+Listi	lista	Ncfsl
+sigurnih	siguran	Agpfpgy
+zemalja	zemlja	Ncfpg
+podrijetla	podrijetlo	Ncnsg
+u	u	Sl
+postupku	postupak	Ncmsl
+odobrenja	odobrenje	Ncnsg
+međunarodne	međunarodni	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+UNUTARNJIH	unutarnji	Agpmpgy
+POSLOVA	posao	Ncmpg
+
+1166	1166	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+93.	93.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+međunarodnoj	međunarodni	Agpfsly
+i	i	Cc
+privremenoj	privremen	Agpfsly
+zaštiti	zaštita	Ncfsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+70/15	70/15	Mdc
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+,	,	Z
+uz	uz	Sa
+prethodnu	prethodan	Agpfsay
+suglasnost	suglasnost	Ncfsa
+ministra	ministar	Ncmsg
+vanjskih	vanjski	Agpmpgy
+i	i	Cc
+europskih	europski	Agpmpgy
+poslova	posao	Ncmpg
+,	,	Z
+donosi	donositi	Vmr3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+LISTI	lista	Ncfsl
+SIGURNIH	siguran	Agpfpgy
+ZEMALJA	zemlja	Ncfpg
+PODRIJETLA	podrijetlo	Ncnsg
+U	u	Sl
+POSTUPKU	postupak	Ncmsl
+ODOBRENJA	odobrenje	Ncnsg
+MEĐUNARODNE	međunarodni	Agpfsgy
+ZAŠTITE	zaštita	Ncfsg
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+utvrđuje	utvrđivati	Vmr3s
+se	sebe	Px--sa
+Lista	lista	Ncfsn
+sigurnih	siguran	Agpfpgy
+zemalja	zemlja	Ncfpg
+podrijetla	podrijetlo	Ncnsg
+.	.	Z
+
+Sigurne	siguran	Agpfpny
+zemlje	zemlja	Ncfpn
+podrijetla	podrijetlo	Ncnsg
+navedene	naveden	Agpfsgy
+su	biti	Var3p
+na	na	Sl
+Listi	lista	Ncfsl
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+nalazi	nalaziti	Vmr3s
+u	u	Sl
+Prilogu	prilog	Ncmsl
+I.	I.	Npmsn
+,	,	Z
+koji	koji	Pi-msn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+,	,	Z
+i	i	Cc
+smatraju	smatrati	Vmr3p
+se	sebe	Px--sa
+sigurnim	siguran	Agpfpiy
+zemljama	zemlja	Ncfpi
+podrijetla	podrijetlo	Ncnsg
+u	u	Sl
+postupku	postupak	Ncmsl
+odobrenja	odobrenje	Ncnsg
+međunarodne	međunarodni	Agpfsgy
+zaštite	zaštita	Ncfsg
+,	,	Z
+sukladno	sukladno	Rgp
+odredbama	odredba	Ncfpi
+članka	članak	Ncmsg
+44.	44.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+međunarodnoj	međunarodni	Agpfsly
+i	i	Cc
+privremenoj	privremen	Agpfsly
+zaštiti	zaštita	Ncfsl
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Lista	lista	Ncfsn
+sigurnih	siguran	Agpfpgy
+zemalja	zemlja	Ncfpg
+podrijetla	podrijetlo	Ncnsg
+redovito	redovito	Rgp
+će	htjeti	Var3s
+se	sebe	Px--sa
+provjeravati	provjeravati	Vmn
+i	i	Cc
+prema	prema	Sl
+potrebi	potreba	Ncfsl
+revidirati	revidirati	Vmn
+ovisno	ovisno	Rgp
+o	o	Sl
+situaciji	situacija	Ncfsl
+u	u	Sl
+navedenim	naveden	Agpfply
+zemljama	zemlja	Ncfpl
+podrijetla	podrijetlo	Ncnsg
+.	.	Z
+
+Situacija	situacija	Ncfsn
+u	u	Sl
+sigurnim	siguran	Agpfply
+zemljama	zemlja	Ncfpl
+podrijetla	podrijetlo	Ncnsg
+utvrđuje	utvrđivati	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+temelju	temelj	Ncmsl
+podataka	podatak	Ncmpg
+prikupljenih	prikupiti	Appmpgy
+iz	iz	Sg
+različitih	različit	Agpmpgy
+mjerodavnih	mjerodavan	Agpmpgy
+izvora	izvor	Ncmpg
+,	,	Z
+osobito	osobito	Rgp
+onih	onaj	Pd-mpg
+podataka	podatak	Ncmpg
+prikupljenih	prikupiti	Appmpgy
+od	od	Sg
+drugih	drugi	Mlofpg
+država	država	Ncfpg
+članica	članica	Ncfpg
+Europskog	europski	Agpmsgy
+gospodarskog	gospodarski	Agpmsgy
+prostora	prostor	Ncmsg
+,	,	Z
+Europskog	europski	Agpmsgy
+azilnog	azilan	Agpmsgy
+potpornog	potporni	Agpmsgy
+ureda	ured	Ncmsg
+,	,	Z
+Ureda	ured	Ncmsg
+Visokog	visok	Agpmsgy
+povjerenika	povjerenik	Ncmsg
+Ujedinjenih	ujediniti	Agpmpgy
+naroda	narod	Ncmpg
+za	za	Sa
+izbjeglice	izbjeglica	Ncfpa
+,	,	Z
+Vijeća	vijeće	Ncnsg
+Europe	Europa	Npfsg
+te	te	Cc
+drugih	drugi	Agpfpgy
+relevantnih	relevantan	Agpfpgy
+međunarodnih	međunarodni	Agpfpgy
+organizacija	organizacija	Ncfpg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+prvog	prvi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+511	511	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+152	152	Mdc
+-	-	Z
+24650	24650	Mdc
+-	-	Z
+2016	2016	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2.	2.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Vlaho	Vlaho	Npmsn
+Orepić	Orepić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+I.	I.	Mro
+
+LISTA	lista	Ncfsn
+SIGURNIH	siguran	Agpfpgy
+ZEMALJA	zemlja	Ncfpg
+PODRIJETLA	podrijetlo	Ncnsg
+
+1.	1.	Mdo
+Alžirska	alžirski	Agpfsny
+Narodna	narodni	Agpfsny
+Demokratska	demokratski	Agpfsny
+Republika	republika	Ncfsn
+
+2.	2.	Mdo
+Bosna	Bosna	Npfsn
+i	i	Cc
+Hercegovina	Hercegovina	Npfsn
+
+3.	3.	Mdo
+Crna	Crna	Npfsn
+Gora	Gora	Npfsn
+
+4.	4.	Mdo
+Kraljevina	kraljevina	Ncfsn
+Maroko	Maroko	Npmsn
+
+5.	5.	Mdo
+Republika	republika	Ncfsn
+Albanija	Albanija	Npfsn
+
+6.	6.	Mdo
+Republika	republika	Ncfsn
+Kosovo	Kosovo	Npnsa
+
+7.	7.	Mdo
+Republika	republika	Ncfsn
+Makedonija	Makedonija	Npfsn
+
+8.	8.	Mdo
+Republika	republika	Ncfsn
+Srbija	Srbija	Npfsn
+
+9.	9.	Mdo
+Republika	republika	Ncfsn
+Turska	Turska	Npfsn
+
+10.	10.	Mdo
+
+Republika	republika	Ncfsn
+Tunis	Tunis	Npmsn
+

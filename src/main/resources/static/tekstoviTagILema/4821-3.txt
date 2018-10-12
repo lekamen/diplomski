@@ -1,0 +1,36 @@
+izreke	izreka	Ncfpa
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+14.	14.	Mdo
+stavku	stavak	Ncmsl
+8.	8.	Mdo
+ZEK-a	zek-	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+UsII-188	UsII-188	Mds
+/	/	Z
+15	15	Mdc
+-	-	Z
+11	11	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+rujna	rujan	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+vijeća	vijeće	Ncnsg
+mr.	mr.	Y
+sc.	sc.	Y
+Mirjana	Mirjana	Npfsn
+Juričić	Juričić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

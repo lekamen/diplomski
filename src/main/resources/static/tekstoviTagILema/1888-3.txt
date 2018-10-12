@@ -1,0 +1,573 @@
+odnosno	odnosno	Rgp
+prijedlogu	prijedlog	Ncmsd
+zdravstvene	zdravstven	Agpfsgy
+ustanove	ustanova	Ncfsg
+za	za	Sa
+medicinsko	medicinski	Agpnsay
+vještačenje	vještačenje	Ncnsa
+,	,	Z
+te	te	Cc
+druge	drugi	Mlofsg
+odluke	odluka	Ncfsg
+Povjerenstvo	povjerenstvo	Ncnsn
+može	moći	Vmr3s
+donijeti	donijeti	Vmn
+u	u	Sl
+suženom	sužen	Agpmsly
+sastavu	sastav	Ncmsl
+od	od	Sg
+tri	tri	Mlc
+člana	član	Ncmsg
+,	,	Z
+većinom	većinom	Rgp
+glasova	glas	Ncmpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+U	u	Sl
+slučaju	slučaj	Ncmsl
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+,	,	Z
+suženi	sužen	Agpmsny
+sastav	sastav	Ncmsn
+Povjerenstva	povjerenstvo	Ncnsg
+čini	činiti	Vmr3s
+pravnik	pravnik	Ncmsn
+,	,	Z
+psiholog	psiholog	Ncmsn
+i	i	Cc
+doktor	doktor	Ncmsn
+medicine	medicina	Ncfsg
+.	.	Z
+
+ODJELJAK	ODJELJAK	Npmsn
+C	C	Npmsn
+PRILOZI	prilog	Ncmpn
+
+Članak	članak	Ncmsn
+24.	24.	Mdo
+
+Sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+su	biti	Var3p
+:	:	Z
+
+Obrazac	obrazac	Ncmsn
+A	a	Cc
+–	–	Z
+obrazac	obrazac	Ncmsan
+nalaza	nalaz	Ncmsg
+i	i	Cc
+mišljenja	mišljenje	Ncnsg
+o	o	Sl
+statusu	status	Ncmsl
+žrtve	žrtva	Ncfsg
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+i	i	Cc
+
+Obrazac	obrazac	Ncmsn
+B	b	Y
+–	–	Z
+obrazac	obrazac	Ncmsan
+nalaza	nalaz	Ncmsg
+i	i	Cc
+mišljenja	mišljenje	Ncnsg
+o	o	Sl
+posebnoj	poseban	Agpfsly
+osnovi	osnova	Ncfsl
+za	za	Sa
+povećanu	povećan	Agpfsay
+novčanu	novčan	Agpfsay
+naknadu	naknada	Ncfsa
+.	.	Z
+
+DIO	dio	Ncmsn
+TREĆI	treći	Mlomsn
+ZAVRŠNA	završan	Agpfsny
+ODREDBA	odredba	Ncfsn
+
+Članak	članak	Ncmsn
+25.	25.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+0002/4	0002/4	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+522	522	Mdc
+-	-	Z
+04/1	04/1	Mdc
+-	-	Z
+3	3	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+4.	4.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Predrag	Predrag	Npmsn
+Matić	Matić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+Obrazac	obrazac	Ncmsn
+A	a	Cc
+
+REPUBLIKA	republika	Ncfsn
+HRVATSKA	Hrvatska	Npfsn
+MINISTARSTVO	ministarstvo	Ncnsa
+BRANITELJA	branitelj	Ncmpg
+
+POVJERENSTVO	povjerenstvo	Ncnsn
+ZA	za	Sa
+ŽRTVE	žrtva	Ncfpa
+SEKSUALNOG	seksualan	Agpnsgy
+NASILJA	nasilje	Ncnsg
+
+Nalaz	nalaz	Ncmsn
+i	i	Cc
+mišljenje	mišljenje	Ncnsa
+o	o	Sl
+statusu	status	Ncmsl
+žrtve	žrtva	Ncfsg
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+
+Broj	broj	Ncmsn
+predmeta	predmet	Ncmsg
+:	:	Z
+.......................	.......................	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+....................................	....................................	Z
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+..................................	..................................	Z
+
+Datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+:	:	Z
+……………	…………i	Agpnsny
+.	.	Z
+
+SASTAV	sastav	Ncmsn
+VIJEĆA	vijeće	Ncnsg
+(	(	Z
+Odluka	odluka	Ncfsn
+:	:	Z
+______________________	______________________	Ncmsn
+)	)	Z
+
+IME	ime	Ncnsa
+I	i	Cc
+PREZIME	prezime	Ncnsa
+,	,	Z
+STRUKA	struka	Ncfsn
+POTPIS	potpis	Ncmsn
+1.	1.	Mdo
+2.	2.	Mdo
+3.	3.	Mdo
+4.	4.	Mdo
+5.	5.	Mdo
+6.	6.	Mdo
+7.	7.	Mdo
+
+STRANKA	stranka	Ncfsn
+:	:	Z
+
+Ime	ime	Ncnsn
+(	(	Z
+ime	ime	Ncnsn
+roditelja	roditelj	Ncmpg
+)	)	Z
+i	i	Cc
+prezime	prezime	Ncnsa
+:	:	Z
+Datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+rođenja	rođenje	Ncnsg
+:	:	Z
+OIB	OIB	Npmsn
+:	:	Z
+Adresa	adresa	Ncfsn
+:	:	Z
+Kontakt	kontakt	Ncmsn
+:	:	Z
+
+NALAZ	nalaz	Ncmsn
+I	i	Cc
+MIŠLJENJE	mišljenje	Ncnsa
+
+1.	1.	Mdo
+Vrijeme	vrijeme	Ncnsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+:	:	Z
+
+2.	2.	Mdo
+Mjesto	mjesto	Ncnsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+:	:	Z
+
+U	u	Sl
+RH	RH	Npfsl
+Okupirana	Okupiran	Npmsay
+područja	područje	Ncnsg
+(	(	Z
+mjesto	mjesto	Ncnsn
+)	)	Z
+:	:	Z
+Neokupirana	neokupirana	Ncfsn
+područja	područje	Ncnsg
+(	(	Z
+mjesto	mjesto	Ncnsn
+)	)	Z
+:	:	Z
+Zatočeništvo	zatočeništvo	Ncnsn
+–	–	Z
+logori	logor	Ncmpn
+/	/	Z
+zatvori	zatvor	Ncmpn
+/	/	Z
+drugo	drugi	Mlonsa
+(	(	Z
+mjesto	mjesto	Ncnsn
+)	)	Z
+:	:	Z
+Drugo	drugi	Mlonsn
+:	:	Z
+Izvan	izvan	Sg
+RH	RH	Y
+Mjesto	mjesto	Ncnsn
+:	:	Z
+
+3.	3.	Mdo
+Počinitelj	počinitelj	Ncmsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+
+•	•	Npmsn
+Poznat	poznat	Agpmsnn
+(	(	Z
+podatci	podatak	Ncmpn
+)	)	Z
+•	•	Z
+Nepoznat	nepoznat	Agpmsnn
+
+4.	4.	Mdo
+Oblik	oblik	Ncmsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+
+MIŠLJENJE	mišljenje	Ncnsn
+:	:	Z
+
+Stranka	stranka	Ncfsn
+JE	biti	Var3s
+–	–	Ncfsn
+NIJE	biti	Var3s
+proživjela	proživjeti	Vmp-sf
+seksualno	seksualan	Agpnsay
+nasilje	nasilje	Ncnsa
+sukladno	sukladan	Agpnsay
+Zakonu	zakon	Ncmsl
+o	o	Sl
+pravima	pravo	Ncnpl
+žrtava	žrtva	Ncfpg
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+za	za	Sa
+vrijeme	vrijeme	Ncnsa
+oružane	oružan	Agpfsgy
+agresije	agresija	Ncfsg
+na	na	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+u	u	Sl
+Domovinskom	domovinski	Agpmsly
+ratu	rat	Ncmsl
+.	.	Z
+
+OBRAZLOŽENJE	obrazloženje	Ncnsn
+:	:	Z
+
+_________________________	_________________________	Ncfsn
+
+M.	M.	Y
+P.	P.	Y
+potpis	potpis	Ncmsan
+predsjednika	predsjednik	Ncmsg
+Vijeća	vijeće	Ncnsg
+
+Prilog	prilog	Ncmsn
+:	:	Z
+
+1.	1.	Mdo
+Zapisnik	zapisnik	Ncmsn
+o	o	Sl
+izjavi	izjava	Ncfsl
+stranke	stranka	Ncfsg
+broj	broj	Ncmsn
+__________	__________	Z
+od	od	Sg
+_______________	______________a	Ncfsg
+
+2.	2.	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+sastavu	sastav	Ncmsl
+Vijeća	vijeće	Ncnsg
+:	:	Z
+broj	broj	Ncmsn
+________	________	Z
+od	od	Sg
+_______________	______________a	Ncfsg
+
+Obrazac	obrazac	Ncmsn
+B	b	Y
+–	–	Z
+nalaz	nalaz	Ncmsan
+i	i	Cc
+mišljenje	mišljenje	Ncnsa
+
+REPUBLIKA	republika	Ncfsn
+HRVATSKA	Hrvatska	Npfsn
+MINISTARSTVO	ministarstvo	Ncnsa
+BRANITELJA	branitelj	Ncmpg
+
+POVJERENSTVO	povjerenstvo	Ncnsn
+ZA	za	Sa
+ŽRTVE	žrtva	Ncfpa
+SEKSUALNOG	seksualan	Agpnsgy
+NASILJA	nasilje	Ncnsg
+
+–	–	Agpmsny
+Nalaz	nalaz	Ncmsn
+i	i	Cc
+mišljenje	mišljenje	Ncnsa
+o	o	Sl
+posebnoj	poseban	Agpfsly
+osnovi	osnova	Ncfsl
+za	za	Sa
+povećanu	povećan	Agpfsay
+novčanu	novčan	Agpfsay
+naknadu	naknada	Ncfsa
+–	–	Z
+
+Broj	broj	Ncmsn
+predmeta	predmet	Ncmsg
+:	:	Z
+.......................	.......................	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+....................................	....................................	Z
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+..................................	..................................	Z
+
+Datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+:	:	Z
+……………	…………i	Agpnsny
+.	.	Z
+
+SASTAV	sastav	Ncmsn
+VIJEĆA	vijećati	Vmr3s
+Odluka	odluka	Ncfsn
+:	:	Z
+______________________	______________________	Ncmsn
+)	)	Z
+
+IME	ime	Ncnsa
+I	i	Cc
+PREZIME	prezime	Ncnsa
+,	,	Z
+STRUKA	struka	Ncfsn
+POTPIS	potpis	Ncmsn
+1.	1.	Mdo
+2.	2.	Mdo
+3.	3.	Mdo
+4.	4.	Mdo
+5.	5.	Mdo
+6.	6.	Mdo
+7.	7.	Mdo
+
+STRANKA	stranka	Ncfsn
+:	:	Z
+
+Ime	ime	Ncnsn
+(	(	Z
+ime	ime	Ncnsn
+roditelja	roditelj	Ncmpg
+)	)	Z
+i	i	Cc
+prezime	prezime	Ncnsa
+:	:	Z
+Datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+rođenja	rođenje	Ncnsg
+:	:	Z
+OIB	OIB	Npmsn
+:	:	Z
+Adresa	adresa	Ncfsn
+:	:	Z
+Kontakt	kontakt	Ncmsn
+:	:	Z
+
+Nalaz	nalaz	Ncmsn
+i	i	Cc
+mišljenje	mišljenje	Ncnsa
+o	o	Sl
+statusu	status	Ncmsl
+žrtve	žrtva	Ncfsg
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+(	(	Z
+Obrazac	obrazac	Ncmsn
+A	a	X
+)	)	Z
+:	:	Z
+
+broj_________od____________	broj_________od____________	Ncfsn
+
+NALAZ	nalaz	Ncmsn
+I	i	Cc
+MIŠLJENJE	mišljenje	Ncnsa
+
+Oblik	oblik	Ncmsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+:	:	Z
+
+MIŠLJENJE	mišljenje	Ncnsn
+:	:	Z
+
+Kod	kod	Sg
+stranke	stranka	Ncfsg
+JE	biti	Var3s
+–	–	Z
+NIJE	biti	Var3s
+utvrđeno	utvrditi	Agpnsny
+postojanje	postojanje	Ncnsn
+posljedica	posljedica	Ncfpg
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+koje	koji	Pi-fpn
+su	biti	Var3p
+u	u	Sl
+uzročno-posljedičnoj	uzročno-posljedični	Agpfsly
+vezi	veza	Ncfsl
+s	sa	Si
+utvrđenim	utvrditi	Agpmsiy
+oblikom	oblik	Ncmsi
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+:	:	Z
+–	–	Z
+prisilna	prisilan	Agpfsny
+trudnoća	trudnoća	Ncfsn
+kao	kao	Cs
+posljedica	posljedica	Ncfsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+–	–	Z
+uslijed	uslijed	Sg
+prisilne	prisilan	Agpfsgy
+trudnoće	trudnoća	Ncfsg
+nastale	nastao	Agpfsgy
+kao	kao	Cs
+posljedice	posljedica	Ncfpa
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+rođeno	roditi	Agpnsny
+dijete	dijete	Ncnsn
+–	–	Z
+prisilno	prisilno	Rgp
+izazvani	izazvati	Agpmsayn
+pobačaj	pobačaj	Ncmsan
+kao	kao	Cs
+posljedica	posljedica	Ncfsn
+seksualnog	seksualan	Agpnsgy
+nasilja	nasilje	Ncnsg
+
+OBRAZLOŽENJE	obrazloženje	Ncnsn
+:	:	Z
+
+_________________________	_________________________	Ncfsn
+
+M.	M.	Y
+P.	P.	Y
+potpis	potpis	Ncmsan
+predsjednika	predsjednik	Ncmsg
+Vijeća	vijeće	Ncnsg
+
+Prilog	prilog	Ncmsn
+:	:	Z
+
+1.	1.	Mdo
+Nalaz	nalaz	Ncmsn
+i	i	Cc
+mišljenje	mišljenje	Ncnsa
+broj	broj	Ncmsn
+__________________	__________________	Z
+od	od	Sg
+____________________	___________________a	Ncfsg
+
+2.	2.	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+sastavu	sastav	Ncmsl
+Vijeća	vijeće	Ncnsg
+:	:	Z
+broj	broj	Ncmsn
+___________	___________	Z
+od	od	Sg
+_____________________	____________________a	Ncfsg
+

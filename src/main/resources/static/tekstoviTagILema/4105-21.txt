@@ -1,0 +1,770 @@
+KRUNOSLAV	KRUNOSLAV	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+GOLUBIĆ	golubić	Ncmsn
+
+1978.	1978.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VLATKO	VLATKO	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+GOMERČIĆ	GOMERČIĆ	Npmsn
+
+1979.	1979.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAŠKO	DRAŠKO	Npmsn
+(	(	Z
+Šimunov	Šimunov	Npmsn
+)	)	Z
+GORIČKI	gorički	Agpmsny
+
+1980.	1980.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+GORIČKI	gorički	Agpmsny
+
+1981.	1981.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+GORŠIĆ	GORŠIĆ	Npmsn
+
+1982.	1982.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DEAN	DEAN	Npmsn
+(	(	Z
+Zvonkov	Zvonkov	Npmsn
+)	)	Z
+GRČIĆ	Grčić	Npmsn
+
+1983.	1983.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+GRDEŠIĆ	Grdešić	Npmsn
+
+1984.	1984.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MATO	mati	Agpnsny
+(	(	Z
+Lovrin	Lovrin	Npmsn
+)	)	Z
+GRGIĆ	Grgić	Npmsn
+
+1985.	1985.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ZVONIMIR	ZVONIMIR	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+GRGIĆ	Grgić	Npmsn
+
+1986.	1986.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+GRGURIĆ	GRGURIĆ	Npmsn
+
+1987.	1987.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MATEO	MATEO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+HAIČMAN	HAIČMAN	Npmsn
+
+1988.	1988.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VELIMIR	VELIMIR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+HEĐI	heđi	Agpmsny
+
+1989.	1989.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Živkov	Živkov	Npmsn
+)	)	Z
+HERCEG	HERCEG	Npmsn
+
+1990.	1990.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VINKO	Vinko	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+HOFER	HOFER	Npmsn
+
+1991.	1991.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MICHAEL	MICHAEL	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+HOFERLE	hoferla	Ncfpn
+
+1992.	1992.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Johanov	Johanov	Npmsn
+)	)	Z
+HOPP	HOPP	Npmsn
+
+1993.	1993.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+1994.	1994.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ZLATAN	zlatan	Agpmsnn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+1995.	1995.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+1996.	1996.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+1997.	1997.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+HRŽIĆ	HRŽIĆ	Npmsn
+
+1998.	1998.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+HUBAK	HUBAK	Npmsn
+
+1999.	1999.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+NEVEN	NEVEN	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+IGALAC	IGALAC	Npmsn
+
+2000.	2000.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+IHAROŠ	iharoti	Vmm2s
+
+2001.	2001.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+ILIĆ	Ilić	Npmsn
+
+2002.	2002.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ILIĆ	Ilić	Npmsn
+
+2003.	2003.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DUŠAN	Dušan	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+IVANDIĆ	IVANDIĆ	Npmsn
+
+2004.	2004.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+IVANDIĆ	IVANDIĆ	Npmsn
+
+2005.	2005.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+IVEZIĆ	Ivezić	Npmsn
+
+2006.	2006.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Jurajev	Jurajev	Npmsn
+)	)	Z
+IVŠAN	IVŠAN	Npmsn
+
+2007.	2007.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ROMEO	Romeo	Npmsn
+(	(	Z
+Bogdanov	Bogdanov	Npmsn
+)	)	Z
+JADRANOVIĆ	JADRANOVIĆ	Npmsn
+
+2008.	2008.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+BOŽIDAR	BOŽIDAR	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+JAKOPOVIĆ	JAKOPOVIĆ	Npmsn
+
+2009.	2009.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Salihov	Salihov	Npmsn
+)	)	Z
+JAKUPOVIĆ	JAKUPOVIĆ	Npmsn
+
+2010.	2010.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+JAROŠ	jaroti	Vmm2s
+
+2011.	2011.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+JELINIĆ	Jelinić	Npmsn
+
+2012.	2012.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+JELOVIĆ	JELOVIĆ	Npmsn
+
+2013.	2013.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+JOHA	joha	Ncfsn
+
+2014.	2014.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+JOKIĆ	Jokić	Npmsn
+
+2015.	2015.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+BLAŽAN	BLAŽAN	Npmsn
+(	(	Z
+Pejin	Pejin	Npmsn
+)	)	Z
+JOZIĆ	Jozić	Npmsn
+
+2016.	2016.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+JUKIĆ	Jukić	Npmsn
+
+2017.	2017.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JUKIĆ	Jukić	Npmsn
+
+2018.	2018.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Darkov	Darkov	Npmsn
+)	)	Z
+JURANIĆ	JURANIĆ	Npmsn
+
+2019.	2019.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JURICA	JURICA	Npmsn
+
+2020.	2020.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVAN-ZORAN	IVAN-ZORAN	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JURIČEVIĆ	JURIČEVIĆ	Npmsn
+
+2021.	2021.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+JURIĆ	Jurić	Npmsn
+
+2022.	2022.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+JURIĆ	Jurić	Npmsn
+
+2023.	2023.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+BRANIMIR	BRANIMIR	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+JURINEC	JURINEC	Npmsn
+
+2024.	2024.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ZVONIMIR	ZVONIMIR	Npmsn
+(	(	Z
+Danin	Danin	Npmsn
+)	)	Z
+JURKOVIĆ	JURKOVIĆ	Npmsn
+
+2025.	2025.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+KALAC	KALAC	Npmsn
+
+2026.	2026.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+KALITERNA	KALITERNA	Npmsn
+
+2027.	2027.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KATIĆ	Katić	Npmsn
+
+2028.	2028.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Miroslavov	Miroslavov	Npmsn
+)	)	Z
+KEK	KEK	Npmsn
+
+2029.	2029.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+KESER	KESER	Npmsn
+
+2030.	2030.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+KIRIN	KIRIN	Npmsn
+
+2031.	2031.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KIŠ	kiti	Vmr2s
+
+2032.	2032.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+KIŠAK	KIŠAK	Npmsn
+
+2033.	2033.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Josin	Josin	Npmsn
+)	)	Z
+KLARIĆ	Klarić	Npmsn
+
+2034.	2034.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+KLJUČEVIĆ	KLJUČEVIĆ	Npmsn
+
+2035.	2035.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Zvonkov	Zvonkov	Npmsn
+)	)	Z
+KNEŽEVIĆ	Knežević	Npmsn
+
+2036.	2036.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+KOLOMAZ	kolomaz	Ncmsan
+
+2037.	2037.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DEJAN	DEJAN	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+KORPAR	KORPAR	Npmsn
+
+2038.	2038.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DANIJEL	DANIJEL	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+KOVAČ	kovač	Ncmsn
+
+2039.	2039.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+2040.	2040.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+EMIL	Emil	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+KOVAČIĆ	Kovačić	Npmsn
+
+2041.	2041.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+KOZIĆ	KOZIĆ	Npmsn
+
+2042.	2042.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+EUGEN	EUGEN	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+KOŽUL	KOŽUL	Npmsn
+
+2043.	2043.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JANKO	Janko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KRALJ	kralj	Ncmsn
+
+2044.	2044.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KUČIĆ	KUČIĆ	Npmsn
+
+2045.	2045.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+GRGO	GRGO	Npmsn
+(	(	Z
+Krešin	Krešin	Npmsn
+)	)	Z
+KUTLEŠA	KUTLEŠA	Npmsn
+
+2046.	2046.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+KUZMANOVIĆ	Kuzmanović	Npmsn
+
+2047.	2047.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+KUZMANOVIĆ	Kuzmanović	Npmsn
+
+2048.	2048.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+LABROVIĆ	LABROVIĆ	Npmsn
+
+2049.	2049.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+LATKI	latki	Agpmsny
+
+2050.	2050.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MIHO	MIHO	Npmsn
+(	(	Z
+Lazarov	Lazarov	Npmsn
+)	)	Z
+LAZAREVIĆ	Lazarević	Npmsn
+
+2051.	2051.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+LAZIĆ	Lazić	Npmsn
+
+2052.	2052.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAGO	Drago	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+LEKIĆ	Lekić	Npmsn
+
+2053.	2053.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+LEPEN	LEPEN	Npmsn
+
+2054.	2054.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVO	IVO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+LEUTAR	LEUTAR	Npmsn
+
+2055.	2055.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+LEVAKOVIĆ	LEVAKOVIĆ	Npmsn
+
+2056.	2056.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+LIŠNJIĆ	LIŠNJIĆ	Npmsn
+
+2057.	2057.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+SILVIO	SILVIO	Npmsn
+(	(	Z
+Rozarijev	Rozarijev	Npmsn
+)	)	Z
+LOVRIĆ	Lovrić	Npmsn
+
+2058.	2058.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Vendelov	Vendelov	Npmsn
+)	)	Z
+LUKAČEVIĆ	LUKAČEVIĆ	Npmsn
+
+2059.	2059.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Pavin	Pavin	Npmsn
+)	)	Z
+LUKAČIĆ	LUKAČIĆ	Npmsn
+
+2060.	2060.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+SERGEJ	SERGEJ	Npmsn
+(	(	Z
+Ivičin	Ivičin	Npmsn
+)	)	Z
+LUKOVIĆ	Luković	Npmsn
+
+2061.	2061.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+MABIĆ	MABIĆ	Npmsn
+
+2062.	2062.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAGO	Drago	Npmsn
+(	(	Npmsn
+Petrov	Petrov	Npmsn
+)	)	Z
+MAGDIĆ	MAGDIĆ	Npmsn
+
+2063.	2063.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+MANDIĆ	Mandić	Npmsn
+
+2064.	2064.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+MANDIĆ	Mandić	Npmsn
+
+2065.	2065.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MARAS	MARAS	Npmsn
+
+2066.	2066.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Lukin	Lukin	Npmsn
+)	)	Z
+MARINIĆ	MARINIĆ	Npmsn
+
+2067.	2067.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+MARKANJEVIĆ	MARKANJEVIĆ	Npmsn
+
+2068.	2068.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+MAROVIĆ	Marović	Npmsn
+
+2069.	2069.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ILIJA	ILIJ	Npmsg
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MARTINOVIĆ	Martinović	Npmsn
+
+2070.	2070.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+MATAS	MATAS	Npmsn
+
+2071.	2071.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TONĆI	TONĆI	Npmsn
+(	(	Z
+Miloradov	Miloradov	Npmsn
+)	)	Z
+MATEŠAN	MATEŠAN	Npmsn
+
+2072.	2072.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MATICA	matica	Ncfsn
+
+2073.	2073.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+

@@ -1,0 +1,746 @@
+MIŠETIĆ	Mišetić	Npmsn
+
+1639.	1639.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DEAN	DEAN	Npmsn
+(	(	Z
+Nedjeljkov	Nedjeljkov	Npmsn
+)	)	Z
+MIŠIĆ	Mišić	Npmsn
+
+1640.	1640.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+MIŠKULIN	MIŠKULIN	Npmsn
+
+1641.	1641.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+MITAL	MITAL	Npmsn
+
+1642.	1642.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NEDELJKO	NEDELJKO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MLINAREVIĆ	MLINAREVIĆ	Npmsn
+
+1643.	1643.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MODRIĆ	Modrić	Npmsn
+
+1644.	1644.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Viktorov	Viktorov	Npmsn
+)	)	Z
+MOGUŠ	moguti	Vmm2s
+
+1645.	1645.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+SLAVEN	Slaven	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MOROŽIN	MOROŽIN	Npmsn
+
+1646.	1646.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Adamov	Adamov	Npmsn
+)	)	Z
+MOZBAH	MOZBAH	I
+
+1647.	1647.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+MRKOJEVIĆ	MRKOJEVIĆ	Npmsn
+
+1648.	1648.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+NEDELJKOVIĆ	Nedeljković	Npmsn
+
+1649.	1649.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+NEJAŠMIĆ	NEJAŠMIĆ	Npmsn
+
+1650.	1650.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+NEKIĆ	NEKIĆ	Npmsn
+
+1651.	1651.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIODRAG	MIODRAG	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+NELOVIĆ	NELOVIĆ	Npmsn
+
+1652.	1652.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+NEZIROVIĆ	NEZIROVIĆ	Npmsn
+
+1653.	1653.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+NIMAC	NIMAC	Npmsn
+
+1654.	1654.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZVONIMIR	ZVONIMIR	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+NORAC	NORAC	Npmsn
+
+1655.	1655.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+JAKO	jako	Rgp
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+NOVAK	Novak	Npmsn
+
+1656.	1656.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+NOVAKOVIĆ	Novaković	Npmsn
+
+1657.	1657.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+OKMAŽIĆ	OKMAŽIĆ	Npmsn
+
+1658.	1658.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+HUSEIN	HUSEIN	Npmsn
+(	(	Z
+Mehin	Mehin	Npmsn
+)	)	Z
+OMERBAŠIĆ	Omerbašić	Npmsn
+
+1659.	1659.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Redžin	Redžin	Npmsn
+)	)	Z
+OMIČEVIĆ	OMIČEVIĆ	Npmsn
+
+1660.	1660.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+OPERMAN	OPERMAN	Npmsn
+
+1661.	1661.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PAPONJA	paponje	Ncnpn
+
+1662.	1662.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BERISLAV	BERISLAV	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+PARAMAN	PARAMAN	Npmsn
+
+1663.	1663.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+PARČINA	PARČIN	Npmsg
+
+1664.	1664.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MATE	MATE	Npfsg
+(	(	Z
+Jerkov	Jerkov	Npmsn
+)	)	Z
+PAVKOVIĆ	Pavković	Npmsn
+
+1665.	1665.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Blažev	Blažev	Npmsn
+)	)	Z
+PAVLIČEVIĆ	PAVLIČEVIĆ	Npmsn
+
+1666.	1666.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVO	IVO	Npmsn
+(	(	Z
+Joškov	Joškov	Npmsn
+)	)	Z
+PAVLOV	Pavlov	Aspmsnn
+
+1667.	1667.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+1668.	1668.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+1669.	1669.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PAVUN	PAVUN	Npmsn
+
+1670.	1670.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MILENKO	MILENKO	Npmsn
+(	(	Z
+Perin	Perin	Npmsn
+)	)	Z
+PENAVA	penav	Ncmsg
+
+1671.	1671.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DUJO	DUJO	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+PENIĆ	PENIĆ	Npmsn
+
+1672.	1672.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DANIJEL	DANIJEL	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PEPIĆ	PEPIĆ	Npmsn
+
+1673.	1673.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Miroslavov	Miroslavov	Npmsn
+)	)	Z
+PEREŠIN	PEREŠIN	Npmsn
+
+1674.	1674.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+PERIĆ	Perić	Npmsn
+
+1675.	1675.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+PERIŠIĆ	Perišić	Npmsn
+
+1676.	1676.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DRAŽAN	DRAŽAN	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PERKUŠIĆ	PERKUŠIĆ	Npmsn
+
+1677.	1677.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+PEROŠ	peroti	Vmm2s
+
+1678.	1678.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+PEŠUT	pešut	Agpmpny
+
+1679.	1679.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+PETKOVIĆ	Petković	Npmsn
+
+1680.	1680.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+PETREKOVIĆ	PETREKOVIĆ	Npmsn
+
+1681.	1681.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZDENKO	ZDENKO	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+PETRIČKO	petrički	Agpnsny
+
+1682.	1682.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BOŽIDAR	BOŽIDAR	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+PETRINJAK	PETRINJAK	Npmsn
+
+1683.	1683.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+PETROVIĆ	Petrović	Npmsn
+
+1684.	1684.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZVONIMIR	ZVONIMIR	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+PLANINAC	PLANINAC	Npmsn
+
+1685.	1685.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PODGORSKI	podgorski	Agpmsny
+
+1686.	1686.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+PODNAR	PODNAR	Npmsn
+
+1687.	1687.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ERWIN	ERWIN	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+PODRUG	PODRUG	Npmsn
+
+1688.	1688.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Jurajev	Jurajev	Npmsn
+)	)	Z
+POLJAK	POLJAK	Npmsn
+
+1689.	1689.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+POLJAK	POLJAK	Npmsn
+
+1690.	1690.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+POPOVIĆ	Popović	Npmsn
+
+1691.	1691.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Draganov	Draganov	Npmsn
+)	)	Z
+POSARIĆ	POSARIĆ	Npmsn
+
+1692.	1692.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+POŽEG	POŽEG	Npmsn
+
+1693.	1693.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Gordanin	Gordanin	Npmsn
+)	)	Z
+PRAČUK	PRAČUK	I
+
+1694.	1694.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+PREBEG	PREBEG	I
+
+1695.	1695.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PRESEČAN	PRESEČAN	Npmsn
+
+1696.	1696.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NATALIO	NATALIO	Npmsn
+(	(	Z
+Marinov	Marinov	Npmsn
+)	)	Z
+PRGA	PRG	Npmsg
+
+1697.	1697.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NENAD-JOSIP	NENAD-JOSIP	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+PRGOMET	PRGOMET	Npmsn
+
+1698.	1698.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Slobodanov	Slobodanov	Npmsn
+)	)	Z
+PRIBANIĆ	PRIBANIĆ	Npmsn
+
+1699.	1699.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+SAMIR	SAMIR	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+PROUČIL	PROUČIL	Npmsn
+
+1700.	1700.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+PRPIĆ	Prpić	Npmsn
+
+1701.	1701.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+PUCELJ	pucelti	Vmm2s
+
+1702.	1702.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+PUŠKARIĆ	PUŠKARIĆ	Npmsn
+
+1703.	1703.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+RAČIĆ	račić	Ncmsn
+
+1704.	1704.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BORISLAV	BORISLAV	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+RADAN	RADAN	Npmsan
+
+1705.	1705.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DUŠKO	DUŠKO	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+RADIĆ	Radić	Npmsn
+
+1706.	1706.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+STIPE	STIPE	Npmsn
+(	(	Z
+Ivičin	Ivičin	Npmsn
+)	)	Z
+RADIĆ	Radić	Npmsn
+
+1707.	1707.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Zdravkov	Zdravkov	Npmsn
+)	)	Z
+RADOJČIĆ	Radojčić	Npmsn
+
+1708.	1708.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Draganov	Draganov	Npmsn
+)	)	Z
+RADOŠ	RADOŠ	Npmsn
+
+1709.	1709.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ILIJA	ILIJA	Npmsn
+SAMIR	SAMIR	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+RAJKOVIĆ	RAJKOVIĆ	Npmsn
+
+1710.	1710.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+RAJNOVIĆ	RAJNOVIĆ	Npmsn
+
+1711.	1711.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Stipanov	Stipanov	Npmsn
+)	)	Z
+RAMČIĆ	RAMČIĆ	Npmsn
+
+1712.	1712.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+VELIMIR	VELIMIR	Npmsn
+(	(	Z
+Mihajlov	Mihajlov	Npmsn
+)	)	Z
+RANOSOVIĆ	RANOSOVIĆ	Npmsn
+
+1713.	1713.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+RAŽOV	ražov	Aspmsnn
+
+1714.	1714.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+RENDULIĆ	RENDULIĆ	Npmsn
+
+1715.	1715.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BOSILJKO	BOSILJKO	Npmsn
+(	(	Z
+Stojanov	Stojanov	Npmsn
+)	)	Z
+REZO	REZO	Npmsn
+
+1716.	1716.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Filipov	Filipov	Npmsn
+)	)	Z
+ROGULJIĆ	Roguljić	Npmsn
+
+1717.	1717.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Radoslavov	Radoslavov	Npmsn
+)	)	Z
+ROSO	ROSO	Npmsn
+
+1718.	1718.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ROŽIĆ	Rožić	Npmsn
+
+1719.	1719.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ROŽMAN	ROŽMAN	Npmsn
+
+1720.	1720.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+STEVO	STEVO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+RUBČIĆ	RUBČIĆ	Npmsn
+
+1721.	1721.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+RADE	rada	Ncfsg
+

@@ -1,0 +1,93 @@
+članaka	članak	Ncmpg
+74.	74.	Mdo
+i	i	Cc
+76.	76.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+točkama	točka	Ncfpl
+I.		Agpfply
+,	,	Z
+II	ii	Mrc
+.	.	Z
+i	i	Cc
+III	III	Mrc
+.	.	Z
+izreke	izreka	Ncfpa
+.	.	Z
+
+16.	16.	Mdo
+
+Točka	točka	Ncfsn
+IV	IV	Mrc
+.	.	Z
+izreke	izreka	Ncfsg
+donesena	donijeti	Appfsny
+je	biti	Var3s
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+29.	29.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+17.	17.	Mdo
+
+Uslijed	uslijed	Sg
+odluke	odluka	Ncfsg
+o	o	Sl
+ustavnoj	ustavan	Agpfsly
+tužbi	tužba	Ncfsl
+,	,	Z
+o	o	Sl
+prijedlogu	prijedlog	Ncmsl
+podnositelja	podnositelj	Ncmpg
+za	za	Sa
+odgodu	odgoda	Ncfsa
+ovrhe	ovrha	Ncfsg
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+67.	67.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+nije	biti	Var3s
+rješavano	rješavati	Appnsny
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-1631	U-III-1631	X
+/	/	Z
+2015	2015	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,73 @@
+obzirom	obzir	Ncmsi
+na	na	Sa
+djelokrug	djelokrug	Ncmsan
+i	i	Cc
+vrstu	vrsta	Ncfsa
+poslova	posao	Ncmpg
+koje	koji	Pi-mpa
+obavljaju	obavljati	Vmr3p
+u	u	Sl
+javnoj	javan	Agpfsly
+ustanovi	ustanova	Ncfsl
+.	.	Z
+
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Članak	članak	Ncmsn
+13.	13.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+612	612	Mdc
+-	-	Z
+07/15	07/15	Mdc
+-	-	Z
+01/01	01/01	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+517	517	Mdc
+-	-	Z
+07	07	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+12.	12.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Mihael	Mihael	Npmsn
+Zmajlović	Zmajlović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

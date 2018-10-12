@@ -1,0 +1,636 @@
+32	32	Mdc
+20.03.2015	20.03.2015	Mdo
+Uredba	uredba	Ncfsn
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+i	i	Cc
+dopunama	dopuna	Ncfpl
+Uredbe	uredba	Ncfpn
+o	o	Sl
+plaćama	plaća	Ncfpl
+policijskih	policijski	Agpmpgy
+službenika	službenik	Ncmpg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+651	651	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+80.	80.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+policiji	policija	Ncfsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+34/2011	34/2011	Mdc
+,	,	Z
+130/2012	130/2012	Mdc
+,	,	Z
+89/2014	89/2014	Mdc
+i	i	Cc
+151/2014	151/2014	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+18.	18.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+UREDBU	uredba	Ncfsa
+
+O	o	Sl
+IZMJENAMA	izmjena	Ncfpl
+I	i	Agpfply
+DOPUNAMA	dopuna	Ncfpl
+UREDBE	uredba	Ncfpn
+O	o	Sl
+PLAĆAMA	plaća	Ncfpl
+POLICIJSKIH	policijski	Agpmpgy
+SLUŽBENIKA	službenik	Ncmpg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Uredbi	uredba	Ncfsl
+o	o	Sl
+plaćama	plaća	Ncfpl
+policijskih	policijski	Agpmpgy
+službenika	službenik	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+129/2011	129/2011	Mdc
+,	,	Z
+82/2012	82/2012	Mdc
+,	,	Z
+25/2013	25/2013	Mdc
+i	i	Cc
+140/2013	140/2013	Mdc
+)	)	Z
+,	,	Z
+u	u	Sl
+Popisu	popis	Ncmsl
+naziva	naziv	Ncmsg
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+policijskih	policijski	Agpmpgy
+službenika	službenik	Ncmpg
+,	,	Z
+u	u	Sl
+Prilogu	prilog	Ncmsl
+1	1	Mdc
+,	,	Z
+odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+NAČELNIK	načelnik	Ncmsn
+SAMOSTALNOG	samostalan	Agpmsgy
+SEKTORA	sektor	Ncmsg
+ZA	za	Sa
+EUROPSKE	europski	Agpfpay
+INTEGRACIJE	integracija	Ncfpa
+I	i	Cc
+MEĐUNARODNE	međunarodni	Agpmpay
+POSLOVE	posao	Ncmpa
+2,231	2,231	Mdc
+35	35	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+NAČELNIK	načelnik	Ncmsn
+SAMOSTALNOG	samostalan	Agpmsgy
+SEKTORA	sektor	Ncmsg
+ZA	za	Sa
+SCHENGENSKU	schengenski	Agpfsay
+KOORDI	koorda	Ncfsa
+-	-	Z
+NACIJU	nacija	Ncfsa
+I	i	Cc
+PROJEKTE	projekt	Ncmpa
+EUROPSKE	europski	Agpfsgy
+UNIJE	unija	Ncfsg
+2,231	2,231	Mdc
+35	35	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+NAČELNIK	načelnik	Ncmsn
+UREDA	ured	Ncmsg
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGURNOSTI	sigurnost	Ncfsg
+2,231	2,231	Mdc
+35	35	Mdc
+
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+POMOĆNIK	pomoćnik	Ncmsn
+NAČELNIKA	načelnik	Ncmsg
+UREDA	ured	Ncmsg
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGURNOSTI	sigurnost	Ncfsg
+2,183	2,183	Mdc
+30	30	Mdc
+
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+ZAMJENIK	zamjenik	Ncmsn
+NAČELNIKA	načelnik	Ncmsg
+POLICIJSKE	policijski	Agpfsgy
+UPRAVE	uprava	Ncfsg
+3.	3.	Mdo
+KATEGORIJE	kategorija	Ncfsg
+1,746	1,746	Mdc
+35	35	Mdc
+
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+odjeljci	odjeljak	Ncmpn
+:	:	Z
+
+POMOĆNIK	pomoćnik	Ncmsn
+VODITELJA	voditelj	Ncmsg
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+OSIGURANJE	osiguranje	Ncnsa
+I	i	Cc
+ZAŠTITU	zaštita	Ncfsa
+ŠTIĆENIH	štititi	Appmpgy
+OBJEKATA	objekt	Ncmpg
+I	i	Cc
+PROSTORA	prostor	Ncmsg
+1,746	1,746	Mdc
+35	35	Mdc
+POMOĆNIK	pomoćnik	Ncmsn
+VODITELJA	voditelj	Ncmsg
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+OSIGURANJE	osiguranje	Ncnsa
+I	i	Cc
+ZAŠTITU	zaštita	Ncfsa
+ŠTIĆENIH	štititi	Agpfpgy
+OSOBA	osoba	Ncfpg
+1,746	1,746	Mdc
+35	35	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+U	u	Sl
+UREDU	ured	Ncmsl
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGURNOSTI	sigurnost	Ncfsg
+1,746	1,746	Mdc
+30	30	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+ZAŠTITU	zaštita	Ncfsa
+DIPLOMATSKIH	diplomatski	Agpfpgy
+MISIJA	misija	Ncfpg
+I	i	Cc
+KONZULARNIH	konzularan	Agpmpgy
+UREDA	ured	Ncmpg
+1,746	1,746	Mdc
+30	30	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+EUROPSKE	europski	Agpfpay
+INTEGRACIJE	integracija	Ncfpa
+,	,	Z
+PROVEDBU	provedba	Ncfsa
+I	i	Cc
+PRAĆENJE	praćenje	Ncnsa
+PROJEKATA	projekat	Ncmpg
+1,746	1,746	Mdc
+30	30	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+SCHENGENSKU	schengenski	Agpfsay
+KOORDINACIJU	koordinacija	Ncfsa
+1,746	1,746	Mdc
+30	30	Mdc
+
+a	a	Cc
+iza	iza	Sg
+njega	on	Pp3msg
+se	sebe	Px--sa
+dodaje	dodavati	Vmr3s
+odjeljak	odjeljak	Ncmsn
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+PROJEKTE	projekt	Ncmpa
+EUROPSKE	europski	Agpfsgy
+UNIJE	unija	Ncfsg
+1,746	1,746	Mdc
+30	30	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+MEĐUNARODNE	međunarodni	Agpmpay
+ODNOSE	odnos	Ncmpa
+1,746	1,746	Mdc
+30	30	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+EUROPSKE	europski	Agpmpay
+I	i	Cc
+MEĐUNARODNE	međunarodni	Agpmpay
+POSLOVE	posao	Ncmpa
+I	i	Cc
+PREVO	previ	Agpnsny
+-	-	Z
+ĐENJE	đenje	Ncnsn
+1,746	1,746	Mdc
+30	30	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+MIROVNE	mirovni	Agpfpay
+MISIJE	misija	Ncfpa
+I	i	Cc
+POLICIJSKE	policijski	Agpmpay
+ČASNIKE	časnik	Ncmpa
+ZA	za	Sa
+VEZU	veza	Ncfsa
+1,746	1,746	Mdc
+30	30	Mdc
+
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+SLUŽBE	služba	Ncfsg
+U	u	Sl
+UREDU	ured	Ncmsl
+NAČELNIKA	načelnik	Ncmpg
+PU	p	Ncmsl
+1.	1.	Mdo
+KATEGORIJE	kategorija	Ncfsg
+1,659	1,659	Mdc
+30	30	Mdc
+
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+POSLOVA	posao	Ncmpg
+U	u	Sl
+SLUŽBI	služba	Ncfsl
+ZA	za	Sa
+OSIGURANJE	osiguranje	Ncnsa
+I	i	Cc
+ZAŠTITU	zaštita	Ncfsa
+ŠTIĆENIH	štititi	Agpfpgy
+OSOBA	osoba	Ncfpg
+1,659	1,659	Mdc
+30	30	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+POMOĆNIK	pomoćnik	Ncmsn
+VODITELJA	voditelj	Ncmsg
+SLUŽBE	služba	Ncfsg
+U	u	Sl
+UREDU	ured	Ncmsl
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGUR	SIGUR	Npfsn
+-	-	Z
+NOSTI	nostti	Vmm2s
+1,746	1,746	Mdc
+25	25	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+POMOĆNIK	pomoćnik	Ncmsn
+VODITELJA	voditelj	Ncmsg
+SLUŽBE	služba	Ncfsg
+ZA	za	Sa
+ZAŠTITU	zaštita	Ncfsa
+DIPLOMATSKIH	diplomatski	Agpfpgy
+MISIJA	misija	Ncfpg
+I	i	Cc
+KONZULARNIH	konzularan	Agpmpgy
+UREDA	ured	Ncmpg
+1,746	1,746	Mdc
+25	25	Mdc
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+ODJELA	odjel	Ncmsg
+ZA	za	Sa
+EUROPSKE	europski	Agpfpay
+INTEGRACIJE	integracija	Ncfpa
+1,659	1,659	Mdc
+25	25	Mdc
+
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+ODJELA	odjel	Ncmsg
+ZA	za	Sa
+PROVEDBU	provedba	Ncfsa
+I	i	Cc
+PRAĆENJE	praćenje	Ncnsa
+PROJEKATA	projekat	Ncmpg
+1,659	1,659	Mdc
+25	25	Mdc
+
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+ZAMJENIK	zamjenik	Ncmsn
+ZAPOVJEDNIKA	zapovjednik	Ncmsg
+INTERVENTNE	interventni	Agpfsgy
+JEDINICE	jedinica	Ncfsg
+POLICIJE	policija	Ncfsg
+U	u	Sl
+PU	p	Ncmsl
+1.	1.	Mdo
+KATEGORIJE	kategorija	Ncfsg
+1,571	1,571	Mdc
+30	30	Mdc
+
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+OPERATIVNOG	operativan	Agpnsgy
+DEŽURSTVA	dežurstvo	Ncnsg
+1,571	1,571	Mdc
+30	30	Mdc
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+POLICIJSKI	policijski	Agpmsny
+SLUŽBENIK	službenik	Ncmsn
+ZA	za	Sa
+ISPITIVANJE	ispitivanje	Ncnsa
+VATRENOG	vatren	Agpnsgy
+ORUŽJA	oružje	Ncnsg
+I	i	Cc
+STRELJIVA	streljivo	Ncnsg
+1,571	1,571	Mdc
+20	20	Mdc
+
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+POLICIJSKI	policijski	Agpmsny
+SLUŽBENIK	službenik	Ncmsn
+ZA	za	Sa
+PRILAGODBU	prilagodba	Ncfsa
+PROPISA	propis	Ncmpg
+IZ	iz	Sg
+NADLEŽNOSTI	nadležnost	Ncfsg
+MI	ja	Pp1-sd
+-	-	Z
+NISTARSTVA	nistarsi	Agpnsly
+EUROPSKOM	europski	Agpnsly
+ZAKONODAVSTVU	zakonodavstvo	Ncnsl
+1,571	1,571	Mdc
+20	20	Mdc
+
+Odjeljci	odjeljak	Ncmpn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+OPERATIVNIH	operativan	Agpmpgy
+POSLOVA	posao	Ncmpg
+1,571	1,571	Mdc
+20	20	Mdc
+VODITELJ	voditelj	Ncmsn
+POSLOVA	posao	Ncmpg
+ZA	za	Sa
+POSEBNO	poseban	Agpnsay
+OSIGURANJE	osiguranje	Ncnsa
+1,571	1,571	Mdc
+20	20	Mdc
+VODTELJ	VODTEL	Npmpg
+POSLOVA	posao	Ncmpg
+ZA	za	Sa
+PROTUDIVERZIJSKU	protudiverzijski	Agpfsay
+ZAŠTITU	zaštita	Ncfsa
+1,571	1,571	Mdc
+20	20	Mdc
+VODITELJ	voditelj	Ncmsn
+POSOVA	POSOV	Npmsg
+ZA	za	Sa
+REDOVNO	redovan	Agpnsay
+OSIGURANJE	osiguranje	Ncnsa
+1,571	1,571	Mdc
+20	20	Mdc
+
+mijenjaju	mijenjati	Vmr3p
+se	sebe	Px--sa
+i	i	Cc
+glase	glasiti	Vmr3p
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+OPERATIVNIH	operativan	Agpmpgy
+POSLOVA	posao	Ncmpg
+1,659	1,659	Mdc
+30	30	Mdc
+VODITELJ	voditelj	Ncmsn
+POSLOVA	posao	Ncmpg
+ZA	za	Sa
+POSEBNO	poseban	Agpnsay
+OSIGURANJE	osiguranje	Ncnsa
+1,659	1,659	Mdc
+30	30	Mdc
+VODITELJ	voditelj	Ncmsn
+POSLOVA	posao	Ncmpg
+ZA	za	Sa
+PROTUDIVERZIJSKU	protudiverzijski	Agpfsay
+ZAŠTITU	zaštita	Ncfsa
+1,659	1,659	Mdc
+30	30	Mdc
+VODITELJ	voditelj	Ncmsn
+POSOVA	POSOV	Npmsg
+ZA	za	Sa
+REDOVNO	redovan	Agpnsay
+OSIGURANJE	osiguranje	Ncnsa
+1,659	1,659	Mdc
+30	30	Mdc
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+ZAPOVJEDNIK	zapovjednik	Ncmsn
+SATNIJE	satnija	Ncfsg
+ZA	za	Sa
+PODRŠKU	podrška	Ncfsa
+1,504	1,504	Mdc
+30	30	Mdc
+
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+odjeljci	odjeljak	Ncmpn
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+OSIGURANJA	osiguranje	Ncnsg
+ŠTIĆENIH	štititi	Agpfpgy
+OSOBA	osoba	Ncfpg
+1,504	1,504	Mdc
+30	30	Mdc
+VODITELJ	voditelj	Ncmsn
+ZA	za	Sa
+ZDRAVSTVENO-HIGIJENSKO-TEHNOLOŠKU	zdravstveno-higijensko-tehnološki	Agpfsay
+ZAŠTITU	zaštita	Ncfsa
+1,504	1,504	Mdc
+30	30	Mdc
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+VODITELJ	voditelj	Ncmsn
+PROJEKATA	projekat	Ncmpg
+U	u	Sl
+POLICIJSKOJ	policijski	Agpfsly
+UPRAVI	uprava	Ncfsl
+VUKOVARSKO-SRIJEM	vukovarsko-srije	Ncnsi
+-	-	Z
+SKOJ	skoti	Vmm2s
+1,504	1,504	Mdc
+25	25	Mdc
+
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+odjeljak	odjeljak	Ncmsn
+:	:	Z
+
+POLICIJSKI	policijski	Agpmsny
+SLUŽBENIK	službenik	Ncmsn
+ZA	za	Sa
+PLANIRANJE	planiranje	Ncnsa
+I	i	Cc
+PROVEDBU	provedba	Ncfsa
+ŠKOLOVANJA	školovanje	Ncnsg
+1,504	1,504	Mdc
+25	25	Mdc
+
+Iza	iza	Sg
+

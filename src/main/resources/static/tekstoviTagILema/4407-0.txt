@@ -1,0 +1,92 @@
+75	75	Mdc
+17.08.2016	17.08.2016	Agpmsny
+Indeks	indeks	Ncmsn
+proizvođačkih	proizvođački	Agpfpgy
+cijena	cijena	Ncfpg
+industrijskih	industrijski	Agpmpgy
+proizvoda	proizvod	Ncmpg
+na	na	Sl
+domaćem	domaći	Agpnsly
+tržištu	tržište	Ncnsl
+u	u	Sl
+srpnju	srpanj	Ncmsl
+2016.	2016.	Mdo
+
+DRŽAVNI	državni	Agpmsny
+ZAVOD	zavod	Ncmsn
+ZA	za	Sa
+STATISTIKU	statistika	Ncfsa
+
+1756	1756	Mdc
+
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+statistiku	statistika	Ncfsa
+objavljuje	objavljivati	Vmr3s
+
+INDEKS	indeks	Ncmsn
+
+PROIZVOĐAČKIH	proizvođački	Agpfpgy
+CIJENA	cijena	Ncfpg
+INDUSTRIJSKIH	industrijski	Agpmpgy
+PROIZVODA	proizvod	Ncmpg
+NA	na	Sl
+DOMAĆEM	domaći	Agpnsly
+TRŽIŠTU	tržište	Ncnsl
+U	u	Sl
+SRPNJU	srpanj	Ncmsl
+2016.	2016.	Mdo
+
+Indeks	indeks	Ncmsn
+proizvođačkih	proizvođački	Agpfpgy
+cijena	cijena	Ncfpg
+industrijskih	industrijski	Agpmpgy
+proizvoda	proizvod	Ncmpg
+na	na	Sl
+domaćem	domaći	Agpnsly
+tržištu	tržište	Ncnsl
+u	u	Sl
+srpnju	srpanj	Ncmsl
+2016.	2016.	Mdo
+u	u	Sl
+odnosu	odnos	Ncmsl
+na	na	Sa
+lipanj	lipanj	Ncmsan
+2016.	2016.	Mdo
+iznosi	iznositi	Vmr3s
+99,3.	99,3.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+954	954	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/05	01/05	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+555	555	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+16	16	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Ravnatelj	ravnatelj	Ncmsn
+Marko	Marko	Npmsn
+Krištof	Krištof	Npmsn
+,	,	Z
+v.	v.	Mro
+r.	r.	Y
+

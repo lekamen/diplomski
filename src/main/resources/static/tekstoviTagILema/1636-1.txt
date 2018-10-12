@@ -1,0 +1,126 @@
+radu	rad	Ncmsl
+ne	ne	Qz
+obavlja	obavljati	Vmr3s
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+propisima	propis	Ncmpi
+zaštite	zaštita	Ncfsg
+na	na	Sl
+radu	rad	Ncmsl
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Protiv	protiv	Sg
+rješenja	rješenje	Ncnsg
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+i	i	Cc
+2.	2.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+može	moći	Vmr3s
+se	sebe	Px--sa
+izjaviti	izjaviti	Vmn
+žalba	žalba	Ncfsn
+ministarstvu	ministarstvo	Ncnsd
+.	.	Z
+«	«	Z
+
+Članak	članak	Ncmsn
+11.	11.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+15.	15.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+iza	iza	Sg
+riječi	riječ	Ncfpg
+»	»	Z
+prestanku	prestanak	Ncmsl
+«	«	Z
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+riječi	riječ	Ncfpn
+»	»	Z
+odnosno	odnosno	Rgp
+oduzimanju	oduzimanje	Ncnsd
+«	«	Z
+.	.	Z
+
+Stavak	stavak	Ncmsn
+2.	2.	Mdo
+se	sebe	Px--sa
+briše	brisati	Vmr3s
+,	,	Z
+a	a	Cc
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+postaje	postajati	Vmr3s
+stavak	stavak	Ncmsan
+2.	2.	Mdo
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Agpmsayn
+dan	dan	Ncmsan
+nakon	nakon	Sg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/78	01/78	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+524	524	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+01/1	01/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+5	5	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Mirando	Mirando	Npfsn
+Mrsić	Mrsić	Npfsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

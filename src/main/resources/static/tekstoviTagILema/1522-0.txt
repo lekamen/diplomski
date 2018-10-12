@@ -1,0 +1,155 @@
+79	79	Mdc
+20.07.2015	20.07.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+prestanku	prestanak	Ncmsl
+zastupničkog	zastupnički	Agpmsgy
+mandata	mandat	Ncmsg
+zastupnice	zastupnica	Ncfsg
+i	i	Cc
+početku	početak	Ncmsl
+obnašanja	obnašanje	Ncnsg
+zastupničke	zastupnički	Agpfsgy
+dužnosti	dužnost	Ncfsg
+zamjenika	zamjenik	Ncmsg
+zastupnice	zastupnica	Ncfsg
+u	u	Sl
+Hrvatskom	hrvatski	Agpmsly
+saboru	sabor	Ncmsl
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+1523	1523	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članaka	članak	Ncmpg
+10.	10.	Mdo
+i	i	Cc
+11.	11.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+izborima	izbor	Ncmpl
+zastupnika	zastupnik	Ncmpg
+u	u	Sa
+Hrvatski	hrvatski	Agpmsayn
+sabor	sabor	Ncmsan
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+116/99.	116/99.	Mdo
+,	,	Z
+109/00.	109/00.	Mds
+,	,	Z
+53/03.	53/03.	Mds
+,	,	Z
+167/03.	167/03.	Mds
+,	,	Z
+44/06.	44/06.	Mds
+,	,	Z
+19/07.	19/07.	Mds
+,	,	Z
+20/09.	20/09.	Mds
+,	,	Z
+145/10.	145/10.	Mds
+,	,	Z
+24/11.	24/11.	Mdo
+,	,	Z
+93/11.	93/11.	Mds
+i	i	Cc
+19/15.	19/15.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+15.	15.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+PRESTANKU	prestanak	Ncmsl
+ZASTUPNIČKOG	zastupnički	Agpmsgy
+MANDATA	mandat	Ncmsg
+ZASTUPNICE	zastupnica	Ncfsg
+I	i	Cc
+POČETKU	početak	Ncmsl
+OBNAŠANJA	obnašanje	Ncnsg
+ZASTUPNIČKE	zastupnički	Agpfsgy
+DUŽNOSTI	dužnost	Ncfsg
+ZAMJENIKA	zamjenik	Ncmsg
+ZASTUPNICE	zastupnica	Ncfsg
+U	u	Sl
+HRVATSKOM	hrvatski	Agpmsly
+SABORU	sabor	Ncmsl
+
+Dana	dan	Ncmsg
+15.	15.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+prestaje	prestajati	Vmr3s
+zastupnički	zastupnički	Agpmsny
+mandat	mandat	Ncmsn
+zastupnici	zastupnik	Ncmpn
+
+dr.	dr.	Y
+sc.	sc.	Y
+MARTINI	MARTINI	Npmsn
+DALIĆ	Dalić	Npmsn
+.	.	Z
+
+ŽELJKO	Željko	Npmsn
+PLAZONIĆ	PLAZONIĆ	Npmsn
+počinje	počinjati	Vmr3s
+obnašati	obnašati	Vmn
+zastupničku	zastupnički	Agpfsay
+dužnost	dužnost	Ncfsa
+zamjenika	zamjenik	Ncmsg
+zastupnice	zastupnica	Ncfsg
+dana	dan	Ncmsg
+15.	15.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+14/15	14/15	Mdc
+-	-	Z
+01/08	01/08	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

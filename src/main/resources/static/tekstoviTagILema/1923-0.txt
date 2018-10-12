@@ -1,0 +1,488 @@
+99	99	Mdc
+16.09.2015	16.09.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+dodjeli	dodjela	Ncfsl
+odlikovanja	odlikovanje	Ncnsg
+Reda	red	Ncmsg
+hrvatskog	hrvatski	Agpmsgy
+pletera	pleter	Ncmsg
+za	za	Sa
+osobit	osobit	Agpmsann
+doprinos	doprinos	Ncmsan
+razvitku	razvitak	Ncmsd
+i	i	Cc
+ugledu	ugled	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+
+PREDSJEDNICA	predsjednica	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1924	1924	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+98.	98.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+56/90.	56/90.	Mds
+,	,	Z
+135/97.	135/97.	Mds
+,	,	Z
+113/00.	113/00.	Mds
+,	,	Z
+28/01.	28/01.	Mdo
+,	,	Z
+76/10.	76/10.	Mdo
+i	i	Cc
+05/14.	05/14.	Mdo
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+sudu	sud	Ncmsd
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+i	i	Cc
+članaka	članak	Ncmpg
+2.	2.	Mdo
+,	,	Z
+3.	3.	Mdo
+i	i	Cc
+21.	21.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+odlikovanjima	odlikovanje	Ncnpl
+i	i	Cc
+priznanjima	priznanje	Ncmpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+20/95.	20/95.	Mdo
+,	,	Z
+57/06.	57/06.	Mds
+i	i	Cc
+141/06.	141/06.	Mdo
+)	)	Z
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+DODJELI	dodjela	Ncfsl
+ODLIKOVANJA	odlikovanje	Ncnsg
+
+Redom	red	Ncmsi
+hrvatskog	hrvatski	Agpmsgy
+pletera	pleter	Ncmsg
+,	,	Z
+za	za	Sa
+osobit	osobit	Agpmsann
+doprinos	doprinos	Ncmsan
+razvitku	razvitak	Ncmsd
+i	i	Cc
+ugledu	ugled	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+i	i	Cc
+dobrobiti	dobrobit	Ncfsg
+njezinih	njezin	Ps3mpg
+građana	građanin	Ncmpg
+,	,	Z
+odlikuju	odlikovati	Vmr3p
+se	sebe	Px--sa
+
+1.	1.	Mdo
+pukovnik	pukovnik	Ncmsn
+DRAGOMIR	DRAGOMIR	Npmsn
+(	(	Z
+Anđelko	Anđelko	Npmsn
+)	)	Z
+GOVIĆ	GOVIĆ	Npmsn
+
+2.	2.	Mdo
+pukovnik	pukovnik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Stjepan	Stjepan	Npmsn
+)	)	Z
+PLUKAVEC	PLUKAVEC	Npmsn
+
+3.	3.	Mdo
+bojnik	bojnik	Ncmsn
+RENATO	renati	Agpnsny
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+MIKELIĆ	Mikelić	Npmsn
+
+4.	4.	Mdo
+natporučnik	natporučnik	Ncmsn
+TOMICA	TOMICA	Npfsn
+(	(	Z
+Zdravko	Zdravko	Npmsn
+)	)	Z
+PERKOVIĆ	Perković	Npmsn
+
+5.	5.	Mdo
+poručnik	poručnik	Ncmsn
+NEVEN	neven	Ncmsn
+(	(	Z
+Šandor	Šandor	Npmsn
+)	)	Z
+BREZOVEČKI	brezovečki	Agpmsny
+
+6.	6.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Lovre	Lovre	Npmsn
+)	)	Z
+ŠIŠAK	šišak	Ncmsan
+
+7.	7.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+STIPE	STIPE	Npmsn
+(	(	Z
+Vid	vid	Ncmsn
+)	)	Z
+BIČANIĆ	BIČANIĆ	Npmsn
+
+8.	8.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+JAMBRUŠIĆ	JAMBRUŠIĆ	Npmsn
+
+9.	9.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTO	ANTO	Mro
+(	(	Z
+Mate	Mate	Npfsn
+)	)	Z
+KRAJINA	krajina	Ncfsn
+
+10.	10.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Nikola	Nikola	Npmsn
+)	)	Z
+ŠČEPANOVIĆ	Ščepanović	Npmsn
+
+11.	11.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+VITOMIR	VITOMIR	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+ŠKRTIĆ	ŠKRTIĆ	Npmsn
+
+12.	12.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Šime	Šime	Npmsn
+)	)	Z
+ČOGELJA	čogelj	Ncmsg
+
+13.	13.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Dušan	Dušan	Npmsn
+)	)	Z
+KELAVA	kelava	Ncfsn
+
+14.	14.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Tadija	Tadija	Npfsn
+)	)	Z
+MILANOVIĆ	Milanović	Npmsn
+
+15.	15.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Marko	Marko	Npmsn
+)	)	Z
+VRANJKOVIĆ	VRANJKOVIĆ	Npmsn
+
+16.	16.	Mdo
+nadnarednica	nadnarednica	Ncfsn
+LJILJANA	ljiljan	Ncmpg
+(	(	Z
+Petar	Petar	Npmsn
+)	)	Z
+ŽUPAN	župan	Ncmsn
+
+17.	17.	Mdo
+narednik	narednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Mato	Mato	Npmsn
+)	)	Z
+GOD	god	Qo
+
+18.	18.	Mdo
+narednik	narednik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Marko	Marko	Npmsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+19.	19.	Mdo
+narednik	narednik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Dragutin	Dragutin	Npmsn
+)	)	Z
+POPČEVIĆ	POPČEVIĆ	Npmsn
+
+20.	20.	Mdo
+narednik	narednik	Ncmsn
+PAVO	PAVO	Npmsn
+(	(	Z
+Andrija	Andrija	Npfsn
+)	)	Z
+TADIJAN	TADIJAN	Npmsn
+
+21.	21.	Mdo
+desetnik	desetnik	Ncmsn
+JADRANKO	JADRANKO	Npmsn
+(	(	Z
+Stjepan	Stjepan	Npmsn
+)	)	Z
+TURČINEC	TURČINEC	Npmsn
+
+22.	22.	Mdo
+skupnik	skupnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Zdravko	Zdravko	Npmsn
+)	)	Z
+JELENC	JELENC	Npmsn
+
+23.	23.	Mdo
+razvodnik	razvodnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Božo	Božo	Npmsn
+)	)	Z
+BALOV	balov	Aspmsnn
+
+24.	24.	Mdo
+razvodnik	razvodnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Josip	Josip	Npmsn
+)	)	Z
+ČURILOVIĆ	ČURILOVIĆ	Npmsn
+
+25.	25.	Mdo
+razvodnik	razvodnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Marko	Marko	Npmsn
+)	)	Z
+DEJAK	DEJAK	Npmsn
+
+26.	26.	Mdo
+razvodnik	razvodnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Milan	Milan	Npmsn
+)	)	Z
+DIANIĆ	DIANIĆ	Npmsn
+
+27.	27.	Mdo
+razvodnik	razvodnik	Ncmsn
+TOMICA	TOMICA	Npfsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+ĐELATOVIĆ	ĐELATOVIĆ	Npmsn
+
+28.	28.	Mdo
+razvodnik	razvodnik	Ncmsn
+ALEKSIJE	ALEKSIJE	Npfsg
+(	(	Z
+Ivo	Ivo	Npmsn
+)	)	Z
+JAGATIĆ	JAGATIĆ	Npmsn
+
+29.	29.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franjo	Franjo	Npmsn
+)	)	Z
+JOVANOVAC	JOVANOVAC	Npmsn
+
+30.	30.	Mdo
+razvodnik	razvodnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Stipe	Stipe	Npmsn
+)	)	Z
+KARAMAN	KARAMAN	Npmsn
+
+31.	31.	Mdo
+razvodnik	razvodnik	Ncmsn
+SAMIR	SAMIR	Npmsn
+(	(	Z
+Luka	Luka	Npmsn
+)	)	Z
+MARKOVIĆ	Marković	Npmsn
+
+32.	32.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ante	Ante	Npmsn
+)	)	Z
+MARUNA	marun	Ncmsg
+
+33.	33.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Jerko	Jerko	Npmsn
+)	)	Z
+MILIČEVIĆ	Miličević	Npmsn
+
+34.	34.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIJO	MARIJO	Npmsn
+(	(	Z
+Marin	Marin	Npmsn
+)	)	Z
+NOVOSELIĆ	NOVOSELIĆ	Npmsn
+
+35.	35.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Branko	Branko	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+36.	36.	Mdo
+razvodnik	razvodnik	Ncmsn
+TOMICA	TOMICA	Npfsn
+(	(	Z
+Milan	Milan	Npmsn
+)	)	Z
+MESIĆ	Mesić	Npmsn
+
+37.	37.	Mdo
+razvodnik	razvodnik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+MLINAC	mlinac	Ncmsn
+
+38.	38.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+MUDROVČIĆ	MUDROVČIĆ	Npmsn
+
+39.	39.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Nikola	Nikola	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+40.	40.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Pavo	Pavo	Npnsn
+)	)	Z
+RADOVANOVIĆ	Radovanović	Npmsn
+
+41.	41.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+STRINAVIĆ	STRINAVIĆ	Npmsn
+
+42.	42.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Jozo	Jozo	Npmsn
+)	)	Z
+ŠALINOVIĆ	ŠALINOVIĆ	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+060	060	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+16/06	16/06	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+03/3	03/3	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+31.	31.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

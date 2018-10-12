@@ -1,0 +1,863 @@
+Zakon	zakon	Ncmsn
+o	o	Sl
+mirenju	mirenje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+18/11.	18/11.	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+20.	20.	Mdo
+
+Predmet	predmet	Ncmsn
+osnove	osnova	Ncfsg
+građanskog	građanski	Agpnsgy
+prava	pravo	Ncnsg
+,	,	Z
+prava	pravo	Ncnpa
+društava	društvo	Ncnpg
+i	i	Cc
+trgovačkog	trgovački	Agpnsgy
+prava	pravo	Ncnsg
+obuhvaća	obuhvaćati	Vmr3s
+sljedeće	sljedeći	Agpmpay
+pravne	pravni	Agpmpay
+izvore	izvor	Ncmpa
+:	:	Z
+
+1.	1.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+vlasništvu	vlasništvo	Ncnsl
+i	i	Cc
+drugim	drugi	Mlofpl
+stvarnim	stvaran	Agpnply
+pravima	pravo	Ncnpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+91/96.	91/96.	Mds
+,	,	Z
+68/98.	68/98.	Mds
+,	,	Z
+137/99.	137/99.	Mds
+,	,	Z
+22/00.	22/00.	Mds
+,	,	Z
+73/00.	73/00.	Mds
+,	,	Z
+114/01.	114/01.	Mds
+,	,	Z
+79/06.	79/06.	Mds
+,	,	Z
+141/06.	141/06.	Mds
+,	,	Z
+146/08.	146/08.	Mds
+,	,	Z
+38/09.	38/09.	Mds
+,	,	Z
+153/09.	153/09.	Mds
+,	,	Z
+143/12.	143/12.	Mdo
+,	,	Z
+152/14.	152/14.	Mdo
+i	i	Cc
+81/15.	81/15.	Mdo
+–	–	Z
+pročišćeni	pročišćen	Agpmsayn
+tekst	tekst	Ncmsan
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+o	o	Sl
+stvarima	stvar	Ncfpl
+i	i	Cc
+stvarnim	stvaran	Agpnply
+pravima	pravo	Ncnpl
+
+–	–	Agpmsny
+posjed	posjed	Ncmsn
+
+–	i	Agpnsly
+o	o	Sl
+vlasništvu	vlasništvo	Ncnsl
+uopće	uopće	Rgp
+
+–	i	Agpnsny
+suvlasništvo	suvlasništvo	Ncnsn
+
+–	–	Z
+zajedničko	zajednički	Agpnsny
+vlasništvo	vlasništvo	Ncnsn
+
+–	i	Agpnsny
+vlasništvo	vlasništvo	Ncnsn
+posebnih	poseban	Agpmpgy
+dijelova	dio	Ncmpg
+nekretnine	nekretnina	Ncfsg
+
+–	i	Agpnsny
+stjecanje	stjecanje	Ncnsn
+vlasništva	vlasništvo	Ncnsg
+
+–	–	Z
+zaštita	zaštita	Ncfsn
+vlasništva	vlasništvo	Ncnsg
+
+–	–	Sa
+založno	založni	Agpnsay
+pravo	pravo	Ncnsa
+
+2.	2.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+zemljišnim	zemljišni	Agpfply
+knjigama	knjiga	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+91/96.	91/96.	Mds
+,	,	Z
+68/98.	68/98.	Mds
+,	,	Z
+137/99.	137/99.	Mds
+,	,	Z
+114/01.	114/01.	Mds
+,	,	Z
+100/04.	100/04.	Mds
+,	,	Z
+107/07.	107/07.	Mds
+,	,	Z
+152/08.	152/08.	Mds
+,	,	Z
+126/10	126/10	Mdc
+,	,	Z
+55/13.	55/13.	Mds
+i	i	Cc
+60/13.	60/13.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+–	–	Agpmsny
+sastav	sastav	Ncmsn
+zemljišne	zemljišni	Agpfsgy
+knjige	knjiga	Ncfsg
+
+–	–	Z
+o	o	Sl
+knjižnim	knjižni	Agpmply
+upisima	upis	Ncmpl
+
+–	–	Z
+brisovna	brisovan	Agpfsny
+tužba	tužba	Ncfsn
+
+–		Agpfpgy
+amortizacija	amortizacija	Ncfpg
+i	i	Cc
+brisanje	brisanje	Ncnsa
+starih	star	Agpfpgy
+hipotekarnih	hipotekarni	Agpfpgy
+tražbina	tražbina	Ncfpg
+
+3.	3.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+obveznim	obvezan	Agpmply
+odnosima	odnos	Ncmpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+35/05.	35/05.	Mds
+,	,	Z
+41/08.	41/08.	Mds
+,	,	Z
+125/11.	125/11.	Mds
+i	i	Cc
+78/15.	78/15.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	i	Agpnsay
+sklapanje	sklapanje	Ncnsa
+ugovora	ugovor	Ncmsg
+
+–	i	Agpnsny
+zastupanje	zastupanje	Ncnsn
+
+–	–	Sa
+nevaljanost	nevaljanost	Ncfsa
+ugovora	ugovor	Ncmsg
+
+–		Agcmsayn
+raskid	raskid	Ncmsan
+ugovora	ugovor	Ncmsg
+zbog	zbog	Sg
+neispunjenja	neispunjenje	Ncnsg
+,	,	Z
+raskid	raskid	Ncmsan
+ili	ili	Cc
+izmjena	izmjena	Ncfsn
+ugovora	ugovor	Ncmsg
+zbog	zbog	Sg
+promijenjenih	promijeniti	Agpfpgy
+okolnosti	okolnost	Ncfpg
+,	,	Z
+nemogućnost	nemogućnost	Ncfsn
+ispunjenja	ispunjenje	Ncnsg
+,	,	Z
+prekomjerno	prekomjeran	Agpnsny
+oštećenje	oštećenje	Ncnsn
+,	,	Z
+zelenaški	zelenaški	Agpmsny
+ugovor	ugovor	Ncmsn
+
+–	i	Agpnsay
+pravo	pravo	Ncnsa
+na	na	Sa
+naknadu	naknada	Ncfsa
+štete	šteta	Ncfsg
+
+–		Agpfpgy
+kamata	kamata	Ncfpg
+
+–	–	Agpmsny
+prestanak	prestanak	Ncmsn
+obveza	obveza	Ncfpg
+
+–	i	Agpnsny
+zakašnjenje	zakašnjenje	Ncnsn
+
+–	–	Agpmsny
+prijeboj	prijeboj	Ncmsn
+(	(	Z
+kompenzacija	kompenzacija	Ncfsn
+)	)	Z
+
+–		Agpfpgy
+zastara	zastara	Ncfpg
+
+–	i	Agpfpay
+novčane	novčan	Agpfpay
+obveze	obveza	Ncfpa
+
+–	i	Agpfpny
+solidarne	solidaran	Agpfpny
+obveze	obveza	Ncfpn
+
+–	i	Agpnsny
+pobijanje	pobijanje	Ncnsn
+dužnikovih	dužnikov	Agpfpgy
+pravnih	pravni	Agpfpgy
+radnji	radnja	Ncfpg
+
+–	–	Sg
+promjena	promjena	Ncfpg
+vjerovnika	vjerovnik	Ncmpg
+ili	ili	Cc
+dužnika	dužnik	Ncmpg
+
+–	i	Agpnsny
+jamstvo	jamstvo	Ncnsn
+
+–	–	Sg
+ustup	ustui	Agpfsgy
+tražbine	tražbina	Ncfsg
+(	(	Z
+cesija	cesija	Ncfsn
+)	)	Z
+
+–	–	Z
+ugovor	ugovor	Ncmsan
+o	o	Sl
+kupoprodaji	kupoprodaja	Ncfsl
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+–	–	Z
+sastojci	sastojak	Ncmpn
+ugovora	ugovor	Ncmsg
+o	o	Sl
+kupoprodaji	kupoprodaja	Ncfsl
+
+–	–	Z
+ugovor	ugovor	Ncmsan
+o	o	Sl
+darovanju	darovanje	Ncnsl
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+–	–	Sa
+opoziv	opoziv	Ncmsan
+zbog	zbog	Sg
+osiromašenja	osiromašenje	Ncnsg
+darovatelja	darovatelj	Ncmpg
+
+–	–	Agpmsayn
+ugovor	ugovor	Ncmsan
+o	o	Sl
+zajmu	zajam	Ncmsl
+
+–	–	Z
+ugovor	ugovor	Ncmsan
+o	o	Sl
+doživotnom	doživotan	Agpnsly
+uzdržavanju	uzdržavanje	Ncnsl
+
+–	–	Z
+ugovor	ugovor	Ncmsan
+o	o	Sl
+dosmrtnom	dosmrtan	Agpnsly
+uzdržavanju	uzdržavanje	Ncnsl
+
+4.	4.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+trgovačkim	trgovački	Agpnply
+društvima	društvo	Ncnpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+111/93.	111/93.	Mds
+,	,	Z
+34/99.	34/99.	Mds
+,	,	Z
+121/99.	121/99.	Mds
+–	–	Z
+vjerodostojno	vjerodostojan	Agpnsny
+tumačenje	tumačenje	Ncnsn
+,	,	Z
+52/00.	52/00.	Mds
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+118/03.	118/03.	Mds
+,	,	Z
+107/07.	107/07.	Mds
+,	,	Z
+146/08.	146/08.	Mds
+,	,	Z
+137/09.	137/09.	Mds
+,	,	Z
+152/11.	152/11.	Mdo
+–	–	Z
+pročišćeni	pročišćen	Agpmsayn
+tekst	tekst	Ncmsan
+,	,	Z
+111/12.	111/12.	Mds
+,	,	Z
+68/13.	68/13.	Mds
+i	i	Cc
+110/15.	110/15.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+5.	5.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+mjenici	mjenica	Ncfsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+74/94.	74/94.	Mds
+i	i	Cc
+92/10.	92/10.	Mds
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+
+–	i	Agpnsay
+izdavanje	izdavanje	Ncnsa
+i	i	Cc
+oblik	oblik	Ncmsn
+trasirane	trasirati	Ncfsg
+mjenice	mjenica	Ncfsg
+
+–	–	Z
+vlastita	vlastit	Agpfsny
+mjenica	mjenica	Ncfsn
+
+6.	6.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+obrtu	obrt	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+143/13.	143/13.	Mds
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+–	i	Agpfsny
+tvrtka	tvrtka	Ncfsn
+i	i	Cc
+sjedište	sjedište	Ncnsn
+
+–	i	Agpnsay
+poslovanje	poslovanje	Ncnsa
+obrta	obrt	Ncmsg
+
+–	–	Z
+prestanak	prestanak	Ncmsn
+obrta	obrt	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+21.	21.	Mdo
+
+Predmet	predmet	Ncmsn
+osnove	osnova	Ncfsg
+računovodstva	računovodstvo	Ncnsg
+i	i	Cc
+financija	financije	Ncfpg
+obuhvaća	obuhvaćati	Vmr3s
+sljedeće	sljedeći	Agpmpay
+pravne	pravni	Agpmpay
+izvore	izvor	Ncmpa
+:	:	Z
+
+1.	1.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+računovodstvu	računovodstvo	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+78/15.	78/15.	Mds
+i	i	Cc
+134/15.	134/15.	Mds
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Ncmsn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+
+–	–	Pd-mpn
+računovodstveni	računovodstveni	Agpmpny
+poslovi	posao	Ncmpn
+i	i	Cc
+knjigovodstvene	knjigovodstven	Agpfsgy
+isprave	isprava	Ncfsg
+
+–	i	Agpfpny
+poslovne	poslovan	Agpfpny
+knjige	knjiga	Ncfpn
+
+–	–	Z
+popis	popis	Ncmsn
+imovine	imovina	Ncfsg
+i	i	Cc
+obveza	obveza	Ncfpg
+
+–	–	Agpmpny
+financijski	financijski	Agpmpny
+izvještaji	izvještaj	Ncmpn
+
+2.	2.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+platnom	platni	Agpmsly
+prometu	promet	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+133/09.	133/09.	Mds
+i	i	Cc
+136/12.	136/12.	Mds
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Pd-fpn
+opće	opći	Agpfsgy
+odredbe	odredba	Ncfsg
+i	i	Cc
+prava	prav	Agpfsny
+i	i	Cc
+obveze	obveza	Ncfpa
+u	u	Sl
+vezi	veza	Ncfsl
+s	sa	Si
+pružanjem	pružanje	Ncnsi
+i	i	Cc
+korištenjem	korištenje	Ncnsi
+platnih	platni	Agpfpgy
+usluga	usluga	Ncfpg
+
+–	i	Agpfpny
+institucije	institucija	Ncfpn
+za	za	Sa
+platni	platni	Agpmsayn
+promet	promet	Ncmsan
+
+3.	3.	Mdo
+Zakon	zakon	Ncmsan
+o	o	Sl
+provedbi	provedba	Ncfsl
+ovrhe	ovrha	Ncfsg
+na	na	Sl
+novčanim	novčan	Agpnply
+sredstvima	sredstvo	Ncnpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+91/10.	91/10.	Mds
+i	i	Cc
+112/12.	112/12.	Mds
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Z
+provedba	provedba	Ncfsn
+ovrhe	ovrha	Ncfsg
+na	na	Sl
+novčanim	novčan	Agpnply
+sredstvima	sredstvo	Ncnpl
+
+–	i	Agpnsny
+postupanje	postupanje	Ncnsn
+poslovnog	poslovan	Agpmsgy
+subjekta	subjekt	Ncmsg
+u	u	Sl
+uvjetima	uvjet	Ncmpl
+blokade	blokada	Ncfsg
+računa	račun	Ncmsg
+
+–	–	Agpmsny
+jedinstveni	jedinstven	Agpmsny
+registar	registar	Ncmsn
+računa	račun	Ncmsg
+
+4.	4.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+porezu	porez	Ncmsl
+na	na	Sa
+dohodak	dohodak	Ncmsan
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+177/04.	177/04.	Mds
+,	,	Z
+73/08.	73/08.	Mds
+,	,	Z
+80/10.	80/10.	Mds
+,	,	Z
+114/11.	114/11.	Mds
+,	,	Z
+22/12.	22/12.	Mds
+,	,	Z
+144/12.	144/12.	Mds
+,	,	Z
+43/13.	43/13.	Mds
+,	,	Z
+120/13.	120/13.	Mds
+,	,	Z
+125/13.	125/13.	Mds
+,	,	Z
+148/13.	148/13.	Mds
+,	,	Z
+83/14.	83/14.	Mdo
+,	,	Z
+143/14.	143/14.	Mds
+i	i	Cc
+136/15.	136/15.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	i	Agpfpny
+temeljne	temeljan	Agpfpny
+odredbe	odredba	Ncfpn
+
+–	–	Pd-fsg
+vrste	vrsta	Ncfsg
+dohodaka	dohodak	Ncmpg
+
+–	–	Agpmsny
+porezni	porezni	Agpmsny
+gubitak	gubitak	Ncmsn
+i	i	Cc
+osobni	osoban	Agpmsayn
+odbitak	odbitak	Ncmsan
+
+5.	5.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+porezu	porez	Ncmsl
+na	na	Sa
+dobit	dobit	Ncfsa
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+177/04.	177/04.	Mds
+,	,	Z
+90/05.	90/05.	Mds
+,	,	Z
+57/06.	57/06.	Mds
+,	,	Z
+146/08.	146/08.	Mds
+,	,	Z
+80/10.	80/10.	Mds
+,	,	Z
+22/12.	22/12.	Mdo
+,	,	Z
+148/13.	148/13.	Mds
+i	i	Cc
+143/14.	143/14.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	–	Z
+temeljne	temeljan	Agpfpny
+odredbe	odredba	Ncfpn
+,	,	Z
+porezni	porezni	Agpmsny
+obveznik	obveznik	Ncmsn
+,	,	Z
+porezna	porezni	Agpfsny
+osnovica	osnovica	Ncfsn
+
+–	–	Z
+porezna	porezni	Agpfsny
+stopa	stopa	Ncfsn
+
+6.	6.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+porezu	porez	Ncmsl
+na	na	Sa
+dodanu	dodati	Ncmsl
+vrijednost	vrijednost	Ncfsa
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+73/13.	73/13.	Mds
+,	,	Z
+99/13.	99/13.	Mds
+,	,	Z
+148/13.	148/13.	Mdo
+,	,	Z
+153/13.	153/13.	Mds
+i	i	Cc
+143/14.	143/14.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	i	Agpfpny
+temeljne	temeljan	Agpfpny
+odredbe	odredba	Ncfpn
+
+–	–	Agpmsny
+predmet	predmet	Ncmsn
+oporezivanja	oporezivanje	Ncnsg
+
+–	–	Agpmsny
+porezni	porezni	Agpmsny
+obveznik	obveznik	Ncmsn
+
+–	–	Sg
+oporezive	oporeziv	Agpfsgy
+transakcije	transakcija	Ncfsg
+
+–	i	Agpnsny
+mjesto	mjesto	Ncnsn
+oporezivanja	oporezivanje	Ncnsg
+
+–	–	Agpmsny
+nastanak	nastanak	Ncmsn
+oporezivog	oporeziv	Agpmsgy
+događaja	događaj	Ncmsg
+
+–	i	Agpfsny
+porezna	porezni	Agpfsny
+osnovica	osnovica	Ncfsn
+
+–	i	Agpfpny
+stope	stopa	Ncfpn
+PDV-a	PDV	Npmsg
+
+–	i	Agpnpay
+porezna	porezni	Agpnpay
+oslobođenja	oslobođenje	Ncnpa
+
+–		Agcmsayn
+odbitak	odbitak	Ncmsan
+pretporeza	pretporez	Ncmsg
+
+–	i	Agpfpny
+obveze	obveza	Ncfpn
+poreznih	porezni	Agpmpgy
+obveznika	obveznik	Ncmpg
+i	i	Cc
+osoba	osoba	Ncfpg
+koje	koji	Pi-fpn
+nisu	biti	Var3p
+porezni	porezni	Agpmpny
+obveznici	obveznik	Ncmpn
+
+–	i	Agpnsny
+razdoblje	razdoblje	Ncnsn
+oporezivanja	oporezivanje	Ncnsg
+,	,	Z
+obračunavanje	obračunavanje	Ncnsa
+PDV-a	PDV	Npmsg
+,	,	Z
+postupak	postupak	Ncmsn
+oporezivanja	oporezivanje	Ncnsg
+i	i	Cc
+plaćanje	plaćanje	Ncnsa
+podnošenje	podnošenje	Ncnsa
+prijave	prijava	Ncfsg
+PDV-a	PDV	Npmsg
+
+7.	7.	Mdo
+Zakon	zakon	Ncmsn
+o	o	Sl
+porezu	porez	Ncmsl
+na	na	Sa
+promet	promet	Ncmsan
+nekretnina	nekretnina	Ncfpg
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+69/97.	69/97.	Mds
+,	,	Z
+26/00.	26/00.	Mds
+,	,	Z
+153/02.	153/02.	Mdo
+,	,	Z
+22/11.	22/11.	Mds
+i	i	Cc
+143/14.	143/14.	Mdo
+)	)	Z
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+–	i	Agpfpny
+temeljne	temeljan	Agpfpny
+odredbe	odredba	Ncfpn
+
+–	–	Agpmsny
+predmet	predmet	Ncmsn
+oporezivanja	oporezivanje	Ncnsg
+
+–	–	Z
+porezni	porezni	Agpmpny
+

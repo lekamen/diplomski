@@ -1,0 +1,40 @@
+novinama	novina	Ncfpi
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/167	01/167	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+513	513	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+6.	6.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+financija	financije	Ncfpg
+mr.	mr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Lalovac	Lalovac	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

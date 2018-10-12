@@ -1,0 +1,751 @@
+odmora	odmor	Ncmsg
+,	,	Z
+rekreacije	rekreacija	Ncfsg
+i	i	Cc
+sporta	sport	Ncmsg
+u	u	Sl
+Parku	park	Ncmsl
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+(	(	Z
+prof.	prof.	Y
+Krešimir	Krešimir	Npmsn
+Ivaniš	Ivaniš	Npmsn
+,	,	Z
+Arhitektonski	arhitektonski	Agpmsny
+fakultet	fakultet	Ncmsn
+–	–	Z
+Zavod	zavod	Ncmsn
+za	za	Sa
+arhitekturu	arhitektura	Ncfsa
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2003.	2003.	Mdo
+)	)	Z
+,	,	Z
+
+–	–	Z
+Meteorološka	meteorološki	Agpfsny
+podloga	podloga	Ncfsn
+za	za	Sa
+Prostorni	prostoran	Agpmsayn
+plan	plan	Ncmsan
+posebnih	poseban	Agpnpgy
+obilježja	obilježje	Ncnpg
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+,	,	Z
+(	(	Z
+Državni	državni	Agpmsny
+hidrometeorološki	hidrometeorološki	Agpmsny
+zavod	zavod	Ncmsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2003.	2003.	Mdo
+)	)	Z
+,	,	Z
+
+–	–	Z
+Konzervatorska	konzervatorski	Agpfsny
+podloga	podloga	Ncfsn
+za	za	Sa
+Prostorni	prostoran	Agpmsayn
+plan	plan	Ncmsan
+područja	područje	Ncnsg
+posebnih	poseban	Agpnpgy
+obilježja	obilježje	Ncnpg
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+(	(	Z
+Gradski	gradski	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+spomenika	spomenik	Ncmpg
+kulture	kultura	Ncfsg
+i	i	Cc
+prirode	priroda	Ncfsg
+Grada	grad	Ncmsg
+Zagreba	Zagreb	Npmsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2008.	2008.	Mdo
+)	)	Z
+,	,	Z
+
+–	i	Agpnsgy
+Vrednovanja	vrednovanje	Ncnsg
+turističkih	turistički	Agpmpgy
+resursa	resurs	Ncmpg
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+–	–	Z
+turistička	turistički	Agpfsny
+sektorska	sektorski	Agpfsny
+studija	studija	Ncfsn
+(	(	Z
+dr.	dr.	Y
+sc.	sc.	Y
+Eduard	Eduard	Npmsn
+Kušen	Kušen	Npmsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+srpanj	srpanj	Ncmsn
+2003.	2003.	Mdo
+)	)	Z
+,	,	Z
+
+–	–	Sg
+Studija	studij	Ncmsg
+o	o	Sl
+utjecaju	utjecaj	Ncmsl
+na	na	Sa
+okoliš	okoliš	Ncmsan
+rekonstrukcije	rekonstrukcija	Ncfsg
+Žičare	žičara	Ncfsg
+Sljeme	sljeme	Ncnsn
+s	sa	Si
+izgradnjom	izgradnja	Ncfsi
+nove	nov	Agpfsgy
+donje	donji	Agpfsgy
+stanice	stanica	Ncfsg
+(	(	Z
+Gračani	Gračani	Npmsn
+Dolje	dolje	Rgp
+)	)	Z
+,	,	Z
+(	(	Z
+ECOINA	ECOINA	Npfsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+siječanj	siječanj	Ncmsn
+2009.	2009.	Mdo
+)	)	Z
+,	,	Z
+
+–	–	Agpmsny
+Plan	plan	Ncmsn
+upravljanja	upravljanje	Ncnsg
+Parkom	park	Ncmsi
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+,	,	Z
+Javna	javan	Agpfsny
+ustanova	ustanova	Ncfsn
+Medvednica	Medvednica	Npfsn
+,	,	Z
+
+–	–	Z
+Park	park	Ncmsn
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+,	,	Z
+stručna	stručan	Agpfsny
+podloga	podloga	Ncfsn
+zaštite	zaštita	Ncfsg
+prirode	priroda	Ncfsg
+za	za	Sa
+prostorni	prostoran	Agpmsayn
+plan	plan	Ncmsan
+posebnih	poseban	Agpnpgy
+obilježja	obilježje	Ncnpg
+(	(	Z
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prirode	priroda	Ncfsg
+,	,	Z
+srpanj	srpanj	Ncmsn
+2012.	2012.	Mdo
+)	)	Z
+.	.	Z
+
+Javnopravna	javnopravni	Agpnpny
+tijela	tijelo	Ncnpn
+,	,	Z
+sukladno	sukladno	Rgp
+članku	članak	Ncmsl
+90.	90.	Mdo
+
+Zakona	zakon	Ncmsg
+,	,	Z
+dostavit	dostaviti	Vmn
+će	htjeti	Var3s
+zahtjeve	zahtjev	Ncmpa
+za	za	Sa
+izradu	izrada	Ncfsa
+Plana	plan	Ncmsg
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+20	20	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+zaprimanja	zaprimanje	Ncnsg
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+.	.	Z
+
+Uz	uz	Sa
+dostavu	dostava	Ncfsa
+zahtjeva	zahtjev	Ncmpg
+iz	iz	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+ove	ovaj	Pd-fsg
+točke	točka	Ncfsg
+,	,	Z
+javnopravna	javnopravni	Agpnpny
+tijela	tijelo	Ncnpn
+mogu	moći	Vmr3p
+dostaviti	dostaviti	Vmn
+i	i	Qo
+druge	drugi	Mlompa
+dokumente	dokument	Ncmpa
+,	,	Z
+studije	studija	Ncfpa
+ili	ili	Cc
+radove	rad	Ncmpa
+osim	osim	Sg
+navedenih	naveden	Agpmpgy
+u	u	Sl
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+ove	ovaj	Pd-fsg
+točke	točka	Ncfsg
+.	.	Z
+
+Način	način	Ncmsn
+pribavljanja	pribavljanje	Ncnsg
+stručnih	stručan	Agpnpgy
+rješenja	rješenje	Ncnpg
+Plana	plan	Ncmsg
+
+VIII	viii	Mrc
+.	.	Z
+
+Stručna	stručan	Agpnpny
+rješenja	rješenje	Ncnpn
+izrađuje	izrađivati	Vmr3s
+stručni	stručan	Agpmsny
+izrađivač	izrađivač	Ncmsn
+na	na	Sl
+temelju	temelj	Ncmsl
+zahtjeva	zahtjev	Ncmpg
+,	,	Z
+sektorskih	sektorski	Agpfpgy
+strategija	strategija	Ncfpg
+,	,	Z
+planova	plan	Ncmpg
+,	,	Z
+studija	studij	Ncmsg
+i	i	Cc
+drugih	drugi	Agpmpgy
+dokumenata	dokument	Ncmpg
+.	.	Z
+
+Popis	popis	Ncmsn
+javnopravnih	javnopravni	Agpnpgy
+tijela	tijelo	Ncnpg
+određenih	određen	Agpnpgy
+posebnim	poseban	Ncnpg
+propisima	propis	Ncmpi
+koja	koji	Pi-mpn
+daju	dati	Vmr3p
+zahtjeve	zahtjev	Ncmpa
+za	za	Sa
+izradu	izrada	Ncfsa
+Plana	plan	Ncmsg
+te	te	Cc
+drugih	drugi	Mlompg
+sudionika	sudionik	Ncmpg
+korisnika	korisnik	Ncmpg
+prostora	prostor	Ncmsg
+koji	koji	Pi-mpn
+trebaju	trebati	Vmr3p
+sudjelovati	sudjelovati	Vmn
+u	u	Sl
+izradi	izrada	Ncfsl
+Plana	plan	Ncmsg
+
+IX	IX	Mrc
+.	.	Z
+
+Javnopravna	javnopravni	Agpnpny
+tijela	tijelo	Ncnpn
+određena	određen	Agpfsny
+posebnim	poseban	Agpmply
+propisima	propis	Ncmpl
+koja	koji	Pi-mpn
+daju	dati	Vmr3p
+zahtjeve	zahtjev	Ncmpa
+za	za	Sa
+izradu	izrada	Ncfsa
+Plana	plan	Ncmsg
+i	i	Cc
+drugi	drugi	Mlompn
+sudionici	sudionik	Ncmpn
+prostora	prostor	Ncmpg
+koji	koji	Pi-mpn
+sudjeluju	sudjelovati	Vmr3p
+u	u	Sl
+izradi	izrada	Ncfsl
+Plana	Plan	Npmsg
+navedena	navesti	Appfsny
+su	biti	Var3p
+u	u	Sl
+sljedećem	sljedeći	Agpmsly
+popisu	popis	Ncmsl
+.	.	Z
+
+U	u	Sl
+slučaju	slučaj	Ncmsl
+da	da	Cs
+se	sebe	Px--sa
+preklapaju	preklapati	Vmr3p
+nadležnosti	nadležnost	Ncfpn
+više	mnogo	Rgc
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+nadležnog	nadležan	Agpnsgy
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+,	,	Z
+zahtjevi	zahtjev	Ncmpn
+za	za	Sa
+izradu	izrada	Ncfsa
+Plana	plan	Ncmsg
+dostavit	dostaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+objedinjeno	objediniti	Appnsny
+.	.	Z
+
+Popis	popis	Ncmsn
+javnopravnih	javnopravni	Agpnpgy
+tijela	tijelo	Ncnpg
+:	:	Z
+
+1.	1.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+zaštite	zaštita	Ncfsg
+okoliša	okoliš	Ncmsg
+i	i	Cc
+prirode	priroda	Ncfsg
+–	–	Z
+Uprava	uprava	Ncfsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prirode	priroda	Ncfsg
+,	,	Z
+Uprava	uprava	Ncfsn
+za	za	Sa
+procjenu	procjena	Ncfsa
+utjecaja	utjecaj	Ncmsg
+na	na	Sa
+okoliš	okoliš	Ncmsan
+i	i	Cc
+održivo	održiv	Agpnsay
+gospodarenje	gospodarenje	Ncnsa
+otpadom	otpad	Ncmsi
+,	,	Z
+
+2.	2.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+kulture	kultura	Ncfsg
+,	,	Z
+
+3.	3.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+,	,	Z
+
+4.	4.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+poljoprivrede	poljoprivreda	Ncfsg
+,	,	Z
+
+5.	5.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+obrane	obrana	Ncfsg
+,	,	Z
+
+6.	6.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+turizma	turizam	Ncmsg
+,	,	Z
+
+7.	7.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+,	,	Z
+
+8.	8.	Mdo
+Ministarstvo	ministarstvo	Ncnsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+–	–	Z
+Policijska	policijski	Agpfsny
+uprava	uprava	Ncfsn
+krapinsko-zagorska	krapinsko-zagorski	Agpfsny
+,	,	Z
+
+9.	9.	Mdo
+Državna	državni	Agpfsny
+uprava	uprava	Ncfsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+i	i	Cc
+spašavanje	spašavanje	Ncnsa
+,	,	Z
+
+10.	10.	Mdo
+
+Državni	državni	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+državnom	državni	Agpfsiy
+imovinom	imovina	Ncfsi
+,	,	Z
+
+11.	11.	Mdo
+
+Državni	državni	Agpmsny
+hidrometeorološki	hidrometeorološki	Agpmsny
+zavod	zavod	Ncmsn
+,	,	Z
+
+12.	12.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+gospodarska	gospodarski	Agpfsny
+komora	komora	Ncfsn
+,	,	Z
+
+13.	13.	Mdo
+
+Javna	javan	Agpfsny
+ustanova	ustanova	Ncfsn
+Park	park	Ncmsn
+prirode	priroda	Ncfsg
+Medvednica	Medvednica	Npfsn
+,	,	Z
+
+14.	14.	Mdo
+
+Hrvatske	hrvatski	Agpfpny
+šume	šuma	Ncfpn
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+
+15.	15.	Mdo
+
+Hrvatske	hrvatski	Agpfsgy
+vode	voda	Ncfsg
+,	,	Z
+
+16.	16.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+elektroprivreda	elektroprivreda	Ncfsn
+–	–	Z
+ODS	ODS	Npmsn
+Elektra	elektro	Ncmsg
+Zagreb	Zagreb	Npmsn
+,	,	Z
+ODS	ODS	Npfsn
+Elektra	Elektra	Npfsn
+Zabok	Zabok	Npfsn
+,	,	Z
+
+17.	17.	Mdo
+
+Hrvatski	hrvatski	Agpmsny
+Telekom	telekom	Ncmsn
+d.	d.	Y
+d.	d.	Y
+–	–	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+TKC	TKC	Npmsn
+Krapina	Krapina	Npfsn
+,	,	Z
+Zabok	Zabok	Npmsn
+,	,	Z
+
+18.	18.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+pošta	pošta	Ncfsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+Poštanski	poštanski	Agpmsny
+ured	ured	Ncmsn
+Krapina	Krapina	Npfsn
+,	,	Z
+
+19.	19.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+radiotelevizija	radiotelevizija	Ncfsn
+–	–	Z
+Odjel	odjel	Ncmsn
+izgradnje	izgradnja	Ncfsg
+,	,	Z
+
+20.	20.	Mdo
+
+Krapinsko-zagorska	krapinsko-zagorski	Agpfsny
+županija	županija	Ncfsn
+,	,	Z
+
+21.	21.	Mdo
+
+Općina	općina	Ncfsn
+Stubičke	stubički	Agpfsgy
+Toplice	Toplica	Npfsg
+,	,	Z
+
+22.	22.	Mdo
+
+Općina	općina	Ncfsn
+Bistra	bistar	Agpfsny
+,	,	Z
+
+23.	23.	Mdo
+
+Gradska	gradski	Agpfsny
+četvrt	četvrt	Ncfsn
+Podsljeme	Podsljema	Npfsg
+,	,	Z
+
+24.	24.	Mdo
+
+Gradski	gradski	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+obrazovanje	obrazovanje	Ncnsa
+,	,	Z
+kulturu	kultura	Ncfsa
+i	i	Cc
+sport	sport	Ncmsan
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+25.	25.	Mdo
+
+Gradski	gradski	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+strategijsko	strategijski	Agpnsay
+planiranje	planiranje	Ncnsa
+i	i	Cc
+razvoj	razvoj	Ncmsan
+Grada	grad	Ncmsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+26.	26.	Mdo
+
+Gradski	gradski	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+,	,	Z
+izgradnju	izgradnja	Ncfsa
+Grada	grad	Ncmsg
+,	,	Z
+graditeljstvo	graditeljstvo	Ncnsa
+,	,	Z
+komunalne	komunalan	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+promet	promet	Ncmsan
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+27.	27.	Mdo
+
+Gradski	gradski	Agpmsny
+ured	ured	Ncmsn
+za	za	Sa
+poljoprivredu	poljoprivreda	Ncfsa
+i	i	Cc
+šumarstvo	šumarstvo	Ncnsa
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+28.	28.	Mdo
+
+Vodoopskrba	vodoopskrba	Ncfsn
+i	i	Cc
+odvodnja	odvodnja	Ncfsn
+–	–	Z
+Sektor	sektor	Ncmsn
+vodoopskrbe	vodoopskrba	Ncfsg
+,	,	Z
+Sektor	sektor	Ncmsn
+odvodnje	odvodnja	Ncfsg
+,	,	Z
+
+29.	29.	Mdo
+
+Zagorski	zagorski	Agpmsny
+vodovod	vodovod	Ncmsn
+,	,	Z
+Zabok	Zabok	Npmsn
+,	,	Z
+
+30.	30.	Mdo
+
+Zagrebački	zagrebački	Agpmsny
+električni	električan	Agpmsny
+tramvaj	tramvaj	Ncmsn
+–	–	Z
+Služba	služba	Ncfsn
+razvoja	razvoj	Ncmsg
+,	,	Z
+
+31.	31.	Mdo
+
+Zagrebački	zagrebački	Agpmsny
+Holding	holding	Ncmsn
+–	–	Z
+Služba	služba	Ncfsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+projektima	projekt	Ncmpi
+,	,	Z
+
+32.	32.	Mdo
+
+Zagrebački	zagrebački	Agpmsny
+Holding	holding	Ncmsn
+,	,	Z
+Podružnica	podružnica	Ncfsn
+ZGOS	ZGOS	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+33.	33.	Mdo
+
+HRT	hrt	Ncmsn
+,	,	Z
+Odašiljači	odašiljač	Ncmpn
+i	i	Cc
+veze	veza	Ncfsg
+d.o.o.	d.o.o.	Mro
+,	,	Z
+TV	TV	Ncmsn
+toranj	toranj	Ncmsn
+Sljeme	sljeme	Ncnsn
+,	,	Z
+
+34.	34.	Mdo
+
+HAKOM	hakoi	Agpnsny
+,	,	Z
+Hrvatska	Hrvatska	Npfsn
+regulatorna	regulatoran	Agpfsny
+agencija	agencija	Ncfsn
+za	za	Sa
+mrežne	mrežni	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+,	,	Z
+
+35.	35.	Mdo
+
+Gradski	gradski	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+spomenika	spomenik	Ncmpg
+kulture	kultura	Ncfsg
+i	i	Cc
+prirode	priroda	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+36.	36.	Mdo
+
+Zavod	zavod	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+Zagrebačke	zagrebački	Agpfsgy
+županije	županija	Ncfsg
+,	,	Z
+
+37.	37.	Mdo
+
+Upravni	upravan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+,	,	Z
+gradnju	gradnja	Ncfsa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+okoliša	okoliš	Ncmsg
+Zagrebačke	zagrebački	Agpfsgy
+županije	županija	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+38.	38.	Mdo
+
+Upravni	upravan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+,	,	Z
+gradnju	gradnja	Ncfsa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+okoliša	okoliš	Ncmsg
+Zagrebačke	zagrebački	Agpfsgy
+županije	županija	Ncfsg
+,	,	Z
+ispostava	ispostava	Ncfsn
+Zaprešić	Zaprešić	Npfsg
+,	,	Z
+
+39.	39.	Mdo
+
+Zavod	zavod	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+Krapinsko-zagorske	krapinsko-zagorski	Agpfsgy
+županije	županija	Ncfsg
+,	,	Z
+
+40.	40.	Mdo
+
+Ured	ured	Ncmsn
+

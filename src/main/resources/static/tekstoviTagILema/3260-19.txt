@@ -1,0 +1,23 @@
+završni	završan	Agpmpny
+troškovi	trošak	Ncmpn
+operacije	operacija	Ncfsg
+.	.	Z
+
+Također	također	Rgp
+,	,	Z
+korisnik	korisnik	Ncmsn
+je	biti	Var3s
+dužan	dužan	Agpmsnn
+dokumentaciju	dokumentacija	Ncfsa
+čuvati	čuvati	Vmn
+i	i	Cc
+osigurati	osigurati	Vmn
+dostupnost	dostupnost	Ncfsa
+iste	isti	Agpfsgy
+tijekom	tijekom	Sg
+cjelokupnog	cjelokupan	Agpnsgy
+razdoblja	razdoblje	Ncnsg
+provođenja	provođenje	Ncnsg
+operacije	operacija	Ncfsg
+.	.	Z
+

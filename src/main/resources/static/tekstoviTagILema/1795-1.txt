@@ -1,0 +1,47 @@
+5.	5.	Mdo
+obavlja	obavljati	Vmr3s
+i	i	Qo
+druge	drugi	Mlompa
+poslove	posao	Ncmpa
+i	i	Cc
+poduzima	poduzimati	Vmr3s
+druge	drugi	Mlofsg
+radnje	radnja	Ncfsg
+potrebne	potreban	Agpfpny
+za	za	Sa
+provedbu	provedba	Ncfsa
+ovog	ovaj	Pd-msg
+Programa	program	Ncmsg
+obnove	obnova	Ncfsg
+.	.	Z
+
+5.	5.	Mdo
+Procjena	procjena	Ncfsn
+potrebnih	potreban	Agpfpgy
+financijskih	financijski	Agpnpgy
+sredstava	sredstvo	Ncnpg
+i	i	Cc
+izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+
+Po	po	Sl
+ovom	ovaj	Pd-msl
+Programu	program	Ncmsl
+troškovi	trošak	Ncmpn
+obnove	obnova	Ncfsg
+cestovne	cestovan	Agpfsgy
+infrastrukture	infrastruktura	Ncfsg
+na	na	Sl
+Karlovačkoj	karlovački	Agpfsly
+županiji	županija	Ncfsl
+procijenjeni	procijeniti	Appmpny
+su	biti	Var3p
+u	u	Sl
+iznosu	iznos	Ncmsl
+od	od	Sg
+10.000.000,00	10.000.000,00	Mdc
+kn	KN	Ncmpg
+bez	bez	Sg
+PDV-a	PDV	Npmsg
+.	.	Z
+

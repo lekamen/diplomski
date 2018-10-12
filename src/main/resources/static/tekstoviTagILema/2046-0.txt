@@ -1,0 +1,207 @@
+105	105	Mdc
+02.10.2015	02.10.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Odbora	odbor	Ncmsg
+za	za	Sa
+Nagradu	nagrada	Ncfsa
+za	za	Sa
+promicanje	promicanje	Ncnsa
+prava	pravo	Ncnsg
+djeteta	dijete	Ncnsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2047	2047	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+6.	6.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Nagradi	nagrada	Ncfsl
+za	za	Sa
+promicanje	promicanje	Ncnsa
+prava	pravo	Ncnsg
+djeteta	dijete	Ncnsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+96/03.	96/03.	Mds
+i	i	Cc
+33/05.	33/05.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+25.	25.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+OSNIVANJU	osnivanje	Ncnsl
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+NAGRADU	nagrada	Ncfsa
+ZA	za	Sa
+PROMICANJE	promicanje	Ncnsa
+PRAVA	pravo	Ncnsg
+DJETETA	dijete	Ncnsg
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+osniva	osnivati	Vmr3s
+se	sebe	Px--sa
+Odbor	odbor	Ncmsn
+za	za	Sa
+Nagradu	nagrada	Ncfsa
+za	za	Sa
+promicanje	promicanje	Ncnsa
+prava	pravo	Ncnsg
+djeteta	dijete	Ncnsg
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekst	tekst	Ncmsan
+:	:	Z
+Odbor	odbor	Ncmsn
+)	)	Z
+,	,	Z
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+dodjeljuje	dodjeljivati	Vmr3s
+za	za	Sa
+iznimna	izniman	Agpnpay
+postignuća	postignuće	Ncnpa
+u	u	Sl
+zaštiti	zaštita	Ncfsl
+dobrobiti	dobrobit	Ncfsg
+,	,	Z
+prava	pravo	Ncnpg
+i	i	Cc
+interesa	interes	Ncmsg
+djece	dijete	Ncnpg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+U	u	Sa
+Odbor	odbor	Ncmsan
+se	sebe	Px--sa
+imenuju	imenovati	Vmr3p
+:	:	Z
+
+–	–	Z
+mr.	mr.	Y
+Dunja	dunja	Ncfsn
+Špoljar	Špoljar	Npmsn
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+Ivan	Ivan	Npmsn
+Šimović	Šimović	Npmsn
+
+–	–	Npfsn
+Ivanka	Ivanka	Npfsn
+Roksandić	Roksandić	Npfsn
+,	,	Z
+prof.	prof.	Y
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Mario	Mario	Npmsn
+Vinković	Vinković	Npmsn
+
+–	–	Agpmsny
+Vlasta	vlasta	Agpmsny
+Medar	medar	Ncmsn
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Odbor	odbor	Ncmsn
+se	sebe	Px--sa
+osniva	osnivati	Vmr3s
+na	na	Sa
+vrijeme	vrijeme	Ncnsa
+od	od	Sg
+dvije	dva	Agpfsgy
+godine	godina	Ncfsg
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/15	13/15	Mdc
+-	-	Z
+07/28	07/28	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+25.	25.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

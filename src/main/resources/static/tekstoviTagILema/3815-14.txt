@@ -1,0 +1,245 @@
+(	(	Z
+Quick-Trach	Quick-Trach	Npmsn
+1	1	Mdc
+)	)	Z
+
+2.	2.	Mdo
+Set	set	Ncmsn
+za	za	Sa
+održavanje	održavanje	Ncnsa
+prohodnosti	prohodnost	Ncfsg
+dišnih	dišni	Agpmpgy
+putova	put	Ncmpg
+i	i	Cc
+ventilacije	ventilacija	Ncfsg
+kod	kod	Sg
+odraslih	odrastao	Agpmpgy
+–	–	Z
+laringoskop	laringoskop	Ncmsan
+,	,	Z
+Magillove	magillov	Aspfsgy
+hvataljke	hvataljka	Ncfsg
+,	,	Z
+(	(	Z
+orofaringealni	orofaringealan	Agpmpny
+tubusi	tubus	Ncmpn
+,	,	Z
+nazofaringealni	nazofaringealna	Ncfsl
+tubusi	tubusa	Ncfpg
+,	,	Z
+endotrahealni	endotrahealna	Ncfsl
+tubusi	tubusa	Ncfpg
+,	,	Z
+supraglotična	supraglotičn	Aspnpny
+pomagala	pomagalo	Ncnpn
+(	(	Z
+I-gel	I-gel	Cc
+,	,	Z
+laringealni	laringealan	Agpmsny
+tubus	tubus	Ncmsn
+)	)	Z
+
+3.	3.	Mdo
+Set	set	Ncmsn
+za	za	Sa
+opekline	opeklina	Ncfpa
+
+Osobna	osoban	Agpfsny
+zaštitna	zaštitni	Agpfsny
+oprema	oprema	Ncfsn
+:	:	Z
+
+1.	1.	Mdo
+Zaštitne	zaštitni	Agpfsgy
+jednokratne	jednokratan	Agpfsgy
+rukavice	rukavica	Ncfsg
+
+2.	2.	Mdo
+Zaštitne	zaštitni	Agpfsgy
+maske	maska	Ncfsg
+
+3.	3.	Mdo
+Zaštitne	zaštitni	Agpfpny
+naočale	naočale	Ncfpn
+
+4.	4.	Mdo
+Posuda	posuda	Ncfsn
+za	za	Sa
+odlaganje	odlaganje	Ncnsa
+oštrih	oštar	Agpmpgy
+predmeta	predmet	Ncmpg
+
+5.	5.	Mdo
+Posuda	posuda	Ncfsn
+za	za	Sa
+odlaganje	odlaganje	Ncnsa
+infektivnog	infektivan	Agpmsgy
+otpada	otpad	Ncmsg
+
+6.	6.	Mdo
+Posuda	posuda	Ncfsn
+za	za	Sa
+odlaganje	odlaganje	Ncnsa
+otpada	otpad	Ncmsg
+
+7.	7.	Mdo
+Posuda	posuda	Ncfsn
+sa	sa	Si
+dezinfekcijskim	dezinfekcijski	Agpnsiy
+sredstvom	sredstvo	Ncnsi
+
+Pribor	pribor	Ncmsn
+za	za	Sa
+uspostavu	uspostava	Ncfsa
+venskog	venski	Agpmsgy
+i	i	Cc
+intraosealnog	intraosealan	Agpmsgy
+puta	put	Ncmsg
+,	,	Z
+primjenu	primjena	Ncfsa
+lijekova	lijek	Ncmpg
+i	i	Cc
+infuzija	infuzija	Ncfpg
+
+1.	1.	Mdo
+Brizgalice	brizgalica	Ncfsg
+
+2.	2.	Mdo
+Dezinfekcijsko	dezinfekcijski	Agpnsny
+sredstvo	sredstvo	Ncnsn
+/	/	Z
+dezinfekcijske	dezinfekcijski	Agpfsgy
+maramice	maramica	Ncfsg
+
+3.	3.	Mdo
+Folija	folija	Ncfsn
+za	za	Sa
+učvršćenje	učvršćenje	Ncnsa
+venske	venski	Agpfsgy
+kanile	kanila	Ncfsg
+(	(	Z
+naljepci	naljepka	Ncfsl
+)	)	Z
+
+4.	4.	Mdo
+Igle	igla	Ncfsg
+
+5.	5.	Mdo
+Medicinska	medicinski	Agpfsny
+vata	vata	Ncfsn
+
+6.	6.	Mdo
+Poveska	Poveska	Npfsn
+za	za	Sa
+venestazu	venestaza	Ncfsa
+
+7.	7.	Mdo
+Sustav	sustav	Ncmsn
+za	za	Sa
+primjenu	primjena	Ncfsa
+infuzija	infuzija	Ncfpg
+
+8.	8.	Mdo
+Venske	venski	Agpfsgy
+kanile	kanila	Ncfsg
+
+9.	9.	Mdo
+Intraosealne	intraosealan	Agpfsgy
+igle	igla	Ncfsg
+/	/	Z
+uređaj	uređaj	Ncmsan
+za	za	Sa
+primjenu	primjena	Ncfsa
+intraosealne	intraosealan	Agpfsgy
+igle	igla	Ncfsg
+
+Zavojni	zavojan	Agpmsny
+materijal	materijal	Ncmsn
+,	,	Z
+oprema	oprema	Ncfsn
+za	za	Sa
+zbrinjavanje	zbrinjavanje	Ncnsa
+ozljeda	ozljeda	Ncfpg
+i	i	Cc
+njegu	njega	Ncfsa
+
+1.	1.	Mdo
+Gaze	gaza	Ncfsg
+različitih	različit	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+10	10	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+2.	2.	Mdo
+Jednokratne	jednokratan	Agpfsgy
+netkane	netkan	Agpfsgy
+plahte	plahta	Ncfsg
+za	za	Sa
+nosila	nosila	Ncnpa
+
+3.	3.	Mdo
+Komprese	kompresa	Ncfsg
+različitih	različit	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+30	30	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+4.	4.	Mdo
+Ljepljive	ljepljiv	Agpfsgy
+trake	traka	Ncfsg
+(	(	Z
+flasteri	flaster	Ncmpn
+)	)	Z
+2	2	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+5.	5.	Mdo
+Mrežni	mrežni	Agpmpny
+zavoji	zavoj	Ncmpn
+5	5	Mdc
+kom	kom	Ncmsn
+.	.	Z
+
+6.	6.	Mdo
+Okluzivni	okluzivan	Agpmpny
+zavoji	zavoj	Ncmpn
+4	4	Mdc
+kom	kom	Ncmsn
+.	.	Z
+
+7.	7.	Mdo
+Trougle	trougao	Agpfsgy
+marame	marama	Ncfsg
+5	5	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+8.	8.	Mdo
+Vrećice	vrećica	Ncfsg
+za	za	Sa
+povraćanje	povraćanje	Ncnsa
+5	5	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+9.	9.	Mdo
+Zavoji	zavoj	Ncmpn
+različitih	različit	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+30	30	Mdc
+kom	kom	Ncmsan
+.	.	Z
+
+10.	10.	Mdo
+
+Poveska	poveska	Ncfsn
+za	za	Sa
+zaustavljanje	zaustavljanje	Ncnsa
+krvarenja	krvarenje	Ncnsg
+2	2	Mdc
+kom	kom	Ncmsn
+.	.	Z
+

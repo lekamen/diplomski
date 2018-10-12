@@ -1,0 +1,837 @@
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+BONJEKOVIĆ	BONJEKOVIĆ	Npmsn
+
+286.	286.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+BRAJKOVIĆ	Brajković	Npmsn
+
+287.	287.	Mdo
+pukovnik	pukovnik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Stevin	Stevin	Npmsn
+)	)	Z
+BRCKOVIĆ	BRCKOVIĆ	Npmsn
+
+288.	288.	Mdo
+pukovnik	pukovnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BROZ	BROZ	Npmsn
+
+289.	289.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+BUDINSKI	budinski	Agpmsny
+
+290.	290.	Mdo
+pukovnik	pukovnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+CEKOVIĆ	Ceković	Npmsn
+
+291.	291.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Štefanov	Štefanov	Npmsn
+)	)	Z
+CESTAR	cestar	Ncmsn
+
+292.	292.	Mdo
+pukovnik	pukovnik	Ncmsn
+SINIŠA	SINIŠ	Npmsg
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+CIGLENEČKI	ciglenečki	Agpmsny
+
+293.	293.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+CIKUŠ	cikuti	Vmm2s
+
+294.	294.	Mdo
+pukovnik	pukovnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+CRNEK	CRNEK	Npmsn
+
+295.	295.	Mdo
+pukovnik	pukovnik	Ncmsn
+VILIM	VILIM	Npmsn
+(	(	Z
+Ankičin	Ankičin	Npmsn
+)	)	Z
+CVETKOVIĆ	Cvetković	Npmsn
+
+296.	296.	Mdo
+pukovnik	pukovnik	Ncmsn
+DOMAGOJ	DOMAGOJ	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ČAIĆ	ČAIĆ	Npmsn
+
+297.	297.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+ČELIK	čelik	Ncmsn
+
+298.	298.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+ČERNE	černi	Agpfpny
+
+299.	299.	Mdo
+pukovnik	pukovnik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+ČIŠ	čiti	Vmr2s
+
+300.	300.	Mdo
+pukovnik	pukovnik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+ČOP	ČOP	I
+
+301.	301.	Mdo
+pukovnik	pukovnik	Ncmsn
+BOŠKO	BOŠKO	Npmsn
+(	(	Z
+Ljupkov	Ljupkov	Npmsn
+)	)	Z
+ČOSIĆ	Čosić	Npmsn
+
+302.	302.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ČOVRAN	ČOVRAN	Npmsn
+
+303.	303.	Mdo
+pukovnik	pukovnik	Ncmsn
+SINIŠA	SINIŠ	Npmsg
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ČULAR	ČULAR	Npmsn
+
+304.	304.	Mdo
+pukovnik	pukovnik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+ČULO	čulo	Ncnsn
+
+305.	305.	Mdo
+pukovnik	pukovnik	Ncmsn
+SAMIR	SAMIR	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ĆORIĆ	ĆORIĆ	Npmsn
+
+306.	306.	Mdo
+pukovnik	pukovnik	Ncmsn
+EMIL	Emil	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ĆURKOVIĆ	ĆURKOVIĆ	Npmsn
+
+307.	307.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAOR	DAOR	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+DABO	DABO	Npmsn
+
+308.	308.	Mdo
+pukovnik	pukovnik	Ncmsn
+MIRO	Miro	Npmsn
+(	(	Z
+Daničin	Daničin	Npmsn
+)	)	Z
+DAJIĆ	DAJIĆ	Npfsn
+
+309.	309.	Mdo
+pukovnik	pukovnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+DANDIĆ	DANDIĆ	Npmsn
+
+310.	310.	Mdo
+pukovnik	pukovnik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+DIMITRIEV	DIMITRIEV	Npmsn
+
+311.	311.	Mdo
+pukovnik	pukovnik	Ncmsn
+SILVIO	SILVIO	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+DINJAR	DINJAR	Npmsn
+
+312.	312.	Mdo
+pukovnik	pukovnik	Ncmsn
+LJUBAN	LJUBAN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+DŽAJA	DŽAJ	Npmsg
+
+313.	313.	Mdo
+pukovnik	pukovnik	Ncmsn
+EDI	EDI	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+DŽELALIJA	DŽELALIJA	Npfsn
+
+314.	314.	Mdo
+pukovnik	pukovnik	Ncmsn
+LEONARD	LEONARD	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ELERŠEK	ELERŠEK	Npmsn
+
+315.	315.	Mdo
+pukovnik	pukovnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+FRANJIĆ	Franjić	Npmsn
+
+316.	316.	Mdo
+pukovnik	pukovnik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+GABRILO	gabriti	Vmp-sn
+
+317.	317.	Mdo
+pukovnik	pukovnik	Ncmsn
+DARIJO	DARIJO	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+GAĆA	gaće	Ncfpg
+
+318.	318.	Mdo
+pukovnik	pukovnik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+GAŠPAREC	GAŠPAREC	Npmsn
+
+319.	319.	Mdo
+pukovnik	pukovnik	Ncmsn
+DRAGUTIN	Dragutin	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+GAŠPAROVIĆ	GAŠPAROVIĆ	Npmsn
+
+320.	320.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Mladenov	Mladenov	Npfsn
+)	)	Z
+GILJANOVIĆ	GILJANOVIĆ	Npmsn
+
+321.	321.	Mdo
+pukovnik	pukovnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Nedjeljkov	Nedjeljkov	Npmsn
+)	)	Z
+GIZDIĆ	GIZDIĆ	Npmsn
+
+322.	322.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+GLAVAČEVIĆ	GLAVAČEVIĆ	Npmsn
+
+323.	323.	Mdo
+pukovnik	pukovnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+GLAVINA	glavina	Ncfsn
+
+324.	324.	Mdo
+pukovnik	pukovnik	Ncmsn
+SREĆKO	SREĆKO	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+GOGIĆ	GOGIĆ	Npmsn
+
+325.	325.	Mdo
+pukovnik	pukovnik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+GOJMERAC	GOJMERAC	Npmsn
+
+326.	326.	Mdo
+pukovnik	pukovnik	Ncmsn
+JASMINKO	JASMINKO	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+GREGOVIĆ	GREGOVIĆ	Npmsn
+
+327.	327.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+GRGIĆ	Grgić	Npmsn
+
+328.	328.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+GRGURIĆ	GRGURIĆ	Npmsn
+
+329.	329.	Mdo
+pukovnik	pukovnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+GRIGIĆ	GRIGIĆ	Npmsn
+
+330.	330.	Mdo
+pukovnik	pukovnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+HABUDA	habud	Ncmsg
+
+331.	331.	Mdo
+pukovnik	pukovnik	Ncmsn
+BRANIMIR	BRANIMIR	Npmsn
+(	(	Z
+Nikičin	Nikičin	Npmsn
+)	)	Z
+HAMER	HAMER	Npmsn
+
+332.	332.	Mdo
+pukovnik	pukovnik	Ncmsn
+EMIL	Emil	Npmsn
+(	(	Z
+Božidarev	Božidarev	Npmsn
+)	)	Z
+HANZEN	HANZEN	Npmsn
+
+333.	333.	Mdo
+pukovnik	pukovnik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Štefanov	Štefanov	Npmsn
+)	)	Z
+HODAK	hodak	Ncmsan
+
+334.	334.	Mdo
+pukovnik	pukovnik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+335.	335.	Mdo
+pukovnik	pukovnik	Ncmsn
+IMRE	IMRE	Npfsg
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+HORVAT	HORVAT	Npmsn
+
+336.	336.	Mdo
+pukovnik	pukovnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+HOZMEC	HOZMEC	Npmsn
+
+337.	337.	Mdo
+pukovnik	pukovnik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+HRKAČ	hrkač	Ncmsn
+
+338.	338.	Mdo
+pukovnik	pukovnik	Ncmsn
+STANKO	STANKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+HRŽENJAK	HRŽENJAK	Npmsn
+
+339.	339.	Mdo
+pukovnik	pukovnik	Ncmsn
+DRAGO	Drago	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+ILIĆ	Ilić	Npmsn
+
+340.	340.	Mdo
+pukovnik	pukovnik	Ncmsn
+LUKA	Luka	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+IVANČIĆ	Ivančić	Npmsn
+
+341.	341.	Mdo
+pukovnik	pukovnik	Ncmsn
+ENIZ	ENIZ	Npmsn
+(	(	Z
+Hamdijin	Hamdijin	Npmsn
+)	)	Z
+JAKŠIĆ	Jakšić	Npmsn
+
+342.	342.	Mdo
+pukovnik	pukovnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Veljkov	Veljkov	Npmsn
+)	)	Z
+JANDRIŠ-SAČER	jandriš-sačer	Ncmsan
+
+343.	343.	Mdo
+pukovnik	pukovnik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JANĐEL	JANĐEL	Npmsn
+
+344.	344.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+JENJIĆ	JENJIĆ	Npmsn
+
+345.	345.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+JOZIĆ	Jozić	Npmsn
+
+346.	346.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JOŽEF	Jožef	Npmsn
+
+347.	347.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Milkov	Milkov	Npmsn
+)	)	Z
+JUGOVIĆ	JUGOVIĆ	Npmsn
+
+348.	348.	Mdo
+pukovnik	pukovnik	Ncmsn
+RAJKO	RAJKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JURIĆ-PAIĆ	JURIĆ-PAIĆ	Npmsn
+
+349.	349.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Zvonkov	Zvonkov	Npmsn
+)	)	Z
+JURIŠIĆ	Jurišić	Npmsn
+
+350.	350.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Marinkov	Marinkov	Npmsn
+)	)	Z
+JURIŠIĆ	Jurišić	Npmsn
+
+351.	351.	Mdo
+pukovnik	pukovnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+JURKOVIĆ	JURKOVIĆ	Npmsn
+
+352.	352.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+KANCIR	KANCIR	Npmsn
+
+353.	353.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KARAČIĆ	KARAČIĆ	Npmsn
+
+354.	354.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+KARDOŠ	kardoti	Vmm2s
+
+355.	355.	Mdo
+pukovnik	pukovnik	Ncmsn
+VESELJKO	VESELJKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KARDUM	KARDUM	Npmsn
+
+356.	356.	Mdo
+pukovnik	pukovnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Draganov	Draganov	Npmsn
+)	)	Z
+KARLOVIĆ	Karlović	Npmsn
+
+357.	357.	Mdo
+pukovnik	pukovnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+KAŠTELAN	KAŠTELAN	Npmsn
+
+358.	358.	Mdo
+pukovnik	pukovnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+KATIĆ	Katić	Npmsn
+
+359.	359.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KAUZLARIĆ	KAUZLARIĆ	Npmsn
+
+360.	360.	Mdo
+pukovnik	pukovnik	Ncmsn
+DINO	DINO	Npmsn
+(	(	Z
+Mariov	Mariov	Npmsn
+)	)	Z
+KEREKOVIĆ	KEREKOVIĆ	Npmsn
+
+361.	361.	Mdo
+pukovnik	pukovnik	Ncmsn
+ŠIME	ŠIME	Npfsg
+(	(	Z
+Lukin	Lukin	Npmsn
+)	)	Z
+KEVRIĆ	KEVRIĆ	Npmsn
+
+362.	362.	Mdo
+pukovnik	pukovnik	Ncmsn
+DARIJO	DARIJO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+KLARIĆ	Klarić	Npmsn
+
+363.	363.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+KODŽOMAN	KODŽOMAN	Npmsn
+
+364.	364.	Mdo
+pukovnik	pukovnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+KOKIĆ	KOKIĆ	Npmsn
+
+365.	365.	Mdo
+pukovnik	pukovnik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KOLIĆ	KOLIĆ	Npmsn
+
+366.	366.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+KOMADINA	komadina	Ncfsn
+
+367.	367.	Mdo
+pukovnik	pukovnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+KOMAR	KOMAR	Npmsn
+
+368.	368.	Mdo
+pukovnik	pukovnik	Ncmsn
+DRAGO	Drago	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+KOPRIVNJAK	KOPRIVNJAK	Npmsn
+
+369.	369.	Mdo
+pukovnik	pukovnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Ivičin	Ivičin	Npmsn
+)	)	Z
+KORDIĆ	Kordić	Npmsn
+
+370.	370.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KOSTANJEVAC	KOSTANJEVAC	Npmsn
+
+371.	371.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+KOSTELAC	KOSTELAC	Npmsn
+
+372.	372.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+KOSTURIĆ	KOSTURIĆ	Npmsn
+
+373.	373.	Mdo
+pukovnik	pukovnik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+374.	374.	Mdo
+pukovnik	pukovnik	Ncmsn
+ALEN	ALEN	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+KOVIĆ	KOVIĆ	Npmsn
+
+375.	375.	Mdo
+pukovnik	pukovnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+KRAJCAR	KRAJCAR	Npmsn
+
+376.	376.	Mdo
+pukovnik	pukovnik	Ncmsn
+ROBERTO	ROBERTO	Npmsn
+(	(	Z
+Janezov	Janezov	Npmsn
+)	)	Z
+KRAMARIĆ	KRAMARIĆ	Npmsn
+
+377.	377.	Mdo
+pukovnik	pukovnik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+KREŠIĆ	Krešić	Npmsn
+
+378.	378.	Mdo
+pukovnik	pukovnik	Ncmsn
+ANDRIJA	andrij	Ncmsg
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+KRIŽANIĆ	Križanić	Npmsn
+
+379.	379.	Mdo
+pukovnik	pukovnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+KRPAN	krpati	Appmsnn
+
+380.	380.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+KRULIĆ	Krulić	Npmsn
+
+381.	381.	Mdo
+pukovnik	pukovnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+KUČANDA	KUČAND	Npmsg
+
+382.	382.	Mdo
+pukovnik	pukovnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+KUJUNDŽIĆ	Kujundžić	Npmsn
+
+383.	383.	Mdo
+pukovnik	pukovnik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+KUTLEŠA	KUTLEŠA	Npmsn
+
+384.	384.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KUZMAN	KUZMAN	Npmsn
+
+385.	385.	Mdo
+pukovnik	pukovnik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Anđelkov	Anđelkov	Npmsn
+)	)	Z
+KUŽIĆ	KUŽIĆ	Npmsn
+
+386.	386.	Mdo
+pukovnik	pukovnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KUŽIR	KUŽIR	Npmsn
+
+387.	387.	Mdo
+pukovnik	pukovnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+LACKOVIĆ	LACKOVIĆ	Npmsn
+
+388.	388.	Agpmsny
+pukovnik	pukovnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+LEVATIĆ	LEVATIĆ	Npmsn
+
+389.	389.	Mdo
+pukovnik	pukovnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Rokov	Rokov	Npmsn
+)	)	Z
+LILIĆ	Lilić	Npmsn
+

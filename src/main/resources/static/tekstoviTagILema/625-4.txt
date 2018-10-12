@@ -1,0 +1,38 @@
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/101	01/101	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+513	513	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+financija	financije	Ncfpg
+mr.	mr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Lalovac	Lalovac	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+OBRASCI	obrazac	Ncmpn
+

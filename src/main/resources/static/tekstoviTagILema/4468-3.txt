@@ -1,0 +1,624 @@
+tematske	tematski	Agpfpay
+cjeline	cjelina	Ncfpa
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+mjere	mjera	Ncfpa
+osobne	osoban	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+2.	2.	Mdo
+navesti	navesti	Vmn
+indikacije	indikacija	Ncfpa
+za	za	Sa
+skidanje	skidanje	Ncnsa
+zaštitne	zaštitni	Agpfsgy
+kacige	kaciga	Ncfsg
+
+3.	3.	Mdo
+opisati	opisati	Vmn
+način	način	Ncmsan
+skidanja	skidanje	Ncnsg
+kacige	kaciga	Ncfsg
+.	.	Z
+
+Vještine	vještina	Ncfpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+demonstrirati	demonstrirati	Vmn
+pravilno	pravilan	Agpnsay
+skidanje	skidanje	Ncnsa
+zaštitne	zaštitni	Agpfsgy
+kacige	kaciga	Ncfsg
+
+2.	2.	Mdo
+pokazati	pokazati	Vmn
+postupak	postupak	Ncmsan
+imobilizacije	imobilizacija	Ncfsg
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+ovratnikom	ovratnik	Ncmsi
+nakon	nakon	Sg
+skidanja	skidanje	Ncnsg
+zaštitne	zaštitni	Agpfsgy
+kacige	kaciga	Ncfsg
+.	.	Z
+
+1.3.	1.3.	Mdo
+
+Imobilizacija	imobilizacija	Ncfsn
+kralježnice	kralježnica	Ncfsg
+i	i	Cc
+zdjelice	zdjelica	Ncfpa
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+mjere	mjera	Ncfpa
+osobne	osoban	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+2.	2.	Mdo
+definirati	definirati	Vmn
+indikacije	indikacija	Ncfpa
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+kralježnice	kralježnica	Ncfsg
+/	/	Z
+zdjelice	zdjelica	Ncfsg
+
+3.	3.	Mdo
+opisati	opisati	Vmn
+sredstva	sredstvo	Ncnpa
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+kralježnice	kralježnica	Ncfsg
+/	/	Z
+zdjelice	zdjelica	Ncfpa
+(	(	Z
+imobilizacijski	imobilizacijski	Agpmsny
+ovratnik	ovratnik	Ncmsn
+,	,	Z
+duga	dug	Agpfsny
+daska	daska	Ncfsn
+,	,	Z
+rasklopna	rasklopni	Agpnpny
+nosila	nosila	Ncnpn
+,	,	Z
+vakuum	vakuum	Ncmsan
+madrac	madrac	Ncmsn
+)	)	Z
+
+4.	4.	Mdo
+procijeniti	procijeniti	Vmn
+mogućnost	mogućnost	Ncfsa
+nastanka	nastanak	Ncmsg
+ozljede	ozljeda	Ncfsg
+kralježnice	kralježnica	Ncfsg
+/	/	Z
+zdjelice	zdjelica	Ncfpa
+s	sa	Si
+obzirom	obzir	Ncmsi
+na	na	Sa
+mehanizam	mehanizam	Ncmsan
+nastanka	nastanak	Ncmsg
+ozljede	ozljeda	Ncfsg
+
+5.	5.	Mdo
+razlikovati	razlikovati	Vmn
+indikacije	indikacija	Ncfpa
+i	i	Cc
+kontraindikacije	kontraindikacija	Ncfsg
+za	za	Sa
+postavljanje	postavljanje	Ncnsa
+ovratnika	ovratnik	Ncmpg
+
+6.	6.	Mdo
+opisati	opisati	Vmn
+postupak	postupak	Ncmsan
+određivanja	određivanje	Ncnsg
+veličine	veličina	Ncfsg
+i	i	Cc
+postavljanja	postavljanje	Ncnsg
+ovratnika	ovratnik	Ncmsg
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+
+7.	7.	Mdo
+objasniti	objasniti	Vmn
+postupak	postupak	Ncmsan
+imobilizacije	imobilizacija	Ncfsg
+ozlijeđenog	ozlijediti	Appmsgy
+koristeći	koristiti	Rr
+dugu	dug	Agpfsay
+dasku	daska	Ncfsa
+,	,	Z
+rasklopna	rasklopni	Agpnpny
+nosila	nosila	Ncnpn
+i	i	Cc
+vakuum	vakuum	Ncmsan
+madrac	madrac	Ncmsan
+.	.	Z
+
+Vještine	vještina	Ncfpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+demonstrirati	demonstrirati	Vmn
+određivanje	određivanje	Ncnsa
+veličine	veličina	Ncfsg
+i	i	Cc
+postavljanje	postavljanje	Ncnsa
+ovratnika	ovratnik	Ncmpg
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+
+2.	2.	Mdo
+demonstrirati	demonstrirati	Vmn
+imobilizaciju	imobilizacija	Ncfsa
+ozlijeđene	ozlijediti	Appfsgy
+osobe	osoba	Ncfsg
+na	na	Sa
+dugu	duga	Ncfsa
+dasku	daska	Ncfsa
+
+3.	3.	Mdo
+demonstrirati	demonstrirati	Vmn
+fiksaciju	fiksacija	Ncfsa
+ozlijeđene	ozlijediti	Appfsgy
+osobe	osoba	Ncfsg
+na	na	Sl
+dugoj	dug	Agpfsly
+dasci	daska	Ncfsl
+remenjem	remenje	Ncnsi
+i	i	Cc
+bočnim	bočni	Agpmpiy
+stabilizatorima	stabilizator	Ncmpi
+glave	glava	Ncfsg
+
+4.	4.	Mdo
+demonstrirati	demonstrirati	Vmn
+imobilizaciju	imobilizacija	Ncfsa
+vakuum	vakuum	Ncmsan
+udlagama	udlaga	Ncfpi
+i	i	Cc
+vakuum	vakuum	Ncmsan
+madracem	madrac	Ncmsi
+
+5.	5.	Mdo
+demonstrirati	demonstrirati	Vmn
+upotrebu	upotreba	Ncfsa
+rasklopnih	rasklopni	Agpnpgy
+nosila	nosila	Ncnpg
+.	.	Z
+
+1.4.	1.4.	Mdo
+
+Ostala	ostali	Agpnpny
+sredstva	sredstvo	Ncnpn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+mjere	mjera	Ncfpa
+osobne	osoban	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+2.	2.	Mdo
+navesti	navesti	Vmn
+indikacije	indikacija	Ncfpa
+i	i	Cc
+kontraindikacije	kontraindikacija	Ncfsg
+za	za	Sa
+primjenu	primjena	Ncfsa
+prsluka	prsluk	Ncmsg
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+
+3.	3.	Mdo
+objasniti	objasniti	Vmn
+postupak	postupak	Ncmsan
+imobilizacije	imobilizacija	Ncfsg
+prslukom	prsluk	Ncmsi
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+
+4.	4.	Mdo
+navesti	navesti	Vmn
+indikacije	indikacija	Ncfpa
+za	za	Sa
+primjenu	primjena	Ncfsa
+trokutaste	trokutast	Agpfsgy
+marame	marama	Ncfsg
+
+5.	5.	Mdo
+navesti	navesti	Vmn
+principe	princip	Ncmpa
+imobilizacije	imobilizacija	Ncfsg
+ekstremiteta	ekstremitet	Ncmsg
+
+6.	6.	Mdo
+navesti	navesti	Vmn
+sredstva	sredstvo	Ncnpa
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+ekstremiteta	ekstremitet	Ncmsg
+.	.	Z
+
+Vještine	vještina	Ncfpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+demonstrirati	demonstrirati	Vmn
+primjenu	primjena	Ncfsa
+prsluka	prsluk	Ncmsg
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+
+2.	2.	Mdo
+demonstrirati	demonstrirati	Vmn
+postupak	postupak	Ncmsan
+izvlačenja	izvlačenje	Ncnsg
+ozlijeđenog	ozlijediti	Appmsgy
+na	na	Sa
+dugu	dug	Agpfsay
+dasku	daska	Ncfsa
+
+3.	3.	Mdo
+pokazati	pokazati	Vmn
+procjenu	procjena	Ncfsa
+ozlijeđenog	ozlijediti	Agpmsgy
+ekstremiteta	ekstremitet	Ncmsg
+
+4.	4.	Mdo
+demonstrirati	demonstrirati	Vmn
+imobilizaciju	imobilizacija	Ncfsa
+trokutastom	trokutast	Agpfsiy
+maramom	marama	Ncfsi
+
+5.	5.	Mdo
+demonstrirati	demonstrirati	Vmn
+imobilizaciju	imobilizacija	Ncfsa
+ekstremiteta	ekstremitet	Ncmsg
+vakuum	vakuum	Ncmsan
+udlagama	udlaga	Ncfpi
+.	.	Z
+
+1.5.	1.5.	Mdo
+
+Zaustavljanje	zaustavljanje	Ncnsn
+krvarenja	krvarenje	Ncnsg
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+mjere	mjera	Ncfpa
+osobne	osoban	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+2.	2.	Mdo
+navesti	navesti	Vmn
+vrste	vrsta	Ncfpa
+krvarenja	krvarenje	Ncnsg
+i	i	Cc
+njihovo	njihov	Ps3nsn
+prepoznavanje	prepoznavanje	Ncnsn
+
+3.	3.	Mdo
+navesti	navesti	Vmn
+načine	način	Ncmpa
+zaustavljanja	zaustavljanje	Ncnsg
+vanjskog	vanjski	Agpnsgy
+krvarenja	krvarenje	Ncnsg
+
+4.	4.	Mdo
+opisati	opisati	Vmn
+postupak	postupak	Ncmsan
+s	sa	Si
+amputiranim	amputirati	Agpmpiy
+dijelovima	dio	Ncmpi
+tijela	tijelo	Ncnsg
+.	.	Z
+
+Vještine	vještina	Ncfpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+pokazati	pokazati	Vmn
+načine	način	Ncmpa
+zaustavljanja	zaustavljanje	Ncnsg
+vanjskog	vanjski	Agpnsgy
+krvarenja	krvarenje	Ncnsg
+
+2.	2.	Mdo
+demonstrirati	demonstrirati	Vmn
+postavljanje	postavljanje	Ncnsa
+kompresivnog	kompresivan	Agpmsgy
+zavoja	zavoj	Ncmsg
+.	.	Z
+
+1.6.	1.6.	Mdo
+
+Scenariji	scenarij	Ncmpn
+zbrinjavanja	zbrinjavanje	Ncnsg
+ozlijeđene	ozlijediti	Agpfsgy
+osobe	osoba	Ncfsg
+
+Vještine	vještina	Ncfpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+demonstrirati	demonstrirati	Vmn
+osnovni	osnovan	Agpmsayn
+postupak	postupak	Ncmsan
+kod	kod	Sg
+događaja	događaj	Ncmsg
+vezanog	vezati	Appmsgy
+uz	uz	Sa
+traumu	trauma	Ncfsa
+,	,	Z
+trauma	trauma	Ncfsn
+pregled	pregled	Ncmsan
+i	i	Cc
+zbrinjavanje	zbrinjavanje	Ncnsa
+ozlijeđenog	ozlijediti	Appmsayy
+kroz	kroz	Sa
+različite	različit	Agpmpay
+scenarije	scenarij	Ncmpa
+
+2.	2.	Mdo
+demonstrirati	demonstrirati	Vmn
+podjelu	podjela	Ncfsa
+uloga	ulog	Ncmsg
+unutar	unutar	Sg
+tima	tim	Ncmsg
+i	i	Cc
+kontrolu	kontrola	Ncfsa
+nad	nad	Si
+timom	tim	Ncmsi
+.	.	Z
+
+2.	2.	Mdo
+ODRŽAVANJE	održavanje	Ncnsn
+ŽIVOTA	život	Ncmsg
+ODRASLIH	odrastao	Agpmpgy
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+opisati	opisati	Vmn
+i	i	Cc
+demonstrirati	demonstrirati	Vmn
+ABCDE	abcde	Agpmsayn
+pregled	pregled	Ncmsan
+,	,	Z
+objasniti	objasniti	Vmn
+potrebne	potreban	Agpfpay
+intervencije	intervencija	Ncfpa
+,	,	Z
+primijeniti	primijeniti	Vmn
+osnovne	osnovan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+,	,	Z
+zbrinuti	zbrinuti	Vmn
+opstrukciju	opstrukcija	Ncfsa
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+stranim	stran	Agpnsiy
+tijelom	tijelo	Ncnsi
+,	,	Z
+uspostaviti	uspostaviti	Vmn
+prohodnost	prohodnost	Ncfsa
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+ventilirati	ventilirati	Vmn
+pacijenta	pacijent	Ncmsay
+različitim	različit	Agpnply
+pomagalima	pomagalo	Ncnpl
+,	,	Z
+sigurno	sigurno	Rgp
+defibrilirati	defibrilirati	Vmn
+,	,	Z
+primijeniti	primijeniti	Vmn
+transportni	transportni	Agpmsayn
+ventilator	ventilator	Ncmsan
+,	,	Z
+pravilno	pravilno	Rgp
+provoditi	provoditi	Vmn
+napredne	napredan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+s	sa	Si
+jasnim	jasan	Agpnsiy
+saznanjem	saznanje	Ncnsi
+o	o	Sl
+ulozi	uloga	Ncfsl
+i	i	Cc
+ovlastima	ovlast	Ncfpl
+voditelja	voditelj	Ncmsg
+tima	tim	Ncmsg
+.	.	Z
+
+2.1.	2.1.	Mdo
+
+ABCDE	ABCDE	Sa
+pregled	pregled	Ncmsan
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+indikacije	indikacija	Ncfpa
+za	za	Sa
+provođenje	provođenje	Ncnsa
+ABCDE	abcda	Ncfsg
+pregleda	pregled	Ncmsg
+
+2.	2.	Mdo
+objasniti	objasniti	Vmn
+važnost	važnost	Ncfsa
+procjene	procjena	Ncfsg
+mjesta	mjesto	Ncnsg
+događaja	događaj	Ncmpg
+s	sa	Si
+obzirom	obzir	Ncmsi
+na	na	Sa
+sigurnost	sigurnost	Ncfsa
+
+3.	3.	Mdo
+nabrojati	nabrojati	Vmn
+korake	korak	Ncmpa
+u	u	Sl
+strukturiranom	strukturiran	Agpmsly
+pristupu	pristup	Ncmsl
+ABCDE	ABCD	Npmsg
+pregleda	pregled	Ncmsg
+
+4.	4.	Mdo
+navesti	navesti	Vmn
+i	i	Cc
+objasniti	objasniti	Vmn
+postupak	postupak	Ncmsan
+procjene	procjena	Ncfsg
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+
+5.	5.	Mdo
+navesti	navesti	Vmn
+i	i	Cc
+objasniti	objasniti	Vmn
+postupak	postupak	Ncmsan
+procjene	procjena	Ncfsg
+disanja	disanje	Ncnsg
+
+6.	6.	Mdo
+navesti	navesti	Vmn
+i	i	Cc
+objasniti	objasniti	Vmn
+postupak	postupak	Ncmsan
+procjene	procjena	Ncfsg
+cirkulacije	cirkulacija	Ncfsg
+
+7.	7.	Mdo
+objasniti	objasniti	Vmn
+kratki	kratak	Agpmsayn
+neurološki	neurološki	Agpmsayn
+pregled	pregled	Ncmsan
+
+8.	8.	Mdo
+objasniti	objasniti	Vmn
+procjenu	procjena	Ncfsa
+izloženosti	izloženost	Ncfsg
+
+9.	9.	Mdo
+navesti	navesti	Vmn
+intervencije	intervencija	Ncfpa
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+provode	provoditi	Vmr3p
+tijekom	tijekom	Sg
+ABCDE	ABCD	Npmsg
+pregleda	pregled	Ncmsg
+

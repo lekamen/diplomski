@@ -1,0 +1,63 @@
+okolnosti	okolnost	Ncfpa
+svakog	svaki	Pi-msg
+pojedinog	pojedini	Agpmsgy
+predmeta	predmet	Ncmsg
+,	,	Z
+uz	uz	Sa
+istodobno	istodoban	Agpnsay
+uvažavanje	uvažavanje	Ncnsa
+ukupnih	ukupan	Agpfpgy
+gospodarskih	gospodarski	Agpfpgy
+i	i	Cc
+socijalnih	socijalan	Agpfpgy
+prilika	prilika	Ncfpg
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+.	.	Z
+
+24.	24.	Mdo
+
+Odluka	odluka	Ncfsn
+o	o	Sl
+objavi	objava	Ncfsl
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+(	(	Z
+točka	točka	Ncfsn
+V.	V.	Mro
+izreke	izreka	Ncfsg
+)	)	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-IIIA-1031	U-IIIA-1031	X
+/	/	Z
+2014	2014	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednik	predsjednik	Ncmsn
+Vijeća	vijeće	Ncnsg
+Antun	Antun	Npmsn
+Palarić	Palarić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

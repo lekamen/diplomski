@@ -1,0 +1,119 @@
+11	11	Mdc
+03.02.2016	03.02.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+pomoćnice	pomoćnica	Ncfsg
+ministra	ministar	Ncmsg
+kulture	kultura	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+278	278	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+41.	41.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+sustavu	sustav	Ncmsl
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+12/13	12/13	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+28.	28.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+POMOĆNICE	pomoćnica	Ncfsg
+MINISTRA	ministar	Ncmsg
+KULTURE	kultura	Ncfsg
+
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+SANJA	sanjati	Vmr3s
+ŠABAN	ŠABAN	Npmsn
+dužnosti	dužnost	Ncfsg
+pomoćnice	pomoćnica	Ncfsg
+ministra	ministar	Ncmsg
+kulture	kultura	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/58	02/58	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

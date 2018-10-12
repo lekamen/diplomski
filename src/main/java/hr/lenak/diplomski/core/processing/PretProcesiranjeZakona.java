@@ -26,7 +26,6 @@ public class PretProcesiranjeZakona {
 
 	private static Logger log = LoggerFactory.getLogger("PretProcesiranjeZakona");
 	private static final String DIRECTORY_PATH = "C:\\Users\\mabel\\tekstoviSluzbeni";
-	//private static final String DIRECTORY_PATH = PretProcesiranjeZakona.class.getClassLoader().getResource("static/tekstoviSluzbeni").getFile();
 	private static List<TekstoviSluzbeni> lista;
 	
 	static {

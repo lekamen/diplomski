@@ -1,0 +1,802 @@
+razvodnik	razvodnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+KIKIĆ	KIKIĆ	Npmsn
+
+2650.	2650.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+KLANAC	klanac	Ncmsan
+
+2651.	2651.	Mdo
+razvodnik	razvodnik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+KOS	kos	Ncmsn
+
+2652.	2652.	Mdo
+razvodnik	razvodnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Pavin	Pavin	Npmsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+2653.	2653.	Mdo
+razvodnik	razvodnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+KRAMŽAR	KRAMŽAR	Npmsn
+
+2654.	2654.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+KRIŠTOF	Krištof	Npmsn
+
+2655.	2655.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+KRIVAČIĆ	KRIVAČIĆ	Npmsn
+
+2656.	2656.	Mdo
+razvodnik	razvodnik	Ncmsn
+ILIJA	ILIJ	Npmsg
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+KRZNARIĆ	KRZNARIĆ	Npmsn
+
+2657.	2657.	Mdo
+razvodnik	razvodnik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+KUDRIĆ	KUDRIĆ	Npmsn
+
+2658.	2658.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+KUŠENIĆ	KUŠENIĆ	Npmsn
+
+2659.	2659.	Mdo
+razvodnik	razvodnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Milivojev	Milivojev	Npmsn
+)	)	Z
+LEKO	LEKO	Npmsn
+
+2660.	2660.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+LEOVAC	LEOVAC	Npmsn
+
+2661.	2661.	Mdo
+razvodnik	razvodnik	Ncmsn
+NEDELJKO	NEDELJKO	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+LOVREKOVIĆ	LOVREKOVIĆ	Npmsn
+
+2662.	2662.	Mdo
+razvodnik	razvodnik	Ncmsn
+SLOBODAN	slobodan	Agpmsnn
+(	(	Z
+Stipin	Stipin	Npmsn
+)	)	Z
+LOZANČIĆ	Lozančić	Npmsn
+
+2663.	2663.	Mdo
+razvodnik	razvodnik	Ncmsn
+RATKO	RATKO	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+LUKAČEVIĆ	LUKAČEVIĆ	Npmsn
+
+2664.	2664.	Mdo
+razvodnik	razvodnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+LJUBAS	LJUBAS	Npmsn
+
+2665.	2665.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Mihaljev	Mihaljev	Npmsn
+)	)	Z
+MARČIT	MARČIT	Npmsn
+
+2666.	2666.	Mdo
+razvodnik	razvodnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+MARGUŠ	marguti	Vmm2s
+
+2667.	2667.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MARIČIĆ	Maričić	Npmsn
+
+2668.	2668.	Mdo
+razvodnik	razvodnik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Zdravkov	Zdravkov	Npmsn
+)	)	Z
+MARIĆ	Marić	Npmsn
+
+2669.	2669.	Mdo
+razvodnik	razvodnik	Ncmsn
+MILJENKO	MILJENKO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MARINOVIĆ	Marinović	Npmsn
+
+2670.	2670.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MARKIĆ	MARKIĆ	Npmsn
+
+2671.	2671.	Mdo
+razvodnik	razvodnik	Ncmsn
+MILIVOJ	MILIVOJ	Npfsg
+(	(	Z
+Grgin	Grgin	Npmsn
+)	)	Z
+MARNIKA	marnik	Ncmsg
+
+2672.	2672.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+MATEŠIĆ	MATEŠIĆ	Npmsn
+
+2673.	2673.	Mdo
+razvodnik	razvodnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MATIĆ	Matić	Npmsn
+
+2674.	2674.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Daliborov	Daliborov	Npmsn
+)	)	Z
+MATIĆ	Matić	Npmsn
+
+2675.	2675.	Mdo
+razvodnik	razvodnik	Ncmsn
+BRANIMIR	BRANIMIR	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+MATIĆ	Matić	Npmsn
+
+2676.	2676.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+MATIJEVIĆ	MATIJEVIĆ	Npmsn
+
+2677.	2677.	Mdo
+razvodnik	razvodnik	Ncmsn
+TUGOMIR	TUGOMIR	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+MATLEKOVIĆ	MATLEKOVIĆ	Npmsn
+
+2678.	2678.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+MEDVED	MEDVED	Npmsn
+
+2679.	2679.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+MELINČEVIĆ	MELINČEVIĆ	Npmsn
+
+2680.	2680.	Mdo
+razvodnik	razvodnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Vidov	Vidov	Npmsn
+)	)	Z
+MIHALIĆ	MIHALIĆ	Npmsn
+
+2681.	2681.	Mdo
+razvodnik	razvodnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MIJOČ	MIJOČ	Npmsn
+
+2682.	2682.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MIKIĆ	Mikić	Npmsn
+
+2683.	2683.	Mdo
+razvodnik	razvodnik	Ncmsn
+EMIL	Emil	Npmsn
+(	(	Z
+Tomislavov	Tomislavov	Npmsn
+)	)	Z
+MILETIĆ	Miletić	Npmsn
+
+2684.	2684.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Jerkov	Jerkov	Npmsn
+)	)	Z
+MILIČEVIĆ	Miličević	Npmsn
+
+2685.	2685.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+MILIČEVIĆ	Miličević	Npmsn
+
+2686.	2686.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+MILINOVIĆ	Milinović	Npmsn
+
+2687.	2687.	Mdo
+razvodnik	razvodnik	Ncmsn
+DUŠAN	Dušan	Npmsn
+(	(	Z
+Jankov	Jankov	Npmsn
+)	)	Z
+MILJAVAC	MILJAVAC	Npmsn
+
+2688.	2688.	Mdo
+razvodnik	razvodnik	Ncmsn
+BORE	bora	Ncfsg
+(	(	Z
+Mijatov	Mijatov	Npmsn
+)	)	Z
+MRŠIĆ	Mršić	Npmsn
+
+2689.	2689.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+NAĐ	NAĐ	Npmsn
+
+2690.	2690.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŠIME	ŠIME	Npfsg
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+OŽEGOVIĆ	OŽEGOVIĆ	Npmsn
+
+2691.	2691.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+2692.	2692.	Mdo
+razvodnik	razvodnik	Ncmsn
+NEDILJKO	NEDILJKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PENIĆ	PENIĆ	Npmsn
+
+2693.	2693.	Mdo
+razvodnik	razvodnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+PLEŠA	PLEŠA	Npmsn
+
+2694.	2694.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+POLIČIĆ	POLIČIĆ	Npmsn
+
+2695.	2695.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽIVKO	ŽIVKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PRANJIĆ	PRANJIĆ	Npmsn
+
+2696.	2696.	Mdo
+razvodnik	razvodnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+PRIBANIĆ	PRIBANIĆ	Npmsn
+
+2697.	2697.	Mdo
+razvodnik	razvodnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+RAČAN	RAČAN	Npmsn
+
+2698.	2698.	Mdo
+razvodnik	razvodnik	Ncmsn
+KRISTIJAN	KRISTIJAN	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+RAJNOVIĆ	RAJNOVIĆ	Npmsn
+
+2699.	2699.	Mdo
+razvodnik	razvodnik	Ncmsn
+RUDOLF	RUDOLF	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+RAKIĆ	Rakić	Npmsn
+
+2700.	2700.	Mdo
+razvodnik	razvodnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+RESSLER	RESSLER	Npmsn
+
+2701.	2701.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Zvonkov	Zvonkov	Npmsn
+)	)	Z
+REZO	REZO	Npmsn
+
+2702.	2702.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+RISEK	RISEK	Npmsn
+
+2703.	2703.	Mdo
+razvodnik	razvodnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Stipin	Stipin	Npmsn
+)	)	Z
+ROMAC	ROMAC	Npmsn
+
+2704.	2704.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+SABOL	SABOL	Npmsn
+
+2705.	2705.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+SAMARDŽIJA	SAMARDŽIJ	Npmsg
+
+2706.	2706.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+SERTIĆ	SERTIĆ	Npmsn
+
+2707.	2707.	Mdo
+razvodnik	razvodnik	Ncmsn
+LADISLAV	LADISLAV	Npmsn
+(	(	Z
+Stevanov	Stevanov	Npmsn
+)	)	Z
+ŠARUGA	ŠARUG	Npmsg
+
+2708.	2708.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Zlatkov	Zlatkov	Npmsn
+)	)	Z
+ŠEBETIĆ	ŠEBETIĆ	Npmsn
+
+2709.	2709.	Mdo
+razvodnik	razvodnik	Ncmsn
+HRVOJE	HRVOJE	Npfsg
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+ŠIMUNIĆ	Šimunić	Npmsn
+
+2710.	2710.	Mdo
+razvodnik	razvodnik	Ncmsn
+SILVIO	SILVIO	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+ŠNIHUR	ŠNIHUR	Npmsn
+
+2711.	2711.	Mdo
+razvodnik	razvodnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ŠTEFANIĆ	ŠTEFANIĆ	Npmsn
+
+2712.	2712.	Mdo
+razvodnik	razvodnik	Ncmsn
+JERKO	JERKO	Npmsn
+(	(	Z
+Matijin	Matijin	Npmsn
+)	)	Z
+ŠTIRNIĆ	ŠTIRNIĆ	Npmsn
+
+2713.	2713.	Mdo
+razvodnik	razvodnik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+ŠTIVIČIĆ	ŠTIVIČIĆ	Npmsn
+
+2714.	2714.	Mdo
+razvodnik	razvodnik	Ncmsn
+ILIJA	ILIJ	Npmsg
+(	(	Z
+Pejin	Pejin	Npmsn
+)	)	Z
+ŠUGIĆ	ŠUGIĆ	Npmsn
+
+2715.	2715.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Augustinov	Augustinov	Npmsn
+)	)	Z
+ŠUŠNJAR	ŠUŠNJAR	Npmsn
+
+2716.	2716.	Mdo
+razvodnik	razvodnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+TOKIĆ	Tokić	Npmsn
+
+2717.	2717.	Mdo
+razvodnik	razvodnik	Ncmsn
+VELIMIR	VELIMIR	Npmsn
+(	(	Z
+Nikin	Nikin	Npmsn
+)	)	Z
+TOKIĆ	Tokić	Npmsn
+
+2718.	2718.	Mdo
+razvodnik	razvodnik	Ncmsn
+DANIJEL	DANIJEL	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+VITEZ	vitez	Ncmsn
+
+2719.	2719.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+VRANKULJ	vrankulti	Vmm2s
+
+2720.	2720.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+VRKIĆ	Vrkić	Npmsn
+
+2721.	2721.	Mdo
+razvodnik	razvodnik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+VRSELJA	vrselj	Ncmpg
+
+2722.	2722.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Gabrijelov	Gabrijelov	Npmsn
+)	)	Z
+VUČKOVIĆ	Vučković	Npmsn
+
+2723.	2723.	Mdo
+razvodnik	razvodnik	Ncmsn
+DINKO	DINKO	Npmsn
+(	(	Z
+Tadin	Tadin	Npmsn
+)	)	Z
+VUJIČEVIĆ	VUJIČEVIĆ	Npmsn
+
+2724.	2724.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Blažev	Blažev	Npmsn
+)	)	Z
+VUKADIN	VUKADIN	Npmsn
+
+2725.	2725.	Mdo
+razvodnik	razvodnik	Ncmsn
+JOZO	JOZO	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+VUKALOVIĆ	VUKALOVIĆ	Npmsn
+
+2726.	2726.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+VUKSANOVIĆ	Vuksanović	Npmsn
+
+2727.	2727.	Mdo
+razvodnik	razvodnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+VUNIĆ	VUNIĆ	Npmsn
+
+2728.	2728.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+ZADRO	zadrijeti	Vmp-sm
+
+2729.	2729.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVE	Iva	Npfsg
+(	(	Z
+Vicin	Vicin	Npmsn
+)	)	Z
+ZDRILIĆ	ZDRILIĆ	Npmsn
+
+2730.	2730.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Nediljkov	Nediljkov	Npmsn
+)	)	Z
+ZEC	zec	Ncmsn
+
+2731.	2731.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+ZEKO	zeko	Ncmsn
+
+2732.	2732.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+ZUBČIĆ	ZUBČIĆ	Npmsn
+
+2733.	2733.	Mdo
+razvodnik	razvodnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ŽIVKOVIĆ	Živković	Npmsn
+
+2734.	2734.	Mdo
+razvodnik	razvodnik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+ŽULJ	žulj	Ncmsan
+
+2735.	2735.	Mdo
+razvodnik	razvodnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Lukin	Lukin	Npmsn
+)	)	Z
+ŽUPARIĆ	ŽUPARIĆ	Npmsn
+
+2736.	2736.	Mdo
+pozornica	pozornica	Ncfsn
+ZORICA	ZORICA	Npfsn
+MARINA	MARINA	Npfsn
+(	(	Z
+Danina	Danina	Npfsn
+)	)	Z
+JANDRLIĆ	JANDRLIĆ	Npmsn
+
+2737.	2737.	Mdo
+pozornik	pozornik	Ncmsn
+ŽARKO	žarak	Agpnsny
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+BOGDAN	Bogdan	Npmsn
+
+2738.	2738.	Mdo
+pozornik	pozornik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+DELIĆ	Delić	Npmsn
+
+2739.	2739.	Mdo
+pozornik	pozornik	Ncmsn
+ŽAN	ŽAN	Npmsn
+(	(	Z
+Tončijev	Tončijev	Npmsn
+)	)	Z
+GLAVURTIĆ	GLAVURTIĆ	Npmsn
+
+2740.	2740.	Mdo
+pozornik	pozornik	Ncmsn
+MATE	MATE	Npfsg
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+LOVRIĆ	Lovrić	Npmsn
+
+2741.	2741.	Mdo
+pozornik	pozornik	Ncmsn
+ZVONKO	zvonak	Agpnsny
+(	(	Z
+Lazarov	Lazarov	Npnsn
+)	)	Z
+MARKOVIĆ	Marković	Npmsn
+
+2742.	2742.	Mdo
+pozornik	pozornik	Ncmsn
+RENATO	renati	Agpnsny
+(	(	Z
+Lucijanov	Lucijanov	Npmsn
+)	)	Z
+PEROJEVIĆ	PEROJEVIĆ	Npmsn
+
+2743.	2743.	Mdo
+vojnik	vojnik	Ncmsn
+VELIMIR	VELIMIR	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+ČIŽMEŠIJA	ČIŽMEŠIJ	Npmsg
+
+2744.	2744.	Mdo
+vojnik	vojnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+ČULINA	ČULINA	Npfsn
+
+2745.	2745.	Mdo
+vojnik	vojnik	Ncmsn
+MIRO	Miro	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+JAMAN	JAMAN	Npmsn
+
+2746.	2746.	Mdo
+vojnik	vojnik	Ncmsn
+ALEKSANDAR	ALEKSANDAR	Npmsn
+(	(	Z
+Marisavov	Marisavov	Npmsn
+)	)	Z
+JELIĆ	Jelić	Npmsn
+
+2747.	2747.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Danin	Danin	Npmsn
+)	)	Z
+IVANKOVIĆ	Ivanković	Npmsn
+
+2748.	2748.	Mdo
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+ĐURE	ĐURE	Npfsg
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MENALO	MENALO	Npmsn
+

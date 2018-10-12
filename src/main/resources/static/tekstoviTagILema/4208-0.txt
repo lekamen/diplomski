@@ -1,0 +1,293 @@
+61	61	Mdc
+06.07.2016	06.07.2016	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+poštanskim	poštanski	Agpfply
+markama	marka	Ncfpl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POMORSTVA	pomorstvo	Ncnsg
+,	,	Z
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+
+1557	1557	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+42.	42.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+poštanskim	poštanski	Agpfply
+uslugama	usluga	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+144/12.	144/12.	Mds
+,	,	Z
+153/13.	153/13.	Mds
+i	i	Cc
+78/15.	78/15.	Mds
+)	)	Z
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+,	,	Z
+na	na	Sa
+prijedlog	prijedlog	Ncmsan
+HP	h	Ncmpg
+–	i	Agpfsgy
+Hrvatske	hrvatski	Agpfsgy
+pošte	pošta	Ncfsg
+d.	da	Ncfsg
+d.	d.	Qr
+,	,	Z
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+
+O	o	Sl
+IZMJENAMA	izmjena	Ncfpl
+PRAVILNIKA	pravilnik	Ncmsg
+O	o	Sl
+POŠTANSKIM	poštanski	Agpfply
+MARKAMA	marka	Ncfpl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Pravilniku	pravilnik	Ncmsl
+o	o	Sl
+poštanskim	poštanski	Agpfply
+markama	marka	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+91/13.	91/13.	Mdo
+)	)	Z
+,	,	Z
+u	u	Sl
+članku	članak	Ncmsl
+9.	9.	Mdo
+stavak	stavak	Ncmsn
+1.	1.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+(	(	Z
+1	1	Mdc
+)	)	Z
+Obvezna	obvezan	Agpnpny
+obilježja	obilježje	Ncnpn
+poštanskih	poštanski	Agpfpgy
+maraka	marka	Ncfpg
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+su	biti	Var3p
+sljedeća	sljedeći	Agpfsny
+:	:	Z
+
+–	–	Agpmsny
+skraćeni	skratiti	Agpmsny
+naziv	naziv	Ncmsn
+države	država	Ncfsg
+:	:	Z
+»	»	Z
+Hrvatska	Hrvatska	Npfsn
+«	«	Z
+
+–	–	Agpmsny
+izdavač	izdavač	Ncmsn
+:	:	Z
+logotip	logotip	Ncmsn
+HP-a	HP	Npmsg
+d.	d.	Y
+d.	d.	Y
+
+–	–	Sg
+godina	godina	Ncfpg
+izdavanja	izdavanje	Ncnsg
+(	(	Z
+otisnuta	otisnuti	Appfsny
+arapskim	arapski	Agpfpiy
+brojkama	brojka	Ncfpi
+)	)	Z
+
+–	–	Z
+nominalna	nominalan	Agpfsny
+vrijednost	vrijednost	Ncfsn
+(	(	Z
+otisnuta	otisnuti	Appfsny
+arapskim	arapski	Agpfpiy
+brojkama	brojka	Ncfpi
+ili	ili	Cc
+latiničnim	latinični	Agpnsiy
+pismom	pismo	Ncnsi
+)	)	Z
+.	.	Z
+«	«	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Odluka	odluka	Ncfsn
+o	o	Sl
+izdavanju	izdavanje	Ncnsl
+poštanskih	poštanski	Agpfpgy
+maraka	marka	Ncfpg
+,	,	Z
+koju	koji	Pi-fsa
+donosi	donositi	Vmr3s
+Uprava	uprava	Ncfsn
+HP-a	HP	Npmsg
+d.	d.	Y
+d.	d.	Y
+ili	ili	Cc
+od	od	Sg
+nje	on	Ncfsg
+ovlaštena	ovlastiti	Appfsny
+osoba	osoba	Ncfsn
+,	,	Z
+mora	morati	Vmr3s
+sadržavati	sadržavati	Vmn
+sljedeće	sljedeći	Agpfpay
+sastavnice	sastavnica	Ncfpa
+:	:	Z
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+i	i	Cc
+vrstu	vrsta	Ncfsa
+izdanja	izdanje	Ncnsg
+
+–	–	Pd-fsa
+nominalnu	nominalan	Agpfsay
+vrijednost	vrijednost	Ncfsa
+poštanskih	poštanski	Agpfpgy
+maraka	marka	Ncfpg
+
+–	–	Agpmsann
+način	način	Ncmsan
+zupčanja	zupčanje	Ncnsg
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+oblik	oblik	Ncmsan
+zaštite	zaštita	Ncfsg
+izdanja	izdanje	Ncnsg
+
+–	–	Sa
+nakladu	naklada	Ncfsa
+
+–	–	Agpmsny
+broj	broj	Ncmsn
+poštanskih	poštanski	Agpfpgy
+maraka	marka	Ncfpg
+u	u	Sl
+arku	arak	Ncmsl
+
+–	–	Z
+odabranog	odabrati	Agpmsgy
+ponuditelja	ponuditelj	Ncmsg
+grafičkog	grafički	Agpmsgy
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+likovnog	likovni	Agpnsgy
+rješenja	rješenje	Ncnsg
+
+–	–	Sa
+dan	dan	Ncmsan
+izdavanja	izdavanje	Ncnsg
+i	i	Cc
+puštanja	puštanje	Ncnsg
+u	u	Sa
+prodaju	prodaja	Ncfsa
+.	.	Z
+«	«	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+01/80	01/80	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+4	4	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+24.	24.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Oleg	Oleg	Npmsn
+Butković	Butković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,24 @@
+PROGRAMA	program	Ncmsg
+
+Ovaj	ovaj	Pd-msn
+Program	program	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Ncmsi
+donošenja	donošenje	Ncnsg
+i	i	Cc
+važi	važiti	Vmr3s
+do	do	Sg
+iskorištenja	iskorištenje	Ncnsg
+sredstava	sredstvo	Ncnpg
+,	,	Z
+a	a	Cc
+najkasnije	kasno	Rgs
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2020.	2020.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+

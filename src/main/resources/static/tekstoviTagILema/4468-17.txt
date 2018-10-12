@@ -1,0 +1,688 @@
+zdjelice	zdjelica	Ncfpa
+90	90	Mdc
+min	min	Y
+.	.	Z
+1.4.	1.4.	Mds
+
+Ostala	ostali	Agpnpny
+sredstva	sredstvo	Ncnpn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+45	45	Mdc
+min	min	Y
+.	.	Z
+1.5.	1.5.	Mds
+
+Zaustavljanje	zaustavljanje	Ncnsn
+krvarenja	krvarenje	Ncnsg
+15	15	Mdc
+min	min	Y
+.	.	Z
+1.6.	1.6.	Mds
+
+Scenariji	scenarij	Ncmpn
+zbrinjavanja	zbrinjavanje	Ncnsg
+ozlijeđene	ozlijediti	Agpfsgy
+osobe	osoba	Ncfsg
+285	285	Mdc
+min	min	Y
+.	.	Z
+2.	2.	Mdo
+ODRŽAVANJE	održavanje	Ncnsn
+ŽIVOTA	život	Ncmsg
+ODRASLIH	odrastao	Agpmpgy
+2.1.	2.1.	Mds
+
+ABCDE	ABCDE	Sa
+pregled	pregled	Ncmsan
+60	60	Mdc
+min	min	Y
+.	.	Z
+2.2.	2.2.	Mds
+
+Osnovne	osnovan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+odraslih	odrastao	Agpfpgy
+i	i	Cc
+opstrukcija	opstrukcija	Ncfsn
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+stranim	stran	Agpnsiy
+tijelom	tijelo	Ncnsi
+60	60	Mdc
+min	min	Y
+.	.	Z
+2.3.	2.3.	Mds
+
+Održavanje	održavanje	Ncnsn
+prohodnosti	prohodnost	Ncfsg
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+ventilacija	ventilacija	Ncfsn
+105	105	Mdc
+min	min	Y
+.	.	Z
+2.4.	2.4.	Mds
+
+Defibrilator	defibrilator	Ncmsn
+i	i	Cc
+sigurna	siguran	Agpfsny
+defibrilacija	defibrilacija	Ncfsn
+75	75	Mdc
+min	min	Y
+.	.	Z
+2.5.	2.5.	Mds
+
+Transportni	transportni	Agpmsny
+ventilator	ventilator	Ncmsn
+75	75	Mdc
+min	min	Y
+.	.	Z
+2.6.	2.6.	Mds
+
+Scenariji	scenarij	Ncmpn
+naprednih	napredan	Agpfpgy
+mjera	mjera	Ncfpg
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+165	165	Mdc
+min	min	Y
+.	.	Z
+3.	3.	Mdo
+ODRŽAVANJE	održavanje	Ncnsn
+ŽIVOTA	život	Ncmsg
+DJECE	dijete	Ncnpg
+3.1.	3.1.	Mds
+
+Osnovne	osnovan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+djece	dijete	Ncnpg
+i	i	Cc
+opstrukcija	opstrukcija	Ncfsn
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+stranim	stran	Agpnsiy
+tijelom	tijelo	Ncnsi
+60	60	Mdc
+min	min	Y
+.	.	Z
+3.2.	3.2.	Mds
+
+Održavanje	održavanje	Ncnsn
+prohodnosti	prohodnost	Ncfsg
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+ventilacija	ventilacija	Ncfsn
+30	30	Mdc
+min	min	Y
+.	.	Z
+4.	4.	Mdo
+POROD	porod	Ncmsn
+60	60	Mdc
+min	mie	Ncnpg
+.	.	Z
+
+Ukupno	ukupno	Rgp
+:	:	Z
+28	28	Mdc
+sati	sat	Ncmpg
+
+*	*	Z
+1	1	Mdc
+sat	sat	Ncmsan
+=	=	Z
+1	1	Mdc
+školski	školski	Agpmsny
+sat	sat	Ncmsn
+(	(	Z
+45	45	Mdc
+minuta	minuta	Ncfpg
+)	)	Z
+
+PRILOG	prilog	Ncmsn
+7.	7.	Mdo
+
+PLAN	plan	Ncmsn
+I	i	Cc
+PROGRAM	program	Ncmsn
+EDUKACIJSKIH	edukacijski	Agpfpgy
+VJEŽBI	vježba	Ncfpg
+OBNOVE	obnova	Ncfsg
+ZNANJA	znanje	Ncnsg
+I	i	Cc
+VJEŠTINA	vještina	Ncfsn
+ZA	za	Sa
+DOKTORE	doktor	Ncmpa
+MEDICINE	medicina	Ncfsg
+I	i	Cc
+MEDICINSKE	medicinski	Agpfpny
+SESTRE	sestra	Ncfpn
+–	–	Z
+MEDICINSKE	medicinski	Agpmpay
+TEHNIČARE	tehničar	Ncmpa
+IZVANBOLNIČKE	izvanbolnički	Agpfsgy
+HITNE	hitan	Agpfsgy
+MEDICINSKE	medicinski	Agpfsgy
+SLUŽBE	služba	Ncfsg
+
+Redni	redni	Agpmsny
+broj	broj	Ncmsn
+Naziv	naziv	Ncmsn
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+Vrijeme	vrijeme	Ncnsn
+1.	1.	Mdo
+TRAUMA	trauma	Ncfsn
+1.1.	1.1.	Mds
+
+Trauma	trauma	Ncfsn
+pregled	pregled	Ncmsan
+45	45	Mdc
+min	min	Y
+.	.	Z
+1.2.	1.2.	Mds
+
+Skidanje	skidanje	Ncnsn
+zaštitne	zaštitni	Agpfsgy
+kacige	kaciga	Ncfsg
+15	15	Mdc
+min	min	Y
+.	.	Z
+1.3.	1.3.	Mds
+
+Imobilizacija	imobilizacija	Ncfsn
+kralježnice	kralježnica	Ncfsg
+i	i	Cc
+zdjelice	zdjelica	Ncfpa
+45	45	Mdc
+min	min	Y
+.	.	Z
+1.4.	1.4.	Mds
+
+Ostala	ostali	Agpnpny
+sredstva	sredstvo	Ncnpn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+20	20	Mdc
+min	min	Y
+.	.	Z
+1.5.	1.5.	Mds
+
+Zaustavljanje	zaustavljanje	Ncnsn
+krvarenja	krvarenje	Ncnsg
+10	10	Mdc
+min	min	Y
+.	.	Z
+1.6.	1.6.	Mds
+
+Scenariji	scenarij	Ncmpn
+zbrinjavanja	zbrinjavanje	Ncnsg
+ozlijeđene	ozlijediti	Agpfsgy
+osobe	osoba	Ncfsg
+140	140	Mdc
+min	min	Y
+.	.	Z
+2.	2.	Mdo
+ODRŽAVANJE	održavanje	Ncnsn
+ŽIVOTA	život	Ncmsg
+ODRASLIH	odrastao	Agpmpgy
+2.1.	2.1.	Mds
+
+ABCDE	ABCDE	Sa
+pregled	pregled	Ncmsan
+30	30	Mdc
+min	min	Y
+.	.	Z
+2.2.	2.2.	Mds
+
+Osnovne	osnovan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+odraslih	odrastao	Agpfpgy
+i	i	Cc
+opstrukcija	opstrukcija	Ncfsn
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+stranim	stran	Agpnsiy
+tijelom	tijelo	Ncnsi
+30	30	Mdc
+min	min	Y
+.	.	Z
+2.3.	2.3.	Mds
+
+Održavanje	održavanje	Ncnsn
+prohodnosti	prohodnost	Ncfsg
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+ventilacija	ventilacija	Ncfsn
+50	50	Mdc
+min	min	Ncfpg
+.	.	Z
+2.4.	2.4.	Mds
+
+Defibrilator	defibrilator	Ncmsn
+i	i	Cc
+sigurna	siguran	Agpfsny
+defibrilacija	defibrilacija	Ncfsn
+35	35	Mdc
+min	min	Y
+.	.	Z
+2.5.	2.5.	Mds
+
+Transportni	transportni	Agpmsny
+ventilator	ventilator	Ncmsn
+35	35	Mdc
+min	min	Y
+.	.	Z
+2.6.	2.6.	Mds
+
+Scenariji	scenarij	Ncmpn
+naprednih	napredan	Agpfpgy
+mjera	mjera	Ncfpg
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+90	90	Mdc
+min	min	Y
+.	.	Z
+3.	3.	Mdo
+ODRŽAVANJE	održavanje	Ncnsn
+ŽIVOTA	život	Ncmsg
+DJECE	dijete	Ncnpg
+3.1.	3.1.	Mds
+
+Osnovne	osnovan	Agpfpay
+mjere	mjera	Ncfpa
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+djece	dijete	Ncnpg
+i	i	Cc
+opstrukcija	opstrukcija	Ncfsn
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+stranim	stran	Agpnsiy
+tijelom	tijelo	Ncnsi
+30	30	Mdc
+min	min	Y
+.	.	Z
+3.2.	3.2.	Mds
+
+Održavanje	održavanje	Ncnsn
+prohodnosti	prohodnost	Ncfsg
+dišnog	dišni	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+ventilacija	ventilacija	Ncfsn
+15	15	Mdc
+min	min	Y
+.	.	Z
+4.	4.	Mdo
+POROD	porod	Ncmsn
+30	30	Mdc
+min	mie	Ncnpg
+.	.	Z
+
+Ukupno	ukupno	Rgp
+:	:	Z
+14	14	Mdc
+sati	sat	Ncmpg
+
+*	*	Z
+1	1	Mdc
+sat	sat	Ncmsan
+=	=	Z
+1	1	Mdc
+školski	školski	Agpmsny
+sat	sat	Ncmsn
+(	(	Z
+45	45	Mdc
+minuta	minuta	Ncfpg
+)	)	Z
+
+PRILOG	prilog	Ncmsn
+8.	8.	Mdo
+
+OPREMA	oprema	Ncfsn
+ZA	za	Sa
+PROVOĐENJE	provođenje	Ncnsa
+EDUKACIJSKIH	edukacijski	Agpfpgy
+VJEŽBI	vježba	Ncfpg
+DOKTORA	doktor	Ncmpg
+MEDICINE	medicina	Ncfsg
+I	i	Cc
+MEDICINSKE	medicinski	Agpfpny
+SESTRE	sestra	Ncfpn
+–	–	Z
+MEDICINSKE	medicinski	Agpmpay
+TEHNIČARE	tehničar	Ncmpa
+IZVANBOLNIČKE	izvanbolnički	Agpfsgy
+HITNE	hitan	Agpfsgy
+MEDICINSKE	medicinski	Agpfsgy
+SLUŽBE	služba	Ncfsg
+
+Naziv	naziv	Ncmsn
+
+Aspirator	aspirator	Ncmsn
+
+3-žilni	3-žilan	Agpmsny
+kabel	kabel	Ncmsn
+za	za	Sa
+monitoring	monitoring	Ncmsan
+
+Adapter	adapter	Ncmsn
+za	za	Sa
+kapnometar	kapnometar	Ncmsan
+
+Aspiracijski	aspiracijski	Agpmpny
+kateteri	kateter	Ncmpn
+
+Bakteriološki	bakteriološki	Agpmsny
+filter	filter	Ncmsn
+
+Baterije	baterija	Ncfpn
+za	za	Sa
+laringoskop	laringoskop	Ncmsan
+
+Baterije	baterija	Ncfpn
+za	za	Sa
+simulatore	simulator	Ncmpa
+
+Boca	boca	Ncfsn
+za	za	Sa
+kisik	kisik	Ncmsan
+
+Bočni	bočni	Agpmpny
+stabilizatori	stabilizator	Ncmpn
+za	za	Sa
+dugu	dug	Agpfsay
+dasku	daska	Ncfsa
+
+Defibrilator	defibrilator	Ncmsn
+
+Dijagnostička	dijagnostički	Agpfsny
+lampica	lampica	Ncfsn
+
+Dječja	dječji	Agpfsny
+maska	maska	Ncfsn
+sa	sa	Si
+spremnikom	spremnik	Ncmsi
+za	za	Sa
+kisik	kisik	Ncmsan
+
+Duga	dug	Agpfsny
+daska	daska	Ncfsn
+
+Džepna	džepni	Agpfsny
+maska	maska	Ncfsn
+
+Endotrahealni	endotrahealan	Agpmsny
+tubusi	tubusi	Ncmsn
+različitih	različit	Agpfpgy
+veličina	veličina	Ncfpg
+
+Fiksatori	fiksator	Ncmpn
+za	za	Sa
+endotrahealni	endotrahealan	Agpmsayn
+tubus	tubus	Ncmsan
+
+Fonendoskop	fonendoskop	Ncmsn
+
+Glukometar	Glukometar	Npmsn
+
+iv	IV	Mrc
+.	.	Z
+kanile	kanila	Ncfpa
+u	u	Sa
+više	mnogo	Rgc
+veličina	veličina	Ncfpg
+
+I-gel	i-ge	Agpfpgy
+različitih	različit	Agpfpgy
+veličina	veličina	Ncfpg
+
+Isotermalna	isotermalan	Agpfsny
+folija	folija	Ncfsn
+
+Motoristička	motoristički	Agpfsny
+kaciga	kaciga	Ncfsn
+
+Prsluk	prsluk	Ncmsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+
+Laringoskop	laringoskop	Ncmsn
+
+Laringealne	laringealan	Agpfpny
+maske	maska	Ncfpn
+različitih	različit	Agpfpgy
+veličina	veličina	Ncfpg
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+vođenja	vođenje	Ncnsg
+
+poroda	porod	Ncmsg
+s	sa	Si
+novorođenčetom	novorođenče	Ncnsi
+
+Magillova	magillov	Aspfsny
+hvataljka	hvataljka	Ncfsn
+
+Manometer	Manometer	Npmsn
+i	i	Cc
+protokomjer	protokomjer	Ncmsan
+za	za	Sa
+bocu	boca	Ncfsa
+za	za	Sa
+kisik	kisik	Ncmsan
+
+Maska	maska	Ncfsn
+sa	sa	Si
+spremnikom	spremnik	Ncmsi
+za	za	Sa
+kisik	kisik	Ncmsan
+
+Maska	maska	Ncfsn
+za	za	Sa
+kapnometar	kapnometar	Ncmsan
+
+Maska	maska	Ncfsn
+za	za	Sa
+NIV	NIV	Npmsan
+
+Mehanički	mehanički	Agpmsny
+transportni	transportni	Agpmsny
+ventilator	ventilator	Ncmsn
+sa	sa	Si
+testnim	testni	Agpmsiy
+
+plućima	pluća	Ncnpl
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+zbrinjavanja	zbrinjavanje	Ncnsg
+dišnih	dišni	Agpmpgy
+putova	put	Ncmpg
+
+odraslih	odrastao	Agpmpgy
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+naprednih	napredan	Agpfpgy
+mjera	mjera	Ncfpg
+
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+odraslih	odrastao	Agpmpgy
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+osnovnih	osnovan	Agpfpgy
+mjera	mjera	Ncfpg
+
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+odraslih	odrastao	Agpmpgy
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+osnovnih	osnovan	Agpfpgy
+mjera	mjera	Ncfpg
+
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+dojenčadi	dojenče	Ncfsg
+
+Model	model	Ncmsn
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+osnovnih	osnovan	Agpfpgy
+mjera	mjera	Ncfpg
+
+održavanja	održavanje	Ncnsg
+života	život	Ncmsg
+djece	dijete	Ncnpg
+iznad	iznad	Sg
+jedne	jedan	Mlcfsg
+
+godine	godina	Ncfsg
+života	život	Ncmsg
+
+Nazofaringealni	nazofaringealan	Agpmpny
+tubusi	tubus	Ncmpn
+u	u	Sl
+veličinama	veličina	Ncfpl
+za	za	Sa
+odrasle	odrastao	Agpmpay
+
+Nosni	nosni	Agpmpny
+kateteri	kateter	Ncmpn
+za	za	Sa
+kisik	kisik	Ncmsan
+
+Orofaringealni	orofaringealan	Agpmpny
+tubusi	tubus	Ncmpn
+u	u	Sl
+veličinama	veličina	Ncfpl
+za	za	Sa
+djecu	dijete	Ncnpa
+
+Orofaringealni	orofaringealan	Agpmpny
+tubusi	tubus	Ncmpn
+u	u	Sl
+veličinama	veličina	Ncfpl
+za	za	Sa
+odrasle	odrastao	Agpmpay
+
+Ovratnici	ovratnik	Ncmpn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+
+Pean	pean	Ncmsn
+(	(	Z
+2	2	Mdc
+komada	komad	Ncmpg
+u	u	Sl
+setu	set	Ncmsl
+za	za	Sa
+porod	porod	Ncmsan
+)	)	Z
+
+Plastična	plastičan	Agpfsny
+vrećica	vrećica	Ncfsn
+(	(	Z
+za	za	Sa
+pohranu	pohrana	Ncfsa
+posteljice	posteljica	Ncfsg
+)	)	Z
+
+Poveska	poveska	Ncfsn
+za	za	Sa
+venestazu	venestaza	Ncfsa
+
+Priručnik	priručnik	Ncmsn
+Temeljni	temeljan	Agpmsny
+hitni	hitan	Agpmpny
+medicinski	medicinski	Agpmpny
+postupci	postupak	Ncmpn
+
+(	(	Z
+za	za	Sa
+medicinske	medicinski	Agpmpay
+sestre-medicinske	sestre-medicinski	Agpmpay
+tehničare	tehničar	Ncmpa
+)	)	Z
+
+Pulsni	pulsni	Agpmsny
+oksimetar	oksimetar	Ncmsn
+
+Rasklopna	rasklopni	Agpnpny
+nosila	nositi	Vmp-sf
+
+Remenje	remenje	Ncnsn
+za	za	Sa
+fiksaciju	fiksacija	Ncfsa
+na	na	Sa
+dugu	duga	Ncfsa
+dasku	daska	Ncfsa
+
+Samošireći	samošireći	Agpmsny
+balon	balon	Ncmsn
+za	za	Sa
+djecu	dijete	Ncnpa
+
+Samošireći	samošireći	Agpmpny
+baloni	balon	Ncmpn
+za	za	Sa
+odrasle	odrastao	Agpmpay
+
+Set	set	Ncmsn
+za	za	Sa
+porod	porod	Ncmsan
+
+Simulacijski	simulacijski	Agpmsny
+kabel	kabel	Ncmsn
+za	za	Sa
+defibirilaciju	defibirilacija	Ncfsa
+
+Sistem	sistem	Ncmsn
+za	za	Sa
+infuziju	infuzija	Ncfsa
+
+Smjernice	smjernica	Ncfpn
+za	za	Sa
+rad	rad	Ncmsan
+izvanbolničke	izvanbolnički	Agpfsgy
+hitne	hitan	Agpfsgy
+medicinske	medicinski	Agpfsgy
+službe	služba	Ncfsg
+
+(	(	Z
+za	za	Sa
+doktore	doktor	Ncmpa
+medicine	medicina	Ncfsg
+)	)	Z
+
+Sterilna	sterilan	Agpfsny
+gaza	gaza	Ncfsn
+(	(	Z
+više	mnogo	Rgc
+komada	komad	Ncmpg
+)	)	Z
+

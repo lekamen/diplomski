@@ -1,0 +1,241 @@
+70	70	Mdc
+24.06.2015	24.06.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+dodjeli	dodjela	Ncfsl
+odlikovanja	odlikovanje	Ncnsg
+Reda	red	Ncmsg
+hrvatskog	hrvatski	Agpmsgy
+pletera	pleter	Ncmsg
+,	,	Z
+za	za	Sa
+osobiti	osobit	Agpmsayn
+doprinos	doprinos	Ncmsan
+razvitku	razvitak	Ncmsd
+i	i	Cc
+ugledu	ugled	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+i	i	Cc
+dobrobiti	dobrobit	Ncfsg
+njezinih	njezin	Ps3mpg
+građana	građanin	Ncmpg
+
+PREDSJEDNICA	predsjednica	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1344	1344	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+98.	98.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+56/90.	56/90.	Mds
+,	,	Z
+135/97.	135/97.	Mds
+,	,	Z
+113/00.	113/00.	Mds
+,	,	Z
+28/01.	28/01.	Mdo
+,	,	Z
+76/10.	76/10.	Mdo
+i	i	Cc
+05/14.	05/14.	Mdo
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+i	i	Cc
+članaka	članak	Ncmpg
+2.	2.	Mdo
+,	,	Z
+3.	3.	Mdo
+i	i	Cc
+21.	21.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+odlikovanjima	odlikovanje	Ncnpl
+i	i	Cc
+priznanjima	priznanje	Ncmpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+20/95.	20/95.	Mdo
+,	,	Z
+57/06.	57/06.	Mds
+i	i	Cc
+141/06.	141/06.	Mdo
+)	)	Z
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+DODJELI	dodjela	Ncfsl
+ODLIKOVANJA	odlikovanje	Ncnsg
+
+Redom	red	Ncmsi
+hrvatskog	hrvatski	Agpmsgy
+pletera	pleter	Ncmsg
+,	,	Z
+za	za	Sa
+osobiti	osobit	Agpmsayn
+doprinos	doprinos	Ncmsan
+razvitku	razvitak	Ncmsd
+i	i	Cc
+ugledu	ugled	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+i	i	Cc
+dobrobiti	dobrobit	Ncfsg
+njezinih	njezin	Ps3mpg
+građana	građanin	Ncmpg
+,	,	Z
+odlikuju	odlikovati	Vmr3p
+se	sebe	Px--sa
+
+1.	1.	Mdo
+pukovnik	pukovnik	Ncmsn
+JERKO	JERKO	Npmsn
+(	(	Z
+Božidar	Božidar	Npmsn
+)	)	Z
+IVANKOVIĆ	Ivanković	Npmsn
+
+2.	2.	Mdo
+pukovnica	pukovnica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Stanko	Stanko	Npmsn
+)	)	Z
+TADIĆ	Tadić	Npmsn
+
+3.	3.	Mdo
+bojnik	bojnik	Ncmsn
+RENATO	renati	Agpnsny
+(	(	Z
+Mirko	Mirko	Npmsn
+)	)	Z
+PARADI	parada	Ncfsl
+
+4.	4.	Mdo
+bojnik	bojnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+TOMAC	TOMAC	Npmsn
+
+5.	5.	Mdo
+bojnik	bojnik	Ncmsn
+SLAVKO	Slavko	Npmsn
+(	(	Z
+Ilija	Ilija	Npfsn
+)	)	Z
+TOPIĆ	Topić	Npmsn
+
+6.	6.	Mdo
+satnik	satnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Jure	Jure	Npmsn
+)	)	Z
+SELAK	SELAK	Npmsn
+
+7.	7.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Stjepan	Stjepan	Npmsn
+)	)	Z
+FILKOVIĆ	FILKOVIĆ	Npmsn
+
+8.	8.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+LADISLAV	LADISLAV	Npmsn
+(	(	Z
+Andrija	Andrija	Npfsn
+)	)	Z
+POLOVIĆ	POLOVIĆ	Npmsn
+
+9.	9.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JURICA	JURICA	Npfsn
+(	(	Z
+Juraj	Juraj	Npmsn
+)	)	Z
+MIKŠIĆ	Mikšić	Npmsn
+
+10.	10.	Mdo
+skupnik	skupnik	Ncmsn
+STIPO	STIPO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+KUNČAK	KUNČAK	Npmsn
+
+11.	11.	Mdo
+razvodnik	razvodnik	Ncmsn
+FILIP	Filip	Npmsn
+(	(	Z
+Božo	Božo	Npmsn
+)	)	Z
+VUGDELIJA	VUGDELIJA	Npfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+060	060	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+16/04	16/04	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+03/3	03/3	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+22.	22.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

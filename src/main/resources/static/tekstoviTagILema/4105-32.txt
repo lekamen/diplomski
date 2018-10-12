@@ -1,0 +1,756 @@
+DRAKULIĆ	Drakulić	Npmsn
+
+2993.	2993.	Mdo
+namještenica	namještenica	Ncfsn
+BILJANA	BILJANA	Npfsn
+(	(	Z
+Antunova	Antunova	Npfsn
+)	)	Z
+DUVNJAK	DUVNJAK	Npmsn
+
+2994.	2994.	Mdo
+namještenica	namještenica	Ncfsn
+MARIJA	Marija	Npfsn
+(	(	Z
+Petrova	Petrov	Aspfsny
+)	)	Z
+GALEŠIĆ	GALEŠIĆ	Npmsn
+
+2995.	2995.	Mdo
+namještenica	namještenica	Ncfsn
+SLAVICA	SLAVICA	Npfsn
+(	(	Z
+Markova	Markova	Npfsn
+)	)	Z
+JURIĆ	Jurić	Npmsn
+
+2996.	2996.	Mdo
+namještenica	namještenica	Ncfsn
+SNJEŽANA	SNJEŽANA	Npfsn
+(	(	Z
+Petrova	Petrov	Aspfsny
+)	)	Z
+LAŠAK	LAŠAK	Qo
+
+2997.	2997.	Mdo
+namještenica	namještenica	Ncfsn
+ANITA	ANITA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+LISAK-PRIŠLIN	lisak-prišlin	Aspmsnn
+
+2998.	2998.	Mdo
+namještenica	namještenica	Ncfsn
+LJUBICA	ljubica	Ncfpg
+(	(	Z
+Filipova	Filipova	Npfsn
+)	)	Z
+MILKOVIĆ	MILKOVIĆ	Npmsn
+
+2999.	2999.	Mdo
+namještenica	namještenica	Ncfsn
+ANKA	ANKA	Npfsn
+(	(	Z
+Marijina	Marijina	Npfsn
+)	)	Z
+MURGIĆ	MURGIĆ	Npmsn
+
+3000.	3000.	Mdo
+namještenica	namještenica	Ncfsn
+SNJEŽANA	SNJEŽAN	Npmsg
+(	(	Z
+Nikolina	Nikolina	Npfsn
+)	)	Z
+PAVIČIĆ	Pavičić	Npmsn
+
+3001.	3001.	Mdo
+namještenica	namještenica	Ncfsn
+JELENA	jelen	Ncmpg
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+POLJAK	POLJAK	Npmsn
+
+3002.	3002.	Mdo
+namještenica	namještenica	Ncfsn
+VESNA	VESNA	Npfsn
+(	(	Z
+Markova	Markov	Aspfsny
+)	)	Z
+POŽEG	POŽEG	Npmsn
+
+3003.	3003.	Mdo
+namještenica	namještenica	Ncfsn
+KATICA	KATICA	Npfsn
+(	(	Z
+Markova	Markov	Aspfsny
+)	)	Z
+STIPERSKI	stiperski	Agpmsny
+
+3004.	3004.	Mdo
+namještenica	namještenica	Ncfsn
+BOŽICA	božica	Ncfpg
+(	(	Z
+Božidarova	Božidarova	Npfsn
+)	)	Z
+ŠTENGL	ŠTENGL	Npmsn
+
+3005.	3005.	Mdo
+namještenica	namještenica	Ncfsn
+ANKICA	ANKICA	Npfsn
+(	(	Z
+Jakovljeva	Jakovljeva	Npfsn
+)	)	Z
+VARDIĆ	VARDIĆ	Npmsn
+
+3006.	3006.	Mdo
+namještenica	namještenica	Ncfsn
+INGRID	INGRID	Npfsn
+(	(	Z
+Igorova	Igorova	Npfsn
+)	)	Z
+VULETIĆ	Vuletić	Npmsn
+
+3007.	3007.	Mdo
+namještenica	namještenica	Ncfsn
+LJUBICA	ljubica	Ncfpg
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+ZORETIĆ	ZORETIĆ	Npmsn
+
+3008.	3008.	Mdo
+namještenica	namještenica	Ncfsn
+IRENA	IREN	Npmsg
+(	(	Z
+Franina	Franina	Npfsn
+)	)	Z
+ŽIŽIĆ	Žižić	Npmsn
+
+3009.	3009.	Mdo
+namještenik	namještenik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+ALEŠKOVIĆ	ALEŠKOVIĆ	Npmsn
+
+3010.	3010.	Mdo
+namještenik	namještenik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+ALUJEVIĆ	ALUJEVIĆ	Npmsn
+
+3011.	3011.	Mdo
+namještenik	namještenik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+ALVIR	ALVIR	Npmsn
+
+3012.	3012.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+ANDRAKOVIĆ	ANDRAKOVIĆ	Npmsn
+
+3013.	3013.	Mdo
+namještenik	namještenik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Pavin	Pavin	Npmsn
+)	)	Z
+ANDRIĆ	Andrić	Npmsn
+
+3014.	3014.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ANDRIŠKA	andriška	Ncfsn
+
+3015.	3015.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+ARAČIĆ	ARAČIĆ	Npmsn
+
+3016.	3016.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+ARALICA	aralica	Ncfsn
+
+3017.	3017.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+BABIĆ	Babić	Npmsn
+
+3018.	3018.	Mdo
+namještenik	namještenik	Ncmsn
+MILJENKO	MILJENKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BABIĆ	Babić	Npmsn
+
+3019.	3019.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+BAJSIĆ	BAJSIĆ	Npmsn
+
+3020.	3020.	Mdo
+namještenik	namještenik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+BAN	ban	Ncmsn
+
+3021.	3021.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Radin	Radin	Npmsn
+)	)	Z
+BANOVIĆ	Banović	Npmsn
+
+3022.	3022.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BARIČEVIĆ	BARIČEVIĆ	Npmsn
+
+3023.	3023.	Mdo
+namještenik	namještenik	Ncmsn
+ĐANFRANKO	ĐANFRANKO	Npmsn
+(	(	Z
+Lucianov	Lucianov	Npmsn
+)	)	Z
+BARIČEVIĆ	BARIČEVIĆ	Npmsn
+
+3024.	3024.	Mdo
+namještenik	namještenik	Ncmsn
+JURE	Jure	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+BARIĆ	Barić	Npmsn
+
+3025.	3025.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+BAŠIĆ	Bašić	Npmsn
+
+3026.	3026.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BATARILO	batariti	Vmp-sn
+
+3027.	3027.	Mdo
+namještenik	namještenik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+BATRAC	BATRAC	Npmsn
+
+3028.	3028.	Mdo
+namještenik	namještenik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+BATUR	BATUR	Npmsn
+
+3029.	3029.	Mdo
+namještenik	namještenik	Ncmsn
+JAKOV	JAKOV	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+BATUR	BATUR	Npmsn
+
+3030.	3030.	Mdo
+namještenik	namještenik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+BATUR	BATUR	Npmsn
+
+3031.	3031.	Mdo
+namještenik	namještenik	Ncmsn
+NEDILJKO	NEDILJKO	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+BEBIĆ	Bebić	Npmsn
+
+3032.	3032.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BEDE	beda	Ncfpn
+
+3033.	3033.	Mdo
+namještenik	namještenik	Ncmsn
+BOŽIDAR	BOŽIDAR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BEDNJANEC	BEDNJANEC	Npmsn
+
+3034.	3034.	Mdo
+namještenik	namještenik	Ncmsn
+JOSO	JOSO	Npmsn
+(	(	Z
+Rokov	Rokov	Npmsn
+)	)	Z
+BEGAN	BEGAN	Npmsn
+
+3035.	3035.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+BEGOVIĆ	Begović	Npmsn
+
+3036.	3036.	Mdo
+namještenik	namještenik	Ncmsn
+PERO	pero	Ncnsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+BELAJIĆ	BELAJIĆ	Npfsn
+
+3037.	3037.	Mdo
+namještenik	namještenik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+BELAK	BELAK	Npmsn
+
+3038.	3038.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+BELČEC	BELČEC	Npmsn
+
+3039.	3039.	Mdo
+namještenik	namještenik	Ncmsn
+ĐURO	ĐURO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BENIĆ	BENIĆ	Npmsn
+
+3040.	3040.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BERDALOVIĆ	BERDALOVIĆ	Npmsn
+
+3041.	3041.	Mdo
+namještenik	namještenik	Ncmsn
+KRSTO	KRSTO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BILOGLAV	BILOGLAV	Npmsn
+
+3042.	3042.	Mdo
+namještenik	namještenik	Ncmsn
+STANKO	STANKO	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+BILONIĆ	BILONIĆ	Npmsn
+
+3043.	3043.	Mdo
+namještenik	namještenik	Ncmsn
+SAŠA	Saša	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+BIRKO	BIRKO	Npmsn
+
+3044.	3044.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+BLAŠKOVIĆ	BLAŠKOVIĆ	Npmsn
+
+3045.	3045.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+BLAŽEKOVIĆ	BLAŽEKOVIĆ	Npmsn
+
+3046.	3046.	Mdo
+namještenik	namještenik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+BOLDIN	BOLDIN	Npmsn
+
+3047.	3047.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BORAK	BORAK	Npmsn
+
+3048.	3048.	Mdo
+namještenik	namještenik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+BOROVAC	BOROVAC	Npmsn
+
+3049.	3049.	Mdo
+namještenik	namještenik	Ncmsn
+BOŠKO	BOŠKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+BOSANAC	bosanac	Ncmsn
+
+3050.	3050.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BOSILJEVAC	BOSILJEVAC	Npmsn
+
+3051.	3051.	Mdo
+namještenik	namještenik	Ncmsn
+EROL	EROL	Npmsn
+(	(	Z
+Gabrijelov	Gabrijelov	Npmsn
+)	)	Z
+BOŠNJAK	BOŠNJAK	Npmsn
+
+3052.	3052.	Mdo
+namještenik	namještenik	Ncmsn
+BORIVOJ	BORIVOJ	Npfsg
+(	(	Z
+Borivojev	Borivojev	Npmsn
+)	)	Z
+BOŠNJAKOVIĆ	BOŠNJAKOVIĆ	Npmsn
+
+3053.	3053.	Mdo
+namještenik	namještenik	Ncmsn
+ĐURO	ĐURO	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+BOŽIĆ	Božić	Npmsn
+
+3054.	3054.	Mdo
+namještenik	namještenik	Ncmsn
+IVO	IVO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+BRADARIĆ	BRADARIĆ	Npmsn
+
+3055.	3055.	Mdo
+namještenik	namještenik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+BRAJDIĆ	BRAJDIĆ	Npmsn
+
+3056.	3056.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+BRAJKOVIĆ	Brajković	Npmsn
+
+3057.	3057.	Mdo
+namještenik	namještenik	Ncmsn
+MILORAD	MILORAD	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BRALA	brati	Vmp-sf
+
+3058.	3058.	Mdo
+namještenik	namještenik	Ncmsn
+ALOJZ	ALOJZ	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+BRANDEJS	BRANDEJS	Npmsn
+
+3059.	3059.	Mdo
+namještenik	namještenik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+BRATALJENOVIĆ	BRATALJENOVIĆ	Npmsn
+
+3060.	3060.	Mdo
+namještenik	namještenik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+BREŠKI	breškti	Vmm2s
+
+3061.	3061.	Mdo
+namještenik	namještenik	Ncmsn
+TOMA	Tom	Npmsg
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+BRLIĆ	BRLIĆ	Npmsn
+
+3062.	3062.	Mdo
+namještenik	namještenik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Andrejov	Andrejov	Npmsn
+)	)	Z
+BRODARIČ	BRODARIČ	Npmsn
+
+3063.	3063.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+BROZD	BROZD	Npmsn
+
+3064.	3064.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+BUBAŠ	bubati	Vmr2s
+
+3065.	3065.	Mdo
+namještenik	namještenik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Matijin	Matijin	Npmsn
+)	)	Z
+BUĐINA	BUĐIN	Npmsg
+
+3066.	3066.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+BUNČIĆ	BUNČIĆ	Npmsn
+
+3067.	3067.	Mdo
+namještenik	namještenik	Ncmsn
+ZVONKO	zvonak	Agpnsny
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+BUNJEVAC	BUNJEVAC	Npmsn
+
+3068.	3068.	Mdo
+namještenik	namještenik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BUNJEVAC	BUNJEVAC	Npmsn
+
+3069.	3069.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Krstin	Krstin	Npmsn
+)	)	Z
+BURAZER	BURAZER	Npmsn
+
+3070.	3070.	Mdo
+namještenik	namještenik	Ncmsn
+ROMANI	roman	Ncmpn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BURČUL	BURČUL	Npmsn
+
+3071.	3071.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BUREŠ	bureš	Ncmsn
+
+3072.	3072.	Mdo
+namještenik	namještenik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BUŠIĆ	BUŠIĆ	Npmsn
+
+3073.	3073.	Mdo
+namještenik	namještenik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+BUTERIN	BUTERIN	Npmsn
+
+3074.	3074.	Mdo
+namještenik	namještenik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Željkov	Željkov	Npmsn
+)	)	Z
+BUTERIN	BUTERIN	Npmsn
+
+3075.	3075.	Mdo
+namještenik	namještenik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+CAR	car	Ncmsn
+
+3076.	3076.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+CERIĆ	Cerić	Npmsn
+
+3077.	3077.	Mdo
+namještenik	namještenik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+CERJAK	CERJAK	Npmsn
+
+3078.	3078.	Mdo
+namještenik	namještenik	Ncmsn
+JOSO	JOSO	Npmsn
+(	(	Z
+Zdravkov	Zdravkov	Npmsn
+)	)	Z
+CESTARIĆ	CESTARIĆ	Npmsn
+
+3079.	3079.	Mdo
+namještenik	namještenik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Josip	Josip	Npmsn
+)	)	Z
+CINDRIĆ	CINDRIĆ	Npmsn
+
+3080.	3080.	Mdo
+namještenik	namještenik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+CINDRIĆ	CINDRIĆ	Npmsn
+
+3081.	3081.	Mdo
+namještenik	namještenik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Stanislavov	Stanislavov	Npmsn
+)	)	Z
+CINDRIĆ	CINDRIĆ	Npmsn
+
+3082.	3082.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+CINDRIĆ	CINDRIĆ	Npmsn
+
+3083.	3083.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+CINGULIN	CINGULIN	Npmsn
+
+3084.	3084.	Mdo
+namještenik	namještenik	Ncmsn
+DRAGO	Drago	Npmsn
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+COTA	COT	Npmsg
+
+3085.	3085.	Mdo
+namještenik	namještenik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+CRNKOVIĆ	CRNKOVIĆ	Npmsn
+
+3086.	3086.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Tomislavov	Tomislavov	Npmsn
+)	)	Z
+CRNJAC	CRNJAC	Npmsn
+
+3087.	3087.	Mdo
+

@@ -1,0 +1,691 @@
+aktivnosti	aktivnost	Ncfpa
+organizacije	organizacija	Ncfsg
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+,	,	Z
+i	i	Cc
+
+b	b	Mds
+)	)	Z
+kontinuiranu	kontinuiran	Agpfsay
+usklađenost	usklađenost	Ncfsa
+organizacije	organizacija	Ncfsg
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+s	sa	Si
+Potvrdom	potvrda	Ncfsi
+o	o	Sl
+odobrenju	odobrenje	Ncnsl
+i	i	Cc
+primjenjivim	primjenjiv	Agpmply
+propisima	propis	Ncmpl
+.	.	Z
+
+Voditelj	voditelj	Ncmsn
+osposobljavanja	osposobljavanje	Ncnsg
+
+Članak	članak	Ncmsn
+70.	70.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Voditelj	voditelj	Ncmsn
+osposobljavanja	osposobljavanje	Ncnsg
+može	moći	Vmr3s
+biti	biti	Van
+osoba	osoba	Ncfsn
+koja	koji	Pi-fsn
+:	:	Z
+
+a	a	Cc
+)	)	Z
+posjeduje	posjedovati	Vmr3s
+dozvolu	dozvola	Ncfsa
+i	i	Cc
+odgovarajuća	odgovarajući	Agpnpay
+valjana	valjan	Agpnpay
+ovlaštenja	ovlaštenje	Ncnpa
+i	i	Cc
+povlastice	povlastica	Ncfpn
+potrebne	potreban	Agpfpny
+za	za	Sa
+provođenje	provođenje	Ncnsa
+jednog	jedan	Mlcmsg
+ili	ili	Cc
+više	mnogo	Rgc
+osposobljavanja	osposobljavanje	Ncnsg
+iz	iz	Sg
+opsega	opseg	Ncmsg
+odobrenja	odobrenje	Ncnsg
+,	,	Z
+i	i	Cc
+
+b	b	Npmsn
+)	)	Z
+položi	položiti	Vmr3s
+pismenu	pismen	Agpfsay
+provjeru	provjera	Ncfsa
+znanja	znanje	Ncnsg
+iz	iz	Sg
+primjenjivih	primjenjiv	Agpmpgy
+propisa	propis	Ncmpg
+,	,	Z
+organizacijskog	organizacijski	Agpmsgy
+priručnika	priručnik	Ncmsg
+i	i	Cc
+programa	program	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+koju	koji	Pi-fsa
+u	u	Sl
+postupku	postupak	Ncmsl
+odobrenja	odobrenje	Ncnsg
+provodi	provoditi	Vmr3s
+Agencija	agencija	Ncfsn
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Voditelj	voditelj	Ncmsn
+osposobljavanja	osposobljavanje	Ncnsg
+je	biti	Var3s
+odgovoran	odgovoran	Agpmsnn
+za	za	Sa
+:	:	Z
+
+a	a	Cc
+)	)	Z
+rukovođenje	rukovođenje	Ncnsn
+i	i	Cc
+provođenje	provođenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+odobrenim	odobren	Agpmsiy
+organizacijskim	organizacijski	Agpmsiy
+priručnikom	priručnik	Ncmsi
+,	,	Z
+odobrenim	odobren	Agpmsiy
+programom	program	Ncmsi
+osposobljavanja	osposobljavanje	Ncnsg
+i	i	Cc
+primjenjivim	primjenjiv	Agpmpiy
+propisima	propis	Ncmpi
+,	,	Z
+
+b	b	Npmsn
+)	)	Z
+integraciju	integracija	Ncfsa
+teorijskog	teorijski	Agpmsgy
+i	i	Cc
+praktičnog	praktičan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+
+c	C	Npmsn
+)	)	Z
+nadzor	nadzor	Ncmsan
+napredovanja	napredovanje	Ncnsg
+pojedinog	pojedini	Agpmsgy
+učenika	učenik	Ncmsg
+,	,	Z
+
+d	d	Npmsn
+)	)	Z
+provođenja	provođenje	Ncnsg
+teorijskog	teorijski	Agpmsgy
+ispita	ispit	Ncmsg
+,	,	Z
+i	i	Cc
+
+e	e	I
+)	)	Z
+kontinuiranu	kontinuiran	Agpfsay
+usklađenost	usklađenost	Ncfsa
+s	sa	Si
+primjenjivim	primjenjiv	Agpmpiy
+propisima	propis	Ncmpi
+osposobljavanja	osposobljavanje	Ncnsg
+za	za	Sa
+koje	koji	Pi-mpa
+je	biti	Var3s
+odobren	odobriti	Appmsnn
+.	.	Z
+
+Osobe	osoba	Ncfpn
+koje	koji	Pi-fpn
+provode	provoditi	Vmr3p
+osposobljavanje	osposobljavanje	Ncnsa
+
+Članak	članak	Ncmsn
+71.	71.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Osobe	osoba	Ncfpn
+koje	koji	Pi-fpn
+provode	provoditi	Vmr3p
+osposobljavanje	osposobljavanje	Ncnsa
+moraju	morati	Vmr3p
+posjedovati	posjedovati	Vmn
+odgovarajuće	odgovarajući	Agpfpay
+dozvole	dozvola	Ncfpa
+,	,	Z
+ovlaštenja	ovlaštenje	Ncnsg
+,	,	Z
+povlastice	povlastica	Ncfsg
+i	i	Cc
+kvalifikacije	kvalifikacija	Ncfsg
+potrebne	potreban	Agpfpny
+za	za	Sa
+provođenje	provođenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Iznimno	iznimno	Rgp
+od	od	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+,	,	Z
+za	za	Sa
+teorijsko	teorijski	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+Agencija	agencija	Ncfsn
+može	moći	Vmr3s
+odobriti	odobriti	Vmn
+osobu	osoba	Ncfsa
+za	za	Sa
+koju	koji	Pi-fsa
+procjeni	procjena	Ncfsl
+da	da	Cs
+posjeduje	posjedovati	Vmr3s
+odgovarajuće	odgovarajući	Agpnsny
+:	:	Z
+
+a	a	Cc
+)	)	Z
+praktično	praktičan	Agpnsny
+iskustvo	iskustvo	Ncnsn
+u	u	Sl
+zrakoplovstvu	zrakoplovstvo	Ncnsl
+u	u	Sl
+području	područje	Ncnsl
+relevantnom	relevantan	Agpmsly
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+i	i	Cc
+koja	koji	Pi-fsn
+:	:	Z
+
+1.	1.	Mdo
+je	biti	Var3s
+završila	završiti	Vmp-sf
+seminar	seminar	Ncmsan
+obnove	obnova	Ncfsg
+znanja	znanje	Ncnsg
+za	za	Sa
+nastavnika	nastavnik	Ncmpg
+padobranstva	padobranstvo	Ncnsg
+/	/	Z
+letenja	letenje	Ncnsg
+,	,	Z
+
+2.	2.	Mdo
+posjeduje	posjedovati	Vmr3s
+ovlaštenje	ovlaštenje	Ncnsa
+nastavnik	nastavnik	Ncmsn
+padobranstva	padobranstvo	Ncnsg
+/	/	Z
+letenja	letenje	Ncnsg
+,	,	Z
+
+3.	3.	Mdo
+je	biti	Var3s
+završila	završiti	Vmp-sf
+tečaj	tečaj	Ncmsan
+pedagoško-psihološke	pedagoško-psihološki	Agpfsgy
+izobrazbe	izobrazba	Ncfsg
+,	,	Z
+ili	ili	Cc
+
+4.	4.	Mdo
+posjeduje	posjedovati	Vmr3s
+zvanje	zvanje	Ncnsa
+učitelja	učitelj	Ncmpg
+,	,	Z
+nastavnika	nastavnik	Ncmpg
+ili	ili	Cc
+profesora	profesor	Ncmpg
+;	;	Z
+
+ili	ili	Cc
+
+b	b	Npmsn
+)	)	Z
+teorijsko	teorijski	Agpnsny
+znanje	znanje	Ncnsn
+potrebno	potreban	Agpnsny
+za	za	Sa
+provođenje	provođenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Osoba	osoba	Ncfsn
+koja	koji	Pi-fsn
+provodi	provoditi	Vmr3s
+osposobljavanje	osposobljavanje	Ncnsa
+mora	morati	Vmr3s
+provoditi	provoditi	Vmn
+osposobljavanje	osposobljavanje	Ncnsa
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+:	:	Z
+
+a	a	Cc
+)	)	Agpmsiy
+odobrenim	odobren	Agpmsiy
+programom	program	Ncmsi
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+
+b	b	I
+)	)	Z
+odobrenim	odobren	Agpmsiy
+organizacijskim	organizacijski	Agpmsiy
+priručnikom	priručnik	Ncmsi
+,	,	Z
+i	i	Cc
+
+c	C	Npmsn
+)	)	Z
+primjenjivim	primjenjiv	Agpmply
+popisima	popis	Ncmpl
+.	.	Z
+
+GLAVA	glava	Ncfsn
+III	III	Mrc
+.	.	Z
+
+ORGANIZACIJSKI	organizacijski	Agpmsny
+PRIRUČNIK	priručnik	Ncmsn
+I	i	Cc
+PROGRAM	program	Ncmsn
+OSPOSOBLJAVANJA	osposobljavanje	Ncnsg
+
+Organizacijski	organizacijski	Agpmsny
+priručnik	priručnik	Ncmsn
+
+Članak	članak	Ncmsn
+72.	72.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Organizacijski	organizacijski	Agpmsny
+priručnik	priručnik	Ncmsn
+mora	morati	Vmr3s
+sadržavati	sadržavati	Vmn
+sljedeće	sljedeći	Agpnsay
+:	:	Z
+
+a	a	Cc
+)	)	Z
+izjavu	izjava	Ncfsa
+odgovornog	odgovoran	Agpmsgy
+rukovoditelja	rukovoditelj	Ncmsg
+,	,	Z
+
+b	b	I
+)	)	Z
+procedure	procedura	Ncfpa
+izmjena	izmjena	Ncfpg
+i	i	Cc
+dopuna	dopuna	Ncfsn
+organizacijskog	organizacijski	Agpmsgy
+priručnika	priručnik	Ncmsg
+,	,	Z
+
+c	C	Npmsn
+)	)	Z
+imena	ime	Ncnsg
+,	,	Z
+prezimena	prezime	Ncnsg
+i	i	Cc
+titule	titula	Ncfsg
+rukovodećih	rukovodeći	Agpfpgy
+osoba	osoba	Ncfpg
+,	,	Z
+
+d	d	Npmsn
+)	)	Z
+organizacijsku	organizacijski	Agpfsay
+strukturu	struktura	Ncfsa
+s	sa	Si
+prikazom	prikaz	Ncmsi
+linija	linija	Ncfpg
+odgovornosti	odgovornost	Ncfsg
+,	,	Z
+
+e	e	I
+)	)	Z
+opis	opis	Ncmsan
+infrastrukture	infrastruktura	Ncfsg
+,	,	Z
+
+f	f	Qr
+)	)	Z
+popis	popis	Ncmsan
+opreme	oprema	Ncfsg
+i	i	Cc
+učila	učilo	Ncnsg
+,	,	Z
+i	i	Cc
+
+g	g	I
+)	)	Z
+procedure	procedura	Ncfpa
+organizacije	organizacija	Ncfsg
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+koje	koji	Pi-fpn
+definiraju	definirati	Vmr3p
+način	način	Ncmsan
+i	i	Cc
+uvjete	uvjet	Ncmpa
+provođenja	provođenje	Ncnsg
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Odgovorni	odgovoran	Agpmsny
+rukovoditelj	rukovoditelj	Ncmsn
+mora	morati	Vmr3s
+potpisom	potpis	Ncmsi
+ovjeriti	ovjeriti	Vmn
+izjavu	izjava	Ncfsa
+kojom	koji	Pi-fsi
+potvrđuje	potvrđivati	Vmr3s
+da	da	Cs
+je	biti	Var3s
+:	:	Z
+
+a	a	Cc
+)	)	Z
+organizacijski	organizacijski	Agpmsny
+priručnik	priručnik	Ncmsn
+usklađen	uskladiti	Appmsnn
+s	sa	Si
+primjenjivim	primjenjiv	Agpmpiy
+propisima	propis	Ncmpi
+,	,	Z
+i	i	Cc
+
+b	b	Npmsn
+)	)	Z
+upoznat	upoznati	Vmn
+sa	sa	Si
+sadržajem	sadržaj	Ncmsi
+priručnika	priručnik	Ncmpg
+,	,	Z
+kao	kao	Cs
+i	i	Cc
+svojim	svoj	Px-fpl
+odgovornostima	odgovornost	Ncfpl
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Procedure	procedura	Ncfpn
+organizacije	organizacija	Ncfsg
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+koje	koji	Pi-fpn
+definiraju	definirati	Vmr3p
+način	način	Ncmsan
+i	i	Cc
+uvjete	uvjet	Ncmpa
+provođenja	provođenje	Ncnsg
+osposobljavanja	osposobljavanje	Ncnsg
+moraju	morati	Vmr3p
+obuhvatiti	obuhvatiti	Vmn
+najmanje	mali	Ncnsa
+sljedeće	sljedeći	Agpnsay
+:	:	Z
+
+a	a	Cc
+)	)	Z
+upis	upis	Ncmsan
+i	i	Cc
+preduvjete	preduvjet	Ncmpa
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+,	,	Z
+
+b	b	Npmsn
+)	)	Z
+vođenje	vođenje	Ncnsn
+registra	registar	Ncmsg
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+
+c	C	Npmsn
+)	)	Z
+vođenje	vođenje	Ncnsn
+dosjea	dosje	Ncmsg
+učenika	učenik	Ncmpg
+,	,	Z
+
+d	i	Agpnsny
+)	)	Z
+praćenje	praćenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+i	i	Cc
+napredovanja	napredovanje	Ncnsg
+učenika	učenik	Ncmpg
+,	,	Z
+
+e	e	I
+)	)	Z
+provođenje	provođenje	Ncnsa
+teorijskog	teorijski	Agpmsgy
+ispita	ispit	Ncmsg
+,	,	Z
+
+f	i	Agpnsny
+)	)	Z
+izdavanje	izdavanje	Ncnsn
+potvrde	potvrda	Ncfsg
+o	o	Sl
+završenom	završen	Agpnsly
+osposobljavanju	osposobljavanje	Ncnsl
+,	,	Z
+
+g	g	Npmsn
+)	)	Z
+odabir	odabir	Ncmsan
+padobrana	padobran	Ncmsg
+prikladnih	prikladan	Agpmpgy
+za	za	Sa
+provođenje	provođenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+
+h	h	Npmsn
+)	)	Z
+odabir	odabir	Ncmsan
+i	i	Cc
+kontrola	kontrola	Ncfsn
+lokacija	lokacija	Ncfpg
+prikladnih	prikladan	Agpfpgy
+za	za	Sa
+provođenje	provođenje	Ncnsa
+osposobljavanja	osposobljavanje	Ncnsg
+,	,	Z
+
+i	i	Cc
+)	)	Z
+vođenje	vođenje	Ncnsn
+dosjea	dosje	Ncmsg
+rukovodećih	rukovodeći	Agpfpgy
+osoba	osoba	Ncfpg
+,	,	Z
+
+j	j	Npmsn
+)	)	Z
+vođenje	vođenje	Ncnsn
+dosjea	dosje	Ncmsg
+osoba	osoba	Ncfpg
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+,	,	Z
+
+k	k	Qr
+)	)	Z
+nadzor	nadzor	Ncmsan
+kontinuirane	kontinuiran	Agpfsgy
+usklađenosti	usklađenost	Ncfsg
+s	sa	Si
+primjenjivim	primjenjiv	Agpmpiy
+zahtjevima	zahtjev	Ncmpi
+,	,	Z
+
+l	l	I
+)	)	Z
+izvješćivanje	izvješćivanje	Ncnsn
+o	o	Sl
+osposobljavanju	osposobljavanje	Ncnsl
+,	,	Z
+i	i	Cc
+
+m	m	Npmsn
+)	)	Z
+čuvanje	čuvanje	Ncnsa
+zapisa	zapis	Ncmsg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Organizacija	organizacija	Ncfsn
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+mora	morati	Vmr3s
+kontinuirano	kontinuirano	Rgp
+održavati	održavati	Vmn
+usklađenost	usklađenost	Ncfsa
+organizacijskog	organizacijski	Agpmsgy
+priručnika	priručnik	Ncmsg
+s	sa	Si
+primjenjivim	primjenjiv	Agpmpiy
+propisima	propis	Ncmpi
+.	.	Z
+
+(	(	Z
+5	5	Mdc
+)	)	Z
+Organizacijski	organizacijski	Agpmsny
+priručnik	priručnik	Ncmsn
+mora	morati	Vmr3s
+biti	biti	Van
+dostupan	dostupan	Agpmsnn
+rukovodećim	rukovodeći	Agpfpdy
+osobama	osoba	Ncfpd
+,	,	Z
+osobama	osoba	Ncfpl
+za	za	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+i	i	Cc
+učenicima	učenik	Ncmpd
+.	.	Z
+
+Program	program	Ncmsn
+osposobljavanja	osposobljavanje	Ncnsg
+
+Članak	članak	Ncmsn
+73.	73.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Programom	program	Ncmsi
+osposobljavanja	osposobljavanje	Ncnsg
+provođenje	provođenje	Ncnsn
+osposobljavanja	osposobljavanje	Ncnsg
+se	sebe	Px--sa
+može	moći	Vmr3s
+definirati	definirati	Vmn
+kao	kao	Cs
+:	:	Z
+
+a	a	Cc
+)	)	Z
+teorijsko	teorijski	Agpnsny
+osposobljavanje	osposobljavanje	Ncnsn
+,	,	Z
+
+b	b	Npmsn
+)	)	Z
+praktično	praktičan	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+,	,	Z
+ili	ili	Cc
+
+c	C	Npmsn
+)	)	Z
+teorijsko	teorijski	Agpnsny
+i	i	Cc
+praktično	praktičan	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Program	program	Ncmsn
+osposobljavanja	osposobljavanje	Ncnsg
+mora	morati	Vmr3s
+sadržavati	sadržavati	Vmn
+informacije	informacija	Ncfpa
+i	i	Cc
+upute	uputa	Ncfsg
+osobama	osoba	Ncfpd
+uključenim	uključen	Agpmsiy
+u	u	Sa
+osposobljavanje	osposobljavanje	Ncnsa
+,	,	Z
+a	a	Cc
+najmanje	malo	Rgs
+sljedeće	sljedeći	Agpfsgy
+:	:	Z
+
+a	a	Cc
+)	)	Z
+izjavu	izjava	Ncfsa
+odgovornog	odgovoran	Agpmsgy
+rukovoditelja	rukovoditelj	Ncmsg
+,	,	Z
+
+b	b	I
+)	)	Z
+procedure	procedura	Ncfpa
+izmjena	izmjena	Ncfpg
+i	i	Cc
+dopuna	dopuna	Ncfsn
+programa	program	Ncmsg
+

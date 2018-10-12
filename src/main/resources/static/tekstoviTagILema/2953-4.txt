@@ -1,0 +1,524 @@
+ministar	ministar	Ncmsn
+će	htjeti	Var3s
+donijeti	donijeti	Vmn
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+33.	33.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Jedinstveni	jedinstven	Agpmsny
+program	program	Ncmsn
+stručne	stručan	Agpfsgy
+obuke	obuka	Ncfsg
+iz	iz	Sg
+članka	članak	Ncmsg
+27.	27.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+donijeti	donijeti	Vmn
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Program	program	Ncmsn
+stručnih	stručan	Agpfpgy
+radionica	radionica	Ncfpg
+iz	iz	Sg
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+donijeti	donijeti	Vmn
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+34.	34.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/150	01/150	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+514	514	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Ante	Ante	Npmsn
+Šprlje	Šprlje	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+Obrazac	obrazac	Ncmsn
+1	1	Mdc
+
+REPUBLIKA	republika	Ncfsn
+HRVATSKA	Hrvatska	Npfsn
+
+MINISTARSTVO	ministarstvo	Ncnsn
+PRAVOSUĐA	pravosuđe	Ncnsg
+
+KLASA	klasa	Ncfsn
+:	:	Z
+UP	up	Ncmsn
+/	/	Z
+I-__________________	I-__________________	X
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+_______________________	_______________________	Z
+
+ZAPISNIK	zapisnik	Ncmsn
+O	o	Sl
+STRUČNOM	stručan	Agpmsly
+ISPITU	ispit	Ncmsl
+ZA	za	Sa
+POVJERENIKA	povjerenik	Ncmsay
+
+Sastavljen	sastaviti	Appmsnn
+pred	pred	Si
+Ispitnim	ispitan	Agpnsiy
+povjerenstvom	povjerenstvo	Ncnsi
+za	za	Sa
+polaganje	polaganje	Ncnsa
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+kojeg	koji	Pi-msay
+polaže	polagati	Vmr3s
+kandidat	kandidat	Ncmsn
+________________________________________________________________________	________________________________________________________________________	Qr
+.	.	Z
+(	(	Z
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+,	,	Z
+zanimanje	zanimanje	Ncnsa
+,	,	Z
+mjesto	mjesto	Ncnsa
+prebivališta	prebivalište	Ncnsg
+,	,	Z
+datum	datum	Ncmsn
+i	i	Cc
+mjesto	mjesto	Ncnsa
+rođenja	rođenje	Ncnsg
+,	,	Z
+OIB	OIB	Npmsn
+)	)	Z
+
+Usmeni	usmen	Agpmsny
+dio	dio	Ncmsn
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+kandidat	kandidat	Ncmsn
+polaže	polagati	Vmr3s
+dana	dan	Ncmpg
+_____________pred	_____________pred	Si
+Ispitnim	ispitan	Agpnsiy
+povjerenstvom	povjerenstvo	Ncnsi
+u	u	Sl
+sastavu	sastav	Ncmsl
+:	:	Z
+
+1.	1.	Mdo
+_____________________________________________	_____________________________________________	Qr
+(	(	Z
+predsjednik	predsjednik	Ncmsn
+)	)	Z
+
+2.	2.	Mdo
+_____________________________________________	_____________________________________________	Qr
+(	(	Z
+član	član	Ncmsn
+)	)	Z
+
+3.	3.	Mdo
+_____________________________________________	_____________________________________________	Qr
+(	(	Z
+član	član	Ncmsn
+)	)	Z
+
+_____________________________________________	_____________________________________________	Npmsn
+(	(	Z
+tajnik	tajnik	Ncmsn
+)	)	Z
+
+Opći	opći	Agpmsny
+dio	dio	Ncmsn
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+:	:	Z
+
+I.	I.	Y
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+stečajno	stečajni	Agpnsny
+pravo	pravo	Ncnsn
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+osnove	osnova	Ncfsg
+građanskog	građanski	Agpnsgy
+prava	pravo	Ncnsg
+,	,	Z
+prava	pravo	Ncnpa
+društava	društvo	Ncnpg
+i	i	Cc
+trgovačko	trgovački	Agpnsay
+pravo	pravo	Ncnsa
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+osnove	osnova	Ncfsg
+računovodstva	računovodstvo	Ncnsg
+i	i	Cc
+financija	financije	Ncfpg
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+Posebni	poseban	Agpmsny
+dio	dio	Ncmsn
+stručnog	stručan	Agpmsgy
+ispita	ispit	Ncmsg
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+:	:	Z
+
+I.	I.	Y
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+stečaj	stečaj	Ncmsn
+potrošača	potrošač	Ncmpg
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+osnove	osnova	Ncfsg
+obiteljskog	obiteljski	Agpnsgy
+prava	pravo	Ncnsg
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Iz	iz	Sg
+predmeta	predmet	Ncmsg
+osnove	osnova	Ncfsg
+nasljednog	nasljedan	Agpnsgy
+prava	pravo	Ncnsg
+kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+.	.	Z
+
+Nakon	nakon	Sg
+toga	taj	Pd-nsg
+u	u	Sl
+odsutnosti	odsutnost	Ncfsl
+kandidata	kandidat	Ncmpg
+Ispitno	ispitan	Agpnsny
+povjerenstvo	povjerenstvo	Ncnsn
+je	biti	Var3s
+utvrdilo	utvrditi	Vmp-sn
+da	da	Cs
+je	biti	Var3s
+kandidat	kandidat	Ncmsn
+stručni	stručan	Agpmsny
+ispit	ispit	Ncmsn
+:	:	Z
+
+položio	položiti	Vmp-sm
+nije	biti	Var3s
+položio	položiti	Vmp-sm
+
+upućen	uputiti	Appmsnn
+na	na	Sa
+popravni	popravni	Agpmsayn
+ispit	ispit	Ncmsan
+iz	iz	Sg
+predmeta	predmet	Ncmsg
+
+__________________________________________________	__________________________________________________	Qr
+.	.	Z
+
+Napomena	napomena	Ncfsn
+:	:	Z
+_________________________________________	________________________________________a	Ncfpn
+
+_________________________________________	_________________________________________	Ncfsn
+
+_________________________________________	_________________________________________	Ncfsn
+
+_________________________________________	_________________________________________	Qr
+.	.	Z
+
+Činjenice	činjenica	Ncfpn
+navedene	navesti	Appfpny
+u	u	Sl
+ovom	ovaj	Pd-msl
+zapisniku	zapisnik	Ncmsl
+potvrđuju	potvrđivati	Vmr3p
+svojim	svoj	Px-msi
+potpisom	potpis	Ncmsi
+:	:	Z
+
+Predsjednik	predsjednik	Ncmsn
+:	:	Z
+_____________________________________	_____________________________________	Z
+
+Članovi	član	Ncmpn
+:	:	Z
+1.	1.	Mdo
+______________________________________	______________________________________	Z
+
+2.	2.	Mdo
+______________________________________	______________________________________	Z
+
+Tajnik	tajnik	Ncmsn
+:	:	Z
+________________________________________	________________________________________	Z
+
+Kandidat	kandidat	Ncmsn
+:	:	Z
+________________________________________	________________________________________	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+pristupio	pristupiti	Vmp-sm
+/	/	Z
+la	la	Sl
+polaganju	polaganje	Ncnsl
+popravnog	popravni	Agpmsgy
+ispita	ispit	Ncmsg
+iz	iz	Sg
+navedenog	naveden	Agpmsgy
+predmeta	predmet	Ncmsg
+
+dana____________________________________________	dana____________________________________________	Qr
+.	.	Z
+
+Kandidatu	kandidat	Ncmsl
+su	biti	Var3p
+postavljena	postaviti	Appnpny
+sljedeća	sljedeći	Agpnpny
+pitanja	pitanje	Ncnpn
+:	:	Z
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+na	na	Sl
+popravnom	popravni	Agpmsly
+ispitu	ispit	Ncmsl
+zadovoljio	zadovoljiti	Vmp-sm
+/	/	Z
+la	l	Ncmsg
+,	,	Z
+nakon	nakon	Sg
+čega	što	Pi3n-g
+Ispitno	ispitan	Agpnsny
+povjerenstvo	povjerenstvo	Ncnsn
+
+proglašava	proglašavati	Vmr3s
+da	da	Cs
+je	biti	Var3s
+/	/	Z
+nije	biti	Var3s
+kandidat	kandidat	Ncmsn
+položio	položiti	Vmp-sm
+/	/	Z
+la	la	Agpmsayn
+stručni	stručan	Agpmsayn
+ispit	ispit	Ncmsan
+za	za	Sa
+povjerenika	povjerenik	Ncmsay
+.	.	Z
+
+Napomena	napomena	Ncfsn
+:	:	Z
+_________________________________________	________________________________________a	Ncfpn
+
+_________________________________________	_________________________________________	Qr
+.	.	Z
+
+Činjenice	činjenica	Ncfpn
+navedene	navesti	Appfpny
+u	u	Sl
+ovom	ovaj	Pd-msl
+zapisniku	zapisnik	Ncmsl
+potvrđuju	potvrđivati	Vmr3p
+svojim	svoj	Px-msi
+potpisom	potpis	Ncmsi
+:	:	Z
+

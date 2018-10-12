@@ -1,0 +1,84 @@
+suđenje	suđenje	Ncnsa
+zajamčenog	zajamčiti	Agpmsgy
+člankom	članak	Ncmsi
+29.	29.	Mdo
+stavkom	stavak	Ncmsi
+1.	1.	Mdo
+Ustava	ustav	Ncmsg
+.	.	Z
+
+13.	13.	Mdo
+
+Slijedom	slijed	Ncmsi
+navedenog	naveden	Agpmsgy
+,	,	Z
+na	na	Sl
+temelju	temelj	Ncmsl
+članaka	članak	Ncmpg
+73.	73.	Mdo
+i	i	Cc
+75.	75.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+,	,	Z
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+točki	točka	Ncfsl
+I.	I.	Mro
+i	i	Cc
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpa
+.	.	Z
+
+14.	14.	Mdo
+
+Odluka	odluka	Ncfsn
+o	o	Sl
+objavi	objava	Ncfsl
+(	(	Z
+točka	točka	Ncfsn
+III	III	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-5471	U-III-5471	X
+/	/	Z
+2011	2011	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+16.	16.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

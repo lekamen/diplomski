@@ -1,0 +1,726 @@
+sat	sat	Ncmsn
+
+Poljoprivredna	poljoprivredni	Agpfsny
+biomasa	biomasa	Ncfsn
+
+–		Agpfpgy
+biomasa	biomasa	Ncfpg
+iz	iz	Sg
+ratarske	ratarski	Agpfsgy
+proizvodnje	proizvodnja	Ncfsg
+
+–	i	Agpfsny
+biomasa	biomasa	Ncfsn
+iz	iz	Sg
+hortikulturalne	hortikulturalan	Agpfsgy
+proizvodnje	proizvodnja	Ncfsg
+
+–		Agpfpgy
+biomasa	biomasa	Ncfpg
+iz	iz	Sg
+proizvodnje	proizvodnja	Ncfsg
+i	i	Cc
+prerade	prerada	Ncfsg
+poljoprivrednih	poljoprivredni	Agpfpgy
+sirovina	sirovina	Ncfpg
+
+–	i	Agpfsny
+biomasa	biomasa	Ncfsn
+energetskih	energetski	Agpfpgy
+kultura	kultura	Ncfpg
+
+Šumska	šumski	Agpfsny
+biomasa	biomasa	Ncfsn
+
+–	i	Agpnsny
+iverje	iverje	Ncnsn
+kao	kao	Cs
+šumska	šumski	Agpfsny
+biomasa	biomasa	Ncfsn
+
+–	i	Agpfsny
+šumska	šumski	Agpfsny
+biomasa	biomasa	Ncfsn
+kao	kao	Cs
+ostatak	ostatak	Ncmsn
+drvno	drvno	Rgp
+prerađivačke	prerađivački	Agpfsgy
+industrije	industrija	Ncfsg
+
+–	i	Agpfsny
+šumska	šumski	Agpfsny
+biomasa	biomasa	Ncfsn
+iz	iz	Sg
+energetskih	energetski	Agpmpgy
+uzgoja	uzgoj	Ncmpg
+
+1.3.	1.3.	Mdo
+
+Tehnologije	tehnologija	Ncfpn
+prerade	prerada	Ncfsg
+biomase	biomasa	Ncfsg
+u	u	Sa
+gorivo	gorivo	Ncnsa
+za	za	Sa
+izgaranje	izgaranje	Ncnsa
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpnsny
+baliranje	baliranje	Ncnsn
+slame	slama	Ncfsg
+
+–	–	Pd-mpn
+uređaji	uređaj	Ncmpn
+za	za	Sa
+sjeckanje	sjeckanje	Ncnsa
+biomase	biomasa	Ncfsg
+
+–	i	Agpfsny
+drvna	drvni	Agpfsny
+sječka	sječka	Ncfsn
+
+–	i	Agpfsny
+tehnologija	tehnologija	Ncfsn
+briketiranja	briketiranje	Ncnsg
+biomase	biomasa	Ncfsg
+
+–	–	Agpmsayn
+briket	briket	Ncmsan
+kao	kao	Cs
+gorivo	gorivo	Ncnsn
+
+–	–	Z
+tehnologija	tehnologija	Ncfsn
+peletiranja	peletiranje	Ncnsg
+biomase	biomasa	Ncfsg
+
+–	–	Agpmsayn
+pelet	pelet	Ncmsan
+kao	kao	Cs
+gorivo	gorivo	Ncnsn
+
+–	–	Z
+EU	E	Npmsd
+norma	norma	Ncfsn
+EN	EN	Npmsn
+14961	14961	Mdc
+:	:	Z
+set	set	Ncmsn
+normi	norma	Ncfsl
+namijenjen	namijeniti	Appmsnn
+za	za	Sa
+čvrsta	čvrst	Agpnpay
+biogoriva	biogorivo	Ncnpa
+za	za	Sa
+EU	EU	Npmsan
+zemlje	zemlja	Ncfpa
+
+1.4.	1.4.	Mdo
+
+Tehnologije	tehnologija	Ncfpn
+proizvodnje	proizvodnja	Ncfsg
+energije	energija	Ncfsg
+iz	iz	Sg
+biomase	biomasa	Ncfsg
+–	–	Z
+6	6	Mdc
+sati	sat	Ncmpg
+
+Termokemijske	termokemijski	Agpfpny
+pretvorbe	pretvorba	Ncfpn
+
+–	i	Agpnsny
+sagorijevanje	sagorijevanje	Ncnsn
+
+–	i	Agpnsny
+rasplinjavanje	rasplinjavanje	Ncnsn
+
+–		Agpfpgy
+piroliza	piroliza	Ncfpg
+
+Dobivanje	dobivanje	Ncnsn
+toplinske	toplinski	Agpfsgy
+energije	energija	Ncfsg
+iz	iz	Sg
+drveta	drvo	Ncnsg
+
+–	i	Agpnsny
+izgaranje	izgaranje	Ncnsn
+drveta	drvo	Ncnsg
+
+–	i	Agpnsny
+izgaranje	izgaranje	Ncnsn
+u	u	Sl
+pećima	peć	Ncfpl
+
+–		Agcnsay
+izgaranje	izgaranje	Ncnsa
+u	u	Sl
+kotlovima	kotao	Ncmpl
+
+Kotlovi	kotao	Ncmpn
+
+–	–	Pd-mpn
+kombinirani	kombiniran	Agpmpny
+kotlovi	kotao	Ncmpn
+(	(	Z
+kruto	krut	Agpnsny
+gorivo	gorivo	Ncnsn
+,	,	Z
+pelet	pelet	Ncmsn
+,	,	Z
+drvena	drven	Agpfsny
+sječka	sječka	Ncfsn
+)	)	Z
+
+–	–	Agpmpny
+kotlovi	kotao	Ncmpn
+na	na	Sa
+drvo	drvo	Ncnsa
+
+–	–	Agpmpny
+pirolitički	pirolitički	Agpmpny
+kotlovi	kotao	Ncmpn
+
+–	–	Pd-mpn
+kotlovi	kotao	Ncmpn
+za	za	Sa
+loženje	loženje	Ncnsa
+drvenim	drven	Agpmpiy
+peletima	pelet	Ncmpi
+
+–	–	Pd-mpn
+kotlovi	kotao	Ncmpn
+za	za	Sa
+loženje	loženje	Ncnsa
+drvenom	drven	Agpfsiy
+sječkom	sječka	Ncfsi
+
+1.5.	1.5.	Mdo
+
+Gospodarski	gospodarski	Agpmpny
+aspekti	aspekt	Ncmpn
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	i	Agpfsny
+cijena	cijena	Ncfsn
+biomase	biomasa	Ncfsg
+
+–	–	Agpmpny
+investicijski	investicijski	Agpmpny
+troškovi	trošak	Ncmpn
+u	u	Sa
+postrojenja	postrojenje	Ncnpa
+i	i	Cc
+opremu	oprema	Ncfsa
+
+–	i	Agpfsny
+makroekonomska	makroekonomski	Agpfsny
+bilanca	bilanca	Ncfsn
+
+–	–	Agpmpny
+socijalno-ekonomski	socijalno-ekonomski	Agpmpny
+aspekti	aspekt	Ncmpn
+
+–	–	Sa
+sigurnost	sigurnost	Ncfsa
+opskrbe	opskrba	Ncfsg
+
+1.6.	1.6.	Mdo
+
+Zakonodavna	zakonodavan	Agpfsny
+regulativa	regulativa	Ncfsn
+–	–	Z
+2	2	Mdc
+sata	sat	Ncmsg
+
+–	–	Agpmsny
+Zakon	zakon	Ncmsn
+o	o	Sl
+energetskoj	energetski	Agpfsly
+učinkovitosti	učinkovitost	Ncfsl
+
+–	–	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+korištenju	korištenje	Ncnsl
+obnovljivih	obnovljiv	Agpmpgy
+izvora	izvor	Ncmpg
+energije	energija	Ncfsg
+i	i	Cc
+kogeneracije	kogeneracija	Ncfsg
+
+–	–	Agpmsny
+zakonski	zakonski	Agpmsny
+okvir	okvir	Ncmsn
+za	za	Sa
+proizvodnju	proizvodnja	Ncfsa
+toplinske	toplinski	Agpfsgy
+energije	energija	Ncfsg
+iz	iz	Sg
+obnovljivih	obnovljiv	Agpmpgy
+izvora	izvor	Ncmpg
+strategija	strategija	Ncfpg
+energetskog	energetski	Agpmsgy
+razvoja	razvoj	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+NN	NN	Npmsn
+130/09	130/09	Mdc
+)	)	Z
+
+–	–	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+uvjetima	uvjet	Ncmpl
+i	i	Cc
+mjerilima	mjerilo	Ncnpl
+za	za	Sa
+utvrđivanje	utvrđivanje	Ncnsa
+sustava	sustav	Ncmsg
+kvalitete	kvaliteta	Ncfsg
+usluga	usluga	Ncfpg
+i	i	Cc
+radova	rad	Ncmpg
+za	za	Sa
+
+–	i	Agpnsny
+certificiranje	certificiranje	Ncnsn
+ovlaštenih	ovlašten	Agpmpgy
+instalatera	instalater	Ncmpg
+OIE	OIE	Npfsg
+–	–	Z
+manjih	mali	Agcmpgy
+kotlova	kotao	Ncmpg
+i	i	Cc
+peći	peći	Vmn
+na	na	Sa
+biomasu	biomasa	Ncfsa
+
+–	–	Agpmpny
+propisi	propis	Ncmpn
+iz	iz	Sg
+područja	područje	Ncnsg
+gradnje	gradnja	Ncfsg
+kotlovnice	kotlovnica	Ncfsg
+i	i	Cc
+dimnjaka	dimnjak	Ncmpg
+
+–	–	Agpmpny
+potencijali	potencijal	Ncmpn
+i	i	Cc
+stanje	stanje	Ncnsa
+korištenja	korištenje	Ncnsg
+biomase	biomasa	Ncfsg
+u	u	Sa
+EU	EU	Npmsan
+i	i	Cc
+RH	RH	Npmsan
+
+–	–	Agpmsny
+pravni	pravni	Agpmsny
+okvir	okvir	Ncmsn
+za	za	Sa
+korištenje	korištenje	Ncnsa
+energije	energija	Ncfsg
+biomase	biomasa	Ncfsg
+u	u	Sl
+EU	E	Npmsl
+i	i	Cc
+RH	RH	Npmsan
+
+–	–	Agpmpny
+strateški	strateški	Agpmpny
+dokumenti	dokument	Ncmpn
+i	i	Cc
+direktive	direktiva	Ncfpn
+EU	E	Npmsg
+
+–	–	Z
+procjena	procjena	Ncfsn
+potencijala	potencijal	Ncmsg
+biomase	biomasa	Ncfsg
+
+–	–	Pd-mpn
+izvori	izvor	Ncmpn
+financiranja	financiranje	Ncnsg
+–	–	Z
+bespovratna	bespovratan	Agpnpay
+sredstva	sredstvo	Ncnpa
+za	za	Sa
+općine	općina	Ncfpa
+i	i	Cc
+gradove	grad	Ncmpa
+,	,	Z
+EU	E	Npmsg
+programi	program	Ncmpn
+i	i	Cc
+fondovi	fond	Ncmpn
+
+–	–	Pd-mpn
+nacionalni	nacionalan	Agpmpny
+programi	program	Ncmpn
+energetske	energetski	Agpfsgy
+obnove	obnova	Ncfsg
++	+	Z
+subvencije	subvencija	Ncfsg
+u	u	Sl
+HR	ha	Ncfsl
+
+1.7.	1.7.	Mdo
+
+Spajanje	spajanje	Ncnsn
+kotla	kotao	Ncmsg
+na	na	Sa
+instalaciju	instalacija	Ncfsa
+grijanja	grijanje	Ncnsg
+–	–	Z
+4	4	Mdc
+sata	sat	Ncmsg
+
+–	i	Agpfpay
+hidrauličke	hidraulički	Agpfpay
+sheme	shema	Ncfpa
+spajanja	spajanje	Ncnsg
+u	u	Sl
+ovisnosti	ovisnost	Ncfsl
+od	od	Sg
+korištenog	koristiti	Agpnsgy
+goriva	gorivo	Ncnsg
+i	i	Cc
+tipa	tip	Ncmsg
+kotla	kotao	Ncmsg
+
+–	–	Pd-mpn
+zatvoreni	zatvoriti	Appmpny
+i	i	Cc
+otvoreni	otvoren	Agpmpny
+sustavi	sustav	Ncmpn
+grijanja	grijanje	Ncnsg
+
+–	–	Pd-mpn
+mogući	moguć	Agpmpny
+problemi	problem	Ncmpn
+u	u	Sl
+radu	rad	Ncmsl
+
+1.8.	1.8.	Mdo
+
+Održavanje	održavanje	Ncnsn
+manjih	mali	Agcmpgy
+kotlova	kotao	Ncmpg
+i	i	Cc
+peći	peći	Vmn
+na	na	Sa
+biomasu	biomasa	Ncfsa
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	–	Npmsn
+najčešći	čest	Agsmpny
+problemi	problem	Ncmpn
+u	u	Sl
+radu	rad	Ncmsl
+
+–	i	Agpnsny
+otkrivanje	otkrivanje	Ncnsn
+kvarova	kvar	Ncmpg
+
+–	–	Agpmsny
+sadržaj	sadržaj	Ncmsn
+redovnih	redovan	Agpmpgy
+servisa	servis	Ncmpg
+
+–	–	Pd-mpn
+servisni	servisni	Agpmpny
+intervali	interval	Ncmpn
+
+–	–	Agpmsny
+ekološki	ekološki	Agpmsny
+aspekt	aspekt	Ncmsn
+(	(	Z
+odlaganje	odlaganje	Ncnsn
+otpada	otpad	Ncmsg
+)	)	Z
+
+–	–	Agpmsny
+sadržaj	sadržaj	Ncmsn
+dokumentacije	dokumentacija	Ncfsg
+sustava	sustav	Ncmsg
+prema	prema	Sl
+normi	norma	Ncfsl
+za	za	Sa
+ispitivanje	ispitivanje	Ncnsa
+manjih	mali	Agcmpgy
+kotlova	kotao	Ncmpg
+i	i	Cc
+peći	peći	Vmn
+na	na	Sa
+biomasu	biomasa	Ncfsa
+
+1.9.	1.9.	Mdo
+
+Zaštita	zaštita	Ncfsn
+na	na	Sl
+radu	rad	Ncmsl
+i	i	Cc
+zaštita	zaštita	Ncfsn
+od	od	Sg
+požara	požar	Ncmsg
+–	–	Z
+1	1	Mdc
+sat	sat	Ncmsn
+
+–	–	Agpmpny
+propisi	propis	Ncmpn
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+na	na	Sl
+radu	rad	Ncmsl
+
+–	–	Sa
+siguran	siguran	Agpmsann
+rad	rad	Ncmsan
+i	i	Cc
+mjere	mjera	Ncfpn
+zaštite	zaštita	Ncfsg
+na	na	Sl
+radu	rad	Ncmsl
+
+–	–	Ps3fpa
+potencijalne	potencijalan	Agpfsgy
+opasnosti	opasnost	Ncfsg
+i	i	Cc
+načini	način	Ncmpn
+ublažavanja	ublažavanje	Ncnsg
+i	i	Cc
+izbjegavanja	izbjegavanje	Ncnsg
+opasnosti	opasnost	Ncfsg
+
+–	–	Agpmpny
+izvori	izvor	Ncmpn
+opasnosti	opasnost	Ncfsg
+(	(	Z
+električni	električan	Agpmpny
+,	,	Z
+toplinski	toplinski	Agpmsny
+)	)	Z
+
+2.	2.	Mdo
+Praktična	praktičan	Agpfsny
+nastava	nastava	Ncfsn
+–	–	Z
+20	20	Mdc
+sati	sat	Ncmpg
+
+2.1.	2.1.	Mdo
+
+Montaža	montaža	Ncfsn
+kotlova	kotao	Ncmpg
+prema	prema	Sl
+vrsti	vrsta	Ncfsl
+goriva	gorivo	Ncnsg
+(	(	Z
+kruto	krut	Agpnsny
+gorivo	gorivo	Ncnsn
+,	,	Z
+pelet	pelet	Ncmsn
+,	,	Z
+ulje	ulje	Ncnsn
+,	,	Z
+plin	plin	Ncmsn
+)	)	Z
+–	–	Z
+18	18	Mdc
+sati	sat	Ncmpg
+
+–	–	Z
+priprema	pripremati	Vmr3s
+prostorije	prostorija	Ncfpa
+za	za	Sa
+ugradnju	ugradnja	Ncfsa
+kotla	kotao	Ncmsg
+(	(	Z
+kotlovnica	kotlovnica	Ncfsn
+)	)	Z
+–	–	Agpmsny
+otvor	otvor	Ncmsn
+svježeg	svjež	Agpmsgy
+zraka	zrak	Ncmsg
+ovisno	ovisno	Rgp
+o	o	Sl
+snazi	snaga	Ncfsl
+kotla	kotao	Ncmsg
+
+–	–	Ps3fpa
+minimalne	minimalan	Agpfsgy
+udaljenosti	udaljenost	Ncfsg
+kotla	kotao	Ncmsg
+od	od	Sg
+zidova	zid	Ncmpg
+kotlovnice	kotlovnica	Ncfsg
+definirano	definirati	Appnsny
+vrstom	vrsta	Sg
+goriva	gorivo	Ncnsg
+
+–		Agpfpgy
+provjera	provjera	Ncfpg
+protočnosti	protočnost	Ncfsg
+dimnjaka	dimnjak	Ncmpg
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+dimovoda	dimovod	Ncmpg
+na	na	Sa
+dimnjak	dimnjak	Ncmsan
+i	i	Cc
+postavljanje	postavljanje	Ncnsa
+izolacije	izolacija	Ncfsg
+
+–	i	Agpnsny
+sastavljanje	sastavljanje	Ncnsn
+komponenti	komponenta	Ncfpg
+kotla	kotao	Ncmsg
+prema	prema	Sl
+vrsti	vrsta	Ncfsl
+goriva	gorivo	Ncnsg
+
+–	i	Agpnsny
+spajanje	spajanje	Ncnsn
+tijela	tijelo	Ncnsg
+kotla	kotao	Ncmsg
+s	sa	Si
+oplatom	oplata	Ncfsi
+i	i	Cc
+toplinskom	toplinski	Agpfsiy
+izolacijom	izolacija	Ncfsi
+
+–		Agcnsay
+priključenje	priključenje	Ncnsa
+kotla	kotao	Ncmsg
+na	na	Sa
+vodovodnu	vodovodni	Agpfsay
+instalaciju	instalacija	Ncfsa
+
+–	–	Z
+montaža	montaža	Ncfsn
+plamenika	plamenik	Ncmsg
+prema	prema	Sl
+vrsti	vrsta	Ncfsl
+goriva	gorivo	Ncnsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+turbulatora	turbulator	Ncmsg
+ovisno	ovisno	Rgp
+o	o	Sl
+vrsti	vrsta	Ncfsl
+goriva	gorivo	Ncnsg
+
+–	i	Agpnsny
+spajanje	spajanje	Ncnsn
+hidrauličke	hidraulički	Agpfsgy
+instalacije	instalacija	Ncfsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+ekspanzijske	ekspanzijski	Agpfsgy
+posude	posuda	Ncfsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+sigurnosnog	sigurnosni	Agpmsgy
+ventila	ventil	Ncmsg
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+nepovratnih	nepovratan	Agpmpgy
+ventila	ventil	Ncmpg
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+sustava	sustav	Ncmsg
+za	za	Sa
+pripremu	priprema	Ncfsa
+tople	topao	Agpfsgy
+vode	voda	Ncfsg
+
+–	i	Agpnsny
+spajanje	spajanje	Ncnsn
+recirkulacijskog	recirkulacijski	Agpmsgy
+voda	vod	Ncmsg
+
+–		Agcnsay
+spajanje	spajanje	Ncnsa
+kotla	kotao	Ncmsg
+na	na	Sa
+zatvoreni	zatvoren	Agpmsayn
+sustav	sustav	Ncmsan
+grijanja	grijanje	Ncnsg
+(	(	Z
+radijatorsko	radijatorsko	Cc
+ili	ili	Cc
+podno	podni	Agpnsay
+grijanje	grijanje	Ncnsa
+)	)	Z
+
+–	i	Agpfsny
+ugradnja	ugradnja	Ncfsn
+termičke	termički	Agpfsgy
+zaštite	zaštita	Ncfsg
+grijanja	grijanje	Ncnsg
+–	–	Z
+obavezno	obavezan	Agpnsny
+propisi	propis	Ncmpn
+EU	E	Npmsg
+i	i	Cc
+HR	HR	Npmsn
+
+–	i	Agpnsay
+spajanje	spajanje	Ncnsa
+termičkog	termički	Agpmsgy
+ventila	ventil	Ncmsg
+na	na	Sa
+kanalizaciju	kanalizacija	Ncfsa
+
+–	i	Agpfsny
+kontrola	kontrola	Ncfsn
+spojeva-tlačna	spojeva-tlačan	Agpfsny
+proba	proba	Ncfsn
+
+–	i	Agpfsny
+provjera	provjera	Ncfsn
+funkcionalnosti	funkcionalnost	Ncfsg
+sigurnosnih	sigurnosni	Agpmpgy
+sustava	sustav	Ncmpg
+kotla	kotao	Ncmsg
+
+–	i	Agpnsny
+spajanje	spajanje	Ncnsn
+električne	električan	Agpfsgy
+instalacije	instalacija	Ncfsg
+kotla	kotao	Ncmsg
+,	,	Z
+poznavanje	poznavanje	Ncnsa
+električnih	električan	Agpfpgy
+instalacija	instalacija	Ncfpg
+
+–		Agcnsay
+spajanje	spajanje	Ncnsa
+kotlovske	kotlovski	Agpfsgy
+regulacije	regulacija	Ncfsg
+na	na	Sa
+električnu	električan	Agpfsay
+instalaciju	instalacija	Ncfsa
+
+–	–	Sa
+probno	probni	Agpnsay
+puštanje	puštanje	Ncnsa
+sustava	sustav	Ncmsg
+

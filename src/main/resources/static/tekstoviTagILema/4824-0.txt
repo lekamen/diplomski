@@ -1,0 +1,568 @@
+102	102	Mdc
+09.11.2016	09.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+raspoređivanju	raspoređivanje	Ncnsl
+sredstava	sredstvo	Ncnpg
+za	za	Sa
+rad	rad	Ncmsan
+političkih	politički	Agpfpgy
+stranaka	stranka	Ncfpg
+i	i	Cc
+nezavisnih	nezavisan	Agpmpgy
+zastupnika	zastupnik	Ncmpg
+,	,	Z
+klasa	klasa	Ncfsn
+:	:	Z
+400	400	Mdc
+-	-	Z
+06/16	06/16	Mdc
+-	-	Z
+01/08	01/08	Mdc
+,	,	Z
+urbroj	urbroj	Ncmsn
+:	:	Z
+6521	6521	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+01	01	Mdc
+od	od	Sg
+2.	2.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+
+ODBOR	odbor	Ncmsn
+ZA	za	Sa
+USTAV	ustav	Ncmsan
+,	,	Z
+POSLOVNIK	poslovnik	Ncmsn
+I	i	Cc
+POLITIČKI	politički	Agpmsny
+SUSTAV	sustav	Ncmsn
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+2173	2173	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+7.	7.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+financiranju	financiranje	Ncnsl
+političkih	politički	Agpfpgy
+aktivnosti	aktivnost	Ncfpg
+i	i	Cc
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+24/11.	24/11.	Mds
+,	,	Z
+61/11.	61/11.	Mds
+,	,	Z
+27/13.	27/13.	Mds
+,	,	Z
+2/14.	2/14.	Mdo
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+96/16.	96/16.	Mds
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+60.	60.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+81/13.	81/13.	Mds
+)	)	Z
+Odbor	odbor	Ncmsn
+za	za	Sa
+Ustav	ustav	Ncmsan
+,	,	Z
+Poslovnik	poslovnik	Ncmsn
+i	i	Cc
+politički	politički	Agpmsny
+sustav	sustav	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+2.	2.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+RASPOREĐIVANJU	raspoređivanje	Ncnsl
+SREDSTAVA	sredstvo	Ncnpg
+ZA	za	Sa
+RAD	rad	Ncmsan
+POLITIČKIH	politički	Agpfpgy
+STRANAKA	stranka	Ncfpg
+I	i	Cc
+NEZAVISNIH	nezavisan	Agpmpgy
+ZASTUPNIKA	zastupnik	Ncmpg
+
+I.	I.	Y
+
+Zakonska	zakonski	Agpfsny
+obveza	obveza	Ncfsn
+za	za	Sa
+redovito	redovit	Agpnsay
+financiranje	financiranje	Ncnsa
+političkih	politički	Agpfpgy
+stranaka	stranka	Ncfpg
+i	i	Cc
+nezavisnih	nezavisan	Agpmpgy
+zastupnika	zastupnik	Ncmpg
+za	za	Sa
+razdoblje	razdoblje	Ncnsa
+od	od	Sg
+14.	14.	Mdo
+listopada	listopad	Ncmsg
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+iznosi	iznositi	Vmr3s
+13.267.506,15	13.267.506,15	Mdc
+kuna	kuna	Ncfpg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+raspoređuju	raspoređivati	Vmr3p
+se	sebe	Px--sa
+sredstva	sredstvo	Ncnpn
+za	za	Sa
+rad	rad	Ncmsan
+političkih	politički	Agpfpgy
+stranaka	stranka	Ncfpg
+i	i	Cc
+nezavisnih	nezavisan	Agpmpgy
+zastupnika	zastupnik	Ncmpg
+u	u	Sl
+iznosu	iznos	Ncmsl
+od	od	Sg
+10.024.966,15	10.024.966,15	Mdc
+kuna	kuna	Ncfpg
+za	za	Sa
+razdoblje	razdoblje	Ncnsa
+od	od	Sg
+14.	14.	Mdo
+listopada	listopad	Ncmsg
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Sredstva	sredstvo	Ncnpn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ove	ovaj	Pd-fsg
+točke	točka	Ncfsg
+raspoređuju	raspoređivati	Vmr3p
+se	sebe	Px--sa
+na	na	Sa
+način	način	Ncmsan
+da	da	Cs
+se	sebe	Px--sa
+utvrdi	utvrditi	Vmr3s
+jednak	jednak	Agpmsnn
+iznos	iznos	Ncmsn
+sredstava	sredstvo	Ncnpg
+za	za	Sa
+svakog	svaki	Pi-msg
+zastupnika	zastupnik	Ncmsg
+u	u	Sl
+Hrvatskom	hrvatski	Agpmsly
+saboru	sabor	Ncmsl
+tako	tako	Cs
+da	da	Cs
+pojedinoj	pojedini	Agpfsly
+političkoj	politički	Agpfsly
+stranci	stranka	Ncfsl
+pripadaju	pripadati	Vmr3p
+sredstva	sredstvo	Ncnpa
+razmjerno	razmjerno	Rgp
+broju	broj	Ncmsd
+njenih	njen	Ps3mpg
+zastupnika	zastupnik	Ncmpg
+i	i	Cc
+nezavisnim	nezavisan	Agpmpiy
+zastupnicima	zastupnik	Ncmpi
+izabranima	izabran	Agpmpiy
+s	sa	Sg
+nezavisnih	nezavisan	Agpfpgy
+lista	lista	Ncfpg
+u	u	Sl
+trenutku	trenutak	Ncmsl
+konstituiranja	konstituiranje	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+.	.	Z
+
+Svakom	svaki	Pi-msl
+izabranom	izabran	Agpmsly
+zastupniku	zastupnik	Ncmsl
+podzastupljenog	podzastupljen	Agpmsgy
+spola	spol	Ncmsg
+pripada	pripadati	Vmr3s
+i	i	Cc
+pravo	pravo	Ncnsa
+na	na	Sa
+naknadu	naknada	Ncfsa
+u	u	Sl
+visini	visina	Ncfsl
+od	od	Sg
+10	10	Mdc
+%	%	Z
+iznosa	iznos	Ncmsg
+predviđenog	predvidjeti	Appmsgy
+za	za	Sa
+svakog	svaki	Pi-msg
+zastupnika	zastupnik	Ncmsg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Prema	prema	Sl
+kriterijima	kriterij	Ncmpl
+iz	iz	Sg
+točke	točka	Ncfsg
+II	ii	Mrc
+.	.	Z
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+političkim	politički	Agpfpiy
+strankama	stranka	Ncfpi
+i	i	Cc
+nezavisnim	nezavisan	Agpmpiy
+zastupnicima	zastupnik	Ncmpi
+u	u	Sl
+razdoblju	razdoblje	Ncnsl
+od	od	Sg
+14.	14.	Mdo
+listopada	listopad	Ncmsg
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+raspoređuju	raspoređivati	Vmr3p
+se	sebe	Px--sa
+sredstva	sredstvo	Ncnpn
+:	:	Z
+
+1.	1.	Mdo
+Hrvatska	hrvatski	Agpfsny
+demokratska	demokratski	Agpfsny
+zajednica	zajednica	Ncfsn
+
+(	(	Z
+46	46	Mdc
+zastupnika	zastupnik	Ncmpg
+i	i	Cc
+11	11	Mdc
+zastupnica	zastupnica	Ncfpg
+)	)	Z
+3.789.528,52	3.789.528,52	Mdc
+kune	kuna	Ncfsg
+
+2.	2.	Mdo
+Socijaldemokratska	socijaldemokratski	Agpfsny
+partija	partija	Ncfsn
+Hrvatske	Hrvatska	Npfsg
+
+(	(	Z
+33	33	Mdc
+zastupnika	zastupnik	Ncmpg
+i	i	Cc
+5	5	Mdc
+zastupnica	zastupnica	Ncfpg
+)	)	Z
+2.511.133,36	2.511.133,36	Mdc
+kuna	kuna	Ncfpg
+
+3.	3.	Mdo
+Most	most	Ncmsn
+nezavisnih	nezavisan	Agpfpgy
+lista	lista	Ncfpg
+
+(	(	Z
+11	11	Mdc
+zastupnika	zastupnik	Ncmpg
+i	i	Cc
+3	3	Mdc
+zastupnice	zastupnica	Ncfsg
+)	)	Z
+932.706,68	932.706,68	Mdc
+kuna	kuna	Ncfpg
+
+4.	4.	Mdo
+Hrvatska	hrvatski	Agpfsny
+narodna	narodni	Agpfsny
+stranka	stranka	Ncfsn
+–	–	Z
+liberalni	liberalan	Agpmpny
+demokrati	demokrat	Ncmpn
+
+(	(	Z
+3	3	Mdc
+zastupnika	zastupnik	Ncmpg
+i	i	Cc
+6	6	Mdc
+zastupnica	zastupnica	Ncfpg
+)	)	Z
+626.152,73	626.152,73	Mdc
+kune	kuna	Ncfsg
+
+5.	5.	Mdo
+Hrvatska	hrvatski	Agpfsny
+seljačka	seljački	Agpfsny
+stranka	stranka	Ncfsn
+
+(	(	Z
+4	4	Mdc
+zastupnik	zastupnik	Ncmsn
+i	i	Cc
+1	1	Mdc
+zastupnice	zastupnica	Ncfsg
+)	)	Z
+332.643,64	332.643,64	Mdc
+kune	kuna	Ncfsg
+
+6.	6.	Mdo
+Živi	živ	Agpmsny
+zid	zid	Ncmsn
+
+(	(	Z
+3	3	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+195.672,73	195.672,73	Mdc
+kune	kuna	Ncfsg
+
+7.	7.	Mdo
+Istarski	istarski	Agpmsny
+demokratski	demokratski	Agpmsny
+sabor	sabor	Ncmsn
+
+(	(	Z
+3	3	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+195.672,73	195.672,73	Mdc
+kune	kuna	Ncfsg
+
+8.	8.	Mdo
+Samostalna	samostalan	Agpfsny
+demokratska	demokratski	Agpfsny
+srpska	srpski	Agpfsny
+stranka	stranka	Ncfsn
+
+(	(	Z
+3	3	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+195.672,73	195.672,73	Mdc
+kune	kuna	Ncfsg
+
+9.	9.	Mdo
+Promijenimo	promijeniti	Vmr1p
+Hrvatsku	Hrvatska	Npfsa
+
+(	(	Z
+2	2	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+130.448,49	130.448,49	Mdc
+kuna	kuna	Ncfpg
+
+10.	10.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+demokršćanska	demokršćanski	Agpfsny
+stranka	stranka	Ncfsn
+
+(	(	Z
+2	2	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+130.448,49	130.448,49	Mdc
+kuna	kuna	Ncfpg
+
+11.	11.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+stranka	stranka	Ncfsn
+umirovljenika	umirovljenik	Ncmpg
+
+(	(	Z
+2	2	Mdc
+zastupnika	zastupnik	Ncmpg
+)	)	Z
+130.448,49	130.448,49	Mdc
+kuna	kuna	Ncfpg
+
+12.	12.	Mdo
+
+Hrvatska	hrvatski	Agpfsny
+socijalno-liberalna	socijalno-liberalan	Agpfsny
+stranka	stranka	Ncfsn
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+13.	13.	Mdo
+
+Hrast	hrast	Ncmsn
+–	–	Z
+pokret	pokret	Ncmsn
+za	za	Sa
+uspješnu	uspješan	Agpfsay
+Hrvatsku	Hrvatska	Npfsa
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+14.	14.	Mdo
+
+Stranka	stranka	Ncfsn
+narodnog	narodni	Agpnsgy
+i	i	Cc
+građanskog	građanski	Agpmsgy
+aktivizma	aktivizam	Ncmsg
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+15.	15.	Mdo
+
+Bandić	Bandić	Npmsn
+Milan	Milan	Npmsn
+365	365	Mdc
+–	–	Z
+Stranka	stranka	Ncfsn
+rada	rad	Ncmsg
+i	i	Cc
+solidarnosti	solidarnost	Ncfsg
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+16.	16.	Mdo
+
+Hrvatski	hrvatski	Agpmsny
+demokratski	demokratski	Agpmsny
+savez	savez	Ncmsn
+Slavonije	Slavonija	Npfsg
+i	i	Cc
+Baranje	baranje	Ncnsn
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+17.	17.	Mdo
+
+Narodna	narodni	Agpfsny
+stranka	stranka	Ncfsn
+–	–	Z
+Reformisti	reformist	Ncmpn
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+18.	18.	Mdo
+
+Abeceda	abeceda	Ncfsn
+demokracije	demokracija	Ncfsg
+
+(	(	Z
+1	1	Mdc
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+65.224,24	65.224,24	Mdc
+kune	kuna	Ncfsg
+
+19.	19.	Mdo
+
+Ermina	Ermina	Npfsn
+Lekaj-Prljaskaj	Lekaj-Prljaskaj	Npfsn
+
+(	(	Z
+nezavisna	nezavisan	Agpfsny
+zastupnica	zastupnica	Ncfsn
+)	)	Z
+71.746,67	71.746,67	Mdc
+kuna	kuna	Ncfpg
+
+20.	20.	Mdo
+
+Željko	Željko	Npmsn
+Glasnović	Glasnović	Npmsn
+
+(	(	Z
+nezavisni	nezavisan	Agpmsny
+zastupnik	zastupnik	Ncmsn
+)	)	Z
+

@@ -1,0 +1,25 @@
+U-IIIB-6051	U-IIIB-6051	X
+/	/	Z
+2014	2014	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+18.	18.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

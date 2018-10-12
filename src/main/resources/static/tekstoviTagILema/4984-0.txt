@@ -1,0 +1,781 @@
+108	108	Mdc
+23.11.2016	23.11.2016	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+i	i	Cc
+dopunama	dopuna	Ncfpl
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+vozačkim	vozački	Agpfply
+dozvolama	dozvola	Ncfpl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+UNUTARNJIH	unutarnji	Agpmpgy
+POSLOVA	posao	Ncmpg
+
+2333	2333	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+218.	218.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+sigurnosti	sigurnost	Ncfsl
+prometa	promet	Ncmsg
+na	na	Sl
+cestama	cesta	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+67/08	67/08	Mdc
+,	,	Z
+48/10	48/10	Mdc
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+74/11	74/11	Mds
+,	,	Z
+80/13	80/13	Mdc
+,	,	Z
+158/13	158/13	Mdc
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+92/14	92/14	Mds
+i	i	Cc
+64/15	64/15	Mdc
+)	)	Z
+ministar	ministar	Ncmsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+
+O	o	Sl
+IZMJENAMA	izmjena	Ncfpl
+I	i	Cc
+DOPUNAMA	dopuna	Ncfpl
+PRAVILNIKA	pravilnik	Ncmpg
+O	o	Sl
+VOZAČKIM	vozački	Agpfply
+DOZVOLAMA	dozvola	Ncfpl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Pravilniku	pravilnik	Ncmsl
+o	o	Sl
+vozačkim	vozački	Agpfply
+dozvolama	dozvola	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+43/2013	43/2013	Mdc
+,	,	Z
+77/2013	77/2013	Mds
+,	,	Z
+155/2013	155/2013	Mdc
+,	,	Z
+1/2015	1/2015	Mdc
+i	i	Cc
+33/2016	33/2016	Mdc
+)	)	Z
+u	u	Sl
+članku	članak	Ncmsl
+2.	2.	Mdo
+iza	iza	Sg
+podstavka	podstavak	Ncmsg
+3.	3.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+podstavak	podstavak	Ncmsn
+4.	4.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+–	–	Z
+Direktiva	direktiva	Ncfsn
+Komisije	komisija	Ncfsg
+(	(	Z
+EU	EU	Npmsn
+)	)	Z
+2015/653	2015/653	Mdc
+od	od	Sg
+24.	24.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Direktive	direktiva	Ncfsg
+2006/126	2006/126	Mdc
+/	/	Z
+EZ	EZ	Npmsn
+Europskog	europski	Agpmsgy
+parlamenta	parlament	Ncmsg
+i	i	Cc
+Vijeća	vijeće	Ncnsg
+o	o	Sl
+vozačkim	vozački	Agpfply
+dozvolama	dozvola	Ncfpl
+(	(	Z
+SL	SL	Xf
+L	l	Xf
+107/68	107/68	Mdc
+,	,	Z
+25.	25.	Mdo
+4.	4.	Mdo
+2015.	2015.	Mdo
+)	)	Z
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+3.	3.	Mdo
+a	a	Cc
+stavku	stavak	Ncmsl
+4.	4.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+stavka	stavka	Ncfsn
+3.	3.	Mdo
+»	»	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+stavka	stavka	Ncfsn
+2.	2.	Mdo
+i	i	Cc
+3.	3.	Mdo
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+12.	12.	Mdo
+stavak	stavak	Ncmsn
+4.	4.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+13.	13.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+iza	iza	Sg
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+prilagodbe	prilagodba	Ncfsg
+vozila	vozilo	Ncnsg
+,	,	Z
+«	«	Z
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+riječi	riječ	Ncfpn
+:	:	Z
+»	»	Z
+ograničenja	ograničenje	Ncnsg
+uporabe	uporaba	Ncfsg
+vozila	vozilo	Ncnsg
+,	,	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+19.	19.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+4.	4.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Vozačka	vozački	Agpfsny
+dozvola	dozvola	Ncfsn
+koju	koji	Pi-fsa
+vozač	vozač	Ncmsn
+ne	ne	Qz
+preuzme	preuzeti	Vmr3s
+u	u	Sa
+idućih	idući	Agpmpgy
+90	90	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmpg
+isteka	istek	Ncmsg
+rokova	rok	Ncmpg
+iz	iz	Sg
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+postaje	postajati	Vmr3s
+nevažeća	nevažeći	Agpfsny
+,	,	Z
+a	a	Cc
+tijelo	tijelo	Ncnsn
+nadležno	nadležan	Agpnsny
+za	za	Sa
+izdavanje	izdavanje	Ncnsa
+vozačke	vozački	Agpfsgy
+dozvole	dozvola	Ncfsg
+će	htjeti	Var3s
+vozačku	vozački	Agpfsay
+dozvolu	dozvola	Ncfsa
+poništiti	poništiti	Vmn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+6.	6.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+22.	22.	Mdo
+stavak	stavak	Ncmsn
+2.	2.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Dosadašnji	dosadašnji	Agpmsny
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+postaje	postajati	Vmr3s
+stavak	stavak	Ncmsan
+2.	2.	Mdo
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+Popis	popis	Ncmsn
+ograničenja	ograničenje	Ncnsg
+u	u	Sl
+kodiranom	kodiran	Agpmsly
+obliku	oblik	Ncmsl
+koji	koji	Pi-msn
+je	biti	Var3s
+tiskan	tiskati	Appmsnn
+uz	uz	Sa
+Pravilnik	pravilnik	Ncmsan
+o	o	Sl
+vozačkim	vozački	Agpfply
+dozvolama	dozvola	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+43/2013	43/2013	Mdc
+,	,	Z
+77/2013	77/2013	Mds
+,	,	Z
+155/2013	155/2013	Mdc
+,	,	Z
+1/2015	1/2015	Mdc
+i	i	Cc
+33/2016	33/2016	Mdc
+)	)	Z
+zamjenjuje	zamjenjivati	Vmr3s
+se	sebe	Px--sa
+novim	nov	Agpmsiy
+Popisom	popis	Ncmsi
+podataka	podatak	Ncmpg
+i	i	Cc
+ograničenja	ograničenje	Ncnsg
+u	u	Sl
+kodiranom	kodiran	Agpmsly
+obliku	oblik	Ncmsl
+koji	koji	Pi-msn
+je	biti	Var3s
+tiskan	tiskati	Appmsnn
+uz	uz	Sa
+ovaj	ovaj	Pd-msan
+Pravilnik	pravilnik	Ncmsan
+i	i	Cc
+čini	činiti	Vmr3s
+njegov	njegov	Ps3msn
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+objavljuje	objavljivati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+1.	1.	Mdo
+2017.	2017.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+511	511	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+152	152	Mdc
+-	-	Z
+69906/2016	69906/2016	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+14.	14.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Vlaho	Vlaho	Npmsn
+Orepić	Orepić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+POPIS	popis	Ncmsn
+PODATAKA	podatak	Ncmpg
+I	i	Cc
+OGRANIČENJA	ograničenje	Ncnsg
+U	u	Sl
+KODIRANOM	kodiran	Agpmsly
+OBLIKU	oblik	Ncmsl
+
+I.	I.	Y
+VOZAČ	vozač	Ncmsn
+(	(	Z
+zdravstveni	zdravstven	Agpmpny
+razlozi	razlog	Ncmpn
+)	)	Z
+
+01.	01.	Mdo
+
+Korekcija	korekcija	Ncfsn
+vida	vid	Ncmsg
+i	i	Cc
+/	/	Z
+ili	ili	Cc
+zaštita	zaštita	Ncfsn
+
+01.01	01.01	Mds
+Naočale	naočale	Ncfpn
+
+01.02	01.02	Mds
+Kontaktna	kontaktan	Agpfsny
+leća	leća	Ncfsn
+(	(	Z
+kontaktne	kontaktan	Agpfpny
+leće	leća	Ncfpn
+)	)	Z
+
+01.05	01.0i	Agpnsny
+Pokrivalo	pokrivalo	Ncnsn
+za	za	Sa
+oko	oko	Ncnsa
+
+01.06	01.0i	Agpfpay
+Naočale	naočale	Ncfpa
+ili	ili	Cc
+kontaktne	kontaktan	Agpfsgy
+leće	leća	Ncfsg
+
+01.07	01.07	Mdc
+Posebno	poseban	Agpnsny
+optičko	optički	Agpnsny
+pomagalo	pomagalo	Ncnsn
+
+02.	02.	Mdo
+
+Slušno	slušni	Agpnsny
+pomagalo	pomagalo	Ncnsn
+/	/	Z
+pomagalo	pomagalo	Ncnsn
+za	za	Sa
+sporazumijevanje	sporazumijevanje	Ncnsa
+
+03.	03.	Mdo
+
+Proteza	proteza	Ncfsn
+/	/	Z
+ortoza	ortoza	Ncfsn
+za	za	Sa
+udove	udova	Ncfpa
+
+03.01	03.01	Mds
+Proteza	proteza	Ncfsn
+/	/	Z
+ortoza	ortoza	Ncfsn
+za	za	Sa
+gornje	gornji	Agpfpay
+udove	udova	Ncfpa
+
+03.02	03.02	Mds
+Proteza	proteza	Ncfsn
+/	/	Z
+ortoza	ortoza	Ncfsn
+za	za	Sa
+donje	donji	Agpfpay
+udove	udova	Ncfpa
+
+II	ii	Mrc
+.	.	Z
+
+PRILAGODBE	prilagodba	Ncfpa
+VOZILA	vozilo	Ncnsg
+
+10.	10.	Mdo
+
+Izmijenjeni	izmijeniti	Appmsny
+prijenos	prijenos	Ncmsn
+(	(	Z
+mjenjač	mjenjač	Ncmsn
+)	)	Z
+
+10.02	10.02	Mds
+Automatski	automatski	Agpmsny
+odabir	odabir	Ncmsn
+prijenosnog	prijenosni	Agpmsgy
+omjera	omjer	Ncmsg
+
+10.04	10.04	Mds
+Prilagođena	prilagoditi	Appfsny
+naprava	naprava	Ncfsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+prijenosom	prijenos	Ncmsi
+
+15.	15.	Mdo
+
+Izmijenjena	izmijeniti	Appfsny
+spojka	spojka	Ncfsn
+
+15.01	15.01	Mds
+Prilagođena	prilagoditi	Appfsny
+papučica	papučica	Ncfsn
+spojke	spojka	Ncfsg
+
+15.02	15.02	Mds
+Spojka	spojka	Ncfsn
+s	sa	Si
+ručnim	ručni	Agpnsiy
+upravljanjem	upravljanje	Ncnsi
+
+15.03	15.03	Mds
+Automatska	automatski	Agpfsny
+spojka	spojka	Ncfsn
+
+15.04	15.04	Mds
+Mjera	mjera	Ncfsn
+za	za	Sa
+sprečavanje	sprečavanje	Ncnsa
+opstrukcije	opstrukcija	Ncfsg
+ili	ili	Cc
+pokretanja	pokretanje	Ncnsg
+papučice	papučica	Ncfsg
+spojke	spojka	Ncfsg
+
+20.	20.	Mdo
+
+Izmijenjeni	izmijeniti	Appmpny
+sustavi	sustav	Ncmpn
+kočenja	kočenje	Ncnsg
+
+20.01	20.01	Mds
+Prilagođena	prilagoditi	Appfsny
+papučica	papučica	Ncfsn
+kočnice	kočnica	Ncfsg
+
+20.03	20.03	Mds
+Papučica	papučica	Ncfsn
+kočnice	kočnica	Ncfsg
+prikladna	prikladan	Agpfsny
+za	za	Sa
+uporabu	uporaba	Ncfsa
+lijevom	lijevi	Agpfsiy
+nogom	noga	Ncfsi
+
+20.04	20.04	Mds
+Klizna	klizni	Agpfsny
+papučica	papučica	Ncfsn
+kočnice	kočnica	Ncfsg
+
+20.05	20.05	Mds
+Nagnuta	nagnuti	Appfsny
+papučica	papučica	Ncfsn
+kočnice	kočnica	Ncfsg
+
+20.06	20.06	Mds
+Kočnica	kočnica	Ncfsn
+s	sa	Si
+ručnim	ručni	Agpnsiy
+upravljanjem	upravljanje	Ncnsi
+
+20.07	20.0i	Agpnsny
+Kočenje	kočenje	Ncnsn
+maksimalnom	maksimalan	Agpfsiy
+silom	sila	Ncfsi
+od	od	Sg
+…	…	Z
+
+N	N	Npfsn
+(*)	(*)	Npfsn
+(	(	Z
+npr.	npr.	Y
+:	:	Z
+ƒ	ƒ	X
+‚	‚	Z
+20.07.	20.07.	Mds
+(	(	Z
+300	300	Mdc
+N	N	Y
+)	)	Z
+’	’	Z
+)	)	Z
+
+20.09	20.09	Mds
+Prilagođena	prilagoditi	Appfsny
+pomoćna	pomoćan	Agpfsny
+/	/	Z
+parkirna	parkirni	Agpfsny
+kočnica	kočnica	Ncfsn
+
+20.12	20.12	Mds
+Mjera	mjera	Ncfsn
+za	za	Sa
+sprečavanje	sprečavanje	Ncnsa
+opstrukcije	opstrukcija	Ncfsg
+ili	ili	Cc
+pokretanja	pokretanje	Ncnsg
+papučice	papučica	Ncfsg
+kočnice	kočnica	Ncfsg
+
+20.13	20.13	Mds
+Kočnica	kočnica	Ncfsn
+s	sa	Si
+upravljanjem	upravljanje	Ncnsi
+koljenom	koljeno	Ncnsi
+
+20.14	20.14	Mds
+Radnja	radnja	Ncfsn
+kočionog	kočioni	Agpmsgy
+sustava	sustav	Ncmsg
+poduprta	poduprijeti	Appfsny
+vanjskom	vanjski	Agpfsiy
+silom	sila	Ncfsi
+
+25.	25.	Mdo
+
+Izmijenjeni	izmijeniti	Appmsny
+sustav	sustav	Ncmsn
+ubrzavanja	ubrzavanje	Ncnsg
+(	(	Z
+gasa	gas	Ncmpg
+)	)	Z
+
+25.01	25.01	Mds
+Prilagođena	prilagoditi	Appfsny
+papučica	papučica	Ncfsn
+gasa	gas	Ncmpg
+
+25.03	25.03	Mds
+Nagnuta	nagnuti	Appfsny
+papučica	papučica	Ncfsn
+gasa	gas	Ncmpg
+
+25.04	25.04	Mds
+Uređaj	uređaj	Ncmsn
+za	za	Sa
+ručno	ručni	Agpnsay
+dodavanje	dodavanje	Ncnsa
+gasa	gas	Ncmpg
+
+25.05	25.05	Mds
+Uređaj	uređaj	Ncmsn
+za	za	Sa
+dodavanje	dodavanje	Ncnsa
+gasa	gas	Ncmpg
+koljenom	koljeno	Ncnsi
+
+25.06	25.06	Mds
+Radnja	radnja	Ncfsn
+dodavanja	dodavanje	Ncnsg
+gasa	gas	Ncmpg
+poduprta	poduprijeti	Vmr3s
+vanjskom	vanjski	Agpfsiy
+silom	sila	Ncfsi
+
+25.08	25.08	Mds
+Papučica	papučica	Ncfsn
+gasa	gas	Ncmpg
+lijevo	lijevo	Rgp
+
+25.09	25.09	Mds
+Mjera	mjera	Ncfsn
+za	za	Sa
+sprečavanje	sprečavanje	Ncnsa
+opstrukcije	opstrukcija	Ncfsg
+ili	ili	Cc
+pokretanja	pokretanje	Ncnsg
+papučice	papučica	Ncfsg
+kočnice	kočnica	Ncfsg
+
+31.	31.	Mdo
+
+Prilagodbe	prilagodba	Ncfpn
+papučica	papučica	Ncfpg
+i	i	Cc
+zaštitne	zaštitni	Agpfpay
+mjere	mjera	Ncfpa
+za	za	Sa
+papučice	papučica	Ncfpa
+
+31.01	31.01	Mds
+Dodatni	dodatan	Agpmsny
+komplet	komplet	Ncmsn
+usporednih	usporedan	Agpfpgy
+papučica	papučica	Ncfpg
+
+31.02	31.02	Mds
+Papučice	papučica	Ncfsg
+na	na	Sa
+(	(	Z
+ili	ili	Cc
+skoro	skoro	Rgp
+na	na	Sl
+)	)	Z
+istoj	isti	Agpfsly
+razini	razina	Ncfsl
+
+31.03	31.03	Mds
+Mjera	mjera	Ncfsn
+za	za	Sa
+sprečavanje	sprečavanje	Ncnsa
+opstrukcije	opstrukcija	Ncfsg
+ili	ili	Cc
+pokretanja	pokretanje	Ncnsg
+papučice	papučica	Ncfsg
+gasa	gas	Ncmpg
+i	i	Cc
+kočnice	kočnica	Ncfsg
+kada	kada	Cs
+se	sebe	Px--sa
+papučicama	papučica	Ncfpi
+ne	ne	Qz
+upravlja	upravljati	Vmr3s
+nogom	noga	Ncfsi
+
+31.04	31.04	Mds
+Povišeni	povisiti	Appmpny
+pod	pod	Sa
+
+32.	32.	Mdo
+
+Kombinirani	kombiniran	Agpmpny
+sustavi	sustav	Ncmpn
+radne	radni	Agpfsgy
+kočnice	kočnica	Ncfsg
+i	i	Cc
+ubrzavanja	ubrzavanje	Ncnsg
+
+32.01	32.01	Mds
+Uređaj	uređaj	Ncmsn
+za	za	Sa
+dodavanje	dodavanje	Ncnsa
+gasa	gas	Ncmpg
+i	i	Cc
+radna	radni	Agpfsny
+kočnica	kočnica	Ncfsn
+kao	kao	Cs
+kombinirani	kombiniran	Agpmsny
+sustav	sustav	Ncmsn
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+upravlja	upravljati	Vmr3s
+jednom	jedan	Mlcfsi
+rukom	ruka	Ncfsi
+
+32.02	32.02	Mds
+Uređaj	uređaj	Ncmsn
+za	za	Sa
+dodavanje	dodavanje	Ncnsa
+gasa	gas	Ncmpg
+i	i	Cc
+radna	radni	Agpfsny
+kočnica	kočnica	Ncfsn
+kao	kao	Cs
+kombinirani	kombiniran	Agpmsny
+sustav	sustav	Ncmsn
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+upravlja	upravljati	Vmr3s
+vanjskom	vanjski	Agpfsiy
+silom	sila	Ncfsi
+
+33.	33.	Mdo
+
+Kombinirani	kombiniran	Agpmpny
+sustavi	sustav	Ncmpn
+radne	radni	Agpfsgy
+kočnice	kočnica	Ncfsg
+,	,	Z
+

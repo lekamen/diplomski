@@ -1,0 +1,648 @@
+točke	točka	Ncfpa
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+nova	nov	Agpfsny
+točka	točka	Ncfsn
+2.	2.	Mdo
+a	a	Cc
+koja	koji	Pi-fsn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+2.	2.	Mdo
+a	a	Cc
+Službeno	službeno	Rgp
+dodijeljen	dodijeliti	Appmsnn
+serijski	serijski	Agpmsny
+broj	broj	Ncmsn
+;	;	Z
+«	«	Z
+.	.	Z
+
+U	u	Sl
+točki	točka	Ncfsl
+3.	3.	Mdo
+iza	iza	Sg
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+uzorak	uzorak	Ncmsn
+uzet	uzet	Agpmsnn
+...	...	Z
+(	(	Z
+mjesec	mjesec	Ncmsan
+i	i	Cc
+godina	godina	Ncfsn
+)	)	Z
+«	«	Z
+;	;	Z
+dodati	dodati	Vmn
+riječi	riječ	Ncfpa
+»	»	Z
+ili	ili	Cc
+mjesec	mjesec	Ncmsan
+i	i	Cc
+godina	godina	Ncfsn
+u	u	Sl
+slučaju	slučaj	Ncmsl
+ponovnog	ponovan	Agpnsgy
+plombiranja	plombiranje	Ncnsg
+naznačeno	naznačiti	Appnsny
+na	na	Sa
+način	način	Ncmsan
+:	:	Z
+»	»	Z
+ponovno	ponovno	Rgp
+plombirano	plombirati	Appnsny
+…	…	Z
+.	.	Z
+(	(	Z
+mjesec	mjesec	Ncmsan
+i	i	Cc
+godina	godina	Ncfsn
+)	)	Z
+«	«	Z
+.	.	Z
+
+Točka	točka	Ncfsn
+12.	12.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+U	u	Sl
+dijelu	dio	Ncmsl
+B.	B.	Y
+u	u	Sl
+točki	točka	Ncfsl
+10.	10.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+Kod	kod	Sg
+mješavina	mješavina	Ncfpg
+sjemena	sjeme	Ncnsg
+kategorije	kategorija	Ncfsg
+standard	standard	Ncmsn
+u	u	Sl
+slučaju	slučaj	Ncmsl
+sorte	sorta	Ncfsg
+navedu	navesti	Vmr3p
+se	sebe	Px--sa
+sve	sav	Agpfpny
+sorte	sorta	Ncfpn
+koje	koji	Pi-fpn
+čine	činiti	Vmr3p
+mješavinu	mješavina	Ncfsa
+i	i	Cc
+njihov	njihov	Ps3msn
+%	%	Z
+udio	udjel	Ncmsn
+.	.	Z
+«	«	Z
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Iza	iza	Sg
+dijela	dio	Ncmsg
+C.	C.	Y
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+dijelovi	dio	Ncmpn
+D.	D.	Y
+i	i	Cc
+E.	E.	Pd-mpa
+koji	koji	Pi-mpn
+glase	glasiti	Vmr3p
+:	:	Z
+
+»	»	Z
+D.	D.	Y
+Službeni	služben	Agpmsny
+certifikat	certifikat	Ncmsn
+o	o	Sl
+sjemenu	sjeme	Ncnsl
+na	na	Sl
+pakiranju	pakiranje	Ncnsl
+za	za	Sa
+lučicu	lučica	Ncfsa
+luka	luk	Ncmsg
+i	i	Cc
+češanj	češanj	Ncmsn
+češnjaka	češnjak	Ncmsg
+
+I.	I.	Pd-mpn
+Potrebni	potreban	Agpmpny
+podaci	podatak	Ncmpn
+
+1.	1.	Mdo
+EU	E	Npmsg
+pravila	pravilo	Ncnpg
+i	i	Cc
+standardi	standard	Ncmpn
+
+2.	2i	Agpnsny
+Tijelo	tijelo	Ncnsn
+nadležno	nadležan	Agpnsny
+za	za	Sa
+certifikaciju	certifikacija	Ncfsa
+i	i	Cc
+država	država	Ncfpg
+ili	ili	Cc
+njihova	njihov	Ps3fsn
+kratica	kratica	Ncfsn
+
+3.	3.	Mdo
+Vrsta	vrsta	Ncfsn
+
+4.	4.	Mdo
+Sorta	sorta	Ncfsn
+
+5.	5.	Mdo
+Kategorija	kategorija	Ncfsn
+
+6.	6.	Mdo
+Referentno	referentno	Rgp
+broj	broj	Ncmsn
+partije	partija	Ncfsg
+
+7.	7.	Mdo
+Mjesec	mjesec	Ncmsan
+i	i	Cc
+godina	godina	Ncfsn
+plombiranja	plombiranje	Ncnsg
+
+8.	8.	Mdo
+Masa	masa	Ncfsn
+jednog	jedan	Agpnsgy
+pakiranja	pakiranje	Ncnsg
+
+9.	9.	Mdo
+Veličina	veličina	Ncfsn
+/	/	Z
+frakcija	frakcija	Ncfsn
+lučice	lučica	Ncfsg
+luka	luk	Ncmsg
+ili	ili	Cc
+češanj	češanj	Ncmsan
+češnjaka	češnjak	Ncmsg
+
+10.	10.	Mdo
+
+Originalni	originalan	Agpmsny
+broj	broj	Ncmsn
+partije	partija	Ncfsg
+pakiranja	pakiranje	Ncnsg
+iz	iz	Sg
+kojeg	koji	Pi-nsg
+se	sebe	Px--sa
+prepakirava	prepakiravati	Vmr3s
+(	(	Z
+samo	samo	Rgp
+u	u	Sl
+slučaju	slučaj	Ncmsl
+prepakiravanja	prepakiravanje	Ncnsg
+)	)	Z
+
+E.	E.	Y
+Proizvođački	proizvođački	Agpmsny
+certifikat	certifikat	Ncmsn
+za	za	Sa
+lučicu	lučica	Ncfsa
+luka	luk	Ncmsg
+i	i	Cc
+češanj	češanj	Ncmsn
+češnjaka	češnjak	Ncmsg
+
+I.	I.	Pd-mpn
+Potrebni	potreban	Agpmpny
+podaci	podatak	Ncmpn
+
+1.	1.	Mdo
+EU	E	Npmsg
+pravila	pravilo	Ncnpg
+i	i	Cc
+standardi	standard	Ncmpn
+
+2.	2.	Mdo
+Dobavljač	dobavljač	Ncmsn
+s	sa	Si
+pravom	pravo	Ncnsi
+dorade	dorada	Ncfsg
+odgovoran	odgovoran	Agpmsnn
+za	za	Sa
+stavljanje	stavljanje	Ncnsa
+na	na	Sa
+tržište	tržište	Ncnsa
+
+3.	3.	Mdo
+Vrsta	vrsta	Ncfsn
+
+4.	4.	Mdo
+Sorta	sorta	Ncfsn
+
+5.	5.	Mdo
+Kategorija	kategorija	Ncfsn
+
+6.	6.	Mdo
+Referentno	referentno	Rgp
+broj	broj	Ncmsn
+partije	partija	Ncfsg
+
+7.	7.	Mdo
+Mjesec	mjesec	Ncmsan
+i	i	Cc
+godina	godina	Ncfsn
+plombiranja	plombiranje	Ncnsg
+
+8.	8.	Mdo
+Masa	masa	Ncfsn
+jednog	jedan	Agpnsgy
+pakiranja	pakiranje	Ncnsg
+
+9.	9.	Mdo
+Veličina	veličina	Ncfsn
+/	/	Z
+frakcija	frakcija	Ncfsn
+lučice	lučica	Ncfsg
+luka	luk	Ncmsg
+ili	ili	Cc
+češnja	češanj	Ncmsg
+češnjaka	češnjak	Ncmsg
+
+10.	10.	Mdo
+
+Originalni	originalan	Agpmsny
+broj	broj	Ncmsn
+partije	partija	Ncfsg
+pakiranja	pakiranje	Ncnsg
+iz	iz	Sg
+kojeg	koji	Pi-nsg
+se	sebe	Px--sa
+prepakirava	prepakiravati	Vmr3s
+(	(	Z
+samo	samo	Rgp
+u	u	Sl
+slučaju	slučaj	Ncmsl
+prepakiravanja	prepakiravanj	Ncmpg
+)	)	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+16.	16.	Mdo
+
+U	u	Sl
+Dodatku	dodatak	Ncmsl
+5.	5.	Mdo
+u	u	Sl
+dijelu	dio	Ncmsl
+A.	A.	Mro
+iza	iza	Sg
+podstavka	podstavak	Ncmsg
+1.	1.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+novi	nov	Agpmsny
+podstavak	podstavak	Ncmsn
+2.	2.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+–	–	Z
+službeno	službeno	Rgp
+dodijeljen	dodijeliti	Appmsnn
+serijski	serijski	Agpmsny
+broj	broj	Ncmsn
+«	«	Z
+.	.	Z
+
+Dosadašnji	dosadašnji	Agpmpny
+podstavci	podstavak	Ncmpn
+2.	2.	Mdo
+,	,	Z
+3.	3.	Mdo
+,	,	Z
+4.	4.	Mdo
+,	,	Z
+5.	5.	Mdo
+i	i	Cc
+6.	6.	Mdo
+postaju	postati	Vmr3p
+podstavci	podstavak	Ncmpn
+3.	3.	Mdo
+,	,	Z
+4.	4.	Mdo
+,	,	Z
+5.	5.	Mdo
+,	,	Z
+6.	6.	Mdo
+i	i	Cc
+7.	7.	Mdo
+
+U	u	Sl
+dijelu	dio	Ncmsl
+C.	ca	Ncfsg
+iza	iza	Sg
+podstavka	podstavak	Ncmsg
+1.	1.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+novi	nov	Agpmsny
+podstavak	podstavak	Ncmsn
+2.	2.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+–	–	Z
+službeno	službeno	Rgp
+dodijeljen	dodijeliti	Appmsnn
+serijski	serijski	Agpmsny
+broj	broj	Ncmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Dosadašnji	dosadašnji	Agpmpny
+podstavci	podstavak	Ncmpn
+2.	2.	Mdo
+,	,	Z
+3.	3.	Mdo
+,	,	Z
+4.	4.	Mdo
+,	,	Z
+5.	5.	Mdo
+,	,	Z
+6.	6.	Mdo
+,	,	Z
+7.	7.	Mdo
+,	,	Z
+8.	8.	Mdo
+,	,	Z
+9.	9.	Mdo
+i	i	Cc
+10.	10.	Mdo
+postaju	postati	Vmr3p
+podstavci	podstavak	Ncmpn
+3.	3.	Mdo
+,	,	Z
+4.	4.	Mdo
+,	,	Z
+5.	5.	Mdo
+,	,	Z
+6.	6.	Mdo
+,	,	Z
+7.	7.	Mdo
+,	,	Z
+8.	8.	Mdo
+,	,	Z
+9.	9.	Mdo
+,	,	Z
+10.	10.	Mdo
+i	i	Cc
+11.	11.	Mdo
+
+Članak	članak	Ncmsn
+17.	17.	Mdo
+
+U	u	Sl
+Dodatku	dodatak	Ncmsl
+6.	6.	Mdo
+Obrazac	obrazac	Ncmsn
+7	7	Mdc
+a	a	Cc
+zamjenjuje	zamjenjivati	Vmr3s
+se	sebe	Px--sa
+novim	nov	Agpmsiy
+Obrascem	obrazac	Ncmsi
+7	7	Mdc
+a	a	Cc
+:	:	Z
+
+»	»	Z
+Obrazac	obrazac	Ncmsn
+7	7	Mdc
+a	a	Cc
+
+EVIDENCIJA	evidencija	Ncfsn
+O	o	Sl
+MASI	masa	Ncfsl
+PREUZETOG	preuzet	Agpnsgy
+I	i	Cc
+DORAĐENOG	doraditi	Agpnsgy
+SJEMENA	sjeme	Ncnsg
+
+Dobavljač	dobavljač	Ncmsn
+s	sa	Si
+pravom	pravo	Ncnsi
+dorade	dorada	Ncfsg
+
+1.	1.	Mdo
+Redni	redni	Agpmsny
+broj	broj	Ncmsn
+
+2.	2.	Mdo
+Vrsta	vrsta	Ncfsn
+
+3.	3.	Mdo
+Sorta	sorta	Ncfsn
+
+4.	4.	Mdo
+Kategorija	kategorija	Ncfsn
+
+5.	5.	Mdo
+Proizvođač	proizvođač	Ncmsn
+i	i	Cc
+zemlja	zemlja	Ncfsn
+proizvodnje	proizvodnja	Ncfsg
+
+6.	6.	Mdo
+Broj	broj	Ncmsn
+dokumenta	dokument	Ncmsg
+o	o	Sl
+sortnosti	sortnost	Ncfsl
+,	,	Z
+uvjerenja	uvjerenje	Ncnsg
+
+7.	7.	Mdo
+Količina	količina	Ncfsn
+naturalnog	naturalan	Agpnsgy
+sjemena	sjeme	Ncnsg
+
+8.	8.	Mdo
+Broj	broj	Ncmsn
+partije	partija	Ncfsg
+
+9.	9.	Mdo
+Datum	datum	Ncmsn
+podnošenja	podnošenje	Ncnsg
+zahtjeva	zahtjev	Ncmsg
+/	/	Z
+broj	broj	Ncmsan
+zahtjeva	zahtjev	Ncmpg
+
+10.	10.	Mdo
+
+Masa	masa	Ncfsn
+partije	partija	Ncfsg
+
+11.	11.	Mdo
+
+Masa	masa	Ncfsn
+jednog	jedan	Agpnsgy
+pakiranja	pakiranje	Ncnsg
+
+12.	12.	Mdo
+
+Broj	broj	Ncmsn
+pakiranja	pakiranje	Ncnsg
+
+13.	13.	Mdo
+
+Datum	datum	Ncmsn
+dorade	dorada	Ncfsg
+
+14.	14.	Mdo
+
+Mjesec	mjesec	Ncmsn
+plombiranja	plombiranje	Ncnsg
+
+15.	15.	Mdo
+
+Masa	masa	Ncfsn
+dorađene	doraditi	Agpfsgy
+partije	partija	Ncfsg
+sjemena	sjeme	Ncnsg
+
+16.	16.	Mdo
+
+Broj	broj	Ncmsn
+pakiranja	pakiranje	Ncnsg
+partije	partija	Ncfsg
+sjemena	sjeme	Ncnsg
+nakon	nakon	Sg
+dorade	dorada	Ncfsg
+
+17.	17.	Mdo
+
+Sredstvo	sredstvo	Ncnsn
+za	za	Sa
+tretiranje	tretiranje	Ncnsa
+sjemena	sjeme	Ncnsg
+
+18.	18.	Mdo
+
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+kakvoći	kakvoća	Ncfsl
+sjemena	sjeme	Ncnsg
+
+19.	19.	Mdo
+
+Napomena	napomena	Ncfsn
+«	«	Z
+.	.	Z
+
+Obrazac	obrazac	Ncmsn
+7	7	Mdc
+c.	c.	Y
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Obrazac	obrazac	Ncmsn
+10.	10.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+
+Dosadašnji	dosadašnji	Agpmsny
+Obrazac	obrazac	Ncmsn
+11.	11.	Mdo
+postaje	postajati	Vmr3s
+Obrazac	obrazac	Ncmsan
+10.	10.	Mdo
+
+Obrazac	obrazac	Ncmsn
+12	12	Mdc
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+18.	18.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+osim	osim	Sg
+odredbi	odredba	Ncfpg
+članka	članak	Ncmsg
+15.	15.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+16.	16.	Mdo
+koje	koji	Pi-fpn
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+od	od	Sg
+1.	1.	Mdo
+travnja	travanj	Ncmsg
+2017.	2017.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+01/08	01/08	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+525	525	Mdc
+-	-	Z
+09/1158	09/1158	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+12.	12.	Mdo
+rujna	rujan	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Davor	Davor	Npmsn
+Romić	Romić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

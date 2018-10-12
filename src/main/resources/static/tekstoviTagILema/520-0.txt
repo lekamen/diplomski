@@ -1,0 +1,199 @@
+25	25	Mdc
+06.03.2015	06.03.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+potpredsjednica	potpredsjednica	Ncfpg
+i	i	Cc
+članova	član	Ncmpg
+Državnog	državni	Agpnsgy
+izbornog	izborni	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+521	521	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+7.	7.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Državnom	državni	Agpnsly
+izbornom	izborni	Agpnsly
+povjerenstvu	povjerenstvo	Ncnsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+44/06.	44/06.	Mds
+i	i	Cc
+19/07.	19/07.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+27.	27.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+,	,	Z
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+POTPREDSJEDNICA	potpredsjednica	Ncfpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+DRŽAVNOG	državni	Agpnsgy
+IZBORNOG	izborni	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+I.	I.	Y
+
+Za	za	Sa
+potpredsjednice	potpredsjednica	Ncfpa
+Državnog	državni	Agpnsgy
+izbornog	izborni	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+
+–	–	Npfsn
+VESNA	VESNA	Npfsn
+FABIJANČIĆ	FABIJANČIĆ	Npfsn
+KRIŽANIĆ	Križanić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+pravnica	pravnica	Ncfsn
+iz	iz	Sg
+Velike	velik	Agpfsgy
+Gorice	gorica	Ncfsg
+
+–	–	Ncfsn
+ANA	Ana	Npfsn
+LOVRIN	LOVRIN	Npfsn
+,	,	Z
+dipl.	dipl	Agpfpgy
+pravnica	pravnica	Ncfpg
+iz	iz	Sg
+Zadra	Zadar	Npmsg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+članove	član	Ncmpa
+Državnog	državni	Agpnsgy
+izbornog	izborni	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+
+–	–	Z
+SLAVEN	Slaven	Npmsn
+HOJSKI	HOJSKI	Npmsn
+,	,	Z
+mag.	mag.	Y
+iur.	iur.	Y
+iz	iz	Sg
+Zagreba	Zagreb	Npmsg
+
+–	–	Z
+EMIL	Emil	Npmsn
+TOMLJANOVIĆ	TOMLJANOVIĆ	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+pravnik	pravnik	Ncmsn
+iz	iz	Sg
+Senja	senje	Ncnsg
+
+–	–	Z
+JOSIP	Josip	Npmsn
+VRESK	VRESK	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+pravnik	pravnik	Ncmsn
+iz	iz	Sg
+Ivanca	Ivanc	Npmsg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Mandat	mandat	Ncmsn
+potpredsjednica	potpredsjednica	Ncfpg
+i	i	Cc
+članova	član	Ncmpg
+Povjerenstva	povjerenstvo	Ncnsg
+počinje	počinjati	Vmr3s
+danom	dan	Sg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+dužnost	dužnost	Ncfsa
+,	,	Z
+a	a	Cc
+na	na	Sa
+dužnost	dužnost	Ncfsa
+stupaju	stupati	Vmr3p
+danom	dan	Sg
+polaganja	polaganje	Ncnsg
+prisege	prisega	Ncfsg
+pred	pred	Si
+predsjednikom	predsjednik	Ncmsi
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/15	13/15	Mdc
+-	-	Z
+07/03	07/03	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

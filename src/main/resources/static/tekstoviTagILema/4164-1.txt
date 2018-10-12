@@ -1,0 +1,60 @@
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+72.	72.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+riješeno	riješiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+izreci	izreka	Ncfsl
+.	.	Z
+
+7.	7.	Mdo
+Objava	objava	Ncfsn
+ovog	ovaj	Agpnsgy
+rješenja	rješenje	Ncnsg
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+(	(	Z
+točka	točka	Ncfsn
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpa
+)	)	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-3743	U-III-3743	X
+/	/	Z
+2015	2015	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+19.	19.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Duška	Duška	Npfsn
+Šarin	Šarin	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

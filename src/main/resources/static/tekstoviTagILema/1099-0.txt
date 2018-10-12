@@ -1,0 +1,404 @@
+56	56	Mdc
+22.05.2015	22.05.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+Odluke	odluka	Ncfsg
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Savjeta	savjet	Ncmsg
+za	za	Sa
+mlade	mlad	Agpmpay
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1100	1100	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+24.	24.	Mdo
+stavaka	stavak	Ncmpg
+1.	1.	Mdo
+i	i	Cc
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/2011	150/2011	Mdc
+i	i	Cc
+119/2014	119/2014	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+21.	21.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZMJENAMA	izmjena	Ncfpl
+ODLUKE	odluka	Ncfpa
+O	o	Sl
+OSNIVANJU	osnivanje	Ncnsl
+SAVJETA	savjet	Ncmsg
+ZA	za	Sa
+MLADE	mlad	Agpmpay
+
+I.	I.	Y
+
+U	u	Sl
+Odluci	odluka	Ncfsl
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Savjeta	savjet	Ncmsg
+za	za	Sa
+mlade	mlad	Agpmpay
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+102/2012	102/2012	Mds
+)	)	Z
+,	,	Z
+u	u	Sl
+točki	točka	Ncfsl
+III	III	Mrc
+.	.	Z
+stavak	stavak	Ncmsn
+1.	1.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Savjet	savjet	Ncmsan
+čine	činiti	Vmr3p
+:	:	Z
+
+–	–	Agpmsny
+zamjenik	zamjenik	Ncmsn
+ministra	ministar	Ncmsg
+socijalne	socijalan	Agpfsgy
+politike	politika	Ncfsg
+i	i	Cc
+mladih	mlad	Agpmpgy
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+socijalne	socijalan	Agpfsgy
+politike	politika	Ncfsg
+i	i	Cc
+mladih	mlad	Agpmpgy
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+znanosti	znanost	Ncfsg
+,	,	Z
+obrazovanja	obrazovanje	Ncnsg
+i	i	Cc
+sporta	sport	Ncmsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+zdravlja	zdravlje	Ncnsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+rada	rad	Ncmsg
+i	i	Cc
+mirovinskoga	mirovinski	Agpmsgy
+sustava	sustav	Ncmsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+kulture	kultura	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+poduzetništva	poduzetništvo	Ncnsg
+i	i	Cc
+obrta	obrt	Ncmsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+graditeljstva	graditeljstvo	Ncnsg
+i	i	Cc
+prostornoga	prostoran	Agpnsgy
+uređenja	uređenje	Ncnsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+pravosuđa	pravosuđe	Ncnsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+regionalnoga	regionalan	Agpmsgy
+razvoja	razvoj	Ncmsg
+i	i	Cc
+fondova	fond	Ncmpg
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ministarstva	ministarstvo	Ncnsg
+vanjskih	vanjski	Agpfpgy
+i	i	Cc
+europskih	europski	Agpmpgy
+poslova	posao	Ncmpg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ureda	ured	Ncmsg
+za	za	Sa
+udruge	udruga	Ncfpa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ureda	ured	Ncmsg
+za	za	Sa
+ljudska	ljudski	Agpnpay
+prava	pravo	Ncnpa
+i	i	Cc
+prava	pravo	Ncnpa
+nacionalnih	nacionalan	Agpfpgy
+manjina	manjina	Ncfpg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Ureda	ured	Ncmsg
+za	za	Sa
+ravnopravnost	ravnopravnost	Ncfsa
+spolova	spol	Ncmpg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Udruge	udruga	Ncfsg
+gradova	grad	Ncmpg
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Udruge	udruga	Ncfsg
+općina	općina	Ncfsn
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+zajednice	zajednica	Ncfsg
+županija	županija	Ncfsn
+
+–	–	Npmsn
+tri	tri	Mlc
+predstavnika	predstavnik	Ncmsg
+znanstvenih	znanstven	Agpmpgy
+i	i	Cc
+obrazovnih	obrazovni	Agpfpgy
+ustanova	ustanova	Ncfpg
+
+–	–	Z
+sedam	sedam	Mlc
+predstavnika	predstavnik	Ncmpg
+udruga	udruga	Ncfsn
+mladih	mlad	Agpmpgy
+i	i	Cc
+za	za	Sa
+mlade	mlad	Agpmpay
+.	.	Z
+«	«	Z
+.	.	Z
+
+Iza	iza	Sg
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+novi	nov	Agpmsny
+stavak	stavak	Ncmsn
+4.	4.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Zamjenik	zamjenik	Ncmsn
+ministra	ministar	Ncmsg
+socijalne	socijalan	Agpfsgy
+politike	politika	Ncfsg
+i	i	Cc
+mladih	mlad	Agpmpgy
+je	biti	Var3s
+zamjenik	zamjenik	Ncmsn
+predsjednika	predsjednik	Ncmsg
+Savjeta	savjet	Ncmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Dosadašnji	dosadašnji	Agpmpny
+stavci	stavak	Ncmpn
+4.	4.	Mdo
+–	–	Z
+7.	7.	Mdo
+postaju	postati	Vmr3p
+stavci	stavak	Ncmpn
+5.	5.	Mdo
+–	–	Z
+8.	8.	Mdo
+
+II	ii	Mrc
+.	.	Z
+
+U	u	Sl
+točki	točka	Ncfsl
+IV	IV	Mrc
+.	.	Z
+stavak	stavak	Ncmsn
+1.	1.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	i	Agpmpay
+Članove	član	Ncmpa
+i	i	Cc
+zamjenike	zamjenik	Ncmpa
+članova	član	Ncmpg
+Savjeta	savjet	Ncmsg
+imenuje	imenovati	Vmr3s
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+U	u	Sl
+stavku	stavak	Ncmsl
+2.	2.	Mdo
+riječi	riječ	Ncfsg
+:	:	Z
+»	»	Z
+Saveza	savez	Ncmsg
+Udruge	udruga	Ncfsg
+gradova	grad	Ncmpg
+i	i	Cc
+Udruge	udruga	Ncfsg
+općina	općina	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+Udruge	udruga	Ncfpn
+gradova	grad	Ncmpg
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+,	,	Z
+Udruge	udruga	Ncfpn
+općina	općina	Ncfsn
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+«	«	Z
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/186	04/186	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+04/04	04/04	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+21.	21.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

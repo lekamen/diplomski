@@ -1,0 +1,225 @@
+13	13	Mdc
+04.02.2015	04.02.2015	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+listi	lista	Ncfsl
+psihijatrijskih	psihijatrijski	Agpfpgy
+ustanova	ustanova	Ncfpg
+koje	koji	Pi-fpn
+ispunjavaju	ispunjavati	Vmr3p
+uvjete	uvjet	Ncmpa
+za	za	Sa
+smještaj	smještaj	Ncmsan
+i	i	Cc
+liječenje	liječenje	Ncnsa
+djece	dijete	Ncnpg
+odvojeno	odvojiti	Appnsny
+od	od	Sg
+punoljetnih	punoljetan	Agpfpgy
+osoba	osoba	Ncfpg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+ZDRAVLJA	zdravlje	Ncnsg
+
+253	253	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+10.	10.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+osoba	osoba	Ncfpg
+s	sa	Si
+duševnim	duševan	Agpfpiy
+smetnjama	smetnja	Ncfpi
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+76/2014	76/2014	Mds
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+zdravlja	zdravlje	Ncnsg
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+
+O	o	Sl
+LISTI	lista	Ncfsl
+PSIHIJATRIJSKIH	psihijatrijski	Agpfpgy
+USTANOVA	ustanova	Ncfpg
+KOJE	koji	Pi-fpn
+ISPUNJAVAJU	ispunjavati	Vmr3p
+UVJETE	uvjet	Ncmpa
+ZA	za	Sa
+SMJEŠTAJ	smještaj	Ncmsan
+I	i	Cc
+LIJEČENJE	liječenje	Ncnsa
+DJECE	dijete	Ncnpg
+ODVOJENO	odvojiti	Appnsny
+OD	od	Sg
+PUNOLJETNIH	punoljetan	Agpfpgy
+OSOBA	osoba	Ncfpg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Ovim	ovaj	Pd-msi
+Pravilnikom	pravilnik	Ncmsi
+utvrđuje	utvrđivati	Vmr3s
+se	sebe	Px--sa
+lista	lista	Ncfsn
+psihijatrijskih	psihijatrijski	Agpfpgy
+ustanova	ustanova	Ncfpg
+koje	koji	Pi-fpn
+ispunjavaju	ispunjavati	Vmr3p
+uvjete	uvjet	Ncmpa
+za	za	Sa
+smještaj	smještaj	Ncmsan
+i	i	Cc
+liječenje	liječenje	Ncnsa
+djece	dijete	Ncnpg
+odvojeno	odvojiti	Appnsny
+od	od	Sg
+punoljetnih	punoljetan	Agpfpgy
+osoba	osoba	Ncfpg
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Psihijatrijske	psihijatrijski	Agpfpny
+ustanove	ustanova	Ncfpn
+iz	iz	Sg
+članka	članak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+su	biti	Var3p
+:	:	Z
+
+1.	1.	Mdo
+Psihijatrijska	psihijatrijski	Agpfsny
+bolnica	bolnica	Ncfsn
+za	za	Sa
+djecu	dijete	Ncnpa
+i	i	Cc
+mladež	mladež	Ncfsn
+,	,	Z
+Ulica	ulica	Ncfsn
+Ivana	Ivan	Npmsg
+Kukuljevića	Kukuljević	Npmsg
+11	11	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+2.	2.	Mdo
+Klinički	klinički	Agpmsny
+bolnički	bolnički	Agpmsny
+centar	centar	Ncmsn
+Zagreb	Zagreb	Npmsn
+,	,	Z
+Šalata	Šalata	Npfsn
+2	2	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+3.	3.	Mdo
+Klinički	klinički	Agpmsny
+bolnički	bolnički	Agpmsny
+centar	centar	Ncmsn
+Rijeka	Rijeka	Npfsn
+,	,	Z
+Krešimirova	krešimirov	Aspfsny
+42	42	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+,	,	Z
+
+4.	4.	Mdo
+Klinički	klinički	Agpmsny
+bolnički	bolnički	Agpmsny
+centar	centar	Ncmsn
+Osijek	osijek	Ncmsn
+,	,	Z
+Josipa	Josip	Npmsg
+Huttlera	Huttler	Npmsg
+4	4	Mdc
+,	,	Z
+Osijek	osijek	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+04/02	04/02	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+534	534	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+1/2	1/2	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+30.	30.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+prim	prim	Ncmsan
+.	.	Z
+
+Siniša	Siniša	Npfsn
+Varga	Varga	Npfsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+dent	dent	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

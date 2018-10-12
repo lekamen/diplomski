@@ -1,0 +1,65 @@
+28	28	Mdc
+30.03.2016	30.03.2016	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+biciklističkoj	biciklistički	Agpfsly
+infrastrukturi	infrastruktura	Ncfsl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POMORSTVA	pomorstvo	Ncnsg
+,	,	Z
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+
+803	803	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+stavka	stavak	Ncmsg
+7.	7.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+cestama	cesta	Ncfpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+84/2011	84/2011	Mdc
+,	,	Z
+22/2013	22/2013	Mds
+,	,	Z
+54/2013	54/2013	Mdc
+,	,	Z
+148/2013	148/2013	Mdc
+i	i	Cc
+92/2014	92/2014	Mdc
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+u	u	Sl
+suglasnosti	suglasnost	Ncfsl
+s	sa	Si
+ministrom	ministar	Ncmsi
+nadležnim	nadležan	Agpmsiy
+za	za	Sa
+graditeljstvo	graditeljstvo	Ncnsa
+i	i	Cc
+prostorno	prostoran	Agpnsny
+uređenje	uređenje	Ncnsn
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+O	o	Sl
+BICIKLISTIČKOJ	biciklistički	Agpfsly
+INFRASTRUKTURI	infrastruktura	Ncfsl
+

@@ -1,0 +1,151 @@
+nezakonitim	nezakonit	Agpmsiy
+je	biti	Var3s
+ocijenio	ocijeniti	Vmp-sm
+drugostupanjski	drugostupanjski	Agpmsny
+sud	sud	Ncmsn
+,	,	Z
+ali	ali	Cc
+ne	ne	Qz
+i	i	Qo
+Ustavni	ustavan	Agpmsny
+sud	sud	Ncmsn
+.	.	Z
+
+Drugim	drugi	Agpfpiy
+riječima	riječ	Ncfpi
+,	,	Z
+taj	taj	Pd-msn
+članak	članak	Ncmsn
+Ustavni	ustavan	Agpmsny
+sud	sud	Ncmsn
+nikada	nikada	Rgp
+nije	biti	Var3s
+ocijenio	ocijeniti	Vmp-sm
+neustavnim	neustavan	Agpfpiy
+i	i	Cc
+nezakonitim	nezakonit	Agpfpiy
+.	.	Z
+
+22.1.	22.1.	Mdo
+
+S	sa	Si
+obzirom	obzir	Ncmsi
+da	da	Cs
+dopunska	dopunski	Agpfsny
+presuda	presuda	Ncfsn
+dijeli	dijeliti	Vmr3s
+sudbinu	sudbina	Ncfsa
+presude	presuda	Ncfsg
+o	o	Sl
+glavnoj	glavni	Agpfsly
+stvari	stvar	Ncfsl
+(	(	Z
+v.	v.	Y
+točku	točka	Ncfsa
+11.	11.	Mdo
+obrazloženja	obrazloženje	Ncnsg
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+)	)	Z
+,	,	Z
+Ustavni	ustavan	Agpmsny
+sud	sud	Ncmsn
+ukinuo	ukinuti	Vmp-sm
+je	biti	Var3s
+i	i	Qo
+točku	točka	Ncfsa
+I	i	Cc
+/	/	Z
+izreke	izreka	Ncfpn
+osporene	osporiti	Appfpny
+drugostupanjske	drugostupanjski	Agpfsgy
+presude	presuda	Ncfsg
+.	.	Z
+
+23.	23.	Mdo
+
+Sukladno	sukladno	Rgp
+utvrđenjima	utvrđenje	Ncnpd
+navedenima	naveden	Agpfpiy
+u	u	Sl
+točkama	točka	Ncfpl
+od	od	Sg
+18.	18.	Mdo
+do	do	Sg
+21.2.	21.2.	Mdo
+obrazloženja	obrazloženje	Ncnsg
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+,	,	Z
+na	na	Sl
+temelju	temelj	Ncmsl
+članaka	članak	Ncmpg
+73.	73.	Mdo
+i	i	Cc
+76.	76.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+točkama	točka	Ncfpl
+I.		Agpfply
+,	,	Z
+II	ii	Mrc
+.	.	Z
+i	i	Cc
+III	III	Mrc
+.	.	Z
+izreke	izreka	Ncfpa
+.	.	Z
+
+24.	24.	Mdo
+
+Objava	objava	Ncfsn
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+(	(	Z
+točka	točka	Ncfsn
+IV	IV	Mrc
+.	.	Z
+izreke	izreka	Ncfpa
+)	)	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-864	U-III-864	Mds
+/	/	Z
+2011	2011	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+2.	2.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Zamjenica	zamjenica	Ncfsn
+predsjednice	predsjednica	Ncfsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

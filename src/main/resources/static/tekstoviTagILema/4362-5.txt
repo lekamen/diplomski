@@ -1,0 +1,152 @@
+osjetljive	osjetljiv	Agpfpny
+na	na	Sa
+različite	različit	Agpmpay
+plinove	plin	Ncmpa
+
+4.	4.	Mdo
+Prijenosni	prijenosni	Agpmsny
+detektor	detektor	Ncmsn
+plina	plin	Ncmsg
+
+5.	5.	Mdo
+Prijenosni	prijenosni	Agpmsny
+indikator	indikator	Ncmsn
+zapaljivih	zapaljiv	Agpmpgy
+plinova	plin	Ncmpg
+
+6.	6.	Mdo
+Prijenosni	prijenosni	Agpmsny
+mjerni	mjerni	Agpmsny
+uređaj	uređaj	Ncmsn
+za	za	Sa
+količinu	količina	Ncfsa
+kisika	kisik	Ncmsg
+
+7.	7.	Mdo
+Komplet	komplet	Ncmsn
+laboratorijske	laboratorijski	Agpfsgy
+opreme	oprema	Ncfsg
+za	za	Sa
+pokazne	pokazni	Agpfpay
+vježbe	vježba	Ncfpa
+i	i	Cc
+eksperimente	eksperiment	Ncmpa
+
+8.	8.	Mdo
+Ručni	ručni	Agpmsny
+uređaj	uređaj	Ncmsn
+za	za	Sa
+mjerenje	mjerenje	Ncnsa
+sadržaja	sadržaj	Ncmsg
+otrovnog	otrovan	Agpmsgy
+plina	plin	Ncmsg
+(	(	Z
+pomoću	pomoć	Sg
+cjevčica	cjevčica	Ncfpg
+)	)	Z
+
+9.	9.	Mdo
+Komplet	komplet	Ncmsn
+protupožarne	protupožarni	Agpfsgy
+opreme	oprema	Ncfsg
+
+10.	10.	Mdo
+
+MARPOL	marpoi	Agpfsny
+Konvencija	konvencija	Ncfsn
+,	,	Z
+kako	kako	Cs
+je	biti	Var3s
+izmijenjena	izmijeniti	Appfsny
+i	i	Cc
+dopunjena	dopuniti	Appfsny
+
+11.	11.	Mdo
+
+Referentni	referentan	Agpmpny
+videomaterijali	videomaterijal	Ncmpn
+
+12.	12.	Mdo
+
+Eksploziometar	Eksploziometar	Npmsn
+
+13.	13.	Mdo
+
+Komplet	komplet	Ncmsn
+nacrta	nacrt	Ncmsg
+broda	brod	Ncmsg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+odnose	odnositi	Vmr3p
+na	na	Sa
+upotrebu	upotreba	Ncfsa
+plina	plin	Ncmsg
+kao	kao	Cs
+pogonskog	pogonski	Agpnsgy
+sredstva	sredstvo	Ncnsg
+(	(	Z
+cjevovodi	cjevovod	Ncmpn
+,	,	Z
+tankovi	tank	Ncmpn
+,	,	Z
+ventili	ventil	Ncmpn
+)	)	Z
+«	«	Z
+
+Članak	članak	Ncmsn
+20.	20.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+02/44	02/44	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+2	2	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+4	4	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+18.	18.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Oleg	Oleg	Npmsn
+Butković	Butković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

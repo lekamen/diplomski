@@ -1,0 +1,147 @@
+69	69	Mdc
+27.07.2016	27.07.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+obnašatelja	obnašatelj	Ncmpg
+dužnosti	dužnost	Ncfsg
+predsjednika	predsjednik	Ncmsg
+Centra	centar	Ncmsg
+za	za	Sa
+mirenje	mirenje	Ncnsa
+pri	pri	Sl
+Hrvatskoj	Hrvatska	Npfsl
+gospodarskoj	gospodarski	Agpfsly
+komori	komora	Ncfsl
+
+HRVATSKA	hrvatski	Agpfsny
+GOSPODARSKA	gospodarski	Agpfsny
+KOMORA	komora	Ncfsn
+
+1658	1658	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+11.	11.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+mirenju	mirenje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+142/11	142/11	Mdc
+)	)	Z
+Upravni	upravan	Agpmsny
+odbor	odbor	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+gospodarske	gospodarski	Agpfsgy
+komore	komora	Ncfsg
+na	na	Sl
+4.	4.	Mdo
+sjednici	sjednica	Ncfsl
+19.	19.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donosi	donositi	Vmr3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+OBNAŠATELJA	obnašatelj	Ncmpg
+DUŽNOSTI	dužnost	Ncfsg
+PREDSJEDNIKA	predsjednik	Ncmsg
+CENTRA	centar	Ncmsg
+ZA	za	Sa
+MIRENJE	mirenje	Ncnsa
+PRI	pri	Sl
+HRVATSKOJ	Hrvatska	Npfsl
+GOSPODARSKOJ	gospodarski	Agpfsly
+KOMORI	komora	Ncfsl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+prof.	prof.	Y
+em	em	Ncmsn
+.	.	Z
+dr.	dr.	Y
+sc.	sc.	Y
+Krešimir	Krešimir	Npmsn
+Sajko	Sajko	Npmsn
+obnašateljem	obnašatelj	Ncmsi
+dužnosti	dužnost	Ncfsg
+predsjednika	predsjednik	Ncmsg
+Centra	centar	Ncmsg
+za	za	Sa
+mirenje	mirenje	Ncnsa
+pri	pri	Sl
+Hrvatskoj	Hrvatska	Npfsl
+gospodarskoj	gospodarski	Agpfsly
+komori	komora	Ncfsl
+,	,	Z
+na	na	Sa
+razdoblje	razdoblje	Ncnsa
+od	od	Sg
+1.	1.	Mdo
+kolovoza	kolovoz	Ncmsg
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/07	02/07	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+311	311	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+06	06	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+19.	19.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Luka	Luka	Npmsn
+Burilović	Burilović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

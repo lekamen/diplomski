@@ -1,0 +1,352 @@
+60	60	Mdc
+30.05.2015	30.05.2015	Mdo
+Uredba	uredba	Ncfsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Uredbe	uredba	Ncfsg
+o	o	Sl
+nazivima	naziv	Ncmpl
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+i	i	Cc
+koeficijentima	koeficijent	Ncmpl
+složenosti	složenost	Ncfsg
+poslova	posao	Ncmpg
+u	u	Sl
+javnim	javan	Agpfply
+službama	služba	Ncfpl
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1161	1161	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+6.	6.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+plaćama	plaća	Ncfpl
+u	u	Sl
+javnim	javan	Agpfply
+službama	služba	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+27/2001	27/2001	Mdc
+i	i	Cc
+39/2009	39/2009	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+28.	28.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+UREDBU	uredba	Ncfsa
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+UREDBE	uredba	Ncfsg
+O	o	Sl
+NAZIVIMA	naziv	Ncmpl
+RADNIH	radni	Agpnpgy
+MJESTA	mjesto	Ncnpg
+I	i	Cc
+KOEFICIJENTIMA	koeficijent	Ncmpl
+SLOŽENOSTI	složenost	Ncfsg
+POSLOVA	posao	Ncmpg
+U	u	Sl
+JAVNIM	javan	Agpfply
+SLUŽBAMA	služba	Ncfpl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Uredbi	uredba	Ncfsl
+o	o	Sl
+nazivima	naziv	Ncmpl
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+i	i	Cc
+koeficijentima	koeficijent	Ncmpl
+složenosti	složenost	Ncfsg
+poslova	posao	Ncmpg
+u	u	Sl
+javnim	javan	Agpfply
+službama	služba	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+25/2013	25/2013	Mdc
+,	,	Z
+72/2013	72/2013	Mds
+,	,	Z
+151/2013	151/2013	Mdc
+,	,	Z
+9/2014	9/2014	Mdm
+,	,	Z
+40/2014	40/2014	Mdc
+,	,	Z
+51/2014	51/2014	Mdc
+,	,	Z
+77/2014	77/2014	Mdc
+,	,	Z
+83/2014	83/2014	Mdc
+,	,	Z
+87/2014	87/2014	Mdc
+,	,	Z
+120/2014	120/2014	Mdc
+,	,	Z
+147/2014	147/2014	Mdc
+,	,	Z
+151/2014	151/2014	Mdc
+,	,	Z
+11/2015	11/2015	Mdc
+,	,	Z
+32/2015	32/2015	Mdc
+i	i	Cc
+38/2015	38/2015	Mdc
+)	)	Z
+,	,	Z
+članak	članak	Ncmsn
+50.	50.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Posebni	poseban	Agpmpny
+nazivi	naziv	Ncmpn
+radnih	radni	Agpnpgy
+mjesta	mjesto	Ncnpg
+i	i	Cc
+koeficijenti	koeficijent	Ncmpn
+složenosti	složenost	Ncfsg
+poslova	posao	Ncmpg
+u	u	Sl
+Hrvatskoj	Hrvatska	Npfsl
+agenciji	agencija	Ncfsl
+za	za	Sa
+malo	mali	Agpnsay
+gospodarstvo	gospodarstvo	Ncnsa
+,	,	Z
+inovacije	inovacija	Ncfsg
+i	i	Cc
+investicije	investicija	Ncfpa
+(	(	Z
+HAMAG	HAMAG	Npmsn
+–	–	Z
+BICRO	BICRO	Npmsn
+)	)	Z
+su	biti	Var3p
+:	:	Z
+
+a	a	Cc
+)	)	Z
+Položaji	položaj	Ncmpn
+I.	I.	Pd-fsg
+vrste	vrsta	Ncfsg
+
+1.	1.	Mdo
+ravnatelj	ravnatelj	Ncmsn
+sektora	sektor	Ncmsg
+2,619	2,619	Mdc
+
+2.	2.	Mdo
+voditelj	voditelj	Ncmsn
+Ureda	ured	Ncmsg
+za	za	Sa
+unutarnju	unutarnji	Agpfsay
+reviziju	revizija	Ncfsa
+2,328	2,328	Mdc
+
+3.	3.	Mdo
+voditelj	voditelj	Ncmsn
+službe	služba	Ncfsg
+2,328	2,328	Mdc
+
+4.	4.	Mdo
+voditelj	voditelj	Ncmsn
+odjela	odjel	Ncmsg
+2,134	2,134	Mdc
+
+5.	5.	Mdo
+voditelj	voditelj	Ncmsn
+Odjela	odjel	Ncmsg
+općih	opći	Agpmpgy
+poslova	posao	Ncmpg
+2,034	2,034	Mdc
+
+6.	6.	Mdo
+voditelj	voditelj	Ncmsn
+Odjela	odjel	Ncmsg
+za	za	Sa
+računovodstvo	računovodstvo	Ncnsa
+i	i	Cc
+financije	financije	Ncfpa
+2,034	2,034	Mdc
+
+7.	7.	Mdo
+voditelj	voditelj	Ncmsn
+Odjela	odjel	Ncmsg
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+2,034	2,034	Mdc
+
+8.	8.	Mdo
+voditelj	voditelj	Ncmsn
+Odjela	odjel	Ncmsg
+za	za	Sa
+građevinske	građevinski	Agpmpay
+radove	rad	Ncmpa
+2,034	2,034	Mdc
+
+b	b	Npmsn
+)	)	Z
+Radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+I.	ii	Agpfsgy
+vrste	vrsta	Ncfsg
+
+1.	1.	Mdo
+savjetnik	savjetnik	Ncmsn
+uprave	uprava	Ncfsg
+2,328	2,328	Mdc
+
+2.	2.	Mdo
+viši	visok	Agcmsny
+analitičar	analitičar	Ncmsn
+1,988	1,988	Mdc
+
+3.	3.	Mdo
+viši	visok	Agcmsny
+unutarnji	unutarnji	Agpmsny
+revizor	revizor	Ncmsn
+1,988	1,988	Mdc
+
+4.	4.	Mdo
+unutarnji	unutarnji	Agpmsny
+revizor	revizor	Ncmsn
+1,843	1,843	Mdc
+
+5.	5.	Mdo
+analitičar	analitičar	Ncmsn
+1,794	1,794	Mdc
+
+6.	6.	Mdo
+niži	nizak	Agcmsny
+analitičar	analitičar	Ncmsn
+1,406	1,406	Mdc
+
+c	C	Npmsn
+)	)	Z
+Radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+II	ii	Mrc
+.	.	Z
+vrste	vrsta	Ncfsg
+
+1.	1.	Mdo
+viši	visok	Agcmsny
+administrator	administrator	Ncmsn
+1,164	1,164	Mdc
+
+2.	2.	Mdo
+administrator	administrator	Ncmsn
+1,121	1,121	Mdc
+
+d	d	Npmsn
+)	)	Z
+Radna	radni	Agpnpay
+mjesta	mjesto	Ncnpa
+III	III	Mrc
+.	.	Z
+vrste	vrsta	Ncfsg
+
+1.	1.	Mdo
+administrator	administrator	Ncmsn
+1,067	1,067	Mdc
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/45	03/45	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

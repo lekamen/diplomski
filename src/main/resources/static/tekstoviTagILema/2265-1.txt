@@ -1,0 +1,830 @@
+Državno	državni	Agpnsny
+odvjetništvo	odvjetništvo	Ncnsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Gajeva	gaj	Aspfsny
+30	30	Mdc
+a	a	Cc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+36.	36.	Mdo
+
+Galić	Galić	Npmsn
+Ante	Ante	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predsjednika	predsjednik	Ncmsg
+suda	sud	Ncmsg
+,	,	Z
+Trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Amruševa	amrušev	Aspfsny
+2	2	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+37.	37.	Mdo
+
+Galiot	Galiot	Npmsn
+Mijo	Mijo	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+,	,	Z
+Općinski	općinski	Agpmsny
+sud	sud	Ncmsn
+Split	Split	Npmsn
+,	,	Z
+Ex	ex	Xf
+vojarna	vojarna	Ncfsn
+Sv.	Sv.	Y
+Križ	Križ	Npmsn
+,	,	Z
+Dračevac	Dračevac	Npmsn
+,	,	Z
+Split	Split	Npmsn
+
+38.	38.	Mdo
+
+Galogaža	Galogaža	Npmsn
+Andrej	Andrej	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+,	,	Z
+Švarcova	švarcov	Aspfsny
+22	22	Mdc
+
+39.	39.	Mdo
+
+Garašić	Garašić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Jasnica	Jasnica	Npfsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+40.	40.	Mdo
+
+Gasparini	Gasparini	Npfsn
+Gordana	Gordana	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+Vrhovnog	vrhovni	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinjskog	Zrinjski	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+41.	41.	Mdo
+
+Giunio	giuniti	Vmp-sm
+mr.	mr.	Y
+sc.	sc.	Y
+Miljenko	Miljenko	Npmsn
+,	,	Z
+prokurist	prokurist	Ncmsn
+,	,	Z
+Metalmineral	Metalmineral	Npmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Republike	republika	Ncfsg
+Austrije	Austrija	Npfsg
+25	25	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+42.	42.	Mdo
+
+Gliha	gliha	Ncfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Igor	Igor	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+43.	43.	Mdo
+
+Gorenc	Gorenc	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Vilim	Vilim	Npmsn
+,	,	Z
+sveučilišni	sveučilišni	Agpmsny
+profesor	profesor	Ncmsn
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Radovanići	radovanića	Ncfsl
+17	17	Mdc
+,	,	Z
+Bregana	Bregan	Npmsg
+
+44.	44.	Mdo
+
+Grabovac	Grabovac	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Ivo	Ivo	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+emeritus	emeritus	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Splitu	Split	Npmsl
+,	,	Z
+Ulica	ulica	Ncfsn
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+8	8	Mdc
+,	,	Z
+Split	Split	Npmsn
+
+45.	45.	Mdo
+
+Grbin	Grbin	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Ivo	Ivo	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+Vrhovnog	vrhovni	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Vankina	Vankina	Npfsn
+6	6	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+46.	46.	Mdo
+
+Hlača	hlače	Ncfpg
+dr.	dr.	Y
+sc.	sc.	Y
+Vinko	Vinko	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+Pravnog	pravni	Agpmsgy
+fakulteta	fakultet	Ncmsg
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+47.	47.	Mdo
+
+Horak	horak	Mls
+dr.	dr.	Y
+sc.	sc.	Y
+Hana	Han	Npmsg
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Ekonomski	ekonomski	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+J.	J.	Y
+F.	F.	Y
+Kennedyja	Kennedy	Npmsg
+6	6	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+48.	48.	Mdo
+
+Hrastinski	Hrastinski	Npmsn
+Jurčec	Jurčec	Npmsn
+Ljiljana	Ljiljana	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+,	,	Z
+Vrhovni	vrhovni	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Trg	trg	Ncmsn
+N.	N.	Y
+Š.	Š.	Y
+Zrinjskog	Zrinjskog	Npmsn
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+49.	49.	Mdo
+
+Hrvatin	Hrvatin	Npmsn
+Branko	Branko	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+suda	sud	Ncmsg
+,	,	Z
+Vrhovni	vrhovni	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinjskog	Zrinjski	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+50.	50.	Mdo
+
+Hrvoj-Šipek	hrvoj-šipek	Agpnsgy
+Zlata	zlato	Ncnsg
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+glavnog	glavni	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+,	,	Z
+Državno	državni	Agpnsny
+odvjetništvo	odvjetništvo	Ncnsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Gajeva	gaj	Aspfsny
+30	30	Mdc
+A	a	Cc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+51.	51.	Mdo
+
+Ivkošić	Ivkošić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Marko	Marko	Npmsn
+,	,	Z
+docent	docent	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Splitu	Split	Npmsl
+,	,	Z
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+8	8	Mdc
+,	,	Z
+Split	Split	Npmsn
+
+52.	52.	Mdo
+
+Jelčić	Jelčić	Npmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Olga	Olga	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+Vrhovnog	vrhovni	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Stjepana	Stjepan	Npmsg
+Radića	Radić	Npmsg
+2	2	Mdc
+,	,	Z
+Zadar	Zadar	Npmsn
+
+53.	53.	Mdo
+
+Jelinić	Jelinić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Srećko	Srećko	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Osijeku	Osijek	Npmsl
+,	,	Z
+Stjepana	Stjepan	Npmsg
+Radića	Radić	Npmsg
+13	13	Mdc
+,	,	Z
+Osijek	Osijek	Npmsn
+
+54.	54.	Mdo
+
+Josipović	Josipović	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Tatjana	Tatjana	Npfsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučillišta	Sveučillišt	Npmsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+55.	55.	Mdo
+
+Jug	jug	Ncmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Jadranko	Jadranko	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+,	,	Z
+Vrhovni	vrhovni	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinjskog	Zrinjski	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+56.	56.	Mdo
+
+Jurić	Jurić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Dionis	Dionis	Npmsn
+,	,	Z
+izv	izv	Ncmsn
+.	.	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+57.	57.	Mdo
+
+Jurić	Jurić	Npmsn
+Sanja	sanjati	Vmr3s
+,	,	Z
+odvjetnica	odvjetnica	Ncfsn
+,	,	Z
+partner	partner	Ncmsn
+,	,	Z
+odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Jurić	Jurić	Npmsn
+&	&	Z
+Vrbanović	Vrbanović	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Budmanijeva	budmanijev	Aspfsny
+5	5	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+58.	58.	Mdo
+
+Jurinić	Jurinić	Npmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Josipa	Josip	Npmsg
+,	,	Z
+glavni	glavni	Agpmsny
+pravni	pravni	Agpmsny
+savjetnik	savjetnik	Ncmsn
+,	,	Z
+Ericsson	Ericsson	Npmsn
+Nikola	Nikola	Npmsn
+Tesla	Tesla	Npmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Krapinska	krapinski	Agpfsny
+45	45	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+59.	59.	Mdo
+
+Karakaš	karakaš	Ncmsn
+Robert	Robert	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Šunić	Šunić	Npmsn
+i	i	Cc
+partneri	partner	Ncmpn
+j.	j.	Y
+t.	t.	Y
+d.	d.	Y
+,	,	Z
+Donje	donji	Agpfpny
+Svetice	svetica	Ncfpn
+99	99	Mdc
+A	a	Cc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+60.	60.	Mdo
+
+Keglević	Keglević	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Ana	Ana	Npfsn
+,	,	Z
+viša	visok	Agcfsny
+asistentica	asistentica	Ncfsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+61.	61.	Mdo
+
+Klarić	Klarić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Petar	Petar	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+Pravnog	pravni	Agpmsgy
+fakulteta	fakultet	Ncmsg
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+14	14	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+62.	62.	Mdo
+
+Knezović	Knezović	Npmsn
+Vinko	Vinko	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+Vinogradska	vinogradski	Agpfsny
+1	1	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+63.	63.	Mdo
+
+Knežević	Knežević	Npmsn
+Narcisa	narcis	Ncmsg
+,	,	Z
+rukovoditelj	rukovoditelj	Ncmsn
+odjela	odjel	Ncmsg
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+,	,	Z
+HEP	HEP	Npmsn
+–	–	Z
+Operator	operator	Ncmsn
+distribucijskog	distribucijski	Agpmsgy
+sustava	sustav	Ncmsg
+d.o.o.	d.o.o.	Y
+,	,	Z
+Ulica	ulica	Ncfsn
+grada	grad	Ncmsg
+Vukovara	Vukovar	Npmsg
+37	37	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+64.	64.	Mdo
+
+Koketi	koketa	Ncfsl
+Boris	Boris	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+glavnog	glavni	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+,	,	Z
+Državno	državni	Agpnsny
+odvjetništvo	odvjetništvo	Ncnsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Gajeva	gaj	Aspfsny
+30	30	Mdc
+a	a	Cc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+65.	65.	Mdo
+
+Korać	Korać	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Aleksandra	Aleksandra	Npfsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+66.	66.	Mdo
+
+Kos	kos	Ncmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Branimir	Branimir	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Hrvatska	hrvatski	Agpfsny
+gospodarska	gospodarski	Agpfsny
+komora	komora	Ncfsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+Rooseveltov	rooseveltov	Aspmsnn
+trg	trg	Ncmsn
+2	2	Mdc
+,	,	Z
+pomoćnik	pomoćnik	Ncmsn
+Glavnog	glavni	Agpmsgy
+tajnika	tajnik	Ncmsg
+HGK	HG	Npmsg
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+
+67.	67.	Mdo
+
+Kralj	kralj	Ncmsn
+Miliša	Miliša	Npfsn
+Marina	Marina	Npfsn
+,	,	Z
+član	član	Ncmsn
+Uprave	uprava	Ncfsg
+,	,	Z
+Končar	Končar	Npmsn
+–		Agpfpgy
+elektroindustrija	elektroindustrija	Ncfpg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Fallerovo	fallerov	Agpnsny
+šetalište	šetalište	Ncnsn
+22	22	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+68.	68.	Mdo
+
+Kregar	Kregar	Npmsn
+Vlatko	Vlatko	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Šunić	Šunić	Npmsn
+i	i	Cc
+partneri	partner	Ncmpn
+j.	j.	Y
+t.	t.	Y
+d.	d.	Y
+,	,	Z
+Donje	donji	Agpfpny
+Svetice	svetica	Ncfpn
+99	99	Mdc
+A	a	Cc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+69.	69.	Mdo
+
+Kunda	Kunda	Npfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Ivana	Ivana	Npfsn
+,	,	Z
+docent	docent	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+70.	70.	Mdo
+
+Kunštek	Kunštek	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Eduard	Eduard	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+dekan	dekan	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+71.	71.	Mdo
+
+Kurobasa	kurobasa	Ncfsn
+mr.	mr.	Y
+sc.	sc.	Y
+Miljenko	Miljenko	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+suda	sud	Ncmsg
+,	,	Z
+Trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Zadarska	zadarski	Agpfsny
+1	1	Mdc
+i	i	Cc
+3	3	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+72.	72.	Mdo
+
+Lang-Jurin	Lang-Jurin	Npmsn
+Vlasta	Vlasta	Npmsn
+,	,	Z
+Buconjićeva	buconjićev	Aspfsny
+11	11	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+73.	73.	Mdo
+
+Lesić	Lesić	Npmsn
+Krešimir	Krešimir	Npmsn
+,	,	Z
+pravni	pravni	Agpmsny
+savjetnik	savjetnik	Ncmsn
+,	,	Z
+Nexus	Nexus	Npfsn
+Svjetovanja	Svjetovanja	Npfsn
+d.o.o.	d.o.o.	Npfsn
+,	,	Z
+Nova	nov	Agpfsny
+Ves	Ves	Npmsn
+11	11	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+74.	74.	Mdo
+
+Lovrić	Lovrić	Npmsn
+Viktorija	Viktorija	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+,	,	Z
+Vrhovni	vrhovni	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinjskog	Zrinjski	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+75.	75.	Mdo
+
+Maganić	Maganić	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Aleksandra	Aleksandra	Npfsn
+,	,	Z
+docent	docent	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+

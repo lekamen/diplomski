@@ -1,0 +1,25 @@
+STRUČNOJ	stručan	Agpfsly
+SPREMI	sprema	Ncfsl
+745	745	Mdc
+88	88	Mdc
+160	160	Mdc
+40	40	Mdc
+1	1	Mdc
+6	6	Mdc
+785	785	Mdc
+89	89	Mdc
+166	166	Mdc
+82	82	Mdc
+11	11	Mdc
+78	78	Mdc
+UKUPNO	ukupno	Rgp
+20470	20470	Mdc
+609	609	Mdc
+754	754	Mdc
+993	993	Mdc
+47	47	Mdc
+1040	1040	Mdc
+51	51	Mdc
+54	54	Mdc
+171	171	Mdc
+

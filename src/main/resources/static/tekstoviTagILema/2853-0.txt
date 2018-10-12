@@ -1,0 +1,140 @@
+9	9	Mdc
+27.01.2016	27.01.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+predsjednika	predsjednik	Ncmsg
+i	i	Cc
+članova	član	Ncmpg
+Odbora	odbor	Ncmsg
+za	za	Sa
+poljoprivredu	poljoprivreda	Ncfsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+202	202	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članaka	članak	Ncmpg
+46.	46.	Mdo
+i	i	Cc
+100.	100.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+POLJOPRIVREDU	poljoprivreda	Ncfsa
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+U	u	Sa
+Odbor	odbor	Ncmsan
+za	za	Sa
+poljoprivredu	poljoprivreda	Ncfsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+predsjednika	predsjednik	Ncmsay
+
+BRANKO	Branko	Npmsn
+HRG	HRG	Npmsn
+
+za	za	Sa
+članove	član	Ncmpa
+
+JOSIP	Josip	Npmsn
+KRIŽANIĆ	Križanić	Npmsn
+
+FRANJO	FRANJO	Npmsn
+LUCIĆ	Lucić	Npmsn
+
+IVAN	Ivan	Npmsn
+ANUŠIĆ	ANUŠIĆ	Npmsn
+
+DAMIR	Damir	Npmsn
+FELAK	FELAK	Npmsn
+
+VLADIMIR	Vladimir	Npmsn
+BILEK	BILEK	Npmsn
+
+LJUBICA	ljubica	Ncfsn
+AMBRUŠEC	AMBRUŠEC	Npmsn
+
+ZORAN	Zoran	Npmsn
+VASIĆ	Vasić	Npmsn
+
+DAMIR	Damir	Npmsn
+TOMIĆ	Tomić	Npmsn
+
+GIOVANNI	GIOVANNI	Npmsn
+SPONZA	SPONZA	Npmsn
+
+MILORAD	MILORAD	Npmsn
+BATINIĆ	Batinić	Npmsn
+
+MILE	mio	Agpfpay
+HORVAT	horvaa	Ncfpa
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/07	03/07	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

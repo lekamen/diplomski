@@ -1,0 +1,16 @@
+na	na	Sa
+svrhu	svrha	Ncfsa
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+:	:	Z
+stjecanje	stjecanje	Ncnsn
+,	,	Z
+produljenje	produljenje	Ncnsn
+ili	ili	Cc
+obnavljanje	obnavljanje	Ncnsn
+potvrde	potvrda	Ncfsg
+o	o	Sl
+stručnoj	stručan	Agpfsly
+osposobljenosti	osposobljenost	Ncfsl
+.	.	Z
+

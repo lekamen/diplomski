@@ -1,0 +1,92 @@
+47	47	Mdc
+28.04.2015	28.04.2015	Mdc
+Prosječna	prosječan	Agpfsny
+mjesečna	mjesečan	Agpfsny
+bruto-plaća	bruto-plaća	Ncfsn
+po	po	Sl
+zaposlenome	zaposlen	Agpmsly
+u	u	Sl
+pravnim	pravni	Agpfply
+osobama	osoba	Ncfpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+2014.	2014.	Mdo
+
+DRŽAVNI	državni	Agpmsny
+ZAVOD	zavod	Ncmsn
+ZA	za	Sa
+STATISTIKU	statistika	Ncfsa
+
+935	935	Mdc
+
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+statistiku	statistika	Ncfsa
+objavljuje	objavljivati	Vmr3s
+
+PROSJEČNU	prosječan	Agpfsay
+MJESEČNU	mjesečan	Agpfsay
+BRUTO-PLAĆU	bruto-plaća	Ncfsa
+PO	po	Sl
+ZAPOSLENOME	zaposlen	Ncmsl
+U	u	Sl
+PRAVNIM	pravni	Agpfply
+OSOBAMA	osoba	Ncfpl
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+ZA	za	Sa
+2014.	2014.	Mdo
+
+Prosječna	prosječan	Agpfsny
+mjesečna	mjesečan	Agpfsny
+bruto-plaća	bruto-plaća	Ncfsn
+po	po	Sl
+zaposlenome	zaposlen	Agpmsly
+u	u	Sl
+pravnim	pravni	Agpfply
+osobama	osoba	Ncfpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+2014.	2014.	Mdo
+iznosila	iznositi	Vmp-sf
+je	biti	Var3s
+7.953	7.953	Mdc
+kune	kuna	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+953	953	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+01/5	01/5	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+555	555	Mdc
+-	-	Z
+08	08	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+21.	21.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Ravnatelj	ravnatelj	Ncmsn
+Marko	Marko	Npmsn
+Krištof	Krištof	Npmsn
+,	,	Z
+v.	v.	Mro
+r.	r.	Y
+

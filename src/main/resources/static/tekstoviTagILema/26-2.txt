@@ -1,0 +1,316 @@
+potrebne	potreban	Agpfpay
+informacije	informacija	Ncfpa
+.	.	Z
+
+Ako	ako	Cs
+je	biti	Var3s
+potrebno	potreban	Agpnsny
+,	,	Z
+takvi	takav	Pd-mpn
+se	sebe	Px--sa
+dokumenti	dokument	Ncmpn
+trebaju	trebati	Vmr3p
+dopuniti	dopuniti	Vmn
+s	sa	Si
+dodatnim	dodatan	Agpfpiy
+informacijama	informacija	Ncfpi
+kako	kako	Cs
+bi	biti	Vaa3s
+se	sebe	Px--sa
+dobila	dobiti	Vmp-sf
+cjelovita	cjelovit	Agpfsny
+slika	slika	Ncfsn
+o	o	Sl
+provedbi	provedba	Ncfsl
+i	i	Cc
+rezultatima	rezultat	Ncmpl
+anticipativne	anticipativan	Agpfsgy
+procjene	procjena	Ncfsg
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+.	.	Z
+
+Rokovi	rok	Ncmpn
+izvješćivanja	izvješćivanje	Ncnsg
+Agencije	agencija	Ncfsg
+o	o	Sl
+rezultatima	rezultat	Ncmpl
+svake	svaki	Pi-fsg
+anticipativne	anticipativan	Agpfsgy
+procjene	procjena	Ncfsg
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+
+Članak	članak	Ncmsn
+9.	9.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Uprava	uprava	Ncfsn
+društva	društvo	Ncnsg
+je	biti	Var3s
+dužna	dužan	Agpfsny
+pregledati	pregledati	Vmn
+i	i	Cc
+odobriti	odobriti	Vmn
+nadzorno	nadzorni	Agpnsay
+izvješće	izvješće	Ncnsa
+o	o	Sl
+anticipativnoj	anticipativan	Agpfsly
+procjeni	procjena	Ncfsl
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Društvo	društvo	Ncnsn
+je	biti	Var3s
+dužno	dužan	Agpnsny
+dostaviti	dostaviti	Vmn
+Agenciji	agencija	Ncfsl
+izvješće	izvješće	Ncnsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+dva	dva	Mlc
+tjedna	tjedan	Ncmsg
+nakon	nakon	Cs
+što	što	Cs
+uprava	uprava	Ncfsn
+društva	društvo	Ncnsg
+pregleda	pregled	Ncmpg
+i	i	Cc
+odobri	odobriti	Vmr3s
+rezultate	rezultat	Ncmpa
+svake	svaki	Pi-fsg
+anticipativne	anticipativan	Agpfsgy
+procjene	procjena	Ncfsg
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+.	.	Z
+
+Predmetno	predmetni	Agpnsny
+izvješće	izvješće	Ncnsn
+društvo	društvo	Ncnsn
+je	biti	Var3s
+dužno	dužan	Agpnsny
+dostaviti	dostaviti	Vmn
+Agenciji	agencija	Ncfsd
+u	u	Sl
+pisanom	pisan	Agpmsly
+obliku	oblik	Ncmsl
+zajedno	zajedno	Rgp
+s	sa	Si
+pripadajućom	pripadajući	Agpfsiy
+odlukom	odluka	Ncfsi
+uprave	uprava	Ncfsg
+društva	društvo	Ncnsg
+o	o	Sl
+usvajanju	usvajanje	Ncnsl
+istog	isti	Agpnsgy
+.	.	Z
+
+Učestalost	učestalost	Ncfsn
+provedbe	provedba	Ncfsg
+anticipativne	anticipativan	Agpfsgy
+procjene	procjena	Ncfsg
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+
+Članak	članak	Ncmsn
+10.	10.	Mdo
+
+Tijekom	tijekom	Sg
+pripremne	pripreman	Agpfsgy
+faze	faza	Ncfsg
+za	za	Sa
+Solventnost	solventnost	Ncfsa
+II	ii	Agcnsay
+društvo	društvo	Ncnsa
+u	u	Sl
+skladu	sklad	Ncmsl
+sa	sa	Si
+Smjernicama	smjernica	Ncfpl
+za	za	Sa
+anticipativnu	anticipativan	Agpfsay
+procjenu	procjena	Ncfsa
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+treba	trebati	Vmr3s
+provesti	provesti	Vmn
+anticipativnu	anticipativan	Agpfsay
+procjenu	procjena	Ncfsa
+vlastitih	vlastit	Agpmpgy
+rizika	rizik	Ncmpg
+najmanje	malo	Rgs
+jednom	jednom	Rgp
+godišnje	godišnje	Rgp
+.	.	Z
+
+Stupanje	stupanje	Ncnsn
+na	na	Sa
+snagu	snaga	Ncfsa
+Pravilnika	pravilnik	Ncmsg
+
+Članak	članak	Ncmsn
+11.	11.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/14	02/14	Mdc
+-	-	Z
+04/106	04/106	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+326	326	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+660	660	Mdc
+-	-	Z
+14	14	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+24.	24.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Petar-Pierre	Petar-Pierra	Npfsg
+Matek	Matek	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1.	1.	Mdo
+
+Popis	popis	Ncmsn
+društava	društvo	Ncnpg
+koja	koji	Pi-npn
+podliježu	podlijegati	Vmr3p
+zahtjevu	zahtjev	Ncfsa
+navedenom	navesti	Appmsly
+u	u	Sl
+članku	članak	Ncmsl
+5.	5.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+:	:	Z
+
+1.	1.	Mdo
+Agram	Agram	Npfsg
+Life	Lifa	Npfsg
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+2.	2.	Mdo
+Allianz	Allianz	Npmsn
+Zagreb	Zagreb	Npmsn
+d.	d.	Mro
+d.	d.	Y
+
+3.	3.	Mdo
+Croatia	Croatia	Npfsn
+Lloyd	Lloyd	Npfsn
+d.	d.	Y
+d.	d.	Y
+za	za	Sa
+reosiguranje	reosiguranje	Ncnsa
+
+4.	4.	Mdo
+Croatia	Croatia	Npfsn
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+5.	5.	Mdo
+Euroherc	euroh	Agcnsay
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+6.	6.	Mdo
+Generali	general	Vmp-pm
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+7.	7.	Mdo
+Grawe	Grawe	Npmsn
+Hrvatska	Hrvatska	Npfsn
+d.	d.	Mdo
+d.	d.	Y
+
+8.	8.	Mdo
+Jadransko	jadranski	Agpnsny
+osiguranje	osiguranje	Ncnsn
+d.	d.	Y
+d.	d.	Y
+
+9.	9.	Mdo
+Merkur	mer	Agcnsay
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+10.	10.	Mdo
+
+Triglav	Triglav	Npmsn
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+11.	11.	Mdo
+
+Uniqa	Uniqa	Sa
+osiguranje	osiguranje	Ncnsa
+d.	di	Agpfsgy
+d.	da	Ncfsg
+
+12.	12.	Mdo
+
+Wiener	wiener	Agpnsny
+osiguranje	osiguranje	Ncnsn
+Vienna	Vienn	Npmsg
+Insurance	Insuranca	Npmsg
+Group	Grou	Npmsg
+d.	d.	Y
+d.	d.	Y
+

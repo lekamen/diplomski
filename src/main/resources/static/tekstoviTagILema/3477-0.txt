@@ -1,0 +1,158 @@
+30	30	Mdc
+06.04.2016	06.04.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+predsjednika	predsjednik	Ncmsg
+i	i	Cc
+dijela	dio	Ncmsg
+članova	član	Ncmpg
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+
+MINISTARSTVO	ministarstvo	Ncnsn
+ZDRAVLJA	zdravlje	Ncnsg
+
+826	826	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+50.	50.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+medicinski	medicinski	Rgp
+pomognutoj	pomognut	Agpfsly
+oplodnji	oplodnja	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+86/12	86/12	Mdc
+)	)	Z
+ministar	ministar	Ncmsn
+zdravlja	zdravlje	Ncnsg
+donosi	donositi	Vmr3s
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+I	i	Cc
+DIJELA	dio	Ncmsg
+ČLANOVA	član	Ncmpg
+NACIONALNOG	nacionalan	Agpnsgy
+POVJERENSTVA	povjerenstvo	Ncnsg
+ZA	za	Sa
+MEDICINSKI	medicinski	Agpmsayn
+POMOGNUTU	pomognut	Agpfsay
+OPLODNJU	oplodnja	Ncfsa
+
+1.	1.	Mdo
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+HRVOJE	HRVOJE	Npfsg
+VRČIĆ	VRČIĆ	Npfsg
+dužnosti	dužnost	Ncfsg
+predsjednika	predsjednik	Ncmsg
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+.	.	Z
+
+2.	2.	Mdo
+Razrješuju	razrješivati	Vmr3p
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfsg
+članovi	član	Ncmpn
+Nacionalnog	nacionalan	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+pomognutu	pomognut	Agpfsay
+oplodnju	oplodnja	Ncfsa
+:	:	Z
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+ALMA	ALMA	Npfsn
+MIHALJEVIĆ	Mihaljević	Npfsn
+PELEŠ	PELEŠ	Npfsn
+
+–		Agcmsayn
+prim	prim	Ncmsan
+.	.	Z
+mr.	mr.	Y
+sc.	sc.	Y
+RENATO	RENATO	Npmsn
+BAUMAN	BAUMAN	Npmsn
+
+–	–	Z
+doc.	doc.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+NEDA	NEDA	Npfsn
+SMILJAN	SMILJAN	Npfsn
+SEVERINSKI	SEVERINSKI	Npfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+02/11	02/11	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+534	534	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+2/1	2/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+22.	22.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+doc.	doc.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Dario	Dario	Npmsn
+Nakić	Nakić	Npmsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

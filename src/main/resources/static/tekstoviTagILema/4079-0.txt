@@ -1,0 +1,167 @@
+55	55	Mdc
+15.06.2016	15.06.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+dodjeli	dodjela	Ncfsl
+Medalje	medalja	Ncfsg
+"	"	Z
+Oluja	oluja	Ncfsn
+"	"	Z
+za	za	Sa
+sudjelovanje	sudjelovanje	Ncnsa
+u	u	Sl
+vojno-redarstvenoj	vojno-redarstveni	Agpfsly
+operaciji	operacija	Ncfsl
+"	"	Z
+Oluja	oluja	Ncfsn
+"	"	Z
+
+PREDSJEDNICA	predsjednica	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1428	1428	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+98.	98.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+56/90.	56/90.	Mds
+,	,	Z
+135/97.	135/97.	Mds
+,	,	Z
+113/00.	113/00.	Mds
+,	,	Z
+28/01.	28/01.	Mdo
+,	,	Z
+76/10.	76/10.	Mdo
+i	i	Cc
+5/14.	5/14.	Mdo
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+2.	2.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+3.	3.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+ustanovljenju	ustanovljenje	Ncnsl
+medalja	medalja	Ncfpg
+za	za	Sa
+sudjelovanje	sudjelovanje	Ncnsa
+u	u	Sl
+vojno-redarstvenim	vojno-redarstveni	Agpfply
+operacijama	operacija	Ncfpl
+i	i	Cc
+u	u	Sl
+iznimnim	izniman	Agpmply
+pothvatima	pothvat	Ncmpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+60/95.	60/95.	Mdo
+i	i	Cc
+14/96.	14/96.	Mds
+)	)	Z
+,	,	Z
+a	a	Cc
+na	na	Sa
+prijedlog	prijedlog	Ncmsan
+ministra	ministar	Ncmsg
+obrane	obrana	Ncfsg
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+kojom	koji	Pi-fsi
+se	sebe	Px--sa
+dodjeljuje	dodjeljivati	Vmr3s
+
+MEDALJA	medalja	Ncfsn
+»	»	Z
+OLUJA	oluja	Ncfsn
+«	«	Z
+
+1.	1.	Mdo
+ADILU	ADIL	Npmsl
+(	(	Z
+Husinom	Husin	Npmsi
+)	)	Z
+HADŽIĆU	Hadžić	Npmsl
+
+2.	2.	Mdo
+IVI	Iva	Npfsl
+(	(	Z
+Ivanovom	Ivanov	Npmsi
+)	)	Z
+KODŽOMANU	KODŽOMAN	Npmsl
+
+za	za	Sa
+sudjelovanje	sudjelovanje	Ncnsa
+u	u	Sl
+vojno-redarstvenoj	vojno-redarstveni	Agpfsly
+operaciji	operacija	Ncfsl
+»	»	Z
+Oluja	oluja	Ncfsn
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+061	061	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+03/01	03/01	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+01/3	01/3	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,37 @@
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+odredbi	odredba	Ncfsl
+članka	članak	Ncmsg
+14.	14.	Mdo
+stavak	stavak	Ncmsn
+8.	8.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+elektroničkim	elektronički	Agpfply
+komunikacijama	komunikacija	Ncfpl
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+UsII-6	usii-6	Ncmsn
+/	/	Z
+15	15	Mdc
+-	-	Z
+6	6	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+vijeća	vijećati	Vmr3s
+Marina	Marina	Npfsn
+Kosović	Kosović	Npfsn
+Marković	Marković	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

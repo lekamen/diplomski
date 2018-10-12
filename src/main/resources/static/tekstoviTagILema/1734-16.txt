@@ -1,0 +1,422 @@
+injekcijske	injekcijski	Agpfsgy
+otopine	otopina	Ncfsg
+
+CD-vretena	cd-vreten	Agpfsny
+(	(	Z
+prodana	prodati	Appfsny
+zajedno	zajedno	Rgp
+s	sa	Si
+CD-ima	cd-	Ncmpi
+,	,	Z
+koja	koji	Pi-npn
+nisu	biti	Var3p
+namijenjena	namijeniti	Appnpny
+da	da	Cs
+se	sebe	Px--sa
+koriste	koristiti	Vmr3p
+kao	kao	Cs
+spremište	spremište	Ncnsn
+)	)	Z
+
+Vješalice	vješalica	Ncfpn
+za	za	Sa
+odjeću	odjeća	Ncfsa
+(	(	Z
+prodane	prodati	Appfpny
+zajedno	zajedno	Rgp
+s	sa	Si
+odjevnim	odjevni	Agpmsiy
+predmetom	predmet	Ncmsi
+)	)	Z
+
+Kutije	kutija	Ncfpn
+za	za	Sa
+šibice	šibica	Ncfpa
+
+Sterilni	sterilan	Agpmpny
+sustavi	sustav	Ncmpn
+kao	kao	Cs
+barijere	barijera	Ncfsg
+(	(	Z
+vrećice	vrećica	Ncfpn
+,	,	Z
+posude	posuda	Ncfpn
+i	i	Cc
+materijali	materijal	Ncmpn
+potrebni	potreban	Agpmpny
+za	za	Sa
+očuvanje	očuvanje	Ncnsa
+sterilnosti	sterilnost	Ncfsg
+proizvoda	proizvod	Ncmpg
+)	)	Z
+
+Pića	piće	Ncnsg
+iz	iz	Sg
+kapsula	kapsula	Ncfpg
+(	(	Z
+npr.	npr.	Y
+kava	kava	Ncfsn
+,	,	Z
+kakao	kakao	Ncmsn
+,	,	Z
+mlijeko	mlijeko	Ncnsa
+)	)	Z
+koje	koji	Pi-fpn
+su	biti	Var3p
+ostavljene	ostaviti	Appfpny
+prazne	prazan	Agpfpny
+nakon	nakon	Sg
+uporabe	uporaba	Ncfsg
+
+Ponovno	ponovno	Rgp
+punjivi	punjiv	Agpmpny
+čelični	čeličan	Agpmpny
+cilindri	cilindar	Ncmpn
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+koriste	koristiti	Vmr3p
+za	za	Sa
+razne	razni	Agpfpay
+vrste	vrsta	Ncfpa
+plina	plin	Ncmsg
+,	,	Z
+osim	osim	Sg
+onih	onaj	Pd-mpg
+za	za	Sa
+gašenje	gašenje	Ncnsa
+požara	požar	Ncmsg
+
+Predmeti	predmet	Ncmpn
+koji	koji	Pi-mpn
+nisu	biti	Var3p
+ambalaža	ambalaža	Ncfsn
+
+Posude	posuda	Ncfpn
+za	za	Sa
+cvijeće	cvijeće	Ncnsa
+u	u	Sl
+kojima	koji	Pi-fpl
+biljke	biljka	Ncfpn
+ostaju	ostajati	Vmr3p
+cijeli	cijel	Agpmsayn
+životni	životan	Agpmsayn
+vijek	vijek	Ncmsan
+
+Kutije	kutija	Ncfpn
+za	za	Sa
+alat	alat	Ncmsan
+
+Čajne	čajni	Agpfpny
+filter-vrećice	filter-vrećica	Ncfpn
+
+Voštani	voštan	Agpmpny
+omoti	omot	Ncmpn
+za	za	Sa
+sir	sir	Ncmsan
+
+Omoti	omot	Ncmpn
+kobasica	kobasica	Ncfpg
+
+Vješalice	vješalica	Ncfpn
+za	za	Sa
+odjeću	odjeća	Ncfsa
+(	(	Z
+prodane	prodati	Appfpny
+odvojeno	odvojiti	Appnsny
+)	)	Z
+
+Kapsule	kapsula	Ncfpn
+,	,	Z
+vrećice	vrećica	Ncfpa
+/	/	Z
+folije	folija	Ncfsg
+i	i	Cc
+čahurice	čahurica	Ncfsg
+od	od	Sg
+filtar-papira	filtar-papir	Ncmsg
+za	za	Sa
+kavena	kaveni	Agpnpay
+pića	piće	Ncnpa
+,	,	Z
+koje	koji	Pi-fpn
+su	biti	Var3p
+odložene	odložiti	Appfpny
+zajedno	zajedno	Rgp
+s	sa	Si
+iskorištenim	iskorišten	Agpmsiy
+kavenim	kaveni	Agpmsiy
+proizvodom	proizvod	Ncmsi
+
+Patrone	patron	Ncmpa
+za	za	Sa
+pisače	pisač	Ncmpa
+
+Kutije	kutija	Ncfpn
+za	za	Sa
+CD	CD	Npmsan
+,	,	Z
+DVD	dvd	Ncmsan
+i	i	Cc
+video	video	Ncmsn
+(	(	Z
+prodane	prodati	Appfpny
+zajedno	zajedno	Rgp
+s	sa	Si
+CD-om	CD	Npmsi
+,	,	Z
+DVD-om	DVD	Npmsi
+ili	ili	Cc
+video-trakom	video-trak	Ncmsi
+unutra	unutra	Rgp
+)	)	Z
+
+CD	CD	Sg
+vretena	vreteno	Ncnsg
+(	(	Z
+prodana	prodati	Appfsny
+prazna	prazan	Agpfsny
+,	,	Z
+koja	koji	Pi-npn
+su	biti	Var3p
+namijenjena	namijeniti	Appnpny
+da	da	Cs
+se	sebe	Px--sa
+koriste	koristiti	Vmr3p
+kao	kao	Cs
+spremište	spremište	Ncnsn
+)	)	Z
+
+Topive	topiv	Agpfpay
+vrećice	vrećica	Ncfpa
+za	za	Sa
+deterdžente	deterdžent	Ncmpa
+
+Lampaši	lampaši	Agpfpny
+za	za	Sa
+groblja	groblje	Ncnpa
+(	(	Z
+spremnici	spremnik	Ncmpn
+za	za	Sa
+svijeće	svijeća	Ncfpa
+)	)	Z
+
+Mehanički	mehanički	Agpmsny
+ručni	ručni	Agpmsny
+mlin	mlin	Ncmsn
+(	(	Z
+ugrađen	ugraditi	Appmsnn
+u	u	Sa
+primatelja	primatelj	Ncmsay
+koji	koji	Pi-msn
+se	sebe	Px--sa
+može	moći	Vmr3s
+ponovno	ponovno	Rgp
+puniti	puniti	Vmn
+,	,	Z
+npr.	npr.	Y
+ponovno	ponovno	Rgp
+punjiv	punjiv	Agpmsnn
+mlin	mlin	Ncmsn
+za	za	Sa
+papar	papar	Ncmsan
+)	)	Z
+
+II	ii	Mrc
+.	.	Z
+
+Ilustrativni	ilustrativan	Agpmpny
+primjeri	primjer	Ncmpn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+predmeta	predmet	Ncmpg
+koji	koji	Pi-mpn
+su	biti	Var3p
+ambalaža	ambalaža	Ncfsn
+
+Ambalaža	ambalaža	Ncfsn
+,	,	Z
+ako	ako	Cs
+je	biti	Var3s
+osmišljena	osmisliti	Appfsny
+i	i	Cc
+namijenjena	namijeniti	Appfsny
+za	za	Sa
+punjenje	punjenje	Ncnsa
+na	na	Sl
+prodajnom	prodajni	Agpnsly
+mjestu	mjesto	Ncnsl
+
+Papirne	papirni	Agpfpny
+ili	ili	Cc
+plastične	plastičan	Agpfpay
+vrećice	vrećica	Ncfpa
+
+Tanjuri	tanjur	Ncmpn
+i	i	Cc
+šalice	šalica	Ncfpn
+za	za	Sa
+jednokratnu	jednokratan	Agpfsay
+uporabu	uporaba	Ncfsa
+
+Prianjajuća	prianjajući	Agpfsny
+folija	folija	Ncfsn
+za	za	Sa
+hranu	hrana	Ncfsa
+
+Vrećice	vrećica	Ncfpn
+za	za	Sa
+sendviče	sendvič	Ncmpa
+
+Aluminijska	aluminijski	Agpfsny
+folija	folija	Ncfsn
+
+Plastična	plastičan	Agpfsny
+folija	folija	Ncfsn
+za	za	Sa
+čistu	čist	Agpfsay
+odjeću	odjeća	Ncfsa
+u	u	Sl
+praonicama	praonica	Ncfpl
+
+Predmeti	predmet	Ncmpn
+koji	koji	Pi-mpn
+nisu	biti	Var3p
+ambalaža	ambalaža	Ncfsn
+
+Miješalica	miješalica	Ncfsn
+
+Jednokratni	jednokratan	Agpmsny
+pribor	pribor	Ncmsn
+za	za	Sa
+jelo	jelo	Ncnsa
+
+Papir	papir	Ncmsn
+za	za	Sa
+omatanje	omatanje	Ncnsa
+(	(	Z
+prodan	prodati	Appmsnn
+odvojeno	odvojiti	Appnsny
+)	)	Z
+
+Papirne	papirni	Agpfpny
+posude	posuda	Ncfpn
+za	za	Sa
+pečenje	pečenje	Ncnsa
+(	(	Z
+prodane	prodati	Appfpny
+odvojeno	odvojiti	Appnsny
+)	)	Z
+
+Podlošci	podložak	Ncmpn
+za	za	Sa
+tortu	torta	Ncfsa
+prodani	prodati	Appmpny
+bez	bez	Sg
+torte	torta	Ncfsg
+
+III	III	Mrc
+.	.	Z
+
+Ilustrativni	ilustrativan	Agpmpny
+primjeri	primjer	Ncmpn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+predmeta	predmet	Ncmpg
+koji	koji	Pi-mpn
+su	biti	Var3p
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+ambalaže	ambalaža	Ncfsg
+
+Ambalaža	ambalaža	Ncfsn
+
+Etikete	etiketa	Ncfpn
+obješene	objesiti	Appfpny
+izravno	izravno	Rgp
+na	na	Sa
+proizvod	proizvod	Ncmsan
+ili	ili	Cc
+na	na	Sa
+njega	on	Pp3msa
+pričvršćene	pričvršćen	Agpfpay
+
+Dio	dio	Ncmsn
+ambalaže	ambalaža	Ncfsg
+
+Četka	četka	Ncfsn
+maskare	maskara	Ncfsg
+,	,	Z
+koja	koji	Pi-fsn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+poklopca	poklopac	Ncmsg
+posudice	posudica	Ncfsg
+
+Naljepnice	naljepnica	Ncfpn
+,	,	Z
+pričvršćene	pričvrstiti	Appfpny
+na	na	Sa
+drugu	drugi	Mlofsa
+ambalažu	ambalaža	Ncfsa
+
+Spajalice	spajalica	Ncfpn
+
+Plastične	plastičan	Agpfpny
+košuljice	košuljica	Ncfpn
+
+Mjerna	mjerni	Agpfsny
+posudica	posudica	Ncfsn
+,	,	Z
+koja	koji	Pi-fsn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+poklopca	poklopac	Ncmsg
+ambalaže	ambalaža	Ncfsg
+za	za	Sa
+deterdžente	deterdžent	Ncmpa
+
+Mehanički	mehanički	Agpmsny
+ručni	ručni	Agpmsny
+mlin	mlin	Ncmsn
+(	(	Z
+ugrađen	ugraditi	Appmsnn
+u	u	Sg
+primatelja	primatelj	Ncmpg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+ne	ne	Qz
+može	moći	Vmr3s
+ponovno	ponovno	Rgp
+puniti	puniti	Vmn
+,	,	Z
+napunjen	napuniti	Appmsnn
+proizvodom	proizvod	Ncmsi
+;	;	Z
+npr.	npr.	Y
+mlin	mlin	Ncmsn
+za	za	Sa
+papar	papar	Ncmsan
+napunjen	napuniti	Appmsnn
+paprom	papar	Ncmsi
+)	)	Z
+
+Predmeti	predmet	Ncmpn
+koji	koji	Pi-mpn
+nisu	biti	Var3p
+ambalaža	ambalaža	Ncfsn
+
+Oznake	oznaka	Ncfpn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+radio-frekvencije	radio-frekvencija	Ncfsg
+
+PRILOG	prilog	Ncmsn
+II	ii	Mro
+.	.	Z
+–	–	Z
+PRILOG	prilog	Ncmsn
+XVII	XVII	Mro
+.	.	Z
+

@@ -1,0 +1,28 @@
+525	525	Mdc
+-	-	Z
+08/0462	08/0462	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+9	9	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+30.	30.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Tihomir	Tihomir	Npmsn
+Jakovina	Jakovina	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+I.	I.	Mro
+–	–	Z
+PRILOG	prilog	Ncmsn
+VII	vii	Mrc
+.	.	Z
+

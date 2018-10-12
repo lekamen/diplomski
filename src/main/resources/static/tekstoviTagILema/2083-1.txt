@@ -1,0 +1,62 @@
+zračnom	zračan	Agpmsly
+prometu	promet	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+57/13	57/13	Mds
+)	)	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/160	01/160	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+4	4	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+dr.	dr.	Y
+sc.	sc.	Y
+Siniša	Siniša	Npfsn
+Hajdaš	Hajdaš	Npfsn
+Dončić	Dončić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+Dodatak	dodatak	Ncmsn
+1.	1.	Mdo
+–	–	Z
+Dodatak	dodatak	Ncmsn
+6.	6.	Mdo
+

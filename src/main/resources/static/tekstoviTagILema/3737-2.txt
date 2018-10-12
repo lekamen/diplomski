@@ -1,0 +1,13 @@
+Vijeća	vijećati	Vmr3s
+Petar-Pierre	Petar-Pierre	Npmsn
+Matek	Matek	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1.	1.	Mdo
+–	–	Z
+PRILOG	prilog	Ncmsn
+3.	3.	Mdo
+

@@ -1,0 +1,40 @@
+odgovarajućim	odgovarajući	Agpmpiy
+propisima	propis	Ncmpi
+temeljem	temelj	Sg
+kojih	koji	Pi-mpg
+su	biti	Var3p
+stavljena	staviti	Appnpny
+u	u	Sa
+uporabu	uporaba	Ncfsa
+,	,	Z
+smatraju	smatrati	Vmr3p
+se	sebe	Px--sa
+ispravnim	ispravan	Agpmsiy
+ako	ako	Cs
+njihova	njihov	Ps3fsn
+mjerna	mjerni	Agpfsny
+pogreška	pogreška	Ncfsn
+nije	biti	Var3s
+veća	velik	Agcfsny
+od	od	Sg
+propisane	propisati	Agpfsgy
+mjerne	mjerni	Agpfsgy
+pogreške	pogreška	Ncfsg
+odgovarajućih	odgovarajući	Agpmpgy
+propisa	propis	Ncmpg
+temeljem	temelj	Ncfpg
+kojih	koji	Pi-mpg
+su	biti	Var3p
+stavljeni	staviti	Appmpny
+u	u	Sa
+uporabu	uporaba	Ncfsa
+.	.	Z
+
+DODATAK	dodatak	Ncmsn
+III	III	Mrc
+.	.	Z
+
+OBRAZAC	obrazac	Ncmsn
+ISPITNOG	ispitan	Agpnsgy
+IZVJEŠĆA	izvješće	Ncnsg
+

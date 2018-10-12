@@ -1,0 +1,23 @@
+ergonomiju	ergonomija	Ncfsa
+sučelja	sučelje	Ncnsg
+čovjek-stroj	čovjek-stroa	Ncfsg
+
+32.	32.	Mdo
+
+UIC	UIC	Npmsn
+736	736	Mdc
+–	–	Z
+Signalling	Signalling	Npmsn
+Relays	Relays	Npmsn
+,	,	Z
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+50578:2014	50578:2014	Mdc
+–	–	Z
+Željeznički	željeznički	Agpmsny
+sustav	sustav	Ncmsn
+--	--	Z
+Istosmjerni	istosmjeran	Agpmpny
+signalni	signalni	Agpmpny
+releji	relej	Ncmpn
+

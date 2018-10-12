@@ -1,0 +1,402 @@
+49	49	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+159.	159.	Mdo
+
+Tepeš	tepsti	Vmr2s
+dr.	dr.	Y
+sc.	sc.	Y
+Nina	Nina	Npfsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+14	14	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+160.	160.	Mdo
+
+Thur	Thur	Npmsn
+Tomislav	Tomislav	Npmsn
+,	,	Z
+izvršni	izvršan	Agpmsny
+direktor	direktor	Ncmsn
+,	,	Z
+PF	PF	Npmsn
+Korporativni	korporativan	Agpmpny
+poslovi	posao	Ncmpn
+,	,	Z
+INA	ini	Agpfsny
+–	–	Z
+Industrija	industrija	Ncfsn
+nafte	nafta	Ncfsg
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Avenija	avenija	Ncfsn
+Većeslava	Većeslav	Npmsg
+Holjevca	Holjevc	Npmsg
+10	10	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+161.	161.	Mdo
+
+Tomljenović	Tomljenović	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Vesna	Vesna	Npfsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+162.	162.	Mdo
+
+Trzun	Trzun	Npfsn
+Jasminka	Jasminka	Npfsn
+,	,	Z
+Hrvatska	hrvatski	Agpfsny
+komora	komora	Ncfsn
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+,	,	Z
+Avenija	avenija	Ncfsn
+grada	grad	Ncmsg
+Vukovara	Vukovar	Npmsg
+271	271	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+163.	163.	Mdo
+
+Turudić	Turudić	Npmsn
+Ivan	Ivan	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+,	,	Z
+Županijski	županijski	Agpmsny
+sud	sud	Ncmsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinskog	Zrinski	Npmsg
+5	5	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+164.	164.	Mdo
+
+Uzelac	Uzelac	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Alan	Alan	Npmsn
+,	,	Z
+profesor	profesor	Ncmsn
+,	,	Z
+Pravni	pravni	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+maršala	maršal	Ncmsg
+Tita	Tit	Npmsg
+3	3	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+165.	165.	Mdo
+
+Uzelac	uzelac	Ncmsn
+Jelena	jelen	Ncmsg
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+Visoko	visok	Agpnsay
+učilište	učilište	Ncnsa
+Effectus	Effectu	Npmsd
+–	–	Z
+visoka	visok	Agpfsny
+škola	škola	Ncfsn
+za	za	Sa
+financije	financije	Ncfpa
+i	i	Cc
+pravo	pravo	Ncnsa
+,	,	Z
+Trg	trg	Ncmsn
+J.	J.	Y
+F.	F.	Y
+Kennedyja	Kennedy	Npmsg
+2	2	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+166.	166.	Mdo
+
+Veselić	Veselić	Npmsn
+Ivica	Ivica	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+,	,	Z
+Županijski	županijski	Agpmsny
+sud	sud	Ncmsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+Nikole	Nikola	Npmsg
+Šubića	Šubić	Npmsg
+Zrinjskog	Zrinjski	Npmsg
+5	5	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+167.	167.	Mdo
+
+Vičić	Vičić	Npmsn
+Arno	Arno	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+u	u	Sl
+mirovini	mirovina	Ncfsl
+,	,	Z
+Vinogradska	vinogradski	Agpfsny
+51	51	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+168.	168.	Mdo
+
+Vladić	Vladić	Npmsn
+Ivan	Ivan	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+,	,	Z
+Trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+,	,	Z
+Amruševa	amrušev	Aspfsny
+2	2	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+169.	169.	Mdo
+
+Vučić	Vučić	Npmsn
+Mirjana	Mirjan	Npmsay
+,	,	Z
+HEP	HEP	Npmsn
+Proizvodnja	proizvodnja	Ncfsn
+d.o.o.	d.o.ti	Appfsny
+,	,	Z
+Ulica	ulica	Ncfsn
+grada	grad	Ncmsg
+Vukovara	Vukovar	Npmsg
+37	37	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+170.	170.	Mdo
+
+Vukelić	Vukelić	Npmsn
+Mario	Mario	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+suda	sud	Ncmsg
+,	,	Z
+Visoki	visok	Agpmsny
+trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Berislavićeva	berislavićev	Aspfsny
+11	11	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+171.	171.	Mdo
+
+Vukić	Vukić	Npmsn
+Hrvoje	Hrvoje	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+partner	partner	Ncmsn
+,	,	Z
+Odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Vukić	Vukić	Npmsn
+i	i	Cc
+partneri	partner	Ncmpn
+,	,	Z
+Nikole	Nikola	Npmsg
+Tesle	Tesla	Npmsg
+9	9	Mdc
+N-VI	n-va	Ncfsg
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+172.	172.	Mdo
+
+Vukić	Vukić	Npmsn
+Zoran	Zoran	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+partner	partner	Ncmsn
+,	,	Z
+Odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Vukić	Vukić	Npmsn
+i	i	Cc
+partneri	partner	Ncmpn
+,	,	Z
+Nikole	Nikola	Npmsg
+Tesle	Tesla	Npmsg
+9	9	Mdc
+N	i	Agpnsny
+-	-	Z
+VI	VI	Mrc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+173.	173.	Mdo
+
+Vukmir	Vukmir	Npmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Mladen	Mladen	Npmsn
+,	,	Z
+partner	partner	Ncmsn
+,	,	Z
+Odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Vukmir	Vukmir	Npmsn
+i	i	Cc
+suradnici	suradnik	Ncmpn
+,	,	Z
+Gramača	Gramača	Npfsn
+2	2	Mdc
+L	l	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+174.	174.	Mdo
+
+Zlatović	Zlatović	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Dragan	Dragan	Npmsn
+,	,	Z
+prof.	prof.	Y
+v.	v.	Y
+š.	š.	Y
+,	,	Z
+Veleučilište	veleučilište	Ncnsn
+u	u	Sl
+Šibeniku	Šibenik	Npmsl
+,	,	Z
+Trg	trg	Ncmsn
+Andrije	Andrija	Npfsg
+Hebranga	hebrang	Ncmsg
+11	11	Mdc
+,	,	Z
+Šibenik	Šibenik	Npmsn
+
+175.	175.	Mdo
+
+Zubović	Zubović	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Antonija	Antoni	Npmsg
+,	,	Z
+viši	visok	Agcmsny
+asistent	asistent	Ncmsn
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilište	sveučilište	Ncnsn
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+176.	176.	Mdo
+
+Žaja	Žaja	Npmsn
+Časlav	Časlav	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+ERGO	ergo	Agpnsny
+Osiguranje	osiguranje	Ncnsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Radnička	radnički	Agpfsny
+cesta	cesta	Ncfsn
+80	80	Mdc
+,	,	Z
+Zagreb	Zagreb	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/10	02/10	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+311	311	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+04	04	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+4.	4.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Luka	Luka	Npmsn
+Burilović	Burilović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

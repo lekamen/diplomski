@@ -1,0 +1,798 @@
+plovila	plovilo	Ncnpn
+;	;	Z
+
+–	–	Sg
+Glavne	glavni	Agpfsgy
+mjere	mjera	Ncfsg
+–	–	Z
+dimenzije	dimenzija	Ncfsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Sa
+Plovnost	plovnost	Ncfsa
+plovila	plovilo	Ncnsg
+,	,	Z
+osnovni	osnovan	Agpmpny
+principi	princip	Ncmpn
+plovnosti	plovnost	Ncfsg
+;	;	Z
+
+–	i	Agpfsny
+Istisnina	istisnina	Ncfsn
+i	i	Cc
+nosivost	nosivost	Ncfsn
+plovila	plovilo	Ncnsg
+,	,	Z
+obračun	obračun	Ncmsan
+i	i	Cc
+postupak	postupak	Ncmsan
+baždarenja	baždarenje	Ncnsg
+;	;	Z
+
+–	–	Z
+Čvrstoća	čvrstoća	Ncfsn
+plovila	plovilo	Ncnsg
+,	,	Z
+elementi	element	Ncmpn
+čvrstoće	čvrstoća	Ncfsg
+trupa	trup	Ncmsg
+;	;	Z
+
+–	–	Sa
+Stabilitet	stabilitet	Ncmsan
+plovila	plovilo	Ncnsg
+,	,	Z
+prikaz	prikaz	Ncmsan
+skicama	skica	Ncfpl
+stanja	stanje	Ncnsg
+stabiliteta	stabilitet	Ncmsg
+–	–	Z
+izračun	izračun	Ncmsan
+metacentarske	metacentarski	Agpfsgy
+visine	visina	Ncfsg
+;	;	Z
+
+–	–	Agpmpny
+Otpori	otpor	Ncmpn
+kretanju	kretanje	Ncnsl
+plovila	plovilo	Ncnsg
+–	–	Z
+vrste	vrsta	Ncfsg
+i	i	Cc
+približne	približan	Agpfsgy
+veličine	veličina	Ncfsg
+otpora	otpor	Ncmsg
+;	;	Z
+
+–	–	Mlompn
+Pogoni	pogon	Ncmpn
+plovila	plovilo	Ncnsg
+–	–	Z
+kretna	krei	Agpnsgy
+sredstva	sredstvo	Ncnsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Z
+Osnovno	osnovan	Agpnsny
+poznavanje	poznavanje	Ncnsn
+EU	E	Npmsg
+Direktive	direktiva	Ncfpn
+za	za	Sa
+tehnička	tehnički	Agpnpay
+pravila	pravilo	Ncnpa
+o	o	Sl
+plovilima	plovilo	Ncnpl
+
+–	–	Agpmpny
+Uređaji	uređaj	Ncmpn
+i	i	Cc
+oprema	oprema	Ncfsn
+plovila	plovilo	Ncnsg
+:	:	Z
+za	za	Sa
+sidrenje	sidrenje	Ncnsa
+,	,	Z
+privez	privez	Ncmsan
+,	,	Z
+vuču	vuča	Ncfsa
+i	i	Cc
+potisak	potisak	Ncmsan
+,	,	Z
+navigaciju	navigacija	Ncfsa
+i	i	Cc
+kormilarenje	kormilarenje	Ncnsa
+,	,	Z
+signalizaciju	signalizacija	Ncfsa
+i	i	Cc
+vezu	veza	Ncfsa
+,	,	Z
+spašavanje	spašavanje	Ncnsa
+i	i	Cc
+osiguranje	osiguranje	Ncnsa
+od	od	Sg
+potonuća	potonuće	Ncnsg
+,	,	Z
+gašenje	gašenje	Ncnsn
+požara	požar	Ncmsg
+,	,	Z
+utovar	utovar	Ncmsn
+i	i	Cc
+smještaj	smještaj	Ncmsan
+tereta	teret	Ncmsg
+,	,	Z
+održavanje	održavanje	Ncnsn
+instalacija	instalacija	Ncfpg
+i	i	Cc
+uređaja	uređaj	Ncmpg
+za	za	Sa
+opću	opći	Agpfsay
+namjenu	namjena	Ncfsa
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+10	10	Mdc
+
+d	d	Qr
+)	)	Z
+Pretovar	pretovar	Ncmsan
+i	i	Cc
+prijevoz	prijevoz	Ncmsan
+tereta	teret	Ncmsg
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Z
+Općenito	preopćenito	Rgp
+o	o	Sl
+teretu	teret	Ncmsl
+;	;	Z
+
+–	–	Sg
+Vrste	vrsta	Ncfsg
+tereta	teret	Ncmsg
+;	;	Z
+
+–	i	Agpnsgy
+Skladišta	skladište	Ncnsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	i	Agpnpay
+Pristanišna	pristanišni	Agpnpay
+skladišta	skladište	Ncnpa
+;	;	Z
+
+–	–	Sa
+Specijalna	specijalan	Agpnpay
+pristanišna	pristanišni	Agpnpay
+skladišta	skladište	Ncnpa
+;	;	Z
+
+–	–	Pd-mpn
+Pretovarni	pretovarni	Agpmpny
+uređaji	uređaj	Ncmpn
+na	na	Sl
+plovilu	plovilo	Ncnsl
+;	;	Z
+
+–	–	Z
+Pristanišni	pristanišni	Agpmpny
+pretovarni	pretovarni	Agpmpny
+uređaji	uređaj	Ncmpn
+;	;	Z
+
+–	–	Z
+Način	način	Ncmsn
+utovara	utovar	Ncmsg
+i	i	Cc
+slaganja	slaganje	Ncnsg
+tereta	teret	Ncmsg
+,	,	Z
+stabilitet	stabilitet	Ncmsan
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Agpmsny
+Utovar	utovar	Ncmsn
+,	,	Z
+istovar	istovar	Ncmsn
+i	i	Cc
+slaganje	slaganje	Ncnsa
+posebno	posebno	Rgp
+pakiranih	pakirati	Agpmpgy
+tereta	teret	Ncmpg
+;	;	Z
+
+–		Agcnsay
+Postavljanje	postavljanje	Ncnsa
+plovila	plovilo	Ncnsg
+za	za	Sa
+utovar	utovar	Ncmsan
+–	–	Z
+istovar	istovar	Ncmsan
+;	;	Z
+
+–	i	Agpnsny
+Određivanje	određivanje	Ncnsn
+količine	količina	Ncfsg
+tereta	teret	Ncmsg
+na	na	Sl
+plovilu	plovilo	Ncnsl
+;	;	Z
+
+–	–	Z
+Robne	roban	Agpfsgy
+prijevozne	prijevozni	Agpfsgy
+isprave	isprava	Ncfsg
+;	;	Z
+
+–		Agcmsayn
+Raspored	raspored	Ncmsan
+tereta	teret	Ncmsg
+obzirom	obzir	Ncmsi
+na	na	Sa
+čvrstoću	čvrstoća	Ncfsa
+i	i	Cc
+stabilitet	stabilitet	Ncmsan
+plovila	plovilo	Ncnsg
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+4.	4.	Mdo
+Zvanje	zvanje	Ncnsn
+ZAPOVJEDNIK	zapovjednik	Ncmsn
+–	–	Z
+B	b	X
+
+a	a	Cc
+)	)	Z
+Navigacija	navigacija	Ncfsn
+i	i	Cc
+signalizacija	signalizacija	Ncfsn
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Agpmpny
+Pojmovi	pojam	Ncmpn
+o	o	Sl
+vodnom	vodni	Agpmsly
+i	i	Cc
+plovnom	plovan	Agpmsly
+putu	put	Ncmsl
+;	;	Z
+
+–	–	Agpmsny
+Pojam	pojam	Ncmsn
+i	i	Cc
+podjela	podjela	Ncfsn
+unutarnjih	unutarnji	Agpmpgy
+plovnih	plovan	Agpmpgy
+putova	put	Ncmpg
+;	;	Z
+
+–	–	Pd-mpn
+Podaci	podatak	Ncmpn
+o	o	Sl
+vodostaju	vodostaj	Ncmsl
+i	i	Cc
+vodostanju	vodostanj	Ncmsl
+;	;	Z
+
+–	–	Z
+Plovidba	plovidba	Ncfsn
+na	na	Sl
+rijekama	rijeka	Ncfpl
+;	;	Z
+
+–		Agcnsay
+Vezivanje	vezivanje	Ncnsa
+plovila	plovilo	Ncnsg
+–	–	Z
+vrste	vrsta	Ncfsg
+i	i	Cc
+nazivi	naziv	Ncmpn
+užadi	uže	Ncfsg
+;	;	Z
+
+–		Agcnsay
+Manevriranje	manevriranje	Ncnsa
+plovila	plovilo	Ncnsg
+i	i	Cc
+sastava	sastav	Ncmsg
+;	;	Z
+
+–	i	Agpnsny
+Vođenje	vođenje	Ncnsn
+plovila	plovilo	Ncnsg
+–	–	Pi-nsa
+kormilarenje	kormilarenje	Ncnsa
+(	(	Z
+danju	danju	Rgp
+i	i	Cc
+noću	noću	Rgp
+)	)	Z
+;	;	Z
+
+–	–	Agpmpny
+Navigacijski	navigacijski	Agpmpny
+instrumenti	instrument	Ncmpn
+i	i	Cc
+pomagala	pomagalo	Ncnpn
+;	;	Z
+
+–	i	Agpfpny
+Nezgode	nezgoda	Ncfpn
+(	(	Z
+havarije	havarija	Ncfsg
+)	)	Z
+plovila	plovilo	Ncnsg
+i	i	Cc
+sastava	sastav	Ncmsg
+i	i	Cc
+upotreba	upotreba	Ncfpg
+opreme	oprema	Ncfsg
+za	za	Sa
+spašavanje	spašavanje	Ncnsa
+;	;	Z
+
+–	–	Z
+Riječne	riječni	Agpfpny
+luke	luka	Ncfpn
+,	,	Z
+pristaništa	pristanište	Ncnsg
+i	i	Cc
+tovarišta	tovarište	Ncnsg
+;	;	Z
+
+–	–	Z
+Brodske	brodski	Agpfsgy
+prevodnice	prevodnica	Ncfsg
+;	;	Z
+
+–	–	Agpmpny
+Zimovnici	zimovnik	Ncmpn
+i	i	Cc
+zimska	zimski	Agpnpay
+skloništa	sklonište	Ncnpa
+;	;	Z
+
+–	–	Z
+Plovna	plovan	Agpfsny
+mreža	mreža	Ncfsn
+Europe	Europa	Npfsg
+
+–	–	Pd-mpn
+Plovni	plovan	Agpmpny
+putovi	put	Ncmpn
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+;	;	Z
+
+–	i	Agpnsny
+Reguliranje	reguliranje	Ncnsn
+plovidbe	plovidba	Ncfsg
+putem	put	Sg
+signalnih	signalni	Agpfpgy
+stanica	stanica	Ncfpg
+;	;	Z
+
+–	–	Z
+Dnevni	dnevni	Agpmsny
+i	i	Cc
+noćni	noćni	Agpmpny
+znaci	znak	Ncmpn
+plovila	plovilo	Ncnpg
+,	,	Z
+te	te	Cc
+zvučni	zvučan	Agpmpny
+signali	signal	Ncmpn
+u	u	Sl
+plovidbi	plovidba	Ncfsl
+i	i	Cc
+stajanju	stajanje	Ncnsl
+;	;	Z
+
+–	i	Agpnsgy
+Pravila	pravilo	Ncnsg
+plovidbe	plovidba	Ncfpa
+u	u	Sl
+svim	sav	Agpmply
+vremenskim	vremenski	Agpmply
+uvjetima	uvjet	Ncmpl
+;	;	Z
+
+–	i	Agpnsny
+Obilježavanje	obilježavanje	Ncnsn
+plovnog	plovan	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+objekti	objekt	Ncmpn
+sigurnosti	sigurnost	Ncfsg
+plovidbe	plovidba	Ncfsg
+;	;	Z
+
+–	–	Z
+Red	red	Ncmsn
+u	u	Sl
+pristaništu	pristanište	Ncnsl
+,	,	Z
+sidrištu	sidrište	Ncnsl
+i	i	Cc
+zimovniku	zimovnik	Ncmsl
+;	;	Z
+
+–	i	Agpnsny
+Detaljno	detaljan	Agpnsny
+poznavanje	poznavanje	Ncnsn
+plovnog	plovan	Agpmsgy
+puta	put	Ncmsg
+i	i	Cc
+objekata	objekt	Ncmpg
+sigurnosti	sigurnost	Ncfsg
+plovidbe	plovidba	Ncfsg
+za	za	Sa
+samostalno	samostalan	Agpnsay
+upravljanje	upravljanje	Ncnsa
+kormilom	kormilo	Ncnsi
+plovila	plovilo	Ncnpg
+na	na	Sl
+dionici	dionica	Ncfsl
+plovnog	plovan	Agpmsgy
+puta	put	Ncmsg
+za	za	Sa
+koju	koji	Pi-fsa
+se	sebe	Px--sa
+traži	tražiti	Vmr3s
+ovlaštenje	ovlaštenje	Ncnsn
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+10	10	Mdc
+
+b	b	Npmsn
+)	)	Z
+Plovidbeni	plovidben	Agpmpny
+propisi	propis	Ncmpn
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Pd-mpn
+Međunarodni	međunarodni	Agpmpny
+ugovori	ugovor	Ncmpn
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+odnose	odnositi	Vmr3p
+na	na	Sa
+unutarnju	unutarnji	Agpfsay
+plovidbu	plovidba	Ncfsa
+;	;	Z
+
+–	–	Z
+Propisi	propis	Ncmpn
+EU	E	Npmsg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+odnose	odnositi	Vmr3p
+na	na	Sa
+unutarnju	unutarnji	Agpfsay
+plovidbu	plovidba	Ncfsa
+;	;	Z
+
+–	–	Z
+Međunarodni	međunarodni	Agpmpny
+carinski	carinski	Agpmpny
+propisi	propis	Ncmpn
+u	u	Sl
+unutarnjoj	unutarnji	Agpfsly
+plovidbi	plovidba	Ncfsl
+;	;	Z
+
+–	–	Sa
+Eksteritorijalnost	eksteritorijalnost	Ncfsa
+plovila	plovilo	Ncnsg
+i	i	Cc
+zastava	zastava	Ncfsn
+pripadnosti	pripadnost	Ncfsg
+;	;	Z
+
+–	–	Z
+Osnovno	osnovan	Agpnsny
+poznavanje	poznavanje	Ncnsn
+tehničkih	tehnički	Agpnpgy
+pravila	pravilo	Ncnpg
+za	za	Sa
+brodove	brod	Ncmpa
+unutarnje	unutarnji	Agpfsgy
+plovidbe	plovidba	Ncfsg
+;	;	Z
+
+–	i	Agpfpay
+Isprave	isprava	Ncfpa
+i	i	Cc
+knjige	knjiga	Ncfpa
+plovila	plovilo	Ncnsg
+i	i	Cc
+znaci	znak	Ncmpn
+identifikacije	identifikacija	Ncfsg
+;	;	Z
+
+–	i	Agpfpny
+Isprave	isprava	Ncfpn
+članova	član	Ncmpg
+posade	posada	Ncfsg
+;	;	Z
+
+–	–	Z
+Zdravstvena	zdravstven	Agpfsny
+sposobnost	sposobnost	Ncfsn
+brodarca	brodarac	Ncmsg
+;	;	Z
+
+–	i	Agpfpay
+Dužnosti	dužnost	Ncfpa
+zapovjednika	zapovjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+posade	posada	Ncfsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Z
+Postupci	postupak	Ncmpn
+kod	kod	Sg
+sudara	sudar	Ncmsg
+,	,	Z
+nasukavanja	nasukavanje	Ncnsg
+i	i	Cc
+drugih	drugi	Mlofpg
+havarija	havarija	Ncfpg
+plovila	plovilo	Ncnpg
+;	;	Z
+
+–	i	Agpfsny
+Služba	služba	Ncfsn
+sigurnosti	sigurnost	Ncfsg
+plovidbe	plovidba	Ncfsg
+,	,	Z
+nadležna	nadležan	Agpnpny
+tijela	tijelo	Ncnpn
+i	i	Cc
+inspekcija	inspekcija	Ncfsn
+;	;	Z
+
+–	–	Mlompn
+Upisnici	upisnik	Ncmpn
+plovila	plovilo	Ncnpg
+;	;	Z
+
+–	–	Agpmpny
+Tehnički	tehnički	Agpmpny
+pregledi	pregled	Ncmpn
+plovila	plovilo	Ncnpg
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+c	C	Npmsn
+)	)	Z
+Brodogradnja	brodogradnja	Ncfsn
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Z
+Opći	opći	Agpmpny
+pojmovi	pojam	Ncmpn
+o	o	Sl
+brodogradnji	brodogradnja	Ncfsl
+;	;	Z
+
+–	i	Agpfsny
+Podjela	podjela	Ncfsn
+–	–	Z
+tipovi	tip	Ncmpn
+plovnih	plovan	Agpmpgy
+objekata	objekt	Ncmpg
+;	;	Z
+
+–	–	Pd-mpn
+Glavni	glavni	Agpmpny
+dijelovi	dio	Ncmpn
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Sg
+Glavne	glavni	Agpfsgy
+mjere	mjera	Ncfsg
+–	–	Z
+dimenzije	dimenzija	Ncfsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Sa
+Plovnost	plovnost	Ncfsa
+plovila	plovilo	Ncnsg
+,	,	Z
+osnovni	osnovan	Agpmpny
+principi	princip	Ncmpn
+plovnosti	plovnost	Ncfsg
+;	;	Z
+
+–	i	Agpfsny
+Istisnina	istisnina	Ncfsn
+i	i	Cc
+nosivost	nosivost	Ncfsn
+plovila	plovilo	Ncnsg
+,	,	Z
+obračun	obračun	Ncmsan
+i	i	Cc
+postupak	postupak	Ncmsan
+baždarenja	baždarenje	Ncnsg
+;	;	Z
+
+–	–	Z
+Čvrstoća	čvrstoća	Ncfsn
+plovila	plovilo	Ncnsg
+,	,	Z
+elementi	element	Ncmpn
+čvrstoće	čvrstoća	Ncfsg
+trupa	trup	Ncmsg
+;	;	Z
+
+–	–	Sa
+Stabilitet	stabilitet	Ncmsan
+plovila	plovilo	Ncnsg
+,	,	Z
+prikaz	prikaz	Ncmsan
+skicama	skica	Ncfpl
+stanja	stanje	Ncnsg
+stabiliteta	stabilitet	Ncmsg
+–	–	Z
+izračun	izračun	Ncmsan
+metacentarske	metacentarski	Agpfsgy
+visine	visina	Ncfsg
+;	;	Z
+
+–	–	Agpmpny
+Otpori	otpor	Ncmpn
+kretanju	kretanje	Ncnsl
+plovila	plovilo	Ncnsg
+–	–	Z
+vrste	vrsta	Ncfsg
+i	i	Cc
+približne	približan	Agpfsgy
+veličine	veličina	Ncfsg
+otpora	otpor	Ncmsg
+;	;	Z
+
+–	–	Mlompn
+Pogoni	pogon	Ncmpn
+plovila	plovilo	Ncnsg
+–	–	Z
+kretna	krei	Agpnsgy
+sredstva	sredstvo	Ncnsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	–	Z
+Osnovno	osnovan	Agpnsny
+poznavanje	poznavanje	Ncnsn
+EU	E	Npmsg
+Direktive	direktiva	Ncfpn
+za	za	Sa
+tehnička	tehnički	Agpnpay
+pravila	pravilo	Ncnpa
+plovila	plovilo	Ncnpa
+
+–	–	Agpmpny
+Uređaji	uređaj	Ncmpn
+i	i	Cc
+oprema	oprema	Ncfsn
+plovila	plovilo	Ncnsg
+:	:	Z
+za	za	Sa
+sidrenje	sidrenje	Ncnsa
+,	,	Z
+privez	privez	Ncmsan
+,	,	Z
+vuču	vuča	Ncfsa
+i	i	Cc
+potisak	potisak	Ncmsan
+,	,	Z
+navigaciju	navigacija	Ncfsa
+i	i	Cc
+kormilarenje	kormilarenje	Ncnsa
+,	,	Z
+signalizaciju	signalizacija	Ncfsa
+i	i	Cc
+vezu	veza	Ncfsa
+,	,	Z
+spašavanje	spašavanje	Ncnsa
+i	i	Cc
+osiguranje	osiguranje	Ncnsa
+od	od	Sg
+potonuća	potonuće	Ncnsg
+,	,	Z
+gašenje	gašenje	Ncnsn
+požara	požar	Ncmsg
+,	,	Z
+utovar	utovar	Ncmsn
+i	i	Cc
+smještaj	smještaj	Ncmsan
+tereta	teret	Ncmsg
+,	,	Z
+održavanje	održavanje	Ncnsn
+instalacija	instalacija	Ncfpg
+i	i	Cc
+uređaja	uređaj	Ncmpg
+za	za	Sa
+opću	opći	Agpfsay
+namjenu	namjena	Ncfsa
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+d	d	Qr
+)	)	Z
+Pretovar	pretovar	Ncmsan
+i	i	Cc
+prijevoz	prijevoz	Ncmsan
+tereta	teret	Ncmsg
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Z
+Općenito	preopćenito	Rgp
+o	o	Sl
+teretu	teret	Ncmsl
+;	;	Z
+
+–	–	Sg
+Vrste	vrsta	Ncfsg
+tereta	teret	Ncmsg
+;	;	Z
+
+–	i	Agpnsgy
+Skladišta	skladište	Ncnsg
+plovila	plovilo	Ncnsg
+;	;	Z
+
+–	i	Agpnpay
+Pristanišna	pristanišni	Agpnpay
+skladišta	skladište	Ncnpa
+;	;	Z
+
+–	–	Z
+Specijalna	specijalan	Agpfsny
+

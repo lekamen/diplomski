@@ -1,0 +1,112 @@
+zaštita	zaštita	Ncfsn
+osobnih	osoban	Agpmpgy
+podataka	podatak	Ncmpg
+,	,	Z
+a	a	Cc
+iz	iz	Sg
+kojih	koji	Pi-mpg
+bi	biti	Vaa3s
+bilo	biti	Vap-sn
+moguće	moguć	Agpnsny
+utvrditi	utvrditi	Vmn
+identitet	identitet	Ncmsan
+počinitelja	počinitelj	Ncmpg
+prekršaja	prekršaj	Ncmsg
+.	.	Z
+
+VII	vii	Mrc
+.	.	Z
+
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Donošenje	donošenje	Ncnsn
+podzakonskih	podzakonski	Agpmpgy
+propisa	propis	Ncmpg
+
+Članak	članak	Ncmsn
+24.	24.	Mdo
+
+Nadležna	nadležan	Agpnpny
+tijela	tijelo	Ncnpn
+donijet	donijeti	Vmn
+će	htjeti	Var3s
+podzakonske	podzakonski	Agpmpay
+propise	propis	Ncmpa
+iz	iz	Sg
+članka	članak	Ncmsg
+14.	14.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+15.	15.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+dvije	dva	Agpfsgy
+godine	godina	Ncfsg
+od	od	Sg
+dana	dan	Ncmpg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovoga	ovaj	Pd-msg
+Zakona	zakon	Ncmsg
+.	.	Z
+
+Stupanje	stupanje	Ncnsn
+na	na	Sa
+snagu	snaga	Ncfsa
+
+Članak	članak	Ncmsn
+25.	25.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Zakon	zakon	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+01/16	01/16	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

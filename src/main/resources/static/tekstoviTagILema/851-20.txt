@@ -1,0 +1,31 @@
+sufinancirano	sufinancirati	Appnsny
+iz	iz	Sg
+Europskih	europski	Agpmpgy
+strukturnih	strukturni	Agpmpgy
+i	i	Cc
+investicijskih	investicijski	Agpmpgy
+fondova	fond	Ncmpg
+(	(	Z
+ESI	ESI	Npmsn
+)	)	Z
+.	.	Z
+
+(	(	Z
+g	g	Qr
+)	)	Z
+Detaljne	detaljan	Agpfpay
+informacije	informacija	Ncfpa
+o	o	Sl
+grafičkim	grafički	Agpnply
+rješenjima	rješenje	Ncnpl
+oblikovanja	oblikovanje	Ncnsg
+simbola	simbol	Ncmsg
+EU	E	Npmsg
+,	,	Z
+dostupne	dostupan	Agpfpny
+su	biti	Var3p
+na	na	Sl
+stranici	stranica	Ncfsl
+http://ec.europa.eu/europeaid/work/visibility/index_en.htm	http://ec.europa.eu/europeaid/work/visibility/index_en.ht	Agpmply
+.	.	Z
+

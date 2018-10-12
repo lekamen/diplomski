@@ -1,0 +1,904 @@
+Šuko	Šuko	Sg
+jama	jam	Ncmsg
+(	(	Z
+B-1	B-1	X
+)	)	Z
+68.	68.	Mdo
+
+Jama	jama	Ncfsn
+porođajna	porođajni	Agpfsny
+69.	69.	Mdo
+
+Čokolinka	Čokolinka	Npfsn
+70.	70.	Mdo
+
+Jama	jama	Ncfsn
+kod	kod	Sg
+dva	dva	Mlc
+Marka	Marko	Npmsg
+71.	71.	Mdo
+
+Sama	sam	Agpfsny
+jama	jama	Ncfsn
+72.	72.	Mdo
+
+Jama	jama	Ncfsn
+Mali	mali	Agpmsny
+propuh	propuh	Ncmsn
+73.	73.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+105	105	Mdc
+74.	74.	Mdo
+
+Jama	jama	Ncfsn
+Jeremija	Jeremija	Npfsn
+75.	75.	Mdo
+
+Jama	jama	Ncfsn
+mlade	mlad	Agpfsgy
+snage	snaga	Ncfsg
+76.	76.	Mdo
+
+Jama	jama	Ncfsn
+mali	mali	Agpmsny
+tić	tić	Ncmsn
+77.	77.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+109	109	Mdc
+78.	78.	Mdo
+
+Jama	jama	Ncfsn
+Speleo	Speleo	Npnsn
+–	–	Z
+zoo	zoo	Ncmsan
+79.	79.	Mdo
+
+Lopatina	lopatin	Aspmsgn
+jama	jam	Ncmsg
+80.	80.	Mdo
+
+Čuljak	Čuljak	Sg
+jama	jam	Ncmsg
+81.	81.	Mdo
+
+Jama	jama	Ncfsn
+crnih	crn	Agpfpgy
+ptica	ptica	Ncfpg
+82.	82.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+114.	114.	Mdo
+83.	83.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+Stazi	staza	Ncfsl
+(	(	Z
+Krivi	kriv	Agpmsny
+dolac	dolac	Ncmsn
+)	)	Z
+84.	84.	Mdo
+
+Jama	jama	Ncfsn
+Koprivka	Koprivka	Npfsn
+85.	85.	Mdo
+
+Jama	jama	Ncfsn
+crnoga	crn	Agpnsgy
+dna	dno	Ncnsg
+86.	86.	Mdo
+
+Jama	jama	Ncfsn
+maloga	mali	Agpmsgy
+puha	puh	Ncmsg
+87.	87.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+120	120	Mdc
+88.	88.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+121.	121.	Mdo
+89.	89.	Mdo
+
+Jama	jama	Ncfsn
+ljiljan	ljiljan	Ncmsn
+90.	90.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+123.	123.	Mdo
+91.	91.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+124.	124.	Mdo
+92.	92.	Mdo
+
+Jama	jama	Ncfsn
+vrtuljak	vrtuljak	Ncmsan
+93.	93.	Mdo
+
+Jama	jama	Ncfsn
+br.	br.	Y
+127	127	Mdc
+94.	94.	Mdo
+
+Špiljica	špiljica	Ncfsn
+ispod	ispod	Sg
+Jame	Jama	Npfsg
+br.	br.	Y
+124	124	Mdc
+95.	95.	Mdo
+
+Marmeladna	marmeladan	Agpfsny
+jama	jama	Ncfsn
+96.	96.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+Vošcem	vošac	Ncmsi
+97.	97.	Mdo
+
+Romanova	Romanov	Aspmsgn
+jama	jam	Ncmsg
+98.	98.	Mdo
+
+Turska	turski	Agpfsny
+pećina	pećina	Ncfsn
+–	–	Z
+Kaštel	Kaštel	Npmsn
+99.	99.	Mdo
+
+Pikina	pikin	Agpfsny
+Jama	jama	Ncfsn
+100.	100.	Mdo
+
+Jama	jama	Ncfsn
+ljubica	ljubica	Ncfpg
+101.	101.	Mdo
+
+Jama	jama	Ncfsn
+dva	dva	Mlc
+lava	lav	Ncmsg
+102.	102.	Mdo
+
+Grubišića	Grubišić	Npmsay
+špilja	špilja	Ncfpg
+103.	103.	Mdo
+
+Ovčja	ovčji	Agpfsny
+špilja	špilja	Ncfsn
+104.	104.	Mdo
+
+Jama	jama	Ncfsn
+B-6	B-6	X
+105.	105.	Mdo
+
+Jama	jama	Ncfsn
+A-5	A-5	Mdc
+106.	106.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+Viloviku	Vilovik	Npmsl
+107.	107.	Mdo
+
+Jama	jama	Ncfsn
+B-4	B-4	X
+108.	108.	Mdo
+
+Mala	mali	Agpfsny
+jamica	jamica	Ncfsn
+109.	109.	Mdo
+
+Jama	jama	Ncfsn
+B-5	B-5	X
+110.	110.	Mdo
+
+Manastiri	manastir	Ncmpn
+I	i	Cc
+111.	111.	Mdo
+
+Jama	jama	Ncfsn
+1	1	Mdc
+A-4	a-a	Ncfsg
+112.	112.	Mdo
+
+Jama	jama	Ncfsn
+1	1	Mdc
+A-5	a-a	Ncfsg
+113.	113.	Mdo
+
+Jama	jama	Ncfsn
+B-8	B-8	X
+114.	114.	Mdo
+
+Jama	jama	Ncfsn
+za	za	Si
+Supinom	supin	Ncmsi
+115.	115.	Mdo
+
+Špilja	špilja	Ncfsn
+u	u	Sl
+Nevistinim	nevistini	Agpfply
+stinama	stina	Ncfpl
+116.	116.	Mdo
+
+Ledenica	ledenica	Ncfsn
+pod	pod	Si
+Troglavom	Troglava	Npfsi
+117.	117.	Mdo
+
+Jama	jama	Ncfsn
+3	3	Mdc
+A-1	a-a	Ncfsg
+118.	118.	Mdo
+
+Jama	jama	Ncfsn
+B-7	B-7	X
+119.	119.	Mdo
+
+Jama	jama	Ncfsn
+Amfora	amfora	Ncfsn
+120.	120.	Mdo
+
+Jama	jama	Ncfsn
+u	u	Sl
+Debelici	Debelica	Npfsl
+121.	121.	Mdo
+
+Jama	jama	Ncfsn
+Krjava	Krjav	Npmsg
+II	ii	Mro
+122.	122.	Mdo
+
+Jama	jama	Ncfsn
+za	za	Sa
+Pišćetom	Pišćeto	Npmsay
+123.	123.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+Stipkovcem	stipkovac	Ncmsi
+124.	124.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+Sv.	Sv.	Y
+Jurom	Jure	Npmsi
+(	(	Z
+KSPSH	KSPSH	Npmsn
+)	)	Z
+125.	125.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+Jelici	jelik	Ncmpn
+126.	126.	Mdo
+
+Invalidna	invalidan	Agpfsny
+jama	jama	Ncfsn
+127.	127.	Mdo
+
+Pećina	pećina	Ncfsn
+na	na	Sl
+Stupici	stupica	Ncfsl
+(	(	Z
+Sv.	sv	Ncmsl
+Bare	bara	Ncfsg
+)	)	Z
+128.	128.	Mdo
+
+Šulina	šulina	Ncfsn
+jama	jam	Ncmsg
+129.	129.	Mdo
+
+Bunker	bunker	Ncmsn
+na	na	Sl
+Susvidu	Susvid	Npmsl
+130.	130.	Mdo
+
+Jama	jama	Ncfsn
+u	u	Sl
+Prolazu	prolaz	Ncmsl
+131.	131.	Mdo
+
+Jama	jama	Ncfsn
+Vrh	vrh	Ncmsn
+dočića	dočiće	Ncnsg
+132.	132.	Mdo
+
+Vučja	vučji	Agpfsny
+špilja	špilja	Ncfsn
+133.	133.	Mdo
+
+Gulina	Gulin	Aspmsgn
+jama	jam	Ncmsg
+134.	134.	Mdo
+
+Živkovača	Živkovača	Npfsn
+135.	135.	Mdo
+
+Jama	jama	Ncfsn
+iznad	iznad	Sg
+Šošića	Šošić	Npmsg
+136.	136.	Mdo
+
+Suzina	suzin	Aspmsgn
+jama	jam	Ncmsg
+137.	137.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+domom	dom	Ncmsi
+(	(	Z
+Duboka	dubok	Agpfsny
+)	)	Z
+138.	138.	Mdo
+
+Jama	jama	Ncfsn
+pored	pored	Sg
+Stare	star	Agpfsgy
+ledenice	ledenica	Ncfsg
+139.	139.	Mdo
+
+Stara	star	Agpfsny
+ledenica	ledenica	Ncfsn
+140.	140.	Mdo
+
+Praseća	praseći	Agpfsny
+jama	jama	Ncfsn
+141.	141.	Mdo
+
+Jama	jama	Ncfsn
+Red	red	Ncmsn
+bull	bula	Ncfsg
+142.	142.	Mdo
+
+Ledenica	ledenica	Ncfsn
+10	10	Mdc
+DM	dm	Npmsn
+143.	143.	Mdo
+
+Jama	jama	Ncfsn
+Lađenka	Lađenka	Npfsn
+144.	144.	Mdo
+
+Jama	jama	Ncfsn
+Dalmatinka	Dalmatinka	Npfsn
+145.	145.	Mdo
+
+Jama	jama	Ncfsn
+Plitvine	Plitvina	Npfsg
+146.	146.	Mdo
+
+Japaga	Japaga	Npfsn
+Lađenka	Lađenka	Npfsn
+147.	147.	Mdo
+
+Pileća	pileći	Agpfsny
+jama	jama	Ncfsn
+148.	148.	Mdo
+
+Jama	jama	Ncfsn
+Pomorac	pomorac	Ncmsn
+149.	149.	Mdo
+
+Jama	jama	Ncfsn
+Burača	Burača	Npfsn
+150.	150.	Mdo
+
+Jama	jama	Ncfsn
+pored	pored	Sg
+pojate	pojata	Ncfsg
+151.	151.	Mdo
+
+Krjava	krjava	Ncfsn
+152.	152.	Mdo
+
+Jama	jama	Ncfsn
+Seat	Seat	Npfsn
+153.	153.	Mdo
+
+Velika	velik	Agpfsny
+špilja	špilja	Ncfsn
+154.	154.	Mdo
+
+Jama	jama	Ncfsn
+B-3	B-3	X
+155.	155.	Mdo
+
+Vilimova	vilimov	Aspfsny
+jama	jama	Ncfsn
+(	(	Z
+A-2	A-2	Npmsn
+)	)	Z
+156.	156.	Mdo
+
+Jama	jama	Ncfsn
+A-3	A-3	Mdc
+157.	157.	Mdo
+
+Jama	jama	Ncfsn
+A-4	A-4	Mdc
+158.	158.	Mdo
+
+Firnova	firnov	Aspfsny
+jama	jama	Ncfsn
+(	(	Z
+1	1	Mdc
+A-1	A-1	X
+)	)	Z
+159.	159.	Mdo
+
+Jama	jama	Ncfsn
+1	1	Mdc
+A-2	a-a	Ncfsg
+160.	160.	Mdo
+
+Jama	jama	Ncfsn
+1	1	Mdc
+A-3	a-a	Ncfsg
+161.	161.	Mdo
+
+Jama	jama	Ncfsn
+3	3	Mdc
+A-2	a-a	Ncfsg
+162.	162.	Mdo
+
+Jama	jama	Ncfsn
+3	3	Mdc
+A-3	a-a	Ncfsg
+163.	163.	Mdo
+
+Sveta	svet	Agpfsny
+špilja	špilja	Ncfsn
+164.	164.	Mdo
+
+Špilja	špilja	Ncfsn
+na	na	Sl
+Dupcima	dupk	Ncmpl
+165.	165.	Mdo
+
+Jama	jama	Ncfsn
+Zmajevača	Zmajevača	Npfsn
+166.	166.	Mdo
+
+Njegova	njegov	Ps3fsn
+jama	jama	Ncfsn
+167.	167.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sa
+Sv.	Sv.	Y
+Iliji	Ilija	Npfsl
+168.	168.	Mdo
+
+Jolina	jolin	Aspmsgn
+jama	jam	Ncmsg
+169.	169.	Mdo
+
+Čulina	čulina	Ncfsn
+jama	jam	Ncmsg
+170.	170.	Mdo
+
+Jama	jama	Ncfsn
+B3	b	Ncmpg
++	+	Z
+TIM	tim	Ncmsn
+171.	171.	Mdo
+
+Jama	jama	Ncfsn
+Penzionerka	Penzionerka	Npfsn
+172.	172.	Mdo
+
+Jama	jama	Ncfsn
+LZP	LZP	Npmsn
+173.	173.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+Borovcem	borovac	Ncmsi
+174.	174.	Mdo
+
+Jama	jama	Ncfsn
+u	u	Sl
+stupu	stup	Ncmsl
+Solila	soliti	Vmp-sf
+175.	175.	Mdo
+
+KSPSH	kspsi	Agpnsny
+82	82	Mdc
+(	(	Z
+J-82	J-82	Mds
+)	)	Z
+176.	176.	Mdo
+
+Pećina	pećina	Ncfsn
+pod	pod	Si
+Štrbinom	Štrbin	Npmsi
+177.	177.	Mdo
+
+Usputna	usputan	Agpfsny
+jama	jama	Ncfsn
+178.	178.	Mdo
+
+Čavkina	čavkin	Aspmsgn
+jama	jam	Ncmsg
+179.	179.	Mdo
+
+Jama	jama	Ncfsn
+Nazovi	Nazovi	Npfsn
+je	biti	Var3s
+bogati	bogat	Agpmsny
+180.	180.	Mdo
+
+Hilti	Hilti	Sg
+jama	jam	Ncmsg
+181.	181.	Mdo
+
+Jama	jama	Ncfsn
+Šestica	šestica	Ncfsn
+182.	182.	Mdo
+
+Ljubavna	ljubavni	Agpfsny
+jama	jama	Ncfsn
+183.	183.	Mdo
+
+Jama	jama	Ncfsn
+Jurin	Jurin	Aspmsnn
+pupak	pupak	Ncmsn
+184.	184.	Mdo
+
+Jama	jama	Ncfsn
+Mokre	mokar	Agpfsgy
+noge	noga	Ncfsg
+185.	185.	Mdo
+
+Jama	jama	Ncfsn
+Vodovod	vodovod	Ncmsn
+i	i	Cc
+kanalizacija	kanalizacija	Ncfsn
+186.	186.	Mdo
+
+Tehnicka	tehnicki	Agpfsny
+spilja	spilja	Ncfsn
+187.	187.	Mdo
+
+Jama	jama	Ncfsn
+rebrica	rebrica	Ncfpg
+188.	188.	Mdo
+
+Filipova	Filipov	Aspfsny
+jama	jama	Ncfsn
+189.	189.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+Iliji	Ilija	Npfsl
+190.	190.	Mdo
+
+Špilja	špilja	Ncfsn
+na	na	Sl
+Stipkovcu	Stipkovc	Npmsl
+191.	191.	Mdo
+
+Jama	jama	Ncfsn
+Zara	Zar	Npmsg
+
+Tablica	tablica	Ncfsn
+4	4	Mdc
+:	:	Z
+Speleološki	speleološki	Agpmpny
+objekti	objekt	Ncmpn
+na	na	Sl
+području	područje	Ncnsl
+Parka	park	Ncmsg
+
+II	ii	Mrc
+.	.	Z
+
+Neistraženi	neistražen	Agpmpny
+(	(	Z
+poznati	poznat	Agpmpny
+)	)	Z
+speleološki	speleološki	Agpmpny
+objekti	objekt	Ncmpn
+
+1.	1.	Mdo
+Špilja	špilja	Ncfsn
+Pasji	pasji	Agpmpny
+manastiri	manastir	Ncmpn
+2.	2.	Mdo
+Špilja	špilja	Ncfsn
+Gravišće	gravišća	Ncfsg
+3.	3.	Mdo
+Jama	jama	Ncfsn
+Mačka	mačak	Ncmsg
+4.	4.	Mdo
+Jama	jama	Ncfsn
+Velika	velik	Agpfsny
+mačka	mačka	Ncfsn
+5.	5.	Mdo
+Špilja	špilja	Ncfsn
+Manastirina	Manastirina	Npfsn
+6.	6.	Mdo
+Jama	jama	Ncfsn
+za	za	Si
+Golim	gol	Agpmsiy
+brigom	brig	Ncmsi
+7.	7.	Mdo
+Razmirova	razmirov	Aspfsny
+špilja	špilja	Ncfsn
+8.	8.	Mdo
+Mićića	Mićić	Npmsay
+Ledenica	ledenica	Ncfsn
+9.	9.	Mdo
+Crna	crn	Agpfsny
+ledenica	ledenica	Ncfsn
+10.	10.	Mdo
+
+Matkova	matkov	Aspfsny
+jama	jama	Ncfsn
+11.	11.	Mdo
+
+Jama	jama	Ncfsn
+za	za	Si
+kozjakom	kozjak	Ncmsi
+12.	12.	Mdo
+
+Velika	velik	Agpfsny
+špilja	špilja	Ncfsn
+13.	13.	Mdo
+
+Jama	jama	Ncfsn
+Ljubović	Ljubović	Npfsn
+14.	14.	Mdo
+
+Ljubovička	ljubovički	Agpfsny
+peć	peć	Ncfsn
+15.	15.	Mdo
+
+Lizatova	lizatov	Aspfsny
+jama	jama	Ncfsn
+16.	16.	Mdo
+
+Špilja	špilja	Ncfsn
+Lozovac	Lozovac	Npmsn
+17.	17.	Mdo
+
+Šućurova	šućurov	Aspfsny
+jama	jama	Ncfsn
+18.	18.	Mdo
+
+Bukova	bukov	Agpfsny
+jama	jama	Ncfsn
+19.	19.	Mdo
+
+Velika	velik	Agpfsny
+jama	jama	Ncfsn
+20.	20.	Mdo
+
+Gradska	gradski	Agpfsny
+špilja	špilja	Ncfsn
+21.	21.	Mdo
+
+Jama	jama	Ncfsn
+Trepetlikovac	Trepetlikovac	Npfsn
+22.	22.	Mdo
+
+Jama	jama	Ncfsn
+Jelovača	Jelovača	Npfsn
+23.	23.	Mdo
+
+Jama	jama	Ncfsn
+Jezero	jezero	Ncnsn
+24.	24.	Mdo
+
+Špilja	špilja	Ncfsn
+za	za	Sa
+Kurenikom	Kureniko	Npmsay
+25.	25.	Mdo
+
+Jama	jama	Ncfsn
+1	1	Mdc
+26.	26.	Mdo
+
+Jama	jama	Ncfsn
+2	2	Mdc
+27.	27.	Mdo
+
+Špilja	špilja	Ncfsn
+Čule	čuti	Vmp-pf
+28.	28.	Mdo
+
+Jama	jama	Ncfsn
+3.	3.	Mdo
+29.	29.	Mdo
+
+Jama	jama	Ncfsn
+Smrduša	Smrduša	Npfsn
+30.	30.	Mdo
+
+Jama	jama	Ncfsn
+4.	4.	Mdo
+31.	31.	Mdo
+
+Pozjata	Pozjata	Npfsn
+32.	32.	Mdo
+
+Jama	jama	Ncfsn
+babnjača	babnjač	Ncmsg
+33.	33.	Mdo
+
+Pećina	pećina	Ncfsn
+ispod	ispod	Sg
+Vrisove	vrisov	Aspfsgy
+glave	glava	Ncfsg
+34.	34.	Mdo
+
+Špilja	špilja	Ncfsn
+Peć	Peć	Npmsn
+
+Tablica	tablica	Ncfsn
+5	5	Mdc
+:	:	Z
+Neistraženi	neistražen	Agpmpny
+speleološki	speleološki	Agpmpny
+objekti	objekt	Ncmpn
+na	na	Sl
+području	područje	Ncnsl
+Parka	park	Ncmsg
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Prema	prema	Sl
+dosadašnjim	dosadašnji	Agpnply
+istraživanjima	istraživanje	Ncnpl
+(	(	Z
+2011.	2011.	Mdo
+–	–	Z
+2013.	2013.	Mdo
+g.	ga	Ncfsg
+)	)	Z
+,	,	Z
+na	na	Sl
+Biokovu	Biokov	Npmsl
+je	biti	Var3s
+utvrđeno	utvrditi	Appnsny
+oko	oko	Rgp
+400	400	Mdc
+speleoloških	speleološki	Agpmpgy
+objekata	objekt	Ncmpg
+,	,	Z
+a	a	Cc
+procjenjuje	procjenjivati	Vmr3s
+se	sebe	Px--sa
+da	da	Cs
+je	biti	Var3s
+njihov	njihov	Ps3msn
+broj	broj	Ncmsn
+puno	puno	Rgp
+veći	velik	Agcmsny
+(	(	Z
+prema	prema	Sl
+podatcima	podatak	Ncmpl
+HPD	HPD	Npfsg
+Biokovo	Biokovo	Npfsg
+,	,	Z
+speleološki	speleološki	Agpmsny
+odsjek	odsjek	Ncmsn
+)	)	Z
+.	.	Z
+
+6.2.	6.2.	Mdo
+
+Područja	područje	Ncnpn
+i	i	Cc
+lokaliteti	lokalitet	Ncmpn
+zaštite	zaštita	Ncfsg
+kulturnih	kulturan	Agpnpgy
+dobara	dobro	Ncnpg
+
+Članak	članak	Ncmsn
+55.	55.	Mdo
+
+Unutar	unutar	Sg
+obuhvata	obuhvat	Ncmsg
+Plana	plan	Ncmsg
+nalaze	nalaziti	Vmr3p
+se	sebe	Px--sa
+mnogi	mnogi	Agpmpny
+kulturno-povijesni	kulturno-povijesni	Agpmpny
+spomenici	spomenik	Ncmpn
+starije	star	Agcnsay
+i	i	Cc
+mlađe	mlad	Agcfsgy
+prošlosti	prošlost	Ncfsg
+razvrstani	razvrstati	Appmpny
+na	na	Sa
+:	:	Z
+
+1.	1.	Mdo
+Arheološka	arheološki	Agpfsny
+baština	baština	Ncfsn
+
+1.1.	1.1.	Mdo
+
+Arheološki	arheološki	Agpmsayn
+pojedinačni	pojedinačan	Agpmsayn
+lokalitet	lokalitet	Ncmsan
+,	,	Z
+registrirano	registriran	Agpnsny
+i	i	Cc
+evidentirano	evidentirati	Agpnsny
+kulturno	kulturno	Rgp
+dobro	dobar	Agpnsny
+:	:	Z
+
+–	i	Agpfpay
+prapovijesne	prapovijesni	Agpfpay
+gomile	gomila	Ncfpa
+uz	uz	Sa
+cestu	cesta	Ncfsa
+Makarska	makarski	Agpfsny
+–	–	Z
+Vrgorac	Vrgorac	Npmsn
+(	(	Z
+Miočevići	Miočevići	Npmsn
+)	)	Z
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Svetica	svetica	Ncfpg
+uz	uz	Sa
+morsku	morski	Agpfsay
+stranu	strana	Ncfsa
+prijevoja	prijevoj	Ncmsg
+Dubci	Dubci	Npnsa
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Pozjata	Pozjat	Npmsg
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Matijaševa	matijašev	Aspfsny
+peć	peć	Ncfsn
+iznad	iznad	Sg
+Župe	župa	Ncfsg
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Gradska	gradski	Agpfsny
+spila	spila	Ncfsn
+iznad	iznad	Sg
+Župe	župa	Ncfsg
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Samogorska	Samogorska	Npfsn
+spila	spiti	Vmp-sf
+iznad	iznad	Sg
+Župe	župa	Ncfsg
+
+–	i	Agpfsny
+pećina	pećina	Ncfsn
+Bršćanova	bršćanov	Aspfsny
+jama	jama	Ncfsn
+zapadno	zapadno	Rgp
+od	od	Sg
+Velikog	velik	Agpmsgy
+Godinja	Godinj	Npmsg
+
+–	–	Z
+

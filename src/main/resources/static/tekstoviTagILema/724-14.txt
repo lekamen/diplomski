@@ -1,0 +1,765 @@
+pokretanja	pokretanje	Ncnsg
+postupka	postupak	Ncmsg
+do	do	Sg
+datuma	datum	Ncmsg
+rješavanja	rješavanje	Ncnsg
+predmeta	predmet	Ncmpg
+.	.	Z
+
+Članak	članak	Ncmsn
+82.	82.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+U	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+korisnicima	korisnik	Ncmpd
+sustava	sustav	Ncmsg
+su	biti	Var3p
+u	u	Sl
+svakom	svaki	Pi-msl
+trenutku	trenutak	Ncmsl
+dostupna	dostupan	Agpfsny
+upravljačka	upravljački	Agpnpay
+izvješća	izvješće	Ncnpa
+koja	koji	Pi-npn
+mogu	moći	Vmr3p
+kreirati	kreirati	Vmn
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+potrebama	potreba	Ncfpi
+suda	sud	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Odabirom	odabir	Ncmsi
+željenih	željeti	Appmpgy
+parametara	parametar	Ncmpg
+sustav	sustav	Ncmsn
+eSpis	eSpis	Npmsn
+generira	generirati	Vmr3s
+sljedeća	sljedeći	Agpnpay
+izvješća	izvješće	Ncnpa
+:	:	Z
+
+1.	1.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+radu	rad	Ncmsl
+
+2.	2.	Mdo
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+
+3.	3.	Mdo
+Stari	star	Agpmpny
+neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+
+4.	4.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+je	biti	Var3s
+okrivljenik	okrivljenik	Ncmsn
+u	u	Sl
+istražnom	istražni	Agpmsly
+zatvoru	zatvor	Ncmsl
+
+5.	5.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+je	biti	Var3s
+izdana	izdati	Appfsny
+tjeralica	tjeralica	Ncfsn
+
+6.	6.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+nastupa	nastup	Ncmsg
+ili	ili	Cc
+je	biti	Var3s
+nastupila	nastupiti	Vmp-sf
+zastara	zastara	Ncfsn
+
+7.	7.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+je	biti	Var3s
+određena	odrediti	Appfsny
+sudska	sudski	Agpfsny
+radnja	radnja	Ncfsn
+
+8.	8.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+su	biti	Var3p
+održane	održati	Appfpny
+sudske	sudski	Agpfpny
+radnje	radnja	Ncfpn
+
+9.	9.	Mdo
+Predmeti	predmet	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+su	biti	Var3p
+odgođene	odgoditi	Appfpny
+sudske	sudski	Agpfpny
+radnje	radnja	Ncfpn
+
+10.	10.	Mdo
+
+Predmeti	predmet	Ncmpn
+s	sa	Si
+oznakom	oznaka	Ncfsi
+hitno	hitan	Agpnsny
+
+11.	11.	Mdo
+
+Predmeti	predmet	Ncmpn
+s	sa	Si
+kaznenopravnom	kaznenopravni	Agpfsiy
+sankcijom	sankcija	Ncfsi
+
+12.	12.	Mdo
+
+Predmeti	predmet	Ncmpn
+u	u	Sl
+mirovanju	mirovanje	Ncnsl
+/	/	Z
+neaktivnosti	neaktivnost	Ncfsl
+
+13.	13.	Mdo
+
+Predmeti	predmet	Ncmpn
+izvan	izvan	Sg
+suda	sud	Ncmsg
+
+14.	14.	Mdo
+
+Kontrolna	kontrolan	Agpfsny
+lista	lista	Ncfsn
+
+15.	15.	Mdo
+
+Rok	rok	Ncmsn
+otpreme	otprema	Ncfsg
+
+16.	16.	Mdo
+
+Ispunjenje	ispunjenje	Ncnsn
+Okvirnih	okviran	Agpnpgy
+mjerila	mjerilo	Ncnpg
+za	za	Sa
+period	period	Ncmsan
+
+17.	17.	Mdo
+
+Izjavljene	izjaviti	Agpfpny
+žalbe	žalba	Ncfpn
+
+18.	18.	Mdo
+
+Sudske	sudski	Agpfsgy
+pristojbe	pristojba	Ncfsg
+
+19.	19.	Mdo
+
+Naplaćeno	naplatiti	Appnsny
+u	u	Sl
+ovršnom	ovršni	Agpmsly
+postupku	postupak	Ncmsl
+
+20.	20.	Mdo
+
+Presignirani	presigniran	Agpmpny
+predmeti	predmet	Ncmpn
+
+21.	21.	Mdo
+
+Razumni	razuman	Agpmsny
+rok	rok	Ncmsn
+–	–	Z
+prekoračen	prekoračiti	Appmsnn
+rok	rok	Ncmsn
+
+22.	22.	Mdo
+
+Razumni	razuman	Agpmsny
+rok	rok	Ncmsn
+–	–	Z
+pregled	pregled	Ncmsan
+rješavanja	rješavanje	Ncnsg
+
+23.	23.	Mdo
+
+Vrijednost	vrijednost	Ncfsn
+predmeta	predmet	Ncmsg
+spora	spor	Ncmsg
+
+24.	24.	Mdo
+
+Izrečene	izreći	Appfpny
+mjere	mjera	Ncfpn
+
+25.	25.	Mdo
+
+Novčane	novčan	Agpfpny
+kazne	kazna	Ncfpn
+
+26.	26.	Mdo
+
+Pregled	pregled	Ncmsn
+ročišta	ročište	Ncnsg
+
+27.	27.	Mdo
+
+Pregled	pregled	Ncmsn
+po	po	Sl
+člancima	članak	Ncmpl
+zakona	zakon	Ncmsg
+
+28.	28.	Mdo
+
+Predmeti	predmet	Ncmpn
+po	po	Sl
+sudionicima	sudionik	Ncmpl
+.	.	Z
+
+Članak	članak	Ncmsn
+83.	83.	Mdo
+
+Način	način	Ncmsn
+preuzimanja	preuzimanje	Ncnsg
+mapa	mapa	Ncfpg
+sa	sa	Si
+statističkim	statistički	Agpmpiy
+izvješćima	izvješće	Ncmpi
+te	te	Cc
+sadržaj	sadržaj	Ncmsn
+pojedinog	pojedini	Agpnsgy
+izvješća	izvješće	Ncnsg
+sadržan	sadržati	Appmsnn
+je	biti	Var3s
+u	u	Sl
+»	»	Z
+Uputi	uputa	Ncfsl
+o	o	Sl
+preuzimanju	preuzimanje	Ncnsl
+i	i	Cc
+korištenju	korištenje	Ncnsl
+statističkih	statistički	Agpnpgy
+izvješća	izvješće	Ncnpg
+«	«	Z
+koja	koji	Pi-fsn
+je	biti	Var3s
+objavljena	objaviti	Appfsny
+na	na	Sl
+internom	interni	Agpmsly
+korisničkom	korisnički	Agpmsly
+portalu	portal	Ncmsl
+»	»	Z
+espis.pravosudje.hr	espis.pravosudje.hr	X
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+84.	84.	Mdo
+
+Korisnici	korisnik	Ncmpn
+sustava	sustav	Ncmsg
+eSpis	eSpis	Npmsn
+su	biti	Var3p
+prilikom	prilikom	Sg
+preuzimanja	preuzimanje	Ncnsg
+i	i	Cc
+korištenja	korištenje	Ncnsg
+statističkih	statistički	Agpnpgy
+izvješća	izvješće	Ncnpg
+dužni	dužan	Agpmpny
+postupati	postupati	Vmn
+po	po	Sl
+»	»	Z
+Uputi	uputa	Ncfsl
+o	o	Sl
+preuzimanju	preuzimanje	Ncnsl
+i	i	Cc
+korištenju	korištenje	Ncnsl
+statističkih	statistički	Agpnpgy
+izvješća	izvješće	Ncnpg
+«	«	Z
+.	.	Z
+
+XVII	xvii	Mrc
+.	.	Z
+
+PROMJENA	promjena	Ncfsn
+OZNAKE	oznaka	Ncfsg
+,	,	Z
+SPAJANJE	spajanje	Ncnsn
+,	,	Z
+PRILAGANJE	prilaganje	Ncnsn
+I	i	Cc
+RAZDVAJANJE	razdvajanje	Ncnsa
+SPISA	spis	Ncmsg
+
+Članak	članak	Ncmsn
+85.	85.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Promjena	promjena	Ncfsn
+upisnika	upisnik	Ncmpg
+unosi	unositi	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+.	.	Z
+
+Prilikom	prilikom	Sg
+unosa	unos	Ncmsg
+promjene	promjena	Ncfsg
+po	po	Sl
+potrebi	potreba	Ncfsl
+se	sebe	Px--sa
+mijenjaju	mijenjati	Vmr3p
+podaci	podatak	Ncmpn
+o	o	Sl
+ulogama	uloga	Ncfpl
+stranaka	stranka	Ncfpg
+u	u	Sl
+predmetu	predmet	Ncmsl
+,	,	Z
+te	te	Cc
+o	o	Sl
+hitnosti	hitnost	Ncfsl
+i	i	Cc
+tajnosti	tajnost	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+Od	od	Sg
+tog	taj	Pd-msg
+trenutka	trenutak	Ncmsg
+,	,	Z
+novi	nov	Agpmpny
+podnesci	podnesak	Ncmpn
+i	i	Cc
+sudske	sudski	Agpfpny
+odluke	odluka	Ncfpn
+dobivaju	dobivati	Vmr3p
+novu	nov	Agpfsay
+oznaku	oznaka	Ncfsa
+spisa	spis	Ncmsg
+,	,	Z
+a	a	Cc
+podbrojevi	podbroj	Ncmpn
+na	na	Sl
+podnescima	podnesak	Ncmpl
+nastavljaju	nastavljati	Vmr3p
+redoslijed	redoslijed	Ncmsan
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Ustupanje	ustupanje	Ncnsn
+spisa	spis	Ncmpg
+drugom	drugi	Mlomsl
+sudu	sud	Ncmsl
+unosi	unositi	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+uz	uz	Sa
+obvezno	obvezan	Agpnsay
+navođenje	navođenje	Ncnsa
+razloga	razlog	Ncmpg
+ustupanja	ustupanje	Ncnsg
+spisa	spis	Ncmsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Ustupanje	ustupanje	Ncnsn
+spisa	spis	Ncmsg
+iz	iz	Sg
+članka	članak	Ncmsg
+11.	11.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+sudovima	sud	Ncmpl
+provodi	provoditi	Vmr3s
+se	sebe	Px--sa
+kroz	kroz	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+unosom	unos	Ncmsi
+pripadajuće	pripadajući	Agpfsgy
+odluke	odluka	Ncfsg
+te	te	Cc
+pokretanjem	pokretanje	Ncnsi
+funkcije	funkcija	Ncfsg
+ustupanja	ustupanje	Ncnsg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Zaprimanje	zaprimanje	Ncnsn
+spisa	spis	Ncmsg
+iz	iz	Sg
+članka	članak	Ncmsg
+11.	11.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+sudovima	sud	Ncmpl
+provodi	provoditi	Vmr3s
+se	sebe	Px--sa
+kroz	kroz	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+unosom	unos	Ncmsi
+pripadajućeg	pripadajući	Agpmsgy
+podneska	podnesak	Ncmsg
+te	te	Cc
+pokretanjem	pokretanje	Ncnsi
+funkcije	funkcija	Ncfsg
+zaprimanja	zaprimanje	Ncnsg
+.	.	Z
+
+Članak	članak	Ncmsn
+86.	86.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Slanje	slanje	Ncnsn
+spisa	spis	Ncmsg
+na	na	Sa
+viši	visok	Agcmsayn
+sud	sud	Ncmsan
+evidentira	evidentirati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+uz	uz	Sa
+obvezno	obvezan	Agpnsay
+navođenje	navođenje	Ncnsa
+razloga	razlog	Ncmpg
+slanja	slanje	Ncnsg
+spisa	spis	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Vraćanje	vraćanje	Ncnsn
+spisa	spis	Ncmsg
+sa	sa	Sg
+višeg	visok	Agcmsgy
+suda	sud	Ncmsg
+na	na	Sa
+niži	nizak	Agcmsayn
+sud	sud	Ncmsan
+evidentira	evidentirati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+87.	87.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Spajanje	spajanje	Ncnsn
+spisa	spis	Ncmsg
+evidentira	evidentirati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Spajanje	spajanje	Ncnsn
+spisa	spis	Ncmpg
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+provodi	provoditi	Vmr3s
+se	sebe	Px--sa
+nakon	nakon	Cs
+što	što	Cs
+rješavatelj	rješavatelj	Ncmsn
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+unese	unijeti	Vmr3s
+dostavnu	dostavni	Agpfsay
+naredbu	naredba	Ncfsa
+za	za	Sa
+spajanje	spajanje	Ncnsa
+spisa	spis	Ncmpg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Nakon	nakon	Sg
+spajanja	spajanje	Ncnsg
+spisa	spis	Ncmsg
+,	,	Z
+podnesci	podnesak	Ncmpn
+,	,	Z
+podaci	podatak	Ncmpn
+o	o	Sl
+kretanju	kretanje	Ncnsl
+spisa	spis	Ncmsg
+i	i	Cc
+podaci	podatak	Ncmpn
+o	o	Sl
+odluci	odluka	Ncfsl
+upisuju	upisivati	Vmr3p
+se	sebe	Px--sa
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+u	u	Sa
+spojeni	spojiti	Agpmsayn
+jedinstveni	jedinstven	Agpmsayn
+spis	spis	Ncmsan
+.	.	Z
+
+Članak	članak	Ncmsn
+88.	88.	Mdo
+
+Prilaganje	prilaganje	Ncnsn
+spisa	spis	Ncmsg
+evidentira	evidentirati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+.	.	Z
+
+Spisu	spis	Ncmsl
+se	sebe	Px--sa
+mogu	moći	Vmr3p
+priložiti	priložiti	Vmn
+samo	samo	Rgp
+oni	onaj	Pd-mpn
+spisi	spis	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+postoji	postojati	Vmr3s
+dostavna	dostavni	Agpfsny
+naredba	naredba	Ncfsn
+rješavatelja	rješavatelj	Ncmpg
+za	za	Sa
+prilaganje	prilaganje	Ncnsa
+.	.	Z
+
+Članak	članak	Ncmsn
+89.	89.	Mdo
+
+Razdvajanje	razdvajanje	Ncnsn
+spisa	spis	Ncmsg
+provodi	provoditi	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+sustavu	sustav	Ncmsl
+eSpis	eSpis	Npmsn
+nakon	nakon	Cs
+što	što	Cs
+je	biti	Var3s
+rješavatelj	rješavatelj	Ncmsn
+u	u	Sa
+sustav	sustav	Ncmsan
+unio	unijeti	Vmp-sm
+odgovarajuću	odgovarajući	Agpfsay
+dostavnu	dostavni	Agpfsay
+naredbu	naredba	Ncfsa
+.	.	Z
+
+Ovlašteni	ovlašten	Agpmsny
+sudski	sudski	Agpmsny
+službenik	službenik	Ncmsn
+provodi	provoditi	Vmr3s
+razdvajanje	razdvajanje	Ncnsa
+na	na	Sa
+način	način	Ncmsan
+da	da	Cs
+iz	iz	Sg
+spisa	spis	Ncmsg
+koji	koji	Pi-msn
+se	sebe	Px--sa
+razdvaja	razdvajati	Vmr3s
+ili	ili	Cc
+iz	iz	Sg
+kojeg	koji	Pi-msg
+se	sebe	Px--sa
+dio	dio	Ncmsn
+izdvaja	izdvajati	Vmr3s
+podatke	podatak	Ncmpa
+o	o	Sl
+strankama	stranka	Ncfpl
+i	i	Cc
+drugim	drugi	Mlompi
+sudionicima	sudionik	Ncmpi
+te	te	Cc
+podneske	podnesak	Ncmpa
+i	i	Cc
+odluke	odluka	Ncfpa
+navedene	navesti	Appfpny
+u	u	Sl
+dostavnoj	dostavni	Agpfsly
+naredbi	naredba	Ncfsl
+prenese	prenijeti	Vmr3s
+ili	ili	Cc
+preslika	preslika	Ncfsn
+u	u	Sa
+spis	spis	Ncmsan
+koji	koji	Pi-msn
+se	sebe	Px--sa
+osniva	osnivati	Vmr3s
+razdvajanjem	razdvajanje	Ncnsi
+ili	ili	Cc
+izdvajanjem	izdvajanje	Ncnsi
+.	.	Z
+
+XVIII	xviii	Mrc
+.	.	Z
+
+RAD	rad	Ncmsn
+U	u	Sl
+REFERADAMA	referada	Ncfpl
+
+Članak	članak	Ncmsn
+90.	90.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Za	za	Sa
+naredbe	naredba	Ncfpa
+i	i	Cc
+rješenja	rješenje	Ncnpa
+o	o	Sl
+određivanju	određivanje	Ncnsl
+rasprave	rasprava	Ncfsg
+i	i	Cc
+ročišta	ročište	Ncnsg
+odnosno	odnosno	Rgp
+o	o	Sl
+provođenju	provođenje	Ncnsl
+neke	neki	Pi-fsg
+druge	drugi	Agpfsgy
+sudske	sudski	Agpfsgy
+radnje	radnja	Ncfsg
+koristit	koristiti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+odgovarajuće	odgovarajući	Agpfpny
+funkcije	funkcija	Ncfpn
+sustava	sustav	Ncmsg
+eSpis	eSpis	Npmsn
+te	te	Cc
+će	htjeti	Var3s
+se	sebe	Px--sa
+unijeti	unijeti	Vmn
+podaci	podatak	Ncmpn
+o	o	Sl
+osobama	osoba	Ncfpl
+koje	koji	Pi-fpa
+treba	trebati	Vmr3s
+pozvati	pozvati	Vmn
+,	,	Z
+vremenu	vrijeme	Ncnsl
+sudske	sudski	Agpfsgy
+radnje	radnja	Ncfsg
+,	,	Z
+dostavi	dostava	Ncfsl
+poziva	pozivati	Vmr3s
+i	i	Cc
+slično	sličan	Agpnsay
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Upisivanje	upisivanje	Ncnsn
+sudske	sudski	Agpfsgy
+radnje	radnja	Ncfsg
+,	,	Z
+dodavanje	dodavanje	Ncnsn
+sudionika	sudionik	Ncmpg
+te	te	Cc
+priprema	priprema	Ncfpg
+poziva	pozivati	Vmr3s
+obavlja	obavljati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+referadi	referada	Ncfsl
+unosom	unos	Ncmsi
+podataka	podatak	Ncmpg
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+91.	91.	Mdo
+
+Podaci	podatak	Ncmpn
+o	o	Sl
+pozivanju	pozivanje	Ncnsl
+stranaka	stranka	Ncfpg
+i	i	Cc
+ostalih	ostali	Agpmpgy
+sudionika	sudionik	Ncmpg
+postupka	postupak	Ncmsg
+unose	unositi	Vmr3p
+se	sebe	Px--sa
+u	u	Sa
+sustav	sustav	Ncmsan
+eSpis	eSpis	Npmsn
+u	u	Sl
+referadi	referada	Ncfsl
+rješavatelja	rješavatelj	Ncmpg
+.	.	Z
+
+Članak	članak	Ncmsn
+92.	92.	Mdo
+
+Spisi	spis	Ncmpn
+u	u	Sl
+kojima	koji	Pi-mpl
+su	biti	Var3p
+određene	određen	Agpfpny
+rasprave	rasprava	Ncfpn
+ili	ili	Cc
+ročišta	ročište	Ncnsg
+automatski	automatski	Rgp
+

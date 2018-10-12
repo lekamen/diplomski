@@ -1,0 +1,53 @@
+Odluka	odluka	Ncfsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/486	04/486	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+04/04	04/04	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+OBRAZAC	obrazac	Ncmsn
+

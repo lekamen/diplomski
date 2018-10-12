@@ -1,0 +1,125 @@
+22	22	Mdc
+11.03.2016	11.03.2016	Mdc
+Prosječna	prosječan	Agpfsny
+mjesečna	mjesečan	Agpfsny
+isplaćena	isplatiti	Appfsny
+neto	neto	Agpfsny
+i	i	Cc
+bruto	bruto	Agpfpgy
+plaća	plaća	Ncfpg
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+za	za	Sa
+2015.	2015.	Mdo
+
+DRŽAVNI	državni	Agpmsny
+ZAVOD	zavod	Ncmsn
+ZA	za	Sa
+STATISTIKU	statistika	Ncfsa
+
+613	613	Mdc
+
+Državni	državni	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+statistiku	statistika	Ncfsa
+objavljuje	objavljivati	Vmr3s
+
+PROSJEČNU	prosječan	Agpfsay
+MJESEČNU	mjesečan	Agpfsay
+ISPLAĆENU	isplatiti	Appfsay
+NETO-PLAĆU	NETO-PLAĆ	Npmsd
+PO	po	Sl
+ZAPOSLENOME	zaposlen	Ncmsl
+U	u	Sl
+PRAVNIM	pravni	Agpfply
+OSOBAMA	osoba	Ncfpl
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+ZA	za	Sa
+2015.	2015.	Mdo
+
+Prosječna	prosječan	Agpfsny
+mjesečna	mjesečan	Agpfsny
+isplaćena	isplatiti	Appfsny
+neto-plaća	neto-plaća	Ncfsn
+po	po	Sl
+zaposlenome	zaposlen	Agpmsly
+u	u	Sl
+pravnim	pravni	Agpfply
+osobama	osoba	Ncfpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+2015.	2015.	Mdo
+iznosila	iznositi	Vmp-sf
+je	biti	Var3s
+5.711	5.711	Mdc
+kuna	kuna	Ncfpg
+.	.	Z
+
+PROSJEČNU	prosječan	Agpfsay
+MJESEČNU	mjesečan	Agpfsay
+BRUTO-PLAĆU	bruto-plaća	Ncfsa
+PO	po	Sl
+ZAPOSLENOME	zaposlen	Ncmsl
+U	u	Sl
+PRAVNIM	pravni	Agpfply
+OSOBAMA	osoba	Ncfpl
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+ZA	za	Sa
+2015.	2015.	Mdo
+
+Prosječna	prosječan	Agpfsny
+mjesečna	mjesečan	Agpfsny
+bruto-plaća	bruto-plaća	Ncfsn
+po	po	Sl
+zaposlenome	zaposlen	Agpmsly
+u	u	Sl
+pravnim	pravni	Agpfply
+osobama	osoba	Ncfpl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+2015.	2015.	Mdo
+iznosila	iznositi	Vmp-sf
+je	biti	Var3s
+8.055	8.055	Mdc
+kuna	kuna	Ncfpg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+953	953	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+01/1	01/1	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+555	555	Mdc
+-	-	Z
+08	08	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+4.	4.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Ravnatelj	ravnatelj	Ncmsn
+Marko	Marko	Npmsn
+Krištof	Krištof	Npmsn
+,	,	Z
+v.	v.	Mro
+r.	r.	Y
+

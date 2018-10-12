@@ -1,0 +1,299 @@
+vodostaju	vodostaj	Ncmsl
+i	i	Cc
+drugim	drugi	Mlofpl
+otežanim	otežati	Agpfply
+prigodama	prigoda	Ncfpl
+3.2.	3.2a	Ncfsg
+
+SIGURNOST	sigurnost	Ncfsn
+PLOVIDBE	plovidba	Ncfsg
+3.2.1.	3.2.1.	Mdo
+
+Pravila	pravilo	Ncnpn
+o	o	Sl
+izbjegavanju	izbjegavanje	Ncnsl
+sudara	sudar	Ncmsg
+,	,	Z
+međusobno	međusoban	Agpnsay
+izbjegavanje	izbjegavanje	Ncnsa
+brodova	brod	Ncmpg
+i	i	Cc
+čamaca	čamac	Ncmpg
+3.2.2.	3.2.2.	Mdo
+
+Plima	plima	Ncfsn
+i	i	Cc
+oseka	oseka	Ncfsn
+,	,	Z
+morski	morski	Agpmpny
+vjetrovni	vjetrovni	Agpmpny
+valovi	val	Ncmpn
+;	;	Z
+mrtvo	mrtav	Agpnsny
+more	more	Ncnsn
+;	;	Z
+utjecaj	utjecaj	Ncmsn
+plitke	plitak	Agpfsgy
+vode	voda	Ncfsg
+;	;	Z
+morska	morski	Agpnsay
+doba	doba	Ncnsa
+3.2.3.	3.2.3a	Ncfsg
+
+Svijetla	svijetao	Agpfsny
+na	na	Sl
+čamcima	čamac	Ncmpl
+i	i	Cc
+brodovima	brod	Ncmpl
+3.2.4.	3.2.4.	Mdo
+
+Dnevni	dnevni	Agpmpny
+znakovi	znak	Ncmpn
+3.2.5.	3.2.5.	Mds
+
+Zvučni	zvučan	Agpmpny
+signali	signal	Ncmpn
+3.2.6.	3.2.6.	Mds
+
+Poznavanje	poznavanje	Ncnsn
+postupaka	postupak	Ncmpg
+u	u	Sl
+slučaju	slučaj	Ncmsl
+opasnosti	opasnost	Ncfsg
+postupak	postupak	Ncmsn
+u	u	Sl
+slučaju	slučaj	Ncmsl
+nezgode	nezgoda	Ncfsg
+–	–	Z
+sudara	sudar	Ncmsg
+,	,	Z
+nasukanja	nasukanje	Ncnsg
+,	,	Z
+prodora	prodor	Ncmsg
+vode	voda	Ncfsg
+,	,	Z
+požara	požar	Ncmsg
+i	i	Cc
+pada	padati	Vmr3s
+osobe	osoba	Ncfpa
+u	u	Sa
+vodu	voda	Ncfsa
+3.2.7.	3.2.7a	Ncfsg
+
+Preživljavanje	preživljavanje	Ncnsn
+na	na	Sl
+moru	more	Ncnsl
+–	–	Z
+postupci	postupak	Ncmpn
+u	u	Sl
+splavima	spl	Ncmpl
+i	i	Cc
+brodicama	brodica	Ncfpl
+za	za	Sa
+spašavanje	spašavanje	Ncnsa
+3.2.8.	3.2.8a	Ncfsg
+
+Suradnja	suradnja	Ncfsn
+sa	sa	Si
+SAR	s	Agpfpiy
+službama	služba	Ncfpi
+,	,	Z
+RIS	ris	Ncmsn
+,	,	Z
+riječne	riječni	Agpfsgy
+navigacijske	navigacijski	Agpfsgy
+karte	karta	Ncfsg
+3.2.9.	3.2.9.	Mds
+
+Signali	signal	Ncmpn
+opasnosti	opasnost	Ncfsg
+3.3	3.3	Mdc
+PRVA	prvi	Mlofsn
+POMOĆ	pomoć	Ncfsn
+3.3.1.	3.3.1.	Mds
+
+Pružanje	pružanje	Ncnsn
+prve	prvi	Mlofsg
+pomoći	pomoć	Ncfsg
+3.3.2.	3.3.2a	Ncfsg
+
+Sredstva	sredstvo	Ncnpn
+za	za	Sa
+pružanje	pružanje	Ncnsa
+prve	prvi	Mlofsg
+pomoći	pomoć	Ncfsg
+3.3.3.	3.3.3a	Ncfsg
+
+Izvori	izvor	Ncmpn
+povreda	povreda	Ncfpg
+na	na	Sl
+čamcu	čamac	Ncmsl
+3.3.4.	3.3.4.	Mdo
+
+Umjetno	umjetan	Agpnsny
+disanje	disanje	Ncnsn
+3.3.5.	3.3.5a	Ncfsg
+
+Pružanje	pružanje	Ncnsn
+prve	prvi	Mlofsg
+pomoći	pomoć	Ncfsg
+u	u	Sl
+slučaju	slučaj	Ncmsl
+hipotermije	hipotermija	Ncfsg
+,	,	Z
+smrzavanja	smrzavanje	Ncnsg
+i	i	Cc
+visokih	visok	Agpfpgy
+atmosferskih	atmosferski	Agpfpgy
+temperatura	temperatura	Ncfpg
+
+4	4	Mdc
+POMORSKA	pomorski	Agpfsny
+I	i	Cc
+UNUTARNJA	unutarnji	Agpfsny
+PLOVIDBA	plovidba	Ncfsn
+(	(	Z
+NAVIGACIJA	navigacija	Ncfsn
+)	)	Z
+4.1.	4.1.	Mds
+
+Pomorska	pomorski	Agpfsny
+karta	karta	Ncfsn
+,	,	Z
+općenito	preopćenito	Rgp
+(	(	Z
+vrste	vrsta	Ncfsg
+,	,	Z
+sadržaj	sadržaj	Ncmsn
+karte	karta	Ncfsg
+,	,	Z
+katalozi	katalog	Ncmpn
+karata	karat	Ncmpg
+,	,	Z
+mjerila	mjerilo	Ncnsg
+)	)	Z
+4.1.1.	4.1.1.	Mds
+
+Čitanje	čitanje	Ncnsn
+karata	karat	Ncmpg
+,	,	Z
+oznake	oznaka	Ncfsg
+i	i	Cc
+skraćenice	skraćenica	Ncfsg
+4.1.2.	4.1.2.	Mdo
+
+Određivanje	određivanje	Ncnsn
+kurseva	kurs	Ncmpg
+i	i	Cc
+azimuta	azimut	Ncmsg
+4.1.3.	4.1.3.	Mdo
+
+Mjerenje	mjerenje	Ncnsn
+udaljenosti	udaljenost	Ncfsg
+na	na	Sl
+kartama	karta	Ncfpl
+4.1.4.	4.1.	Agpfply
+
+Plovni	plovan	Agpmpny
+putovi	put	Ncmpn
+i	i	Cc
+balisaža	balisaž	Ncmpg
+,	,	Z
+IALA	iati	Vmp-sf
+sustav	sustav	Ncmsan
+4.1.5.	4.1.5.	Mds
+
+Ucrtavanje	ucrtavanje	Ncnsn
+točke	točka	Ncfsg
+broda	brod	Ncmsg
+4.2.	4.2.	Mdo
+
+Osnove	osnova	Ncfpn
+terestičke	terestički	Agpfsgy
+navigacije	navigacija	Ncfsg
+4.2.1.	4.2.1.	Mds
+
+Istovremeno	istovremen	Agpnsny
+opažanje	opažanje	Ncnsn
+,	,	Z
+4.2.2.	4.2.2.	Mds
+
+Opažanje	opažanje	Ncnsn
+u	u	Sl
+razmaku	razmak	Ncmsl
+vremena	vrijeme	Ncnsg
+4.2.3.	4.2.3.	Mds
+
+Zbrojena	zbrojiti	Appfsny
+i	i	Cc
+procijenjena	procijeniti	Appfsny
+pozicija	pozicija	Ncfsn
+4.3.	4.3.	Mds
+
+Priručnici	priručnik	Ncmpn
+za	za	Sa
+navigaciju	navigacija	Ncfsa
+4.3.1.	4.3.1.	Mds
+
+Peljari	peljar	Ncmpn
+4.3.2.	4.3.2.	Mds
+
+Popisi	popis	Ncmpn
+svjetionika	svjetionik	Ncmsg
+4.4.	4.4.	Mds
+
+Kompas	kompas	Ncmsn
+,	,	Z
+upotreba	upotreba	Ncfsn
+,	,	Z
+održavanje	održavanje	Ncnsn
+,	,	Z
+pogreške	pogreška	Ncfsg
+i	i	Cc
+njihovo	njihov	Ps3nsa
+otklanjanje	otklanjanje	Ncnsa
+4.5.	4.5a	Ncfsg
+
+Upotreba	upotreba	Ncfsn
+elektronskih	elektronski	Agpnpgy
+pomagala	pomagalo	Ncnpg
+na	na	Sl
+čamcu	čamac	Ncmsl
+i	i	Cc
+brodici	brodica	Ncfsl
+4.5.1.	4.5.1.	Mdo
+
+Radar	radar	Ncmsn
+,	,	Z
+princip	princip	Ncmsn
+rada	rad	Ncmsg
+,	,	Z
+mjerenje	mjerenje	Ncnsa
+udaljenosti	udaljenost	Ncfsg
+i	i	Cc
+kuta	kut	Ncmsg
+radarom	radar	Ncmsi
+,	,	Z
+4.5.2.	4.5.2.	Mds
+
+Dubinomjeri	dubinomjer	Ncmpn
+,	,	Z
+vrste	vrsta	Ncfpn
+,	,	Z
+principi	princip	Ncmpn
+rada	rad	Ncmsg
+,	,	Z
+pogreške	pogreška	Ncfsg
+;	;	Z
+4.5.3.	4.5.3.	Mdo
+
+Brzinomjeri	brzinomjer	Ncmpn
+:	:	Z
+vrste	vrsta	Ncfpn
+,	,	Z
+principi	princip	Ncmpn
+rada	rad	Ncmsg
+,	,	Z
+pogreške	pogreška	Ncfsg
+;	;	Z
+

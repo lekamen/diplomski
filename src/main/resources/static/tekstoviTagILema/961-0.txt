@@ -1,0 +1,118 @@
+49	49	Mdc
+06.05.2015	06.05.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+članice	članica	Ncfsg
+Skupštine	skupština	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+lutrije	lutrija	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+962	962	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+150/2011	150/2011	Mdc
+i	i	Cc
+119/2014	119/2014	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Izjave	izjava	Ncfsg
+društva	društvo	Ncnsg
+s	sa	Si
+ograničenom	ograničiti	Agpfsiy
+odgovornošću	odgovornost	Ncfsi
+Hrvatska	hrvatski	Agpfsny
+Lutrija	lutrija	Ncfsn
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+30.	30.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+ČLANICE	članica	Ncfsg
+SKUPŠTINE	skupština	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+LUTRIJE	lutrija	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+ANDREA	ANDRE	Npmsg
+ZLATAR	zlatar	Ncmsn
+VIOLIĆ	Violić	Npmsn
+dužnosti	dužnost	Ncfsg
+članice	članica	Ncfsg
+Skupštine	skupština	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+Lutrije	lutrija	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+02/65	02/65	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+30.	30.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

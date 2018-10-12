@@ -1,0 +1,72 @@
+111	111	Mdc
+14.10.2015	14.10.2015	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+načinu	način	Ncmsl
+osiguravanja	osiguravanje	Ncnsg
+prometa	promet	Ncmsg
+na	na	Sl
+željez­ničko-cestovnim	željez­ničko-cestovan	Agpmply
+prijelazima	prijelaz	Ncmpl
+i	i	Cc
+pješačkim	pješački	Agpmply
+prijelazima	prijelaz	Ncmpl
+preko	preko	Sg
+pruge	pruga	Ncfsg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POMORSTVA	pomorstvo	Ncnsg
+,	,	Z
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+
+2145	2145	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+83.	83.	Mdo
+stavka	stavak	Ncmsg
+10.	10.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+sigurnosti	sigurnost	Ncfsl
+i	i	Cc
+interoperabilnosti	interoperabilnost	Ncfsl
+željezničkog	željeznički	Agpmsgy
+sustava	sustav	Ncmsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+82/2013	82/2013	Mds
+,	,	Z
+18/2015	18/2015	Mds
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+O	o	Sl
+NAČINU	način	Ncmsl
+OSIGURAVANJA	osiguravanje	Ncnsg
+PROMETA	promet	Ncmsg
+NA	na	Sl
+ŽELJEZNIČKO-CESTOVNIM	željezničko-cestovn	Agpmply
+PRIJELAZIMA	prijelaz	Ncmpl
+I	i	Cc
+PJEŠAČKIM	pješački	Agpmply
+PRIJELAZIMA	prijelaz	Ncmpl
+PREKO	preko	Sg
+PRUGE	pruga	Ncfsg
+

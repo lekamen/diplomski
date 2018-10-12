@@ -1,0 +1,114 @@
+9	9	Mdc
+27.01.2016	27.01.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+voditelja	voditelj	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Izaslanstva	izaslanstvo	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+212	212	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+VODITELJA	voditelj	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+IZASLANSTVA	izaslanstvo	Ncnsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+U	u	Sl
+PARLAMENTARNOJ	parlamentaran	Agpfsly
+SKUPŠTINI	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+
+I.	I.	Y
+
+U	u	Sa
+Izaslanstvo	izaslanstvo	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+voditelja	voditelj	Ncmsay
+
+DAMIR	Damir	Npmsn
+KRSTIČEVIĆ	KRSTIČEVIĆ	Npmsn
+
+za	za	Sa
+članove	član	Ncmpa
+
+ŽELJKO	Željko	Npmsn
+GLASNOVIĆ	GLASNOVIĆ	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+MIROSLAV	MIROSLAV	Npmsn
+TUĐMAN	TUĐMAN	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+04/04	04/04	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

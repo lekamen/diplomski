@@ -1,0 +1,39 @@
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+400	400	Mdc
+-	-	Z
+06/14	06/14	Mdc
+-	-	Z
+01/301	01/301	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+513	513	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+7	7	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+prosinca	prosinac	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+financija	financije	Ncfpg
+mr.	mr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Lalovac	Lalovac	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

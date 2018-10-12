@@ -1,0 +1,55 @@
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/09	01/09	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+513	513	Mdc
+-	-	Z
+07	07	Mdc
+-	-	Z
+21	21	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01	01	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+12.	12.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+financija	financije	Ncfpg
+mr.	mr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Lalovac	Lalovac	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

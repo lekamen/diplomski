@@ -1,0 +1,55 @@
+odlučiti	odlučiti	Vmn
+kao	kao	Cs
+u	u	Sl
+točki	točka	Ncfsl
+I.	I.	Mro
+izreke	izreka	Ncfsg
+.	.	Z
+
+Odluka	odluka	Ncfsn
+o	o	Sl
+objavi	objava	Ncfsl
+presude	presuda	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+(	(	Z
+točka	točka	Ncfsn
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+14.	14.	Mdo
+stavku	stavak	Ncmsl
+8.	8.	Mdo
+ZEK-a	zek-	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+UsII-12	UsII-12	Mds
+/	/	Z
+12	12	Mdc
+-	-	Z
+10	10	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+vijeća	vijeće	Ncnsg
+Sanja	sanjati	Vmr3s
+Otočan	Otočan	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

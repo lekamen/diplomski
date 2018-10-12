@@ -1,0 +1,75 @@
+Etički	etički	Agpmsny
+kodeks	kodeks	Ncmsn
+.	.	Z
+
+Glavni	glavni	Agpmsny
+odbor	odbor	Ncmsn
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+održavanja	održavanje	Ncnsg
+osnivačke	osnivački	Agpfsgy
+Skupštine	skupština	Ncfsg
+imenovat	imenovati	Vmn
+će	htjeti	Var3s
+Tajnika	tajnik	Ncmsay
+stranke	stranka	Ncfsg
+.	.	Z
+
+Glavni	glavni	Agpmsny
+odbor	odbor	Ncmsn
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+održavanja	održavanje	Ncnsg
+osnivačke	osnivački	Agpfsgy
+Skupštine	skupština	Ncfsg
+imenovat	imenovati	Vmn
+će	htjeti	Var3s
+Disciplinski	disciplinski	Agpmsny
+odbor	odbor	Ncmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+006	006	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/1	01/1	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+515	515	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+01/4	01/4	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+3	3	Mdc
+
+Primošten	Primošten	Npmsn
+,	,	Z
+27.	27.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Stipe	Stipa	Npfsg
+Petrina	Petrina	Npfsn
+,	,	Z
+v.	v.	Mro
+r.	r.	Y
+

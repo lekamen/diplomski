@@ -1,0 +1,74 @@
+99/99.	99/99.	Mdo
+,	,	Z
+29/02.	29/02.	Mds
+i	i	Cc
+49/02.	49/02.	Mdo
+–	–	Z
+pročišćeni	pročišćen	Agpmsny
+tekst	tekst	Ncmsn
+)	)	Z
+,	,	Z
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+izreci	izreka	Ncfsl
+odluke	odluka	Ncfsg
+(	(	Z
+točke	točka	Ncfpn
+I.	I.	Mro
+,	,	Z
+II	ii	Mrc
+.	.	Z
+i	i	Cc
+III	III	Ncfsl
+.	.	Z
+)	)	Z
+.	.	Z
+
+Objava	objava	Ncfsn
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+(	(	Z
+točka	točka	Ncfsn
+IV	IV	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-2752	U-III-2752	X
+/	/	Z
+2013	2013	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+listopada	listopad	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

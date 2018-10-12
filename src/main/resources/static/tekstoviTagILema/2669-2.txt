@@ -1,0 +1,50 @@
+stavka	stavka	Ncfsn
+1.	1.	Mdo
+ZUS-a	ZUS	Npmsg
+odlučio	odlučiti	Vmp-sm
+kao	kao	Cs
+u	u	Sl
+izreci	izreka	Ncfsl
+.	.	Z
+
+Odluka	odluka	Ncfsn
+o	o	Sl
+objavi	objava	Ncfsl
+presude	presuda	Ncfsg
+(	(	Z
+točka	točka	Ncfsn
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+14.	14.	Mdo
+stavku	stavak	Ncmsl
+8.	8.	Mdo
+ZEK-a	zek-	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+UsII-8	usii-8	Ncmsn
+/	/	Z
+12	12	Mdc
+-	-	Z
+10	10	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+prosinca	prosinac	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+vijeća	vijeće	Ncnsg
+Fedora	Fedora	Npfsn
+Lovričević-Stojanović	Lovričević-Stojanović	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

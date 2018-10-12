@@ -1,0 +1,45 @@
+Ukor	ukor	Ncmsn
+Smanjenje	smanjenje	Ncnsn
+plaće	plaća	Ncfsg
+od	od	Sg
+5	5	Mdc
+%	%	Z
+do	do	Sg
+20	20	Mdc
+%	%	Z
+u	u	Sl
+trajanju	trajanje	Ncnsl
+od	od	Sg
+jednog	jedan	Mlcmsg
+do	do	Sg
+tri	tri	Mlc
+mjeseca	mjesec	Ncmsg
+UKUPNO	ukupno	Rgp
+:	:	Z
+ročnik	ročnik	Ncmsn
+kadet	kadet	Ncmsn
+pričuvnik	pričuvnik	Ncmsn
+djel	djelti	Vmr3s
+.	.	Z
+vojnik	vojnik	Ncmsn
+/	/	Z
+mornar	mornar	Ncmsn
+djelatni	djelatan	Agpmsny
+dočasnik	dočasnik	Ncmsn
+djelatni	djelatan	Agpmsny
+časnik	časnik	Ncmsn
+general	general	Ncmsn
+/	/	Z
+admiral	admiral	Ncmsn
+UKUPNO	ukupan	Agpnsny
+:	:	Z
+
+M.	M.	Y
+P.	P.	Y
+
+OVLAŠTENA	ovlastiti	Appfsny
+OSOBA	osoba	Ncfsn
+:	:	Z
+
+.........................................	.........................................	Z
+

@@ -1,0 +1,23 @@
+pristupnom	pristupni	Agpmsly
+putu	put	Ncmsl
+.	.	Z
+
+PRIMJER	primjer	Ncmsn
+SADRŽAJA	sadržaj	Ncmsg
+INFORMATIVNE	informativan	Agpfsgy
+PLOČE	ploča	Ncfsg
+(	(	Z
+metalna	metalan	Agpfsny
+ploča	ploča	Ncfsn
+ili	ili	Cc
+plastična	plastičan	Agpfsny
+ploča	ploča	Ncfsn
+;	;	Z
+dimenzija	dimenzija	Ncfsn
+0,42	0,42	Mdc
+x	X	X
+0,297	0,297	Mdc
+m	m	Y
+)	)	Z
+.	.	Z
+

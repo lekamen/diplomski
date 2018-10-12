@@ -1,0 +1,117 @@
+141	141	Agpmsny
+31.12.2015	31.12.2015	Agpmsny
+Izvadak	izvadak	Ncmsn
+iz	iz	Sg
+Odluke	odluka	Ncfsg
+o	o	Sl
+plaćanju	plaćanje	Ncnsl
+doprinosa	doprinos	Ncmsg
+u	u	Sl
+paušalnom	paušalan	Agpmsly
+iznosu	iznos	Ncmsl
+udruženjima	udruženje	Ncnpl
+obrtnika	obrtnik	Ncmpg
+,	,	Z
+područnim	područni	Agpfpiy
+obrtničkim	obrtnički	Agpfpiy
+komorama	komora	Ncfpi
+i	i	Cc
+Hrvatskoj	Hrvatska	Npfsl
+obrtničkoj	obrtnički	Agpfsly
+komori	komora	Ncfsl
+za	za	Sa
+2016.	2016.	Mdo
+godinu	godina	Ncfsa
+
+HRVATSKA	hrvatski	Agpfsny
+OBRTNIČKA	obrtnički	Agpfsny
+KOMORA	komora	Ncfsn
+
+2649	2649	Mdc
+
+IZVADAK	izvadak	Ncmsn
+
+IZ	iz	Sg
+ODLUKE	odluka	Ncfsg
+O	o	Sl
+PLAĆANJU	plaćanje	Ncnsl
+DOPRINOSA	doprinos	Ncmsg
+U	u	Sl
+PAUŠALNOM	paušalan	Agpmsly
+IZNOSU	iznos	Ncmsl
+UDRUŽENJIMA	udruženje	Ncnpl
+OBRTNIKA	obrtnik	Ncmpg
+,	,	Z
+PODRUČNIM	područni	Agpfpiy
+OBRTNIČKIM	obrtnički	Agpfpiy
+KOMORAMA	komora	Ncfpi
+I	i	Cc
+HRVATSKOJ	Hrvatska	Npfsl
+OBRTNIČKOJ	obrtnički	Agpfsly
+KOMORI	komora	Ncfsl
+ZA	za	Sa
+2016.	2016.	Mdo
+
+GODINU	godina	Ncfsa
+
+Redni	redni	Agpmsny
+broj	broj	Ncmsn
+Visina	visina	Ncfsn
+doprinosa	doprinos	Ncmpg
+u	u	Sl
+paušalnom	paušalan	Agpmsly
+iznosu	iznos	Ncmsl
+Ukupno	ukupno	Rgp
+mjesečno	mjesečno	Rgp
+kuna	kuna	Ncfpg
+2	2	Mdc
++	+	Z
+3	3	Mdc
++	+	Z
+4	4	Mdc
+Udruženja	udruženje	Ncnsg
+obrtnika	obrtnik	Ncmpg
+Područna	područni	Agpfsny
+obrtnička	obrtnički	Agpfsny
+komora	komora	Ncfsn
+Hrvatska	hrvatski	Agpfsny
+obrtnička	obrtnički	Agpfsny
+komora	komora	Ncfsn
+1	1	Mdc
+2	2	Mdc
+3	3	Mdc
+4	4	Mdc
+5	5	Mdc
+27,18	27,18	Mdc
+13	13	Mdc
+11,82	11,82	Mdc
+52	52	Mdc
+
+Broj	broj	Ncmsn
+:	:	Z
+11	11	Mdc
+-	-	Z
+986	986	Mdc
+-	-	Z
+7564	7564	Mdc
+-	-	Z
+115	115	Mdc
+-	-	Z
+2015	2015	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+30.	30.	Mdo
+prosinca	prosinac	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+obrtničke	obrtnički	Agpfsgy
+komore	komora	Ncfsg
+Dragutin	Dragutin	Npmsn
+Ranogajec	Ranogajec	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

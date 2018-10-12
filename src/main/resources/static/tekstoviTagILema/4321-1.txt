@@ -1,0 +1,74 @@
+osigurana	osigurati	Appnpny
+su	biti	Var3p
+na	na	Sl
+proračunskim	proračunski	Agpfply
+stavkama	stavka	Ncfpl
+Ministarstva	ministarstvo	Ncnsg
+uprave	uprava	Ncfsg
+za	za	Sa
+2016.	2016.	Mdo
+godinu	godina	Ncfsa
+te	te	Cc
+će	htjeti	Var3s
+se	sebe	Px--sa
+osigurati	osigurati	Vmn
+za	za	Sa
+2017.	2017.	Mdo
+i	i	Cc
+2018.	2018.	Mdo
+godinu	godina	Ncfsa
+.	.	Z
+
+XI	xi	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+04/225	04/225	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/09	09/09	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

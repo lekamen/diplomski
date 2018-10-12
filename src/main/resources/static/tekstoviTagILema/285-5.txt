@@ -1,0 +1,29 @@
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+JVP-DEC-IZVJEŠĆE	JVP-DEC-IZVJEŠĆE	Npmsn
+JVP	JVP	Npmsn
+–	–	Z
+FINANCIRANJE	financiranje	Ncnsn
+IZVAN	izvan	Sg
+MINIMALNOG	minimalan	Agpmsgy
+STANDARDA	standard	Ncmsg
+

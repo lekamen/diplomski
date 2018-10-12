@@ -1,0 +1,95 @@
+stavak	stavak	Ncmsn
+6.	6.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+(	(	Z
+6	6	Mdc
+)	)	Z
+Sudac	sudac	Ncmsn
+za	za	Sa
+mladež	mladež	Ncfsa
+općinskog	općinski	Agpmsgy
+suda	sud	Ncmsg
+sudi	suditi	Vmr3s
+kao	kao	Cs
+sudac	sudac	Ncmsn
+pojedinac	pojedinac	Ncmsn
+za	za	Sa
+kaznena	kazneni	Agpnpay
+djela	djelo	Ncnpa
+za	za	Sa
+koja	koji	Pi-npn
+je	biti	Var3s
+propisana	propisati	Appfsny
+kao	kao	Cs
+glavna	glavni	Agpfsny
+kazna	kazna	Ncfsn
+novčana	novčan	Agpfsny
+kazna	kazna	Ncfsn
+ili	ili	Cc
+kazna	kazna	Ncfsn
+zatvora	zatvor	Ncmsg
+do	do	Sg
+pet	pet	Mlc
+godina	godina	Ncfpg
+,	,	Z
+te	te	Cc
+u	u	Sl
+postupku	postupak	Ncmsl
+za	za	Sa
+izdavanje	izdavanje	Ncnsa
+kaznenog	kazneni	Agpmsgy
+naloga	nalog	Ncmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Zakon	zakon	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/14	03/14	Mdc
+-	-	Z
+01/136	01/136	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

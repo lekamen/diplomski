@@ -1,0 +1,83 @@
+KOŠČEC	KOŠČEC	Npmsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+udruga	udruga	Ncfsn
+mladih	mlad	Agpmpgy
+i	i	Cc
+za	za	Sa
+mlade	mlad	Agpmpay
+
+–	–	Npmsn
+SVEN	SVEN	Npmsn
+JANOVSKI	JANOVSKI	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+udruga	udruga	Ncfsn
+mladih	mlad	Agpmpgy
+i	i	Cc
+za	za	Sa
+mlade	mlad	Agpmpay
+
+–		Agpmpgy
+JELENA	jelen	Ncmpg
+PERAK	perak	Ncmsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+udruga	udruga	Ncfsn
+mladih	mlad	Agpmpgy
+i	i	Cc
+za	za	Sa
+mlade	mlad	Agpmpay
+
+–	–	Npfsn
+ANJA	Anja	Npfsn
+BULOG	BULOG	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+udruga	udruga	Ncfsn
+mladih	mlad	Agpmpgy
+i	i	Cc
+za	za	Sa
+mlade	mlad	Agpmpay
+.	.	Z
+
+4.	4.	Mdo
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+ZRINKA	ZRINKA	Npfsn
+MIKOLIĆ	MIKOLIĆ	Npfsn
+tajnicom	tajnica	Ncfsi
+Savjeta	savjet	Ncmsg
+za	za	Sa
+mlade	mlad	Agpmpay
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+01/102	01/102	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

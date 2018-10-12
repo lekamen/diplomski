@@ -1,0 +1,649 @@
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Vojnić	Vojnić	Npmsn
+52	52	Mdc
+7.6.7.	7.6.7.	Y
+
+Postaja	postaja	Ncfsn
+prometne	prometan	Agpfsgy
+policije	policija	Ncfsg
+Karlovac	Karlovac	Npmsn
+70	70	Mdc
+7.6.8.	7.6.8.	Y
+
+Postaja	postaja	Ncfsn
+granične	graničan	Agpfsgy
+policije	policija	Ncfsg
+Maljevac	Maljevac	Npmsn
+184	184	Mdc
+7.7.	7.7.	Mds
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpmpgy
+,	,	Z
+financijskih	financijski	Agpfpgy
+i	i	Cc
+tehničkih	tehnički	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+7.7.1.	7.7.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+ljudske	ljudski	Agpmpay
+potencijale	potencijal	Ncmpa
+7	7	Mdc
+7.7.2.	7.7.2.	Mdo
+
+Odjel	odjel	Ncmsn
+materijalno-financijskih	materijalno-financijski	Agpmpgy
+poslova	posao	Ncmpg
+53	53	Mdc
+7.7.3.	7.7.3.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+tehniku	tehnika	Ncfsa
+19	19	Mdc
+7.8.	7.8.	Mds
+
+Služba	služba	Ncfsn
+upravnih	upravan	Agpfpgy
+i	i	Cc
+inspekcijskih	inspekcijski	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+7	7	Mdc
+7.8.1.	7.8.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravne	upravan	Agpmpay
+poslove	posao	Ncmpa
+11	11	Mdc
+7.8.2.	7.8.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+državljanstvo	državljanstvo	Ncnsa
+i	i	Cc
+statusna	statusni	Agpnpay
+pitanja	pitanje	Ncnpa
+stranaca	stranac	Ncmpg
+4	4	Mdc
+7.8.3.	7.8.3.	Y
+
+Inspektorat	inspektorat	Ncmsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+6	6	Mdc
+Policijska	policijski	Agpfsny
+uprava	uprava	Ncfsn
+karlovačka	karlovački	Agpfsny
+–	–	Z
+ukupno	ukupno	Rgp
+1204	1204	Mdc
+8.	8.	Mdo
+POLICIJSKA	policijski	Agpfsny
+UPRAVA	uprava	Ncfsn
+SISAČKO-MOSLAVAČKA	sisačko-moslavački	Agpfsny
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Policijskoj	policijski	Agpfsly
+upravi	uprava	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+2	2	Mdc
+8.1.	8.1.	Mdo
+
+Ured	ured	Ncmsn
+načelnika	načelnik	Ncmsg
+Policijske	policijski	Agpfsgy
+uprave	uprava	Ncfsg
+12	12	Mdc
+8.2.	8.2.	Mdo
+
+Operativno-komunikacijski	operativno-komunikacijski	Agpmsny
+centar	centar	Ncmsn
+policije	policija	Ncfsg
+16	16	Mdc
+8.3.	8.3.	Mdo
+
+Služba	služba	Ncfsn
+policije	policija	Ncfsg
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+4	4	Mdc
+8.3.1.	8.3.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+javni	javan	Agpmsayn
+red	red	Ncmsan
+12	12	Mdc
+8.3.2.	8.3.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+sigurnost	sigurnost	Ncfsa
+cestovnog	cestovan	Agpmsgy
+prometa	promet	Ncmsg
+5	5	Mdc
+8.3.3.	8.3.3a	Ncfsg
+
+Interventna	interventni	Agpfsny
+jedinica	jedinica	Ncfsn
+policije	policija	Ncfsg
+75	75	Mdc
+8.4.	8.4.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+granicu	granica	Ncfsa
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+8.4.1.	8.4.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+graničnu	graničan	Agpfsay
+kontrolu	kontrola	Ncfsa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+državne	državni	Agpfsgy
+granice	granica	Ncfsg
+4	4	Mdc
+8.4.2.	8.4.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+nezakonite	nezakonit	Agpfpay
+migracije	migracija	Ncfpa
+4	4	Mdc
+8.5.	8.5.	Mdo
+
+Služba	služba	Ncfsn
+kriminalističke	kriminalistički	Agpfsgy
+policije	policija	Ncfsg
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+6	6	Mdc
+8.5.1.	8.5.1.	Mdo
+
+Odjel	odjel	Ncmsn
+općeg	opći	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+9	9	Mdc
+8.5.2.	8.5.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+terorizma	terorizam	Ncmsg
+i	i	Cc
+ekstremnog	ekstreman	Agpnsgy
+nasilja	nasilje	Ncnsg
+4	4	Mdc
+8.5.3.	8.5.3.	Mds
+
+Odjel	odjel	Ncmsn
+ratnih	ratni	Agpmpgy
+zločina	zločin	Ncmpg
+4	4	Mdc
+8.5.4.	8.5.4a	Ncfsg
+
+Odjel	odjel	Ncmsn
+kriminalističke	kriminalistički	Agpfsgy
+tehnike	tehnika	Ncfsg
+20	20	Mdc
+8.5.5.	8.5.5.	Mdo
+
+Odjel	odjel	Ncmsn
+organiziranog	organiziran	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+9	9	Mdc
+8.5.6.	8.5.6a	Ncfsg
+
+Odjel	odjel	Ncmsn
+kriminaliteta	kriminalitet	Ncmsg
+droga	droga	Ncfsn
+7	7	Mdc
+8.5.7.	8.5.7.	Mdo
+
+Odjel	odjel	Ncmsn
+gospodarskog	gospodarski	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+8	8	Mdc
+8.6.1.	8.6.1a	Ncfsg
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Sisak	Sisak	Npmsn
+107	107	Mdc
+8.6.2.	8.6.2.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Sunja	Sunja	Npfsn
+35	35	Mdc
+8.6.3.	8.6.3.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Gvozd	Gvozd	Npmsn
+85	85	Mdc
+8.6.4.	8.6.4.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Kutina	kutin	Aspfsny
+85	85	Mdc
+8.6.5.	8.6.5.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Novska	novski	Agpfsny
+137	137	Mdc
+8.6.6.	8.6.6.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Petrinja	Petrinja	Npfsn
+65	65	Mdc
+8.6.7.	8.6.7.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Glina	glina	Ncfsn
+58	58	Mdc
+8.6.8.	8.6.8.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Dvor	dvor	Ncmsn
+147	147	Mdc
+8.6.9.	8.6.9.	Mdo
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Hrvatska	Hrvatska	Npfsn
+Kostajnica	Kostajnica	Npfsn
+153	153	Mdc
+8.6.10.	8.6.10.	Mdo
+
+Postaja	postaja	Ncfsn
+prometne	prometan	Agpfsgy
+policije	policija	Ncfsg
+Sisak	Sisak	Npmsn
+65	65	Mdc
+8.6.11.	8.6.11.	Mdo
+
+Postaja	postaja	Ncfsn
+prometne	prometan	Agpfsgy
+policije	policija	Ncfsg
+Kutina	Kutina	Npfsn
+61	61	Mdc
+8.7.	8.7.	Y
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpmpgy
+,	,	Z
+financijskih	financijski	Agpfpgy
+i	i	Cc
+tehničkih	tehnički	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+8.7.1.	8.7.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+ljudske	ljudski	Agpmpay
+potencijale	potencijal	Ncmpa
+9	9	Mdc
+8.7.2.	8.7.2.	Mdo
+
+Odjel	odjel	Ncmsn
+materijalno-financijskih	materijalno-financijski	Agpmpgy
+poslova	posao	Ncmpg
+70	70	Mdc
+8.7.3.	8.7.3.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+tehniku	tehnika	Ncfsa
+19	19	Mdc
+8.8.	8.8.	Mds
+
+Služba	služba	Ncfsn
+upravnih	upravan	Agpfpgy
+i	i	Cc
+inspekcijskih	inspekcijski	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+6	6	Mdc
+8.8.1.	8.8.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravne	upravan	Agpmpay
+poslove	posao	Ncmpa
+10	10	Mdc
+8.8.2.	8.8.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+državljanstvo	državljanstvo	Ncnsa
+i	i	Cc
+statusna	statusni	Agpnpay
+pitanja	pitanje	Ncnpa
+stranaca	stranac	Ncmpg
+5	5	Mdc
+8.8.3.	8.8.3.	Y
+
+Inspektorat	inspektorat	Ncmsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+9	9	Mdc
+Policijska	policijski	Agpfsny
+uprava	uprava	Ncfsn
+sisačko-moslavačka	sisačko-moslavački	Agpfsny
+–	–	Z
+ukupno	ukupno	Rgp
+1335	1335	Mdc
+9.	9.	Mdo
+POLICIJSKA	policijski	Agpfsny
+UPRAVA	uprava	Ncfsn
+ŠIBENSKO-KNINSKA	šibensko-kninski	Agpfsny
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Policijskoj	policijski	Agpfsly
+upravi	uprava	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+2	2	Mdc
+9.1.	9.1.	Mdo
+
+Ured	ured	Ncmsn
+načelnika	načelnik	Ncmsg
+Policijske	policijski	Agpfsgy
+uprave	uprava	Ncfsg
+13	13	Mdc
+9.2.	9.2.	Mdo
+
+Operativno-komunikacijski	operativno-komunikacijski	Agpmsny
+centar	centar	Ncmsn
+policije	policija	Ncfsg
+16	16	Mdc
+9.3.	9.3.	Mdo
+
+Služba	služba	Ncfsn
+policije	policija	Ncfsg
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+2	2	Mdc
+9.3.1.	9.3.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+javni	javan	Agpmsayn
+red	red	Ncmsan
+10	10	Mdc
+9.3.2.	9.3.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+sigurnost	sigurnost	Ncfsa
+cestovnog	cestovan	Agpmsgy
+prometa	promet	Ncmsg
+4	4	Mdc
+9.3.3.	9.3.3a	Ncfsg
+
+Interventna	interventni	Agpfsny
+jedinica	jedinica	Ncfsn
+policije	policija	Ncfsg
+70	70	Mdc
+9.4.	9.4.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+granicu	granica	Ncfsa
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+1	1	Mdc
+9.4.1.	9.4.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+graničnu	graničan	Agpfsay
+kontrolu	kontrola	Ncfsa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+državne	državni	Agpfsgy
+granice	granica	Ncfsg
+4	4	Mdc
+9.4.2.	9.4.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pomorsku	pomorski	Agpfsay
+policiju	policija	Ncfsa
+4	4	Mdc
+9.4.3.	9.4.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+nezakonite	nezakonit	Agpfpay
+migracije	migracija	Ncfpa
+4	4	Mdc
+9.5.	9.5.	Mdo
+
+Služba	služba	Ncfsn
+kriminalističke	kriminalistički	Agpfsgy
+policije	policija	Ncfsg
+1	1	Mdc
+neposredno	neposredan	Agpnsny
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+6	6	Mdc
+9.5.1.	9.5.1.	Mdo
+
+Odjel	odjel	Ncmsn
+općeg	opći	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+8	8	Mdc
+9.5.2.	9.5.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+terorizma	terorizam	Ncmsg
+i	i	Cc
+ekstremnog	ekstreman	Agpnsgy
+nasilja	nasilje	Ncnsg
+4	4	Mdc
+9.5.3.	9.5.3.	Mds
+
+Odjel	odjel	Ncmsn
+ratnih	ratni	Agpmpgy
+zločina	zločin	Ncmpg
+4	4	Mdc
+9.5.4.	9.5.4a	Ncfsg
+
+Odjel	odjel	Ncmsn
+kriminalističke	kriminalistički	Agpfsgy
+tehnike	tehnika	Ncfsg
+7	7	Mdc
+9.5.5.	9.5.5.	Mdo
+
+Odjel	odjel	Ncmsn
+organiziranog	organiziran	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+6	6	Mdc
+9.5.6.	9.5.6a	Ncfsg
+
+Odjel	odjel	Ncmsn
+kriminaliteta	kriminalitet	Ncmsg
+droga	droga	Ncfsn
+8	8	Mdc
+9.5.7.	9.5.7.	Mdo
+
+Odjel	odjel	Ncmsn
+gospodarskog	gospodarski	Agpmsgy
+kriminaliteta	kriminalitet	Ncmsg
+7	7	Mdc
+9.6.1.	9.6.1a	Ncfsg
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Šibenik	Šibenik	Npmsn
+s	sa	Si
+Ispostavom	ispostava	Ncfsi
+Primošten	Primošten	Npmsn
+116	116	Mdc
+9.6.2.	9.6.2.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Vodice	vodica	Ncfsg
+66	66	Mdc
+9.6.3.	9.6.3.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Drniš	drniti	Vmr2s
+53	53	Mdc
+9.6.4.	9.6.4.	Y
+
+Policijska	policijski	Agpfsny
+postaja	postaja	Ncfsn
+Knin	Knin	Npmsn
+175	175	Mdc
+9.6.5.	9.6.5.	Y
+
+Postaja	postaja	Ncfsn
+prometne	prometan	Agpfsgy
+policije	policija	Ncfsg
+Šibenik	Šibenik	Npmsn
+52	52	Mdc
+9.6.6.	9.6.6.	Y
+
+Postaja	postaja	Ncfsn
+pomorske	pomorski	Agpfsgy
+policije	policija	Ncfsg
+Šibenik	Šibenik	Npmsn
+92	92	Mdc
+9.7.	9.7.	Y
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpmpgy
+,	,	Z
+financijskih	financijski	Agpfpgy
+i	i	Cc
+tehničkih	tehnički	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+neposredno	neposredno	Rgp
+u	u	Sl
+Službi	služba	Ncfsl
+,	,	Z
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+nižih	nizak	Agcfpgy
+

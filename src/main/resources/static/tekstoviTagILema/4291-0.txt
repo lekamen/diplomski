@@ -1,0 +1,168 @@
+68	68	Mdc
+22.07.2016	22.07.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+visini	visina	Ncfsl
+troškova	trošak	Ncmpg
+izrade	izrada	Ncfsg
+iskaznice	iskaznica	Ncfsg
+protuminskog	protuminski	Agpnsgy
+djelovanja	djelovanje	Ncnsg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+UNUTARNJIH	unutarnji	Agpmpgy
+POSLOVA	posao	Ncmpg
+
+1640	1640	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+2.	2.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+osobnoj	osoban	Agpfsly
+nadzornoj	nadzorni	Agpfsly
+knjižici	knjižica	Ncfsl
+,	,	Z
+iskaznici	iskaznica	Ncfsl
+protuminskog	protuminski	Agpnsgy
+djelovanja	djelovanje	Ncnsg
+i	i	Cc
+vođenju	vođenje	Ncnsl
+upisnika	upisnik	Ncmsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+57/16	57/16	Mdc
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+unutarnjih	unutarnji	Agpmpgy
+poslova	posao	Ncmpg
+donosi	donositi	Vmr3s
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+VISINI	visina	Ncfsl
+TROŠKOVA	trošak	Ncmpg
+IZRADE	izrada	Ncfsg
+ISKAZNICE	iskaznica	Ncfsg
+PROTUMINSKOG	protuminski	Agpnsgy
+DJELOVANJA	djelovanje	Ncnsg
+
+I.	I.	Y
+
+Za	za	Sa
+izdavanje	izdavanje	Ncnsa
+iskaznice	iskaznica	Ncfsg
+protuminskog	protuminski	Agpnsgy
+djelovanja	djelovanje	Ncnsg
+plaća	plaćati	Vmr3s
+se	sebe	Px--sa
+naknada	naknada	Ncfsn
+u	u	Sl
+iznosu	iznos	Ncmsl
+od	od	Sg
+110,00	110,00	Mdc
+kn	KN	Y
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Sredstva	sredstvo	Ncnpn
+od	od	Sg
+naknada	naknada	Ncfpg
+iz	iz	Sg
+točke	točka	Ncfsg
+I.	I.	Mro
+ovog	ovaj	Pd-nsg
+Rješenja	rješenje	Ncnsg
+uplaćuju	uplaćivati	Vmr3p
+se	sebe	Px--sa
+na	na	Sa
+račun	račun	Ncmsan
+državnog	državni	Agpmsgy
+proračuna	proračun	Ncmsg
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Stupanjem	stupanje	Ncnsi
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-nsg
+Rješenja	rješenje	Ncnsg
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Rješenje	rješenje	Ncnsa
+o	o	Sl
+visini	visina	Ncfsl
+troškova	trošak	Ncmpg
+izdavanja	izdavanje	Ncnsg
+iskaznice	iskaznica	Ncfsg
+humanitarnog	humanitaran	Agpnsgy
+razminiranja	razminiranje	Ncnsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+30/08	30/08	Mdc
+)	)	Z
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Ovo	ovaj	Pd-nsn
+Rješenje	rješenje	Ncnsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+511	511	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+152	152	Mdc
+-	-	Z
+49034	49034	Mdc
+-	-	Z
+2016	2016	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+18.	18.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Vlaho	Vlaho	Npmsn
+Orepić	Orepić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

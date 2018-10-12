@@ -1,0 +1,241 @@
+96	96	Mdc
+21.10.2016	21.10.2016	Agpmsny
+Zakon	zakon	Ncmsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Zakona	zakon	Ncmsg
+o	o	Sl
+financiranju	financiranje	Ncnsl
+političkih	politički	Agpfpgy
+aktivnosti	aktivnost	Ncfpg
+i	i	Cc
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2053	2053	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+89.	89.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+PROGLAŠENJU	proglašenje	Ncnsl
+ZAKONA	zakon	Ncmsg
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+ZAKONA	zakon	Ncmsg
+O	o	Sl
+FINANCIRANJU	financiranje	Ncnsl
+POLITIČKIH	politički	Agpfpgy
+AKTIVNOSTI	aktivnost	Ncfpg
+I	i	Cc
+IZBORNE	izborni	Agpfsgy
+PROMIDŽBE	promidžba	Ncfsg
+
+Proglašavam	proglašavati	Vmr1s
+Zakon	zakon	Ncmsan
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Zakona	zakon	Ncmsg
+o	o	Sl
+financiranju	financiranje	Ncnsl
+političkih	politički	Agpfpgy
+aktivnosti	aktivnost	Ncfpg
+i	i	Cc
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+,	,	Z
+koji	koji	Pi-msn
+je	biti	Var3s
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+donio	donijeti	Vmp-sm
+na	na	Sl
+sjednici	sjednica	Ncfsl
+17.	17.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+01/39	01/39	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+01/1	01/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+19.	19.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+ZAKON	zakon	Ncmsn
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+ZAKONA	zakon	Ncmsg
+O	o	Sl
+FINANCIRANJU	financiranje	Ncnsl
+POLITIČKIH	politički	Agpfpgy
+AKTIVNOSTI	aktivnost	Ncfpg
+I	i	Cc
+IZBORNE	izborni	Agpfsgy
+PROMIDŽBE	promidžba	Ncfsg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Zakonu	zakon	Ncmsl
+o	o	Sl
+financiranju	financiranje	Ncnsl
+političkih	politički	Agpfpgy
+aktivnosti	aktivnost	Ncfpg
+i	i	Cc
+izborne	izborni	Agpfsgy
+promidžbe	promidžba	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+24/11.	24/11.	Mds
+,	,	Z
+61/11.	61/11.	Mds
+,	,	Z
+27/13.	27/13.	Mds
+i	i	Cc
+2/14.	2/14.	Mdo
+)	)	Z
+u	u	Sl
+članku	članak	Ncmsl
+3.	3.	Mdo
+stavak	stavak	Ncmsn
+1.	1.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Sredstva	sredstvo	Ncnsg
+za	za	Sa
+redovito	redovit	Agpnsay
+godišnje	godišnji	Agpnsay
+financiranje	financiranje	Ncnsa
+političkih	politički	Agpfpgy
+stranaka	stranka	Ncfpg
+i	i	Cc
+nezavisnih	nezavisan	Agpmpgy
+zastupnika	zastupnik	Ncmpg
+osiguravaju	osiguravati	Vmr3p
+se	sebe	Px--sa
+u	u	Sl
+državnom	državni	Agpmsly
+proračunu	proračun	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+u	u	Sl
+iznosu	iznos	Ncmsl
+od	od	Sg
+0,075	0,075	Mdc
+%	%	Z
+ostvarenih	ostvariti	Appmpgy
+poreznih	porezni	Agpmpgy
+prihoda	prihod	Ncmpg
+iz	iz	Sg
+prethodno	prethodno	Rgp
+objavljenoga	objavljen	Agpmsgy
+godišnjeg	godišnji	Agpmsgy
+izvještaja	izvještaj	Ncmsg
+o	o	Sl
+izvršenju	izvršenje	Ncnsl
+proračuna	proračun	Ncmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Zakon	zakon	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+01/03	01/03	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,601 @@
+Agencije	agencija	Ncfpn
+za	za	Sa
+obalni	obalni	Agpmsayn
+linijski	linijski	Agpmsayn
+pomorski	pomorski	Agpmsayn
+promet	promet	Ncmsan
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+OTOČNA	otočni	Agpfsny
+ISKAZNICA	iskaznica	Ncfsn
+
+–	i	Agpfsny
+registarska	registarski	Agpfsny
+oznaka	oznaka	Ncfsn
+vozila	voziti	Vmp-sf
+
+–	–	Z
+tip	tip	Ncmsn
+vozila	vozilo	Ncnsg
+
+–	i	Agpnsay
+ime	ime	Ncnsa
+i	i	Cc
+prezime	prezime	Ncnsa
+ili	ili	Cc
+naziv	naziv	Ncmsn
+vlasnika	vlasnik	Ncmpg
+odnosno	odnosno	Rgp
+korisnika	korisnik	Ncmpg
+prava	pravo	Ncnsg
+
+–	–	Npmsn
+OIB	OIB	Npmsn
+
+–	i	Agpnsny
+prebivalište	prebivalište	Ncnsn
+ili	ili	Cc
+sjedište	sjedište	Ncnsn
+vlasnika	vlasnik	Ncmpg
+odnosno	odnosno	Rgp
+korisnika	korisnik	Ncmpg
+
+–	–	Agpmsny
+serijski	serijski	Agpmsny
+broj	broj	Ncmsn
+iskaznice	iskaznica	Ncfsg
+
+–	–	Agpmsny
+datum	datum	Ncmsn
+izdavanja	izdavanje	Ncnsg
+iskaznice	iskaznica	Ncfsg
+
+–		Agcmsayn
+datum	datum	Ncmsan
+isteka	istek	Ncmsg
+valjanosti	valjanost	Ncfsg
+iskaznice	iskaznica	Ncfsg
+
+B.	B.	Y
+Na	na	Sl
+poleđini	poleđina	Ncfsl
+iskaznice	iskaznica	Ncfsg
+
+–	i	Agpfpay
+opće	opći	Agpfpay
+upute	uputa	Ncfpa
+o	o	Sl
+namjeni	namjena	Ncfsl
+i	i	Cc
+načinu	način	Ncmsl
+korištenja	korištenje	Ncnsg
+otočne	otočni	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+
+C.	C.	Y
+Na	na	Sl
+čipu	čip	Ncmsl
+iskaznice	iskaznica	Ncfsg
+–	–	Z
+datoteka	datoteka	Ncfpg
+s	sa	Si
+osnovnim	osnovan	Agpmpiy
+podacima	podatak	Ncmpi
+:	:	Z
+
+–	i	Agpfsny
+registarska	registarski	Agpfsny
+oznaka	oznaka	Ncfsn
+vozila	voziti	Vmp-sf
+
+–	–	Z
+tip	tip	Ncmsn
+vozila	vozilo	Ncnsg
+
+–	i	Agpnsay
+ime	ime	Ncnsa
+vlasnika	vlasnik	Ncmpg
+
+–	i	Agpnsay
+prezime	prezime	Ncnsa
+vlasnika	vlasnik	Ncmpg
+
+–	–	Z
+naziv	naziv	Ncmsn
+vlasnika	vlasnik	Ncmpg
+
+–	–	Sa
+datum	datum	Ncmsan
+rođenja	rođenje	Ncnsg
+vlasnika	vlasnik	Ncmpg
+
+–	i	Agpnsny
+OIB	oib	Ncnsn
+vlasnika	vlasnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+mjesta	mjesto	Ncnsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+vlasnika	vlasnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+općine	općina	Ncfsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+vlasnika	vlasnik	Ncmpg
+
+–	i	Agpfsny
+šifra	šifra	Ncfsn
+(	(	Z
+DGU	DGU	Npmsn
+)	)	Z
+mjesta	mjesto	Ncnsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+vlasnika	vlasnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+ulice	ulica	Ncfsg
+i	i	Cc
+kućni	kućni	Agpmsny
+broj	broj	Ncmsn
+vlasnika	vlasnik	Ncmpg
+
+–		Agcmsny
+broj	broj	Ncmsn
+iskaznice	iskaznica	Ncfsg
+
+–	–	Agpmsny
+datum	datum	Ncmsn
+izdavanja	izdavanje	Ncnsg
+
+–		Agcmsayn
+datum	datum	Ncmsan
+isteka	istek	Ncmsg
+
+–	–	Ps1nsn
+osnovno	osnovan	Agpnsny
+pravo	pravo	Ncnsn
+iz	iz	Sg
+kataloga	katalog	Ncmsg
+prava	pravo	Ncnsg
+
+D.	D.	Y
+Na	na	Sl
+čipu	čip	Ncmsl
+iskaznice	iskaznica	Ncfsg
+–	–	Z
+datoteka	datoteka	Ncfpg
+s	sa	Si
+dodatnim	dodatan	Agpmpiy
+podacima	podatak	Ncmpi
+
+–		Agpfpgy
+maraka	marka	Ncfpg
+vozila	vozilo	Ncnsg
+
+–	–	Sa
+model	model	Ncmsan
+vozila	vozilo	Ncnsg
+
+–	–	Z
+namjena	namjena	Ncfsn
+vozila	vozilo	Ncnsg
+
+–		Agpfpgy
+kategorija	kategorija	Ncfpg
+/	/	Z
+vrsta	vrsta	Ncfsn
+vozila	vozilo	Ncnsg
+
+–	i	Agpfsny
+masa	masa	Ncfsn
+praznog	prazan	Agpnsgy
+vozila	vozilo	Ncnsg
+
+–	–	Pp3npn
+najveća	velik	Agsfsny
+dopuštena	dopustiti	Appfsny
+masa	masa	Ncfsn
+
+–	–	Z
+tehnička	tehnički	Agpfsny
+najveća	velik	Ncfsn
+dopuštena	dopustiti	Appfsny
+masa	masa	Ncfsn
+
+–	–	Ncfsn
+dopuštena	dopustiti	Appfsny
+nosivost	nosivost	Ncfsn
+
+–	–	Z
+duljina	duljina	Ncfsn
+vozila	vozilo	Ncnsg
+
+–	–	Z
+širina	širina	Ncfsn
+vozila	vozilo	Ncnsg
+
+–	–	Z
+visina	visina	Ncfsn
+vozila	vozilo	Ncnsg
+
+–	–	Agpmsann
+broj	broj	Ncmsan
+sjedišta	sjedište	Ncnsg
+vozila	vozilo	Ncnsg
+
+–	i	Agpnsay
+ime	ime	Ncnsa
+korisnika	korisnik	Ncmpg
+
+–	i	Agpnsay
+prezime	prezime	Ncnsa
+korisnika	korisnik	Ncmpg
+
+–	–	Z
+naziv	naziv	Ncmsn
+korisnika	korisnik	Ncmpg
+
+–	i	Agpnsny
+OIB	oib	Ncnsn
+korisnika	korisnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+mjesta	mjesto	Ncnsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+korisnika	korisnik	Ncmpg
+
+–	i	Agpfsny
+šifra	šifra	Ncfsn
+(	(	Z
+DGU	DGU	Npmsn
+)	)	Z
+mjesta	mjesto	Ncnsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+korisnika	korisnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+općine	općina	Ncfsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+korisnika	korisnik	Ncmpg
+
+–	i	Agpfsny
+šifra	šifra	Ncfsn
+(	(	Z
+DGU	DG	Npmsl
+)	)	Z
+općine	općina	Ncfsg
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+sjedišta	sjedište	Ncnsg
+korisnika	korisnik	Ncmpg
+
+–	–	Agpmsny
+naziv	naziv	Ncmsn
+ulice	ulica	Ncfsg
+i	i	Cc
+kućni	kućni	Agpmsny
+broj	broj	Ncmsn
+korisnika	korisnik	Ncmpg
+
+Izgled	izgled	Ncmsn
+otočne	otočni	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+vozila	vozilo	Ncnsg
+
+Vinjeta	vinjeta	Ncfsn
+za	za	Sa
+pomorski	pomorski	Agpmsayn
+prijevoz	prijevoz	Ncmsan
+vozila	vozilo	Ncnsg
+sadrži	sadržati	Vmr3s
+sljedeće	sljedeći	Agpmpay
+podatke	podatak	Ncmpa
+:	:	Z
+
+A.	A.	Y
+Na	na	Sl
+prednjoj	prednji	Agpfsly
+strani	strana	Ncfsl
+vinjete	vinjeta	Ncfsg
+:	:	Z
+
+–	–	Agpmsny
+logo	logo	Ncmsn
+Agencije	agencija	Ncfsg
+za	za	Sa
+obalni	obalni	Agpmsayn
+linijski	linijski	Agpmsayn
+pomorski	pomorski	Agpmsayn
+promet	promet	Ncmsan
+
+–	i	Agpfsny
+registarska	registarski	Agpfsny
+oznaka	oznaka	Ncfsn
+vozila	voziti	Vmp-sf
+
+–	–	Agpmsayn
+bar	bar	Ncmsan
+kod	kod	Sg
+vinjete	vinjeta	Ncfsg
+
+–	–	Agpmsny
+datum	datum	Ncmsn
+izdavanja	izdavanje	Ncnsg
+
+–		Agcmsayn
+datum	datum	Ncmsan
+isteka	istek	Ncmsg
+valjanosti	valjanost	Ncfsg
+
+–	–	Agpmsny
+serijski	serijski	Agpmsny
+broj	broj	Ncmsn
+vinjete	vinjeta	Ncfsg
+
+Izgled	izgled	Ncmsan
+vinjete	vinjeta	Ncfsg
+vozila	vozilo	Ncnsg
+
+PRILOG	prilog	Ncmsn
+7.	7.	Mdo
+
+KORISNICI	korisnik	Ncmpn
+PRAVA	pravo	Ncnsg
+PREMA	prema	Sl
+BOJI	boja	Ncfsl
+OTOČNIH	otočni	Agpfpgy
+ISKAZNICA	iskaznica	Ncfpg
+
+Otočna	otočni	Agpfsny
+iskaznica	iskaznica	Ncfsn
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+četiri	četiri	Mlc
+boje	boja	Ncfsg
+za	za	Sa
+koje	koji	Pi-fpa
+su	biti	Var3p
+definirani	definirati	Appmpny
+korisnici	korisnik	Ncmpn
+.	.	Z
+
+A.	A.	Y
+otočna	otočni	Agpfsny
+iskaznica	iskaznica	Ncfsn
+s	sa	Si
+dominantno	dominantno	Rgp
+crvenom	crven	Agpfsiy
+bojom	boja	Ncfsi
+namijenjena	namijeniti	Appfsny
+je	biti	Var3s
+sljedećim	sljedeći	Agpmpiy
+korisnicima	korisnik	Ncmpi
+:	:	Z
+
+–	i	Agpnsdy
+djetetu	dijete	Ncnsd
+starosti	starost	Ncfsg
+od	od	Sg
+jedne	jedan	Agpfsgy
+godine	godina	Ncfsg
+do	do	Sg
+polaska	polazak	Ncmsg
+u	u	Sa
+osnovnu	osnovan	Agpfsay
+školu	škola	Ncfsa
+
+–	–	Sl
+učeniku	učenik	Ncmsl
+koji	koji	Pi-msn
+pohađa	pohađati	Vmr3s
+osnovnu	osnovan	Agpfsay
+ili	ili	Cc
+srednju	srednji	Agpfsay
+školu	škola	Ncfsa
+na	na	Sl
+otoku	otok	Ncmsl
+
+–	–	Ncnsn
+studentu	student	Ncmsd
+koji	koji	Pi-msn
+pohađa	pohađati	Vmr3s
+visokoškolsku	visokoškolski	Agpfsay
+ustanovu	ustanova	Ncfsa
+na	na	Sl
+otoku	otok	Ncmsl
+
+–	i	Agpfpay
+fizičke	fizički	Agpfpay
+osobe	osoba	Ncfpa
+koje	koji	Pi-fpn
+nemaju	nemati	Vmr3p
+status	status	Ncmsan
+učenika	učenik	Ncmsg
+,	,	Z
+studenta	student	Ncmsg
+,	,	Z
+umirovljenika	umirovljenik	Ncmsay
+i	i	Cc
+mlađe	mlado	Rgc
+su	biti	Var3p
+od	od	Sg
+65	65	Mdc
+godina	godina	Ncfpg
+
+B.	B.	Y
+otočna	otočni	Agpfsny
+iskaznica	iskaznica	Ncfsn
+s	sa	Si
+dominantno	dominantno	Rgp
+plavom	plav	Agpfsiy
+bojom	boja	Ncfsi
+namijenjena	namijeniti	Appfsny
+je	biti	Var3s
+sljedećim	sljedeći	Agpmpiy
+korisnicima	korisnik	Ncmpi
+:	:	Z
+
+–		Aspmpny
+učenici	učenik	Ncmpn
+koji	koji	Pi-mpn
+svakodnevno	svakodnevno	Rgp
+putuju	putovati	Vmr3p
+do	do	Sg
+škole	škola	Ncfsg
+izvan	izvan	Sg
+otoka	otok	Ncmsg
+
+–		Aspmpny
+učenici	učenik	Ncmpn
+koji	koji	Pi-mpn
+za	za	Sa
+vrijeme	vrijeme	Ncnsa
+školovanja	školovanje	Ncnsg
+privremeno	privremeno	Rgp
+borave	boraviti	Vmr3p
+izvan	izvan	Sg
+otoka	otok	Ncmsg
+,	,	Z
+a	a	Cc
+vikendom	vikend	Ncmsi
+dolaze	dolaziti	Vmr3p
+na	na	Sa
+otok	otok	Ncmsan
+prebivališta	prebivalište	Ncnsg
+
+–	–	Pd-mpn
+studenti	student	Ncmpn
+koji	koji	Pi-mpn
+svakodnevno	svakodnevno	Rgp
+putuju	putovati	Vmr3p
+izvan	izvan	Sg
+otoka	otok	Ncmsg
+do	do	Sg
+visokoškolske	visokoškolski	Agpfsgy
+ustanove	ustanova	Ncfsg
+i	i	Cc
+
+–	–	Agpmpny
+studenti	student	Ncmpn
+koji	koji	Pi-mpn
+za	za	Sa
+vrijeme	vrijeme	Ncnsa
+školovanja	školovanje	Ncnsg
+privremeno	privremeno	Rgp
+borave	boraviti	Vmr3p
+izvan	izvan	Sg
+otoka	otok	Ncmsg
+,	,	Z
+a	a	Cc
+vikendom	vikend	Ncmsi
+dolaze	dolaziti	Vmr3p
+na	na	Sa
+otok	otok	Ncmsan
+
+C.	C.	Y
+otočna	otočni	Agpfsny
+iskaznica	iskaznica	Ncfsn
+s	sa	Si
+dominantno	dominantno	Rgp
+sivom	siv	Agpfsiy
+bojom	boja	Ncfsi
+namijenjena	namijeniti	Appfsny
+je	biti	Var3s
+sljedećim	sljedeći	Agpmpiy
+korisnicima	korisnik	Ncmpi
+:	:	Z
+
+–		Agpmpiy
+umirovljenicima	umirovljenik	Ncmpi
+i	i	Cc
+
+–		Agpfpdy
+osobama	osoba	Ncfpd
+starijima	star	Agcmpiy
+od	od	Sg
+65	65	Mdc
+godina	godina	Ncfpg
+.	.	Z
+
+D.	D.	Y
+otočna	otočni	Agpfsny
+iskaznica	iskaznica	Ncfsn
+s	sa	Si
+dominantno	dominantno	Rgp
+zelenom	zelen	Agpfsiy
+bojom	boja	Ncfsi
+namijenjena	namijeniti	Appfsny
+je	biti	Var3s
+za	za	Sa
+:	:	Z
+
+–		Agsnpgy
+vozila	vozilo	Ncnpg
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+fizičkih	fizički	Agpfpgy
+osoba	osoba	Ncfpg
+,	,	Z
+
+–		Agsnpgy
+vozila	vozilo	Ncnpg
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+pravnih	pravni	Agpfpgy
+osoba	osoba	Ncfpg
+,	,	Z
+
+–	i	Agpnsgy
+vozila	vozilo	Ncnsg
+registrirana	registrirati	Appfsny
+na	na	Sa
+obrt	obrt	Ncmsan
+,	,	Z
+OPG	OPG	Npmsn
+i	i	Cc
+djelatnost	djelatnost	Ncfsa
+slobodnog	slobodan	Agpnsgy
+zanimanja	zanimanje	Ncnsg
+,	,	Z
+
+–		Agsnpgy
+vozila	vozilo	Ncnpg
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+leasing	leasing	Ncmsan
+kuća	kuća	Ncfpg
+ili	ili	Cc
+banaka	banka	Ncfpg
+,	,	Z
+a	a	Cc
+koja	koji	Pi-npn
+su	biti	Var3p
+registrirana	registrirati	Appnpny
+na	na	Sa
+korisnike	korisnik	Ncmpa
+iz	iz	Sg
+prethodnih	prethodan	Agpfpgy
+alineja	alineja	Ncfpg
+ove	ovaj	Pd-fsg
+podtočke	podtočka	Ncfsg
+.	.	Z
+

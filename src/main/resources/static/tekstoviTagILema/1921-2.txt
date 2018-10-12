@@ -1,0 +1,321 @@
+razvodnik	razvodnik	Ncmsn
+ELVIS	ELVIS	Npmsn
+(	(	Z
+Ibrahim	Ibrahim	Npmsn
+)	)	Z
+POLIĆ	Polić	Npmsn
+
+193.	193.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Duško	Duško	Npmsn
+)	)	Z
+POLJIČAK	POLJIČAK	Npmsn
+
+194.	194.	Mdo
+razvodnik	razvodnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Josip	Josip	Npmsn
+)	)	Z
+PRAJNER	PRAJNER	Npmsn
+
+195.	195.	Mdo
+razvodnik	razvodnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Franjo	Franjo	Npmsn
+)	)	Z
+PREGEB	PREGEB	Npmsn
+
+196.	196.	Mdo
+razvodnik	razvodnik	Ncmsn
+SAŠA	Saša	Npmsn
+(	(	Z
+Stjepan	Stjepan	Npmsn
+)	)	Z
+RAJNDL	RAJNDL	Npmsn
+
+197.	197.	Mdo
+razvodnik	razvodnik	Ncmsn
+RUDOLF	RUDOLF	Npmsn
+(	(	Z
+Nikola	Nikola	Npmsn
+)	)	Z
+RAKIĆ	Rakić	Npmsn
+
+198.	198.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Antun	Antun	Npmsn
+)	)	Z
+RAZUMOVIĆ	RAZUMOVIĆ	Npmsn
+
+199.	199.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Ante	Ante	Npmsn
+)	)	Z
+RONČEVIĆ	Rončević	Npmsn
+
+200.	200.	Mdo
+razvodnik	razvodnik	Ncmsn
+STIPE	STIPE	Npfsg
+(	(	Z
+Dane	dati	Appfpny
+)	)	Z
+RUKAVINA	rukavin	Aspmsgn
+
+201.	201.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+RUŽIĆ	Ružić	Npmsn
+
+202.	202.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Josip	Josip	Npmsn
+)	)	Z
+SIKRA	sikr	Ncmsg
+
+203.	203.	Mdo
+razvodnik	razvodnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Josip	Josip	Npmsn
+)	)	Z
+SINKO	SINKO	Npmsn
+
+204.	204.	Mdo
+razvodnik	razvodnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Ivo	Ivo	Npmsn
+)	)	Z
+SIVONJIĆ	SIVONJIĆ	Npmsn
+
+205.	205.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Marko	Marko	Npmsn
+)	)	Z
+SKELEDŽIJA	skeledžija	Ncfsn
+
+206.	206.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Pavo	Pavo	Npmsn
+)	)	Z
+SKENDER	SKENDER	Npmsn
+
+207.	207.	Mdo
+razvodnik	razvodnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Antun	Antun	Npmsn
+)	)	Z
+SKLEPIĆ	SKLEPIĆ	Npmsn
+
+208.	208.	Agpmsny
+razvodnik	razvodnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+August	August	Npmsn
+)	)	Z
+SOKOL	sokol	Ncmsn
+
+209.	209.	Mdo
+razvodnik	razvodnik	Ncmsn
+MATO	MATO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+STANIČIĆ	Staničić	Npmsn
+
+210.	210.	Mdo
+razvodnik	razvodnik	Ncmsn
+FRANJO	FRANJO	Npmsn
+(	(	Z
+Tomo	Tomo	Npmsn
+)	)	Z
+STJEPANOVIĆ	STJEPANOVIĆ	Npmsn
+
+211.	211.	Mdo
+razvodnik	razvodnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Blaž	Blaž	Npmsn
+)	)	Z
+STRGANAC	STRGANAC	Npmsan
+
+212.	212.	Mdo
+razvodnik	razvodnik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Đuro	Đuro	Npmsn
+)	)	Z
+ŠAJFAR	ŠAJFAR	Npmsn
+
+213.	213.	Mdo
+razvodnik	razvodnik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Dušan	Dušan	Npmsn
+)	)	Z
+ŠAKIĆ	ŠAKIĆ	Npmsn
+
+214.	214.	Mdo
+razvodnik	razvodnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Zlatko	Zlatko	Npmsn
+)	)	Z
+ŠEBETIĆ	ŠEBETIĆ	Npmsn
+
+215.	215.	Mdo
+razvodnik	razvodnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ilija	Ilija	Npfsn
+)	)	Z
+ŠIMIĆ	Šimić	Npmsn
+
+216.	216.	Mdo
+razvodnik	razvodnik	Ncmsn
+PAVEL	PAVEL	Npmsn
+(	(	Z
+Ištvan	Ištvan	Npmsn
+)	)	Z
+ŠIPOŠ	šipoti	Vmm2s
+
+217.	217.	Mdo
+razvodnik	razvodnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Petar	Petar	Npmsn
+)	)	Z
+ŠKRLEC	ŠKRLEC	Npmsn
+
+218.	218.	Mdo
+razvodnik	razvodnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+ŠPEHAR	ŠPEHAR	Npmsn
+
+219.	219.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Ante	Ante	Npmsn
+)	)	Z
+ŠUNJIĆ	Šunjić	Npmsn
+
+220.	220.	Mdo
+razvodnik	razvodnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Krunoslav	Krunoslav	Npmsn
+)	)	Z
+TISSAUER	TISSAUER	Npmsn
+
+221.	221.	Mdo
+razvodnik	razvodnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+TKALČEVIĆ	TKALČEVIĆ	Npmsn
+
+222.	222.	Mdo
+razvodnik	razvodnik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Antun	Antun	Npmsn
+)	)	Z
+TUKSAR	TUKSAR	Npmsn
+
+223.	223.	Mdo
+razvodnik	razvodnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Antun	Antun	Npmsn
+)	)	Z
+WEH	WEH	I
+
+224.	224.	Mdo
+razvodnik	razvodnik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Stjepan	Stjepan	Npmsn
+)	)	Z
+ZADRO	zadrijeti	Vmp-sm
+
+225.	225.	Mdo
+razvodnik	razvodnik	Ncmsn
+MATEO	MATEO	Npmsn
+(	(	Z
+Ivan	Ivan	Npmsn
+)	)	Z
+ŽIŽIĆ	Žižić	Npmsn
+
+226.	226.	Mdo
+pozornik	pozornik	Ncmsn
+BERISLAV	BERISLAV	Npmsn
+(	(	Z
+Stanislav	Stanislav	Npmsn
+)	)	Z
+URBANEK	URBANEK	Npmsn
+
+227.	227.	Mdo
+vojnik	vojnik	Ncmsn
+ZVONKO	zvonak	Agpnsny
+(	(	Z
+Matija	Matija	Npmsn
+)	)	Z
+KIJANICA	kijanica	Ncfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+060	060	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+16/05	16/05	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+03/3	03/3	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+01	01	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

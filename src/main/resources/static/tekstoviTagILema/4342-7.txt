@@ -1,0 +1,686 @@
+sadržavati	sadržavati	Vmn
+podatke	podatak	Ncmpa
+o	o	Sl
+svim	sav	Agpmply
+iznosima	iznos	Ncmpl
+potpore	potpora	Ncfsg
+koji	koji	Pi-mpn
+su	biti	Var3p
+primljeni	primiti	Appmpny
+u	u	Sa
+vrijeme	vrijeme	Ncnsa
+restrukturiranja	restrukturiranje	Ncnsg
+
+4.3.	4.3.	Mdo
+
+Ocjena	ocjena	Ncfsn
+državne	državni	Agpfsgy
+intervencije	intervencija	Ncfsg
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+propisima	propis	Ncmpi
+o	o	Sl
+potporama	potpora	Ncfpl
+i	i	Cc
+izračun	izračun	Ncmsan
+iznosa	iznos	Ncmsg
+potpore	potpora	Ncfsg
+
+5.	5.	Mdo
+Povratak	povratak	Ncmsn
+održivosti	održivost	Ncfsg
+
+5.1.	5.1.	Mdo
+
+Prikaz	prikaz	Ncmsn
+različitih	različit	Agpfpgy
+pretpostavki	pretpostavka	Ncfpg
+kretanja	kretanje	Ncnsg
+na	na	Sl
+tržištu	tržište	Ncnsl
+
+5.1.1.	5.1.1.	Mdo
+
+Postojeće	postojeći	Agpnsny
+stanje	stanje	Ncnsn
+na	na	Sl
+tržištu	tržište	Ncnsl
+na	na	Sl
+kojem	koji	Pi-msl
+djeluje	djelovati	Vmr3s
+kreditna	kreditan	Agpfsny
+institucija	institucija	Ncfsn
+
+5.1.2.	5.1.2.	Mdo
+
+Očekivanja	očekivanje	Ncnpn
+vezano	vezano	Rgp
+uz	uz	Sa
+razvoj	razvoj	Ncmsan
+stanja	stanje	Ncnsg
+na	na	Sl
+tržištu	tržište	Ncnsl
+glavnih	glavni	Agpmpgy
+proizvoda	proizvod	Ncmpg
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+
+5.2.	5.2.	Mdo
+
+Opis	opis	Ncmsn
+scenarija	scenarij	Ncmsg
+budućeg	budući	Agpnsgy
+poslovanja	poslovanje	Ncnsg
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+bez	bez	Sg
+državne	državni	Agpfsgy
+intervencije	intervencija	Ncfsg
+
+5.2.1.	5.2.1.	Mdo
+
+Prilagodbe	prilagodba	Ncfpn
+osnovnog	osnovan	Agpmsgy
+poslovnog	poslovan	Agpmsgy
+plana	plan	Ncmsg
+
+5.2.2.	5.2.2.	Mdo
+
+Kretanje	kretanje	Ncnsn
+pokazatelja	pokazatelj	Ncmsg
+kapitala	kapital	Ncmsg
+u	u	Sl
+prošlosti	prošlost	Ncfsl
+,	,	Z
+trenutno	trenutno	Rgp
+i	i	Cc
+u	u	Sl
+budućnosti	budućnost	Ncfsl
+(	(	Z
+tier	tier	Ncmsn
+1	1	Mdc
+,	,	Z
+tier	tier	Ncmsn
+2	2	Mdc
+)	)	Z
+
+5.3.	5.3.	Mdo
+
+Opis	opis	Ncmsn
+buduće	budući	Agpfsgy
+strategije	strategija	Ncfsg
+poslovanja	poslovanje	Ncnsg
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+i	i	Cc
+načina	način	Ncmpg
+na	na	Sa
+koji	koji	Pi-msan
+namjerava	namjeravati	Vmr3s
+postići	postići	Vmn
+održivost	održivost	Ncfsa
+poslovanja	poslovanje	Ncnsg
+
+5.3.1.	5.3.1.	Mdo
+
+Polazna	polazan	Agpfsny
+pozicija	pozicija	Ncfsn
+i	i	Cc
+opis	opis	Ncmsan
+cjelokupnog	cjelokupan	Agpnsgy
+poslovanja	poslovanje	Ncnsg
+
+5.3.2.	5.3.2.	Mdo
+
+Poslovanje	poslovanje	Ncnsn
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+prema	prema	Sl
+njezinim	njezin	Ncfpl
+glavnim	glavni	Agpfply
+poslovnim	poslovan	Agpfply
+aktivnostima	aktivnost	Ncfpl
+/	/	Z
+proizvodima	proizvod	Ncmpi
+
+5.3.3.	5.3.3.	Mdo
+
+Prilagodbe	prilagodba	Ncfpn
+promjenama	promjena	Ncfpd
+u	u	Sl
+regulatornom	regulatoran	Agpnsly
+okruženju	okruženje	Ncnsl
+(	(	Z
+jačanje	jačanje	Ncnsn
+risk	risa	Ncfsg
+menadžmenta	menadžment	Ncmsg
+,	,	Z
+jačanje	jačanje	Ncnsa
+sigurnosnih	sigurnosni	Agpmpgy
+slojeva	sloj	Ncmpg
+kapitala	kapital	Ncmpg
+,	,	Z
+itd.	itd.	Y
+)	)	Z
+
+5.3.4.	5.3.4.	Mdo
+
+Potvrda	potvrda	Ncfsn
+stanja	stanje	Ncnsg
+cjelokupne	cjelokupan	Agpfsgy
+imovine	imovina	Ncfsg
+umanjene	umanjiti	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+
+5.3.5.	5.3.5.	Mdo
+
+Eventualne	eventualan	Agpfpny
+promjene	promjena	Ncfpn
+u	u	Sl
+vlasničkoj	vlasnički	Agpfsly
+strukturi	struktura	Ncfsl
+
+5.4.	5.4.	Mdo
+
+Opis	opis	Ncmsn
+i	i	Cc
+pregled	pregled	Ncmsan
+svih	sav	Agpfpgy
+mjera	mjera	Ncfpg
+koje	koji	Pi-fpn
+kreditna	kreditan	Agpfsny
+institucija	institucija	Ncfsn
+namjerava	namjeravati	Vmr3s
+poduzeti	poduzeti	Vmn
+kako	kako	Cs
+bi	biti	Vaa3s
+povratila	povratiti	Vmp-sf
+održivost	održivost	Ncfsa
+,	,	Z
+troškovi	trošak	Ncmpn
+tih	taj	Pd-fpg
+mjera	mjera	Ncfpg
+i	i	Cc
+njihov	njihov	Ps3msan
+učinak	učinak	Ncmsan
+na	na	Sa
+račun	račun	Ncmsan
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+bilancu	bilanca	Ncfsa
+
+5.4.1.	5.4.1.	Mdo
+
+Mjere	mjera	Ncfpn
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+
+5.4.2.	5.4.2.	Mdo
+
+Mjere	mjera	Ncfpn
+u	u	Sl
+odnosu	odnos	Ncmsl
+na	na	Sa
+svaku	svaki	Pi-fsa
+glavnu	glavni	Agpfsay
+poslovnu	poslovan	Agpfsay
+aktivnost	aktivnost	Ncfsa
+/	/	Z
+proizvod	proizvod	Ncmsan
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+
+5.4.3.	5.4.3.	Mdo
+
+Utjecaj	utjecaj	Ncmsn
+svake	svaki	Pi-fsg
+mjere	mjera	Ncfsg
+na	na	Sa
+račun	račun	Ncmsan
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+bilancu	bilanca	Ncfsa
+
+5.5.	5.5.	Mdo
+
+Opis	opis	Ncmsn
+učinka	učinak	Ncmsg
+svake	svaki	Pi-fsg
+mjere	mjera	Ncfsg
+za	za	Sa
+suzbijanje	suzbijanje	Ncnsa
+negativnog	negativan	Agpmsgy
+utjecaja	utjecaj	Ncmsg
+na	na	Sa
+tržišno	tržišni	Agpnsay
+natjecanje	natjecanje	Ncnsa
+s	sa	Sg
+aspekta	aspekt	Ncmsg
+troškova	trošak	Ncmpg
+i	i	Cc
+utjecaja	utjecaj	Ncmpg
+na	na	Sa
+račun	račun	Ncmsan
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+bilancu	bilanca	Ncfsa
+
+5.6.	5.6.	Mdo
+
+Usporedba	usporedba	Ncfsn
+s	sa	Si
+alternativnim	alternativan	Agpmpiy
+scenarijima	scenarij	Ncmpi
+i	i	Cc
+kratka	kratak	Agpfsny
+komparativna	komparativan	Agpfsny
+analiza	analiza	Ncfsn
+ekonomskih	ekonomski	Agpfpgy
+i	i	Cc
+socijalnih	socijalan	Agpmpgy
+učinaka	učinak	Ncmpg
+tih	taj	Pd-mpg
+scenarija	scenarij	Ncmpg
+na	na	Sl
+regionalnoj	regionalan	Agpfsly
+,	,	Z
+nacionalnoj	nacionalan	Agpfsly
+i	i	Cc
+EU	E	Npmsl
+razini	razina	Ncfsl
+(	(	Z
+ova	ovaj	Pd-fsn
+analiza	analiza	Ncfsn
+se	sebe	Px--sa
+osobito	osobito	Rgp
+zahtijeva	zahtijevati	Vmr3s
+u	u	Sl
+slučaju	slučaj	Ncmsl
+ako	ako	Cs
+kreditna	kreditan	Agpfsny
+institucija	institucija	Ncfsn
+ne	ne	Qz
+može	moći	Vmr3s
+zadovoljiti	zadovoljiti	Vmn
+bonitetne	bonitetni	Agpmpay
+zahtjeve	zahtjev	Ncmpa
+ukoliko	ukoliko	Cs
+joj	on	Pp3fsd
+se	sebe	Px--sa
+ne	ne	Qz
+odobri	odobriti	Vmr3s
+državna	državni	Agpfsny
+potpora	potpora	Ncfsn
+)	)	Z
+
+5.6.1.	5.6.1.	Mdo
+
+Alternativne	alternativan	Agpfpay
+opcije	opcija	Ncfpa
+:	:	Z
+stečaj	stečaj	Ncmsn
+,	,	Z
+likvidacija	likvidacija	Ncfsn
+ili	ili	Cc
+preuzimanje	preuzimanje	Ncnsn
+od	od	Sg
+druge	drugi	Mlofsg
+banke	banka	Ncfsg
+i	i	Cc
+očekivani	očekivati	Appmpny
+učinci	učinak	Ncmpn
+
+5.6.2.	5.6.2.	Mdo
+
+Opći	opći	Agpmpny
+gospodarski	gospodarski	Agpmpny
+učinci	učinak	Ncmpn
+
+5.7.	5.7.	Mdo
+
+Vremenski	vremenski	Agpmsny
+raspored	raspored	Ncmsn
+implementacije	implementacija	Ncfsg
+predviđenih	predvidjeti	Agpfpgy
+mjera	mjera	Ncfpg
+i	i	Cc
+konačni	konačan	Agpmsny
+rok	rok	Ncmsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+plana	plan	Ncmsg
+restrukturiranja	restrukturiranje	Ncnsg
+u	u	Sl
+cijelosti	cijelost	Ncfsl
+(	(	Z
+mora	morati	Vmr3s
+se	sebe	Px--sa
+označiti	označiti	Vmn
+što	što	Pi3n-n
+se	sebe	Px--sa
+smatra	smatrati	Vmr3s
+poslovnom	poslovan	Agpfsiy
+tajnom	tajna	Ncfsi
+)	)	Z
+
+5.8.	5.8.	Mdo
+
+Opis	opis	Ncmsn
+plana	plan	Ncmsg
+vraćanja	vraćanje	Ncnsg
+državne	državni	Agpfsgy
+potpore	potpora	Ncfsg
+
+5.8.1.	5.8.1.	Mdo
+
+Temeljne	temeljan	Agpfpay
+pretpostavke	pretpostavka	Ncfpa
+za	za	Sa
+izlaznu	izlazni	Agpfsay
+strategiju	strategija	Ncfsa
+Agencije	agencija	Ncfsg
+
+5.8.2.	5.8.2.	Mdo
+
+Opis	opis	Ncmsn
+izlazne	izlazni	Agpfsgy
+strategije	strategija	Ncfsg
+Agencije	agencija	Ncfsg
+i	i	Cc
+poticaji	poticaj	Ncmpn
+da	da	Cs
+do	do	Sg
+iste	isti	Agpfsgy
+dođe	doći	Ncfsg
+
+5.8.3.	5.8.3.	Mdo
+
+Plan	plan	Ncmsn
+izlaska	izlazak	Ncmsg
+ili	ili	Cc
+povrata	povrat	Ncmsg
+potpore	potpora	Ncfsg
+sve	sav	Agpnsny
+do	do	Sg
+okončanja	okončanje	Ncnsg
+povrata	povrat	Ncmsg
+i	i	Cc
+potpunog	potpun	Agpmsgy
+izlaska	izlazak	Ncmsg
+Agencije	agencija	Ncfsg
+
+5.9.	5.9.	Mdo
+
+Račun	račun	Ncmsn
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+bilanca	bilanca	Ncfsn
+za	za	Sa
+prethodne	prethodan	Agpfpay
+tri	tri	Mlc
+godine	godina	Ncfsg
+i	i	Cc
+narednih	naredan	Agpfpgy
+pet	pet	Mlc
+godina	godina	Ncfpg
+uključujući	uključivati	Rr
+ključne	ključan	Agpmpay
+financijske	financijski	Agpmpay
+pokazatelje	pokazatelj	Ncmpa
+i	i	Cc
+analizu	analiza	Ncfsa
+osjetljivosti	osjetljivost	Ncfsg
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+temelji	temeljiti	Vmr3s
+na	na	Sa
+najboljem	dobar	Ncmsan
+i	i	Cc
+najlošijem	loš	Agsmsly
+scenariju	scenarij	Ncmsl
+budućeg	budući	Agpnsgy
+poslovanja	poslovanje	Ncnsg
+
+5.9.1.	5.9.1.	Mdo
+
+Bazni	bazni	Agpmpny
+(	(	Z
+očekivani	očekivati	Appmpny
+,	,	Z
+osnovni	osnovan	Agpmsny
+)	)	Z
+scenarij	scenarij	Ncmsan
+
+5.9.1.1.	5.9.1.1.	Mdo
+
+Račun	račun	Ncmsn
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+prikaz	prikaz	Ncmsan
+bilance	bilanca	Ncfsg
+za	za	Sa
+cijelu	cijel	Agpfsay
+grupu	grupa	Ncfsa
+
+5.9.1.2.	5.9.1.2.	Mdo
+
+Ključni	ključan	Agpmpny
+financijski	financijski	Agpmpny
+pokazatelji	pokazatelj	Ncmpn
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+(	(	Z
+RAROC	RAROC	Npmsn
+,	,	Z
+CIR	CIR	Npmsn
+,	,	Z
+ROE	RO	Npmsl
+,	,	Z
+itd.	itd.	Y
+)	)	Z
+
+5.9.1.3.	5.9.1.3.	Mdo
+
+Račun	račun	Ncmsn
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+prikaz	prikaz	Ncmsan
+bilance	bilanca	Ncfsg
+za	za	Sa
+svaku	svaki	Pi-fsa
+poslovnu	poslovan	Agpfsay
+jedinicu	jedinica	Ncfsa
+
+5.9.1.4.	5.9.1.4.	Mdo
+
+Ključni	ključan	Agpmpny
+financijski	financijski	Agpmpny
+pokazatelji	pokazatelj	Ncmpn
+za	za	Sa
+poslovne	poslovan	Agpfpay
+jedinice	jedinica	Ncfpa
+(	(	Z
+RAROC	RAROC	Npmsn
+,	,	Z
+CIR	CIR	Npmsn
+,	,	Z
+ROE	RO	Npmsl
+,	,	Z
+itd.	itd.	Y
+)	)	Z
+
+5.9.2.	5.9.2.	Mdo
+
+Najbolji	dobar	Agsmsny
+scenarij	scenarij	Ncmsn
+
+5.9.2.1.	5.9.2.1.	Mdo
+
+Pretpostavke	pretpostavka	Ncfpn
+za	za	Sa
+realizaciju	realizacija	Ncfsa
+najboljeg	dobar	Agsmsgy
+scenarija	scenarij	Ncmsg
+budućeg	budući	Agpnsgy
+poslovanja	poslovanje	Ncnsg
+kreditne	kreditan	Agpfsgy
+institucije	institucija	Ncfsg
+
+5.9.2.2.	5.9.2.2.	Mdo
+
+Račun	račun	Ncmsn
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+prikaz	prikaz	Ncmsan
+bilance	bilanca	Ncfsg
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+
+5.9.2.3.	5.9.2.3.	Mdo
+
+Ključni	ključan	Agpmpny
+financijski	financijski	Agpmpny
+pokazatelji	pokazatelj	Ncmpn
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+(	(	Z
+RAROC	RAROC	Npmsn
+,	,	Z
+CIR	CIR	Npmsn
+,	,	Z
+ROE	RO	Npmsl
+,	,	Z
+itd.	itd.	Y
+)	)	Z
+
+5.9.3.	5.9.3.	Mdo
+
+Najlošiji	loš	Agsmsny
+scenarij	scenarij	Ncmsn
+–	–	Z
+ako	ako	Cs
+je	biti	Var3s
+proveden	provesti	Appmsnn
+stres	stres	Ncmsn
+test	test	Ncmsn
+koji	koji	Pi-msn
+je	biti	Var3s
+ocijenjen	ocijeniti	Appmsnn
+od	od	Sg
+strane	strana	Ncfsg
+nadležnog	nadležan	Agpnsgy
+nadzornog	nadzorni	Agpnsgy
+tijela	tijelo	Ncnsg
+(	(	Z
+Hrvatska	Hrvatska	Npfsn
+narodne	narodni	Agpfsgy
+banka	banka	Ncfsn
+)	)	Z
+potrebno	potreban	Agpnsny
+je	biti	Var3s
+prikazati	prikazati	Vmn
+metodologiju	metodologija	Ncfsa
+,	,	Z
+parametre	parametar	Ncmpa
+i	i	Cc
+rezultate	rezultat	Ncmpa
+tog	taj	Pd-msg
+testa	test	Ncmsg
+(	(	Z
+Europska	europski	Agpfsny
+komisija	komisija	Ncfsn
+zahtijeva	zahtijevati	Vmr3s
+da	da	Cs
+se	sebe	Px--sa
+stres	stres	Ncmsn
+test	test	Ncmsn
+provede	provesti	Vmr3s
+temeljem	temelj	Ncmsi
+parametara	parametar	Ncmpg
+koji	koji	Pi-mpn
+su	biti	Var3p
+usuglašeni	usuglasiti	Appmpny
+na	na	Sl
+razini	razina	Ncfsl
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+–	–	Z
+metodologiji	metodologija	Ncfsl
+koju	koji	Pi-fsa
+je	biti	Var3s
+razvio	razviti	Vmp-sm
+Odbor	odbor	Ncmsn
+europskih	europski	Agpmpgy
+bankarskih	bankarski	Agpmpgy
+supervizora	supervizor	Ncmpg
+)	)	Z
+
+5.9.3.1.	5.9.3.1.	Mdo
+
+Pretpostavke	pretpostavka	Ncfpn
+koje	koji	Pi-fpn
+su	biti	Var3p
+uzete	uzeti	Appfpny
+u	u	Sa
+obzir	obzir	Ncmsan
+kod	kod	Sg
+izrade	izrada	Ncfsg
+ovog	ovaj	Pd-msg
+scenarija	scenarij	Ncmsg
+
+5.9.3.2.	5.9.3.2.	Mdo
+
+Račun	račun	Ncmsn
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+i	i	Cc
+prikaz	prikaz	Ncmsan
+bilance	bilanca	Ncfsg
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+
+5.9.3.3.	5.9.3.3.	Mdo
+
+Ključni	ključan	Agpmpny
+financijski	financijski	Agpmpny
+pokazatelji	pokazatelj	Ncmpn
+na	na	Sl
+razini	razina	Ncfsl
+grupe	grupa	Ncfsg
+(	(	Z
+RAROC	RAROC	Npmsn
+,	,	Z
+CIR	CIR	Npmsn
+,	,	Z
+ROE	RO	Npmsl
+,	,	Z
+itd.	itd.	Y
+)	)	Z
+
+6.	6.	Mdo
+Podjela	podjela	Ncfsn
+tereta	teret	Ncmsg
+(	(	Z
+burden	burditi	Appmsnn
+

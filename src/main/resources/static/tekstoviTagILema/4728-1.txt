@@ -1,0 +1,227 @@
+polaznik	polaznik	Ncmsn
+proveo	provesti	Vmp-sm
+na	na	Sl
+praktičnom	praktičan	Agpmsly
+dijelu	dio	Ncmsl
+stručnog	stručan	Agpnsgy
+usavršavanja	usavršavanje	Ncnsg
+pod	pod	Si
+nadzorom	nadzor	Ncmsi
+gore	zlo	Rgp
+navedenog	naveden	Agpmsgy
+mentora	mentor	Ncmsg
+:	:	Z
+od	od	Sg
+__________	__________	Pi-msg
+do	do	Sg
+__________	_________a	Ncfsg
+.	.	Z
+
+Redni	redni	Agpmsny
+broj	broj	Ncmsn
+odluke	odluka	Ncfsg
+Poslovni	poslovan	Agpmsny
+broj	broj	Ncmsn
+predmeta	predmet	Ncmpg
+Vrsta	vrsta	Ncfsn
+odluke	odluka	Ncfsg
+Vrsta	vrsta	Ncfsn
+predmeta	predmet	Ncmsg
+Komentar	komentar	Ncmsn
+mentora	mentor	Ncmpg
+
+Zaokružiti	zaokružiti	Vmn
+broj	broj	Ncmsan
+ispred	ispred	Sg
+jednog	jedan	Mlcmsg
+ili	ili	Cc
+više	mnogo	Rgc
+ponuđenih	ponuditi	Agpmpgy
+odgovora	odgovor	Ncmpg
+.	.	Z
+
+Tijekom	tijekom	Sg
+praktičnog	praktičan	Agpmsgy
+dijela	dio	Ncmsg
+stručnog	stručan	Agpnsgy
+usavršavanja	usavršavanje	Ncnsg
+polaznik	polaznik	Ncmsn
+je	biti	Var3s
+obavljao	obavljati	Vmp-sm
+sljedeće	sljedeći	Agpmpay
+zadatke	zadatak	Ncmpa
+:	:	Z
+
+1.	1.	Mdo
+Uredske	uredski	Agpmpay
+poslove	posao	Ncmpa
+u	u	Sl
+sudskoj	sudski	Agpfsly
+/	a	Ncfsl
+državnoodvjetničkoj	državnoodvjetnički	Agpfsly
+pisarnici	pisarnica	Ncfsl
+
+2.	2i	Agpmpay
+Poslove	posao	Ncmpa
+sudske	sudski	Agpfsgy
+/	/	Z
+državnoodvjetničke	državnoodvjetnički	Agpfsgy
+uprave	uprava	Ncfsg
+
+3.	3.	Mdo
+Uzimanje	uzimanje	Ncnsn
+na	na	Sa
+zapisnik	zapisnik	Ncmsan
+prijava	prijava	Ncfpg
+,	,	Z
+podnesaka	podnesak	Ncmpg
+ili	ili	Cc
+izjava	izjava	Ncfsn
+stranaka	stranka	Ncfpg
+
+4.	4.	Mdo
+Vođenje	vođenje	Ncnsn
+rasprava	rasprava	Ncfpg
+i	i	Cc
+izvođenje	izvođenje	Ncnsa
+pojedinih	pojedini	Agpmpgy
+dokaza	dokaz	Ncmpg
+u	u	Sl
+sudskom	sudski	Agpmsly
+postupku	postupak	Ncmsl
+(	(	Z
+npr.	npri	Agpnsny
+saslušanje	saslušanje	Ncnsn
+svjedoka	svjedok	Ncmpg
+,	,	Z
+očevid	očevid	Ncmsan
+)	)	Z
+
+5.	5.	Mdo
+Zastupanje	zastupanje	Ncnsn
+na	na	Sl
+raspravama	rasprava	Ncfpl
+i	i	Cc
+tijekom	tijekom	Sg
+postupka	postupak	Ncmsg
+
+6.	6.	Mdo
+Izvještavanje	izvještavanje	Ncnsn
+o	o	Sl
+stanju	stanje	Ncnsl
+spisa	spis	Ncmsg
+i	i	Cc
+izrada	izrada	Ncfsn
+nacrta	nacrt	Ncmsg
+odluka	odluka	Ncfsn
+,	,	Z
+odnosno	odnosno	Rgp
+odluka	odluka	Ncfsn
+
+7.	7.	Mdo
+Samostalno	samostalan	Agpnsny
+provođenje	provođenje	Ncnsn
+sudskih	sudski	Agpmpgy
+postupaka	postupak	Ncmpg
+,	,	Z
+odnosno	odnosno	Rgp
+samostalno	samostalan	Agpnsay
+obavljanje	obavljanje	Ncnsa
+svih	sav	Agpfpgy
+državnoodvjetničkih	državnoodvjetnički	Agpfpgy
+radnji	radnja	Ncfpg
+u	u	Sl
+pojedinim	pojedini	Agpmply
+predmetima	predmet	Ncmpl
+
+8.	8.	Mdo
+drugo	drugi	Mlonsa
+:	:	Z
+___________________________________________________	__________________________________________________a	Ncfpn
+
+Kandidat	kandidat	Ncmsn
+je	biti	Var3s
+tijekom	tijekom	Sg
+prakse	praksa	Ncfsg
+najčešće	često	Rgs
+obavljao	obavljati	Vmp-sm
+poslove	posao	Ncmpa
+:	:	Z
+
+__________________________________________________________	__________________________________________________________	Ncfsn
+
+Završno	završan	Agpnsny
+mišljenje	mišljenje	Ncnsn
+mentora	mentor	Ncmpg
+:	:	Z
+
+__________________________________________________________	__________________________________________________________	Ncfsn
+
+Potpis	potpis	Ncmsn
+mentora	mentor	Ncmsg
+:	:	Z
+
+Potpis	potpis	Ncmsn
+čelnika	čelnik	Ncmsg
+pravosudnog	pravosudni	Agpnsgy
+tijela	tijelo	Ncnsg
+:	:	Z
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+datum	datum	Ncmsn
+:	:	Z
+
+Pečat	pečat	Ncmsn
+pravosudnog	pravosudni	Agpnsgy
+tijela	tijelo	Ncnsg
+:	:	Z
+
+[	[	Z
+1	1	Mdc
+]	]	Z
+Ovaj	ovaj	Pd-msn
+obrazac	obrazac	Ncmsn
+ispunjava	ispunjavati	Vmr3s
+mentor	mentor	Ncmsn
+u	u	Sa
+tri	tri	Mlc
+primjerka	primjerak	Ncmsg
+i	i	Cc
+sva	sav	Agpmsgn
+tri	tri	Mlc
+primjerka	primjerak	Ncmsg
+dostavlja	dostavljati	Vmr3s
+čelniku	čelnik	Ncmsd
+pravosudnog	pravosudni	Agpnsgy
+tijela	tijelo	Ncnsg
+u	u	Sl
+kojemu	koji	Pi-nsl
+mentor	mentor	Ncmsn
+obnaša	obnašati	Vmr3s
+dužnost	dužnost	Ncfsa
+,	,	Z
+a	a	Cc
+čelnik	čelnik	Ncmsn
+tijela	tijelo	Ncnsg
+,	,	Z
+nakon	nakon	Cs
+što	što	Cs
+supotpiše	supotpisati	Vmr3s
+,	,	Z
+dužan	dužan	Agpmsnn
+je	biti	Var3s
+dva	dva	Mlc
+primjerka	primjerak	Ncmsg
+dostaviti	dostaviti	Vmn
+Pravosudnoj	pravosudni	Agpfsly
+akademiji	akademija	Ncfsl
+najkasnije	kasno	Rgs
+tjedan	tjedan	Ncmsan
+dana	dan	Ncmpg
+prije	prije	Sg
+provođenja	provođenje	Ncnsg
+završnog	završan	Agpmsgy
+ispita	ispit	Ncmsg
+.	.	Z
+

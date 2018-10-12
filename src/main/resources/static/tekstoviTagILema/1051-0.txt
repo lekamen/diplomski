@@ -1,0 +1,172 @@
+55	55	Mdc
+20.05.2015	20.05.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+i	i	Cc
+izboru	izbor	Ncmsl
+potpredsjednika	potpredsjednik	Ncmpg
+,	,	Z
+izboru	izbor	Ncmsl
+člana	član	Ncmsg
+i	i	Cc
+prestanku	prestanak	Ncmsl
+mandata	mandat	Ncmsg
+člana	član	Ncmsg
+Odbora	odbor	Ncmsg
+za	za	Sa
+pravosuđe	pravosuđe	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+1052	1052	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članaka	članak	Ncmpg
+46.	46.	Mdo
+i	i	Cc
+82.	82.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+15.	15.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+I	i	Cc
+IZBORU	izbor	Ncmsl
+POTPREDSJEDNIKA	potpredsjednik	Ncmpg
+,	,	Z
+IZBORU	izbor	Ncmsl
+ČLANA	član	Ncmsg
+I	i	Cc
+PRESTANKU	prestanak	Ncmsl
+MANDATA	mandat	Ncmsg
+ČLANA	član	Ncmsg
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+PRAVOSUĐE	pravosuđe	Ncnsa
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+I.	I.	Y
+
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+potpredsjednik	potpredsjednik	Ncmsn
+Odbora	odbor	Ncmsg
+za	za	Sa
+pravosuđe	pravosuđe	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+DAVORIN	DAVORIN	Npmsn
+MLAKAR	Mlakar	Npmsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+potpredsjednika	potpredsjednik	Ncmsay
+Odbora	odbor	Ncmsg
+za	za	Sa
+pravosuđe	pravosuđe	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+bira	birati	Vmr3s
+se	sebe	Px--sa
+ANTE	Ante	Npmsn
+BABIĆ	Babić	Npmsn
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Za	za	Sa
+člana	član	Ncmsay
+Odbora	odbor	Ncmsg
+za	za	Sa
+pravosuđe	pravosuđe	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+bira	birati	Vmr3s
+se	sebe	Px--sa
+TUGOMIR	TUGOMIR	Npmsn
+KUDUZ	KUDUZ	Npmsn
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Dana	dan	Ncmsg
+8.	8.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+dužnost	dužnost	Ncfsn
+člana	član	Ncmsg
+Odbora	odbor	Ncmsg
+za	za	Sa
+pravosuđe	pravosuđe	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+prestao	prestati	Vmp-sm
+je	biti	Var3s
+obnašati	obnašati	Vmn
+VLADIMIR	Vladimir	Npmsn
+ŠEKS	ŠEKS	Npmsn
+,	,	Z
+zbog	zbog	Sg
+prestanka	prestanak	Ncmsg
+zastupničkog	zastupnički	Agpmsgy
+mandata	mandat	Ncmsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/15	13/15	Mdc
+-	-	Z
+12/23	12/23	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

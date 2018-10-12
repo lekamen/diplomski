@@ -1,0 +1,85 @@
+19	19	Mdc
+02.03.2016	02.03.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predstojnice	predstojnica	Ncfsg
+Ureda	ured	Ncmsg
+predsjednika	predsjednik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+501	501	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+26.	26.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSTOJNICE	predstojnica	Ncfsg
+UREDA	ured	Ncmsg
+PREDSJEDNIKA	predsjednik	Ncmsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+Za	za	Sa
+predstojnicu	predstojnica	Ncfsa
+Ureda	ured	Ncmsg
+predsjednika	predsjednik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+ANTONIJA	ANTONIJ	Npmsg
+RIMAC	RIMAC	Npmsn
+GELO	GELO	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/04	01/04	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+26.	26.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

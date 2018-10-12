@@ -1,0 +1,696 @@
+mladika	mladika	Ncfsn
+,	,	Z
+
+–	i	Agpnsay
+čišćenje	čišćenje	Ncnsa
+.	.	Z
+
+5.	5.	Mdo
+Sanacija	sanacija	Ncfsn
+paljevina	paljevina	Ncfpg
+:	:	Z
+
+–	i	Agpnsay
+uklanjanje	uklanjanje	Ncnsa
+požarom	požar	Ncmsi
+oštećenog	oštetiti	Agpmsgy
+drvnog	drvni	Agpmsgy
+materijala	materijal	Ncmsg
+,	,	Z
+
+–	–	Sa
+čišćenje	čišćenje	Ncnsa
+tla	tlo	Ncnsg
+od	od	Sg
+korova	korov	Ncmsg
+,	,	Z
+
+–	i	Agpfsny
+sjetva	sjetva	Ncfsn
+i	i	Cc
+sadnja	sadnja	Ncfsn
+šumskog	šumski	Agpmsgy
+reprodukcijskog	reprodukcijski	Agpmsgy
+materijala	materijal	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+popunjavanje	popunjavanje	Ncnsa
+šumskim	šumski	Agpmsiy
+reprodukcijskim	reprodukcijski	Agpmsiy
+materijalom	materijal	Ncmsi
+,	,	Z
+
+–	–	Sg
+njega	njega	Ncfpg
+pomlatka	pomladak	Ncmsg
+i	i	Cc
+mladika	mladik	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+čišćenje	čišćenje	Ncnsa
+.	.	Z
+
+6.	6.	Mdo
+Resurekciju	resurekcija	Ncfsa
+degradiranih	degradiran	Agpfpgy
+sastojina	sastojina	Ncfpg
+i	i	Cc
+prevođenje	prevođenje	Ncnsa
+u	u	Sa
+viši	visok	Agcmsayn
+uzgojni	uzgojan	Agpmsayn
+oblik	oblik	Ncmsan
+:	:	Z
+
+–		Agpfpgy
+resurekcija	resurekcija	Ncfpg
+,	,	Z
+
+–	i	Agpnsay
+trijebljenje	trijebljenje	Ncnsa
+,	,	Z
+
+–	i	Agpnsay
+popunjavanje	popunjavanje	Ncnsa
+šumskim	šumski	Agpmsiy
+reprodukcijskim	reprodukcijski	Agpmsiy
+materijalom	materijal	Ncmsi
+.	.	Z
+
+7.	7.	Mdo
+Čuvanje	čuvanje	Ncnsn
+šuma	šum	Ncmsg
+:	:	Z
+
+–	i	Agpnsny
+čuvanje	čuvanje	Ncnsn
+šuma	šuma	Ncfpg
+.	.	Z
+
+8.	8.	Mdo
+Odabiranje	odabiranje	Ncnsn
+i	i	Cc
+obilježavanje	obilježavanje	Ncnsa
+stabala	stablo	Ncmpg
+za	za	Sa
+sječu	sječa	Ncfsa
+:	:	Z
+
+–		Agpfpgy
+doznaka	doznaka	Ncfpg
+stabala	stablo	Ncmpg
+glavnog	glavni	Agpmsgy
+prihoda	prihod	Ncmsg
+jednodobnih	jednodoban	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+doznaka	doznaka	Ncfpg
+stabala	stablo	Ncmpg
+prethodnog	prethodan	Agpmsgy
+prihoda	prihod	Ncmsg
+jednodobnih	jednodoban	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+doznaka	doznaka	Ncfpg
+stabala	stablo	Ncmpg
+slučajnog	slučajan	Agpmsgy
+prihoda	prihod	Ncmsg
+jednodobnih	jednodoban	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–	i	Agpfsny
+doznaka	doznaka	Ncfsn
+stabala	stablo	Vmp-sf
+propisanog	propisati	Appmsgy
+etata	etat	Ncmpg
+prebornih	preboran	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+doznaka	doznaka	Ncfpg
+stabala	stablo	Ncmpg
+slučajnog	slučajan	Agpmsgy
+prihoda	prihod	Ncmsg
+prebornih	preboran	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–	i	Agpfsny
+doznaka	doznaka	Ncfsn
+stabala	stablo	Vmp-sf
+propisanog	propisati	Appmsgy
+etata	etat	Ncmpg
+raznodobnih	raznodoban	Agpfpgy
+sastojina	sastojina	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+doznaka	doznaka	Ncfpg
+stabala	stablo	Ncmpg
+slučajnog	slučajan	Agpmsgy
+prihoda	prihod	Ncmsg
+raznodobnih	raznodoban	Agpfpgy
+sastojina	sastojina	Ncfpg
+.	.	Z
+
+9.	9.	Mdo
+Izrada	izrada	Ncfsn
+šumskogospodarskih	šumskogospodarski	Agpmpgy
+planova	plan	Ncmpg
+,	,	Z
+te	te	Cc
+njihove	njihov	Ps3fpa
+revizije	revizija	Ncfpa
+i	i	Cc
+obnove	obnova	Ncfsg
+:	:	Z
+
+–	–	Pd-mpn
+pripremni	pripreman	Agpmpny
+radovi	rad	Ncmpn
+na	na	Sl
+izradi	izrada	Ncfsl
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+,	,	Z
+
+–	–	Pd-mpn
+terenski	terenski	Agpmpny
+radovi	rad	Ncmpn
+na	na	Sl
+izradi	izrada	Ncfsl
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+,	,	Z
+
+–	–	Pd-mpn
+završni	završan	Agpmpny
+radovi	rad	Ncmpn
+na	na	Sl
+izradi	izrada	Ncfsl
+šumskogospodarskog	šumskogospodarski	Agpmsgy
+plana	plan	Ncmsg
+,	,	Z
+
+–		Agpfpgy
+izrada	izrada	Ncfpg
+izvanredne	izvanredan	Agpfsgy
+revizije	revizija	Ncfsg
+.	.	Z
+
+10.	10.	Mdo
+
+Rekonstrukcija	rekonstrukcija	Ncfsn
+i	i	Cc
+konverzija	konverzija	Ncfsn
+šuma	šum	Ncmsg
+:	:	Z
+
+–	i	Agpnsay
+uklanjanje	uklanjanje	Ncnsa
+podrasta	podrast	Ncmsg
+i	i	Cc
+grmlja	grmlje	Ncnsg
+,	,	Z
+
+–	–	Sa
+čišćenje	čišćenje	Ncnsa
+tla	tlo	Ncnsg
+od	od	Sg
+korova	korov	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+premazivanje	premazivanje	Ncnsa
+panjeva	panj	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+rahljenje	rahljenje	Ncnsa
+tla	tlo	Ncnsg
+,	,	Z
+
+–	–	Sa
+površinsko	površinski	Agpnsay
+odvodnjavanje	odvodnjavanje	Ncnsa
+,	,	Z
+
+–	i	Agpfsny
+sjetva	sjetva	Ncfsn
+i	i	Cc
+sadnja	sadnja	Ncfsn
+šumskog	šumski	Agpmsgy
+reprodukcijskog	reprodukcijski	Agpmsgy
+materijala	materijal	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+popunjavanje	popunjavanje	Ncnsa
+,	,	Z
+
+–	–	Sg
+njega	njega	Ncfpg
+pomlatka	pomladak	Ncmsg
+i	i	Cc
+mladika	mladik	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+čišćenje	čišćenje	Ncnsa
+.	.	Z
+
+11.	11.	Mdo
+
+Pošumljavanje	pošumljavanje	Ncnsn
+neobraslog	neobrasl	Agpnsgy
+šumskog	šumski	Agpnsgy
+zemljišta	zemljište	Ncnsg
+i	i	Cc
+podizanje	podizanje	Ncnsa
+plantaža	plantaža	Ncfpg
+brzorastućih	brzorastući	Agpfpgy
+vrsta	vrsta	Ncfpg
+drveća	drveće	Ncnsg
+na	na	Sl
+novim	nov	Agpfply
+površinama	površina	Ncfpl
+:	:	Z
+
+–	i	Agpfsny
+sjetva	sjetva	Ncfsn
+i	i	Cc
+sadnja	sadnja	Ncfsn
+šumskog	šumski	Agpmsgy
+reprodukcijskog	reprodukcijski	Agpmsgy
+materijala	materijal	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+popunjavanje	popunjavanje	Ncnsa
+.	.	Z
+
+12.	12.	Mdo
+
+Priprema	priprema	Ncfsn
+staništa	stanište	Ncnsg
+,	,	Z
+njega	on	Pp3msa
+novopodignutih	novopodignut	Agpfpgy
+sastojina	sastojina	Ncfpg
+i	i	Cc
+kultura	kultura	Ncfsn
+:	:	Z
+
+–	i	Agpnsny
+uklanjanje	uklanjanje	Ncnsn
+grmlja	grmlje	Ncnsg
+,	,	Z
+
+–	–	Sa
+čišćenje	čišćenje	Ncnsa
+tla	tlo	Ncnsg
+od	od	Sg
+korova	korov	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+rahljenje	rahljenje	Ncnsa
+tla	tlo	Ncnsg
+,	,	Z
+
+–	–	Sa
+površinsko	površinski	Agpnsay
+odvodnjavanje	odvodnjavanje	Ncnsa
+,	,	Z
+
+–	–	Sg
+njega	njega	Ncfpg
+pomlatka	pomladak	Ncmsg
+i	i	Cc
+mladika	mladik	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+čišćenje	čišćenje	Ncnsa
+.	.	Z
+
+13.	13.	Mdo
+
+Zaštita	zaštita	Ncfsn
+od	od	Sg
+štetnih	štetan	Agpmpgy
+organizama	organizam	Ncmpg
+i	i	Cc
+požara	požar	Ncmsg
+:	:	Z
+
+–	i	Agpnsay
+opažanje	opažanje	Ncnsa
+i	i	Cc
+identifikacija	identifikacija	Ncfsn
+biljnih	biljan	Agpfpgy
+bolesti	bolest	Ncfpg
+i	i	Cc
+štetnika	štetnik	Ncmpg
+,	,	Z
+
+–	i	Agpnsny
+suzbijanje	suzbijanje	Ncnsn
+biljnih	biljan	Agpfpgy
+bolesti	bolest	Ncfpg
+,	,	Z
+
+–		Agcnsay
+suzbijanje	suzbijanje	Ncnsa
+biljnih	biljan	Agpmpgy
+štetnika	štetnik	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+suzbijanje	suzbijanje	Ncnsa
+glodavaca	glodavac	Ncmpg
+,	,	Z
+
+–		Agcnsay
+podizanje	podizanje	Ncnsa
+zaštitnih	zaštitni	Agpfpgy
+ograda	ograda	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+zaštitnih	zaštitni	Agpfpgy
+ograda	ograda	Ncfpg
+,	,	Z
+
+–		Agcnsay
+uklanjanje	uklanjanje	Ncnsa
+zaštitnih	zaštitni	Agpfpgy
+ograda	ograda	Ncfpg
+,	,	Z
+
+–	–	Z
+zaštita	zaštita	Ncfsn
+od	od	Sg
+divljači	divljač	Ncfsg
+i	i	Cc
+domaćih	domaći	Agpfpgy
+životinja	životinja	Ncfpg
+,	,	Z
+
+–	–	Z
+osmatračka	osmatrački	Agpfsny
+protupožarna	protupožarni	Agpfsny
+služba	služba	Ncfsn
+,	,	Z
+
+–	–	Z
+izrada	izrada	Ncfsn
+objekata	objekt	Ncmpg
+za	za	Sa
+osmatračku	osmatrački	Agpfsay
+protupožarnu	protupožarni	Agpfsay
+službu	služba	Ncfsa
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+objekata	objekt	Ncmpg
+za	za	Sa
+osmatračku	osmatrački	Agpfsay
+protupožarnu	protupožarni	Agpfsay
+službu	služba	Ncfsa
+,	,	Z
+
+–		Agpfpgy
+izrada	izrada	Ncfpg
+protupožarnih	protupožarni	Agpfpgy
+prosjeka	prosjeka	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+protupožarnih	protupožarni	Agpfpgy
+prosjeka	prosjeka	Ncfpg
+,	,	Z
+
+–		Agcnsay
+orezivanje	orezivanje	Ncnsa
+donjih	donji	Agpfpgy
+grana	grana	Ncfpg
+u	u	Sl
+kulturama	kultura	Ncfpl
+i	i	Cc
+sastojinama	sastojina	Ncfpl
+crnogorice	crnogorica	Ncfsg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+izvora	izvor	Ncmpg
+,	,	Z
+bunara	bunar	Ncmpg
+i	i	Cc
+cisterni	cisterna	Ncfsl
+,	,	Z
+
+–	i	Agpnsny
+postavljanje	postavljanje	Ncnsn
+znakova	znak	Ncmpg
+upozorenja	upozorenje	Ncnsg
+,	,	Z
+
+–		Agpfpgy
+izrada	izrada	Ncfpg
+i	i	Cc
+postavljanje	postavljanje	Ncnsa
+zaštitnih	zaštitni	Agpfpgy
+brklji	brklja	Ncfpg
+,	,	Z
+
+–		Agcnsay
+održavanje	održavanje	Ncnsa
+zaštitnih	zaštitni	Agpfpgy
+brklji	brklja	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+izrada	izrada	Ncfpg
+privremenih	privremen	Agpmpgy
+prijelaza	prijelaz	Ncmpg
+preko	preko	Sg
+vodotoka	vodotok	Ncmsg
+,	,	Z
+
+–		Agcnsay
+uklanjanje	uklanjanje	Ncnsa
+otpada	otpad	Ncmsg
+.	.	Z
+
+14.	14.	Mdo
+
+Sanacija	sanacija	Ncfsn
+i	i	Cc
+obnova	obnova	Ncfpg
+šuma	šuma	Ncfpg
+oštećenih	oštetiti	Appfpgy
+kalamitetima	kalamitetima	Ncfpg
+i	i	Cc
+ratnim	ratni	Agpnply
+djelovanjima	djelovanje	Ncnpl
+:	:	Z
+
+–	i	Agpnsay
+uklanjanje	uklanjanje	Ncnsa
+podrasta	podrast	Ncmsg
+i	i	Cc
+grmlja	grmlje	Ncnsg
+,	,	Z
+
+–	–	Sa
+čišćenje	čišćenje	Ncnsa
+tla	tlo	Ncnsg
+od	od	Sg
+korova	korov	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+premazivanje	premazivanje	Ncnsa
+panjeva	panj	Ncmpg
+,	,	Z
+
+–	i	Agpnsay
+rahljenje	rahljenje	Ncnsa
+tla	tlo	Ncnsg
+,	,	Z
+
+–	–	Sa
+površinsko	površinski	Agpnsay
+odvodnjavanje	odvodnjavanje	Ncnsa
+,	,	Z
+
+–	i	Agpfsny
+sjetva	sjetva	Ncfsn
+i	i	Cc
+sadnja	sadnja	Ncfsn
+šumskog	šumski	Agpmsgy
+reprodukcijskog	reprodukcijski	Agpmsgy
+materijala	materijal	Ncmsg
+,	,	Z
+
+–	i	Agpnsay
+popunjavanje	popunjavanje	Ncnsa
+,	,	Z
+
+–	–	Sg
+njega	njega	Ncfpg
+pomlatka	pomladak	Ncmsg
+i	i	Cc
+mladika	mladik	Ncmpg
+,	,	Z
+
+–	i	Agpnsny
+čišćenje	čišćenje	Ncnsn
+,	,	Z
+
+–	i	Agpnsny
+razminiranje	razminiranje	Ncnsn
+šuma	šuma	Ncfpg
+i	i	Cc
+šumskih	šumski	Agpnpgy
+zemljišta	zemljište	Ncnpg
+,	,	Z
+
+–		Agcnsay
+razminiranje	razminiranje	Ncnsa
+šumskih	šumski	Agpfpgy
+prometnica	prometnica	Ncfpg
+.	.	Z
+
+15.	15.	Mdo
+
+Projektiranje	projektiranje	Ncnsn
+,	,	Z
+izgradnja	izgradnja	Ncfsn
+i	i	Cc
+održavanje	održavanje	Ncnsn
+šumske	šumski	Agpfsgy
+infrastrukture	infrastruktura	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+projektiranje	projektiranje	Ncnsn
+šumske	šumski	Agpfsgy
+infrastrukture	infrastruktura	Ncfsg
+,	,	Z
+
+–		Agpfpgy
+izgradnja	izgradnja	Ncfpg
+šumskih	šumski	Agpfpgy
+cesta	cesta	Ncfpg
+,	,	Z
+
+–	i	Agpfsny
+izgradnja	izgradnja	Ncfsn
+šumskih	šumski	Agpmpgy
+vlaka	vlak	Ncmpg
+,	,	Z
+
+–	i	Agpfsny
+izgradnja	izgradnja	Ncfsn
+protupožarnih	protupožarni	Agpfpgy
+prosjeka	prosjeka	Ncfpg
+s	sa	Si
+elementima	element	Ncmpi
+šumskih	šumski	Agpfpgy
+cesta	cesta	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+šumskih	šumski	Agpfpgy
+cesta	cesta	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+šumskih	šumski	Agpmpgy
+vlaka	vlak	Ncmpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+protupožarnih	protupožarni	Agpfpgy
+prosjeka	prosjeka	Ncfpg
+s	sa	Si
+elementima	element	Ncmpi
+šumskih	šumski	Agpfpgy
+cesta	cesta	Ncfpg
+,	,	Z
+
+–		Agcnsay
+prosijecanje	prosijecanje	Ncnsa
+svijetlih	svijetao	Agpfpgy
+pruga	pruga	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+svijetlih	svijetao	Agpfpgy
+pruga	pruga	Ncfpg
+,	,	Z
+
+–		Agpfpgy
+izrada	izrada	Ncfpg
+prosjeka	prosjeka	Ncfpg
+,	,	Z
+
+–	i	Agpnsny
+održavanje	održavanje	Ncnsn
+prosjeka	prosjeka	Ncfpg
+.	.	Z
+
+16.	16.	Mdo
+
+Obavljanje	obavljanje	Ncnsn
+nadzora	nadzor	Ncmsg
+i	i	Cc
+kolaudacije	kolaudacija	Ncfsg
+u	u	Sl
+izvršenju	izvršenje	Ncnsl
+radova	rad	Ncmpg
+te	te	Cc
+savjetodavni	savjetodavan	Agpmsny
+rad	rad	Ncmsn
+:	:	Z
+
+–	i	Agpnsay
+obavljanje	obavljanje	Ncnsa
+nadzora	nadzor	Ncmsg
+trošenja	trošenje	Ncnsg
+sredstava	sredstvo	Ncnpg
+,	,	Z
+
+–	–	Z
+kolaudacija	kolaudacija	Ncfsn
+(	(	Z
+preuzimanje	preuzimanje	Ncnsn
+)	)	Z
+izvršenih	izvršen	Agpmpgy
+radova	rad	Ncmpg
+.	.	Z
+
+PRILOG	prilog	Ncmsn
+2.	2.	Mdo
+–	–	Z
+PRILOG	prilog	Ncmsn
+3.	3.	Mdo
+

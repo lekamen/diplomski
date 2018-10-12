@@ -1,0 +1,734 @@
+skladu	sklad	Ncmsl
+s	sa	Si
+člankom	članak	Ncmsi
+36.	36.	Mdo
+st.	st.	Y
+1.	1.	Mdo
+Uredbe	uredba	Ncfsg
+:	:	Z
+_________da	_________da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.2.1.1.	4.2.1.1.	Mdo
+
+Ukoliko	ukoliko	Cs
+da	da	Cs
+,	,	Z
+navesti	navesti	Vmn
+kojih	koji	Pi-fpg
+emisija	emisija	Ncfpg
+i	i	Cc
+koje	koji	Pi-fpa
+granične	graničan	Agpfpay
+vrijednosti	vrijednost	Ncfpa
+emisija	emisija	Ncfpg
+zamjenjuju	zamjenjivati	Vmr3p
+:	:	Z
+________	_______a	Ncfpn
+
+4.2.2.	4.2.2.	Mdo
+
+Ukoliko	ukoliko	Cs
+da	da	Cs
+,	,	Z
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+(	(	Z
+jedna	jedan	Mlcfsn
+od	od	Sg
+ili	ili	Cc
+više	mnogo	Rgc
+graničnih	graničan	Agpfpgy
+vrijednosti	vrijednost	Ncfpg
+emisija	emisija	Ncfpg
+)	)	Z
+razlikuju	razlikovati	Vmr3p
+od	od	Sg
+razina	razina	Ncfpg
+emisija	emisija	Ncfpg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+povezuju	povezivati	Vmr3p
+s	sa	Si
+najboljim	dobar	Agpfpiy
+raspoloživim	raspoloživ	Agpfpiy
+tehnikama	tehnika	Ncfpi
+iz	iz	Sg
+zaključaka	zaključak	Ncmpg
+o	o	Sl
+najboljim	dobar	Agpfply
+raspoloživim	raspoloživ	Agpfply
+tehnikama	tehnika	Ncfpl
+u	u	Sl
+smislu	smisao	Ncmsl
+vrijednosti	vrijednost	Ncfsg
+,	,	Z
+vremenskih	vremenski	Agpnpgy
+razdoblja	razdoblje	Ncnpg
+ili	ili	Cc
+referentnih	referentan	Agpmpgy
+uvjeta	uvjet	Ncmpg
+(	(	Z
+čl.	čl.	Y
+34.	34.	Mdo
+st.	st.	Y
+4.	4.	Mdo
+(	(	Z
+2	2	Mdc
+)	)	Z
+Uredbe	uredba	Ncfsg
+)	)	Z
+:	:	Z
+_____________________________________	____________________________________a	Ncfpn
+
+(	(	Z
+a	a	Cc
+)	)	Z
+o	o	Sl
+kojim	koji	Pi-npl
+se	sebe	Px--sa
+graničnim	graničan	Agpfply
+vrijednostima	vrijednost	Ncfpl
+kojih	koji	Pi-fpg
+emisija	emisija	Ncfpg
+se	sebe	Px--sa
+radi	raditi	Vmr3s
+:	:	Z
+___________________________	___________________________	Ncmsn
+
+(	(	Z
+b	b	X
+)	)	Z
+način	način	Ncmsan
+kojima	koji	Pi-mpi
+se	sebe	Px--sa
+osigurava	osiguravati	Vmr3s
+da	da	Cs
+emisije	emisija	Ncfpn
+u	u	Sl
+normalnim	normalan	Agpmply
+radnim	radni	Agpmply
+uvjetima	uvjet	Ncmpl
+ne	ne	Qz
+prelaze	prelaziti	Vmr3p
+razine	razina	Ncfpa
+emisija	emisija	Ncfpg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+povezuju	povezivati	Vmr3p
+s	sa	Si
+najboljim	dobar	Agpfpiy
+raspoloživim	raspoloživ	Agpfpiy
+tehnikama	tehnika	Ncfpi
+(	(	Z
+čl.	čl.	Y
+34.	34.	Mdo
+st.	st.	Y
+4.	4.	Mdo
+(	(	Z
+2	2	Mdc
+)	)	Z
+Uredbe	uredba	Ncfsg
+)	)	Z
+:	:	Z
+____________________________	___________________________a	Ncfpn
+
+4.3.	4.3.	Mdo
+
+IZUZEĆA	izuzeće	Ncnpn
+PREMA	prema	Sl
+ČLANKU	članak	Ncmsl
+112.	112.	Mdo
+
+STAVKU	stavak	Ncmsl
+5.	5.	Mdo
+ZAKONA	zakon	Ncmsg
+:	:	Z
+DA	da	Qr
+/	/	Z
+NE	ne	Qz
+
+4.3.1.	4.3.1.	Mdo
+
+Ukoliko	ukoliko	Cs
+da	da	Cs
+,	,	Z
+navesti	navesti	Vmn
+:	:	Z
+
+(	(	Z
+a	a	Cc
+)	)	Z
+izvore	izvor	Ncmpa
+emisije	emisija	Ncfsg
+na	na	Sa
+koje	koji	Pi-nsa
+se	sebe	Px--sa
+izuzeće	izuzeće	Ncnsn
+odnosi	odnositi	Vmr3s
+:	:	Z
+_________________________	_________________________	Z
+
+(	(	Z
+b	b	X
+)	)	Z
+razine	razina	Ncfpa
+emisija	emisija	Ncfpg
+i	i	Cc
+granične	graničan	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+povezuju	povezivati	Vmr3p
+s	sa	Si
+najboljim	dobar	Agpfpiy
+raspoloživim	raspoloživ	Agpfpiy
+tehnikama	tehnika	Ncfpi
+za	za	Sa
+koje	koji	Pi-nsa
+je	biti	Var3s
+izuzeće	izuzeće	Ncnsa
+odobreno	odobriti	Appnsny
+:	:	Z
+___________	___________	Z
+
+(	(	Z
+c	C	Npmsn
+)	)	Z
+dozvolom	dozvola	Ncfsi
+odobrene	odobren	Agpfsgy
+granične	graničan	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+emisija	emisija	Ncfsn
+:	:	Z
+____________	___________a	Ncfpn
+
+(	(	Z
+d	d	Npmsn
+)	)	Z
+prijelazno	prijelazno	Rgp
+/	/	Z
+a	a	Cc
+razdoblje	razdoblje	Ncnsa
+/	/	Z
+a	a	Cc
+odobreno	odobriti	Appnsny
+/	/	Z
+a	a	Cc
+radi	radi	Sg
+usklađivanja	usklađivanje	Ncnsg
+s	sa	Si
+člankom	članak	Ncmsi
+112.	112.	Mdo
+st.	sta	Ncfsg
+5.	5.	Mdo
+Zakona	zakon	Ncmsg
+,	,	Z
+ako	ako	Cs
+je	biti	Var3s
+odobreno	odobriti	Appnsny
+:	:	Z
+____________	___________i	Agpnsny
+
+(	(	Z
+e	e	I
+)	)	Z
+internetska	internetski	Agpfsny
+stranica	stranica	Ncfsn
+koja	koji	Pi-fsn
+sadrži	sadržati	Vmr3s
+informacije	informacija	Ncfpa
+o	o	Sl
+primjeni	primjena	Ncfsl
+izuzeća	izuzeće	Ncnsg
+iz	iz	Sg
+članka	članak	Ncmsg
+112.	112.	Mdo
+st.	sta	Ncfsg
+5.	5.	Mdo
+Zakona	zakon	Ncmsg
+:	:	Z
+____________________	____________________	Z
+
+4.3.2.	4.3.2.	Mdo
+
+Provođenje	provođenje	Ncnsn
+analize	analiza	Ncfsg
+nesrazmjernosti	nesrazmjernost	Ncfsg
+troškova	trošak	Ncmpg
+(	(	Z
+cost-benefit	cost-benefit	Ncfsn
+analize	analiza	Ncfsg
+)	)	Z
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+člankom	članak	Ncmsi
+35.	35.	Mdo
+st.	st.	Y
+1.	1.	Mdo
+Uredbe	uredba	Ncfsg
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.3.3.	4.3.3.	Mdo
+
+Rok	rok	Ncmsn
+izuzeća	izuzeće	Ncnsg
+ako	ako	Cs
+je	biti	Var3s
+odobren	odobriti	Appmsnn
+:	:	Z
+____________________	____________________	Z
+
+4.4.	4.4.	Mdo
+
+PRIVREMENA	privremen	Agpnpay
+IZUZEĆA	izuzeće	Ncnpa
+ZA	za	Sa
+TESTIRANJE	testiranje	Ncnsa
+I	i	Cc
+UPORABU	uporaba	Ncfsa
+TEHNIKA	tehnika	Ncfpg
+U	u	Sl
+NASTAJANJU	nastajanje	Ncnsl
+(	(	Z
+čl.	čl.	Y
+35.	35.	Mdo
+st.	st.	Y
+6.	6.	Mdo
+Uredbe	uredba	Ncfsg
+)	)	Z
+:	:	Z
+DA	da	Qr
+/	/	Z
+NE	ne	Qz
+
+4.4.1.	4.4.1.	Mdo
+
+Rok	rok	Ncmsn
+izuzeća	izuzeće	Ncnsg
+:	:	Z
+_____________________________	_____________________________	Z
+
+4.5.	4.5.	Mdo
+
+ZAHTJEVI	zahtjev	Ncmpn
+MONITORINGA	monitoring	Ncmsg
+:	:	Z
+________________	________________	Z
+
+4.5.1.	4.5.1.	Mdo
+
+Određene	određen	Agpfpny
+učestalosti	učestalost	Ncfpn
+praćenja	praćenje	Ncnsg
+za	za	Sa
+emisije	emisija	Ncfpa
+u	u	Sa
+zrak	zrak	Ncmsan
+,	,	Z
+emisije	emisija	Ncfpa
+u	u	Sl
+vodu	vod	Ncmsl
+,	,	Z
+emisije	emisija	Ncfsg
+u	u	Sa
+tlo	tlo	Ncnsa
+/	/	Z
+podzemne	podzeman	Agpfsgy
+vode	voda	Ncfsg
+i	i	Cc
+druge	drugi	Mlofpn
+relevantne	relevantan	Agpmpay
+procesne	procesni	Agpmpay
+parametre	parametar	Ncmpa
+:	:	Z
+_____________________________	_____________________________	Z
+
+4.5.2.	4.5.2.	Mdo
+
+Način	način	Ncmsn
+određivanja	određivanje	Ncnsg
+učestalosti	učestalost	Ncfsg
+monitoringa	monitoring	Ncmsg
+prema	prema	Sl
+sljedećem	sljedeći	Agpmsly
+:	:	Z
+____________________	____________________	Z
+
+4.5.2.1.	4.5.2.1.	Mdo
+
+Najbolje	dobar	Agsnsny
+raspoložive	raspoloživ	Agpfpay
+tehnike	tehnika	Ncfpa
+u	u	Sl
+zaključcima	zaključak	Ncmpl
+o	o	Sl
+najboljim	dobar	Agpfply
+raspoloživim	raspoloživ	Agpfply
+tehnikama	tehnika	Ncfpl
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.2.	4.5.2.2.	Mdo
+
+Kriterijima	kriterij	Ncmpd
+navedenima	naveden	Agpmpdy
+u	u	Sl
+Prilogu	prilog	Ncmsl
+III	III	Mrc
+.	.	Z
+
+Uredbe	uredba	Ncfpn
+i	i	Cc
+uz	uz	Sa
+saslušanje	saslušanje	Ncnsa
+operatera	operater	Ncmsg
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.3.	4.5.2.3.	Mdo
+
+Prema	prema	Sl
+posebnim	poseban	Agpmply
+propisima	propis	Ncmpl
+i	i	Cc
+zahtijevanoj	zahtijevati	Agpfsly
+kakvoći	kakvoća	Ncfsl
+okoliša	okoliš	Ncmsg
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.4.	4.5.2.4.	Mdo
+
+Prema	prema	Sl
+općim	opći	Agpnply
+obvezujućim	obvezujuć	Agpnply
+pravilima	pravilo	Ncnpl
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.5.	4.5.2.5.	Mdo
+
+Frekvencije	frekvencija	Ncfpn
+monitoringa	monitoring	Ncmsg
+emisija	emisija	Ncfpg
+u	u	Sa
+tlo	tlo	Ncnsa
+i	i	Cc
+podzemne	podzeman	Agpfsgy
+vode	voda	Ncfsg
+u	u	Sl
+dozvoli	dozvola	Ncfsl
+:	:	Z
+postiže	postizati	Vmr3s
+se	sebe	Px--sa
+propisivanjem	propisivanje	Ncnsi
+minimalnog	minimalan	Agpmsgy
+monitoringa	monitoring	Ncmsg
+i	i	Cc
+to	taj	Pd-nsn
+za	za	Sa
+otpadne	otpadni	Agpfpay
+vode	voda	Ncfpa
+svakih	svaki	Agpfpgy
+5	5	Mdc
+godina	godina	Ncfpg
+te	te	Cc
+za	za	Sa
+tlo	tlo	Ncnsa
+svakih	svaki	Agpfpgy
+10	10	Mdc
+godina	godina	Ncfpg
+(	(	Z
+čl.	čl.	Y
+37.	37.	Mdo
+st.	st.	Y
+5.	5.	Mdo
+Uredbe	uredba	Ncfsg
+)	)	Z
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.5.1.	4.5.2.5.1.	Mdo
+
+Stroži	strog	Agcmpny
+uvjeti	uvjet	Ncmpn
+od	od	Sg
+propisanog	propisati	Agpmsgy
+člankom	članak	Ncmsg
+37.	37.	Mdo
+st.	st.	Y
+5.	5.	Mdo
+Uredbe	uredba	Ncfsg
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.5.2.5.2.	4.5.2.5.2.	Mdo
+
+Frekvencija	frekvencija	Ncfsn
+monitoringa	monitoring	Ncmsg
+emisija	emisija	Ncfpg
+u	u	Sa
+tlo	tlo	Ncnsa
+i	i	Cc
+podzemne	podzeman	Agpfsgy
+vode	voda	Ncfsg
+u	u	Sl
+slučaju	slučaj	Ncmsl
+strožih	strog	Agcmpgy
+uvjeta	uvjet	Ncmpg
+iz	iz	Sg
+točke	točka	Ncfsg
+4.5.2.5.1.	4.5.2.5.1.	Mds
+:	:	Z
+___________________	__________________a	Ncfpn
+
+4.6.	4.6.	Mdo
+
+PONOVNO	ponovan	Agpnsny
+RAZMATRANJE	razmatranje	Ncnsn
+I	i	Cc
+AŽURIRANJE	ažuriranje	Ncnsa
+UVJETA	uvjet	Ncmpg
+DOZVOLE	dozvola	Ncfsg
+(	(	Z
+čl.	čl.	Y
+114.	114.	Mdo
+i	i	Cc
+115.	115.	Mdo
+
+Zakona	zakon	Ncmsg
+)	)	Z
+
+4.6.1.	4.6.1.	Mdo
+
+Dozvolom	dozvola	Ncfsi
+se	sebe	Px--sa
+ažurira	ažurirati	Vmr3s
+postojeća	postojeći	Agpfsny
+dozvola	dozvola	Ncfsn
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.6.2.	4.6.2.	Mdo
+
+Ukoliko	ukoliko	Cs
+je	biti	Var3s
+navedenom	naveden	Agpfsiy
+dozvolom	dozvola	Ncfsi
+ažurirana	ažurirati	Appfsny
+postojeća	postojeći	Agpfsny
+dozvola	dozvola	Ncfsn
+navesti	navesti	Vmn
+:	:	Z
+
+(	(	Z
+a	a	Cc
+)	)	Z
+nazive	naziv	Ncmpa
+postrojenja	postrojenje	Ncnsg
+i	i	Cc
+administrativni	administrativan	Agpmsny
+broj	broj	Ncmsn
+dozvole	dozvola	Ncfsg
+(	(	Z
+Klasa	klasa	Ncfsn
+:	:	Z
+Urbroj	urbroj	Ncmsn
+:	:	Z
+datum	datum	Ncmsn
+izdavanja	izdavanje	Ncnsg
+)	)	Z
+koja	koji	Pi-fsn
+je	biti	Var3s
+ažurirana	ažurirati	Appfsny
+ovom	ovaj	Pd-fsi
+dozvolom	dozvola	Ncfsi
+:	:	Z
+____________	___________a	Ncfpn
+
+(	(	Z
+b	b	X
+)	)	Z
+razloge	razlog	Ncmpa
+zbog	zbog	Sg
+kojih	koji	Pi-mpg
+je	biti	Var3s
+ažurirana	ažurirati	Appfsny
+dozvola	dozvola	Ncfsn
+:	:	Z
+___________________________	__________________________a	Ncfpn
+
+(	(	Z
+c	C	Npmsn
+)	)	Z
+datum	datum	Ncmsan
+do	do	Sg
+kojeg	koji	Pi-msg
+će	htjeti	Var3s
+ponovno	ponovan	Agpnsny
+razmatranje	razmatranje	Ncnsn
+biti	biti	Van
+provedeno	provesti	Appnsny
+:	:	Z
+_______________	_______________	Z
+
+4.7.	4.7.	Mdo
+
+PRIMJENA	primjena	Ncfsn
+OPĆIH	opći	Agpnpgy
+OBVEZUJUĆIH	obvezujuć	Agpnpgy
+PRAVILA	pravilo	Ncnpg
+KOD	kod	Sg
+ODREĐIVANJA	određivanje	Ncnsg
+UVJETA	uvjet	Ncmsg
+DOZVOLE	dozvola	Ncfsg
+:	:	Z
+DA	da	Qr
+/	/	Z
+NE	ne	Qz
+
+4.7.1.	4.7.1.	Mdo
+
+Ukoliko	ukoliko	Cs
+da	da	Cs
+,	,	Z
+onečišćenja	onečišćenje	Ncnsg
+(	(	Z
+emisije	emisija	Ncfsg
+)	)	Z
+na	na	Sa
+koja	koji	Pi-npn
+su	biti	Var3p
+primijenjena	primijeniti	Appnpny
+opća	opći	Agpnpny
+obvezujuća	obvezujuć	Agpnpny
+pravila	pravilo	Ncnpn
+:	:	Z
+_________________	_________________	Z
+
+4.8.	4.8.	Mdo
+
+ZATVARANJE	zatvaranje	Ncnsn
+POSTROJENJA	postrojenje	Ncnsg
+
+4.8.1.	4.8.1.	Mdo
+
+Provedba	provedba	Ncfsn
+procjene	procjena	Ncfsg
+rizika	rizik	Ncmpg
+onečišćenja	onečišćenje	Ncnsg
+u	u	Sl
+postupku	postupak	Ncmsl
+okolišne	okolišni	Agpfsgy
+dozvole	dozvola	Ncfsg
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.8.2.	4.8.2.	Mdo
+
+Temeljno	temeljan	Agpnsny
+izvješće	izvješće	Ncnsn
+–	–	Z
+izrada	izrada	Ncfsn
+:	:	Z
+da	da	Cs
+/	/	Z
+ne	ne	Qz
+
+4.8.2.1.	4.8.2.1.	Mdo
+
+Sadržaj	sadržaj	Ncmsn
+Temeljnog	temeljan	Agpnsgy
+izvješća	izvješće	Ncnsg
+ako	ako	Cs
+je	biti	Var3s
+izrađeno	izraditi	Appnsny
+:	:	Z
+____________________________	___________________________i	Agpnsny
+
+4.8.2.2.	4.8.2.2.	Mdo
+
+Način	način	Ncmsn
+provjere	provjera	Ncfsg
+stanja	stanje	Ncnsg
+tla	tlo	Ncnsg
+i	i	Cc
+podzemnih	podzeman	Agpfpgy
+voda	voda	Ncfpg
+u	u	Sl
+temeljnom	temeljan	Agpnsly
+izvješću	izvješće	Ncnsl
+:	:	Z
+____________	____________	Z
+
+4.8.2.3.	4.8.2.3.	Mdo
+
+Tko	tko	Pq3m-n
+je	biti	Var3s
+odlučio	odlučiti	Vmp-sm
+o	o	Sl
+potrebi	potreba	Ncfsl
+izrade	izrada	Ncfsg
+temeljnog	temeljan	Agpnsgy
+izvješća	izvješće	Ncnsg
+te	te	Cc
+tko	tko	Pi3m-n
+odlučuje	odlučivati	Vmr3s
+o	o	Sl
+stanju	stanje	Ncnsl
+onečišćenja	onečišćenje	Ncnsg
+tla	tlo	Ncnsg
+i	i	Cc
+voda	voda	Ncfsn
+:	:	Z
+__________	__________	Z
+
+4.9.	4.9.	Mdo
+
+ODREĐIVANJE	određivanje	Ncnsn
+UVJETA	uvjet	Ncmpg
+U	u	Sl
+DOZVOLI	dozvola	Ncfsl
+ZA	za	Sa
+TRENUTNI	trenutan	Agpmsayn
+PRESTANAK	prestanak	Ncmsan
+RADA	rad	Ncmsg
+POSTROJENJA	postrojenje	Ncnsg
+:	:	Z
+DA	da	Cs
+/	/	Z
+NE	ne	Qz
+
+4.9.1	4.9.1	Agpmpny
+Uvjeti	uvjet	Ncmpn
+zbog	zbog	Sg
+čijeg	čiji	Pi-nsg
+se	sebe	Px--sa
+kršenja	kršenje	Ncnsg
+traži	tražiti	Vmr3s
+trenutni	trenutan	Agpmsny
+prestanak	prestanak	Ncmsn
+rada	rad	Ncmsg
+

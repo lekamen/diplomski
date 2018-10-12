@@ -1,0 +1,36 @@
+objavi	objaviti	Vmr3s
+presude	presuda	Ncfpa
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+odredbi	odredba	Ncfsl
+članka	članak	Ncmsg
+14.	14.	Mdo
+stavak	stavak	Ncmsn
+8.	8.	Mdo
+ZEK-a	ZEK	Npmsg
+.	.	Z
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+19.	19.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+
+Poslovni	poslovan	Agpmsny
+broj	broj	Ncmsn
+:	:	Z
+UsII-82	UsII-82	Mds
+/	/	Z
+13	13	Mdc
+-	-	Z
+5	5	Mdc
+
+Predsjednica	predsjednica	Ncfsn
+vijeća	vijeće	Ncnsg
+Lidija	Lidija	Npfsn
+Vukičević	Vukičević	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

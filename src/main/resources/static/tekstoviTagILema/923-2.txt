@@ -1,0 +1,829 @@
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Gradina	gradina	Ncfpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Nova	nov	Agpfsny
+Bukovica	Bukovica	Npfsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Suhopolje	suhopolja	Ncfsg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Voćin	Voćin	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+10.	10.	Mdo
+
+U	u	Sl
+Požeško-slavonskoj	požeško-slavonski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+češku	češki	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+10.1.	10.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Lipik	Lipik	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Pakrac	Pakrac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+češku	češki	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Požega	Poži	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+10.2.	10.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Brestovac	Brestovac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Čaglin	Čaglin	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Velika	velik	Agpfsny
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+11.	11.	Mdo
+
+U	u	Sl
+Brodsko-posavskoj	brodsko-posavski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+11.1.	11.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Nova	nov	Agpfsny
+Gradiška	Gradiška	Npfsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Slavonski	slavonski	Agpmsny
+Brod	brod	Ncmsn
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+11.2.	11.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Dragalić	Dragalić	Npfsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Garčin	Garčin	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Okučani	Okučani	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Stara	star	Agpfsny
+Gradiška	gradiška	Ncfsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+12.	12.	Mdo
+
+U	u	Sl
+Zadarskoj	zadarski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+12.1.	12.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Benkovac	Benkovac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Obrovac	Obrovac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Zadar	Zadar	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+12.2.	12.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Gračac	Gračac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+13.	13.	Mdo
+
+U	u	Sl
+Osječko-baranjskoj	osječko-baranjski	Agpfsly
+županiji	županija	Ncfsl
+–	–	Z
+na	na	Sl
+razini	razina	Ncfsl
+županije	županija	Ncfsg
+:	:	Z
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+njemačku	njemački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+25	25	Mdc
+članova	član	Ncmpg
+
+13.1.	13.1.	Mdo
+
+U	u	Sl
+gradovima	grad	Ncmpl
+:	:	Z
+
+Grad	grad	Ncmsn
+Belišće	Belišća	Npfsg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Beli	bel	Agpmsny
+Manastir	manastir	Ncmsn
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Donji	donji	Agpmsny
+Miholjac	Miholjac	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Đakovo	đakov	Aspnsay
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Našice	Našica	Npfsg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+Grad	grad	Ncmsn
+Osijek	Osijek	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+njemačku	njemački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+15	15	Mdc
+članova	član	Ncmpg
+
+13.2.	13.2.	Mdo
+
+U	u	Sl
+općinama	općina	Ncfpl
+:	:	Z
+
+Općina	općina	Ncfsn
+Bilje	bilje	Ncnsn
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Čepin	Čepin	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Darda	Dard	Npmsg
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Draž	Draž	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Erdut	Erdut	Npmsn
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Ernestinovo	Ernestinovo	Npnsa
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Jagodnjak	jagodnjak	Ncmsn
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Kneževi	knežev	Agpmpny
+Vinogradi	vinograd	Ncmpn
+
+–	i	Agpnsny
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+–	–	Z
+10	10	Mdc
+članova	član	Ncmpg
+
+Općina	općina	Ncfsn
+Koška	koškati	Vmr3s
+
+–	i	Agpnsny
+za	za	Sa
+srpsku	srpski	Agpfsay
+

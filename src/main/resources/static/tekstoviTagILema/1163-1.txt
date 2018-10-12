@@ -1,0 +1,75 @@
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Rješenje	rješenje	Ncnsa
+o	o	Sl
+određivanju	određivanje	Ncnsl
+područja	područje	Ncnsg
+stalnog	stalan	Agpmsgy
+graničnog	graničan	Agpmsgy
+prijelaza	prijelaz	Ncmsg
+za	za	Sa
+međunarodni	međunarodni	Agpmsayn
+promet	promet	Ncmsan
+I.	I.	Pd-fsg
+kategorije	kategorija	Ncfsg
+u	u	Sl
+pomorskoj	pomorski	Agpfsly
+luci	luka	Ncfsl
+Šibenik	Šibenik	Npmsn
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+61/06	61/06	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+Ovo	ovaj	Pd-nsn
+rješenje	rješenje	Ncnsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+511	511	Mdc
+-	-	Z
+13	13	Mdc
+-	-	Z
+01-UP	01-UP	I
+/	/	Z
+I-131	I-131	Mdc
+/	/	Z
+2015.	2015.	Mdo
+
+Šibenik	šibenik	Ncmsn
+,	,	Z
+2.	2.	Mdo
+travnja	travanj	Ncmsg
+2015.	2015.	Mdo
+
+Načelnik	načelnik	Ncmsn
+Uprave	uprava	Ncfsg
+Ivica	Ivica	Npmsn
+Kostanić	Kostanić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

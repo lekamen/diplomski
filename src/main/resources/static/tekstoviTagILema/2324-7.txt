@@ -1,0 +1,26 @@
+karakteristikama	karakteristika	Ncfpi
+mogu	moći	Vmr3p
+ometati	ometati	Vmn
+rad	rad	Ncmsan
+vojnih	vojni	Agpmpgy
+uređaja	uređaj	Ncmpg
+i	i	Cc
+predstavljaju	predstavljati	Vmr3p
+»	»	Z
+unosan	unosan	Agpmsann
+cilj	cilj	Ncmsan
+«	«	Z
+napada	napad	Ncmsg
+.	.	Z
+
+Za	za	Sa
+takvu	takav	Pd-fsa
+vrstu	vrsta	Ncfsa
+građenja	građenje	Ncnsg
+potrebna	potreban	Agpfsny
+je	biti	Var3s
+potvrda	potvrda	Ncfsn
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+.	.	Z
+

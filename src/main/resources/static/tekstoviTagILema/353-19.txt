@@ -1,0 +1,36 @@
+Zakona	zakon	Ncmsg
+,	,	Z
+koji	koji	Pi-mpn
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+01/04	01/04	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+6.	6.	Mdo
+veljače	veljača	Ncfsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

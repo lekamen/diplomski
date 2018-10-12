@@ -1,0 +1,129 @@
+108	108	Mdc
+23.11.2016	23.11.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+zamjenice	zamjenica	Ncfsg
+ministra	ministar	Ncmsg
+pravosuđa	pravosuđe	Ncnsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+2286	2286	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+,	,	Z
+119/14	119/14	Mdc
+i	i	Cc
+93/16	93/16	Mdc
+)	)	Z
+,	,	Z
+a	a	Cc
+u	u	Sl
+vezi	veza	Ncfsl
+s	sa	Si
+člankom	članak	Ncmsi
+19.	19.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+i	i	Cc
+dopunama	dopuna	Ncfpl
+Zakona	zakon	Ncmsg
+o	o	Sl
+sustavu	sustav	Ncmsl
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+93/16	93/16	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+17.	17.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+ZAMJENICE	zamjenica	Ncfsg
+MINISTRA	ministar	Ncmsg
+PRAVOSUĐA	pravosuđe	Ncnsg
+
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+BARICA	barica	Ncfsn
+NOVOSEL	novosei	Agpfsgy
+dužnosti	dužnost	Ncfsg
+zamjenice	zamjenica	Ncfsg
+ministra	ministar	Ncmsg
+pravosuđa	pravosuđe	Ncnsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/454	02/454	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Andrej	Andrej	Npmsn
+Plenković	Plenković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

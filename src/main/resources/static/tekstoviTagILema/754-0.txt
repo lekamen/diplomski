@@ -1,0 +1,363 @@
+36	36	Mdc
+30.03.2015	30.03.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predsjednika	predsjednik	Ncmsg
+,	,	Z
+zamjenika	zamjenik	Ncmpg
+predsjednika	predsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+u	u	Sl
+području	područje	Ncnsl
+prava	pravo	Ncnsg
+industrijskog	industrijski	Agpnsgy
+vlasništva	vlasništvo	Ncnsg
+
+MINISTARSTVO	ministarstvo	Ncnsn
+ZNANOSTI	znanost	Ncfsg
+,	,	Z
+OBRAZOVANJA	obrazovanje	Ncnsg
+I	i	Cc
+SPORTA	sport	Ncmsg
+
+755	755	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+92.	92.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+patentu	patent	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+:	:	Z
+173/03	173/03	Mds
+,	,	Z
+87/05	87/05	Mds
+,	,	Z
+76/07	76/07	Mdc
+,	,	Z
+30/09	30/09	Mdc
+,	,	Z
+128/10	128/10	Mdc
+,	,	Z
+49/11	49/11	Mdc
+i	i	Cc
+76/13	76/13	Mdc
+)	)	Z
+ministar	ministar	Ncmsn
+znanosti	znanost	Ncfsg
+,	,	Z
+obrazovanja	obrazovanje	Ncnsg
+i	i	Cc
+sporta	sport	Ncmsg
+donosi	donositi	Vmr3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+,	,	Z
+ZAMJENIKA	zamjenik	Ncmpg
+PREDSJEDNIKA	predsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+ŽALBENIH	žalbeni	Agpnpgy
+VIJEĆA	vijeće	Ncnpg
+U	u	Sl
+PODRUČJU	područje	Ncnsl
+PRAVA	pravo	Ncnsg
+INDUSTRIJSKOG	industrijski	Agpnsgy
+VLASNIŠTVA	vlasništvo	Ncnsg
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+Andrej	Andrej	Npmsn
+Matijević	Matijević	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+za	za	Sa
+predsjednika	predsjednik	Ncmsay
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+u	u	Sl
+području	područje	Ncnsl
+prava	pravo	Ncnsg
+industrijskog	industrijski	Agpnsgy
+vlasništva	vlasništvo	Ncnsg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Zamjenicom	zamjenica	Ncfsi
+predsjednika	predsjednik	Ncmsg
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+za	za	Sa
+područje	područje	Ncnsa
+patenata	patent	Ncmpg
+i	i	Cc
+topografija	topografija	Ncfpg
+poluvodičkih	poluvodički	Agpmpgy
+proizvoda	proizvod	Ncmpg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+mr.	mr.	Y
+sc.	sc.	Y
+Jela	Jela	Npfsn
+Bolić	Bolić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+
+III	III	Mrc
+.	.	Z
+
+Zamjenikom	zamjenik	Ncmsi
+predsjednika	predsjednik	Ncmsg
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+za	za	Sa
+područje	područje	Ncnsa
+žigova	žig	Ncmpg
+,	,	Z
+industrijskog	industrijski	Agpmsgy
+dizajna	dizajn	Ncmsg
+i	i	Cc
+zemljopisnih	zemljopisan	Agpfpgy
+oznaka	oznaka	Ncfpg
+podrijetla	podrijetlo	Ncnsg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+Željko	Željko	Npmsn
+Mršić	Mršić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+
+IV	IV	Mrc
+.	.	Z
+
+Za	za	Sa
+članove	član	Ncmpa
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+za	za	Sa
+područje	područje	Ncnsa
+patenata	patent	Ncmpg
+i	i	Cc
+topografija	topografija	Ncfpg
+poluvodičkih	poluvodički	Agpmpgy
+proizvoda	proizvod	Ncmpg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	i	Agpfsny
+Kamelija	kamelija	Ncfsn
+Parać	Parać	Npfsg
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Draženka	Draženka	Npfsn
+Deladio	Deladio	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Gordana	Gordana	Npfsn
+Ricijaš	Ricijaš	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+
+–	–	Npfsn
+Martina	Martina	Npfsn
+Bogović	Bogović	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+
+–	–	Npmsn
+Tihomir	Tihomir	Npmsn
+Dragun	Dragun	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+
+–	–	Npfsn
+Maja	Maja	Npfsn
+Sorić	Sorić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+
+–	–	Npfsg
+Rene	Rena	Npfsg
+Kajp	Kajp	Npfsg
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+
+V.	V.	Y
+
+Za	za	Sa
+članove	član	Ncmpa
+Žalbenih	žalbeni	Agpnpgy
+vijeća	vijeće	Ncnpg
+za	za	Sa
+područje	područje	Ncnsa
+žigova	žig	Ncmpg
+,	,	Z
+industrijskog	industrijski	Agpmsgy
+dizajna	dizajn	Ncmsg
+i	i	Cc
+oznaka	oznaka	Ncfsn
+zemljopisnog	zemljopisan	Agpnsgy
+podrijetla	podrijetlo	Ncnsg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	i	Agpfsny
+Kamelija	kamelija	Ncfsn
+Parać	Parać	Npfsg
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Draženka	Draženka	Npfsn
+Deladio	Deladio	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Gorana	Gorana	Npfsn
+Aralica	Aralica	Npfsn
+Martinović	Martinović	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Katarina	Katarina	Npfsn
+Kompari	Kompari	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npfsn
+Tomislava	Tomislava	Npfsn
+Furčić	Furčić	Npfsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Z
+Vanja	Vanja	Npmsn
+Caratan	Caratan	Npmsn
+Krenedić	Krenedić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+
+–	–	Npmsn
+Tomislav	Tomislav	Npmsn
+Nagy	Nagy	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+
+VI	VI	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+02/00021	02/00021	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+533	533	Mdc
+-	-	Z
+28	28	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+0002	0002	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Vedran	Vedran	Npmsn
+Mornar	Mornar	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

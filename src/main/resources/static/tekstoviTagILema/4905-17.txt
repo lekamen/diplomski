@@ -1,0 +1,741 @@
+indicirane	indicirati	Appfpny
+i	i	Cc
+efektivne	efektivan	Agpfpny
+snage	snaga	Ncfpn
+motora	motor	Ncmsg
+;	;	Z
+
+–	i	Agpnsny
+Otklanjanje	otklanjanje	Ncnsn
+havarije	havarija	Ncfsg
+na	na	Sl
+motoru	motor	Ncmsl
+i	i	Cc
+utvrđivanje	utvrđivanje	Ncnsa
+uzroka	uzrok	Ncmsg
+havarije	havarija	Ncfsg
+;	;	Z
+
+–	–	Z
+Proračun	proračun	Ncmsn
+zaliha	zaliha	Ncfpg
+i	i	Cc
+potrošnje	potrošnja	Ncfsg
+goriva	gorivo	Ncnsg
+i	i	Cc
+maziva	mazivo	Ncnsg
+;	;	Z
+
+–	–	Z
+Automatizacija	automatizacija	Ncfsn
+motora	motor	Ncmpg
+u	u	Sl
+funkciji	funkcija	Ncfsl
+sigurnosti	sigurnost	Ncfsg
+rada	rad	Ncmsg
+motornog	motoran	Agpnsgy
+postrojenja	postrojenje	Ncnsg
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+b	b	Npmsn
+)	)	Z
+Brodska	brodski	Agpfsny
+elektrotehnika	elektrotehnika	Ncfsn
+i	i	Cc
+automatizacija	automatizacija	Ncfsn
+pogona	pogon	Ncmsg
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	–	Z
+Brodska	brodski	Agpfsny
+električna	električan	Agpfsny
+centrala	centrala	Ncfsn
+;	;	Z
+
+–	–	Agpmpny
+Akumulatori	akumulator	Ncmpn
+;	;	Z
+
+–	–	Z
+Istosmjerna	istosmjeran	Agpfsny
+struja	struja	Ncfsn
+;	;	Z
+
+–	–	Agpmpny
+Generatori	generator	Ncmpn
+istosmjerne	istosmjeran	Agpfsgy
+struje	struja	Ncfsg
+;	;	Z
+
+–	–	Agpmpny
+Elektromotori	elektromotor	Ncmpn
+istosmjerne	istosmjeran	Agpfsgy
+struje	struja	Ncfsg
+;	;	Z
+
+–	i	Agpfsny
+Automatizacija	automatizacija	Ncfsn
+u	u	Sl
+funkciji	funkcija	Ncfsl
+sigurnosti	sigurnost	Ncfsg
+i	i	Cc
+zaštiti	zaštita	Ncfsl
+električnih	električan	Agpmpgy
+strojeva	stroj	Ncmpg
+i	i	Cc
+elektroinstalacija	elektroinstalacija	Ncfpg
+;	;	Z
+
+–	i	Agpfsny
+Elektroinstalacija	elektroinstalacija	Ncfsn
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+c	C	Npmsn
+)	)	Z
+Brodski	brodski	Agpmpny
+pomoćni	pomoćan	Agpmpny
+strojevi	stroj	Ncmpn
+i	i	Cc
+uređaji	uređaj	Ncmpn
+–	–	Z
+usmeni	usmen	Agpmsayn
+ispit	ispit	Ncmsan
+
+–	i	Agpfsny
+Podjela	podjela	Ncfsn
+pomoćnih	pomoćan	Agpmpgy
+strojeva	stroj	Ncmpg
+prema	prema	Sl
+namjeni	namjena	Ncfsl
+i	i	Cc
+vrsti	vrsta	Ncfsl
+pogona	pogon	Ncmsg
+;	;	Z
+
+–	–	Sg
+Brodske	brodski	Agpfsgy
+sisaljke	sisaljka	Ncfsg
+–	–	Z
+podjela	podjela	Ncfsn
+;	;	Z
+
+–	–	Pd-mpn
+Ventilatori	ventilator	Ncmpn
+za	za	Sa
+izmjenu	izmjena	Ncfsa
+zraka	zrak	Ncmsg
+u	u	Sl
+strojarnici	strojarnica	Ncfsl
+;	;	Z
+
+–	–	Agpmpny
+Separatori	separator	Ncmpn
+motornog	motoran	Agpnsgy
+ulja	ulje	Ncnsg
+,	,	Z
+goriva	gorivo	Ncnsg
+i	i	Cc
+zamuljene	zamuljiti	Agpfsgy
+vode	voda	Ncfsg
+;	;	Z
+
+–	–	Agpmpny
+Izmjenjivači	izmjenjivač	Ncmpn
+topline	toplina	Ncfsg
+rashladne	rashladni	Agpfsgy
+vode	voda	Ncfsg
+glavnog	glavni	Agpmsgy
+motora	motor	Ncmsg
+;	;	Z
+
+–	–	Z
+Grubi	grub	Agpmpny
+i	i	Cc
+fini	fin	Agpmpny
+čistači	čistač	Ncmpn
+vode	voditi	Vmr3p
+,	,	Z
+goriva	gorivo	Ncnsg
+i	i	Cc
+ulja	ulje	Ncnsg
+;	;	Z
+
+–	–	Z
+Posude	posuda	Ncfsg
+pod	pod	Si
+tlakom	tlaka	Ncfsi
+za	za	Sa
+pokretanje	pokretanje	Ncnsa
+glavnih	glavni	Agpmpgy
+motora	motor	Ncmpg
+;	;	Z
+
+–	–	Agpmsny
+Hidraulični	hidrauličan	Agpmsny
+kormilarski	kormilarski	Agpmsny
+stroj	stroj	Ncmsn
+;	;	Z
+
+–	–	Z
+Brodske	brodski	Agpfsgy
+instalacije	instalacija	Ncfsg
+,	,	Z
+ventilske	ventilski	Agpfsgy
+stanice	stanica	Ncfsg
+,	,	Z
+brzozaporni	brzozaporan	Agpmpny
+ventili	ventil	Ncmpn
+;	;	Z
+
+–	i	Agpfsny
+Automatizacija	automatizacija	Ncfsn
+pomoćnih	pomoćan	Agpmpgy
+motora	motor	Ncmpg
+u	u	Sl
+funkciji	funkcija	Ncfsl
+sigurnosti	sigurnost	Ncfsg
+pogona	pogon	Ncmsg
+;	;	Z
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
+=	=	Z
+8	8	Mdc
+
+Dio	dio	Ncmsn
+III	III	Mrc
+.	.	Z
+
+DOPUNSKA	dopunski	Agpfsny
+OSPOSOBLJENOST	osposobljenost	Ncfsn
+
+1.	1.	Mdo
+Za	za	Sa
+upravljanje	upravljanje	Ncnsa
+plovilom	plovilo	Ncnsi
+uz	uz	Sa
+pomoć	pomoć	Ncfsa
+radara	radar	Ncmsg
+
+–	–	Z
+Opći	opći	Agpmpny
+pojmovi	pojam	Ncmpn
+o	o	Sl
+radaru	radar	Ncmsl
+
+–	–	Z
+Način	način	Ncmsn
+rada	rad	Ncmsg
+radara	radar	Ncmsg
+
+–	–	Pd-fsg
+Frekvencije	frekvencija	Ncfsg
+,	,	Z
+snaga	snaga	Ncfsn
+i	i	Cc
+rasprostiranje	rasprostiranje	Ncnsa
+valova	val	Ncmpg
+
+–	–	Z
+Radarski	radarski	Agpmpny
+sklopovi	sklop	Ncmpn
+
+–	i	Agpnsny
+Uključivanje	uključivanje	Ncnsn
+radara	radar	Ncmsg
+
+–	i	Agpnsny
+Podešavanje	podešavanje	Ncnsn
+radara	radar	Ncmsg
+
+–	i	Agpnsny
+Uklanjanje	uklanjanje	Ncnsn
+smetnji	smetnja	Ncfpg
+na	na	Sl
+radarskoj	radarski	Agpfsly
+slici	slika	Ncfsl
+
+–	i	Agpfpay
+Mogućnosti	mogućnost	Ncfpa
+radara	radar	Ncmsg
+
+–	i	Agpfsny
+Radarska	radarski	Agpfsny
+slika	slika	Ncfsn
+i	i	Cc
+tumačenje	tumačenje	Ncnsa
+objekata	objekt	Ncmpg
+na	na	Sl
+zaslonu	zaslon	Ncmsl
+
+–	i	Agpnsny
+Određivanje	određivanje	Ncnsn
+udaljenosti	udaljenost	Ncfsg
+
+–	i	Agpnsny
+Određivanje	određivanje	Ncnsn
+vlastite	vlastit	Agpfsgy
+pozicije	pozicija	Ncfsg
+te	te	Cc
+pozicije	pozicija	Ncfpa
+pokretnih	pokretan	Agpfpgy
+i	i	Cc
+nepokretnih	nepokretan	Agpmpgy
+objekata	objekt	Ncmpg
+
+–	i	Agpfsny
+Plovidba	plovidba	Ncfsn
+u	u	Sl
+zadanom	zadati	Agpmsly
+kursu	kurs	Ncmsl
+,	,	Z
+te	te	Cc
+izbjegavanje	izbjegavanje	Ncnsn
+sudara	sudar	Ncmsg
+
+–	–	Z
+Procjena	procjena	Ncfsn
+ponašanja	ponašanje	Ncnsg
+drugih	drugi	Mlompg
+sudionika	sudionik	Ncmpg
+u	u	Sl
+plovidbi	plovidba	Ncfsl
+
+–	–	Sg
+Smetnje	smetnja	Ncfsg
+na	na	Sl
+radarskoj	radarski	Agpfsly
+slici	slika	Ncfsl
+koje	koji	Pi-fpn
+uzrokuju	uzrokovati	Vmr3p
+okruženje	okruženje	Ncnsa
+,	,	Z
+vlastito	vlastit	Agpnsny
+plovilo	plovilo	Ncnsn
+,	,	Z
+te	te	Cc
+meteorološki	meteorološki	Agpmpny
+uvjeti	uvjet	Ncmpn
+
+–	i	Agpfpny
+Prednosti	prednost	Ncfpn
+i	i	Cc
+nedostaci	nedostatak	Ncmpn
+radara	radar	Ncmsg
+u	u	Sl
+navigaciji	navigacija	Ncfsl
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
++	+	Z
+PRAKSA	praksa	Ncfsn
+=	=	Z
+10	10	Mdc
+(	(	Z
+teorija	teorija	Ncfsn
+7	7	Mdc
++	+	Z
+praksa	praksa	Ncfsn
+3	3	Mdc
+)	)	Z
+.	.	Z
+
+2.	2.	Mdo
+Za	za	Sa
+rukovanje	rukovanje	Ncnsa
+radiotelefonskim	radiotelefonski	Agpmsiy
+uređajem	uređaj	Ncmsi
+
+–	–	Pd-fsg
+Vrste	vrsta	Ncfsg
+radiopostaja	radiopostaja	Ncfsn
+
+–	–	Z
+Dokumentacija	dokumentacija	Ncfsn
+za	za	Sa
+upotrebu	upotreba	Ncfsa
+radiopostaje	radiopostaja	Ncfsg
+i	i	Cc
+obvezni	obvezan	Agpmpny
+upisi	upis	Ncmpn
+
+–	–	Pd-mpn
+Propisi	propis	Ncmpn
+koji	koji	Pi-mpn
+reguliraju	regulirati	Vmr3p
+uporabu	uporaba	Ncfsa
+radiopostaja	radiopostaja	Ncfpg
+,	,	Z
+RAINWAT	RAINWAT	Npmsn
+,	,	Z
+priručnici	priručnik	Ncmpn
+
+–	i	Agpnsny
+Testiranje	testiranje	Ncnsn
+uređaja	uređaj	Ncmpg
+,	,	Z
+izlazna	izlazni	Agpfsny
+snaga	snaga	Ncfsn
+odašiljača	odašiljač	Ncmsg
+i	i	Cc
+smetnje	smetnja	Ncfsg
+signala	signal	Ncmsg
+
+–	i	Agpnsny
+Napajanje	napajanje	Ncnsn
+radiouređaja	radiouređaj	Ncmsg
+i	i	Cc
+njegovo	njegov	Ps3nsn
+održavanje	održavanje	Ncnsn
+
+–	–	Z
+Tablica	tablica	Ncfsn
+kanala	kanal	Ncmsg
+i	i	Cc
+frekvencije	frekvencija	Ncfsg
+,	,	Z
+tablica	tablica	Ncfsn
+sricanja	sricanje	Ncnsg
+
+–	–	Npmsn
+Simplex	Simplex	Npmsn
+i	i	Cc
+Duplex	dup	Agcmsayn
+način	način	Ncmsan
+rada	rad	Ncmsg
+,	,	Z
+Dual	Dual	Npmsn
+Watch	Watch	Npmsn
+
+–	i	Agpfsny
+Kategorija	kategorija	Ncfsn
+službe	služba	Ncfsg
+»	»	Z
+plovilo-plovilo	plovilo-ploviti	Vmp-sn
+«	«	Z
+
+–	i	Agpfsny
+Kategorija	kategorija	Ncfsn
+službe	služba	Ncfsg
+»	»	Z
+nautičke	nautički	Agpfpay
+informacije	informacija	Ncfpa
+«	«	Z
+
+–	i	Agpfsny
+Kategorija	kategorija	Ncfsn
+službe	služba	Ncfsg
+»	»	Z
+plovilo-luka	plovilo-luka	Ncfsn
+«	«	Z
+
+–	i	Agpfsny
+Kategorija	kategorija	Ncfsn
+službe	služba	Ncfsg
+»	»	Z
+interna	interni	Agpfsny
+komunikacija	komunikacija	Ncfsn
+«	«	Z
+
+–	–	Z
+Priprema	priprema	Ncfsn
+poziva	pozivati	Vmr3s
+i	i	Cc
+pozivanje	pozivanje	Ncnsa
+,	,	Z
+komunikacijska	komunikacijski	Agpfsny
+forma	forma	Ncfsn
+
+–	–	Z
+Disciplina	disciplina	Ncfsn
+komunikacije	komunikacija	Ncfsg
+,	,	Z
+odgovornost	odgovornost	Ncfsa
+za	za	Sa
+rad	rad	Ncmsan
+s	sa	Si
+radiouređajima	radiouređaj	Ncmpi
+i	i	Cc
+obveze	obveza	Ncfpn
+javljanja	javljanje	Ncnsg
+
+–	–	Agpmsny
+Redoslijed	redoslijed	Ncmsn
+prvenstva	prvenstvo	Ncnsg
+u	u	Sl
+radio-komunikaciji	radio-komunikacija	Ncfsl
+
+–	–	Agpmsny
+Početak	početak	Ncmsn
+komunikacije	komunikacija	Ncfsg
+opasnosti	opasnost	Ncfsg
+i	i	Cc
+odgovor	odgovor	Ncmsan
+na	na	Sa
+poziv	poziv	Ncmsan
+
+–	–	Agpmsny
+Režim	režim	Ncmsn
+rada	rad	Ncmsg
+na	na	Sl
+kanalima	kanal	Ncmpl
+za	za	Sa
+opasnost	opasnost	Ncfsa
+,	,	Z
+prosljeđivanje	prosljeđivanje	Ncnsa
+poruke	poruka	Ncfsg
+i	i	Cc
+radio	raditi	Vmp-sm
+šutnja	šutnja	Ncfsn
+
+–	i	Agpfsny
+Procedura	procedura	Ncfsn
+komunikacije	komunikacija	Ncfsg
+hitnosti	hitnost	Ncfsg
+
+–	i	Agpfsny
+Procedura	procedura	Ncfsn
+komunikacije	komunikacija	Ncfsg
+sigurnosti	sigurnost	Ncfsg
+
+BROJ	broj	Ncmsn
+SATI	sat	Ncmpg
+:	:	Z
+TEORIJA	teorija	Ncfsn
++	+	Z
+PRAKSA	praksa	Ncfsn
+=	=	Z
+10	10	Mdc
+(	(	Z
+teorija	teorija	Ncfsn
+5	5	Mdc
++	+	Z
+praksa	praksa	Ncfsn
+5	5	Mdc
+)	)	Z
+.	.	Z
+
+3.	3.	Mdo
+Za	za	Sa
+rukovanje	rukovanje	Ncnsa
+plovnom	plovan	Agpfsiy
+dizalicom	dizalica	Ncfsi
+
+–	–	Pd-mpn
+Osnovni	osnovan	Agpmpny
+pojmovi	pojam	Ncmpn
+o	o	Sl
+sili	sila	Ncfsl
+,	,	Z
+mehaničkom	mehanički	Agpmsly
+radu	rad	Ncmsl
+,	,	Z
+brzini	brzina	Ncfsl
+snazi	snaga	Ncfsd
+i	i	Cc
+energiji	energija	Ncfsl
+i	i	Cc
+o	o	Sl
+jedinicama	jedinica	Ncfpl
+za	za	Sa
+njihovo	njihov	Agpnsay
+mjerenje	mjerenje	Ncnsa
+
+–	–	Agpmsny
+Pojam	pojam	Ncmsn
+o	o	Sl
+brodskim	brodski	Agpfply
+linijama	linija	Ncfpl
+,	,	Z
+njihovom	njihov	Agpnsly
+značenju	značenje	Ncnsl
+,	,	Z
+i	i	Cc
+primjeni	primjena	Ncfsl
+
+–	i	Agpfsny
+Istisnina	istisnina	Ncfsn
+(	(	Z
+deplasman	deplasman	Ncmsn
+)	)	Z
+,	,	Z
+vlastita	vlastit	Agpfsny
+težina	težina	Ncfsn
+i	i	Cc
+nosivost	nosivost	Ncfsn
+plovila	plovilo	Ncnsg
+(	(	Z
+definicije	definicija	Ncfpn
+)	)	Z
+
+–	–	Agpmsny
+Koeficijent	koeficijent	Ncmsn
+punoće	punoća	Ncfsg
+istisnine	istisnina	Ncfsg
+i	i	Cc
+približni	približan	Agpmsayn
+proračun	proračun	Ncmsan
+istisnine	istisnina	Ncfsg
+i	i	Cc
+nosivosti	nosivost	Ncfsg
+plovila	plovilo	Ncnsg
+,	,	Z
+kada	kada	Cs
+su	biti	Var3p
+poznate	poznat	Agpfpny
+glavne	glavni	Agpfpny
+dimenzije	dimenzija	Ncfpn
+trupa	trup	Ncmsg
+i	i	Cc
+koeficijent	koeficijent	Ncmsan
+punoće	punoća	Ncfsg
+istisnine	istisnina	Ncfsg
+.	.	Z
+
+–	–	Z
+Stabilna	stabilan	Agpfsny
+,	,	Z
+labilna	labilan	Agpfsny
+i	i	Cc
+indiferentna	indiferentan	Agpfsny
+ravnoteža	ravnoteža	Ncfsn
+plovila	ploviti	Vmp-sf
+,	,	Z
+sa	sa	Si
+naročitim	naročit	Agpmsiy
+osvrtom	osvrt	Ncmsi
+na	na	Sa
+stabilitet	stabilitet	Ncmsan
+plovnih	plovan	Agpfpgy
+dizalica	dizalica	Ncfpg
+
+–	–	Pd-mpn
+Osnovni	osnovan	Agpmpny
+pojmovi	pojam	Ncmpn
+o	o	Sl
+pramčanoj	pramčani	Agpfsly
+i	i	Cc
+krmenoj	krmeni	Agpfsly
+pretezi	preteza	Ncfsl
+plovnih	plovan	Agpfpgy
+dizalica	dizalica	Ncfpg
+–	–	Z
+uzroci	uzrok	Ncmpn
+,	,	Z
+nastajanje	nastajanje	Ncnsa
+i	i	Cc
+posljedice	posljedica	Ncfpa
+(	(	Z
+opisno	opisni	Agpnsny
+)	)	Z
+
+–	–	Sg
+Glavne	glavni	Agpfsgy
+vrste	vrsta	Ncfsg
+plovnih	plovan	Agpfpgy
+dizalica	dizalica	Ncfpg
+,	,	Z
+(	(	Z
+opis	opis	Ncmsn
+,	,	Z
+glavne	glavni	Agpfsgy
+dimenzije	dimenzija	Ncfsg
+,	,	Z
+kapaciteti	kapacitet	Ncmpn
+,	,	Z
+prednosti	prednost	Ncfpn
+i	i	Cc
+nedostaci	nedostatak	Ncmpn
+)	)	Z
+.	.	Z
+
+–	–	Z
+Princip	princip	Ncmsn
+rada	rad	Ncmsg
+i	i	Cc
+glavni	glavni	Agpmpny
+dijelovi	dio	Ncmpn
+četverotaktnog	četverotaktan	Agpmsgy
+i	i	Cc
+dvotaktnog	dvotaktni	Agpmsgy
+dizel-motora	dizel-motor	Ncmsg
+
+–	–	Z
+Osnovno	osnovan	Agpnsny
+poznavanje	poznavanje	Ncnsn
+električnih	električan	Agpmpgy
+uređaja	uređaj	Ncmpg
+i	i	Cc
+instalacije	instalacija	Ncfsg
+na	na	Sl
+plovnoj	plovan	Agpfsly
+dizalici	dizalica	Ncfsl
+,	,	Z
+
+–	–	Sg
+Glavne	glavni	Agpfsgy
+vrste	vrsta	Ncfsg
+pomoćnih	pomoćan	Agpnpgy
+tehničkih	tehnički	Agpnpgy
+plovila	plovilo	Ncnpg
+(	(	Z
+opis	opis	Ncmsan
+,	,	Z
+namjena	namjena	Ncfsn
+i	i	Cc
+kapaciteti	kapacitet	Ncmpn
+)	)	Z
+.	.	Z
+
+–	–	Z
+Glavni	glavni	Agpmpny
+dizalični	dizaličan	Agpmpny
+uređaji	uređaj	Ncmpn
+i	i	Cc
+oprema	opremati	Vmr3s
+(	(	Z
+vrste	vrsta	Ncfsg
+,	,	Z
+opis	opis	Ncmsan
+i	i	Cc
+funkcioniranje	funkcioniranje	Ncnsa
+)	)	Z
+
+–	–	Agpmsny
+Pojam	pojam	Ncmsn
+o	o	Sl
+silama	sila	Ncfpl
+koje	koji	Pi-fpn
+djeluju	djelovati	Vmr3p
+na	na	Sa
+glavne	glavni	Agpmpay
+konstruktivne	konstruktivan	Agpmpay
+dijelove	dio	Ncmpa
+dizaličnih	dizaličan	Agpmpgy
+uređaja	uređaj	Ncmpg
+i	i	Cc
+o	o	Sl
+naprezanju	naprezanje	Ncnsl
+i	i	Cc
+izdržljivosti	izdržljivost	Ncfsl
+

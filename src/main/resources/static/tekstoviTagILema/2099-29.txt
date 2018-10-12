@@ -1,0 +1,737 @@
+se	sebe	Px--sa
+gubi	gubiti	Vmr3s
+povijesni	povijesni	Agpmsny
+prostorni	prostoran	Agpmsny
+identitet	identitet	Ncmsn
+i	i	Cc
+oblik	oblik	Ncmsan
+naseljenosti	naseljenost	Ncfsg
+
+–	i	Agpnsny
+očuvanje	očuvanje	Ncnsn
+neometanog	neometan	Agpmsgy
+pogleda	pogled	Ncmsg
+na	na	Sa
+konture	kontura	Ncfpa
+naselja	naselje	Ncnsg
+,	,	Z
+na	na	Sa
+građevine	građevina	Ncfpa
+–		Agcmpay
+nositelje	nositelj	Ncmpa
+prostornog	prostoran	Agpmsgy
+identiteta	identitet	Ncmsg
+kao	kao	Cs
+što	što	Cs
+su	biti	Var3p
+tornjevi	toranj	Ncmpn
+crkava	crkva	Ncfpg
+,	,	Z
+istaknuti	istaknuti	Appmpny
+povijesni	povijesni	Agpmpny
+sklopovi	sklop	Ncmpn
+i	i	Cc
+građevine	građevina	Ncfsg
+,	,	Z
+istaknute	istaknuti	Appfsgy
+tradicijske	tradicijski	Agpfsgy
+građevine	građevina	Ncfsg
+na	na	Sl
+krajnjim	krajnji	Agpfply
+točkama	točka	Ncfpl
+ili	ili	Cc
+na	na	Sl
+istaknutim	istaknuti	Agpmply
+položajima	položaj	Ncmpl
+u	u	Sl
+naselju	naselje	Ncnsl
+,	,	Z
+skulpture	skulptura	Ncfsg
+i	i	Cc
+sl.	sl.	Y
+
+–	i	Agpnsay
+poticanje	poticanje	Ncnsa
+i	i	Cc
+unapređenje	unapređenji	Agpfsgy
+sanacije	sanacija	Ncfsg
+i	i	Cc
+obnove	obnova	Ncfsg
+povijesnih	povijesni	Agpfpgy
+građevina	građevina	Ncfpg
+,	,	Z
+poglavito	poglavito	Rgp
+tradicijske	tradicijski	Agpfsgy
+arhitekture	arhitektura	Ncfsg
+u	u	Sl
+kamenu	kamen	Ncmsl
+i	i	Cc
+uključivanjem	uključivanje	Ncnsi
+istih	isti	Agpfpgy
+u	u	Sa
+suvremene	suvremen	Agpmpay
+organizacijske	organizacijski	Agpmpay
+sustave	sustav	Ncmpa
+
+–	i	Agpnsay
+poticanje	poticanje	Ncnsa
+i	i	Cc
+unapređenje	unapređenje	Ncnsa
+održavanja	održavanje	Ncnsg
+zapuštenih	zapustiti	Agpfpgy
+poljodjelskih	poljodjelski	Agpfpgy
+površina	površina	Ncfpg
+,	,	Z
+zadržavanjem	zadržavanje	Ncnsi
+njihove	njihov	Ps3fpa
+tradicijske	tradicijski	Agpfpay
+i	i	Cc
+prirodne	prirodan	Agpfsgy
+strukture	struktura	Ncfsg
+
+–	–	I
+ne	ne	Qz
+dozvoljava	dozvoljavati	Vmr3s
+se	sebe	Agpnsay
+rušenje	rušenje	Ncnsa
+suhozida	suhozid	Ncmsg
+,	,	Z
+pastirskih	pastirski	Agpmpgy
+stanova	stan	Ncmpg
+i	i	Cc
+drugih	drugi	Mlompg
+elemenata	element	Ncmpg
+tradicionalnih	tradicionalan	Agpfpgy
+građevina	građevina	Ncfpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Osigurati	osigurati	Vmn
+očuvanje	očuvanje	Ncnsa
+kulturne	kulturan	Agpfsgy
+baštine	baština	Ncfsg
+;	;	Z
+omogućiti	omogućiti	Vmn
+obnovu	obnova	Ncfsa
+kulturnih	kulturan	Agpnpgy
+dobara	dobro	Ncnpg
+i	i	Cc
+elemenata	element	Ncmpg
+tradicijske	tradicijski	Agpfsgy
+arhitekture	arhitektura	Ncfsg
+u	u	Sl
+originalnim	originalan	Agpmply
+gabaritima	gabarit	Ncmpl
+uz	uz	Sa
+prethodnu	prethodan	Agpfsay
+konzultaciju	konzultacija	Ncfsa
+s	sa	Si
+konzervatorskom	konzervatorski	Agpfsiy
+službom	služba	Ncfsi
+i	i	Cc
+Javnom	javan	Agpfsiy
+ustanovom	ustanova	Ncfsi
+Parka	parka	Ncfsn
+te	te	Cc
+zadovoljene	zadovoljiti	Appfpny
+sve	sav	Agpmpay
+zakonske	zakonski	Agpmpay
+uvjete	uvjet	Ncmpa
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Omogućiti	omogućiti	Vmn
+rekonstrukciju	rekonstrukcija	Ncfsa
+suhozida	suhozid	Ncmsg
+,	,	Z
+podzida	podzidati	Vmr3s
+(	(	Z
+terasa	terasa	Ncfsn
+)	)	Z
+,	,	Z
+lokvi	lokva	Ncfpg
+i	i	Cc
+bunara	bunar	Ncmpg
+kao	kao	Cs
+i	i	Cc
+drugih	drugi	Mlompg
+elemenata	element	Ncmpg
+tradicionalne	tradicionalan	Agpfsgy
+arhitekture	arhitektura	Ncfsg
+u	u	Sl
+originalnim	originalan	Agpmply
+gabaritima	gabarit	Ncmpl
+i	i	Cc
+uz	uz	Sa
+upotrebu	upotreba	Ncfsa
+za	za	Sa
+ovo	ovaj	Pd-nsa
+područje	područje	Ncnsa
+tradicionalnih	tradicionalan	Agpmpgy
+materijala	materijal	Ncmpg
+.	.	Z
+
+8.	8.	Mdo
+UVJETI	uvjet	Ncmpn
+GRADNJE	gradnja	Ncfsg
+
+8.1.	8.1.	Mdo
+
+Smjernice	smjernica	Ncfpn
+za	za	Sa
+gradnju	gradnja	Ncfsa
+na	na	Sl
+površinama	površina	Ncfpl
+naselja	naselje	Ncnsg
+
+Članak	članak	Ncmsn
+68.	68.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Površine	površina	Ncfpn
+naselja	naselje	Ncnsg
+su	biti	Var3p
+prostori	prostor	Ncmpn
+temeljem	temelj	Ncmsi
+kojih	koji	Pi-mpg
+se	sebe	Px--sa
+ovim	ovaj	Pd-msi
+Planom	plan	Ncmsi
+utvrđuju	utvrđivati	Vmr3p
+granice	granica	Ncfpa
+građevinskih	građevinski	Agpnpgy
+područja	područje	Ncnpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Površine	površina	Ncfsg
+naselja	naselje	Ncnsg
+razgraničene	razgraničiti	Agpfsgy
+ovim	ovaj	Pd-msi
+Planom	plan	Ncmsi
+su	biti	Var3p
+dijelovi	dio	Ncmpn
+administrativnih	administrativan	Agpnpgy
+naselja	naselje	Ncnpg
+(	(	Z
+zaseoci	zaselak	Ncmpn
+ili	ili	Cc
+dijelovi	dio	Ncmpn
+zaselaka	zaselak	Ncmpg
+)	)	Z
+,	,	Z
+pretežno	pretežan	Agpnsny
+na	na	Sl
+rubnim	rubni	Agpmply
+dijelovima	dio	Ncmpl
+Parka	park	Ncmsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Građevinska	građevinski	Agpnpny
+područja	područje	Ncnpn
+naselja	naselje	Ncnsg
+(	(	Z
+prema	prema	Sl
+administrativnoj	administrativan	Agpfsly
+podjeli	podjela	Ncfsl
+)	)	Z
+su	biti	Var3p
+:	:	Z
+
+1.	1.	Mdo
+Općina	općina	Ncfsn
+Brela	Brel	Npmsg
+1.1.	1.1.	Mds
+
+Gornja	gornji	Agpfsny
+Brela	Brela	Npfsn
+1.	1.	Mdo
+1.1.1.	1.1.1.	Mdo
+
+Škrabići	škrati	Rr
+2.	2.	Mdo
+1.1.2.	1.1.2.	Mdo
+
+Subotišće	subotišća	Ncfpn
+3.	3.	Mdo
+1.1.3.	1.1.3.	Mdo
+
+Carevići	carevića	Ncfsl
+*	*	Z
+4.	4.	Mdo
+1.1.4.	1.1.4.	Mdo
+
+Ursići	ursića	Ncfsl
+(	(	Z
+Zaveterje	zaveterje	Ncnsn
+)	)	Z
+5.	5.	Mdo
+1.1.5.	1.1.5.	Mds
+
+Brkulji	brkulj	Ncmpn
+(	(	Z
+Zaveterje	zaveterje	Ncnsn
+)	)	Z
+6.	6.	Mdo
+1.1.6.	1.1.6.	Mds
+
+Tomaši	tomaš	Ncmpn
+(	(	Z
+Zaveterje	zaveterje	Ncnsn
+)	)	Z
+7.	7.	Mdo
+1.1.7.	1.1.7.	Mds
+
+Bartulovići	bartulovića	Ncfsl
+(	(	Z
+Zaveterje	zaveterje	Ncnsn
+)	)	Z
+8.	8.	Mdo
+1.1.8.	1.1.8.	Mds
+
+Gornja	gornji	Agpfsny
+Mala	Mala	Npfsn
+(	(	Z
+Gržica	Gržica	Npfsn
+,	,	Z
+Ivanci	Ivanc	Npmpn
+,	,	Z
+Tomaši	Tomaša	Npfsl
+)	)	Z
+2	2	Mdc
+Općina	općina	Ncfsn
+Šestanovac	Šestanovac	Npmsn
+2.1.	2.1.	Mds
+
+Grabovac	grabovac	Ncmsn
+9.	9.	Mdo
+2.1.1.	2.1.1.	Mdo
+
+Radići	Radić	Npmpn
+–	–	Z
+Pejkovići	pejkovića	Ncfsl
+3.	3.	Mdo
+Općina	općina	Ncfsn
+Zagvozd	Zagvozd	Npfsn
+3.1.	3.1.	Mdo
+
+Rastovac	rastovac	Ncmsn
+10.	10.	Mdo
+3.1.1.	3.1.1.	Mds
+
+Šute	šuta	Ncfpn
+11.	11.	Mdo
+3.1.2.	3.1.2a	Ncfsg
+
+Serdarevići	Serdarević	Npmpn
+,	,	Z
+Žugo	Žugo	Npmsn
+12.	12.	Mdo
+3.1.3.	3.1.3.	Mdo
+
+Lončari	lončar	Ncmpn
+13.	13.	Mdo
+3.1.4.	3.1.4.	Mds
+
+Dedići	deti	Rr
+*	*	Z
+14.	14.	Mdo
+3.1.5.	3.1.5.	Mds
+
+Stanići	Stanić	Npmpn
+,	,	Z
+Maslići	Maslići	Npfsl
+,	,	Z
+Vranjići	Vranjići	Npfsl
+3.2.	3.2.	Mds
+
+Zagvozd	zagvozd	Ncmsn
+15.	15.	Mdo
+3.2.1.	3.2.1.	Mds
+
+Brnasi	brnas	Ncmpn
+16.	16.	Mdo
+3.2.2.	3.2.2.	Mds
+
+Katušići	katuti	Rr
+17.	17.	Mdo
+3.2.3.	3.2.3.	Mds
+
+Brzice	brzica	Ncfpn
+18.	18.	Mdo
+3.2.4.	3.2.4a	Ncfsg
+
+Mucići	muti	Rr
+19.	19.	Mdo
+3.2.5.	3.2.5.	Mds
+
+Milići	Milić	Npmpn
+*	*	Z
+20.	20.	Mdo
+3.2.6.	3.2.6.	Mds
+
+Sudišće	Sudišće	Npnsn
+*	*	Z
+3.3.	3.3.	Mds
+
+Župa	župa	Ncfsn
+21.	21.	Mdo
+3.3.1.	3.3.1a	Ncfsg
+
+Turići	tuti	Rr
+*	*	Z
+22.	22.	Mdo
+3.3.2.	3.3.2.	Mds
+
+Garmazi	garmaz	Ncmpn
+23.	23.	Mdo
+3.3.3.	3.3.3.	Mds
+
+Takalo	takati	Vmp-sn
+22.	22.	Mdo
+3.3.4.	3.3.4.	Mds
+
+Roglići	rogti	Rr
+25.	25.	Mdo
+3.3.5.	3.3.5.	Mds
+
+Luetići	luetića	Ncfsl
+*	*	Z
+4.	4.	Mdo
+Grad	grad	Ncmsn
+Vrgorac	Vrgorac	Npmsn
+4.1.	4.1.	Mds
+
+Rašćane	rašćana	Ncfpn
+26.	26.	Mdo
+4.1.1.	4.1.1.	Mds
+
+Njivice	njivica	Ncfpn
+27.	27.	Mdo
+4.1.2.	4.1.2a	Ncfsg
+
+Veliki	velik	Agpmsny
+Godinj	godinj	Ncmsn
+28.	28.	Mdo
+4.1.3.	4.1.3.	Mds
+
+Mali	mali	Agpmsny
+Godinj	godinj	Ncmsn
+29.	29.	Mdo
+4.1.4.	4.1.4.	Mds
+
+Družijanići	družijati	Rr
+30.	30.	Mdo
+4.1.5.	4.1.5.	Mds
+
+Gomila	gomila	Ncfsn
+31.	31.	Mdo
+4.1.6.	4.1.6a	Ncfsg
+
+Lendići	lenti	Rr
+32.	32.	Mdo
+4.1.7.	4.1.7.	Mds
+
+Pejkovići	pejkoti	Rr
+*	*	Z
+33.	33.	Mdo
+4.1.8.	4.1.8.	Mds
+
+Ožići	oti	Rr
+34.	34.	Mdo
+4.1.9.	4.1.9.	Mds
+
+Lužine	lužina	Ncfsg
+35.	35.	Mdo
+4.1.10.	4.1.10.	Mdo
+
+Rotni	rotan	Agpmsny
+Dolac	dolac	Ncmsn
+4.2.	4.2.	Mds
+
+Kozica	kozica	Ncfsn
+36.	36.	Mdo
+4.2.1.	4.2.1a	Ncfsg
+
+Donji	donji	Agpmsny
+Ravlići	ravlići	Agpmsny
+37.	37.	Mdo
+4.2.2.	4.2.2.	Mds
+
+Pucari	pucar	Ncmpn
+*	*	Z
+38.	38.	Mdo
+4.2.3.	4.2.3.	Mds
+
+Jujnovići	jujnoti	Rr
+39.	39.	Mdo
+4.2.4.	4.2.4.	Mds
+
+Lendići	lendići	Agpmsny
+**	**	Ncmsn
+40.	40.	Mdo
+4.2.5.	4.2.5.	Mds
+
+Pavići	Pavić	Npmpn
+*	*	Z
+41.	41.	Mdo
+4.2.6.	4.2.6.	Mds
+
+Vranješi	vranješ	Ncmpn
+42.	42.	Mdo
+4.2.7.	4.2.7.	Mds
+
+Marasi	Maras	Npmpn
+**	**	Z
+43.	43.	Mdo
+4.2.8.	4.2.8.	Mds
+
+Okmadžići	okmadžići	Agpmsny
+**	**	Ncmsn
+44.	44.	Mdo
+4.2.9.	4.2.9.	Mds
+
+Saranač	Saranač	Npfsn
+**	**	Npfsn
+5.	5.	Mdo
+Općina	općina	Ncfsn
+Podgora	Podgor	Npmsg
+5.1.	5.1.	Mds
+
+Gornje	gornji	Agpfpny
+Igrane	igrani	Agpfpny
+45.	45.	Mdo
+5.1.1.	5.1.1	Ncmsg
+
+Šošići	Šošić	Npmpn
+*	*	Z
+5.2.	5.2.	Mds
+
+Drašnice	drašnica	Ncfpn
+46.	46.	Mdo
+5.1.2.	5.1.2.	Mds
+
+Papići	pati	Rr
+47.	47.	Mdo
+5.1.3.	5.1.3.	Mds
+
+Čikići	čikići	Agpmsny
+6.	6.	Mdo
+Grad	grad	Ncmsan
+Makarska	makarski	Agpfsny
+6.1.	6.1.	Mds
+
+Veliko	velik	Agpnsny
+Brdo	brdo	Ncnsn
+48.	48.	Mdo
+6.1.1.	6.1.1a	Ncfsg
+
+Nemčići	nemčića	Ncfsl
+*	*	Z
+7.	7.	Mdo
+Općina	općina	Ncfsn
+Baška	baški	Agpfsny
+Voda	voda	Ncfsn
+7.1.	7.1.	Mds
+
+Baška	baški	Agpfsny
+Voda	voda	Ncfsn
+49.	49.	Mdo
+7.1.1.	7.1.1a	Ncfsg
+
+Topići	Topić	Npmpn
+*	*	Z
+8.	8.	Mdo
+Općina	općina	Ncfsn
+Tučepi	Tučepi	Npfsn
+-	-	Z
+-	-	Z
+-	-	Z
+9.	9.	Mdo
+Općina	općina	Ncfsn
+Zadvarje	Zadvarja	Npfsg
+-	-	Z
+-	-	Z
+-	-	Z
+*	*	Z
+Naselja	naselje	Ncnsg
+dijelom	dio	Ncmsi
+u	u	Sl
+Parku	park	Ncmsl
+**	i	Agpnsgy
+Naselja	naselje	Ncnsg
+bez	bez	Sg
+stanovnika	stanovnik	Ncmpg
+
+Tablica	tablica	Ncfsn
+7	7	Mdc
+:	:	Z
+Naselja	naselje	Ncnsg
+unutar	unutar	Sg
+Parka	park	Ncmsg
+
+Članak	članak	Ncmsn
+69.	69.	Mdo
+
+Unutar	unutar	Sg
+površina	površina	Ncfpg
+za	za	Sa
+razvoj	razvoj	Ncmsan
+naselja	naselje	Ncnsg
+predviđa	predviđati	Vmr3s
+se	sebe	Px--sa
+obnova	obnova	Ncfsn
+i	i	Cc
+revitalizacija	revitalizacija	Ncfsn
+povijesnog	povijesni	Agpmsgy
+građevinskog	građevinski	Agpmsgy
+fonda	fond	Ncmsg
+što	što	Pi3n-a
+uključuje	uključivati	Vmr3s
+zahvate	zahvat	Ncmpa
+,	,	Z
+adaptacije	adaptacija	Ncfpa
+,	,	Z
+sanacije	sanacija	Ncfsg
+,	,	Z
+konzervacije	konzervacija	Ncfsg
+,	,	Z
+rekonstrukcije	rekonstrukcija	Ncfsg
+i	i	Cc
+dogradnje	dogradnja	Ncfsg
+postojećih	postojeći	Agpfpgy
+građevina	građevina	Ncfpg
+,	,	Z
+te	te	Cc
+izgradnju	izgradnja	Ncfsa
+novih	nov	Agpfpgy
+građevina	građevina	Ncfpg
+,	,	Z
+namijenjenih	namijenjen	Agpmpgy
+za	za	Ncmpg
+:	:	Z
+
+–	i	Agpnsay
+stanovanje	stanovanje	Ncnsa
+,	,	Z
+poslovne	poslovan	Agpfsgy
+,	,	Z
+pomoćne	pomoćan	Agpmpay
+,	,	Z
+gospodarske	gospodarski	Agpfsgy
+i	i	Cc
+proizvodne	proizvodni	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+
+–	–	Ncmsn
+javne	javan	Agpfsgy
+djelatnosti	djelatnost	Ncfsg
+(	(	Z
+uprava	uprava	Ncfsn
+,	,	Z
+pravosuđe	pravosuđe	Ncnsn
+,	,	Z
+udruge	udruga	Ncfsg
+građana	građanin	Ncmpg
+,	,	Z
+političke	politički	Agpfsgy
+stranke	stranka	Ncfsg
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+i	i	Cc
+prateće	prateći	Agpmpay
+sadržaje	sadržaj	Ncmpa
+
+–	i	Agpfpay
+društvene	društven	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+(	(	Z
+odgoj	odgoj	Ncmsn
+i	i	Cc
+obrazovanje	obrazovanje	Ncnsa
+,	,	Z
+zdravstvena	zdravstven	Agpfsny
+zaštita	zaštita	Ncfsn
+)	)	Z
+
+–	–	Z
+trgovačke	trgovački	Agpfsgy
+i	i	Cc
+uslužne	uslužan	Agpmpay
+sadržaje	sadržaj	Ncmpa
+
+–	–	Z
+turističke	turistički	Agpfsgy
+i	i	Cc
+ugostiteljske	ugostiteljski	Agpmpay
+sadržaje	sadržaj	Ncmpa
+
+–	i	Agpmpay
+vjerske	vjerski	Agpmpay
+sadržaje	sadržaj	Ncmpa
+
+–	–	Z
+prometnu	prometan	Agpfsay
+,	,	Z
+komunalnu	komunalan	Agpfsay
+infrastrukturu	infrastruktura	Ncfsa
+
+–	–	Sa
+sport	sport	Ncmsan
+i	i	Cc
+rekreaciju	rekreacija	Ncfsa
+
+–	i	Agpnsgy
+groblja	groblje	Ncnsg
+
+–	–	Sa
+prezentaciju	prezentacija	Ncfsa
+kulturne	kulturan	Agpfsgy
+i	i	Cc
+prirodne	prirodan	Agpfsgy
+baštine	baština	Ncfsg
+
+–	i	Agpnsny
+posjećivanje	posjećivanje	Ncnsn
+(	(	Z
+posjetiteljsko-informacijski	posjetiteljsko-informacijski	Agpmpny
+centri	centar	Ncmpn
+,	,	Z
+izletišta	izletište	Ncnsg
+i	i	Cc
+skloništa	sklonište	Ncnsg
+za	za	Sa
+izletnike	izletnik	Ncmpa
+,	,	Z
+promatračnice	promatračnica	Ncfpa
+,	,	Z
+vidikovci	vidikovac	Ncmpn
+,	,	Z
+odmorišta	odmorište	Ncnsg
+,	,	Z
+parkirališta	parkiralište	Ncnsg
+za	za	Sa
+osobne	osoban	Agpmpay
+automobile	automobil	Ncmpa
+i	i	Cc
+autobuse	autobus	Ncmpa
+,	,	Z
+sanitarni	sanitaran	Agpmpny
+prostori	prostor	Ncmpn
+,	,	Z
+poučne	poučan	Agpfpay
+staze	staza	Ncfpa
+s	sa	Sg
+

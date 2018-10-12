@@ -1,0 +1,48 @@
+članka	članak	Ncmsg
+5.	5.	Mdo
+u	u	Sl
+dijelu	dio	Ncmsl
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+u	u	Sl
+članku	članak	Ncmsl
+10.	10.	Mdo
+dodaje	dodavati	Vmr3s
+novi	nov	Agpmsayn
+stavak	stavak	Ncmsan
+2.	2.	Mdo
+,	,	Z
+koji	koji	Pi-msn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+30.	30.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+O.	O.	Y
+br.	br.	Y
+256	256	Mdc
+-	-	Z
+020/10	020/10	Mdc
+-	-	Z
+15	15	Mdc
+/	/	Z
+BV	bv	Mrc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+21.	21.	Mdo
+listopada	listopad	Ncmsg
+2015.	2015.	Mdo
+
+Guverner	guverner	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Vujčić	Vujčić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

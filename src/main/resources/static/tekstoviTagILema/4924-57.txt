@@ -1,0 +1,212 @@
+Pisani	pisan	Agpmsny
+nalog	nalog	Ncmsn
+za	za	Sa
+vlak	vlak	Ncmsan
+broj	broj	Ncmsan
+............................	............................	Z
+
+Redni	redni	Agpmsny
+broj	broj	Ncmsn
+..............................................	..............................................	Z
+
+Obavijesti	obavijest	Ncfpn
+:	:	Z
+
+................................................................................................................................................................................................................................	................................................................................................................................................................................................................................	Z
+
+................................................................................................................................................................................................................................	................................................................................................................................................................................................................................	Z
+
+Kolodvor	kolodvor	Ncmsn
+........................	........................	Z
+
+Nadnevak	nadnevak	Ncmsn
+:	:	Z
+........................	........................	Z
+
+(	(	Z
+pečat	pečat	Ncmsn
+)	)	Z
+
+Preuzeo	preuzeti	Vmp-sm
+strojovođa	strojovođa	Ncmsn
+:	:	Z
+Prometnik	prometnik	Ncmsn
+vlakova	vlak	Ncmpg
+:	:	Z
+
+.................................	.................................	Y
+............................................	............................................	Z
+(	(	Z
+potpis	potpis	Ncmsn
+strojovođe	strojovođa	Ncmsg
+)	)	Z
+(	(	Z
+potpis	potpis	Ncmsn
+prometnika	prometnik	Ncmsg
+vlakova	vlak	Ncmpg
+)	)	Z
+
+SE	sebe	Px--sa
+–	–	Z
+4	4	Mdc
+
+(	(	Z
+Naziv	naziv	Ncmsn
+željezničkog	željeznički	Agpmsgy
+prijevoznika	prijevoznik	Ncmsg
+)	)	Z
+
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+primopredaji	primopredaja	Ncfsl
+vlaka	vlak	Ncmsg
+
+Broj	broj	Ncmsn
+vlaka	vlak	Ncmsg
+Kolodvor	kolodvor	Ncmsn
+primopredaje	primopredaja	Ncfsg
+Odredišni	odredišni	Agpmsny
+kolodvor	kolodvor	Ncmsn
+Nadnevak	nadnevak	Ncmsn
+i	i	Cc
+sat	sat	Ncmsan
+Vučna	vučni	Agpfsny
+lokomotiva	lokomotiva	Ncfsn
+Zaprega	zaprega	Ncfsn
+Potiskivalica	potiskivalici	Agpfsny
+Duljina	duljina	Ncfsn
+vlaka	vlak	Ncmsg
+Bruto	bruto	Agpfsny
+masa	masa	Ncfsn
+vlaka	vlak	Ncmsg
+Ručna	ručni	Agpfsny
+kočna	kočni	Agpfsny
+masa	masa	Ncfsn
+Pošiljke	pošiljka	Ncfsg
+RID	RID	Sg
+Ostale	ostali	Agpfsgy
+posebnosti	posebnost	Ncfsg
+kod	kod	Sg
+vlaka	vlak	Ncmsg
+Nadnevak	nadnevak	Ncmsan
+i	i	Cc
+sat	sat	Ncmsan
+Nadnevak	nadnevak	Ncmsan
+i	i	Cc
+sat	sat	Ncmsan
+Predao	predati	Vmp-sm
+Primio	primiti	Vmp-sm
+
+SE	sebe	Px--sa
+–	–	Z
+5	5	Mdc
+
+(	(	Z
+Naziv	naziv	Ncmsn
+upravitelja	upravitelj	Ncmsg
+infrastrukture	infrastruktura	Ncfsg
+ili	ili	Cc
+naziv	naziv	Ncmsn
+željezničkog	željeznički	Agpmsgy
+prijevoznika	prijevoznik	Ncmsg
+)	)	Z
+
+(	(	Z
+Službeno	služben	Agpnsny
+mjesto	mjesto	Ncnsn
+)	)	Z
+
+Raspored	raspored	Ncmsn
+manevriranja	manevriranje	Ncnsg
+broj	broj	Ncmsn
+...................	...................	Z
+
+Nadnevak	nadnevak	Ncmsn
+......................	......................	Z
+
+Sati	sat	Ncmpn
+.......................	.......................	Z
+
+Minuta	minuta	Ncfsn
+.......................	.......................	Z
+
+Postaviti	postaviti	Vmn
+:	:	Z
+
+Vlak	vlak	Ncmsn
+broj	broj	Ncmsn
+:	:	Z
+..................................................	..................................................	Z
+uzima	uzimati	Vmr3s
+–	–	Z
+ostavlja	ostavljati	Vmr3s
+
+Serija	serija	Ncfsn
+i	i	Cc
+broj	broj	Ncmsn
+vagona	vagon	Ncmsg
+Vrsta	vrsta	Ncfsn
+robe	roba	Ncfsg
+S	sa	Sg
+kolosijeka	kolosijek	Ncmsg
+Na	na	Sa
+kolosijek	kolosijek	Ncmsan
+Manevriranje	manevriranje	Ncnsn
+odobreno	odobriti	Appnsny
+u	u	Sl
+vremenu	vrijeme	Ncnsl
+od	od	Sg
+do	do	Sg
+1	1	Mdc
+2	2	Mdc
+3	3	Mdc
+4	4	Mdc
+5	5	Mdc
+6	6	Mdc
+
+1	1	Npmsn
+Odobrava	odobravati	Vmr3s
+se	sebe	Px--sa
+zauzimanje	zauzimanje	Ncnsn
+kolosijeka	kolosijek	Ncmsg
+broj	broj	Ncmsn
+............................	............................	Z
+2	2	Mdc
+Zabranjeno	zabranjen	Agpnsny
+odbacivanje	odbacivanje	Ncnsn
+u	u	Sl
+smjeru	smjer	Ncmsl
+.......................................	.......................................	Z
+3	3	Mdc
+Sredstva	sredstvo	Ncnsg
+za	za	Sa
+kočenje	kočenje	Ncnsa
+nalaze	nalaziti	Vmr3p
+se	sebe	Px--sa
+..............................................	..............................................	Z
+4	4	Mdc
+Sredstva	sredstvo	Ncnsg
+za	za	Sa
+osiguranje	osiguranje	Ncnsa
+od	od	Sg
+samopokretanja	samopokretanje	Ncnsg
+nalaze	nalaziti	Vmr3p
+se	sebe	Px--sa
+..........	..........	Z
+
+Primio	primiti	Vmp-sm
+u	u	Sl
+...................	...................	Z
+h	h	Y
+............................	............................	Z
+min	min	Ncmsn
+
+Prometnik	prometnik	Ncmsn
+vlakova	vlak	Ncmpg
+Predao	predati	Vmp-sm
+Primio	primiti	Vmp-sm
+
+..................................	..................................	Mro
+.....................	.....................	Z
+........................	........................	Z
+

@@ -1,0 +1,65 @@
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+ovoga	ovaj	Pd-msg
+Programa	program	Ncmsg
+izobrazbe	izobrazba	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+17.	17.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Program	program	Ncmsn
+izobrazbe	izobrazba	Ncfsg
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+351	351	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+30/01	30/01	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+517	517	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+24	24	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Mihael	Mihael	Npmsn
+Zmajlović	Zmajlović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1.	1.	Mdo
+–	–	Z
+PRILOG	prilog	Ncmsn
+5.	5.	Mdo
+

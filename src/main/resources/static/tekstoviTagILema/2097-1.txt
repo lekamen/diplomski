@@ -1,0 +1,81 @@
+toč	toč	I
+.	.	Z
+1.	1.	Mdo
+«	«	Z
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+Naslov	naslov	Ncmsn
+iznad	iznad	Sg
+Tbr	Tbr	Npfsg
+.	.	Z
+6.	6.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+»	»	Z
+Izvanredna	izvanredan	Agpnpay
+pravna	pravni	Agpnpay
+sredstva	sredstvo	Ncnpa
+«	«	Z
+zamjenjuje	zamjenjivati	Vmr3s
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+
+»	»	Z
+Izvanredni	izvanredan	Agpmpny
+pravni	pravni	Agpmpny
+lijekovi	lijek	Ncmpn
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+Ove	ovaj	Pd-fsg
+izmjene	izmjena	Ncfsg
+i	i	Cc
+dopune	dopuna	Ncfsg
+Tarife	tarifa	Ncfsg
+o	o	Sl
+nagradama	nagrada	Ncfpl
+i	i	Cc
+naknadi	naknada	Ncfsl
+troškova	trošak	Ncmpg
+za	za	Sa
+rad	rad	Ncmsan
+odvjetnika	odvjetnik	Ncmpg
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+4600/2015	4600/2015	Mds
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+3.	3.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+odvjetničke	odvjetnički	Agpfsgy
+komore	komora	Ncfsg
+Robert	Robert	Npmsn
+Travaš	Travaš	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,508 @@
+33	33	Mdc
+15.04.2016	15.04.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+opozivu	opoziv	Ncmsl
+predstavnika	predstavnik	Ncmpg
+i	i	Cc
+zamjenika	zamjenik	Ncmpg
+predstavnika	predstavnik	Ncmsg
+Vlade	vlada	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+povjerenstvima	povjerenstvo	Ncmpl
+Gospodarsko-socijalnog	gospodarsko-socijalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+937	937	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+32.	32.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Poslovnika	poslovnik	Ncmsg
+o	o	Sl
+radu	rad	Ncmsl
+Gospodarsko-socijalnog	gospodarsko-socijalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+i	i	Cc
+njegovih	njegov	Ps3npg
+radnih	radni	Agpnpgy
+tijela	tijelo	Ncnpg
+,	,	Z
+od	od	Sg
+25.	25.	Mdo
+srpnja	srpanj	Ncmsg
+2013.	2013.	Mdo
+godine	godina	Ncfsg
+i	i	Cc
+članka	članak	Ncmsg
+9.	9.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+,	,	Z
+djelokrugu	djelokrug	Ncmsl
+rada	rad	Ncmsg
+te	te	Cc
+sastavu	sastav	Ncmsl
+Povjerenstava	povjerenstvo	Ncnpg
+Gospodarsko-socijalnog	gospodarsko-socijalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+,	,	Z
+od	od	Sg
+25.	25.	Mdo
+srpnja	srpanj	Ncmsg
+2013.	2013.	Mdo
+godine	godina	Ncfsg
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+6.	6.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+OPOZIVU	opoziv	Ncmsl
+PREDSTAVNIKA	predstavnik	Ncmpg
+I	i	Cc
+ZAMJENIKA	zamjenik	Ncmpg
+PREDSTAVNIKA	predstavnik	Ncmsg
+VLADE	vlada	Ncfsg
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+U	u	Sl
+POVJERENSTVIMA	povjerenstvo	Ncmpl
+GOSPODARSKO-SOCIJALNOG	gospodarsko-socijalni	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+
+Opozivaju	opozivati	Vmr3p
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfpn
+predstavnici	predstavnik	Ncmpn
+i	i	Cc
+zamjenici	zamjenik	Ncmpn
+predstavnika	predstavnik	Ncmpg
+Vlade	vlada	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+povjerenstvima	povjerenstvo	Ncmpl
+Gospodarsko-socijalnog	gospodarsko-socijalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+:	:	Z
+
+1.	1.	Mdo
+Povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+politiku	politika	Ncfsa
+plaća	plaća	Ncfpg
+,	,	Z
+porezni	porezni	Agpmsny
+sustav	sustav	Ncmsn
+i	i	Cc
+životni	životan	Agpmsny
+standard	standard	Ncmsn
+:	:	Z
+
+–	–	Npfsn
+Tajana	Tajana	Npfsn
+Drakulić	Drakulić	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Inga	Inga	Npfsn
+Žic	Žic	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Z
+Josip	Josip	Npmsn
+Lozančić	Lozančić	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npmsn
+Tihomir	Tihomir	Npmsn
+Kralj	kralj	Ncmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnika	predstavnik	Ncmpg
+
+–	–	Npmsn
+Mladen	Mladen	Npmsn
+Duliba	Duliba	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npfsn
+Marijana	Marijana	Npfsn
+Andrijić	Andrijić	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+
+–	–	Npmsn
+Tomislav	Tomislav	Npmsn
+Mičetić	Mičetić	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npmsn
+Darko	Darko	Npmsn
+Parić	Parić	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnika	predstavnik	Ncmpg
+.	.	Z
+
+2.	2.	Mdo
+Povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+socijalnu	socijalan	Agpfsay
+politiku	politika	Ncfsa
+:	:	Z
+
+–	–	Npfsn
+Mirjana	Mirjana	Npfsn
+Rađenović	Rađenović	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Agpmsny
+Melita	melita	Agpmsny
+Čičak	čičak	Ncmsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npfsn
+Maja	Maja	Npfsn
+Sporiš	Sporiš	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Z
+Ana	Ana	Npfsn
+Butković	Butković	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npmsn
+Hrvoje	Hrvoje	Npmsn
+Sadarić	Sadarić	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npfsn
+Jasenka	Jasenka	Npfsn
+Hanže	Hanže	Npfsn
+Hanzlin	Hanzlin	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+
+–	–	Z
+doc.	doc.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Dragan	Dragan	Npmsn
+Korolija-Marinić	Korolija-Marinić	Npmsn
+,	,	Z
+dr.	dr.	Y
+med	med	Ncmsan
+.	.	Z
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npfsn
+Darija	Darija	Npfsn
+Šimić	Šimić	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+.	.	Z
+
+3.	3.	Mdo
+Povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+zapošljavanje	zapošljavanje	Ncnsa
+,	,	Z
+obrazovanje	obrazovanje	Ncnsa
+i	i	Cc
+usklađivanje	usklađivanje	Ncnsa
+s	sa	Si
+tržištem	tržište	Ncnsi
+rada	rad	Ncmsg
+:	:	Z
+
+–	–	Npfsn
+Tatjana	Tatjana	Npfsn
+Dalić	Dalić	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Ncfsn
+Marija	Marija	Npfsn
+Knežević-Kajari	Knežević-Kajari	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npmsn
+Sanja	sanjati	Vmr3s
+Major	major	Ncmsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Marina	Marina	Npfsn
+Gašpar	Gašpar	Npfsn
+Lukić	Lukić	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Ružica	Ružica	Npfsn
+Beljo	Beljo	Npmsn
+Lučić	Lučić	Npmsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Z
+Luka	Luka	Npmsn
+Juroš	Juroš	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npfsn
+Ankica	Ankica	Npfsn
+Nježić	Nježić	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Adriana	Adriana	Npfsn
+Mastelić	Mastelić	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+.	.	Z
+
+4.	4.	Mdo
+Povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+zakonodavstvo	zakonodavstvo	Ncnsa
+,	,	Z
+kolektivne	kolektivan	Agpmpay
+pregovore	pregovor	Ncmpa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+prava	pravo	Ncnsg
+:	:	Z
+
+–	–	Npfsn
+Marina	Marina	Npfsn
+Kasunić	Kasunić	Npfsn
+Peris	Peris	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Inga	Inga	Npfsn
+Žic	Žic	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npfsn
+Tajana	Tajana	Npfsn
+Drakulić	Drakulić	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Ilija	Ilija	Npfsn
+Tadić	Tadić	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npmsn
+Ranko	Ranko	Npmsn
+Lamza	Lamza	Npmsn
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	i	Agpfsny
+Jagoda	jagoda	Ncfsn
+Botički	Botički	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+
+–	–	Npfsn
+Renata	Renata	Npfsn
+Duka	Duka	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Z
+Ivan	Ivan	Npmsn
+Crnčec	Crnčec	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnice	predstavnica	Ncfsg
+.	.	Z
+
+5.	5.	Mdo
+Povjerenstvo	povjerenstvo	Ncnsn
+za	za	Sa
+održivi	održiv	Agpmsayn
+razvoj	razvoj	Ncmsan
+,	,	Z
+poticanje	poticanje	Ncnsa
+gospodarstva	gospodarstvo	Ncnsg
+,	,	Z
+energetiku	energetika	Ncfsa
+i	i	Cc
+klimatske	klimatski	Agpfpay
+promjene	promjena	Ncfpa
+:	:	Z
+
+–	–	Z
+mr.	mr.	Y
+sc.	sc.	Y
+Marija	Marija	Npfsn
+Šćulac	Šćulac	Npfsn
+Domac	Domac	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npmsn
+Jasenka	Jasenka	Npfsn
+Nećak	nećak	Ncmsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npfsn
+Franka	Franka	Npfsn
+Vojnović	Vojnović	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Z
+Radoslav	Radoslav	Npmsn
+Barišić	Barišić	Npmsn
+,	,	Z
+zamjenik	zamjenik	Ncmsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Z
+mr.	mr.	Y
+sc.	sc.	Y
+Jelena	Jelena	Npfsn
+Zrinski	Zrinski	Npfsn
+Berger	Berger	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+Kristina	Kristina	Npfsn
+Čelić	Čelić	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+
+–	–	Npfsn
+Sabina	Sabina	Npfsn
+Škrtić	Škrtić	Npfsn
+,	,	Z
+predstavnica	predstavnica	Ncfsn
+
+–	–	Npfsn
+Sanja	Sanja	Npfsn
+Rendić	Rendić	Npfsn
+Miočević	Miočević	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnice	predstavnica	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/233	02/233	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+6.	6.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

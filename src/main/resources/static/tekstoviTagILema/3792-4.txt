@@ -1,0 +1,60 @@
+zadnjem	zadnji	Agpnsly
+razdoblju	razdoblje	Ncnsl
+
+B	b	Xf
+A	a	Xf
+/	/	Z
+3	3	Mdc
+)	)	Z
++	+	Z
+A	a	Cc
+
+6.	6.	Mdo
+utvrdit	utvrditi	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+maksimalna	maksimalan	Agpfsny
+količina	količina	Ncfsn
+potencijalnog	potencijalan	Agpmsgy
+viška	višak	Ncmsg
+zaliha	zaliha	Ncfsn
+za	za	Sa
+umanjenje	umanjenje	Ncnsa
+špekulativnih	špekulativan	Agpfpgy
+zaliha	zaliha	Ncfpg
+(	(	Z
+UMANJENJE	umanjenje	Ncnsn
+)	)	Z
+
+UMANJENJE	umanjenje	Ncnsn
+=	=	Z
+UVukup	UVukup	Xf
+x	X	Xf
+B	b	Xf
+
+7.	7.	Mdo
+utvrditi	utvrditi	Vmn
+špekulativne	špekulativan	Agpfpay
+zalihe	zaliha	Ncfpa
+nakon	nakon	Sg
+umanjenja	umanjenje	Ncnsg
+:	:	Z
+od	od	Sg
+špekulativnih	špekulativan	Agpfpgy
+zaliha	zaliha	Ncfpg
+oduzima	oduzimati	Vmr3s
+se	sebe	Px--sa
+maksimalna	maksimalan	Agpfsny
+količina	količina	Ncfsn
+potencijalnog	potencijalan	Agpmsgy
+viška	višak	Ncmsg
+zaliha	zaliha	Ncfsn
+za	za	Sa
+umanjenje	umanjenje	Ncnsa
+špekulativnih	špekulativan	Agpfpgy
+zaliha	zaliha	Ncfpg
+(	(	Z
+UMANJENJE	umanjenje	Ncnsn
+)	)	Z
+.	.	Z
+

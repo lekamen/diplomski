@@ -1,0 +1,722 @@
+obuhvaća	obuhvaćati	Vmr3s
+:	:	Z
+
+–	i	Agpnsny
+planiranje	planiranje	Ncnsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+
+–	i	Agpnsny
+izdavanje	izdavanje	Ncnsn
+letačke	letački	Agpfsgy
+zadaće	zadaća	Ncfsg
+
+–	–	Sa
+pripremu	priprema	Ncfsa
+letenja	letenje	Ncnsg
+
+–	i	Agpnsay
+opsluživanje	opsluživanje	Ncnsa
+,	,	Z
+potporu	potpora	Ncfsa
+i	i	Cc
+osiguranje	osiguranje	Ncnsa
+letenja	letenje	Ncnsg
+
+–	–	Sa
+provedbu	provedba	Ncfsa
+letenja	letenje	Ncnsg
+
+–	–	Sa
+raščlambu	raščlamba	Ncfsa
+letenja	letenje	Ncnsg
+
+–	i	Agpnsny
+izvješćivanje	izvješćivanje	Ncnsn
+o	o	Sl
+letenju	letenje	Ncnsl
+.	.	Z
+
+XI	xi	Mrc
+.	.	Z
+
+PLANIRANJE	planiranje	Ncnsn
+VOJNOG	vojni	Agpnsgy
+LETENJA	letenje	Ncnsg
+
+Planiranje	planiranje	Ncnsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+
+Članak	članak	Ncmsn
+70.	70.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Vojno	vojni	Agpnsny
+letenje	letenje	Ncnsn
+planira	planirati	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+razini	razina	Ncfsl
+eskadrila	eskadrila	Ncfpg
+i	i	Cc
+viših	visok	Agcfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+.	.	Z
+
+Planiranje	planiranje	Ncnsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+može	moći	Vmr3s
+se	sebe	Px--sa
+provesti	provesti	Vmn
+i	i	Cc
+izvan	izvan	Sg
+sastava	sastav	Ncmsg
+eskadrile	eskadrila	Ncfsg
+ako	ako	Cs
+se	sebe	Px--sa
+zrakoplov	zrakoplov	Ncmsn
+nalazi	nalaziti	Vmr3s
+na	na	Sl
+drugoj	drugi	Mlofsl
+lokaciji	lokacija	Ncfsl
+od	od	Sg
+lokacije	lokacija	Ncfsg
+stalnog	stalan	Agpmsgy
+razmještaja	razmještaj	Ncmsg
+uz	uz	Sa
+uvjet	uvjet	Ncmsan
+da	da	Cs
+se	sebe	Px--sa
+odredi	odrediti	Vmr3s
+odgovorna	odgovoran	Agpfsny
+osoba	osoba	Ncfsn
+za	za	Sa
+planiranje	planiranje	Ncnsa
+letenja	letenje	Ncnsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Planiranje	planiranje	Ncnsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+obuhvaća	obuhvaćati	Vmr3s
+:	:	Z
+
+–	–	Sa
+procjenu	procjena	Ncfsa
+uvjeta	uvjet	Ncmpg
+i	i	Cc
+elemenata	element	Ncmpg
+koji	koji	Pi-mpn
+utječu	utjecati	Vmr3p
+na	na	Sa
+odluku	odluka	Ncfsa
+o	o	Sl
+letenju	letenje	Ncnsl
+
+–	–	Sa
+koordinaciju	koordinacija	Ncfsa
+u	u	Sl
+procesu	proces	Ncmsl
+planiranja	planiranje	Ncnsg
+.	.	Z
+
+Članak	članak	Ncmsn
+71.	71.	Mdo
+
+Prije	prije	Sg
+donošenja	donošenje	Ncnsg
+odluke	odluka	Ncfsg
+o	o	Sl
+vojnom	vojni	Agpnsly
+letenju	letenje	Ncnsl
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+koje	koji	Pi-fpn
+planiraju	planirati	Vmr3p
+letenje	letenje	Ncnsa
+dužne	dužan	Agpfsgy
+su	biti	Var3p
+razmotriti	razmotriti	Vmn
+sljedeće	sljedeći	Agpnsay
+:	:	Z
+
+–	–	Sa
+zapovijed	zapovijed	Ncfsa
+nadređenog	nadrediti	Agpmsgy
+zapovjednika	zapovjednik	Ncmsg
+
+–	–	Agpmsny
+program	program	Ncmsn
+letačke	letački	Agpfsgy
+obuke	obuka	Ncfsg
+
+–	–	Agpmsny
+plan	plan	Ncmsn
+letačke	letački	Agpfsgy
+obuke	obuka	Ncfsg
+
+–	–	Z
+plan	plan	Ncmsn
+provedbe	provedba	Ncfsg
+namjenskih	namjenski	Agpfpgy
+zadaća	zadaća	Ncfpg
+
+–	–	Sa
+kategoriju	kategorija	Ncfsa
+spremnosti	spremnost	Ncfsg
+vojnih	vojni	Agpmpgy
+letača	letač	Ncmpg
+
+–	–	Sg
+trenažu	trenaži	Agpfsgy
+posade	posada	Ncfsg
+
+–	–	Sl
+sposobnosti	sposobnost	Ncfsl
+postrojbi	postrojba	Ncfpg
+za	za	Sa
+potporu	potpora	Ncfsa
+letenja	letenje	Ncnsg
+
+–	i	Agpfpay
+sposobnosti	sposobnost	Ncfpa
+pružatelja	pružatelj	Ncmpg
+usluga	usluga	Ncfpg
+u	u	Sl
+zračnoj	zračan	Agpfsly
+plovidbi	plovidba	Ncfsl
+i	i	Cc
+postrojbi	postrojba	Ncfpg
+za	za	Sa
+navođenje	navođenje	Ncnsa
+zrakoplova	zrakoplov	Ncmsg
+
+–	i	Agpnsay
+stanje	stanje	Ncnsa
+aerodroma	aerodrom	Ncmsg
+stalnog	stalan	Agpmsgy
+razmještaja	razmještaj	Ncmsg
+,	,	Z
+alternativnih	alternativan	Agpmpgy
+aerodroma	aerodrom	Ncmpg
+,	,	Z
+ZRNS	ZRNS	Npmsn
+,	,	Z
+poligona	poligon	Ncmsg
+i	i	Cc
+prostora	prostor	Ncmsg
+za	za	Sa
+padobranske	padobranski	Agpmpay
+skokove	skok	Ncmpa
+i	i	Cc
+izbacivanje	izbacivanje	Ncnsa
+/	/	Z
+odbacivanje	odbacivanje	Ncnsa
+tereta	teret	Ncmsg
+
+–	–	Agpmsny
+zbornik	zbornik	Ncmsn
+zrakoplovnih	zrakoplovan	Agpfpgy
+informacija	informacija	Ncfpg
+(	(	Z
+AIP	AIP	Npmsn
+)	)	Z
+,	,	Z
+obavijesti	obavijest	Ncfsl
+zrakoplovnom	zrakoplovan	Agpnsly
+osoblju	osoblje	Ncnsl
+(	(	Z
+NOTAM	NOTAM	Npmsn
+)	)	Z
+,	,	Z
+okružnice	okružnica	Ncfpn
+zrakoplovnih	zrakoplovan	Agpfpgy
+informacija	informacija	Ncfpg
+(	(	Z
+AIC	AIC	Npmsn
+)	)	Z
+i	i	Cc
+bilten	bilten	Ncmsan
+preduzletnih	preduzletan	Agpfpgy
+informacija	informacija	Ncfpg
+(	(	Z
+PIB	PIB	Npmsn
+)	)	Z
+,	,	Z
+vojni	vojni	Agpmsny
+zbornik	zbornik	Ncmsn
+zrakoplovnih	zrakoplovan	Agpfpgy
+informacija	informacija	Ncfpg
+(	(	Z
+Mil	Mil	Npmsn
+AIP	AIP	Npmsn
+)	)	Z
+
+–	i	Agpmpay
+meteorološke	meteorološki	Agpmpay
+uvjete	uvjet	Ncmpa
+i	i	Cc
+prognozu	prognoza	Ncfsa
+vremena	vrijeme	Ncnsg
+u	u	Sl
+području	područje	Ncnsl
+planiranog	planiran	Agpnsgy
+letenja	letenje	Ncnsg
+
+–	i	Agpmpay
+ornitološke	ornitološki	Agpmpay
+uvjete	uvjet	Ncmpa
+u	u	Sl
+zoni	zona	Ncfsl
+aerodromskog	aerodromski	Agpmsgy
+prometa	promet	Ncmsg
+
+–	–	Sa
+ostali	ostali	Agpmsayn
+zračni	zračan	Agpmsayn
+promet	promet	Ncmsan
+u	u	Sl
+području	područje	Ncnsl
+planiranog	planiran	Agpnsgy
+letenja	letenje	Ncnsg
+
+–	–	Sa
+raspoloživo	raspoloživ	Agpnsay
+vrijeme	vrijeme	Ncnsa
+za	za	Sa
+pripremu	priprema	Ncfsa
+posada	posada	Ncfpg
+i	i	Cc
+vojnog	vojni	Agpmsgy
+zrakoplova	zrakoplov	Ncmsg
+.	.	Z
+
+Koordinacija	koordinacija	Ncfsn
+u	u	Sl
+procesu	proces	Ncmsl
+planiranja	planiranje	Ncnsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+
+Članak	članak	Ncmsn
+72.	72.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Koordinaciju	koordinacija	Ncfsa
+u	u	Sl
+procesu	proces	Ncmsl
+planiranja	planiranje	Ncnsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+provodi	provoditi	Vmr3s
+nadređeno	nadrediti	Agpnsny
+zapovjedništvo	zapovjedništvo	Ncnsn
+između	između	Sg
+postrojbi	postrojba	Ncfpg
+koje	koji	Pi-fpn
+provode	provoditi	Vmr3p
+letenje	letenje	Ncnsa
+u	u	Sl
+istom	isti	Agpmsly
+zračnom	zračan	Agpmsly
+prostoru	prostor	Ncmsl
+s	sa	Si
+pružateljem	pružatelj	Ncmsi
+usluga	usluga	Ncfpg
+u	u	Sl
+zračnoj	zračan	Agpfsly
+plovidbi	plovidba	Ncfsl
+,	,	Z
+a	a	Cc
+po	po	Sl
+potrebi	potreba	Ncfsl
+i	i	Cc
+s	sa	Si
+postrojbom	postrojba	Ncfsi
+za	za	Sa
+navođenje	navođenje	Ncnsa
+zrakoplova	zrakoplov	Ncmpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Koordinacija	koordinacija	Ncfsn
+u	u	Sl
+procesu	proces	Ncmsl
+planiranja	planiranje	Ncnsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+uređuje	uređivati	Vmr3s
+se	sebe	Px--sa
+Uputom	uputa	Ncfsi
+o	o	Sl
+planiranju	planiranje	Ncnsl
+vojnoga	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+.	.	Z
+
+Članak	članak	Ncmsn
+73.	73.	Mdo
+
+Koordinacijom	koordinacija	Ncfsi
+u	u	Sl
+procesu	proces	Ncmsl
+planiranja	planiranje	Ncnsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+posebno	posebno	Rgp
+se	sebe	Px--sa
+utvrđuje	utvrđivati	Vmr3s
+:	:	Z
+
+–	i	Agpnsay
+vrijeme	vrijeme	Ncnsa
+početka	početak	Ncmsg
+i	i	Cc
+završetka	završetak	Ncmsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+te	te	Cc
+vrijeme	vrijeme	Ncnsa
+uzlijetanja	uzlijetanje	Ncnsg
+i	i	Cc
+slijetanja	slijetanje	Ncnsg
+pojedinačnog	pojedinačan	Agpmsgy
+vojnog	vojni	Agpmsgy
+zrakoplova	zrakoplov	Ncmsg
+ili	ili	Cc
+grupe	grupa	Ncfsg
+vojnih	vojni	Agpmpgy
+zrakoplova	zrakoplov	Ncmpg
+
+–	i	Agpfsny
+uporaba	uporaba	Ncfsn
+zračnog	zračan	Agpmsgy
+prostora	prostor	Ncmsg
+u	u	Sl
+područjima	područje	Ncnpl
+planiranog	planiran	Agpnsgy
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+s	sa	Si
+postrojbama	postrojba	Ncfpi
+koje	koji	Pi-fpn
+istodobno	istodobno	Rgp
+planiraju	planirati	Vmr3p
+letenje	letenje	Ncnsa
+
+–	i	Agpnsay
+vrijeme	vrijeme	Ncnsa
+,	,	Z
+tip	tip	Ncmsn
+vojnog	vojni	Agpmsgy
+zrakoplova	zrakoplov	Ncmsg
+,	,	Z
+posada	posada	Ncfsn
+
+–		Agpfpgy
+jačina	jačina	Ncfpg
+,	,	Z
+sastav	sastav	Ncmsn
+i	i	Cc
+vrijeme	vrijeme	Ncnsa
+rada	rad	Ncmsg
+skupine	skupina	Ncfsg
+za	za	Sa
+potporu	potpora	Ncfsa
+i	i	Cc
+osiguranje	osiguranje	Ncnsa
+letenja	letenje	Ncnsg
+.	.	Z
+
+XII	xii	Mrc
+.	.	Z
+
+IZDAVANJE	izdavanje	Ncnsn
+LETAČKE	letački	Agpfsgy
+ZADAĆE	zadaća	Ncfsg
+
+Zapovijed	zapovijed	Ncfsn
+za	za	Sa
+letačku	letački	Agpfsay
+zadaću	zadaća	Ncfsa
+
+Članak	članak	Ncmsn
+74.	74.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Zapovijed	zapovijed	Ncfsn
+za	za	Sa
+letačku	letački	Agpfsay
+zadaću	zadaća	Ncfsa
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+kao	kao	Cs
+Plan	plan	Ncmsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+ili	ili	Cc
+kao	kao	Cs
+pisana	pisati	Appfsny
+zapovijed	zapovijed	Ncfsn
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Pisana	pisan	Agpfsny
+zapovijed	zapovijed	Ncfsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-nsg
+članaka	članak	Ncmpg
+obvezno	obvezno	Rgp
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+–	–	Sa
+postrojbu	postrojba	Ncfsa
+
+–	–	Sa
+zadaću	zadaća	Ncfsa
+
+–	–	Sa
+datum	datum	Ncmsan
+i	i	Cc
+vrijeme	vrijeme	Ncnsa
+
+–	i	Agpnsny
+mjesto	mjesto	Ncnsn
+
+–	–	Agpmsny
+cilj	cilj	Ncmsn
+zadaće	zadaća	Ncfsg
+
+–	–	Agpmsann
+način	način	Ncmsan
+,	,	Z
+vrijeme	vrijeme	Ncnsa
+i	i	Cc
+mjesto	mjesto	Ncnsa
+raščlambe	raščlamba	Ncfsg
+i	i	Cc
+izvješćivanja	izvješćivanje	Ncnsg
+o	o	Sl
+provedenoj	provesti	Agpfsly
+letačkoj	letački	Agpfsly
+zadaći	zadaća	Ncfsl
+
+–	i	Agpmpay
+druge	drugi	Agpmpay
+elemente	element	Ncmpa
+bitne	bitan	Agpfpny
+za	za	Sa
+sigurnu	siguran	Agpfsay
+provedbu	provedba	Ncfsa
+letačke	letački	Agpfsgy
+zadaće	zadaća	Ncfsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Iznimno	iznimno	Rgp
+od	od	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+,	,	Z
+za	za	Sa
+letačke	letački	Agpfpay
+zadaće	zadaća	Ncfpa
+koje	koji	Pi-fpn
+provode	provoditi	Vmr3p
+snage	snaga	Ncfpn
+iz	iz	Sg
+letačke	letački	Agpfsgy
+pripravnosti	pripravnost	Ncfsg
+zapovijed	zapovijed	Ncfsn
+se	sebe	Ncfsg
+može	moći	Vmr3s
+izdati	izdati	Vmn
+i	i	Cc
+samo	samo	Rgp
+usmeno	usmen	Agpnsny
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+U	u	Sl
+slučaju	slučaj	Ncmsl
+izdavanja	izdavanje	Ncnsg
+usmene	usmen	Agpfsgy
+zapovijedi	zapovijed	Ncfsg
+iz	iz	Sg
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+nadređeni	nadrediti	Appmpny
+zapovjednik	zapovjednik	Ncmsn
+ili	ili	Cc
+osoba	osoba	Ncfsn
+koju	koji	Pi-fsa
+on	on	Pp3msn
+ovlasti	ovlastiti	Vmr3s
+obvezna	obvezan	Agpfsny
+je	biti	Var3s
+izraditi	izraditi	Vmn
+pisanu	pisan	Agpfsay
+zapovijed	zapovijed	Ncfsa
+.	.	Z
+
+Plan	plan	Ncmsn
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+
+Članak	članak	Ncmsn
+75.	75.	Mdo
+
+Izrada	izrada	Ncfsn
+Plana	plan	Ncmsg
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+propisana	propisati	Appfsny
+je	biti	Var3s
+Uputom	uputa	Ncfsi
+za	za	Sa
+planiranje	planiranje	Ncnsa
+vojnog	vojni	Agpnsgy
+letenja	letenje	Ncnsg
+.	.	Z
+
+Skupni	skupni	Agpmsny
+plan	plan	Ncmsn
+leta	let	Ncmsg
+
+Članak	članak	Ncmsn
+76.	76.	Mdo
+
+Sadržaj	sadržaj	Ncmsn
+i	i	Cc
+obrasci	obrazac	Ncmpn
+te	te	Cc
+uvjeti	uvjet	Ncmpn
+i	i	Cc
+način	način	Ncmsan
+predavanja	predavanje	Ncnsg
+planova	plan	Ncmpg
+leta	let	Ncmsg
+za	za	Sa
+vojne	vojni	Agpmpay
+zrakoplove	zrakoplov	Ncmpa
+uređuju	uređivati	Vmr3p
+se	sebe	Px--sa
+sporazumom	sporazum	Ncmsi
+između	između	Sg
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+i	i	Cc
+pružatelja	pružatelj	Ncmpg
+usluga	usluga	Ncfpg
+u	u	Sl
+zračnoj	zračan	Agpfsly
+plovidbi	plovidba	Ncfsl
+.	.	Z
+
+ICAO	icati	Vmp-sm
+plan	plan	Ncmsan
+leta	let	Ncmsg
+
+Članak	članak	Ncmsn
+77.	77.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Za	za	Sa
+međunarodne	međunarodni	Agpmpay
+letove	let	Ncmpa
+posada	posada	Ncfsn
+vojnog	vojni	Agpmsgy
+zrakoplova	zrakoplov	Ncmsg
+dužna	dužan	Agpfsny
+je	biti	Var3s
+popuniti	popuniti	Vmn
+ICAO	icao	Agpmsayn
+plan	plan	Ncmsan
+leta	let	Ncmsg
+te	te	Cc
+ga	on	Pp3msa
+u	u	Sl
+propisanom	propisati	Agpnsly
+vremenu	vrijeme	Ncnsl
+dostaviti	dostaviti	Vmn
+pružatelju	pružatelj	Ncmsd
+usluga	usluga	Ncfpg
+u	u	Sl
+zračnoj	zračan	Agpfsly
+plovidbi	plovidba	Ncfsl
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Za	za	Sa
+inozemne	inozeman	Agpmpay
+vojne	vojni	Agpmpay
+zrakoplove	zrakoplov	Ncmpa
+koji	koji	Pi-mpn
+u	u	Sl
+potpunosti	potpunost	Ncfsl
+provode	provoditi	Vmr3p
+zadaće	zadaća	Ncfsg
+u	u	Sl
+zračnom	zračan	Agpmsly
+prostoru	prostor	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+popunjava	popunjavati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+predaje	predavati	Vmr3s
+skupni	skupni	Agpmsayn
+plan	plan	Ncmsan
+leta	let	Ncmsg
+ili	ili	Cc
+ICAO	icao	Agpmsayn
+plan	plan	Ncmsan
+leta	let	Ncmsg
+.	.	Z
+
+XIII	xiii	Mrc
+.	.	Z
+
+PRIPREMA	priprema	Ncfsn
+LETENJA	letenje	Ncnsg
+
+Opseg	opseg	Ncmsn
+i	i	Cc
+vrste	vrsta	Ncfsg
+pripreme	priprema	Ncfsg
+letenja	letenje	Ncnsg
+
+Članak	članak	Ncmsn
+78.	78.	Mdo
+

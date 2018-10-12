@@ -1,0 +1,780 @@
+davanje	davanje	Ncnsn
+informacija	informacija	Ncfpg
+o	o	Sl
+zdravstvenom	zdravstven	Agpnsly
+stanju	stanje	Ncnsl
+bolesnika	bolesnik	Ncmpg
+,	,	Z
+
+4.3.	4.3.	Mds
+prostorija	prostorija	Ncfpg
+za	za	Sa
+smještaj	smještaj	Ncmsan
+pokojnika	pokojnik	Ncmpg
+,	,	Z
+
+4.4.	4.4.	Mds
+prostorija	prostorija	Ncfpg
+za	za	Sa
+odmor	odmor	Ncmsan
+radnika	radnik	Ncmpg
+s	sa	Si
+čajnom	čajni	Agpfsiy
+kuhinjom	kuhinja	Ncfsi
+,	,	Z
+
+4.5.	4.5.	Mdo
+garderoba	garderoba	Ncfsn
+za	za	Sa
+radnike	radnik	Ncmpa
+,	,	Z
+
+4.6.	4.6.	Mds
+prostorija	prostorija	Ncfpg
+za	za	Sa
+voditelja	voditelj	Ncmsay
+,	,	Z
+
+4.7.	4.7.	Mds
+prostorija	prostorija	Ncfpg
+za	za	Sa
+glavnu	glavni	Agpfsay
+sestru	sestra	Ncfsa
+,	,	Z
+
+4.8.	4.8.	Mdo
+sanitarni	sanitaran	Agpmpny
+čvorovi	čvor	Ncmpn
+za	za	Sa
+pacijente	pacijent	Ncmpa
+,	,	Z
+
+4.9.	4.9.	Mdo
+sanitarni	sanitaran	Agpmpny
+čvorovi	čvor	Ncmpn
+za	za	Sa
+radnike	radnik	Ncmpa
+.	.	Z
+
+5.	5.	Mdo
+Komunikacijska	komunikacijski	Agpfsny
+potpora	potpora	Ncfsn
+OHBP-a	OHBP	Npmsg
+
+Telefonski	telefonski	Agpmpny
+uređaji	uređaj	Ncmpn
+moraju	morati	Vmr3p
+biti	biti	Van
+dostupni	dostupan	Agpmpny
+radnicima	radnik	Ncmpi
+na	na	Sl
+svim	sav	Agpfply
+radnim	radni	Agpfply
+površinama	površina	Ncfpl
+.	.	Z
+
+Potrebno	potreban	Agpnsny
+je	biti	Var3s
+osigurati	osigurati	Vmn
+odgovarajući	odgovarajući	Agpmsayn
+oblik	oblik	Ncmsan
+komunikacije	komunikacija	Ncfsg
+između	između	Sg
+OHBP-a	OHBP	Npmsg
+i	i	Cc
+ostalih	ostali	Agpfpgy
+ustrojstvenih	ustrojstven	Agpfpgy
+jedinica	jedinica	Ncfpg
+bolničke	bolnički	Agpfsgy
+zdravstvene	zdravstven	Agpfsgy
+ustanove	ustanova	Ncfsg
+te	te	Cc
+komunikaciju	komunikacija	Ncfsa
+između	između	Sg
+OHBP-a	OHBP	Npmsg
+i	i	Cc
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+Županijskih	županijski	Agpmpgy
+zavoda	zavod	Ncmpg
+.	.	Z
+
+2.	2.	Mdo
+Minimalni	minimalan	Agpmpny
+uvjeti	uvjet	Ncmpn
+medicinsko-tehničke	medicinsko-tehnički	Agpfsgy
+opreme	oprema	Ncfsg
+
+Članak	članak	Ncmsn
+17.	17.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Medicinsko-tehnička	medicinsko-tehnički	Agpfsny
+oprema	oprema	Ncfsn
+u	u	Sl
+OHBP-u	OHBP	Npmsl
+je	biti	Var3s
+:	:	Z
+
+a	a	Cc
+)	)	Z
+Medicinska	medicinski	Agpfsny
+oprema	oprema	Ncfsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+
+1.	1.	Mdo
+daska	daska	Ncfsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+s	sa	Si
+bočnim	bočni	Agpmpiy
+stabilizatorima	stabilizator	Ncmpi
+glave	glava	Ncfsg
+i	i	Cc
+remenjem	remenje	Ncnsi
+za	za	Sa
+pričvršćivanje	pričvršćivanje	Ncnsa
+,	,	Z
+
+2.	2.	Mdo
+ovratnici	ovratnik	Ncmpn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+(	(	Z
+za	za	Sa
+odrasle	odrastao	Agpmpay
+i	i	Cc
+djecu	dijete	Ncnpa
+)	)	Z
+,	,	Z
+
+3.	3.	Mdo
+prsluk	prsluk	Ncmsan
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+,	,	Z
+
+4.	4.	Mdo
+rasklopna	rasklopni	Agpnpny
+nosila	nositi	Vmp-sf
+s	sa	Si
+bočnim	bočni	Agpmpiy
+fiksatorima	fiksator	Ncmpi
+glave	glava	Ncfsg
+i	i	Cc
+remenjem	remenje	Ncnsi
+za	za	Sa
+pričvršćivanje	pričvršćivanje	Ncnsa
+,	,	Z
+
+5.	5.	Mdo
+sadreni	sadren	Agpmsayn
+zavoj	zavoj	Ncmsan
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+gips	gips	Ncmsan
+longetom	longeta	Ncfsi
+,	,	Z
+
+6.	6.	Mdo
+udlage	udlaga	Ncfsg
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+,	,	Z
+
+7.	7.	Mdo
+vakuum	vakuum	Ncmsan
+madrac	madrac	Ncmsan
+s	sa	Si
+ručnom	ručni	Agpfsiy
+crpkom	crpka	Ncfsi
+.	.	Z
+
+b	b	Npmsn
+)	)	Z
+Medicinska	medicinski	Agpfsny
+oprema	oprema	Ncfsn
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+
+1.	1.	Mdo
+priključak	priključak	Ncmsan
+za	za	Sa
+medicinske	medicinski	Agpmpay
+plinove	plin	Ncmpa
+(	(	Z
+kisik	kisik	Ncmsn
+,	,	Z
+dušični	dušični	Agpmsny
+oksidul	oksidul	Ncmsn
+,	,	Z
+komprimirani	komprimiran	Agpmsny
+zrak	zrak	Ncmsn
+i	i	Cc
+vakuum	vakuum	Ncmsan
+)	)	Z
+,	,	Z
+
+2.	2.	Mdo
+kateteri	kateter	Ncmpn
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+za	za	Sa
+odrasle	odrastao	Agpmpay
+,	,	Z
+
+3.	3.	Mdo
+maske	maska	Ncfsg
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+u	u	Sl
+veličini	veličina	Ncfsl
+za	za	Sa
+odrasle	odrastao	Agpmpay
+,	,	Z
+
+4.	4.	Mdo
+maske	maska	Ncfsg
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+u	u	Sl
+veličini	veličina	Ncfsl
+za	za	Sa
+djecu	dijete	Ncnpa
+,	,	Z
+
+5.	5.	Mdo
+maske	maska	Ncfsg
+sa	sa	Si
+spremnikom	spremnik	Ncmsi
+i	i	Cc
+jednosmjernim	jednosmjeran	Agpfply
+valvulama	valvula	Ncfpl
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+(	(	Z
+za	za	Sa
+odrasle	odrastao	Agpmpay
+)	)	Z
+,	,	Z
+
+6.	6.	Mdo
+maske	maska	Ncfsg
+sa	sa	Si
+spremnikom	spremnik	Ncmsi
+i	i	Cc
+jednosmjernim	jednosmjeran	Agpfply
+valvulama	valvula	Ncfpl
+za	za	Sa
+primjenu	primjena	Ncfsa
+kisika	kisik	Ncmsg
+(	(	Z
+za	za	Sa
+djecu	dijete	Ncnpa
+)	)	Z
+,	,	Z
+
+7.	7.	Mdo
+prijenosna	prijenosni	Agpfsny
+boca	boca	Ncfsn
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+kisik	kisik	Ncmsan
+zapremine	zapremina	Ncfsg
+2	2	Mdc
+litre	litra	Ncfsg
+(	(	Z
+minimalnog	minimalan	Agpmsgy
+kapaciteta	kapacitet	Ncmsg
+od	od	Sg
+400	400	Mdc
+litara	litra	Ncfpg
+kisika	kisik	Ncmsg
+)	)	Z
+ili	ili	Cc
+zapremine	zapremina	Ncfsg
+koja	koji	Pi-fsn
+osigurava	osiguravati	Vmr3s
+pohranu	pohrana	Ncfsa
+iste	isti	Agpfsgy
+količine	količina	Ncfsg
+kisika	kisik	Ncmsg
+sa	sa	Si
+redukcijskim	redukcijski	Agpmsiy
+ventilom	ventil	Ncmsi
+i	i	Cc
+manometrom	manometar	Ncmsi
+,	,	Z
+
+8.	8.	Mdo
+protokomjer	protokomjer	Ncmsn
+za	za	Sa
+prijenosnu	prijenosni	Agpfsay
+bocu	boca	Ncfsa
+za	za	Sa
+kisik	kisik	Ncmsan
+minimalnog	minimalan	Agpmsgy
+kapaciteta	kapacitet	Ncmsg
+od	od	Sg
+15	15	Mdc
+litara	litra	Ncfpg
+/	/	Z
+minuti	minuta	Ncfsl
+,	,	Z
+
+9.	9.	Mdo
+protokomjer	protokomjer	Ncmsan
+s	sa	Si
+ovlaživačem	ovlaživač	Ncmsi
+kisika	kisik	Ncmsg
+minimalnog	minimalan	Agpmsgy
+kapaciteta	kapacitet	Ncmsg
+od	od	Sg
+15	15	Mdc
+litara	litra	Ncfpg
+/	/	Z
+minuti	minuta	Ncfsl
+.	.	Z
+
+c	C	Npmsn
+)	)	Z
+Medicinski	medicinski	Agpmpny
+uređaji	uređaj	Ncmpn
+,	,	Z
+dijagnostička	dijagnostički	Agpfsny
+oprema	oprema	Ncfsn
+i	i	Cc
+pripadajući	pripadajući	Agpmsny
+pribor	pribor	Ncmsn
+
+1.	1.	Mdo
+anesteziološki	anesteziološki	Agpmsayn
+aparat	aparat	Ncmsan
+,	,	Z
+
+2.	2.	Mdo
+aspirator	aspirator	Ncmsn
+,	,	Z
+
+3.	3.	Mdo
+defibrilator	defibrilator	Ncmsn
+,	,	Z
+
+4.	4.	Mdo
+dijagnostička	dijagnostički	Agpfsny
+svjetiljka	svjetiljka	Ncfsn
+,	,	Z
+
+5.	5.	Mdo
+EKG	ekg	Agpmsayn
+uređaj	uređaj	Ncmsan
+,	,	Z
+
+6.	6.	Mdo
+fonendoskop	fonendoskop	Ncmsan
+,	,	Z
+
+7.	7.	Mdo
+glukometar	glukometar	Ncmsn
+,	,	Z
+
+8.	8.	Mdo
+grijač	grijač	Ncmsn
+krvi	krv	Ncfsg
+,	,	Z
+
+9.	9.	Mdo
+infuzomat	infuzomat	Ncmsan
+,	,	Z
+
+10.	10.	Mdo
+kapnometar	kapnometar	Ncmsn
+,	,	Z
+
+11.	11.	Mdo
+neurološki	neurološki	Agpmsayn
+čekić	čekić	Ncmsan
+,	,	Z
+
+12.	12.	Mdo
+perfuzori	perfuzor	Ncmpn
+(	(	Z
+infuzijske	infuzijski	Agpfsgy
+pumpe	pumpa	Ncfsg
+s	sa	Si
+brizgalicom	brizgalica	Ncfsi
+)	)	Z
+,	,	Z
+
+13.	13.	Mdo
+pulsni	pulsni	Agpmsayn
+oksimetar	oksimetar	Ncmsan
+s	sa	Si
+nastavkom	nastavak	Ncmsi
+za	za	Sa
+odrasle	odrastao	Agpmpay
+i	i	Cc
+djecu	dijete	Ncnpa
+,	,	Z
+
+14.	14.	Mdo
+digitalni	digitalan	Agpmsny
+termometar	termometar	Ncmsn
+,	,	Z
+
+15.	15.	Mdo
+tlakomjer	tlakomjer	Ncmsan
+s	sa	Si
+manžetama	manžeta	Ncfpi
+za	za	Sa
+odrasle	odrastao	Agpmpay
+i	i	Cc
+za	za	Sa
+djecu	dijete	Ncnpa
+,	,	Z
+
+16.	16.	Mdo
+transportni	transportni	Agpmsayn
+ventilator	ventilator	Ncmsan
+,	,	Z
+
+17.	17.	Mdo
+mobilni	mobilan	Agpmsny
+ultrazvučni	ultrazvučan	Agpmsny
+uređaj	uređaj	Ncmsn
+,	,	Z
+
+18.	18.	Mdo
+vaga	vaga	Ncfsn
+,	,	Z
+
+19.	19.	Mdo
+visinomjer	visinomjer	Ncmsn
+,	,	Z
+
+20.	20.	Mdo
+stalak	stalak	Ncmsn
+za	za	Sa
+infuziju	infuzija	Ncfsa
+,	,	Z
+
+21.	21.	Mdo
+fokusirana	fokusirati	Appfsny
+lampa	lampa	Ncfsn
+za	za	Sa
+pregled	pregled	Ncmsan
+,	,	Z
+
+22.	22.	Mdo
+oprema	oprema	Ncfsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+(	(	Z
+udlage	udlaga	Ncfpn
+različitih	različit	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+)	)	Z
+,	,	Z
+
+23.	23.	Mdo
+zamjenska	zamjenski	Agpfsny
+oprema	oprema	Ncfsn
+(	(	Z
+udlage	udlaga	Ncfpn
+,	,	Z
+daska	daska	Ncfsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+kralježnice	kralježnica	Ncfsg
+s	sa	Si
+opremom	oprema	Ncfsi
+,	,	Z
+rasklopna	rasklopni	Agpnpny
+nosila	nosila	Ncnpn
+,	,	Z
+vratni	vratni	Agpmsayn
+ovratnik	ovratnik	Ncmsan
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+vratne	vratni	Agpfsgy
+kralježnice	kralježnica	Ncfsg
+,	,	Z
+vakuum	vakuum	Ncmsan
+madrac	madrac	Ncmsan
+,	,	Z
+prsluk	prsluk	Ncmsn
+za	za	Sa
+imobilizaciju	imobilizacija	Ncfsa
+i	i	Cc
+izvlačenje	izvlačenje	Ncnsa
+)	)	Z
+,	,	Z
+
+24.	24.	Mdo
+sjedeća	sjedeći	Agpnpay
+kolica	kolica	Ncnpa
+za	za	Sa
+prijevoz	prijevoz	Ncmsan
+pacijenata	pacijent	Ncmpg
+,	,	Z
+
+25.	25.	Mdo
+zaštitni	zaštitni	Agpmpny
+paravani	paravan	Ncmpn
+,	,	Z
+
+26.	26.	Mdo
+otoskop	otoskop	Ncmsan
+,	,	Z
+
+27.	27.	Mdo
+oftalmoskop	oftalmoskop	Ncmsan
+,	,	Z
+
+28.	28.	Mdo
+ručna	ručni	Agpfsny
+baterijska	baterijski	Agpfsny
+lampa	lampa	Ncfsn
+,	,	Z
+
+29.	29.	Mdo
+platneni	platnen	Agpmsayn
+metar	metar	Ncmsan
+,	,	Z
+
+30.	30.	Mdo
+pribor	pribor	Ncmsn
+za	za	Sa
+ispiranje	ispiranje	Ncnsa
+uha	uho	Ncnsg
+,	,	Z
+
+31.	31.	Mdo
+otvarač	otvarač	Ncmsn
+usta	usta	Ncnpg
+,	,	Z
+
+32.	32.	Mdo
+špatule	špatula	Ncfsg
+za	za	Sa
+pregled	pregled	Ncmsan
+ždrijela	ždrijelo	Ncnsg
+,	,	Z
+
+33.	33.	Mdo
+metalni	metalan	Agpmsny
+bubanj	bubanj	Ncmsn
+za	za	Sa
+sterilne	sterilan	Agpmpay
+materijale	materijal	Ncmpa
+,	,	Z
+
+34.	34.	Mdo
+posuda	posuda	Ncfsn
+sa	sa	Sg
+sterilne	sterilan	Agpmpay
+instrumente	instrument	Ncmpa
+s	sa	Si
+poklopcem	poklopac	Ncmsi
+,	,	Z
+
+35.	35.	Mdo
+bubrežasta	bubrežast	Agpfsny
+zdjelica	zdjelica	Ncfsn
+,	,	Z
+
+36.	36.	Mdo
+gumirano	gumirati	Agpnsay
+platno	platno	Ncnsa
+,	,	Z
+
+37.	37.	Mdo
+pribor	pribor	Ncmsn
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+uzoraka	uzorak	Ncmpg
+za	za	Sa
+laboratorijske	laboratorijski	Agpfpay
+pretrage	pretraga	Ncfpa
+,	,	Z
+
+38.	38.	Mdo
+test	test	Ncmsn
+trake	traka	Ncfsg
+za	za	Sa
+brzu	brz	Agpfsay
+analizu	analiza	Ncfsa
+urina	urin	Ncmsg
+,	,	Z
+
+39.	39.	Mdo
+hvataljka	hvataljka	Ncfsn
+za	za	Sa
+instrumente	instrument	Ncmpa
+,	,	Z
+
+40.	40.	Mdo
+posude	posuda	Ncfsg
+za	za	Sa
+medicinski	medicinski	Agpmsayn
+otpad	otpad	Ncmsan
+,	,	Z
+
+41.	41.	Mdo
+posude	posuda	Ncfsg
+za	za	Sa
+ostali	ostali	Agpmsayn
+otpad	otpad	Ncmsan
+,	,	Z
+
+42.	42.	Mdo
+medicinska	medicinski	Agpfsny
+torba	torba	Ncfsn
+s	sa	Si
+priborom	pribor	Ncmsi
+za	za	Sa
+reanimaciju	reanimacija	Ncfsa
+odraslih	odrastao	Agpmpgy
+i	i	Cc
+djece	dijete	Ncnpg
+.	.	Z
+
+d	d	Npmsn
+)	)	Z
+Medicinski	medicinski	Agpmpny
+setovi	set	Ncmpn
+
+1.	1.	Mdo
+set	set	Ncmsan
+za	za	Sa
+konikotomiju	konikotomija	Ncfsa
+,	,	Z
+
+2.	2.	Mdo
+set	set	Ncmsan
+za	za	Sa
+održavanje	održavanje	Ncnsa
+prohodnosti	prohodnost	Ncfsg
+dišnih	dišni	Agpmpgy
+putova	put	Ncmpg
+i	i	Cc
+ventilacije	ventilacija	Ncfsg
+kod	kod	Sg
+odraslih	odrastao	Agpmpgy
+,	,	Z
+
+3.	3.	Mdo
+set	set	Ncmsan
+za	za	Sa
+održavanje	održavanje	Ncnsa
+prohodnosti	prohodnost	Ncfsg
+dišnih	dišni	Agpmpgy
+putova	put	Ncmpg
+i	i	Cc
+ventilacije	ventilacija	Ncfpa
+kod	kod	Sg
+djece	dijete	Ncnpg
+i	i	Cc
+novorođenčadi	novorođenče	Ncnpg
+,	,	Z
+
+4.	4.	Mdo
+set	set	Ncmsan
+za	za	Sa
+periferni	periferan	Agpmsayn
+i	i	Cc
+centralni	centralan	Agpmsayn
+venski	venski	Agpmsayn
+pristup	pristup	Ncmsan
+,	,	Z
+
+5.	5.	Mdo
+set	set	Ncmsan
+za	za	Sa
+torakodrenažu	torakodrenaža	Ncfsa
+,	,	Z
+
+6.	6.	Mdo
+set	set	Ncmsan
+za	za	Sa
+prepariranje	prepariranje	Ncnsa
+vene	vena	Ncfsg
+,	,	Z
+
+7.	7.	Mdo
+set	set	Ncmsan
+za	za	Sa
+intraoselani	intraoselan	Agpmsayn
+pristup	pristup	Ncmsan
+,	,	Z
+
+8.	8.	Mdo
+set	set	Ncmsan
+za	za	Sa
+porod	porod	Ncmsan
+,	,	Z
+
+9.	9.	Mdo
+set	set	Ncmsan
+za	za	Sa
+kateterizaciju	kateterizacija	Ncfsa
+mokraćnog	mokraćni	Agpmsgy
+mjehura	mjehur	Ncmsg
+,	,	Z
+
+10.	10.	Mdo
+set	set	Ncmsn
+za	za	Sa
+opekline	opeklina	Ncfpa
+,	,	Z
+
+11.	11.	Mdo
+set	set	Ncmsn
+za	za	Sa
+ispiranje	ispiranje	Ncnsa
+želuca	želudac	Ncmsg
+,	,	Z
+
+12.	12.	Mdo
+set	set	Ncmsn
+za	za	Sa
+klizmu	klizma	Ncfsa
+,	,	Z
+
+13.	13.	Mdo
+set	set	Ncmsn
+za	za	Sa
+pleuralnu	pleuralni	Agpfsay
+punkciju	punkcija	Ncfsa
+,	,	Z
+
+14.	14.	Mdo
+set	set	Ncmsan
+za	za	Sa
+abdominalnu	abdominalan	Agpfsay
+punkciju	punkcija	Ncfsa
+,	,	Z
+
+15.	15.	Mdo
+set	set	Ncmsan
+za	za	Sa
+lumbalnu	lumbalan	Agpfsay
+punkciju	punkcija	Ncfsa
+,	,	Z
+
+16.	16.	Mdo
+

@@ -1,0 +1,159 @@
+100	100	Mdc
+02.11.2016	02.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+predsjednika	predsjednik	Ncmsg
+,	,	Z
+potpredsjednika	potpredsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Odbora	odbor	Ncmsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+okoliša	okoliš	Ncmsg
+i	i	Cc
+prirode	priroda	Ncfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2111	2111	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+46.	46.	Mdo
+i	i	Cc
+96.	96.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+,	,	Z
+POTPREDSJEDNIKA	potpredsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+ZAŠTITU	zaštita	Ncfsa
+OKOLIŠA	okoliš	Ncmsg
+I	i	Cc
+PRIRODE	priroda	Ncfsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+U	u	Sa
+Odbor	odbor	Ncmsan
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+okoliša	okoliš	Ncmsg
+i	i	Cc
+prirode	priroda	Ncfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+predsjednika	predsjednik	Ncmsay
+
+GORDAN	GORDAN	Npmsn
+MARAS	MARAS	Npmsn
+
+za	za	Sa
+potpredsjednika	potpredsjednik	Ncmsay
+
+dr.	dr.	Y
+sc.	sc.	Y
+JOSIP	Josip	Npmsn
+KRIŽANIĆ	Križanić	Npmsn
+
+za	za	Sa
+članove	član	Ncmpa
+:	:	Z
+
+DRAŽEN	DRAŽEN	Npmsn
+BARIŠIĆ	Barišić	Npmsn
+
+DARKO	Darko	Npmsn
+HORVAT	HORVAT	Npmsn
+
+BRANKO	Branko	Npmsn
+BAČIĆ	BAČIĆ	Npmsn
+
+ANTE	Ante	Npmsn
+SANADER	Sanader	Npmsn
+
+HRVOJE	HRVOJE	Npmsn
+ZEKANOVIĆ	ZEKANOVIĆ	Npmsn
+
+LJUBICA	ljubica	Ncfsn
+AMBRUŠEC	AMBRUŠEC	Npmsn
+
+MARIJA	Marija	Npfsn
+PUH	puh	Ncmsn
+
+MIHAEL	Mihael	Npmsn
+ZMAJLOVIĆ	ZMAJLOVIĆ	Npmsn
+
+DAMIR	Damir	Npmsn
+MATELJAN	MATELJAN	Npmsn
+
+IVAN	Ivan	Npmsn
+VILIBOR	VILIBOR	Npmsn
+SINČIĆ	SINČIĆ	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/84	03/84	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

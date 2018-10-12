@@ -1,0 +1,660 @@
+uzastopce	uzastopce	Rgp
+ocijenjen	ocijeniti	Appmsnn
+ocjenom	ocjena	Ncfsi
+»	»	Z
+naročito	naročito	Rgp
+uspješan	uspješan	Agpmsnn
+«	«	Z
+,	,	Z
+te	te	Cc
+ako	ako	Cs
+je	biti	Var3s
+prema	prema	Sl
+kriterijima	kriterij	Ncmpl
+iz	iz	Sg
+članka	članak	Ncmsg
+4.	4.	Mdo
+točka	točka	Ncfsn
+1.1.	1.1.	Mds
+,	,	Z
+članka	članak	Ncmsg
+5.	5.	Mdo
+točka	točka	Ncfsn
+2.1.	2.1.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+6.	6.	Mdo
+točka	točka	Ncfsn
+3.	3.	Mdo
+ovoga	ovaj	Pd-msg
+pravilnika	pravilnik	Ncmsg
+,	,	Z
+postigao	postići	Vmp-sm
+maksimalan	maksimalan	Agpmsann
+broj	broj	Ncmsan
+bodova	bod	Ncmpg
+.	.	Z
+
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Članak	članak	Ncmsn
+25.	25.	Mdo
+
+Obrasci	obrazac	Ncmpn
+OSR-1	OSR-1	Mdm
+,	,	Z
+NM-1	NM-1	Mdm
+i	i	Cc
+NS-1	ns-i	Agpnsny
+za	za	Sa
+ocjenjivanje	ocjenjivanje	Ncnsa
+i	i	Cc
+pokretanje	pokretanje	Ncnsa
+postupka	postupak	Ncmsg
+napredovanja	napredovanje	Ncnsg
+sastavni	sastavan	Agpmsny
+su	biti	Var3p
+dio	dio	Ncmsn
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+26.	26.	Mdo
+
+Stručni	stručan	Agpmpny
+radnici	radnik	Ncmpn
+na	na	Sa
+dan	dan	Ncmsan
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+,	,	Z
+koji	koji	Pi-mpn
+su	biti	Var3p
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+odredbama	odredba	Ncfpl
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+postupku	postupak	Ncmsl
+i	i	Cc
+kriterijima	kriterij	Ncmpl
+ocjenjivanja	ocjenjivanje	Ncnsg
+rada	rad	Ncmsg
+i	i	Cc
+unaprjeđenja	unaprjeđenje	Ncnsg
+stručnih	stručan	Agpmpgy
+radnika	radnik	Ncmpg
+ustanova	ustanova	Ncfpg
+socijalne	socijalan	Agpfsgy
+skrbi	skrb	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+38/04.	38/04.	Mds
+)	)	Z
+bili	biti	Vap-pm
+tri	tri	Mlc
+godine	godina	Ncfsg
+uzastopno	uzastopno	Rgp
+ocijenjeni	ocijeniti	Appmpny
+ocjenom	ocjena	Ncfsi
+»	»	Z
+naročito	naročito	Rgp
+uspješan	uspješan	Agpmsnn
+«	«	Z
+,	,	Z
+odnosno	odnosno	Rgp
+pet	pet	Mlc
+godina	godina	Ncfpg
+uzastopno	uzastopno	Rgp
+najmanje	malo	Rgs
+ocijenjeni	ocijeniti	Appmpny
+ocjenom	ocjena	Ncfsi
+»	»	Z
+uspješan	uspješan	Agpmsnn
+«	«	Z
+,	,	Z
+te	te	Cc
+uz	uz	Sa
+uvjet	uvjet	Ncmsan
+da	da	Cs
+ispunjavaju	ispunjavati	Vmr3p
+ostale	ostali	Agpmpay
+uvjete	uvjet	Ncmpa
+iz	iz	Sg
+članka	članak	Ncmsg
+16.	16.	Mdo
+i	i	Cc
+17.	17.	Mdo
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+,	,	Z
+mogu	moći	Vmr3p
+steći	steći	Vmn
+zvanje	zvanje	Ncnsa
+mentora	mentor	Ncmpg
+ili	ili	Cc
+savjetnika	savjetnik	Ncmpg
+.	.	Z
+
+Stručnom	stručan	Agpmsly
+radniku	radnik	Ncmsl
+ili	ili	Cc
+ravnatelju	ravnatelj	Ncmsl
+koji	koji	Pi-msn
+je	biti	Var3s
+na	na	Sa
+dan	dan	Ncmsan
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+,	,	Z
+prema	prema	Sl
+ranije	rano	Rgc
+važećim	važeći	Agpmply
+propisima	propis	Ncmpl
+stekao	steći	Vmp-sm
+zvanje	zvanje	Ncnsa
+mentora	mentor	Ncmpg
+i	i	Cc
+savjetnika	savjetnik	Ncmpg
+,	,	Z
+priznat	priznati	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+i	i	Cc
+stečeno	steći	Agpnsny
+zvanje	zvanje	Ncnsn
+ukoliko	ukoliko	Cs
+ispunjava	ispunjavati	Vmr3s
+uvjete	uvjet	Ncmpa
+propisane	propisati	Appmpay
+ovim	ovaj	Pd-msi
+Pravilnikom	pravilnik	Ncmsi
+,	,	Z
+za	za	Sa
+napredovanja	napredovanje	Ncnpa
+u	u	Sa
+navedena	naveden	Agpnpay
+zvanja	zvanje	Ncnpa
+,	,	Z
+odnosno	odnosni	Agpnsny
+zadržavanje	zadržavanje	Ncnsn
+navedenih	naveden	Agpnpgy
+zvanja	zvanje	Ncnpg
+.	.	Z
+
+Članak	članak	Ncmsn
+27.	27.	Mdo
+
+Ovaj	ovaj	Pd-msn
+pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+04/13	04/13	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+519	519	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+1/5	1/5	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+9.	9.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Potpredsjednica	potpredsjednica	Ncfsn
+Vlade	vlada	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+i	i	Cc
+ministrica	ministrica	Ncfsn
+socijalne	socijalan	Agpfsgy
+politike	politika	Ncfsg
+i	i	Cc
+mladih	mlad	Agpmpgy
+Milanka	Milanka	Npfsn
+Opačić	Opačić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+OBRAZAC	obrazac	Ncmsn
+OSR-1	osr-a	Ncfsg
+
+_________________________________________	_________________________________________	Ncfsn
+
+_________________________________________	_________________________________________	Qr
+(	(	Z
+naziv	naziv	Ncmsn
+i	i	Cc
+adresa	adresa	Ncfsn
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+_________________________________________	_________________________________________	Qr
+(	(	Z
+osobno	osoban	Agpnsay
+ime	ime	Ncnsa
+stručnog	stručan	Agpmsgy
+radnika	radnik	Ncmsg
+)	)	Z
+
+_________________________________________	_________________________________________	Ncfsn
+
+(	(	Z
+naziv	naziv	Ncmsn
+radnog	radni	Agpnsgy
+mjesta	mjesto	Ncnsg
+prema	prema	Sl
+općem	opći	Agpmsly
+aktu	akt	Ncmsl
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+Prijedlog	prijedlog	Ncmsn
+ocjene	ocjena	Ncfsg
+po	po	Sl
+kriterijima	kriterij	Ncmpl
+:	:	Z
+Broj	broj	Ncmsn
+bodova	bod	Ncmpg
+
+1.	1.	Mdo
+stručnost	stručnost	Ncfsn
+,	,	Z
+kreativnost	kreativnost	Ncfsa
+i	i	Cc
+samoinicijativnost	samoinicijativnost	Ncfsa
+
+1.1.	1.1.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+1.2.	1.2.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+1.3.	1.3.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+2.	2.	Mdo
+kvaliteta	kvaliteta	Ncfsn
+,	,	Z
+opseg	opseg	Ncmsn
+i	i	Cc
+rokovi	rok	Ncmpn
+obavljenih	obaviti	Agpmpgy
+poslova	posao	Ncmpg
+
+2.1.	2.1.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+2.2.	2.2.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+2.3.	2.3.	Mdo
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+3.	3.	Mdo
+stručno	stručan	Agpnsay
+usavršavanje	usavršavanje	Ncnsa
+i	i	Cc
+objavljivanje	objavljivanje	Ncnsa
+stručnih	stručan	Agpmpgy
+radova	rad	Ncmpg
+
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+4.	4.	Mdo
+poštivanje	poštivanje	Ncnsa
+radnog	radni	Agpnsgy
+vremena	vrijeme	Ncnsg
+
+a	a	Cc
+)	)	Z
+
+b	b	Npmsn
+)	)	Z
+
+c	C	Npmsn
+)	)	Z
+
+d	d	Npmsn
+)	)	Z
+
+Ukupno	ukupno	Rgp
+bodova	bod	Ncmpg
+:	:	Z
+_____________	_____________	Z
+
+S	sa	Si
+obzirom	obzir	Ncmsi
+da	da	Cs
+ukupan	ukupan	Agpmsann
+zbroj	zbroj	Ncmsan
+bodova	bod	Ncmpg
+stručnog	stručan	Agpmsgy
+radnika	radnik	Ncmsg
+/	/	Z
+ravnatelja	ravnatelj	Ncmsg
+iznosi	iznositi	Vmr3s
+__________________________	_________________________a	Ncfsg
+,	,	Z
+predlažem	predlagati	Vmr1s
+da	da	Cs
+se	sebe	Px--sa
+stručni	stručan	Agpmsny
+
+radnik	radnik	Ncmsn
+za	za	Sa
+__________________	__________________	Pd-fsa
+godinu	godina	Ncfsa
+
+ocijeni	ocijeniti	Vmr3s
+ocjenom	ocjena	Ncfsi
+____________	____________	Qr
+.	.	Z
+
+__________________________________________	_________________________________________i	Agpnsny
+(	(	Z
+nadređeni	nadrediti	Agpmsny
+radnik	radnik	Ncmsn
+/	/	Z
+predsjednik	predsjednik	Ncmsn
+Stručnog	stručan	Agpnsgy
+vijeća	vijeće	Ncnsg
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+U	u	Sl
+________________	_______________a	Ncfsl
+,	,	Z
+____________	___________i	Agpnsny
+20	20	Mdc
+___	___	Pd-fsg
+godine	godina	Ncfsg
+
+S	sa	Si
+prijedlogom	prijedlog	Ncmsi
+ocjene	ocjena	Ncfsg
+upoznat	upoznati	Appmsnn
+___________________	___________________	Z
+(	(	Z
+stručni	stručan	Agpmsny
+radnik	radnik	Ncmsn
+/	/	Z
+ravnatelj	ravnatelj	Ncmsn
+)	)	Z
+
+OBRAZAC	obrazac	Ncmsn
+NM-1	nm-a	Ncfsg
+
+_________________________________________	_________________________________________	Qr
+(	(	Z
+naziv	naziv	Ncmsn
+i	i	Cc
+adresa	adresa	Ncfsn
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+18.	18.	Mdo
+
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+razini	razina	Ncfsl
+,	,	Z
+odgovarajućem	odgovarajući	Agpnsly
+zvanju	zvanje	Ncnsl
+,	,	Z
+uvjetima	uvjet	Ncmpl
+i	i	Cc
+načinu	način	Ncmsl
+napredovanja	napredovanje	Ncnsg
+stručnih	stručan	Agpmpgy
+radnika	radnik	Ncmpg
+u	u	Sl
+djelatnosti	djelatnost	Ncfsl
+socijalne	socijalan	Agpfsgy
+skrbi	skrb	Ncfsg
+,	,	Z
+Ministarstvu	ministarstvo	Ncnsl
+socijalne	socijalan	Agpfsgy
+politike	politika	Ncfsg
+i	i	Cc
+mladih	mlad	Agpmpgy
+dostavlja	dostavljati	Vmr3s
+se	sebe	Px--sa
+
+PRIJEDLOG	prijedlog	Ncmsn
+ZA	za	Sa
+NAPREDOVANJE	napredovanje	Ncnsa
+U	u	Sa
+ZVANJE	zvanje	Ncnsa
+MENTORA	mentor	Ncmpg
+
+____________________________________________________	___________________________________________________i	Agpnsny
+(	(	Z
+ime	ime	Ncnsn
+,	,	Z
+ime	ime	Ncnsn
+majke	majka	Ncfsg
+ili	ili	Cc
+oca	oac	Ncmsg
+,	,	Z
+prezime	prezime	Ncnsa
+stručnog	stručan	Agpmsgy
+radnika	radnik	Ncmsg
+/	/	Z
+ravnatelja	ravnatelj	Ncmsg
+čije	čiji	Pi-nsn
+se	sebe	Px--sa
+napredovanje	napredovanje	Ncnsn
+predlaže	predlagati	Vmr3s
+)	)	Z
+
+Rođen-a	Rođen	Npmsg
+_____________________	_____________________	Z
+završio-la	završio-ti	Vmp-sf
+školovanje	školovanje	Ncnsa
+na	na	Sa
+(	(	Z
+datum	datum	Ncmsan
+i	i	Cc
+mjesto	mjesto	Ncnsa
+rođenja	rođenje	Ncnsg
+)	)	Z
+
+__________________________________________________	__________________________________________________	Qr
+(	(	Z
+naziv	naziv	Ncmsn
+i	i	Cc
+sjedište	sjedište	Ncnsa
+visokoškolske	visokoškolski	Agpfsgy
+ustanove	ustanova	Ncfsg
+i	i	Cc
+godina	godina	Ncfpg
+završetka	završetak	Ncmsg
+)	)	Z
+
+i	i	Cc
+stekao-la	stekao-li	Agpfsny
+zvanje_____________________	zvanje_____________________	Qr
+.	.	Z
+
+Zaposlio-la	zaposlio-ti	Vmp-sf
+sam	biti	Var1s
+se	sebe	Px--sa
+_________	_________	Pd-fsg
+godine	godina	Ncfsg
+u	u	Sl
+_____________________	____________________a	Ncfsl
+(	(	Z
+naziv	naziv	Ncmsn
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+i	i	Cc
+imam	imati	Vmr1s
+_______________	_______________	Pd-fpg
+godina	godina	Ncfpg
+radnog	radni	Agpnsgy
+iskustva	iskustvo	Ncnsg
+.	.	Z
+
+Do	do	Sg
+sada	sada	Rgp
+sam	biti	Var1s
+radio-la	radio-ti	Vmp-sf
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+Sada	sada	Rgp
+radim	raditi	Vmr1s
+u	u	Sa
+______________________________	______________________________	Agpmsayn
+(	(	Z
+naziv	naziv	Ncmsn
+ustanove	ustanova	Ncfsg
+)	)	Z
+
+na	na	Sl
+poslovima	posao	Ncmpl
+______________________________	____________________________	Agpmply
+.	.	Z
+
+Uz	uz	Sa
+prijedlog	prijedlog	Ncmsan
+za	za	Sa
+napredovanje	napredovanje	Ncnsa
+sukladno	sukladan	Agpnsay
+odredbi	odredba	Ncfsl
+članka	članak	Ncmsg
+18.	18.	Mdo
+navedenog	naveden	Agpmsgy
+Pravilnika	pravilnik	Ncmsg
+dostavlja	dostavljati	Vmr3s
+se	sebe	Px--sa
+:	:	Z
+
+–	i	Agpfsny
+preslika	preslika	Ncfsn
+diplome	diploma	Ncfsg
+,	,	Z
+
+–	–	Z
+

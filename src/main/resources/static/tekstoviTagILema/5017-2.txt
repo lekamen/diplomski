@@ -1,0 +1,114 @@
+Europe	Europa	Npfsg
+,	,	Z
+Strasbourg	Strasbourg	Npmsn
+,	,	Z
+France	France	Npmsn
+
+63.	63.	Mdo
+
+Wedam	Wedam	Npmsn
+Lukić	Lukić	Npmsn
+prof.	prof.	Y
+dr.	dr.	Y
+Dragica	Dragica	Npfsn
+,	,	Z
+Pravna	pravni	Agpmsgy
+fakulteta	fakultet	Ncmsg
+Univerze	Univerze	Npmsn
+v	V	Sl
+Ljubljani	Ljubljana	Npfsl
+,	,	Z
+Poljanski	poljanski	Agpmsny
+nasip	nasip	Ncmsn
+2	2	Mdc
+,	,	Z
+Ljubljana	Ljubljana	Npfsn
+,	,	Z
+Slovenija	Slovenija	Npfsn
+
+64.	64.	Mdo
+
+Werthmueller	werthmueller	Ncmsn
+–	–	Z
+Muric	Muri	Npmsg
+Natascha	Natasch	Npmsg
+,	,	Z
+odvjetnica	odvjetnica	Ncfsn
+,	,	Z
+Odvjetnički	odvjetnički	Agpmsny
+ured	ured	Ncmsn
+Werthmueller	Werthmueller	Npmsn
+Muric	Muric	Npmsn
+,	,	Z
+Bahnhofstrasse	Bahnhofstrasse	Npmsn
+52	52	Mdc
+,	,	Z
+8001	8001	Mdc
+Zürich	Zürich	Npmsn
+
+65.	65.	Mdo
+
+Zoroska	Zoroska	Npfsn
+–	–	Npfsn
+Kamilovska	Kamilovska	Npfsn
+PhD	PhD	Npfsn
+.	.	Z
+
+Tatjana	Tatjana	Npfsn
+,	,	Z
+University	University	Xf
+Ss	Ss	Xf
+.	.	Z
+
+Cyril	Cyril	Npmsn
+and	and	Xf
+Methodius	Methodius	Xf
+,	,	Z
+Faculty	Faculty	Xf
+of	of	Xf
+Law	Law	Xf
+lustinianus	lustinianus	Xf
+Primus	primus	Xf
+,	,	Z
+BId	BId	Qr
+.	.	Z
+
+Goce	goca	Ncfpn
+Delčev	delčev	Aspmsnn
+9	9	Mdc
+B	b	Y
+,	,	Z
+Skopje	Skopje	Npnsn
+,	,	Z
+Makedonija	Makedonija	Npfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/10	02/10	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+311	311	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+03	03	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+4.	4.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Luka	Luka	Npmsn
+Burilović	Burilović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

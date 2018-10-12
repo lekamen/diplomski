@@ -1,0 +1,297 @@
+44	44	Mdc
+11.05.2016	11.05.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Odluke	odluka	Ncfsg
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+potrošača	potrošač	Ncmpg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1146	1146	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+125.	125.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+potrošača	potrošač	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+41/14	41/14	Mdc
+i	i	Cc
+110/15	110/15	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+20.	20.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+ODLUKE	odluka	Ncfsg
+O	o	Sl
+OSNIVANJU	osnivanje	Ncnsl
+NACIONALNOG	nacionalan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+ZA	za	Sa
+ZAŠTITU	zaštita	Ncfsa
+POTROŠAČA	potrošač	Ncmpg
+
+I.	I.	Y
+
+U	u	Sl
+Odluci	odluka	Ncfsl
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+potrošača	potrošač	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+90/14	90/14	Mds
+)	)	Z
+,	,	Z
+točka	točka	Ncfsn
+II	ii	Mro
+.	.	Z
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	i	Agpnsny
+Vijeće	vijeće	Ncnsn
+čine	činiti	Vmr3p
+:	:	Z
+
+–	–	Pd-mpn
+predstavnici	predstavnik	Ncmpn
+ministarstva	ministarstvo	Ncnsg
+nadležnog	nadležan	Agpmsgy
+za	za	Sa
+gospodarstvo	gospodarstvo	Ncnsa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+ministarstva	ministarstvo	Ncnsg
+nadležnog	nadležan	Agpnsgy
+za	za	Sa
+financije	financije	Ncfpa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+ministarstva	ministarstvo	Ncnsg
+nadležnog	nadležan	Agpnsgy
+za	za	Sa
+poljoprivredu	poljoprivreda	Ncfsa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+ministarstva	ministarstvo	Ncnsg
+nadležnog	nadležan	Agpnsgy
+za	za	Sa
+pomorstvo	pomorstvo	Ncnsa
+,	,	Z
+promet	promet	Ncmsan
+i	i	Cc
+infrastrukturu	infrastruktura	Ncfsa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+ministarstva	ministarstvo	Ncnsg
+nadležnog	nadležan	Agpnsgy
+za	za	Sa
+zdravlje	zdravlje	Ncnsa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+regulatorne	regulatoran	Agpfsgy
+agencije	agencija	Ncfsg
+za	za	Sa
+mrežne	mrežni	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+narodne	narodni	Agpfsgy
+banke	banka	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+agencije	agencija	Ncfsg
+za	za	Sa
+nadzor	nadzor	Ncmsan
+financijskih	financijski	Agpfpgy
+usluga	usluga	Ncfpg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+energetske	energetski	Agpfsgy
+regulatorne	regulatoran	Agpfsgy
+agencije	agencija	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Vijeća	vijeće	Ncnsg
+za	za	Sa
+vodne	vodni	Agpfpay
+usluge	usluga	Ncfpa
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+gospodarske	gospodarski	Agpfsgy
+komore	komora	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+obrtničke	obrtnički	Agpfsgy
+komore	komora	Ncfsg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+udruge	udruga	Ncfsg
+poslodavaca	poslodavac	Ncmpg
+
+–	–	Agpmsny
+predstavnik	predstavnik	Ncmsn
+trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+
+–	–	Agpmpny
+predstavnici	predstavnik	Ncmpn
+udruga	udruga	Ncfpg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+potrošača	potrošač	Ncmpg
+
+–	–	Agpmpny
+predstavnici	predstavnik	Ncmpn
+jedinica	jedinica	Ncfpg
+lokalne	lokalan	Agpfsgy
+samouprave	samouprava	Ncfsg
+na	na	Sl
+čijem	čiji	Pi-nsl
+se	sebe	Px--sa
+području	područje	Ncnsl
+provodi	provoditi	Vmr3s
+projekt	projekt	Ncmsn
+savjetovanja	savjetovanje	Ncnsg
+potrošača	potrošač	Ncmpg
+sufinanciran	sufinancirati	Appmsnn
+iz	iz	Sg
+državnog	državni	Agpmsgy
+proračuna	proračun	Ncmsg
+ili	ili	Cc
+proračuna	proračun	Ncmsg
+jedinica	jedinica	Ncfsn
+lokalne	lokalan	Agpfsgy
+samouprave	samouprava	Ncfsg
+
+–	–	Pd-mpn
+neovisni	neovisan	Agpmpny
+stručnjaci	stručnjak	Ncmpn
+iz	iz	Sg
+područja	područje	Ncnsg
+zaštite	zaštita	Ncfsg
+potrošača	potrošač	Ncmpg
+.	.	Z
+«	«	Z
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+04/75	04/75	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+20.	20.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

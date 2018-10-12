@@ -1,0 +1,38 @@
+novinama	novina	Ncfpi
+«	«	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+odredbi	odredba	Ncfsl
+članka	članak	Ncmsg
+14.	14.	Mdo
+stavka	stavak	Ncmsg
+8.	8.	Mdo
+ZEK-a	ZEK	Npmsg
+.	.	Z
+
+Poslovni	poslovan	Agpmsny
+broj	broj	Ncmsn
+:	:	Z
+UsII-52	UsII-52	Mds
+/	/	Z
+13	13	Mdc
+-	-	Z
+10	10	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+3.	3.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+vijeća	vijeće	Ncnsg
+mr.	mr.	Y
+sc.	sc.	Y
+Ivica	Ivica	Npmsn
+Kujundžić	Kujundžić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

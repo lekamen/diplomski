@@ -1,0 +1,698 @@
+(	(	Z
+jaružanje	jaružanje	Ncnsn
+)	)	Z
+
+2.2.3.	2.2.3.	Mdo
+dubine	dubina	Ncfsg
+
+2.2.4.	2.2.4.	Mds
+granica	granica	Ncfpg
+jaružanog	jaružan	Agpnsgy
+područja	područje	Ncnsg
+
+2.2.5.	2.2.5.	Mdo
+izobata	izobata	Ncfsn
+
+2.2.6.	2.2.6.	Mdo
+izobata	izobata	Ncfsn
+–	–	Z
+približna	približan	Agpfsny
+
+2.2.7.	2.2.7.	Mdo
+jaružano	jaružan	Agpnsay
+područje	područje	Ncnsa
+,	,	Z
+kanal	kanal	Ncmsn
+
+2.2.8.	2.2.8.	Mdo
+kanal	kanal	Ncmsn
+
+2.2.9.	2.2.9.	Mdo
+održavani	održavati	Agpmsayn
+kanal	kanal	Ncmsan
+
+2.2.10.	2.2.10.	Mdo
+područje	područje	Ncnsa
+s	sa	Si
+neodgovarajućom	neodgovarajući	Agpfsiy
+izmjerom	izmjera	Ncfsi
+
+2.2.11.	2.2.11.	Mds
+prijavljena	prijaviti	Appfsny
+dubina	dubina	Ncfsn
+
+2.2.12.	2.2.12.	Mdo
+suha	suh	Agpfsny
+visina	visina	Ncfsn
+
+2.2.13.	2.2.13.	Mdo
+sumnjiva	sumnjiv	Agpfsny
+dubina	dubina	Ncfsn
+
+2.2.14.	2.2.14.	Mdo
+sumnjivo	sumnjiv	Agpnsny
+postojanje	postojanje	Ncnsn
+dubine	dubina	Ncfsg
+
+2.3.	2.3.	Mdo
+
+SVOJSTVA	svojstvo	Ncnsg
+MORSKOG	morski	Agpnsgy
+DNA	dno	Ncnsg
+
+2.3.1.	2.3.1.	Mdo
+alge	alga	Ncfsg
+
+2.3.2.	2.3.2.	Mdo
+dagnje	dagnja	Ncfsg
+
+2.3.3.	2.3.3i	Agpnsny
+dno	dno	Ncnsn
+
+2.3.4.	2.3.4.	Mdo
+glina	glina	Ncfsn
+
+2.3.5.	2.3.5.	Mdo
+greben	greben	Ncmsan
+
+2.3.6.	2.3.6.	Mdo
+izvor	izvor	Ncmsn
+
+2.3.7.	2.3.7.	Mdo
+kamenice	kamenica	Ncfsg
+
+2.3.8.	2.3.8i	Agpnsny
+kamenje	kamenje	Ncnsn
+
+2.3.9.	2.3.9.	Mdo
+koralj	koralj	Ncmsn
+
+2.3.10.	2.3.10.	Agpmsny
+koraljni	koraljni	Agpmsny
+greben	greben	Ncmsn
+
+2.3.11.	2.3.11.	Mdo
+lapor	lapor	Ncmsan
+
+2.3.12.	2.3.12.	Mdo
+litoral	litoral	Ncmsn
+
+2.3.13.	2.3.13.	Mdo
+morska	morski	Agpfsny
+trava	trava	Ncfsn
+
+2.3.14.	2.3.14.	Mdo
+morsko	morski	Agpnsny
+dno	dno	Ncnsn
+,	,	Z
+svojstva	svojstvo	Ncnsg
+
+2.3.15.	2.3.15.	Mdo
+mulj	mulj	Ncmsan
+
+2.3.16.	2.3.16.	Mdo
+pijesak	pijesak	Ncmsan
+
+2.3.17.	2.3.17.	Mdo
+pješčani	pješčan	Agpmpny
+valovi	val	Ncmpn
+
+2.3.18.	2.3.18.	Mdo
+pod	pod	Si
+utjecajem	utjecaj	Ncmsi
+plime	plima	Ncfsg
+i	i	Cc
+oseke	oseka	Ncfsg
+
+2.3.19.	2.3.19.	Mdo
+prah	prah	Ncmsn
+
+2.3.20.	2.3.20.	Mdo
+silt	sila	Ncfsg
+
+2.3.21.	2.3.21.	Mdo
+slojevi	sloj	Ncmpn
+morskog	morski	Agpnsgy
+dna	dno	Ncnsg
+
+2.3.22.	2.3.22.	Mdo
+spužva	spužva	Ncfsn
+
+2.3.23.	2.3.23.	Mdo
+stijena	stijena	Ncfsn
+
+2.3.24.	2.3.24.	Mdo
+stjenovito	stjenovit	Agpnsay
+područje	područje	Ncnsa
+
+2.3.25.	2.3.25.	Mdo
+školjke	školjka	Ncfsg
+
+2.3.26.	2.3.26.	Mdo
+šljunak	šljunak	Ncmsan
+
+2.3.27.	2.3.27.	Mdo
+tuf	tuf	Ncmsn
+
+2.3.28.	2.3.28.	Mdo
+valutice	valutica	Ncfsg
+
+2.4.	2.4.	Mdo
+
+HRIDI	hrid	Ncfpn
+,	,	Z
+GREBENI	greben	Ncmpn
+,	,	Z
+PODRTINE	podrtina	Ncfpn
+I	i	Cc
+ZAPREKE	zapreka	Ncfpa
+
+2.4.1.	2.4.1.	Mdo
+deblo	deblo	Ncnsa
+,	,	Z
+potopljeno	potopiti	Appnsny
+
+2.4.2.	2.4.2.	Mds
+granica	granica	Ncfpg
+kamenitog	kamenit	Agpnsgy
+područja	područje	Ncnsg
+
+2.4.3.	2.4.3.	Mdo
+granica	granica	Ncfsn
+opasnosti	opasnost	Ncfsg
+
+2.4.4.	2.4.4.	Sa
+hrid	hrid	Ncfsa
+
+2.4.5.	2.4.5.	Mdo
+izvor	izvor	Ncmsn
+
+2.4.6.	2.4.6.	Mdo
+greben	greben	Ncmsan
+
+2.4.7.	2.4.7.	Mdo
+jarbol	jarbol	Ncmsn
+
+2.4.8.	2.4.8.	Mdo
+kolac	kolac	Ncmsn
+
+2.4.9.	2.4.9.	Mdo
+koralj	koralj	Ncmsn
+
+2.4.10.	2.4.10.	Agpmsny
+koraljni	koraljni	Agpmsny
+greben	greben	Ncmsn
+
+2.4.11.	2.4.11.	Mdo
+lomni	loman	Agpmpny
+valovi	val	Ncmpn
+
+2.4.12.	2.4.12.	Mdo
+motka	motka	Ncfsn
+
+2.4.13.	2.4.13.	Mdo
+nečisto	nečist	Agpnsny
+dno	dno	Ncnsn
+
+2.4.14.	2.4.14.	Mdo
+neopasna	neopasan	Agpfsny
+podrtina	podrtina	Ncfsn
+
+2.4.15.	2.4.15.	Mdo
+neopasni	neopasan	Agpmsayn
+greben	greben	Ncmsan
+
+2.4.16.	2.4.16.	Mdo
+opasna	opasan	Agpfsny
+podrtina	podrtina	Ncfsn
+
+2.4.17.	2.4.17.	Mdo
+panj	panj	Ncmsn
+,	,	Z
+potopljeni	potopiti	Appmpny
+
+2.4.18.	2.4.18.	Mdo
+podrtina	podrtina	Ncfsn
+
+2.4.19.	2.4.19.	Mdo
+podvodni	podvodan	Agpmsayn
+greben	greben	Ncmsan
+
+2.4.20.	2.4.20.	Mds
+potopljena	potopiti	Appfsny
+podrtina	podrtina	Ncfsn
+
+2.4.21.	2.4.21.	Mdo
+potopljeni	potopiti	Appmpny
+stupovi	stup	Ncmpn
+
+2.4.22.	2.4.22i	Agpnsny
+ribogojilište	ribogojilište	Ncnsn
+
+2.4.23.	2.4.23.	Mdo
+ribolovna	ribolovan	Agpfsny
+klopka	klopka	Ncfsn
+
+2.4.24.	2.4.24.	Mdo
+stalni	stalan	Agpmsny
+ribolovni	ribolovan	Agpmsny
+alat	alat	Ncmsn
+
+2.4.25.	2.4.25.	Mdo
+stijena	stijena	Ncfsn
+
+2.4.26.	2.4.26.	Mdo
+stup	stup	Ncmsn
+–	–	Z
+potopljeni	potopiti	Appmpny
+
+2.4.27.	2.4.27.	Mds
+tunara	tunar	Ncmpg
+
+2.4.28.	2.4.28.	Mdo
+umjetno	umjetan	Agpnsny
+stanište	stanište	Ncnsn
+ribe	riba	Ncfsg
+
+2.4.29.	2.4.29i	Agpnsny
+uzgajalište	uzgajalište	Ncnsn
+školjki	školjka	Ncfpg
+
+2.4.30.	2.4.30.	Mdo
+voda	voda	Ncfsn
+
+2.4.31.	2.4.31.	Mdo
+stalna	stalan	Agpfsny
+vrša	vrša	Ncfsn
+
+2.4.32.	2.4.32.	Mdo
+vulkan	vulkan	Ncmsn
+,	,	Z
+podmorski	podmorski	Agpmsny
+
+2.4.33.	2.4.33.	Mdo
+zapreka	zapreka	Ncfsn
+
+2.5.	2.5.	Mdo
+
+ODOBALNI	odobalni	Agpmpny
+UREĐAJI	uređaj	Ncmpn
+
+2.5.1.	2.5.1.	Mdo
+bušotina	bušotina	Ncfsn
+,	,	Z
+podmorska	podmorski	Agpfsny
+
+2.5.2.	2.5.2.	Sa
+cijev	cijev	Ncfsa
+
+2.5.3.	2.5.3	Agpfpgy
+cisterna	cisterna	Ncfpg
+
+2.5.4.	2.5.4.	Mdo
+difuzor	difuzor	Ncmsn
+
+2.5.5.	2.5.5.	Mdo
+dovodni	dovodni	Agpmsny
+cjevovod	cjevovod	Ncmsn
+
+2.5.6.	2.5.6.	Mdo
+elektroenergetski	elektroenergetski	Agpmsayn
+kabel	kabel	Ncmsan
+
+2.5.7.	2.5.7.	Mdo
+glava	glava	Ncfsn
+bušotine	bušotina	Ncfsg
+
+2.5.8.	2.5.8.	Mds
+granica	granica	Ncfpg
+sigurnosne	sigurnosni	Agpfsgy
+zone	zona	Ncfsg
+
+2.5.9.	2.5.9.	Mds
+granica	granica	Ncfpg
+zone	zona	Ncfsg
+istraživanja	istraživanje	Ncnsg
+
+2.5.10.	2.5.10.	Mdo
+ispust	ispust	Ncmsan
+
+2.5.11.	2.5.11.	Mdo
+istraživačka	istraživački	Agpfsny
+platforma	platforma	Ncfsn
+
+2.5.12.	2.5.12.	Mdo
+kemikalije	kemikalija	Ncfsg
+
+2.5.13.	2.5.13.	Mdo
+nafta	nafta	Ncfsn
+
+2.5.14.	2.5.14.	Mdo
+naftna	naftni	Agpfsny
+platforma	platforma	Ncfsn
+
+2.5.15.	2.5.15.	Mdo
+naftni	naftni	Agpmsny
+terminal	terminal	Ncmsn
+
+2.5.16.	2.5.16.	Mdo
+naftno	naftni	Agpnsny
+polje	polje	Ncnsn
+,	,	Z
+naziv	naziv	Ncmsn
+
+2.5.17.	2.5.17.	Mdo
+naftovod	naftovod	Ncmsn
+
+2.5.18.	2.5.18.	Mds
+napuštena	napustiti	Appfsny
+bušotina	bušotina	Ncfsn
+
+2.5.19.	2.5.19.	Mdo
+odvodni	odvodni	Agpmsny
+cjevovod	cjevovod	Ncmsn
+
+2.5.20.	2.5.20.	Mdo
+otpadne	otpadni	Agpfsgy
+vode	voda	Ncfsg
+
+2.5.21.	2.5.21.	Mdo
+plamenik	plamenik	Ncmsn
+
+2.5.22.	2.5.22.	Mdo
+platforma	platforma	Ncfsn
+
+2.5.23.	2.5.23.	Mdo
+plin	plin	Ncmsn
+
+2.5.24.	2.5.24.	Mdo
+plinovod	plinovod	Ncmsn
+
+2.5.25.	2.5.25.	Mdo
+plinsko	plinski	Agpnsny
+polje	polje	Ncnsn
+,	,	Z
+naziv	naziv	Ncmsn
+
+2.5.26.	2.5.26.	Mdo
+plutača	plutača	Ncfsn
+za	za	Sa
+ukrcaj	ukrcaj	Ncmsan
+/	/	Z
+iskrcaj	iskrcaj	Ncmsan
+nafte	nafta	Ncfsg
+,	,	Z
+plina	plin	Ncmsg
+
+2.5.27.	2.5.27.	Mdo
+plutačni	plutačan	Agpmsayn
+vez	vez	Ncmsan
+
+2.5.28.	2.5.28.	Mdo
+podmorska	podmorski	Agpfsny
+bušotina	bušotina	Ncfsn
+napuštena	napustiti	Appfsny
+
+2.5.29.	2.5.29.	Mdo
+podmorska	podmorski	Agpfsny
+bušotina	bušotina	Ncfsn
+proizvodna	proizvodni	Agpfsny
+
+2.5.30.	2.5.30.	Mds
+podmorske	podmorski	Agpfsgy
+instalacije	instalacija	Ncfsg
+
+2.5.31.	2.5.31.	Mdo
+podmorski	podmorski	Agpmsny
+cjevovod	cjevovod	Ncmsn
+
+2.5.32.	2.5.32.	Mdo
+podmorski	podmorski	Agpmsayn
+kabel	kabel	Ncmsan
+
+2.5.33.	2.5.33.	Mdo
+područje	područje	Ncnsa
+ispusta	ispust	Ncmsg
+
+2.5.34.	2.5.34.	Mdo
+područje	područje	Ncnsa
+naftovoda	naftovod	Ncmsg
+
+2.5.35.	2.5.35.	Mdo
+područje	područje	Ncnsa
+plinovoda	plinovod	Ncmpg
+
+2.5.36.	2.5.36i	Agpnsny
+područje	područje	Ncnsn
+podmorskih	podmorski	Agpmpgy
+cjevovoda	cjevovod	Ncmpg
+
+2.5.37.	2.5.37i	Agpnsny
+područje	područje	Ncnsn
+podmorskih	podmorski	Agpmpgy
+kabela	kabel	Ncmpg
+
+2.5.38.	2.5.38.	Mdo
+proizvodna	proizvodni	Agpfsny
+bušotina	bušotina	Ncfsn
+
+2.5.39.	2.5.39.	Mdo
+proizvodna	proizvodni	Agpfsny
+platforma	platforma	Ncfsn
+
+2.5.40.	2.5.40.	Mds
+superplutača	superplutač	Ncmpg
+
+2.5.41.	2.5.41.	Mdo
+tanker	tanker	Ncmsan
+
+2.5.42.	2.5.42.	Mdo
+tankerski	tankerski	Agpmsny
+vez	vez	Ncmsn
+
+2.5.43.	2.5.43.	Mdo
+ukopani	ukopati	Agpmsayn
+cjevovod	cjevovod	Ncmsan
+
+2.5.44.	2.5.44.	Mdo
+umjetni	umjetan	Agpmsny
+otok	otok	Ncmsn
+
+2.5.45.	2.5.45.	Mds
+usidrena	usidriti	Appfsny
+cisterna	cisterna	Ncfsn
+
+2.5.46.	2.5.46.	Mdo
+usis	usis	Ncmsan
+
+2.5.47.	2.5.47.	Mdo
+vez	vez	Ncmsan
+
+2.5.48.	2.5.48.	Mdo
+voda	voda	Ncfsn
+
+2.5.49.	2.5.49.	Mdo
+zona	zona	Ncfsn
+istraživanja	istraživanje	Ncnsg
+
+2.5.50.	2.5.50.	Mdo
+zona	zona	Ncfsn
+sigurnosna	sigurnosni	Agpfsny
+
+3.	3.	Mdo
+PROMETNO-PLOVIDBENI	prometno-plovidbeni	Agpmpny
+SUSTAVI	sustav	Ncmpn
+,	,	Z
+TIJEKOVI	tijek	Ncmpn
+,	,	Z
+PODRUČJA	područje	Ncnpn
+I	i	Cc
+GRANICE	granica	Ncfpn
+
+3.1.	3.1.	Mdo
+crta	crta	Ncfsn
+odvajanja	odvajanje	Ncnsg
+
+3.2.	3.2	Agpfpgy
+crta	crta	Ncfpg
+slobodnog	slobodan	Agpmsgy
+prolaza	prolaz	Ncmsg
+
+3.3.	3.3.	Mdo
+demagnetizacija	demagnetizacija	Ncfsn
+
+3.4.	3.4.	Mdo
+domet	domet	Ncmsan
+radara	radar	Ncmsg
+
+3.5.	3.5.	Mdo
+državna	državni	Agpfsny
+granica	granica	Ncfsn
+
+3.6.	3.6.	Mdo
+dvosmjerna	dvosmjeran	Agpfsny
+ruta	ruta	Ncfsn
+
+3.7.	3.7.	Mdo
+epikontinentski	epikontinentski	Agpmsayn
+pojas	pojas	Ncmsan
+
+3.8.	3.8.	Mdo
+gliboderina	gliboderin	Ncmsg
+,	,	Z
+odlagalište	odlagalište	Ncnsn
+
+3.9.	3.9.	Mds
+granica	granica	Ncfpg
+carinska	carinski	Agpfsny
+
+3.10.	3.10.	Mds
+granica	granica	Ncfpg
+državna	državni	Agpfsny
+
+3.11.	3.11.	Mds
+granica	granica	Ncfpg
+epikontinentskog	epikontinentski	Agpmsgy
+pojasa	pojas	Ncmsg
+
+3.12.	3.12.	Mds
+granica	granica	Ncfpg
+isključive	isključiv	Agpfsgy
+gospodarske	gospodarski	Agpfsgy
+zone	zona	Ncfsg
+
+3.13.	3.13.	Mdo
+granica	granica	Ncfsn
+morskog	morski	Agpmsgy
+leda	led	Ncmsg
+
+3.14.	3.14.	Mdo
+granica	granica	Ncfsn
+obalnog	obalni	Agpmsgy
+leda	led	Ncmsg
+
+3.15.	3.15	Agpfpgy
+granica	granica	Ncfpg
+plutajućih	plutajući	Agpmpgy
+trupaca	trupac	Ncmpg
+
+3.16.	3.16.	Mds
+granica	granica	Ncfpg
+područja	područje	Ncnsg
+s	sa	Si
+ograničenjem	ograničenje	Ncnsi
+
+3.17.	3.17.	Mds
+granica	granica	Ncfpg
+pomorska	pomorski	Agpfsny
+
+3.18.	3.18.	Mdo
+granica	granica	Ncfsn
+prirodnog	prirodan	Agpmsgy
+rezervata	rezervat	Ncmsg
+
+3.19.	3.19.	Mds
+granica	granica	Ncfpg
+ribolovne	ribolovan	Agpfsgy
+zone	zona	Ncfsg
+
+3.20.	3.20.	Mdo
+granica	granica	Ncfsn
+sustava	sustav	Ncmsg
+odvojene	odvojiti	Appfsgy
+plovidbe	plovidba	Ncfsg
+
+3.21.	3.21.	Mdo
+granica	granica	Ncfsn
+teritorijalnog	teritorijalan	Agpnsgy
+mora	more	Ncnsg
+
+3.22.	3.22.	Mdo
+granica	granica	Ncfsn
+vanjskog	vanjski	Agpmsgy
+morskog	morski	Agpmsgy
+pojasa	pojas	Ncmsg
+
+3.23.	3.23.	Mds
+granica	granica	Ncfpg
+zabranjenog	zabranjen	Agpnsgy
+područja	područje	Ncnsg
+
+3.24.	3.24.	Mdo
+hidroavion	hidroavion	Ncmsan
+–	–	Z
+sidrište	sidrište	Ncnsn
+
+3.25.	3.25.	Mdo
+hidroavion	hidroavion	Ncmsan
+–	–	Z
+površina	površina	Ncfsn
+za	za	Sa
+slijetanje	slijetanje	Ncnsa
+i	i	Cc
+uzlijetanje	uzlijetanje	Ncnsa
+
+3.26.	3.26.	Mdo
+hidroavion	hidroavion	Ncmsan
+–	–	Z
+pristanište	pristanište	Ncnsn
+
+3.27.	3.27.	Mdo
+isključiva	isključiv	Agpfsny
+gospodarska	gospodarski	Agpfsny
+zona	zona	Ncfsn
+
+3.28.	3.28.	Mdo
+jednosmjerna	jednosmjeran	Agpfsny
+ruta	ruta	Ncfsn
+
+3.29.	3.29.	Mdo
+karantensko	karantenski	Agpnsay
+sidrište	sidrište	Ncnsa
+
+3.30.	3.30.	Mdo
+kružna	kružan	Agpfsny
+zona	zona	Ncfsn
+odvajanja	odvajanje	Ncnsg
+
+3.31.	3.31.	Mdo
+kurs	kurs	Ncmsan
+
+3.32.	3.32.	Mdo
+minsko	minski	Agpnsny
+polje	polje	Ncnsn
+
+3.33.	3.33.	Mdo
+obvezni	obvezan	Agpmsny
+smjer	smjer	Ncmsn
+plovidbenog	plovidben	Agpmsgy
+toka	tok	Ncmsg
+
+3.34.	3.34i	Agpnsny
+odlagalište	odlagalište	Ncnsn
+eksplozivnog	eksplozivan	Agpmsgy
+materijala	materijal	Ncmsg
+
+3.35.	3.35i	Agpnsny
+odlagalište	odlagalište	Ncnsn
+gliboderine	gliboderina	Ncfsg
+
+3.36.	3.36i	Agpnsny
+odlagalište	odlagalište	Ncnsn
+kemijskog	kemijski	Agpmsgy
+otpada	otpad	Ncmsg
+
+3.37.	3.37.	Mdo
+opasna	opasan	Agpfsny
+zona	zona	Ncfsn
+(	(	Z
+vježbe	vježba	Ncfpn
+gađanja	gađanje	Ncnsg
+)	)	Z
+
+3.38.	3.38.	Mdo
+oznaka	oznaka	Ncfsn
+veza	veza	Ncfpg
+
+3.39.	3.39.	Mdo
+

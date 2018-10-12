@@ -1,0 +1,613 @@
+dispečiranje	dispečiranje	Ncnsn
+
+2.	2.	Mdo
+opisati	opisati	Vmn
+značaj	značaj	Ncmsan
+zvijezde	zvijezda	Ncfsg
+života	život	Ncmsg
+
+3.	3.	Mdo
+nabrojati	nabrojati	Vmn
+osnovne	osnovan	Agpmpay
+zadatke	zadatak	Ncmpa
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+
+4.	4.	Mdo
+poznavati	poznavati	Vmn
+područja	područje	Ncnpa
+djelovanja	djelovanje	Ncnsg
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+
+5.	5.	Mdo
+objasniti	objasniti	Vmn
+utjecaj	utjecaj	Ncmsan
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+na	na	Sa
+preživljavanje	preživljavanje	Ncnsa
+
+6.	6.	Mdo
+objasniti	objasniti	Vmn
+ulogu	uloga	Ncfsa
+MPDJ	mpdj	Ncfpg
+u	u	Sl
+upravljanju	upravljanje	Ncnsl
+sustavom	sustav	Ncmsi
+HMS	HMS	Npmsn
+i	i	Cc
+drugih	drugi	Mlofpg
+zdravstvenih	zdravstven	Agpfpgy
+djelatnosti	djelatnost	Ncfpg
+
+7.	7.	Mdo
+opisati	opisati	Vmn
+nadzor	nadzor	Ncmsan
+stanja	stanje	Ncnsg
+timova	tim	Ncmpg
+HMS	HMS	Npmsn
+.	.	Z
+
+3.	3.	Mdo
+OSNOVNI	osnovan	Agpmpny
+RADNI	radni	Agpmpny
+PROCESI	proces	Ncmpn
+MEDICINSKE	medicinski	Agpfsgy
+PRIJAVNO	prijavno	Rgp
+-	-	Z
+-	-	Z
+DOJAVNE	dojavni	Agpfsgy
+JEDINICE	jedinica	Ncfsg
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+shvatiti	shvatiti	Vmn
+pet	pet	Mlc
+osnovnih	osnovan	Agpmpgy
+radnih	radni	Agpmpgy
+procesa	proces	Ncmpg
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+nabrojati	nabrojati	Vmn
+osnovne	osnovan	Agpmpay
+radne	radni	Agpmpay
+procese	proces	Ncmpa
+MPDJ	mpda	Ncfsg
+
+2.	2.	Mdo
+objasniti	objasniti	Vmn
+proces	proces	Ncmsan
+preuzimanja	preuzimanje	Ncnsg
+poziva	pozivati	Vmr3s
+
+3.	3.	Mdo
+definirati	definirati	Vmn
+proces	proces	Ncmsan
+davanja	davanje	Ncnsg
+osnovnih	osnovan	Agpfpgy
+uputa	uputa	Ncfpg
+
+4.	4.	Mdo
+objasniti	objasniti	Vmn
+proces	proces	Ncmsan
+davanja	davanje	Ncnsg
+uputa	uputa	Ncfpg
+za	za	Sa
+pružanje	pružanje	Ncnsa
+prve	prvi	Agpfsgy
+pomoći	pomoć	Ncfsg
+preko	preko	Sg
+telefona	telefon	Ncmsg
+
+5.	5.	Mdo
+opisati	opisati	Vmn
+proces	proces	Ncmsan
+pružanja	pružanje	Ncnsg
+intervencija	intervencija	Ncfpg
+
+6.	6.	Mdo
+opisati	opisati	Vmn
+proces	proces	Ncmsan
+nadziranja	nadziranje	Ncnsg
+stanja	stanje	Ncnsg
+timova	tim	Ncmpg
+.	.	Z
+
+4.	4.	Mdo
+OSNOVE	osnova	Ncfsg
+KOMUNIKACIJE	komunikacija	Ncfsg
+U	u	Sl
+DISPEČERSTVU	dispečerstve	Ncnsl
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+cijeniti	cijeniti	Vmn
+značaj	značaj	Ncmsan
+dobre	dobar	Agpfsgy
+komunikacije	komunikacija	Ncfsg
+s	sa	Si
+pozivateljem	pozivatelj	Ncmsi
+,	,	Z
+poznavati	poznavati	Vmn
+načine	način	Ncmpa
+sprječavanja	sprječavanje	Ncnsg
+najčešćih	čest	Agsfpgy
+komunikacijskih	komunikacijski	Agpfpgy
+pogrešaka	pogreška	Ncfpg
+i	i	Cc
+razlikovati	razlikovati	Vmn
+osnovne	osnovan	Agpfpay
+tehnike	tehnika	Ncfpa
+savladavanja	savladavanje	Ncnsg
+problematičnih	problematičan	Agpmpgy
+poziva	poziv	Ncmpg
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+nabrojati	nabrojati	Vmn
+4	4	Mdc
+komponente	komponenta	Ncfsg
+komunikacije	komunikacija	Ncfsg
+
+2.	2.	Mdo
+opisati	opisati	Vmn
+smetnje	smetnja	Ncfpa
+u	u	Sl
+komunikaciji	komunikacija	Ncfsl
+kod	kod	Sg
+pošiljatelja	pošiljatelj	Ncmpg
+,	,	Z
+medija	medij	Ncmpg
+i	i	Cc
+primatelja	primatelj	Ncmpg
+
+3.	3.	Mdo
+objasniti	objasniti	Vmn
+značaj	značaj	Ncmsan
+brzog	brz	Agpmsgy
+odgovora	odgovor	Ncmsg
+za	za	Sa
+bolje	dobar	Agpnsay
+komuniciranje	komuniciranje	Ncnsa
+
+4.	4.	Mdo
+definirati	definirati	Vmn
+loše	loš	Agpnsay
+komuniciranje	komuniciranje	Ncnsa
+i	i	Cc
+objasniti	objasniti	Vmn
+kako	kako	Cs
+ga	on	Pp3msa
+poboljšati	poboljšati	Vmn
+
+5.	5.	Mdo
+objasniti	objasniti	Vmn
+kako	kako	Cs
+poboljšati	poboljšati	Vmn
+slušanje	slušanje	Ncnsa
+
+6.	6.	Mdo
+objasniti	objasniti	Vmn
+kako	kako	Cs
+poboljšati	poboljšati	Vmn
+govor	govor	Ncmsan
+
+7.	7.	Mdo
+nabrojati	nabrojati	Vmn
+5	5	Mdc
+pogrešnih	pogrešan	Agpfpgy
+izjava	izjava	Ncfpg
+
+8.	8.	Mdo
+objasniti	objasniti	Vmn
+vodeću	vodeći	Agpfsay
+ulogu	uloga	Ncfsa
+u	u	Sl
+komunikaciji	komunikacija	Ncfsl
+
+9.	9.	Mdo
+objasniti	objasniti	Vmn
+problematične	problematičan	Agpmpay
+pozive	poziv	Ncmpa
+
+10.	10.	Mdo
+opisati	opisati	Vmn
+smirivanje	smirivanje	Ncnsa
+uspaničene	uspaničiti	Appfpny
+,	,	Z
+agitirane	agitirati	Appfpny
+i	i	Cc
+agresivne	agresivan	Agpfpny
+osobe	osoba	Ncfpn
+.	.	Z
+
+5.	5.	Mdo
+TEHNIČKA	tehnički	Agpfsny
+POTPORA	potpora	Ncfsn
+I	i	Cc
+MODELI	model	Ncmpn
+ODLUČIVANJA	odlučivanje	Ncnsg
+U	u	Sl
+MEDICINSKOJ	medicinski	Agpfsly
+PRIJAVNO-DOJAVNOJ	prijavno-dojavni	Agpfsly
+JEDINICI	jedinica	Ncfsl
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+razlikovati	razlikovati	Vmn
+svrhu	svrha	Ncfsa
+,	,	Z
+strukturu	struktura	Ncfsa
+i	i	Cc
+način	način	Ncmsan
+korištenja	korištenje	Ncnsg
+različitih	različit	Agpnpgy
+modela	model	Ncmpg
+odlučivanja	odlučivanje	Ncnsg
+u	u	Sl
+medicinskoj	medicinski	Agpfsly
+prijavno	prijavno	Rgp
+dojavnoj	dojavni	Agpfsly
+jedinici	jedinica	Ncfsl
+te	te	Cc
+raspraviti	raspraviti	Vmn
+tehničku	tehnički	Agpfsay
+potporu	potpora	Ncfsa
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+definirati	definirati	Vmn
+telekomunikacijski	telekomunikacijski	Agpmsayn
+sustav	sustav	Ncmsan
+
+2.	2.	Mdo
+opisati	opisati	Vmn
+radio	raditi	Vmp-sm
+sustav	sustav	Ncmsan
+i	i	Cc
+njegovu	njegov	Ps3fsa
+funkcionalnost	funkcionalnost	Ncfsa
+
+3.	3.	Mdo
+opisati	opisati	Vmn
+kompjutorski	kompjutorski	Agpmsayn
+podržan	podržati	Appmsnn
+dispečerski	dispečerski	Agpmsny
+sustav	sustav	Ncmsn
+
+4.	4.	Mdo
+objasniti	objasniti	Vmn
+dispečerske	dispečerski	Agpmpay
+modele	model	Ncmpa
+odlučivanja	odlučivanje	Ncnsg
+
+5.	5.	Mdo
+usporediti	usporediti	Vmn
+različite	različit	Agpmpay
+modele	model	Ncmpa
+odlučivanja	odlučivanje	Ncnsg
+.	.	Z
+
+6.	6.	Mdo
+POSTUPCI	postupak	Ncmpn
+U	u	Sl
+SLUČAJU	slučaj	Ncmsl
+IZVANREDNIH	izvanredan	Agpfpgy
+SITUACIJA	situacija	Ncfpg
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+shvatiti	shvatiti	Vmn
+osnovne	osnovan	Agpmpay
+postupke	postupak	Ncmpa
+medicinske	medicinski	Agpfsgy
+prijavno-dojavne	prijavno-dojavan	Agpfsgy
+jedinice	jedinica	Ncfsg
+u	u	Sl
+izvanrednim	izvanredan	Agpfply
+situacijama	situacija	Ncfpl
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+nabrojati	nabrojati	Vmn
+vrste	vrsta	Ncfpa
+i	i	Cc
+utjecaj	utjecaj	Ncmsn
+izvanrednih	izvanredan	Agpfpgy
+situacija	situacija	Ncfpg
+na	na	Sa
+rad	rad	Ncmsan
+MPDJ	MPDJ	Npmsan
+
+2.	2.	Mdo
+definirati	definirati	Vmn
+moguća	moguć	Agpnpay
+rješenja	rješenje	Ncnpa
+u	u	Sl
+slučajevima	slučaj	Ncmpl
+unutarnjih	unutarnji	Agpmpgy
+izvanrednih	izvanredan	Agpmpgy
+događaja	događaj	Ncmpg
+
+3.	3.	Mdo
+definirati	definirati	Vmn
+moguća	moguć	Agpnpay
+rješenja	rješenje	Ncnpa
+u	u	Sl
+slučajevima	slučaj	Ncmpl
+vanjskih	vanjski	Agpmpgy
+izvanrednih	izvanredan	Agpmpgy
+događaja	događaj	Ncmpg
+.	.	Z
+
+7.	7.	Mdo
+DOKUMENTIRANJE	dokumentiranje	Ncnsn
+U	u	Sl
+MEDICINSKOJ	medicinski	Agpfsly
+PRIJAVNO	prijavno	Rgp
+-	-	Z
+-	-	Z
+DOJAVNOJ	dojavni	Agpfsly
+JEDINICI	jedinica	Ncfsl
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+shvatiti	shvatiti	Vmn
+značaj	značaj	Ncmsan
+vođenja	vođenje	Ncnsg
+medicinske	medicinski	Agpfsgy
+dokumentacije	dokumentacija	Ncfsg
+i	i	Cc
+način	način	Ncmsan
+dokumentiranja	dokumentiranje	Ncnsg
+u	u	Sl
+medicinskoj	medicinski	Agpfsly
+prijavno-dojavnoj	prijavno-dojavan	Agpfsly
+jedinici	jedinica	Ncfsl
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+opisati	opisati	Vmn
+značaj	značaj	Ncmsan
+dokumentiranja	dokumentiranje	Ncnsg
+u	u	Sl
+MPDJ	MPD	Npmsl
+
+2.	2.	Mdo
+objasniti	objasniti	Vmn
+osnove	osnova	Ncfpa
+dokumentiranja	dokumentiranje	Ncnsg
+
+3.	3.	Mdo
+definirati	definirati	Vmn
+minimalan	minimalan	Agpmsann
+broj	broj	Ncmsan
+podataka	podatak	Ncmpg
+za	za	Sa
+dokumentiranje	dokumentiranje	Ncnsa
+
+4.	4.	Mdo
+definirati	definirati	Vmn
+izvorne	izvoran	Agpmpay
+podatke	podatak	Ncmpa
+o	o	Sl
+događaju	događaj	Ncmsl
+,	,	Z
+podatke	podatak	Ncmpa
+o	o	Sl
+pacijentu	pacijent	Ncmsl
+i	i	Cc
+podatke	podatak	Ncmpa
+o	o	Sl
+intervenciji	intervencija	Ncfsl
+.	.	Z
+
+8.	8.	Mdo
+KVALITETA	kvaliteta	Ncfsn
+U	u	Sl
+MEDICINSKOJ	medicinski	Agpfsly
+PRIJAVNO-DOJAVNOJ	prijavno-dojavni	Agpfsly
+JEDINICI	jedinica	Ncfsl
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+shvatiti	shvatiti	Vmn
+značaj	značaj	Ncmsan
+sustava	sustav	Ncmsg
+cjelovitog	cjelovit	Agpnsgy
+upravljanja	upravljanje	Ncnsg
+kvalitetom	kvaliteta	Ncfsi
+u	u	Sl
+medicinskoj	medicinski	Agpfsly
+prijavno	prijavno	Rgp
+-	-	Z
+-	-	Z
+dojavnoj	dojavni	Agpfsly
+jedinici	jedinica	Ncfsl
+.	.	Z
+
+Znanja	znanje	Ncnpn
+
+Na	na	Sl
+kraju	kraj	Ncmsl
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+:	:	Z
+
+1.	1.	Mdo
+opisati	opisati	Vmn
+sustav	sustav	Ncmsan
+cjelovitog	cjelovit	Agpnsgy
+upravljanja	upravljanje	Ncnsg
+kvalitetom	kvaliteta	Ncfsi
+
+2.	2.	Mdo
+objasniti	objasniti	Vmn
+pokazatelje	pokazatelj	Ncmpa
+kvalitete	kvaliteta	Ncfsg
+u	u	Sl
+MPDJ	mpda	Ncfsl
+
+3.	3.	Mdo
+objasniti	objasniti	Vmn
+standarde	standard	Ncmpa
+kvalitete	kvaliteta	Ncfsg
+u	u	Sl
+MPDJ	mpda	Ncfsl
+.	.	Z
+
+9.	9.	Mdo
+UPOZNAVANJE	upoznavanje	Ncnsn
+SA	sa	Si
+STRUKTUROM	struktura	Ncfsi
+HRVATSKOG	hrvatski	Agpmsgy
+INDEKSA	indeks	Ncmsg
+PRIJEMA	prijem	Ncmsg
+HITNOG	hitan	Agpmsgy
+POZIVA	poziv	Ncmsg
+
+Završetkom	završetak	Ncmsi
+ove	ovaj	Pd-fsg
+tematske	tematski	Agpfsgy
+cjeline	cjelina	Ncfsg
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+shvatiti	shvatiti	Vmn
+strukturu	struktura	Ncfsa
+Indeksa	indeks	Ncmsg
+i	i	Cc
+moći	moć	Ncfsg
+odabrati	odabrati	Vmn
+dispečersku	dispečerski	Agpfsay
+karticu	kartica	Ncfsa
+koja	koji	Pi-fsn
+se	sebe	Px--sa
+odnosi	odnositi	Vmr3s
+na	na	Sa
+glavni	glavni	Agpmsayn
+problem	problem	Ncmsan
+,	,	Z
+kriterij	kriterij	Ncmsan
+i	i	Cc
+odgovarajuće	odgovarajući	Agpmpay
+savjete	savjet	Ncmpa
+pozivatelju	pozivatelj	Ncmsd
+.	.	Z
+
+Također	također	Rgp
+,	,	Z
+polaznik	polaznik	Ncmsn
+će	htjeti	Var3s
+razumjeti	razumjeti	Vmn
+da	da	Cs
+alternativne	alternativan	Agpfpny
+dispečerske	dispečerski	Agpfpny
+kartice	kartica	Ncfpn
+,	,	Z
+ako	ako	Cs
+je	biti	Var3s
+primjenljivo	primjenljiv	Agpnsny
+,	,	Z
+u	u	Sl
+konačnici	konačnica	Ncfsl
+dovode	dovoditi	Vmr3p
+do	do	Sg
+izbora	izbor	Ncmpg
+istog	isti	Agpmsgy
+prioriteta	prioritet	Ncmsg
+hitnosti	hitnost	Ncfsg
+.	.	Z
+

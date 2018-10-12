@@ -1,0 +1,92 @@
+zajamčeno	zajamčiti	Appnsny
+člankom	članak	Ncmsi
+29.	29.	Mdo
+stavkom	stavak	Ncmsi
+1.	1.	Mdo
+Ustava	ustav	Ncmsg
+.	.	Z
+
+8.	8.	Mdo
+Na	na	Sl
+temelju	temelj	Ncmsl
+članaka	članak	Ncmpg
+73.	73.	Mdo
+i	i	Cc
+75.	75.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+o	o	Sl
+Ustavnom	ustavan	Agpmsly
+sudu	sud	Ncmsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+99/99.	99/99.	Mdo
+,	,	Z
+29/02.	29/02.	Mds
+i	i	Cc
+49/02.	49/02.	Mdo
+–	–	Z
+pročišćeni	pročišćen	Agpmsny
+tekst	tekst	Ncmsn
+)	)	Z
+odlučeno	odlučiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+točki	točka	Ncfsl
+I.	ii	Agpfsgy
+izreke	izreka	Ncfsg
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+.	.	Z
+
+Objava	objava	Ncfsn
+odluke	odluka	Ncfsg
+(	(	Z
+točka	točka	Ncfsn
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-1286	U-III-1286	X
+/	/	Z
+2012	2012	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+prosinca	prosinac	Ncmsg
+2014.	2014.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

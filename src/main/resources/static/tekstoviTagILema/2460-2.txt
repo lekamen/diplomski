@@ -1,0 +1,26 @@
+513	513	Mdc
+-	-	Z
+07	07	Mdc
+-	-	Z
+21	21	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+financija	financije	Ncfpg
+mr.	mr.	Y
+sc.	sc.	Y
+Boris	Boris	Npmsn
+Lalovac	Lalovac	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

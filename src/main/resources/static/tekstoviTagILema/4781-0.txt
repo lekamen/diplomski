@@ -1,0 +1,115 @@
+100	100	Mdc
+02.11.2016	02.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+člana	član	Ncmsg
+i	i	Cc
+zamjenika	zamjenik	Ncmsg
+članova	član	Ncmpg
+Izaslanstva	izaslanstvo	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+SEECP-a	SEECP	Npmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2130	2130	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+ČLANA	član	Ncmsg
+I	i	Cc
+ZAMJENIKA	zamjenik	Ncmsg
+ČLANOVA	član	Ncmpg
+IZASLANSTVA	izaslanstvo	Ncnsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+U	u	Sl
+PARLAMENTARNOJ	parlamentaran	Agpfsly
+SKUPŠTINI	skupština	Ncfsl
+SEECP-a	SEECP	Npmsg
+
+U	u	Sa
+Izaslanstvo	izaslanstvo	Ncnsa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+Skupštini	skupština	Ncfsl
+SEECP-a	SEECP	Npmsg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+člana	član	Ncmsay
+
+dr.	dr.	Y
+sc.	sc.	Y
+MARKO	Marko	Npmsn
+VUČETIĆ	Vučetić	Npmsn
+
+za	za	Sa
+zamjenike	zamjenik	Ncmpa
+članova	član	Ncmpg
+:	:	Z
+
+MAJDA	Majda	Npfsn
+BURIĆ	Burić	Npfsn
+
+MLADEN	MLADEN	Npmsn
+KARLIĆ	KARLIĆ	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+04/19	04/19	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

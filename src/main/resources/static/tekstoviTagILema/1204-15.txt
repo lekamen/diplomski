@@ -1,0 +1,724 @@
+Brodsko-posavske	brodsko-posavski	Agpfpny
+,	,	Z
+Požeško-slavonske	požeško-slavonski	Agpfsgy
+i	i	Cc
+Virovitičko-podravske	virovitičko-podravski	Agpfsgy
+županije	županija	Ncfsg
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Osijeku	osijek	Ncmsl
+.	.	Z
+
+U	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+područna	područni	Agpfsny
+jedinica	jedinica	Ncfsn
+Osijek	Osijek	Npmsn
+ustrojavaju	ustrojavati	Vmr3p
+se	sebe	Px--sa
+sljedeće	sljedeći	Agpfsgy
+ispostave	ispostava	Ncfsg
+sa	sa	Si
+samostalnim	samostalan	Agpmpiy
+izvršiteljima	izvršitelj	Ncmpi
+,	,	Z
+mjesno	mjesno	Rgp
+nadležnim	nadležan	Agpmsiy
+na	na	Sl
+području	područje	Ncnsl
+cijele	cijel	Agpfsgy
+područne	područni	Agpfsgy
+jedinice	jedinica	Ncfsg
+:	:	Z
+
+Ispostava	ispostava	Ncfsn
+Osijek	Osijek	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Našice	Našica	Npfpn
+
+Ispostava	ispostava	Ncfsn
+Donji	donji	Agpmsny
+Miholjac	Miholjac	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Valpovo	Valpovo	Npnsa
+
+Ispostava	ispostava	Ncfsn
+Beli	Beli	Npmsn
+Manastir	Manastir	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Đakovo	Đakovo	Npnsn
+
+Ispostava	ispostava	Ncfsn
+Vukovar	Vukovar	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Vinkovci	Vinkovc	Npmpn
+
+Ispostava	ispostava	Ncfsn
+Županja	županje	Ncnsg
+
+Ispostava	ispostava	Ncfsn
+Slavonski	slavonski	Agpmsny
+Brod	brod	Ncmsn
+
+Ispostava	ispostava	Ncfsn
+Nova	nov	Agpfsny
+Gradiška	Gradiška	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Požega	Požega	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Pakrac	Pakrac	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Virovitica	Virovitica	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Slatina	Slatina	Npfsn
+.	.	Z
+
+7.3.2.4.	7.3.2.4.	Mdo
+
+Odjel	odjel	Ncmsn
+–	–	Z
+područna	područni	Agpfsny
+jedinica	jedinica	Ncfsn
+Rijeka	Rijeka	Npfsn
+,	,	Z
+obuhvaća	obuhvaćati	Vmr3s
+područje	područje	Ncnsa
+Primorsko-goranske	primorsko-goranski	Agpfsgy
+,	,	Z
+Istarske	istarski	Agpfsgy
+i	i	Cc
+Ličko-senjske	ličko-senjski	Agpfsgy
+županije	županija	Ncfsg
+i	i	Cc
+područje	područje	Ncnsa
+Grada	grad	Ncmsg
+Paga	Pi	Npmsg
+,	,	Z
+Općine	općina	Ncfsg
+Kolan	Kolan	Npfsg
+i	i	Cc
+Općine	općina	Ncfsg
+Povljana	Povljana	Npfsn
+u	u	Sl
+Zadarskoj	zadarski	Agpfsly
+županiji	županija	Ncfsl
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+.	.	Z
+
+U	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+područna	područni	Agpfsny
+jedinica	jedinica	Ncfsn
+Rijeka	Rijeka	Npfsn
+ustrojavaju	ustrojavati	Vmr3p
+se	sebe	Px--sa
+sljedeće	sljedeći	Agpfsgy
+ispostave	ispostava	Ncfsg
+sa	sa	Si
+samostalnim	samostalan	Agpmpiy
+izvršiteljima	izvršitelj	Ncmpi
+,	,	Z
+mjesno	mjesno	Rgp
+nadležnim	nadležan	Agpmsiy
+na	na	Sl
+području	područje	Ncnsl
+cijele	cijel	Agpfsgy
+područne	područni	Agpfsgy
+jedinice	jedinica	Ncfsg
+:	:	Z
+
+Ispostava	ispostava	Ncfsn
+Rijeka	Rijeka	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Delnice	Delnica	Npfsg
+
+Ispostava	ispostava	Ncfsn
+Crikvenica	Crikvenica	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Pazin	Pazin	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Pula	Pula	Npfsn
+
+Ispostava	ispostava	Ncfsn
+Poreč	Poreč	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Umag	Umag	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Gospić	Gospić	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Pag	Pag	Npmsn
+.	.	Z
+
+7.3.2.5.	7.3.2.5.	Mdo
+
+Odjel	odjel	Ncmsn
+–	–	Z
+područna	područni	Agpfsny
+jedinica	jedinica	Ncfsn
+Split	Split	Npmsn
+,	,	Z
+obuhvaća	obuhvaćati	Vmr3s
+područje	područje	Ncnsa
+Splitsko-dalmatinske	splitsko-dalmatinski	Agpfsgy
+,	,	Z
+Šibensko-kninske	šibensko-kninski	Agpfpny
+,	,	Z
+Zadarske	zadarski	Agpfsgy
+(	(	Z
+izuzev	izuzev	Sg
+područja	područje	Ncnsg
+Grada	grad	Ncmsg
+Paga	Pi	Npmsg
+,	,	Z
+Općine	općina	Ncfsg
+Kolan	Kolan	Npfsg
+i	i	Cc
+Općine	općina	Ncfsg
+Povljana	Povljana	Npfsn
+)	)	Z
+i	i	Cc
+Dubrovačko-neretvanske	dubrovačko-neretvanski	Agpfsgy
+županije	županija	Ncfsg
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Splitu	Split	Npmsl
+.	.	Z
+
+U	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+područna	područni	Agpfsny
+jedinica	jedinica	Ncfsn
+Split	Split	Npmsn
+ustrojavaju	ustrojavati	Vmr3p
+se	sebe	Px--sa
+sljedeće	sljedeći	Agpfsgy
+ispostave	ispostava	Ncfsg
+sa	sa	Si
+samostalnim	samostalan	Agpmpiy
+izvršiteljima	izvršitelj	Ncmpi
+,	,	Z
+mjesno	mjesno	Rgp
+nadležnim	nadležan	Agpmsiy
+na	na	Sl
+području	područje	Ncnsl
+cijele	cijel	Agpfsgy
+područne	područni	Agpfsgy
+jedinice	jedinica	Ncfsg
+:	:	Z
+
+Ispostava	ispostava	Ncfsn
+Split	Split	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Sinj	Sinj	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Imotski	imotski	Agpmsny
+
+Ispostava	ispostava	Ncfsn
+Šibenik	Šibenik	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Zadar	Zadar	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Metković	Metković	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Ploče	ploča	Ncfsg
+
+Ispostava	ispostava	Ncfsn
+Dubrovnik	Dubrovnik	Npmsn
+
+Ispostava	ispostava	Ncfsn
+Korčula	Korčul	Npmsg
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+18.	18.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+141.	141.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Bjelovar	Bjelovar	Npmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Bjelovar	Bjelovar	Npmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+19.	19.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+142.	142.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Osijek	osijek	Ncmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Osijek	Osijek	Npmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+20.	20.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+143.	143.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Rijeka	Rijeka	Npfsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Rijeka	Rijeka	Npfsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+21.	21.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+144.	144.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Požega	Poži	Npmsg
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Požega	Požega	Npfsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+22.	22.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+145.	145.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Split	Split	Npmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Split	Split	Npmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+23.	23.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+146.	146.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Šibenik	Šibenik	Npmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Šibenik	Šibenik	Npmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+24.	24.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+147.	147.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Varaždin	Varaždin	Npmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Varaždin	Varaždin	Npmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+25.	25.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+148.	148.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Zagreb	Zagreb	Npmsn
+–	–	Z
+Zapad	zapad	Ncmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Zagreb	Zagreb	Npmsn
+–	–	Z
+Zapad	zapad	Ncmsan
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+26.	26.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+149.	149.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Zagreb	Zagreb	Npmsn
+–	–	Z
+Istok	istok	Ncmsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Zagreb	Zagreb	Npmsn
+–	–	Z
+Istok	istok	Ncmsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+27.	27.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+150.	150.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+Glina	glina	Ncfsn
+mjesno	mjesno	Rgp
+su	biti	Var3p
+nadležni	nadležan	Agpmpny
+na	na	Sl
+području	područje	Ncnsl
+cijelog	cijel	Agpmsgy
+Odjela	odjel	Ncmsg
+–	–	Z
+veterinarskog	veterinarski	Agpmsgy
+ureda	ured	Ncmsg
+Glina	glina	Ncfsn
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+28.	28.	Mdo
+
+U	u	Sl
+članku	članak	Ncmsl
+152.	152.	Mdo
+iza	iza	Sg
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+stavak	stavak	Ncmsn
+3.	3.	Mdo
+koji	koji	Pi-msn
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Samostalni	samostalan	Agpmpny
+izvršitelji	izvršitelj	Ncmpn
+u	u	Sl
+ispostavama	ispostava	Ncfpl
+u	u	Sl
+Odjelu	odjel	Ncmsl
+–	–	Z
+

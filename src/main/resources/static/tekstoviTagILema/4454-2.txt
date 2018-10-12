@@ -1,0 +1,22 @@
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/18	05/18	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+31.	31.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

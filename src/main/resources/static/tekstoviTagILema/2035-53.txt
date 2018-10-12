@@ -1,0 +1,125 @@
+ZID-a	ZID	Npmsg
+ZIZHS-a	ZIZHS	Npmsg
+/	/	Z
+2015	2015	Mdc
+kojim	koji	Pi-msi
+je	biti	Var3s
+izmijenjen	izmijeniti	Appmsnn
+članak	članak	Ncmsn
+30.	30.	Mdo
+
+ZIZHS-a	ZIZHS	Npmsg
+.	.	Z
+
+139.	139.	Mdo
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+43.	43.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+riješeno	riješiti	Appnsny
+je	biti	Var3s
+kao	kao	Cs
+u	u	Sl
+točki	točka	Ncfsl
+I.	I.	Y
+2	2	Mdc
+)	)	Z
+izreke	izreka	Ncfpa
+rješenja	rješenje	Ncnsg
+.	.	Z
+
+140.	140.	Mdo
+
+Ustavni	ustavan	Agpmsny
+sud	sud	Ncmsn
+nije	biti	Var3s
+razmatrao	razmatrati	Vmp-sm
+prijedlog	prijedlog	Ncmsan
+predlagateljice	predlagateljica	Ncfsg
+da	da	Cs
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+45.	45.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+,	,	Z
+do	do	Sg
+donošenja	donošenje	Ncnsg
+konačne	konačan	Agpfsgy
+odluke	odluka	Ncfsg
+,	,	Z
+privremeno	privremeno	Rgp
+obustavi	obustaviti	Vmr3s
+izvršenje	izvršenje	Ncnsa
+svih	sav	Agpmpgy
+pojedinačnih	pojedinačan	Agpmpgy
+akata	akt	Ncmpg
+i	i	Cc
+radnji	radnja	Ncfpg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+poduzimaju	poduzimati	Vmr3p
+na	na	Sl
+osnovi	osnova	Ncfsl
+osporenog	osporiti	Agpmsgy
+ZID-a	ZID	Npmsg
+ZIZHS-a	ZIZHS	Npmsg
+/	/	Z
+2015.	2015.	Mdo
+(	(	Z
+v.	v.	Sa
+točku	točka	Ncfsa
+10.	10.	Mdo
+)	)	Z
+.	.	Z
+
+141.	141.	Mdo
+
+Objava	objava	Ncfsn
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+i	i	Cc
+rješenja	rješenje	Ncnsg
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-I-1397	U-I-1397	X
+/	/	Z
+2015	2015	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+24.	24.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Jasna	Jasna	Npfsn
+Omejec	Omejec	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

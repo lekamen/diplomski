@@ -1,0 +1,117 @@
+trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+RH	RH	Npfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+2.	2.	Mdo
+Kristina	Kristina	Npfsn
+Saganić	Saganić	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+Visokoga	visok	Agpmsgy
+trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+RH	RH	Npfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+3.	3.	Mdo
+Nikolina	Nikolina	Npfsn
+Mišković	Mišković	Npfsn
+,	,	Z
+sutkinja	sutkinja	Ncfsn
+Trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+4.	4.	Mdo
+Danica	Danica	Npfsn
+Lisičar	Lisičar	Npfsn
+,	,	Z
+Zagrebački	zagrebački	Agpmsny
+holding	holding	Ncmsn
+,	,	Z
+Vodopskrba	Vodopskrba	Npfsn
+i	i	Cc
+odvodnja	odvodnja	Ncfsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+5.	5.	Mdo
+Aida	Aida	Npfsn
+Marijan	Marijan	Npmsn
+,	,	Z
+Končar	Končar	Npmsn
+elektroindustrija	elektroindustrija	Ncfsn
+d.	di	Agpfsgy
+d.	da	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+OPĆI	opći	Agpmsny
+DODATAK	dodatak	Ncmsn
+(	(	Z
+6	6	Mdc
+)	)	Z
+:	:	Z
+LISTA	lista	Ncfsn
+ARBITARA	arbitar	Ncmpg
+(	(	Z
+u	u	Sl
+svezi	sveza	Ncfsl
+s	sa	Si
+člankom	članak	Ncmsi
+37.	37.	Mdo
+)	)	Z
+
+1.	1.	Mdo
+Gordan	Gordan	Npmsn
+Stanković	Stanković	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+Odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Vukić	Vukić	Npmsn
+i	i	Cc
+partneri	partner	Ncmpn
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+2.	2.	Mdo
+Srđan	Srđan	Npmsn
+Šimac	Šimac	Npmsn
+,	,	Z
+sudac	sudac	Ncmsn
+Visokoga	visok	Agpmsgy
+trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+RH	RH	Npfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+3.	3.	Mdo
+Miljenko	Miljenko	Npfsn
+Kurobasa	Kurobasa	Npfsn
+,	,	Z
+umirovljeni	umirovljen	Agpmsny
+sudac	sudac	Ncmsn
+Trgovačkog	trgovački	Agpmsgy
+suda	sud	Ncmsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+
+4.	4.	Mdo
+Zdravko	Zdravko	Npmsn
+Kačić	Kačić	Npmsn
+,	,	Z
+odvjetnik	odvjetnik	Ncmsn
+,	,	Z
+Zagreb	Zagreb	Npmsn
+.	.	Z
+

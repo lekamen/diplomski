@@ -1,0 +1,29 @@
+postrojenja	postrojenje	Ncnsg
+:	:	Z
+__________________________________	__________________________________	Z
+
+[	[	Z
+1	1	Mdc
+]	]	Z
+*	*	Z
+podaci	podatak	Ncmpn
+o	o	Sl
+djelatnostima	djelatnost	Ncfpl
+nalaze	nalaziti	Vmr3p
+se	sebe	Px--sa
+u	u	Sl
+popisu	popis	Ncmsl
+djelatnosti	djelatnost	Ncfsl
+u	u	Sl
+Prilogu	prilog	Ncmsl
+I.	ii	Agpfsgy
+Uredbe	uredba	Ncfsg
+kojom	koji	Pi-fsi
+se	sebe	Px--sa
+uređuje	uređivati	Vmr3s
+postupak	postupak	Ncmsn
+izdavanja	izdavanje	Ncnsg
+okolišne	okolišni	Agpfsgy
+dozvole	dozvola	Ncfsg
+.	.	Z
+

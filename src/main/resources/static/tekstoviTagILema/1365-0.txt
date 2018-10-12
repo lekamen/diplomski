@@ -1,0 +1,394 @@
+71	71	Mdc
+29.06.2015	29.06.2015	Mdo
+Uredba	uredba	Ncfsn
+o	o	Sl
+izmjenama	izmjena	Ncfpl
+Uredbe	uredba	Ncfpa
+o	o	Sl
+utvrđivanju	utvrđivanje	Ncnsl
+dužnosti	dužnost	Ncfsg
+djelatnih	djelatan	Agpfpgy
+vojnih	vojni	Agpfpgy
+osoba	osoba	Ncfpg
+na	na	Sl
+kojima	koji	Pi-fpl
+se	sebe	Px--sa
+staž	staž	Ncmsn
+osiguranja	osiguranje	Ncnsg
+računa	račun	Ncmpg
+s	sa	Si
+povećanim	povećan	Agpnsiy
+trajanjem	trajanje	Ncnsi
+i	i	Cc
+načinu	način	Ncmsl
+računanja	računanje	Ncnsg
+toga	taj	Pd-nsg
+staža	staž	Ncmsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1366	1366	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+2.	2.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+pravima	pravo	Ncnpl
+iz	iz	Sg
+mirovinskog	mirovinski	Agpnsgy
+osiguranja	osiguranje	Ncnsg
+djelatnih	djelatan	Agpfpgy
+vojnih	vojni	Agpfpgy
+osoba	osoba	Ncfpg
+,	,	Z
+policijskih	policijski	Agpmpgy
+službenika	službenik	Ncmpg
+i	i	Cc
+ovlaštenih	ovlašten	Agpfpgy
+službenih	služben	Agpfpgy
+osoba	osoba	Ncfpg
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+128/99	128/99	Mdc
+,	,	Z
+129/2000	129/2000	Mds
+,	,	Z
+16/2001	16/2001	Mdc
+,	,	Z
+22/2002	22/2002	Mdc
+,	,	Z
+41/2008	41/2008	Mdc
+i	i	Cc
+118/2012	118/2012	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+24.	24.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+UREDBU	uredba	Ncfsa
+
+O	o	Sl
+IZMJENAMA	izmjena	Ncfpl
+UREDBE	uredba	Ncfpa
+O	o	Sl
+UTVRĐIVANJU	utvrđivanje	Ncnsl
+DUŽNOSTI	dužnost	Ncfsg
+DJELATNIH	djelatan	Agpfpgy
+VOJNIH	vojni	Agpfpgy
+OSOBA	osoba	Ncfpg
+NA	na	Sl
+KOJIMA	koji	Pi-fpl
+SE	sebe	Px--sa
+STAŽ	staž	Ncmsn
+OSIGURANJA	osiguranje	Ncnsg
+RAČUNA	račun	Ncmpg
+S	sa	Si
+POVEĆANIM	povećan	Agpnsiy
+TRAJANJEM	trajanje	Ncnsi
+I	i	Cc
+NAČINU	način	Ncmsl
+RAČUNANJA	računanje	Ncnsg
+TOGA	taj	Pd-nsg
+STAŽA	staž	Ncmsg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Uredbi	uredba	Ncfsl
+o	o	Sl
+utvrđivanju	utvrđivanje	Ncnsl
+dužnosti	dužnost	Ncfsg
+djelatnih	djelatan	Agpfpgy
+vojnih	vojni	Agpfpgy
+osoba	osoba	Ncfpg
+na	na	Sl
+kojima	koji	Pi-fpl
+se	sebe	Px--sa
+staž	staž	Ncmsn
+osiguranja	osiguranje	Ncnsg
+računa	račun	Ncmpg
+s	sa	Si
+povećanim	povećan	Agpnsiy
+trajanjem	trajanje	Ncnsi
+i	i	Cc
+načinu	način	Ncmsl
+računanja	računanje	Ncnsg
+toga	taj	Pd-nsg
+staža	staž	Ncmsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+42/2003	42/2003	Mdc
+,	,	Z
+99/2012	99/2012	Mds
+i	i	Cc
+37/2014	37/2014	Mdc
+)	)	Z
+članak	članak	Ncmsn
+2.	2.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Svakih	svaki	Agpmpgy
+12	12	Mdc
+mjeseci	mjesec	Ncmpg
+računa	računati	Vmr3s
+se	sebe	Px--sa
+kao	kao	Cs
+18	18	Mdc
+mjeseci	mjesec	Ncmpg
+staža	staž	Ncmsg
+osiguranja	osiguranje	Ncnsg
+na	na	Sl
+dužnostima	dužnost	Ncfpl
+:	:	Z
+
+–		Agpmpgy
+pirotehničara	pirotehničar	Ncmpg
+
+–		Agpfpiy
+u	u	Sl
+operacijama	operacija	Ncfpl
+potpore	potpora	Ncfsg
+miru	mir	Ncmsl
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Svakih	svaki	Agpmpgy
+12	12	Mdc
+mjeseci	mjesec	Ncmpg
+računa	računati	Vmr3s
+se	sebe	Px--sa
+kao	kao	Cs
+15	15	Mdc
+mjeseci	mjesec	Ncmpg
+staža	staž	Ncmsg
+osiguranja	osiguranje	Ncnsg
+na	na	Sl
+dužnostima	dužnost	Ncfpl
+:	:	Z
+
+–		Agpmpgy
+letača	letač	Ncmpg
+
+–		Agpmpgy
+padobranaca	padobranac	Ncmpg
+
+–		Agpmpgy
+diverzanata	diverzant	Ncmpg
+
+–	–	Z
+ronitelja	ronitelj	Ncmpg
+
+–	–	Z
+u	u	Sl
+barokomori	barokomora	Ncfsl
+
+–		Agcmpgy
+tehničara	tehničar	Ncmpg
+za	za	Sa
+streljivo	streljivo	Ncnsa
+i	i	Cc
+minsko-eksplozivna	minsko-eksplozivan	Agpnpay
+sredstva	sredstvo	Ncnpa
+
+–	–	Px-mpg
+mehaničara	mehaničar	Ncmpg
+i	i	Cc
+poslužitelja	poslužitelj	Ncmpg
+za	za	Sa
+streljivo	streljivo	Ncnsa
+i	i	Cc
+minsko-eksplozivna	minsko-eksplozivan	Agpnpay
+sredstva	sredstvo	Ncnpa
+
+–	–	Z
+radiološke	radiološki	Agpfpay
+,	,	Z
+biološke	biološki	Agpfpay
+i	i	Cc
+kemijske	kemijski	Agpfsgy
+zaštite	zaštita	Ncfsg
+
+–	i	Agpfpny
+za	za	Sa
+specijalna	specijalan	Agpnpay
+djelovanja	djelovanje	Ncnpa
+
+–	–	Z
+u	u	Sl
+gardijskoj	gardijski	Agpfsly
+postrojbi	postrojba	Ncfsl
+
+–	–	Sg
+vojnog	vojni	Agpmsgy
+policajca	policajac	Ncmsg
+
+–	–	Sg
+rukovatelja	rukovatelj	Ncmpg
+inženjerijskih	inženjerijski	Agpmpgy
+strojeva	stroj	Ncmpg
+i	i	Cc
+strojeva	stroj	Ncmpg
+za	za	Sa
+pretovar	pretovar	Ncmsan
+
+–		Agcmpgy
+mehaničara	mehaničar	Ncmpg
+za	za	Sa
+održavanje	održavanje	Ncnsa
+
+–	–	Sg
+člana	član	Ncmsg
+posade	posada	Ncfsg
+plovila	plovilo	Ncnsg
+Hrvatske	hrvatski	Agpfsgy
+ratne	ratni	Agpfsgy
+mornarice	mornarica	Ncfsg
+i	i	Cc
+Obalne	obalni	Agpfsgy
+straže	straža	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+
+–		Agpfpiy
+u	u	Sl
+postajama	postaja	Ncfpl
+obalnog	obalni	Agpnsgy
+motrenja	motrenje	Ncnsg
+i	i	Cc
+radarskim	radarski	Agpfply
+postajama	postaja	Ncfpl
+
+–	–	Z
+počasno-ceremonijalnih	počasno-ceremonijalan	Agpmpgy
+postupaka	postupak	Ncmpg
+i	i	Cc
+poslovima	posao	Ncmpl
+osiguranja	osiguranje	Ncnsg
+u	u	Sl
+Počasno-zaštitnoj	počasno-zaštitan	Agpfsly
+bojni	bojna	Ncfsl
+
+–	–	Z
+zrakoplovnih	zrakoplovan	Agpmpgy
+tehničara	tehničar	Ncmpg
+,	,	Z
+zrakoplovnih	zrakoplovan	Agpmpgy
+mehaničara	mehaničar	Ncmpg
+i	i	Cc
+poslužitelja	poslužitelj	Ncmpg
+u	u	Sl
+zrakoplovnim	zrakoplovan	Agpfply
+bazama	baza	Ncfpl
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+1.	1.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/55	03/55	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+24.	24.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

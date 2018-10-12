@@ -1,0 +1,120 @@
+biračkih	birački	Agpnpgy
+mjesta	mjesto	Ncnpg
+,	,	Z
+dakle	dakle	Cc
+
+30.	30.	Mdo
+svibnja	svibanj	Ncmsg
+2016.	2016.	Mdo
+do	do	Sg
+19:00	19:00	Mdc
+sati	sat	Ncmpg
+
+13.	13.	Mdo
+
+Kad	kad	Cs
+Općinsko	općinski	Agpnsny
+izborno	izborni	Agpnsny
+povjerenstvo	povjerenstvo	Ncnsn
+Općine	općina	Ncfsg
+Murter	Murter	Npmsn
+–	–	Z
+Kornati	kornat	Ncfsl
+utvrdi	utvrditi	Vmr3s
+rezultate	rezultat	Ncmpa
+glasovanja	glasovanje	Ncnsg
+bez	bez	Sg
+odgode	odgoda	Ncfsg
+će	htjeti	Var3s
+objaviti	objaviti	Vmn
+rezultate	rezultat	Ncmpa
+izbora	izbor	Ncmpg
+sukladno	sukladno	Rgp
+zapisnicima	zapisnik	Ncmpd
+o	o	Sl
+radu	rad	Ncmsl
+.	.	Z
+
+(	(	Z
+članak	članak	Ncmsn
+86.	86.	Mdo
+i	i	Cc
+članak	članak	Ncmsn
+102.	102.	Mdo
+
+Zakona	zakon	Ncmsg
+)	)	Z
+.	.	Z
+
+14.	14.	Mdo
+
+Zaštita	zaštita	Ncfsn
+izbornog	izborni	Agpnsgy
+prava	pravo	Ncnsg
+ostvaruje	ostvarivati	Vmr3s
+su	biti	Var3p
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+odredbama	odredba	Ncfpi
+članaka	članak	Ncmpg
+127.	127.	Mdo
+do	do	Sg
+133.	133.	Mdo
+
+Zakona	zakon	Ncmsg
+.	.	Z
+
+15.	15.	Mdo
+
+Ove	ovaj	Pd-fpn
+Obvezatne	obvezatan	Agpfpny
+upute	uputa	Ncfpn
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Ncmsi
+donošenja	donošenje	Ncnsg
+i	i	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+06/16	06/16	Mdc
+-	-	Z
+03/03	03/03	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+507/18	507/18	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Branko	Branko	Npmsn
+Hrvatin	Hrvatin	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

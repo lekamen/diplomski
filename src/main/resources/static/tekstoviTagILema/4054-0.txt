@@ -1,0 +1,177 @@
+54	54	Mdc
+10.06.2016	10.06.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+i	i	Cc
+imenovanju	imenovanje	Ncnsl
+članova	član	Ncmpg
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+vode	voda	Ncfpa
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+1403	1403	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+182.	182.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+vodama	voda	Ncfpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+153/09.	153/09.	Mds
+,	,	Z
+63/11.	63/11.	Mds
+,	,	Z
+130/11.	130/11.	Mdo
+,	,	Z
+56/13.	56/13.	Mds
+i	i	Cc
+14/14.	14/14.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+3.	3.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+I	i	Cc
+IMENOVANJU	imenovanje	Ncnsl
+ČLANOVA	član	Ncmpg
+NACIONALNOG	nacionalan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+ZA	za	Sa
+VODE	voda	Ncfpa
+
+I.	I.	Y
+
+Razrješuju	razrješivati	Vmr3p
+se	sebe	Px--sa
+članovi	član	Ncmpn
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+vode	voda	Ncfpa
+iz	iz	Sg
+reda	red	Ncmsg
+istaknutih	istaknuti	Agpmpgy
+znanstvenika	znanstvenik	Ncmpg
+i	i	Cc
+stručnih	stručan	Agpmpgy
+djelatnika	djelatnik	Ncmpg
+iz	iz	Sg
+područja	područje	Ncnsg
+upravljanja	upravljanje	Ncnsg
+vodama	voda	Ncfpd
+i	i	Cc
+tome	taj	Pd-nsl
+srodnih	srodan	Agpnpgy
+područja	područje	Ncnpg
+:	:	Z
+
+MIJO	MIJO	Npmsn
+DŽOLAN	DŽOLAN	Npmsn
+
+MARIJAN	Marijan	Npmsn
+JURIĆ	Jurić	Npmsn
+
+MLADEN	MLADEN	Npmsn
+MARIĆ	Marić	Npmsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+članove	član	Ncmpa
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+vode	voda	Ncfpa
+iz	iz	Sg
+reda	red	Ncmsg
+istaknutih	istaknuti	Agpmpgy
+znanstvenika	znanstvenik	Ncmpg
+i	i	Cc
+stručnih	stručan	Agpmpgy
+djelatnika	djelatnik	Ncmpg
+iz	iz	Sg
+područja	područje	Ncnsg
+upravljanja	upravljanje	Ncnsg
+vodama	voda	Ncfpd
+i	i	Cc
+tome	taj	Pd-nsl
+srodnih	srodan	Agpnpgy
+područja	područje	Ncnpg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+dr.	dr.	Y
+sc.	sc.	Y
+NEVEN	NEVEN	Npmsn
+KUSPILIĆ	KUSPILIĆ	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+LIDIJA	LIDIJA	Npfsn
+TADIĆ	Tadić	Npmsn
+
+BOŽE	BOŽE	Npmsv
+VULETA	VULETA	Npfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+07/26	07/26	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+3.	3.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,759 @@
+3277.	3277.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+MARTINIĆ	MARTINIĆ	Npmsn
+
+3278.	3278.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+MARTINOVIĆ	Martinović	Npmsn
+
+3279.	3279.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+MARTINOVSKI	martinovski	Agpmpny
+
+3280.	3280.	Mdo
+namještenik	namještenik	Ncmsn
+VINKO	Vinko	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+MARUŠIĆ	Marušić	Npmsn
+
+3281.	3281.	Mdo
+namještenik	namještenik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+MARUŠIĆ	Marušić	Npmsn
+
+3282.	3282.	Mdo
+namještenik	namještenik	Ncmsn
+SLAVO	SLAVO	Npmsn
+(	(	Z
+Josin	Josin	Npmsn
+)	)	Z
+MATANIĆ	Matanić	Npmsn
+
+3283.	3283.	Mdo
+namještenik	namještenik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+MATANOVIĆ	Matanović	Npmsn
+
+3284.	3284.	Mdo
+namještenik	namještenik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+MATIJEVIĆ	MATIJEVIĆ	Npmsn
+
+3285.	3285.	Mdo
+namještenik	namještenik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+MATIŠIĆ	MATIŠIĆ	Npmsn
+
+3286.	3286.	Mdo
+namještenik	namještenik	Ncmsn
+BLAŽ	Blaž	Npmsn
+(	(	Z
+Blažov	Blažov	Npmsn
+)	)	Z
+MATOŠ	matoti	Vmm2s
+
+3287.	3287.	Mdo
+namještenik	namještenik	Ncmsn
+STOJAN	STOJAN	Npmsn
+(	(	Z
+Grgin	Grgin	Npmsn
+)	)	Z
+MEDIĆ	Medić	Npmsn
+
+3288.	3288.	Mdo
+namještenik	namještenik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+MEDVED	MEDVED	Npmsn
+
+3289.	3289.	Mdo
+namještenik	namještenik	Ncmsn
+ZDENKO	ZDENKO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+MEIĆ-SIDIĆ	meić-sidić	Agpmsny
+
+3290.	3290.	Mdo
+namještenik	namještenik	Ncmsn
+FEJSAL	FEJSAL	Npmsn
+(	(	Z
+Melijev	Melijev	Npmsn
+)	)	Z
+MEMEDI	memedi	Agpmpny
+
+3291.	3291.	Mdo
+namještenik	namještenik	Ncmsn
+SLAVKO	Slavko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MERKAŠ	merkaš	Ncmsn
+
+3292.	3292.	Mdo
+namještenik	namještenik	Ncmsn
+ACO	ACO	Npmsn
+(	(	Z
+Milošev	Milošev	Npmsn
+)	)	Z
+METIKOŠ	metikoti	Vmm2s
+
+3293.	3293.	Mdo
+namještenik	namještenik	Ncmsn
+ZVONKO	zvonak	Agpnsny
+(	(	Z
+Vjekoslavov	Vjekoslavov	Npmsn
+)	)	Z
+MEZEJI	MEZEJ	Npmpn
+
+3294.	3294.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Šimunov	Šimunov	Npmsn
+)	)	Z
+MIHALJ	mihalti	Vmm2s
+
+3295.	3295.	Mdo
+namještenik	namještenik	Ncmsn
+FRANE	Fran	Ncfsg
+(	(	Z
+Nediljkov	Nediljkov	Npmsn
+)	)	Z
+MIHALJEVIĆ	Mihaljević	Npmsn
+
+3296.	3296.	Mdo
+namještenik	namještenik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MIKAN	MIKAN	Npmsn
+
+3297.	3297.	Mdo
+namještenik	namještenik	Ncmsn
+NEDJELJKO	NEDJELJKO	Npmsn
+(	(	Z
+Tadijin	Tadijin	Npmsn
+)	)	Z
+MIKULIĆ	Mikulić	Npmsn
+
+3298.	3298.	Mdo
+namještenik	namještenik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+MILANOVIĆ	Milanović	Npmsn
+
+3299.	3299.	Mdo
+namještenik	namještenik	Ncmsn
+RADOSLAV	RADOSLAV	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+MILIČEVIĆ	Miličević	Npmsn
+
+3300.	3300.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+MILKOVIĆ	MILKOVIĆ	Npmsn
+
+3301.	3301.	Mdo
+namještenik	namještenik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+MILUTIN	MILUTIN	Npmsn
+
+3302.	3302.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Jankov	Jankov	Npmsn
+)	)	Z
+MITAR	MITAR	Npmsn
+
+3303.	3303.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+MLAČAK	MLAČAK	Npmsn
+
+3304.	3304.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Izidorov	Izidorov	Npmsn
+)	)	Z
+MOHENSKI	mohenski	Agpmsny
+
+3305.	3305.	Mdo
+namještenik	namještenik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+MOHORIĆ	MOHORIĆ	Npmsn
+
+3306.	3306.	Mdo
+namještenik	namještenik	Ncmsn
+VILIM	VILIM	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+MOŽGON	MOŽGON	Npmsn
+
+3307.	3307.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+MRAVAK	MRAVAK	Npmsn
+
+3308.	3308.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+MRAVUNAC	MRAVUNAC	Npmsn
+
+3309.	3309.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+MRKONJA	mrkonje	Ncnpn
+
+3310.	3310.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+MRKONJA	mrkonje	Ncnpn
+
+3311.	3311.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matejev	Matejev	Aspmsnn
+)	)	Z
+MRMIĆ	MRMIĆ	Npmsn
+
+3312.	3312.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+MUŽEVIĆ	MUŽEVIĆ	Npmsn
+
+3313.	3313.	Mdo
+namještenik	namještenik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Pavin	Pavin	Npmsn
+)	)	Z
+NALETILIĆ	Naletilić	Npmsn
+
+3314.	3314.	Mdo
+namještenik	namještenik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+NEKIĆ	NEKIĆ	Npmsn
+
+3315.	3315.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+NIKOLA	Nikola	Npmsn
+
+3316.	3316.	Mdo
+namještenik	namještenik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+NIKŠIĆ	Nikšić	Npmsn
+
+3317.	3317.	Mdo
+namještenik	namještenik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+NOVAČIĆ	NOVAČIĆ	Npmsn
+
+3318.	3318.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Pavin	Pavin	Npmsn
+)	)	Z
+NOVAK	Novak	Npmsn
+
+3319.	3319.	Mdo
+namještenik	namještenik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+NOVAKOVIĆ	Novaković	Npmsn
+
+3320.	3320.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+NOVOGRADAC	NOVOGRADAC	Npmsn
+
+3321.	3321.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+NOVOSEL	NOVOSEL	Qq
+
+3322.	3322.	Mdo
+namještenik	namještenik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+OBAJDIN	OBAJDIN	Npmsn
+
+3323.	3323.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+OBAJDIN	OBAJDIN	Npmsn
+
+3324.	3324.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+OBAJDIN	OBAJDIN	Npmsn
+
+3325.	3325.	Mdo
+namještenik	namještenik	Ncmsn
+VINKO	Vinko	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+OBROVAC	OBROVAC	Npmsn
+
+3326.	3326.	Mdo
+namještenik	namještenik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+OSTROŠKI	ostroškti	Vmm2s
+
+3327.	3327.	Mdo
+namještenik	namještenik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+OŠTRINA	oštrina	Ncfsn
+
+3328.	3328.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+OZVAČIĆ	OZVAČIĆ	Npmsn
+
+3329.	3329.	Mdo
+namještenik	namještenik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Krstin	Krstin	Npmsn
+)	)	Z
+PALEKA	palek	Ncmsg
+
+3330.	3330.	Mdo
+namještenik	namještenik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+PALIJAN	PALIJAN	Npmsn
+
+3331.	3331.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+PASTUOVIĆ	Pastuović	Npmsn
+
+3332.	3332.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+PAŠKALIN	PAŠKALIN	Npmsn
+
+3333.	3333.	Mdo
+namještenik	namještenik	Ncmsn
+SLOBODAN	SLOBODAN	Npmsn
+(	(	Z
+Pavlin	pavlin	Ncmsn
+)	)	Z
+PAVIČEVIĆ	PAVIČEVIĆ	Npmsn
+
+3334.	3334.	Mdo
+namještenik	namještenik	Ncmsn
+DINKO	DINKO	Npmsn
+(	(	Z
+Jandrin	Jandrin	Npmsn
+)	)	Z
+PAVIČIĆ	Pavičić	Npmsn
+
+3335.	3335.	Mdo
+namještenik	namještenik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+PAVIĆ	Pavić	Npmsn
+
+3336.	3336.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Jankov	Jankov	Npmsn
+)	)	Z
+PAVLAČIĆ	PAVLAČIĆ	Npmsn
+
+3337.	3337.	Mdo
+namještenik	namještenik	Ncmsn
+ŽARKO	žarak	Agpnsny
+(	(	Z
+Borin	Borin	Npmsn
+)	)	Z
+PAVLIĆ	PAVLIĆ	Npmsn
+
+3338.	3338.	Mdo
+namještenik	namještenik	Ncmsn
+ANTONIO	Antonio	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+PAVLOVIĆ	Pavlović	Npmsn
+
+3339.	3339.	Mdo
+namještenik	namještenik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+PERAK	perak	Ncmsn
+
+3340.	3340.	Mdo
+namještenik	namještenik	Ncmsn
+ĐURO	ĐURO	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+PEREŽA	PEREŽ	Npmsg
+
+3341.	3341.	Mdo
+namještenik	namještenik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PERICA	PERICA	Npmsn
+
+3342.	3342.	Mdo
+namještenik	namještenik	Ncmsn
+ŠIME	ŠIME	Npfsg
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+PERIĆ	Perić	Npmsn
+
+3343.	3343.	Mdo
+namještenik	namještenik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+PERIĆ	Perić	Npmsn
+
+3344.	3344.	Mdo
+namještenik	namještenik	Ncmsn
+MILE	mio	Agpfsgy
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+PERKOVIĆ	Perković	Npmsn
+
+3345.	3345.	Mdo
+namještenik	namještenik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Stevin	Stevin	Npmsn
+)	)	Z
+PERKOVIĆ	Perković	Npmsn
+
+3346.	3346.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Cvjetkov	Cvjetkov	Npmsn
+)	)	Z
+PERLETA	PERLETA	I
+
+3347.	3347.	Mdo
+namještenik	namještenik	Ncmsn
+STJEPKO	STJEPKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PERLIĆ	PERLIĆ	Npmsn
+
+3348.	3348.	Mdo
+namještenik	namještenik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Slobodanov	Slobodanov	Npmsn
+)	)	Z
+PEROVIĆ	Perović	Npmsn
+
+3349.	3349.	Mdo
+namještenik	namještenik	Ncmsn
+DRAGUTIN	Dragutin	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+PETAJ	petati	Vmm2s
+
+3350.	3350.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Ignacijev	Ignacijev	Npmsn
+)	)	Z
+PETAK	petak	Ncmsan
+
+3351.	3351.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PETRIĆ	Petrić	Npmsn
+
+3352.	3352.	Mdo
+namještenik	namještenik	Ncmsn
+ZVONKO	zvonak	Agpnsny
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+PETROVIĆ	Petrović	Npmsn
+
+3353.	3353.	Mdo
+namještenik	namještenik	Ncmsn
+JAKOV	JAKOV	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PEZELJ	PEZELJ	Npmsn
+
+3354.	3354.	Mdo
+namještenik	namještenik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Krstin	Krstin	Npmsn
+)	)	Z
+PINČIĆ	PINČIĆ	Npmsn
+
+3355.	3355.	Mdo
+namještenik	namještenik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Miroslavov	Miroslavov	Npmsn
+)	)	Z
+PINTARIĆ	PINTARIĆ	Npmsn
+
+3356.	3356.	Mdo
+namještenik	namještenik	Ncmsn
+SLAVO	SLAVO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PIRŠIĆ	PIRŠIĆ	Npmsn
+
+3357.	3357.	Mdo
+namještenik	namještenik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+PLAVI	plav	Agpmpny
+
+3358.	3358.	Mdo
+namještenik	namještenik	Ncmsn
+DUJE	DUJE	Npfsg
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+PLENČA	PLENČA	I
+
+3359.	3359.	Mdo
+namještenik	namještenik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+PLEŠ	pleti	Vmr2s
+
+3360.	3360.	Mdo
+namještenik	namještenik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Juričin	Juričin	Npmsn
+)	)	Z
+POBI	pobiti	Vmm2s
+
+3361.	3361.	Mdo
+namještenik	namještenik	Ncmsn
+ADNAN	ADNAN	Npmsn
+(	(	Z
+Hajrudinov	Hajrudinov	Npmsn
+)	)	Z
+POČIJAK	POČIJAK	Npmsn
+
+3362.	3362.	Mdo
+namještenik	namještenik	Ncmsn
+PREDRAG	PREDRAG	Npmsn
+(	(	Z
+Danijelov	Danijelov	Npmsn
+)	)	Z
+PODREBARAC	PODREBARAC	Npmsn
+
+3363.	3363.	Mdo
+namještenik	namještenik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+POGAČIĆ	POGAČIĆ	Npmsn
+
+3364.	3364.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+POLAK	POLAK	Npmsn
+
+3365.	3365.	Mdo
+namještenik	namještenik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Valentov	Valentov	Npmsn
+)	)	Z
+POLANČEC	POLANČEC	Npmsn
+
+3366.	3366.	Mdo
+namještenik	namještenik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+POLIĆ	Polić	Npmsn
+
+3367.	3367.	Mdo
+namještenik	namještenik	Ncmsn
+MATO	MATO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+POLINČIĆ	POLINČIĆ	Npmsn
+
+3368.	3368.	Mdo
+namještenik	namještenik	Ncmsn
+MIRO	Miro	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+PONOŠ	ponoti	Vmm2s
+
+3369.	3369.	Mdo
+namještenik	namještenik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+PONJAVIĆ	PONJAVIĆ	Npmsn
+
+3370.	3370.	Mdo
+namještenik	namještenik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+POVRŽENIĆ	POVRŽENIĆ	Npmsn
+
+3371.	3371.	Mdo
+namještenik	namještenik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+

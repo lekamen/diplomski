@@ -1,0 +1,177 @@
+48	48	Mdc
+25.05.2016	25.05.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+predsjednika	predsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Lučke	lučki	Agpfsgy
+uprave	uprava	Ncfsg
+Ploče	ploča	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1255	1255	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+51.	51.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+točke	točka	Ncfsg
+1.	1.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+52.	52.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+pomorskom	pomorski	Agpnsly
+dobru	dobro	Ncnsl
+i	i	Cc
+morskim	morski	Agpfply
+lukama	luka	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+158/03	158/03	Mdc
+,	,	Z
+100/04	100/04	Mdc
+,	,	Z
+141/06	141/06	Mdc
+,	,	Z
+38/09	38/09	Mdc
+i	i	Cc
+123/11	123/11	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+28.	28.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+UPRAVNOG	upravan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+LUČKE	lučki	Agpfsgy
+UPRAVE	uprava	Ncfsg
+PLOČE	ploča	Ncfsg
+
+1.	1.	Mdo
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+DRAŽEN	dražiti	Appmsnn
+IVANUŠEC	ivanušec	Ncmsn
+dužnosti	dužnost	Ncfsg
+predsjednika	predsjednik	Ncmsg
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Lučke	lučki	Agpfsgy
+uprave	uprava	Ncfsg
+Ploče	ploča	Ncfsg
+.	.	Z
+
+2.	2.	Mdo
+Razrješuju	razrješivati	Vmr3p
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfsg
+članovi	član	Ncmpn
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Lučke	lučki	Agpfsgy
+uprave	uprava	Ncfsg
+Ploče	ploča	Ncfsg
+:	:	Z
+
+–	–	Npmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+RENDELI	RENDELI	Npmsn
+
+–	i	Agpnsny
+HRVOJE	hrvoje	Ncnsn
+LIVAJA	LIVAJ	Npmsg
+
+–	–	Z
+DARIJO	DARIJO	Npmsn
+JURIŠIĆ	Jurišić	Npmsn
+
+–	–	Z
+IVO	IVO	Npmsn
+MATKOVIĆ	Matković	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/94	02/94	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+05	05	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

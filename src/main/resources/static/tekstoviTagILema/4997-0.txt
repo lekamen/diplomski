@@ -1,0 +1,176 @@
+108	108	Mdc
+23.11.2016	23.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+zamjenica	zamjenica	Ncfpg
+županijskog	županijski	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+u	u	Sl
+Županijskom	županijski	Agpnsly
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+
+DRŽAVNOODVJETNIČKO	državnoodvjetnički	Agpnsny
+VIJEĆE	vijeće	Ncnsn
+
+2346	2346	Mdc
+
+ODLUKA	odluka	Ncfsn
+
+Državnoodvjetničko	državnoodvjetnički	Agpnsny
+vijeće	vijeće	Ncnsn
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+152.	152.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+(	(	Z
+Narodne	narodni	Agpfsgy
+novine	novina	Ncfsg
+broj	broj	Ncmsn
+76/09	76/09	Ncfpg
+,	,	Z
+153/09	153/09	Mdc
+,	,	Z
+116/10	116/10	Mdc
+,	,	Z
+145/10	145/10	Mdc
+,	,	Z
+57/11	57/11	Mdc
+,	,	Z
+130/11	130/11	Mdc
+,	,	Z
+72/13	72/13	Mdc
+,	,	Z
+148/13	148/13	Mdc
+,	,	Z
+33/15	33/15	Mdc
+i	i	Cc
+82/15	82/15	Mdc
+)	)	Z
+na	na	Sl
+31.	31.	Mdo
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+10.	10.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+,	,	Z
+
+odlučilo	odlučiti	Vmp-sn
+je	biti	Var3s
+
+I.	I.	Y
+Za	za	Sa
+zamjenice	zamjenica	Ncfpa
+županijskog	županijski	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+u	u	Sl
+Županijskom	županijski	Agpnsly
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+JASMINKA	JASMINKA	Npfsn
+ĐAK-HORVATIĆ	ĐAK-HORVATIĆ	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+općinskog	općinski	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+u	u	Sl
+Općinskom	općinski	Agpnsly
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+u	u	Sl
+Zlataru	zlatar	Ncmsl
+,	,	Z
+
+KSENIJA	KSENIJA	Npfsn
+KRIZMAN	KRIZMAN	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+općinskog	općinski	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+u	u	Sl
+Općinskom	općinski	Agpnsly
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+i	i	Cc
+
+MARIJA	Marija	Npfsn
+VUČKO	VUČKO	Npfsn
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+općinskog	općinski	Agpmsgy
+državnog	državni	Agpmsgy
+odvjetnika	odvjetnik	Ncmsg
+u	u	Sl
+Općinskom	općinski	Agpnsly
+državnom	državni	Agpnsly
+odvjetništvu	odvjetništvo	Ncnsl
+u	u	Sl
+Novom	nov	Agpmsly
+Zagrebu	Zagreb	Npmsl
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Imenovane	imenovati	Appfpny
+zamjenice	zamjenica	Ncfpn
+dužne	dužan	Agpfpny
+su	biti	Var3p
+stupiti	stupiti	Vmn
+na	na	Sa
+dužnost	dužnost	Ncfsa
+najkasnije	kasno	Rgs
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+šest	šest	Mlc
+mjeseci	mjesec	Ncmpg
+od	od	Sg
+dana	dan	Ncmpg
+imenovanja	imenovanje	Ncnsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+DOVO-33	DOVO-33	X
+/	/	Z
+2016	2016	Mdc
+-	-	Z
+5	5	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+10.	10.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Državnoodvjetničkog	državnoodvjetnički	Agpnsgy
+vijeća	vijeće	Ncnsg
+Dražen	Dražen	Npmsn
+Jelenić	Jelenić	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,77 @@
+okoliš	okoliš	Ncmsn
+najkasnije	kasno	Rgs
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+60	60	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ove	ovaj	Pd-fsg
+Uredbe	uredba	Ncfsg
+.	.	Z
+
+Odluku	odluka	Ncfsa
+o	o	Sl
+nominaciji	nominacija	Ncfsl
+na	na	Sa
+prijedlog	prijedlog	Ncmsan
+ravnatelja	ravnatelj	Ncmsg
+donosi	donositi	Vmr3s
+Upravno	upravan	Agpnsny
+vijeće	vijeće	Ncnsn
+Agencije	agencija	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+22.	22.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+prvoga	prvi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/52	03/52	Agpmsny
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+05/25	05/25	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+4	4	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+24.	24.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,726 @@
+103	103	Mdc
+11.11.2016	11.11.2016	Mdo
+Naredba	naredba	Ncfsn
+o	o	Sl
+poduzimanju	poduzimanje	Ncnsl
+mjera	mjera	Ncfpg
+za	za	Sa
+sprečavanje	sprečavanje	Ncnsa
+širenja	širenje	Ncnsg
+i	i	Cc
+suzbijanje	suzbijanje	Ncnsa
+štetnog	štetan	Agpmsgy
+organizma	organizam	Ncmsg
+Ips	Ips	Npfsn
+typographus	typographus	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+-	-	Z
+osmerozubi	osmerozub	Agpmsny
+smrekov	smrekov	Agpmsny
+pisar	pisar	Ncmsn
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POLJOPRIVREDE	poljoprivreda	Ncfsg
+
+2195	2195	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+50.	50.	Mdo
+točke	točka	Ncfsg
+7.	7.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+biljnom	biljan	Agpnsly
+zdravstvu	zdravstvo	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+75/05	75/05	Mdc
+i	i	Cc
+55/11	55/11	Mds
+)	)	Z
+,	,	Z
+a	a	Cc
+u	u	Sl
+svezi	sveza	Ncfsl
+s	sa	Si
+člankom	članak	Ncmsi
+38.	38.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+šumama	šuma	Ncfpl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+140/05	140/05	Mdc
+,	,	Z
+82/06	82/06	Mdc
+,	,	Z
+129/08	129/08	Mdc
+,	,	Z
+80/10	80/10	Mdc
+,	,	Z
+124/10	124/10	Mdc
+,	,	Z
+25/12	25/12	Mdc
+,	,	Z
+18/13	18/13	Mdc
+i	i	Cc
+94/14	94/14	Mdc
+)	)	Z
+ministar	ministar	Ncmsn
+poljoprivrede	poljoprivreda	Ncfsg
+donosi	donositi	Vmr3s
+
+NAREDBU	naredba	Ncfsa
+
+O	o	Sl
+PODUZIMANJU	poduzimanje	Ncnsl
+MJERA	mjera	Ncfpg
+ZA	za	Sa
+SPRJEČAVANJE	sprječavanje	Ncnsa
+ŠIRENJA	širenje	Ncnsg
+I	i	Cc
+SUZBIJANJE	suzbijanje	Ncnsa
+ŠTETNOG	štetan	Agpmsgy
+ORGANIZMA	organizam	Ncmsg
+Ips	Ips	Npfsn
+typographus	typographus	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+–	–	Z
+osmerozubi	osmerozub	Agpmsny
+smrekov	smrekov	Agpmsny
+pisar	pisar	Ncmsn
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+se	sebe	Px--sa
+Naredbom	naredba	Pi-fpn
+propisuju	propisivati	Vmr3p
+mjere	mjera	Ncfpn
+za	za	Sa
+sprječavanje	sprječavanje	Ncnsa
+širenja	širenje	Ncnsg
+i	i	Cc
+suzbijanja	suzbijanje	Ncnsg
+štetnog	štetan	Agpmsgy
+organizma	organizam	Ncmsg
+Ips	Ips	Npfsn
+typographus	typographus	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+–	–	Z
+osmerozubi	osmerozub	Agpmsny
+smrekov	smrekov	Agpmsny
+pisar	pisar	Ncmsn
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+štetni	štetan	Agpmsny
+organizam	organizam	Ncmsn
+)	)	Z
+,	,	Z
+zaraženo	zaražen	Agpnsny
+područje	područje	Ncnsn
+,	,	Z
+nadležna	nadležan	Agpnpny
+tijela	tijelo	Ncnpn
+i	i	Cc
+sredstva	sredstvo	Ncnsg
+za	za	Sa
+provedbu	provedba	Ncfsa
+mjera	mjera	Ncfpg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Zaraženim	zaražen	Agpnsiy
+područjem	područje	Ncnsi
+smatraju	smatrati	Vmr3p
+se	sebe	Px--sa
+šume	šumiti	Vmr3p
+u	u	Sl
+kojima	koji	Pi-fpl
+je	biti	Var3s
+prisutna	prisutan	Agpfsny
+smreka	smreka	Ncfsn
+na	na	Sl
+području	područje	Ncnsl
+Gorskog	gorski	Agpmsgy
+kotara	kotar	Ncmsg
+u	u	Sl
+Primorsko-goranskoj	primorsko-goranski	Agpfsly
+županiji	županija	Ncfsl
+,	,	Z
+i	i	Qo
+to	to	Qo
+u	u	Sl
+:	:	Z
+
+1.	1.	Mdo
+šumama	šuma	Ncfpd
+šumoposjednika	šumoposjednik	Ncmpg
+u	u	Sl
+:	:	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Prezid	prezid	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Čabar	Čabar	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Sveta	Sveta	Npfsn
+Gora	Gora	Npfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Risnjak	Risnjak	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Fužine	fužina	Ncfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Mrkopalj	Mrkopalj	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Petehovac	Petehovac	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Kupa	kup	Ncmsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Dobra	dobro	Ncnsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Mala	Mala	Npfsn
+Višnjevica	Višnjevica	Npfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Lukovdol	Lukovdol	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Osojnik	osojnik	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Ribnjak	ribnjak	Ncmsn
+,	,	Z
+
+2.	2.	Mdo
+šumama	šuma	Ncfpi
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+kojima	koji	Pi-fpi
+gospodari	gospodariti	Vmr3s
+trgovačko	trgovački	Agpnsny
+društvo	društvo	Ncnsn
+Hrvatske	hrvatski	Agpfsgy
+šume	šuma	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+u	u	Sl
+:	:	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Skrad	Skrad	Npfsi
+–	–	Z
+Rudač	Rudač	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Čedanj	Čedanj	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Jasle	jasle	Ncfpn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Delnice	Delnica	Npfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Podvodenjak	Podvodenjak	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Sungerski	sungerski	Agpmsny
+lug	lug	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Široka	širok	Agpfsny
+draga	draga	Ncfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Kobiljak	Kobiljak	Npmsn
+–	–	Z
+Bitoraj	Bitoraj	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Brloško	Brloško	Npnsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Špićunak	Špićunak	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Oštrac	oštrac	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Crni	crn	Agpmsny
+Lug	lug	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Suha	suh	Agpfsny
+Rečina	Rečina	Npfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Sušica	sušica	Ncfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Lividraga	Lividri	Npmsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Lazac	Lazac	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Vršice	Vršica	Npfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Ravna	Ravna	Npfsn
+Gora	Gora	Npfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Velika	velik	Agpfsny
+Višnjevica	Višnjevica	Npfsn
+–	–	Z
+Sušički	sušički	Agpmsny
+vrh	vrh	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Suho	suh	Agpnsny
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Dletvo	Dletvo	Npnsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Litorić	Litorić	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Miletka	Miletk	Npmsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Gluhe	gluh	Agpfsgy
+Drage	Draga	Npfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Potočine	Potočine	Npfsn
+–	–	Z
+Crna	crn	Agpfsny
+Kosa	kosa	Ncfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Milanov	Milanov	Aspmsnn
+vrh	vrh	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Rudnik	rudnik	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Crni	crn	Agpmsny
+Lazi	Lazi	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Brestica	Brestic	Npmsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Završje	Završja	Npfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Smrekova	smrekov	Aspfsny
+draga	drag	Agpfsny
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Gložac	Gložac	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Platak	Platak	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Bjelolasica	Bjelolasica	Npfsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Cetin	Cetin	Npmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Čarapine	čarapin	Aspfpay
+drage	drag	Agpmpay
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Goranska	goranski	Agpnpay
+Dobra	dobro	Ncnpa
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Japlenški	japlenški	Agpmsny
+vrh	vrh	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Umoli	umoliti	Vmm2s
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Brod	brod	Ncmsn
+na	na	Sl
+Kupi	kupa	Ncfsl
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Jelenje	jelenji	Agpfpny
+Velo	Velo	Npmsn
+A	a	Cc
+i	i	Qo
+B	b	X
+,	,	Z
+
+3.	3.	Mdo
+šumama	šuma	Ncfpi
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+kojima	koji	Ncmpd
+gospodari	gospodariti	Vmr3s
+Šumarski	šumarski	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Belevine	Belevina	Npfsg
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Sungerski	sungerski	Agpmsny
+lug	lug	Ncmsn
+,	,	Z
+
+–	–	Sl
+gospodarskoj	gospodarski	Agpfsly
+jedinici	jedinica	Ncfsl
+Kupjački	kupjački	Agpmsny
+vrh	vrh	Ncmsn
+,	,	Z
+
+4.	4.	Mdo
+park	park	Ncmsan
+šumama	šuma	Ncfpi
+
+–	–	Agpmsny
+Golubinjak	golubinjak	Ncmsn
+,	,	Z
+
+–	–	Agpmsny
+Japlenški	japlenški	Agpmsny
+vrh	vrh	Ncmsn
+.	.	Z
+
+Popis	popis	Ncmsn
+katastarskih	katastarski	Agpfpgy
+čestica	čestica	Ncfpg
+šumoposjednika	šumoposjednik	Ncmpg
+u	u	Sl
+zaraženim	zaražen	Agpnply
+područjima	područje	Ncnpl
+,	,	Z
+obuhvaćenih	obuhvatiti	Agpfpgy
+šumskogospodarskim	šumskogospodarskim	Ncfpg
+planovima	plan	Ncmpi
+,	,	Z
+na	na	Sa
+koje	koji	Pi-mpa
+se	sebe	Px--sa
+odnosi	odnositi	Vmr3s
+ova	ovaj	Pd-fsn
+Naredba	naredba	Ncfsn
+nalazi	nalaziti	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+Prilogu	Prilog	Npmsl
+I.	I.	Mro
+ove	ovaj	Pd-fsg
+Naredbe	naredba	Ncfsg
+i	i	Cc
+njezin	njezin	Ps3msn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Radi	radi	Sg
+sprječavanja	sprječavanje	Ncnsg
+širenja	širenje	Ncnsg
+i	i	Cc
+suzbijanja	suzbijanje	Ncnsg
+štetnog	štetan	Agpmsgy
+organizma	organizam	Ncmsg
+u	u	Sl
+zaraženim	zaražen	Agpnply
+područjima	područje	Ncnpl
+naređuje	naređivati	Vmr3s
+se	sebe	Px--sa
+provođenje	provođenje	Ncnsn
+mjera	mjera	Ncfpg
+iz	iz	Sg
+Priloga	Prili	Npmsg
+II	ii	Mro
+.	.	Z
+ove	ovaj	Pd-fsg
+Naredbe	naredba	Ncfsg
+.	.	Z
+
+Javna	javan	Agpfsny
+ustanova	ustanova	Ncfsn
+koja	koji	Pi-fsn
+upravlja	upravljati	Vmr3s
+područjem	područje	Ncnsi
+Nacionalnog	nacionalan	Agpmsgy
+parka	park	Ncmsg
+Risnjak	Risnjak	Npmsn
+obvezuje	obvezivati	Vmr3s
+se	sebe	Px--sa
+poduzeti	poduzeti	Vmn
+radnje	radnja	Ncfpn
+koje	koji	Pi-fpn
+su	biti	Var3p
+dopuštene	dopustiti	Appfpny
+sukladno	sukladno	Rgp
+posebnom	poseban	Agpmsly
+propisu	propis	Ncmsl
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+prirode	priroda	Ncfsg
+da	da	Cs
+se	sebe	Px--sa
+spriječi	spriječiti	Vmr3s
+širenje	širenje	Ncnsa
+štetnog	štetan	Agpmsgy
+organizma	organizam	Ncmsg
+izvan	izvan	Sg
+granica	granica	Ncfpg
+zaštićenog	zaštititi	Agpnsgy
+područja	područje	Ncnsg
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Trgovačko	trgovački	Agpnsny
+društvo	društvo	Ncnsn
+Hrvatske	hrvatski	Agpfsgy
+šume	šuma	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Šumarski	šumarski	Agpmsayn
+fakultet	fakultet	Ncmsan
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Zagrebu	Zagreb	Npmsl
+i	i	Cc
+šumoposjednici	šumoposjednik	Ncmpn
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+obveznici	obveznik	Ncmpn
+)	)	Z
+dužni	dužan	Agpmpny
+su	biti	Var3p
+započeti	započeti	Vmn
+provođenje	provođenje	Ncnsa
+mjera	mjera	Ncfpg
+na	na	Sl
+zaraženome	zaražen	Agpnsly
+području	područje	Ncnsl
+u	u	Sl
+roku	rok	Ncmsl
+do	do	Sg
+

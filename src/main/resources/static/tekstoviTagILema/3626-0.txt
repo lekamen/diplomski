@@ -1,0 +1,165 @@
+35	35	Mdc
+19.04.2016	19.04.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predsjednika	predsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Savjetodavne	savjetodavan	Agpfsgy
+službe	služba	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+975	975	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+6.	6.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+savjetodavnoj	savjetodavan	Agpfsly
+službi	služba	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+50/12	50/12	Mdc
+i	i	Cc
+148/13	148/13	Mdc
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+13.	13.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+UPRAVNOG	upravan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+SAVJETODAVNE	savjetodavan	Agpfsgy
+SLUŽBE	služba	Ncfsg
+
+1.	1.	Mdo
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+TUGOMIR	TUGOMIR	Npmsn
+MAJDAK	MAJDAK	Npmsn
+predsjednikom	predsjednik	Ncmsi
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Savjetodavne	savjetodavan	Agpfsgy
+službe	služba	Ncfsg
+.	.	Z
+
+2.	2.	Mdo
+Za	za	Sa
+članove	član	Ncmpa
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Savjetodavne	savjetodavan	Agpfsgy
+službe	služba	Ncfsg
+,	,	Z
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+MILAN	Milan	Npmsn
+MESIĆ	Mesić	Npmsn
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+TOMISLAV	TOMISLAV	Npmsn
+DUBRAVAC	DUBRAVAC	Npmsn
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+DANKO	DANKO	Npmsn
+DEŽĐEK	DEŽĐEK	Npmsn
+,	,	Z
+dr.	dr.	Y
+vet	vet	Ncmsan
+.	.	Z
+med	med	Ncmsan
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/247	01/247	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

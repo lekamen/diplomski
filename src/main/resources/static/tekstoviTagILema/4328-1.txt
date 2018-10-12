@@ -1,0 +1,37 @@
+»		Agpfpiy
+Narodnim	narodni	Agpfpiy
+novinama	novina	Ncfpi
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/16	03/16	Mdc
+-	-	Z
+04/148	04/148	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/09	09/09	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+4	4	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+27.	27.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,146 @@
+financije	financije	Ncfpa
+Zagreb	Zagreb	Npmsn
+31	31	Mdc
+10.2.2.2.	10.2.2.2.	Mdo
+
+Operativni	operativan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+financije	financije	Ncfpa
+Karlovac	Karlovac	Npmsn
+14	14	Mdc
+10.2.2.3.	10.2.2.3.	Y
+
+Operativni	operativan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+financije	financije	Ncfpa
+Osijek	osijek	Ncmsan
+14	14	Mdc
+10.2.2.4.	10.2.2.4.	Mdo
+
+Operativni	operativan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+financije	financije	Ncfpa
+Split	Split	Npmsn
+14	14	Mdc
+10.2.2.5.	10.2.2.5.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+financijsku	financijski	Agpfsay
+obradu	obrada	Ncfsa
+podnesaka	podnesak	Ncmpg
+5	5	Mdc
+Uprava	uprava	Ncfpg
+za	za	Sa
+proračun	proračun	Ncmsan
+i	i	Cc
+financije	financije	Ncfpa
+–	–	Z
+ukupno	ukupno	Rgp
+155	155	Mdc
+11.	11.	Mdo
+
+INSPEKTORAT	inspektorat	Ncmsn
+OBRANE	obrana	Ncfsg
+2	2	Mdc
+11.1.	11.1a	Ncfsg
+
+Služba	služba	Ncfsn
+inspekcije	inspekcija	Ncfsg
+obrane	obrana	Ncfsg
+1	1	Mdc
+11.1.1.	11.1.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+potporu	potpora	Ncfsa
+i	i	Cc
+koordinaciju	koordinacija	Ncfsa
+6	6	Mdc
+11.1.2.	11.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekciju	inspekcija	Ncfsa
+obrane	obrana	Ncfsg
+8	8	Mdc
+11.1.3.	11.1.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekciju	inspekcija	Ncfsa
+civilnih	civilan	Agpmpgy
+nositelja	nositelj	Ncmpg
+obrambenih	obramben	Agpfpgy
+priprema	priprema	Ncfpg
+i	i	Cc
+planiranja	planiranje	Ncnsg
+4	4	Mdc
+11.2.	11.2.	Mds
+
+Služba	služba	Ncfsn
+inspekcije	inspekcija	Ncfsg
+resursa	resurs	Ncmpg
+1	1	Mdc
+11.2.1.	11.2.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekciju	inspekcija	Ncfsa
+ljudskih	ljudski	Agpmpgy
+resursa	resurs	Ncmpg
+4	4	Mdc
+11.2.2.	11.2.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekciju	inspekcija	Ncfsa
+materijalnih	materijalan	Agpmpgy
+resursa	resurs	Ncmpg
+8	8	Mdc
+11.2.3.	11.2.3a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekciju	inspekcija	Ncfsa
+financijskih	financijski	Agpmpgy
+resursa	resurs	Ncmpg
+4	4	Mdc
+Inspektorat	inspektorat	Ncmsn
+obrane	obrana	Ncfsg
+–	–	Z
+ukupno	ukupno	Rgp
+38	38	Mdc
+12.	12.	Mdo
+
+SAMOSTALNI	samostalan	Agpmsny
+ODJEL	odjel	Ncmsn
+ZA	za	Sa
+POTPORU	potpora	Ncfsa
+VOJNOM	vojni	Agpmsdy
+ORDINARIJATU	ordinarijat	Ncmsd
+U	u	Sl
+REPUBLICI	republika	Ncfsl
+HRVATSKOJ	Hrvatska	Npfsl
+10	10	Mdc
+Samostalni	samostalan	Agpmsny
+odjel	odjel	Ncmsn
+za	za	Sa
+potporu	potpora	Ncfsa
+Vojnom	vojni	Agpmsdy
+ordinarijatu	ordinarijat	Ncmsd
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+–	–	Z
+ukupno	ukupan	Agpnsny
+10	10	Mdc
+MINISTARSTVO	ministarstvo	Ncnsn
+OBRANE	obrana	Ncfsg
+–	–	Z
+UKUPNO	ukupno	Rgp
+1115	1115	Mdc
+

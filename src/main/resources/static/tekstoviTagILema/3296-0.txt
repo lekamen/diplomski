@@ -1,0 +1,151 @@
+23	23	Mdc
+16.03.2016	16.03.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+članova	član	Ncmpg
+Muzejskog	muzejski	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+povijesnog	povijesni	Agpmsgy
+muzeja	muzej	Ncmsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+645	645	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+24.	24.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+muzejima	muzej	Ncmpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+110/15	110/15	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+20.	20.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+podstavka	podstavak	Ncmsg
+1.	1.	Mdo
+Statuta	statut	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+povijesnog	povijesni	Agpmsgy
+muzeja	muzej	Ncmsg
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+25.	25.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+ČLANOVA	član	Ncmpg
+MUZEJSKOG	muzejski	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+HRVATSKOGA	hrvatski	Agpmsgy
+POVIJESNOG	povijesni	Agpmsgy
+MUZEJA	muzej	Ncmsg
+
+Razrješuju	razrješivati	Vmr3p
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfsg
+članovi	član	Ncmpn
+Muzejskog	muzejski	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+povijesnog	povijesni	Agpmsgy
+muzeja	muzej	Ncmsg
+,	,	Z
+radi	radi	Sg
+isteka	istek	Ncmsg
+mandata	mandat	Ncmsg
+:	:	Z
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+STJEPAN	Stjepan	Npmsn
+ĆOSIĆ	ĆOSIĆ	Npmsn
+
+–	–	Npmsn
+MIROSLAV	MIROSLAV	Npmsn
+GAŠPAROVIĆ	GAŠPAROVIĆ	Npmsn
+
+–	–	Z
+VINKO	Vinko	Npmsn
+IVIĆ	Ivić	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/172	01/172	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+25.	25.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,147 @@
+76	76	Mdc
+24.08.2016	24.08.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+savjetnika	savjetnik	Ncmsg
+Predsjednice	Predsjednica	Npfsg
+Repub­like	repub­lika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+društvene	društven	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+
+PREDSJEDNICA	predsjednica	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1766	1766	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+odredbe	odredba	Ncfsg
+članka	članak	Ncmsg
+106.	106.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+56/90	56/90	Mds
+,	,	Z
+135/97	135/97	Mdc
+,	,	Z
+113/00	113/00	Mdc
+,	,	Z
+28/01	28/01	Mdc
+,	,	Z
+76/10	76/10	Mdc
+i	i	Cc
+5/14	5/14	Mdc
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+4.	4.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+Uredu	ured	Ncmsl
+predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+20/15	20/15	Mds
+)	)	Z
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+SAVJETNIKA	savjetnik	Ncmsg
+PREDSJEDNICE	predsjednica	Ncfsg
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+ZA	za	Sa
+DRUŠTVENE	društven	Agpfpay
+DJELATNOSTI	djelatnost	Ncfpa
+
+ANDRO	ANDRO	Npmsn
+KRSTULOVIĆ	KRSTULOVIĆ	Npmsn
+OPARA	OPARA	Npmsn
+razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+dužnosti	dužnost	Ncfsg
+savjetnika	savjetnik	Ncmsg
+Predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+društvene	društven	Agpfpay
+djelatnosti	djelatnost	Ncfpa
+,	,	Z
+na	na	Sa
+osobni	osoban	Agpmsayn
+zahtjev	zahtjev	Ncmsan
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+16.	16.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/19	01/19	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+06	06	Mdc
+-	-	Z
+01/1	01/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,735 @@
+neto	neto	Agpnsny
+14.	14.	Mdo
+
+Uredska	uredski	Agpfsny
+oprema	oprema	Ncfsn
+–	–	Z
+bruto	brutti	Vmp-sm
+15.	15.	Mdo
+
+Uredska	uredski	Agpfsny
+oprema	oprema	Ncfsn
+–	–	Z
+neto	neto	Agpnsay
+16.	16.	Ncnsa
+
+Transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+–	–	Z
+bruto	bruto	Rgp
+17.	17.	Mdo
+
+Transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+–	–	Z
+neto	neto	Agpnsay
+18.	18.	Ncnsa
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Z
+bruto	brutti	Vmp-sm
+19.	19.	Mdo
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Z
+neto	neto	Agpfsny
+IZVJEŠTAJ	izvještaj	Ncmsan
+O	o	Sl
+SVEOBUHVATNOJ	sveobuhvatan	Agpfsly
+DOBITI	dobit	Ncfsl
+20.	20.	Mdo
+
+Materijalni	materijalan	Agpmpny
+troškovi	trošak	Ncmpn
+i	i	Cc
+troškovi	trošak	Ncmpn
+usluga	usluga	Ncfpg
+21.	21.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+bruto	bruto	Agpmpay
+autorske	autorski	Agpmpay
+honorare	honorar	Ncmpa
+i	i	Cc
+ugovore	ugovor	Ncmpa
+o	o	Sl
+djelu	djelo	Ncnsl
+samo	samo	Rgp
+za	za	Sa
+fizičke	fizički	Agpfpay
+osobe	osoba	Ncfpa
+koje	koji	Pi-fpn
+nemaju	nemati	Vmr3p
+registriranu	registriran	Agpfsay
+djelatnost	djelatnost	Ncfsa
+22.	22.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+rad	rad	Ncmsan
+ostvaren	ostvariti	Appmsnn
+preko	preko	Sg
+studentskih	studentski	Agpnpgy
+i	i	Cc
+učeničkih	učenički	Agpmpgy
+servisa	servis	Ncmpg
+23.	23.	Mdo
+
+Premije	premija	Ncfsg
+osiguranja	osiguranje	Ncnsg
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+24.	24.	Mdo
+
+Porezi	porez	Ncmpn
+koji	koji	Pi-mpn
+ne	ne	Qz
+ovise	ovisiti	Vmr3p
+o	o	Sl
+dobitku	dobitak	Ncmsl
+i	i	Cc
+pristojbe	pristojba	Ncfsg
+25.	25.	Mdo
+
+Stipendije	stipendija	Ncfpn
+26.	26.	Mdo
+
+Troškovi	trošak	Ncmpn
+neto	neto	Agpfpgy
+plaća	plaća	Ncfpg
+i	i	Cc
+naknada	naknada	Ncfsn
+plaća	plaća	Ncfpg
+zaposlenika	zaposlenik	Ncmpg
+27.	27.	Mdo
+
+Troškovi	trošak	Ncmpn
+poreza	porez	Ncmsg
+,	,	Z
+prireza	prirez	Ncmsg
+,	,	Z
+doprinosa	doprinos	Ncmsg
+iz	iz	Sg
+plaća	plaća	Ncfpg
+i	i	Cc
+naknada	naknada	Ncfsn
+plaća	plaća	Ncfpg
+28.	28.	Mdo
+
+Troškovi	trošak	Ncmpn
+doprinosa	doprinos	Ncmsg
+na	na	Sa
+plaće	plaća	Ncfpa
+i	i	Cc
+naknade	naknada	Ncfpa
+29.	29.	Mdo
+
+Troškovi	trošak	Ncmpn
+osobnih	osoban	Agpmpgy
+automobila	automobil	Ncmpg
+i	i	Cc
+drugih	drugi	Mlompg
+sredstava	sredstvo	Ncnpg
+za	za	Sa
+osobni	osoban	Agpmsayn
+prijevoz	prijevoz	Ncmsan
+30.	30.	Mdo
+
+Ostali	ostali	Agpmpny
+troškovi	trošak	Ncmpn
+zaposlenika	zaposlenik	Ncmpg
+31.	31.	Mdo
+
+Troškovi	trošak	Ncmpn
+platnog	platni	Agpmsgy
+prometa	promet	Ncmsg
+32.	32.	Mdo
+
+Troškovi	trošak	Ncmpn
+naknada	naknada	Ncfpg
+i	i	Cc
+provizija	provizija	Ncfsn
+za	za	Sa
+bankovne	bankovan	Agpfpay
+usluge	usluga	Ncfpa
+33.	33.	Mdo
+
+Primici	primitak	Ncmpn
+u	u	Sl
+naravi	narav	Ncfsl
+34.	34.	Mdo
+
+Otpremnine	otpremnina	Ncfpn
+35.	35.	Mdo
+
+Prihodi	prihod	Ncmpn
+od	od	Sg
+dividendi	dividenda	Ncfpg
+
+F	f	Mrc
+)	)	Z
+Dodatni	dodatan	Agpmpny
+podaci	podatak	Ncmpn
+za	za	Sa
+kreditne	kreditan	Agpfpay
+unije	unija	Ncfpa
+
+Oznaka	oznaka	Ncfsn
+pozicije	pozicija	Ncfsg
+Naziv	naziv	Ncmsn
+pozicije	pozicija	Ncfsg
+BILANCA	bilanca	Ncfsn
+1.	1.	Mdo
+Zemljišta	zemljište	Ncnsg
+(	(	Z
+bruto	bruto	Rgp
+)	)	Z
+2.	2.	Mdo
+Zemljišta	zemljište	Ncnsg
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+3.	3.	Mdo
+Građevinski	građevinski	Agpmpny
+objekti	objekt	Ncmpn
+(	(	Z
+bruto	bruto	Rgp
+)	)	Z
+4.	4.	Mdo
+Građevinski	građevinski	Agpmpny
+objekti	objekt	Ncmpn
+(	(	Z
+neto	neto	Agpnsay
+)	)	Z
+5.	5.	Mdo
+Postrojenja	postrojenje	Ncnsg
+i	i	Cc
+oprema	opremati	Vmr3s
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+6.	6.	Mdo
+Postrojenja	postrojenje	Ncnsg
+i	i	Cc
+oprema	opremati	Vmr3s
+(	(	Z
+neto	neto	Agpfsny
+)	)	Z
+7.	7.	Mdo
+Namještaj	namještaj	Ncmsn
+,	,	Z
+transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+i	i	Cc
+slično	sličan	Agpnsay
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+8.	8.	Mdo
+Namještaj	namještaj	Ncmsn
+,	,	Z
+transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+i	i	Cc
+slično	slično	Rgp
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+9.	9.	Mdo
+Stambene	stambeni	Agpfpny
+zgrade	zgrada	Ncfpn
+i	i	Cc
+stanovi	stan	Ncmpn
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+10.	10.	Mdo
+
+Stambene	stambeni	Agpfpny
+zgrade	zgrada	Ncfpn
+i	i	Cc
+stanovi	stan	Ncmpn
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+11.	11.	Mdo
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+12.	12.	Mdo
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+13.	13.	Mdo
+
+Osnivački	osnivački	Agpmpny
+izdaci	izdatak	Ncmpn
+(	(	Z
+bruto	bruta	Ncfpn
+)	)	Z
+14.	14.	Mdo
+
+Osnivački	osnivački	Agpmpny
+izdaci	izdatak	Ncmpn
+(	(	Z
+neto	neto	Agpnsay
+)	)	Z
+15.	15.	Mdo
+
+Softver	softver	Ncmsn
+(	(	Z
+bruto	bruto	Agpfsay
+)	)	Z
+16.	16.	Mdo
+
+Softver	softver	Ncmsn
+(	(	Z
+neto	neto	Agpnsay
+)	)	Z
+17.	17.	Mdo
+
+Ulaganja	ulaganje	Ncnpn
+u	u	Sa
+višegodišnji	višegodišnji	Agpmsayn
+operativni	operativan	Agpmsayn
+najam	najam	Ncmsan
+(	(	Z
+bruto	brut	Agpnsay
+)	)	Z
+18.	18.	Mdo
+
+Ulaganja	ulaganje	Ncnpn
+u	u	Sa
+višegodišnji	višegodišnji	Agpmsayn
+operativni	operativan	Agpmsayn
+najam	najam	Ncmsan
+(	(	Z
+neto	neto	Agpnsay
+)	)	Z
+19.	19.	Mdo
+
+Ulaganja	ulaganje	Ncnpn
+radi	radi	Sg
+poboljšanja	poboljšanje	Ncnsg
+funkcionalnosti	funkcionalnost	Ncfsg
+tuđih	tuđ	Agpfpgy
+nekretnina	nekretnina	Ncfpg
+i	i	Cc
+opreme	oprema	Ncfsg
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+20.	20.	Mdo
+
+Ulaganja	ulaganje	Ncnpn
+radi	radi	Sg
+poboljšanja	poboljšanje	Ncnsg
+funkcionalnosti	funkcionalnost	Ncfsg
+tuđih	tuđ	Agpfpgy
+nekretnina	nekretnina	Ncfpg
+i	i	Cc
+opreme	oprema	Ncfpn
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+21.	21.	Mdo
+
+Ostala	ostali	Agpfsny
+nematerijalna	nematerijalan	Agpfsny
+imovina	imovina	Ncfsn
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+22.	22.	Mdo
+
+Ostala	ostali	Agpfsny
+nematerijalna	nematerijalan	Agpfsny
+imovina	imovina	Ncfsn
+(	(	Z
+neto	neto	Agpnsay
+)	)	Z
+RAČUN	račun	Ncmsan
+DOBITI	dobit	Ncfsg
+I	i	Cc
+GUBITKA	gubitak	Ncmsg
+23.	23.	Mdo
+
+Materijalni	materijalan	Agpmsny
+i	i	Cc
+nematerijalni	nematerijalan	Agpmpny
+troškovi	trošak	Ncmpn
+ukupno	ukupno	Rgp
+24.	24.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+bruto	bruto	Agpmpay
+autorske	autorski	Agpmpay
+honorare	honorar	Ncmpa
+i	i	Cc
+ugovore	ugovor	Ncmpa
+o	o	Sl
+djelu	djelo	Ncnsl
+samo	samo	Rgp
+za	za	Sa
+fizičke	fizički	Agpfpay
+osobe	osoba	Ncfpa
+koje	koji	Pi-fpn
+nemaju	nemati	Vmr3p
+registriranu	registriran	Agpfsay
+djelatnost	djelatnost	Ncfsa
+25.	25.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+rad	rad	Ncmsan
+ostvareni	ostvariti	Appmpny
+preko	preko	Sg
+studentskih	studentski	Agpfpgy
+i	i	Cc
+učeničkih	učenički	Agpmpgy
+servisa	servis	Ncmpg
+26.	26.	Mdo
+
+Premije	premija	Ncfsg
+osiguranja	osiguranje	Ncnsg
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+27.	27.	Mdo
+
+Porezi	porez	Ncmpn
+koji	koji	Pi-mpn
+ne	ne	Qz
+ovise	ovisiti	Vmr3p
+o	o	Sl
+dobitku	dobitak	Ncmsl
+i	i	Cc
+pristojbe	pristojba	Ncfsg
+28.	28.	Mdo
+
+Stipendije	stipendija	Ncfpn
+29.	29.	Mdo
+
+Troškovi	trošak	Ncmpn
+plaća	plaća	Ncfpg
+i	i	Cc
+naknada	naknada	Ncfsn
+plaća	plaća	Ncfpg
+isplaćenih	isplatiti	Appfpgy
+osoblju	osoblje	Ncnsl
+(	(	Z
+neto	neto	Agpnsny
+)	)	Z
+30.	30.	Mdo
+
+Troškovi	trošak	Ncmpn
+poreza	porez	Ncmsg
+,	,	Z
+prireza	prirez	Ncmsg
+i	i	Cc
+doprinosa	doprinos	Ncmpg
+iz	iz	Sg
+i	i	Cc
+na	na	Sa
+plaće	plaća	Ncfpa
+i	i	Cc
+naknade	naknada	Ncfpa
+plaća	plaća	Ncfpg
+31.	31.	Mdo
+
+Troškovi	trošak	Ncmpn
+naknada	naknada	Ncfpg
+osoblju	osoblje	Ncnsd
+(	(	Z
+osim	osim	Sg
+dnevnica	dnevnica	Ncfpg
+)	)	Z
+32.	32.	Mdo
+
+Primici	primitak	Ncmpn
+u	u	Sl
+naravi	narav	Ncfsl
+33.	33.	Mdo
+
+Otpremnine	otpremnina	Ncfpn
+34.	34.	Mdo
+
+Kamatni	kamatan	Agpmpny
+troškovi	trošak	Ncmpn
+za	za	Sa
+primljene	primljen	Agpmpay
+kredite	kredit	Ncmpa
+od	od	Sg
+banaka	banka	Ncfpg
+35.	35.	Mdo
+
+Kamatni	kamatan	Agpmpny
+prihodi	prihod	Ncmpn
+od	od	Sg
+depozita	depozit	Ncmsg
+kod	kod	Sg
+banaka	banka	Ncfpg
+
+G	G	Npmsn
+)	)	Z
+Dodatni	dodatan	Agpmpny
+podaci	podatak	Ncmpn
+za	za	Sa
+društva	društvo	Ncnpa
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+UCTIS	uct	Agpmpiy
+fondovima	fond	Ncmpi
+i	i	Cc
+društva	društvo	Ncnsg
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+alternativnim	alternativan	Agpmpiy
+investicijskim	investicijski	Agpmpiy
+fondovima	fond	Ncmpi
+
+Oznaka	oznaka	Ncfsn
+pozicije	pozicija	Ncfsg
+Naziv	naziv	Ncmsn
+pozicije	pozicija	Ncfsg
+IZVJEŠTAJ	izvještaj	Ncmsn
+O	o	Sl
+FINANCIJSKOM	financijski	Agpmsly
+POLOŽAJU	položaj	Ncmsl
+1.	1.	Mdo
+Goodwill	Goodwill	Xf
+–	–	Z
+bruto	bruto	Rgp
+2.	2.	Mdo
+Goodwill	Goodwill	Npfsn
+–	–	Z
+neto	neto	Agpmpny
+3.	3.	Agpmpny
+Računalni	računalni	Agpmpny
+programi	program	Ncmpn
+–	–	Z
+bruto	bruto	Ncmsn
+4.	4.	Mdo
+Računalni	računalni	Agpmpny
+programi	program	Ncmpn
+–	–	Z
+neto	neto	Rgp
+5.	5.	Mdo
+Licence	licenca	Ncfsg
+,	,	Z
+patenti	patent	Ncmpn
+i	i	Cc
+zaštitni	zaštitni	Agpmpny
+znakovi	znak	Ncmpn
+6.	6.	Mdo
+Ulaganja	ulaganje	Ncnsg
+radi	radi	Sg
+poboljšanja	poboljšanje	Ncnsg
+funkcionalnosti	funkcionalnost	Ncfsg
+tuđe	tuđ	Agpfsgy
+imovine	imovina	Ncfsg
+za	za	Sa
+vrijeme	vrijeme	Ncnsa
+dugoročnog	dugoročan	Agpmsgy
+poslovnog	poslovan	Agpmsgy
+najma	najam	Ncmsg
+–	–	Z
+bruto	bruto	Rgp
+7.	7.	Mdo
+Ulaganja	ulaganje	Ncnsg
+radi	radi	Sg
+poboljšanja	poboljšanje	Ncnsg
+funkcionalnosti	funkcionalnost	Ncfsg
+tuđe	tuđ	Agpfsgy
+imovine	imovina	Ncfsg
+za	za	Sa
+vrijeme	vrijeme	Ncnsa
+dugoročnog	dugoročan	Agpmsgy
+poslovnog	poslovan	Agpmsgy
+najma	najam	Ncmsg
+–	–	Z
+neto	neto	Agpfsny
+8.	8.	Mdo
+Ostala	ostali	Agpfsny
+dugotrajna	dugotrajan	Agpfsny
+nematerijalna	nematerijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Z
+bruto	bruto	Rgp
+9.	9.	Mdo
+Ostala	ostali	Agpfsny
+dugotrajna	dugotrajan	Agpfsny
+nematerijalna	nematerijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Sl
+neto	neto	Agpnsay
+10.	10.	Ncnsa
+
+Zemljišta	zemljište	Ncnpn
+–	–	Z
+bruto	bruto	Rgp
+11.	11.	Mdo
+
+Zemljišta	zemljište	Ncnpn
+–	–	Z
+neto	neto	Agpnsay
+12.	12.	Ncnsa
+
+Građevinski	građevinski	Agpmpny
+objekti	objekt	Ncmpn
+–	–	Z
+bruto	bruto	Rgp
+13.	13.	Mdo
+
+Građevinski	građevinski	Agpmpny
+objekti	objekt	Ncmpn
+–	–	Z
+neto	neto	Agpnsay
+14.	14.	Ncnsa
+
+Uredska	uredski	Agpfsny
+oprema	oprema	Ncfsn
+–	–	Z
+bruto	brutti	Vmp-sm
+15.	15.	Mdo
+
+Uredska	uredski	Agpfsny
+oprema	oprema	Ncfsn
+–	–	Z
+neto	neto	Agpnsay
+16.	16.	Ncnsa
+
+Transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+–	–	Z
+bruto	bruto	Rgp
+17.	17.	Mdo
+
+Transportni	transportni	Agpmpny
+uređaji	uređaj	Ncmpn
+–	–	Z
+neto	neto	Agpnsay
+18.	18.	Ncnsa
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Z
+bruto	brutti	Vmp-sm
+19.	19.	Mdo
+
+Ostala	ostali	Agpfsny
+materijalna	materijalan	Agpfsny
+imovina	imovina	Ncfsn
+–	–	Z
+neto	neto	Agpfsny
+IZVJEŠTAJ	izvještaj	Ncmsan
+O	o	Sl
+SVEOBUHVATNOJ	sveobuhvatan	Agpfsly
+DOBITI	dobit	Ncfsl
+20.	20.	Mdo
+
+Materijalni	materijalan	Agpmpny
+troškovi	trošak	Ncmpn
+21.	21.	Mdo
+
+Troškovi	trošak	Ncmpn
+usluga	usluga	Ncfpg
+22.	22.	Mdo
+
+Ostali	ostali	Agpmpny
+administrativni	administrativan	Agpmpny
+troškovi	trošak	Ncmpn
+23.	23.	Mdo
+u	u	Sl
+tome	taj	Pd-nsl
+:	:	Z
+troškovi	trošak	Ncmpn
+osobnih	osoban	Agpmpgy
+automobila	automobil	Ncmpg
+i	i	Cc
+drugih	drugi	Mlompg
+sredstava	sredstvo	Ncnpg
+za	za	Sa
+osobni	osoban	Agpmsayn
+prijevoz	prijevoz	Ncmsan
+24.	24.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+bruto	bruto	Agpmpay
+autorske	autorski	Agpmpay
+honorare	honorar	Ncmpa
+i	i	Cc
+ugovore	ugovor	Ncmpa
+o	o	Sl
+djelu	djelo	Ncnsl
+samo	samo	Rgp
+za	za	Sa
+fizičke	fizički	Agpfpay
+osobe	osoba	Ncfpa
+koje	koji	Pi-fpn
+nemaju	nemati	Vmr3p
+registriranu	registriran	Agpfsay
+djelatnost	djelatnost	Ncfsa
+25.	25.	Mdo
+
+Izdaci	izdatak	Ncmpn
+za	za	Sa
+rad	rad	Ncmsan
+ostvaren	ostvariti	Appmsnn
+preko	preko	Sg
+studentskih	studentski	Agpnpgy
+i	i	Cc
+učeničkih	učenički	Agpmpgy
+servisa	servis	Ncmpg
+26.	26.	Mdo
+
+Premije	premija	Ncfsg
+osiguranja	osiguranje	Ncnsg
+(	(	Z
+bruto	brut	Agpnsny
+)	)	Z
+27.	27.	Mdo
+
+Porezi	porez	Ncmpn
+koji	koji	Pi-mpn
+ne	ne	Qz
+ovise	ovisiti	Vmr3p
+o	o	Sl
+dobitku	dobitak	Ncmsl
+i	i	Cc
+pristojbe	pristojba	Ncfsg
+28.	28.	Mdo
+
+Stipendije	stipendija	Ncfpn
+29.	29.	Mdo
+
+Troškovi	trošak	Ncmpn
+neto	neto	Agpfpgy
+plaća	plaća	Ncfpg
+i	i	Cc
+naknada	naknada	Ncfsn
+plaća	plaća	Ncfpg
+osoblja	osoblje	Ncnsg
+30.	30.	Mdo
+
+Troškovi	trošak	Ncmpn
+poreza	porez	Ncmsg
+,	,	Z
+

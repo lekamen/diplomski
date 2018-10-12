@@ -1,0 +1,461 @@
+55	55	Mdc
+20.05.2015	20.05.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Vijeća	vijeće	Ncnsg
+za	za	Sa
+domovinsku	domovinski	Agpfsay
+sigurnost	sigurnost	Ncfsa
+Predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+
+PREDSJEDNICA	predsjednica	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1055	1055	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+odredbe	odredba	Ncfsg
+članka	članak	Ncmsg
+106.	106.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+56/90	56/90	Mds
+,	,	Z
+135/97	135/97	Mdc
+,	,	Z
+113/00	113/00	Mdc
+,	,	Z
+28/01	28/01	Mdc
+,	,	Z
+76/10	76/10	Mdc
+i	i	Cc
+5/14	5/14	Mdc
+–	–	Z
+Odluka	odluka	Ncfsn
+Ustavnog	ustavan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+Uredu	ured	Ncmsl
+predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+20/15	20/15	Mds
+)	)	Z
+,	,	Z
+donosim	donositi	Vmr1s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+OSNIVANJU	osnivanje	Ncnsl
+VIJEĆA	vijeće	Ncnsg
+ZA	za	Sa
+DOMOVINSKU	domovinski	Agpfsay
+SIGURNOST	sigurnost	Ncfsa
+PREDSJEDNICE	predsjednica	Ncfsg
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+I.	I.	Y
+
+Ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+osniva	osnivati	Vmr3s
+se	sebe	Px--sa
+Vijeće	vijeće	Ncnsn
+za	za	Sa
+domovinsku	domovinski	Agpfsay
+sigurnost	sigurnost	Ncfsa
+Predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+Vijeće	vijeće	Ncnsn
+)	)	Z
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+predsjednika	predsjednik	Ncmsay
+Vijeća	vijeće	Ncnsg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+umirovljeni	umirovljen	Agpmsny
+general-bojnik	general-bojnik	Ncmsn
+Damir	Damir	Npmsn
+Krstičević	Krstičević	Npmsn
+.	.	Z
+
+III	III	Mrc
+.	.	Z
+
+Za	za	Sa
+članove	član	Ncmpa
+Vijeća	vijeće	Ncnsg
+imenuju	imenovati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general	general	Ncmsn
+zbora	zbor	Ncmsg
+Pavao	Pavao	Npmsn
+Miljavac	Miljavac	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+admiral	admiral	Ncmsn
+Davor	Davor	Npmsn
+Domazet	Domazet	Npmsn
+–	–	Z
+Lošo	Lošo	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-pukovnik	general-pukovnik	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Krešimir	Krešimir	Npmsn
+Ćosić	Ćosić	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-pukovnik	general-pukovnik	Ncmsn
+Josip	Josip	Npmsn
+Čuletić	Čuletić	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-pukovnik	general-pukovnik	Ncmsn
+Ante	Ante	Npmsn
+Gotovina	Gotovina	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-pukovnik	general-pukovnik	Ncmsn
+Mladen	Mladen	Npmsn
+Markač	Markač	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-pukovnik	general-pukovnik	Ncmsn
+Marijan	Marijan	Npmsn
+Mareković	Mareković	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+viceadmiral	viceadmiral	Ncmsn
+Zdenko	Zdenko	Npmsn
+Simičić	Simičić	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-bojnik	general-bojnik	Ncmsn
+Miljenko	Miljenko	Npmsn
+Filipović	Filipović	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+general-bojnik	general-bojnik	Ncmsn
+Josip	Josip	Npmsn
+Štimac	Štimac	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+brigadni	brigadni	Agpmsny
+general	general	Ncmsn
+Ivan	Ivan	Npmsn
+Pokaz	Pokaz	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+komodor	komodor	Ncmsn
+Ivica	Ivica	Npmsn
+Tolić	Tolić	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+brigadir	brigadir	Ncmsn
+mr.	mr.	Y
+sc.	sc.	Y
+Zoran	Zoran	Npmsn
+Piličić	Piličić	Npmsn
+,	,	Z
+
+–	–	Agpmsny
+umirovljeni	umirovljen	Agpmsny
+pukovnik	pukovnik	Ncmsn
+Ante	Ante	Npmsn
+Šojić	Šojić	Npmsn
+,	,	Z
+
+–	–	Npfsn
+Željka	Željka	Npfsn
+Antunović	Antunović	Npfsn
+,	,	Z
+
+–	–	Z
+Ivan	Ivan	Npmsn
+Baketa	Baketa	Npmsn
+,	,	Z
+
+–	–	Z
+Stipe	Stipe	Npmsn
+Božić	Božić	Npmsn
+,	,	Z
+
+–	–	Z
+mr.	mr.	Y
+sc.	sc.	Y
+Nikola	Nikola	Npmsn
+Brzica	Brzica	Npmsn
+,	,	Z
+
+–	–	Z
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Vlatko	Vlatko	Npfsn
+Cvrtila	Cvrtila	Npfsn
+,	,	Z
+
+–	–	Z
+dr.	dr.	Y
+sc.	sc.	Y
+Filip	Filip	Npmsn
+Dragović	Dragović	Npmsn
+,	,	Z
+
+–	–	Npmsn
+Zlatko	Zlatko	Npmsn
+Gareljić	Gareljić	Npmsn
+,	,	Z
+
+–	–	Z
+mr.	mr.	Y
+sc.	sc.	Y
+Gordan	Gordan	Npmsn
+Kolak	Kolak	Npmsn
+i	i	Cc
+
+–	–	Z
+Damir	Damir	Npmsn
+Vanđelić	Vanđelić	Npmsn
+.	.	Z
+
+Za	za	Sa
+tajnika	tajnik	Ncmsay
+Vijeća	vijeće	Ncnsg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+mr.	mr.	Y
+sc.	sc.	Y
+Gordan	Gordan	Npmsn
+Kolak	Kolak	Npmsn
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Vijeće	vijeće	Ncnsn
+vodi	voditi	Vmr3s
+stručne	stručan	Agpfpay
+rasprave	rasprava	Ncfpa
+o	o	Sl
+pojedinim	pojedini	Agpnply
+pitanjima	pitanje	Ncnpl
+iz	iz	Sg
+područja	područje	Ncnsg
+nacionalne	nacionalan	Agpfsgy
+odnosno	odnosno	Rgp
+domovinske	domovinski	Agpfsgy
+sigurnosti	sigurnost	Ncfsg
+u	u	Sa
+svrhu	svrha	Ncfsa
+pripreme	priprema	Ncfsg
+odgovarajućih	odgovarajući	Agpfpgy
+stručnih	stručan	Agpfpgy
+podloga	podloga	Ncfpg
+i	i	Cc
+analiza	analiza	Ncfpg
+iz	iz	Sg
+navedenog	naveden	Agpnsgy
+područja	područje	Ncnsg
+te	te	Cc
+pružanja	pružanje	Ncnsg
+savjeta	savjet	Ncmsg
+Predsjednici	predsjednik	Ncmpn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+u	u	Sl
+izvršavanju	izvršavanje	Ncnsl
+Ustavom	ustav	Ncmsi
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+utvrđenih	utvrditi	Agpfsgy
+dužnosti	dužnost	Ncfsg
+i	i	Cc
+ovlasti	ovlast	Ncfsg
+.	.	Z
+
+V.	V.	Y
+
+Sjednice	sjednica	Ncfpn
+Vijeća	vijeće	Ncnsg
+saziva	sazivati	Vmr3s
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+na	na	Sa
+prijedlog	prijedlog	Ncmsan
+savjetnika	savjetnik	Ncmsg
+Predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+obranu	obrana	Ncfsa
+i	i	Cc
+nacionalnu	nacionalan	Agpfsay
+sigurnost	sigurnost	Ncfsa
+.	.	Z
+
+Stručne	stručan	Agpfpny
+i	i	Cc
+administrativne	administrativan	Agpmpay
+poslove	posao	Ncmpa
+za	za	Sa
+potrebe	potreba	Ncfpa
+Vijeća	vijeće	Ncnsg
+obavlja	obavljati	Vmr3s
+Kabinet	kabinet	Ncmsan
+za	za	Sa
+obranu	obrana	Ncfsa
+i	i	Cc
+nacionalnu	nacionalan	Agpfsay
+sigurnost	sigurnost	Ncfsa
+Ureda	ured	Ncmsg
+predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+sukladno	sukladno	Rgp
+uputama	uputa	Ncfpl
+savjetnika	savjetnik	Ncmsg
+Predsjednice	predsjednica	Ncfsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+za	za	Sa
+obranu	obrana	Ncfsa
+i	i	Cc
+nacionalnu	nacionalan	Agpfsay
+sigurnost	sigurnost	Ncfsa
+.	.	Z
+
+VI	VI	Mrc
+.	.	Z
+
+Vijeće	vijeće	Ncnsn
+donosi	donositi	Vmr3s
+poslovnik	poslovnik	Ncmsan
+o	o	Sl
+svom	svoj	Px-msl
+radu	rad	Ncmsl
+.	.	Z
+
+VII	vii	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+donošenja	donošenje	Ncnsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+020	020	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/06	03/06	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+71	71	Mdc
+-	-	Z
+05	05	Mdc
+-	-	Z
+03/1	03/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+14.	14.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednica	predsjednica	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Kolinda	Kolinda	Npfsg
+Grabar-Kitarović	Grabar-Kitarović	Npfsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

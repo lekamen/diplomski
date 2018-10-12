@@ -1,0 +1,858 @@
+statistike	statistika	Ncfpa
+,	,	Z
+putem	put	Sg
+elektroničke	elektronički	Agpfsgy
+pošte	pošta	Ncfsg
+na	na	Sa
+adresu	adresa	Ncfsa
+:	:	Z
+»	»	Z
+statistikaMP@pravosudje.hr	statistikaMP@pravosudje.hr	X
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+80.	80.	Mdo
+
+Standardna	standardan	Agpnpny
+statistička	statistički	Agpnpny
+izvješća	izvješće	Ncnpn
+su	biti	Var3p
+:	:	Z
+
+1.	1.	Mdo
+S1	S1	X
+.	.	Z
+1.1.	1.1.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+2.	2.	Mdo
+S1	S1	X
+.	.	Z
+1.2	1.2	Mdc
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+3.	3.	Mdo
+S1	S1	X
+.	.	Z
+1.3.	1.3.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+4.	4.	Mdo
+S1	S1	X
+.	.	Z
+3.1.	3.1.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+5.	5.	Mdo
+S1	S1	X
+.	.	Z
+3.2.	3.2.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+6.	6.	Mdo
+S1	S1	X
+.	.	Z
+3.3.	3.3.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+7.	7.	Mdo
+S1	S1	X
+.	.	Z
+4.1.	4.1.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+8.	8.	Mdo
+S1	S1	X
+.	.	Z
+4.2.	4.2.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+9.	9.	Mdo
+S1	S1	X
+.	.	Z
+4.3.	4.3.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+10.	10.	Mdo
+
+S1	S1	Qr
+.	.	Z
+4.4.	4.4.	Mds
+
+Neriješeni	neriješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+–	–	Z
+za	za	Sa
+datum	datum	Ncmsan
+dodjele	dodjela	Ncfsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+11.	11.	Mdo
+
+S1	S1	Qr
+.	.	Z
+5.1.	5.1.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+12.	12.	Mdo
+
+S1	S1	Qr
+.	.	Z
+5.2.	5.2.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+13.	13.	Mdo
+
+S1	S1	Qr
+.	.	Z
+5.3.	5.3.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+vrsti	vrsta	Ncfsl
+postupka	postupak	Ncmsg
+.	.	Z
+
+14.	14.	Mdo
+
+S1	S1	Qr
+.	.	Z
+7.1.	7.1.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+15.	15.	Mdo
+
+S1	S1	Qr
+.	.	Z
+7.2.	7.2.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+16.	16.	Mdo
+
+S1	S1	Qr
+.	.	Z
+7.3.	7.3.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+.	.	Z
+
+17.	17.	Mdo
+
+S1	S1	Qr
+.	.	Z
+8.1.	8.1.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+18.	18.	Mdo
+
+S1	S1	Qr
+.	.	Z
+8.2.	8.2.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+19.	19.	Mdo
+
+S1	S1	Qr
+.	.	Z
+8.3.	8.3.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+osnivanja	osnivanje	Ncnsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+20.	20.	Mdo
+
+S1	S1	Qr
+.	.	Z
+8.4.	8.4.	Mds
+
+Riješeni	riješen	Agpmpny
+predmeti	predmet	Ncmpn
+po	po	Sl
+godinama	godina	Ncfpl
+za	za	Sa
+datum	datum	Ncmsan
+dodjele	dodjela	Ncfsg
+–	–	Z
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+po	po	Sl
+sucu	sudac	Ncmsl
+.	.	Z
+
+21.	21.	Mdo
+
+S10	S10	X
+–	–	Z
+PSRP	psrp	Ncmsn
+–	–	Z
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+prosječnoj	prosječan	Agpfsly
+starosti	starost	Ncfsl
+riješenih	riješen	Agpmpgy
+predmeta	predmet	Ncmpg
+.	.	Z
+
+22.	22.	Mdo
+
+S11	S11	Mdm
+.	.	Z
+1.	1.	Mdo
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+broju	broj	Ncmsl
+i	i	Cc
+trajanju	trajanje	Ncnsl
+ročišta	ročište	Ncnsg
+po	po	Sl
+sucu	sudac	Ncmsl
+i	i	Cc
+sudskom	sudski	Agpmsly
+savjetniku	savjetnik	Ncmsl
+.	.	Z
+
+23.	23.	Mdo
+
+S11	S11	Mdm
+.	.	Z
+2.	2.	Mdo
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+broju	broj	Ncmsl
+i	i	Cc
+trajanju	trajanje	Ncnsl
+ročišta	ročište	Ncnsg
+po	po	Sl
+sucu	sudac	Ncmsl
+i	i	Cc
+sudskom	sudski	Agpmsly
+savjetniku	savjetnik	Ncmsl
+izraženo	izraziti	Appnsny
+u	u	Sl
+satima	sat	Ncmpl
+i	i	Cc
+minutama	minuta	Ncfpl
+.	.	Z
+
+24.	24.	Mdo
+
+S2	S2	Qr
+.	.	Z
+1.	1.	Mdo
+–	–	Z
+SSI	SS	Npmpn
+–	–	Z
+Sumarno	sumaran	Agpnsny
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+broju	broj	Ncmsl
+primljenih	primljen	Agpmpgy
+riješenih	riješen	Agpmpgy
+i	i	Cc
+neriješenih	neriješen	Agpmpgy
+predmeta	predmet	Ncmpg
+.	.	Z
+
+25.	25.	Mdo
+
+S2	S2	Qr
+.	.	Z
+2.	2.	Mdo
+–	–	Z
+SSI	SS	Npmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+–	–	Z
+za	za	Sa
+ispis	ispis	Ncmsan
+.	.	Z
+
+26.	26.	Mdo
+
+S2	S2	Qr
+.	.	Z
+5.	5.	Mdo
+–	–	Z
+SSI	SS	Npmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+stari	star	Agpmpny
+predmeti	predmet	Ncmpn
+–	–	Z
+Sumarno	sumaran	Agpnsny
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+broju	broj	Ncmsl
+primljenih	primljen	Agpmpgy
+riješenih	riješen	Agpmpgy
+i	i	Cc
+neriješenih	neriješen	Agpmpgy
+predmeta	predmet	Ncmpg
+po	po	Sl
+datumu	datum	Ncmsl
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+.	.	Z
+
+27.	27.	Mdo
+
+S2	S2	Qr
+.	.	Z
+6.	6.	Mdo
+–	–	Z
+SSI	SS	Npmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+stari	star	Agpmpny
+predmeti	predmet	Ncmpn
+–	–	Z
+Sumarno	sumaran	Agpnsny
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+broju	broj	Ncmsl
+primljenih	primljen	Agpmpgy
+riješenih	riješen	Agpmpgy
+i	i	Cc
+neriješenih	neriješen	Agpmpgy
+predmeta	predmet	Ncmpg
+–	–	Z
+po	po	Sl
+datumu	datum	Ncmsl
+osnivanja	osnivanje	Ncnsg
+.	.	Z
+
+28.	28.	Mdo
+
+S3	S3	Qr
+.	.	Z
+1.	1.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+(	(	Z
+u	u	Sl
+periodu	period	Ncmsl
+)	)	Z
+.	.	Z
+
+29.	29.	Mdo
+
+S3	S3	Qr
+.	.	Z
+2.	2.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+(	(	Z
+u	u	Sl
+periodu	period	Ncmsl
+)	)	Z
+s	sa	Si
+radnim	radni	Agpmpiy
+danima	dan	Ncmpi
+.	.	Z
+
+30.	30.	Mdo
+
+S4	S4	Qr
+.	.	Z
+2.	2.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+–	–	Z
+za	za	Sa
+ispis	ispis	Ncmsan
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+(	(	Z
+u	u	Sl
+periodu	period	Ncmsl
+)	)	Z
+.	.	Z
+
+31.	31.	Mdo
+
+S4	S4	Qr
+.	.	Z
+5.	5.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+stari	star	Agpmpny
+predmeti	predmet	Ncmpn
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+.	.	Z
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+(	(	Z
+u	u	Sl
+periodu	period	Ncmsl
+)	)	Z
+–	–	Z
+starost	starost	Ncfsn
+predmeta	predmet	Ncmpg
+po	po	Sl
+datumu	datum	Ncmsl
+osnivanja	osnivanje	Ncnsg
+.	.	Z
+
+32.	32.	Mdo
+
+S4	S4	Qr
+.	.	Z
+6.	6.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+skraćen	skratiti	Appmsnn
+stari	star	Agpmpny
+predmeti	predmet	Ncmpn
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+po	po	Sl
+upisnicima	upisnik	Ncmpl
+(	(	Z
+u	u	Sl
+periodu	period	Ncmsl
+)	)	Z
+–	–	Z
+starost	starost	Ncfsn
+predmeta	predmet	Ncmpg
+po	po	Sl
+datumu	datum	Ncmsl
+početka	početak	Ncmsg
+procesa	proces	Ncmsg
+.	.	Z
+
+33.	33.	Mdo
+
+S5	S5	Qr
+.	.	Z
+1.	1.	Mdo
+–	–	Z
+PSI	pas	Ncmpn
+–	–	Z
+Pojedinačno	pojedinačno	Rgp
+statističko	statistički	Agpnsny
+izvješće	izvješće	Ncnsn
+o	o	Sl
+radu	rad	Ncmsl
+sudskog	sudski	Agpnsgy
+osoblja	osoblje	Ncnsg
+po	po	Sl
+vrsti	vrsta	Ncfsl
+spora	spor	Ncmsg
+u	u	Sl
+periodu	period	Ncmsl
+.	.	Z
+
+34.	34.	Mdo
+
+S6	S6	Qr
+.	.	Z
+3.	3.	Mdo
+–	–	Z
+OPT	OPT	Npmsan
+–	–	Z
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+opterećenju	opterećenje	Ncnsl
+sudaca	sudac	Ncmpg
+i	i	Cc
+sudskih	sudski	Agpmpgy
+savjetnika	savjetnik	Ncmpg
+dodijeljenim	dodijeljen	Agpmpiy
+predmetima	predmet	Ncmpi
+.	.	Z
+
+35.	35.	Mdo
+
+S9	S9	Qr
+.	.	Z
+1.	1.	Mdo
+–	i	Agpnsny
+Izvješće	izvješće	Ncnsn
+o	o	Sl
+predmetima	predmet	Ncmpl
+ostavina	ostavina	Ncfpg
+(	(	Z
+primljeno	primiti	Appnsny
+,	,	Z
+riješeno	riješen	Agpnsny
+,	,	Z
+neriješeno	neriješen	Agpnsny
+)	)	Z
+–	–	Z
+sud	sud	Ncmsn
+i	i	Cc
+javni	javan	Agpmpny
+bilježnici	bilježnik	Ncmpn
+.	.	Z
+
+Članak	članak	Ncmsn
+81.	81.	Mdo
+
+Za	za	Sa
+potrebu	potreba	Ncfsa
+izrade	izrada	Ncfsg
+statističkih	statistički	Agpnpgy
+izvješća	izvješće	Ncnpg
+koriste	koristiti	Vmr3p
+se	sebe	Px--sa
+sljedeći	sljedeći	Agpmpny
+izrazi	izraz	Ncmpn
+:	:	Z
+
+1.	1.	Mdo
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+u	u	Sa
+sud	sud	Ncmsan
+–	–	Z
+datum	datum	Ncmsan
+zaprimanja	zaprimanje	Ncnsg
+prvog	prvi	Mlomsg
+podneska	podnesak	Ncmsg
+u	u	Sa
+sud	sud	Ncmsan
+,	,	Z
+
+2.	2.	Mdo
+datum	datum	Ncmsan
+pokretanja	pokretanje	Ncnsg
+postupka	postupak	Ncmsg
+–	–	Z
+datum	datum	Ncmsn
+kada	kada	Cs
+je	biti	Var3s
+podnesak	podnesak	Ncmsan
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+pokreće	pokretati	Vmr3s
+postupak	postupak	Ncmsn
+pred	pred	Si
+sudom	sud	Ncmsi
+prvi	prvi	Mlomsan
+puta	puta	Rgp
+zaprimljen	zaprimiti	Appmsnn
+u	u	Sl
+sudu	sud	Ncmsl
+,	,	Z
+
+3.	3.	Mdo
+trajanje	trajanje	Ncnsa
+rješavanja	rješavanje	Ncnsg
+predmeta	predmet	Ncmsg
+pred	pred	Si
+sudom	sud	Ncmsi
+–	–	Z
+broj	broj	Ncmsan
+dana	dan	Ncmpg
+od	od	Sg
+datuma	datum	Ncmsg
+zaprimanja	zaprimanje	Ncnsg
+u	u	Sa
+sud	sud	Ncmsan
+do	do	Sg
+datuma	datum	Ncmsg
+rješavanja	rješavanje	Ncnsg
+predmeta	predmet	Ncmpg
+,	,	Z
+
+4.	4.	Mdo
+starost	starost	Ncfsn
+neriješenog	neriješen	Agpmsgy
+predmeta	predmet	Ncmsg
+–	–	Z
+broj	broj	Ncmsan
+dana	dan	Ncmpg
+od	od	Sg
+datuma	datum	Ncmsg
+pokretanja	pokretanje	Ncnsg
+postupka	postupak	Ncmsg
+do	do	Sg
+datuma	datum	Ncmsg
+izrade	izrada	Ncfsg
+izvješća	izvješće	Ncnsg
+,	,	Z
+
+5.	5.	Mdo
+vrijeme	vrijeme	Ncnsa
+rješavanja	rješavanje	Ncnsg
+predmeta	predmet	Ncmpg
+u	u	Sl
+sudu	sud	Ncmsl
+–	–	Z
+broj	broj	Ncmsan
+dana	dan	Ncmpg
+od	od	Sg
+datuma	datum	Ncmsg
+

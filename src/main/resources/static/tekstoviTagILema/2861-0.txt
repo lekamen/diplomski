@@ -1,0 +1,162 @@
+9	9	Mdc
+27.01.2016	27.01.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+potpredsjednika	potpredsjednik	Ncmsg
+i	i	Cc
+člana	član	Ncmsg
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+210	210	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+4.	4.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+Nacionalnom	nacionalan	Agpnsly
+vijeću	vijeće	Ncnsl
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+82/06.	82/06.	Mds
+i	i	Cc
+35/09.	35/09.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+POTPREDSJEDNIKA	potpredsjednik	Ncmsg
+I	i	Cc
+ČLANA	ČLAN	Npmsg
+NACIONALNOG	nacionalan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+ZA	za	Sa
+PRAĆENJE	praćenje	Ncnsa
+PROVEDBE	provedba	Ncfsg
+STRATEGIJE	strategija	Ncfsg
+SUZBIJANJA	suzbijanje	Ncnsg
+KORUPCIJE	korupcija	Ncfsg
+
+I.	I.	Y
+
+U	u	Sa
+Nacionalno	nacionalan	Agpnsay
+vijeće	vijeće	Ncnsa
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+iz	iz	Sg
+reda	red	Ncmsg
+zastupnika	zastupnik	Ncmpg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+potpredsjednika	potpredsjednik	Ncmsay
+
+IVAN	Ivan	Npmsn
+ANUŠIĆ	ANUŠIĆ	Npmsn
+
+za	za	Sa
+člana	član	Ncmsay
+
+TOMISLAV	TOMISLAV	Npmsn
+ČULJAK	ČULJAK	Npmsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Mandat	mandat	Ncmsn
+članova	član	Ncmpg
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Nacionalnog	nacionalan	Agpmsgy
+programa	program	Ncmsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+traje	trajati	Vmr3s
+do	do	Sg
+isteka	istek	Ncmsg
+mandata	mandat	Ncmsg
+pojedinog	pojedini	Agpmsgy
+saziva	saziv	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/30	03/30	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+23.	23.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

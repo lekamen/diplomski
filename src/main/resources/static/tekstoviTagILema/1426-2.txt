@@ -1,0 +1,27 @@
+osoba	osoba	Ncfpg
+koje	koji	Pi-fpn
+obavljaju	obavljati	Vmr3p
+ribolov	ribolov	Ncmsan
+na	na	Sl
+moru	more	Ncnsl
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+potvrda	potvrda	Ncfsn
+izdaje	izdavati	Vmr3s
+se	sebe	Px--sa
+u	u	Sa
+svrhu	svrha	Ncfsa
+izdavanja	izdavanje	Ncnsg
+rješenja	rješenje	Ncnsg
+o	o	Sl
+ovlaštenju	ovlaštenje	Ncnsl
+.	.	Z
+
+Ministar	ministar	Ncmsn
+Tihomir	Tihomir	Npmsn
+Jakovina	Jakovina	Npmsn
+
+M.	M.	Y
+P.	P.	Y
+

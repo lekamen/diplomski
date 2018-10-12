@@ -1,0 +1,702 @@
+predmete	predmet	Ncmpa
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+Ikr	Ikr	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+IKž	ika	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+izvršavanja	izvršavanje	Ncnsg
+kazne	kazna	Ncfsg
+zatvora	zatvor	Ncmsg
+Kž	Kž	Npmsn
+I	i	Cc
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+zahtjeva	zahtjev	Ncmpg
+za	za	Sa
+isplatu	isplata	Ncfsa
+primjerene	primjeren	Agpfsgy
+naknade	naknada	Ncfsg
+zbog	zbog	Sg
+povrede	povreda	Ncfsg
+prava	pravo	Ncnsg
+na	na	Sa
+suđenje	suđenje	Ncnsa
+u	u	Sl
+razumnom	razuman	Agpmsly
+roku	rok	Ncmsl
+Kzp	Kzp	Npmsn
+II	ii	Mrc
+.	.	Z
+
+2.	2.	Mdo
+Za	za	Sa
+građanske	građanski	Agpmpay
+predmete	predmet	Ncmpa
+:	:	Z
+
+Parnični	parnični	Agpmsny
+upisnik	upisnik	Ncmsn
+P	P	X
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+građanske	građanski	Agpmpay
+predmete	predmet	Ncmpa
+Gž	ga	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+radne	radni	Agpmpay
+predmete	predmet	Ncmpa
+Gž	gi	Agpfsgy
+R	a	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+zemljišnoknjižne	zemljišnoknjižni	Agpmpay
+predmete	predmet	Ncmpa
+Gž	gi	Agpfsgy
+Zk	za	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+obiteljske	obiteljski	Agpmpay
+predmet	predmet	Ncmsn
+Gž	Gž	Npmsn
+Ob	Ob	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+ovršne	ovršni	Agpmpay
+predmete	predmet	Ncmpa
+Gž	Gž	Npfsn
+Ovr	Ovr	Npfsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+građanske	građanski	Agpmpay
+predmete	predmet	Ncmpa
+povodom	povod	Sg
+žalbi	žalba	Ncfpg
+na	na	Sa
+predmete	predmet	Ncmpa
+europskog	europski	Agpmsgy
+postupka	postupak	Ncmsg
+za	za	Sa
+sporove	spor	Ncmpa
+male	mali	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+Gž-eu	gž-ea	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+prema	prema	Sl
+Zakonu	zakon	Ncmsl
+o	o	Sl
+zaštiti	zaštita	Ncfsl
+osoba	osoba	Ncfpg
+s	sa	Si
+duševnim	duševan	Agpfpiy
+smetnjama	smetnja	Ncfpi
+R1		Agpfpiy
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+građanske	građanski	Agpmpay
+predmete	predmet	Ncmpa
+R2	ra	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+mirenja	mirenje	Ncnsg
+Mir	mir	Ncmsan
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+zahtjeva	zahtjev	Ncmpg
+za	za	Sa
+isplatu	isplata	Ncfsa
+primjerene	primjeren	Agpfsgy
+naknade	naknada	Ncfsg
+zbog	zbog	Sg
+povrede	povreda	Ncfsg
+prava	pravo	Ncnsg
+na	na	Sa
+suđenje	suđenje	Ncnsa
+u	u	Sl
+razumnom	razuman	Agpmsly
+roku	rok	Ncmsl
+Gzp	Gzp	Npmsn
+II	ii	Mrc
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+29.	29.	Mdo
+
+Članak	članak	Ncmsn
+189.	189.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Prekršajni	prekršajni	Agpmpny
+sudovi	sud	Ncmpn
+vode	voda	Ncfsg
+ove	ovaj	Pd-fsg
+upisnike	upisnik	Ncmpa
+:	:	Z
+
+Prekršajni	prekršajni	Agpmsny
+upisnik	upisnik	Ncmsn
+Pp	Pp	Y
+(	(	Z
+P	P	X
+,	,	Z
+G	g	Y
+,	,	Z
+J	j	Y
+)	)	Z
+
+Prekršajni	prekršajni	Agpmsny
+upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+Pp	p	Ncmsg
+(	(	Z
+Pž	Pž	Npmsn
+,	,	Z
+Gž	Gž	I
+,	,	Z
+Jž	Jž	Npmsn
+)	)	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+pravnu	pravni	Agpfsay
+pomoć	pomoć	Ncfsa
+Pom	Pom	Npnsa
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+izvršenja	izvršenje	Ncnsg
+prekršajnih	prekršajni	Agpfpgy
+sankcija	sankcija	Ncfpg
+Ikp	Ikp	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+prekršajne	prekršajni	Agpmpay
+zahtjeve	zahtjev	Ncmpa
+Prz	Prz	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+predmete	predmet	Ncmpa
+Pr	Pr	Npmsan
+
+Upisnik	upisnik	Ncmsn
+o	o	Sl
+izdanim	izdan	Agpfply
+i	i	Cc
+primljenim	primljen	Agpfply
+potvrdama	potvrda	Ncfpl
+u	u	Sa
+svrhu	svrha	Ncfsa
+priznanja	priznanje	Ncnsg
+i	i	Cc
+izvršenja	izvršenje	Ncnsg
+odluka	odluka	Ncfpg
+o	o	Sl
+novčanoj	novčan	Agpfsly
+kazni	kazna	Ncfsl
+između	između	Sg
+država	država	Ncfpg
+članica	članica	Ncfpg
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+Ikp-eu	Ikp-e	Npmsd
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+30.	30.	Mdo
+
+Članak	članak	Ncmsn
+190.	190.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Visoki	visok	Agpmsny
+prekršajni	prekršajni	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+vodi	voditi	Vmr3s
+ove	ovaj	Pd-mpa
+upisnike	upisnik	Ncmpa
+:	:	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+iz	iz	Sg
+područja	područje	Ncnsg
+sigurnosti	sigurnost	Ncfsg
+prometa	promet	Ncmsg
+na	na	Sl
+cestama	cesta	Ncfpl
+Pž		Agpfply
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+iz	iz	Sg
+područja	područje	Ncnsg
+gospodarstva	gospodarstvo	Ncnsg
+Gž	ga	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+iz	iz	Sg
+područja	područje	Ncnsg
+javnog	javan	Agpmsgy
+reda	red	Ncmsg
+i	i	Cc
+mira	mir	Ncmsg
+i	i	Cc
+javne	javan	Agpfsgy
+sigurnosti	sigurnost	Ncfsg
+Jž	ja	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+iz	iz	Sg
+područja	područje	Ncnsg
+poreznih	porezni	Agpnpgy
+,	,	Z
+carinskih	carinski	Agpfpgy
+i	i	Cc
+deviznih	devizni	Agpmpgy
+prekršaja	prekršaj	Ncmpg
+FPž	fpž	Ncfpg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+supletorne	supletoran	Agpfpay
+kazne	kazna	Ncfpa
+zatvora	zatvor	Ncmsg
+SZž	sza	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+izvanredne	izvanredan	Agpmpay
+pravne	pravni	Agpmpay
+lijekove	lijek	Ncmpa
+IU	i	Ncmpa
+i	i	Cc
+IP	IP	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+žalbe	žalba	Ncfpa
+na	na	Sa
+rješenja	rješenje	Ncnpa
+o	o	Sl
+oduzimanju	oduzimanje	Ncnsl
+predmeta	predmet	Ncmsg
+,	,	Z
+na	na	Sa
+nalog	nalog	Ncmsan
+za	za	Sa
+zadržavanje	zadržavanje	Ncnsa
+i	i	Cc
+dr.	dr.	Y
+IR	IR	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+prekršajne	prekršajni	Agpmpay
+predmete	predmet	Ncmpa
+R	a	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+zahtjeva	zahtjev	Ncmpg
+za	za	Sa
+isplatu	isplata	Ncfsa
+primjerene	primjeren	Agpfsgy
+naknade	naknada	Ncfsg
+zbog	zbog	Sg
+povrede	povreda	Ncfsg
+prava	pravo	Ncnsg
+na	na	Sa
+suđenje	suđenje	Ncnsa
+u	u	Sl
+razumnom	razuman	Agpmsly
+roku	rok	Ncmsl
+Pzp	Pzp	Npmsn
+II	ii	Mrc
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+31.	31.	Mdo
+
+Članak	članak	Ncmsn
+191.	191.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Trgovački	trgovački	Agpmpny
+sudovi	sud	Ncmpn
+vode	voditi	Vmr3p
+ove	ovaj	Pd-mpa
+upisnike	upisnik	Ncmpa
+:	:	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+trgovačke	trgovački	Agpmpay
+sporove	spor	Ncmpa
+P	P	Npfsg
+
+Upisnik	upisnik	Ncmsn
+predmeta	predmet	Ncmpg
+proslijeđenih	proslijediti	Appmpgy
+od	od	Sg
+javnog	javan	Agpmsgy
+bilježnika	bilježnik	Ncmsg
+po	po	Sl
+prigovoru	prigovor	Ncmsl
+na	na	Sa
+rješenje	rješenje	Ncnsa
+o	o	Sl
+ovrsi	ovrha	Ncfsl
+na	na	Sl
+temelju	temelj	Ncmsl
+vjerodostojne	vjerodostojan	Agpfsgy
+isprave	isprava	Ncfsg
+Povrv	Povrv	Npfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+platne	platni	Agpmpay
+naloge	nalog	Ncmpa
+Pl	PL	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+europskog	europski	Agpmsgy
+platnog	platni	Agpmsgy
+naloga	nalog	Ncmsg
+i	i	Cc
+europskog	europski	Agpmsgy
+postupka	postupak	Ncmsg
+za	za	Sa
+sporove	spor	Ncmpa
+male	mali	Agpfsgy
+vrijednosti	vrijednost	Ncfsg
+P-eu	p-ea	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+stečajeve	stečaj	Ncmpa
+i	i	Cc
+predstečajne	predstečajni	Agpfpay
+nagodbe	nagodba	Ncfpa
+St	St	Pi-fpn
+i	i	Cc
+Stpn	Stpn	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+ovrhu	ovrha	Ncfsa
+Ovr	Ovr	Npmsn
+i	i	Cc
+Ovrv	Ovrv	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+ovršnih	ovršni	Agpnpgy
+vijeća	vijeće	Ncnpg
+OV	OV	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+europskog	europski	Agpmsgy
+ovršnog	ovršni	Agpmsgy
+naloga	nalog	Ncmsg
+za	za	Sa
+nesporne	nesporan	Agpfpay
+tražbine	tražbina	Ncfpa
+te	te	Cc
+postupka	postupak	Ncmsg
+određivanja	određivanje	Ncnsg
+ovrhe	ovrha	Ncfsg
+na	na	Sl
+temelju	temelj	Ncmsl
+europskog	europski	Agpmsgy
+ovršnog	ovršni	Agpmsgy
+naloga	nalog	Ncmsg
+Ovr-eu	Ovr-e	Npmsd
+
+Upisnik	upisnik	Ncmsn
+sudskog	sudski	Agpmsgy
+registra	registar	Ncmsg
+Tt	Tt	Xf
+(	(	Z
+Obrazac	obrazac	Ncmsn
+br.	br.	Y
+21	21	Mdc
+)	)	Z
+
+Upisnik	upisnik	Ncmsn
+sudskog	sudski	Agpmsgy
+registra	registar	Ncmsg
+za	za	Sa
+razne	razni	Agpmpay
+predmete	predmet	Ncmpa
+R3	r	Ncmsg
+(	(	Z
+Obrazac	obrazac	Ncmsn
+br.	br.	Y
+22	22	Mdc
+)	)	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+izvanparnične	izvanparnični	Agpmpay
+predmete	predmet	Ncmpa
+R1	ra	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+priznanje	priznanje	Ncnsa
+i	i	Cc
+ovrhu	ovrha	Ncfsa
+sudskih	sudski	Agpfpgy
+odluka	odluka	Ncfpg
+iz	iz	Sg
+država	država	Ncfpg
+članica	članica	Ncfpg
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+R1-eu	r1-ea	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+predmete	predmet	Ncmpa
+trgovačkih	trgovački	Agpmpgy
+sporova	spor	Ncmpg
+R2	ra	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+pravnu	pravni	Agpfsay
+pomoć	pomoć	Ncfsa
+Pom	Pom	Npnsa
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+pravnu	pravni	Agpfsay
+pomoć	pomoć	Ncfsa
+s	sa	Si
+državama	država	Ncfpi
+članicama	članica	Ncfpi
+Europske	europski	Agpfsgy
+unije	unija	Ncfsg
+Pom-eu	pom-ea	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+mirenja	mirenje	Ncnsg
+Mir	mir	Ncmsan
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+32.	32.	Mdo
+
+Članak	članak	Ncmsn
+192.	192.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Visoki	visok	Agpmsny
+trgovački	trgovački	Agpmsny
+sud	sud	Ncmsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+vodi	voditi	Vmr3s
+ove	ovaj	Pd-mpa
+upisnike	upisnik	Ncmpa
+:	:	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+drugostupanjske	drugostupanjski	Agpmpay
+predmete	predmet	Ncmpa
+trgovačkih	trgovački	Agpmpgy
+sporova	spor	Ncmpg
+Pž	pa	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+razne	razni	Agpmpay
+predmete	predmet	Ncmpa
+trgovačkih	trgovački	Agpmpgy
+sporova	spor	Ncmpg
+RTž	rta	Ncfsg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+zahtjeva	zahtjev	Ncmpg
+za	za	Sa
+isplatu	isplata	Ncfsa
+primjerene	primjeren	Agpfsgy
+naknade	naknada	Ncfsg
+zbog	zbog	Sg
+povrede	povreda	Ncfsg
+prava	pravo	Ncnsg
+na	na	Sa
+suđenje	suđenje	Ncnsa
+u	u	Sl
+razumnom	razuman	Agpmsly
+roku	rok	Ncmsl
+Gzp	Gzp	Npmsn
+II	ii	Mrc
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+predmete	predmet	Ncmpa
+mirenja	mirenje	Ncnsg
+Mir	mir	Ncmsan
+.	.	Z
+«	«	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+33.	33.	Mdo
+
+Članak	članak	Ncmsn
+193.	193.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Upravni	upravan	Agpmpny
+sudovi	sud	Ncmpn
+vode	voda	Ncfsg
+ove	ovaj	Pd-fsg
+upisnike	upisnik	Ncmpa
+:	:	Z
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+ocjenu	ocjena	Ncfsa
+zakonitosti	zakonitost	Ncfsg
+pojedinačne	pojedinačan	Agpfsgy
+odluke	odluka	Ncfsg
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+i	i	Cc
+ocjenu	ocjena	Ncfsa
+zakonitosti	zakonitost	Ncfsg
+propuštanja	propuštanje	Ncnsg
+donošenja	donošenje	Ncnsg
+pojedinačne	pojedinačan	Agpfsgy
+odluke	odluka	Ncfsg
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+UsI	usi	Ncfpg
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+ocjenu	ocjena	Ncfsa
+zakonitosti	zakonitost	Ncfsg
+postupanja	postupanje	Ncnsg
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+i	i	Cc
+propuštanja	propuštanje	Ncnsg
+postupanja	postupanje	Ncnsg
+javnopravnog	javnopravni	Agpnsgy
+tijela	tijelo	Ncnsg
+Uszp	Uszp	Npmsn
+
+Upisnik	upisnik	Ncmsn
+za	za	Sa
+ocjenu	ocjena	Ncfsa
+zakonitosti	zakonitost	Ncfsg
+sklapanja	sklapanje	Ncnsg
+,	,	Z
+raskidanja	raskidanje	Ncnsg
+i	i	Cc
+izvršavanja	izvršavanje	Ncnsg
+

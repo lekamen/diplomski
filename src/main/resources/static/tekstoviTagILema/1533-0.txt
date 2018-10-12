@@ -1,0 +1,725 @@
+79	79	Mdc
+20.07.2015	20.07.2015	Agpmsny
+Naputak	naputak	Ncmsn
+o	o	Sl
+glomaznom	glomazan	Agpmsly
+otpadu	otpad	Ncmsl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+ZAŠTITE	zaštita	Ncfsg
+OKOLIŠA	okoliš	Ncmsg
+I	i	Cc
+PRIRODE	priroda	Ncfsg
+
+1534	1534	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+29.	29.	Mdo
+stavka	stavak	Ncmsg
+11.	11.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+održivom	održiv	Agpnsly
+gospodarenju	gospodarenje	Ncnsl
+otpadom	otpad	Ncmsi
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+94/13	94/13	Mds
+)	)	Z
+ministar	ministar	Ncmsn
+zaštite	zaštita	Ncfsg
+okoliša	okoliš	Ncmsg
+i	i	Cc
+prirode	priroda	Ncfsg
+donosi	donositi	Vmr3s
+
+NAPUTAK	naputak	Ncmsn
+
+O	o	Sl
+GLOMAZNOM	glomazan	Agpmsly
+OTPADU	otpad	Ncmsl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Ovim	ovaj	Pd-msi
+Naputkom	naputak	Ncmsi
+propisuje	propisivati	Vmr3s
+se	sebe	Px--sa
+popis	popis	Ncmsn
+vrsta	vrsta	Ncfpg
+predmeta	predmet	Ncmpg
+i	i	Cc
+tvari	tvar	Ncfpg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+smatraju	smatrati	Vmr3p
+krupnim	krupan	Agpmpiy
+(	(	Z
+glomaznim	glomazan	Agpnsiy
+)	)	Z
+komunalnim	komunalan	Agpmsiy
+otpadom	otpad	Ncmsi
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Popis	popis	Ncmsn
+vrsta	vrsta	Ncfpg
+predmeta	predmet	Ncmpg
+i	i	Cc
+tvari	tvar	Ncfpg
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+smatraju	smatrati	Vmr3p
+krupnim	krupan	Agpmpiy
+(	(	Z
+glomaznim	glomazan	Agpnsiy
+)	)	Z
+komunalnim	komunalan	Agpmsiy
+otpadom	otpad	Ncmsi
+i	i	Cc
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+mogu	moći	Vmr3p
+,	,	Z
+sukladno	sukladno	Rgp
+posebnom	poseban	Agpmsly
+propisu	propis	Ncmsl
+koji	koji	Pi-msn
+uređuje	uređivati	Vmr3s
+Katalog	katalog	Ncmsan
+otpada	otpad	Ncmsg
+,	,	Z
+kategorizirati	kategorizirati	Vmn
+ključnim	ključan	Agpmsiy
+brojem	broj	Ncmsi
+20	20	Mdc
+03	03	Mdc
+07	07	Mdc
+–	–	Z
+glomazni	glomazan	Agpmsny
+otpad	otpad	Ncmsn
+,	,	Z
+propisan	propisati	Appmsnn
+je	biti	Var3s
+Dodatkom	dodatak	Ncmsi
+ovog	ovaj	Pd-msg
+Naputka	naputak	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Popis	popis	Ncmsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+razvrstava	razvrstavati	Vmr3s
+vrste	vrsta	Ncfsg
+tvari	tvar	Ncfpg
+i	i	Cc
+predmeta	predmet	Ncmpg
+u	u	Sa
+skupine	skupina	Ncfpa
+prema	prema	Sl
+namjeni	namjena	Ncfsl
+tvari	tvar	Ncfpg
+i	i	Cc
+predmeta	predmet	Ncmpg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Popis	popis	Ncmsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+ne	ne	Qz
+uključuje	uključivati	Vmr3s
+tvari	tvar	Ncfpa
+i	i	Cc
+predmete	predmet	Ncmpa
+za	za	Sa
+koje	koji	Pi-mpa
+je	biti	Var3s
+posebnim	poseban	Agpmsiy
+propisom	propis	Ncmsi
+koji	koji	Pi-msn
+uređuje	uređivati	Vmr3s
+posebnu	poseban	Agpfsay
+kategoriju	kategorija	Ncfsa
+otpada	otpad	Ncmsg
+propisano	propisati	Appnsny
+da	da	Cs
+se	sebe	Px--sa
+smatraju	smatrati	Vmr3p
+otpadom	otpad	Ncmsi
+koji	koji	Pi-msn
+se	sebe	Px--sa
+svrstava	svrstavati	Vmr3s
+u	u	Sa
+tu	taj	Pd-fsa
+posebnu	poseban	Agpfsay
+kategoriju	kategorija	Ncfsa
+otpada	otpad	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Dodatak	dodatak	Ncmsn
+ovog	ovaj	Pd-msg
+Naputka	naputak	Ncmsg
+je	biti	Var3s
+tiskan	tiskati	Appmsnn
+uz	uz	Sa
+ovaj	ovaj	Pd-msan
+Naputak	naputak	Ncmsan
+i	i	Cc
+njegov	njegov	Ps3msn
+je	biti	Var3s
+sastavni	sastavan	Agpmsny
+dio	dio	Ncmsn
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Naputak	naputak	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+351	351	Mdc
+-	-	Z
+01/13	01/13	Mdc
+-	-	Z
+04/66	04/66	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+517	517	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Mihael	Mihael	Npmsn
+Zmajlović	Zmajlović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+DODATAK	dodatak	Ncmsn
+
+POPIS	popis	Ncmsn
+VRSTA	vrsta	Ncfpg
+PREDMETA	predmet	Ncmpg
+I	i	Cc
+TVARI	tvar	Ncfsg
+KOJI	koji	Pi-mpn
+SE	sebe	Px--sa
+SMATRAJU	smatrati	Vmr3p
+KRUPNIM	krupan	Agpmpiy
+(	(	Z
+GLOMAZNIM	glomazan	Agpnsiy
+)	)	Z
+KOMUNALNIM	komunalan	Agpmsiy
+OTPADOM	otpad	Ncmsi
+
+1.	1.	Mdo
+KUPAONSKA	kupaonski	Agpfsny
+OPREMA	oprema	Ncfsn
+
+kada	kada	Rgp
+(	(	Z
+plastična	plastičan	Agpfsny
+,	,	Z
+fiberstaklena	fiberstaklena	Ncfsn
+,	,	Z
+metalna	metalan	Agpfsny
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+tuš	tuš	Ncmsan
+kada	kada	Rgp
+,	,	Z
+sauna	sauna	Ncfsn
+
+kada	kada	Rgp
+za	za	Sa
+djecu	dijete	Ncnpa
+
+kupaonski	kupaonski	Agpmsny
+ormar	ormar	Ncmsn
+i	i	Cc
+police	polica	Ncfpa
+
+zavjesa	zavjesa	Ncfsn
+ili	ili	Cc
+pregrada	pregrada	Ncfsn
+za	za	Sa
+tuš	tuš	Ncmsan
+ili	ili	Cc
+kadu	kada	Ncfsa
+,	,	Z
+nosač	nosač	Ncmsan
+zavjese	zavjesa	Ncfsg
+(	(	Z
+karniša	karniš	Ncmpg
+)	)	Z
+
+umivaonik	umivaonik	Ncmsn
+
+toalet	toalet	Ncmsn
+i	i	Cc
+bide	bide	Ncmsan
+(	(	Z
+školjka	školjka	Ncfsn
+i	i	Cc
+daska	daska	Ncfsn
+)	)	Z
+
+slavina	slavina	Ncfsn
+za	za	Sa
+vodu	voda	Ncfsa
+,	,	Z
+nosač	nosač	Ncmsan
+tuša	tuš	Ncmsg
+,	,	Z
+i	i	Cc
+crijevo	crijevo	Ncnsa
+za	za	Sa
+tuš	tuš	Ncmsan
+
+stalak	stalak	Ncmsn
+za	za	Sa
+ručnike	ručnik	Ncmpa
+i	i	Cc
+sl.	sl.	Y
+
+ogledalo	ogledalo	Ncnsn
+
+2.	2.	Mdo
+STVARI	stvar	Ncfpn
+ZA	za	Sa
+DJECU	dijete	Ncnpa
+
+krevet	krevet	Ncmsn
+za	za	Sa
+dijete	dijete	Ncnsa
+
+stolica	stolica	Ncfsn
+i	i	Cc
+hodalica	hodalica	Ncfpg
+za	za	Sa
+dijete	dijete	Ncnsa
+
+veće	velik	Agcfsgy
+igračke	igračka	Ncfsg
+
+dječja	dječji	Agpnpny
+kolica	kolica	Ncnpn
+
+auto	auto	Ncmsn
+sjedalica	sjedalica	Ncfpg
+za	za	Sa
+dijete	dijete	Ncnsa
+
+3.	3.	Mdo
+PODNE	podni	Agpfsgy
+OBLOGE	obloga	Ncfsg
+
+tepih	tepih	Ncmsn
+,	,	Z
+laminat	laminat	Ncmsn
+,	,	Z
+linoleum	linoleum	Ncmsan
+,	,	Z
+parket	parket	Ncmsan
+,	,	Z
+krzno	krzno	Ncnsa
+i	i	Cc
+sl.	sl.	Y
+
+4.	4.	Mdo
+NAMJEŠTAJ	namještaj	Ncmsan
+
+ormar	ormar	Ncmsn
+,	,	Z
+komoda	komoda	Ncfsn
+,	,	Z
+ladičar	ladičar	Ncmsn
+,	,	Z
+vitrina	vitrina	Ncfsn
+,	,	Z
+noćni	noćni	Agpmsayn
+ormarić	ormarić	Ncmsan
+i	i	Cc
+sl.	sl.	Y
+
+polica	polica	Ncfsn
+(	(	Z
+npr.	npr.	Y
+ugradbena	ugradbeni	Agpfsny
+,	,	Z
+samostojeća	samostojeći	Agpfsny
+,	,	Z
+zidna	zidni	Agpfsny
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+stol	stol	Ncmsn
+(	(	Z
+npr.	npr.	Y
+radni	radni	Agpmsny
+,	,	Z
+za	za	Sa
+računalo	računalo	Ncnsa
+,	,	Z
+kuhinjski	kuhinjski	Agpmsayn
+,	,	Z
+za	za	Sa
+blagovaonu	blagovaona	Ncfsa
+,	,	Z
+toaletni	toaletni	Agpmpny
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+stolac	stolac	Ncmsn
+,	,	Z
+klupa	klupa	Ncfsn
+,	,	Z
+barska	barski	Agpfsny
+stolica	stolica	Ncfsn
+
+zidni	zidni	Agpmsny
+/	/	Z
+stolni	stolni	Agpmsny
+sat	sat	Ncmsn
+većih	velik	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+
+daska	daska	Ncfsn
+kod	kod	Sg
+uzglavlja	uzglavlje	Ncnsg
+kreveta	krevet	Ncmsg
+
+stalak	stalak	Ncmsn
+(	(	Z
+stolni	stolni	Agpmpny
+,	,	Z
+zidni	zidni	Agpmpny
+za	za	Sa
+npr.	npr.	Agpmsayn
+tv	TV	Ncmsan
+/	/	Z
+hi-fi	hi-fi	Ncmsn
+)	)	Z
+
+fotelja	fotelja	Ncfsn
+,	,	Z
+naslonjač	naslonjač	Ncmsn
+,	,	Z
+krevet	krevet	Ncmsan
+,	,	Z
+tabure	tabure	Ncmsan
+
+madrac	madrac	Ncmsn
+,	,	Z
+nadmadrac	nadmadrac	Ncmsn
+,	,	Z
+podnica	podnica	Ncfsn
+kreveta	krevet	Ncmsg
+
+okvir	okvir	Ncmsn
+za	za	Sa
+sliku	slika	Ncfsa
+većih	velik	Agcfpgy
+dimenzija	dimenzija	Ncfpg
+
+prozorske	prozorski	Agpfsgy
+zaštitne	zaštitni	Agpfsgy
+rešetke	rešetka	Ncfsg
+i	i	Cc
+grilje	grilja	Ncfsg
+
+sobne	sobni	Agpfsgy
+pregrade	pregrada	Ncfsg
+
+5.	5.	Mdo
+KUHINJSKA	kuhinjski	Agpfsny
+OPREMA	oprema	Ncfsn
+
+kuhinjski	kuhinjski	Agpmpny
+elementi	element	Ncmpn
+(	(	Z
+ugradbeni	ugradbeni	Agpmpny
+,	,	Z
+samostojeći	samostojeći	Agpmpny
+i	i	Cc
+dr.	dr.	Y
+)	)	Z
+
+sudoper	sudoper	Rgp
+
+radna	radni	Agpfsny
+površina	površina	Ncfsn
+
+šank	šank	Ncmsn
+
+6.	6.	Mdo
+VRTNA	vrtni	Agpfsny
+OPREMA	oprema	Ncfsn
+
+ograda	ograda	Ncfsn
+i	i	Cc
+vrata	vrata	Ncnpa
+
+vrtni	vrtni	Agpmsny
+namještaj	namještaj	Ncmsn
+
+vrtni	vrtni	Agpmsny
+alat	alat	Ncmsn
+,	,	Z
+strojevi	stroj	Ncmpn
+za	za	Sa
+vrt	vrt	Ncmsan
+(	(	Z
+tačke	tačka	Ncfpa
+,	,	Z
+kosilica	kosilica	Ncfsn
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+sjenica	sjenica	Ncfsn
+za	za	Sa
+vrt	vrt	Ncmsan
+(	(	Z
+rastavljena	rastaviti	Appfsny
+na	na	Sa
+dijelove	dio	Ncmpa
+dimenzija	dimenzija	Ncfsn
+pogodnih	pogodan	Agpmpgy
+za	za	Sa
+prijevoz	prijevoz	Ncmsan
+)	)	Z
+
+drvo	drvo	Ncnsn
+(	(	Z
+izrezano	izrezati	Appnsny
+na	na	Sa
+dimenzije	dimenzija	Ncfpa
+pogodne	pogodan	Agpfpay
+za	za	Sa
+prijevoz	prijevoz	Ncmsan
+)	)	Z
+
+posuda	posuda	Ncfsn
+(	(	Z
+za	za	Sa
+npr.	npri	Agpnsay
+cvijeće	cvijeće	Ncnsa
+)	)	Z
+i	i	Cc
+postolje	postolje	Ncnsn
+/	/	Z
+nosač	nosač	Ncmsn
+većih	velik	Agcfpgy
+dimenzija	dimenzija	Ncfpg
+
+vrtni	vrtni	Agpmpny
+ukrasi	ukras	Ncmpn
+većih	velik	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+
+vrtna	vrtni	Agpfsny
+klupa	klupa	Ncfsn
+
+crijevo	crijevo	Ncnsa
+za	za	Sa
+vodu	voda	Ncfsa
+,	,	Z
+oprema	opremati	Vmr3s
+za	za	Sa
+razvođenje	razvođenje	Ncnsa
+vode	voda	Ncfsg
+te	te	Cc
+posude	posuda	Ncfsg
+za	za	Sa
+zalijevanje	zalijevanje	Ncnsa
+bilja	bilje	Ncnsg
+
+ljuljačka	ljuljačka	Ncfsn
+
+suncobran	suncobran	Ncmsn
+i	i	Cc
+stalak	stalak	Ncmsan
+za	za	Sa
+suncobran	suncobran	Ncmsan
+
+sklopivi	sklopiv	Agpmsny
+bazen	bazen	Ncmsn
+
+roštilj	roštilj	Ncmsn
+
+7.	7.	Mdo
+OSTALI	ostali	Agpmsayn
+GLOMAZNI	glomazan	Agpmsayn
+OTPAD	otpad	Ncmsan
+
+rolete	roleta	Ncfpa
+,	,	Z
+žaluzine	žaluzina	Ncfsg
+,	,	Z
+tende	tenda	Ncfsg
+i	i	Cc
+sl.	sl.	Y
+
+ljestve	ljestve	Ncfpa
+i	i	Cc
+samostojeće	samostojeći	Agpfsgy
+stepenice	stepenica	Ncfsg
+
+zavjese	zavjesa	Ncfsg
+i	i	Cc
+nosači	nosač	Ncmpn
+zavjesa	zavjesa	Ncfpg
+
+vrata	vrata	Ncnpn
+(	(	Z
+npr.	npr.	Y
+sobna	sobni	Agpfsny
+,	,	Z
+ulazna	ulazan	Agpfsny
+i	i	Cc
+dr.	dr.	Y
+)	)	Z
+
+staklo	staklo	Ncnsn
+(	(	Z
+okno	okno	Ncnsn
+)	)	Z
+
+prozor	prozor	Ncmsn
+,	,	Z
+prozorski	prozorski	Agpmsny
+okvir	okvir	Ncmsn
+
+invalidska	invalidski	Agpnpny
+kolica	kolica	Ncnpn
+
+dekorativni	dekorativan	Agpmpny
+predmeti	predmet	Ncmpn
+većih	velik	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+
+oprema	oprema	Ncfsn
+za	za	Sa
+kućne	kućni	Agpmpay
+ljubimce	ljubimac	Ncmpa
+većih	velik	Agpfpgy
+dimenzija	dimenzija	Ncfpg
+(	(	Z
+akvarij	akvarij	Ncmsn
+,	,	Z
+žičani	žičan	Agpmsayn
+kavez	kavez	Ncmsan
+,	,	Z
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+sprave	sprava	Ncfpa
+za	za	Sa
+vježbanje	vježbanje	Ncnsa
+i	i	Cc
+veća	velik	Agcfsny
+oprema	oprema	Ncfsn
+za	za	Sa
+sport	sport	Ncmsan
+i	i	Cc
+rekreaciju	rekreacija	Ncfsa
+(	(	Z
+bicikl	bicik	Ncmsan
+,	,	Z
+daska	daska	Ncfsn
+za	za	Sa
+jedrenje	jedrenje	Ncnsa
+/	/	Z
+jahanje	jahanje	Ncnsa
+na	na	Sl
+valovima	val	Ncmpl
+,	,	Z
+kajak	kajak	Ncmsan
+,	,	Z
+kanu	kan	Ncmsl
+,	,	Z
+pedalina	pedalina	Ncfsn
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+
+radijator	radijator	Ncmsn
+
+kante	kanta	Ncfpa
+i	i	Cc
+posude	posuda	Ncfpa
+većih	velik	Agcfpgy
+dimenzija	dimenzija	Ncfpg
+
+tapete	tapeta	Ncfpa
+
+daska	daska	Ncfsn
+za	za	Sa
+glačanje	glačanje	Ncnsa
+
+okvir	okvir	Ncmsn
+za	za	Sa
+sušenje	sušenje	Ncnsa
+rublja	rublje	Ncnsg
+

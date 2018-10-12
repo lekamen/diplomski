@@ -1,0 +1,791 @@
+(	(	Z
+Nediljkov	Nediljkov	Npmsn
+)	)	Z
+ŠUĆUR	ŠUĆUR	Npmsn
+
+2169.	2169.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+KAZIMIR	KAZIMIR	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ŠUPER	ŠUPER	Npmsn
+
+2170.	2170.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Mihovilov	Mihovilov	Npmsn
+)	)	Z
+ŠUŠAK	ŠUŠAK	Npmsn
+
+2171.	2171.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Marinkov	Marinkov	Npmsn
+)	)	Z
+ŠUŠIĆ	ŠUŠIĆ	Npmsn
+
+2172.	2172.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Borislavov	Borislavov	Npmsn
+)	)	Z
+ŠVAĐUMOVIĆ	ŠVAĐUMOVIĆ	Npmsn
+
+2173.	2173.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+PERO	pero	Ncnsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+TADIĆ	Tadić	Npmsn
+
+2174.	2174.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+TALAS	TALAS	Npmsn
+
+2175.	2175.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Rudijev	Rudijev	Npmsn
+)	)	Z
+TARADI	taradi	Agpmpny
+
+2176.	2176.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MILENKO	MILENKO	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+TARLE	tarla	Ncfpn
+
+2177.	2177.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+TATAJ	tatati	Vmm2s
+
+2178.	2178.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+TEPEŠ	tepsti	Vmr2s
+
+2179.	2179.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+TOMAS	TOMAS	Npmsn
+
+2180.	2180.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Valentinov	Valentinov	Npmsn
+)	)	Z
+TOMAŠIĆ	TOMAŠIĆ	Npmsn
+
+2181.	2181.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+FRANJO	FRANJO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+TOMINAC	TOMINAC	Npmsn
+
+2182.	2182.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+SINIŠA	SINIŠ	Npmsg
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+TOMLJANOVIĆ	TOMLJANOVIĆ	Npmsn
+
+2183.	2183.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+EDI	EDI	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+TOPIĆ	Topić	Npmsn
+
+2184.	2184.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+RENATO	renati	Agpnsny
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+TRCOVIĆ	TRCOVIĆ	Npmsn
+
+2185.	2185.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+TROPČIĆ	TROPČIĆ	Npmsn
+
+2186.	2186.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MILJENKO	MILJENKO	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+TUĐAN	TUĐAN	Npmsn
+
+2187.	2187.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MATO	mati	Agpnsny
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+TURKALJ	turkalti	Vmm2s
+
+2188.	2188.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+TURŠĆAK	TURŠĆAK	Npmsn
+
+2189.	2189.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+TUTA	TUTA	Npmsn
+
+2190.	2190.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+RADOVIL	RADOVIL	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+VEKIĆ	VEKIĆ	Npmsn
+
+2191.	2191.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Mihaelov	Mihaelov	Npmsn
+)	)	Z
+VERČEVIĆ	VERČEVIĆ	Npmsn
+
+2192.	2192.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+VIDAK	VIDAK	Npmsn
+
+2193.	2193.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+VRAČIĆ	VRAČIĆ	Npmsn
+
+2194.	2194.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Marinkov	Marinkov	Npmsn
+)	)	Z
+VUIĆ	VUIĆ	Npmsn
+
+2195.	2195.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+VUK	vuk	Ncmsn
+
+2196.	2196.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Tadin	Tadin	Npmsn
+)	)	Z
+VUKOJA	vukoja	Ncfpn
+
+2197.	2197.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Krešin	Krešin	Npmsn
+)	)	Z
+VUKSAN	VUKSAN	Npmsn
+
+2198.	2198.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+VULETA	VULETA	I
+
+2199.	2199.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DEJAN	DEJAN	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+ZENZEROVIĆ	ZENZEROVIĆ	Npmsn
+
+2200.	2200.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+ZORAJA	ZORAJ	Npmsg
+
+2201.	2201.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ZUBAC	zubac	Ncmsn
+
+2202.	2202.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+JOSO	JOSO	Npmsn
+(	(	Z
+Slavin	Slavin	Npmsn
+)	)	Z
+ŽGELA	žgeti	Vmp-sf
+
+2203.	2203.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+ŽIVKOVIĆ	Živković	Npmsn
+
+2204.	2204.	Mdo
+nadnarednik	nadnarednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ŽLABRAVEC	ŽLABRAVEC	Npmsn
+
+2205.	2205.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+DAMIR	Damir	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+AJHORN	AJHORN	Npmsn
+
+2206.	2206.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+NIKICA	NIKICA	Npfsn
+(	(	Z
+Urošev	Urošev	Npmsn
+)	)	Z
+BOGAVČIĆ	BOGAVČIĆ	Npmsn
+
+2207.	2207.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npfsn
+)	)	Z
+BRALA	brati	Vmp-sf
+
+2208.	2208.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+JASMINKO	JASMINKO	Npmsn
+(	(	Z
+Ibrin	Ibrin	Npmsn
+)	)	Z
+DEMIROVIĆ	Demirović	Npmsn
+
+2209.	2209.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+NIKO	NIKO	Npmsn
+(	(	Z
+Borisov	Borisov	Npmsn
+)	)	Z
+ILIĆ	Ilić	Npmsn
+
+2210.	2210.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Npmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Anđelkov	Anđelkov	Npmsn
+)	)	Z
+KNEŽEVIĆ	Knežević	Npmsn
+
+2211.	2211.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+LUKETIĆ	LUKETIĆ	Npmsn
+
+2212.	2212.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Terezin	Terezin	Npmsn
+)	)	Z
+MIKULIĆ	Mikulić	Npmsn
+
+2213.	2213.	Mdo
+narednik	narednik	Ncmsn
+vojni	vojni	Agpmsny
+spec.	spec.	Y
+IVAN	Ivan	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+TRIPLAT	TRIPLAT	Npmsn
+
+2214.	2214.	Mdo
+narednica	narednica	Ncfsn
+ZLATKA	ZLATKA	Npfsn
+(	(	Z
+Zdravkova	Zdravkova	Npfsn
+)	)	Z
+ANDRAŠIĆ	ANDRAŠIĆ	Npmsn
+
+2215.	2215.	Mdo
+narednica	narednica	Ncfsn
+ALEKSANDRA	Aleksandra	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+BOBEK	BOBEK	Npmsn
+
+2216.	2216.	Mdo
+narednica	narednica	Ncfsn
+KRISTINA	KRISTIN	Npmsg
+(	(	Z
+Zvonimirova	Zvonimirova	Npfsn
+)	)	Z
+BRITVEC	BRITVEC	Npmsn
+
+2217.	2217.	Mdo
+narednica	narednica	Ncfsn
+MILKA	Milka	Npfsn
+(	(	Z
+Ilijina	Ilijina	Npfsn
+)	)	Z
+ČONDIĆ	ČONDIĆ	Npmsn
+
+2218.	2218.	Mdo
+narednica	narednica	Ncfsn
+VIŠNJICA	VIŠNJICA	Npfsn
+(	(	Z
+Željkova	Željkov	Aspfsny
+)	)	Z
+FABIJANAC	FABIJANAC	Npmsan
+
+2219.	2219.	Mdo
+narednica	narednica	Ncfsn
+GORANA	goranin	Ncmpg
+(	(	Z
+Franina	Franina	Npfsn
+)	)	Z
+KNEZOVIĆ	KNEZOVIĆ	Npmsn
+
+2220.	2220.	Mdo
+narednica	narednica	Ncfsn
+JASMINA	jasmin	Ncmpg
+(	(	Z
+Vladina	Vladina	Npfsn
+)	)	Z
+KOVAČEVIĆ	Kovačević	Npmsn
+
+2221.	2221.	Mdo
+narednica	narednica	Ncfsn
+IVANKA	Ivanka	Npfsn
+(	(	Z
+Antina	Antina	Npfsn
+)	)	Z
+MALBAŠA	MALBAŠA	Npmsn
+
+2222.	2222.	Mdo
+narednica	narednica	Ncfsn
+TANJA	Tanja	Npfsn
+(	(	Npfsn
+Ivanova	Ivanova	Npfsn
+)	)	Z
+MILAT	MILAT	Npmsn
+
+2223.	2223.	Mdo
+narednica	narednica	Ncfsn
+SNJEŽANA	SNJEŽANA	Npfsn
+(	(	Z
+Jurajeva	Jurajeva	Npfsn
+)	)	Z
+RUKAVINA	RUKAVINA	Npfsn
+
+2224.	2224.	Mdo
+narednica	narednica	Ncfsn
+IVA	Iva	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+ŠUNJIĆ	Šunjić	Npmsn
+
+2225.	2225.	Mdo
+narednica	narednica	Ncfsn
+BLAŽENKA	BLAŽENKA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+ŠUŠLJE	šušlja	Ncfsg
+
+2226.	2226.	Mdo
+narednik	narednik	Ncmsn
+DOMOGOJ	DOMOGOJ	Mro
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+AKRAP	AKRAP	Npmsn
+
+2227.	2227.	Mdo
+narednik	narednik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Ivičin	Ivičin	Npmsn
+)	)	Z
+ALKOVIĆ	ALKOVIĆ	Npmsn
+
+2228.	2228.	Mdo
+narednik	narednik	Ncmsn
+PETAR	PETAR	Npmsn
+(	(	Z
+Stipanov	Stipanov	Npmsn
+)	)	Z
+BABIĆ	Babić	Npmsn
+
+2229.	2229.	Mdo
+narednik	narednik	Ncmsn
+MATO	mati	Agpnsny
+(	(	Z
+Jandrin	Jandrin	Npmsn
+)	)	Z
+BADROV	badrov	Aspmsnn
+
+2230.	2230.	Mdo
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BAJAC	BAJAC	Npmsn
+
+2231.	2231.	Mdo
+narednik	narednik	Ncmsn
+KRUNOSLAV	KRUNOSLAV	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BALAŽ	BALAŽ	Npmsn
+
+2232.	2232.	Mdo
+narednik	narednik	Ncmsn
+JOZO	JOZO	Npmsn
+(	(	Z
+Stipin	Stipin	Npmsn
+)	)	Z
+BALIĆ	Balić	Npmsn
+
+2233.	2233.	Mdo
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+BARBA	barba	Ncfsn
+
+2234.	2234.	Mdo
+narednik	narednik	Ncmsn
+JOŠKO	JOŠKO	Npmsn
+(	(	Z
+Zdravkov	Zdravkov	Npmsn
+)	)	Z
+BARBIR	BARBIR	Npmsn
+
+2235.	2235.	Mdo
+narednik	narednik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Miroslavov	Miroslavov	Npmsn
+)	)	Z
+BARČAN	BARČAN	Npmsn
+
+2236.	2236.	Mdo
+narednik	narednik	Ncmsn
+MILENKO	MILENKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BARUNČIĆ	BARUNČIĆ	Npmsn
+
+2237.	2237.	Mdo
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BAŠIĆ	Bašić	Npmsn
+
+2238.	2238.	Mdo
+narednik	narednik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+BATUR	BATUR	Npmsn
+
+2239.	2239.	Mdo
+narednik	narednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BAZO	BAZO	Npmsn
+
+2240.	2240.	Mdo
+narednik	narednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BENGEZ	BENGEZ	Npmsn
+
+2241.	2241.	Mdo
+narednik	narednik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Osmanov	Osmanov	Npmsn
+)	)	Z
+BIŠČEVIĆ	Biščević	Npmsn
+
+2242.	2242.	Mdo
+narednik	narednik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BLAŽEVIĆ	Blažević	Npmsn
+
+2243.	2243.	Mdo
+narednik	narednik	Ncmsn
+JAROSLAV	JAROSLAV	Npmsn
+(	(	Z
+Romanov	Romanov	Npmsn
+)	)	Z
+BLOTNEJ	blotneti	Vmm2s
+
+2244.	2244.	Mdo
+narednik	narednik	Ncmsn
+TOMICA	TOMIC	Npmsg
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BORIĆ	borić	Ncmsan
+
+2245.	2245.	Mdo
+narednik	narednik	Ncmsn
+SINIŠA	SINIŠ	Npmsg
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+BOŽIĆ	Božić	Npmsn
+POLENEK	POLENEK	Npmsn
+
+2246.	2246.	Mdo
+narednik	narednik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Venerikov	Venerikov	Npmsn
+)	)	Z
+BOŽINOVIĆ	Božinović	Npmsn
+
+2247.	2247.	Mdo
+narednik	narednik	Ncmsn
+DANIEL	DANIEL	Npmsn
+(	(	Z
+Šandorov	Šandorov	Npmsn
+)	)	Z
+BREZOVAČKI	brezovački	Agpmsny
+
+2248.	2248.	Mdo
+narednik	narednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BRIJEŠKI	briješki	Agpmsny
+
+2249.	2249.	Mdo
+narednik	narednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Branimirov	Branimirov	Npmsn
+)	)	Z
+BRKOVIĆ	Brković	Npmsn
+
+2250.	2250.	Mdo
+narednik	narednik	Ncmsn
+JOSO	JOSO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+BUCIĆ	BUCIĆ	Npmsn
+
+2251.	2251.	Mdo
+narednik	narednik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Đermanov	Đermanov	Npmsn
+)	)	Z
+BUIĆ	BUIĆ	Npmsn
+
+2252.	2252.	Mdo
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+BUTERIN	BUTERIN	Npmsn
+
+2253.	2253.	Mdo
+narednik	narednik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+CEROVEC	CEROVEC	Npmsn
+
+2254.	2254.	Mdo
+narednik	narednik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+CEROVSKI	Cerovski	Npmsn
+
+2255.	2255.	Mdo
+narednik	narednik	Ncmsn
+TOMICA	TOMICA	Npfsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+CESNIK	cesnik	Ncmsn
+
+2256.	2256.	Mdo
+narednik	narednik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+CIK	cik	I
+
+2257.	2257.	Mdo
+narednik	narednik	Ncmsn
+DONKO	DONKO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+CURAĆ	CURAĆ	Npmsn
+
+2258.	2258.	Mdo
+narednik	narednik	Ncmsn
+NEDELJKO	NEDELJKO	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+CVETKOVIĆ	Cvetković	Npmsn
+
+2259.	2259.	Mdo
+narednik	narednik	Ncmsn
+RADOMIR	RADOMIR	Npmsn
+(	(	Z
+Draganov	Draganov	Npmsn
+)	)	Z
+CVIJANOVIĆ	Cvijanović	Npmsn
+
+2260.	2260.	Mdo
+narednik	narednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+ČADEK	ČADEK	Npmsn
+
+2261.	2261.	Mdo
+narednik	narednik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+ČAKARUN	ČAKARUN	Npmsn
+
+2262.	2262.	Mdo
+narednik	narednik	Ncmsn
+NINO	NINO	Npmsn
+(	(	Z
+Radoslavov	Radoslavov	Npmsn
+)	)	Z
+ČANKOVIĆ	ČANKOVIĆ	Npmsn
+
+2263.	2263.	Mdo
+narednik	narednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ČOLAK	ČOLAK	Npmsn
+
+2264.	2264.	Mdo
+narednik	narednik	Ncmsn
+ZORKO	ZORKO	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+

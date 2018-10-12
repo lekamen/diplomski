@@ -1,0 +1,97 @@
+92	92	Mdc
+14.10.2016	14.10.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+ministra	ministar	Ncmsg
+gospodarstva	gospodarstvo	Ncnsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+1956	1956	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+7.	7.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/11	150/11	Mdc
+i	i	Cc
+119/14	119/14	Mdc
+)	)	Z
+,	,	Z
+donosim	donositi	Vmr1s
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+MINISTRA	ministar	Ncmsg
+GOSPODARSTVA	gospodarstvo	Ncnsg
+
+1.	1.	Mdo
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+TOMISLAV	TOMISLAV	Npmsn
+PANENIĆ	PANENIĆ	Npmsn
+dužnosti	dužnost	Ncfsg
+ministra	ministar	Ncmsg
+gospodarstva	gospodarstvo	Ncnsg
+,	,	Z
+na	na	Sa
+osobni	osoban	Agpmsayn
+zahtjev	zahtjev	Ncmsan
+.	.	Z
+
+2.	2.	Mdo
+Ovo	ovaj	Pd-nsn
+Rješenje	rješenje	Ncnsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+donošenja	donošenje	Ncnsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+02/361	02/361	Mdc
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+13.	13.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

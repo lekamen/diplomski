@@ -1,0 +1,87 @@
+Danom	dan	Ncmsi
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovoga	ovaj	Pd-msg
+Statuta	statut	Ncmsg
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Statut	statut	Ncmsan
+Hrvatske	hrvatski	Agpfsgy
+komore	komora	Ncfsg
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+52/09.	52/09.	Mdo
+,	,	Z
+4/12.	4/12.	Mdo
+i	i	Cc
+81/13.	81/13.	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+76.	76.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Statut	statut	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+100	100	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/81	01/81	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+500	500	Mdc
+-	-	Z
+00	00	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+14.	14.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatske	hrvatski	Agpfsgy
+komore	komora	Ncfsg
+inženjera	inženjer	Ncmpg
+građevinarstva	građevinarstvo	Ncnsg
+Zvonimir	Zvonimir	Npmsn
+Sever	Sever	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+građ	građ	Ncmsan
+.	.	Z
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

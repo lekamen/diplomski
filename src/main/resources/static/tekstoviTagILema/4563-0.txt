@@ -1,0 +1,771 @@
+89	89	Mdc
+05.10.2016	05.10.2016	Xf
+Aneks	Aneks	Npmsn
+II	ii	Mrc
+Kolektivnom	kolektivan	Agpmsly
+ugovoru	ugovor	Ncmsl
+Uljanik	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+
+KOLEKTIVNI	kolektivan	Agpmpny
+UGOVORI	ugovor	Ncmpn
+
+1912	1912	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+odredbi	odredba	Ncfsl
+članaka	članak	Ncmpg
+192.	192.	Mdo
+–	–	Z
+204.	204.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+radu	rad	Ncmsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+93/14	93/14	Mds
+)	)	Z
+i	i	Cc
+Zakona	zakon	Ncmsg
+o	o	Sl
+reprezentativnosti	reprezentativnost	Ncfsl
+udruga	udruga	Ncfpg
+poslodavaca	poslodavac	Ncmpg
+i	i	Cc
+sindikata	sindikat	Ncmpg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+93/14	93/14	Mds
+)	)	Z
+
+ULJANIK	uljanik	Ncmsn
+Grupa	grupa	Ncfsn
+:	:	Z
+
+ULJANIK	uljanik	Ncmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+ULJANIK	uljanii	Agpnsny
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+3.	3.	Mdo
+MAJ	maj	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	di	Agpnsny
+,	,	Z
+Rijeka	Rijeka	Npfsn
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Strojogradnja	strojogradnja	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Proizvodnja	proizvodnja	Ncfsn
+opreme	oprema	Ncfsg
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+Vodnjan	Vodnjan	Npmsn
+,	,	Z
+
+ULJANIK	ULJANIK	Pd-mpn
+Brodograđevni	brodograđevni	Agpmpny
+projekti	projekt	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+ULJANIK	uljanii	Agpfpay
+Financije	financije	Ncfpa
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+ULJANIK	ULJANIK	Npmsn
+Standard	Standard	Npmsn
+d.o.o.	d.o.o.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+USCS	USCS	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+
+koje	koji	Pi-nsn
+zastupa	zastupati	Vmr3s
+punomoćnik	punomoćnik	Ncmsn
+Hrvoje	Hrvoje	Npmsn
+Markulinčić	Markulinčić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+direktor	direktor	Ncmsn
+ULJANIK	ULJANIK	Npmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+poslodavac	poslodavac	Ncmsn
+/	/	Z
+društvo	društvo	Ncnsn
+)	)	Z
+
+i	i	Cc
+
+Reprezentativni	reprezentativan	Agpmpny
+sindikati	sindikat	Ncmpn
+prema	prema	Sl
+Sporazumu	sporazum	Ncmsl
+sindikata	sindikat	Ncmpg
+:	:	Z
+
+SINDIKAT	sindikat	Ncmsn
+METALACA	metalac	Ncmpg
+HRVATSKE	Hrvatska	Npfsg
+–	–	Z
+INDUSTRIJSKI	industrijski	Agpmsny
+SINDIKAT	sindikat	Ncmsn
+,	,	Z
+kojeg	koji	Pi-msay
+zastupa	zastupati	Vmr3s
+Vedran	Vedran	Npmsn
+Dragičević	Dragičević	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+,	,	Z
+na	na	Sl
+razini	razina	Ncfsl
+poslodavca	poslodavac	Ncmsg
+:	:	Z
+
+ULJANIK	uljanik	Ncmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanii	Agpnsny
+Brodogradilište	brodogradilište	Ncnsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+3.	3.	Mdo
+MAJ	maj	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	di	Agpnsny
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Strojogradnja	strojogradnja	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Proizvodnja	proizvodnja	Ncfsn
+opreme	oprema	Ncfsg
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+
+ULJANIK	ULJANIK	Pd-mpn
+Brodograđevni	brodograđevni	Agpmpny
+projekti	projekt	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Standard	standard	Ncmsn
+d.o.o.	d.o.o.	Y
+
+SINDIKAT	sindikat	Ncmsn
+ISTRE	Istra	Npfsg
+,	,	Z
+KVARNERA	KVARNER	Npmsg
+I	i	Cc
+DALMACIJE	Dalmacija	Npfsg
+,	,	Z
+kojeg	koji	Pi-msay
+zastupa	zastupati	Vmr3s
+Rajko	Rajko	Npmsn
+Kutlača	kutlača	Ncfsn
+,	,	Z
+punomoćnik	punomoćnik	Ncmsn
+,	,	Z
+na	na	Sl
+razini	razina	Ncfsl
+poslodavca	poslodavac	Ncmsg
+:	:	Z
+
+ULJANIK	uljanik	Ncmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanii	Agpnsny
+Brodogradilište	brodogradilište	Ncnsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+3.	3.	Mdo
+MAJ	maj	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	di	Agpnsny
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Strojogradnja	strojogradnja	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Proizvodnja	proizvodnja	Ncfsn
+opreme	oprema	Ncfsg
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Standard	standard	Ncmsn
+d.o.o.	d.o.o.	Y
+
+JADRANSKI	jadranski	Agpmsny
+SINDIKAT	sindikat	Ncmsn
+,	,	Z
+kojeg	koji	Pi-msay
+zastupa	zastupati	Vmr3s
+Boris	Boris	Npmsn
+Cerovac	Cerovac	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+,	,	Z
+na	na	Sl
+razini	razina	Ncfsl
+poslodavca	poslodavac	Ncmsg
+:	:	Z
+
+ULJANIK	uljanik	Ncmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanii	Agpnsny
+Brodogradilište	brodogradilište	Ncnsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Strojogradnja	strojogradnja	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Proizvodnja	proizvodnja	Ncfsn
+opreme	oprema	Ncfsg
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+ULJANIK	ULJANIK	Pd-mpn
+Brodograđevni	brodograđevni	Agpmpny
+projekti	projekt	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Standard	standard	Ncmsn
+d.o.o.	d.o.o.	Y
+
+SINDIKAT	sindikat	Ncmsn
+3.	3.	Mdo
+MAJ	maj	Ncmsan
+,	,	Z
+kojeg	koji	Pi-msay
+zastupa	zastupati	Vmr3s
+Željko	Željko	Npmsn
+Maričić	Maričić	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+,	,	Z
+na	na	Sl
+razini	razina	Ncfsl
+poslodavca	poslodavac	Ncmsg
+:	:	Z
+
+ULJANIK	uljanik	Ncmsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+
+3.	3.	Mdo
+MAJ	maj	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	di	Agpnsny
+,	,	Z
+
+ULJANIK	uljanik	Ncmsn
+Poslovno	poslovno	Rgp
+informacijski	informacijski	Agpmpny
+sustavi	sustav	Ncmpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+te	te	Cc
+kao	kao	Cs
+jedini	jedini	Agpmsny
+sindikat	sindikat	Ncmsn
+koji	koji	Pi-msn
+djeluje	djelovati	Vmr3s
+na	na	Sl
+razini	razina	Ncfsl
+poslodavca	poslodavac	Ncmsg
+ULJANIK	ULJANI	Npmsg
+Financije	financije	Ncfpn
+d.o.o.	d.o.o.	Y
+,	,	Z
+
+SINDIKAT	sindikat	Ncmsn
+METALACA	metalac	Ncmpg
+HRVATSKE	Hrvatska	Npfsg
+–	–	Z
+INDUSTRIJSKI	industrijski	Agpmsny
+SINDIKAT	sindikat	Ncmsn
+,	,	Z
+
+kojeg	koji	Pi-msay
+zastupa	zastupati	Vmr3s
+Vedran	Vedran	Npmsn
+Dragičević	Dragičević	Npmsn
+,	,	Z
+predsjednik	predsjednik	Ncmsn
+
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+sindikat	sindikat	Ncmsn
+)	)	Z
+
+sklopili	sklopiti	Vmp-pm
+su	biti	Var3p
+31.	31.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+ANEKS	aneks	Ncmsn
+II	ii	Mrc
+
+KOLEKTIVNOM	kolektivan	Agpmsly
+UGOVORU	ugovor	Ncmsl
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Kolektivnom	kolektivan	Agpmsly
+ugovoru	ugovor	Ncmsl
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+i	i	Cc
+Aneksu	aneks	Ncmsl
+I	i	Cc
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+broj	broj	Ncmsn
+52/2015	52/2015	Mds
+i	i	Cc
+58/2016	58/2016	Mds
+)	)	Z
+,	,	Z
+članak	članak	Ncmsn
+12.	12.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+Članak	članak	Ncmsn
+12.	12.	Mdo
+
+Poslodavac	poslodavac	Ncmsn
+u	u	Sl
+skladu	sklad	Ncmsl
+sa	sa	Si
+Zakonom	zakon	Ncmsi
+o	o	Sl
+radu	rad	Ncmsl
+može	moći	Vmr3s
+uvesti	uvesti	Vmn
+rad	rad	Ncmsan
+duži	dug	Agcmsny
+od	od	Sg
+punoga	pun	Ncmsg
+,	,	Z
+odnosno	odnosno	Rgp
+nepunoga	nepun	Agpnsgy
+radnog	radni	Agpnsgy
+vremena	vrijeme	Ncnsg
+(	(	Z
+prekovremeni	prekovremeni	Agpmsny
+rad	rad	Ncmsn
+)	)	Z
+.	.	Z
+
+Ako	ako	Cs
+radnik	radnik	Ncmsn
+radi	raditi	Vmr3s
+prekovremeno	prekovremeno	Rgp
+,	,	Z
+ukupno	ukupan	Agpnsny
+trajanje	trajanje	Ncnsn
+rada	rad	Ncmsg
+radnika	radnik	Ncmpg
+ne	ne	Qz
+smije	smjeti	Vmr3s
+biti	biti	Van
+duže	dug	Agcnsny
+od	od	Sg
+50	50	Mdc
+sati	sat	Ncmpg
+tjedno	tjedno	Rgp
+.	.	Z
+
+Prekovremeni	prekovremeni	Agpmsny
+rad	rad	Ncmsn
+pojedinog	pojedini	Agpmsgy
+radnika	radnik	Ncmsg
+može	moći	Vmr3s
+trajati	trajati	Vmn
+duže	dugo	Rgc
+od	od	Sg
+180	180	Mdc
+,	,	Z
+ali	ali	Cc
+ne	ne	Qz
+duže	dugo	Rgc
+od	od	Sg
+250	250	Mdc
+sati	sat	Ncmpg
+godišnje	godišnje	Rgp
+,	,	Z
+sukladno	sukladno	Rgp
+posebnom	poseban	Agpmsly
+Sporazumu	sporazum	Ncmsl
+Poslodavca	poslodavac	Ncmsg
+i	i	Cc
+Sindikata	sindikat	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Članak	članak	Ncmsn
+75.	75.	Mdo
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+Članak	članak	Ncmsn
+75.	75.	Mdo
+
+Svaka	svaki	Pi-fsn
+ugovorna	ugovoran	Agpfsny
+strana	strana	Ncfsn
+ima	imati	Vmr3s
+pravo	pravo	Ncnsa
+predložiti	predložiti	Vmn
+izmjene	izmjena	Ncfpa
+i	i	Cc
+dopune	dopuna	Ncfsg
+kolektivnog	kolektivan	Agpmsgy
+ugovora	ugovor	Ncmsg
+.	.	Z
+
+Postupak	postupak	Ncmsan
+izmjena	izmjena	Ncfpg
+ili	ili	Cc
+dopuna	dopuna	Ncfsn
+pokreće	pokretati	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+pisanom	pisan	Agpmsly
+obliku	oblik	Ncmsl
+.	.	Z
+
+Druga	drugi	Mlofsn
+ugovorna	ugovoran	Agpfsny
+strana	strana	Ncfsn
+ima	imati	Vmr3s
+obvezu	obveza	Ncfsa
+očitovanja	očitovanje	Ncnsg
+na	na	Sa
+predložene	predložen	Agpfpay
+izmjene	izmjena	Ncfpa
+ili	ili	Cc
+dopune	dopuna	Ncfsg
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+.	.	Z
+
+U	u	Sl
+slučaju	slučaj	Ncmsl
+spora	spor	Ncmsg
+o	o	Sl
+sklapanju	sklapanje	Ncnsl
+,	,	Z
+izmjeni	izmjena	Ncfsl
+ili	ili	Cc
+obnovi	obnova	Ncfsl
+kolektivnog	kolektivan	Agpmsgy
+ugovora	ugovor	Ncmsg
+,	,	Z
+koji	koji	Pi-msn
+može	moći	Vmr3s
+dovesti	dovesti	Vmn
+do	do	Sg
+štrajka	štrajk	Ncmsg
+ili	ili	Cc
+drugog	drugi	Mlomsg
+oblika	oblik	Ncmsg
+industrijskih	industrijski	Agpfpgy
+akcija	akcija	Ncfpg
+,	,	Z
+ugovorne	ugovoran	Agpfsgy
+strane	strana	Ncfsg
+će	htjeti	Var3s
+spor	spor	Ncmsn
+riješiti	riješiti	Vmn
+sukladno	sukladno	Rgp
+odredbama	odredba	Ncfpi
+važećeg	važeći	Agpmsgy
+Zakona	zakon	Ncmsg
+o	o	Sl
+radu	rad	Ncmsl
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Članci	članak	Ncmpn
+76.	76.	Mdo
+,	,	Z
+77.	77.	Mdo
+,	,	Z
+78.	78.	Mdo
+i	i	Cc
+79.	79.	Mdo
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+Ostale	ostali	Agpfpny
+odredbe	odredba	Ncfpn
+Kolektivnog	kolektivan	Agpmsgy
+ugovora	ugovor	Ncmsg
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+ostaju	ostajati	Vmr3p
+neizmijenjene	neizmijenjena	Ncfpa
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Aneks	Aneks	Npmsn
+II	ii	Mrc
+Kolektivnom	kolektivan	Agpmsly
+ugovoru	ugovor	Ncmsl
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+sklapanja	sklapanje	Ncnsg
+,	,	Z
+a	a	Cc
+primjenjuje	primjenjivati	Vmr3s
+se	sebe	Px--sa
+prvoga	prvi	Mlomsg
+dana	dan	Ncmsg
+u	u	Sl
+sljedećem	sljedeći	Agpmsly
+mjesecu	mjesec	Ncmsl
+.	.	Z
+
+Članak	članak	Ncmsn
+6.	6.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Aneks	Aneks	Npmsn
+II	ii	Mrc
+Kolektivnom	kolektivan	Agpmsly
+ugovoru	ugovor	Ncmsl
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+sačinjen	sačiniti	Appmsnn
+je	biti	Var3s
+u	u	Sa
+10	10	Mdc
+(	(	Z
+deset	deset	Mlc
+)	)	Z
+istovjetnih	istovjetan	Agpmpgy
+primjeraka	primjerak	Ncmpg
+od	od	Sg
+kojih	koji	Pi-mpg
+po	po	Sa
+1	1	Mdc
+(	(	Z
+jedan	jedan	Mlcmsn
+)	)	Z
+zadržava	zadržavati	Vmr3s
+svaka	svaki	Pi-fsn
+ugovorna	ugovoran	Agpfsny
+strana	strana	Ncfsn
+,	,	Z
+a	a	Cc
+preostali	preostati	Vmp-pm
+se	sebe	Px--sa
+dostavljaju	dostavljati	Vmr3p
+nadležnom	nadležan	Agpnsly
+državnom	državni	Agpnsly
+tijelu	tijelo	Ncnsl
+radi	radi	Sg
+evidencije	evidencija	Ncfsg
+.	.	Z
+
+Aneks	aneks	Ncmsn
+II	ii	Sl
+Kolektivnom	kolektivan	Agpmsly
+ugovoru	ugovor	Ncmsl
+ULJANIK	uljanik	Ncmsn
+Grupe	grupa	Ncfsg
+objavljuje	objavljivati	Vmr3s
+se	sebe	Px--sa
+na	na	Sa
+način	način	Ncmsan
+propisan	propisati	Appmsnn
+Pravilnikom	pravilnik	Ncmsi
+ministra	ministar	Ncmsg
+nadležnog	nadležan	Agpmsgy
+za	za	Sa
+rad	rad	Ncmsan
+.	.	Z
+
+SINDIKAT	sindikat	Ncmsn
+POSLODAVAC	poslodavac	Ncmsn
+Punomoćnik	punomoćnik	Ncmsn
+za	za	Sa
+ULJANIK	ULJANIK	Npmsan
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+ULJANIK	uljanik	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	d.	Mro
+,	,	Z
+Pula	Pula	Npfsn
+,	,	Z
+3.	3.	Mdo
+MAJ	maj	Ncmsn
+Brodogradilište	brodogradilište	Ncnsn
+d.	da	Ncfsg
+d.	di	Agpnsny
+,	,	Z
+Rijeka	Rijeka	Npfsn
+,	,	Z
+

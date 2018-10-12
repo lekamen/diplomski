@@ -1,0 +1,59 @@
+jer	jer	Cs
+je	biti	Var3s
+ustavna	ustavan	Agpfsny
+tužba	tužba	Ncfsn
+udruga	udruga	Ncfsn
+podnositeljica	podnositeljica	Ncfpg
+u	u	Sl
+konkretnom	konkretan	Agpmsly
+slučaju	slučaj	Ncmsl
+nedopuštena	nedopušten	Agpfsny
+.	.	Z
+
+12.	12.	Mdo
+
+Objava	objava	Ncfsn
+ovog	ovaj	Pd-nsg
+rješenja	rješenje	Ncnsg
+(	(	Z
+točka	točka	Ncfsn
+II	ii	Mrc
+.	.	Z
+izreke	izreka	Ncfpn
+)	)	Z
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-551	U-III-551	Mds
+/	/	Z
+2015	2015	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+prosinca	prosinac	Ncmsg
+2015.	2015.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Jasna	Jasna	Npfsn
+Omejec	Omejec	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

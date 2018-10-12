@@ -1,0 +1,763 @@
+108	108	Mdc
+09.10.2015	09.10.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+donošenju	donošenje	Ncnsl
+Prostornog	prostoran	Agpmsgy
+plana	plan	Ncmsg
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Biokovo	Biokovo	Npnsn
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2100	2100	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+100.	100.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+prostornom	prostoran	Agpnsly
+uređenju	uređenje	Ncnsl
+i	i	Cc
+gradnji	gradnja	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+76/07.	76/07.	Mds
+,	,	Z
+38/09.	38/09.	Mds
+,	,	Z
+55/11.	55/11.	Mds
+,	,	Z
+90/11.	90/11.	Mds
+,	,	Z
+50/12.	50/12.	Mdo
+,	,	Z
+55/12.	55/12.	Mds
+i	i	Cc
+80/13.	80/13.	Mds
+)	)	Z
+,	,	Z
+a	a	Cc
+u	u	Sl
+vezi	veza	Ncfsl
+s	sa	Si
+člankom	članak	Ncmsi
+188.	188.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+prostornom	prostoran	Agpnsly
+uređenju	uređenje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+153/13.	153/13.	Mds
+)	)	Z
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+25.	25.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+DONOŠENJU	donošenje	Ncnsl
+PROSTORNOGA	prostoran	Agpmsgy
+PLANA	plan	Ncmsg
+PARKA	park	Ncmsg
+PRIRODE	priroda	Ncfsg
+BIOKOVO	biokova	Ncfsg
+
+I.	I.	Y
+
+Donosi	donositi	Vmr3s
+se	sebe	Px--sa
+Prostorni	prostoran	Agpmsny
+plan	plan	Ncmsn
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Biokovo	Biokovo	Npnsn
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+Plan	plan	Ncmsn
+)	)	Z
+.	.	Z
+
+Nositelj	nositelj	Ncmsn
+izrade	izrada	Ncfsg
+Plana	plan	Ncmsg
+je	biti	Var3s
+Ministarstvo	ministarstvo	Ncnsn
+graditeljstva	graditeljstvo	Ncnsg
+i	i	Cc
+prostornoga	prostoran	Agpnsgy
+uređenja	uređenje	Ncnsg
+.	.	Z
+
+Koordinator	koordinator	Ncmsn
+izrade	izrada	Ncfsg
+Plana	plan	Ncmsg
+je	biti	Var3s
+Hrvatski	hrvatski	Agpmsny
+zavod	zavod	Ncmsn
+za	za	Sa
+prostorni	prostoran	Agpmsayn
+razvoj	razvoj	Ncmsan
+.	.	Z
+
+Stručni	stručan	Agpmsny
+izrađivač	izrađivač	Ncmsn
+Plana	plan	Ncmsg
+je	biti	Var3s
+Javna	javan	Agpfsny
+ustanova	ustanova	Ncfsn
+Zavod	zavod	Ncmsn
+za	za	Sa
+prostorno	prostoran	Agpnsay
+uređenje	uređenje	Ncnsa
+Splitsko-dalmatinske	splitsko-dalmatinski	Agpfsgy
+županije	županija	Ncfsg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Plan	plan	Ncmsn
+sadržan	sadržati	Appmsnn
+u	u	Sl
+elaboratu	elaborat	Ncmsl
+Prostorni	prostoran	Agpmsayn
+plan	plan	Ncmsan
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Biokovo	Biokovo	Npnsn
+sastavni	sastavan	Agpmsny
+je	biti	Var3s
+dio	dio	Ncmsn
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+.	.	Z
+
+Sastoji	sastojati	Vmr3s
+se	sebe	Px--sa
+od	od	Sg
+Knjige	knjiga	Ncfsg
+I.	I.	Mro
+,	,	Z
+Knjige	knjiga	Ncfpn
+II	ii	Mrc
+./	./	Z
+1	1	Mdc
+i	i	Cc
+Knjige	knjiga	Ncfpn
+II	ii	Mrc
+./	./	Z
+2	2	Mdc
+,	,	Z
+i	i	Cc
+to	to	Qo
+:	:	Z
+
+KNJIGA	knjiga	Ncfsn
+I.	I.	Mro
+
+–	–	Agpmsny
+I.	i.	Agpmsny
+Tekstualni	tekstualan	Agpmsny
+dio	dio	Ncmsn
+Plana	plan	Ncmsg
+:	:	Z
+
+Odredbe	odredba	Ncfpn
+za	za	Sa
+provođenje	provođenje	Ncnsa
+Plana	plan	Ncmsg
+i	i	Cc
+
+–	–	Npmsn
+II	ii	Mrc
+.	.	Z
+
+Grafički	grafički	Agpmsny
+dio	dio	Ncmsn
+Plana	plan	Ncmsg
+:	:	Z
+
+Kartografski	kartografski	Agpmpny
+prikazi	prikaz	Ncmpn
+:	:	Z
+
+1.	1.	Mdo
+Korištenje	korištenje	Ncnsn
+i	i	Cc
+namjena	namjena	Ncfsn
+prostora	prostor	Ncmsg
+M	m	Y
+1	1	Mdc
+:	:	Z
+25	25	Mdc
+000	000	Mdc
+
+2.	2.	Mdo
+Infrastrukturni	infrastrukturni	Agpmpny
+sustavi	sustav	Ncmpn
+M	m	Y
+1	1	Mdc
+:	:	Z
+25	25	Mdc
+000	000	Mdc
+
+3.	3.	Mdo
+Uvjeti	uvjet	Ncmpn
+korištenja	korištenje	Ncnsg
+,	,	Z
+uređenja	uređenje	Ncnsg
+i	i	Cc
+zaštite	zaštita	Ncfsg
+prostora	prostor	Ncmsg
+M	m	Y
+1	1	Mdc
+:	:	Z
+25	25	Mdc
+000	000	Mdc
+
+4.	4.	Mdo
+Zone	zona	Ncfpn
+zaštite	zaštita	Ncfsg
+u	u	Sl
+Parku	park	Ncmsl
+prirode	priroda	Ncfsg
+M	m	Y
+1	1	Mdc
+:	:	Z
+30	30	Mdc
+000	000	Mdc
+
+4.1.	4.1.	Mdo
+
+Planinski	planinski	Agpmpny
+stočarski	stočarski	Agpmpny
+stanovi	stan	Ncmpn
+i	i	Cc
+staje	stajati	Vmr3s
+
+–	i	Agpfpny
+tradicijske	tradicijski	Agpfpny
+naseobine	naseobina	Ncfpn
+M	m	Y
+1	1	Mdc
+:	:	Z
+10	10	Mdc
+000	000	Mdc
+
+4.1.1.	4.1.1.	Mdo
+
+Biokovo	biokovo	Ncnsn
+–	–	Z
+sjeverozapadni	sjeverozapadni	Agpmsny
+dio	dio	Ncmsn
+
+4.1.2.	4.1.2.	Mdo
+
+Biokovo	biokovo	Ncnsn
+–	–	Z
+središnji	središnji	Agpmsny
+dio	dio	Ncmsn
+
+4.1.3.	4.1.3.	Mdo
+
+Biokovo	biokovo	Ncnsn
+–	–	Z
+jugoistočni	jugoistočni	Agpmsny
+dio	dio	Ncmsn
+
+5.1.	5.1.	Mdo
+
+Građevinska	građevinski	Agpnpny
+područja	područje	Ncnpn
+naselja	naselje	Ncnsg
+M	m	Y
+1	1	Mdc
+:	:	Z
+5000	5000	Mdc
+
+5.1.1.	5.1.1.	Mdo
+
+Općina	općina	Ncfsn
+Brela	Brel	Npmsg
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Gornja	Gornja	Npfsn
+Brela	Brela	Npfsn
+
+5.1.2.	5.1.2.	Mdo
+
+Općina	općina	Ncfsn
+Šestanovac	Šestanovac	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Grabovac	Grabovac	Npmsn
+i	i	Cc
+Općina	općina	Ncfsn
+Zagvozd	Zagvozd	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Rastovac	Rastovac	Npmsn
+
+5.1.3.	5.1.3.	Mdo
+
+Općina	općina	Ncfsn
+Zagvozd	Zagvozd	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Rastovac	Rastovac	Npmsn
+
+5.1.4.	5.1.4.	Mdo
+
+Općina	općina	Ncfsn
+Zagvozd	Zagvozd	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Zagvozd	Zagvozd	Npmsn
+
+5.1.5.	5.1.5.	Mdo
+
+Općina	općina	Ncfsn
+Zagvozd	Zagvozd	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Župa	župa	Ncfsn
+
+5.1.6.	5.1.6.	Mdo
+
+Grad	grad	Ncmsn
+Vrgorac	Vrgorac	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Rašćane	rašćana	Ncfsg
+
+5.1.7.	5.1.7.	Mdo
+
+Grad	grad	Ncmsn
+Vrgorac	Vrgorac	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Rašćane	rašćana	Ncfsg
+i	i	Cc
+Kozica	kozica	Ncfsn
+
+5.1.8.	5.1.8.	Mdo
+
+Grad	grad	Ncmsn
+Vrgorac	Vrgorac	Npmsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Kozica	kozica	Ncfpg
+
+5.1.9.	5.1.9.	Mdo
+
+Općina	općina	Ncfsn
+Podgora	Podgor	Npmsg
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Drašnice	Drašnica	Npfsg
+i	i	Cc
+Gornje	gornji	Agpfpny
+Igrane	igrani	Agpfpny
+
+5.1.10.	5.1.10.	Mdo
+
+Grad	grad	Ncmsn
+Makarska	makarski	Agpfsny
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Veliko	velik	Agpnsny
+Brdo	brdo	Ncnsn
+
+5.1.11.	5.1.11.	Mdo
+
+Općina	općina	Ncfsn
+Baška	baški	Agpfsny
+Voda	voda	Ncfsn
+–	–	Z
+dijelovi	dio	Ncmpn
+naselja	naselje	Ncnsg
+Baška	baški	Agpfsny
+Voda	voda	Ncfsn
+
+5.2.	5.2.	Mdo
+
+Izdvojena	izdvojiti	Appnpny
+građevinska	građevinski	Agpnpny
+područja	područje	Ncnpn
+izvan	izvan	Sg
+naselja	naselje	Ncnsg
+M	m	Y
+1	1	Mdc
+:	:	Z
+5000	5000	Mdc
+
+5.2.1.	5.2.1.	Mdo
+
+Ugostiteljsko-turistička	ugostiteljsko-turistički	Agpfsny
+zona	zona	Ncfsn
+T-zona	T-zon	Npmsg
+Gornji	gornji	Agpmsny
+Rastovac	Rastovac	Npmsn
+
+5.3.	5.3.	Mdo
+
+Zone	zona	Ncfpn
+posjetiteljske	posjetiteljski	Agpfsgy
+infrastrukture	infrastruktura	Ncfsg
+M	M	Npmsn
+1	1	Mdc
+:	:	Z
+5000	5000	Mdc
+
+5.3.1.	5.3.1.	Mdo
+
+Zone	zona	Ncfpn
+:	:	Z
+1.	1.	Mdo
+Glavni	glavni	Agpmsny
+ulaz	ulaz	Ncmsn
+
+4.	4.	Mdo
+Zagvozd	Zagvozd	Npfsn
+–	–	Z
+Milići	Milić	Npmpn
+
+5.	5.	Mdo
+Kaoci	Kaoca	Npfsl
+
+6.	6.	Mdo
+Saranač	Saranač	Npfsn
+–	–	Z
+Miočevići	Miočevići	Npfsl
+
+8.	8.	Mdo
+Gornja	gornji	Agpfsny
+Brela	Brela	Npfsn
+
+9.	9.	Mdo
+Ravna	ravan	Agpfsny
+Vlaška	Vlaška	Npfsn
+i	i	Cc
+
+10.	10.	Mdo
+
+Sv.	Sv.	Y
+Jure	Jure	Npmsg
+
+5.3.2.	5.3.2.	Mdo
+
+Zone	zona	Ncfpn
+:	:	Z
+2.	2.	Mdo
+Štrbina	Štrbina	Npfsn
+–	–	Npfsn
+Vošac	Vošac	Npfsn
+M	M	Npfsn
+1	1	Mdc
+:	:	Z
+2000	2000	Mdc
+
+3.	3.	Mdo
+Podglogovik	podglogovik	Ncmsn
+–	–	Z
+Staza	staza	Ncfsn
+i	i	Cc
+
+7.	7.	Mdo
+Donja	Donja	Npfsn
+Gora	Gora	Npfsn
+–	–	Npfsn
+Podgora	Podgora	Npfsn
+
+KNJIGA	knjiga	Ncfsn
+II	ii	Mrc
+/	/	Z
+1	i	Agpnsny
+Obrazloženje	obrazloženje	Ncnsn
+Plana	plan	Ncmsg
+i	i	Cc
+
+KNJIGA	knjiga	Ncfsn
+II	ii	Mrc
+/	/	Z
+2	2	Mdc
+Obvezni	obvezan	Agpmpny
+prilozi	prilog	Ncmpn
+
+III	III	Mrc
+.	.	Z
+
+Plan	plan	Ncmsn
+je	biti	Var3s
+izrađen	izraditi	Appmsnn
+u	u	Sa
+3	3	Mdc
+(	(	Z
+tri	tri	Mlc
+)	)	Z
+izvornika	izvornik	Ncmsg
+,	,	Z
+ovjerena	ovjeriti	Appfsny
+potpisom	potpis	Ncmsi
+predsjednika	predsjednik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+i	i	Cc
+pečatom	pečat	Ncmsi
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+čuvaju	čuvati	Vmr3p
+u	u	Sl
+:	:	Z
+Hrvatskome	hrvatski	Agpmsly
+saboru	sabor	Ncmsl
+(	(	Z
+jedan	jedan	Mlcmsn
+primjerak	primjerak	Ncmsn
+)	)	Z
+,	,	Z
+ministarstvu	ministarstvo	Ncnsl
+nadležnom	nadležan	Agpfsiy
+za	za	Sa
+poslove	posao	Ncmpa
+prostornoga	prostoran	Agpnsgy
+uređenja	uređenje	Ncnsg
+(	(	Z
+jedan	jedan	Mlcmsn
+primjerak	primjerak	Ncmsn
+)	)	Z
+i	i	Cc
+Hrvatskom	hrvatski	Agpmsly
+zavodu	zavod	Ncmsl
+za	za	Sa
+prostorni	prostoran	Agpmsayn
+razvoj	razvoj	Ncmsan
+(	(	Z
+jedan	jedan	Mlcmsn
+primjerak	primjerak	Ncmsn
+)	)	Z
+.	.	Z
+
+IV	IV	Mrc
+.	.	Z
+
+Donošenjem	donošenje	Ncnsi
+ovoga	ovaj	Pd-msg
+Plana	plan	Ncmsg
+za	za	Sa
+dijelove	dio	Ncmpa
+građevinskih	građevinski	Agpnpgy
+područja	područje	Ncnpg
+naselja	naselje	Ncnsg
+gradova	grad	Ncmpg
+Makarska	Makarska	Npfsn
+i	i	Cc
+Vrgorac	Vrgorac	Npmsn
+te	te	Cc
+općina	općina	Ncfsn
+Brela	Brel	Npmsg
+,	,	Z
+Baška	baški	Agpfsny
+Voda	voda	Ncfsn
+,	,	Z
+Zadvarje	Zadvarja	Npfsg
+,	,	Z
+Šestanovac	Šestanovac	Npmsn
+,	,	Z
+Zagvozd	Zagvozd	Npmsn
+,	,	Z
+Tučepi	Tučepa	Npfsl
+i	i	Cc
+Podgora	Podgora	Pd-mpa
+koji	koji	Pi-mpn
+ulaze	ulaziti	Vmr3p
+u	u	Sa
+prostor	prostor	Ncmsan
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Biokovo	Biokovo	Npnsn
+primjenjuje	primjenjivati	Vmr3s
+se	sebe	Px--sa
+ovaj	ovaj	Pd-msn
+Plan	plan	Ncmsn
+.	.	Z
+
+V.	V.	Y
+
+Odredbe	odredba	Ncfpn
+za	za	Sa
+provođenje	provođenje	Ncnsa
+Plana	plan	Ncmsg
+sastavni	sastavan	Agpmsny
+su	biti	Var3p
+dio	dio	Ncmsn
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+i	i	Cc
+objavljuju	objavljivati	Vmr3p
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+VI	VI	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+01/112	01/112	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+25.	25.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+I.	I.	Y
+ODREDBE	odredba	Ncfpn
+ZA	za	Sa
+PROVOĐENJE	provođenje	Ncnsa
+PLANA	plan	Ncmsg
+
+1.	1.	Mdo
+OPĆE	opći	Agpfsgy
+ODREDBE	odredba	Ncfsg
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Prostornim	prostoran	Agpmsiy
+planom	plan	Ncmsi
+područja	područje	Ncnsg
+posebnih	poseban	Agpnpgy
+obilježja	obilježje	Ncnpg
+Parka	park	Ncmsg
+prirode	priroda	Ncfsg
+Biokovo	Biokovo	Npnsn
+(	(	Z
+u	u	Sl
+daljnjem	daljnji	Agpmsly
+tekstu	tekst	Ncmsl
+:	:	Z
+Plan	plan	Ncmsn
+)	)	Z
+,	,	Z
+na	na	Sl
+temelju	temelj	Ncmsl
+Zakona	zakon	Ncmsg
+o	o	Sl
+prostornom	prostoran	Agpnsly
+uređenju	uređenje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+153/13.	153/13.	Mds
+)	)	Z
+i	i	Cc
+Zakona	zakon	Ncmsg
+o	o	Sl
+prostornom	prostoran	Agpnsly
+uređenju	uređenje	Ncnsl
+i	i	Cc
+gradnji	gradnja	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+76/07.	76/07.	Mds
+,	,	Z
+38/09.	38/09.	Mds
+,	,	Z
+55/11.	55/11.	Mds
+,	,	Z
+

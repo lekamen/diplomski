@@ -1,0 +1,238 @@
+Tri	tri	Mlc
+uzorka	uzorak	Ncmsg
+uredno	uredno	Rgp
+je	biti	Var3s
+zapečaćeno	zapečatiti	Appnsny
+i	i	Cc
+propisno	propisno	Rgp
+označeno	označiti	Appnsny
+.	.	Z
+
+Jedan	jedan	Mlcmsn
+uzorak	uzorak	Ncmsn
+dostavit	dostaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+na	na	Sa
+laboratorijsko	laboratorijski	Agpnsay
+ispitivanje	ispitivanje	Ncnsa
+u	u	Sl
+__________________	_________________a	Ncfsl
+.	.	Z
+
+Potrošnja	potrošnja	Ncfsn
+hrane	hrana	Ncfsg
+od	od	Sg
+koje	koji	Pi-fsg
+su	biti	Var3p
+uzeti	uzeti	Appmpny
+uzorci	uzorak	Ncmpn
+u	u	Sl
+količini	količina	Ncfsl
+od	od	Sg
+_______	_______	Npfsg
+zabranjena	zabraniti	Appfsny
+je	biti	Var3s
+do	do	Sg
+donošenja	donošenje	Ncnsg
+rješenja	rješenje	Ncnsg
+na	na	Sl
+osnovi	osnova	Ncfsl
+rezultata	rezultat	Ncmpg
+ispitivanja	ispitivanje	Ncnsg
+.	.	Z
+
+Drugi	drugi	Mlomsn
+i	i	Cc
+treći	treći	Mlomsan
+uzorak	uzorak	Ncmsan
+ostavljeni	ostaviti	Appmpny
+su	biti	Var3p
+na	na	Sl
+čuvanju	čuvanje	Ncnsl
+na	na	Sl
+mjestu	mjesto	Ncnsl
+uzorkovanja	uzorkovanje	Ncnsg
+.	.	Z
+
+Napomena	napomena	Ncfsn
+:	:	Z
+Zapisnik	zapisnik	Ncmsn
+je	biti	Var3s
+sastavljen	sastaviti	Appmsnn
+u	u	Sa
+tri	tri	Mlc
+primjerka	primjerak	Ncmsg
+,	,	Z
+od	od	Sg
+kojih	koji	Pi-fpg
+je	biti	Var3s
+jedan	jedan	Mlcmsn
+ostavljen	ostaviti	Appmsnn
+stranci	stranka	Ncfsl
+koja	koji	Pi-fsn
+je	biti	Var3s
+prisustvovala	prisustvovati	Vmp-sf
+uzimanju	uzimanje	Ncnsd
+uzoraka	uzorak	Ncmpg
+.	.	Z
+
+Stranka	stranka	Ncfsn
+koja	koji	Pi-fsn
+je	biti	Var3s
+prisustvovala	prisustvovati	Vmp-sf
+uzimanju	uzimanje	Ncnsd
+uzoraka	uzorak	Ncmpg
+Vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+MP	MP	Npmsn
+_____________________	_____________________	Npmsn
+_____________________	_____________________	Z
+
+PRILOG	prilog	Ncmsn
+3	3	Mdc
+
+VOJNA	vojni	Agpfsny
+VETERINARSKA	veterinarski	Agpfsny
+INSPEKCIJA	inspekcija	Ncfsn
+
+VP	vi	Agpnsny
+________________________________	________________________________	Z
+
+KLASA	klasa	Ncfsn
+:	:	Z
+____________________________	____________________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+___________________________	___________________________	Z
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+datum	datum	Ncmsn
+:	:	Z
+______________________	______________________	Z
+
+Vojna	vojni	Agpfsny
+veterinarska	veterinarski	Agpfsny
+inspekcija	inspekcija	Ncfsn
+na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+17.	17.	Mdo
+
+Pravilnika	pravilnik	Ncmpg
+o	o	Sl
+radu	rad	Ncmsl
+vojne	vojni	Agpfsgy
+veterinarske	veterinarski	Agpfsgy
+inspekcije	inspekcija	Ncfsg
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+i	i	Cc
+Oružanih	oružan	Agpfpgy
+snaga	snaga	Ncfpg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+Narodne	narodni	Agpfsgy
+novine	novina	Ncfsg
+,	,	Z
+broj	broj	Ncmsn
+____	____	Z
+)	)	Z
+,	,	Z
+a	a	Cc
+vezano	vezano	Rgp
+uz	uz	Sa
+navode	navod	Ncmpa
+iz	iz	Sg
+Zapisnika	zapisnik	Ncmsg
+o	o	Sl
+inspekcijskom	inspekcijski	Agpmsly
+nadzoru	nadzor	Ncmsl
+KLASA	klas	Ncmsg
+:	:	Z
+___________	___________	Ncmsn
+,	,	Z
+URBROJ	urbroj	Ncmsn
+:	:	Z
+_________	_________	Ncfsn
+od	od	Sg
+dana	dan	Ncmpg
+_________	_________	Z
+,	,	Z
+donosi	donositi	Vmr3s
+
+RJEŠENJE	rješenje	Ncnsn
+
+______________________________________________________________	______________________________________________________________	Ncfsn
+
+______________________________________________________________	______________________________________________________________	Ncfsn
+
+______________________________________________________________	______________________________________________________________	Ncfsn
+
+Obrazloženje	obrazloženje	Ncnsn
+:	:	Z
+
+_______________________________________________________________	_______________________________________________________________	Ncfsn
+
+_______________________________________________________________	_______________________________________________________________	Ncfsn
+
+_______________________________________________________________	_______________________________________________________________	Ncfsn
+
+Uputa	uputa	Ncfsn
+o	o	Sl
+pravnom	pravni	Agpmsly
+lijeku	lijek	Ncmsl
+:	:	Z
+Protiv	protiv	Sg
+ovoga	ovaj	Pd-nsg
+rješenja	rješenje	Ncnsg
+moguće	moguć	Agpnsny
+je	biti	Var3s
+izjaviti	izjaviti	Vmn
+žalbu	žalba	Ncfsa
+pisanim	pisan	Agpmsiy
+obliku	oblik	Ncmsd
+ustrojstvenoj	ustrojstven	Agpfsly
+jedinici	jedinica	Ncfsl
+nadležnoj	nadležan	Agpfsly
+za	za	Sa
+zdravstvo	zdravstvo	Ncnsa
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+15	15	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+primitka	primitak	Ncmsg
+rješenja	rješenje	Ncnsg
+.	.	Z
+
+Žalba	žalba	Ncfsn
+ne	ne	Qz
+odgađa	odgađati	Vmr3s
+izvršenje	izvršenje	Ncnsa
+naređenih	narediti	Agpfpgy
+mjera	mjera	Ncfpg
+.	.	Z
+
+Dostaviti	dostaviti	Vmn
+:	:	Z
+
+____________________	____________________	Agpmsny
+Vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+
+____________________	____________________	Npmsn
+MP	MP	Npmsn
+
+____________________	____________________	I
+_______________________	_______________________	Z
+

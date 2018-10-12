@@ -1,0 +1,103 @@
+105	105	Mdc
+16.11.2016	16.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+članice	članica	Ncfsg
+Povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+fiskalnu	fiskalan	Agpfsay
+politiku	politika	Ncfsa
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2221	2221	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+točke	točka	Ncfpa
+II	ii	Mrc
+.	.	Z
+
+Odluke	odluka	Ncfpn
+o	o	Sl
+osnivanju	osnivanje	Ncnsl
+Povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+fiskalnu	fiskalan	Agpfsay
+politiku	politika	Ncfsa
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+156/13.	156/13.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+11.	11.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+IMENOVANJU	imenovanje	Ncnsl
+ČLANICE	članica	Ncfsg
+POVJERENSTVA	povjerenstvo	Ncnsg
+ZA	za	Sa
+FISKALNU	fiskalan	Agpfsay
+POLITIKU	politika	Ncfsa
+
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+članicom	članica	Ncfsi
+Povjerenstva	povjerenstvo	Ncnsg
+za	za	Sa
+fiskalnu	fiskalan	Agpfsay
+politiku	politika	Ncfsa
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+HELENA	Helena	Npfsn
+BLAŽIĆ	BLAŽIĆ	Npfsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+07/31	07/31	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

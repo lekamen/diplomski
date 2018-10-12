@@ -1,0 +1,759 @@
+ŽIC	ŽIC	Xf
+
+1141.	1141.	Mdo
+satnik	satnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+ŽUKINA	ŽUKINA	Npfsn
+
+1142.	1142.	Mdo
+natporučnik	natporučnik	Ncmsn
+vojni	vojni	Agpmsny
+sp	sp	Ncmsn
+.	.	Z
+
+IVAN	Ivan	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PETROVIĆ	Petrović	Npmsn
+
+1143.	1143.	Mdo
+natporučnica	natporučnica	Ncfsn
+MARINA	MARINA	Npfsn
+(	(	Z
+Josina	Josina	Npfsn
+)	)	Z
+ČURKOVIĆ	Čurković	Npmsn
+
+1144.	1144.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+ARAPOVIĆ	Arapović	Npmsn
+
+1145.	1145.	Mdo
+natporučnik	natporučnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+BATUR	BATUR	Npmsn
+
+1146.	1146.	Mdo
+natporučnik	natporučnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+BOŽIĆ	Božić	Npmsn
+
+1147.	1147.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BUTORAC	BUTORAC	Npmsn
+
+1148.	1148.	Mdo
+natporučnik	natporučnik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+CVITKOVIĆ	CVITKOVIĆ	Npmsn
+
+1149.	1149.	Mdo
+natporučnik	natporučnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ČIDIĆ	ČIDIĆ	Npmsn
+
+1150.	1150.	Mdo
+natporučnik	natporučnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+DEHIN	DEHIN	Npmsn
+
+1151.	1151.	Mdo
+natporučnik	natporučnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Katin	Katin	Npmsn
+)	)	Z
+DOBRANIĆ	DOBRANIĆ	Npmsn
+
+1152.	1152.	Mdo
+natporučnik	natporučnik	Ncmsn
+FRANC	Franc	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+FILIPOVIĆ	Filipović	Npmsn
+
+1153.	1153.	Mdo
+natporučnik	natporučnik	Ncmsn
+DARIO	DARIO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+GABRIĆ	GABRIĆ	Npmsn
+
+1154.	1154.	Mdo
+natporučnik	natporučnik	Ncmsn
+ANĐELKO	ANĐELKO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+GABRIĆ	GABRIĆ	Npmsn
+
+1155.	1155.	Mdo
+natporučnik	natporučnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+GODINIĆ	GODINIĆ	Npmsn
+
+1156.	1156.	Mdo
+natporučnik	natporučnik	Ncmsn
+FRANJO	FRANJO	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+GRČIĆ	Grčić	Npmsn
+
+1157.	1157.	Mdo
+natporučnik	natporučnik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Jerolimov	Jerolimov	Npmsn
+)	)	Z
+GUSAR	gusar	Ncmsn
+
+1158.	1158.	Mdo
+natporučnik	natporučnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+KLARIĆ	Klarić	Npmsn
+
+1159.	1159.	Mdo
+natporučnik	natporučnik	Ncmsn
+DARIJO	DARIJO	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+KNEŽEVIĆ	Knežević	Npmsn
+
+1160.	1160.	Mdo
+natporučnik	natporučnik	Ncmsn
+MATO	mati	Agpnsny
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+KULJANAC	KULJANAC	Npmsan
+
+1161.	1161.	Mdo
+natporučnik	natporučnik	Ncmsn
+TVRTKO	TVRTKO	Npmsn
+(	(	Z
+Viktorov	Viktorov	Npmsn
+)	)	Z
+LJUBIČIĆ	Ljubičić	Npmsn
+
+1162.	1162.	Mdo
+natporučnik	natporučnik	Ncmsn
+ADAM	Adam	Npmsn
+(	(	Z
+Muharemov	Muharemov	Npmsn
+)	)	Z
+MALKOČ	MALKOČ	Npmsn
+
+1163.	1163.	Mdo
+natporučnik	natporučnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Rajkov	Rajkov	Npmsn
+)	)	Z
+MARUNICA	marunica	Ncfsn
+
+1164.	1164.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+MATIĆ	Matić	Npmsn
+
+1165.	1165.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+MEDENJAK	medenjak	Ncmsan
+
+1166.	1166.	Mdo
+natporučnik	natporučnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+PEĆARIĆ	PEĆARIĆ	Npmsn
+
+1167.	1167.	Mdo
+natporučnik	natporučnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+PETRANOVIĆ	PETRANOVIĆ	Npmsn
+
+1168.	1168.	Mdo
+natporučnik	natporučnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+PLAČKO	plačko	Ncmsn
+
+1169.	1169.	Mdo
+natporučnik	natporučnik	Ncmsn
+DRAGAN	Dragan	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+POLJAK	POLJAK	Npmsn
+
+1170.	1170.	Mdo
+natporučnik	natporučnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+RONČEVIĆ	Rončević	Npmsn
+
+1171.	1171.	Mdo
+natporučnik	natporučnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Leopoldov	Leopoldov	Npmsn
+)	)	Z
+SMREČKI	smrečki	Agpmsny
+
+1172.	1172.	Mdo
+natporučnik	natporučnik	Ncmsn
+STIPE	STIPE	Npfsg
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+TOJČIĆ	TOJČIĆ	Npmsn
+
+1173.	1173.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+TROSKOT	TROSKOT	Npmsn
+
+1174.	1174.	Mdo
+natporučnik	natporučnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+TUCIBAT	TUCIBAT	Npmsn
+
+1175.	1175.	Mdo
+natporučnik	natporučnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+TURIĆ	TURIĆ	Npmsn
+
+1176.	1176.	Mdo
+natporučnik	natporučnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Mijatov	Mijatov	Npmsn
+)	)	Z
+UTKOVIĆ	UTKOVIĆ	Npmsn
+
+1177.	1177.	Mdo
+natporučnik	natporučnik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+VIDUKA	VIDUK	Npmsg
+
+1178.	1178.	Mdo
+natporučnik	natporučnik	Ncmsn
+TED	TED	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+VRKIĆ	Vrkić	Npmsn
+
+1179.	1179.	Mdo
+natporučnik	natporučnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Gjurin	Gjurin	Npmsn
+)	)	Z
+VUK	vuk	Ncmsn
+
+1180.	1180.	Mdo
+natporučnik	natporučnik	Ncmsn
+LEO	LEO	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+ZONKA	zonka	Ncfsn
+
+1181.	1181.	Mdo
+poručnik	poručnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Elizabetin	Elizabetin	Npmsn
+)	)	Z
+BJESNOVIĆ	BJESNOVIĆ	Npmsn
+
+1182.	1182.	Mdo
+poručnik	poručnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+CAREVIĆ	CAREVIĆ	Npmsn
+
+1183.	1183.	Mdo
+poručnik	poručnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+DEVČIĆ	Devčić	Npmsn
+
+1184.	1184.	Mdo
+poručnik	poručnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+JURIĆ	Jurić	Npmsn
+
+1185.	1185.	Mdo
+poručnik	poručnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+KALČIĆ	KALČIĆ	Npmsn
+
+1186.	1186.	Mdo
+poručnik	poručnik	Ncmsn
+MATE	MATE	Npfsg
+(	(	Z
+Jerkov	Jerkov	Npmsn
+)	)	Z
+KLARIĆ	Klarić	Npmsn
+
+1187.	1187.	Mdo
+poručnik	poručnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+MAMIĆ	MAMIĆ	Npmsn
+
+1188.	1188.	Mdo
+poručnik	poručnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+MIKULIĆ	Mikulić	Npmsn
+
+1189.	1189.	Mdo
+poručnik	poručnik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+MITROVIĆ	Mitrović	Npmsn
+
+1190.	1190.	Mdo
+poručnik	poručnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PULJIZ	PULJIZ	Npmsn
+
+1191.	1191.	Mdo
+poručnik	poručnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Miroslavov	Miroslavov	Npmsn
+)	)	Z
+STANIĆ	Stanić	Npmsn
+
+1192.	1192.	Mdo
+poručnik	poručnik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Blagin	Blagin	Npmsn
+)	)	Z
+ZELENIKA	zelenika	Ncfsn
+
+1193.	1193.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+MIRJANA	MIRJANA	Npfsn
+(	(	Z
+Stjepanova	Stjepanova	Npfsn
+)	)	Z
+BRCKOVIĆ	BRCKOVIĆ	Npmsn
+
+1194.	1194.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+ROBERTA	Robert	Ncmsg
+(	(	Z
+Vickova	Vickova	Npfsn
+)	)	Z
+DUPLANČIĆ	DUPLANČIĆ	Npmsn
+
+1195.	1195.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+VALENTINA	VALENTINA	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+KEFELJA	kefe	Agcfsny
+
+1196.	1196.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+DARINKA	Darinka	Npfsn
+(	(	Z
+Josipova	Josipova	Npfsn
+)	)	Z
+KOTARSKI	kotarski	Agpmsny
+
+1197.	1197.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+DUBRAVKA	DUBRAVKA	Npfsn
+(	(	Z
+Ivanova	ivanov	Aspfsny
+)	)	Z
+KRAHULEC	KRAHULEC	Npmsn
+-	-	Z
+-	-	Z
+PETLIĆ	PETLIĆ	Npmsn
+
+1198.	1198.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+ANDREJA	Andreja	Npfsn
+(	(	Z
+Petrova	Petrov	Npmsay
+)	)	Z
+PEŠUT	pešut	Ncmsn
+
+1199.	1199.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+ĐURĐICA	ĐURĐICA	Npfsn
+(	(	Z
+Nikolina	Nikolina	Npfsn
+)	)	Z
+ŠUŠNJAR	ŠUŠNJAR	Npmsn
+
+1200.	1200.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+SILVANA	SILVANA	Npfsn
+(	(	Z
+Zvonimirova	Zvonimirova	Npfsn
+)	)	Z
+TUDEK	TUDEK	Npmsn
+PERNAR	PERNAR	Npmsn
+
+1201.	1201.	Mdo
+časnička	časnički	Agpfsny
+namjesnica	namjesnica	Ncfsn
+SANJA	sanjati	Vmr3s
+(	(	Z
+Antunova	Antunova	Npfsn
+)	)	Z
+URANJEK	URANJEK	Npmsn
+
+1202.	1202.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BAKOVIĆ	Baković	Npmsn
+
+1203.	1203.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+DOMINIK	DOMINIK	Npmsn
+(	(	Z
+Mirin	Mirin	Npmsn
+)	)	Z
+BAN	ban	Ncmsn
+
+1204.	1204.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+BATRAC	BATRAC	Npmsn
+
+1205.	1205.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BERISLAVIĆ	BERISLAVIĆ	Npmsn
+
+1206.	1206.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+BILIĆ	Bilić	Npmsn
+
+1207.	1207.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Mišin	Mišin	Npmsn
+)	)	Z
+BILIĆ	Bilić	Npmsn
+
+1208.	1208.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+BIŠĆAN	BIŠĆAN	Npmsn
+
+1209.	1209.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+BLAŽEVIĆ	Blažević	Npmsn
+
+1210.	1210.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Slavin	Slavin	Npmsn
+)	)	Z
+BOGOVIĆ	BOGOVIĆ	Npmsn
+
+1211.	1211.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+TONĆI	tonća	Ncfsl
+(	(	Z
+Dragomirov	Dragomirov	Npmsn
+)	)	Z
+BONOMI	bonomi	Agpmpny
+
+1212.	1212.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+SAMIR	SAMIR	Npmsn
+(	(	Z
+Salkov	Salkov	Npmsn
+)	)	Z
+BRAKIĆ	BRAKIĆ	Npmsn
+
+1213.	1213.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+BRITVEC	BRITVEC	Npmsn
+
+1214.	1214.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Stanislavov	Stanislavov	Npmsn
+)	)	Z
+BUBANIĆ	BUBANIĆ	Npmsn
+
+1215.	1215.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+BUDROVIĆ	BUDROVIĆ	Npmsn
+
+1216.	1216.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BUTORAC	BUTORAC	Npmsn
+
+1217.	1217.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+CESTARIĆ	CESTARIĆ	Npmsn
+
+1218.	1218.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Božidarov	Božidarov	Npmsn
+)	)	Z
+ČAVLOVIĆ	ČAVLOVIĆ	Npmsn
+
+1219.	1219.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+ČEMPUH	ČEMPUH	I
+
+1220.	1220.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Lukin	Lukin	Npmsn
+)	)	Z
+ČIČAK	čičak	Ncmsan
+
+1221.	1221.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Jankov	Jankov	Npmsn
+)	)	Z
+ČURILOVIĆ	ČURILOVIĆ	Npmsn
+
+1222.	1222.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+STOJAN	STOJAN	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ĆORIĆ	ĆORIĆ	Npmsn
+
+1223.	1223.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Žarkov	Žarkov	Npmsn
+)	)	Z
+ĆUŽIĆ	ĆUŽIĆ	Npmsn
+
+1224.	1224.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Tomin	Tomin	Npmsn
+)	)	Z
+DALIĆ	Dalić	Npmsn
+
+1225.	1225.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Nikin	Nikin	Npmsn
+)	)	Z
+DALIĆ	Dalić	Npmsn
+
+1226.	1226.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+DEJANOVIĆ	Dejanović	Npmsn
+
+1227.	1227.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+VLADO	VLADO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+DERDIĆ	DERDIĆ	Npmsn
+
+1228.	1228.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+PERO	pero	Ncnsn
+(	(	Z
+Ivin	Ivin	Npmsn
+)	)	Z
+DUBRAVAC	DUBRAVAC	Npmsn
+
+1229.	1229.	Mdo
+časnički	časnički	Agpmsny
+namjesnik	namjesnik	Ncmsn
+LEONARDO	LEONARDO	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+DUMANIĆ	DUMANIĆ	Npmsn
+

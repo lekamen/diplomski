@@ -1,0 +1,124 @@
+crno-bijeli	crno-bijel	Agpmsny
+25,00	25,00	Mdc
+kn	KN	Ncmpg
+
+4.2.6.	4.2.6.	Mdo
+
+Isprint	isprint	Ncfsn
+formata	format	Ncmsg
+A3	A	Npmsg
+,	,	Z
+crno	crno	Rgp
+bijeli	bijeliti	Vmr3s
+,	,	Z
+na	na	Sa
+foto-papiru	foto-papira	Ncfsa
+50,00	50,00	Mdc
+kn	KN	Ncmsan
+
+4.2.7.	4.2.7.	Mdo
+
+Isprint	isprint	Ncfsn
+formata	format	Ncmsg
+A3	A3	X
+u	u	Sl
+boji	boja	Ncfsl
+50,00	50,00	Mdc
+kn	KN	Y
+
+4.2.8.	4.2.8.	Mdo
+
+Isprint	isprint	Ncfsn
+formata	format	Ncmsg
+A3	A3	Mdm
+u	u	Sl
+boji	boja	Ncfsl
+,	,	Z
+na	na	Sl
+foto	foto	Agpmsly
+papiru	papir	Ncmsl
+100,00	100,00	Mdc
+kn	KN	Y
+
+4.3.	4.3.	Mdo
+
+Kopiranje	kopiranje	Ncnsn
+digitalnog	digitalan	Agpmsgy
+zapisa	zapis	Ncmsg
+
+4.3.1.	4.3.1.	Mdo
+
+CD	c	Ncmpn
+s	sa	Si
+digitalnim	digitalan	Agpmsiy
+zapisom	zapis	Ncmsi
+25,00	25,00	Mdc
+kn	KN	Ncmpg
+
+4.3.2.	4.3.2.	Mdo
+
+DVD	dv	Ncmpn
+s	sa	Si
+digitalnim	digitalan	Agpmsiy
+zapisom	zapis	Ncmsi
+30,00	30,00	Mdc
+kn	KN	Ncmpg
+
+5.	5.	Mdo
+KNJIŽNICA	knjižnica	Ncfsn
+
+5.1.	5.1.	Mdo
+
+Ograničena	ograničiti	Appfsny
+izrada	izrada	Ncfsn
+preslika	preslika	Ncfpg
+iz	iz	Sg
+knjiga	knjiga	Ncfpg
+i	i	Cc
+drugih	drugi	Mlofpg
+publikacija	publikacija	Ncfpg
+do	do	Sg
+trideset	trideset	Mlc
+strana	strana	Ncfpg
+,	,	Z
+format	format	Ncmsn
+A4	A4	X
+0,50	0,50	Mdc
+kn	KN	Ncmpg
+
+5.1.	5.1.	Mdo
+
+Ograničena	ograničiti	Appfsny
+izrada	izrada	Ncfsn
+preslika	preslika	Ncfpg
+iz	iz	Sg
+knjiga	knjiga	Ncfpg
+i	i	Cc
+drugih	drugi	Mlofpg
+publikacija	publikacija	Ncfpg
+do	do	Sg
+trideset	trideset	Mlc
+strana	strana	Ncfpg
+,	,	Z
+format	format	Ncmsn
+A3	A3	X
+1,00	1,00	Mdc
+kn	KN	Ncmpg
+
+6.	6.	Mdo
+UVEZIVANJE	uvezivanje	Ncnsn
+
+6.1.	6.1.	Mdo
+
+Uvez	uvez	Ncmsn
+A4	A4	Xf
+25,00	25,00	Mdc
+kn	KN	Ncmpg
+
+6.2.	6.2.	Mdo
+
+Uvez	uvez	Ncmsn
+A3	A3	Xf
+30,00	30,00	Mdc
+kn	KN	Ncmpg
+

@@ -1,0 +1,33 @@
+011	011	Mdc
+-	-	Z
+01/14	01/14	Mdc
+-	-	Z
+01/170	01/170	Mdc
+Urbroj	urbroj	Ncmsn
+:	:	Z
+526	526	Mdc
+-	-	Z
+04	04	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+02/3	02/3	Mdc
+-	-	Z
+14	14	Mdc
+-	-	Z
+01	01	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Ivan	Ivan	Npmsn
+Vrdoljak	Vrdoljak	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

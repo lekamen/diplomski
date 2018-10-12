@@ -1,0 +1,729 @@
+Viljevo	Viljevo	Npnsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Šibensko-kninska	šibensko-kninski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Drniš	Drniš	Npfsg
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Knin	Knin	Npmsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Skradin	Skradin	Npmsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Šibenik	Šibenik	Npmsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Vodice	vodica	Ncfsg
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Biskupija	biskupija	Ncfsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Ervenik	Ervenik	Npmsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Kistanje	kistanje	Ncnsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Vukovarsko-srijemska	vukovarsko-srijemski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+rusinsku	rusinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Ilok	Ilok	Npmsn
+;	;	Z
+
+za	za	Sa
+slovačku	slovački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Vinkovci	Vinkovca	Npfsl
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Vukovar	Vukovar	Npmsn
+;	;	Z
+
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+rusinsku	rusinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+ukrajinsku	ukrajinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Bogdanovci	Bogdanovc	Npmpn
+;	;	Z
+
+za	za	Sa
+rusinsku	rusinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Borovo	Borovo	Npnsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Drenovci	Drenovc	Npmpn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Gunja	Gunja	Npfsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Markušica	Markušica	Npfsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Negoslavci	Negoslavc	Npmpn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Nijemci	Nijemc	Npmpn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Stari	star	Agpmsny
+Jankovci	jankovci	Agpmsny
+;	;	Z
+
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Tompojevci	Tompojevc	Npmpn
+;	;	Z
+
+za	za	Sa
+rusinsku	rusinski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Tordinci	Tordinc	Npmpn
+;	;	Z
+
+za	za	Sa
+mađarsku	mađarski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Trpinja	Trpinja	Npfsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Splitsko-dalmatinska	splitsko-dalmatinski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Imotski	imotski	Agpmsny
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Split	Split	Npmsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+crnogorsku	crnogorski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+makedonsku	makedonski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Istarska	istarski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+crnogorsku	crnogorski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+makedonsku	makedonski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Buje	Buja	Npfsg
+–	–	Npfsg
+Buie	Buia	Npfsg
+;	;	Z
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Buzet	Buzet	Npmsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Labin	Labin	Npmsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Novigrad	Novigrad	Npmsn
+–	–	Z
+Cittanova	cittanov	Aspfsny
+;	;	Z
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Poreč	Poreč	Npmsn
+–	–	Z
+Parenzo	Parenzo	Npmsn
+;	;	Z
+
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Pula	Pula	Npfsn
+–	–	Z
+Pola	polo	Rgp
+;	;	Z
+
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+crnogorsku	crnogorski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+makedonsku	makedonski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Rovinj	Rovinj	Npfsg
+–	–	Z
+Rovigno	rovigan	Agpnsny
+;	;	Z
+
+za	za	Sa
+albansku	albanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Umag	Umag	Npmsn
+–	–	Z
+Umago	Umago	Npmsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+slovensku	slovenski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Vodnjan	Vodnjan	Npmsn
+–	–	Z
+Dignano	Dignano	Npmsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+talijansku	talijanski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Fažana	Fažana	Npfsn
+–	–	Npfsn
+Fasana	Fasana	Npfsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Kršan	kršan	Agpmsnn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Raša	Raš	Npmsg
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Dubrovačko-neretvanska	dubrovačko-neretvanski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Dubrovnik	Dubrovnik	Npmsn
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Metković	Metković	Npmsn
+;	;	Z
+
+za	za	Sa
+srpsku	srpski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Župa	župa	Ncfsn
+Dubrovačka	dubrovački	Agpfsny
+;	;	Z
+
+za	za	Sa
+bošnjačku	bošnjački	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Međimurska	međimurski	Agpfsny
+županija	županija	Ncfsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Čakovec	Čakovec	Npmsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Grad	grad	Ncmsn
+Mursko	murski	Agpnsny
+Središće	Središće	Npnsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Kotoriba	Kotoriba	Npfsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Mala	mali	Agpfsny
+Subotica	Subotica	Npfsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Nedelišće	Nedelišće	Npnsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Orehovica	Orehovica	Npfsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Podturen	Podturen	Npfsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+manjinu	manjina	Ncfsa
+
+Općina	općina	Ncfsn
+Pribislavec	Pribislavec	Npmsn
+;	;	Z
+
+za	za	Sa
+romsku	romski	Agpfsay
+nacionalnu	nacionalan	Agpfsay
+

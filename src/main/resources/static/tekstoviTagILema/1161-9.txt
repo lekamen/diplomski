@@ -1,0 +1,5 @@
+SUSTAVA	sustav	Ncmsg
+–	–	Z
+UKUPNO	ukupno	Rgp
+487	487	Mdc
+

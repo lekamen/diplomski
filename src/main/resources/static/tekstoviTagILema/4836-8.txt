@@ -1,0 +1,95 @@
+upravni	upravan	Agpmsny
+spor	spor	Ncmsn
+pred	pred	Si
+Visokim	visok	Agpmsiy
+upravnim	upravan	Agpmsiy
+sudom	sud	Ncmsi
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+.	.	Z
+
+Napomena	napomena	Ncfsn
+:	:	Z
+
+Budući	budući	Cs
+da	da	Cs
+podaci	podatak	Ncmpn
+označeni	označiti	Appmpny
+[	[	Z
+...	...	Z
+]	]	Z
+i	i	Cc
+podaci	podatak	Ncmpn
+u	u	Sl
+rasponima	raspon	Ncmpl
+predstavljaju	predstavljati	Vmr3p
+poslovnu	poslovan	Agpfsay
+tajnu	tajna	Ncfsa
+u	u	Sl
+smislu	smisao	Ncmsl
+članka	članak	Ncmsg
+53.	53.	Mdo
+
+ZZTN-a	ZZTN	Npmsg
+,	,	Z
+isti	isti	Agpmpny
+su	biti	Var3p
+izuzeti	izuzeti	Vmn
+od	od	Sg
+objavljivanja	objavljivanje	Ncnsg
+te	te	Cc
+su	biti	Var3p
+izostavljeni	izostaviti	Appmpny
+iz	iz	Sg
+teksta	tekst	Ncmsg
+,	,	Z
+odnosno	odnosno	Rgp
+koriste	koristiti	Vmr3p
+se	sebe	Px--sa
+postoci	postotak	Ncmpn
+u	u	Sl
+rasponu	raspon	Ncmsl
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+UP	up	Ncmsn
+/	/	Z
+I	i	Cc
+034	034	Mdc
+-	-	Z
+03/2013	03/2013	Mdc
+-	-	Z
+02/008	02/008	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+580	580	Mdc
+-	-	Z
+11/41	11/41	Mdc
+-	-	Z
+2015	2015	Mdc
+-	-	Z
+146	146	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+15.	15.	Mdo
+rujna	rujan	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Vijeća	vijeće	Ncnsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+tržišnog	tržišni	Agpnsgy
+natjecanja	natjecanje	Ncnsg
+Mladen	Mladen	Npmsn
+Cerovac	Cerovac	Npmsn
+,	,	Z
+mag.	mag.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

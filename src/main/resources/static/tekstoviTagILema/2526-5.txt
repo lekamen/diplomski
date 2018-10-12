@@ -1,0 +1,10 @@
+Ministar	ministar	Ncmsn
+prof.	prof.	Y
+dr.	dr.	Y
+sc.	sc.	Y
+Vedran	Vedran	Npmsn
+Mornar	Mornar	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

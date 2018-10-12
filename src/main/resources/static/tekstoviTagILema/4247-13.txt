@@ -1,0 +1,64 @@
+odgodu	odgoda	Ncfsa
+izvršenja	izvršenje	Ncnsg
+(	(	Z
+pravnih	pravni	Agpmpgy
+učinaka	učinak	Ncmpg
+)	)	Z
+osporene	osporiti	Appfsgy
+pravomoćne	pravomoćan	Agpfsgy
+presude	presuda	Ncfsg
+s	sa	Si
+obzirom	obzir	Ncmsi
+da	da	Cs
+je	biti	Var3s
+podnositelj	podnositelj	Ncmsn
+izvršio	izvršiti	Vmp-sm
+kaznu	kazna	Ncfsa
+koja	koji	Pi-fsn
+je	biti	Var3s
+njome	on	Ncfsn
+određena	odrediti	Appfsny
+.	.	Z
+
+41.	41.	Mdo
+
+Objava	objava	Ncfsn
+ove	ovaj	Pd-fsg
+odluke	odluka	Ncfsg
+temelji	temeljiti	Vmr3s
+se	sebe	Px--sa
+na	na	Sl
+članku	članak	Ncmsl
+29.	29.	Mdo
+stavku	stavak	Ncmsl
+1.	1.	Mdo
+Ustavnog	ustavan	Agpmsgy
+zakona	zakon	Ncmsg
+.	.	Z
+
+Broj	broj	Ncmsn
+:	:	Z
+U-III-2836	U-III-2836	X
+/	/	Z
+2012	2012	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+6.	6.	Mdo
+lipnja	lipanj	Ncmsg
+2016.	2016.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Jasna	Jasna	Npfsn
+Omejec	Omejec	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,776 @@
+zbirkama	zbirka	Ncfpl
+čuvaju	čuvati	Vmr3p
+se	sebe	Px--sa
+petnaest	petnaest	Mlc
+godina	godina	Ncfpg
+od	od	Sg
+dana	dan	Ncmpg
+unosa	unos	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Zbirke	zbirka	Ncfpn
+podataka	podatak	Ncmpg
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+mogu	moći	Vmr3p
+se	sebe	Px--sa
+voditi	voditi	Vmn
+i	i	Qo
+u	u	Sl
+registrima	registar	Ncmpl
+ili	ili	Cc
+u	u	Sl
+obliku	oblik	Ncmsl
+kartoteke	kartoteka	Ncfsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Zbirke	zbirka	Ncfpn
+podataka	podatak	Ncmpg
+iz	iz	Sg
+članka	članak	Ncmsg
+25.	25.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+11.	11.	Mdo
+
+Pravilnika	pravilnik	Ncmpg
+mogu	moći	Vmr3p
+se	sebe	Px--sa
+voditi	voditi	Vmn
+u	u	Sl
+obliku	oblik	Ncmsl
+kartoteke	kartoteka	Ncfsg
+u	u	Sl
+plastičnim	plastičan	Agpfply
+,	,	Z
+prozirnim	proziran	Agpfply
+folijama	folija	Ncfpl
+ili	ili	Cc
+u	u	Sl
+elektronskom	elektronski	Agpmsly
+obliku	oblik	Ncmsl
+,	,	Z
+a	a	Cc
+podaci	podatak	Ncmpn
+sadržani	sadržati	Appmpny
+u	u	Sl
+tim	taj	Pd-fpl
+zbirkama	zbirka	Ncfpl
+čuvaju	čuvati	Vmr3p
+se	sebe	Px--sa
+petnaest	petnaest	Mlc
+godina	godina	Ncfpg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Kartoteka	Kartoteka	Npfsn
+se	sebe	Px--sa
+vodi	voditi	Vmr3s
+po	po	Sl
+abecednom	abecedni	Agpmsly
+redu	red	Ncmsl
+i	i	Cc
+po	po	Sl
+godinama	godina	Ncfpl
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+tražiteljima	tražitelj	Ncmpl
+
+Članak	članak	Ncmsn
+27.	27.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+tražiteljima	tražitelj	Ncmpl
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+određeni	određen	Agpmsayn
+osobni	osoban	Agpmsayn
+identifikacijski	identifikacijski	Agpmsayn
+broj	broj	Ncmsan
+,	,	Z
+
+2.	2.	Mdo
+eurodac	eurodac	Agpmsayn
+broj	broj	Ncmsan
+,	,	Z
+
+3.	3.	Mdo
+prezime	prezime	Ncnsa
+i	i	Cc
+ime	ime	Ncnsa
+tražitelja	tražitelj	Ncmpg
+te	te	Cc
+spol	spol	Ncmsan
+,	,	Z
+
+4.	4.	Mdo
+datum	datum	Ncmsan
+,	,	Z
+mjesto	mjesto	Ncnsa
+i	i	Cc
+država	država	Ncfsn
+rođenja	rođenje	Ncnsg
+,	,	Z
+
+5.	5.	Mdo
+državljanstvo	državljanstvo	Ncnsa
+,	,	Z
+
+6.	6.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+identifikacijskoj	identifikacijski	Agpfsly
+ispravi	isprava	Ncfsl
+koju	koji	Pi-fsa
+tražitelj	tražitelj	Ncmsn
+posjeduje	posjedovati	Vmr3s
+,	,	Z
+
+7.	7.	Mdo
+mjesto	mjesto	Ncnsa
+i	i	Cc
+vrijeme	vrijeme	Ncnsa
+ulaska	ulazak	Ncmsg
+tražitelja	tražitelj	Ncmpg
+u	u	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+odnosno	odnosno	Rgp
+zatjecanja	zatjecanji	Agpfsny
+,	,	Z
+
+8.	8.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+zatečenim	zateći	Ncfpl
+odnosno	odnosno	Rgp
+oduzetim	oduzeti	Appfply
+stvarima	stvar	Ncfpi
+i	i	Cc
+dokumentima	dokument	Ncmpi
+,	,	Z
+
+9.	9.	Mdo
+rok	rok	Ncmsn
+za	za	Sa
+prijavu	prijava	Ncfsa
+u	u	Sa
+Prihvatilište	prihvatilište	Ncnsa
+,	,	Z
+
+10.	10.	Mdo
+način	način	Ncmsan
+upućivanja	upućivanje	Ncnsg
+u	u	Sa
+Prihvatilište	prihvatilište	Ncnsa
+(	(	Z
+preprata	preprat	Ncmpg
+,	,	Z
+javni	javan	Agpmsny
+prijevoz	prijevoz	Ncmsn
+i	i	Cc
+sl.	sl.	Y
+)	)	Z
+,	,	Z
+
+11.	11.	Mdo
+datum	datum	Ncmsan
+i	i	Cc
+mjesto	mjesto	Ncnsa
+ulaska	ulazak	Ncmsg
+u	u	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+,	,	Z
+
+12.	12.	Mdo
+adresa	adresa	Ncfsn
+boravišta	boravište	Ncnsg
+,	,	Z
+
+13.	13.	Mdo
+prostor	prostor	Ncmsan
+za	za	Sa
+napomenu	napomena	Ncfsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+zahtjevu	zahtjev	Ncmsl
+
+Članak	članak	Ncmsn
+28.	28.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+zahtjevu	zahtjev	Ncmsl
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+prezime	prezime	Ncnsa
+i	i	Cc
+ime	ime	Ncnsa
+tražitelja	tražitelj	Ncmpg
+,	,	Z
+
+2.	2.	Mdo
+spol	spol	Ncmsan
+,	,	Z
+
+3.	3.	Mdo
+prezime	prezime	Ncnsa
+i	i	Cc
+ime	ime	Ncnsa
+oca	oac	Ncmsg
+ili	ili	Cc
+majke	majka	Ncfsg
+,	,	Z
+
+4.	4.	Mdo
+datum	datum	Ncmsan
+,	,	Z
+mjesto	mjesto	Ncnsa
+i	i	Cc
+državu	država	Ncfsa
+rođenja	rođenje	Ncnsg
+,	,	Z
+
+5.	5.	Mdo
+državljanstvo	državljanstvo	Ncnsa
+,	,	Z
+
+6.	6.	Mdo
+bračno	bračni	Agpnsay
+stanje	stanje	Ncnsa
+,	,	Z
+
+7.	7.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+članovima	član	Ncmpl
+uže	uže	Ncnsa
+obitelji	obitelj	Ncfsg
+u	u	Sl
+Republici	republika	Ncfsl
+Hrvatskoj	Hrvatska	Npfsl
+,	,	Z
+
+8.	8.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+postupku	postupak	Ncmsl
+odobrenja	odobrenje	Ncnsg
+međunarodne	međunarodni	Agpfsgy
+zaštite	zaštita	Ncfsg
+,	,	Z
+
+9.	9.	Mdo
+zanimanje	zanimanje	Ncnsa
+,	,	Z
+
+10.	10.	Mdo
+stručnu	stručan	Agpfsay
+spremu	sprema	Ncfsa
+,	,	Z
+
+11.	11.	Mdo
+znanje	znanje	Ncnsa
+jezika	jezik	Ncmsg
+,	,	Z
+
+12.	12.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+putnim	putni	Agpfply
+ili	ili	Cc
+drugim	drugi	Mlofpl
+ispravama	isprava	Ncfpl
+,	,	Z
+
+13.	13.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+plemenskoj	plemenski	Agpfsly
+,	,	Z
+nacionalnoj	nacionalan	Agpfsly
+i	i	Cc
+vjerskoj	vjerski	Agpfsly
+pripadnosti	pripadnost	Ncfsl
+,	,	Z
+
+14.	14.	Mdo
+datum	datum	Ncmsan
+,	,	Z
+mjesto	mjesto	Ncnsa
+i	i	Cc
+način	način	Ncmsan
+ulaska	ulazak	Ncmsg
+u	u	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+,	,	Z
+
+15.	15.	Mdo
+mjesto	mjesto	Ncnsa
+i	i	Cc
+adresu	adresa	Ncfsa
+boravišta	boravište	Ncnsg
+,	,	Z
+
+16.	16.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+izdanoj	izdan	Agpfsly
+iskaznici	iskaznica	Ncfsl
+tražitelja	tražitelj	Ncmpg
+,	,	Z
+
+17.	17.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+ograničenju	ograničenje	Ncnsl
+kretanja	kretanje	Ncnsg
+,	,	Z
+
+18.	18.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+roku	rok	Ncmsl
+za	za	Sa
+napuštanje	napuštanje	Ncnsa
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+
+19.	19.	Mdo
+prostor	prostor	Ncmsan
+za	za	Sa
+napomenu	napomena	Ncfsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+azilantima	azilant	Ncmpl
+i	i	Cc
+strancima	stranac	Ncmpl
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+
+Članak	članak	Ncmsn
+29.	29.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+azilantima	azilant	Ncmpl
+i	i	Cc
+strancima	stranac	Ncmpl
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+pored	pored	Sg
+podataka	podatak	Ncmpg
+iz	iz	Sg
+članka	članak	Ncmsg
+28.	28.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+1.	1.	Mdo
+do	do	Sg
+12.	12.	Mdo
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+osobni	osoban	Agpmsayn
+identifikacijski	identifikacijski	Agpmsayn
+broj	broj	Ncmsan
+,	,	Z
+
+2.	2.	Mdo
+prebivalište	prebivalište	Ncnsn
+azilanta	azilant	Ncmsg
+odnosno	odnosno	Rgp
+stranca	stranac	Ncmsg
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+
+3.	3.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+izdanoj	izdan	Agpfsly
+dozvoli	dozvola	Ncfsl
+boravka	boravak	Ncmsg
+azilanta	azilant	Ncmsg
+odnosno	odnosno	Rgp
+stranca	stranac	Ncmsg
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+
+4.	4.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+prestanku	prestanak	Ncmsl
+ili	ili	Cc
+poništenju	poništenje	Ncnsl
+azila	azil	Ncmsg
+odnosno	odnosno	Rgp
+supsidijarne	supsidijaran	Agpfsgy
+zaštite	zaštita	Ncfsg
+,	,	Z
+
+5.	5.	Mdo
+prostor	prostor	Ncmsan
+za	za	Sa
+napomenu	napomena	Ncfsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+strancima	stranac	Ncmpl
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+
+Članak	članak	Ncmsn
+30.	30.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+strancima	stranac	Ncmpl
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+pored	pored	Sg
+podataka	podatak	Ncmpg
+iz	iz	Sg
+članka	članak	Ncmsg
+28.	28.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+1.	1.	Mdo
+do	do	Sg
+15.	15.	Mdo
+ovog	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+osobni	osoban	Agpmsayn
+identifikacijski	identifikacijski	Agpmsayn
+broj	broj	Ncmsan
+,	,	Z
+
+2.	2.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+izdanoj	izdan	Agpfsly
+iskaznici	iskaznica	Ncfsl
+stranca	stranac	Ncmsg
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+
+3.	3.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+prestanku	prestanak	Ncmsl
+zaštite	zaštita	Ncfsg
+,	,	Z
+
+4.	4.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+roku	rok	Ncmsl
+za	za	Sa
+napuštanje	napuštanje	Ncnsa
+EGP-a	EGP	Npmsg
+,	,	Z
+
+5.	5.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+izdanim	izdan	Agpfply
+dozvolama	dozvola	Ncfpl
+za	za	Sa
+preseljenje	preseljenje	Ncnsa
+stranca	stranac	Ncmsg
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+iz	iz	Sg
+jedne	jedan	Agpfsgy
+države	država	Ncfsg
+u	u	Sl
+drugu	drug	Ncmsl
+,	,	Z
+
+6.	6.	Mdo
+prostor	prostor	Ncmsan
+za	za	Sa
+napomenu	napomena	Ncfsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+putovnicama	putovnica	Ncfpl
+za	za	Sa
+azilante	azilant	Ncmpa
+
+Članak	članak	Ncmsn
+31.	31.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+putovnicama	putovnica	Ncfpl
+za	za	Sa
+azilante	azilant	Ncmpa
+sadrži	sadržati	Vmr3s
+:	:	Z
+
+1.	1.	Mdo
+prezime	prezime	Ncnsa
+i	i	Cc
+ime	ime	Ncnsa
+azilanta	azilant	Ncmsg
+,	,	Z
+
+2.	2.	Mdo
+datum	datum	Ncmsan
+,	,	Z
+mjesto	mjesto	Ncnsa
+i	i	Cc
+državu	država	Ncfsa
+rođenja	rođenje	Ncnsg
+,	,	Z
+
+3.	3.	Mdo
+državljanstvo	državljanstvo	Ncnsa
+,	,	Z
+
+4.	4.	Mdo
+datum	datum	Ncmsan
+izdavanja	izdavanje	Ncnsg
+,	,	Z
+
+5.	5.	Mdo
+serijski	serijski	Agpmsayn
+broj	broj	Ncmsan
+putovnice	putovnica	Ncfsg
+,	,	Z
+
+6.	6.	Mdo
+rok	rok	Ncmsn
+važenja	važenje	Ncnsg
+,	,	Z
+
+7.	7.	Mdo
+naziv	naziv	Ncmsn
+nadležnog	nadležan	Agpnsgy
+tijela	tijelo	Ncnsg
+koje	koji	Pi-nsn
+putovnicu	putovnica	Ncfsa
+izdaje	izdaja	Ncfsg
+,	,	Z
+
+8.	8.	Mdo
+datum	datum	Ncmsan
+uručenja	uručenje	Ncnsg
+,	,	Z
+
+9.	9.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+poništenju	poništenje	Ncnsl
+,	,	Z
+
+10.	10.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+zahtjevu	zahtjev	Ncmsl
+za	za	Sa
+izdavanje	izdavanje	Ncnsa
+,	,	Z
+
+11.	11.	Mdo
+podatke	podatak	Ncmpa
+o	o	Sl
+privremenom	privremen	Agpnsly
+oduzimanju	oduzimanje	Ncnsl
+,	,	Z
+
+12.	12.	Mdo
+prostor	prostor	Ncmsan
+za	za	Sa
+napomenu	napomena	Ncfsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+dozvolama	dozvola	Ncfpl
+boravka	boravak	Ncmsg
+azilanta	azilant	Ncmsg
+i	i	Cc
+stranca	stranac	Ncmsg
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+
+Članak	članak	Ncmsn
+32.	32.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+dozvolama	dozvola	Ncfpl
+boravka	boravak	Ncmsg
+azilanta	azilant	Ncmsg
+i	i	Cc
+stranca	stranac	Ncmsg
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+,	,	Z
+pored	pored	Sg
+podataka	podatak	Ncmpg
+iz	iz	Sg
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+1.	1.	Mdo
+do	do	Sg
+10.	10.	Mdo
+ovoga	ovaj	Ncmsg
+Pravilnika	pravilnik	Ncmsg
+sadrži	sadržati	Vmr3s
+i	i	Cc
+podatak	podatak	Ncmsn
+:	:	Z
+
+–	i	Agpnsny
+prebivalište	prebivalište	Ncnsn
+azilanta	azilant	Ncmsg
+i	i	Cc
+stranca	stranac	Ncmsg
+pod	pod	Si
+supsidijarnom	supsidijaran	Agpfsiy
+zaštitom	zaštita	Ncfsi
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+iskaznicama	iskaznica	Ncfpl
+stranaca	stranac	Ncmpg
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+i	i	Cc
+iskaznicama	iskaznica	Ncfpi
+tražitelja	tražitelj	Ncmpg
+
+Članak	članak	Ncmsn
+33.	33.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+iskaznicama	iskaznica	Ncfpl
+stranaca	stranac	Ncmpg
+pod	pod	Si
+privremenom	privremen	Agpfsiy
+zaštitom	zaštita	Ncfsi
+i	i	Cc
+iskaznicama	iskaznica	Ncfpi
+tražitelja	tražitelj	Ncmpg
+,	,	Z
+pored	pored	Sg
+podataka	podatak	Ncmpg
+iz	iz	Sg
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+točke	točka	Ncfsg
+1.	1.	Mdo
+do	do	Sg
+9.	9.	Mdo
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+sadrži	sadržati	Vmr3s
+i	i	Cc
+podatak	podatak	Ncmsn
+:	:	Z
+
+–	i	Agpnsay
+boravište	boravište	Ncnsa
+.	.	Z
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+prijavi	prijava	Ncfsl
+/	/	Z
+odjavi	odjava	Ncfsl
+prebivališta	prebivalište	Ncnsg
+/	/	Z
+boravišta	boravište	Ncnsg
+
+Članak	članak	Ncmsn
+34.	34.	Mdo
+
+Zbirka	zbirka	Ncfsn
+podataka	podatak	Ncmpg
+o	o	Sl
+prijavi	prijava	Ncfsl
+/	/	Z
+odjavi	odjava	Ncfsl
+prebivališta	prebivalište	Ncnsg
+azilanta	azilant	Ncmsg
+i	i	Cc
+stranca	stranac	Ncmsg
+pod	pod	Si
+

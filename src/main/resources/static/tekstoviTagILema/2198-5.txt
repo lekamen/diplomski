@@ -1,0 +1,530 @@
+slučaju	slučaj	Ncmsl
+kada	kada	Cs
+vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+utvrdi	utvrditi	Vmr3s
+da	da	Cs
+ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+ili	ili	Cc
+drugi	drugi	Mlomsan
+propis	propis	Ncmsan
+na	na	Sl
+temelju	temelj	Ncmsl
+kojeg	koji	Pi-msg
+je	biti	Var3s
+ovlašten	ovlastiti	Appmsnn
+postupati	postupati	Vmn
+nije	biti	Var3s
+primijenjen	primijeniti	Appmsnn
+ili	ili	Cc
+da	da	Cs
+nije	biti	Var3s
+pravilno	pravilan	Agpnsny
+primijenjen	primijeniti	Appmsnn
+te	te	Cc
+kada	kada	Cs
+naredi	narediti	Vmr3s
+uklanjanje	uklanjanje	Ncnsn
+utvrđenih	utvrditi	Agpfpgy
+nepravilnosti	nepravilnost	Ncfpg
+.	.	Z
+
+O	o	Sl
+utvrđenim	utvrditi	Agpfply
+nepravilnostima	nepravilnost	Ncfpl
+vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+dužan	dužan	Agpmsnn
+je	biti	Var3s
+usmeno	usmeno	Rgp
+izvijestiti	izvijestiti	Vmn
+ustrojstvenu	ustrojstven	Agpfsay
+jedinicu	jedinica	Ncfsa
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+nadležnu	nadležan	Agpfsay
+za	za	Sa
+zdravstvo	zdravstvo	Ncnsa
+najkasnije	kasno	Rgs
+24	24	Mdc
+sata	sat	Ncmsg
+po	po	Sl
+okončanju	okončanje	Ncnsl
+inspekcijskog	inspekcijski	Agpmsgy
+nadzora	nadzor	Ncmsg
+/	/	Z
+službene	služben	Agpfsgy
+kontrole	kontrola	Ncfsg
+ili	ili	Cc
+veterinarskog	veterinarski	Agpmsgy
+pregleda	pregled	Ncmsg
+te	te	Cc
+pismeno	pismeno	Rgp
+u	u	Sa
+idućih	idući	Agpmpgy
+osam	osam	Mlc
+dana	dan	Ncmpg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Oblik	oblik	Ncmsan
+i	i	Cc
+sadržaj	sadržaj	Ncmsan
+izvješća	izvješće	Ncnsg
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+članka	članak	Ncmsg
+propisuje	propisivati	Vmr3s
+ustrojstvena	ustrojstven	Agpfsny
+jedinica	jedinica	Ncfsn
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+nadležna	nadležan	Agpfsny
+za	za	Sa
+zdravstvo	zdravstvo	Ncnsa
+.	.	Z
+
+Članak	članak	Ncmsn
+21.	21.	Mdo
+
+Vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+ovlašten	ovlastiti	Appmsnn
+za	za	Sa
+poduzimanje	poduzimanje	Ncnsa
+mjere	mjera	Ncfsg
+zaštite	zaštita	Ncfsg
+zdravlja	zdravlje	Ncnsg
+službenih	služben	Agpfpgy
+životinja	životinja	Ncfpg
+o	o	Sl
+pojavi	pojava	Ncfsl
+sumnje	sumnja	Ncfsg
+na	na	Sa
+zaraznu	zarazan	Agpfsay
+ili	ili	Cc
+nametničku	nametnički	Agpfsay
+bolest	bolest	Ncfsa
+odnosno	odnosno	Rgp
+o	o	Sl
+utvrđenoj	utvrditi	Ncfsl
+zaraznoj	zarazan	Agpfsly
+ili	ili	Cc
+nametničkoj	nametnički	Agpfsly
+bolesti	bolest	Ncfsl
+,	,	Z
+poduzetim	poduzet	Agpfpiy
+mjerama	mjera	Ncfpi
+i	i	Cc
+prestanku	prestanak	Ncmsl
+bolesti	bolest	Ncfsg
+izvješćuje	izvješćivati	Vmr3s
+na	na	Sa
+propisani	propisati	Agpmsayn
+način	način	Ncmsan
+Upravu	uprava	Ncfsa
+nadležnu	nadležan	Agpfsay
+za	za	Sa
+poslove	posao	Ncmpa
+veterinarstva	veterinarstvo	Ncnsg
+Ministarstva	ministarstvo	Ncnsg
+poljoprivrede	poljoprivreda	Ncfsg
+i	i	Cc
+nadležni	nadležan	Agpmsny
+veterinarski	veterinarski	Agpmsny
+ured	ured	Ncmsn
+.	.	Z
+
+V.	V.	Y
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Članak	članak	Ncmsn
+22.	22.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Oblik	oblik	Ncmsan
+i	i	Cc
+sadržaj	sadržaj	Ncmsan
+obrasca	obrazac	Ncmsg
+službene	služben	Agpfsgy
+iskaznice	iskaznica	Ncfsg
+te	te	Cc
+način	način	Ncmsan
+izdavanja	izdavanje	Ncnsg
+i	i	Cc
+vođenja	vođenje	Ncnsg
+upisnika	upisnik	Ncmpg
+o	o	Sl
+izdanim	izdan	Agpfply
+službenim	služben	Agpfply
+iskaznicama	iskaznica	Ncfpl
+propisat	propisati	Vmn
+će	htjeti	Var3s
+pomoćnik	pomoćnik	Ncmsn
+ministra	ministar	Ncmsg
+obrane	obrana	Ncfsg
+nadležan	nadležan	Agpmsann
+za	za	Sa
+ljudske	ljudski	Agpmpay
+resurse	resurs	Ncmpa
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Oblik	oblik	Ncmsan
+i	i	Cc
+sadržaj	sadržaj	Ncmsan
+izvješća	izvješće	Ncnsg
+o	o	Sl
+radu	rad	Ncmsl
+vojnoga	vojni	Agpmsgy
+veterinarskog	veterinarski	Agpmsgy
+inspektora	inspektor	Ncmsg
+propisat	propisati	Vmn
+će	htjeti	Var3s
+čelnik	čelnik	Ncmsn
+ustrojstvene	ustrojstven	Agpfsgy
+jedinice	jedinica	Ncfsg
+Ministarstva	ministarstvo	Ncnsg
+obrane	obrana	Ncfsg
+nadležne	nadležan	Agpfpny
+za	za	Sa
+zdravstvo	zdravstvo	Ncnsa
+u	u	Sl
+roku	rok	Ncmsl
+od	od	Sg
+30	30	Mdc
+dana	dan	Ncmpg
+od	od	Sg
+dana	dan	Ncmsg
+stupanja	stupanje	Ncnsg
+na	na	Sa
+snagu	snaga	Ncfsa
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+23.	23.	Mdo
+
+Stupanjem	stupanje	Ncnsi
+na	na	Sa
+snagu	snaga	Ncfsa
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Pravilnik	pravilnik	Ncmsan
+o	o	Sl
+organizaciji	organizacija	Ncfsl
+rada	rad	Ncmsg
+Vojne	vojni	Agpfsgy
+veterinarske	veterinarski	Agpfsgy
+inspekcije	inspekcija	Ncfsg
+Oružanih	oružan	Agpfpgy
+snaga	snaga	Ncfpg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+urboj	urboj	Ncmsn
+:	:	Z
+512	512	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+00	00	Mdc
+-	-	Z
+1276	1276	Mdc
+od	od	Sg
+17.	17.	Mdo
+srpnja	srpanj	Ncmsg
+2000.	2000.	Mdo
+)	)	Z
+
+Članak	članak	Ncmsn
+24.	24.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/23	04/23	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+512	512	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+5	5	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+16.	16.	Mdo
+listopada	listopad	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Ante	Ante	Npmsn
+Kotromanović	Kotromanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1	1	Mdc
+
+VOJNA	vojni	Agpfsny
+VETERINARSKA	veterinarski	Agpfsny
+INSPEKCIJA	inspekcija	Ncfsn
+
+VP	vi	Agpnsny
+________________________________	________________________________	Z
+
+KLASA	klasa	Ncfsn
+:	:	Z
+____________________________	____________________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+___________________________	___________________________	Z
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+datum	datum	Ncmsn
+:	:	Z
+______________________	______________________	Z
+
+ZAPISNIK	zapisnik	Ncmsn
+
+o	o	Sl
+inspekcijskom	inspekcijski	Agpmsly
+nadzoru	nadzor	Ncmsl
+u	u	Sl
+______________________________	_____________________________a	Ncfsl
+
+mjesto	mjesto	Ncnsn
+_________________________	________________________	Ncmsg
+,	,	Z
+dana	dan	Ncmpg
+_______________	_______________	Qr
+.	.	Z
+
+Nadzor	nadzor	Ncmsn
+obavljen	obaviti	Appmsnn
+od	od	Sg
+_______________	______________a	Ncfsg
+do	do	Sg
+_________________	________________a	Ncfsg
+.	.	Z
+
+Nakon	nakon	Sg
+obavljenog	obaviti	Agpmsgy
+nadzora	nadzor	Ncmsg
+ustanovljeno	ustanoviti	Appnsny
+je	biti	Var3s
+sljedeće	sljedeći	Agpnsny
+:	:	Z
+
+___________________________________________________	___________________________________________________	Ncfsn
+
+___________________________________________________	___________________________________________________	Ncfsn
+
+Zapisnik	zapisnik	Ncmsn
+je	biti	Var3s
+stranki	stranka	Ncfsd
+pročitan	pročitati	Appmsnn
+i	i	Cc
+na	na	Sa
+njega	on	Pp3msa
+su	biti	Var3p
+stavljene	stavljen	Agpfpny
+primjedbe	primjedba	Ncfpn
+:	:	Z
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+Prisutni	prisutan	Agpmpny
+pregledu	pregled	Ncmsl
+:	:	Z
+_____________________________________	_____________________________________	Z
+
+Zapisnik	zapisnik	Ncmsn
+sastavljen	sastaviti	Appmsnn
+u	u	Sa
+_______________	______________	Ncmpa
+primjeraka	primjerak	Ncmpg
+.	.	Z
+
+Dostavljeno	dostaviti	Appnsny
+:	:	Z
+
+____________________	____________________	Agpmsny
+Vojni	vojni	Agpmsny
+veterinarski	veterinarski	Agpmsny
+inspektor	inspektor	Ncmsn
+
+____________________	____________________	Npmsn
+MP	MP	Npmsn
+
+____________________	____________________	I
+_______________________	_______________________	Z
+
+PRILOG	prilog	Ncmsn
+2	2	Mdc
+
+VOJNA	vojni	Agpfsny
+VETERINARSKA	veterinarski	Agpfsny
+INSPEKCIJA	inspekcija	Ncfsn
+
+VP	vi	Agpnsny
+________________________________________	________________________________________	Z
+
+KLASA	klasa	Ncfsn
+:	:	Z
+____________________________________	____________________________________	Z
+
+URBROJ	urbroj	Ncmsn
+:	:	Z
+___________________________________	___________________________________	Z
+
+Mjesto	mjesto	Ncnsn
+i	i	Cc
+datum	datum	Ncmsn
+:	:	Z
+_______________________________	_______________________________	Z
+
+ZAPISNIK	zapisnik	Ncmsn
+O	o	Sl
+UZIMANJU	uzimanje	Ncnsl
+UZORAKA	uzorak	Ncmpg
+HRANE	hrana	Ncfsg
+
+1.	1.	Mdo
+Naziv	naziv	Ncmsn
+hrane	hrana	Ncfsg
+od	od	Sg
+koje	koji	Pi-fsg
+se	sebe	Px--sa
+uzima	uzimati	Vmr3s
+uzorak	uzorak	Ncmsan
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+2.	2.	Mdo
+Svrha	svrha	Ncfsn
+izuzimanja	izuzimanje	Ncnsg
+uzorka	uzorak	Ncmsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+3.	3.	Mdo
+Vlasnik	vlasnik	Ncmsn
+hrane	hrana	Ncfsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+4.	4.	Mdo
+Proizvođač	proizvođač	Ncmsn
+hrane	hrana	Ncfsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+5.	5.	Mdo
+Vrijeme	vrijeme	Ncnsn
+uzimanja	uzimanje	Ncnsg
+uzorka	uzorak	Ncmsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+6.	6.	Mdo
+Ukupna	ukupan	Agpfsny
+količina	količina	Ncfsn
+hrane	hrana	Ncfsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+7.	7.	Mdo
+Opis	opis	Ncmsn
+hrane	hrana	Ncfsg
+od	od	Sg
+koje	koji	Pi-fsg
+je	biti	Var3s
+uzet	uzet	Agpmsnn
+uzorak	uzorak	Ncmsn
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+8.	8.	Mdo
+Način	način	Ncmsan
+uskladištenja	uskladištenje	Ncnsg
+ili	ili	Cc
+čuvanja	čuvanje	Ncnsg
+
+__________________________________________________	__________________________________________________	Ncfsn
+
+9.	9.	Mdo
+Okolnosti	okolnost	Ncfsg
+koje	koji	Pi-fpn
+bi	biti	Vaa3p
+mogle	moći	Vmp-pf
+biti	biti	Van
+od	od	Sg
+značaja	značaj	Ncmsg
+pri	pri	Sl
+davanju	davanje	Ncnsl
+mišljenja	mišljenje	Ncnsg
+o	o	Sl
+ispravnosti	ispravnost	Ncfsl
+hrane	hrana	Ncfsg
+
+__________________________________________________	__________________________________________________	I
+__________________________________________________	__________________________________________________	Z
+

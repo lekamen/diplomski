@@ -1,0 +1,29 @@
+programskom	programski	Agpfsiy
+podrškom	podrška	Ncfsi
+,	,	Z
+računalni	računalni	Agpmsny
+projektor	projektor	Ncmsn
+,	,	Z
+ploča	ploča	Ncfsn
+i	i	Cc
+pribor	pribor	Ncmsn
+za	za	Sa
+pisanje	pisanje	Ncnsa
+po	po	Sl
+ploči	ploča	Ncfsl
+.	.	Z
+
+6.	6.	Mdo
+Kadrovski	kadrovski	Agpmpny
+uvjeti	uvjet	Ncmpn
+
+Profesor	profesor	Ncmsn
+informatike	informatika	Ncfsg
+ili	ili	Cc
+odgovarajuća	odgovarajući	Agpfsny
+stručna	stručan	Agpfsny
+sprema	sprema	Ncfsn
+,	,	Z
+VSS	VSS	Npmsn
+.	.	Z
+

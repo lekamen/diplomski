@@ -1,0 +1,128 @@
+105	105	Mdc
+16.11.2016	16.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+potpredsjednika	potpredsjednik	Ncmsg
+Odbora	odbor	Ncmsg
+za	za	Sa
+Hrvate	Hrvat	Npmpa
+izvan	izvan	Sg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2206	2206	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+46.	46.	Mdo
+i	i	Cc
+90.	90.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+11.	11.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+POTPREDSJEDNIKA	potpredsjednik	Ncmsg
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+HRVATE	Hrvat	Npmpa
+IZVAN	izvan	Sg
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+I.	I.	Y
+
+Za	za	Sa
+potpredsjednika	potpredsjednik	Ncmsay
+Odbora	odbor	Ncmsg
+za	za	Sa
+Hrvate	Hrvat	Npmpa
+izvan	izvan	Sg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+bira	birati	Vmr3s
+se	sebe	Px--sa
+IVICA	Ivica	Npmsn
+MIŠIĆ	Mišić	Npmsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+donošenja	donošenje	Ncnsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/103	03/103	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+studenoga	studeni	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,46 @@
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+03/04	03/04	Mdc
+
+Urboj	urboj	Ncmsn
+:	:	Z
+558	558	Mdc
+-	-	Z
+01/2	01/2	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+
+Zamjenik	zamjenik	Ncmsn
+ravnatelja	ravnatelj	Ncmsg
+mr.	mr.	Y
+sc.	sc.	Y
+Božidar	Božidar	Npmsn
+Ljubić	Ljubić	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

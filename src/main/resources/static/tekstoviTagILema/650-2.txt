@@ -1,0 +1,137 @@
+EKS	eks	Rgp
+-	-	Z
+PLOZIVA	PLOZIVA	Npfsn
+0,960	0,960	Mdc
+40	40	Mdc
+
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+POLICIJSKI	policijski	Agpmsny
+SLUŽBENIK	službenik	Ncmsn
+–	–	Z
+VODIČ	vodič	Ncmsn
+SLUŽBENOG	služben	Agpmsgy
+PSA	pas	Ncmsg
+ZA	za	Sa
+DETEKCIJU	detekcija	Ncfsa
+EKS	eks	Rgp
+-	-	Z
+PLOZIVA	PLOZIVA	Npfsn
+0,960	0,960	Mdc
+50	50	Mdc
+
+Iza	iza	Sg
+odjeljka	odjeljak	Ncmsg
+:	:	Z
+
+ZAPOVJEDNIK	zapovjednik	Ncmsn
+RONILAČKOG	ronilački	Agpnsgy
+ODJELJENJA	odjeljenje	Ncnsg
+0,873	0,873	Mdc
+60	60	Mdc
+
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+odjeljci	odjeljak	Ncmpn
+:	:	Z
+
+PRATITELJ	pratitelj	Ncmsn
+–	–	Z
+MOTORIST	motorist	Ncmsn
+0,873	0,873	Mdc
+50	50	Mdc
+PRATITELJ	pratitelj	Ncmsn
+–	–	Z
+VOZAČ	vozač	Ncmsn
+0,873	0,873	Mdc
+50	50	Mdc
+
+Odjeljci	odjeljak	Ncmpn
+:	:	Z
+
+VOĐA	vođa	Ncmsn
+GRUPE	grupa	Ncfsg
+ZA	za	Sa
+PROTUEKSPLOZIJSKU	protueksplozijski	Agpfsay
+ZAŠTITU	zaštita	Ncfsa
+U	u	Sl
+UREDU	ured	Ncmsl
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGURNOSTI	sigurnost	Ncfsg
+1,135	1,135	Mdc
+40	40	Mdc
+POLICIJSKI	policijski	Agpmsny
+SLUŽBENIK	službenik	Ncmsn
+ZA	za	Sa
+PROTUEKSPLOZIJSKU	protueksplozijski	Agpfsay
+ZAŠTITU	zaštita	Ncfsa
+U	u	Sl
+UREDU	ured	Ncmsl
+ZA	za	Sa
+POSEBNE	poseban	Agpmpay
+POSLOVE	posao	Ncmpa
+SIGURNOSTI	sigurnost	Ncfsg
+1,067	1,067	Mdc
+40	40	Mdc
+
+brišu	brisati	Vmr3p
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Ova	ovaj	Pd-fsn
+Uredba	uredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+03/24	03/24	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/06	09/06	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+18.	18.	Mdo
+ožujka	ožujak	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

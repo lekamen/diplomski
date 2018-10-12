@@ -1,0 +1,523 @@
+upravljanje	upravljanje	Ncnsn
+
+24	24	Mdc
+–	–	Z
+Obveze	obveza	Ncfpn
+prema	prema	Sl
+depozitaru	depozitar	Ncmsl
+
+25	25	Mdc
+–	–	Z
+Obveze	obveza	Ncfpn
+s	sa	Sg
+osnove	osnova	Ncfsg
+dozvoljenih	dozvoljen	Agpmpgy
+troškova	trošak	Ncmpg
+UCITS	UCITS	Npmsn
+fonda	fond	Ncmsg
+
+26	26	Mdc
+–	–	Z
+Obveze	obveza	Ncfpn
+prema	prema	Sl
+imateljima	imatelj	Ncmpl
+udjela	udjel	Ncmsg
+
+27	27	Mdc
+–	–	Z
+Ostale	ostali	Agpfpny
+obveze	obveza	Ncfpn
+UCITS	UCITS	Sg
+fonda	fond	Ncmsg
+
+28	28	Mdc
+–	–	Z
+Obveze	obveza	Ncfpa
+po	po	Sl
+obračunatoj	obračunati	Agpfsly
+kamati	kamata	Ncfsl
+
+3	3	Mdc
+–	–	Z
+Financijska	financijski	Agpfsny
+imovina	imovina	Ncfsn
+po	po	Sl
+fer	fer	Agpfsly
+vrijednosti	vrijednost	Ncfsl
+kroz	kroz	Sa
+račun	račun	Ncmsan
+dobiti	dobit	Ncfsg
+i	i	Cc
+gubitka	gubitak	Ncmsg
+
+30	30	Mdc
+–	–	Z
+Prenosivi	prenosiv	Agpmpny
+vrijednosni	vrijednosan	Agpmpny
+papiri	papir	Ncmpn
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+34	34	Mdc
+–	–	Z
+Izvedenice	izvedenica	Ncfpn
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+35	35	Mdc
+–	–	Z
+Instrumenti	instrument	Ncmpn
+tržišta	tržište	Ncnsg
+novca	novac	Ncmsg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+36	36	Mdc
+–	–	Z
+Udjeli	udjel	Ncmpn
+UCITS	UCIT	Npmpg
+fondova	fond	Ncmpg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+4	4	Mdc
+–	–	Z
+Financijska	financijski	Agpfsny
+imovina	imovina	Ncfsn
+raspoloživa	raspoloživ	Agpfsny
+za	za	Sa
+prodaju	prodaja	Ncfsa
+
+40	40	Mdc
+–	–	Z
+Prenosivi	prenosiv	Agpmpny
+vrijednosni	vrijednosan	Agpmpny
+papiri	papir	Ncmpn
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+41	41	Mdc
+–	–	Z
+Udjeli	udjel	Ncmpn
+UCITS	UCIT	Npmpg
+fondova	fond	Ncmpg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+5	5	Mdc
+–	–	Z
+Ulaganja	ulaganje	Ncnpn
+koja	koji	Pi-npn
+se	sebe	Px--sa
+drže	držati	Vmr3p
+do	do	Sg
+dospijeća	dospijeće	Ncnsg
+
+50	50	Mdc
+–	–	Z
+Prenosivi	prenosiv	Agpmpny
+vrijednosni	vrijednosan	Agpmpny
+papiri	papir	Ncmpn
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+drže	držati	Vmr3p
+do	do	Sg
+dospijeća	dospijeće	Ncnsg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+51	51	Mdc
+–	–	Z
+Instrumenti	instrument	Ncmpn
+tržišta	tržište	Ncnsg
+novca	novac	Ncmsg
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+drže	držati	Vmr3p
+do	do	Sg
+dospijeća	dospijeće	Ncnsg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+6	6	Mdc
+–	–	Z
+Rashodi	rashod	Ncmpn
+
+60	60	Mdc
+–	–	Z
+Negativne	negativan	Agpfpny
+tečajne	tečajni	Agpfpny
+razlike	razlika	Ncfpn
+
+60	60	Mdc
+x	X	X
+–	–	Z
+Ostale	ostali	Agpfpay
+negativne	negativan	Agpfpay
+tečajne	tečajni	Agpfpay
+razlike	razlika	Ncfpa
+(	(	Z
+osim	osim	Cs
+po	po	Sl
+financijskim	financijski	Agpmply
+instrumentima	instrument	Ncmpl
+po	po	Sl
+fer	fer	Agpfsly
+vrijednosti	vrijednost	Ncfsl
+)	)	Z
+
+60	60	Mdc
+y	y	Y
+–	–	Z
+Negativne	negativan	Agpfpny
+tečajne	tečajni	Agpfpny
+razlike	razlika	Ncfpn
+financijskih	financijski	Agpmpgy
+instrumenata	instrument	Ncmpg
+po	po	Sl
+fer	fer	Agpfsly
+vrijednosti	vrijednost	Ncfsl
+
+61	61	Mdc
+–	–	Z
+Rashodi	rashod	Ncmpn
+s	sa	Sg
+osnove	osnova	Ncfsg
+odnosa	odnos	Ncmsg
+s	sa	Si
+društvom	društvo	Ncnsi
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+
+62	62	Mdc
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+gubici	gubitak	Ncmpn
+–	–	Z
+svođenje	svođenje	Ncnsa
+na	na	Sa
+fer	fer	Agpnsay
+vrijednost	vrijednost	Ncfsn
+
+62	62	Mdc
+x	X	X
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+gubici	gubitak	Ncmpn
+od	od	Sg
+ulaganja	ulaganje	Ncnsg
+u	u	Sa
+financijske	financijski	Agpmpay
+instrumente	instrument	Ncmpa
+(	(	Z
+osim	osim	Sg
+izvedenica	izvedenica	Ncfpg
+)	)	Z
+
+62	62	Mdc
+y	y	Y
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+gubici	gubitak	Ncmpn
+od	od	Sg
+izvedenica	izvedenica	Ncfpg
+
+63	63	Mdc
+–	–	Z
+Realizirani	realizirati	Appmpny
+gubici	gubitak	Ncmpn
+od	od	Sg
+prodaje	prodaja	Ncfsg
+financijskih	financijski	Agpmpgy
+instrumenata	instrument	Ncmpg
+
+64	64	Mdc
+–	–	Z
+Umanjenje	umanjenje	Ncnsn
+imovine	imovina	Ncfsg
+
+65	65	Mdc
+–	–	Z
+Naknada	naknada	Ncfsn
+depozitaru	depozitar	Ncmsl
+
+66	66	Mdc
+–	–	Z
+Transakcijski	transakcijski	Agpmpny
+troškovi	trošak	Ncmpn
+
+67	67	Mdc
+–	–	Z
+Rashodi	rashod	Ncmpn
+od	od	Sg
+kamata	kamata	Ncfpg
+
+69	69	Mdc
+–	–	Z
+Ostali	ostali	Agpmpny
+dozvoljeni	dozvoljen	Agpmpny
+troškovi	trošak	Ncmpn
+UCITS	UCITS	Sg
+fonda	fond	Ncmsg
+
+7	7	Mdc
+–	–	Z
+Prihodi	prihod	Ncmpn
+
+70	70	Mdc
+–	–	Z
+Prihodi	prihod	Ncmpn
+od	od	Sg
+kamata	kamata	Ncfpg
+
+71	71	Mdc
+–	–	Z
+Pozitivne	pozitivan	Agpfsgy
+tečajne	tečajni	Agpfsgy
+razlike	razlika	Ncfsg
+
+71	71	Mdc
+x	X	X
+–	–	Z
+Ostale	ostali	Agpfpay
+pozitivne	pozitivan	Agpfpay
+tečajne	tečajni	Agpfpay
+razlike	razlika	Ncfpa
+(	(	Z
+osim	osim	Cs
+po	po	Sl
+financijskim	financijski	Agpmply
+instrumentima	instrument	Ncmpl
+po	po	Sl
+fer	fer	Agpfsly
+vrijednosti	vrijednost	Ncfsl
+)	)	Z
+
+71	71	Mdc
+y	y	Y
+–	–	Z
+Pozitivne	pozitivan	Agpfpny
+tečajne	tečajni	Agpfpny
+razlike	razlika	Ncfpn
+financijskih	financijski	Agpmpgy
+instrumenata	instrument	Ncmpg
+po	po	Sl
+fer	fer	Agpfsly
+vrijednosti	vrijednost	Ncfsl
+
+72	72	Mdc
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+dobici	dobitak	Ncmpn
+–	–	Z
+svođenje	svođenje	Ncnsa
+na	na	Sa
+fer	fer	Agpnsay
+vrijednost	vrijednost	Ncfsn
+
+72	72	Mdc
+x	X	X
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+dobici	dobitak	Ncmpn
+od	od	Sg
+ulaganja	ulaganje	Ncnsg
+u	u	Sa
+financijske	financijski	Agpmpay
+instrumente	instrument	Ncmpa
+(	(	Z
+osim	osim	Sg
+izvedenica	izvedenica	Ncfpg
+)	)	Z
+
+72	72	Mdc
+y	y	Y
+–	–	Z
+Nerealizirani	nerealiziran	Agpmpny
+dobici	dobitak	Ncmpn
+od	od	Sg
+izvedenica	izvedenica	Ncfpg
+
+73	73	Mdc
+–	–	Z
+Realizirani	realizirati	Appmpny
+dobici	dobitak	Ncmpn
+od	od	Sg
+prodaje	prodaja	Ncfsg
+financijskih	financijski	Agpmpgy
+instrumenata	instrument	Ncmpg
+
+74	74	Mdc
+–	–	Z
+Prihodi	prihod	Ncmpn
+od	od	Sg
+dividendi	dividenda	Ncfpg
+
+75	75	Mdc
+–	–	Z
+Ostali	ostali	Agpmpny
+prihodi	prihod	Ncmpn
+
+79	79	Mdc
+–	–	Z
+Razlika	razlika	Ncfsn
+prihoda	prihod	Ncmpg
+i	i	Cc
+rashoda	rashod	Ncmpg
+
+8	8	Mdc
+–	–	Z
+Zajmovi	zajam	Ncmpn
+i	i	Cc
+potraživanja	potraživanje	Ncnsg
+
+80	80	Mdc
+–	–	Z
+Prenosivi	prenosiv	Agpmpny
+neuvršteni	neuvršten	Agpmpny
+vrijednosni	vrijednosan	Agpmpny
+papiri	papir	Ncmpn
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+81	81	Mdc
+–	–	Z
+Ulaganja	ulaganje	Ncnsg
+temeljem	temelj	Ncmsi
+repo	repa	Sg
+ugovora	ugovor	Ncmsg
+o	o	Sl
+kupnji	kupnja	Ncfsl
+i	i	Cc
+ponovnoj	ponovan	Agpfsly
+prodaji	prodaja	Ncfsl
+te	te	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+83	83	Mdc
+–	–	Z
+Ulaganja	ulaganje	Ncnsg
+u	u	Sa
+depozite	depozit	Ncmpa
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+84	84	Mdc
+–	–	Z
+Ugovori	ugovor	Ncmpn
+o	o	Sl
+kupnji	kupnja	Ncfsl
+i	i	Cc
+ponovnoj	ponovan	Agpfsly
+prodaji	prodaja	Ncfsl
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+85	85	Mdc
+–	–	Z
+Ostala	ostali	Agpfsny
+financijska	financijski	Agpfsny
+imovina	imovina	Ncfsn
+koja	koji	Pi-fsn
+pripada	pripadati	Vmr3s
+portfelju	portfelj	Ncmsd
+zajmovi	zajam	Ncmpn
+i	i	Cc
+potraživanja	potraživanje	Ncnsg
+i	i	Cc
+usklađenje	usklađenje	Ncnsa
+vrijednosti	vrijednost	Ncfsg
+
+9	9	Mdc
+–	–	Z
+Obveze	obveza	Ncfpn
+prema	prema	Sl
+izvorima	izvor	Ncmpl
+imovine	imovina	Ncfsg
+(	(	Z
+udjela	udjel	Ncmsg
+)	)	Z
+i	i	Cc
+revalorizacijske	revalorizacijski	Agpfsgy
+rezerve	rezerva	Ncfsg
+UCITS	ucit	Agpmsgn
+fonda	fond	Ncmsg
+
+90	90	Mdc
+–	–	Z
+Izdani	izdan	Agpmpny
+/	/	Z
+otkupljeni	otkupiti	Appmpny
+udjeli	udjel	Ncmpn
+UCITS	UCIT	Npmsg
+fonda	fond	Ncmsg
+
+94	94	Mdc
+–	–	Z
+Dobit	dobit	Ncfsn
+/	/	Z
+gubitak	gubitak	Ncmsan
+tekuće	tekući	Agpfsgy
+poslovne	poslovan	Agpfsgy
+godine	godina	Ncfsg
+
+95	95	Mdc
+–	–	Z
+Zadržana	zadržati	Appfsny
+dobit	dobit	Ncfsn
+/	/	Z
+gubitak	gubitak	Ncmsan
+iz	iz	Sg
+prethodnih	prethodan	Agpnpgy
+razdoblja	razdoblje	Ncnpg
+
+96	96	Mdc
+–	–	Z
+Revalorizacija	revalorizacija	Ncfsn
+financijske	financijski	Agpfsgy
+imovine	imovina	Ncfsg
+raspoložive	raspoloživ	Agpfpny
+za	za	Sa
+prodaju	prodaja	Ncfsa
+
+97	97	Mdc
+–	–	Z
+Revalorizacijske	revalorizacijski	Agpfsgy
+rezerve	rezerva	Ncfsg
+instrumenata	instrument	Ncmpg
+zaštite	zaštita	Ncfsg
+
+990	990	Mdc
+-	-	Z
+994	994	Mdc
+–	–	Z
+Aktivna	aktivan	Agpfsny
+izvanbilančna	izvanbilančan	Agpfsny
+evidencija	evidencija	Ncfsn
+
+995	995	Mdc
+-	-	Z
+999	999	Mdc
+–	–	Z
+Pasivna	pasivan	Agpfsny
+izvanbilančna	izvanbilančan	Agpfsny
+evidencija	evidencija	Ncfsn
+
+PRILOG	prilog	Ncmsn
+2	2	Mdc
+–	–	Z
+PRILOG	prilog	Ncmsn
+5	5	Mdc
+

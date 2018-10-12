@@ -1,0 +1,127 @@
+institucijama	institucija	Ncfpi
+iz	iz	Sg
+nadležnosti	nadležnost	Ncfsg
+.	.	Z
+
+5.2.	5.2.	Mdo
+
+Unutarnja	unutarnji	Agpfsny
+revizija	revizija	Ncfsn
+
+Ključni	ključan	Agpmpny
+zahtjevi	zahtjev	Ncmpn
+:	:	Z
+
+5.2.1.	5.2.1.	Mdo
+
+Doneseni	donesen	Agpmpny
+su	biti	Var3p
+strateški	strateški	Agpmpny
+i	i	Cc
+godišnji	godišnji	Agpmsny
+plan	plan	Ncmsn
+unutarnje	unutarnji	Agpfsgy
+revizije	revizija	Ncfsg
+.	.	Z
+
+5.2.2.	5.2.2.	Mdo
+
+Unutarnja	unutarnji	Agpfsny
+revizija	revizija	Ncfsn
+obavlja	obavljati	Vmr3s
+poslove	posao	Ncmpa
+unutarnje	unutarnji	Agpfsgy
+revizije	revizija	Ncfsg
+unutar	unutar	Sg
+institucije	institucija	Ncfsg
+i	i	Cc
+u	u	Sl
+institucijama	institucija	Ncfpl
+iz	iz	Sg
+nadležnosti	nadležnost	Ncfsg
+,	,	Z
+osim	osim	Cs
+u	u	Sl
+onima	onaj	Ncmpl
+u	u	Sl
+kojima	koji	Pi-fpl
+je	biti	Var3s
+unutarnja	unutarnji	Agpfsny
+revizija	revizija	Ncfsn
+uspostavljena	uspostaviti	Appfsny
+sukladno	sukladno	Rgp
+kriterijima	kriterij	Ncmpd
+za	za	Sa
+uspostavu	uspostava	Ncfsa
+unutarnje	unutarnji	Agpfsgy
+revizije	revizija	Ncfsg
+.	.	Z
+
+5.2.3.	5.2.3.	Mdo
+
+Usvojeni	usvojen	Agpmpny
+su	biti	Var3p
+planovi	plan	Ncmpn
+djelovanja	djelovanje	Ncnsg
+za	za	Sa
+provedbu	provedba	Ncfsa
+preporuka	preporuka	Ncfpg
+unutarnje	unutarnji	Agpfsgy
+revizije	revizija	Ncfsg
+,	,	Z
+a	a	Cc
+u	u	Sl
+slučajevima	slučaj	Ncmpl
+neprovođenja	neprovođenje	Ncnsg
+preporuka	preporuka	Ncfpg
+odgovorna	odgovoran	Agpfsny
+osoba	osoba	Ncfsn
+institucije	institucija	Ncfsg
+poduzima	poduzimati	Vmr3s
+odgovarajuće	odgovarajući	Agpfpay
+mjere	mjera	Ncfpa
+.	.	Z
+
+5.3.	5.3.	Mdo
+
+Provođenje	provođenje	Ncnsn
+preporuka	preporuka	Ncfpg
+vanjske	vanjski	Agpfsgy
+revizije	revizija	Ncfsg
+
+Ključni	ključan	Agpmsny
+zahtjev	zahtjev	Ncmsn
+:	:	Z
+
+5.3.1.	5.3.1.	Mdo
+
+Provode	provoditi	Vmr3p
+se	sebe	Px--sa
+preporuke	preporuka	Ncfpn
+vanjske	vanjski	Agpfsgy
+revizije	revizija	Ncfsg
+i	i	Cc
+prati	pratiti	Vmr3s
+se	sebe	Px--sa
+provedba	provedba	Ncfsn
+preporuka	preporuka	Ncfpg
+vanjske	vanjski	Agpfsgy
+revizije	revizija	Ncfsg
+kod	kod	Sg
+institucija	institucija	Ncfpg
+iz	iz	Sg
+nadležnosti	nadležnost	Ncfsg
+,	,	Z
+a	a	Cc
+u	u	Sl
+slučajevima	slučaj	Ncmpl
+neprovođenja	neprovođenje	Ncnsg
+preporuka	preporuka	Ncfpg
+odgovorna	odgovoran	Agpfsny
+osoba	osoba	Ncfsn
+institucije	institucija	Ncfsg
+poduzima	poduzimati	Vmr3s
+odgovarajuće	odgovarajući	Agpfpay
+mjere	mjera	Ncfpa
+.	.	Z
+

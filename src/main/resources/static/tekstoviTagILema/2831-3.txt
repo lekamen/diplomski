@@ -1,0 +1,24 @@
+zapošljavanja	zapošljavanje	Ncnsg
+
+Program	program	Ncmsn
+omogućava	omogućavati	Vmr3s
+zapošljavanje	zapošljavanje	Ncnsa
+u	u	Sl
+ustanovama	ustanova	Ncfpl
+za	za	Sa
+strukovno	strukovni	Agpnsay
+obrazovanje	obrazovanje	Ncnsa
+te	te	Cc
+izvođenje	izvođenje	Ncnsa
+praktične	praktičan	Agpfsgy
+nastave	nastava	Ncfsg
+i	i	Cc
+vježbi	vježba	Ncfpg
+kod	kod	Sg
+poslodavca	poslodavac	Ncmsg
+.	.	Z
+
+3.	3.	Mdo
+OPIS	opis	Ncmsn
+PROGRAMA	program	Ncmsg
+

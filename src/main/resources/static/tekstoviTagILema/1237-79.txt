@@ -1,0 +1,728 @@
+8	8	Mdc
+3.1.2.	3.1.2.	Mdo
+
+Služba	služba	Ncfsn
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+1	1	Mdc
+3.1.2.1.	3.1.2.1.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+i	i	Cc
+koncesijski	koncesijski	Agpmsny
+sustav	sustav	Ncmsn
+5	5	Mdc
+3.1.2.2.	3.1.2.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+granice	granica	Ncfpa
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+5	5	Mdc
+3.2.	3.2.	Mds
+
+Sektor	sektor	Ncmsn
+pomorske	pomorski	Agpfsgy
+plovidbe	plovidba	Ncfsg
+,	,	Z
+pravnih	pravni	Agpfpgy
+,	,	Z
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+i	i	Cc
+EU	E	Npmsg
+1	1	Mdc
+3.2.1.	3.2.1.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+pravne	pravni	Agpmpay
+,	,	Z
+međunarodne	međunarodni	Agpmpay
+poslove	posao	Ncmpa
+,	,	Z
+razvojne	razvojan	Agpmpay
+projekte	projekt	Ncmpa
+i	i	Cc
+EU	E	Npmsg
+1	1	Mdc
+3.2.1.1.	3.2.1.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+5	5	Mdc
+3.2.1.2.	3.2.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+međunarodne	međunarodni	Agpmpay
+poslove	posao	Ncmpa
+,	,	Z
+EU	E	Npmsg
+poslove	posao	Ncmpa
+i	i	Cc
+EU	E	Npmsg
+fondove	fond	Ncmpa
+5	5	Mdc
+3.2.2.	3.2.2.	Y
+
+Služba	služba	Ncfsn
+pomorskog	pomorski	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+brodarstva	brodarstvo	Ncnsg
+1	1	Mdc
+3.2.2.1.	3.2.2.1.	Mds
+
+Odjel	odjel	Ncmsn
+pomorskog	pomorski	Agpmsgy
+prometa	promet	Ncmsg
+5	5	Mdc
+3.2.2.2.	3.2.2.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+financiranje	financiranje	Ncnsa
+i	i	Cc
+potporu	potpora	Ncfsa
+brodarima	brodar	Ncmpd
+i	i	Cc
+praćenje	praćenje	Ncnsa
+poslovanja	poslovanje	Ncnsg
+pravnih	pravni	Agpfpgy
+osoba	osoba	Ncfpg
+od	od	Sg
+interesa	interes	Ncmsg
+za	za	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+5	5	Mdc
+3.3.	3.3.	Mds
+
+Sektor	sektor	Ncmsn
+unutarnje	unutarnji	Agpfsgy
+plovidbe	plovidba	Ncfsg
+1	1	Mdc
+3.3.1.	3.3.1.	Mdo
+
+Služba	služba	Ncfsn
+pravnih	pravni	Agpfpgy
+i	i	Cc
+međunarodnih	međunarodni	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+3.3.2.	3.3.2.	Y
+
+Služba	služba	Ncfsn
+sigurnosti	sigurnost	Ncfsg
+,	,	Z
+riječnog	riječni	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+luka	luka	Ncfsn
+1	1	Mdc
+3.3.2.1.	3.3.2.1.	Mds
+
+Odjel	odjel	Ncmsn
+sigurnosti	sigurnost	Ncfsg
+riječnog	riječni	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+brodarstva	brodarstvo	Ncnsg
+5	5	Mdc
+3.3.2.2.	3.3.2.2.	Mds
+
+Odjel	odjel	Ncmsn
+lučkog	lučki	Agpmsgy
+sustava	sustav	Ncmsg
+5	5	Mdc
+3.3.3.	3.3.3a	Ncfsg
+
+Služba	služba	Ncfsn
+za	za	Sa
+strategiju	strategija	Ncfsa
+i	i	Cc
+razvojne	razvojan	Agpmpay
+programe	program	Ncmpa
+8	8	Mdc
+3.4.	3.4.	Mds
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Sisak	Sisak	Npmsn
+1	1	Mdc
+3.4.1.	3.4.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+prometa	promet	Ncmsg
+i	i	Cc
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+5	5	Mdc
+3.4.2.	3.4.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.4.3.	3.4.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravnopravne	upravnopravan	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.5.	3.5.	Mds
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Osijek	Osijek	Npmsn
+1	1	Mdc
+3.5.1.	3.5.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+prometa	promet	Ncmsg
+i	i	Cc
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+6	6	Mdc
+3.5.2.	3.5.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.5.3.	3.5.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravnopravne	upravnopravan	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.5.4.	3.5.4.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Varaždin	Varaždin	Npmsn
+1	1	Mdc
+3.6.	3.6.	Mds
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Slavonski	slavonski	Agpmsny
+Brod	brod	Ncmsn
+1	1	Mdc
+3.6.1.	3.6.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+prometa	promet	Ncmsg
+i	i	Cc
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+5	5	Mdc
+3.6.2.	3.6.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.6.3.	3.6.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravnopravne	upravnopravan	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.7.	3.7.	Mds
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Vukovar	Vukovar	Npmsn
+1	1	Mdc
+3.7.1.	3.7.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+prometa	promet	Ncmsg
+i	i	Cc
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+6	6	Mdc
+3.7.2.	3.7.2.	Mds
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+3.7.3.	3.7.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravnopravne	upravnopravan	Agpmpay
+poslove	posao	Ncmpa
+3	3	Mdc
+Uprava	uprava	Ncfsn
+pomorske	pomorski	Agpfsgy
+i	i	Cc
+unutarnje	unutarnji	Agpfsgy
+plovidbe	plovidba	Ncfsg
+,	,	Z
+brodarstva	brodarstvo	Ncnsg
+luka	luka	Ncfpg
+i	i	Cc
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+–	–	Z
+ukupno	ukupno	Rgp
+122	122	Mdc
+4.	4.	Mdo
+UPRAVA	uprava	Ncfsn
+SIGURNOSTI	sigurnost	Ncfsg
+PLOVIDBE	plovidba	Ncfsg
+4.1.	4.1.	Mds
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+i	i	Cc
+tehničke	tehnički	Agpmpay
+standarde	standard	Ncmpa
+1	1	Mdc
+4.1.1.	4.1.1.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+tehničke	tehnički	Agpmpay
+standarde	standard	Ncmpa
+hrvatske	hrvatski	Agpfsgy
+flote	flota	Ncfsg
+8	8	Mdc
+4.1.2.	4.1.2.	Mdo
+
+Služba	služba	Ncfsn
+za	za	Sa
+inspekcijski	inspekcijski	Agpmsayn
+nadzor	nadzor	Ncmsan
+sigurnosti	sigurnost	Ncfsg
+plovidbe	plovidba	Ncfsg
+i	i	Cc
+pomorskog	pomorski	Agpnsgy
+dobra	dobro	Ncnsg
+8	8	Mdc
+4.2.	4.2.	Mds
+
+Sektor	sektor	Ncmsn
+za	za	Sa
+nadzor	nadzor	Ncmsan
+i	i	Cc
+upravljanje	upravljanje	Ncnsa
+pomorskim	pomorski	Agpmsiy
+prometom	promet	Ncmsi
+,	,	Z
+traganje	traganje	Ncnsa
+i	i	Cc
+spašavanje	spašavanje	Ncnsa
+i	i	Cc
+zaštitu	zaštita	Ncfsa
+mora	morati	Vmr3s
+1	1	Mdc
+4.2.1.	4.2.1.	Mds
+
+Služba	služba	Ncfsn
+sigurnosti	sigurnost	Ncfsg
+pomorskog	pomorski	Agpmsgy
+prometa	promet	Ncmsg
+i	i	Cc
+zaštite	zaštita	Ncfsg
+mora	morati	Vmr3s
+od	od	Sg
+onečišćenja	onečišćenje	Ncnsg
+1	1	Mdc
+4.2.1.1.	4.2.1.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+sigurnosti	sigurnost	Ncfsg
+prometa	promet	Ncmsg
+,	,	Z
+traganje	traganje	Ncnsa
+i	i	Cc
+spašavanje	spašavanje	Ncnsa
+na	na	Sl
+moru	more	Ncnsl
+5	5	Mdc
+4.2.1.2.	4.2.1.2.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+mora	morati	Vmr3s
+5	5	Mdc
+4.2.2.	4.2.2.	Mds
+
+Nacionalna	nacionalan	Agpfsny
+središnjica	središnjica	Ncfsn
+za	za	Sa
+nadzor	nadzor	Ncmsan
+i	i	Cc
+upravljanje	upravljanje	Ncnsa
+pomorskim	pomorski	Agpmsiy
+prometom	promet	Ncmsi
+(	(	Z
+VTS	VTS	Npmsn
+Hrvatska	Hrvatska	Npfsn
+)	)	Z
+15	15	Mdc
+4.2.2.1.	4.2.2.1.	Y
+
+VTS	vts	Agpmsny
+centar	centar	Ncmsn
+Split	Split	Npmsn
+12	12	Mdc
+4.2.2.2.	4.2.2.2.	Mdo
+
+VTS	vts	Agpmsny
+centar	centar	Ncmsn
+Dubrovnik	Dubrovnik	Npmsn
+8	8	Mdc
+4.2.3.	4.2.3.	Mdo
+
+Nacionalna	nacionalan	Agpfsny
+središnjica	središnjica	Ncfsn
+za	za	Sa
+usklađivanje	usklađivanje	Ncnsa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+na	na	Sl
+moru	more	Ncnsl
+(	(	Z
+MRCC	MRCC	Npmsn
+Rijeka	Rijeka	Npfsn
+)	)	Z
+13	13	Mdc
+4.3.	4.3.	Mds
+
+Sektor	sektor	Ncmsn
+upravnih	upravan	Agpmpgy
+i	i	Cc
+stručno-tehničkih	stručno-tehnički	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+4.3.1.	4.3.1.	Y
+
+Služba	služba	Ncfsn
+upravnih	upravan	Agpfpgy
+i	i	Cc
+općih	opći	Agpmpgy
+poslova	posao	Ncmpg
+8	8	Mdc
+4.3.2.	4.3.2.	Y
+
+Služba	služba	Ncfsn
+stručno-tehničkih	stručno-tehnički	Agpmpgy
+poslova	posao	Ncmpg
+1	1	Mdc
+4.3.2.1.	4.3.2.1.	Y
+
+Odjel	odjel	Ncmsn
+flote	flota	Ncfsg
+i	i	Cc
+tehničkih	tehnički	Agpmpgy
+sustava	sustav	Ncmpg
+5	5	Mdc
+4.3.2.2.	4.3.2.2a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+planiranje	planiranje	Ncnsa
+i	i	Cc
+provedbu	provedba	Ncfsa
+tehničkih	tehnički	Agpmpgy
+projekata	projekat	Ncmpg
+5	5	Mdc
+4.4.	4.4.	Y
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Pula	Pula	Npfsn
+1	1	Mdc
+4.4.1.	4.4.1.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+pomorskog	pomorski	Agpmsgy
+prometa	promet	Ncmsg
+,	,	Z
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+10	10	Mdc
+4.4.2.	4.4.2.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+4	4	Mdc
+4.4.3.	4.4.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+5	5	Mdc
+4.4.4.	4.4.4.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravne	upravan	Agpmpay
+poslove	posao	Ncmpa
+7	7	Mdc
+4.4.5.	4.4.5.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Umag	Umag	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Umagu	Umag	Npmsl
+4	4	Mdc
+4.4.6.	4.4.6.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Novigrad	Novigrad	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Novigradu	Novigrad	Npmsl
+2	2	Mdc
+4.4.7.	4.4.7.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Poreč	Poreč	Npfsg
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Poreču	Poreč	Npmsl
+4	4	Mdc
+4.4.8.	4.4.8.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Rovinj	Rovinj	Npfsg
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Rovinju	Rovinj	Npmsl
+4	4	Mdc
+4.4.9.	4.4.9.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Raša	Raš	Npmsg
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Trgetu	Trget	Npmsl
+2	2	Mdc
+4.4.10.	4.4.10.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Rabac	Rabac	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Rabcu	Rabc	Npmsl
+1	1	Mdc
+4.5.	4.5.	Mds
+
+Lučka	lučki	Agpfsny
+kapetanija	kapetanija	Ncfsn
+Rijeka	Rijeka	Npfsn
+1	1	Mdc
+4.5.1.	4.5.1a	Ncfsg
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+i	i	Cc
+nadzor	nadzor	Ncmsan
+pomorskog	pomorski	Agpmsgy
+prometa	promet	Ncmsg
+,	,	Z
+poslove	posao	Ncmpa
+traganja	traganje	Ncnsg
+i	i	Cc
+spašavanja	spašavanje	Ncnsg
+16	16	Mdc
+4.5.2.	4.5.2.	Y
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+inspekcijske	inspekcijski	Agpmpay
+poslove	posao	Ncmpa
+7	7	Mdc
+4.5.3.	4.5.3.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+pravne	pravni	Agpmpay
+poslove	posao	Ncmpa
+9	9	Mdc
+4.5.4.	4.5.4.	Mdo
+
+Odjel	odjel	Ncmsn
+za	za	Sa
+upravne	upravan	Agpmpay
+poslove	posao	Ncmpa
+11	11	Mdc
+4.5.5.	4.5.5.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Opatija	Opati	Npmsg
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Opatiji	opatija	Ncfsl
+1	1	Mdc
+4.5.6.	4.5.6.	Mds
+
+Ispostava	ispostava	Ncfsn
+Bakar	Bakar	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Bakru	bakar	Ncmsl
+3	3	Mdc
+4.5.7.	4.5.7.	Mds
+
+Ispostava	ispostava	Ncfsn
+Crikvenica	Crikvenica	Npfsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Crikvenici	Crikvenica	Npfsl
+2	2	Mdc
+4.5.8.	4.5.8.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Krk	Krk	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Krku	Krk	Npmsl
+1	1	Mdc
+4.5.9.	4.5.9.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Punat	punat	Ncmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Puntu	punat	Ncmsl
+3	3	Mdc
+4.5.10.	4.5.10.	Mds
+
+Ispostava	ispostava	Ncfsn
+Cres	Cres	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Cresu	Cres	Npmsl
+2	2	Mdc
+4.5.11.	4.5.11.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Rab	Rab	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Rabu	Rab	Npmsl
+4	4	Mdc
+4.5.12.	4.5.12.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Mali	mali	Agpmsny
+Lošinj	Lošinj	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Malom	mali	Agpmsly
+Lošinju	Lošinj	Npmsl
+5	5	Mdc
+4.5.13.	4.5.13.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Omišalj	Omišalj	Npmsn
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Omišlju	Omišlj	Npmsl
+2	2	Mdc
+4.5.14.	4.5.14.	Mdo
+
+Ispostava	ispostava	Ncfsn
+Novi	nov	Agpmsny
+Vinodolski	vinodolski	Agpmsny
+,	,	Z
+sa	sa	Si
+sjedištem	sjedište	Ncnsi
+u	u	Sl
+Novom	nov	Agpmsly
+Vinodolskom	vinodolski	Agpmsly
+3	3	Mdc
+4.5.15.	4.5.15.	Mdo
+

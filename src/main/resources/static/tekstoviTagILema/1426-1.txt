@@ -1,0 +1,746 @@
+i	i	Cc
+ribolova	ribolov	Ncmpg
+za	za	Sa
+potrebe	potreba	Ncfpa
+akvarija	akvarij	Ncmpg
+,	,	Z
+
+–	i	Agpnsgy
+Područja	područje	Ncnsg
+zabrane	zabrana	Ncfsg
+obavljanja	obavljanje	Ncnsg
+ribolova	ribolov	Ncmpg
+,	,	Z
+
+–	–	Pi-npa
+Posebna	poseban	Agpnpay
+staništa	stanište	Ncnpa
+.	.	Z
+
+1.2.	1.2.	Mdo
+
+Zakonska	zakonski	Agpfsny
+osnova	osnova	Ncfsn
+za	za	Sa
+provedbu	provedba	Ncfsa
+nadzora	nadzor	Ncmsg
+morskog	morski	Agpmsgy
+ribolova	ribolov	Ncmsg
+:	:	Z
+
+–	i	Agpfsny
+Legislativa	legislativa	Ncfsn
+RH	RH	Npfsg
+,	,	Z
+
+–	–	Z
+Legislativa	legislativa	Ncfsn
+EU	E	Npmsg
+,	,	Z
+
+–		Agcfsgy
+Ovlasti	ovlast	Ncfsg
+ovlaštenih	ovlašten	Agpfpgy
+osoba	osoba	Ncfpg
+u	u	Sl
+nadzoru	nadzor	Ncmsl
+ribolova	ribolov	Ncmsg
+na	na	Sl
+moru	more	Ncnsl
+.	.	Z
+
+2.	2.	Mdo
+Provedba	provedba	Ncfsn
+početnih	početan	Agpfpgy
+radnji	radnja	Ncfpg
+inspekcijskog	inspekcijski	Agpmsgy
+pregleda	pregled	Ncmsg
+:	:	Z
+
+2.1.	2.1.	Mdo
+
+Početne	početan	Agpfpny
+radnje	radnja	Ncfpn
+pri	pri	Sl
+ukrcaju	ukrcaj	Ncmsl
+:	:	Z
+
+–	i	Agpfsny
+Oprema	oprema	Ncfsn
+i	i	Cc
+podaci	podatak	Ncmpn
+obvezni	obvezan	Agpmpny
+prije	prije	Sg
+ukrcaja	ukrcaj	Ncmsg
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+pozicije	pozicija	Ncfsg
+ribarskog	ribarski	Agpnsgy
+plovila	plovilo	Ncnsg
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+brodskih	brodski	Agpfpgy
+ljestvi	ljestve	Ncfpg
+,	,	Z
+
+–	–	Z
+Provjera	provjera	Ncfsn
+identiteta	identitet	Ncmsg
+ribarskog	ribarski	Agpnsgy
+plovila	plovilo	Ncnsg
+,	,	Z
+
+–	–	Z
+Provjera	provjera	Ncfsn
+identiteta	identitet	Ncmsg
+vlasnika	vlasnik	Ncmpg
+,	,	Z
+ovlaštenika	ovlaštenik	Ncmpg
+i	i	Cc
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+suradnje	suradnja	Ncfsg
+zapovjednika	zapovjednik	Ncmpg
+(	(	Z
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+)	)	Z
+,	,	Z
+
+–	–	Z
+Provjera	provjera	Ncfsn
+ribolovne	ribolovan	Agpfsgy
+aktivnosti	aktivnost	Ncfsg
+.	.	Z
+
+3.	3.	Mdo
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+dokumentacije	dokumentacija	Ncfsg
+:	:	Z
+
+3.1.	3.1.	Mdo
+
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+dokumentacije	dokumentacija	Ncfsg
+:	:	Z
+
+–	–	Z
+Potvrda	potvrda	Ncfsn
+registra	registar	Ncmsg
+flote	flota	Ncfsg
+,	,	Z
+
+–	–	Z
+Ribolovna	ribolovan	Agpfsny
+dozvola	dozvola	Ncfsn
+(	(	Z
+povlastica	povlastica	Ncfsn
+za	za	Sa
+obavljanje	obavljanje	Ncnsa
+ribolova	ribolov	Ncmpg
+)	)	Z
+,	,	Z
+
+–	i	Agpnsny
+Odobrenje	odobrenje	Ncnsn
+za	za	Sa
+ribolov	ribolov	Ncmsan
+,	,	Z
+
+–	i	Agpfsny
+Potvrda	potvrda	Ncfsn
+snage	snaga	Ncfsg
+motora	motor	Ncmpg
+,	,	Z
+
+–	–	Z
+Potvrda	potvrda	Ncfsn
+o	o	Sl
+skladištu	skladište	Ncnsl
+za	za	Sa
+ribu	riba	Ncfsa
+.	.	Z
+
+3.2.	3.2.	Mdo
+
+Provjera	provjera	Ncfsn
+nad	nad	Si
+izvješćima	izvješće	Ncnpi
+zapovjednika	zapovjednik	Ncmpg
+(	(	Z
+odgovorne	odgovoran	Agpfsgy
+osobe	osoba	Ncfsg
+)	)	Z
+:	:	Z
+
+–	–	Pd-mpn
+Postojeći	postojeći	Agpmpny
+sustavi	sustav	Ncmpn
+izvješćivanja	izvješćivanje	Ncnsg
+,	,	Z
+
+–	–	Agpmsayn
+VMS	vms	Agpmsayn
+sustav	sustav	Ncmsan
+,	,	Z
+
+–	–	Agpmsny
+Očevidnik	očevidnik	Ncmsn
+o	o	Sl
+ribolovu	ribolov	Ncmsl
+(	(	Z
+u	u	Sl
+papirnatom	papirnat	Agpmsly
+i	i	Cc
+elektroničkom	elektronički	Agpmsly
+obliku	oblik	Ncmsl
+)	)	Z
+,	,	Z
+
+–	–	Sa
+Ostala	ostali	Agpnpay
+izvješća	izvješće	Ncnpa
+,	,	Z
+
+–	–	Agpmpny
+Zahtjevi	zahtjev	Ncmpn
+posebnog	poseban	Agpmsgy
+programa	program	Ncmsg
+kontrole	kontrola	Ncfsg
+i	i	Cc
+inspekcije	inspekcija	Ncfsg
+(	(	Z
+SCIP	SCIP	Npmsn
+)	)	Z
+.	.	Z
+
+4.	4.	Mdo
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+ulova	ulov	Ncmsg
+na	na	Sl
+plovilu	plovilo	Ncnsl
+:	:	Z
+
+4.1.	4.1.	Mdo
+
+Procjena	procjena	Ncfsn
+količina	količina	Ncfpg
+i	i	Cc
+vrsta	vrsta	Ncfpg
+zadržanih	zadržati	Appfpgy
+na	na	Sl
+plovilu	plovilo	Ncnsl
+:	:	Z
+
+–	i	Agpnsny
+Utvrđivanje	utvrđivanje	Ncnsn
+proizvoda	proizvod	Ncmpg
+obrade	obrada	Ncfsg
+ulova	ulov	Ncmpg
+,	,	Z
+
+–	–	Agpmsny
+Način	način	Ncmsn
+identificiranja	identificiranje	Ncnsg
+tereta	teret	Ncmsg
+,	,	Z
+
+–	–	Z
+Procjena	procjena	Ncfsn
+žive	živ	Agpfsgy
+mase	masa	Ncfsg
+po	po	Sl
+vrsti	vrsta	Ncfsl
+,	,	Z
+
+–	i	Agpfsny
+Procjena	procjena	Ncfsn
+najmanje	malo	Rgs
+veličine	veličina	Ncfsg
+morskih	morski	Agpmpgy
+organizama	organizam	Ncmpg
+za	za	Sa
+zadržavanje	zadržavanje	Ncnsa
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+ulova	ulov	Ncmpg
+na	na	Sl
+plovilu	plovilo	Ncnsl
+,	,	Z
+
+–	–	Z
+Usporedba	usporedba	Ncfsn
+ulova	ulov	Ncmpg
+s	sa	Si
+podacima	podatak	Ncmpi
+koje	koji	Pi-mpa
+je	biti	Var3s
+o	o	Sl
+njemu	on	Pp3msl
+unio	unijeti	Vmp-sm
+zapovjednik	zapovjednik	Ncmsn
+,	,	Z
+
+–	–	Z
+Provjera	provjera	Ncfsn
+zahtjeva	zahtjev	Ncmpg
+slaganja	slaganje	Ncnsg
+i	i	Cc
+označavanje	označavanje	Ncnsa
+tereta	teret	Ncmsg
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+ribolovnih	ribolovan	Agpfpgy
+mogućnosti	mogućnost	Ncfpg
+,	,	Z
+
+–	–	Agpmpny
+Zahtjevi	zahtjev	Ncmpn
+SCIP-a	SCIP	Npmsg
+kod	kod	Sg
+kontrole	kontrola	Ncfsg
+ulova	ulov	Ncmpg
+.	.	Z
+
+5.	5.	Mdo
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+ribolovnog	ribolovan	Agpmsgy
+alata	alat	Ncmsg
+:	:	Z
+
+5.1.	5.1.	Mdo
+
+Utvrđivanje	utvrđivanje	Ncnsn
+i	i	Cc
+ispitivanje	ispitivanje	Ncnsa
+ribolovnog	ribolovan	Agpmsgy
+alata	alat	Ncmsg
+koji	koji	Pi-msn
+se	sebe	Px--sa
+koristi	koristiti	Vmr3s
+i	i	Cc
+ostalog	ostali	Agpnsgy
+koji	koji	Pi-mpn
+se	sebe	Px--sa
+eventualno	eventualno	Rgp
+nalazi	nalaziti	Vmr3s
+na	na	Sl
+plovilu	plovilo	Ncnsl
+:	:	Z
+
+–	i	Agpnsny
+Utvrđivanje	utvrđivanje	Ncnsn
+i	i	Cc
+ispitivanje	ispitivanje	Ncnsa
+alata	alat	Ncmpg
+u	u	Sl
+upotrebi	upotreba	Ncfsl
+i	i	Cc
+ostalog	ostali	Agpmsgy
+alata	alat	Ncmsg
+na	na	Sl
+plovilu	plovilo	Ncnsl
+,	,	Z
+
+–	–	Z
+Konstrukcijsko	konstrukcijski	Agpnsny
+tehničke	tehnički	Agpfsgy
+osobine	osobina	Ncfsg
+ribolovnog	ribolovan	Agpmsgy
+alata	alat	Ncmsg
+,	,	Z
+
+–	i	Agpnsny
+Identificiranje	identificiranje	Ncnsn
+oznaka	oznaka	Ncfpg
+ribolovnog	ribolovan	Agpmsgy
+alata	alat	Ncmsg
+,	,	Z
+
+–	i	Agpfpny
+Zabranjene	zabranjen	Agpfpny
+ribolovne	ribolovan	Agpfpny
+metode	metoda	Ncfpn
+,	,	Z
+
+–	i	Agpfsny
+Provjera	provjera	Ncfsn
+sukladnosti	sukladnost	Ncfsg
+alata	alat	Ncmpg
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+pisanim	pisan	Agpmsiy
+putem	put	Ncmsi
+obavijestiti	obavijestiti	Vmn
+tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+o	o	Sl
+mjestu	mjesto	Ncnsl
+i	i	Cc
+vremenu	vrijeme	Ncnsl
+održavanja	održavanje	Ncnsg
+radionica	radionica	Ncfpg
+za	za	Sa
+stručno	stručan	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+prema	prema	Sl
+Programu	program	Ncmsl
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+dužna	dužan	Agpfsny
+su	biti	Var3p
+dostaviti	dostaviti	Vmn
+popis	popis	Ncmsan
+svojih	svoj	Px-mpg
+službenika	službenik	Ncmpg
+koji	koji	Pi-mpn
+će	htjeti	Var3s
+polaziti	polaziti	Vmn
+program	program	Ncmsan
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+ministarstvu	ministarstvo	Ncnsl
+,	,	Z
+najkasnije	kasno	Rgs
+15	15	Mdc
+dana	dan	Ncmpg
+prije	prije	Sg
+početka	početak	Ncmsg
+izvođenja	izvođenje	Ncnsg
+programa	program	Ncmsg
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Ribarski	ribarski	Agpmpny
+inspektori	inspektor	Ncmpn
+i	i	Cc
+djelatnici	djelatnik	Ncmpn
+Uprave	uprava	Ncfsg
+ribarstva	ribarstvo	Ncnsg
+provode	provoditi	Vmr3p
+nastavu	nastava	Ncfsa
+prema	prema	Sl
+programu	program	Ncmsl
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+.	.	Z
+
+(	(	Z
+4	4	Mdc
+)	)	Z
+Mjesto	mjesto	Ncnsn
+održavanja	održavanje	Ncnsg
+nastave	nastava	Ncfsg
+osigurat	osigurati	Vmn
+će	htjeti	Var3s
+ministarstvo	ministarstvo	Ncnsa
+u	u	Sl
+suradnji	suradnja	Ncfsl
+s	sa	Si
+tijelima	tijelo	Ncmpi
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+čiji	čiji	Pi-mpn
+su	biti	Var3p
+službenici	službenik	Ncmpn
+polaznici	polaznik	Ncmpn
+programa	program	Ncmsg
+za	za	Sa
+stručno	stručan	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+.	.	Z
+
+(	(	Z
+5	5	Mdc
+)	)	Z
+Ministarstvo	ministarstvo	Ncnsn
+je	biti	Var3s
+dužno	dužan	Agpnsny
+voditi	voditi	Vmn
+evidenciju	evidencija	Ncfsa
+prisutnosti	prisutnost	Ncfsg
+polaznika	polaznik	Ncmpg
+.	.	Z
+
+(	(	Z
+6	6	Mdc
+)	)	Z
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+po	po	Sl
+potrebi	potreba	Ncfsl
+organizirati	organizirati	Vmn
+stručno	stručan	Agpnsay
+osposobljavanje	osposobljavanje	Ncnsa
+za	za	Sa
+novoprijavljene	novoprijavljen	Agpmpay
+polaznike	polaznik	Ncmpa
+.	.	Z
+
+(	(	Z
+7	7	Mdc
+)	)	Z
+Ministarstvo	ministarstvo	Ncnsn
+će	htjeti	Var3s
+po	po	Sl
+potrebi	potreba	Ncfsl
+organizirati	organizirati	Vmn
+stručne	stručan	Agpfpay
+radionice	radionica	Ncfpa
+za	za	Sa
+ovlaštene	ovlašten	Agpfpay
+osobe	osoba	Ncfpa
+.	.	Z
+
+IZDAVANJE	izdavanje	Ncnsn
+RJEŠENJA	rješenje	Ncnsg
+
+Članak	članak	Ncmsn
+6.	6.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Smatra	smatrati	Vmr3s
+se	sebe	Px--sa
+da	da	Cs
+je	biti	Var3s
+polaznik	polaznik	Ncmsn
+uspješno	uspješno	Rgp
+završio	završiti	Vmp-sm
+program	program	Ncmsan
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+ako	ako	Cs
+je	biti	Var3s
+prema	prema	Sl
+evidenciji	evidencija	Ncfsl
+prisutnosti	prisutnost	Ncfsg
+koje	koji	Pi-nsn
+vodi	voditi	Vmr3s
+ministarstvo	ministarstvo	Ncnsa
+,	,	Z
+bio	biti	Vap-sm
+prisutan	prisutan	Agpmsnn
+na	na	Sa
+2/3	2/3	Mdc
+održane	održan	Agpfsgy
+nastave	nastava	Ncfsg
+i	i	Cc
+na	na	Sa
+2/3	2/3	Mdc
+održanih	održan	Agpfpgy
+praktičnih	praktičan	Agpfpgy
+vježbi	vježba	Ncfpg
+,	,	Z
+o	o	Sl
+čemu	što	Pi3n-l
+ministarstvo	ministarstvo	Ncnsa
+izdaje	izdavati	Vmr3s
+potvrdu	potvrda	Ncfsa
+iz	iz	Sg
+Priloga	prilog	Ncmsg
+1.	1.	Mdo
+ovoga	ovaj	Pd-msg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Ministar	ministar	Ncmsn
+će	htjeti	Var3s
+polaznicima	polaznik	Ncmpd
+koji	koji	Pi-mpn
+uspješno	uspješno	Rgp
+završe	završiti	Vmr3p
+program	program	Ncmsan
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+izdati	izdati	Vmn
+Rješenje	rješenje	Ncnsa
+kojim	koji	Pi-nsi
+će	htjeti	Var3s
+se	sebe	Px--sa
+ovlastiti	ovlastiti	Vmn
+za	za	Sa
+obavljanje	obavljanje	Ncnsa
+poslova	posao	Ncmpg
+inspekcijskog	inspekcijski	Agpmsgy
+nadzora	nadzor	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+7.	7.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Ministarstvo	ministarstvo	Ncnsn
+vodi	voditi	Vmr3s
+evidenciju	evidencija	Ncfsa
+ovlaštenih	ovlašten	Agpfpgy
+osoba	osoba	Ncfpg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Evidencija	evidencija	Ncfsn
+iz	iz	Sg
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+vodi	voditi	Vmr3s
+se	sebe	Px--sa
+u	u	Sl
+elektronskom	elektronski	Agpmsly
+obliku	oblik	Ncmsl
+.	.	Z
+
+PRIJELAZNE	prijelazan	Agpfpny
+I	i	Cc
+ZAVRŠNE	završan	Agpfpay
+ODREDBE	odredba	Ncfpa
+
+Članak	članak	Ncmsn
+8.	8.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmog	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+01/45	01/45	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+525	525	Mdc
+-	-	Z
+13/1442	13/1442	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+6	6	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+11.	11.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+Tihomir	Tihomir	Npmsn
+Jakovina	Jakovina	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+1.	1.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+
+POTVRDA	potvrda	Ncfsn
+
+Kojom	koji	Pi-fsi
+Ministarstvo	ministarstvo	Ncnsn
+poljoprivrede	poljoprivreda	Ncfsg
+potvrđuje	potvrđivati	Vmr3s
+da	da	Cs
+je	biti	Var3s
+(	(	Z
+ime	ime	Ncnsn
+i	i	Cc
+prezime	prezime	Ncnsa
+)	)	Z
+,	,	Z
+OIB	OIB	Npmsn
+:	:	Z
+,	,	Z
+državni	državni	Agpmsny
+službenik	službenik	Ncmsn
+(	(	Z
+tijelo	tijelo	Ncnsn
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+)	)	Z
+,	,	Z
+uspješno	uspješno	Rgp
+završio	završiti	Vmp-sm
+program	program	Ncmsan
+stručnog	stručan	Agpnsgy
+osposobljavanja	osposobljavanje	Ncnsg
+za	za	Sa
+samostalnu	samostalan	Agpfsay
+provedbu	provedba	Ncfsa
+inspekcijskog	inspekcijski	Agpmsgy
+pregleda	pregled	Ncmsg
+na	na	Sl
+moru	more	Ncnsl
+ribarskih	ribarski	Agpnpgy
+plovila	plovilo	Ncnpg
+i	i	Cc
+

@@ -1,0 +1,749 @@
+1390.	1390.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+KAŽIMIR	KAŽIMIR	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+BEKAVAC	BEKAVAC	Npmsn
+
+1391.	1391.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+BELJO	BELJO	Npmsn
+
+1392.	1392.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Mihajlov	Mihajlov	Npmsn
+)	)	Z
+BENEDIK	BENEDIK	Npmsn
+
+1393.	1393.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+NEVENKO	NEVENKO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BENIĆ	BENIĆ	Npmsn
+
+1394.	1394.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Mirin	Mirin	Npmsn
+)	)	Z
+BILAĆ	BILAĆ	Npmsn
+
+1395.	1395.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+STIPE	STIPE	Npmsn
+(	(	Z
+Pavlov	Pavlov	Npmsn
+)	)	Z
+BILOBRK	BILOBRK	Npmsn
+
+1396.	1396.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+BIŠĆAN	BIŠĆAN	Npmsn
+
+1397.	1397.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+BIŠKUPIĆ	BIŠKUPIĆ	Npmsn
+
+1398.	1398.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+BLAŽINČIĆ	BLAŽINČIĆ	Npmsn
+
+1399.	1399.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZDENKO	ZDENKO	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+BLAŽUTIĆ	BLAŽUTIĆ	Npmsn
+
+1400.	1400.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTONIO	Antonio	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BOBANOVIĆ	BOBANOVIĆ	Npmsn
+
+1401.	1401.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIRKO	Mirko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BODROŽIĆ	BODROŽIĆ	Npmsn
+
+1402.	1402.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+TIHOMIR	TIHOMIR	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+BOGDAN	Bogdan	Npmsn
+
+1403.	1403.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+BOLIĆ	BOLIĆ	Npmsn
+
+1404.	1404.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+KRISTIJAN	KRISTIJAN	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+BORIĆ	borić	Ncmsan
+
+1405.	1405.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+BORKA	BORKA	Npfsn
+
+1406.	1406.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BOŠNJAK	BOŠNJAK	Npmsn
+
+1407.	1407.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MIJO	MIJO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+BOŠNJAK	BOŠNJAK	Npmsn
+
+1408.	1408.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+BOŠNJAKOVIĆ	BOŠNJAKOVIĆ	Npmsn
+
+1409.	1409.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BRAJKOVIĆ	Brajković	Npmsn
+
+1410.	1410.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Josin	Josin	Npmsn
+)	)	Z
+BRATOVIĆ	BRATOVIĆ	Npmsn
+
+1411.	1411.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Vilimov	Vilimov	Npmsn
+)	)	Z
+BREZINŠAK	BREZINŠAK	Npmsn
+
+1412.	1412.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+BRNELIĆ	BRNELIĆ	Npmsn
+
+1413.	1413.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+STANKO	STANKO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BROZOVIĆ	BROZOVIĆ	Npmsn
+
+1414.	1414.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+PREDRAG	PREDRAG	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+BRZIĆ	BRZIĆ	Npmsn
+
+1415.	1415.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+FRANO	FRANO	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BUBALO	bubati	Vmp-sn
+
+1416.	1416.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+BUBNIĆ	BUBNIĆ	Npmsn
+
+1417.	1417.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MILE	mio	Agpfsgy
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+BUCIĆ	BUCIĆ	Npmsn
+
+1418.	1418.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+SALIH	saliti	Agpmpgy
+(	(	Z
+Ismajlov	Ismajlov	Npmsn
+)	)	Z
+BUČAJ	bučati	Vmm2s
+
+1419.	1419.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Eduardov	Eduardov	Npmsn
+)	)	Z
+BUDNA	budan	Agpfsny
+
+1420.	1420.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+VEDRAN	VEDRAN	Npmsn
+(	(	Z
+Brunin	Brunin	Npmsn
+)	)	Z
+BUGARIJA	bugarija	Ncfsn
+
+1421.	1421.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANĐELKO	ANĐELKO	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+BUKVIĆ	Bukvić	Npmsn
+
+1422.	1422.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DENIS-BOŽIDAR	DENIS-BOŽIDAR	Npmsn
+(	(	Z
+Jurajev	Jurajev	Npmsn
+)	)	Z
+BURANJI	BURANJ	Npmpn
+
+1423.	1423.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Dragin	Dragin	Npmsn
+)	)	Z
+BURAZOR	BURAZOR	Npmsn
+
+1424.	1424.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+BURČUL	BURČUL	Npmsn
+
+1425.	1425.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+BURIĆ	Burić	Npmsn
+
+1426.	1426.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Albinov	Albinov	Npmsn
+)	)	Z
+CENCELJ	cencelti	Vmm2s
+
+1427.	1427.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+CIGLAR	ciglar	Ncmsn
+
+1428.	1428.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+CRNEK	CRNEK	Npmsn
+
+1429.	1429.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+CRNJAK	CRNJAK	Npmsn
+
+1430.	1430.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+CUG	CUG	Npmsn
+
+1431.	1431.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+PREDRAG	PREDRAG	Npmsn
+(	(	Z
+Katičin	Katičin	Npmsn
+)	)	Z
+CUKROV	cukrov	Aspmsnn
+
+1432.	1432.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ALEN	ALEN	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+CVETKO	CVETKO	Pi3m-n
+
+1433.	1433.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+CVETKOVIĆ	Cvetković	Npmsn
+
+1434.	1434.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+EMILIO	EMILIO	Npmsn
+(	(	Z
+Dinkov	Dinkov	Npmsn
+)	)	Z
+CVITANOVIĆ	Cvitanović	Npmsn
+
+1435.	1435.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+CVITKOVIĆ	CVITKOVIĆ	Npmsn
+
+1436.	1436.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+SLAVKO	Slavko	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+CVITKOVIĆ	CVITKOVIĆ	Npmsn
+
+1437.	1437.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BRANIMIR	BRANIMIR	Npmsn
+(	(	Z
+Grgurov	Grgurov	Npmsn
+)	)	Z
+ČAJO	ČAJO	Npmsn
+
+1438.	1438.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BORIS	Boris	Npmsn
+(	(	Z
+Rokov	Rokov	Npmsn
+)	)	Z
+ČAKARUN	ČAKARUN	Npmsn
+
+1439.	1439.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Franin	Franin	Npmsn
+)	)	Z
+ČALJKUŠIĆ	ČALJKUŠIĆ	Npmsn
+
+1440.	1440.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ELVIS	ELVIS	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+ČANKOVIĆ	ČANKOVIĆ	Npmsn
+
+1441.	1441.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+ČIŽMEK	ČIŽMEK	Npmsn
+
+1442.	1442.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+ČOVIĆ	Čović	Npmsn
+
+1443.	1443.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MATKO	MATKO	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+ČOVIĆ	Čović	Npmsn
+
+1444.	1444.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+ČRETNI	čretni	Agpmpny
+
+1445.	1445.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ČULINA	čulin	Aspfsny
+
+1446.	1446.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Milin	Milin	Npmsn
+)	)	Z
+ČULINA	ČULINA	Npfsn
+
+1447.	1447.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BRANKO	Branko	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ČULINA	ČULINA	Npfsn
+
+1448.	1448.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARIN	MARIN	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+ČULINA	ČULINA	Npfsn
+
+1449.	1449.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+BORISLAV	BORISLAV	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+ČUNČIĆ	ČUNČIĆ	Npmsn
+
+1450.	1450.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZVJEZDAN	zvjezdan	Agpmsnn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+ČUNOVIĆ	ČUNOVIĆ	Npmsn
+
+1451.	1451.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DOMAGOJ	DOMAGOJ	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ĆELIĆ	ĆELIĆ	Npmsn
+
+1452.	1452.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+ĆURIĆ	ĆURIĆ	Npmsn
+
+1453.	1453.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MATO	MATO	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+ĆURIĆ	ĆURIĆ	Npmsn
+
+1454.	1454.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+DAMJANOVIĆ	Damjanović	Npmsn
+
+1455.	1455.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+VJEKOSLAV	VJEKOSLAV	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+DANGUBIĆ	DANGUBIĆ	Npmsn
+
+1456.	1456.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Jakovljev	Jakovljev	Npmsn
+)	)	Z
+DELIĆ	Delić	Npmsn
+
+1457.	1457.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ALEN	ALEN	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+DELIĆ	Delić	Npmsn
+
+1458.	1458.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+AURELIJO	AURELIJO	Npmsn
+(	(	Z
+Rikardov	Rikardov	Npmsn
+)	)	Z
+DESPOTOVIĆ	Despotović	Npmsn
+
+1459.	1459.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ALADAR	ALADAR	Npmsn
+(	(	Z
+Ilešev	Ilešev	Npmsn
+)	)	Z
+DEŽE	deže	Ncnsn
+
+1460.	1460.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ROKO	ROKO	Npmsn
+(	(	Z
+Matkov	Matkov	Npmsn
+)	)	Z
+DIVIĆ	DIVIĆ	Npmsn
+
+1461.	1461.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Vinkov	Vinkov	Npmsn
+)	)	Z
+DIZDAR	dizdar	Ncmsn
+
+1462.	1462.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+DOBROVIĆ	DOBROVIĆ	Npmsn
+
+1463.	1463.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+DOKUZOVIĆ	DOKUZOVIĆ	Npmsn
+
+1464.	1464.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+DOMIĆ	DOMIĆ	Npmsn
+
+1465.	1465.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Grgurov	Grgurov	Npmsn
+)	)	Z
+DRAŽINIĆ	DRAŽINIĆ	Npmsn
+
+1466.	1466.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+DŽAJA	DŽAJ	Npmsg
+
+1467.	1467.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ZORAN	Zoran	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ĐURAČIĆ	ĐURAČIĆ	Npmsn
+
+1468.	1468.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+ĐURIŠ	đuriti	Vmr2s
+
+1469.	1469.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+DINKO	DINKO	Npmsn
+(	(	Z
+Zlatkov	Zlatkov	Npmsn
+)	)	Z
+ĐUROKOVIĆ	ĐUROKOVIĆ	Npmsn
+
+1470.	1470.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+KLEMENTINO	KLEMENTINO	Npmsn
+(	(	Z
+Srđanov	Srđanov	Npmsn
+)	)	Z
+ELEZOVIĆ	ELEZOVIĆ	Npmsn
+
+1471.	1471.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+ERCEG	ERCEG	I
+
+1472.	1472.	Mdo
+stožerni	stožerni	Agpmsny
+narednik	narednik	Ncmsn
+IVAN	Ivan	Npmsn
+(	(	Z
+Martinov	Martinov	Npmsn
+)	)	Z
+ERCEGOVAC	ERCEGOVAC	Npmsn
+
+1473.	1473.	Mdo
+

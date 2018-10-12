@@ -1,0 +1,141 @@
+21	21	Mdc
+09.03.2016	09.03.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+predsjednika	predsjednik	Ncmsg
+i	i	Cc
+člana	član	Ncmsg
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskog	hrvatski	Agpmsgy
+memorijalno-dokumentacijskog	memorijalno-dokumentacijski	Agpmsgy
+centra	centar	Ncmsg
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+590	590	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+12.	12.	Mdo
+stavka	stavak	Ncmsg
+3.	3.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Hrvatskom	hrvatski	Agpmsly
+memorijalno-dokumentacijskom	memorijalno-dokumentacijskoo	Ncmsl
+centru	centar	Ncmsl
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+178/04.	178/04.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+4.	4.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+I	i	Cc
+ČLANA	ČLAN	Npmsg
+UPRAVNOG	upravan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+HRVATSKOG	hrvatski	Agpnsgy
+MEMORIJALNO	memorijalan	Agpnsny
+-	-	Z
+-	-	Z
+DOKUMENTACIJSKOG	dokumentacijski	Agpmsgy
+CENTRA	centar	Ncmsg
+DOMOVINSKOG	domovinski	Agpmsgy
+RATA	rat	Ncmsg
+
+I.	I.	Y
+
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+akademik	akademik	Ncmsn
+FRANJO	FRANJO	Npmsn
+ŠANJEK	ŠANJEK	Npmsn
+predsjednikom	predsjednik	Ncmsi
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskog	hrvatski	Agpmsgy
+memorijalno-dokumentacijskog	memorijalno-dokumentacijski	Agpmsgy
+centra	centar	Ncmsg
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+dr.	dr.	Y
+sc.	sc.	Y
+MIROSLAV	MIROSLAV	Npmsn
+AKMADŽA	akmadž	Agpmsiy
+članom	član	Ncmsi
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskog	hrvatski	Agpmsgy
+memorijalno-dokumentacijskog	memorijalno-dokumentacijski	Agpmsgy
+centra	centar	Ncmsg
+Domovinskog	domovinski	Agpmsgy
+rata	rat	Ncmsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+07/03	07/03	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+4.	4.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

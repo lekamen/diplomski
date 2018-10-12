@@ -1,0 +1,778 @@
+HR1000030	HR1000030	Mdc
+Biokovo	Biokovo	Npnsn
+i	i	Cc
+Rilić	Rilić	Npmsn
+,	,	Z
+te	te	Cc
+jedno	jedan	Agpnsny
+područje	područje	Ncnsn
+očuvanja	očuvanje	Ncnsg
+značajno	značajan	Agpnsny
+za	za	Sa
+vrste	vrsta	Ncfpa
+i	i	Cc
+stanišne	stanišni	Agpmpay
+tipove	tip	Ncmpa
+HR5000030	HR5000030	Npfsg
+Biokovo	Biokovo	Npfsg
+.	.	Z
+
+(	(	Z
+2	2	Mdc
+)	)	Z
+Ekološku	ekološki	Agpfsay
+mrežu	mreža	Ncfsa
+RH	RH	Npfsg
+(	(	Z
+mrežu	mreža	Ncfsa
+Natura	natura	Ncfsn
+2000	2000	Mdc
+)	)	Z
+prema	prema	Sl
+Uredbi	uredba	Ncfsl
+o	o	Sl
+ekološkoj	ekološki	Agpfsly
+mreži	mreža	Ncfsl
+čine	činiti	Vmr3p
+područja	područje	Ncnpa
+očuvanja	očuvanje	Ncnsg
+značajna	značajan	Ncmsg
+za	za	Sa
+ptice	ptica	Ncfpa
+–	–	Z
+POP	POP	Npmsn
+(	(	Z
+područja	područje	Ncnsg
+značajna	značajan	Agpfsny
+za	za	Sa
+očuvanje	očuvanje	Ncnsa
+i	i	Cc
+ostvarivanje	ostvarivanje	Ncnsa
+povoljnog	povoljan	Agpnsgy
+stanja	stanje	Ncnsg
+divljih	divlji	Agpfpgy
+vrsta	vrsta	Ncfpg
+ptica	ptica	Ncfpg
+od	od	Sg
+interesa	interes	Ncmsg
+za	za	Sa
+Europsku	europski	Agpfsay
+uniju	unija	Ncfsa
+,	,	Z
+kao	kao	Cs
+i	i	Cc
+njihovih	njihov	Ps3npg
+staništa	stanište	Ncnpg
+,	,	Z
+te	te	Cc
+područja	područje	Ncnpn
+značajna	značajan	Agpfsny
+za	za	Sa
+očuvanje	očuvanje	Ncnsa
+migratornih	migratorni	Agpfpgy
+vrsta	vrsta	Ncfpg
+ptica	ptica	Ncfpg
+,	,	Z
+a	a	Cc
+osobito	osobito	Rgp
+močvarna	močvaran	Agpnpay
+područja	područje	Ncnpa
+od	od	Sg
+međunarodne	međunarodni	Agpfsgy
+važnosti	važnost	Ncfsg
+)	)	Z
+i	i	Cc
+područja	područje	Ncnsg
+očuvanja	očuvanje	Ncnsg
+značajna	značajan	Agpfsny
+za	za	Sa
+vrste	vrsta	Ncfpa
+i	i	Cc
+stanišne	stanišni	Agpmpay
+tipove	tip	Ncmpa
+–	–	Z
+POVS	POVS	Npmsn
+(	(	Z
+područja	područje	Ncnpn
+značajna	značajan	Agpfsny
+za	za	Sa
+očuvanje	očuvanje	Ncnsa
+i	i	Cc
+ostvarivanje	ostvarivanje	Ncnsa
+povoljnog	povoljan	Agpnsgy
+stanja	stanje	Ncnsg
+drugih	drugi	Mlofpg
+divljih	divlji	Agpfpgy
+vrsta	vrsta	Ncfpg
+i	i	Cc
+njihovih	njihov	Ps3npg
+staništa	stanište	Ncnsg
+,	,	Z
+kao	kao	Cs
+i	i	Cc
+prirodnih	prirodan	Agpmpgy
+stanišnih	stanišni	Agpmpgy
+tipova	tip	Ncmpg
+od	od	Sg
+interesa	interes	Ncmsg
+za	za	Sa
+Europsku	europski	Agpfsay
+uniju	unija	Ncfsa
+)	)	Z
+.	.	Z
+
+(	(	Z
+3	3	Mdc
+)	)	Z
+Sastavnim	sastavan	Agpmply
+dijelovima	dio	Ncmpl
+ekološke	ekološki	Agpfpny
+mreže	mreža	Ncfpn
+smatraju	smatrati	Vmr3p
+se	sebe	Px--sa
+i	i	Cc
+svi	sav	Agpmpny
+biospeleološki	biospeleološki	Agpmpny
+važni	važan	Agpmpny
+objekti	objekt	Ncmpn
+koji	koji	Pi-mpn
+trenutačno	trenutačno	Rgp
+nisu	biti	Var3p
+u	u	Sl
+evidenciji	evidencija	Ncfsl
+Državnog	državni	Agpmsgy
+zavoda	zavod	Ncmsg
+za	za	Sa
+zaštitu	zaštita	Ncfsa
+prirode	priroda	Ncfsg
+,	,	Z
+kao	kao	Cs
+izrazito	izrazito	Rgp
+važna	važan	Agpfsny
+i	i	Cc
+ugrožena	ugroziti	Appfsny
+ekološki	ekološki	Rgp
+značajna	značajan	Agpnpay
+područja	područje	Ncnpa
+.	.	Z
+
+6.1.4.	6.1.4.	Mdo
+
+Posebno	posebno	Rgp
+vrijedna	vrijedan	Agpnpay
+prirodna	prirodan	Agpnpay
+područja	područje	Ncnpa
+
+Članak	članak	Ncmsn
+53.	53.	Mdo
+
+U	u	Sl
+sklopu	sklop	Ncmsl
+Parka	park	Ncmsg
+,	,	Z
+na	na	Sl
+istraživanom	istraživati	Agpnsly
+području	područje	Ncnsl
+diferencirana	diferencirati	Appfsny
+su	biti	Var3p
+posebno	posebno	Rgp
+vrijedna	vrijedan	Agpnpny
+prirodna	prirodan	Agpnpay
+područja	područje	Ncnpa
+:	:	Z
+
+1.	1.	Mdo
+Posebno	posebno	Rgp
+vrijedna	vrijedan	Agpnpay
+područja	područje	Ncnpa
+šumske	šumski	Agpfsgy
+vegetacije	vegetacija	Ncfsg
+:	:	Z
+
+–	–	Z
+autohtona	autohton	Agpfsny
+šuma	šuma	Ncfsn
+dalmatinskog	dalmatinski	Agpmsgy
+crnog	crn	Agpmsgy
+bora	bor	Ncmsg
+Junipero	Junipero	Npmsn
+–	–	Z
+Pinetim	Pinetim	Npmsn
+dalmaticae	dalmatiivati	Vmr3s
+Domac	Domac	Npmsn
+u	u	Sl
+predjelu	predio	Ncmsl
+Borovik	Borovik	Npmsn
+,	,	Z
+Šibenik	Šibenik	Npmsn
+–	–	Z
+Borovac	Borovac	Npmsn
+i	i	Cc
+Bukovac	Bukovac	Npmsn
+i	i	Cc
+Pakline	Paklina	Npfsg
+–	–	Z
+Krajev	krajev	Aspmsnn
+gaj	gaj	Ncmsn
+
+–	–	Sg
+šuma	šum	Ncmsg
+primorske	primorski	Agpfsgy
+bukove	bukov	Agpfsgy
+Fagetum	Fagetum	Npfsg
+croaticum	croaticum	Xf
+seslerietosum	seslerietosum	Xf
+Ht	Ht	Xf
+.	.	Z
+na	na	Sl
+primorskoj	primorski	Agpfsly
+padini	padina	Ncfsl
+pod	pod	Si
+Vošcem	Vošc	Npmsi
+na	na	Sl
+visini	visina	Ncfsl
+1350	1350	Mdc
+m	m	Y
+
+–	i	Agpfpay
+šume	šuma	Ncfpa
+bukve	bukva	Ncfsg
+i	i	Cc
+jele	jela	Ncfpa
+s	sa	Sg
+kontinentalne	kontinentalan	Agpfsgy
+strane	strana	Ncfsg
+Parka	park	Ncmsg
+na	na	Sl
+sjevernim	sjeverni	Agpfply
+ekspozicijama	ekspozicija	Ncfpl
+Kaoci	Kaoc	Npmsg
+Ozrivača	Ozrivač	Npmsg
+i	i	Cc
+Kimet	Kimet	Npmsn
+–	–	Z
+Sutvid	Sutvid	Npmsn
+u	u	Sl
+blizini	blizina	Ncfsl
+vrha	vrh	Ncmsg
+Sv.	Sv.	Y
+Jure	Jure	Npmsg
+.	.	Z
+
+2.	2.	Mdo
+Posebno	posebno	Rgp
+vrijedna	vrijedan	Agpnpay
+botanička	botanički	Agpnpay
+područja	područje	Ncnpa
+:	:	Z
+
+–	–	Z
+Sv.	Sv.	Y
+Ilija	Ili	Npmsg
+–	–	Z
+Šibenik	Šibenik	Npmsn
+–	–	Z
+Štropac	Štropac	Npmsn
+(	(	Z
+ovaj	ovaj	Pd-msn
+značajni	značajan	Agpmsny
+botanički	botanički	Agpmsny
+lokalitet	lokalitet	Ncmsn
+obuhvaća	obuhvaćati	Vmr3s
+padine	padina	Ncfsg
+Sv.	Sv.	Npfsg
+Ilije	Ilija	Npfsg
+preko	preko	Sg
+Šibenika	Šibenik	Npmsg
+do	do	Sg
+Štropca	Štropc	Npmsg
+)	)	Z
+
+–	–	Z
+Troglav	troglav	Agpmsnn
+–	–	Z
+Sv.	Sv.	Y
+Jure	Jure	Npmsn
+najviši	visok	Agsmsny
+vrh	vrh	Ncmsn
+Biokova	Biokov	Npmsg
+s	sa	Si
+kojim	koji	Pi-msi
+čini	činiti	Vmr3s
+cjelinu	cjelina	Ncfsa
+.	.	Z
+
+3.	3.	Mdo
+Posebno	posebno	Rgp
+vrijedna	vrijedan	Agpnpay
+geomorfološka	geomorfološki	Agpnpay
+područja	područje	Ncnpa
+:	:	Z
+
+–	–	Z
+Nevistina	nevistin	Aspfsny
+stina	stina	Ncfsn
+–	–	Z
+Ovčje	ovčji	Agpfsgy
+pole	pola	Ncfsg
+
+–	–	Z
+Sv.	Sv.	Y
+Ilija	Ili	Npmsg
+–	–	Z
+Kuranik	kuranik	Ncmsn
+–	–	Z
+Šibenik	Šibenik	Npmsn
+–	–	Z
+Štropac	Štropac	Npmsn
+–	–	Z
+Vošac	Vošac	Npmsn
+
+–	–	Agpmsny
+Vršni	vršni	Agpmsny
+plato	plato	Ncmsn
+Sv.	Sv.	Y
+Jure	Jure	Npmsg
+–	–	Z
+Troglav	troglav	Agpmsnn
+
+4.	4.	Mdo
+Zoološki	zoološki	Agpmpny
+značajna	značajan	Agpnpay
+područja	područje	Ncnpa
+
+Na	na	Sl
+području	područje	Ncnsl
+Parka	parka	Ncfsn
+prirode	priroda	Ncfsg
+planiraju	planirati	Vmr3p
+/	/	Z
+nalaze	nalaziti	Vmr3p
+se	sebe	Px--sa
+zoološki	zoološki	Vmr3p
+značajna	značajan	Agpnpay
+područja	područje	Ncnpa
+:	:	Z
+
+–	–	Z
+šumsko	šumski	Agpnsny
+zoološki	zoološki	Agpmsny
+značajno	značajan	Agpnsay
+područje	područje	Ncnsa
+za	za	Sa
+krupnu	krupan	Agpfsay
+divljač	divljač	Ncfsa
+(	(	Z
+Kaoci	Kaoca	Npfsl
+–	–	Z
+Dobri	dobar	Agpmsny
+dol	dol	Ncmsn
+)	)	Z
+
+–	–	Z
+botaničko	botanički	Agpnsny
+zoološki	zoološki	Agpmsny
+značajno	značajan	Agpnsay
+područje	područje	Ncnsa
+(	(	Z
+Sv.	Sv.	Y
+Jure	Jure	Npmsn
+–	–	Z
+Troglav	troglav	Agpmsnn
+–	–	Z
+Kadulja	kadulja	Ncfsn
+)	)	Z
+
+–	–	Z
+botaničko	botanički	Agpnsny
+zoološki	zoološki	Agpmsny
+značajno	značajan	Agpnsay
+područje	područje	Ncnsa
+(	(	Z
+Sv.	Sv.	Y
+Ilija	Ilija	Npfsn
+–	–	Z
+Stupica	stupica	Ncfsn
+)	)	Z
+
+–	–	Agpmsny
+zoološki	zoološki	Agpmsny
+značajno	značajan	Agpnsay
+područje	područje	Ncnsa
+za	za	Sa
+sitnu	sitan	Agpfsay
+divljač	divljač	Ncfsa
+(	(	Z
+Lađana	Lađana	Npfsn
+)	)	Z
+.	.	Z
+
+Speleološki	speleološki	Agpmpny
+objekti	objekt	Ncmpn
+
+Članak	članak	Ncmsn
+54.	54.	Mdo
+
+(	(	Z
+1	1	Mdc
+)	)	Z
+Biokovo	Biokovo	Npnsn
+je	biti	Var3s
+planina	planina	Ncfsn
+koja	koji	Pi-fsn
+ima	imati	Vmr3s
+posebne	poseban	Agpfpay
+vrijednosti	vrijednost	Ncfpa
+speleoloških	speleološki	Agpmpgy
+objekata	objekt	Ncmpg
+koje	koji	Pi-mpa
+treba	trebati	Vmr3s
+maksimalno	maksimalno	Rgp
+zaštititi	zaštititi	Vmn
+i	i	Cc
+ne	ne	Qz
+dozvoliti	dozvoliti	Vmn
+aktivnosti	aktivnost	Ncfpa
+koje	koji	Pi-fpn
+nisu	biti	Var3p
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+važećim	važeći	Agpmpiy
+pozitivnim	pozitivan	Agpmpiy
+propisima	propis	Ncmpi
+.	.	Z
+
+Na	na	Sl
+području	područje	Ncnsl
+Parka	parka	Ncfsn
+nalazi	nalaziti	Vmr3s
+se	sebe	Px--sa
+veći	velik	Agcmsny
+broj	broj	Ncmsn
+istraženih	istražiti	Appmpgy
+i	i	Cc
+neistraženih	neistražen	Agpmpgy
+speleoloških	speleološki	Agpmpgy
+objekata	objekt	Ncmpg
+,	,	Z
+a	a	Cc
+evidentirano	evidentirati	Appnsny
+je	biti	Var3s
+191	191	Mdc
+istraženi	istražiti	Appmpny
+speleološki	speleološki	Agpmsayn
+objekt	objekt	Ncmsan
+i	i	Cc
+još	još	Rgp
+34	34	Mdc
+neistražena	neistražen	Agpfsny
+poznata	poznat	Agpfsny
+objekta	objekt	Ncfsn
+.	.	Z
+
+I.	I.	Y
+Istraženi	istražiti	Appmpny
+speleološki	speleološki	Agpmpny
+objekti	objekt	Ncmpn
+
+1.	1.	Mdo
+Jama	jama	Ncfsn
+Dvojnica	dvojnica	Ncfsn
+IV	IV	Mrc
+2.	2.	Mdo
+Brezno	brezan	Agpnsny
+pri	pri	Sl
+Dusi	duh	Ncmpn
+3.	3.	Mdo
+Sovina	sovin	Aspmsgn
+jama	jam	Ncmsg
+4.	4.	Mdo
+Velika	velik	Agpfsny
+jama	jama	Ncfsn
+5.	5.	Mdo
+Plava	plav	Agpfsny
+ledenica	ledenica	Ncfsn
+6.	6.	Mdo
+Jama	jama	Ncfsn
+dvojnica	dvojnica	Ncfpg
+III	III	Mrc
+7.	7.	Mdo
+Sonjina	sonjin	Aspmsgn
+jama	jam	Ncmsg
+8.	8.	Mdo
+Vojnička	vojnički	Agpfsny
+osmica	osmica	Ncfsn
+9.	9.	Mdo
+Jama	jama	Ncfsn
+Čavlenovača	Čavlenovača	Npfsn
+10.	10.	Mdo
+
+Jama	jama	Ncfsn
+u	u	Sl
+Ravnoj	ravan	Agpfsly
+Vlaškoj	vlaški	Agpfsly
+11.	11.	Mdo
+
+Kostina	Kostina	Npfsn
+Jama	Jama	Npfsn
+12.	12.	Mdo
+
+Malena	malen	Agpfsny
+(	(	Z
+Benova	benov	Aspfsny
+jama	jama	Ncfsn
+)	)	Z
+13.	13.	Mdo
+
+Medena	meden	Agpfsny
+14.	14.	Mdo
+
+Jama	jama	Ncfsn
+kraj	kraj	Sg
+Kamenitih	kamenit	Agpnpgy
+vrata	vrata	Ncnpg
+15.	15.	Mdo
+
+Jama	jama	Ncfsn
+za	za	Si
+Kamenitim	kamenit	Agpnpiy
+vratima	vrata	Ncnpi
+16.	16.	Mdo
+
+Tatjanina	tatjanin	Aspmsgn
+jama	jam	Ncmsg
+17.	17.	Mdo
+
+Ledenica	ledenica	Ncfsn
+Dusa	Dus	Npmsg
+18.	18.	Mdo
+
+Jama	jama	Ncfsn
+Edelritka	Edelritka	Npfsn
+19.	19.	Mdo
+
+Jama	jama	Ncfsn
+Boreal	Boreal	Npfsn
+20.	20.	Mdo
+
+Jama	jama	Ncfsn
+male	mali	Agpfsgy
+Marije	Marija	Npfsg
+21.	21.	Mdo
+
+Biokovka	Biokovka	Npfsn
+22.	22.	Mdo
+
+Pretnerova	pretnerov	Aspfsny
+Jama	jama	Ncfsn
+23.	23.	Mdo
+
+Zmijolika	zmijolik	Agpfsny
+jama	jama	Ncfsn
+24.	24.	Mdo
+
+Jama	jama	Ncfsn
+Meandar	meandar	Ncmsn
+25.	25.	Mdo
+
+Jama	jama	Ncfsn
+Dvojnica	dvojnica	Ncfpg
+I	i	Cc
+26.	26.	Mdo
+
+Jama	jama	Ncfsn
+Dvojnica	Dvojnica	Npfsn
+II	II	Npfsn
+27.	27.	Mdo
+
+Antonijeva	antonijev	Aspfsny
+špilja	špilja	Ncfsn
+28.	28.	Mdo
+
+Svjetlanina	svjetlanin	Agpfsny
+špilja	špilja	Ncfsn
+29.	29.	Mdo
+
+Jama	jama	Ncfsn
+B-2	B-2	Mdc
+30.	30.	Mdo
+
+Jelenja	jelenji	Agpfsny
+Jama	jama	Ncfsn
+31.	31.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+Sv.	sve	Ncnsl
+Juri	juriti	Vmr3s
+32.	32.	Mdo
+
+Jama	jama	Ncfsn
+Sob	sob	Ncmsn
+na	na	Sa
+kvadrat	kvadrat	Ncmsan
+33.	33.	Mdo
+
+Špilja	špilja	Ncfsn
+pod	pod	Si
+Skalinama	Skalinama	Npfsn
+34.	34.	Mdo
+
+Mandina	mandin	Aspfsny
+Jama	jama	Ncfsn
+35.	35.	Mdo
+
+Slobodna	slobodan	Agpfsny
+jama	jama	Ncfsn
+36.	36.	Mdo
+
+Zaboravna	zaboravan	Agpfsny
+jama	jama	Ncfsn
+37.	37.	Mdo
+
+Sedma	sedmi	Mlofsn
+veličanstvena	veličanstven	Agpfsny
+38.	38.	Mdo
+
+Lazina	lazina	Ncfsn
+jama	jam	Ncmsg
+39.	39.	Mdo
+
+Pećina	pećina	Ncfsn
+Vilenjača	Vilenjača	Npfsn
+40.	40.	Mdo
+
+Vlaška	vlaški	Agpfsny
+jama	jama	Ncfsn
+41.	41.	Mdo
+
+Jama	jama	Ncfsn
+pod	pod	Si
+Sv.	Sv.	Y
+Jurom	Jure	Npmsi
+42.	42.	Mdo
+
+Kašogijeva	kašogijev	Aspfsny
+jama	jama	Ncfsn
+43.	43.	Mdo
+
+Sanjina	sanjin	Aspmsgn
+jama	jam	Ncmsg
+44.	44.	Mdo
+
+Jama	jama	Ncfsn
+Profundača	Profundača	Npfsn
+45.	45.	Mdo
+
+Jama	jama	Ncfsn
+Ledena	leden	Agpfsny
+46.	46.	Mdo
+
+Dezerterka	Dezerterka	Npfsn
+47.	47.	Mdo
+
+Jama	jama	Ncfsn
+stara	star	Agpfsny
+škola	škola	Ncfsn
+48.	48.	Mdo
+
+Ivanina	Ivanin	Aspmsgn
+jama	jam	Ncmsg
+49.	49.	Mdo
+
+Jama	jama	Ncfsn
+na	na	Sl
+putu	put	Ncmsl
+za	za	Sa
+staru	star	Agpfsay
+školu	škola	Ncfsa
+50.	50.	Mdo
+
+Jama	jama	Ncfsn
+Kompas	kompas	Ncmsn
+51.	51.	Mdo
+
+Lipa	lipa	Ncfsn
+jama	jam	Ncmsg
+(	(	Z
+Veliki	velik	Agpmsny
+pogled	pogled	Ncmsn
+)	)	Z
+52.	52.	Mdo
+
+Jama	jama	Ncfsn
+do	do	Sg
+Zaboravine	zaboravina	Ncfsg
+53.	53.	Mdo
+
+Jama	jama	Ncfsn
+posli	posao	Ncmpn
+konopa	konop	Ncmsg
+54.	54.	Mdo
+
+Jama	jama	Ncfsn
+dobre	dobar	Agpfsgy
+nade	nada	Ncfsg
+55.	55.	Mdo
+
+Jama	jama	Ncfsn
+Dusa	Dus	Npmsg
+II	ii	Mro
+(	(	Z
+B-9	B-9	X
+)	)	Z
+56.	56.	Mdo
+
+Pećina	pećina	Ncfsn
+na	na	Sl
+Susvidu	Susvid	Npmsl
+I	i	Cc
+57.	57.	Mdo
+
+Jama	jama	Ncfsn
+Harare	Harara	Npfsg
+58.	58.	Mdo
+
+Jama	jama	Ncfsn
+Balvan	Balvan	Npfsn
+59.	59.	Mdo
+
+Pakina	pakin	Agpfsny
+špilja	špilja	Ncfsn
+60.	60.	Mdo
+
+Velika	velik	Agpfsny
+špilja	špilja	Ncfsn
+–	–	Z
+Krjava	Krjava	Npfsn
+61.	61.	Mdo
+
+Jama	jama	Ncfsn
+Hit	hit	Ncmsn
+62.	62.	Mdo
+
+Jama	jama	Ncfsn
+nova	nov	Agpfsny
+škola	škola	Ncfsn
+63.	63.	Mdo
+
+Jama	jama	Ncfsn
+Veretta	Veretta	Npfsn
+64.	64.	Mdo
+
+Jama	jama	Ncfsn
+Derezinka	Derezinka	Npfsn
+(	(	Z
+Zmijolika	zmijolik	Agpfsny
+)	)	Z
+65.	65.	Mdo
+
+Jama	jama	Ncfsn
+Prvomajka	Prvomajka	Npfsn
+66.	66.	Mdo
+
+Uporna	uporan	Agpfsny
+jama	jama	Ncfsn
+67.	67.	Mdo
+

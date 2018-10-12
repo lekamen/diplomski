@@ -1,0 +1,177 @@
+100	100	Mdc
+02.11.2016	02.11.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+predsjednika	predsjednik	Ncmsg
+,	,	Z
+potpredsjednika	potpredsjednik	Ncmpg
+i	i	Cc
+članova	član	Ncmpg
+Odbora	odbor	Ncmsg
+za	za	Sa
+europske	europski	Agpmpay
+poslove	posao	Ncmpa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+2096	2096	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+46.	46.	Mdo
+i	i	Cc
+66.	66.	Mdo
+
+Poslovnika	poslovnik	Ncmsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+,	,	Z
+POTPREDSJEDNIKA	potpredsjednik	Ncmpg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+ODBORA	odbor	Ncmsg
+ZA	za	Sa
+EUROPSKE	europski	Agpmpay
+POSLOVE	posao	Ncmpa
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+
+U	u	Sa
+Odbor	odbor	Ncmsan
+za	za	Sa
+europske	europski	Agpmpay
+poslove	posao	Ncmpa
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+za	za	Sa
+predsjednika	predsjednik	Ncmsay
+
+DOMAGOJ	domagoj	Agpmsny
+IVAN	Ivan	Npmsn
+MILOŠEVIĆ	Milošević	Npmsn
+
+za	za	Sa
+potpredsjednike	potpredsjednik	Ncmpa
+:	:	Z
+
+TOMISLAV	TOMISLAV	Npmsn
+SAUCHA	SAUCH	Npmsg
+
+FRANJO	FRANJO	Npmsn
+LUCIĆ	Lucić	Npmsn
+
+za	za	Sa
+članove	član	Ncmpa
+:	:	Z
+
+dr.	dr.	Y
+sc.	sc.	Y
+IRENA	IREN	Npmsg
+PETRIJEVČANIN	PETRIJEVČANIN	Npmsn
+VUKSANOVIĆ	Vuksanović	Npmsn
+
+HRVOJE	HRVOJE	Npmsn
+ZEKANOVIĆ	ZEKANOVIĆ	Npmsn
+
+MARIJANA	MARIJANA	Npfsn
+BALIĆ	Balić	Npfsn
+
+IVAN	Ivan	Npmsn
+ĆELIĆ	ĆELIĆ	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+MIRO	Miro	Npmsn
+KOVAČ	KOVAČ	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+DRAGO	Drago	Npmsn
+PRGOMET	PRGOMET	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+ROBERT	Robert	Npmsn
+PODOLNJAK	PODOLNJAK	Npmsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+VESNA	VESNA	Npfsn
+PUSIĆ	Pusić	Npfsn
+
+JOŠKO	JOŠKO	Npmsn
+KLISOVIĆ	KLISOVIĆ	Npmsn
+
+PEĐA	PEĐA	Npfsn
+GRBIN	GRBIN	Npmsn
+
+SINIŠA	SINIŠA	Npfsn
+VARGA	VARGA	Npfsn
+
+dr.	dr.	Y
+sc.	sc.	Y
+ROMANA	Romana	Npfsn
+JERKOVIĆ	JERKOVIĆ	Npfsn
+
+MARIN	MARIN	Npmsn
+ŠKIBOLA	ŠKIBOLA	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/70	03/70	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+listopada	listopad	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Božo	Božo	Npmsn
+Petrov	Petrov	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

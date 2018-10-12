@@ -1,0 +1,30 @@
+79	79	Mdc
+20.07.2015	20.07.2015	Mdo
+Presuda	presuda	Ncfsn
+Visokog	visok	Agpmsgy
+upravnog	upravan	Agpmsgy
+suda	sud	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+broj	broj	Ncmsn
+:	:	Z
+UsII-121	UsII-121	Mds
+/	/	Z
+13	13	Mdc
+-	-	Z
+6	6	Mdc
+od	od	Sg
+10.	10.	Mdo
+lipnja	lipanj	Ncmsg
+2015.	2015.	Mdo
+
+VISOKI	visok	Agpmsny
+UPRAVNI	upravan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+1540	1540	Mdc
+
+PRESUDA	presuda	Ncfsn
+

@@ -1,0 +1,61 @@
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npfsn
+Danijela	Danijela	Npfsn
+Ćenan	Ćenan	Npfsn
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+gospodarstva	gospodarstvo	Ncnsg
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+
+–	–	Z
+Zdeslav	Zdeslav	Npmsn
+Matić	Matić	Npmsn
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+gospodarstva	gospodarstvo	Ncnsg
+,	,	Z
+predstavnik	predstavnik	Ncmsn
+
+–	–	Npfsn
+Kristina	Kristina	Npfsn
+Čelić	Čelić	Npfsn
+,	,	Z
+Ministarstvo	ministarstvo	Ncnsn
+gospodarstva	gospodarstvo	Ncnsg
+,	,	Z
+zamjenica	zamjenica	Ncfsn
+predstavnika	predstavnik	Ncmpg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/16	02/16	Mdc
+-	-	Z
+01/238	01/238	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+6.	6.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Tihomir	Tihomir	Npmsn
+Orešković	Orešković	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

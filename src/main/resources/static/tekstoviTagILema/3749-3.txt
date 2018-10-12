@@ -1,0 +1,15 @@
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Tomislav	Tomislav	Npmsn
+Jureković	Jureković	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+ing.	ing.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

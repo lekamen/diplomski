@@ -1,0 +1,167 @@
+11	11	Mdc
+30.01.2015	30.01.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Odluke	odluka	Ncfsg
+o	o	Sl
+korištenju	korištenje	Ncnsl
+rezidencijalnih	rezidencijalan	Agpmpgy
+objekata	objekt	Ncmpg
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+219	219	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+8.	8.	Mdo
+i	i	Cc
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+2.	2.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+150/2011	150/2011	Mdc
+i	i	Cc
+119/2014	119/2014	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+29.	29.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+ODLUKE	odluka	Ncfsg
+O	o	Sl
+KORIŠTENJU	korištenje	Ncnsl
+REZIDENCIJALNIH	rezidencijalan	Agpmpgy
+OBJEKATA	objekt	Ncmpg
+U	u	Sl
+VLASNIŠTVU	vlasništvo	Ncnsl
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+I.	I.	Y
+
+U	u	Sl
+Odluci	odluka	Ncfsl
+o	o	Sl
+korištenju	korištenje	Ncnsl
+rezidencijalnih	rezidencijalan	Agpmpgy
+objekata	objekt	Ncmpg
+u	u	Sl
+vlasništvu	vlasništvo	Ncnsl
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+151/2014	151/2014	Mds
+)	)	Z
+,	,	Z
+u	u	Sl
+točki	točka	Ncfsl
+I.	I.	Mro
+podtočka	podtočk	Ncmpg
+1.	1.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Dosadašnje	dosadašnji	Agpfpny
+podtočke	podtočka	Ncfpn
+2.	2.	Mdo
+i	i	Cc
+3.	3.	Mdo
+postaju	postati	Vmr3p
+podtočke	podtočka	Ncfpa
+1.	1.	Mdo
+i	i	Cc
+2.	2.	Mdo
+
+II	ii	Mrc
+.	.	Z
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+prvoga	prvi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/27	04/27	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/09	09/09	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+siječnja	siječanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

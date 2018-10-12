@@ -1,0 +1,69 @@
+71	71	Mdc
+03.08.2016	03.08.2016	Y
+Metodologija	metodologija	Ncfsn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+cijena	cijena	Ncfpg
+za	za	Sa
+obračun	obračun	Ncmsan
+električne	električan	Agpfsgy
+energije	energija	Ncfsg
+uravnoteženja	uravnoteženje	Ncnsg
+
+HRVATSKA	hrvatski	Agpfsny
+ENERGETSKA	energetski	Agpfsny
+REGULATORNA	regulatoran	Agpfsny
+AGENCIJA	agencija	Ncfsn
+
+1702	1702	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+52.	52.	Mdo
+stavka	stavak	Ncmsg
+15.	15.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+tržištu	tržište	Ncnsl
+električne	električan	Agpfsgy
+energije	energija	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+22/13	22/13	Mds
+i	i	Cc
+102/15	102/15	Mdc
+)	)	Z
+,	,	Z
+Hrvatska	Hrvatska	Npfsn
+energetska	energetski	Agpfsny
+regulatorna	regulatoran	Agpfsny
+agencija	agencija	Ncfsn
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+održanoj	održati	Appfsly
+15.	15.	Mdo
+srpnja	srpanj	Ncmsg
+2016.	2016.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+METODOLOGIJU	metodologija	Ncfsa
+ZA	za	Sa
+ODREĐIVANJE	određivanje	Ncnsa
+CIJENA	cijena	Ncfpg
+ZA	za	Sa
+OBRAČUN	obračun	Ncmsan
+ELEKTRIČNE	električan	Agpfsgy
+ENERGIJE	energija	Ncfsg
+URAVNOTEŽENJA	uravnoteženje	Ncnsg
+

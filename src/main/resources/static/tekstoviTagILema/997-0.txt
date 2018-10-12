@@ -1,0 +1,116 @@
+51	51	Mdc
+12.05.2015	12.05.201i	Agpnsny
+Rješenje	rješenje	Ncnsn
+o	o	Sl
+imenovanju	imenovanje	Ncnsl
+zamjenika	zamjenik	Ncmsg
+ministra	ministar	Ncmsg
+kulture	kultura	Ncfsg
+
+VLADA	vlada	Ncfsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	Hrvatska	Npfsg
+
+998	998	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+31.	31.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+Vladi	vlada	Ncfsl
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+150/2011	150/2011	Mdc
+i	i	Cc
+119/2014	119/2014	Mdc
+)	)	Z
+i	i	Cc
+članka	članak	Ncmsg
+40.	40.	Mdo
+stavka	stavak	Ncmsg
+1.	1.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+sustavu	sustav	Ncmsl
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+150/2011	150/2011	Mdc
+i	i	Cc
+12/2013	12/2013	Mds
+)	)	Z
+,	,	Z
+Vlada	vlada	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	hrvatski	Agpfsgy
+je	biti	Var3s
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+7.	7.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+donijela	donijeti	Vmp-sf
+
+RJEŠENJE	rješenje	Ncnsn
+
+O	o	Sl
+IMENOVANJU	imenovanje	Ncnsl
+ZAMJENIKA	zamjenik	Ncmsg
+MINISTRA	ministar	Ncmsg
+KULTURE	kultura	Ncfsg
+
+Imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+ALEN	ALEN	Npmsn
+KAJMOVIĆ	KAJMOVIĆ	Npmsn
+zamjenikom	zamjenik	Ncmsi
+ministra	ministar	Ncmsg
+kulture	kultura	Ncfsg
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+080	080	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+01/75	01/75	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+5030115/1	5030115/1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+02	02	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

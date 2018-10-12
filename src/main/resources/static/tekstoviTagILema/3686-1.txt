@@ -1,0 +1,94 @@
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+44/13	44/13	Mds
+)	)	Z
+i	i	Cc
+
+1.5.	1.5.	Mdo
+
+Obvezatne	obvezatan	Agpfpny
+upute	uputa	Ncfpn
+broj	broj	Ncmsn
+LS	LS	Npmsn
+IV	IV	Mrc
+,	,	Z
+LN	LN	Npmsn
+IV	IV	Npmsn
+i	i	Cc
+MLN	MLN	Npmsn
+IV	IV	Mrc
+–	–	Z
+o	o	Sl
+načinu	način	Ncmsl
+uređenja	uređenje	Ncnsg
+biračkog	birački	Agpnsgy
+mjesta	mjesto	Ncnsg
+,	,	Z
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+44/13	44/13	Mds
+)	)	Z
+.	.	Z
+
+2.	2.	Mdo
+Ove	ovaj	Pd-fsg
+Obvezatne	obvezatan	Agpfpny
+upute	uputa	Ncfpn
+stupaju	stupati	Vmr3p
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Ncmsi
+donošenja	donošenje	Ncnsg
+i	i	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+06/16	06/16	Mdc
+-	-	Z
+03/03	03/03	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+507/18	507/18	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+2	2	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+28.	28.	Mdo
+travnja	travanj	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Branko	Branko	Npmsn
+Hrvatin	Hrvatin	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

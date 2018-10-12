@@ -1,0 +1,751 @@
+SPECIJALIZACIJE	specijalizacija	Ncfpn
+PEDIJATRIJE	pedijatrija	Ncfsg
+JESU	biti	Var3p
+:	:	Z
+«	«	Z
+,	,	Z
+iza	iza	Sg
+točke	točka	Ncfsg
+»	»	Z
+k	k	X
+)	)	Z
+Intenzivna	intenzivan	Agpfsny
+medicina	medicina	Ncfsn
+«	«	Z
+,	,	Z
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+nova	nov	Agpfsny
+točka	točka	Ncfsn
+l	l	Pi-fsg
+)	)	Z
+koja	koji	Pi-fsn
+glasi	glasiti	Vmr3s
+:	:	Z
+»	»	Z
+l	l	Y
+)	)	Z
+Pedijatrijska	pedijatrijski	Agpfsny
+reumatologija	reumatologija	Ncfsn
+«	«	Z
+i	i	Cc
+ispod	ispod	Sg
+te	taj	Pd-fsg
+točke	točka	Ncfsg
+riječi	riječ	Ncfpg
+»	»	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+su	biti	Var3p
+godišnji	godišnji	Agpmpny
+odmori	odmor	Ncmpn
+.	.	Z
+«	«	Z
+zamjenjuju	zamjenjivati	Vmr3p
+se	sebe	Px--sa
+riječima	riječ	Ncfpi
+:	:	Z
+»	»	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+godišnji	godišnji	Agpmsny
+odmor	odmor	Ncmsn
+,	,	Z
+a	a	Cc
+kod	kod	Sg
+užih	uzak	Agpfpgy
+specijalizacija	specijalizacija	Ncfpg
+iz	iz	Sg
+pedijatrijske	pedijatrijski	Agpfsgy
+kardiologije	kardiologija	Ncfsg
+i	i	Cc
+pedijatrijske	pedijatrijski	Agpfsgy
+neurologije	neurologija	Ncfsg
+trajanje	trajanje	Ncnsa
+programa	program	Ncmsg
+je	biti	Var3s
+36	36	Mdc
+mjeseci	mjesec	Ncmpg
+,	,	Z
+od	od	Sg
+kojih	koji	Pi-mpg
+je	biti	Var3s
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+godišnji	godišnji	Agpmsny
+odmor	odmor	Ncmsn
+.	.	Z
+«	«	Z
+,	,	Z
+točke	točka	Ncfpn
+:	:	Z
+»	»	Z
+10.	10.	Mdo
+a	a	Cc
+PEDIJATRIJSKA	pedijatrijski	Agpfsny
+KARDIOLOGIJA	kardiologija	Ncfsn
+«	«	Z
+i	i	Cc
+»	»	Z
+10.	10.	Mdo
+b	b	Cc
+PEDIJATRIJSKA	pedijatrijski	Agpfsny
+NEUROLOGIJA	neurologija	Ncfsn
+«	«	Z
+,	,	Z
+mijenjaju	mijenjati	Vmr3p
+se	sebe	Px--sa
+i	i	Cc
+glase	glasiti	Vmr3p
+,	,	Z
+kao	kao	Cs
+u	u	Sl
+Prilogu	prilog	Ncmsl
+ovoga	ovaj	Pd-nsg
+Pravilnika	pravilnik	Ncmsg
+.	.	Z
+
+Iza	iza	Sg
+točke	točka	Ncfsg
+»	»	Z
+10.	10.	Mdo
+k	k	X
+)	)	Z
+INTENZIVNA	intenzivan	Agpfsny
+MEDICINA	medicina	Ncfsn
+«	«	Z
+,	,	Z
+dodaje	dodavati	Vmr3s
+se	sebe	Px--sa
+nova	nov	Agpfsny
+točka	točka	Ncfsn
+:	:	Z
+»	»	Z
+10.	10.	Mdo
+l	l	Ncfsn
+PEDIJATRIJSKA	pedijatrijski	Agpfsny
+REUMATOLOGIJA	reumatologija	Ncfsn
+«	«	Z
+,	,	Z
+kao	kao	Cs
+u	u	Sl
+Prilogu	prilog	Ncmsl
+ovoga	ovaj	Pd-nsg
+Pravilnika	pravilnik	Ncmsg
+koji	koji	Pi-msn
+se	sebe	Px--sa
+objavljuje	objavljivati	Vmr3s
+na	na	Sl
+internetskim	internetski	Agpfply
+stranicama	stranica	Ncfpl
+»	»	Z
+Narodnih	narodni	Agpfpgy
+novina	novina	Ncfpg
+«	«	Z
+,	,	Z
+www.nn.hr	www.nn.hr	X
+i	i	Cc
+Ministarstva	ministarstvo	Ncnsg
+zdravlja	zdravlje	Ncnsg
+www.miz.hr	www.miz.hr	X
+.	.	Z
+
+–	–	Z
+u	u	Sl
+točki	točka	Ncfsl
+:	:	Z
+»	»	Z
+11.	11.	Mdo
+
+Naziv	naziv	Ncmsn
+specijalizacije	specijalizacija	Ncfsg
+:	:	Z
+NEUROLOGIJA	neurologija	Ncfsn
+«	«	Z
+naslov	naslov	Ncmsn
+:	:	Z
+»	»	Z
+UŽA	uzak	Agcfsny
+SPECIJALIZACIJA	specijalizacija	Ncfsn
+IZ	iz	Sg
+NEUROLOGIJE	neurologija	Ncfsg
+:	:	Z
+«	«	Z
+,	,	Z
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+»	»	Z
+UŽE	uže	Ncnsn
+SPECIJALIZACIJE	specijalizacija	Ncfsg
+IZ	iz	Sg
+NEUROLOGIJE	neurologija	Ncfsg
+«	«	Z
+,	,	Z
+točka	točka	Ncfsn
+:	:	Z
+»	»	Z
+11.	11.	Mdo
+a	a	Cc
+INTENZIVNA	intenzivan	Agpfsny
+MEDICINA	medicina	Ncfsn
+«	«	Z
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+,	,	Z
+a	a	Cc
+ispod	ispod	Sg
+naslova	naslov	Ncmpg
+dodaju	dodati	Vmr3p
+se	sebe	Px--sa
+riječi	riječ	Ncfpn
+:	:	Z
+
+»	»	Z
+a	a	Cc
+)	)	Z
+cerebrovaskularne	cerebrovaskularan	Agpfsgy
+bolesti	bolest	Ncfsg
+
+b	b	Npmsn
+)	)	Z
+epileptologija	epileptologija	Ncfsn
+
+c	C	Npmsn
+)	)	Z
+intenzivna	intenzivan	Agpfsny
+neurologija	neurologija	Ncfsn
+
+d	d	Qr
+)	)	Z
+neurodegenerativne	neurodegenerativan	Agpfpay
+bolesti	bolest	Ncfpa
+
+e	e	I
+)	)	Z
+neuroimunologija	neuroimunologija	Ncfsn
+
+f	f	Qr
+)	)	Z
+neuromuskularne	neuromuskularan	Agpfsgy
+bolesti	bolest	Ncfsg
+«	«	Z
+,	,	Z
+i	i	Cc
+nove	nov	Agpfpay
+točke	točka	Ncfpa
+:	:	Z
+»	»	Z
+11.	11.	Mdo
+a	a	Cc
+CEREBROVASKULARNE	cerebrovaskularan	Agpfpny
+BOLESTI	bolest	Ncfpn
+«	«	Z
+,	,	Z
+»	»	Z
+11.	11.	Mdo
+b	b	Ncmsg
+EPILEPTOLOGIJA	EPILEPTOLOGIJ	Npmsg
+«	«	Z
+,	,	Z
+»	»	Z
+11.	11.	Mdo
+c	C	X
+INTENZIVNA	intenzivan	Agpfsny
+NEUROLOGIJA	neurologija	Ncfsn
+«	«	Z
+,	,	Z
+»	»	Z
+11.	11.	Mdo
+d	d	Ncfsn
+NEURODEGENERATIVNE	neurodegenerativan	Agpfsgy
+BOLESTI	bolest	Ncfsg
+«	«	Z
+,	,	Z
+»	»	Z
+11.	11.	Mdo
+e	e	Ncmsg
+NEUROIMUNOLOGIJA	NEUROIMUNOLOGIJ	Npmsg
+«	«	Z
+i	i	Cc
+»	»	Z
+11.	11.	Mdo
+f	i	Agpfpny
+NEUROMUSKULARNE	neuromuskularan	Agpfpny
+BOLESTI	bolest	Ncfpn
+«	«	Z
+,	,	Z
+koje	koji	Pi-fpn
+glase	glasiti	Vmr3p
+kao	kao	Cs
+u	u	Sl
+Prilogu	prilog	Ncmsl
+ovoga	ovaj	Pd-nsg
+Pravilnika	pravilnik	Ncmsg
+koji	koji	Pi-msn
+se	sebe	Px--sa
+objavljuje	objavljivati	Vmr3s
+na	na	Sl
+internetskim	internetski	Agpfply
+stranicama	stranica	Ncfpl
+»	»	Z
+Narodnih	narodni	Agpfpgy
+novina	novina	Ncfpg
+«	«	Z
+,	,	Z
+www.nn.hr	www.nn.hr	X
+i	i	Cc
+Ministarstva	ministarstvo	Ncnsg
+zdravlja	zdravlje	Ncnsg
+www	www	Ncfsg
+.	.	Z
+miz.hr	miz.hr	X
+.	.	Z
+
+Članak	članak	Ncmsn
+16.	16.	Mdo
+
+U	u	Sl
+Prilogu	prilog	Ncmsl
+II	ii	Mrc
+.	.	Z
+
+Pravilnika	pravilnik	Ncmpg
+u	u	Sl
+točki	točka	Ncfsl
+:	:	Z
+»	»	Z
+12.	12.	Mdo
+
+Hematologija	hematologija	Ncfsn
+«	«	Z
+,	,	Z
+Program	program	Ncmsn
+specijalizacije	specijalizacija	Ncfsg
+mijenja	mijenjati	Vmr3s
+se	sebe	Px--sa
+i	i	Cc
+glasi	glasiti	Vmr3s
+:	:	Z
+
+»	»	Z
+Program	program	Ncmsn
+specijalizacije	specijalizacija	Ncfsg
+:	:	Z
+
+Zajedničko	zajednički	Agpnsny
+internističko	internistički	Agpnsny
+»	»	Z
+deblo	deblo	Ncnsa
+«	«	Z
+–	–	Z
+22	22	Mdc
+mjeseca	mjesec	Ncmsg
+
+1.	1.	Mdo
+Kardiologija	kardiologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+i	i	Cc
+3	3	Mdc
+tjedna	tjedan	Ncmsg
+
+2.	2.	Mdo
+Gastroenterologija	gastroenterologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+i	i	Cc
+3	3	Mdc
+tjedna	tjedan	Ncmsg
+
+3.	3.	Mdo
+Endokrinologija	endokrinologija	Ncfsn
+i	i	Cc
+dijabetologija	dijabetologija	Ncfsn
+–	–	Z
+2,5	2,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+4.	4.	Mdo
+Pulmologija	pulmologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+5.	5.	Mdo
+Nefrologija	nefrologija	Ncfsn
+–	–	Z
+2,5	2,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+6.	6.	Mdo
+Hematologija	hematologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+7.	7.	Mdo
+Transfuziologija	transfuziologija	Ncfsn
+–	–	Z
+2	2	Mdc
+tjedna	tjedan	Ncmsg
+
+8.	8.	Mdo
+Alergologija	alergologija	Ncfsn
+i	i	Cc
+klinička	klinički	Agpfsny
+imunologija	imunologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+9.	9.	Mdo
+Reumatologija	reumatologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+10.	10.	Mdo
+
+Intenzivna	intenzivan	Agpfsny
+i	i	Cc
+hitna	hitan	Agpfsny
+medicina	medicina	Ncfsn
+–	–	Z
+1,5	1,5	Mdc
+mjesec	mjesec	Ncmsan
+
+11.	11.	Mdo
+
+Internistička	internistički	Agpfsny
+onkologija	onkologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+12.	12.	Mdo
+
+Klinička	klinički	Agpfsny
+farmakologija	farmakologija	Ncfsn
+i	i	Cc
+toksikologija	toksikologija	Ncfsn
+–	–	Z
+2	2	Mdc
+tjedna	tjedan	Ncmsg
+
+13.	13.	Mdo
+
+Infektologija	infektologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+Hematologija	hematologija	Ncfsn
+–	–	Z
+33	33	Mdc
+mjeseca	mjesec	Ncmsg
+
+Klinička	klinički	Agpfsny
+hematologija	hematologija	Ncfsn
+–	–	Z
+19	19	Mdc
+mjeseci	mjesec	Ncmpg
+
+hematološki	hematološki	Agpmsny
+odjel	odjel	Ncmsn
+–	–	Z
+8	8	Mdc
+mjeseci	mjesec	Ncmpg
+
+intenzivna	intenzivan	Agpfsny
+kemoterapija	kemoterapija	Ncfsn
+i	i	Cc
+onkologija	onkologija	Ncfsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+transplantacija	transplantacija	Ncfsn
+krvotvornih	krvotvoran	Agpfpgy
+matičnih	matičan	Agpfpgy
+stanica	stanica	Ncfpg
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+dnevna	dnevni	Agpfsny
+bolnica	bolnica	Ncfsn
+i	i	Cc
+poliklinika	poliklinika	Ncfsn
+–	–	Z
+6	6	Mdc
+mjeseci	mjesec	Ncmpg
+
+Laboratorijska	laboratorijski	Agpfsny
+hematologija	hematologija	Ncfsn
+–	–	Z
+4	4	Mdc
+mjeseca	mjesec	Ncmsg
+
+morfologija	morfologija	Ncfsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+hematološki	hematološki	Agpmsny
+laboratorij	laboratorij	Ncmsn
+,	,	Z
+imunološki	imunološki	Agpmsny
+laboratorij	laboratorij	Ncmsn
+i	i	Cc
+biokemija	biokemija	Ncfsn
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+citogenetski	citogenetski	Agpmsayn
+laboratorij	laboratorij	Ncmsan
+i	i	Cc
+molekularne	molekularan	Agpfsgy
+tehnike	tehnika	Ncfsg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+Transfuzijska	transfuzijski	Agpfsny
+medicina	medicina	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+klinička	klinički	Agpfsny
+transfuziologija	transfuziologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+odjel	odjel	Ncmsn
+transfuzijskih	transfuzijski	Agpfpgy
+dijagnostičkih	dijagnostički	Agpfpgy
+pretraga	pretraga	Ncfpg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+odsjek	odsjek	Ncmsn
+citafereze	citafereza	Ncfsg
+i	i	Cc
+prikupljanja	prikupljanje	Ncnsg
+matičnih	matičan	Agpfpgy
+stanica	stanica	Ncfpg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+Tromboza	tromboza	Ncmsn
+i	i	Cc
+hemostaza	hemostaza	Ncfsn
+–	–	Z
+8	8	Mdc
+mjeseci	mjesec	Ncmpg
+
+klinički	klinički	Agpmsny
+odjel	odjel	Ncmsn
+–	–	Z
+4	4	Mdc
+mjeseca	mjesec	Ncmsg
+
+centar	centar	Ncmsn
+za	za	Sa
+hemofiliju	hemofilija	Ncfsa
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+ambulanta	ambulanta	Ncfsn
+za	za	Sa
+hemostazu	hemostaza	Ncfsa
+i	i	Cc
+trombozu	tromboza	Ncfsa
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+koagulacijski	koagulacijski	Agpmsny
+laboratorij	laboratorij	Ncmsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+Hematologija	hematologija	Ncfsn
+
+1.	1.	Mdo
+godina	godina	Ncfpg
+
+Hematološki	hematološki	Agpmsny
+odjel	odjel	Ncmsn
+–	–	Z
+5	5	Mdc
+mjeseci	mjesec	Ncmpg
+
+Dnevna	dnevni	Agpfsny
+bolnica	bolnica	Ncfsn
+i	i	Cc
+poliklinika	poliklinika	Ncfsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+Morfologija	morfologija	Ncfsn
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+Klinička	klinički	Agpfsny
+transfuziologija	transfuziologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+2.	2.	Mdo
+godina	godina	Ncfpg
+
+Hematološki	hematološki	Agpmsny
+odjel	odjel	Ncmsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+Klinički	klinički	Agpmsny
+odjel	odjel	Ncmsn
+tromboze	tromboza	Ncmsg
+i	i	Cc
+hemostaze	hemostaza	Ncfpa
+–	–	Z
+4	4	Mdc
+mjeseca	mjesec	Ncmsg
+
+Ambulanta	ambulanta	Ncfsn
+za	za	Sa
+trombozu	tromboza	Ncmsay
+i	i	Cc
+hemostazu	hemostaza	Ncfsa
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+Koagulacijski	koagulacijski	Agpmsny
+laboratorij	laboratorij	Ncmsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+Odjel	odjel	Ncmsn
+transfuzijskih	transfuzijski	Agpfpgy
+dijagnostičkih	dijagnostički	Agpfpgy
+pretraga	pretraga	Ncfpg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+Hematološki	hematološki	Agpmsny
+laboratorij	laboratorij	Ncmsn
+,	,	Z
+imunologija	imunologija	Ncfsn
+i	i	Cc
+biokemija	biokemija	Ncfsn
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+3.	3.	Mdo
+godina	godina	Ncfpg
+
+Morfologija	morfologija	Ncfsn
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+Intenzivna	intenzivan	Agpfsny
+kemoterapija	kemoterapija	Ncfsn
+i	i	Cc
+onkologija	onkologija	Ncfsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+Transplantacija	transplantacija	Ncfsn
+krvotvornih	krvotvoran	Agpfpgy
+matičnih	matičan	Agpfpgy
+stanica	stanica	Ncfpg
+–	–	Z
+2	2	Mdc
+mjeseca	mjesec	Ncmsg
+
+Centar	centar	Ncmsn
+za	za	Sa
+hemofiliju	hemofilija	Ncfsa
+–	–	Z
+1	1	Mdc
+mjesec	mjesec	Ncmsan
+
+Dnevna	dnevni	Agpfsny
+bolnica	bolnica	Ncfsn
+i	i	Cc
+poliklinika	poliklinika	Ncfsn
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+Citogenetski	citogenetski	Agpmsny
+laboratorij	laboratorij	Ncmsn
+i	i	Cc
+molekularne	molekularan	Agpfsgy
+tehnike	tehnika	Ncfsg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+Odsjek	odsjek	Ncmsn
+citafereze	citafereza	Ncfsg
+i	i	Cc
+prikupljanja	prikupljanje	Ncnsg
+matičnih	matičan	Agpfpgy
+stanica	stanica	Ncfpg
+–	–	Z
+0,5	0,5	Mdc
+mjeseca	mjesec	Ncmsg
+
+Godišnji	godišnji	Agpmsny
+odmor	odmor	Ncmsn
+–	–	Z
+5	5	Mdc
+mjeseci	mjesec	Ncmpg
+.	.	Z
+
+Poslijediplomski	poslijediplomski	Agpmsny
+specijalistički	specijalistički	Agpmsny
+studij	studij	Ncmsn
+»	»	Z
+Hematologija	hematologija	Ncfsn
+«	«	Z
+–	–	Z
+3	3	Mdc
+mjeseca	mjesec	Ncmsg
+
+U	u	Sl
+okviru	okvir	Ncmsl
+specijalizacije	specijalizacija	Ncfsg
+iz	iz	Sg
+hematologije	hematologija	Ncfsg
+specijalizant	specijalizant	Ncmsn
+mora	morati	Vmr3s
+završiti	završiti	Vmn
+poslijediplomski	poslijediplomski	Agpmsayn
+specijalistički	specijalistički	Agpmsayn
+studij	studij	Ncmsan
+

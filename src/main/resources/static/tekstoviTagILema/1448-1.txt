@@ -1,0 +1,343 @@
+Republike	republika	Ncfpn
+Hrvatske	Hrvatska	Npfsg
+.	.	Z
+
+VI	VI	Mrc
+.	.	Z
+
+Od	od	Sg
+primjene	primjena	Ncfsg
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+izuzimaju	izuzimati	Vmr3p
+se	sebe	Px--sa
+sljedeća	sljedeći	Agpnpny
+trgovačka	trgovački	Agpnpny
+društva	društvo	Ncnpn
+,	,	Z
+odnosno	odnosno	Rgp
+druge	drugi	Mlofsg
+pravne	pravni	Agpfpay
+osobe	osoba	Ncfpa
+od	od	Sg
+strateškog	strateški	Agpmsgy
+i	i	Cc
+posebnog	poseban	Agpmsgy
+interesa	interes	Ncmsg
+za	za	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+:	:	Z
+
+1.	1.	Mdo
+Središnje	središnji	Agpnsny
+klirinško	klirinški	Agpnsny
+depozitarno	depozitarni	Agpnsny
+društvo	društvo	Ncnsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+2.	2.	Mdo
+Hrvatska	hrvatski	Agpfsny
+banka	banka	Ncfsn
+za	za	Sa
+obnovu	obnova	Ncfsa
+i	i	Cc
+razvitak	razvitak	Ncmsan
+(	(	Z
+HBOR	HBOR	Npmsn
+)	)	Z
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+3.	3.	Mdo
+Hrvatske	hrvatski	Agpfsgy
+ceste	cesta	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+4.	4.	Mdo
+Hrvatske	hrvatski	Agpfsgy
+autoceste	autocesta	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+5.	5.	Mdo
+HŽ	HŽ	Pi-fsn
+Infrastruktura	infrastruktura	Ncfsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+6.	6.	Mdo
+Hrvatske	hrvatski	Agpfsgy
+vode	voda	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+7.	7.	Mdo
+Centar	centar	Ncmsn
+za	za	Sa
+restrukturiranje	restrukturiranje	Ncnsa
+i	i	Cc
+prodaju	prodaja	Ncfsa
+(	(	Z
+CERP	CERP	Npmsn
+)	)	Z
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+8.	8.	Mdo
+Hrvatska	hrvatski	Agpfsny
+kontrola	kontrola	Ncfsn
+zračne	zračan	Agpfsgy
+plovidbe	plovidba	Ncfsg
+d.o.o.	d.o.oa	Ncfsg
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+9.	9.	Mdo
+Zračna	zračan	Agpfsny
+luka	luka	Ncfsn
+Zadar	Zadar	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Zadar	Zadar	Npmsn
+
+10.	10.	Mdo
+
+Zračna	zračan	Agpfsny
+luka	luka	Ncfsn
+Split	Split	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Kaštel	Kaštel	Npmsn
+Štafilić	Štafilić	Npmsn
+
+11.	11.	Mdo
+
+Zračna	zračan	Agpfsny
+luka	luka	Ncfsn
+Dubrovnik	Dubrovnik	Npmsn
+d.o.o.	d.o.o.	Mro
+,	,	Z
+Čilipi	Čilipa	Npfsl
+
+12.	12.	Mdo
+
+HP	HP	Npmsn
+–	–	Z
+Hrvatska	hrvatski	Agpfsny
+pošta	pošta	Ncfsn
+d.	d.	Y
+d.	d.	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+13.	13.	Mdo
+
+Jadrolinija	rolian	Agsfsny
+,	,	Z
+Rijeka	Rijeka	Npfsn
+.	.	Z
+
+VII	vii	Mrc
+.	.	Z
+
+Pravne	pravni	Agpfpay
+osobe	osoba	Ncfpa
+od	od	Sg
+strateškog	strateški	Agpmsgy
+i	i	Cc
+posebnog	poseban	Agpmsgy
+interesa	interes	Ncmsg
+za	za	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+,	,	Z
+koje	koji	Pi-fpn
+nisu	biti	Var3p
+obuhvaćene	obuhvatiti	Appfpny
+točkom	točka	Ncfsi
+VI	vi	Pp2-pn
+.	.	Z
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+,	,	Z
+rasporedit	rasporediti	Vmn
+će	htjeti	Var3s
+dobit	dobiti	Vmn
+u	u	Sl
+skladu	sklad	Ncmsl
+s	sa	Si
+posebnim	poseban	Agpmpiy
+zakonima	zakon	Ncmpi
+koji	koji	Pi-mpn
+definiraju	definirati	Vmr3p
+njihovu	njihov	Ps3fsa
+djelatnost	djelatnost	Ncfsa
+.	.	Z
+
+VIII	viii	Mrc
+.	.	Z
+
+Sredstva	sredstvo	Ncnpn
+s	sa	Sg
+osnove	osnova	Ncfsg
+dobiti	dobit	Ncfsg
+nakon	nakon	Sg
+oporezivanja	oporezivanje	Ncnsg
+utvrđena	utvrditi	Appfsny
+ovom	ovaj	Pd-fsi
+Odlukom	odluka	Ncfsi
+,	,	Z
+trgovačka	trgovački	Agpnpny
+društva	društvo	Ncnpn
+odnosno	odnosno	Rgp
+druge	drugi	Mlofsg
+pravne	pravni	Agpfpay
+osobe	osoba	Ncfpa
+od	od	Sg
+strateškog	strateški	Agpmsgy
+i	i	Cc
+posebnog	poseban	Agpmsgy
+interesa	interes	Ncmsg
+za	za	Sa
+Republiku	republika	Ncfsa
+Hrvatsku	Hrvatska	Npfsa
+,	,	Z
+dužna	dužan	Agpfsny
+su	biti	Var3p
+uplatiti	uplatiti	Vmn
+na	na	Sa
+račun	račun	Ncmsan
+Državnog	državni	Agpmsgy
+proračuna	proračun	Ncmsg
+IBAN	IBAN	Npmsn
+HR1210010051863000160	HR1210010051863000160	Npmsn
+s	sa	Si
+modelom	model	Ncmsi
+68	68	Mdc
+i	i	Cc
+pozivom	poziv	Ncmsi
+na	na	Sa
+broj	broj	Ncmsan
+7161-OIB	7161-oi	Ncmsg
+uplatitelja-godina	uplatitelja-godin	Npmsg
+za	za	Sa
+koju	koji	Pi-fsa
+se	sebe	Px--sa
+uplaćuje	uplaćivati	Vmr3s
+dobit	dobit	Ncfsn
+,	,	Z
+dinamikom	dinamika	Ncfsi
+uplate	uplata	Ncfsg
+koju	koji	Pi-fsa
+će	htjeti	Var3s
+usuglasiti	usuglasiti	Vmn
+s	sa	Si
+Ministarstvom	ministarstvo	Ncnsi
+financija	financije	Ncfpg
+.	.	Z
+
+IX	IX	Mrc
+.	.	Z
+
+Predstavnici	predstavnik	Ncmpn
+države	država	Ncfsg
+dostavit	dostaviti	Vmn
+će	htjeti	Var3s
+obavijest	obavijest	Ncfsn
+Državnom	državni	Agpmsly
+uredu	ured	Ncmsl
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+državnom	državni	Agpfsiy
+imovinom	imovina	Ncfsi
+o	o	Sl
+svim	sav	Agpfply
+poduzetim	poduzet	Agpfply
+radnjama	radnja	Ncfpl
+i	i	Cc
+mjerama	mjera	Ncfpi
+u	u	Sa
+svrhu	svrha	Ncfsa
+provedbe	provedba	Ncfsg
+ove	ovaj	Pd-fsg
+Odluke	odluka	Ncfsg
+,	,	Z
+najkasnije	kasno	Rgs
+do	do	Sg
+31.	31.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+godine	godina	Ncfsg
+,	,	Z
+kao	kao	Cs
+i	i	Qo
+sve	sav	Agpfpay
+daljnje	daljnji	Agpfpay
+obavijesti	obavijest	Ncfpa
+vezane	vezan	Agpfpay
+uz	uz	Sa
+dinamiku	dinamika	Ncfsa
+izvršenja	izvršenje	Ncnsg
+uplata	uplata	Ncfpg
+.	.	Z
+
+X.	X.	Y
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpnsly
+donošenja	donošenje	Ncnsg
+,	,	Z
+a	a	Cc
+objavit	objaviti	Vmn
+će	htjeti	Var3s
+se	sebe	Px--sa
+u	u	Sl
+»		Agpfply
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+022	022	Mdc
+-	-	Z
+03/15	03/15	Mdc
+-	-	Z
+04/261	04/261	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+50301	50301	Mdc
+-	-	Z
+09/09	09/09	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+8.	8.	Mdo
+srpnja	srpanj	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Zoran	Zoran	Npmsn
+Milanović	Milanović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

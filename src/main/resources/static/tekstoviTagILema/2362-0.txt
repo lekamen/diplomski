@@ -1,0 +1,490 @@
+124	124	Mdc
+13.11.2015	13.11.2015	Mdo
+Naredba	naredba	Ncfsn
+o	o	Sl
+visini	visina	Ncfsl
+naknade	naknada	Ncfsg
+za	za	Sa
+obrasce	obrazac	Ncmpa
+,	,	Z
+isprave	isprava	Ncfpa
+i	i	Cc
+knjige	knjiga	Ncfpn
+koje	koji	Pi-fpn
+izdaju	izdati	Vmr3p
+Ministarstvo	ministarstvo	Ncnsa
+i	i	Cc
+lučke	lučki	Agpfsgy
+kapetanije	kapetanija	Ncfsg
+na	na	Sl
+unutarnjim	unutarnji	Agpfply
+vodama	voda	Ncfpl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+POMORSTVA	pomorstvo	Ncnsg
+,	,	Z
+PROMETA	promet	Ncmsg
+I	i	Cc
+INFRASTRUKTURE	infrastruktura	Ncfsg
+
+2363	2363	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+30.	30.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+plovidbi	plovidba	Ncfsl
+unutarnjim	unutarnji	Agpfply
+vodama	voda	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+109/2007	109/2007	Mdc
+,	,	Z
+132/2007	132/2007	Mdc
+,	,	Z
+51	51	Mdc
+A	a	Cc
+/	/	Z
+2013	2013	Mdc
+i	i	Cc
+152/2014	152/2014	Mds
+)	)	Z
+ministar	ministar	Ncmsn
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+donosi	donositi	Vmr3s
+
+NAREDBU	naredba	Ncfsa
+
+O	o	Sl
+VISINI	visina	Ncfsl
+NAKNADE	naknada	Ncfsg
+ZA	za	Sa
+OBRASCE	obrazac	Ncmpa
+,	,	Z
+ISPRAVE	isprava	Ncfpa
+I	i	Cc
+KNJIGE	knjiga	Ncfpn
+KOJE	koji	Pi-fpn
+IZDAJU	izdati	Vmr3p
+MINISTARSTVO	ministarstvo	Ncnsa
+I	i	Cc
+LUČKE	lučki	Agpfsgy
+KAPETANIJE	kapetanija	Ncfsg
+NA	na	Sl
+UNUTARNJIM	unutarnji	Agpfply
+VODAMA	voda	Ncfpl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Visine	visina	Ncfpn
+naknada	naknada	Ncfpg
+za	za	Sa
+obrasce	obrazac	Ncmpa
+,	,	Z
+isprave	isprava	Ncfpa
+i	i	Cc
+knjige	knjiga	Ncfpn
+koje	koji	Pi-fpn
+su	biti	Var3p
+ovlaštene	ovlastiti	Appfpny
+izdavati	izdavati	Vmn
+lučke	lučki	Agpfpny
+kapetanije	kapetanija	Ncfpn
+na	na	Sl
+unutarnjim	unutarnji	Agpfply
+vodama	voda	Ncfpl
+iznose	iznositi	Vmr3p
+(	(	Z
+u	u	Sl
+hrvatskim	hrvatski	Agpfply
+kunama	kuna	Ncfpl
+)	)	Z
+:	:	Z
+
+1.	1.	Mdo
+Upisni	upisni	Agpmsny
+list	list	Ncmsn
+150,00	150,00	Mdc
+
+2.	2.	Mdo
+Privremeni	privremen	Agpmsny
+upisni	upisni	Agpmsny
+list	list	Ncmsn
+150,00	150,00	Mdc
+
+3.	3.	Mdo
+Upisni	upisni	Agpmsny
+list	list	Ncmsn
+plutajućeg	plutajući	Agpmsgy
+objekta	objekt	Ncmsg
+150,00	150,00	Mdc
+
+4.	4.	Mdo
+Brodski	brodski	Agpmsny
+dnevnik	dnevnik	Ncmsn
+100,00	100,00	Mdc
+
+5.	5.	Mdo
+Popis	popis	Ncmsn
+posade	posada	Ncfsg
+190,00	190,00	Mdc
+
+6.	6.	Mdo
+Brodarska	brodarski	Agpfsny
+knjižica	knjižica	Ncfsn
+290,00	290,00	Mdc
+
+7.	7.	Mdo
+Radio	radio	Agpmsny
+dnevnik	dnevnik	Ncmsn
+100,00	100,00	Mds
+
+8.	8.	Mdo
+Svjedodžba	svjedodžba	Ncfsn
+o	o	Sl
+stručnoj	stručan	Agpfsly
+i	i	Cc
+dopunskoj	dopunski	Agpfsly
+osposobljenosti	osposobljenost	Ncfsl
+(	(	Z
+brodaraca	brodarac	Ncmpg
+)	)	Z
+20,00	20,00	Mdc
+
+9.	9.	Mdo
+Svjedodžba	svjedodžba	Ncfsn
+o	o	Sl
+posebnom	poseban	Agpnsly
+poznavanju	poznavanje	Ncnsl
+ADN-a	ADN	Npmsg
+40,00	40,00	Mdc
+
+10.	10.	Mdo
+
+Uvjerenje	uvjerenje	Ncnsn
+o	o	Sl
+položenom	položiti	Agpmsly
+stručnom	stručan	Agpmsly
+ispitu	ispit	Ncmsl
+(	(	Z
+za	za	Sa
+zvanje	zvanje	Ncnsa
+i	i	Cc
+dopunsku	dopunski	Agpfsay
+osposobljenost	osposobljenost	Ncfsa
+brodaraca	brodarac	Ncmpg
+)	)	Z
+30,00	30,00	Mdc
+
+11.	11.	Mdo
+
+Iskaznica	iskaznica	Ncfsn
+agenta	agent	Ncmsg
+unutarnje	unutarnji	Agpfsgy
+plovidbe	plovidba	Ncfsg
+20,00	20,00	Mdc
+
+12.	12.	Mdo
+
+Uvjerenje	uvjerenje	Ncnsn
+o	o	Sl
+položenom	položiti	Agpmsly
+stručnom	stručan	Agpmsly
+ispitu	ispit	Ncmsl
+za	za	Sa
+ovlaštenje	ovlaštenje	Ncnsa
+agenta	agent	Ncmsg
+unutarnje	unutarnji	Agpfsgy
+plovidbe	plovidba	Ncfsg
+30,00	30,00	Mdc
+
+13.	13.	Mdo
+
+Dozvola	dozvola	Ncfsn
+za	za	Sa
+plovidbu	plovidba	Ncfsa
+čamca	čamac	Ncmsg
+20,00	20,00	Mdc
+
+14.	14.	Mdo
+
+Uvjerenje	uvjerenje	Ncnsn
+o	o	Sl
+osposobljenosti	osposobljenost	Ncfsl
+za	za	Sa
+voditelja	voditelj	Ncmsay
+čamca	čamac	Ncmsg
+(	(	Z
+A	a	Cc
+i	i	Qo
+B	b	X
+)	)	Z
+20,00	20,00	Mdc
+
+15.	15.	Mdo
+
+Međunarodna	međunarodni	Agpfsny
+dozvola	dozvola	Ncfsn
+za	za	Sa
+upravljanje	upravljanje	Ncnsa
+rekreacijskim	rekreacijski	Agpnply
+plovilima	plovilo	Ncnpl
+20,00	20,00	Mdc
+
+16.	16.	Mdo
+
+Svjedodžba	svjedodžba	Ncfsn
+o	o	Sl
+baždarenju	baždarenje	Ncnsl
+čamca	čamac	Ncmsg
+i	i	Cc
+plutajućeg	plutajući	Agpnsgy
+tijela	tijelo	Ncnsg
+20,00	20,00	Mdc
+
+17.	17.	Mdo
+
+Svjedodžba	svjedodžba	Ncfsn
+o	o	Sl
+gradnji	gradnja	Ncfsl
+čamca	čamac	Ncmsg
+i	i	Cc
+plutajućeg	plutajući	Agpnsgy
+tijela	tijelo	Ncnsg
+20,00	20,00	Mdc
+
+18.	18.	Mdo
+
+Izvadak	izvadak	Ncmsn
+iz	iz	Sg
+upisnika	upisnik	Ncmsg
+plovila	ploviti	Vmp-sf
+20,00	20,00	Mdc
+
+19.	19.	Mdo
+
+Izvadak	izvadak	Ncmsn
+iz	iz	Sg
+očevidnika	očevidnik	Ncmpg
+plutajućih	plutajući	Agpmpgy
+objekata	objekt	Ncmpg
+20,00	20,00	Mdc
+
+20.	20.	Mdo
+
+Izvadak	izvadak	Ncmsn
+iz	iz	Sg
+upisnika	upisnik	Ncmsg
+čamaca	čamac	Ncmpg
+20,00	20,00	Mdc
+
+21.	21.	Mdo
+
+Izvadak	izvadak	Ncmsn
+o	o	Sl
+plovidbenoj	plovidben	Agpfsly
+službi	služba	Ncfsl
+20,00	20,00	Mdc
+
+22.	22.	Mdo
+
+Svjedodžba	svjedodžba	Ncfsn
+o	o	Sl
+osposobljenosti	osposobljenost	Ncfsl
+za	za	Sa
+obavljanje	obavljanje	Ncnsa
+komercijalnog	komercijalan	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+20,00	20,00	Mdc
+
+23.	23.	Mdo
+
+Uvjerenje	uvjerenje	Ncnsn
+o	o	Sl
+položenom	položiti	Agpmsly
+ispitu	ispit	Ncmsl
+za	za	Sa
+obavljanje	obavljanje	Ncnsa
+komercijalnog	komercijalan	Agpmsgy
+prijevoza	prijevoz	Ncmsg
+30,00	30,00	Mdc
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Visine	visina	Ncfpn
+naknade	naknada	Ncfsg
+iz	iz	Sg
+članka	članak	Ncmsg
+1.	1.	Mdo
+ove	ovaj	Pd-fsg
+Naredbe	naredba	Ncfsg
+odnose	odnositi	Vmr3p
+se	sebe	Px--sa
+i	i	Qo
+na	na	Sa
+isprave	isprava	Ncfpa
+i	i	Cc
+knjige	knjiga	Ncfpa
+koje	koji	Pi-fpn
+se	sebe	Px--sa
+izdaju	izdati	Vmr3p
+u	u	Sl
+Ministarstvu	ministarstvo	Ncnsl
+pomorstva	pomorstvo	Ncnsg
+,	,	Z
+prometa	promet	Ncmsg
+i	i	Cc
+infrastrukture	infrastruktura	Ncfsg
+.	.	Z
+
+Članak	članak	Ncmsn
+3.	3.	Mdo
+
+Naknade	naknada	Ncfpn
+iz	iz	Sg
+članka	članak	Ncmsg
+1.	1.	Mdo
+ove	ovaj	Pd-fsg
+Naredbe	naredba	Ncfsg
+,	,	Z
+predstavljaju	predstavljati	Vmr3p
+prihode	prihod	Ncmpa
+tijela	tijelo	Ncnsg
+državne	državni	Agpfsgy
+uprave	uprava	Ncfsg
+(	(	Z
+oznaka	oznaka	Ncfsn
+7005	7005	Mdc
+)	)	Z
+Državnog	državni	Agpmsgy
+proračuna	proračun	Ncmsg
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+a	a	Cc
+uplaćuju	uplaćivati	Vmr3p
+se	sebe	Px--sa
+na	na	Sa
+račun	račun	Ncmsan
+i	i	Cc
+na	na	Sa
+način	način	Ncmsan
+kako	kako	Cs
+je	biti	Var3s
+propisano	propisati	Appnsny
+odredbama	odredba	Ncfpi
+propisa	propis	Ncmsg
+kojim	koji	Pi-msi
+se	sebe	Px--sa
+uređuje	uređivati	Vmr3s
+načini	način	Ncmpn
+uplaćivanja	uplaćivanje	Ncnsg
+prihoda	prihod	Ncmpg
+proračuna	proračun	Ncmsg
+.	.	Z
+
+Članak	članak	Ncmsn
+4.	4.	Mdo
+
+Stupanjem	stupanje	Ncnsi
+na	na	Sa
+snagu	snaga	Ncfsa
+ove	ovaj	Pd-fsg
+Naredbe	naredba	Ncfsg
+prestaje	prestajati	Vmr3s
+važiti	važiti	Vmn
+Naredba	naredba	Ncfsn
+o	o	Sl
+visini	visina	Ncfsl
+naknade	naknada	Ncfsg
+za	za	Sa
+isprave	isprava	Ncfpa
+i	i	Cc
+knjige	knjiga	Ncfpa
+koje	koji	Pi-fpn
+izdaju	izdati	Vmr3p
+lučke	lučki	Agpfpny
+kapetanije	kapetanija	Ncfpn
+na	na	Sl
+unutarnjim	unutarnji	Agpfply
+vodama	voda	Ncfpl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+br.	br.	Y
+47/2002	47/2002	Mds
+)	)	Z
+.	.	Z
+
+Članak	članak	Ncmsn
+5.	5.	Mdo
+
+Ova	ovaj	Pd-fsn
+Naredba	naredba	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+danom	dan	Agpmsly
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+01/15	01/15	Mdc
+-	-	Z
+02/114	02/114	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+530	530	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+3	3	Mdc
+-	-	Z
+1	1	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+studenoga	studeni	Ncmsg
+2015.	2015.	Mdo
+
+Ministar	ministar	Ncmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Siniša	Siniša	Npfsn
+Hajdaš	Hajdaš	Npfsn
+Dončić	Dončić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

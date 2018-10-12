@@ -1,0 +1,856 @@
+1034.	1034.	Mdo
+satnik	satnik	Ncmsn
+TONĆI	TONĆI	Npmsn
+(	(	Z
+Brankov	Brankov	Npmsn
+)	)	Z
+MILANOVIĆ	Milanović	Npmsn
+
+1035.	1035.	Mdo
+satnik	satnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+MILINKOVIĆ	Milinković	Npmsn
+
+1036.	1036.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+MILOŽIĆ	MILOŽIĆ	Npmsn
+
+1037.	1037.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+MILJKOVIĆ	Miljković	Npmsn
+
+1038.	1038.	Mdo
+satnik	satnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Dragutinov	Dragutinov	Npmsn
+)	)	Z
+MIOČ	MIOČ	Npmsn
+
+1039.	1039.	Mdo
+satnik	satnik	Ncmsn
+ELVIS	ELVIS	Npmsn
+(	(	Z
+Viljemov	Viljemov	Npmsn
+)	)	Z
+MIŠIĆ	Mišić	Npmsn
+
+1040.	1040.	Mdo
+satnik	satnik	Ncmsn
+OLIVER	Oliver	Npmsn
+(	(	Z
+Rudolfov	Rudolfov	Npmsn
+)	)	Z
+MOVRE	movra	Ncfpn
+
+1041.	1041.	Mdo
+satnik	satnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Šimin	Šimin	Npmsn
+)	)	Z
+MRŠIĆ	Mršić	Npmsn
+
+1042.	1042.	Mdo
+satnik	satnik	Ncmsn
+HAJDAR	HAJDAR	Npmsn
+(	(	Z
+Fadilov	Fadilov	Npmsn
+)	)	Z
+MUJAČIĆ	MUJAČIĆ	Npmsn
+
+1043.	1043.	Mdo
+satnik	satnik	Ncmsn
+EDOUARD	EDOUARD	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+MUŽIK	MUŽIK	I
+
+1044.	1044.	Mdo
+satnik	satnik	Ncmsn
+SLAVEN	Slaven	Npmsn
+(	(	Z
+Sigfridov	Sigfridov	Npmsn
+)	)	Z
+NIKOLA	Nikola	Npmsn
+
+1045.	1045.	Mdo
+satnik	satnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+NIKOLAŠ	NIKOLAŠ	Npmsn
+
+1046.	1046.	Mdo
+satnik	satnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+NOVAK	Novak	Npmsn
+
+1047.	1047.	Mdo
+satnik	satnik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Stojanov	Stojanov	Npmsn
+)	)	Z
+NOVOSEL	NOVOSEL	Qq
+
+1048.	1048.	Mdo
+satnik	satnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Stipin	Stipin	Npmsn
+)	)	Z
+OLUJIĆ	Olujić	Npmsn
+
+1049.	1049.	Mdo
+satnik	satnik	Ncmsn
+ZDRAVKO	ZDRAVKO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+OREŠKOVIĆ	Orešković	Npmsn
+
+1050.	1050.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+PATRLJ	patrlti	Vmm2s
+
+1051.	1051.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Viktorov	Viktorov	Npmsn
+)	)	Z
+PAVIĆ	Pavić	Npmsn
+
+1052.	1052.	Mdo
+satnik	satnik	Ncmsn
+SINIŠA	SINIŠ	Npmsg
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+PAVLIČIĆ	Pavličić	Npmsn
+
+1053.	1053.	Mdo
+satnik	satnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Alojzijev	Alojzijev	Npmsn
+)	)	Z
+PEČNIK	pečnik	Ncmsn
+
+1054.	1054.	Mdo
+satnik	satnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Nikin	Nikin	Npmsn
+)	)	Z
+PENAVA	penave	Ncnpg
+
+1055.	1055.	Mdo
+satnik	satnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+PERŠIĆ	Peršić	Npmsn
+
+1056.	1056.	Mdo
+satnik	satnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+PEŠA	peš	Ncmsg
+
+1057.	1057.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PETRINEC	PETRINEC	Npmsn
+
+1058.	1058.	Mdo
+satnik	satnik	Ncmsn
+JOŽA	Joža	Npmsn
+(	(	Z
+Jozin	Jozin	Npmsn
+)	)	Z
+PETROVIĆ	Petrović	Npmsn
+
+1059.	1059.	Mdo
+satnik	satnik	Ncmsn
+MILIVOJ	MILIVOJ	Npfsg
+(	(	Z
+Milivojev	Milivojev	Npfsn
+)	)	Z
+PILI	piliti	Vmr3s
+
+1060.	1060.	Mdo
+satnik	satnik	Ncmsn
+ZDENKO	ZDENKO	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+PIPERKOVIĆ	PIPERKOVIĆ	Npmsn
+
+1061.	1061.	Mdo
+satnik	satnik	Ncmsn
+FRANO	FRANO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+POKRAJČIĆ	POKRAJČIĆ	Npmsn
+
+1062.	1062.	Mdo
+satnik	satnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Eduardov	Eduardov	Npmsn
+)	)	Z
+POLČIĆ	POLČIĆ	Npmsn
+
+1063.	1063.	Mdo
+satnik	satnik	Ncmsn
+MARKO	Marko	Npmsn
+(	(	Z
+Lukin	Lukin	Npmsn
+)	)	Z
+POSAVČIĆ	POSAVČIĆ	Npmsn
+
+1064.	1064.	Mdo
+satnik	satnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Franjin	Franjin	Npmsn
+)	)	Z
+POSAVEC	POSAVEC	Npmsn
+
+1065.	1065.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Alojzov	Alojzov	Npmsn
+)	)	Z
+PREVAREK	PREVAREK	Npmsn
+
+1066.	1066.	Mdo
+satnik	satnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+PRGOMET	PRGOMET	Npmsn
+
+1067.	1067.	Mdo
+satnik	satnik	Ncmsn
+DAVOR	DAVOR	Npmsn
+(	(	Z
+Stankov	Stankov	Npmsn
+)	)	Z
+PRIMORAC	primorac	Ncmsn
+
+1068.	1068.	Mdo
+satnik	satnik	Ncmsn
+SLAVEN	Slaven	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+PROTULIPAC	PROTULIPAC	Npmsn
+
+1069.	1069.	Mdo
+satnik	satnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Barišin	Barišin	Npmsn
+)	)	Z
+PRSKALO	prskati	Vmp-sn
+
+1070.	1070.	Mdo
+satnik	satnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+PRUGOVEČKI	prugovečki	Agpmsny
+
+1071.	1071.	Mdo
+satnik	satnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+PULIĆ	PULIĆ	Npmsn
+
+1072.	1072.	Mdo
+satnik	satnik	Ncmsn
+DARKO	Darko	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+RADOČAJ	radočati	Vmm2s
+
+1073.	1073.	Mdo
+satnik	satnik	Ncmsn
+ZORKO	ZORKO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+RAHAN	RAHAN	Npmsn
+
+1074.	1074.	Mdo
+satnik	satnik	Ncmsn
+ANTO	ANTO	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+RAŠIĆ	Rašić	Npmsn
+
+1075.	1075.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+RAŠIĆ	Rašić	Npmsn
+
+1076.	1076.	Mdo
+satnik	satnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+REMENAR	remenar	Ncmsn
+
+1077.	1077.	Mdo
+satnik	satnik	Ncmsn
+ANĐELKO	ANĐELKO	Npmsn
+(	(	Z
+Zvonimirov	Zvonimirov	Npmsn
+)	)	Z
+RIMAC	RIMAC	Npmsn
+
+1078.	1078.	Mdo
+satnik	satnik	Ncmsn
+OLIVER	Oliver	Npmsn
+(	(	Z
+Horst	Horst	Npmsn
+Klausov	Klausov	Npmsn
+)	)	Z
+ROSSMANITH	ROSSMANITH	I
+
+1079.	1079.	Mdo
+satnik	satnik	Ncmsn
+RONALD	RONALD	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ROŽIĆ	Rožić	Npmsn
+
+1080.	1080.	Mdo
+satnik	satnik	Ncmsn
+MILE	mio	Agpfsgy
+(	(	Z
+Petrov	Petrov	Npmsn
+)	)	Z
+RUŽIĆ	Ružić	Npmsn
+
+1081.	1081.	Mdo
+satnik	satnik	Ncmsn
+VLADIMIR	Vladimir	Npmsn
+(	(	Z
+Nikolin	Nikolin	Npmsn
+)	)	Z
+SAČARIĆ	SAČARIĆ	Npmsn
+
+1082.	1082.	Mdo
+satnik	satnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Marijanov	Marijanov	Npmsn
+)	)	Z
+SAMOBOR	SAMOBOR	Npmsn
+
+1083.	1083.	Mdo
+satnik	satnik	Ncmsn
+NENAD	NENAD	Npmsn
+(	(	Z
+Fedorov	Fedorov	Npmsn
+)	)	Z
+SANTINI	santin	Aspmpny
+
+1084.	1084.	Mdo
+satnik	satnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Vladimirov	Vladimirov	Npmsn
+)	)	Z
+SERETIN	SERETIN	Npmsn
+
+1085.	1085.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Stipin	Stipin	Npmsn
+)	)	Z
+SESAR	SESAR	Npmsn
+
+1086.	1086.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+SEVER	sever	Ncmsn
+
+1087.	1087.	Mdo
+satnik	satnik	Ncmsn
+KLAUDIO	KLAUDIO	Npmsn
+(	(	Z
+Erminio	Erminio	Npmsn
+)	)	Z
+SIMONOVIĆ	Simonović	Npmsn
+
+1088.	1088.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+SOKOLOVIĆ	Sokolović	Npmsn
+
+1089.	1089.	Mdo
+satnik	satnik	Ncmsn
+KREŠIMIR	KREŠIMIR	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+SPORIŠ	sporiti	Vmr2s
+
+1090.	1090.	Mdo
+satnik	satnik	Ncmsn
+PREDRAG	PREDRAG	Npmsn
+(	(	Z
+Borislavov	Borislavov	Npmsn
+)	)	Z
+SRĐENOVIĆ	SRĐENOVIĆ	Npmsn
+
+1091.	1091.	Mdo
+satnik	satnik	Ncmsn
+IGOR	Igor	Npmsn
+(	(	Z
+Zdravkov	Zdravkov	Npmsn
+)	)	Z
+STANIĆ	Stanić	Npmsn
+
+1092.	1092.	Mdo
+satnik	satnik	Ncmsn
+SLAVKO	Slavko	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+STIPANOVIĆ	STIPANOVIĆ	Npmsn
+
+1093.	1093.	Mdo
+satnik	satnik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+STIPIĆ	STIPIĆ	Npmsn
+
+1094.	1094.	Mdo
+satnik	satnik	Ncmsn
+MIROSLAV	MIROSLAV	Npmsn
+(	(	Z
+Mijin	Mijin	Npmsn
+)	)	Z
+STOJANOVIĆ	Stojanović	Npmsn
+
+1095.	1095.	Mdo
+satnik	satnik	Ncmsn
+FRANO	FRANO	Npmsn
+(	(	Z
+Matin	Matin	Npmsn
+)	)	Z
+SVALINA	SVALINA	Npfsn
+
+1096.	1096.	Mdo
+satnik	satnik	Ncmsn
+MARIJAN	Marijan	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+ŠARIĆ	Šarić	Npmsn
+
+1097.	1097.	Mdo
+satnik	satnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ŠEBALJ	šebalti	Vmm2s
+
+1098.	1098.	Mdo
+satnik	satnik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+ŠIMIĆ	Šimić	Npmsn
+
+1099.	1099.	Mdo
+satnik	satnik	Ncmsn
+MIRO	Miro	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+ŠIMIĆ	Šimić	Npmsn
+
+1100.	1100.	Mdo
+satnik	satnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Krstin	Krstin	Npmsn
+)	)	Z
+ŠINDIJA	šindij	Ncmsg
+
+1101.	1101.	Mdo
+satnik	satnik	Ncmsn
+NINOSLAV	NINOSLAV	Npmsn
+(	(	Z
+Krunoslavov	Krunoslavov	Npmsn
+)	)	Z
+ŠKRLEC	ŠKRLEC	Npmsn
+
+1102.	1102.	Mdo
+satnik	satnik	Ncmsn
+VERIS	VERIS	Npmsn
+(	(	Z
+Vojislavov	Vojislavov	Npmsn
+)	)	Z
+ŠODA	šoda	Ncfsn
+
+1103.	1103.	Mdo
+satnik	satnik	Ncmsn
+MLADEN	MLADEN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+ŠPIRANEC	ŠPIRANEC	Npmsn
+
+1104.	1104.	Mdo
+satnik	satnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Božin	Božin	Npmsn
+)	)	Z
+ŠTEFANAC	ŠTEFANAC	Npmsan
+
+1105.	1105.	Mdo
+satnik	satnik	Ncmsn
+DUBRAVKO	DUBRAVKO	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+ŠTEFANČIĆ	ŠTEFANČIĆ	Npmsn
+
+1106.	1106.	Mdo
+satnik	satnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ŠTENC	ŠTENC	Npmsn
+
+1107.	1107.	Mdo
+satnik	satnik	Ncmsn
+MARINKO	MARINKO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+ŠVENDA	ŠVENDA	Npmsn
+
+1108.	1108.	Mdo
+satnik	satnik	Ncmsn
+DUŠAN	Dušan	Npmsn
+(	(	Z
+Živkov	Živkov	Npmsn
+)	)	Z
+TABULA	tabula	Ncfsn
+
+1109.	1109.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+TALAN	TALAN	Npmsn
+
+1110.	1110.	Mdo
+satnik	satnik	Ncmsn
+BOŽO	Božo	Npmsn
+(	(	Z
+Markov	Markov	Npmsn
+)	)	Z
+TEKLIĆ	TEKLIĆ	Npmsn
+
+1111.	1111.	Mdo
+satnik	satnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Đurin	Đurin	Npmsn
+)	)	Z
+TERZIĆ	Terzić	Npmsn
+
+1112.	1112.	Mdo
+satnik	satnik	Ncmsn
+ANTUN	ANTUN	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+TOKIĆ	Tokić	Npmsn
+
+1113.	1113.	Mdo
+satnik	satnik	Ncmsn
+SLAVKO	Slavko	Npmsn
+(	(	Z
+Pejin	Pejin	Npmsn
+)	)	Z
+TOLIĆ	Tolić	Npmsn
+
+1114.	1114.	Mdo
+satnik	satnik	Ncmsn
+ZLATKO	ZLATKO	Npmsn
+(	(	Z
+Filipov	Filipov	Npmsn
+)	)	Z
+TOLIĆ	Tolić	Npmsn
+
+1115.	1115.	Mdo
+satnik	satnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+TOMAŠINEC	TOMAŠINEC	Npmsn
+
+1116.	1116.	Mdo
+satnik	satnik	Ncmsn
+TOMAS	TOMAS	Npmsn
+(	(	Z
+Antunov	Antunov	Npmsn
+)	)	Z
+TOMIČIĆ	Tomičić	Npmsn
+
+1117.	1117.	Mdo
+satnik	satnik	Ncmsn
+DRAŽEN	dražiti	Appmsnn
+(	(	Z
+Jurajev	Jurajev	Npmsn
+)	)	Z
+TOPOLKO	TOPOLKO	Npmsn
+
+1118.	1118.	Mdo
+satnik	satnik	Ncmsn
+STJEPAN	Stjepan	Npmsn
+(	(	Z
+Mihajlov	Mihajlov	Npmsn
+)	)	Z
+TORKONJAK	TORKONJAK	Npmsn
+
+1119.	1119.	Mdo
+satnik	satnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Stjepanov	Stjepanov	Npmsn
+)	)	Z
+TORTIĆ	TORTIĆ	Npmsn
+
+1120.	1120.	Mdo
+satnik	satnik	Ncmsn
+JOSIP	Josip	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+TUŠEK	TUŠEK	Npmsn
+
+1121.	1121.	Mdo
+satnik	satnik	Ncmsn
+DARIJO	DARIJO	Npmsn
+(	(	Z
+Jurin	Jurin	Npmsn
+)	)	Z
+UGRIN	UGRIN	Npmsn
+
+1122.	1122.	Mdo
+satnik	satnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+UREMOVIĆ	UREMOVIĆ	Npmsn
+
+1123.	1123.	Mdo
+satnik	satnik	Ncmsn
+MARIO	MARIO	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+VARENICA	VARENICA	Npfsn
+
+1124.	1124.	Mdo
+satnik	satnik	Ncmsn
+IVICA	Ivica	Npmsn
+(	(	Z
+Vjekoslavov	Vjekoslavov	Npmsn
+)	)	Z
+VARŽAK	VARŽAK	Npmsn
+
+1125.	1125.	Mdo
+satnik	satnik	Ncmsn
+DAMIR	Damir	Npmsn
+(	(	Z
+Mirkov	Mirkov	Npmsn
+)	)	Z
+VAŠINKO	VAŠINKO	Npmsn
+
+1126.	1126.	Mdo
+satnik	satnik	Ncmsn
+RAFAEL	Rafael	Npmsn
+(	(	Z
+Gabrijelov	Gabrijelov	Npmsn
+)	)	Z
+VIDOVIĆ	Vidović	Npmsn
+
+1127.	1127.	Mdo
+satnik	satnik	Ncmsn
+TOMISLAV	TOMISLAV	Npmsn
+(	(	Z
+Milanov	Milanov	Npmsn
+)	)	Z
+VILIĆ	VILIĆ	Npmsn
+
+1128.	1128.	Mdo
+satnik	satnik	Ncmsn
+ZDENKO	ZDENKO	Npmsn
+(	(	Z
+Adolfov	Adolfov	Npmsn
+)	)	Z
+VOJTEK	VOJTEK	Npmsn
+
+1129.	1129.	Mdo
+satnik	satnik	Ncmsn
+GORAN	GORAN	Npmsn
+(	(	Z
+Ilijin	Ilijin	Npmsn
+)	)	Z
+VRGOČ	VRGOČ	Npmsn
+
+1130.	1130.	Mdo
+satnik	satnik	Ncmsn
+ROBERT	Robert	Npmsn
+(	(	Z
+Josipov	Josipov	Npmsn
+)	)	Z
+VRTOVŠNIK	vrtovšnik	Ncmsn
+
+1131.	1131.	Mdo
+satnik	satnik	Ncmsn
+ŽELJKO	Željko	Npmsn
+(	(	Z
+Dujin	Dujin	Npmsn
+)	)	Z
+VUČEMILOVIĆ-GRGIĆ	VUČEMILOVIĆ-GRGIĆ	Npmsn
+
+1132.	1132.	Mdo
+satnik	satnik	Ncmsn
+DALIBOR	DALIBOR	Npmsn
+(	(	Z
+Slavkov	Slavkov	Npmsn
+)	)	Z
+VUJNOVAC	VUJNOVAC	Npmsn
+
+1133.	1133.	Mdo
+satnik	satnik	Ncmsn
+MIRO	Miro	Npmsn
+(	(	Z
+Perin	Perin	Npmsn
+)	)	Z
+VUKADIN	VUKADIN	Npmsn
+
+1134.	1134.	Mdo
+satnik	satnik	Ncmsn
+ANTE	Ante	Npmsn
+(	(	Z
+Ivanov	Ivanov	Npmsn
+)	)	Z
+VUKIČEVIĆ	Vukičević	Npmsn
+
+1135.	1135.	Mdo
+satnik	satnik	Ncmsn
+DOMIN	DOMIN	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+ZELENIKA	zelenika	Ncfsn
+
+1136.	1136.	Mdo
+satnik	satnik	Ncmsn
+MILAN	Milan	Npmsn
+(	(	Z
+Perin	Perin	Npmsn
+)	)	Z
+ZGONJANIN	ZGONJANIN	Npmsn
+
+1137.	1137.	Mdo
+satnik	satnik	Ncmsn
+NIKOLA	Nikola	Npmsn
+(	(	Z
+Antin	Antin	Npmsn
+)	)	Z
+ZORICA	zorica	Ncfsn
+
+1138.	1138.	Mdo
+satnik	satnik	Ncmsn
+MILIVOJ	MILIVOJ	Npfsg
+(	(	Z
+Dujanov	Dujanov	Npmsn
+)	)	Z
+ZRILIĆ	ZRILIĆ	Npmsn
+
+1139.	1139.	Mdo
+satnik	satnik	Ncmsn
+DENIS	DENIS	Npmsn
+(	(	Z
+Miljenkov	Miljenkov	Npmsn
+)	)	Z
+ZUBAC	zubac	Ncmsn
+
+1140.	1140.	Mdo
+satnik	satnik	Ncmsn
+ANTON	Anton	Npmsn
+(	(	Z
+Andrijin	Andrijin	Npmsn
+)	)	Z
+

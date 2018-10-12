@@ -1,0 +1,497 @@
+Klasa	klasa	Ncfsn
+:	:	Z
+011	011	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+01/07	01/07	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+524	524	Mdc
+-	-	Z
+03	03	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+01/2	01/2	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+33	33	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+10.	10.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+
+Ministrica	ministrica	Ncfsn
+dr.	dr.	Y
+sc.	sc.	Y
+Nada	Nada	Npfsn
+Šikić	Šikić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+
+PRILOG	prilog	Ncmsn
+
+POPIS	popis	Ncmsn
+MJERNE	mjerni	Agpfsgy
+I	i	Cc
+ISPITNE	ispitan	Agpfsgy
+OPREME	oprema	Ncfsg
+
+a	a	Cc
+)	)	Z
+ZA	za	Sa
+MJERENJE	mjerenje	Ncnsa
+BUKE	buka	Ncfsg
+:	:	Z
+
+–	–	Agpmsny
+zvukomjer	zvukomjer	Ncmsn
+prema	prema	Sl
+zahtjevima	zahtjev	Ncmpl
+norme	norma	Ncfsg
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+61672	61672	Mdc
+
+–	–	Agpmsny
+zvučni	zvučan	Agpmsny
+kalibrator	kalibrator	Ncmsn
+prema	prema	Sl
+zahtjevima	zahtjev	Ncmpl
+norme	norma	Ncfsg
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+60942	60942	Mdc
+
+–	–	Agpmsny
+frekvencijski	frekvencijski	Agpmsny
+analizator	analizator	Ncmsn
+prema	prema	Sl
+zahtjevima	zahtjev	Ncmpl
+norme	norma	Ncfsg
+HRN	HRN	Npmsn
+EN	EN	Npmsn
+61260	61260	Mdc
+
+b	b	Y
+)	)	Z
+ZA	za	Sa
+MJERENJE	mjerenje	Ncnsa
+VIBRACIJA	vibracija	Ncfpg
+:	:	Z
+
+–	–	Agpmsny
+mjerač	mjerač	Ncmsn
+vibracija	vibracija	Ncfpg
+koji	koji	Pi-msn
+omogućuje	omogućivati	Vmr3s
+mjerenje	mjerenje	Ncnsa
+i	i	Cc
+ocjenu	ocjena	Ncfsa
+vibracija	vibracija	Ncfpg
+koje	koji	Pi-fpn
+djeluju	djelovati	Vmr3p
+na	na	Sa
+ruke	ruka	Ncfpa
+odnosno	odnosno	Rgp
+na	na	Sa
+cijelo	cijel	Agpnsay
+tijelo	tijelo	Ncnsa
+
+c	C	Npmsn
+)	)	Z
+ZA	za	Sa
+MJERENJE	mjerenje	Ncnsa
+OSVIJETLJENOSTI	osvijetljenost	Ncfsg
+:	:	Z
+
+–	–	Agpmsny
+mjerač	mjerač	Ncmsn
+osvjetljenosti	osvjetljenost	Ncfsg
+(	(	Z
+lx	lx	Pq3n-n
+)	)	Z
+s	sa	Si
+korekcijom	korekcija	Ncfsi
+boje	boja	Ncfsg
+(	(	Z
+V	V	X
+(	(	Z
+I	i	Cc
+))	)i	Agpnsny
+i	i	Cc
+kosinusnom	kosinusan	Agpfsiy
+korekcijom	korekcija	Ncfsi
+
+d	an	Mlcnsn
+)	)	Z
+ZA	za	Sa
+ISPITIVANJE	ispitivanje	Ncnsa
+I	i	Cc
+ODREĐIVANJE	određivanje	Ncnsa
+KONCENTRACIJA	koncentracija	Ncfpg
+OPASNIH	opasni	Agpfpgy
+KEMIKALIJA	kemikalija	Ncfpg
+:	:	Z
+
+Vrste	vrsta	Ncfpn
+štetnosti	štetnost	Ncfsg
+:	:	Z
+
+1.	1.	Mdo
+prašina	prašina	Ncfsn
+
+2.	2.	Mdo
+prašina	prašina	Ncfsn
+u	u	Sl
+obliku	oblik	Ncmsl
+vlakana	vlakno	Ncmpg
+
+3.	3.	Mdo
+anorganski	anorganski	Agpmpny
+plinovi	plin	Ncmpn
+i	i	Cc
+pare	para	Ncfpn
+
+4.	4.	Mdo
+organski	organski	Agpmpny
+plinovi	plin	Ncmpn
+i	i	Cc
+pare	para	Ncfpn
+
+5.	5.	Mdo
+tvari	tvar	Ncfpn
+koje	koji	Pi-fpn
+zahtijevaju	zahtijevati	Vmr3p
+posebne	poseban	Agpfpay
+analitičke	analitički	Agpfpay
+tehnike	tehnika	Ncfpa
+.	.	Z
+
+Skupni	skupni	Agpmpny
+zahtjevi	zahtjev	Ncmpn
+u	u	Sl
+pogledu	pogled	Ncmsl
+mjerne	mjerni	Agpfsgy
+opreme	oprema	Ncfsg
+za	za	Sa
+svih	sav	Agpfpgy
+pet	pet	Ncfpg
+točaka	točka	Ncfpg
+štetnosti	štetnost	Ncfsg
+su	biti	Var3p
+:	:	Z
+
+–	i	Agpfpay
+crpke	crpka	Ncfpa
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+uzoraka	uzorak	Ncmpg
+
+–	–	Pd-mpn
+osobni	osoban	Agpmpny
+dozimetri	dozimetar	Ncmpn
+
+–	–	Pd-fpn
+odgovarajuće	odgovarajući	Agpfsgy
+glave	glava	Ncfsg
+za	za	Sa
+pričvršćivanje	pričvršćivanje	Ncnsa
+na	na	Sa
+crpke	crpka	Ncfpa
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+različitih	različit	Agpmpgy
+uzoraka	uzorak	Ncmpg
+
+–	–	Z
+sprave	sprava	Ncfsg
+za	za	Sa
+umjeravanje	umjeravanje	Ncnsa
+crpki	crpka	Ncfpg
+
+–	–	Sa
+umjereni	umjeren	Agpmsayn
+kronometar	kronometar	Ncmsan
+ili	ili	Cc
+drugi	drugi	Mlomsan
+mjerač	mjerač	Ncmsan
+vremena	vrijeme	Ncnsg
+
+–	–	Z
+mjerač	mjerač	Ncmsn
+temperature	temperatura	Ncfsg
+,	,	Z
+higrometar	higrometar	Ncmsn
+,	,	Z
+barometar	barometar	Ncmsn
+,	,	Z
+anemometar	anemometar	Ncmsn
+
+–	–	Z
+sustav	sustav	Ncmsan
+za	za	Sa
+obradu	obrada	Ncfsa
+i	i	Cc
+pohranu	pohrana	Ncfsa
+podataka	podatak	Ncmpg
+.	.	Z
+
+Zahtjevi	zahtjev	Ncmpn
+za	za	Sa
+mjernu	mjerni	Agpfsay
+opremu	oprema	Ncfsa
+po	po	Sl
+pojedinim	pojedini	Agpfply
+točkama	točka	Ncfpl
+su	biti	Var3p
+:	:	Z
+
+1.	1.	Mdo
+za	za	Sa
+prašinu	prašina	Ncfsa
+:	:	Z
+
+–	–	Agpmsny
+stacionarni	stacionaran	Agpmsny
+sustav	sustav	Ncmsn
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+uzoraka	uzorak	Ncmpg
+za	za	Sa
+finu	fin	Agpfsay
+i	i	Cc
+ukupnu	ukupan	Agpfsay
+prašinu	prašina	Ncfsa
+s	sa	Si
+odgovarajućim	odgovarajući	Agpfpiy
+glavama	glava	Ncfpi
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+
+–	–	Ncfsn
+kalibrirana	kalibrirati	Appfsny
+analitička	analitički	Agpfsny
+vaga	vaga	Ncfsn
+
+–	–	Z
+oprema	oprema	Ncfsn
+za	za	Sa
+kondicioniranje	kondicioniranje	Ncnsa
+filtara	filtar	Ncmpg
+
+–	–	Z
+mjerna	mjerni	Agpfsny
+sprava	sprava	Ncfsn
+za	za	Sa
+procjenjivanje	procjenjivanje	Ncnsa
+koncentracije	koncentracija	Ncfsg
+respirabilne	respirabilan	Agpfsgy
+prašine	prašina	Ncfsg
+
+–	–	Z
+oprema	oprema	Ncfsn
+za	za	Sa
+konimetrijsku	konimetrijski	Agpfsay
+analizu	analiza	Ncfsa
+prašine	prašina	Ncfsg
+
+2.	2.	Mdo
+za	za	Sa
+prašinu	prašina	Ncfsa
+u	u	Sl
+obliku	oblik	Ncmsl
+vlakana	vlakno	Ncmpg
+:	:	Z
+
+–	–	Pd-fpn
+odgovarajuće	odgovarajući	Agpfsgy
+glave	glava	Ncfsg
+,	,	Z
+deklarirane	deklarirati	Appfsgy
+za	za	Sa
+uzimanje	uzimanje	Ncnsa
+uzoraka	uzorak	Ncmpg
+prašine	prašina	Ncfsg
+u	u	Sl
+obliku	oblik	Ncmsl
+vlakana	vlakno	Ncmpg
+
+–	–	Z
+fazno	fazno	Rgp
+kontrastni	kontrastni	Agpmsny
+optički	optički	Agpmsny
+mikroskop	mikroskop	Ncmsn
+
+3.	3.	Mdo
+za	za	Sa
+anorganske	anorganski	Agpmpay
+plinove	plin	Ncmpa
+i	i	Cc
+pare	para	Ncfpa
+:	:	Z
+
+–	–	Z
+oprema	oprema	Ncfsn
+za	za	Sa
+uzorkovanje	uzorkovanje	Ncnsa
+u	u	Sa
+tekuće	tekući	Agpfpay
+i	i	Cc
+krute	krut	Agpmpay
+apsorpcijske	apsorpcijski	Agpmpay
+medije	medij	Ncmpa
+
+–	–	Agpmsny
+spektrofotometar	spektrofotometar	Ncmsn
+UV	UV	Npfsg
+/	/	Z
+VIS	vis	Ncmsn
+/	/	Z
+IR	IR	Npmsn
+
+–	–	Z
+sustav	sustav	Ncmsn
+za	za	Sa
+kontinuirano	kontinuiran	Agpnsay
+praćenje	praćenje	Ncnsa
+koncentracije	koncentracija	Ncfsg
+tvari	tvar	Ncfpg
+u	u	Sl
+zraku	zrak	Ncmsl
+s	sa	Si
+direktnim	direktan	Agpnsiy
+očitavanjem	očitavanje	Ncnsi
+
+–	i	Agpfsny
+metoda	metoda	Ncfsn
+za	za	Sa
+potenciometrijsko	potenciometrijski	Agpnsay
+određivanje	određivanje	Ncnsa
+koncentracija	koncentracija	Ncfpg
+tvari	tvar	Ncfsg
+
+4.	4.	Mdo
+za	za	Sa
+organske	organski	Agpmpay
+plinove	plin	Ncmpa
+i	i	Cc
+pare	para	Ncfpa
+:	:	Z
+
+–	–	Z
+oprema	oprema	Ncfsn
+za	za	Sa
+uzorkovanje	uzorkovanje	Ncnsa
+u	u	Sa
+tekuće	tekući	Agpfpay
+i	i	Cc
+krute	krut	Agpmpay
+apsorpcijske	apsorpcijski	Agpmpay
+medije	medij	Ncmpa
+
+–	–	Agpmsny
+kapilarni	kapilaran	Agpmsny
+plinski	plinski	Agpmsny
+kromatograf	kromatograf	Ncmsn
+s	sa	Si
+FID	F	Npmsi
+detektorom	detektor	Ncmsi
+
+–	–	Agpmsny
+spektrofotometar	spektrofotometar	Ncmsn
+UV	UV	Npfsg
+/	/	Z
+VIS	vis	Ncmsn
+/	/	Z
+IR	IR	Npmsn
+
+–	–	Agpmsayn
+postupak	postupak	Ncmsan
+ili	ili	Cc
+sustav	sustav	Ncmsan
+za	za	Sa
+identifikaciju	identifikacija	Ncfsa
+tvari	tvar	Ncfsg
+
+–	–	Z
+sustav	sustav	Ncmsn
+za	za	Sa
+kontinuirani	kontinuiran	Agpmsayn
+prijam	prijam	Ncmsan
+koncentracija	koncentracija	Ncfpg
+tvari	tvar	Ncfpn
+u	u	Sl
+zraku	zrak	Ncmsl
+s	sa	Si
+direktnim	direktan	Agpnsiy
+očitavanjem	očitavanje	Ncnsi
+
+5.	5.	Mdo
+za	za	Sa
+tvari	tvar	Ncfpa
+koje	koji	Pi-fpn
+zahtijevaju	zahtijevati	Vmr3p
+posebne	poseban	Agpfpay
+analitičke	analitički	Agpfpay
+tehnike	tehnika	Ncfpa
+:	:	Z
+
+–	–	Agpmsny
+visokotlačni	visokotlačni	Agpmsny
+tekućinski	tekućinski	Agpmsny
+kromatograf	kromatograf	Ncmsn
+(	(	Z
+HPLC	HPLC	Npmsn
+)	)	Z
+,	,	Z
+instrument	instrument	Ncmsn
+za	za	Sa
+određivanje	određivanje	Ncnsa
+ukupnog	ukupan	Agpmsgy
+organskog	organski	Agpmsgy
+ugljika	ugljik	Ncmsg
+,	,	Z
+kapilarni	kapilaran	Agpmsny
+plinski	plinski	Agpmsny
+kromatograf	kromatograf	Ncmsn
+s	sa	Si
+različitim	različit	Agpmpiy
+detektorima	detektor	Ncmpi
+
+e	e	I
+)	)	Z
+ZA	za	Sa
+MJERENJE	mjerenje	Ncnsa
+MIKROKLIME	mikroklima	Ncfsg
+:	:	Z
+
+–	–	Agpmsny
+mjerni	mjerni	Agpmsny
+instrument	instrument	Ncmsn
+za	za	Sa
+mjerenja	mjerenje	Ncnsg
+temperature	temperatura	Ncfsg
+zraka	zrak	Ncmsg
+,	,	Z
+relativne	relativan	Agpfsgy
+vlažnosti	vlažnost	Ncfsg
+i	i	Cc
+brzine	brzina	Ncfsg
+strujanja	strujanje	Ncnsg
+zraka	zrak	Ncmsg
+
+–	–	Agpmsny
+mjerni	mjerni	Agpmsny
+instrument	instrument	Ncmsn
+za	za	Sa
+mjerenje	mjerenje	Ncnsa
+toplinskog	toplinski	Agpnsgy
+zračenja	zračenje	Ncnsg
+

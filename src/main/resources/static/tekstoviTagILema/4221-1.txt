@@ -1,0 +1,12 @@
+iskorištenja	iskorištenje	Ncnsg
+sredstava	sredstvo	Ncnpg
+,	,	Z
+a	a	Cc
+najkasnije	kasno	Rgs
+do	do	Sg
+31.	31.	Mdo
+prosinca	prosinac	Ncmsg
+2020.	2020.	Mdo
+godine	godina	Ncfsg
+.	.	Z
+

@@ -1,0 +1,176 @@
+25	25	Mdc
+23.03.2016	23.03.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+faktoru	faktor	Ncmsl
+osnovne	osnovan	Agpfsgy
+mirovine	mirovina	Ncfsg
+od	od	Sg
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+ZAVOD	zavod	Ncmsn
+ZA	za	Sa
+MIROVINSKO	mirovinski	Agpnsay
+OSIGURANJE	osiguranje	Ncnsa
+
+767	767	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+93.	93.	Mdo
+stavka	stavak	Ncmsg
+4.	4.	Mdo
+Zakona	zakon	Ncmsg
+o	o	Sl
+mirovinskom	mirovinski	Agpnsly
+osiguranju	osiguranje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+157/2013	157/2013	Mdc
+,	,	Z
+33/2015	33/2015	Mds
+i	i	Cc
+93/2015	93/2015	Mdc
+)	)	Z
+,	,	Z
+članka	članak	Ncmsg
+21.	21.	Mdo
+i	i	Cc
+22.	22.	Mdo
+
+Statuta	statut	Ncmsg
+Hrvatskog	hrvatski	Agpmsgy
+zavoda	zavod	Ncmsg
+za	za	Sa
+mirovinsko	mirovinski	Agpnsay
+osiguranje	osiguranje	Ncnsa
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+28/2014	28/2014	Mds
+i	i	Cc
+24/2015	24/2015	Mds
+)	)	Z
+,	,	Z
+Upravno	upravan	Agpnsny
+vijeće	vijeće	Ncnsn
+Hrvatskog	hrvatski	Agpmsgy
+zavoda	zavod	Ncmsg
+za	za	Sa
+mirovinsko	mirovinski	Agpnsay
+osiguranje	osiguranje	Ncnsa
+,	,	Z
+na	na	Sl
+sjednici	sjednica	Ncfsl
+održanoj	održati	Appfsly
+17.	17.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+,	,	Z
+donosi	donositi	Vmr3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+FAKTORU	faktor	Ncmsl
+OSNOVNE	osnovan	Agpfsgy
+MIROVINE	mirovina	Ncfsg
+
+OD	od	Sg
+1.	1.	Mdo
+SIJEČNJA	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+Faktor	faktor	Ncmsn
+osnovne	osnovan	Agpfsgy
+mirovine	mirovina	Ncfsg
+od	od	Sg
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+iznosi	iznositi	Vmr3s
+0,75.	0,75.	Mdo
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ova	ovaj	Pd-fsn
+Odluka	odluka	Ncfsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+,	,	Z
+a	a	Cc
+primjenjuje	primjenjivati	Vmr3s
+se	sebe	Px--sa
+od	od	Sg
+1.	1.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+Klasa	klasa	Ncfsn
+:	:	Z
+041	041	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+02/2	02/2	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+341	341	Mdc
+-	-	Z
+99	99	Mdc
+-	-	Z
+01/01	01/01	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+8	8	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Upravnog	upravan	Agpnsgy
+vijeća	vijeće	Ncnsg
+Hrvatskog	hrvatski	Agpmsgy
+zavoda	zavod	Ncmsg
+za	za	Sa
+mirovinsko	mirovinski	Agpnsay
+osiguranje	osiguranje	Ncnsa
+Marinko	Marinko	Pi-nsa
+Papuga	Papi	Npmsg
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

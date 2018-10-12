@@ -1,0 +1,14 @@
+PROSTOR	prostor	Ncmsn
+ZA	za	Sa
+POTPISE	potpis	Ncmpa
+I	i	Cc
+OVJERU	ovjera	Ncfsa
+IZVJEŠĆA	izvješće	Ncnsg
+
+Kontrolor	kontrolor	Ncmsn
+:	:	Z
+PEČAT	pečat	Ncmsn
+Odjel	odjel	Ncmsn
+kontrole	kontrola	Ncfsg
+:	:	Z
+

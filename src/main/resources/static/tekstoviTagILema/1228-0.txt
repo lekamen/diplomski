@@ -1,0 +1,121 @@
+64	64	Mdc
+10.06.2015	10.06.2015	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+razrješenju	razrješenje	Ncnsl
+članice	članica	Ncfsg
+i	i	Cc
+imenovanju	imenovanje	Ncnsl
+člana	član	Ncmsg
+Izaslanstva	izaslanstvo	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+1229	1229	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+,	,	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+29.	29.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+RAZRJEŠENJU	razrješenje	Ncnsl
+ČLANICE	članica	Ncfsg
+I	i	Cc
+IMENOVANJU	imenovanje	Ncnsl
+ČLANA	član	Ncmsg
+IZASLANSTVA	izaslanstvo	Ncnsg
+HRVATSKOGA	hrvatski	Agpmsgy
+SABORA	sabor	Ncmsg
+U	u	Sl
+PARLAMENTARNOJ	parlamentaran	Agpfsly
+SKUPŠTINI	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+
+I.	I.	Y
+
+Razrješuje	razrješivati	Vmr3s
+se	sebe	Px--sa
+članica	članica	Ncfsn
+Izaslanstva	izaslanstvo	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+dr.	dr.	Y
+sc.	sc.	Y
+MARTINA	MARTINA	Npfsn
+DALIĆ	Dalić	Npfsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+člana	član	Ncmsay
+Izaslanstva	izaslanstvo	Ncnsg
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+u	u	Sl
+Parlamentarnoj	parlamentaran	Agpfsly
+skupštini	skupština	Ncfsl
+NATO-a	NATO	Npmsg
+imenuje	imenovati	Vmr3s
+se	sebe	Px--sa
+dr.	dr.	Y
+sc.	sc.	Y
+MIROSLAV	MIROSLAV	Npmsn
+TUĐMAN	TUĐMAN	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/15	13/15	Mdc
+-	-	Z
+04/03	04/03	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+29.	29.	Mdo
+svibnja	svibanj	Ncmsg
+2015.	2015.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+Josip	Josip	Npmsn
+Leko	Leko	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,148 @@
+Vukmir	Vukmir	Npmsn
+Mladen	Mladen	Npmsn
+,	,	Z
+partner	partner	Ncmsn
+,	,	Z
+osnivač	osnivač	Ncmsn
+,	,	Z
+Odvjetničko	odvjetnički	Agpnsny
+društvo	društvo	Ncnsn
+Vukmir	Vukmir	Npmsn
+i	i	Cc
+suradnici	suradnik	Ncmpn
+,	,	Z
+Gramača	Gramača	Npfsn
+2	2	Mdc
+L	l	Y
+,	,	Z
+Zagreb	Zagreb	Npmsn
+
+144.	144.	Mdo
+
+Wedam	Wedam	Npmsn
+Lukić	Lukić	Npmsn
+prof.	prof.	Y
+dr.	dr.	Y
+Dragica	Dragica	Npfsn
+,	,	Z
+Pravna	pravni	Agpmsgy
+fakulteta	fakultet	Ncmsg
+Univerze	Univerze	Npmsn
+v	V	Sl
+Ljubljani	Ljubljana	Npfsl
+,	,	Z
+Poljanski	poljanski	Agpmsny
+nasip	nasip	Ncmsn
+2	2	Mdc
+,	,	Z
+Ljubljana	Ljubljana	Npfsn
+,	,	Z
+Slovenija	Slovenija	Npfsn
+
+145.	145.	Mdo
+
+Werthmueller	werthmueller	Ncmsn
+–	–	Z
+Muric	Muri	Npmsg
+Natascha	Natasch	Npmsg
+,	,	Z
+odvjetnica	odvjetnica	Ncfsn
+,	,	Z
+Odvjetnički	odvjetnički	Agpmsny
+ured	ured	Ncmsn
+Werthmueller	Werthmueller	Npmsn
+Muric	Muric	Npmsn
+,	,	Z
+Bahnhofstrasse	Bahnhofstrasse	Npmsn
+52	52	Mdc
+,	,	Z
+8001	8001	Mdc
+Zürich	Zürich	Npmsn
+
+146.	146.	Mdo
+
+Zoroska	Zoroska	Npfsn
+–	–	Npfsn
+Kamilovska	Kamilovska	Npfsn
+PhD	PhD	Npfsn
+.	.	Z
+
+Tatjana	Tatjana	Npfsn
+,	,	Z
+University	University	Xf
+Ss	Ss	Xf
+.	.	Z
+
+Cyril	Cyril	Npmsn
+and	and	Xf
+Methodius	Methodius	Xf
+,	,	Z
+Faculty	Faculty	Xf
+of	of	Xf
+Law	Law	Xf
+lustinianus	lustinianus	Xf
+Primus	primus	Xf
+,	,	Z
+BId	BId	Qr
+.	.	Z
+
+Goce	goca	Ncfpn
+Delčev	delčev	Aspmsnn
+9	9	Mdc
+B	b	Y
+,	,	Z
+Skopje	Skopje	Npnsn
+,	,	Z
+Makedonija	Makedonija	Npfsn
+
+147.	147.	Mdo
+
+Zubović	Zubović	Npmsn
+dr.	dr.	Y
+sc.	sc.	Y
+Antonija	Antoni	Npmsg
+,	,	Z
+viši	visok	Agcmsny
+asistent	asistent	Ncmsn
+Pravni	pravni	Agpmsny
+fakultet	fakultet	Ncmsn
+Sveučilišta	sveučilište	Ncnsg
+u	u	Sl
+Rijeci	Rijeka	Npfsl
+,	,	Z
+Hahlić	Hahlić	Npmsn
+6	6	Mdc
+,	,	Z
+Rijeka	Rijeka	Npfsn
+
+Klasa	klasa	Ncfsn
+:	:	Z
+023	023	Mdc
+-	-	Z
+02/15	02/15	Mdc
+-	-	Z
+02/08	02/08	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+311	311	Mdc
+-	-	Z
+02	02	Mdc
+-	-	Z
+15	15	Mdc
+-	-	Z
+12	12	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+17.	17.	Mdo
+rujna	rujan	Ncmsg
+2015.	2015.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Luka	Luka	Npmsn
+Burilović	Burilović	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

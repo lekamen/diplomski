@@ -1,0 +1,158 @@
+14	14	Mdc
+12.02.2016	12.02.2016	Mdo
+Odluka	odluka	Ncfsn
+o	o	Sl
+izboru	izbor	Ncmsl
+predsjednika	predsjednik	Ncmsg
+i	i	Cc
+članova	član	Ncmpg
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+360	360	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+81.	81.	Mdo
+
+Ustava	ustava	Ncfsn
+Republike	republika	Ncfsg
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+članka	članak	Ncmsg
+4.	4.	Mdo
+Odluke	odluka	Ncfsg
+o	o	Sl
+Nacionalnom	nacionalan	Agpnsly
+vijeću	vijeće	Ncnsl
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+br.	br.	Y
+82/06.	82/06.	Mds
+i	i	Cc
+35/09.	35/09.	Mdo
+)	)	Z
+Hrvatski	hrvatski	Agpmsny
+sabor	sabor	Ncmsn
+na	na	Sl
+sjednici	sjednica	Ncfsl
+5.	5.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+donio	donijeti	Vmp-sm
+je	biti	Var3s
+
+ODLUKU	odluka	Ncfsa
+
+O	o	Sl
+IZBORU	izbor	Ncmsl
+PREDSJEDNIKA	predsjednik	Ncmsg
+I	i	Cc
+ČLANOVA	član	Ncmpg
+NACIONALNOG	nacionalan	Agpnsgy
+VIJEĆA	vijeće	Ncnsg
+ZA	za	Sa
+PRAĆENJE	praćenje	Ncnsa
+PROVEDBE	provedba	Ncfsg
+STRATEGIJE	strategija	Ncfsg
+SUZBIJANJA	suzbijanje	Ncnsg
+KORUPCIJE	korupcija	Ncfsg
+
+I.	I.	Y
+
+Za	za	Sa
+predsjednika	predsjednik	Ncmsay
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+iz	iz	Sg
+reda	red	Ncmsg
+zastupnika	zastupnik	Ncmpg
+bira	birati	Vmr3s
+se	sebe	Px--sa
+dr.	dr.	Y
+sc.	sc.	Y
+ŽELJKO	Željko	Npmsn
+JOVANOVIĆ	Jovanović	Npmsn
+.	.	Z
+
+II	ii	Mrc
+.	.	Z
+
+Za	za	Sa
+članove	član	Ncmpa
+Nacionalnog	nacionalan	Agpnsgy
+vijeća	vijeće	Ncnsg
+za	za	Sa
+praćenje	praćenje	Ncnsa
+provedbe	provedba	Ncfsg
+Strategije	strategija	Ncfsg
+suzbijanja	suzbijanje	Ncnsg
+korupcije	korupcija	Ncfsg
+iz	iz	Sg
+reda	red	Ncmsg
+zastupnika	zastupnik	Ncmpg
+biraju	birati	Vmr3p
+se	sebe	Px--sa
+:	:	Z
+
+INGRID	INGRID	Npmsn
+ANTIČEVIĆ	Antičević	Npmsn
+MARINOVIĆ	Marinović	Npmsn
+
+MILORAD	MILORAD	Npmsn
+BATINIĆ	Batinić	Npmsn
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+021	021	Mdc
+-	-	Z
+13/16	13/16	Mdc
+-	-	Z
+03/34	03/34	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+5.	5.	Mdo
+veljače	veljača	Ncfsg
+2016.	2016.	Mdo
+
+HRVATSKI	hrvatski	Agpmsny
+SABOR	sabor	Ncmsn
+
+Predsjednik	predsjednik	Ncmsn
+Hrvatskoga	hrvatski	Agpmsgy
+sabora	sabor	Ncmsg
+akademik	akademik	Ncmsn
+Željko	Željko	Npmsn
+Reiner	Reiner	Npmsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

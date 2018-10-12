@@ -1,0 +1,16 @@
+za	za	Sa
+kontaktiranje	kontaktiranje	Ncnsa
+2.	2.	Mdo
+Telefon	telefon	Ncmsn
+3.	3.	Mdo
+Telefaks	telefaks	Ncmsn
+4.	4.	Mdo
+Adresa	adresa	Ncfsn
+e-pošte	e-pošta	Ncfsg
+
+Datum	datum	Ncmsn
+prijave	prijava	Ncfsg
+Potpis	potpis	Ncmsn
+podnositelja	podnositelj	Ncmpg
+prijave	prijava	Ncfsg
+

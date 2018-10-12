@@ -1,0 +1,24 @@
+U-III-4536	U-III-4536	X
+/	/	Z
+2012	2012	Mdc
+Zagreb	Zagreb	Npmsn
+,	,	Z
+14.	14.	Mdo
+siječnja	siječanj	Ncmsg
+2016.	2016.	Mdo
+
+USTAVNI	ustavan	Agpmsny
+SUD	sud	Ncmsn
+REPUBLIKE	republika	Ncfsg
+HRVATSKE	hrvatski	Agpfsgy
+
+Predsjednica	predsjednica	Ncfsn
+Vijeća	vijeće	Ncnsg
+dr.	dr.	Y
+sc.	sc.	Y
+Snježana	Snježana	Npfsn
+Bagić	Bagić	Npfsn
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

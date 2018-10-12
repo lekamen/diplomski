@@ -1,0 +1,149 @@
+22	22	Mdc
+11.03.2016	11.03.2016	Agpmsny
+Pravilnik	pravilnik	Ncmsn
+o	o	Sl
+izmjeni	izmjena	Ncfsl
+Pravilnika	pravilnik	Ncmsg
+o	o	Sl
+energetskom	energetski	Agpmsly
+pregledu	pregled	Ncmsl
+zgrade	zgrada	Ncfsg
+i	i	Cc
+energetskom	energetski	Agpnsly
+certificiranju	certificiranje	Ncnsl
+
+MINISTARSTVO	ministarstvo	Ncnsn
+GRADITELJSTVA	graditeljstvo	Ncnsg
+I	i	Cc
+PROSTORNOGA	prostoran	Agpnsgy
+UREĐENJA	uređenje	Ncnsg
+
+610	610	Mdc
+
+Na	na	Sl
+temelju	temelj	Ncmsl
+članka	članak	Ncmsg
+47.	47.	Mdo
+
+Zakona	zakon	Ncmsg
+o	o	Sl
+gradnji	gradnja	Ncfsl
+(	(	Z
+»	i	Agpfpny
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+153/13	153/13	Mds
+)	)	Z
+,	,	Z
+ministar	ministar	Ncmsn
+graditeljstva	graditeljstvo	Ncnsg
+i	i	Cc
+prostornoga	prostoran	Agpnsgy
+uređenja	uređenje	Ncnsg
+,	,	Z
+donosi	donositi	Vmr3s
+
+PRAVILNIK	pravilnik	Ncmsn
+
+O	o	Sl
+IZMJENI	izmjena	Ncfsl
+PRAVILNIKA	pravilnik	Ncmsg
+O	o	Sl
+ENERGETSKOM	energetski	Agpmsly
+PREGLEDU	pregled	Ncmsl
+ZGRADE	zgrada	Ncfsg
+I	i	Cc
+ENERGETSKOM	energetski	Agpnsly
+CERTIFICIRANJU	certificiranje	Ncnsl
+
+Članak	članak	Ncmsn
+1.	1.	Mdo
+
+U	u	Sl
+Pravilniku	pravilnik	Ncmsl
+o	o	Sl
+energetskom	energetski	Agpmsly
+pregledu	pregled	Ncmsl
+zgrade	zgrada	Ncfsg
+i	i	Cc
+energetskom	energetski	Agpnsly
+certificiranju	certificiranje	Ncnsl
+(	(	Z
+»	»	Z
+Narodne	narodni	Agpfpny
+novine	novina	Ncfpn
+«	«	Z
+,	,	Z
+broj	broj	Ncmsn
+48/14	48/14	Mdc
+,	,	Z
+150/14	150/14	Mdc
+i	i	Cc
+133/15	133/15	Mdc
+)	)	Z
+u	u	Sl
+članku	članak	Ncmsl
+6.	6.	Mdo
+stavak	stavak	Ncmsn
+2.	2.	Mdo
+briše	brisati	Vmr3s
+se	sebe	Px--sa
+.	.	Z
+
+Članak	članak	Ncmsn
+2.	2.	Mdo
+
+Ovaj	ovaj	Pd-msn
+Pravilnik	pravilnik	Ncmsn
+stupa	stupati	Vmr3s
+na	na	Sa
+snagu	snaga	Ncfsa
+osmoga	osmi	Mlomsg
+dana	dan	Ncmsg
+od	od	Sg
+dana	dan	Ncmsg
+objave	objava	Ncfsg
+u	u	Sl
+»	»	Z
+Narodnim	narodni	Agpfply
+novinama	novina	Ncfpl
+«	«	Z
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+360	360	Mdc
+-	-	Z
+01/16	01/16	Mdc
+-	-	Z
+12/2	12/2	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+531	531	Mdc
+-	-	Z
+01	01	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+3	3	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+7.	7.	Mdo
+ožujka	ožujak	Ncmsg
+2016.	2016.	Mdo
+
+Ministar	ministar	Ncmsn
+Lovro	Lovro	Npmsn
+Kuščević	Kuščević	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,46 @@
+»		Agpfpiy
+Narodnim	narodni	Agpfpiy
+novinama	novina	Ncfpi
+«	«	Z
+i	i	Cc
+na	na	Sl
+internetskoj	internetski	Agpfsly
+stranici	stranica	Ncfsl
+Državnog	državni	Agpnsgy
+izbornog	izborni	Agpnsgy
+povjerenstva	povjerenstvo	Ncnsg
+www.izbori.hr	www.izbori.hr	X
+.	.	Z
+
+Klasa	klasa	Ncfsn
+:	:	Z
+013	013	Mdc
+-	-	Z
+06/16	06/16	Mdc
+-	-	Z
+03/06	03/06	Mdc
+
+Urbroj	urbroj	Ncmsn
+:	:	Z
+507/36	507/36	Mdc
+-	-	Z
+16	16	Mdc
+-	-	Z
+1	1	Mdc
+
+Zagreb	Zagreb	Npmsn
+,	,	Z
+22.	22.	Mdo
+kolovoza	kolovoz	Ncmsg
+2016.	2016.	Mdo
+
+Predsjednik	predsjednik	Ncmsn
+Branko	Branko	Npmsn
+Hrvatin	Hrvatin	Npmsn
+,	,	Z
+dipl.	dipl.	Y
+iur.	iur.	Y
+,	,	Z
+v.	v.	Y
+r.	r.	Y
+

@@ -1,0 +1,582 @@
+Podunavlja	podunavlje	Ncnpn
+2.500	2.500	Mdc
+10.000	10.000	Mdc
+1.2.	1.2.	Mds
+
+Sjemenska	sjemenski	Agpfsny
+zona	zona	Ncfsn
+nizinskih	nizinski	Agpfpgy
+šuma	šuma	Ncfpg
+Posavine	Posavina	Npfsg
+,	,	Z
+srednje	srednji	Agpfsgy
+Hrvatske	Hrvatska	Npfsg
+i	i	Cc
+Pokuplja	Pokuplj	Npmsg
+7.000	7.000	Mdc
+4.1.	4.1.	Mds
+
+Sjemenska	sjemenski	Agpfsny
+zona	zona	Ncfsn
+jugozapadna	jugozapadni	Agpfsny
+(	(	Z
+do	do	Sg
+Tijarice	tijarica	Ncfsg
+)	)	Z
+500	500	Mdc
+
+Rijetke	rijedak	Agpfsgy
+šumske	šumski	Agpfsgy
+svojte	svojta	Ncfsg
+Br.	bra	Ncfsg
+
+Botanički	botanički	Agpmsny
+i	i	Cc
+hrvatski	hrvatski	Agpmsny
+naziv	naziv	Ncmsn
+Maksimalna	maksimalan	Agpfsny
+ukupna	ukupan	Agpfsny
+količina	količina	Ncfsn
+(	(	Z
+kg	kg	Ncmsn
+)	)	Z
+15.	15.	Mdo
+
+Acer	Acer	Npmsn
+platanoides	platanoides	Xf
+L.	L.	Y
+–	–	Z
+javor	javor	Ncmsn
+mliječ	mliječ	Ncfsn
+5	5	Mdc
+16.	16.	Mdo
+
+Acer	acer	Agpmsny
+pseudoplatanus	pseudoplatanus	Ncmsn
+L.	L.	Y
+–	–	Z
+gorski	gorski	Agpmsny
+javor	javor	Ncmsn
+30	30	Mdc
+17.	17.	Mdo
+
+Carpinus	Carpinus	Xf
+betulus	betulus	Xf
+L.	L.	Y
+–	–	Z
+obični	običan	Agpmsny
+grab	grab	Ncmsn
+2	2	Mdc
+18.	18.	Mdo
+
+Castanea	castanea	Ncfsn
+sativa	sativ	Agpfsny
+Mill	Mill	Npfsn
+.	.	Z
+–	–	Z
+europski	europski	Agpmsny
+pitomi	pitom	Agpmsny
+kesten	kesten	Ncmsn
+1.000	1.000	Mdc
+19.	19.	Mdo
+
+Larix	larix	Ncmsn
+decidua	decidu	Ncmsg
+Mill	Mill	Npmsn
+.	.	Z
+–	–	Z
+europski	europski	Agpmsny
+ariš	ariš	Ncmsn
+2	2	Mdc
+20.	20.	Mdo
+
+Malus	malus	Ncmsn
+sylvestris	sylvestrie	Ncnsg
+L.	L.	Y
+–	–	Z
+divlja	divljati	Vmr3s
+jabuka	jabuka	Ncfsn
+1	1	Mdc
+21.	21.	Mdo
+
+Pinus	Pinus	Xf
+pinaster	pinaster	Xf
+Aiton	Aiton	Npmsn
+–	–	Z
+primorski	primorski	Agpmsny
+bor	bor	Ncmsn
+30	30	Mdc
+22.	22.	Mdo
+
+Pinus	Pinus	Xf
+pinea	pine	Ncmsg
+L.	L.	Mro
+,	,	Z
+–	–	Z
+pinija	pinija	Ncfsn
+100	100	Mdc
+23.	23.	Mdo
+
+Prunus	Prunus	Xf
+avium	avium	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+L.	L.	Y
+–	–	Z
+divlja	divlji	Agpfsny
+trešnja	trešnja	Ncfsn
+100	100	Mdc
+24.	24.	Mdo
+
+Pyrus	Pyrus	Xf
+pyraster	pyraster	Xf
+Burgsd	Burgsd	Xf
+.	.	Z
+–	–	Z
+divlja	divljati	Vmr3s
+kruška	kruška	Ncfsn
+1	1	Mdc
+25.	25.	Mdo
+
+Tilia	Tilia	Npfsn
+cordata	cordat	Agpfsny
+Mill	Mill	Npfsn
+.	.	Z
+–	–	Z
+malolisna	malolisan	Agpfsny
+lipa	lipa	Ncfsn
+2	2	Mdc
+26.	26.	Mdo
+
+Tilia	Tilia	Npfsn
+platyphyllos	platyphyllosti	Vmr3s
+Scop	Scop	Npmsn
+.	.	Z
+–	–	Z
+velelisna	velelisan	Agpfsny
+lipa	lipa	Ncfsn
+4	4	Mdc
+27.	27.	Mdo
+
+Tilia	Tilia	Npfsn
+tomentosa	tomentosa	Npfsn
+Moench	Moench	Npfsn
+–	–	Z
+srebrnasta	srebrnast	Agpfsny
+lipa	lipa	Ncfsn
+3	3	Mdc
+28.	28.	Mdo
+
+Ulmus	Ulmus	Xf
+minor	minor	Xf
+Mill	Mill	Xf
+.	.	Z
+emend	emend	Ncmsn
+.	.	Z
+
+Richens	Richens	Npmsn
+–	–	Z
+poljski	poljski	Agpmsny
+brijest	brijest	Ncmsn
+2	2	Mdc
+
+PRILOG	prilog	Ncmsn
+II	ii	Mro
+.	.	Z
+
+KVALITETA	kvaliteta	Ncfsn
+SJEMENSKOG	sjemenski	Agpmsgy
+MATERIJALA	materijal	Ncmsg
+ŠUMSKIH	šumski	Agpfpgy
+SVOJTI	svojta	Ncfpg
+
+Br.	Br.	Y
+
+Naziv	naziv	Ncmsn
+šumske	šumski	Agpfsgy
+svojte	svojta	Ncfsg
+Grupa	grupa	Ncfsn
+sjemena	sjemeni	Agpfsny
+Minimalna	minimalan	Agpfsny
+kvaliteta	kvaliteta	Ncfsn
+sjemenskog	sjemenski	Agpmsgy
+materijala	materijal	Ncmsg
+Čistoća	čistoća	Ncfsn
+(%)	(%)	Z
+Klijavost	klijavost	Ncfsn
+/	/	Z
+vitalitet	vitalite	Agpfsny
+(%)	(%i	Agpfsny
+Crnogorica	crnogorica	Ncfsn
+1.	1.	Mdo
+Abies	Abies	Npfsn
+alba	alba	Npfsn
+Mill	Mill	Npfsn
+.	.	Z
+
+III	III	Mrc
+95	95	Mdc
+30	30	Mdc
+2.	2.	Mdo
+Larix	lari	Agpmsgy
+decidua	decidu	Ncmsg
+Mill	Mill	Npmsn
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+35	35	Mdc
+3.	3.	Mdo
+Picea	Pice	Npmsg
+abies	abies	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+H.	H.	Y
+Karst	Karst	Npmsn
+.	.	Z
+
+I	i	Cc
+97	97	Mdc
+70	70	Mdc
+4.	4.	Mdo
+Pinus	Pinus	Xf
+brutia	brutia	Agpmsayn
+Ten	ten	Ncmsan
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+50	50	Mdc
+5.	5.	Mdo
+Pinus	Pinus	Xf
+halepensis	halepensis	Xf
+Mill	Mill	Xf
+.	.	Z
+
+I	i	Cc
+99	99	Mdc
+60	60	Mdc
+6.	6.	Mdo
+Pinus	Pinus	Xf
+nigra	nigr	Ncmsg
+J.	J.	Mro
+F.	F.	Y
+Arnold	Arnold	Npmsn
+I	i	Cc
+99	99	Mdc
+75	75	Mdc
+7.	7.	Mdo
+Pinus	Pinus	Xf
+pinaster	pinaster	Xf
+Aiton	Aiton	Npmsn
+I	i	Cc
+95	95	Mdc
+70	70	Mdc
+8.	8.	Mdo
+Pinus	Pinus	Xf
+pinea	pine	Ncmsg
+L.	L.	Mro
+I	i	Cc
+95	95	Mdc
+65	65	Mdc
+9.	9.	Mdo
+Pinus	Pinus	Xf
+sylvestris	sylvestris	Xf
+L.	L.	Mro
+I	i	Cc
+99	99	Mdc
+65	65	Mdc
+Bjelogorica	bjelogorica	Ncfpg
+10.	10.	Mdo
+
+Acer	acer	Agpmsny
+pseudoplatanus	pseudoplatanus	Ncmsn
+L.	L.	Y
+II	ii	Mrc
+95	95	Mdc
+60	60	Mdc
+11.	11.	Mdo
+
+Acer	Acer	Npmsn
+platanoides	platanoides	Xf
+L.	L.	Y
+III	III	Mrc
+95	95	Mdc
+70	70	Mdc
+12.	12.	Mdo
+
+Alnus	Alnus	Xf
+glutinosa	glutinosa	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+Gaertn	Gaertn	Npmsn
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+50	50	Mdc
+13.	13.	Mdo
+
+Carpinus	Carpinus	Xf
+betulus	betulus	Xf
+L.	L.	Y
+I	i	Cc
+98	98	Mdc
+80	80	Mdc
+14.	14.	Mdo
+
+Castanea	castanea	Ncfsn
+sativa	sativ	Agpfsny
+Mill	Mill	Npfsn
+.	.	Z
+
+II	ii	Mrc
+98	98	Mdc
+65	65	Mdc
+15.	15.	Mdo
+
+Fagus	fagu	Agpfpgy
+sylvatica	sylvatica	Ncfpg
+L.	L.	Y
+III	III	Mrc
+99	99	Mdc
+50	50	Mdc
+16.	16.	Mdo
+
+Fraxinus	Fraxinus	Xf
+angustifolia	angustifolia	Xf
+Vahl	Vahl	Npmsn
+I	i	Cc
+95	95	Mdc
+60	60	Mdc
+17.	17.	Mdo
+
+Fraxinus	Fraxinus	Xf
+excelsior	excelsior	Xf
+L.	L.	Y
+I	i	Cc
+95	95	Mdc
+60	60	Mdc
+18.	18.	Mdo
+
+Malus	malus	Ncmsn
+sylvestris	sylvestris	Ncfpg
+L.	L.	Y
+I	i	Cc
+95	95	Mdc
+60	60	Mdc
+19.	19.	Mdo
+
+Prunus	Prunus	Xf
+avium	avium	Xf
+(	(	Z
+L.	L.	Y
+)	)	Z
+L.	L.	Y
+I	i	Cc
+95	95	Mdc
+70	70	Mdc
+20.	20.	Mdo
+
+Pyrus	Pyrus	Xf
+pyraster	pyraster	Xf
+Burgsd	Burgsd	Xf
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+75	75	Mdc
+21.	21.	Mdo
+
+Tilia	Tilia	Npfsn
+cordata	cordat	Agpfsny
+Mill	Mill	Npfsn
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+45	45	Mdc
+22.	22.	Mdo
+
+Tilia	Tilia	Npfsn
+platyphyllos	platyphyllosti	Vmr3s
+Scop	Scop	Npmsn
+.	.	Z
+
+I	i	Cc
+95	95	Mdc
+45	45	Mdc
+23.	23.	Mdo
+
+Tilia	Tilia	Npfsn
+tomentosa	tomentos	Agpfsny
+Moench	Moench	Npfsn
+I	i	Cc
+95	95	Mdc
+45	45	Mdc
+24.	24.	Mdo
+
+Quercus	Quercus	Npmsn
+ilex	ilex	Xf
+L.	L.	Y
+II	ii	Mrc
+98	98	Mdc
+75	75	Mdc
+25.	25.	Mdo
+
+Quercus	Quercus	Npmsn
+petraea	petrae	Ncmsg
+(	(	Z
+Matt	Matt	Npmsn
+.	.	Z
+)	)	Z
+Liebl	Liebl	Npmsn
+.	.	Z
+
+II	ii	Mrc
+98	98	Mdc
+75	75	Mdc
+26.	26.	Mdo
+
+Quercus	Quercus	Npmsn
+pubescens	pubescens	Xf
+Willd	Willd	Xf
+.	.	Z
+
+II	ii	Mrc
+98	98	Mdc
+75	75	Mdc
+27.	27.	Mdo
+
+Quercus	Quercus	Npmsn
+robur	robur	Xf
+L.	L.	Y
+II	ii	Mrc
+98	98	Mdc
+75	75	Mdc
+28.	28.	Mdo
+
+Ulmus	Ulmus	Xf
+minor	minor	Xf
+Mill	Mill	Xf
+.	.	Z
+emend	emend	Ncmsn
+.	.	Z
+
+Richens	Richens	Npmsn
+I	i	Cc
+90	90	Mdc
+40	40	Mdc
+
+PRILOG	prilog	Ncmsn
+III	III	Mrc
+.	.	Z
+
+UVJETI	uvjet	Ncmpn
+I	i	Cc
+RAZDOBLJE	razdoblje	Ncnsa
+SKLADIŠTENJA	skladištenje	Ncnsg
+SJEMENSKOG	sjemenski	Agpmsgy
+MATERIJALA	materijal	Ncmsg
+
+Razdoblje	razdoblje	Ncnsn
+skladištenja	skladištenje	Ncnsg
+do	do	Sg
+12	12	Mdc
+mjeseci	mjesec	Ncmpg
+do	do	Sg
+5	5	Mdc
+godina	godina	Ncfpg
+više	mnogo	Rgc
+od	od	Sg
+5	5	Mdc
+godina	godina	Ncfpg
+Grupa	grupa	Ncfsn
+I	i	Cc
+Sadržaj	sadržaj	Ncmsn
+vlage	vlaga	Ncfsg
+(%)	(%)	Z
+5	5	Mdc
+do	do	Sg
+10	10	Mdc
+;	;	Z
+10	10	Mdc
+do	do	Sg
+15	15	Mdc
+5	5	Mdc
+do	do	Sg
+10	10	Mdc
+;	;	Z
+10	10	Mdc
+do	do	Sg
+15	15	Mdc
+5	5	Mdc
+do	do	Sg
+10	10	Mdc
+;	;	Z
+10	10	Mdc
+do	do	Sg
+15	15	Mdc
+Temperatura	temperatura	Ncfpg
+skladištenja	skladištenje	Ncnsg
+(	(	Z
+°	°	Z
+C	C	X
+)	)	Z
+3	3	Mdc
+do	do	Sg
+5	5	Mdc
+5	5	Mdc
+do	do	Sg
+10	10	Mdc
+;	;	Z
+3	3	Mdc
+do	do	Sg
+5	5	Mdc
+-	-	Z
+18	18	Mdc
+Grupa	grupa	Ncfsn
+II	ii	Mrc
+Sadržaj	sadržaj	Ncmsn
+vlage	vlaga	Ncfsg
+(%)	(%)	Z
+30	30	Mdc
+do	do	Sg
+40	40	Mdc
+30	30	Mdc
+do	do	Sg
+40	40	Mdc
+-	-	Z
+Temperatura	temperatura	Ncfsn
+skladištenja	skladištenje	Ncnsg
+(	(	Z
+°	°	Z
+C	C	X
+)	)	Z
+0	0	Mdc
+do	do	Sg
+5	5	Mdc
+-1	-1	Ncmsn
+do	do	Sg
++3	+a	Ncfsg
+-	-	Z
+Grupa	grupa	Ncfsn
+III	III	Agpmsny
+Sadržaj	sadržaj	Ncmsn
+vlage	vlaga	Ncfsg
+(%)	(%)	Z
+9	9	Mdc
+do	do	Sg
+12	12	Mdc
+Temperatura	temperatura	Ncfpg
+skladištenja	skladištenje	Ncnsg
+(	(	Z
+°	°	Z
+C	C	X
+)	)	Z
+<	<	Z
+-5	-i	Agpnsny
+
