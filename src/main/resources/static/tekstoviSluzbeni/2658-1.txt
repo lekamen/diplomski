@@ -1,0 +1,34 @@
+ kategorije L, vozilo koje se ne može uvrstiti u određenu kategoriju jer ne ispunjava najmanje jedno mjerilo za navedenu kategoriju, uvrštava se u sljedeću kategoriju čija mjerila ispunjava. To se primjenjuje na sljedeće skupine kategorija i potkategorija:
+(a) kategoriju L1e s potkategorijama L1e-A i L1e-B i kategoriju L3e s potkategorijama L3e-A1, L3e-A2 i L3e-A3;
+(b) kategoriju L2e i kategoriju L5e s potkategorijama L5e-A i L5e-B;
+(c) kategoriju L6e s potkategorijama L6e-A i L6e-B i kategoriju L7e s potkategorijama L7e-A, L7e-B i L7e-C;
+(d) bilo koji drugi logični slijed kategorija i/ili potkategorija koji predloži proizvođač i odobri homologacijsko tijelo.«
+Članak 2.
+U Prilogu V iza obrasca »IZJAVA O SUKLADNOSTI VOZILA« dodaje se obrazac:
+»IZJAVA O SUKLADNOSTI VOZILA – L kategorija                     (prema Uredbi (EU) 168/2013)
+                              Broj:____________
+0.1. Marka vozila: __________________________________
+0.2. Tip: __________________________________________.
+0.2.1. varijanta:_____________________________________ .
+0.2.2. izvedba: _____________________________________.
+0.2.3. Trgovački naziv: _______________________________.
+0.3. Kategorija/potkategorija/potpotkategorija vozila:. _______.
+0.4. Naziv i adresa proizvođača vozila: ___________________
+0.4.2. Naziv i adresa predstavnika proizvođača (ako postoji): __.
+0.5. Mjesto i način postavljanja propisanih pločica: ___________.
+0.6. Mjesto identifikacijske oznake vozila __________________.
+1.0. Identifikacijska oznaka vozila (VIN): __________________.
+1.1. Broj EU homologacije vozila: ________________________.
+  Izjavljujem da je navedeno vozilo u cijelosti sukladno  homologiranom tipu vozila za koji je Državni zavod za    mjeriteljstvo izdao Potvrdu o evidenciji tipa vozila
+                             Broj: ________
+Klasa:__________ Urbroj: ______________ od: _____________
+Izdavač izjave:_________________________________________
+____________________________________________________
+Mjesto i datum: ___________
+                M. P.                                        Odgovorna osoba:
+Članak 3.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/15-01/03
+Urbroj: 558-04-01/1-15-1
+Zagreb, 23. prosinca 2015.
+Zamjenik ravnatelja mr. sc. Božidar Ljubić, dipl. ing., v. r.

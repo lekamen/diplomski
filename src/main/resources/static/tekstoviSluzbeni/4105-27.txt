@@ -1,0 +1,98 @@
+ skupnik vojni spec. ĐURO (Stjepanov) ROHTEK
+2553. skupnik vojni spec. FRANJO (Ivanov) RUNTAS
+2554. skupnik vojni spec. DAMIR (Vladimirov) SAVATOVIĆ
+2555. skupnik vojni spec. JOZO (Špirov) SLADOJEVIĆ
+2556. skupnik vojni spec. DRAŽEN (Tomin) ŠEHORNIG
+2557. skupnik vojni spec. STJEPAN (Vinkov) ŠIMIĆ
+2558. skupnik vojni spec. BOŽO (Josipov) ŠKORIĆ
+2559. skupnik vojni spec. DRAGO (Viktorov) ŠPRAJC
+2560. skupnik vojni spec. ŽELJKO (Slavkov) ŠTEVANJA
+2561. skupnik vojni spec. ANTUN (Stjepanov) TRABALKO
+2562. skupnik vojni spec. ŽELJKO (Franjin) TRKEŠ
+2563. skupnik vojni spec. MIRO (Josipov) VLAHOVIĆ
+2564. skupnik vojni spec. DAVOR (Ljubin) VRSALJKO
+2565. skupnik vojni spec. BOŽIDAR (Franjin) VUGRIN
+2566. skupnik vojni spec. ANTON (Vitomirov) VUKOVIĆ
+2567. skupnik vojni spec. MILE (Ivanov) ŽGELA
+2568. skupnica TANJA (Josipova) SARAGA
+2569. skupnik ANĐELKO (Anđelkov) BELAVIĆ
+2570. skupnik MILAN (Josipov) BOROVAC
+2571. skupnik PETAR (Stjepanov) DAMJANOVIĆ
+2572. skupnik DRAŽEN (Pavin) GUMBAREVIĆ
+2573. skupnik DOMAGOJ (Marijanov) HORVAT
+2574. skupnik MIROSLAV (Stevin) HORVAT
+2575. skupnik VJEKOSLAV (Stipin) JAKOVLJEVIĆ
+2576. skupnik DAMIR (Đurin) KOS
+2577. skupnik MIRKO (Mirkov) KOVAČEVIĆ
+2578. skupnik ZDENKO (Franjin) KURTOVIĆ
+2579. skupnik ŽELJKO (Jozin) MARUŠIĆ
+2580. skupnik JOSIP (Nikolin) PETANJEK
+2581. skupnik ROBERT (Slavkov) PLAZIBAT
+2582. skupnik JAKOV (Nikola) PULIĆ
+2583. skupnik MIKO (Josin) RAŽOV
+2584. skupnik DRAGAN (Dragoljubov) STELIĆ
+2585. skupnik VLADO (Ivanov) STRUPAR
+2586. skupnik NIKOLA (Markov) ŠARLIJA
+2587. skupnik DARIO (Matin) ŠTEKIĆ
+2588. skupnik RINO (Josipov) VUČKOVIĆ
+2589. skupnik LUKA (Markov) VUKOVIĆ
+2590. skupnik DARIO (Ivanov) ŽDERIĆ
+2591. razvodnik JURE (Markov) BAČIĆ
+2592. razvodnik ANDRIJA (Ivanov) BAČIĆ
+2593. razvodnik KRUNO (Augustov) BALENTOVIĆ
+2594. razvodnik MIRKO (Martinov) BAŠIĆ
+2595. razvodnik SLAVKO (Mihaljev) BELČIĆ
+2596. razvodnik ŽELJKO (Ružin) BEŠANIĆ
+2597. razvodnik JURE (Matin) BIĆANIĆ
+2598. razvodnik MATO (Matin) BIJELIĆ-JOSIPOVIĆ
+2599. razvodnik ŠIMO (Mirkov) BILETIĆ
+2600. razvodnik ZORAN (Antin) BILUŠIĆ
+2601. razvodnik IVICA (Lukin) BIUKLIĆ
+2602. razvodnik ANTO (Ivanov) BODLOVIĆ
+2603. razvodnik DARKO (Stipin) BOGDAN
+2604. razvodnik JOSIP (Vjenceslavov) BOSILJEVAC
+2605. razvodnik STANKO (Jurin) BOŠNJAK
+2606. razvodnik ZDENKO (Josipov) BOŠNJAKOVIĆ
+2607. razvodnik TOMISLAV (Brankov) BREBER
+2608. razvodnik DENIS (Vinkov) BRKLJAČA
+2609. razvodnik ŽELJKO (Stipin) BRNADIĆ
+2610. razvodnik MARIJAN (Ivanov) BURSIĆ
+2611. razvodnik DRAŽEN (Franjin) CVITKOVIĆ
+2612. razvodnik DAMIR (Vinkov) ČAVLOVIĆ
+2613. razvodnik MARIO (Mirkov) ČMAREC
+2614. razvodnik DAMIR (Josipov) ČUKELJ
+2615. razvodnik MILAN (Đurin) ĆERIMOVIĆ
+2616. razvodnik BLAŽ (Martinov) ĆOSIĆ
+2617. razvodnik ZVONIMIR (Milin) DELAČ
+2618. razvodnik MARINKO (Josipov) DOMAZET
+2619. razvodnik DRAŽEN (Slavkov) ĐURANIĆ
+2620. razvodnik ANTUN (Adamov) ĐURIĆ
+2621. razvodnik TOMISLAV (Mirkov) FILIPOVIĆ
+2622. razvodnik DAMIR (Mirkov) FIŠTROVIĆ
+2623. razvodnik BRANKO (Mikin) FUDURIĆ
+2624. razvodnik DAMIR (Stjepanov) FUNTAK
+2625. razvodnik MILE (Nadin) GALAC
+2626. razvodnik BRUNO (Ivanov) GALEKOVIĆ
+2627. razvodnik IVICA ZORAN (Đurin) GAŠPAROVIĆ
+2628. razvodnik TIHOMIR (Ivanov) GAŠPIĆ
+2629. razvodnik ZORAN (Njegomirov) GOLUŽA
+2630. razvodnik ALEN (Frankov) GOZDAN
+2631. razvodnik DAVOR (Tomin) GRČIĆ
+2632. razvodnik ILIJA (Petrov) GRGIĆ
+2633. razvodnik IVICA (Stipanov) GUGIĆ
+2634. razvodnik ANTE (Milin) GULAN
+2635. razvodnik SINIŠA (Andrijin) HANAK
+2636. razvodnik BORIS (Dragutinov) HEDERIĆ
+2637. razvodnik NIKOLA (Zvonkov) HORVAT
+2638. razvodnik DAMIR (Dragutinov) JAIĆ
+2639. razvodnik TIHOMIR (Josipov) JAKŠIĆ
+2640. razvodnik DAMIR (Josipov) JANKOVIĆ
+2641. razvodnik VLADO (Matijin) JOHA
+2642. razvodnik DARKO (Đurin) JOVINAC
+2643. razvodnik IVICA (Nikolin) JUGOVIĆ
+2644. razvodnik MATO (Nikin) JURIĆ
+2645. razvodnik PREDRAG (Jozin) JURIĆ
+2646. razvodnik KRUNOSLAV (Mijin) JURIŠA
+2647. razvodnik TOMISLAV (Pavin) KATUŠA
+2648. razvodnik BORIS (Ivanov) KEVRIĆ
+2649. 

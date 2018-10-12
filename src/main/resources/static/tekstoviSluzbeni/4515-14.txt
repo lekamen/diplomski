@@ -1,0 +1,28 @@
+drugim dijelovima vozila kojim se položaj (položaji) mogu mijenjati nagibanjem, okretanjem ili klizanjem bez uporabe alata.
+(6) Ako je nakon ugradbe uređaja bilo koji dio površine uređaja skriven bilo kojim drugim dijelom vozila, dio uređaja koji nije skriven treba biti sukladan fotometrijskim vrijednostima propisanima za homologaciju tog uređaja. Prisutnost dijelova ili drugih elemenata vozila blizu glavnih svjetala ne smije dovesti do učinaka koji bi uzrokovali neudobnost ostalim korisnicima ceste.
+(7) Uređaji za osvjetljavanje i svjetlosnu signalizaciju mogu biti postavljeni na pomičnim elementima vozila ili dijelovima nadogradnje ili drugim dijelovima vozila.
+(8) Svjetla se moraju ugraditi u vozilo tako da se izvor svjetlosti može ispravno zamijeniti u skladu s uputama proizvođača bez uporabe posebnih alata, osim ako ih je osigurao proizvođač vozila.
+(9) Uvjet iz stavka 8. ovoga članka ne primjenjuje se na uređaje koji su homologirani s neizmjenjivim izvorom svjetlosti i uređaje koji su homologirani s izvorima svjetlosti s izbojem u plinu ili diodom koja emitira svjetlost (LED).
+(10) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 27.
+(1) Istovjetni uređaji za osvjetljavanje i svjetlosnu signalizaciju koji su udvostručeni (čine par), moraju biti postavljeni u istoj vodoravnoj ravnini i simetrično prema uzdužnoj okomitoj ravnini vozila. Na vozilima čiji je vanjski oblik asimetričan ovi zahtjevi moraju biti zadovoljeni koliko je to moguće.
+(2) Istovjetni uređaji moraju biti iste veličine i boje, istodobnog djelovanja, zadovoljavati iste kolorimetrijske zahtjeve i imati bitno istovjetne fotometrijske značajke, osim pokazivača smjera, svjetla za osvjetljavanje u zavoju (svjetla za skretanje – kutna svjetla) i prilagodljiva prednja svjetla (AFS).
+(3) Uređaji iz stavka 1. ovoga članka, ako su kombinirano izvedeni, moraju udovoljavati uvjetima propisanim za svaki pojedini uređaj.
+3.1 Uređaji za osvjetljavanje ceste
+Članak 28.
+(1) Uređaji za osvjetljavanje ceste smiju emitirati sljedeće boje svjetlosti:
+Naziv sklopa Boja svjetla dugo svjetlo bijela kratko svjetlo bijela prednja svjetla za maglu bijela ili žuta svjetlo za vožnju unatrag bijela svjetlo za skretanje (svjetlo za osvjetljavanje u zavoju) bijela svjetla za osvjetljavanje mjesta na kojem se izvode radovi bijela ili žuta pokretno svjetlo (reflektor) bijela ili žuta dodatna svjetla za osvjetljavanje ceste bijela ili žuta
+(2) Uređaji za osvjetljavanje ceste na prednjoj strani vozila moraju biti povezani tako da se ne mogu uključiti dok se ne uključe stražnja i prednja pozicijska svjetla i svjetla za osvjetljavanje stražnje registarske pločice, osim kad se koriste za davanje svjetlosnih znakova.
+Članak 29.
+(1) Na motornim vozilima moraju biti ugrađena dva ili četiri duga glavna svjetla.
+(2) Na vozila kategorije N3 mogu se ugraditi i dodatna duga glavna svjetla u svrhu svjetlosne signalizacije, koja se sastoji od osvjetljavanja na mahove, u kratkim vremenskim razmacima.
+(3) Vozila koja se na ravnoj cesti ne mogu kretati brzinom većom od 25 km/h ne moraju imati dugo glavno svjetlo.
+(4) Najviše po jedno dugo glavno svjetlo na obje strane vozila može se zakretati za proizvođenje osvjetljavanja u zavoju.
+(5) Duga glavna svjetla mogu se uključivati ili istodobno ili u parovima.
+(6) U slučaju ugradbe dodatnih dugih glavnih svjetala, a što je dopušteno samo za vozila kategorije N3, najviše dva para mogu biti istodobno upaljena.
+(7) Kod promjene iz kratkog u dugo svjetlo, mora biti uključen najmanje jedan par dugih glavnih svjetala, a sva duga svjetla moraju se isključiti istodobno. Kratka svjetla mogu ostati uključena istodobno s dugim svjetlima.
+(8) Pokazna svjetiljka dugog glavnog svjetla obavezno se mora nalaziti u vidnom polju vozača.
+(9) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 30.
+(1) Na motornim vozilima moraju biti ugrađena dva kratka glavna svjetla.
+(2) Vanjski rub

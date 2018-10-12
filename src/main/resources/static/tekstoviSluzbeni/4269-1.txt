@@ -1,0 +1,42 @@
+ kvalitete s dopuštenim odstupanjima (tolerancijama)
+13. Temeljna topografska baza podataka (TTB) osnovna je topografska baza podataka koju vodi Državna geodetska uprava
+14. Topografska baza podataka je baza podataka koja sadrži podatke o topografskim objektima
+15. Topografska izmjera je izmjera topografskih objekata, koji se mogu pridružiti nekoj objektnoj cjelini (naselja, prometnice, vode, vegetacija, reljef i područja), prostorno ih geometrijski jednoznačno odrediti, atributima kvantitativno i kvalitativno pobliže opisati i imenovati
+16. Topografska karta je karta s velikim brojem informacija o mjesnim prilikama prikazanog područja, koje se odnose na geografska imena, naselja, prometnice, vode, reljef, vegetaciju i niz drugih pojava potrebnih za opću orijentaciju, pri čemu su svi objekti prikazani s istom važnošću
+17. True ortofoto je ortofoto na kojem su i objekti koji nisu definirani digitalnim modelom reljefa prevedeni u ortogonalnu projekciju
+18. Zračne snimke su snimke Zemljine površine snimljene iz zraka
+19. CROTIS – Croatian Topographic Information System (Hrvatski topografski informacijski sustav) je model topografskih podataka
+20. DMR – digitalni model reljefa
+21. DMV – digitalni model visina
+22. DOF – digitalna ortofotokarta
+23. DOF 2 – digitalni ortofotoplan u mjerilu 1:2000
+24. DOF 5 – digitalna ortofotokarta u mjerilu 1:5000
+25. DTK – detaljna topografska karta u mjerilima od 1:25 000 do 1:250 000 (DTK 25 – DTK 250)
+26. GNSS – globalni navigacijski satelitski sustavi (GPS, GLONASS)
+27. GSD – prostorna veličina slikovnog elementa na terenu (Ground Sampling Distance)
+28. GRS80 – geodetski referentni sustav (1980) definiran globalnim referentnim elipsoidom i modelom gravitacijskog polja
+29. HOK – Hrvatska osnovna karta u mjerilu 1:5000 ili 1:10 000 (HOK 5 ili HOK 10)
+30. HTRS96 – Hrvatski terestrički referentni sustav za epohu 1995.55 je položajni referentni koordinatni sustav Republike Hrvatske
+31. HTRS96/LCC – projekcijski koordinatni sustav uspravne Lambertove konformne konusne projekcije
+32. HTRS96/TM – projekcijski koordinatni sustav poprečne Mercatorove projekcije
+33. HVRS71 – Hrvatski visinski referentni sustav za epohu 1971.5
+34. KB – kartografska baza
+35. PTK – pregledna topografska karta u mjerilu od 1:300 000 i sitnijem
+36. TB – topografska baza i
+37. TTB – Temeljna topografska baza.
+DIO DRUGI TOPOGRAFSKA IZMJERA
+Članak 5.
+(1) Topografska izmjera obuhvaća pripremu, terensko određivanje geodetskih točaka, snimanje zemljišta, kartiranje i prikupljanje podataka o prirodnim i izgrađenim objektima i područjima.
+(2) Podaci topografske izmjere osnova su za uspostavljanje, izradu i održavanje topografskih baza podataka.
+(3) Topografska izmjera izvodi se geodetskim metodama (fotogrametrijom, ortogonalom, tahimetrijom, nivelmanom, trigonometrijskim mjerenjem visina, globalnim sustavima za satelitsko pozicioniranje i dr.).
+GLAVA I. FOTOGRAMETRIJSKE METODE IZMJERE
+Članak 6.
+Fotogrametrijske metode osnovne su metode topografske izmjere, a za izmjeru se koriste aerofotogrametrijske snimke i drugi izvornici (satelitske snimke, radarska i laserska mjerenja).
+POGLAVLJE I. AEROFOTOGRAMETRIJSKO SNIMANJE
+Članak 7.
+(1) Aerofotogrametrijsko snimanje je snimanje iz zraka koje se izvodi mjernom kamerom.
+(2) Za potrebe aerofotogrametrijskog snimanja u svrhu izrade službenih državnih karata i ostalih proizvoda Državne geodetske uprave koristi se mjerna kamera koja zadovoljava uvjete navedene u specifikaciji proizvoda za snimanje iz zraka i orijentacijske točke.
+Članak 8.
+Aerofotogrametrijsko snimanje teritorija Republike Hrvatske izvodi se sukladno programu Državne geodetske uprave iz članka 5. Zakona o državnoj izmjeri i katastru nekretnina (»Narodne novine«, broj 16/07, 152/08, 124/10 i 56/13, u daljnjem tekstu: Zakon) u mjerilu snimanja ne sitnijem od 1:15 000 ili prostornom veličinom slikovnog elementa na terenu do 30 cm (GSD ≤ 30 cm).
+Članak 9.
+(1) Aerofotogrametrijsko snimanje osnova je za izradu i održavanje Temeljne

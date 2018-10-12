@@ -1,0 +1,32 @@
+49 30.05.2016 Metodologija utvrđivanja cijene energije uravnoteženja plinskog sustava
+HRVATSKA ENERGETSKA REGULATORNA AGENCIJA
+1330
+Na temelju članka 88. stavka 4. Zakona o tržištu plina (»Narodne novine«, broj 28/13 i 14/14), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 24. svibnja 2016. donijela
+METODOLOGIJU
+UTVRĐIVANJA CIJENE ENERGIJE URAVNOTEŽENJA PLINSKOG SUSTAVA
+I. OPĆE ODREDBE
+Članak 1.
+Ovom Metodologijom utvrđivanja cijene energije uravnoteženja plinskog sustava (u daljnjem tekstu: Metodologija) utvrđuju se:
+– jednadžbe za utvrđivanje cijene energije uravnoteženja plinskog sustava,
+– referentna cijena plina.
+Članak 2.
+Izrazi koji se koriste u ovoj Metodologiji imaju značenja utvrđena zakonima kojima se uređuje energetski sektor i regulacija energetskih djelatnosti, kao i propisima donesenim na temelju tih zakona.
+II. JEDNADŽBE ZA UTVRĐIVANJE CIJENE ENERGIJE URAVNOTEŽENJA PLINSKOG SUSTAVA
+Članak 3.
+(1) Operator tržišta plina dnevno utvrđuje cijenu pozitivne energije uravnoteženja i cijenu negativne energije uravnoteženja, prema sljedećim jednadžbama:
+CEnUr,POZ = CREF + ΔEnUr,POZ [kn/MWh],
+CEnUr,NEG = CREF – ΔEnUr,NEG [kn/MWh],
+gdje je
+CEnUr,POZ – cijena pozitivne energije uravnoteženja za plinski dan [kn/MWh], CEnUr,NEG – cijena negativne energije uravnoteženja za plinski dan [kn/MWh], CREF – referentna cijena plina za plinski dan [kn/MWh], ΔEnUr,POZ – odstupanje cijene pozitivne energije uravnoteženja od referentne cijene [kn/MWh], ΔEnUr,NEG – odstupanje cijene negativne energije uravnoteženja od referentne cijene [kn/MWh].
+(2) Referentna cijena plina za plinski dan izračunava se prema sljedećoj jednadžbi:
+CREF = CCEGH × tEUR / kNCV/GCV + ΔHR [kn/MWh],
+gdje je:
+CCEGH – iznos službenog cjenovnog indeksa »CEGHIX®« plinske burze Central European Gas Hub AG (CEGH) za trgovinski dan u kojem započinje plinski dan za koji se utvrđuje cijena energije uravnoteženja [EUR/MWh], tEUR – srednji dnevni tečaj za devize u kn/EUR, prema tečajnoj listi Hrvatske narodne banke (HNB), važeći za dan u kojem započinje plinski dan za koji se utvrđuje cijena energije uravnoteženja, kNCV/GCV – koeficijent za pretvorbu cijene plina iz gornje ogrjevne vrijednosti u donju ogrjevnu vrijednost, koji iznosi 0,901, ΔHR – prilagodba referentne cijene plina uvjetima veleprodajnog tržišta plina u Republici Hrvatskoj [kn/MWh].
+(3) Odstupanje cijene pozitivne energije uravnoteženja od referentne cijene (ΔEnUr,POZ), kao i odstupanje cijene negativne energije uravnoteženja od referentne cijene (ΔEnUr,NEG) iz stavka 1. ovoga članka iznosi 50 kn/MWh, dok prilagodba referentne cijene plina uvjetima veleprodajnog tržišta plina u Republici Hrvatskoj (ΔHR) iz stavka 2. ovoga članka iznosi 30 kn/MWh.
+(4) Cijena pozitivne energije uravnoteženja, cijena negativne energije uravnoteženja i referentna cijena plina zaokružuju se na dvije decimale, a svi iznosi u postupku njihovog izračuna zaokružuju se na četiri decimale, osim iznosa službenog cjenovnog indeksa »CEGHIX®« koji se zaokružuje na tri decimale i srednjeg dnevnog tečaja za devize u kn/EUR koji se zaokružuje na šest decimala.
+(5) Operator tržišta plina objavljuje referentnu cijenu plina, cijenu pozitivne energije uravnoteženja i cijenu negativne energije uravnoteženja za plinski dan na svojim internetskim stranicama najkasnije do 20:00 sati prethodnog plinskog dana.
+(6) U slučaju da u prethodnom plinskom danu nije objavljen iznos službenog cjenovnog indeksa »CEGHIX®« ili srednji dnevni tečaj za devize u kn/EUR za plinski dan, za izračun referentne cijene za taj plinski dan primjenjuje se zadnji objavljeni iznos navedenih veličina.
+III. CIJENA PLINA ZA NADOKNADU GUBITAKA PLINA U DISTRIBUCIJSKOM SUSTAVU
+Članak 4.
+Jedinična cijena plina za izračun nadoknade gubitaka plina u distribucijskom sustavu prema Mrežnim pravilima plinskog distribucijskog sustava, za pojedini mjesec jednaka je aritmetičkoj sredini iznosa referentne cijene plina za sve plinske dane u tom mjesecu.
+IV.

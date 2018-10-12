@@ -1,0 +1,48 @@
+28 13.03.2015 Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju financijskih izvještaja i drugih izvještaja društva za upravljanje UCITS fondovima
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+600
+Na temelju članka 62. stavaka 2., 3. i 5. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 16/2013 i 143/2014) i članka 15. stavka 5. Zakona o računovodstvu (»Narodne novine«, broj 109/2007, 54/2013 i 121/2014) Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 6. ožujka 2015. godine donosi
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O STRUKTURI I SADRŽAJU FINANCIJSKIH IZVJEŠTAJA I DRUGIH IZVJEŠTAJA DRUŠTVA ZA UPRAVLJANJE UCITS FONDOVIMA
+Članak 1.
+U članku 5. Pravilnika o strukturi i sadržaju financijskih izvještaja i drugih izvještaja društva za upravljanje UCITS fondovima (»Narodne novine«, broj 100/2013), iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Sadržaj i oblik izvještaja o strukturi financijske imovine i obveza društva za upravljanje propisani su obrascima iz Priloga 3 koji su sastavni dio ovog Pravilnika.«.
+Članak 2.
+(1) U članku 6. stavku 1. druga alineja mijenja se i glasi:
+»– izvještaje o strukturi financijske imovine i obveza iz članka 5. ovog Pravilnika sa stanjem na zadnji dan poslovne godine, odnosno sa stanjem na zadnji dan izvještajnog razdoblja od prva tri mjeseca poslovne godine, na zadnji dan izvještajnog razdoblja od prvih šest mjeseci poslovne godine te na zadnji dan izvještajnog razdoblja od prvih devet mjeseci poslovne godine.«.
+(2) Stavak 2. briše se te dosadašnji stavci 3., 4., 5. i 6. postaju stavci 2., 3., 4. i 5.
+Članak 3.
+(1) U članku 7. stavak 1. mijenja se i glasi:
+»Društvo za upravljanje dužno je izvještaje iz članka 6. stavka 1. ovog Pravilnika:
+– koje sastavlja za prva tri mjeseca poslovne godine sa stanjem na zadnji dan izvještajnog razdoblja, prvih šest mjeseci poslovne godine sa stanjem na zadnji dan izvještajnog razdoblja te prvih devet mjeseci poslovne godine sa stanjem na zadnji dan izvještajnog razdoblja, dostaviti u roku od mjesec dana po proteku izvještajnog razdoblja,
+– koje sastavlja za poslovnu godinu sa stanjem na zadnji dan izvještajnog razdoblja, dostaviti u roku od 4 mjeseca po proteku izvještajnog razdoblja.«.
+(2) Stavak 2. briše se.
+Članak 4.
+(1) U članku 8. stavku 4. redni broj »3.« zamjenjuje se rednim brojem »2.«.
+(2) Stavak 5. briše se.
+Članak 5.
+U članku 9. stavku 1. riječi: »stavka 2.« zamjenjuju se riječima: »alineje 2.«.
+Članak 6.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/13-04/33
+Urbroj: 326-01-440-15-2
+Zagreb, 6. ožujka 2015.
+Predsjednik Upravnog vijeća Petar-Pierre Matek, v. r.
+PRILOG 3.
+Izvještaj o strukturi financijske imovine i obveza društva za upravljanje
+Depoziti
+BIC banke Naziv banke Ugovoreni iznos u valuti glavnice Oznaka valute Iznos kamata u valuti Zbroj glavnice i kamate u HRK
+Dionice
+ISIN Naziv izdavatelja Količina Fer cijena u valuti Oznaka valute Vrijednost ulaganja u HRK Udjel u vlasništvu izdavatelja
+Dužnički vrijednosni papiri
+ISIN Naziv izdavatelja Nominalna vrijednost u valuti Oznaka valute Fer cijena Iznos kamata u valuti Zbroj glavnice i kamate u HRK Udjel u izdanju
+Instrumenti tržišta novca
+ISIN Naziv izdavatelja Nominalna vrijednost u valuti Oznaka valute Fer cijena Vrijednost ulaganja u HRK Udjel u izdanju
+Udjeli investicijskih fondova
+ISIN Naziv društva za upravljanje Naziv fonda Količina Fer cijena u valuti Oznaka valute Vrijednost ulaganja u HRK Udjel u izdanju
+Izvedenice
+Vrsta izvedenice Opis Druga ugovorna strana OIB druge ugovorne strane Datum sklapanja ugovora Datum dospijeća Nominalna vrijednost u valuti Oznaka valute Ugovoreni tečaj/ Izvršna cijena Spot tečaj/ cijena Fer vrijednost u HRK
+Poslovni udjeli
+Naziv društva OIB društva Opis Vrijednost ulaganja u HRK Udjel u vlasništvu izdavatelja
+Repo ugovor (obrnuti repo ugovor)
+Opis (repo/obrnuti repo ugovor) Broj ugovora

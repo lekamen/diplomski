@@ -1,0 +1,21 @@
+ navedena proizvodna jedinica ispunjava uvjete utvrđene člankom 20. ovoga Zakona te prema uvjetima važećim na dan podnošenja zahtjeva za izdavanje rješenja o stjecanju statusa povlaštenog proizvođača za tu proizvodnu jedinicu.
+(5) Iznimno od stavka 4. ovoga članka, kada nova dograđena proizvodna jedinica isporučuje električnu energiju u elektroenergetsku mrežu izravno preko svog zasebnog obračunskog mjernog mjesta, Agencija za novu dograđenu proizvodnu jedinicu donosi rješenje o stjecanju statusa povlaštenog proizvođača za tu proizvodnu jedinicu pod uvjetom da navedena proizvodna jedinica ispunjava uvjete utvrđene člankom 20. ovoga Zakona te prema uvjetima važećim na dan podnošenja zahtjeva za izdavanje rješenja o stjecanju statusa povlaštenog proizvođača za tu proizvodnu jedinicu.
+(6) Agencija je dužna svako rješenje o stjecanju statusa povlaštenog proizvođača, nakon njegove izvršnosti, uključujući i podatke o njegovu roku važenja, ukidanju, poništavanju ili oglašavanju ništavim statusa povlaštenog proizvođača upisati u Registar OIEKPP-a.
+(7) Protiv rješenja Agencije iz stavka 1., 3., 4. i 5. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+Članak 22.
+(1) Ako Agencija ili nadležna inspekcija utvrdi nepravilnosti ili nedostatke, odnosno ako se utvrdi privremena nepravilnost u ispunjavanju uvjeta korištenja proizvodnog postrojenja i/ili proizvodne jedinice na temelju kojih je izdano rješenje o stjecanju statusa povlaštenog proizvođača, Agencija će rješenjem odrediti rok za otklanjanje utvrđenih nepravilnosti ili nedostataka unutar kojeg je fizička ili pravna osoba kojoj je izdano rješenje dužna otkloniti utvrđene nepravilnosti i nedostatke.
+(2) Rok iz stavka 1. ovoga članka ne može biti dulji od tri mjeseca.
+(3) Ako fizička ili pravna osoba kojoj je izdano rješenje iz stavka 1. ovoga članka u utvrđenom roku ne otkloni nepravilnosti ili nedostatke utvrđene rješenjem iz stavka 1. ovoga članka, Agencija će ukinuti rješenje o stjecanju statusa povlaštenog proizvođača za proizvodno postrojenje, odnosno proizvodnu jedinicu za koju su utvrđene nepravilnosti ili nedostaci.
+(4) U slučaju iz stavka 3. ovoga članka kada se radi o proizvodnim postrojenjima ili proizvodnim jedinicama koje se smatraju jednostavnim građevinama, Agencija će fizičkoj ili pravnoj osobi koja ima status povlaštenog proizvođača rješenjem oduzeti status povlaštenog proizvođača.
+(5) Protiv rješenja Agencije iz stavka 1., 3. i 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+Članak 23.
+(1) Agencija će rješenje o stjecanju statusa povlaštenog proizvođača ukinuti ako:
+1. povlašteni proizvođač ne održava uvjete korištenja proizvodnog postrojenja za koje je ishodio status povlaštenog proizvođača
+2. povlašteni proizvođač ne dostavlja Agenciji, operatoru tržišta električne energije i drugim nadležnim tijelima izvješća i drugu propisanu dokumentaciju ili dostavlja izvješća s neistinitim podacima
+3. je prestala važiti dozvola za obavljanje energetske djelatnosti potrebna za proizvodnju električne energije izdana povlaštenom proizvođaču, odnosno ako je prestala važiti druga dozvola za obavljanje energetske djelatnosti potrebna za obavljanje djelatnosti povezane s proizvodnim postrojenjem
+4. povlašteni proizvođač ne ostvaruje uvjete učinkovitosti proizvodnog postrojenja
+5. povlašteni proizvođač ne održava, odnosno ne vodi brigu o mjernoj opremi u njegovu vlasništvu ili manipulira mjernim podacima
+6. povlašteni proizvođač izvrši promjene na proizvodnom postrojenju ili proizvodnoj jedinici bez suglasnosti Agencije, a koje imaju utjecaja na korištenje proizvodnog postrojenja ili proizvodne jedinice za koje je ishodio status povlaštenog proizvođača
+7. povlašteni proizvođač ne odgovara na upite Agencije ili ne dostavlja dokumentaciju u vezi s korištenjem proizvodnog postrojenja
+8. povlašteni proizvođač ne izvršava druge propisane obveze
+9. povlašteni proizvođač podnese zahtjev 

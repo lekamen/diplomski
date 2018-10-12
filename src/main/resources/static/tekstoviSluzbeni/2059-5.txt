@@ -1,0 +1,25 @@
+ korištenja građevina se odabire prema trenutnoj namjeni predmetne građevine. Sa smanjivanjem predvidivog ostatka održivog vijeka korištenja povećava se značenje njegove ispravne procjene.
+(6) Kod katastarskih čestica na kojima je izgrađeno više samostojećih građevina različitog predvidivog ostatka održivog vijeka korištenja koje čine gospodarsku cjelinu, kao i kod građevina s različitim građevinskim elementima čiji predvidivi ostatak održivog vijeka korištenja međusobno značajno odstupa, te u slučaju kada jednu nekretninu predstavljaju kuće u nizu, tada za procjenu predvidivog ostatka održivog vijeka korištenja gospodarske cjeline nije mjerodavan predvidivi ostatak održivog vijeka korištenja građevina kod kojih je ostatak najkraći, već se isti utvrđuje s gospodarski racionalnog stajališta uzimanjem u obzir mogućnosti osuvremenjivanja gospodarski istrošenih građevina ili građevnih elemenata.
+(7) Za predvidivi ostatak održivog vijeka korištenja građevina (OOVK) koriste se tablice iz Priloga 10. koji je sastavni dio ovog Pravilnika.
+Daljnja obilježja nekretnine
+Članak 18.
+Daljnja obilježja nekretnine utvrđuju se na temelju očevida, iz vjerodostojnih isprava pribavljenih od stranaka, iz arhivske građe i drugih javno dostupnih izvora.
+Interkvalitativno izjednačenje i odstupanja u kakvoći
+Interkvalitativno izjednačenje
+Članak 19.
+Korištene poredbene cijene, približne vrijednosti zemljišta i poredbeni pokazatelji izgrađenih katastarskih čestica (faktori zgrade i faktori prihoda) svojim obilježjima katastarske čestice dokazuju dovoljnu podudarnost s obilježjima procjenjivanje katastarske čestice ako razlike u vrijednosti korištenih dodataka i odbitaka za interkvalitativno izjednačenje ne prelazi 40 % izlazne vrijednosti.
+Odstupanja u kakvoći zemljišta stambene namjene
+Članak 20.
+(1) Do donošenja odgovarajućih koeficijenata za preračunavanje za lokalno tržište nekretnina, za preračunavanje odstupanja u kakvoći zbog različite mjere građevinskog korištenja zemljišta koja se nalaze u zoni stambene ili pretežito stambene namjene propisuju se odgovarajući koeficijenti u tablici iz Priloga 11. koji je sastavni dio ovoga Pravilnika, i to kao odnos između koeficijenata iskoristivosti usporedivih zemljišta (ki) i koeficijenata iskoristivosti predmeta utvrđivanja tržišne vrijednosti (ki) u rasponu od 0,4 do 2,4.
+(2) Međuvrijednosti koeficijenata za preračunavanje koje nisu navedene u tabličnom prikazu iz stavka 1. ovoga članka mogu se izračunati primjenom linearne interpolacije.
+(3) U tabličnom prikazu iz stavka 1. ovoga članka neposredno su prikazane razlike u vrijednosti građevnih čestica.
+Odstupanja u kakvoći zemljišta namijenjenih stvaranju prihoda
+Članak 21.
+Za razlike u vrijednosti katastarskih čestica koje nastaju zbog odstupanja mjere građevinskog korištenja za zemljišta čija je namjena ili pretežita namjena stvaranje prihoda primjenjivat će se linearni pristup.
+Odstupanja u kakvoći arondacijskih površina
+Članak 22.
+(1) Arondacijske površine u smislu ovoga Pravilnika su katastarske čestice koje nisu javne namjene, odnosno one katastarske čestice ili njihovi dijelovi koji zadovoljavaju sljedeće uvjete:
+1. zbog svoje veličine, oblika, položaja i pogodnosti za gradnju ne mogu biti samostalne građevne čestice
+2. spajanjem kojih se s drugim katastarskim česticama ili njihovim dijelovima ne može formirati nova građevna čestica minimalne površine određene prostornim planom odnosno koje se nalaze između već formiranih građevnih čestica
+3. mogu se stvarno koristiti i racionalno iskorištavati samo od strane vlasnika susjedne građevne čestice ili njihovim pripajanjem susjednoj građevnoj čestici.
+(2) Razlike u vrijednosti arondacijskih površina u odnosu na tržišnu vrijednost okolnog zemljišta zbog različite veličine, oblika, položaja, pogodnosti za gradnju, mogućnosti stvarnog korištenja i iskoristivosti arondacijskih površina računaju se pomoću koeficijenata za preračunavanje čiji rasponi su zadani u tablici iz Priloga 12. koja je sastavni dio

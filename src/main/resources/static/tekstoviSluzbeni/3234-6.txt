@@ -1,0 +1,33 @@
+ sukladnosti za dizala
+(1) Dizala moraju biti podvrgnuta jednom od sljedećih postupaka ocjenjivanja sukladnosti:
+1. ako su projektirana i proizvedena u skladu s uzorkom dizala koji je bio podvrgnut EU ispitivanju tipa navedenom u Prilogu IV. dijelu B ovoga Pravilnika:
+– završnoj provjeri za dizala navedenoj u Prilogu V. ovoga Pravilnika;
+– sukladnosti s tipom na temelju osiguranja kvalitete proizvoda za dizala navedenoj u Prilogu X. ovoga Pravilnika;
+– sukladnosti s tipom na temelju osiguranja kvalitete proizvodnje za dizala navedenoj u Prilogu XII. ovoga Pravilnika;
+2. ako su projektirana i proizvedena u skladu sa sustavom kvalitete odobrenim u skladu s Prilogom XI. ovoga Pravilnika:
+– završnoj provjeri za dizala navedenoj u Prilogu V. ovoga Pravilnika;
+– sukladnosti s tipom na temelju osiguravanja kvalitete proizvoda za dizala navedenoj u Prilogu X. ovoga Pravilnika;
+– sukladnosti s tipom na temelju osiguranja kvalitete proizvodnje za dizala navedenoj u Prilogu XII. ovoga Pravilnika;
+3. sukladnosti na temelju pojedinačne provjere za dizala navedenoj u Prilogu VIII. ovoga Pravilnika;
+4. sukladnosti na temelju potpunog osiguranja kvalitete i ispitivanja rješenja za dizala navedenoj u Prilogu XI. ovoga Pravilnika.
+(2) U slučajevima iz stavka 1. točaka 1. i 2. ovoga članka, ako osoba odgovorna za konstrukciju i proizvodnju dizala i osoba odgovorna za ugrađivanje i ispitivanje dizala nisu ista osoba, osoba odgovorna za konstrukciju i proizvodnju dizala osobi odgovornoj za ugradnju i ispitivanje dizala mora dostaviti sve potrebne dokumente i podatke kako bi potonjoj omogućila točnu i sigurnu ugradnju i ispitivanje dizala.
+(3) Sva dozvoljena odstupanja između uzorka dizala i dizala izvedenih prema uzorku dizala, moraju u tehničkoj dokumentaciji biti jasno navedena (s najvećim i najmanjim vrijednostima).
+(4) Pomoću izračuna i/ili na temelju konstrukcijskih nacrta dopušteno je prikazivati sličnost niza opreme radi zadovoljavanja bitnih zdravstvenih i sigurnosnih zahtjeva iz Priloga I. ovoga Pravilnika.
+Članak 17.
+EU izjava o sukladnosti
+(1) EU izjava o sukladnosti potvrđuje kako je dokazano ispunjavanje bitnih zdravstvenih i sigurnosnih zahtjeva iz Priloga I. ovoga Pravilnika.
+(2) EU izjava o sukladnosti mora imati strukturu uzorka iz Priloga II. ovoga Pravilnika, mora sadržavati elemente određene u relevantnim prilozima od V. do XII. ovoga Pravilnika i redovno se obnavljati te se mora prevesti na hrvatski jezik.
+(3) Kad se na dizalo ili sigurnosnu komponentu za dizala primjenjuje više od jednog akta Unije kojim se zahtijeva EU izjava o sukladnosti, sastavlja se samo jedna EU izjava o sukladnosti u vezi sa svim takvim aktima Unije. Navedena izjava mora sadržavati identifikaciju odgovarajućih propisa Unije uključujući upućivanja na njihovo objavljivanje.
+(4) Sastavljanjem EU izjave o sukladnosti proizvođač preuzima odgovornost za sukladnost sigurnosnih komponenti za dizala, a ugraditelj preuzima odgovornost za sukladnost dizala sa zahtjevima iz ovoga Pravilnika.
+Članak 18.
+Opća načela za oznaku CE
+Za oznaku CE vrijede opća načela utvrđena člankom 30. Uredbe (EZ) br. 765/2008.
+Članak 19.
+Pravila i uvjeti za stavljanje oznake CE i drugih oznaka
+(1) Oznaka CE mora biti postavljena na svaku kabinu dizala tako da je vidljiva, čitljiva i neizbrisiva i mora biti postavljena na sve sigurnosne komponente za dizala ili, kada to nije moguće, na pločicu s podacima koja je trajno pričvršćena na sigurnosnu komponentu za dizala.
+(2) Oznaka CE mora se postaviti prije nego što su dizalo ili sigurnosna komponenta za dizala stavljeni na tržište.
+(3) Uz oznaku CE na dizalima se mora nalaziti identifikacijski broj prijavljenog tijela uključenog u bilo koji od sljedećih postupaka ocjenjivanja sukladnosti:
+– završnu provjeru iz Priloga V. ovoga Pravilnika;
+– pojedinačnu provjeru iz Priloga VIII. ovoga Pravilnika;
+– osiguranje kvalitete iz Priloga X., XI. ili XII. ovoga Pravilnika.
+(4) Uz oznaku CE na sigurnosnim komponentama za dizala mora se nalaziti

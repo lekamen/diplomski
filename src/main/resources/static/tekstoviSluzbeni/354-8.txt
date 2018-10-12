@@ -1,0 +1,48 @@
+ osobe,
+– druge osobe na peronu,
+– druge osobe izvan perona.
+2. Pokazatelji koji se odnose na opasne tvari
+Ukupan i relativan broj (prema vlak-kilometrima) nesreća kod željezničkog prijevoza opasnih tvari, podijeljen na sljedeće kategorije:
+– nesreće u kojima sudjeluje najmanje jedno željezničko vozilo koje prevozi opasne tvari, kako je definirano u Dodatku Priloga 3.,
+– broj takvih nesreća u kojima je došlo do ispuštanja opasnih tvari.
+3. Pokazatelji koji se odnose na samoubojstva
+Ukupan i relativan broj (prema vlak-kilometrima) samoubojstava i pokušaja samoubojstva.
+4. Pokazatelji koji se odnose na pretkazivače nesreća
+Ukupan i relativan broj (prema vlak-kilometrima) pretkazivača nesreća i raščlamba na sljedeće vrste pretkazivača:
+– puknuće tračnice,
+– izbacivanja i druge deformacije kolosijeka,
+– ispad signalizacije u nesigurno stanje,
+– prolazak pokraj signala kojim se zabranjuje daljnja vožnja uz prolazak opasne točke,
+– prolazak pokraj signala kojim se zabranjuje daljnja vožnja bez prolaska opasne točke,
+– puknut kotač na željezničkom vozilu u prometu,
+– puknuta osovina na željezničkom vozilu u prometu.
+Potrebno je izvijestiti o svim pretkazivačima nesreća, kako o onima koji za posljedicu imaju nesreću, tako i o onima koji je nemaju. (O pretkazivačima koji za posljedicu imaju značajnu nesreću izvješćuje se i prema pokazateljima koji se odnose na pretkazivače; o pretkazivačima koji za posljedicu nemaju značajnu nesreću izvješćuje se samo prema pokazateljima koji se odnose na pretkazivače.).
+5. Pokazatelji za izračunavanje gospodarskog učinka nesreća
+Ukupno u eurima i relativno (prema vlak-kilometrima):
+– broj smrtno stradalih osoba i teških ozljeda pomnožen s vrijednošću sprečavanja stradavanja (VPC – engl. Value of Preventing a Casualty),
+– troškovi štete po okoliš,
+– troškovi materijalne štete na željezničkim vozilima ili infrastrukturi,
+– troškovi kašnjenja kao posljedice nesreća.
+Agencija izvješćuje o gospodarskom učinku značajnih nesreća.
+VPC je vrijednost koju društvo pripisuje sprečavanju stradavanja i kao takva nije referentna u slučaju nadoknade štete između sudionika u nesrećama.
+6. Pokazatelji koji se odnose na tehničku sigurnost infrastrukture i njezinu provedbu
+6.1. Postotak pruga koje imaju sustave za zaštitu vlakova (TPS – engl. Train Protection Systems) u radu i postotak vlak-kilometara gdje se koriste ugrađeni TPS-ovi, ako ti sustavi pružaju:
+– upozorenje,
+– upozorenje i automatsko zaustavljanje,
+– upozorenje i automatsko zaustavljanje i nepostojani nadzor brzine,
+– upozorenje i automatsko zaustavljanje i postojani nadzor brzine.
+6.2. Broj željezničko-cestovnih prijelaza (ukupan, po kilometru pruge i kolosiječnom kilometru) prema sljedećih pet vrsta:
+(a) pasivni (nezaštićeni) željezničko-cestovni prijelaz,
+(b) aktivni (zaštićeni) željezničko-cestovni prijelaz:
+i. ručni,
+ii. automatski s upozorenjem korisnika,
+iii. automatski sa zaštitom korisnika,
+iv. sa zaštitom pruge.«.
+PRILOG B.
+»DODATAK PRILOGU 3.
+ZAJEDNIČKE DEFINICIJE ZA CSI-jeve I METODE IZRAČUNAVANJA GOSPODARSKOG UČINKA NESREĆA
+1. Pokazatelji koji se odnose na nesreće
+1.1. »značajna nesreća« znači svaka nesreća u kojoj sudjeluje najmanje jedno željezničko vozilo u pokretu, a koja za posljedicu ima najmanje jednu smrtno stradalu ili teško ozlijeđenu osobu, ili znatnu štetu na željezničkim vozilima, tračnicama, drugim postrojenjima ili u okolišu, ili velike smetnje u prometu, osim nesreća u radionicama, skladištima i spremištima;
+1.2. »znatna šteta na željezničkim vozilima, tračnicama, drugim postrojenjima ili u okolišu« znači šteta koja odgovara iznosu od 150.000 eura ili više;
+1.3. »velike smetnje u prometu« znači obustavljanje usluga prijevoza vlakom na glavnoj željezničkoj pruzi u trajanju od šest sati ili dulje;
+1.4. »vlak« znači jedno ili više željezničkih vozila koje vuče jedna ili više lokomotiva ili motornih vagona ili jedan motorni vagon koji vozi sam, pod određenim brojem ili posebnom oznakom, od određene početne točke do određene završne 

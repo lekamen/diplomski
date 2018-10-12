@@ -1,0 +1,26 @@
+ veza kojeg imenuje Upravno vijeće ESB-a za potrebe dostavljanja platnih poruka u sustavu TARGET2;
+32) »radni dan« znači dan na koji je sustav TARGET2 otvoren za namiru naloga za plaćanje kako je utvrđeno u Dodatku V. ove Odluke;
+33) »razlikovno ime sustava T2S« ili »DN sustava T2S« znači mrežna adresa za platformu sustava T2S koja mora biti uključena u sve poruke namijenjene sustavu;
+34) »SB Eurosustava« znači Europska središnja banka (ESB) ili NSB europodručja;
+35) »središnje banke (SB)« znači središnje banke Eurosustava i povezane nacionalne središnje banke;
+36) »statični podaci« znači skup poslovnih podataka svojstvenih imatelju DCA-a ili središnjoj banci u sustavu T2S u posjedu tog imatelja DCA-a odnosno središnje banke, a koje sustav T2S zahtijeva radi obrade transakcijskih podataka povezanih s tim imateljem DCA-a ili središnjom bankom;
+37) »slučaj neispunjavanja obveza« znači budući ili postojeći događaj čiji nastup može ugroziti ispunjavanje sudionikovih obveza na temelju ove Odluke ili bilo kojih drugih pravila koja se primjenjuju na odnos između tog sudionika i Hrvatske narodne banke ili bilo kojeg drugog SB-a, uključujući:
+(a) ako sudionik više ne ispunjava mjerila za pristup utvrđena u članku 5. ili zahtjeve utvrđene u članku 6. stavku 1. točki (a) podtočki i. ove Odluke,
+(b) otvaranje postupka zbog insolventnosti nad sudionikom,
+(c) podnošenje prijave za pokretanje postupka navedenog u točki (b) ove definicije,
+(d) sudionikovo izdavanje pisane izjave o njegovoj nemogućnosti plaćanja svih ili dijela njegovih dugova,
+(e) sudionikovo sklapanje dobrovoljnog sporazuma ili dogovora s njegovim vjerovnicima,
+(f) ako je sudionik insolventan ili nesposoban platiti svoje dugove ili ga takvim smatra njegov SB,
+(g) ako je sudionikovo pozitivno stanje na njegovu PM računu ili DCA-u ili sva sudionikova imovina ili njezin znatan dio predmet odluke o blokadi, zabrani raspolaganja, zapljeni ili drugog postupka čiji je cilj zaštita javnog interesa ili prava sudionikovih vjerovnika,
+(h) ako je sudionik privremeno ili trajno isključen iz sudjelovanja u drugoj komponenti sustava TARGET2 i/ili u sporednom sustavu,
+(i) ako su bitna izjava ili predugovorno očitovanje, koje je dao sudionik ili za koje se na temelju mjerodavnog prava pretpostavlja da ih je dao sudionik, netočni ili neistiniti i
+(j) prijenos cjelokupne sudionikove imovine ili njezina znatnog dijela;
+38) »sudionik u sustavu TARGET2« znači bilo koji sudionik u bilo kojoj komponenti sustava TARGET2;
+39) »sudionik« ili »izravni sudionik« znači subjekt koji ima najmanje jedan PM račun (imatelj PM računa) i/ili jedan namjenski novčani račun (imatelj DCA-a) kod SB-a;
+40) »sudjelujući središnji depozitorij vrijednosnih papira« ili »sudjelujući CSD« znači središnji depozitorij vrijednosnih papira« koji je sklopio okvirni sporazum o sustavu T2S;
+41) »T2S GUI« znači modul na platformi sustava T2S koji omogućuje imateljima DCA-a dobivanje online informacija i dostavljanje naloga za plaćanje;
+42) »TARGET2« znači cjelina koja proizlazi iz svih komponenti sustava TARGET2 središnjih banaka;
+43) »TARGET2-HR« znači komponenta sustava TARGET2 Hrvatske narodne banke;
+44) »TARGET2-Securities (T2S)« ili »platforma sustava T2S« znači skup hardvera, softvera i ostalih komponenti tehničke infrastrukture putem kojih Eurosustav pruža usluge sudjelujućim središnjim depozitorijima vrijednosnih papira i središnjim bankama koji omogućava temeljnu, neutralnu i bezgraničnu namiru transakcija s vrijednosnim papirima na osnovi isporuka uz plaćanje (DVP) u novcu središnje banke;
+45) »tehnički kvar sustava TARGET2« znači svaka poteškoća, nedostatak ili pad tehničke infrastrukture i/ili računalnih sustava koje upotrebljava sustav TARGET2-HR uključujući SSP ili platformu sustava T2S ili bilo koji drugi događaj zbog kojeg je nemoguće izvršiti i dovršiti obradu plaćanja u sustavu TARGET2-HR istog dana;
+46) »trajni nalog za prijenos likvidnosti« znači instrukcija za prijenos određenog iznosa novčanih sredstava ili

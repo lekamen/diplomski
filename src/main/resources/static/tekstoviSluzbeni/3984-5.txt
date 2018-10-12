@@ -1,0 +1,20 @@
+ platnog instrumenta kojemu primatelj plaćanja daje prednost ili zabranjuje primatelju plaćanja da platne instrumente na temelju kartica određene kartične platne sheme tretira na povoljniji ili nepovoljniji način nego prema drugima, čime postupa protivno članku 11. stavku 1. Uredbe (EU) 2015/751
+27. ako sprječava primatelja plaćanja da platitelja obavijesti o međubankovnim naknadama i naknadama koje se zaračunavaju trgovcima, čime postupa protivno članku 11. stavku 2. Uredbe (EU) 2015/751
+28. ako nakon izvršenja pojedinačne platne transakcije na temelju kartice ne da primatelju plaćanja informacije o toj transakciji u skladu s člankom 12. Uredbe (EU) 2015/751.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba iz uprave pružatelja platnih usluga iz članka 3. stavka 2. točaka 1., 2. i 3. ovoga Zakona, odnosno ako pružatelj platnih usluga iz članka 3. stavka 2. točaka 2. i 3. ovoga Zakona osim platnih usluga obavlja i drugu djelatnost, direktor odgovoran za platne usluge, odnosno fizička osoba odgovorna za poslovanje podružnice iz članka 3. stavka 2. točaka 9. i 10. ovoga Zakona, odnosno odgovorna osoba pružatelja platnih usluga iz članka 3. stavka 2. točaka 4., 5. i 11. ovoga Zakona, novčanom kaznom u iznosu od 5000,00 do 50.000,00 kuna.
+Prekršaji pružatelja platnih usluga pri pružanju platnih usluga u drugoj državi članici preko podružnice ili zastupnika
+Članak 9.
+(1) Pružatelj platnih usluga iz članka 3. stavka 2. točaka 1., 2. i 3. ovoga Zakona i odgovorna osoba tog pružatelja platnih usluga neće se kazniti za prekršaj iz članka 8. stavaka 1. i 2. ovoga Zakona ako je djelo počinjeno na području druge države članice pružanjem platnih usluga preko podružnice ili zastupnika u toj drugoj državi članici.
+(2) Ako je prekršaj iz članka 8. stavka 1. ovoga Zakona počinio pružatelj platnih usluga iz članka 3. stavka 2. točaka 6., 7. i 8. ovoga Zakona koji platne usluge pruža na području Republike Hrvatske preko podružnice ili zastupnika, za prekršaj iz članka 8. stavka 1. ovoga Zakona kaznit će se njegova podružnica ili njegov zastupnik.
+(3) U slučaju iz stavka 2. ovoga članka kaznit će se i direktor odgovoran za poslovanje podružnice ili odgovorna osoba iz uprave zastupnika pravne osobe, prema članku 8. stavku 2. ovoga Zakona.
+Prekršaji pružatelja platnih usluga pri neposrednom pružanju platnih usluga u drugoj državi članici
+Članak 10.
+(1) Pružatelj platnih usluga iz članka 3. stavka 2. točaka 1., 2. i 3. ovoga Zakona kaznit će se za prekršaj iz članka 8. stavka 1. ovoga Zakona počinjen pri neposrednom pružanju platnih usluga u drugoj državi članici ako je djelo kažnjivo i po pravu države članice u kojoj je djelo počinjeno.
+(2) Ako je ispunjena pretpostavka iz stavka 1. ovoga članka, za prekršaj iz članka 8. stavka 1. ovoga Zakona kaznit će se i odgovorna osoba iz uprave pružatelja platnih usluga, odnosno ako pružatelj platnih usluga iz članka 3. stavka 2. točaka 2. i 3. ovoga Zakona osim platnih usluga obavlja i drugu djelatnost, direktor odgovoran za platne usluge, prema članku 8. stavku 2. ovoga Zakona.
+(3) Neće se kazniti pružatelj platnih usluga iz članka 3. stavka 2. točaka 6., 7. i 8. ovoga Zakona i odgovorna osoba tog pružatelja platnih usluga za prekršaj iz članka 8. stavka 1. ovoga Zakona ako je djelo počinjeno pri neposrednom pružanju platnih usluga u Republici Hrvatskoj, već će Hrvatska narodna banka o počinjenom djelu obavijestiti nadležno tijelo matične države članice radi pokretanja odgovarajućeg postupka.
+Prekršaji upravitelja platnog sustava
+Članak 11.
+(1) Za prekršaj kaznit će se upravitelj platnog sustava za mala plaćanja koji posluje u eurima novčanom kaznom od 20.000,00 do 500.000,00 kuna:
+1. ako ne osigura tehničku interoperabilnost platnog sustava kojim upravlja u skladu s člankom 4. stavkom 2. Uredbe (EU) br. 260/2012
+2. ako pravila poslovanja platnog sustava kojim upravlja ograničavaju interoperabilnost tog sustava protivno članku 4. stavku 2. Uredbe (EU) br. 260/2012.
+(2) Za prekršaj iz

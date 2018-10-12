@@ -1,0 +1,32 @@
+ prijevozu i rukovanju.
+2.2.4. Konstrukcija temeljena na eksperimentu
+Konstrukcija opreme se može djelomično ili u cijelosti potvrditi odgovarajućim programom ispitivanja koji se provodi na reprezentativnom uzorku opreme ili kategorije opreme.
+Prije ispitivanja program ispitivanja mora biti jasno definiran te ga mora prihvatiti tijelo za ocjenjivanje sukladnosti odgovorno za modul ocjenjivanja sukladnosti konstrukcije gdje on postoji.
+Ovim se programom moraju definirati uvjeti ispitivanja i kriteriji prihvaćanja ili neprihvaćanja konstrukcije. Stvarne vrijednosti glavnih dimenzija i svojstva materijala od kojih je ispitivana oprema izrađena provjeravaju se prije ispitivanja.
+Prema potrebi, za vrijeme ispitivanja mora se omogućiti promatranje kritičnih mjesta tlačne opreme s odgovarajućim instrumentima koji mogu dovoljno precizno zabilježiti naprezanja i deformacije.
+Ispitni program mora uključivati sljedeće:
+a) Izdržljivost na tlak čija je svrha provjera da, pri tlaku u određenim sigurnosnim granicama koje su u vezi s najvećim dopuštenim tlakom, kod opreme ne dođe do značajnijih propuštanja ili deformacija koje prelaze dopuštene vrijednosti.
+Ispitni tlak mora biti utvrđen na temelju razlika između vrijednosti geometrijskih karakteristika i svojstava materijala izmjerenih u uvjetima ispitivanja te vrijednosti koje se koriste pri konstrukciji. Moraju se uzeti u obzir razlike između ispitnih i proračunskih temperatura.
+b) Kada postoji opasnost od puzanja ili umora materijala, odgovarajuća ispitivanja određena na temelju uvjeta rada predviđenih za tlačnu opremu, npr. vrijeme rada na određenim temperaturama, broj ciklusa na određenim razinama opterećenja, itd.
+c) prema potrebi, dodatna ispitivanja koja se tiču drugih faktora iz točke 2.2.1. kao što su korozija, vanjska oštećenja, itd.
+2.3. Mjere za siguran rad i rukovanje
+Način korištenja propisan za tlačnu opremu mora biti takav da unaprijed isključi svaki predvidljiv rizik u radu s opremom. Gdje je to primjereno, posebna se pažnja mora posvetiti:
+– otvaranju i zatvaranju,
+– opasnim ispuštanjima sigurnosnih i rasteretnih naprava,
+– uređajima koji sprečavaju fizički pristup dok je oprema pod tlakom ili vakuumom,
+– temperaturi površine uzimajući u obzir predviđen način korištenja,
+– razdvajanju nestabilnih fluida.
+Posebice, tlačna oprema s revizionim otvorima mora imati automatski ili ručni uređaj koji omogućava korisniku da lako utvrdi kako otvaranje ne predstavlja opasnost. Nadalje, kada se otvaranje može obaviti brzo, tlačna oprema mora imati uređaj koji će spriječiti otvaranje uvijek kada tlak ili temperatura fluida predstavljaju opasnost.
+2.4. Načini ispitivanja
+a) Tlačna oprema mora biti konstruirana i izrađena tako da se mogu provesti sva potrebna ispitivanja sigurnosti.
+b) Kada je potrebno osigurati stalnu sigurnost opreme, moraju postojati sredstva za određivanje unutarnjeg stanja opreme poput revizijskih otvora koji dopuštaju fizički pristup unutarnjosti tlačne opreme tako da se odgovarajuća ispitivanja mogu provesti na siguran i ergonomičan način.
+c) Mogu se primijeniti druga sredstva koja osiguravaju sigurnost rada tlačne opreme:
+– kada je premala za fizički pristup ili
+– kada bi otvaranje tlačne opreme imalo negativan učinak na stanje unutarnjosti ili
+– kada se zna da sadržana tvar nije štetna za materijal od kojega je napravljena tlačna oprema i kada nije predvidljiv niti jedan drugi mehanizam degradacije.
+2.5. Načini drenaže i odzračivanja
+Treba osigurati odgovarajuća sredstva za drenažu i odzračivanje tlačne opreme gdje je to potrebno:
+– da bi se izbjegli štetni učinci kao što je hidraulički udar ili implozija, korozija i nekontrolirane kemijske reakcije. Moraju se uzeti u obzir svi uvjeti rada i ispitivanja, a posebno ispitivanje na tlak,
+– kako bi se omogućilo čišćenje, inspekcija i održavanje u sigurnim uvjetima.
+2.6. Korozija ili drugi kemijski utjecaji
+Prema potrebi se mora osigurati odgovarajući dodatak ili zaštita protiv korozije ili drugih kemijskih utjecaja 

@@ -1,0 +1,30 @@
+ izračunava i iskazuje odvojeno za životna osiguranja i neživotna osiguranja.
+II.2. Izračun granice solventnosti
+Granica solventnosti malog društva za osiguranje koje obavlja poslove životnih osiguranja
+Članak 12.
+(1) Kapital malog društva za osiguranje koje obavlja poslove životnih osiguranja mora biti najmanje jednak granici solventnosti koja se izračunava na način određen ovim člankom.
+(2) Granica solventnosti malog društva za osiguranje koje obavlja poslove osiguranja iz članka 7. stavka 3. točke 1. podtočaka a) i b) Zakona izračunava se kao zbroj prvog i drugog rezultata.
+1. Prvi rezultat izračunava se na sljedeći način:
+a) Bruto iznos matematičkih pričuva obračunatih na zadnji dan prethodne poslovne godine množi se sa 0,04.
+b) Umnožak iz točke 1. podtočke a) ovoga stavka množi se s omjerom između:
+– bruto iznosa matematičkih pričuva na zadnji dan prethodne poslovne godine, umanjenog za udio matematičke pričuve predan u reosiguranje i
+– bruto iznosa matematičke pričuve obračunate na zadnji dan prethodne poslovne godine, a najmanje sa 0,85.
+2. Drugi rezultat izračunava se samo za osiguranja kod kojih rizični kapital nije negativan, i to na sljedeći način:
+a) Iznos rizičnog kapitala na zadnji dan prethodne godine, uključujući rizični kapital za osiguranja koja pokriva reosiguranje množi se sa 0,003.
+b) Umnožak iz točke 2. podtočke a) ovoga stavka množi se s omjerom između:
+– ukupnog iznosa rizičnog kapitala na zadnji dan prethodne poslovne godine, umanjenog za iznos rizičnog kapitala pokrivenog reosiguranjem te
+– ukupnog iznosa rizičnog kapitala na zadnji dan prethodne poslovne godine, uključujući rizični kapital pokriven reosiguranjem, a najmanje sa 0,5.
+c) Iznimno od odredbe točke 2. podtočke a) ovoga stavka, ukupni iznos rizičnog kapitala za osiguranja za slučaj smrti s određenim trajanjem množi se sa 0.001 ako je osiguranje sklopljeno na najviše tri godine, odnosno sa 0.0015 ako je osiguranje sklopljeno na više od tri i manje od pet godina.
+3. Iznimno od točke 2. podtočke a) ovoga stavka, ukupni iznos rizičnog kapitala za osiguranja za slučaj smrti s određenim trajanjem množi se sa 0.001 ako je osiguranje sklopljeno na najviše tri godine, odnosno sa 0.0015 ako je osiguranje sklopljeno na više od tri i manje od pet godina.
+(3) Rizični kapital iz stavka 2. točke 2. ovoga članka razlika je između osigurane svote za slučaj smrti i obračunate matematičke pričuve.
+(4) Granica solventnosti malog društva za osiguranje koje obavlja poslove osiguranja iz članka 7. stavka 3. točke 3. Zakona izračunava se na sljedeći način:
+1. ako malo društvo za osiguranje snosi rizik ulaganja, 4% posebne pričuve osiguranja množi se s umnoškom iz stavka 2. točke 1. podtočke b) ovoga članka
+2. ako malo društvo za osiguranje ne snosi rizik ulaganja, ali su troškovi upravljanja određeni i nepromjenjivi za razdoblje dulje od 5 godina, 1% posebne pričuve osiguranja množi se s umnoškom iz stavka 2. točke 1. podtočke b) ovoga članka
+3. ako malo društvo za osiguranje ne snosi rizik ulaganja, i troškovi upravljanja nisu određeni i nepromjenjivi, 25% neto administrativnih troškova prethodne poslovne godine povezani s tim poslovima
+4. ako malo društvo za osiguranje snosi rizik smrti osiguranika, 0,3% rizičnog kapitala množi se s umnoškom iz stavka 2. točke 2. podtočke b) ovoga članka.
+(5) Za tontine iz članka 7. stavka 3. točke 4. Zakona granica solventnosti jednaka je iznosu 0,01 vrijednosti kapitalizirane imovine.
+(6) Za osiguranja s kapitalizacijom isplate iz članka 7. stavka 3. točke 5. Zakona granica solventnosti jednaka je rezultatu u skladu sa stavkom 2. točkom 1. ovoga članka.
+(7) Za dopunska osiguranja uz osiguranja života propisana člankom 7. stavkom 3. točkom 1. podtočkom c) Zakona, granica solventnosti izračunava se u skladu s odredbama članka 13. ovoga Pravilnika.
+Granica solventnosti malog društva za osiguranje koje obavlja poslove neživotnih osiguranja
+Članak 13.
+(1) Kapital malog društva za osiguranje koje obavlja poslove neživotnih

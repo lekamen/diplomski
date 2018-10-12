@@ -1,0 +1,37 @@
+novu bankovnu garanciju, dug koji je bio osiguran prethodnom bankovnom garancijom, a nije u cijelosti podmiren, odnosno mogući dug koji može još nastati, mora novom bankovnom garancijom biti osiguran. Nova bankovna garancija mora sadržavati klauzulu da se iz nje mogu naplatiti i dugovi koji su bili osigurani prethodnom bankovnom garancijom.
+(3) Ako nalogodavac za izdavanje garancije prvi put podnosi bankovnu garanciju za osiguranje plaćanja duga, ista neće sadržavati klauzulu iz stavka 2. ovoga članka.
+(4) Izdavatelj bankovne garancije može opozvati bankovnu garanciju. Opoziv bankovne garancije dostavlja se u pisanom obliku Središnjem uredu. Opoziv stupa na snagu osmoga dana od dana njegova prijema od strane Središnjeg ureda, o čemu se obavještava podnositelj zahtjeva.
+(5) U slučaju opoziva bankovna garancija vrijedi za sva davanja koja su do dana njegovog stupanja na snagu bila osigurana opozvanom bankovnom garancijom, a izdavatelja bankovne garancije može se pozvati na plaćanje duga do isteka produženog roka važenja bankovne garancije iz članka 46. ovoga Pravilnika, računajući od dana stupanja opoziva bankovne garancije na snagu.
+Članak 45.
+(1) Bankovna garancija za osiguranje plaćanja duga mora sadržavati sljedeće podatke:
+1. broj garancije
+2. razdoblje važenja garancije
+3. iznos jamstvene svote garancije
+4. odredbu o njezinoj primjeni »na prvi poziv« i »bez prigovora«
+5. podatke o izdavatelju bankovne garancije (naziv banke-garanta, osobni identifikacijski broj (OIB), sjedište, broj žiro-računa)
+6. podatke o nalogodavcu za izdavanje garancije (naziv tvrtke, sjedište, osobni identifikacijski broj (OIB) i EORI broj ako se radi o gospodarskom subjektu i drugoj osobi koja sukladno carinskim propisima podliježi obvezi registracije i pribavljanja EORI broja)
+7. vrste postupaka za koje vrijedi osiguranje
+8. odredbu o preuzimanju garancijskih obveza iz prethodnog razdoblja
+9. datum i mjesto izdavanja garancije
+10. ovjeru Carinske uprave o prihvatu garancije (evidencijski broj, datum, potpis ovlaštenog službenika te pečat) i
+11. potpis ovlaštene osobe i pečat izdavatelja garancije.
+(2) Banka izdaje garanciju u sadržaju sukladnom stavku 1. ovoga članka i prema Obrascima A, B, C, D i E koji su tiskani u Prilozima 10, 11, 12, 13 i 14 ovoga Pravilnika i njegov su sastavni dio.
+Članak 46.
+Rok valjanosti bankovne garancije kojom se osigurava plaćanje nastalog i mogućeg duga, ne može biti kraći od roka u kojem taj dug može nastati, produžen za šest mjeseci.
+Članak 47.
+(1) Visinu jamstvene svote u bankovnoj garanciji određuje nadležni carinski ured u svoti koja namirenje duga u svakome trenutku čini sigurnim, vodeći računa o:
+1. vrsti, odnosno osjetljivosti trošarinskih proizvoda
+2. vrsti trošarinskog skladišta
+3. ugledu, pouzdanosti i financijskoj stabilnosti nalogodavca za izdavanje garancije
+4. opsegu poslovanja nalogodavca za izdavanje garancije s trošarinskim proizvodima
+5. vremenu trajanja proizvodnje ili skladištenja
+6. vrsti, sadržaju i načinu vođenja evidencije i knjigovodstvene dokumentacije
+7. nadzoru u trošarinskom skladištu
+8. dosadašnjem poslovanju nalogodavca za izdavanje garancije s trošarinskim proizvodima i
+9. iznosu mogućeg trošarinskog duga tijekom kretanja trošarinskih proizvoda.
+(2) Iznos jamstvene svote u bankovnoj garanciji na poziv ne može biti niži od 60.000,00 kuna.
+(3) Visinu jamstvene svote bankovne garancije za nalogodavca za izdavanje garancije koji započinje poslovnu djelatnost s trošarinskim proizvodima određuje se na temelju opsega očekivanog prometa, odnosno proizvodnje i skladištenja trošarinskih proizvoda.
+(4) U postupku određivanja visine jamstvene svote bankovne garancije nadležni carinski ured može zahtijevati prilaganje podataka o bonitetu i solventnosti nalogodavca za izdavanje bankovne garancije (BON-1 i BON-2/SOL-2 ne stariji od mjesec dana).
+Bjanko-zadužnica i zadužnica
+Članak 48.
+(1) Podnošenje bjanko-zadužnice i zadužnice kao instrumenta osiguranja za namirenje mogućeg duga odobrava Središnji 

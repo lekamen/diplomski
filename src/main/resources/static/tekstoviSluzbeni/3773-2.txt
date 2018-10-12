@@ -1,0 +1,22 @@
+ električne opreme s ovim Pravilnikom na hrvatskom jeziku
+(12) Na zahtjev nadležnog inspekcijskog tijela proizvođači moraju s njim surađivati u svakoj radnji poduzetoj kako bi se uklonili rizici koje predstavljaju električna oprema koju su stavili na tržište.
+Članak 7.
+Ovlašteni zastupnici
+(1) Proizvođač može na temelju pisanog ovlaštenja imenovati ovlaštenog zastupnika.
+(2) Obveze iz članka 6. stavka 1. i obveza sastavljanja tehničke dokumentacije iz članka 6. stavka 2. nisu dio zadaća ovlaštenog zastupnika.
+(3) Ovlašteni zastupnik provodi zadatke utvrđene u ovlaštenju koje mu je dao proizvođač kojim mu se omogućuje obavljanje najmanje sljedećeg:
+1. čuvanje EU izjave o sukladnosti i tehničke dokumentacije kako bi je mogao dati na raspolaganje nadležnom inspekcijskom tijelu još 10 godina nakon što je električna oprema stavljena na tržište;
+2. dostavljanje svih podataka i dokumenata neophodnih za dokazivanje sukladnosti električne opreme nadležnom inspekcijskom tijelu na njegov opravdani zahtjev;
+3. suradnja s nadležnim inspekcijskim tijelom, na njihov zahtjev, u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavlja električna oprema obuhvaćena ovlaštenjem ovlaštenog zastupnika.
+Članak 8.
+Obveze uvoznika
+(1) Uvoznici moraju staviti na tržište samo sukladnu električnu opremu.
+(2) Prije stavljanja električne opreme na tržište uvoznici moraju osigurati da je proizvođač proveo odgovarajući postupak ocjenjivanja sukladnosti, sastavio tehničku dokumentaciju, da električna oprema nosi oznaku CE i da su uz nju priloženi traženi dokumenti te da je proizvođač ispunio zahtjeve iz članka 6. stavaka 7. i 8. ovoga Pravilnika.
+(3) Kad uvoznik smatra ili ima razloga vjerovati da električna oprema nije u skladu sa sigurnosnim zahtjevima iz članka 3. i Dodatka I. ovoga Pravilnika, ne smije staviti električnu opremu na tržište sve dok se ne provede njezino usklađivanje. Nadalje, ako električna oprema predstavlja rizik, uvoznik o tome mora obavijestiti proizvođača i nadležno inspekcijsko tijelo.
+(4) Uvoznici moraju na električnoj opremi ili, kad to nije moguće, na njezinoj ambalaži ili u dokumentu koji prati električnu opremu, navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i poštansku adresu na kojoj su dostupni. Kontaktni podaci moraju biti na hrvatskom jeziku.
+(5) Uvoznici moraju osigurati da su uz električnu opremu priložene upute i podaci o sigurnosti na hrvatskom jeziku.
+(6) Uvoznici moraju osigurati, dok je električna oprema pod njihovom odgovornošću, da njezini uvjeti skladištenja ili prijevoza ne ugrožavaju njezinu sukladnost sa sigurnosnim ciljevima navedenim u članku 3. i utvrđenim u Dodatku I. ovoga Pravilnika.
+(7) Kad to smatraju prikladnim s obzirom na rizike koje predstavlja električna oprema, a kako bi zaštitili zdravlje i sigurnost potrošača, uvoznici ispituju uzorke električne opreme koja je stavljena na raspolaganje na tržištu, istražuju i, ako je to potrebno, vode knjigu pritužbi i registar nesukladne električne opreme i njezinog povrata te o svakom takvom praćenju moraju obavijestiti distributere.
+(8) Uvoznici koji smatraju ili imaju razloga vjerovati da električna oprema koju su stavili na tržište nije sukladna s ovim Pravilnikom, moraju bez odgode poduzeti potrebne popravne radnje kako bi električnu opremu uskladili ili po potrebi povukli s tržišta ili izvršili povrat. Nadalje, ako električna oprema predstavlja rizik, uvoznici o tome bez odgode moraju obavijestiti nadležna nacionalna tijela država članica u kojima su električnu opremu stavili na raspolaganje na tržištu navodeći podatke, posebno o nesukladnosti i o svim poduzetim popravnim radnjama.
+(9) Uvoznici tijekom razdoblja od 10 godina nakon što je električna oprema bila stavljena na tržište, moraju imati primjerak EU izjave o sukladnosti na raspolaganju za nadležno inspekcijsko tijelo te osigurati da je tehnička dokumentacija dostupna tom tijelu na njegov zahtjev.
+(10) Na opravdan zahtjev nadležnog inspekcijskog tijela

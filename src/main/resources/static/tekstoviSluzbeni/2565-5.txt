@@ -1,0 +1,20 @@
+ uspije, uzima se da su središnje banke sporednih sustava i središnje banke namire dobile uputu za vraćanje svih instrukcija za plaćanje u datoteci te da će poništiti instrukcije za plaćanje koje su bile namirene.
+(7) Središnje banke sporednih sustava obavješćuju banke namire o neuspjehu namire preko ICM poruke.
+(8) Središnje banke sporednih sustava mogu ponuditi:
+(a) namiru instrukcija za plaćanje unutar određenih rokova koje utvrđuje sporedni sustav, kako je navedeno u članku 16. stavku 3. ove Odluke,
+(b) funkcionalnost »informacijskog razdoblja«, kako je navedeno u članku 16. stavku 1. ove Odluke i
+(c) mehanizam jamstvenog fonda, kako je naveden u članku 16. stavku 4. ove Odluke.
+(9) Banke namire i sporedni sustavi imaju pristup informacijama preko ICM-a. Sporedni sustavi moraju biti obaviješteni o dovršetku ili neuspjehu namire. Ako zatraže, banke namire moraju biti obaviještene o uspješnoj namiri preko SWIFT poruke MT 900 ili MT 910. Imatelji PM računa koji se koriste internetskim pristupom moraju biti obaviješteni putem poruke na ICM-u.
+Članak 14.
+Postupak namire 5 – istodobna višestrana namira
+(1) Kada nude postupak namire 5, središnje banke sporednih sustava i središnje banke namire podržavaju namiru višestranih gotovinskih stanja transakcija sporednih sustava namirenjem instrukcija za plaćanje dostavljenih od strane sporednih sustava. Radi namire relevantnih instrukcija za plaćanje upotrebljava se algoritam 4 (vidi Dodatak I. (Tehničke specifikacije za obradu naloga za plaćanje) Odluci o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR). Za razliku od postupka namire 4, postupak namire 5 funkcionira na osnovi »sve ili ništa«. U tom postupku terećenje PM računa banaka namire s kratkom pozicijom i odobrenje PM računa banaka namire s dugom pozicijom odvija se istodobno (a ne uzastopno kao u postupku namire 4). Članak 13. ove Odluke primjenjuje se na odgovarajući način uz sljedeće izmjene: ako se jedna ili više instrukcija za plaćanje ne može namiriti, sve instrukcije za plaćanje stavljaju se na čekanje u red i algoritam 4 kako je opisan u članku 17. stavku 1. ove Odluke ponavlja se kako bi se namirile instrukcije za plaćanje sporednih sustava koje čekaju u redu.
+(2) Središnje banke sporednih sustava mogu ponuditi:
+(a) namiru instrukcija za plaćanje unutar određenih rokova koje utvrđuje sporedni sustav, kako je navedeno u članku 16. stavku 3. ove Odluke,
+(b) funkcionalnost »informacijskog razdoblja«, kako je navedeno u članku 16. stavku 1. ove Odluke i
+(c) mehanizam jamstvenog fonda, kako je naveden u članku 16. stavku 4. ove Odluke.
+(3) Banke namire i sporedni sustavi imaju pristup informacijama preko ICM-a. Sporedni sustavi moraju biti obaviješteni o dovršetku ili neuspjehu namire. Ako zatraže, banke namire moraju biti obaviještene o uspješnoj namiri preko SWIFT poruke MT 900 ili MT 910. Imatelji PM računa koji se koriste internetskim pristupom moraju biti obaviješteni putem poruke na ICM-u.
+(4) Ako je instrukcija za plaćanje kojom se tereti PM račun banke namire s kratkom pozicijom uvrštena u red u skladu s uvjetima SCB-a za otvaranje i funkcioniranje PM računa u njegovoj komponenti sustava TARGET2, odnosni SCB obavješćuju banke namire preko ICM poruke.
+Članak 15.
+Postupak namire 6 – namjenska likvidnost i međusistemska namira
+(1) Postupak namire 6 može se upotrijebiti za povezane i integrirane modele, kako je opisano u stavcima od 4. do 13. i od 14. do 18. ovog članka. U slučaju integriranog modela relevantni sporedni sustav mora upotrijebiti zrcalni račun za prikupljanje potrebne likvidnosti koju su izdvojile njegove banke namire. U slučaju povezanog modela banka namire mora otvoriti najmanje jedan podračun u odnosu na određeni sporedni sustav.
+(2) Ako zatraže, banke namire moraju biti obaviještene o uspješnoj namiri preko SWIFT poruke MT 900 ili MT 910, a imatelji PM računa koji se koriste internetskim pristupom moraju biti obaviješteni putem poruke na ICM-u o odobrenju i terećenju njihovih PM

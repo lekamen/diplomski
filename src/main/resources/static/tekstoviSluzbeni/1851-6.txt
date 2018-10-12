@@ -1,0 +1,22 @@
+ predmetna promjena potkrepljuje.
+(5) Upravljačko tijelo će za zaprimljene Zahtjeve za odobrenje promjena iz stavaka 2. i 3. ovoga članka provjeriti uvjete i kriterije prihvatljivosti sukladno ovom Pravilniku, donijeti Odluku o odobrenju promjena ili Odluku o odbijanju promjena te po potrebi donijeti izmjenu Odluke o dodjeli sredstava i Ugovora.
+(6) Izmjenom Odluke o dodjeli sredstava iz stavka 5. ovoga članka ne može se dodijeliti iznos potpore veći od iznosa potpore koji je već određen Odlukom o dodjeli sredstava iz članka 13. stavka 1. točke a) ovoga Pravilnika.
+(7) U slučaju promjena iniciranih od strane Upravljačkog tijela, Upravljačko tijelo će donijeti izmjenu Odluke o dodjeli sredstava iz članka 13. stavka 1. točke a) ovoga Pravilnika te će ugovorene strane sklopiti Aneks Ugovora.
+VIII. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE, DONOŠENJE ODLUKE I ISPLATA
+Članak 16.
+(1) Sredstva potpore isplaćuju se lokalnoj inicijativi na temelju Zahtjeva za isplatu, u ratama ili jednokratno.
+(2) Ukoliko se sredstva isplaćuju u ratama, lokalna inicijativa za svaku ratu Upravljačkom tijelu dostavlja Zahtjev za isplatu sa sadržanim troškovima nastalima u obračunskom razdoblju, zajedno s pratećom dokumentacijom na propisanom obrascu u papirnatom obliku i na CD-u, u roku od petnaest dana od završetka obračunskog razdoblja na koje se Zahtjev za isplatu odnosi.
+(3) Obračunsko razdoblje iz stavka 2. ovoga članka traje najmanje 30 dana, a počinje teći istekom prethodnog, osim prvog obračunskog razdoblja koje počinje teći početkom razdoblja prihvatljivosti troškova iz članka 7. stavka 3. ovoga Pravilnika.
+(4) Ukoliko se sredstva isplaćuju jednokratno, korisnik je dužan dostaviti Zahtjev za isplatu sa sadržanim troškovima nastalima u razdoblju prihvatljivosti troškova iz članka 7. stavka 3. ovoga Pravilnika, zajedno s pratećom dokumentacijom na propisanom obrascu u papirnatom obliku i na CD-u, u roku od 30 dana od završetka razdoblja prihvatljivosti troškova iz članka 7. stavka 3. ovoga Pravilnika.
+(5) Zahtjev za isplatu podnosi se Upravljačkom tijelu na način kako je propisano Natječajem, uključujući i propisanu popratnu dokumentaciju.
+Članak 17.
+(1) Svi troškovi koji se prijavljuju u Zahtjevu za isplatu moraju biti u cijelosti plaćeni.
+(2) Zahtjev za isplatu ne može sadržavati troškove nastale u obračunskim razdobljima za koji je prethodno već podnesen Zahtjev za isplatu niti troškove koji nisu prihvatljivi temeljem ovoga Pravilnika.
+(3) Korisniku se ne može isplatiti potpora u iznosu višem od iznosa navedenoga u Odluci o dodjeli sredstava.
+(4) Ukoliko korisnik u Zahtjevima za isplatu navede iznos koji je viši od prihvatljivog iznosa potpore, Upravljačko tijelo može umanjiti iznos za isplatu.
+(5) Za nepotpun Zahtjev za isplatu Upravljačko tijelo će izdati Zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom u roku od deset dana od dana zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak. Ukoliko tražena dokumentacija ne bude poslana u zadanom roku smatrat će se da je korisnik odustao od cijeloga ili od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(6) Vremenom zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak smatra se datum kada korisnik zaprimi preporučenu pošiljku.
+(7) Za plaćanja izvršena u stranoj valuti obračunat će se:
+a) protuvrijednost u kunama po tečaju Europske komisije (ECB), u mjesecu zaprimanja Zahtjeva za isplatu u Upravljačkom tijelu iskazanom na šest decimala (navedeni tečaj se može dobiti na http://ec.europa.eu/budget/inforeuro/),
+b) u slučaju da je ugovorena lokalna inicijativa kupila strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest decimala, isplata potpore temeljit će se na ostvarenom tečaju.
+(8) Ukoliko se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, a koja ne prelazi iznos od 50 posto ukupnih prihvatljivih

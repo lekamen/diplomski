@@ -1,0 +1,23 @@
+ Hrvatskoj, u svrhu određivanja načina upravljanja i gospodarenja željezničkom infrastrukturom te planiranja njezinoga razvoja, u skladu s člankom 14. stavkom 1. Zakona o željeznici, razvrstavaju se na:
+– pruge za međunarodni promet
+– pruge za regionalni promet
+– pruge za lokalni promet.
+U skladu s člankom 14. stavkom 2. Zakona o željeznici, željezničke pruge za međunarodni promet dijele se na:
+– glavne (koridorske) pruge
+– ostale pruge za međunarodni promet, koje unutar željezničkih čvorišta i izvan njih funkcionalno povezuju glavne (koridorske) pruge ili koje međunarodne morske i riječne luke te terminale povezuju s glavnim (koridorskim) prugama. Razvrstavanje željezničkih pruga iz stavaka 1. i 2. ove točke osnova je za određivanje načina njihove uporabe, te skladnoga i učinkovitoga planiranja izgradnje, modernizacije, obnove i održavanja željezničke infrastrukture u Republici Hrvatskoj, prema Nacionalnom programu željezničke infrastrukture iz članka 8. Zakona o željeznici.
+Željezničke pruge za međunarodni promet su:
+– glavne (koridorske) pruge, koje se nalaze na međunarodnim željezničkim koridorima i njihovim ograncima (koridori RH1, RH2 i RH3), RH1 (bivši X. paneuropski koridor) DG – Savski Marof – Zagreb – Dugo Selo – Novska – Vinkovci – Tovarnik – DG; RH2 (Mediteranski koridor – bivši ogranak V.b. paneuropskoga koridora) DG – Botovo – Koprivnica – Dugo Selo – Zagreb – Karlovac – Rijeka – Šapjane – DG; RH3 (bivši ogranak V.c. paneuropskoga koridora) DG – Beli Manastir – Osijek – Slavonski Šamac – DG – (Sarajevo) – DG – Metković – Ploče
+– ostale pruge za međunarodni promet, koje unutar željezničkih čvorišta i izvan njih funkcionalno povezuju glavne (koridorske) pruge ili koje međunarodne morske i riječne luke te terminale povezuju s glavnim (koridorskim) prugama.
+Željezničke pruge za regionalni promet su pruge koje u smislu daljinskoga prometa povezuju:
+– željezničke prometne regije u Republici Hrvatskoj
+– željezničke prometne regije u Republici Hrvatskoj sa željezničkim prugama za međunarodni promet
+– željezničke prometne regije susjednih država sa željezničkim prometnim regijama u Republici Hrvatskoj ili sa željezničkim prugama za međunarodni promet u Republici Hrvatskoj.
+Željezničke pruge za lokalni promet su:
+– željezničke pruge koje luke i terminale koji nisu od međunarodnoga značaja, te industrijske zone i gospodarske subjekte povezuju sa željezničkim prugama za regionalni promet
+– željezničke pruge koje unutar pojedine željezničke prometne regije u smislu lokalnoga prometa međusobno povezuju pojedina područja ili administrativno-gospodarske centre, ili ih priključuju na željezničke pruge za međunarodni promet ili na željezničke pruge za regionalni promet
+– željezničke pruge u funkciji gradskoga i prigradskoga željezničkog prometa, ukoliko istovremeno nisu željezničke pruge za međunarodni promet ili željezničke pruge za regionalni promet
+– željezničke pruge koje u smislu lokalnoga prometa spajaju pojedina lokalna područja u Republici Hrvatskoj s lokalnim područjima susjednih država
+– željezničke pruge za lokalno povezivanje unutar željezničkih čvorišta.
+3. OCJENA POSTOJEĆEG STANJA I SMJERNICE ZA ULAGANJE U ŽELJEZNIČKU INFRASTRUKTURU
+Sukladno Odluci o razvrstavanju željezničkih pruga ukupna građevinska duljina svih željezničkih pruga u Republici Hrvatskoj iznosi 2.605 km, a od toga je 2.351 km jednokolosiječnih i 254 km dvokolosiječnih. Elektrificirano je 980,0 km (36%) jednofaznim izmjeničnim sustavom AC 25kV/50Hz. Ako se projektirani tehničko-funkcionalni parametri željezničke mreže u Republici Hrvatskoj usporede sa zahtjevima koje bi trebale ispunjavati željezničke pruge transeuropske željezničke mreže, može se zaključiti da je ono uglavnom nepovoljno, unatoč tome što su neki projektirani parametri dosta povoljni. Puno veći problem predstavlja stvarno tehničko-funkcionalno stanje, koje se zbog starosti i dotrajalosti stalno pogoršava i ima za posljedicu kontinuirano smanjenje dopuštenih brzina vlakova.
+U tom

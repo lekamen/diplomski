@@ -1,0 +1,27 @@
+ plinova provodi se svakih šest mjeseci nakon zatvaranja odlagališta.
+3. KONTROLA EMISIJA TVARI U PROCJEDNE I POVRŠINSKE VODE, KONTROLA OBORINSKE VODE NA ODLAGALIŠTU OTPADA
+Procjedna voda
+3.1. Mjerenje parametara procjedne vode provodi se svaka tri mjeseca i obuhvaća količinu i sastav procjedne vode za vrijeme rada odlagališta, a nakon zatvaranja svakih šest mjeseci.
+3.2. Opseg mjerenja parametara procjedne vode određuje se prema posebnom propisu o zaštiti voda i/ili prema posebnom propisu o zaštiti okoliša.
+3.3. U sklopu mjerenja sastava procjedne vode mora se mjeriti i vodljivost.
+3.4. Parametri za koje se provodi mjerenje moraju odražavati svojstva procjedne vode.
+3.5. Mjerenje se mora provesti na reprezentativnim točkama i reprezentativnom broju uzoraka.
+3.6. Uzorkovanje i mjerenje volumena i sastava procjedne vode mora se provoditi zasebno na svakom mjestu gdje se procjedna voda ispušta sa odlagališta. Na postupak uzorkovanja primjenjuje se norma HRN EN ISO 5667-1:2008 Kakvoća vode -– Uzorkovanje -– 1. dio: Smjernice za osmišljavanje programa uzorkovanja i tehnike uzorkovanja (ISO 5667-1:2006; EN ISO 5667-1:2006+AC:2007).
+Površinska voda
+3.7. Mjerenje stanja površinske vode (fizikalno-kemijski pokazatelji, parametri kemijskog stanja, onečišćujuće tvari) provodi se ako su stalne površinske vode prisutne na odlagalištu ili u njegovoj neposrednoj blizini.
+3.8. Analiziraju se parametri sukladno posebnom propisu o zaštiti voda uključujući dodatne parametre ako se pojavljuju u procjednoj vodi ovisno o vrsti otpada koja se odlaže na odlagalištu.
+3.9. Mjerenje se provodi svaka tri mjeseca za vrijeme aktivnog korištenja odlagališta, a nakon zatvaranja svakih šest mjeseci.
+3.10. Mjerenje se provodi na najmanje na jednom mjernom mjestu uzvodno i na jednom mjernom mjestu nizvodno od područja utjecaja odlagališta.
+Oborinska voda
+3.11. Opseg mjerenja parametara oborinske vode iz nadstrešnice, manipulativnih površina ili prekrivenih površina odlagališta određuje se vodopravnom dozvolom prema posebnom propisu o zaštiti voda.
+4. KONTROLA PODZEMNE VODE NA ODLAGALIŠTU OTPADA
+4.1. Opseg mjerenja parametara podzemne vode određuje se prema posebnom propisu o zaštiti voda i/ili prema posebnom propisu o zaštiti okoliša.
+4.2. Mjerenja parametara podzemne vode obuhvaćaju mjerenja razine podzemne vode i mjerenja pokazatelja prema posebnom propisu. Pokazatelji koji se analiziraju u prikupljenim uzorcima ovise o očekivanom sastavu procjedne vode i kvaliteti podzemne vode na tom području.
+4.3. Mjerenja razine podzemne vode provode se svakih 6 mjeseci za vrijeme rada odlagališta, i nakon njegovog zatvaranja. Pri značajnim fluktuacijama razine podzemne vode, učestalost mjerenja mora se povećati.
+4.4. U prvoj godini rada odlagališta mjerenja pokazatelja treba provoditi jednom mjesečno. Ako se vrijednosti mjerenih parametara u prvoj godini ne promijene značajno, a nalaze se unutar propisanih graničnih vrijednosti te nije za pretpostaviti da će prekoračiti graničnu vrijednost, u nastavku rada odlagališta mjerenja tih parametara mogu su izvoditi jednom u 3 mjeseca, a nakon zatvaranja odlagališta svakih 6 mjeseci.
+4.5. Parametri onečišćenja podzemne vode moraju se mjeriti na jednom mjernom mjestu uzvodno i na najmanje 2 mjerna mjesta nizvodno od područja utjecaja odlagališta.
+4.6. Ukoliko mjereni parametar onečišćenja prijeđe graničnu vrijednost, ponovnim uzorkovanjem i analizom treba potvrditi rezultat. U slučaju potvrde rezultata, pristupa se interventnom planu postupanja.
+4.7. Uzorkovanje se mora provoditi na najmanje tri mjesta prije početka odlaganja otpada, kako bi se utvrdile referentne vrijednosti za buduće uzimanje uzoraka.
+4.8. Na postupak uzorkovanja primjenjuju se norma HRN ISO 5667-11:2011 Kvaliteta vode -– Uzorkovanje -– 11. dio: Upute za uzorkovanje podzemnih voda (ISO 5667-11:2009).
+5. TOPOGRAFIJA TERENA: PODACI O TIJELU ODLAGALIŠTA OTPADA
+Aktivno korištenje odlagališta Nakon zatvaranja odlagališta Struktura i sastav tijela odlagališta1

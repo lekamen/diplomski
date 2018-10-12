@@ -1,0 +1,30 @@
+ pri 37 °C i 44,5 °C;
+– odsutnost fekalnih streptokoka, odnosno enterokoka u 250 ml;
+– odsutnost sporogenih sulfitoreducirajućih anaerobnih bakterija u 50 ml;
+– odsutnost bakterije Pseudomonas aeruginosa u 250 ml.
+3. određivanje broja mikroorganizama u 1 ml vode:
+– pri temperaturi 20 – 22 °C u vremenu od 72 sata na agar-agaru ili agar-želatina i drugim podlogama koje daju istovjetne rezultate;
+– pri temperaturi od 37 °C u vremenu od 24 sata na agar-agaru želatina i drugim podlogama koje daju istovjetne rezultate.
+d) Zahtjevi kliničkih i farmakoloških ispitivanja:
+1. Ispitivanja, koja moraju biti provedena u skladu sa znanstveno priznatim metodama, trebala bi biti prikladna za posebna svojstva prirodne mineralne vode i njezine učinke na ljudski organizam kao što su diureza, želučana i crijevna funkcija te nadoknada za nedostatak mineralnih tvari.
+2. Utvrđivanje dosljednosti i podudaranja značajnog broja kliničkih zapažanja mogu, ako je potrebno, zamijeniti ispitivanja navedena pod točkom 1.
+3. Klinička ispitivanja mogu, u odgovarajućim slučajevima, zamijeniti ispitivanja iz točke 1. pod uvjetom da dosljednost i podudaranje značajnog broja kliničkih zapažanja omogućuju dobivanje istih rezultata.
+DODATAK 2.
+Tablica 1. TVARI KOJE MOGU BITI PRIRODNO PRISUTNE U PRIRODNOJ MINERALNOJ VODI I NJIHOVE MAKSIMALNO DOPUŠTENE KONCENTRACIJE PRILIKOM PUNJENJA U AMBALAŽU
+Pokazatelj Jedinica mjerenja Maksimalno dopuštena koncentracija Antimon mg/l Sb 0,0050 Arsen mg/l As 0,010 (ukupno) Bakar mg/l Cu 1,0 Barij mg/l Ba 1,0 Bor mg/l B ** Cijanidi mg/l CN– 0,070 Fluoridi mg/l F– 5,0 Kadmij mg/l Cd 0,003 Krom mg/l Cr 0,050 Mangan mg/l Mn 0,50 Nikal mg/l Ni 0,020 Nitrati mg/l NO3– 50 Nitriti mg/l NO2– 0,1 Olovo mg/l Pb 0,010 Selen mg/l Se 0,010 Živa mg/l Hg 0,0010
+** Maksimalno dopuštena koncentracija za bor propisat će se nakon propisivanja na razini Europske unije.
+Tablica 2. ISTINITOST/TOČNOST, PRECIZNOST I GRANICA DETEKCIJE ANALITIČKIH METODA(*) POKAZATELJA IZ TABLICE 1. OVOGA DODATKA
+Pokazatelj Istinitost/točnost vrijednosti pokazatelja u % (Napomena 1) Preciznost vrijednosti pokazatelja u % (Napomena 2) Granica detekcije u % od mjerne vrijednosti pokazatelja (Napomena 3) Uvjeti Napomena Antimon 25 25 25 Arsen 10 10 10 Bakar 10 10 10 Barij 25 25 25 Bor Vidi Tablicu 1. Cijanidi 10 10 10 4 Fluoridi 10 10 10 Kadmij 10 10 10 Krom 10 10 10 Mangan 10 10 10 Nikal 10 10 10 Nitrati 10 10 10 Nitriti 10 10 10 Olovo 10 10 10 Selen 10 10 10 Živa 20 10 20
+(*) Analitičke metode korištene za mjerenja koncentracije pokazatelja navedenih u Tablici 1. ovoga Dodatka moraju omogućiti mjerenje najmanjih koncentracija navedenih parametara s odgovarajućom istinitošću/točnošću, preciznošću i granicom detekcije. Bez obzira na osjetljivost korištene metode ispitivanja, rezultat se prikazuje sa najmanje onoliko decimalnih mjesta sa koliko je izražena maksimalno dopuštena vrijednost koncentracije propisane u Tablici 1. ovoga Dodatka.
+Uvjet 1. Kontrolirati u skladu sa specifikacijom proizvoda
+Napomena 1 – Istinitost/točnost je sistematska pogreška i predstavlja razliku između srednje vrijednosti većeg broja ponovljenih mjerenja i prave vrijednosti.
+Napomena 2 – Preciznost je slučajna pogreška i uglavnom se izražava kao standardna devijacija (unutar serije mjerenja i između njih) rasipanja rezultata oko srednje vrijednosti. Prihvatljiva preciznost je dvostruka vrijednost standardne devijacije.
+Napomena 3 – Granica detekcije je:
+– trostruka vrijednost standardne devijacije prirodnog uzorka koji sadrži nisku koncentraciju tog pokazatelja; ili
+– peterostruka vrijednost standardne devijacije slijepe probe.
+Napomena 4 – Metodom se mora odrediti ukupni cijanid u svim oblicima.
+DODATAK 3.
+MAKSIMALNO DOPUŠTENE KONCENTRACIJE OSTATAKA NAKON OBRADE PRIRODNIH MINERALNIH, PRIRODNIH IZVORSKIH I STOLNIH VODA ZRAKOM OBOGAĆENIM OZONOM
+Ostatak nakon obrade Maksimalno dopuštena koncentracija (μg/l) Otopljeni ozon 50 Bromati 3 Bromoformi 1
+DODATAK 4.
+NAVODI I UVJETI ZA NJIHOVO KORIŠTENJE ZA

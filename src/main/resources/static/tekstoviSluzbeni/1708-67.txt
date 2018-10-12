@@ -1,0 +1,35 @@
+ stavke koja udovoljava definiciji prihoda.
+15.7. U prihode ulazi i nerealizirana dobit (prihod).
+15.8. Efektiva kamata stopa je kamatna stopa koja točno diskontira procijenjena buduća novčana plaćanja ili primitke kroz očekivani vijek trajanja financijskog instrumenta ili gdje je to moguće, kraćeg razdoblja, do neto knjigovodstvene vrijednosti financijske imovine ili financijske obveze. Kod izračuna efektivne kamatne stope poduzetnik treba procijeniti novčane tokove uzimajući u obzir sve vrste ugovorenog financijskog instrumenta ali ne uzima u obzir buduće gubitke od zajma.
+15.9. Financijska imovina obuhvaća:
+1. financijsku imovinu čija se promjena fer vrijednosti priznaje u računu dobiti i gubitka
+2. ulaganja koja se drže do dospijeća
+3. zajmove i potraživanja
+4. financijsku imovinu raspoloživu za prodaju.
+15.10. Najam je sporazum na temelju kojeg najmodavac prenosi na najmoprimca kao zamjenu za plaćanje, pravo upotrebe neke imovine u dogovorenom razdoblju.
+15.11. Financijski najam je najam kojim se većim dijelom prenose svi rizici i nagrade povezane s vlasništvom neke imovine. Vlasništvo se može, ali ne mora prenijeti.
+15.12. Poslovni najam je svaki najam osim financijskog najma.
+15.13. Državna pomoć je pomoć kojoj je cilj pružanje ekonomske koristi pojedinom poduzetniku koji zadovoljava određene kriterije.
+15.14. Fer vrijednost je iznos koji bi trebalo primiti za prodanu imovinu ili platiti za podmirenje obveze u uobičajenoj transakciji između sudionika na tržištu na dan mjerenja vrijednosti.
+15.15. Ulaganje u nekretnine je nekretnina koja se drži u svrhu zarade prihoda od najma ili zbog porasta vrijednosti ove imovine ili oboje.
+15.16. Rezerviranje je obveza čija je priroda jasno određena i za koju je na datum bilance vjerojatno ili sigurno da će nastati ali postoji neizvjesnost u pogledu iznosa ili datuma kada će nastati. Rezerviranje se ne koristi za usklađivanje vrijednosti imovine.
+15.17. Metoda udjela je računovodstvena metoda kojom se ulaganje početno evidentira u visini troškova ulaganja i usklađuje za naknadne promjene ulagateljeva udjela u neto imovini poduzetnika u kojeg je izvršeno ulaganje. Dobit ili gubitak ulagatelja odražava njegov udjel u dobiti ili gubitku poduzetnika u koje je izvršeno ulaganje.
+15.18. Tečajna razlika – je razlika koja proizlazi iz svođenja jednakog broja jedinica jedne valute u drugu po različitim tečajevima.
+15.19. Monetarne stavke su jedinice valute u posjedu i imovina i obveze koji će biti primljene ili plaćene u fiksnom ili utvrdivom broju jedinica valute.
+15.20. Neto ulaganja u inozemno poslovanje je iznos udjela izvještajnog poduzetnika u neto imovinu tog poslovanja.
+15.21. Ugovor o izgradnji je ugovor posebno sklopljen za izgradnju neke imovine ili skupine imovine koja je međusobno usko povezana ili međuovisna po nacrtu, tehnologiji i funkciji ili konačnoj namjeni ili upotrebi.
+15.22. Prestanak priznavanja financijske imovine je uklanjanje prethodno priznate financijske imovine iz bilance poduzetnika.
+SADRŽAJ
+15.23. Ovaj standard sadrži načela, pravila, postupke, metode mjerenja, evidentiranja, priznavanja i objavljivanja prihoda. U ovom standardu obuhvaćeni su prihodi koji nastaju iz transakcija i poslovnih događaja, a svrstani su u:
+• poslovne prihode:
+■ prihode od prodaje
+■ ostale poslovne prihode
+• financijske prihode.
+PRIZNAVANJE
+15.24. Prihod se priznaje kada je vjerojatno da će buduće ekonomske koristi ulaziti kod poduzetnika i kada se koristi mogu pouzdano izmjeriti.
+Priznavanje prihoda od prodaje
+15.25. Prihod od prodaje proizvoda priznaje se kada su ispunjeni svi sljedeći uvjeti:
+– poduzetnik je prenio na kupca značajne rizike i koristi od vlasništva nad proizvodima uključivo i robu,
+– poduzetnik ne zadržava stalno sudjelovanje u upravljanju, do stupnja koji se obično povezuje s vlasništvom ni učinkovitu kontrolu nad prodanim proizvodima i robom,
+– iznos prihoda može se pouzdano izmjeriti,
+– vjerojatno je da će ekonomske koristi povezane s transakcijom u svezi

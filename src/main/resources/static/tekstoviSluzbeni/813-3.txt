@@ -1,0 +1,38 @@
+ obzirom na broj i predmet nadzora.
+Stupci tablice se ispunjavaju na sljedeći način:
+1. redni broj: daje se svakom predmetu nadzora;
+2. predmet nadzora: navedeni su svi predmeti inspekcijskog nadzora koji podliježu inspekcijskom nadzoru mjeriteljskog inspektora, temeljem Zakona o mjeriteljstvu i Zakona o nadzoru predmeta od plemenitih kovina.
+3. inspekcijski nadzor: upisuje se ukupni broj zapisnika o inspekcijskom nadzoru po pojedinom predmetu nadzora;
+4. rješenje: upisuje se ukupni broj izdanih rješenja po pojedinom predmetu nadzora;
+5. nadzor izvršenja rješenja: upisuje se ukupni broj zapisnika o nadzoru izvršenja rješenja po pojedinom predmetu nadzora;
+6. optužni prijedlozi i obavezni prekršajni nalozi: upisuje se ukupni broj podnijetih optužnih prijedloga za pokretanje prekršajnog postupka i broj izdanih obaveznih prekršajnih naloga;
+7. sudske odluke: upisuje se ukupni broj sudskih presuda po pojedinom predmetu nadzora;
+8. sudske odluke za prošle godine: upisuje se ukupni broj sudskih presuda po pojedinom predmetu nadzora za prošle godine;
+9. nadzor izvršenja za prethodnu godinu: upisuje se ukupni broj zapisnika o nadzoru izvršenja rješenja po pojedinom predmetu nadzora za rješenja izdana za prethodnu godinu.
+Nakon ispunjavanja TABLICE 8. u donjem dijelu se automatski (excel) pojavljuju tri podatka važna za pripravu izvješća o radu inspektora a to su:
+– ukupni broj sudskih presuda (za predmete iz tekuće godine i prošlih godina)
+– ukupni broj nadzora izvršenja (za predmete iz tekuće godine i prethodne godine)
+– sveukupni broj nadzora inspektora u tekućoj godini (zbrojeni su i svi nadzori izvršenja rješenja)
+TABLICA 8. a. PLAN I REALIZACIJA INSPEKTORA U TEKUĆOJ GODINI – INSPEKTOR (ime i prezime)
+Tablica 8a. se formira automatski (excel) na temelju podataka unesenih u TABLICU 8.
+Tablica 8a daje prikaz podataka o realiziranom broju nadzora u usporedbi s ukupnim planiranim godišnjim brojem nadzora te podatke o realiziranom udjelu (u postotku) predmeta nadzora (prikazanom kroz osam skupina premeta nadzora) prema planiranom godišnjem udjelu skupina predmeta nadzora u ukupnom planiranom godišnjem broju nadzora.
+TABLICA 8. b. BROJ I VRSTA PREDMETA KOJE INSPEKTOR (ime i prezime) TREBA OBAVITI DA BI ISPUNIO PLAN ZA TEKUĆU GODINU
+Tablica 8b. se ne ispunjava već se ona formira automatski (excel) na temelju podataka unesenih u TABLICU 8. te podataka iz TABLICE 8.a.
+Tablica služi za usmjeravanje inspektora pri planiranju broja i vrste predmeta nadzora nad kojima je potrebno obaviti inspekcijske nadzore da bi se ispunio plan do konca tekuće godine.
+9. IZVJEŠĆE INSPEKTORA (ime i prezime) O OBAVLJENIM INSPEKCIJSKIM POSLOVIMA U TEKUĆOJ GODINI
+O poslovima koji nisu vidljivi iz tabličnih izvješća kao i poslovima izvan inspekcijskog nadzora ustrojava se zasebna evidencija iz koje se vidi i ostala aktivnost inspektora Državnog zavoda za mjeriteljstvo (izvješće o nadzorima s važnim napomenama, sudjelovanje u koordinaciji inspekcija, drugi inspekcijski poslovi i sl.).
+Članak 5.
+Podaci sadržani u očevidniku obvezno se koriste prilikom sastavljanja godišnjih i drugih izvješća o radu Samostalne službe za mjeriteljsku inspekciju Državnog zavoda za mjeriteljstvo kao i za izradu planova rada (mjesečni, godišnji plan rada i sl.).
+Članak 6.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011/01/15-01/03
+Urbroj: 558-05/1-15-1
+Zagreb, 23. ožujka 2015.
+Zamjenik ravnatelja Državnog zavoda za mjeriteljstvo mr. sc. Božidar Ljubić, dipl. ing., v. r.
+Očevidnik mjeriteljskog inspektora (obrazac OMI)
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+46 18.05.2016 Odluka o pravilima rada Nacionalnoga klirinškog sustava
+HRVATSKA NARODNA BANKA
+1194
+Na temelju članka 120. stavka 2. Zakona o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) Savjet Hrvatske narodne banke donosi
+ODLUKU
+O PRAVILIMA RADA NACIONALNOGA KLIRINŠKOG SUSTAVA
+Predmet Odluke
+Članak 1.
+Ovom Odlukom propisuju se pravila rada Nacionalnoga klirinškog sustava (u nastavku teksta: NKS), i to:
+1. sudionici u NKS-u i uvjeti za sudjelovanje u NKS-u,
+2. način izvršenja obračuna platnih transakcija u NKS-u i
+3. standardizirani postupci i pravila za obradu i obračun platnih transakcija u NKS-u.
+Sudionici u NKS-u
+Članak 2.
+Sudionici u NKS-u (u nastavku teksta: sudionici) mogu biti:
+1. Hrvatska narodna banka (u nastavku teksta: HNB),
+2. kreditne institucije (banke i štedne banke) sa sjedištem u Republici Hrvatskoj koje su dobile odobrenje za rad od HNB-a,
+3. podružnice kreditnih institucija iz trećih država koje su od HNB-a dobile odobrenje za osnivanje podružnice kreditne institucije iz treće države,
+4. podružnice kreditnih institucija iz drugih država članica Europske unije za koje su njihova nadležna tijela dostavila obavijest HNB-u o osnivanju podružnice u Republici Hrvatskoj i
+5. Hrvatska banka za obnovu i razvitak.
+Opis NKS-a
+Članak 3.
+(1) NKS je platni sustav za obračun platnih transakcija u kunama između njegovih sudionika.
+(2) Platne transakcije iz stavka 1. ovog članka jesu platne transakcije kreditnih transfera i izravnih terećenja koje izvršavaju sudionici u svrhu provođenja plaćanja samih sudionika ili njihovih korisnika platnih usluga u skladu s ugovorom iz članka 7. stavka 1. ove Odluke.
+Status sudionika u NKS-u
+Članak 4.
+(1) Sudionik prema svom statusu može biti:
+1. neposredni sudionik u NKS-u (u nastavku teksta: neposredni sudionik) ili
+2. posredni sudionik u NKS-u (u nastavku teksta: posredni sudionik).
+(2) Neposredni sudionik je institucija iz članka 2. ove Odluke koja preko svoga obračunskog računa otvorenog u NKS-u sudjeluje u obračunu u NKS-u.
+(3) Posredni sudionik je institucija iz članka 2. ove Odluke koja je u ugovornom odnosu s neposrednim sudionikom na osnovi kojega je tom posrednom sudioniku omogućen obračun platnih transakcija u NKS-u preko obračunskog računa neposrednog sudionika.
+Obračun i konačnost platnih transakcija u NKS-u
+Članak 5.
+(1) Obračun platnih transakcija u NKS-u obavlja se na neto multilateralnom načelu, izračunom dugovanja i potraživanja sudionika na temelju platnih transakcija zadanih na obračun u NKS-u.
+(2) Obračun platnih transakcija u NKS-u obavlja se preko obračunskih računa neposrednih sudionika u obračunskim ciklusima tijekom obračunskog dana prema Terminskom planu obračuna u NKS-u iz članka 13. ove Odluke.
+(3) Obračun platnih transakcija obavlja se do visine raspoloživih novčanih sredstava na obračunskim računima neposrednih sudionika.
+(4) Raspoloživa novčana sredstva na obračunskom računu neposrednog sudionika čini iznos novčanih sredstava na obračunskom računu neposrednog sudionika uvećan za iznos limita koji predstavlja dopušteno negativno stanje na obračunskom računu neposrednog sudionika. Limit na obračunskom računu neposrednog sudionika određuje se u skladu s člankom 11. ove Odluke.
+(5) Obračun platnih transakcija preko obračunskih računa neposrednih sudionika tijekom jednoga obračunskog ciklusa konačan je nakon završetka toga obračunskog ciklusa.
+Upravitelj NKS-a
+Članak 6.
+(1) Upravitelj NKS-a je Financijska agencija (u nastavku teksta: Fina).
+(2) Fina je dužna:
+1. osiguravati svakodobno sigurno i stabilno funkcioniranje NKS-a u skladu s načelima za financijske infrastrukture i ostalim međunarodno prihvaćenim standardima,
+2. provoditi obračun preko obračunskih računa neposrednih sudionika u skladu s odredbama ove Odluke i uputama iz članka 18. ove Odluke,
+3. davati podatke neposrednim sudionicima o obračunu u NKS-u,
+4. onemogućiti obračun 

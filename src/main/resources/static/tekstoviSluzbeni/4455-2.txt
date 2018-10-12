@@ -1,0 +1,21 @@
+ svojstvena svim komponentama cjevovoda, osim onih označenih vanjskim promjerom ili veličinom navoja; to je prikladan cijeli broj koji služi kao nazivna veličina i približan je stvarnoj dimenziji; nazivni promjer označuje se oznakom DN nakon koje slijedi broj;
+– »fluidi« znači plinovi, kapljevine i pare u čistom stanju kao i njihove mješavine; fluidi mogu sadržavati suspenziju krutih tvari;
+– »nerastavljivi spojevi« znači spojevi koji se mogu rastaviti samo razaranjem;
+– »europsko odobrenje za materijale« znači tehnički dokument u kojem su opisana svojstva materijala namijenjenog za trajnu uporabu u proizvodnji tlačne opreme, a koji nije obuhvaćen nijednom usklađenom normom;
+– »stavljanje na raspolaganje na tržištu« znači svaka isporuka tlačne opreme ili sklopova za distribuciju ili uporabu na tržištu Europske unije (u daljnjem tekstu: Unije) u okviru trgovačke djelatnosti s plaćanjem ili bez plaćanja;
+– »stavljanje na tržište« znači prvo stavljanje na raspolaganje tlačne opreme ili sklopova na tržištu Unije;
+– »stavljanje u uporabu« znači prvu korisničku uporabu tlačne opreme ili sklopa;
+– »proizvođač« znači svaku fizičku ili pravnu osobu koja proizvodi tlačnu opremu ili sklop ili koja je (projektirala) konstruirala ili proizvela takvu opremu ili sklop i stavlja na tržište tu tlačnu opremu ili sklop pod svojim imenom ili trgovačkim znakom ili ju koristi u vlastite svrhe;
+– »ovlašteni zastupnik« znači svaku fizičku ili pravnu osobu s poslovnim nastanom u Uniji koju je proizvođač pismeno ovlastio da određene zadatke obavlja u njegovo ime;
+– »uvoznik« znači svaku fizičku ili pravnu osobu s poslovnim nastanom u Uniji koja tlačnu opremu ili sklopove iz treće zemlje stavlja na tržište Unije;
+– »distributer« znači svaku fizičku ili pravnu osobu u opskrbnom lancu, različitu od proizvođača ili uvoznika, koja stavlja tlačnu opremu ili sklopove na raspolaganje na tržištu;
+– »gospodarski subjekti« znači proizvođač, ovlašteni zastupnik, uvoznik i distributer;
+– »tehnička specifikacija« znači dokument kojim su propisani tehnički zahtjevi koje tlačna oprema ili sklopovi moraju ispuniti;
+– »usklađena norma« znači usklađena norma kako je utvrđeno u članku 2. stavku 1. točki (c) Uredbe (EU) br. 1025/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o europskoj normizaciji, o izmjeni direktiva Vijeća 89/686/EEZ i 93/15/EEZ i direktiva 94/9/EZ, 94/25/EZ, 95/16/EZ, 97/23/EZ, 98/34/EZ, 2004/22/EZ, 2007/23/EZ, 2009/23/EZ i 2009/105/EZ Europskog parlamenta i Vijeća te o stavljanju izvan snage Odluke Vijeća 87/95/EEZ i Odluke br. 1673/2006/EZ Europskog parlamenta i Vijeća (SL L 316/12, 25. 10. 2012.);
+– »akreditacija« znači akreditacija kako je utvrđeno u članku 2. točki 10. Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (SL L 218/30, 9. 7. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 765/2008);
+– »nacionalno akreditacijsko tijelo« znači nacionalno akreditacijsko tijelo kako je utvrđeno u članku 2. točki 11. Uredbe (EZ) br. 765/2008;
+– »ocjenjivanje sukladnosti« znači postupak kojim se utvrđuje jesu li ispunjeni osnovni sigurnosni zahtjevi iz ovoga Pravilnika koji se odnose na tlačnu opremu ili sklopove;
+– »tijelo za ocjenjivanje sukladnosti« znači tijelo koje obavlja poslove ocjenjivanja sukladnosti uključujući kategorizaciju, ispitivanje, certifikaciju i pregled;
+– »povrat« je svaka mjera usmjerena na postizanje vraćanja tlačne opreme ili sklopova koji su već stavljeni na raspolaganje potrošačima ili ostalim korisnicima;
+– »povlačenje« znači svaka mjera usmjerena na sprečavanje da tlačna oprema ili sklopovi u opskrbnom lancu budu stavljeni na raspolaganje na tržištu;
+– »oznaka CE« znači oznaka kojom proizvođač označuje da su tlačna oprema ili sklop sukladni s primjenjivim zahtjevima utvrđenima zakonodavstvom Unije o usklađivanju kojima je predviđeno njezino

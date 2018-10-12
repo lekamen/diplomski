@@ -1,0 +1,22 @@
+ sudjelovanja u ispitivanju sukladno važećim zakonskim propisima.
+5.8.3. Postupak i način pružanja odštete ispitaniku treba biti sukladan važećim zakonskim propisima.
+5.9. Financiranje
+Financijske aspekte ispitivanja valja dokumentirati sporazumom između naručitelja ispitivanja i ispitivača/ustanove.
+5.10. Obavješćivanje/slanje zahtjeva nadležnim tijelima
+Prije početka kliničkoga ispitivanja, naručitelj ispitivanja (odnosno naručitelj ispitivanja i ispitivač, ako je tako propisano važećim zakonskim propisima) treba odgovarajućim tijelima podnijeti na ocjenu, prihvaćanje i/ili odobrenje (u skladu s važećim zakonskim propisima) potrebne zahtjeve za početak ispitivanja. Svaka obavijest/zahtjev treba biti datirana i sadržavati dovoljno podataka za identifikaciju Plana ispitivanja.
+5.11. Potvrda o ocjeni Povjerenstva
+5.11.1. Naručitelj ispitivanja od ispitivača/ustanove treba dobiti:
+(a) naziv i adresu Povjerenstva zdravstvene ustanove ispitivača;
+(b) izjavu Povjerenstva da su njezin sastav i rad sukladni dobroj kliničkoj praksi te važećim zakonima i propisima;
+(c) dokument s odobrenjem/pozitivnim mišljenjem Povjerenstva te, na naručiteljev zahtjev, aktualni primjerak Plana ispitivanja, obrasca izjave o pristanku te druge pisane obavijesti namijenjene ispitanicima, ovisno o postupcima njihova regrutiranja, kao i dokumentaciju koja se odnosi na naknade ispitanicima i ostale dokumente koje je zatražilo Povjerenstvo.
+5.11.2. Ako Povjerenstvo svoje odobrenje/pozitivno mišljenje uvjetuje promjenama u bilo kojem aspektu ispitivanja kao što su izmjene Plana ispitivanja, Obrasca izjave o pristanku, ostalih pisanih obavijesti namijenjenih ispitanicima i/ili ostalih postupaka, naručitelj ispitivanja od ispitivača/ustanove mora dobiti primjerak dokumenta s izmjenama i datum odobrenja/pozitivnoga mišljenja Povjerenstva.
+5.11.3. Naručitelj ispitivanja od ispitivača/ustanove treba dobiti dokumentaciju i datume ponovnih odobrenja/nadzora Povjerenstva, kao i povlačenja/stavljanja izvan snage odobrenja/pozitivnoga mišljenja.
+5.12. Podaci o ispitivanome proizvodu
+5.12.1. Prilikom planiranja ispitivanja, naručitelj ispitivanja se treba pobrinuti da ima na raspolaganju dovoljno podataka o sigurnosti i učinkovitosti lijeka iz pretkliničkih i/ili kliničkih ispitivanja koji se odnose na izloženost vezanu uz put primjene, doze, trajanje i odgovarajuću populaciju ispitanika.
+5.12.2. Čim stekne uvid u nove podatke, naručitelj ispitivanja je dužan ažurirati Upute za ispitivača.
+5.13. Proizvodnja, pakiranje i označavanje i kodiranje ispitivanoga proizvoda
+5.13.1. Naručitelj ispitivanja se treba pobrinuti da je ispitivani proizvod (uključujući po potrebi i usporedni aktivni lijek i placebo) obilježen sukladno fazi njegova razvoja, da je proizveden sukladno svim važećim dobrim proizvođačkim praksama, da je kodiran i označen na način kojim se, tamo gdje je to potrebno, štiti slijepi postupak. K tome, označavanje treba biti sukladno važećim zakonskim propisima.
+5.13.2. Naručitelj ispitivanja treba navesti odgovarajuće uvjete čuvanja lijeka kao što su temperatura, zaštita od utjecaja svjetlosti, vrijeme čuvanja, zatim po potrebi postupke rekonstitucije tekućina te pribor koji se koristi za infuziju ispitivanoga proizvoda. Naručitelj ispitivanja o ovome treba obavijestiti sve zainteresirane strane (tj. motritelje, ispitivače, ljekarnike, voditelje skladišta).
+5.13.3. Pakovanje ispitivanoga proizvoda treba biti takvo da spriječi njegovu kontaminaciju i neprihvatljive promjene pri prijevozu i skladištenju.
+5.13.4. U slijepim ispitivanjima, sustav označavanja ispitivanoga proizvoda treba sadržavati i mehanizam koji omogućuje brzu identifikaciju lijeka u hitnim slučajevima, ali koji ne dopušta da otkrivanje identiteta ostane neprimijećeno.
+5.13.5. Dođe li u kliničkoj fazi razvoja do značajnih promjena u formulaciji ispitivanoga proizvoda, odnosno usporednoga lijeka, potrebno je prije ispitivanja novih formulacija nabaviti rezultate dodatnih ispitivanja (npr.

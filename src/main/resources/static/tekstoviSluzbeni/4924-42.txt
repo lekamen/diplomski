@@ -1,0 +1,21 @@
+ važnim za sigurnost prometa vlaka strojovođa mora obavijestiti prometnika vlakova u sljedećem kolodvoru sredstvima sporazumijevanja ili neposredno.
+(2) Kada je vidik u daljinu spriječen te se s propisane daljine vidljivosti ne mogu zapaziti signalni znakovi stalnih signala odnosno ručni signalni znakovi izvršnih radnika koji osiguravaju promet na ŽCP-ima ili kolodvorskog osoblja koji se možebitno daju, brzina vlaka se mora prilagoditi prema mogućnostima zapažanja signalnih znakova i signalnih oznaka.
+(3) Za vrijeme vožnje kada je vidik u daljinu spriječen, osobito kod približavanja ŽCP-ima ispred kojih su postavljene pružne opomenice, strojovođa je dužan više puta dati signalni znak »Pazi«.
+Članak 134.
+(1) Ako glavni signal signalizira zabranjenu vožnju, ako je neosvijetljen ili ako signalizira nejasne signalne znakove, strojovođa zaustavlja vlak ispred tog signala, osim ako nije obaviješten o daljnjem postupku. Nakon što zaustavi vlak, strojovođa sredstvima sporazumijevanja u roku od 3 minute od prometnika vlakova mora zatražiti obavijest o uzroku zaustavljanja.
+(2) Uz davanje signalnog znaka »Naprijed« dopušta se prolazak vlaka pokraj glavnog signala koji ne signalizira signalni znak za dopuštenu vožnju u sljedećim slučajevima:
+a) ako se dopuštenje za prolazak pokraj ulaznog ili zaštitnog signala daje neposredno usmeno, nakon obavještavanja daje se signalni znak »Naprijed«, pri čemu obavijest i signalni znak daje izvršni radnik kolodvora ili
+b) ako je strojovođa obaviješten preko prethodnog kolodvora o dopuštenju prolaska pokraj ulaznog ili izlaznog signala, prolazak pokraj odnosnog signala dopušten je uz davanje signalnog znaka »Naprijed« pokraj tog signala.
+(3) Strojovođa smije nastaviti vožnju vlaka bez davanja signalnog znaka »Naprijed« pokraj glavnog signala koji ne signalizira signalni znak za dopuštenu vožnju u sljedećim slučajevima:
+a) ako je strojovođa sredstvima dokaznog sporazumijevanja dobio dopuštenje za prolazak pokraj glavnog signala na prugama s TK-uređajem
+b) ako je pisanim nalogom dopušten prolazak pokraj prostornog signala na prugama opremljenim uređajem APB ili TK-uređajem pri čemu se propisuju i uvjeti vožnje iza signala
+c) ako je u kolodvoru u kojem se nalazi odnosni izlazni signal pisanim nalogom ili sredstvima dokaznog sporazumijevanja dopušten prolazak pokraj tog signala.
+Članak 135.
+(1) Ako je u voznom redu u kolodvoru označena promjena brzine s veće na manju, strojovođa je dužan brzinu vlaka tijekom vožnje glavnim prolaznim kolosijekom smanjivati tako da nailaskom čela vlaka na posljednju izlaznu skretnicu brzina vlaka bude najviše onolika kolika je najveća dopuštena brzina vlaka za nastavak vožnje.
+(2) Ako je u voznom redu u kolodvoru označena promjena brzine s manje na veću, strojovođa je dužan, nakon što posljednje vozilo u vlaku napusti ulazno skretničko područje, brzinu vlaka tijekom vožnje glavnim prolaznim kolosijekom povećavati tako da ona bude najviše onolika kolika je najveća dopuštena brzina vlaka za nastavak vožnje.
+Dužnosti osoblja vlaka kod sporazumijevanja sa susjednim kolodvorima odnosno dispečerom
+Članak 136.
+(1) U slučaju potrebe, osoblje vlaka sporazumijeva se s prometnicima vlakova susjednih kolodvora ili prometnim dispečerom, a na TK-prugama s TK-dispečerom preko RDU-a ili drugog sredstva sporazumijevanja.
+(2) Komunkacija između strojovođe i prometnika vlakova sljedećeg kolodvora može se uspostaviti preko RDU-a uz pomoć dispečera koji mora pouzdano utvrditi identitet traženog kolodvora, a zatim uspostaviti vezu sa strojovođom.
+(3) Nakon uspostavljanja veze, strojovođa mora dati sljedeće podatke: broj vlaka, mjesto zaustavljanja (broj signala, kilometarski položaj ŽCP-a ili pruge), uzrok zaustavljanja, ime i prezime.
+(4) Prometnik vlakova nakon primitka obavijesti mora reći puni naziv kolodvora i svoje ime i prezime. Ako je to potrebno, mora se sporazumjeti s prometnikom vlakova prethodnog kolodvora o potrebnim mjerama i zatim dati zapovijed strojovođi o daljnjem postupku.

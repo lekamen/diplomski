@@ -1,0 +1,26 @@
+ kupac iz kategorije poduzetništvo na mreži visokog i vrlo visokog napona te na mreži srednjeg napona operatoru sustava prijavljuje za razdoblje od jedne kalendarske godine vrijednosti planiranih vršnih radnih snaga po obračunskim razdobljima odgovarajućom primjenom odredbi članka 74. stavaka 1. i 2. ovih Općih uvjeta, a najviše do zbroja priključnih snaga iz elektroenergetske suglasnosti za pojedinu naponsku razinu, na način uređen ugovorom o korištenju mreže, s time da prijavljene vrijednosti trebaju biti dodaci navedenom ugovoru.
+(3) Ako krajnji kupac iz stavaka 1. i 2. ovoga članka operatoru sustava ne prijavi vrijednost planirane vršne radne snage za iduće obračunsko razdoblje, primjenjivat će se vrijednost planirane vršne radne snage iz odgovarajućeg obračunskog razdoblja iz prethodne kalendarske godine.
+(4) Krajnji kupac iz stavaka 1. i 2. ovoga članka može najkasnije 24 sata prije početka obračunskog razdoblja operatoru sustava pisanim putem prijaviti novu vrijednost planirane vršne radne snage za obračunsko razdoblje.
+(5) Krajnji kupac iz stavaka 1. do 4. ovoga članka može najkasnije 24 sata prije promjene vrijednosti planirane vršne radne snage, operatoru sustava pisanim putem prijaviti novu vrijednost planirane vršne radne snage u tekućem obračunskom razdoblju.
+(6) Vrijednost obračunske vršne radne snage u obračunskom razdoblju za krajnjeg kupca iz stavaka 1. do 3. ovoga članka određuje se na sljedeći način:
+– ako je vrijednost vršne radne snage između 70% i 130% vrijednosti planirane vršne radne snage, vrijednost obračunske vršne radne snage jednaka je vrijednosti vršne radne snage,
+– ako je vrijednost vršne radne snage veća od 130% vrijednosti planirane vršne radne snage, vrijednost obračunske vršne radne snage jednaka je vrijednosti vršne radne snage uvećane za 50% vrijednosti razlike između vrijednosti vršne radne snage i 130% vrijednosti planirane vršne radne snage i
+– ako je vrijednost vršne radne snage manja od 70% vrijednosti planirane vršne radne snage, vrijednost obračunske vršne radne snage jednaka je 70% vrijednosti planirane vršne radne snage.
+(7) Ako tijekom obračunskog razdoblja krajnji kupac iz stavaka 1. do 3. ovoga članka nije u mogućnosti koristiti planiranu vršnu radnu snagu zbog više sile ili iznimnog događaja, obračunska vršna radna snaga iz stavka 6. ovoga članka korigira se razmjerno broju dana korištenja mreže.
+IX. PRIKUPLJANJE I OBRAĐIVANJE MJERNIH PODATAKA S OBRAČUNSKIH MJERNIH MJESTA KORISNIKA MREŽE
+Članak 48.
+(1) Predana i/ili preuzeta električna energija mjeri se brojilima na obračunskom mjernom mjestu korisnika mreže.
+(2) Operator sustava je zadužen za očitanje, prikupljanje i obrađivanje mjernih podataka.
+(3) Količinu predane i/ili preuzete električne energije utvrđuje operator sustava na temelju početnih i završnih stanja brojila u obračunskom razdoblju ili dijelu obračunskog razdoblja.
+Članak 49.
+(1) Operator sustava odgovoran je za točnost očitanih mjernih podataka, čiju valjanost potvrđuje pohranjivanjem u bazu mjernih podataka te se time podaci smatraju potvrđenim za obračun.
+(2) Baza mjernih podataka iz stavka 1. ovoga članka sadrži podatke na razini obračunskih mjernih mjesta.
+(3) Operator sustava odgovoran je za upravljanje očitanim i potvrđenim mjernim podacima iz stavka 1. ovoga članka, što podrazumijeva:
+– pohranjivanje mjernih podataka u bazu mjernih podataka,
+– procjenu mjernih podataka,
+– ispravak mjernih podataka,
+– obradu potvrđenih mjernih podataka u formu za obračun,
+– osiguranje dostupnosti i/ili dostave obrađenih mjernih podataka korisniku mjernih podataka.
+(4) Podaci iz baze mjernih podataka moraju biti pohranjeni najmanje tri godine u računalnom formatu pogodnom za pristup bazi mjernih podataka i sedam sljedećih godina u računalnom formatu za arhiviranje, dok se u slučaju vođenja sudskog postupka podaci čuvaju do njegovog okončanja.
+Članak 50.
+(1) Korisnik mreže ima pravo na pristup samo svojim mjernim podacima i/ili na dostavu samo svojih mjernih podataka iz

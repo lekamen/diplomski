@@ -1,0 +1,25 @@
+ izvještajima kako bi mogao provoditi motrenje i nadzor ispitivanja, odnosno kako bi domaće ili strano nadležno tijelo moglo provesti inspekciju.
+5.1.3. Kakvoću valja kontrolirati na svakom stupnju rukovanja podacima radi osiguranja njihove pouzdanosti i pravilne obrade.
+5.1.4. Sporazumi između naručitelja ispitivanja i ispitivača/ustanove i drugih strana uključenih u kliničko ispitivanje trebaju biti u pismenom obliku kao sastavni dio Plana ispitivanja ili kao poseban sporazum.
+5.2. Ugovorna istraživačka organizacija (UIO)
+5.2.1. Sve svoje obveze i zadaće ili njihov dio naručitelj ispitivanja može prenijeti na ugovornu istraživačku organizaciju, s time da krajnju odgovornost za kakvoću i potpunost rezultata ispitivanja i dalje snosi naručitelj ispitivanja. Posao UIO je provesti postupke osiguranja i kontrole kakvoće.
+5.2.2. Svaku obvezu i zadaću vezanu uz ispitivanje koja se prenosi na UIO valja pojedinačno navesti u pisanom obliku.
+5.2.3. Naručitelj ispitivanja zadržava one obveze i zadaće koji nisu izričito prenijeti na UIO.
+5.2.4. Sve što se u ovim Smjernicama odnosi na naručitelja ispitivanja vrijedi i za UIO u onoj mjeri u kojoj je UIO preuzeo obveze i zadaće od naručitelja ispitivanja.
+5.3. Stručno liječničko mišljenje
+Treba odrediti zdravstveno osoblje s odgovarajućim kvalifikacijama koje će uvijek moći dati svoje stručno mišljenje o pitanjima i problemima vezanim uz ispitivanje. Bude li potrebno, naručitelj u tu svrhu može postaviti i savjetnike izvana.
+5.4. Plan ispitivanja
+5.4.1. Naručitelj ispitivanja treba u skladu s potrebama angažirati kvalificirane osobe (npr. biostatističare, kliničke farmakologe i doktore medicine u svim fazama ispitivanja, od izrade Plana ispitivanja i test-lista, preko planiranja analize, do analize i pripreme privremenih i konačnih kliničkih izvještaja o ispitivanju.
+5.4.2. Za daljnje upute vidi 6. Plan kliničkoga ispitivanja i njegove izmjene i dodaci, ICH-ove Smjernice za sastavljanje i sadržaj izvještaja o kliničkom ispitivanju te druge ICH-ove Upute vezane uz planiranje ispitivanja, izradu Plana ispitivanja i provođenje ispitivanja.
+5.5. Upravljanje ispitivanjem, rukovanje podacima i vođenje evidencije
+5.5.1. Naručitelj ispitivanja treba angažirati kvalificirane osobe da nadgledaju cjelokupno provođenje ispitivanja, upravljaju dobivenim podacima, provjeravaju njihovu točnost, provode statističke analize i pripremaju izvještaje.
+5.5.2. Naručitelj ispitivanja može postaviti nezavisno povjerenstvo za motrenje podataka radi povremene ocjene napretka kliničkoga ispitivanja, uključujući podatke o sigurnosti i ključne parametre učinkovitosti lijeka te radi preporuke treba li naručitelj ispitivanja nastaviti ispitivanje, izmijeniti ga ili zaustaviti. Nezavisno povjerenstvo za motrenje podataka treba u pismenome obliku definirati postupke rada (operativne postupke) te čuvati bilješke sa svih svojih sastanaka.
+5.5.3. Pri rukovanju elektroničkim podacima izravno ili putem sustava za njihovo upravljanje na daljinu, naručitelj ispitivanja treba:
+(a) osigurati i evidentirati sukladnost sustava obrade elektroničkih podataka sa zahtjevima naručitelja ispitivanja potpunosti, točnosti, pouzdanosti i dosljednosti obrade (tj. validacije);
+(b) imati standardne operativne postupke za uporabu ovih sustava;
+(c) pobrinuti se da su sustavi osmišljeni tako da omogućuju izmjenu podataka na način da je svaka izmjena evidentirana te da nema mogućnosti brisanja unesenih podataka (tj. da se čuva trag nadzoru, podatkovni trag i trag njihova uređivanja);
+(d) brinuti se za sigurnost sustava kojim se sprječava neovlašteni pristup podacima;
+(e) čuvati popis osoba koje su ovlaštene mijenjati podatke (vidi 4.1.5. i 4.9.3.);
+(f) čuvati kopiju podataka radi zaštite od njihova gubitka;
+(g) ako je ispitivanje slijepo, zaštiti njegovu sljepoću (npr. pri unosu i obradi podataka).
+5.5.4. Dođe li do promjene podataka za vrijeme njihove obrade, uvijek valja ostaviti mogućnost usporedbe izvornih podataka i primjedbi s obrađenim

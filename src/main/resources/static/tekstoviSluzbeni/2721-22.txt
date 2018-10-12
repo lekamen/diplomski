@@ -1,0 +1,27 @@
+ postupkom Europske komisije da se broj rutinskih seroloških testova može smanjiti pod uvjetom da se sva goveda starija od 12 mjeseci u najmanje 1% stada, odabrana slučajnim uzorkom svake godine, podvrgnu testu koji se provodi u skladu s Poglavljem II. ovoga Dodatka.
+G. Status države članice ili dijela države članice službeno slobodne od enzootske leukoze goveda obustaviti će se u skladu s posebnim postupkom Europske komisije, ako, kao rezultat ispitivanja provedenog u skladu sa točkom F. ovoga Poglavlja, postoji dokaz o značajnoj promjeni situacije s obzirom na enzootsku leukozu goveda u državi članici ili dijelu države članice koja je priznata kao službeno slobodna od enzootske leukoze goveda.
+Status službeno slobodne od enzootske leukoze goveda može se ponovno dodijeliti u skladu s posebnim postupkom Europske komisije kad se kriteriji predviđeni istim postupkom ispune.
+Poglavlje II TESTOVI ZA ENZOOTSKU LEUKOZU GOVEDA
+Testovi za enzootsku leukozu goveda provode se u skladu s važećim Priručnikom za norme dijagnostičkih testova i cjepiva OIE-a (OIE Manual of Standards for Diagnostic Tests and Vaccines).
+Testovi za enzootsku leukozu goveda provode se agar gel immune-diffusion testom (AGID), prema uvjetima opisanim u točkama A. i B. ovoga Poglavlja ili s pomoću enzyme-linked immunosorbent assay imunoenzimski test (ELISA) prema uvjetima opisanim pod točkom C. ovoga Poglavlja. Metoda imune difuzije »immune diffusion« može se koristiti samo za pojedinačne testove. Ako rezultati testova podliježu valjano potkrijepljenoj kritici, dodatna se provjera provodi s pomoću imunodifuzionog »immune-diffusion« testa.
+AGID i ELISA moraju biti normirani prema normiranom serumu (E05 serum), koji se nabavlja u Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, OIE Reference Laboratory for Enzootic Bovine Leukosis (EBL), Südufer 10, 17493 Greifswald – Insel Riems, Germany.
+A. Agar gel imunodifuzioni »Agar gel immune-diffusion« test za enzootsku leukozu goveda
+1. Antigen koji se koristi u testu mora sadržavati virus glikoproteina leukoze goveda. Antigen mora biti normiran prema normiranom serumu E05.
+2. Državni instituti, nacionalni referentni laboratorij ili službeni laboratoriji određeni u skladu s člankom 6. stavcima 4. i 5. ovoga Pravilnika za usklađivanje normi i metoda dijagnoze enzootske leukoze goveda odgovorni su za normiranje standardnog radnog antigena u laboratoriju prema normiranom serumu (E05 serum).
+3. Normirani antigeni koji se koriste u laboratoriju moraju se najmanje jednom godišnje podnijeti državnim institutima, nacionalnim referentnim laboratorijima ili službenim laboratorijima određenim u skladu s člankom 6. stavcima 4. i 5. ovoga Pravilnika na testiranje na službeni normirani serum. Osim ove normizacije, antigen koji se koristi može se umjeravati u skladu s točkom B. ovoga Poglavlja.
+4. Reagensi za test sastoje se od:
+a) antigena: antigen mora sadržavati specifične glikoproteine virusa enzootske leukoze goveda koji je normiran prema službenom serumu EEZ,
+b) seruma testa,
+c) poznatog pozitivnog kontrolnog seruma,
+d) gela agara:
+0,8% agara
+8,5% NaCl
+0,05 M Tris-buffer pH 7,2
+15 ml tog agara mora se unijeti u Petrijevu posudicu promjera 85 mm, s rezultatom od 2,6 mm dubine agara.
+5. Obrazac od sedam bunarčića slobodnih od vlage raspoređuje se u agar do dna posude; obrazac se sastoji od središnjeg bunarčića te šest bunarčića smještenih kružno oko središnjeg.
+Promjer središnjeg bunarčića: 4 mm
+Promjer perifernih bunarčića: 6 mm
+Udaljenost između središnjeg i perifernih bunarčića: 3 mm.
+6. Središnji se bunarčić ispunjava normiranim antigenom. Periferni bunarčići 1 i 4 (vidi dijagram) ispunjavaju se poznatim pozitivnim serumom, bunarčići 2, 3, 5 i 6 ispunjavaju se serumima testa. Bunarčići se moraju puniti dok se ne izgubi menisk stupa tekućine.
+7. Kao rezultat toga dobivaju se sljedeće količine: 32 µl antigena; 73 µl kontrolnog seruma; 73 µl testnog seruma.
+8. Inkubacija traje 72 sata na sobnoj temperaturi

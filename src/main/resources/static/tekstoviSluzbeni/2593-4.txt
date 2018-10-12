@@ -1,0 +1,32 @@
+ u više od tri reda u visinu.
+(5) Plovila za prijevoz putnika ne smiju ukrcati veći broj putnika od dopuštenog broja koji su odredila nadležna tijela. Brzi brod za prijevoz putnika ne smije ukrcati veći broj putnika od broja raspoloživih sjedišta na plovilu.
+Članak 1.08 – Konstrukcija, opremanje i posada plovila
+(1) Plovila i plutajuća tijela trebaju biti konstruirana i opremljena na način da omoguće sigurnost osoba i tereta na njima, sigurnost plovidbe i da su u skladu s odredbama ovoga Pravilnika i drugih važećih propisa.
+(2) Sva plovila, izuzimajući plovila potiskivanog sastava osim potiskivača, moraju imati dovoljno brojnu i kvalificiranu posadu, tako da se jamči sigurnost osoba i tereta na plovilu kao i sigurnost plovidbe. Međutim, plovila u bočnim sastavima koja nemaju svoj pogon i neka tegljena plovila u čvrsto povezanom sastavu ne moraju imati posadu ukoliko je posada plovila koje pokreće bočni sastav ili čvrsto povezan tegljeni sastav ili ih može održavati zaustavljene na siguran način, dovoljno brojna i kvalificirana da jamči sigurnost ukrcanih osoba kao i sigurnost plovidbe.
+(3) Smatrat će se da su zahtjevi iz stavka 1. i 2. ovoga članka zadovoljeni kada plovilo posjeduje svjedodžbu o sposobnosti za plovidbu koja je izdana sukladno propisima koji su na snazi ili neku drugu priznatu svjedodžbu i kada konstrukcija i oprema plovila odgovara sadržaju svjedodžbe.
+(4) Bez obzira na odredbe stavka 3. ovoga članka, osobna oprema za spašavanje navedena u rubrici br. 44 Svjedodžbe o sposobnosti za plovidbu mora biti dostupna za distribuciju i prema količini mora biti identična broju odraslih i djece putnika.
+Članak 1.09 – Kormilarenje
+(1) Za vrijeme plovidbe plovilom mora kormilariti barem jedna stručno osposobljena osoba starija od 16 godina.
+(2) Odredba stavka 1. ovoga članka ne odnosi se na čamce bez vlastitog pogonskog uređaja.
+(3) Da bi se osigurala pravilna kontrola plovila, kormilar mora biti u mogućnosti primati i davati sve informacije i naredbe iz kormilarnice. Posebno mora biti u mogućnosti čuti zvučne znakove i imati jasan pregled u svim pravcima.
+(4) Kada posebne okolnosti to zahtijevaju, mora se postaviti promatračka postaja ili postaja za osluškivanje radi izvještavanja zapovjednika i kormilara.
+(5) Za vrijeme plovidbe, svim brzim brodovima mora kormilariti jedna osoba s navršenih najmanje 21 godinu koja posjeduje odgovarajuće kvalifikacije predviđene člankom 1.02 stavkom 1. i svjedodžbu iz članka 4.06 stavka 1. točka (b) ovoga Pravilnika. Isto tako u kormilarnici se, osim za vrijeme manevra privezivanja i odvezivanja te u prevodnicama i u njihovim predpristaništima, mora nalaziti još jedna osoba s istim kvalifikacijama.
+(6) U Republici Hrvatskoj se primjenjuje i članak 11.02 ovoga Pravilnika.
+Članak 1.10 – Isprave i knjige plovila i ostala dokumentacija
+(1) Sljedeće isprave i knjige moraju se nalaziti na plovilu:
+a) Svjedodžba plovila unutarnje plovidbe,
+b) Svjedodžba o baždarenju, po mogućnosti,
+c) Popis posade, na plovilima s posadom,
+d) Brodski dnevnik, samo za motorna plovila, osim za plovila registrirana u državama u kojima nije propisan brodski dnevnik, sa zapisima o vremenu rada i odmora članova posade,
+e) Svjedodžba zapovjednika ili svjedodžbe zapovjednika, a za ostale članove posade brodarske knjižice te svjedodžbe ako je primjenjivo na plovilima s posadom,
+f) Svjedodžba za upravljanje plovilom pomoću radara, na plovilu koje plovi pomoću radara,
+g) Potvrda o ugradnji i ispravnosti radarskog uređaja i pokazivača otklona,
+h) Potvrda o ugradnji i ispravnosti AIS opreme,
+i) Svjedodžba za rukovanje radiotelefonskim uređajem prema međunarodnim i regionalnim sporazumima,
+j) Dozvola za upotrebu radijske frekvencije, ako je propisana,
+k) Radio dnevnik, ako je propisan,
+l) Knjiga o uljima,
+m) Potvrda o ispitivanju kotlova i posuda pod tlakom,
+n) Potvrda za ispitivanje instalacija tekućeg plina,
+o) Potvrda o ispitivanju električnih uređaja,
+p) Potvrda o ispravnosti prijenosnih protupožarnih aparata i stabilnog

@@ -1,0 +1,20 @@
+ elektrotehničkih i elektroničkih sustava te sustava upravljanja i objasniti ih UKUPNO (PREDAVANJA + VJEŽBE) 3,0 2,0 UKUPNO 5,0
+Napomena: Tijekom provođenja programa izobrazbe, pomorska učilišta mogu koristiti odgovarajuće predloške Međunarodne pomorske organizacije (IMO Model Course)
+Prilog D49B – Visoki napon – upravljačka razina
+Stupac 1. Stupac 2. Stupac 3. Stupac 4. Stupac 5 Sposobnost Znanje, razumijevanje i vještine Način dokazivanja sposobnosti Mjerila za ocjenjivanje sposobnosti Broj sati Predavanja Vježbe Obilježja dizajna visokonaponskih instalacija Proizvodnja i distribucija visokog napona na brodovima Električni pogonski sustav Sinkro konvertori i ciklo konvertori Funkcionalni, operativni i sigurnosni zahtjevi za visokonaponski sustav Imenovanje osposobljenog osoblja za održavanje i popravak različitih visokonaponskih sklopnih uređaja Prednosti visokonaponskih sustava Prednosti izoliranog sustava Prekidači strujnih krugova visokonaponskih sustava Visokonaponski kabel Visokonaponski osigurači Korektivne mjere koje je potrebno poduzeti tijekom kvarova visoko naponskog sustava Način uključivanja izoliranih komponenti visokonaponskih sustava Izbor prikladne aparature za izolaciju i ispitivanje visokog napona Postupci uključivanja i izolacije visokonaponskih sustava, uključujući sigurnosnu dokumentaciju Karakteristike otpora izolacije i polarizacijski indeks visokonaponske opreme Praktične vježbe, pomoću potvrđene opreme Rukovanje opremom i sustavom u skladu je s radnim priručnicima Razine rezultata u skladu su s tehničkim specifikacijama 11,0 9,0 Sigurnost pri radu s visokonaponskih instalacija Upotreba osobne sigurnosne opreme: Izolirane rukavice, zaštite naočale, izolirane trake, izolirana obuća, spojnice, kablovi za uzemljenje, visokonaponski testeri Poznavanje uvjeta za certifikaciju osobne zaštitne opreme Visokonaponski sigurnosni postupci: – dopuštenje i koordinacija rad na visokonaponskim sustavima – informacija, upozorenje i zaštita od neovlaštenog utjecaja na sigurnost – pomoć pri radu na visokonaponskim sustavima – provjera postojanja napona prije početka rada Praktične vježbe, pomoću potvrđene opreme Rukovanje opremom i sustavom u skladu je s radnim priručnicima Razine rezultata u skladu su s tehničkim specifikacijama 1,0 1,0 UKUPNO (PREDAVANJA + VJEŽBE) 12,0 10,0 UKUPNO 22,0
+Napomena: Tijekom provođenja programa izobrazbe, pomorska učilišta mogu koristiti odgovarajuće predloške Međunarodne pomorske organizacije (IMO Model Course)«
+Članak 51.
+Prilog F mijenja se i glasi:
+»F1 SLUŽBA PALUBE
+  Svjedodžba o osposobljenosti nižeg zvanja Osnovna svjedodžba o osposobljenosti   1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. .14. 15. 16. 17. 18. 1.   √ √ √ √ √ √ √ √ √ √ √ √ √ √       2.     √ √ √ √ √ √ √ √ √ √ √ √ √       3.       √ √ √ √ √ √ √ √ √ √ √ √       4.         √ √ √ √ √ √ √ √ √ √ √       5.           √ √ √ √ √ √ √ √ √ √       6.             √ √ √ √ √ √ √ √ √       7.               √ √ √ √       √       8.                 √ √ √       √       9.                   √ √               10.                     √               11.                                     12.           √ √ √ √ √ √   √ √ √       13.               √ √ √ √     √ √       14.                 √ √ √       √       15.                 √ √ √               16.                                  √  √ 17.                                   18.                                  
+Tumač:
+1. Zapovjednik broda od 3000 BT ili većeg (STCW II/2)
+2. Prvi časnik palube na brodu od 3000 BT ili većem (STCW II/2)
+3. Zapovjednik broda do 3000 BT (STCW II/2)
+4. Prvi časnik palube na brodu do 3000 BT (STCW II/2)
+5. Časnik plovidbene straže na brodu od 500 BT ili većima (STCW II/1)
+6. Zapovjednik broda do 500 BT u priobalnoj plovidbi (STCW II/3)
+7. Časnik odgovoran za plovidbenu stražu na brodu do 500 BT u priobalnoj plovidbi (STCW II/3)
+8. Zapovjednik broda do 200 BT u nacionalnoj plovidbi (HR II/2)
+9. Zapovjednik broda do 50 BT u nacionalnoj plovidbi (HR II/1)
+10. Stariji

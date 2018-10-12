@@ -1,0 +1,33 @@
+ nepotpuni ili neodgovarajućeg sadržaja), biti će odbijeni.
+(4) Kriteriji koji će se koristiti za procjenu ekonomske održivosti projekta su sljedeći:
+a) razdoblje povrata investicije ne duže od ekonomskog vijeka trajanja projekta bez ostatka vrijednosti projekta,
+b) neto sadašnja vrijednost jednaka ili veća od 0 uz korištenje diskontne stope ne manje od kamatne stope kredita i ne manje od 5 posto,
+c) interna stopa rentabilnosti veća od kamatne stope kredita te veća od 5 posto,
+d) likvidnost projekta – kumulativ financijskog tijeka mora biti pozitivan od prve do posljednje godine ekonomskog vijeka projekta.
+(5) Podaci navedeni u poslovnom planu podložni su provjerama nadležnih institucija i nakon isplate EPFRR sredstava, i to u periodu od pet godina nakon konačne isplate EPFRR potpore.
+JAVNA NABAVA
+Članak 22.
+(1) Postupak javne nabave za nabavu roba, radova ili usluga u provedbi mjera propisanih ovim Pravilnikom provodi se prema Zakonu o javnoj nabavi. Postupak javne nabave provodi se prije podnošenja Zahtjeva za potporu. Postupak javne nabave obvezni su provesti oni korisnici koji su obveznici provedbe postupka javne nabave prema Zakonu o javnoj nabavi i podzakonskim propisima temeljem Zakona o javnoj nabavi.
+(2) Kontrolni mehanizmi koje temeljem ovoga Pravilnika provodi Agencija za plaćanja ne mogu se smatrati kontrolnim mehanizmima u smislu Zakona o javnoj nabavi. Kontrole Agencije za plaćanja ne mogu rezultirati formalno pravnim posljedicama propisanim Zakonom o javnoj nabavi.
+(3) Agencija za plaćanja kontrolira i odobrava provedeni postupak javne nabave.
+(4) Korisnik je u obvezi dostaviti dokumentaciju iz postupka javne nabave u elektronskom obliku na CD-u/DVD-u prilikom podnošenja Zahtjeva za potporu. Popis dokumentacije te način predaje dokumentacije na elektronskom mediju je Prilog ovoga Pravilnika.
+(5) Ukoliko je potrebno tražiti dodatna obrazloženja vezano uz dostavljenu dokumentaciju, Agencija za plaćanja će putem elektroničke pošte od korisnika tražiti obrazloženje.
+(6) Korisnik je dužan u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanje dostaviti obrazloženje.
+RANGIRANJE ZAHTJEVA ZA POTPORU
+Članak 23.
+(1) Nakon zaprimanja Zahtjeva za potporu, Zahtjevima se dodjeljuju bodovi temeljem kriterija odabira iz Priloga III. ovoga Pravilnika.
+(2) Ukoliko korisnik prilikom podnošenja Zahtjeva za potporu ne učita dokumentaciju na temelju koje se dodjeljuju bodovi sukladno kriterijima odabira, Zahtjevu se neće dodijeliti bodovi za određeni kriterij odabira što će rezultirati manjim ukupnim brojem bodova.
+(3) Nakon administrativne kontrole pristiglih Zahtjeva za potporu, za sve potpune, pravovremene i prihvatljive Zahtjeve za potporu formira se Rang lista u skladu s kriterijima odabira koji su navedeni u Prilogu III. ovoga Pravilnika i čine njegov sastavni dio.
+(4) U slučaju da dva ili više Zahtjeva za potporu imaju isti broj bodova prednost na Rang listi imaju Zahtjevi s ranijim vremenom podnošenja Zahtjeva za potporu na Natječaj (datum, sat, minuta, sekunda).
+(5) Ukoliko dva ili više Zahtjeva za potporu imaju jednaki broj bodova i jednako vrijeme podnošenja Zahtjeva za potporu, a navedeno uvjetuje dodjelu potpore provest će se postupak izvlačenja slučajnim odabirom, u prisutnosti javnog bilježnika.
+IZDAVANJE ODLUKA
+Članak 24.
+(1) U slučaju kada se nakon zaprimanja svih Zahtjeva za potporu i provjere ukupnog traženog iznosa potpore utvrdi da ima dovoljno raspoloživih sredstava, Agencija za plaćanja će izdati Odluke po završetku administrativne kontrole svakog pojedinačnog Zahtjeva za potporu.
+(2) Agencija za plaćanja će nakon obrade Zahtjeva za potporu donijeti:
+a) Odluku o dodjeli sredstava, u slučaju:
+– ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i Natječajem.
+b) Odluku o odbijanju, u slučaju:
+– neispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i Natječajem,
+– nepravovremeno podnesenih Zahtjeva za potporu,
+– nepotpunih Zahtjeva za potporu,
+– nepravovremeno

@@ -1,0 +1,22 @@
+ Pravilniku i na propisanim obrascima izrađivati izvješća.
+(2) Na ovlaštenu pravnu osobu na odgovarajući način se primjenjuju odredbe posebnog propisa i Zakona koje se odnose na ovlaštene osobe koje provode energetske preglede i energetsko certificiranje zgrada.
+IV. REGISTAR OVLAŠTENIH PRAVNIH OSOBA ZA KONTROLU ENERGETSKOG CERTIFIKATA I/ILI IZVJEŠĆA O REDOVITOM PREGLEDU SUSTAVA GRIJANJA I SUSTAVA HLAĐENJA ILI KLIMATIZACIJE U ZGRADI
+Članak 15.
+(1) Registar ovlaštenih pravnih osoba ustrojava i vodi Ministarstvo u elektroničkom i u pisanom obliku.
+(2) Registar se vodi prema obrascu iz Priloga 6 ovoga Pravilnika.
+(3) Registar sadrži: klasifikacijski broj, urudžbeni broj i datum davanja ovlaštenja, naziv pravne osobe, osobni identifikacijski broj, adresu sjedišta, broj telefona, vrstu ovlaštenja, ime i prezime odgovorne osobe u pravnoj osobi i njezin osobni identifikacijski broj, imena i prezimena, stručni naziv i akademski stupanj odnosno akademski ili stručni naziv ili akademski stupanj i osobne identifikacijske brojeve fizičkih osoba zaposlenih u ovlaštenoj osobi koje provode kontrolu energetskog certifikata i/ili kontrolu izvješća o redovitim pregledima sustava grijanja i sustava hlađenja ili klimatizacije s podacima o njihovom osposobljavanju i usavršavanju, ime i prezime, stručni naziv i akademski stupanj odnosno akademski ili stručni naziv ili akademski stupanj i osobni identifikacijski broj imenovane osobe koja potpisuje izvješća o provedenim kontrolama energetskog certifikata i/ili izvješća o redovitim pregledima sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, te odjeljak za napomene i upis promjena bitnih za obavljanje poslova za koje je pravna osoba ovlaštena.
+(4) Izvadak iz Registra može se objaviti na službenim internetskim stranicama Ministarstva.
+V. PROVOĐENJE KONTROLE
+Sustav kontrole
+Članak 16.
+(1) Ministarstvo provodi kontrolu energetskih certifikata i/ili izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradama.
+(2) Ministarstvo će pisanim putem obavijestiti fizičku odnosno pravnu osobu ovlaštenu za energetsko certificiranje i energetski pregled zgrade, odnosno redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, koja je izradila energetski certifikat zgrade, odnosno izvješće o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi koji je predmet kontrole, o pokretanju postupka kontrole te pozvati da Ministarstvu dostavi dokumentaciju potrebnu za provedbu kontrole.
+(3) Energetski certifikati i izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradama za kontrolu odabiru se na jedan od sljedećih načina:
+– slučajnim odabirom od ukupnog broja izdanih energetskih certifikata, certifikata određenog energetskog razreda te certifikata određene vrste i namjene zgrade,
+– slučajnim odabirom od ukupnog broja izvješća o redovitim pregledima sustava grijanja i sustava hlađenja ili klimatizacije u zgradi,
+– prema pritužbi.
+(4) Ministarstvo, na temelju slučajnog odabira, najmanje jednom u pet godina za svaku ovlaštenu fizičku i ovlaštenu pravnu osobu za energetsko certificiranje i energetski pregled zgrade s jednostavnim tehničkim sustavom, odnosno za energetsko certificiranje i energetski pregled zgrade sa složenim tehničkim sustavom odnosno za energetski pregled zgrade sa složenim tehničkim sustavom provodi kontrolu najmanje jednog energetskog certifikata i/ili izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi.
+Sadržaj kontrole
+Članak 17.
+(1) Kontrolom energetskog certifikata zgrade ovlaštena pravna osoba provjerava sadržaj izvješća o provedenom energetskom pregledu zgrade, valjanost i potpunost ulaznih podataka, ispravnost i točnost energetskog certifikata, izračuna i predloženih mjera za poboljšanje energetskih svojstava zgrade.
+(2) Kontrolom izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi,

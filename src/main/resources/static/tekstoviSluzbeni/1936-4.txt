@@ -1,0 +1,31 @@
+ energije
+Članak 6.
+(1) Za potrebe izvještavanja i statističkih obrada koji se rade prema ovome Zakonu te klasifikaciji postrojenja obnovljivi izvori energije dijele se na sljedeće:
+1. energiju sunca
+2. energiju vjetra
+3. hidroenergiju
+4. geotermalnu energiju
+5. energiju biomase te
+6. nespecificirane i ostale obnovljive izvore energije.
+(2) Za potrebe izvještavanja i statističkih obrada koji se rade prema ovome Zakonu te klasifikaciji postrojenja fosilna goriva dijele se na sljedeća goriva:
+1. kameni ugljen
+2. smeđi ugljen i lignit
+3. prirodni plin
+4. naftu i naftne derivate te
+5. nespecificirana i ostala fosilna goriva.
+(3) Za potrebe provedbe ovoga Zakona ministar će pravilnikom iz članka 25. ovoga Zakona detaljno razraditi klasifikaciju proizvodnih postrojenja ovisno o vrsti izvora, tehnologiji i instaliranoj snazi proizvodnog postrojenja.
+II. NACIONALNI CILJ KORIŠTENJA ENERGIJE IZ OBNOVLJIVIH IZVORA ENERGIJE, NACIONALNI AKCIJSKI PLAN ZA OBNOVLJIVE IZVORE ENERGIJE, IZVJEŠĆE O NAPRETKU PRI POTICANJU I UPORABI ENERGIJE IZ OBNOVLJIVIH IZVORA
+Nacionalni cilj korištenja energije iz obnovljivih izvora energije
+Članak 7.
+(1) Nacionalni cilj korištenja energije iz obnovljivih izvora energije je obvezatni cilj korištenja energije iz obnovljivih izvora energije u Republici Hrvatskoj u 2020. godini, a određuje se kao minimalni udjel energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije (u daljnjem tekstu: Nacionalni cilj), koji izražen u postotku iznosi 20%.
+(2) Način utvrđivanja udjela energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije u Republici Hrvatskoj odredit će se sukladno metodologiji utvrđivanja udjela energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije.
+(3) Proizvodnja energije, iz postrojenja koja koriste obnovljive izvore energije a nisu priključena na elektroenergetsku mrežu, uračunava se kao energija iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije.
+(4) U proizvodnim postrojenjima koja koriste više izvora energije od kojih i obnovljive izvore energije, u svrhu izračuna udjela energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije, u obzir se uzima samo udio električne energije proizvedene iz obnovljivih izvora energije. Za potrebe tog izračuna doprinos svakog izvora energije izračunava se na temelju njegova energetskog sadržaja.
+(5) Ako Republika Hrvatska smatra da do 2020. g. zbog više sile neće moći ispuniti Nacionalni cilj iz stavka 1. ovoga članka, dužna je o tome što je prije moguće izvijestiti Europsku komisiju. Europska komisija donosi odluku o tome je li bila riječ o višoj sili, a ako odluči da je dokazan slučaj više sile, tada određuje da se za Republiku Hrvatsku prilagođava udjel energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji energije za 2020.
+(6) Metodologiju utvrđivanja udjela energije iz obnovljivih izvora energije u ukupnoj neposrednoj potrošnji iz stavka 2. ovog članka propisuje ministar pravilnikom iz članka 25. ovog Zakona.
+(7) Metodologijom iz stavka 6. ovoga članka utvrdit će se način izračuna količine aerotermalne, geotermalne ili hidrotermalne energije zahvaćene toplinskim crpkama koja se smatra energijom iz obnovljivih izvora energije.
+(8) Ministarstvo će na svojim mrežnim stranicama objavljivati izvješće o ukupnoj ostvarenoj neposrednoj potrošnji energije koje se izrađuje sukladno metodologiji iz stavka 6. ovoga članka.
+Nacionalni akcijski plan za obnovljive izvore energije
+Članak 8.
+(1) Nacionalni akcijski plan za obnovljive izvore energije (u daljnjem tekstu: Nacionalni akcijski plan) je planski dokument koji se donosi za razdoblje do 2020. godine, kojim se određuje Nacionalni cilj Republike Hrvatske za udio energije iz obnovljivih izvora u elektroenergetici, grijanju i hlađenju te prijevozu.
+(2) Nacionalni akcijski plan sadržava prikaz i ocjenu stanja na tržištu energije, usporedne analize, dugoročne ciljeve, uključujući Nacionalni cilj,

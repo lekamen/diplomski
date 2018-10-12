@@ -1,0 +1,42 @@
+129 27.11.2015 Pravilnik o izmjeni i dopuni Pravilnika o dodjeli adresa i brojeva
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+2449
+Na temelju članka 12. stavka 1. točke 1., članka 70. stavka 9. i članka 78.a. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 25. studenoga 2015. donosi
+PRAVILNIK
+O IZMJENI I DOPUNI PRAVILNIKA O DODJELI ADRESA I BROJEVA
+Članak 1.
+U članku 2. Pravilnika o dodjeli adresa i brojeva (»Narodne novine« broj 85/12 i 67/13; dalje: Pravilnik), točke 2. i 6. mijenjaju se i glase:
+»2. Agencija: Hrvatska regulatorna agencija za mrežne djelatnosti,
+6. grupa brojeva: skup brojeva koji uključuje sve brojeve koji imaju istu namjenu prema Planu numeriranja,«
+Članak 2.
+Naslov iznad članka 5. i članak 5. mijenjaju se i glase:
+»Dodjela brojeva i dodjela adresa
+Članak 5.
+(1) Za usluge u nepokretnoj elektroničkoj komunikacijskoj mreži operator može podnijeti Zahtjev za primarnu dodjelu zemljopisnih brojeva u sljedećim blokovima brojeva:
+− 100
+− 1 000
+− 10 000
+− 100 000 brojeva.
+(2) Za usluge s posebnom tarifom, usluge jedinstvenog pristupnog broja, usluge osobnog broja, usluge pristupa internetu te usluge besplatnog poziva operator može podnijeti Zahtjev za primarnu dodjelu nezemljopisnih brojeva pojedinačno ili u sljedećim blokovima brojeva:
+− 10
+− 100
+− 1 000 brojeva.
+(3) Agencija dodjeljuje kratke kodove na temelju zahtjeva operatora za pojedinačnom dodjelom kratkih kodova.
+(4) Za M2M usluge i usluge u pokretnoj elektroničkoj komunikacijskoj mreži operator može podnijeti Zahtjev za primarnu dodjelu nezemljopisnih brojeva u sljedećim blokovima brojeva:
+− 100 000
+− 1 000 000
+− 10 000 000 brojeva.
+(5) Agencija dodjeljuje adrese na temelju zahtjeva operatora za pojedinačnom dodjelom adresa.«
+Članak 3.
+U članku 6. dodaju se novi stavci 3., 4. i 5., koji glase:
+»(3) Iznimno, u slučaju kada je riječ o prenesenim brojevima, a davatelj broja prestane obavljati djelatnost elektroničkih komunikacijskih mreža i usluga ili prestane postojati, Agencija će brojeve koji su preneseni u mrežu primatelja broja, primarno dodijeliti primatelju broja, uz pristanak primatelja broja.
+(4) U slučaju da primatelj broja ne da zatraženi pristanak iz stavka 3. ovog članka u roku od 8 dana, brojevi davatelja broja koji su preneseni u mrežu navedenog primatelja broja, oduzimaju se.
+(5) U slučaju iz stavka 3. ovog članka, brojevi za usluge u nepokretnoj i pokretnoj elektroničkoj komunikacijskoj mreži iznimno se dodjeljuju u blokovima različitim od blokova propisanih člankom 5. ovog Pravilnika ili pojedinačno.«
+Članak 4.
+U članku 13. stavku 1. na kraju rečenice briše se točka i dodaju se riječi »ili po službenoj dužnosti.«
+Članak 5.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/13-02/10
+Urbroj: 376-04/15-2
+Zagreb, 25. studenoga 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.

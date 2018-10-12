@@ -1,0 +1,20 @@
+ društava te o izmjeni Direktive Vijeća 82/891/EEZ i direktiva 2001/24/EZ, 2002/47/EZ, 2004/25/EZ, 2005/56/EZ, 2007/36/EZ, 2011/35/EU, 2012/30/EU i 2013/36/EU te uredbi (EU) br. 1093/2010 i (EU) br. 648/2012 Europskog parlamenta i Vijeća (SL L 173, 12. 6. 2014., u nastavku teksta: Direktiva 2014/59/EU),
+r) u RH, nositelj upravljanja imovinom i prijelazna institucija kako su uređeni Zakonom o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, br. 19/2015.) te u drugim državama članicama subjekti za upravljanje imovinom i prijelazne institucije kako su utvrđene u točkama 56. i 59. članka 2. stavka 1. Direktive 2014/59/EU na način kako su prenesene u propise tih država članica i
+s) u drugim državama članicama, subjekti u potpunom ili djelomičnom vlasništvu jednog ili više tijela javne vlasti, osnovani prije 1. siječnja 2016. radi potpunog ili djelomičnog primanja i držanja imovine, prava i obveza jedne ili više institucija kako bi se sačuvala ili ponovno uspostavila održivost, likvidnost ili solventnost institucije ili stabiliziralo financijsko tržište.«
+Članak 3.
+Iza članka 50. dodaje se naslov i članci od 50.a do 50.e, koji glase:
+»III.a. UPRAVLJANJE RIZICIMA KOJI PROIZLAZE IZ IZLOŽENOSTI PREMA SUBJEKTIMA BANKARSTVA U SJENI
+Utvrđivanje izloženosti prema subjektima bankarstva u sjeni
+Članak 50.a
+(1) Kreditna institucija dužna je utvrđivati sve izloženosti prema pojedinačnom subjektu bankarstva u sjeni, sve rizike koji iz njih proizlaze kao i procjenjivati učinak tih rizika.
+(2) Kreditna institucija dužna je donijeti i primjenjivati politike, postupke i ostale interne akte kojima će propisati način utvrđivanja, evidentiranja, praćenja i izvještavanja o izloženostima prema subjektima bankarstva u sjeni, svim rizicima koji iz njih proizlaze i mogućem učinku tih rizika.
+(3) Politikama, postupcima i ostalim internim aktima iz stavka 2. ovog članka kreditna institucija dužna je obuhvatiti najmanje:
+1) postupke za utvrđivanje svih izloženosti prema subjektima bankarstva u sjeni, svih potencijalnih rizika kojima je kreditna institucija izložena na osnovi tih izloženosti te moguće učinke tih rizika,
+2) postupke za upravljanje, kontrolu i smanjenje rizika koji proizlaze iz izloženosti prema subjektima bankarstva u sjeni, pri čemu je potrebno jasno odrediti analize koje se trebaju provesti u vezi s poslovanjem subjekta bankarstva u sjeni prema kojem postoji izloženost i radnike kreditne institucije koji ih trebaju provesti, potencijalne rizike za kreditnu instituciju i vjerojatnost širenja tih rizika,
+3) određivanje sklonosti preuzimanju rizika koji proizlaze iz izloženosti prema subjektima bankarstva u sjeni, a na temelju postupaka iz točke 1. ovog stavka,
+4) interne limite za izloženost prema subjektima bankarstva u sjeni,
+5) procedure i mjere koje će kreditna institucija primijeniti u slučaju prekoračenja internih limita,
+6) robustan postupak za utvrđivanje povezanosti između subjekata bankarstva u sjeni te između subjekata bankarstva u sjeni i kreditne institucije, tim je postupkom osobito potrebno obuhvatiti situacije u kojima nije moguće utvrditi međusobnu povezanost te je potrebno odrediti odgovarajuće tehnike smanjenja rizika za rješavanje mogućih rizika koji proizlaze iz te neizvjesnosti,
+7) učinkovite procedure i postupke izvješćivanja uprave, nadzornog odbora i svih relevantnih razina upravljanja u kreditnoj instituciji o izloženosti prema subjektima bankarstva u sjeni unutar ukupnog sustava upravljanja rizicima i
+8) metodologiju testiranja otpornosti na stres.
+(4) Pri utvrđivanju povezanosti između subjekta bankarstva u sjeni iz stavka 3. točke 6. ovog članka kreditna institucija dužna je utvrditi odnos kontrole te gospodarsku i financijsku međupovezanost u skladu s člankom 9. Odluke o velikim izloženostima kreditnih institucija (»Narodne novine«, br. 2/2010. i 160/2013.) te osobito preispitati postoji li povezanost s osnova izloženosti subjekta bankarstva u sjeni prema jednoj osobi ili grupi povezanih 

@@ -1,0 +1,21 @@
+ svoje obveze o njihovu dospijeću ili postoje objektivne okolnosti na temelju kojih se utvrđuje da ih kreditna institucija uskoro neće moći ispunjavati.
+(2) Smatra se da je uvjet iz stavka 1. točke 2. ovoga članka ispunjen osobito u sljedećim slučajevima:
+1) ako je Hrvatska narodna banka donijela rješenje o nedostupnosti depozita iz članka 70. ovoga Zakona, a nedostupnost depozita nije nastupila kao posljedica donošenja odluke o podnošenju prijedloga za otvaranje stečajnog postupka nad kreditnom institucijom u skladu s člankom 267. ovoga Zakona
+2) ako je račun kreditne institucije po nalogu Financijske agencije u skladu sa zakonom kojim se uređuje provedba ovrhe na novčanim sredstvima blokiran duže od dva radna dana
+3) ako kreditna institucija unatoč naloženim supervizorskim mjerama iz ovoga Zakona ili unatoč mjerama koje je provela posebna uprava ne ispunjava uvjete vezane uz regulatorni kapital u skladu s člancima 92. i 93. Uredbe (EU) br. 575/2013 ili
+4) ako Hrvatska narodna banka u sklopu svojih supervizorskih ovlasti ocijeni da je sposobnost kreditne institucije za pravodobno ispunjenje novčanih obveza ugrožena i ako ocijeni da postoji vjerojatnost da kreditna institucija neće biti sposobna ispunjavati svoje dospjele novčane obveze.«.
+Članak 117.
+Članak 267. mijenja se i glasi:
+»(1) U skladu sa Zakonom o Hrvatskoj narodnoj banci odluku o podnošenju ili povlačenju prijedloga za otvaranje stečajnog postupka nad kreditnom institucijom donosi Savjet Hrvatske narodne banke. Odluka mora sadržavati dan, sat i minutu njezina donošenja.
+(2) Odluka Savjeta Hrvatske narodne banke o podnošenju prijedloga za otvaranje stečajnog postupka nad kreditnom institucijom ima sljedeće posljedice:
+1) privremenu zabranu provedbe osnova za plaćanje na teret računa kreditne institucije i na teret računa klijenata te kreditne institucije prema zakonu kojim se uređuje provedba ovrhe na novčanim sredstvima
+2) privremenu zabranu kreditnoj instituciji da obavlja plaćanja sa svih svojih računa za svoje potrebe i da prima uplate na svoje račune
+3) privremenu zabranu kreditnoj instituciji da pruža platne usluge za svoje klijente
+4) privremenu zabranu kreditnoj instituciji da obavlja isplate i prijenos s računa svojih klijenata.
+(3) Iznimno od stavka 2. ovoga članka, dopuštene su sljedeće uplate kojima dužnici ispunjavaju svoje obveze prema kreditnoj instituciji:
+1) gotovinske uplate kreditnoj instituciji i
+2) uplate na transakcijski račun koji kreditna institucija vodi kod druge kreditne institucije u skladu s člankom 268. točkom 4. ovoga Zakona.
+(4) Iznimno od stavka 2. ovoga članka, na transakcijski račun iz stavka 3. točka 2. ovoga članka posebna uprava može izvršiti gotovinske uplate.
+(5) Iznimno od stavka 2. ovoga članka, Hrvatska narodna banka provodi na računu kreditne institucije konačnu namiru obračunatih platnih transakcija preko drugog platnog sustava do trenutka otvaranja postupka zbog insolventnosti nad tom kreditnom institucijom. Postupak namire provodi se sukladno propisanim pravilima rada platnog sustava iz novčanih sredstava koja je kreditna institucija izdvojila za te potrebe kod Hrvatske narodne banke prije trenutka otvaranja postupka zbog insolventnosti.
+(6) Iznimno od stavka 2. ovoga članka, za sve uplate na račune koje kreditna institucija ima otvorene u drugim kreditnim institucijama, u Republici Hrvatskoj ili izvan nje, izvršene protivno stavcima 2. i 3. ovoga članka nakon trenutka iz stavka 8. ovoga članka kreditna institucija dužna je izvršiti povrat novčanih sredstava platitelju ili poduzeti razumne mjere radi uplate novčanih sredstava korisniku iz te platne transakcije. Novčana sredstva kreditne institucije koja su primljena na ovaj način ne ulaze u stečajnu masu kreditne institucije.
+(7) Iznimno od stavka 2. ovoga članka, dopuštena su plaćanja koja proizlaze iz obveza kreditne institucije kao sudionika u sustavu poravnanja sukladno zakonu koji uređuje tržište kapitala, a koja plaćanja je kreditna institucija dužna provesti pod

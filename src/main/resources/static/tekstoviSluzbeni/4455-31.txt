@@ -1,0 +1,22 @@
+ navedene u ovlaštenju.
+4. MODUL C2: SUKLADNOST S TIPOM NA TEMELJU UNUTARNJE KONTROLE PROIZVODNJE I NADZIRANIH PROVJERA TLAČNE OPREME U NASUMIČNO ODABRANIM VREMENSKIM RAZMACIMA
+1. Sukladnost s tipom na temelju unutarnje kontrole proizvodnje i nadziranih provjera tlačne opreme u nasumično odabranim vremenskim razmacima dio je postupka ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2., 3. i 4. te jamči i izjavljuje na vlastitu odgovornost da je dotična tlačna oprema u skladu s tipom opisanim u certifikatu o EU-pregledu tipa i da ispunjavaju zahtjeve ovoga Pravilnika koji se odnose na isti.
+2. Proizvodnja
+Proizvođač poduzima sve potrebne mjere kako bi se postupkom proizvodnje i njegovim praćenjem zajamčila sukladnost proizvedene tlačne opreme s tipom opisanim u certifikatu o EU-pregledu tipa i sa zahtjevima ovoga Pravilnika koji se odnose na isti. 3. Završno ocjenjivanje i provjere tlačne opreme
+Prijavljeno tijelo koje je izabrao proizvođač provodi ili daje provesti provjere u nasumično odabranim vremenskim razmacima koje odredi to tijelo, radi provjere kvalitete završnog ocjenjivanja i unutarnjih provjera tlačne opreme, uzimajući u obzir između ostalog njezinu tehnološku složenost i količinu proizvodnje.
+Prijavljeno tijelo utvrđuje da proizvođač uistinu provodi završnu ocjenu u skladu s točkom 3.2. Dodatka I. ovoga Pravilnika.
+Prije stavljanja na tržište pregledava se odgovarajući uzorak gotove tlačne opreme koju to prijavljeno tijelo uzima na licu mjesta te se provode odgovarajuća ispitivanja u skladu s relevantnim dijelovima usklađenih norma i/ili slična ispitivanja koja primjenjuju druge tehničke specifikacije kako bi se provjerila sukladnost tlačne opreme s mjerodavnim zahtjevima ovoga Pravilnika.
+Prijavljeno tijelo određuje broj komada opreme za uzorke te ako je potrebno provodi, ili je već provedeno, potpuno ili djelomično završno ocjenjivanje uzoraka tlačne opreme.
+Ako uzorak nije u skladu s prihvatljivom razinom kvalitete, tijelo poduzima odgovarajuće mjere.
+Svrha postupka prihvaćanja uzorkovanjem koji se primjenjuje jest utvrditi odvija li se postupak proizvodnje tlačne opreme u prihvatljivim granicama, kako bi se osigurala njezina sukladnost.
+Ako ispitivanja provodi prijavljeno tijelo, proizvođač pod odgovornošću prijavljenog tijela tijekom postupka proizvodnje stavlja identifikacijski broj prijavljenog tijela.
+3. Završno ocjenjivanje i provjere tlačne opreme
+Prijavljeno tijelo koje je izabrao proizvođač provodi ili daje provesti provjere u nasumično odabranim vremenskim razmacima koje odredi to tijelo, radi provjere kvalitete završnog ocjenjivanja i unutarnjih provjera tlačne opreme, uzimajući u obzir između ostalog njezinu tehnološku složenost i količinu proizvodnje.
+Prijavljeno tijelo utvrđuje da proizvođač uistinu provodi završnu ocjenu u skladu s točkom 3.2. Dodatka I. ovoga Pravilnika.
+Prije stavljanja na tržište pregledava se odgovarajući uzorak gotove tlačne opreme koju to prijavljeno tijelo uzima na licu mjesta te se provode odgovarajuća ispitivanja u skladu s relevantnim dijelovima usklađenih norma i/ili slična ispitivanja koja primjenjuju druge tehničke specifikacije kako bi se provjerila sukladnost tlačne opreme s mjerodavnim zahtjevima ovoga Pravilnika.
+Prijavljeno tijelo određuje broj komada opreme za uzorke te ako je potrebno provodi, ili je već provedeno, potpuno ili djelomično završno ocjenjivanje uzoraka tlačne opreme.
+Ako uzorak nije u skladu s prihvatljivom razinom kvalitete, tijelo poduzima odgovarajuće mjere.
+Svrha postupka prihvaćanja uzorkovanjem koji se primjenjuje jest utvrditi odvija li se postupak proizvodnje tlačne opreme u prihvatljivim granicama, kako bi se osigurala njezina sukladnost.
+Ako ispitivanja provodi prijavljeno tijelo, proizvođač pod nadležnosti prijavljenog tijela tijekom postupka proizvodnje stavlja identifikacijski broj prijavljenog tijela.
+4. Oznaka CE i EU izjava o sukladnosti
+4.1 Proizvođač stavlja oznaku CE na svaku pojedinu tlačnu opremu ili

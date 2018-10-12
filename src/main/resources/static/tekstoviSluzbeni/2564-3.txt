@@ -1,0 +1,34 @@
+s čuvanjem certifikata, te održavati pravila i postupke koji će osigurati da imatelji certifikata budu upoznati sa svojom odgovornošću u vezi s čuvanjem certifikata.«
+7. Članak 12. mijenja se kako slijedi:
+(a) Iza stavka 5. dodaje se sljedeći stavak 5.a:
+»5.a Sudionici su odgovorni za pravodobno ažuriranje obrazaca za izdavanje elektroničkih certifikata potrebnih za pristup sustavu TARGET2-HR upotrebom internetskog pristupa i za podnošenje Hrvatskoj narodnoj banci novih obrazaca za izdavanje tih elektroničkih certifikata. Sudionici su odgovorni za provjeru točnosti informacija povezanih s njima koje je Hrvatska narodna banka unijela u sustav TARGET2-HR.« .
+(b) Stavak 6. zamjenjuje se sljedećim:
+»6. Hrvatska narodna banka ovlaštena je dostaviti tijelima za certificiranje sve informacije u vezi sa sudionicima koje tijela za certificiranje mogu zatražiti.«.
+8. U članku 13. stavak 4. zamjenjuje se sljedećim:
+»7. Hrvatska narodna banka daje dnevni izvadak iz računa svim sudionicima koji su se odlučili za tu uslugu.«.
+9. Članak 14. zamjenjuje se sljedećim:
+»Članak 14.
+Vrste naloga za plaćanje
+Za potrebe sustava TARGET2 kao nalozi za plaćanje utvrđuju se:
+(a) nalozi za kreditni transfer,
+(b) instrukcije za izravno terećenje primljene na temelju odobrenja za izravno terećenje; sudionici koji se koriste internetskim pristupom ne mogu poslati instrukcije za izravno terećenje sa svog PM računa i
+(c) nalozi za prijenos likvidnosti.«.
+10. U članku 15. stavku 1. točka (b) zamjenjuje se sljedećom:
+»(b) platna poruka u skladu s pravilima i uvjetima formatiranja sustava TARGET2-HR i ako je prošla provjeru dvostrukog unosa kako je opisano u Dodatku I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i«.
+11. U članku 20. stavak 3. zamjenjuje se sljedećim:
+»3. Pri upotrebi indikatora najkasnijeg vremena terećenja primljeni nalog za plaćanje vraća se kao nenamiren ako ne može biti namiren do naznačenog vremena terećenja. Petnaest (15) minuta prije određenog vremena terećenja sudionik nalogodavac bit će obaviješten preko ICM-a umjesto da mu se šalje automatska obavijest preko ICM-a. Sudionik nalogodavac također se može koristiti indikatorom najkasnijeg vremena terećenja samo kao indikatorom upozorenja. U tim se slučajevima nalog za plaćanje ne vraća.«.
+12. Članak 28. mijenja se kako slijedi:
+(a) Stavak 1. zamjenjuje se sljedećim:
+»1. Sudionici koji se koriste internetskim pristupom dužni su provoditi odgovarajuće sigurnosne kontrole, posebno one utvrđene u Dodatku I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa, radi zaštite svojih sustava od neovlaštenog pristupa i upotrebe. Sudionici su isključivo odgovorni za primjerenu zaštitu povjerljivosti, cjelovitosti i dostupnosti svojih sustava.«.
+(b) Iza stavka 3. dodaje se sljedeći stavak 4.:
+»4. Sudionici koji se koriste internetskim pristupom dužni su odmah obavijestiti Hrvatsku narodnu banku o svim događajima koji mogu utjecati na valjanost certifikata, posebno o onima navedenima u Dodatku I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa uključujući, bez ograničenja, svaki gubitak ili nepravilnu upotrebu certifikata.«.
+13. Članak 29. zamjenjuje se sljedećim:
+»Članak 29.
+Upotreba ICM-a
+1. ICM:
+(a) omogućuje sudionicima unos plaćanja,
+(b) omogućuje sudionicima pristup informacijama koje se odnose na njihove račune i na upravljanje likvidnošću,
+(c) može se upotrijebiti za iniciranje naloga za prijenos likvidnosti i
+(d) omogućuje sudionicima pristup porukama sustava.
+2. Dodatni tehnički detalji u odnosu na korištenje ICM-a u vezi s internetskim pristupom sadržani su u Dodatku I.A Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa.«.
+14. Članak 32. mijenja 

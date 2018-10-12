@@ -1,0 +1,22 @@
+i ispitivanja ksenogeničnih lijekova.
+(10) Ministarstvo će uskratiti davanje odobrenja za provođenje kliničkog ispitivanja za gensku terapiju ako postoji rizik mijenjanja genoma reproduktivnih stanica ispitanika.
+(11) Ministarstvo će o nedostacima zahtjeva iz stavka 2. ovoga članka zaključkom izvijestiti podnositelja zahtjeva i zatražiti dopunu dokumentacije. Podnositelj zahtjeva može samo jednom izmijeniti sadržaj zahtjeva iz stavka 2. ovog članka.
+(12) Ako podnositelj zahtjeva u roku od 5 dana od primitka zaključka ne dostavi dopunu dokumentacije ili pisano obrazloženje s navođenjem roka dostave dopune dokumentacije (elektroničkim putem ili telefaksom), Ministarstvo će donijeti rješenje kojim će odbiti zahtjev.
+(13) Podnositelj zahtjeva obvezan je obavijestiti Ministarstvo o namjeri povlačenja predanog zahtjeva za odobrenje kliničkog/neprofitnog ispitivanja u najkraćem roku od donošenja te odluke. Obavijest dostavljenu elektroničkim putem ili telefaksom potrebno je u najkraćem roku dostaviti Ministarstvu i u pisanom obliku, sa kratkim obrazloženjem razloga povlačenja zahtjeva.
+(14) U slučaju kada podnositelj zahtjeva ima namjeru ponovno predati na odobrenje zahtjev koji je prethodno povukao, obvezan je naznačiti na zahtjevu Ministarstvu i EU obrascu zahtjeva za provođenje kliničkog ispitivanja (EudraCT Clinical Trial Application Form, u daljnjem tekstu: CTA obrazac) da se radi o ponovljenom zahtjevu, u skladu sa Komunikacijama Europske komisije 2010/C 82/01 – Communication from the Commission — Detailed guidance on the request to the competent authorities for authorisation of a clinical trial on a medicinal product for human use, the notification of substantial amendments and the declaration of the end of the trial (CT-1).
+Članak 15.
+(1) Odobrenje za provođenje kliničkog ispitivanja, uključujući neprofitno kliničko ispitivanje, Ministarstvo daje, odnosno uskraćuje rješenjem protiv kojega nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+(2) Ministarstvo dostavlja odobrenje za provođenje kliničkog ispitivanja podnositelju zahtjeva, Središnjem etičkom povjerenstvu, Agenciji, Hrvatskom zavodu za zdravstveno osiguranje i farmaceutskoj inspekciji Ministarstva.
+Članak 16.
+(1) U postupku podnošenja zahtjeva Ministarstvu za odobrenje provođenja kliničkog ispitivanja lijeka, uključujući neprofitno ispitivanje, te ishođenja mišljenja Središnjeg etičkog povjerenstva, potrebno je podnijeti sljedeću dokumentaciju:
+1. zahtjev na hrvatskom jeziku, uz potpis odgovorne osobe podnositelja zahtjeva. Zahtjev mora sadržavati: oznaku plana ispitivanja, EudraCT broj ispitivanja, naziv ispitivanja, fazu ispitivanja, ime i adresu naručitelja ispitivanja, ime i adresu podnositelja zahtjeva te popis glavnih ispitivača i ustanova u kojima se kliničko ispitivanje planira provoditi kao i kratko obrazloženje podnošenja zahtjeva,
+2. upute za ispitivača, za ispitivani lijek koji nema odobrenje za stavljanje u promet, izdane unutar godine dana,
+3. sažetak opisa svojstava lijeka, za ispitivane lijekove koji imaju važeće odobrenje za stavljanje u promet,
+4. životopis ispitivača iz kojeg će biti razvidno da udovoljava mjerilima iz članka 5. ovoga Pravilnika,
+5. životopis motritelja iz kojeg će biti razvidno da udovoljava mjerilima iz članka 6. ovoga Pravilnika,
+6. popis država u kojima je planirano provođenje istog kliničkog ispitivanja, te u kojima je u trenutku podnošenja zahtjeva za davanje odobrenja kliničkog ispitivanja isto ispitivanje odobreno ili odbijeno, uključujući i razloge odbijanja,
+7. plan ispitivanja i eventualne izmjene i dopune potpisane od strane glavnog ispitivača,
+8. primjerak test-liste ispitanika u elektroničkom obliku,
+9. obrazac informiranog pristanka na hrvatskom jeziku i latiničnom pismu, te izvorni tekst,
+10. sažetak znanstvenog mišljenja Europske agencije za lijekove vezano uz primjenu ispitivanog lijeka (ako je dostupno),
+11. primjerak odluke Europske agencije za lijekove o planu pedijatrijskog

@@ -1,0 +1,27 @@
+ mjeri na dva ili više obračunskih mjernih mjesta na mreži operatora prijenosnog sustava ili na mreži operatora distribucijskog sustava u okviru jedne građevinske lokacije jednog vlasnika ili u okviru jedne tehnološke cjeline za potrebe elektrovuče, obračunska vršna radna snaga se određuje kao najveći zbroj vršnih radnih snaga iz članka 41. ovih Općih uvjeta izmjerenih u istom obračunskom mjernom intervalu.
+(2) Ako se krajnji kupac u okviru jedne građevinske lokacije jednog vlasnika istovremeno opskrbljuje električnom energijom preko obračunskih mjernih mjesta na mreži operatora prijenosnog sustava i na mreži operatora distribucijskog sustava, obračunska vršna radna snaga se određuje kako slijedi:
+– za mrežu operatora prijenosnog sustava, kao najveći zbroj vršnih radnih snaga iz članka 41. ovih Općih uvjeta izmjerenih u istom obračunskom mjernom intervalu na obračunskim mjernim mjestima na mreži operatora prijenosnog sustava i na mreži operatora distribucijskog sustava,
+– za mrežu operatora distribucijskog sustava, kao najveći zbroj vršnih radnih snaga iz članka 41. ovih Općih uvjeta u istom obračunskom mjernom intervalu samo na obračunskim mjernim mjestima na mreži operatora distribucijskog sustava.
+(3) Za potrebe obračuna vršne radne snage iz stavka 2. podstavka 1. ovoga članka, operator distribucijskog sustava dužan je operatoru prijenosnog sustava osigurati potrebne obračunske mjerne podatke.
+XII. POSTUPANJE S MJERNIM PODACIMA S OBRAČUNSKIH MJERNIH MJESTA TE TOČAKA RAZDVAJANJA IZMEĐU SUSJEDNIH SUSTAVA
+Članak 75.
+(1) Operator prijenosnog sustava dužan je operatoru distribucijskog sustava omogućiti pristup mjernim podacima s obračunskih mjernih mjesta na sučelju prijenosne i distribucijske mreže.
+(2) Operator distribucijskog sustava dužan je operatoru prijenosnog sustava omogućiti pristup mjernim podacima s obračunskih mjernih mjesta proizvođača priključenih na distribucijsku srednjonaponsku mrežu.
+(3) Operator prijenosnog sustava i operator distribucijskog sustava dužni su sklopiti ugovor o međusobnim odnosima kojim se uređuje pristup mjernim podacima iz stavaka 1. i 2. ovoga članka, u skladu s mrežnim pravilima operatora sustava.
+XIII. ODRŽAVANJE MJERNIH UREĐAJA
+Članak 76.
+(1) Svako obračunsko mjerno mjesto opremljeno je mjernom opremom koju čine brojila i ostala mjerna oprema određena elektroenergetskom suglasnošću.
+(2) Mjerna oprema na obračunskom mjernom mjestu korisnika mreže u vlasništvu je operatora sustava.
+(3) Operator sustava dužan je održavati mjernu opremu te osigurati umjeravanje i ovjeravanje brojila.
+Članak 77.
+(1) Kod zamjene brojila i/ili mjerne opreme operator sustava izdaje korisniku mreže potvrdu o izvršenim radovima, pripadajućim plombama, završnom očitanju stanja starog brojila i početnom očitanju stanja novog brojila, u roku od 30 dana od dana zamjene brojila i/ili mjerne opreme.
+(2) U slučaju da je tijekom kontrole obračunskog mjernog mjesta i/ili glavnih osigurača zamijenjena plomba operator sustava dužan je korisniku mreže izdati potvrdu o zamjeni plombe u roku od 30 dana od dana zamjene plombe.
+(3) Operator sustava dužan je u roku od tri radna dana od dana zamjene brojila i/ili mjerne opreme korisniku mjernih podataka elektroničkim putem dostaviti podatke o stanju brojila.
+Članak 78.
+(1) Operator sustava dužan je na zahtjev korisnika mreže ili na zahtjev opskrbljivača, uz odobrenje korisnika mreže, ugraditi brojilo s mogućnošću daljinskog očitanja odnosno brojilo s većim brojem funkcija.
+(2) Trošak nabave i ugradnje brojila iz stavka 1. ovoga članka snosi podnositelj zahtjeva za ugradnju.
+(3) Podnositelj zahtjeva iz stavka 1. ovoga članka dužan je operatoru sustava plaćati nestandardnu uslugu korištenja brojila s većim brojem funkcija, u skladu s pravilima i cjenikom nestandardnih usluga operatora sustava.
+Članak 79.
+Uređaji za upravljanje tarifama podešeni su na srednjoeuropsko zimsko vrijeme i ne podešavaju se kod prijelaza između zimskog i ljetnog računanja vremena.
+Članak 80.
+(1) Korisnik

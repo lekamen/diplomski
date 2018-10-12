@@ -1,0 +1,22 @@
+ nadležnog za financije − porezne uprave. Podatci koji će se preuzimati uključuju pripadne ugovore u elektroničkom obliku.
+(4) Posebno se evidentiraju podatci o procjenama vrijednosti nekretnina izrađenima za potrebe županije, Grada Zagreba i velikoga grada, kao i iz drugih službenih izvora. Takvi podatci služe kao dopuna tržišnim podatcima o prometu nekretnina u zbirci kupoprodajnih cijena i oni nisu prikladni za procjenu vrijednosti nekretnina i izvođenje nužnih podataka iz članka 57. stavka 1. ovoga Zakona.
+(5) Zbirka kupoprodajnih cijena vodi se sukladno službenim prostornim podatcima.
+Plan približnih vrijednosti
+Članak 8.
+(1) Plan približnih vrijednosti je kartografski prikaz cjenovnih blokova na području županije ili Grada Zagreba, odnosno velikoga grada.
+(2) U planu približnih vrijednosti formiraju se cjenovni blokovi na osnovi približnih vrijednosti zemljišta.
+(3) Približne vrijednosti zemljišta utvrđuju se kao općenite, prosječne vrijednosti zemljišta na temelju podataka iz zbirke kupoprodajnih cijena, primarno ovisno o namjeni površina, načinu korištenja i uređenju površina, kategoriji i lokaciji te o drugim obilježjima nekretnina. Pri utvrđivanju približnih vrijednosti ne uzimaju se u obzir doprinosi.
+(4) Približna vrijednost zemljišta utvrđuje se prema odredbama glave 3. ovoga Zakona (Opći načini procjene vrijednosti nekretnina). Ako ne postoji dovoljan broj poredbenih kupoprodajnih cijena na promatranom području, približna vrijednost može se utvrditi deduktivnom metodom ili komparativnom analizom s drugim područjem.
+(5) Približna vrijednost zemljišta iskazuje se kao iznos u kunama po četvornome metru površine za uzor-česticu. Ako je to u skladu s postojećim običajima u uobičajenom poslovnom prometu, približna vrijednost može se iskazati i kao iznos u eurima po četvornome metru površine za uzor-česticu.
+(6) U izgrađenim područjima približne se vrijednosti zemljišta utvrđuju pomoću vrijednosti neizgrađenoga zemljišta.
+(7) Ako se u određenom području prostornim planom ili drugim mjerama promijenilo obilježje zemljišta, prilikom sljedeće izrade približnih vrijednosti zemljišta, a uzimajući u obzir prethodnu redovitu procjenu ili procjenu na zahtjev nadležnog područnog ureda porezne uprave prema mjestu gdje se nekretnina nalazi, u približnoj vrijednosti zemljišta mora se evidentirati ta promjena kao novo obilježje uzor-čestice.
+(8) Približne vrijednosti zemljišta moraju se evidentirati i objaviti u elektroničkom obliku jednom godišnje.
+(9) Prema zahtjevu nadležne porezne uprave mogu se utvrditi približne vrijednosti zemljišta u određenom trenutku. Moguće je utvrditi i približne vrijednosti zemljišta u određenom području za određeno razdoblje.
+(10) U planu približnih vrijednosti moraju se navesti obilježja uzor-čestice koja su utjecala na njezinu vrijednost.
+(11) Planovi približnih vrijednosti mogu se, ovisno o raspoloživim podatcima u zbirci kupoprodajnih cijena, izrađivati prema načelima iz ovoga članka za sve vrste nekretnina.
+2. PROCJENITELJ, PROCJENITELJSKO POVJERENSTVO I VISOKO PROCJENITELJSKO POVJERENSTVO
+Procjenitelj
+Članak 9.
+(1) Procjenitelj je u smislu ovoga Zakona fizička osoba stalni sudski vještak za procjenu nekretnina odnosno pravna osoba koja ispunjava uvjete za sudska vještačenja, u skladu s posebnim propisom kojim se uređuju uvjeti, postupak imenovanja, prava i dužnosti stalnih sudskih vještaka. Procjenitelj može biti i stalni sudski procjenitelj imenovan u skladu s posebnim propisom kojim se uređuju uvjeti, postupak imenovanja, prava i dužnosti stalnih sudskih procjenitelja.
+(2) Procjenitelj je dužan poslove za koje je ovlašten obavljati stručno, neovisno i nepristrano, te iznijeti sve okolnosti koje dovode u pitanje njegovu nepristranost ili moguć sukob interesa. Procjenitelj potpisuje izjavu o nepristranosti i neovisnosti koja je sastavni dio procjembenog elaborata.
+(3) Ako se radi o obilježjima nekretnine čiji utjecaj prelazi granice kompetencija procjenitelja, isti je dužan u okviru izrade

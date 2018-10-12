@@ -1,0 +1,31 @@
+71 29.06.2015 Pravilnik o radu u sustavu JCMS
+MINISTARSTVO PRAVOSUĐA
+1367
+Na temelju članka 71. stavka 4. Zakona o sudovima (»Narodne novine«, broj 28/13 i 33/15) ministar pravosuđa donosi
+PRAVILNIK
+O RADU U SUSTAVU JCMS
+I. OPĆE ODREDBE
+Sadržaj pravilnika
+Članak 1.
+(1) Ovim se Pravilnikom propisuju pravila o načinu rada i korištenju Jedinstvenog sustava upravljanja predmetima na prekršajnim sudovima (u daljnjem tekstu: sustav JCMS).
+(2) Svrha Pravilnika je osigurati jedinstven i pravilan način postupanja u sustavu JCMS od strane korisnika.
+(3) Za svaki pojedini sud početak korištenja sustava JCMS određuje odlukom ministar nadležan za poslove pravosuđa nakon što za to budu ispunjeni tehnički i organizacijski uvjeti.
+Članak 2.
+(1) Sustav JCMS je jedinstveni informacijski sustav za upravljanje i rad na sudskim predmetima koji se sastoji od standardne aplikacije, računalne i telekomunikacijske opreme i infrastrukture, sistemske programske opreme i alata te svih podataka koji se tim sustavom unose, pohranjuju i prenose iz svih vrsta upisnika na prekršajnim sudovima i Visokom prekršajnom sudu Republike Hrvatske.
+(2) Sustav JCMS je povezan sa sljedećim sustavima:
+1. sustavom Evidencije o osobnim identifikacijskim brojevima
+2. sustavom Sudskog registra,
+3. sustavom Obrtnog registra,
+4. sustavom Jedinstvenog registra osoba,
+5. prekršajnom evidencijom,
+6. e-Oglasnom pločom sudova.
+(3) Sustav JCMS može se povezati i s ostalim sustavima za koje se to ocijeni potrebnim.
+Značenje pojedinih izraza
+Članak 3.
+U smislu ovoga Pravilnika pojedini izrazi imaju sljedeća značenja:
+Algoritam za dodjelu predmeta sustava JCMS je skup definiranih pravila za automatsku dodjelu predmeta.
+Vrsta predmeta odnosi se na podjelu predmeta koji se rješavaju u prekršajnim postupcima, a obuhvaća prekršaje iz područja sigurnosti prometa na cestama, prekršaje iz područja gospodarstvenih i ostalih prekršaja, prekršaje iz područja javnog reda i mira i javne sigurnosti, pravnu pomoć, procesne predmete i predmete izvršenja.
+Podvrsta predmeta odnosi se na podjelu predmeta unutar određene vrste predmeta prema propisu kojim je prekršaj određen.
+Šifrarnik vrste predmeta sustava JCMS je popis vrsta predmeta s dodijeljenom težinom predmeta koji se rješavaju na sudovima, raščlanjenih na podvrste predmeta.
+Dodijeljena težina predmeta u sustavu JCMS je definirana u skladu s važećim Okvirnim mjerilima za rad sudaca prekršajnih sudova koja se iskazuje brojčano, te faktorom udjela u težini podvrste predmeta koji se primjenjuje prilikom automatske dodjele u predmetima koji obuhvaćaju prekršaje iz Zakona o radu, Zakona o bankama, Zakona o industrijskom vlasništvu, Zakona o održivom gospodarenju otpadom, Zakona o elektroničkim komunikacijama, Zakona o potrošačkom kreditiranju, Zakona o javnoj nabavi, Zakona o preuzimanju dioničkih društava, Zakona o investicijskim fondovima, Zakona o tržištu kapitala, Zakona o javnoj nabavi, Zakona o kreditnim institucijama, Općeg poreznog zakona, Zakona o deviznom poslovanju, Zakona o provedbi carinskih propisa EU, i drugih zakona koje će Stalno verifikacijsko tijelo po potrebi nadopunjavati, mijenjati i verificirati.
+Naselje predmeta unutar mjesne nadležnosti suda je naselje kojem predmet teritorijalno pripada a određuje se prema mjestu počinjenja prekršaja. Ako se mjesto počinjenja prekršaja ne može utvrditi, naselje predmeta određuje se prema mjestu prebivališta ili sjedišta osobe protiv koje se vodi postupak, odnosno njegovom boravištu ili poslovnom nastanu (podružnica, predstavništvo). Ako je počinitelj prekršaja maloljetnik, naselje predmeta određuje se prema prebivalištu odnosno boravištu maloljetnika. U predmetima izvršenja prekršajnopravnih sankcija u kojima se izvršava rad za opće dobro ili kazna zatvora, naselje predmeta određuje se prema prebivalištu osuđenika. U predmetima pružanja pravne pomoći, naselje premeta određuje se prema prebivalištu, sjedištu odnosno boravištu sudionika postupka. U postupcima prekršajnih sudova, kada se predmeti

@@ -1,0 +1,14 @@
+ zasebno za svaku grupu ulaza u i izlaza iz transportnog sustava.
+Tablica 4. Planirani ugovoreni stalni kapaciteti transportnog sustava na mjesečnoj razini*
+Grupa ulaza/izlaza Oznaka Suma planiranih ugovorenih stalnih kapaciteta na mjesečnoj razini po mjesecima (kWh/dan) I II III IV V VI VII VIII IX X XI XII Ulazi na interkonekcijama KAPU,IN,m Ulazi iz proizvodnje KAPU,PR,m Ulazi iz sustava skladišta plina KAPU,SK,m Ulazi iz terminala za UPP KAPU,UPP,m Izlazi na interkonekcijama KAPI,IN,m Izlazi u Hrvatskoj KAPI,HR,m
+* za svaku godinu regulacijskog razdoblja popunjava se zasebna tablica
+NAPOMENA: Kapacitete je potrebno navesti sumarno za pojedine grupe ulaza u i izlaza iz transportnog sustava, te specificirati po pojedinim korisnicima zasebno za svaku grupu ulaza u i izlaza iz transportnog sustava.
+Tablica 5. Planirana količina plina na izlazima iz transportnog sustava
+Godina regulacijskog razdoblja T T+1    T+2*    Ukupna planirana količina plina na izlazima iz transportnog sustava (kWh)          
+* za drugo i naredna regulacijska razdoblja dodati stupce za regulacijske godine T+3 i T+4«.
+Članak 14.
+Ove Izmjene i dopune Metodologije objavit će se u »Narodnim novinama«, a stupaju na snagu 1. studenoga 2015.
+Klasa: 011-01/15-01/13
+Urbroj: 371-01/15-03
+Zagreb, 26. listopada 2015.
+Predsjednik Upravnog vijeća Tomislav Jureković, dipl. ing., v. r.

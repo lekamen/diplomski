@@ -1,0 +1,2 @@
+ oz tr = 31,10 × 10-3kg
+Jedinice navedene u ovom poglavlju mogu se kombinirati međusobno ili s onima iz Poglavlja I. kako bi formirale složene jedinice.

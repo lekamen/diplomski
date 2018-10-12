@@ -1,0 +1,42 @@
+129 27.11.2015 Plan numeriranja
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+2450
+Na temelju članka 12. stavka 1. točke 9. i članka 69. stavka 3. Zakona o elektroničkim komunikacijama (»Narode novine« br. 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PLAN NUMERIRANJA
+I. OPĆE ODREDBE
+Plan numeriranja uređuje ukupnost svih mogućih kombinacija sastavnica adresiranja uz pomoć znamenaka radi jedinstvenog prepoznavanja osoba, računalnih procesa, strojeva, uređaja ili elektroničke komunikacijske opreme koja je uključena u postupak ostvarivanja veze.
+II. STRUKTURA BROJEVA
+Ovim Planom numeriranja propisuje se struktura nacionalnog plana numeriranja.
+1. Međunarodni broj
+Međunarodni broj sadrži kôd zemlje (eng.: CC – Country Code) iza kojeg slijedi nacionalni (značajni) broj (eng.: N(S)N – National (Significant) Number), kao što je prikazano na slici 1.
+U skladu s ITU-T preporukom E.164, duljina međunarodnog broja iznosi najviše petnaest znamenaka.
+Međunarodni kôd Republike Hrvatske je »385«, a međunarodni predbroj je »00« (kao međunarodni prefiks se može koristiti i »+«).
+Međunarodni broj Kôd zemlje Country code Nacionalni (značajni) broj National (Significant) Number CC N(S)N
+Slika 1. Struktura međunarodnog broja
+2. Nacionalni (značajni) broj
+Nacionalni (značajni) broj sadrži nacionalni odredišni kôd iza kojeg slijedi pretplatnički broj (eng.: SN – Subscriber Number), kao što je prikazano na slici 2.
+Ovisno o području primjene, nacionalni odredišni kôd može određivati:
+• zemljopisno područje numeriranja (županiju)
+• nezemljopisno područje numeriranja.
+Razlikuju se zemljopisni i nezemljopisni nacionalni (značajni) broj.
+Duljina i svrha korištenja nacionalnih (značajnih) brojeva u Republici Hrvatskoj definirana je u poglavlju III. Popis nacionalnih brojeva i kratkih kodova ovog Plana numeriranja.
+Nacionalni predbroj u Republici Hrvatskoj je »0« i nije dio nacionalnog (značajnog) broja.
+Nacionalni (značajni) broj (N(S)N) Nacionalni odredišni kôd Pretplatnički broj (Subscriber Number) NDC SN
+Slika 2. Struktura nacionalnog broja
+2.1. Zemljopisni broj
+Zemljopisni broj je nacionalni (značajni) broj u nepokretnoj elektroničkoj komunikacijskoj mreži.
+U skladu s ITU-T preporukom E.164 za zemljopisni broj, nacionalni odredišni kôd u nacionalnom (značajnom) broju u nepokretnoj elektroničkoj komunikacijskoj mreži ima strukturu tranzitnog koda (eng.: »TC – Trunk Code«), koji u kombinaciji s nacionalnim predbrojem čini područni kod (eng.: »Area Code«).
+Detaljniji prikaz duljine i svrha korištenja navedenog broja definirani su u Tablici 1. ovog Plana numeriranja.
+2.2. Nezemljopisni broj
+Razlikuju se sljedeće vrste nezemljopisnih brojeva:
+– nacionalni (značajni) broj u pokretnoj elektroničkoj komunikacijskoj mreži
+– nacionalni (značajni) broj za usluge s posebnom tarifom
+– nacionalni (značajni) broj za usluge jedinstvenog pristupnog broja
+– nacionalni (značajni) broj za usluge besplatnog poziva
+– nacionalni (značajni) broj za usluge pristupa internetu
+– nacionalni (značajni) broj za usluge osobnog broja
+– nacionalni (značajni) broj za M2M usluge.
+Nezemljopisni broj sastoji se od nacionalnog odredišnog koda i pretplatničkog broja, kao što je prikazano na slici 2.
+Pri dodjeli nacionalnih (značajnih) brojeva za usluge s posebnom tarifom i nacionalnih (značajnih) brojeva za usluge besplatnog poziva, HAKOM vodi računa da se vodeće znamenke pretplatničkih brojeva ne preklapaju.
+Sukladno ITU-T preporukama E.168, E.168.1 i F.850, nacionalni (značajni) broj za usluge osobnog broja jedinstveno identificira korisnika i pomoću istoga pozivajući korisnik pristupa korisniku navedenog broja. Usluge osobnog broja odnose se na usluge kojima korisnik spaja svoj terminalni uređaj na bilo koju terminacijsku točku mreže i ostvaruje/zaprima pozive/poruke koristeći isti broj.
+Nacionalni (značajni) broj za M2M usluge može se koristiti za usluge unutar pokretnih elektroničkih komunikacijskih mreža. Komunikacija

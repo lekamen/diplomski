@@ -1,0 +1,31 @@
+ utvrđene rizike.
+IV. OVISNOST I MEĐUOVISNOST KRITIČNIH INFRASTRUKTURA
+Članak 15.
+(1) Nositelji izrade sektorske analize rizika poslovanja kritičnih infrastruktura i analize rizika poslovanja kritičnih infrastruktura pri procjenjivanju rizika i potrebnog stupnja zaštite obvezno uzimaju u obzir ovisnost i međuovisnost kritičnih infrastruktura.
+(2) Kritične infrastrukture mogu istovremeno biti ovisne o više drugih infrastruktura unutar jednog sektora, kao i o više drugih infrastruktura iz drugih sektora.
+(3) Međuovisnost kritičnih infrastruktura izravno i neizravno utječe na njihovo funkcioniranje te se kod izračuna rizika moraju uzeti u obzir i ovisnosti koje utječu na promatranu infrastrukturu, kao i ovisnosti drugih kritičnih infrastruktura o promatranoj kritičnoj infrastrukturi.
+Članak 16.
+Za utvrđivanje i analizu međuovisnosti kritičnih infrastruktura u obzir se uzimaju sljedeće značajke:
+1. karakteristike infrastrukture – organizacijske, operativne, vremenske, prostorne
+2. stanje rada – normalno/redovno, poremećeno, popravak i obnova
+3. vrste međuovisnosti – fizička, zemljopisna, informatička, logička
+4. okruženje/okolina infrastrukture – gospodarsko, poslovno, tehničko, socio-političko, pravno i regulatorno, zdravstveno, sigurnosno, javna politika
+5. sprega/povezanost i ponašanje u reakciji – stupanj sprege (labava, čvrsta), vrsta međuovisnosti (linearna, kompleksna), ponašanje u reakciji (nepopustljivo/neelastično, prilagodljivo)
+6. vrste kvara – kaskadni, eskalirajući, kvar s istim uzrokom.
+Članak 17.
+(1) Nositelji izrade sektorske analize rizika poslovanja kritičnih infrastruktura za utvrđivanje i analizu međuovisnosti kritičnih infrastruktura surađuju i razmjenjuju podatke s nositeljima analize rizika kritičnih infrastruktura iz drugih sektora i vlasnicima/upraviteljima kritičnih infrastruktura, u cilju sagledavanja međuovisnosti i s njima povezanih rizika i ranjivosti pojedinih kritičnih infrastruktura.
+(2) Središnja tijela državne uprave i regulatorne agencije obvezne su vlasnicima/ upraviteljima kritičnih infrastruktura iz svoga sektora dostavljati podatke od značaja za izradu analize rizika kritičnih infrastruktura kojima upravljaju te pružati stručnu pomoć u definiranju i primjeni međusektorskih i sektorskih mjerila za analizu prijetnji, rizika i ranjivosti identificiranih kritičnih infrastruktura i izradu njihovih sigurnosnih planova.
+V. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 18.
+(1) Središnja tijela državne uprave u suradnji s nadležnim regulatornim agencijama i strukovnim udrugama dužna su predložiti Vladi Republike Hrvatske kritične infrastrukture u sektorima iz svoga djelokruga u roku od šest mjeseci od dana stupanja na snagu ovog Pravilnika.
+(2) Središnja tijela državne uprave u suradnji s nadležnim regulatornim agencijama dužna su izraditi sektorske analize rizika kritičnih infrastruktura u sektorima iz svojega djelokruga u roku od dvanaest mjeseci od dana stupanja na snagu ovog Pravilnika.
+(3) Vlasnici/upravitelji kritičnih infrastruktura dužni su izraditi analizu rizika kritične infrastrukture kojom upravlja u roku od šest mjeseci od dana primitka odluke kojom čelnik nadležnog središnjeg tijela državne uprave određuje nacionalne kritične infrastrukture.
+Članak 19.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o metodologiji za izradu analize rizika poslovanja kritičnih infrastruktura (»Narodne novine«, broj 128/13).
+Članak 20.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 012-02/16-03/01
+Urbroj: 543-01-08-01-16-11
+Zagreb, 4. svibnja 2016.
+Ravnatelj dr. sc. Jadran Perinić, v. r.
+PRILOG 1. – PRILOG 3.

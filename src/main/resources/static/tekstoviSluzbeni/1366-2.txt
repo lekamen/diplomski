@@ -1,0 +1,40 @@
+ šifrarnika, dodjeljivanje i ukidanje korisničkih imena, lozinki, osiguravanje uvjeta za nesmetani rad sustava kao i za tumačenje uputa o načinu rada u sustavu JCMS.
+(2) Administrator središnjeg sustava JCMS ovlašten je unositi u sustav JCMS sve podatke o sudovima, korisnicima i promjenama koje je potrebno unijeti u sustav.
+(3) Administrator središnjeg sustava JCMS dužan je sudjelovati pri izradi uputa o korištenju novih funkcionalnosti, pravovremeno obavještavati korisnike o promjenama u sustavu te objavljivati informacije potrebne za rad u sustavu JCMS na internom korisničkom portalu » jcms.pravosudje.hr«.
+Ovlašteni stručnjak
+Članak 6.
+(1) Ovlašteni stručnjak je osoba zadužena za razvoj i održavanje sustava JCMS, koju odredi i ovlasti ministar nadležan za poslove pravosuđa.
+(2) Ovlašteni stručnjak, u okviru dodijeljenih ovlasti, brine o razvoju i održavanju sustava JCMS (strojna oprema, programska oprema, baza podataka, komunikacija, edukacija i drugo), a njegovo ovlaštenje određuje djelokrug rada, obveze i odgovornosti.
+(3) Ovlašteni stručnjak dužan je održavati sustav JCMS, analizirati te predlagati modele poslovnih procesa, implementirati ih i izrađivati tehničku dokumentaciju vezanu za razvoj.
+Administrator sustava JCMS u sudu
+Članak 7.
+(1) Administrator sustava JCMS u sudu je osoba određena godišnjim rasporedom poslova, uloga i ovlaštenja za pristup sustavu na sudu te unos podataka iz godišnjeg rasporeda poslova suda u administratorsku aplikaciju sustava JCMS.
+(2) Administrator sustava JCMS u sudu dužan je:
+1. obavijestiti administratora sustava JCMS o svim promjenama za svakoga suca i sudskog službenika vezano uz korisničko ime i lozinku i svojstvo (ulogu) za korištenje aplikacije sustava JCMS i učilice JCMS sustava,
+2. unijeti u sustav godišnji raspored poslova za sljedeću godinu, te svaku izmjenu godišnjeg rasporeda poslova odmah po njegovom primitku, a najkasnije u roku jednog radnog dana,
+3. pridružiti naselja predmeta zoni rješavanja predmeta,
+4. obavijestiti predsjednika suda o potrebi poduzimanja mjera vezanih uz gašenje referade ili preraspodjelu spisa u referadi,
+5. ažurno postupati po nalogu predsjednika suda posebno prilikom razrješenja ovlasti određene osobe za rad u sustavu JCMS,
+6. ažurno unijeti u sustav JCMS postotak oslobođenja i osnovu oslobođenja iz godišnjeg rasporeda poslova te svaku opravdanu odsutnost suca,
+7. obavljati i ostale poslove u sustavu JCMS po nalogu predsjednika suda te sukladno uputama ustrojstvene jedinice ministarstva nadležnog za poslove pravosuđa u čiji djelokrug rada ulaze poslovi vezani uz sustav JCMS.
+Korisnik sustava JCMS
+Članak 8.
+(1) Korisnik sustava JCMS je osoba ovlaštena za unos podataka i upravljanje predmetima u okviru dodijeljenog svojstva (uloge) i ovlaštenja.
+(2) Korisniku sustava JCMS moraju biti osigurani uvjeti za neometan rad u sustavu JCMS.
+(3) U okviru svojih nadležnosti i radnji koje obavljaju pomoću sustava JCMS, korisnici sustava JCMS su:
+1. predsjednik suda i sudski službenik u uredu predsjednika,
+2. sudac i sudski savjetnik (rješavatelj) i sudski službenik u referadi,
+3. službenik sudske pisarnice,
+4. ključni korisnik,
+5. službenik sudskog arhiva,
+6. druga osoba koju godišnjim rasporedom poslova određuje predsjednik suda.
+Zajedničke dužnosti svih korisnika sustava JCMS
+Članak 9.
+Korisnik sustava JCMS dužan je:
+1. prilikom unosa podataka u sustav JCMS koristiti isključivo korisničko ime i lozinku koji su mu dodijeljeni te čuvati njihovu tajnost,
+2. ažurno, točno i potpuno unositi podatke u sustav JCMS,
+3. pravovremeno obavijestiti nadležnu osobu u sudu o svakoj odsutnosti koja ima utjecaja na rad u sustavu JCMS.
+Dužnosti predsjednika suda kao korisnika sustava JCMS
+Članak 10.
+(1) Predsjednik suda skrbi za osiguranje nužnih kadrovskih, tehničkih i organizacijskih uvjeta za funkcioniranje sustava JCMS, za točan i ažuran unos podataka u sustav JCMS u sudu te za urednu provedbu mjera sigurnosti i zaštite podataka, vezano uz korištenje sustava JCMS u sudu.
+(2) 

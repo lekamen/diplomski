@@ -1,0 +1,29 @@
+ infrastrukture dužan je propisati općim aktom.
+(5) Skretnica na voznom putu koja nije u tehničkoj ovisnosti s glavnim signalima ili je ta ovisnost privremeno isključena, mora biti osigurana u pravilnom položaju za predstojeću vožnju vlaka uz jezičak skretnice.
+(6) SS uređajem ili vizualnim pregledom na samom mjestu utvrđuje se da je vozni put osiguran.
+(7) Ako se zbog neispravnosti SS uređaja ne može utvrditi da je vozni put osiguran, čak i u slučaju kada on završava na krnjem ili zauzetom kolosijeku, vlakovi smiju voziti samo ako se sigurnost prometa osigura signalima. U slučaju da se sigurnost prometa ne može osigurati signalima, upravitelj infrastrukture dužan je općim aktom propisati druge mjere osiguranja.
+(8) Ako nije osiguran put proklizavanja, a to nije predviđeno voznim redom, mora se postupiti kao da vozni put završava na zauzetom kolosijeku.
+(9) Vozni putovi ne smiju se međusobno sjeći, dodirivati ili preklapati, osim na dijelovima koji čine putove proklizavanja.
+(10) Duljina puta proklizavanja određuje se ovisno o dopuštenoj infrastrukturnoj brzini i iznosi najmanje:
+– 50 metara:
+a) iza ulaznih i zaštitnih signala ako je najveća dopuštena brzina do 140 km/h
+b) iza izlaznih signala ako je najveća dopuštena brzina do 100 km/h
+c) iza prostornih signala
+d) iza drugih mjesta kod kojih se vlak mora zaustaviti (međnik, manevarski signal za zaštitu voznog puta, granični kolosiječni signal) ako je najveća dopuštena brzina do 100 km/h
+– 75 metara iza ulaznih i zaštitnih signala ako je najveća dopuštena brzina od 141 km/h do 160 km/h
+– 100 metara iza izlaznih signala ako je najveća dopuštena brzina od 101 km/h do 140 km/h
+– 150 metara iza izlaznih signala ako je najveća dopuštena brzina od 141 km/h do 160 km/h.
+(11) Iznimno, upravitelj infrastrukture može propisati kolodvore u kojima se put proklizavanja za vlakove kraće od 150 metara određuje od mjesta zaustavljanja vlaka, pod uvjetom da udaljenost od mjesta zaustavljanja do međnika na izlaznoj strani nije manja od propisane duljine puta proklizavanja.
+(12) Odredbe o osiguranju voznih putova za vlakove vrijede i za manevarske sastave koji voze do određene točke na pruzi.
+Članak 111.
+(1) Svakom redovnom i izvanrednom vlaku, osim vlaku po izvanrednom zahtjevu podnositelja (ad hoc), upravitelj infrastrukture dužan je unaprijed odrediti i propisati redovni ulazni odnosno izlazni kolosijek.
+(2) Kada u kolodvor dolazi više vlakova, pojedinim vlakovima određuje se ulazni kolosijek tako da vlakovi koji nemaju zadržavanje prolaze glavnim prolaznim kolosijekom.
+(3) Kada se radi o vlakovima za prijevoz putnika, mora se voditi računa da vlak koji ulazi ili izlazi ne ugrožava sigurnost putnika.
+(4) Osiguranje voznog puta sadržava slobodnost kolosijeka, kolosiječnog prostora kao zaštitu od bočnih i čelnih vožnji, osiguranje slobodnosti međnika i puta proklizavanja te osiguranje prometa na ŽCP-ima, prekid manevriranja, postavljanje skretnica u pravilan položaj i signaliziranje signalnih znakova za dopuštenu vožnju na signalima u voznom putu.
+(5) Vozni put mora se osigurati na vrijeme kako bi se izbjeglo zaustavljanje ili smanjenje brzine dolazećeg vlaka odnosno kako odlazeći vlak zbog toga ne bi kasnio.
+(6) Izvršni radnici koji postavljaju skretnice odgovorni su za pravilan položaj skretnica u voznom putu.
+(7) Mjesto čuvanja ključeva skretničkih i ambulantnih brava upravitelj infrastrukture dužan je propisati općim aktom.
+(8) U kolodvorima u kojima nema izvršnih radnika koji postavljaju skretnice, skretnice kod osiguranja voznog puta postavlja prometnik vlakova.
+(9) Za pravodobno i potpuno osiguranje voznog puta odgovoran je prometnik vlakova, TK–dispečer na prugama opremljenim TK-uređajima.
+(10) Skretnice u voznom putu u kolodvorima bez relejnih i elektroničkih SS uređaja, izvršni radnici koji postavljaju skretnice postavljaju ih nakon dobivene zapovijedi za osiguranje voznog puta.
+(11) U kolodvorima s pritvrđenim skretnicama i u kolodvorima sa pouzdano zaključanim skretnicama koje u

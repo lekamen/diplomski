@@ -1,0 +1,32 @@
+3 08.01.2016 Pravilnik o uzajamnoj razmjeni informacija i izvješćivanju o kvaliteti zraka i obvezama za provedbu Odluke Komisije 2011/850/EU
+MINISTARSTVO ZAŠTITE OKOLIŠA I PRIRODE
+23
+Na temelju članka 120. stavka 3. Zakona o zaštiti zraka (»Narodne novine«, broj 130/11 i 47/14), ministar zaštite okoliša i prirode donosi
+PRAVILNIK
+O UZAJAMNOJ RAZMJENI INFORMACIJA I IZVJEŠĆIVANJU O KVALITETI ZRAKA I OBVEZAMA ZA PROVEDBU ODLUKE KOMISIJE 2011/850/EU
+Članak 1.
+Ovim se Pravilnikom propisuju pobliže zadaće Hrvatske agencije za okoliš i prirodu (u daljnjem tekstu: Agencija) i drugih tijela vezano uz način, rokove, sadržaj i format podataka te način prikupljanja podataka radi uzajamne razmjene informacija i izvješćivanja o procjenjivanju i upravljanju kvalitetom zraka.
+Članak 2.
+(1) Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva 2008/50/EZ Europskog parlamenta i Vijeća od 21. svibnja 2008. o kvaliteti zraka i čišćem zraku za Europu (SL L 152, 11. 6. 2008.).
+(2) Ovim se Pravilnikom utvrđuje nadležno tijelo i okvir za provedbu Provedbene odluke Komisije od 12. prosinca 2011. o utvrđivanju pravila za Direktive 2004/107/EZ i 2008/50/EZ Europskog parlamenta i Vijeća u pogledu uzajamne razmjene informacija i izvješćivanja o kvaliteti zraka (2011/850/EU) (SL L 335, 17. 12. 2011.), (u daljnjem tekstu: Odluka Komisije 2011/850/EU).
+Članak 3.
+(1) Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi uporabljeni u Odluci Komisije 2011/850/EU.
+(2) Osim pojmova iz stavka 1. ovoga članka, pojedini pojmovi koji se koriste u ovom Pravilniku sukladni su pojmovima utvrđenim posebnim propisom o zaštiti zraka i posebnim propisom o Nacionalnoj infrastrukturi prostornih podataka.
+Članak 4.
+Nadležno tijelo za provedbu Odluke Komisije 2011/850/EU je Agencija.
+Članak 5.
+Agencija za potrebe provedbe Odluke Komisije 2011/850/EU obavlja sljedeće poslove:
+– dostavlja informacije koje se koriste za uzajamnu razmjenu informacija i izvješćivanje u ime Republike Hrvatske u repozitorij podataka, uspostavljen od Europske komisije uz pomoć Europske agencije za zaštitu okoliša;
+– obavještava Europsku komisiju o osobi ili osobama iz članka 3. stavka 5. Odluke Komisije 2011/850/EU;
+– dostavlja informacije koje se koriste za uzajamnu razmjenu informacija u repozitorij podataka iz članaka 6., 7., 8., 9., 10., 11., 12., 13. i 14. Odluke Komisije 2011/850/EU u rokovima propisanim člancima 6., 7., 8., 9., 10., 12., 13. 14. i 16. stavka 2. Odluke Komisije 2011/850/EU na način propisan člankom 5. Odluke Komisije 2011/850/EU;
+– u slučaju ažuriranja informacija iz prve alineje ovoga članka, obrazlaže razlike između ažuriranih i originalnih informacija i razloge za ažuriranje sukladno članku 5. stavku 5. Odluke Komisije 2011/850/EU.
+Članak 6.
+Agencija objavljuje Upute Europske komisije za uzajamnu razmjenu informacija i izvješćivanje o kvaliteti zraka na svojim internetskim stranicama.
+Članak 7.
+(1) Za razmjenu informacija i izvješćivanje o procjenjivanju i upravljanju kvalitetom zraka koriste se podaci o koncentracijama onečišćujućih tvari dobivenih mjerenjima na mjernim mjestima određenim propisom kojim se uređuje popis mjernih mjesta za praćenje onečišćujućih tvari u zraku te podaci dobiveni indikativnim mjerenjima, modeliranjem i tehnikama objektivne procjene.
+(2) Podaci iz stavka 1. ovoga članka dostavljaju se u informacijski sustav zaštite zraka u elektroničkom obliku koristeći formate i protokole koje Agencija objavljuje na svojim internetskim stranicama.
+Članak 8.
+(1) Podaci o zonama i aglomeracijama i sustavu procjene iz članaka 6. i 7. Odluke Komisije 2011/850/EU dostavljaju se u Agenciju do 30. studenoga tekuće godine za sljedeću kalendarsku godinu.
+(2) Podaci iz članaka 8., 9., 10., 11. i 12. Odluke Komisije 2011/850/EU dostavljaju se u Agenciju do 30. travnja tekuće godine za proteklu kalendarsku godinu.
+Članak 9.
+(1) Obvezni elementi koje Akcijski plan za poboljšanje kvalitete zraka mora sadržavati propisani su u Dijelu I.

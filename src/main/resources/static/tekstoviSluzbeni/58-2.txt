@@ -1,0 +1,58 @@
+ rujna: Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o obvezama i Bilješki.
+(5) Financijski izvještaji proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave sastoje se od:
+– za proračunsku godinu: Bilance, Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o rashodima prema funkcijskoj klasifikaciji, Izvještaja o promjenama u vrijednosti i obujmu imovine i obveza, Izvještaja o obvezama i Bilješki,
+– za razdoblje od 1. siječnja do 30. lipnja: Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o obvezama i Bilješki,
+– za razdoblja od 1. siječnja do 31. ožujka i od 1. siječnja do 30. rujna Izvještaja o prihodima i rashodima, primicima i izdacima.
+1. Sadržaj obrazaca financijskih izvještaja
+Članak 8.
+Obrazac: BIL sadrži sljedeće:
+– stupac 1 – broj računa iz računskog plana,
+– stupac 2 – naziv,
+– stupac 3 – AOP oznaka,
+– stupac 4 – stanje 1. siječnja godine za koju se sastavlja izvještaj odnosno na dan početka poslovanja u toku godine,
+– stupac 5 – stanje 31. prosinca godine za koju se sastavlja izvještaj odnosno na dan prestanka poslovanja,
+– stupac 6 – indeks promjene stanja (upisuje se cijeli broj bez decimala).
+Članak 9.
+Obrazac: PR-RAS sadrži sljedeće:
+– stupac 1 – broj računa iz računskog plana,
+– stupac 2 – naziv,
+– stupac 3 – AOP oznaka,
+– stupac 4 – ostvareno u izvještajnom razdoblju prethodne godine,
+– stupac 5 – ostvareno u izvještajnom razdoblju tekuće godine,
+– stupac 6 – indeks ostvarenja u odnosu na isto razdoblje prethodne godine (upisuje se cijeli broj bez decimala).
+Članak 10.
+(1) Obrazac: RAS – funkcijski sadrži sljedeće:
+– stupac 1 – brojčana oznaka funkcijske klasifikacije,
+– stupac 2 – naziv,
+– stupac 3 – AOP oznaka,
+– stupac 4 – ostvareno u izvještajnom razdoblju prethodne godine,
+– stupac 5 – ostvareno u izvještajnom razdoblju tekuće godine.
+(2) Iznosi koji se upisuju u stupce 4 i 5 Obrasca: RAS – funkcijski moraju odgovarati ukupno iskazanim rashodima razreda 3 Rashodi poslovanja i 4 Rashodi za nabavu nefinancijske imovine u Obrascu: PR-RAS.
+Članak 11.
+Obrazac: P-VRIO sadrži sljedeće:
+– stupac 1 – broj računa iz računskog plana,
+– stupac 2 – naziv,
+– stupac 3 – AOP oznaka,
+– stupac 4 – ostvareno u izvještajnom razdoblju tekuće godine – povećanje,
+– stupac 5 – ostvareno u izvještajnom razdoblju tekuće godine – smanjenje.
+Članak 12.
+Obrazac: OBVEZE sadrži sljedeće:
+– stupac 1 – broj računa iz računskog plana,
+– stupac 2 – naziv,
+– stupac 3 – AOP oznaka,
+– stupac 4 – iznos.
+2. Bilješke uz financijske izvještaje
+Članak 13.
+(1) Bilješke su dopuna podataka uz financijske izvještaje.
+(2) Bilješke mogu biti opisne, brojčane ili kombinirane. Označavaju se rednim brojevima s pozivom na AOP oznaku izvještaja na koju se odnose.
+Članak 14.
+(1) Obvezne Bilješke uz Bilancu jesu:
+1. Pregled stanja i rokova dospijeća dugoročnih i kratkoročnih kredita i zajmova te posebno robnih zajmova i financijskih najmova (leasing) u Tablici 1. Dani zajmovi i primljene otplate, Tablici 2. Primljeni krediti i zajmovi te otplate i Tablici 3. Primljeni robni zajmovi i financijski najmovi,
+2. Pregled dospjelih kamata na kredite i zajmove u Tablici 4. Dospjele kamate na kredite i zajmove,
+3. Pregled ostalih ugovornih odnosa i slično koji uz ispunjenje određenih uvjeta, mogu postati obveza ili imovina (dana kreditna pisma, hipoteke, sporovi na sudu koji su u tijeku i slično).
+(2) Tablice iz stavka 1. ovoga članka nalaze se u prilogu ovoga Pravilnika i njegov su sastavni dio.
+(3) Jedinice lokalne i područne (regionalne) samouprave predaju tablice iz stavka 1. ovoga članka u elektroničkom obliku Ministarstvu financija do 15. veljače tekuće za prethodnu godinu.
+Članak 15.
+U Bilješkama uz Izvještaj o prihodima i rashodima, primicima i izdacima potrebno je navesti razloge zbog kojih je došlo do većih odstupanja od ostvarenja u izvještajnom razdoblju prethodne godine.
+Članak 16.
+U Bilješkama uz Izvještaj o promjenama u vrijednosti i obujmu 

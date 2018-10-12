@@ -1,0 +1,21 @@
+31 18.03.2015 Pravilnik o izmjenama i dopunama Pravilnika o osobnom identifikacijskom broju
+MINISTARSTVO FINANCIJA
+628
+Na temelju članka 20. Zakona o osobnom identifikacijskom broju (»Narodne novine« broj 60/2008) donosim
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O OSOBNOM IDENTIFIKACIJSKOM BROJU
+Članak 1.
+U Pravilniku o osobnom identifikacijskom broju (»Narodne novine« broj 1/2009, 117/2010 i 125/2013) iza članka 14.a dodaje se članak 14.b koji glasi:
+»Članak 14.b
+(1) Osobni identifikacijski broj određuje se i dodjeljuje poreznom obvezniku iz države članice Europske unije koji nema sjedište i prebivalište u tuzemstvu, a povremeno obavlja djelatnost na području Republike Hrvatske, temeljem podnesenog zahtjeva za registriranje za potrebe poreza na dodanu vrijednost (Obrazac P-PDV) putem elektroničke pošte.
+(2) Za potrebe određivanja i dodjeljivanja osobnoga identifikacijskog broja koriste se informacije iz podnesenog Obrasca P-PDV, a osobito brojčana ili opisna oznaka – (šifra) djelatnosti prema nacionalnoj klasifikaciji i PDV identifikacijski broj iz države sjedišta.
+(3) Ministarstvo financija, Porezna uprava prilikom određivanja i dodjeljivanja osobnoga identifikacijskog broja izvršit će provjeru valjanosti PDV identifikacijskog broja poreznog obveznika iz države sjedišta putem međunarodnoga elektroničkog portala za provjeru valjanosti PDV identifikacijskog broja.
+(4) Porezni obveznik iz stavka 1. ovoga članka obvezan je prilikom obavljanja povremene djelatnosti na području Republike Hrvatske za potrebe identifikacije predočiti Potvrdu o određenom i dodijeljenom osobnom identifikacijskom broju odnosno rješenje kojim se dodjeljuje PDV identifikacijski broj.«.
+Članak 2.
+U članku 51. stavak 1. mijenja se i glasi:
+»(1) Obveznik broja može postaviti Upit u Evidenciju putem sms-poruke ili putem web-servisa, identificirajući se imenom, prezimenom i jedinstvenim matičnim brojem građana (MBG) ili imenom, prezimenom i brojem osobne iskaznice ili imenom, prezimenom, vrstom, brojem i državom izdavanja identifikacijskog dokumenta, ovisno o vrsti upita.«.
+Članak 3.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 410-01/13-01/2578 Urbroj: 513-07-21-01/15-3 Zagreb, 2. ožujka 2015.
+Ministar financija mr. sc. Boris Lalovac, v. r.
+

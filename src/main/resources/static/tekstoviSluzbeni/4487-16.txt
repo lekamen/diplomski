@@ -1,0 +1,21 @@
+ sukladnosti
+5.1. Proizvođač poduzima sve potrebne mjere kako bi procesom proizvodnje i njegovim nadzorom osigurao homogenost svake proizvedene serije proizvoda te svoj proizvod stavlja na raspolaganje za potrebe provjere u obliku homogenih serija proizvoda.
+5.2. Iz svake se serije proizvoda uzima nasumični uzorak. Svi proizvodi u uzorku zasebno se ispituju i testiraju u skladu s ovim Pravilnikom kako bi se osigurala njihova sukladnost s primjenjivim zahtjevima međunarodnih instrumenata te kako bi se utvrdilo je li serija proizvoda prihvaćena ili odbijena.
+5.3. Ako je serija proizvoda prihvaćena, svi proizvodi iz te serije smatraju se odobrenima, osim proizvoda iz uzorka za koje je otkriveno da ne zadovoljavaju testove.
+Prijavljeno tijelo izdaje potvrdu o sukladnosti u vezi s provedenim ispitivanjima i testovima te na svaki odobreni proizvod stavlja identifikacijski broj ili organizira njegovo stavljanje pod vlastitom odgovornošću.
+Proizvođač je obvezan potvrde o sukladnosti učiniti dostupnima za pregled nacionalnim tijelima na najmanje 10 godina nakon što je znak kormilarskog kola stavljen na zadnji proizvedeni proizvod i ni u kojem slučaju na razdoblje kraće od očekivanog vijeka trajanja dotične pomorske opreme.
+5.4. Ako je serija proizvoda odbijena, prijavljeno tijelo ili nadležno tijelo poduzima sve prikladne mjere kako bi spriječilo stavljanje navedene serije na tržište. U slučaju učestalog odbijanja serija proizvoda prijavljeno tijelo može suspendirati statističku provjeru i poduzeti prikladne mjere.
+6. Oznaka sukladnosti i izjava o sukladnosti
+6.1 Proizvođač stavlja potrebnu oznaku sukladnosti iz članka 9. ovoga Pravilnika i, pod odgovornošću prijavljenog tijela navedenog u točki 3., identifikacijski broj tog tijela na svaki zasebni proizvod koji je u skladu s odobrenim tipom opisanim u potvrdi o EZ tipnom ispitivanju te koji ispunjava primjenjive zahtjeve međunarodnih instrumenata.
+6.2 Proizvođač sastavlja pisanu izjavu o sukladnosti za svaki model proizvoda te je stavlja na raspolaganje nacionalnim tijelima na najmanje 10 godina nakon što je znak kormilarskog kola stavljen na zadnji proizvedeni proizvod i ni u kojem slučaju na razdoblje kraće od očekivanog vijeka trajanja dotične pomorske opreme. Izjava o sukladnosti služi za identifikaciju modela pomorske opreme za koji je sastavljena.
+Primjerak izjave o sukladnosti mora biti dostupan relevantnim tijelima na njihov zahtjev.
+7. Ako je prijavljeno tijelo suglasno te akonavedeno pripada pod njegovu odgovornost, proizvođač također može staviti identifikacijski broj prijavljenog tijela na proizvode tijekom procesa proizvodnje.
+8. Ovlašteni predstavnik
+Ovlašteni predstavnik može ispuniti obveze proizvođača u njegovo ime te pod njegovom odgovornošću, pod uvjetom da su iste navedene u punomoći. Ovlašteni predstavnik ne smije ispuniti obveze proizvođača utvrđene u točkama 2. i 5.1
+V. MODUL G: SUKLADNOST NA TEMELJU POJEDINAČNE PROVJERE
+1. Sukladnost na temelju pojedinačne provjere je postupak ocjenjivanja sukladnosti prilikom kojeg proizvođač ispunjava obveze utvrđene točkama 2., 3. i 5. te kojim osigurava i potvrđuje na vlastitu odgovornost da su dotični proizvodi, koji podliježu odredbama točke 4., u skladu sa zahtjevima primjenjivih međunarodnih instrumenata.
+2. Tehnička dokumentacija
+Proizvođač sastavlja tehničku dokumentaciju te je stavlja na raspolaganje prijavljenom tijelu navedenom u točki 4. Dokumentacija omogućuje ocjenu sukladnosti proizvoda s relevantnim zahtjevima te sadržava odgovarajuće analize i procjene jednog ili više rizika. Tehničkom se dokumentacijom pobliže označuju primjenjivi uvjeti te obuhvaća projektiranje, proizvodnju i funkcioniranje proizvoda, u mjeri u kojoj je to relevantno za ocjenu. Tehnička dokumentacija sadrži, kada god je to primjenjivo, najmanje sljedeće:
+– opći opis proizvoda,
+– idejni projekt i radioničke nacrte te shematski prikaz sastavnih dijelova, podsklopova, strujnih krugova itd.,
+– opise i objašnjenja potrebna za razumijevanje

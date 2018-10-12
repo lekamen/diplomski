@@ -1,0 +1,31 @@
+ upravljanja društva za osiguranje
+3. neopravdanog povećanja operativnog rizika
+4. onemogućavanja ili otežavanja Agencije u provođenju nadzora
+5. neispunjavanja obveza prema osiguranicima, ugovarateljima osiguranja i korisnicima iz ugovora o osiguranju ili ugrožavanja njihovih interesa
+6. nastanka sukoba interesa pružatelja usluga i društva za osiguranje.
+(6) Društvo za osiguranje dužno je prije izdvajanja poslova, odnosno funkcija obavijestiti Agenciju i obavještavati je o svim naknadnim značajnim promjenama s obzirom na obavljanje tih poslova, odnosno funkcija.
+(7) Društvo za osiguranje mora prestati s izdvajanjem poslova ili funkcija ako bi to dovelo do posljedica iz stavka 5. ovoga članka.
+(8) Društvu za osiguranje mora biti omogućeno da u bilo kojem trenutku može pružatelju usluge dati daljnju uputu ili raskinuti ugovor o izdvajanju poslova ili funkcija kada je to u interesu društva za osiguranje.
+(9) Agencija će pravilnikom detaljnije propisati dokumentaciju kojom se utvrđuje postojanje uvjeta propisanih za izdvajanje poslova ili funkcija, kao i izvještavanje Agencije o izdvojenim poslovima ili funkcijama.
+GLAVA IX. ODREDBE O VREDNOVANJU IMOVINE I OBVEZA, TEHNIČKIM PRIČUVAMA, VLASTITIM SREDSTVIMA, POTREBNOM SOLVENTNOM KAPITALU, MINIMALNOM POTREBNOM KAPITALU I ULAGANJIMA
+POGLAVLJE I. VREDNOVANJE IMOVINE I OBVEZA
+Vrednovanje imovine i obveza za potrebe solventnosti
+Članak 105.
+(1) Društvo za osiguranje dužno je za potrebe solventnosti vrednovati imovinu i obveze na sljedeći način:
+1. imovina se vrednuje po iznosu za koji bi se mogla razmijeniti između dobro obaviještenih voljnih strana u transakciji po tržišnim uvjetima
+2. obveze se vrednuju po iznosu za koji bi se mogle prenijeti ili namiriti između dobro obaviještenih voljnih strana u transakciji po tržišnim uvjetima.
+(2) Društvo za osiguranje prilikom vrednovanja obveza iz stavka 1. točke 2. ovoga članka ne uzima u obzir vlastiti kreditni položaj.
+(3) Društvo za osiguranje dužno je prilikom vrednovanja imovine i obveza primjenjivati metode i pretpostavke u skladu s Uredbom (EU) br. 2015/35.
+POGLAVLJE II. TEHNIČKE PRIČUVE
+Načela izračuna tehničkih pričuva
+Članak 106.
+(1) Društvo za osiguranje dužno je oblikovati tehničke pričuve u skladu sa svojim obvezama iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(2) Vrijednost tehničkih pričuva mora odgovarati sadašnjem iznosu koji bi društvo za osiguranje moralo platiti kad bi svoje obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju odmah prenijelo na drugo društvo za osiguranje.
+(3) Izračun tehničkih pričuva mora upotrebljavati i biti usklađen s informacijama koje pružaju financijska tržišta te opće dostupnim podacima o preuzetim rizicima osiguranja, što predstavlja tržišnu usklađenost.
+(4) Društvo za osiguranje dužno je izračunavati tehničke pričuve na razborit, pouzdan i objektivan način.
+(5) Društvo za osiguranje dužno je izračunavati tehničke pričuve u skladu s načelima iz stavaka 2., 3. i 4. ovoga članka, uzimajući u obzir i načela iz članka 105. ovoga Zakona te u skladu s odredbama članaka 107. – 118. i članka 393. ovoga Zakona, odnosno u skladu s Uredbom (EU) br. 2015/35 i drugim propisima Europske komisije kojima se uređuju postupci za odobrenje primjene prilagodbe za uravnoteženje.
+Izračun tehničkih pričuva
+Članak 107.
+(1) Vrijednost tehničkih pričuva jednaka je zbroju najbolje procjene iz članka 108. ovoga Zakona i dodatka za rizik iz članka 109. ovoga Zakona.
+(2) Društvo za osiguranje dužno je zasebno vrednovati najbolju procjenu i dodatak za rizik.
+(3) Iznimno od stavaka 1. i 2. ovoga članka, kada se budući novčani tokovi povezani s obvezama iz ugovora o osiguranju, odnosno ugovora o reosiguranju mogu pouzdano replicirati financijskim instrumentima za koje postoji pouzdana i dostupna tržišna vrijednost, vrijednost tehničkih pričuva povezanih s tim budućim novčanim tokovima određuje se na temelju tržišne vrijednosti tih financijskih instrumenata. U ovom slučaju nisu potrebni zasebni izračuni

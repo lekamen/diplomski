@@ -1,0 +1,21 @@
+ razdoblje/godina prikupljanja podataka, metoda procjene, kvaliteta staništa, kratkoročni i dugoročni trend, površina staništa prikladnog za vrstu),
+e) pritisci (popis najznačajnijih pritisaka, metode procjene pritisaka),
+f) prijetnje (popis najznačajnijih prijetnji, metode procjene prijetnji),
+g) zaključke o procjeni stanja očuvanja vrste (na kraju razdoblja izvješćivanja).
+2. Za vrste iz skupine ptica (Aves):
+1. podatke o vrsti: naziv vrste (znanstveni i hrvatski), kôd vrste, sezona prikupljanja podataka (gnijezdeća, zimujuća ili preletnička populacija),
+2. podatke o veličini populacije: vremensko razdoblje/godina prikupljanja podataka, procjena veličine populacije, metoda i kvaliteta procjene, izvor podataka,
+3. trend populacije: kratkoročni i dugoročni trend, metoda i kvaliteta procjene, izvor podataka,
+4. podaci o gniježđenju i rasprostranjenosti: vremensko razdoblje/godina prikupljanja podataka, kartografski prikaz prisutnosti u GIS-u, površina rasprostranjenosti, metoda i kvaliteta procjene, izvor podataka,
+5. trend područja gniježđenja: kratkoročni i dugoročni trend, metoda i kvaliteta procjene, izvor podataka.
+V.
+Izvješće iz točke III. ove Odluke dostavlja se Ministarstvu u elektroničkom obliku temeljem evidencije, odnosno baze podataka koju vodi nadležno tijelo.
+VI.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 022-03/15-04/47
+Urbroj: 50301-05/25-15-2
+Zagreb, 11. veljače 2015.
+Predsjednik Zoran Milanović, v. r.
+PRILOG
+POPIS ZAVIČAJNIH DIVLJIH VRSTA ČIJE ODRŽIVO KORIŠTENJE SE DOPUŠTA I NADLEŽNIH TIJELA KOJA VODE EVIDENCIJU O NAČINU I KOLIČINI NJIHOVA KORIŠTENJA
+ANIMALIA – ŽIVOTINJE CHORDATA – SVITKOVCI MAMMALIA – SISAVCI RED PORODICA VRSTA – znanstveni naziv VRSTA – hrvatski naziv NADLEŽNO TIJELO NAPOMENA DIREKTIVA I PRILOG DIREKTIVE Carnivora Canidae Canis aureus čagalj središnje tijelo državne uprave nadležno za poslove lovstva   DS; Prilog V.   Mustelidae Martes martes kuna zlatica središnje tijelo državne uprave nadležno za poslove lovstva   DS; Prilog V.   Mustela putorius tvor središnje tijelo državne uprave nadležno za poslove lovstva   DS; Prilog V. Cetartiodactyla Bovidae Rupicapra rupicapra divokoza središnje tijelo državne uprave nadležno za poslove lovstva osim Rupicapra rupicapra balcanica DS; Prilog V. AVES – PTICE Anseriformes Anatidae Anser fabalis guska glogovnjača središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Anas platyrhynchos divlja patka središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Anas querquedula patka pupčanica središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Anas crecca kržulja središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Aythya ferina glavata patka središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Aythya fuligula krunasta patka središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A Charadriiformes Scolopacidae Gallinago gallinago šljuka kokošica središnje tijelo državne uprave nadležno za poslove lovstva negnijezdeća populacija DP; Prilog II., Dio A   Scolopax rusticola šljuka središnje tijelo državne uprave nadležno za poslove lovstva negnijezdeća populacija DP; Prilog II., Dio A Columbiformes Columbidae Columba livia divlji golub središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Columba palumbus golub grivnjaš središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A Galliformes Phasianidae Alectoris graeca jarebica kamenjarka središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Alectoris chukar čukar središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio B   Perdix perdix trčka središnje tijelo državne uprave nadležno za poslove lovstva   DP; Prilog II., Dio A   Coturnix coturnix prepelica središnje tijelo državne

@@ -1,0 +1,28 @@
+ opremu za mjerenje i za zaštitu sustava;
+7. poznavati osnovne krovne materijale, metode izrade metalnih pokrova za odvođenje kišnice i brtvljenje;
+8. imati znanja o vodoinstalaterskim i električnim instalacijama;
+9. imati znanja o lotanju cijevnih spojeva, lijepljenju cijevnih spojeva, brtvljenju instalacija i testiranju vodoinstalaterskih instalacija;
+10. imati znanja o povezivanju električnih vodova;
+11. biti osposobljeni da prema glavnom ili izvedbenom projektu, pravilima struke i uputama proizvođača izvedu instalaciju.
+Uvjerenje o uspješno završenom Programu izobrazbe
+Članak 30.
+(1) Uvjerenje o uspješno završenom Programu izobrazbe za fizičku osobu obvezno sadrži:
+1. ime i prezime;
+2. osobni identifikacijski broj;
+3. naziv Programa izobrazbe;
+4. datum pohađanja Programa izobrazbe;
+5. datum polaganja provjere znanja;
+6. naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji je proveo Program izobrazbe i/ili provjeru znanja;
+7. adresa sjedišta Nositelja Programa osposobljavanja;
+8. ime i prezime, potpis odgovorne osobe Nositelja Programa osposobljavanja i njegov pečat;
+9. naziv Pravilnika i broj i datum »Narodnih novina« u kojima je objavljen Pravilnik temeljem kojega se provodi Program izobrazbe i provjera znanja;
+10. broj uvjerenja, datum i mjesto izdavanja uvjerenja.
+(2) Za osobe koje su završile programe iz članaka 26. stavka 5. ovoga Pravilnika u Uvjerenje o uspješno završenom Programu izobrazbe iz stavka 1. ovoga članka umjesto podataka o završenom Programu izobrazbe upisuju se ekvivalentni podaci o završenim programima i ustanovama koje su ih provele.
+Provjera znanja
+Članak 31.
+(1) Provjeru znanja fizičkih osoba koje ispunjavaju uvjete propisane ovim Pravilnikom provodi Nositelj Programa osposobljavanja putem Ispitnog povjerenstva.
+(2) Nositelj Programa osposobljavanja dužan je omogućiti izlazak na provjeru znanja osobama koje su završile Program izobrazbe u roku od 14 dana nakon završetka Programa izobrazbe. Nositelj Programa osposobljavanja dužan je osigurati provjere znanja najmanje dva puta godišnje.
+(3) Ispitno povjerenstvo se sastoji od tri člana: predsjednika povjerenstva izabranog iz kadra stručnih osoba koje vode teorijski dio izobrazbe i provjere znanja, člana povjerenstva izabranog iz kadra stručnih osoba koje vode teorijski dio izobrazbe i provjere znanja i člana povjerenstva izabranog iz kadra stručnih osoba koje vode praktični dio izobrazbe i provjere znanja.
+(4) Provjeri znanja mogu pristupiti osobe koje ispunjavaju propisane uvjete stručne spreme i radnog iskustva, a koje su završile Program izobrazbe prema ovome Pravilniku. Provjeri znanja osoba može pristupiti najkasnije šest mjeseci nakon završetka Programa izobrazbe.
+(5) Provjeri znanja mogu pristupiti i osobe koje su završile odgovarajući program formalnog obrazovanja odraslih u skladu sa člankom 26. ovog Pravilnika.
+(6) Provjera znanja obuhvaća teoretski i praktični dio. Teoretski dio provjere znanja odnosi se na pismenu provjeru stečenih stručno-teorijskih znanja potrebnih za samostalno obavljanje poslova i obuhvaća pitanja iz svake od nastavnih cjelina teoretskog dijela programa izobrazbe. Praktični dio provjere znanja odnosi se na demonstraciju samostalnog spajanja solarnog toplinskog sustava i provjeru stečenih vještina. Samostalno spajanje solarnog toplinskog sustava s prisilnom cirkulacijom obuhvaća: analizu lokacije i procjenu zasjenjenja, analizu potrebnih mjera i primjenu sredstava zaštite na radu (pripremu i uporabu zaštitne radne odjeće za rad na visini), demonstriranje postavljanja solarnih kolektora na ravnom i/ili kosom krovu, rezanje bakrene cijevi, spajanje cijevi i fitinga lemljenjem, spajanje solarnog toplinskog sustava prema tehničkoj dokumentaciji (seta ulaza hladne vode, solarnog spremnika, solarnog seta, seta izlaza tople vode i diferencijalne automatike), punjenje kolektorskog kruga mješavinom glikola i vode ručnom pumpom, punjenje solarnog spremnika vodom preko ulaznog seta hladne vode, provjera

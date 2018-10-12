@@ -1,0 +1,18 @@
+ Priloga, u tom slučaju poslodavac mora odrediti više signalista.
+2.5. Rukovatelj mora prekinuti manevar u skladu s novim uputama odmah, čim ih dobije od signalista. Isto tako mora postupati u slučaju ako nije razumio upućene mu znakove.
+2.6. Pomagala
+Rukovatelj mora jasno i bez poteškoća prepoznati signalista sa svojega mjesta.
+Signalist mora nositi jedno ili više obilježja za raspoznavanje npr. bluzu, kacigu, narukavnike i reflektirajuće trake ili upotrebljavati signalnu palicu.
+Obilježja za prepoznavanje moraju biti svijetlih boja. Sva obilježja moraju biti iste boje, koja se može upotrebljavati isključivo u tu svrhu.
+3. Šifrirani znakovi koji se moraju upotrebljavati
+Prethodna napomena:
+Sljedeći šifrirani znakovi se moraju upotrebljavati za jednake manevre u pojedinim djelatnostima:
+Značenje Opis Prikaz
+A. Opći znakovi
+POČETAK Pažnja! Početak naredbe Obje ruke su ispružene vodoravno s dlanovima okrenutim naprijed ZAUSTAVLJANJE Prekid Kraj pokretanja Desna ruka upravljena prema gore s dlanom okrenutim naprijed KRAJ Kraj radnje Obje ruke su prekrižene u visini grudi
+B. Okomito kretanje
+DIZANJE Desna ruka upravljanja prema gore s dlanom okrenutim naprijed koji lagano kruži SPUŠTANJE Desna ruka upravljanja prema dole s dlanom okrenutim prema unutra koji lagano kruži OKOMITA UDALJENOST Ruke pokazuju relevantnu udaljenost
+C. Vodoravno kretanje
+KRETANJE NAPRIJED Obje ruke su zakrenute s dlanovima okrenutim prema gore i laganim pokretima podlaktica prema sebi KRETANJE NATRAG Obje ruke su zakrenute s dlanovima okrenutim prema dolje i laganim pokretima podlaktica od sebe DESNO od signaliste Desna ruka je ispružena više ili manje vodoravno s dlanom okrenutim prema dolje i lagano čini male pokrete u desno LIJEVO od signaliste Lijeva ruka je ispružena više ili manje vodoravno s dlanom okrenutim prema dolje i lagano čini male pokrete u lijevo VODORAVNA UDALJENOST Ruke pokazuju relevantnu udaljenost
+D. Opasnost
+OPASNOST Žurno zaustavljanje Obje ruke upravljene prema gore s dlanovima okrenutim naprijed BRZO Sva kretanja ubrzati SPORO Sva kretanja usporiti

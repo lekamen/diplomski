@@ -1,0 +1,28 @@
+ jesu sve izloženosti riziku kod kojih je potencijalni gubitak tako velik da ugrožava solventnost ili financijski položaj društva za osiguranje, odnosno društva za reosiguranje
+47. »tehnike smanjenja rizika« znače sve tehnike koje omogućuju društvu za osiguranje, odnosno društvu za reosiguranje da prenese dio svojih rizika ili sve svoje rizike na drugu osobu
+48. »diverzifikacijski učinci« znače smanjenje izloženosti riziku društva za osiguranje, odnosno društva za reosiguranje i grupa koje je povezano s diverzifikacijom njihova poslovanja, a proizlazi iz činjenice da se nepovoljni rezultat jednog rizika može poništiti povoljnijim rezultatom drugog rizika, pri čemu ti rizici nisu u potpunosti ovisni
+49. »prognoza distribucije vjerojatnosti« znači matematičku funkciju kojom se određuje vjerojatnost ostvarenja opsežnog skupa međusobno isključujućih budućih događaja
+50. »mjera rizika« znači matematičku funkciju kojom se danoj prognozi distribucije vjerojatnosti određuje novčani iznos i koji se monotono povećava s razinom izloženosti riziku na kojoj se temelji ta prognoza distribucije vjerojatnosti
+51. »EIOPA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje, osnovano Uredbom (EU) br. 1094/2010 Europskog parlamenta i Vijeća
+52. »ESMA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala, osnovano Uredbom (EU) br. 1095/2010 Europskoga parlamenta i Vijeća
+53. »EBA« je Europsko nadzorno tijelo – Europsko nadzorno tijelo za bankarstvo osnovano Uredbom (EU) br. 1093/2010 Europskoga parlamenta i Vijeća
+54. »ESRB« je Europski odbor za sistemski rizik, osnovan Uredbom (EU) br. 1092/2010 Europskoga parlamenta i Vijeća
+55. »ESFS« je Europski sustav financijskih agencija (EIOPA, ESMA i EBA) kojem pripada i ESRB
+56. »ESA« je zajednički izraz za europska nadzorna tijela, i to: EIOPA-u, EBA-u i ESMA-u
+57. »Zajednički odbor« je Zajednički odbor ESA-e osnovan člankom 54. sljedećih uredbi: Uredbe (EU) br. 1093/2010, Uredbe (EU) br. 1094/2010 i Uredbe (EU) br. 1095/2010
+58. Uredba (EU) br. 648/2012 je Uredba Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (SL L 201, 27. 7. 2012.)
+59. Uredba (EZ) br. 1060/2009 je Uredba Europskog parlamenta i Vijeća od 16. rujna 2009. o agencijama za kreditni rejting (SL L 302, 17. 11. 2009.)
+60. Uredba (EZ) br. 593/2008 je Uredba Europskog parlamenta i Vijeća od 17. lipnja 2008. o pravu koje se primjenjuje na ugovorne obveze (Rim I (SL L 177, 4. 7. 2008.).
+GLAVA II. OPĆE ODREDBE
+Područje primjene
+Članak 4.
+(1) Ovaj Zakon primjenjuje se na pravne osobe koje u skladu s ovim Zakonom na području Republike Hrvatske obavljaju poslove osiguranja i reosiguranja i druge osobe u skladu s odredbama ovoga Zakona.
+(2) Ako ovim Zakonom nije drukčije propisano, na obvezna osiguranja u prometu primjenjuju se odredbe zakona kojim se uređuju obvezna osiguranja u prometu, a na ostala obvezna osiguranja propisi kojima se uređuju ta osiguranja u Republici Hrvatskoj.
+(3) Ako ovim Zakonom nije drukčije propisano, na dopunska, dodatna i privatna zdravstvena osiguranja primjenjuju se odredbe zakona kojim se uređuje dobrovoljno zdravstveno osiguranje.
+(4) Što se tiče neživotnih osiguranja, ovaj Zakon ne primjenjuje se na:
+1. poslove osiguranja s kapitalizacijom isplate
+2. poslove štednih institucija i institucija za pružanje uzajamne pomoći kod kojih isplaćene naknade variraju ovisno o raspoloživim sredstvima i kod kojih su doprinosi članova određeni na paušalnoj osnovi
+3. poslove koje obavljaju organizacije koje nisu pravne osobe, a kojima je cilj pružanje uzajamnog pokrića za svoje članove bez plaćanja premija ili stvaranja tehničkih pričuva
+4. poslove osiguranja izvoznih kredita za račun ili uz jamstvo Republike Hrvatske ili druge države članice ili kod kojih su isti društvo za osiguranje
+5. poslove pružanja pomoći kada su ispunjeni svi sljedeći uvjeti:
+– pomoć 

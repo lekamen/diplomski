@@ -1,0 +1,51 @@
+
+Članak 32.
+Fizičke i pravne osobe, ovlaštenici povlastice za gospodarski ribolov na moru koji obavljaju ribolov tune i ovlaštenici povlastice za uzgoj tuna, mogu prekrcavati i iskrcavati tune samo u lukama određenim od Ministarstva.
+Članak 33.
+Iskrcaj i prekrcaj tuna dozvoljen je u svim uzgajalištima ovlaštenim za uzgoj tuna koja imaju ICCAT broj, te u sljedećim lukama:
+a) Dubrovnik – Gat Petka,
+b) Brač – Postira – Milna – Sumartin,
+c) Split – Brižine,
+d) Tribunj,
+e) Biograd,
+f) Kali,
+g) Rijeka,
+h) Rovinj.
+Članak 34.
+(1) Ovlaštenici povlastice za gospodarski ribolov na moru koje obavljaju iskrcaj tuna obavezne su dostaviti Ministarstvu sljedeće podatke:
+a) očekivano vrijeme i mjesto iskrcaja,
+b) očekivanu količinu tune za iskrcaj,
+c) ispunjeni obrazac Očevidnika o ulovu tuna (Prilog 4. ovoga Pravilnika), za tunu koja se iskrcava.
+(2) Podaci iz stavka 1. točke a) i točke b) ovoga članka dostavljaju se elektronski na obrascu Obavijest o iskrcaju tuna s ribarskog plovila (Prilog 10. ovoga Pravilnika) najmanje 4 sata prije očekivanog vremena iskrcaja.
+(3) Ako se lovišta tune nalaze na udaljenosti manjoj od 4 sata vožnje do iskrcajne luke, Obavijest o iskrcaju tuna s ribarskog plovila može se dostaviti najkasnije sat vremena prije dolaska u luku.
+(4) Za svaki iskrcaj tune potrebno je prethodno odobrenje Ministarstva.
+Članak 35.
+(1) U slučaju prekrcaja tuna, zapovjednik plovila s kojega se tuna prekrcava je dužan ispuniti ICCAT Deklaraciju o prekrcaju (Prilog 13. ovoga Pravilnika).
+(2) U slučaju prekrcaja tuna, fizičke i pravne osobe u čijem je vlasništvu plovilo koje zaprima tune (bilo da se radi o plovilu koje lovi ili prerađuje ulov) ili njegov predstavnik, obavezne su dostaviti Ministarstvu sljedeće podatke:
+a) datum i luku prekrcaja,
+b) predviđeno vrijeme dolaska,
+c) procijenjenu količinu tune koja se nalazi na plovilu i područje njenog ulova,
+d) naziv i ICCAT broj plovila koje je izvršilo ulov tuna koje se prekrcavaju,
+e) naziv i ICCAT broj plovila koje zaprima tune koje se prekrcavaju,
+f) težinu i područje ulova tune koju treba prekrcati.
+(3) Podaci iz stavka 2. ovoga članka dostavljaju se elektronski putem web-aplikacije na obrascu Obavijest o prekrcaju tuna s jednog ribarskog plovila na drugo ribarsko plovilo (Prilog 11. ovoga Pravilnika), najmanje 48 sati prije očekivanog vremena dolaska u luku.
+(4) Fizičke i pravne osobe u čijem je vlasništvu plovilo koje je ulovilo tunu ili njegov predstavnik u vrijeme prekrcaja moraju obavijestiti Ministarstvo o sljedećem:
+a) količini tune uključene u prekrcaj,
+b) datumu i luci prekrcaja,
+c) nazivu plovila koji zaprima, zastavu i njegov broj u ICCAT-ovoj evidenciji,
+d) području ulova tune koja se prekrcava.
+(5) Za svaki prekrcaj tune potrebno je prethodno odobrenje Ministarstva.
+(6) U slučaju prekrcaja tuna ulovljenih pod stranom zastavom Ministarstvo dostavlja zapis o prekrcaju nadležnom tijelu države čije je plovilo ulovilo tunu u roku od 5 dana nakon završetka prekrcaja.
+(7) Ribarska inspekcija pregledava plovilo koje zaprima tunu na dolasku u luku i provjerava teret i dokumentaciju koja se odnosi na prekrcajne radnje.
+PROGRAM PRAĆENJA PLOVILA
+Članak 36.
+(1) Sva plovila koja sudjeluju u gospodarskom ribolovu tune, sva plovila koja sudjeluju u prijevozu tune te svi tegljači koji sudjeluju u prijevozu obavezni su primjenjivati sustav za praćenje plovila (VMS).
+(2) Iznimno od stavka 1. ovoga članka plovila u gospodarskom ribolovu tune udičarskim alatima mogu obavljati ribolov bez VMS uređaja najkasnije do 31. prosinca 2015. godine.
+PROGRAM NACIONALNIH PROMATRAČA NA PLOVILIMA I UZGAJALIŠTIMA
+Članak 37.
+(1) Na plovilima koja aktivno love tunu tijekom ulovne sezone obvezna je prisutnost nacionalnih promatrača, i to na:
+– 20% aktivnih plovila duljine preko 15 m koja ribolov obavljaju plutajućim parangalima,
+– 100% plovila za tegalj.
+(2) Zadaće promatrača su:
+a) nadzor nad pridržavanjem odredbi propisa kojima se uređuju ribolov tune,
+b) bilježenje i izvješćivanje o ribolovnoj aktivnosti, a 

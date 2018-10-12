@@ -1,0 +1,29 @@
+ procijenjene i mjerene. Mjerene uštede se određuju CUSUM metodom grafičke analize u ISGE-u.
+3.3.1. CUSUM metoda grafičke analize u ISGE-u
+Verifikacija ostvarenih ušteda obilježava završni korak u uvođenju SGE-a te implementiranju mjera energetske učinkovitosti. Za sve provedene mjere potrebno je izmjeriti te proračunati ostvarene uštede kako bi se dobio stvaran utjecaj na potrošnju energije u promatranom ETC-u. Za vrednovanje ostvarenih ušteda koristi se metoda CUSUM grafa, odnosno analiza grafom kumulativnog zbroja. CUSUM graf koristi neovisne varijable o kojima ovisi potrošnja energije i vode. Verifikacija metodom CUSUM grafa provodi se prema periodima očitanja brojila od strane dobavljača/opskrbljivača energenata koji se jedino smatraju relevantnima.
+Koraci verifikacije:
+1. Definiranje bazne ili referentne potrošnje u ovisnosti o neovisnoj varijabli.
+Definira se godina bazne ili referentne potrošnje za što se koristi E-T krivulja. Definira se i neovisna varijabla (vanjska temperatura, grijana površina, stupanj-dan) koja mora biti u ovisnosti s potrošnjom.
+2. Definiranje režima potrošnje i popratnih jednadžbi pravaca E-T krivulje.
+Definira se ljetni/zimski/prijelazni režim u ovisnosti o neovisnoj varijabli (npr. zimsko razdoblje za srednje mjesečne vanjske temperature manje od 16 °C i ljetno razdoblje za srednje mjesečne vanjske temperature veće od 16 °C). Za svako razdoblje mora postojati utvrđena međuovisnost između potrošnje i neovisne varijable, obično definirana jednadžbama pravca pojedinih razdoblja.
+3. Prikupljanje podataka o potrošnji i neovisnoj varijabli nakon implementacije mjera povećanja energetske učinkovitosti.
+Uštede nije dovoljno samo navesti, već ih treba i brojčano kvantificirati. Idući korak CUSUM analize definira proračun potrošnje i ostvarenih ušteda. Važno je napomenuti da, ukoliko su uštede ostvarene, prikazane vrijednosti imaju negativan predznak.
+4. Proračun potrošnje ostvarenih ušteda.
+Za proračun potrošnje ostvarenih ušteda definiraju se pojmovi perioda analize, očitane i pretpostavljene potrošnje koji su detaljnije opisani u nastavku.
+Period analize – označava period očitanja potrošnje energije i neovisne varijable.
+Očitana potrošnja [kWh] – označava potrošnju energije prema računima dobivenima od strane dobavljača/opskrbljivača.
+Pretpostavljena potrošnja [kWh] – označava kolika bi se potrošnja energije ostvarila u baznoj godini za uvjete koje je varijabla imala u narednim godinama.
+Vrijednosti varijabli one godine u kojoj želimo verificirati uštede unose se u jednadžbe pravca definiranih režima bazne godine. Numerički, ušteda je iskazana negativnom vrijednošću kilovatsati, dok se grafički ušteda očitava kao udaljenost od točke interesa na Y osi do nule.
+Primjer. Prati se potrošnja toplinske energije u ovisnosti o vanjskoj temperaturi u razdoblju 2013. i 2014. godine, s tim da je krajem 2013. godine implementirana mjera energetske učinkovitosti. Želja je verificirati uštede u 2014. godini. Iz E-T krivulje 2013. godine računaju se dvije jednadžbe pravca, za ljetno i zimsko razdoblje:
+Zimsko razdoblje E=a*T+b [kWh], gdje je:
+a – koeficijent smjera pravca, odnosno nagib pravca
+b – odsječak koji pravac određuje na Y-osi, odnosno ordinati
+T – neovisna varijabla, u ovom primjeru vanjska temperatura
+Ljetno razdoblje E= 0 [kWh]
+Pretpostavljena potrošnja [kWh] dobiva se uvrštavanjem vrijednosti varijable T za 2014. godinu (odnosno, za onu godinu u kojoj se žele verificirati uštede) u jednadžbu pravca E-T krivulja za 2013. godinu (odnosno, baznu godinu).
+Razlika [kWh] – označava razliku između očitane i pretpostavljene potrošnje.
+CUSUM [kWh] – označava sumarne akumulirane uštede, odnosno sumu vrijednosti razlike i prethodne CUSUM vrijednosti.
+PRILOG 2
+UPUTE ZA SLANJE RAČUNA I OČITANJA DALJINSKIM PUTEM U ISGE SUSTAV (ISGE REMOTE 2.0)
+Pregled
+Sustav za energetski management kao bazu podataka koristi Oracle. Sustav za daljinsko slanje očitanja brojila i računa radi na način da se klijentska aplikacija

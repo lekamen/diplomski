@@ -1,0 +1,28 @@
+ vozača.
+Članak 18.
+Oprema u odjeljku za vozača je sljedeća:
+a) Sjedala za vozača i osoblje
+U odjeljku za vozača smiju se nalaziti samo dva sjedala (sjedalo za vozača i suvozača).
+b) Zračni jastuci
+U odjeljku za vozača moraju biti najmanje dva zračna jastuka (za vozača i za suvozača).
+c) Sustav grijanja i hlađenja te klima uređaj
+Sustav grijanja i hlađenja te klima uređaj u odjeljku vozača mora biti osiguran u osnovnom modelu vozila sukladno standardu koji je postavio proizvođač osnovnog modela vozila koje se prerađuje u medicinsko vozilo. Sustav grijanja i hlađenja te klima uređaj u odjeljku vozača mora biti neovisan od sustava grijanja i hlađenja te klima uređaja koji se ugrađuju u odjeljak za pacijenta.
+d) Komunikacijski sustav
+U odjeljku za vozača mora se nalaziti radio komunikacijska oprema sukladno standardu propisanom u važećim Smjernicama za korištenje TETRA radio uređaja u sustavu hitne medicinske službe.
+Za potrebe osiguranja propisane komunikacijske opreme u odjeljku za vozača moraju se nalaziti TETRA mobilni uređaj s odgovarajućim nosačem koji je povezan s antenom na krovu automobila i napajanjem iz akumulatora automobila, priključak na napajanje sa odgovarajućim konektorom i osiguračem, TETRA antena ugrađena na krovu s antenskim kablom i konektorom na mjestu ugradnje radio stanice te priključci za napajanje s akumulatorom i antenom postavljeni tako da su lako dostupni u slučaju kvara automobila ili opreme te da su otporni na uobičajene postupke čišćenja automobila.
+Poželjno je da se priprema za osiguranje rada komunikacijskog sustava (ugradnja nosača za učvršćivanje TETRA mobilnog uređaja, antene s antenskim kablom, priključka za napajanje s konektorom, osigurača i ostale popratne opreme) provede u tijeku preuređenja osnovnog automobila u medicinski automobil.
+e) Sustav za upravljanje zvučnom i svjetlosnom signalizacijom
+Upravljačka ploča sustava za zvučnu i svjetlosnu signalizaciju mora se nalaziti na mjestu koje je dostupno s vozačeva i suvozačeva sjedala. Upravljačka ploča sustava mora biti tako tehnički izvedena da je zaštićena tijekom redovnog održavanja/čišćenja vozila te da se lako zamjenjuje u slučaju kvara vozila ili uređaja.
+f) Dodatni akumulator
+Dodatni akumulator mora biti smješten i učvršćen ispod sjedala vozača. Dodatni akumulator s kapacitetom od najmanje 80 mAh mora biti spojen na punjač.
+g) Uređaj za gašenje požara
+Uređaj za gašenje požara mora biti smješten i učvršćen na onom mjestu u odjeljku za vozača koje je lako dostupno u slučaju potrebe, ali i zaštićeno od slučajne aktivacije uređaja u normalnim uvjetima rada. Zapremina uređaja mora biti sukladna važećim zakonskim propisima.
+h) Prenosiva lampica
+U odjeljku za vozača mora se nalaziti prenosiva svjetiljka za potrebe rada hitnog medicinskog tima u uvjetima smanjene vidljivosti. Prenosiva lampica mora biti postavljena ispred suvozačevog sjedala, imati snagu izvora svjetla iznad 50 W, bateriju koja se može puniti i osiguran priključak na 12 V utičnicu za punjenje baterije.
+Opremanje i unutrašnje uređenje medicinskog vozila
+Članak 19.
+Oprema za koju se mora osigurati smještaj i sigurno učvršćenje prilikom preuređenja osnovnog vozila u medicinsko vozilo, a koja nije navedena u prethodnim člancima su: set za traumu, set za reanimaciju odraslih, set za djecu, prsluk za imobilizaciju i izvlačenje, daska za imobilizaciju i izvlačenje s bočnim stabilizatorima i remenjem, rasklopna nosila s bočnim stabilizatorima i remenjem, vakuum madrac s ručnom crpkom, set ovratnika za imobilizaciju vratne kralježnice, dva (2) kompleta udlaga za imobilizaciju, platnena nosila te sanitetski materijal i ostala potrošna oprema.
+Medicinski uređaji za koje se mora osigurati smještaj i sigurno učvršćenje prilikom preuređenja osnovnog vozila u medicinsko vozilo, a koji nisu navedeni u prethodnim člancima su defibrilator, transportni ventilator i prijenosni električni aspirator.
+II. STANDARD VANJSKOG IZGLEDA VOZILA
+Članak 20.
+Standard vanjskog izgleda vozila opisuje uvjete

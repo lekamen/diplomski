@@ -1,0 +1,32 @@
+18 18.02.2015 Plan dodjele za frekvencijski pojas 1920 - 1980/2110 - 2170 MHz
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+392
+Na temelju članka 12. stavka 1. točke 9. i članka 82. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PLAN DODJELE
+ZA FREKVENCIJSKI POJAS 1920 – 1980/2110 – 2170 MHz
+Opći uvjeti
+Članak 1.
+(1) Opći uvjeti Plana dodjele za frekvencijski pojas 1920-1980/2110-2170 MHz određuju se Tablicom 1.
+Tablica 1.
+Frekvencijski pojas (MHz) Područje uporabe Primjena Raster Širina kanala Širina bloka 1920-1980/2110-2170 Republika Hrvatska UMTS 200 kHz Nominalno 5 MHz 5 MHz LTE 100 kHz 1,4; 3; 5; 10; 15; 20 MHz 5 MHz
+(2) Dupleksni način rada je FDD. Dupleksni razmak je 190 MHz uz frekvencijsko područje uzlazne veze 1920 – 1980 MHz i frekvencijsko područje silazne veze 2110 – 2170 MHz.
+Tehnički uvjeti za bazne postaje
+Članak 2.
+Karakteristike izvanpojasne maske ruba kanala (out-of-block BEM) određuju se Tablicom 2 Osnovni zahtjevi – BEM izvanpojasno ograničenje EIRP-a po anteni i Tablicom 3 Prijelazni zahtjevi – BEM izvanpojasno ograničenje EIRP-a po anteni.
+Tablica 2. Osnovni zahtjevi – BEM izvanpojasno ograničenje EIRP-a po anteni(1)[1]
+Frekvencijsko područje izvanpojasnih emisija za područje silazne veze Maksimalni srednji izvanpojasni EIRP Širina pojasa mjerenja Frekvencije udaljene više od 10 MHz od donjeg ili gornjeg ruba bloka 9 dBm 5 MHz
+Tablica 3. Prijelazni zahtjevi – BEM izvanpojasno ograničenje EIRP-a po anteni(1)
+Frekvencijsko područje izvanpojasnih emisija za područje silazne veze Maksimalni srednji izvanpojasni EIRP Širina pojasa mjerenja –10 do –5 MHz od donjeg ruba bloka 11 dBm 5 MHz –5 do 0 MHz od donjeg ruba bloka 16,3 dBm 5 MHz 0 do +5 MHz od gornjeg ruba bloka 16,3 dBm 5 MHz +5 do +10 MHz od gornjeg ruba bloka 11 dBm 5 MHz
+Tehnički uvjeti za krajnje postaje
+Članak 3.
+Maksimalna vrijednost unutarpojasne emisije za krajnje postaje određuje se Tablicom 4 Unutarpojasno ograničenje emisije.
+Tablica 4. Unutarpojasno ograničenje emisije
+Maksimalna srednja snaga 24 dBm
+Stupanje na snagu
+Članak 4.
+Ovaj Plan dodjele stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 344-04/15-07/33
+Urbroj: 376-03-15-1
+Zagreb, 11. veljače 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.
+[1](1) Ograničenje je određeno po anteni i primjenjuje se za konfiguracije baznih stanica sa maksimalno četiri antene po sektoru.

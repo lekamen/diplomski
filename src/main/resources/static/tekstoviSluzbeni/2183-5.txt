@@ -1,0 +1,26 @@
+ sadrži rezultate kemijske analize otpada sukladno Prilogu III. ovoga Pravilnika, odlagatelj je dužan provjeriti radi li se o otpadu koji je odredbama ovog Pravilnika izuzet od potrebe izrade iste sukladno točkama 5. i 6. Priloga II. i točkama 1.3. i 2.4. Priloga III. ovoga Pravilnika.
+(4) Parametri za provjeru sukladnosti i dinamika provođenja provjere sukladnosti moraju biti navedeni u osnovnoj karakterizaciji otpada, a odlagatelj otpada mora voditi računa da se provjera sukladnosti provodi prema opsegu i dinamikom utvrđenom u osnovnoj karakterizaciji otpada, a najmanje jednom u 6 mjeseci.
+(5) Provjera sukladnosti otpada provodi se prema metodama uzorkovanja i ispitivanja za izradu osnovne karakterizacije otpada iz članka 8. ovoga Pravilnika.
+(6) Rezultate dobivene provjerom sukladnosti odlagatelj mora čuvati do zatvaranja odlagališta.
+Članak 12.
+(1) Prije odlaganja otpada na odlagalište odlagatelj mora osigurati provjeru cjelokupne dokumentacije o otpadu.
+(2) Provjera dokumentacije sastoji se od utvrđivanja njezine potpunosti i ispravnosti prema uvjetima iz ovoga Pravilnika, a osobito provjere rezultata osnovne karakterizacije otpada i provjere sukladnosti.
+(3) Odlagatelj može na odlaganje prihvatiti jedino otpad za kojeg je obavljena provjera iz stavaka 1. i 2. ovoga članka i za kojeg je dostavljen popunjeni prateći list prema posebnom propisu ili drugi odgovarajući dokument koji prati pošiljku sukladno propisima kojima se uređuje prekogranični promet otpada.
+(4) Otpad kojeg odlagatelj prihvaća na odlagalište mora se prethodno izvagati i vizualno pregledati prije i nakon istovara u odlagalištu, kako bi se mogao odstraniti ako nije primjeren za odlaganje. Vaganje se može osigurati na vagi na odlagalištu, izvan odlagališta ili na vagama na vozilima za prijevoz otpada.
+(5) Za otpad kojeg je odlagatelj preuzeo na odlaganje dužan je voditi Očevidnik o nastanku i tijeku otpada koji sadrži podatke o ukupnoj količini, vrstama otpada i podrijetlu njegova nastanka prema posebnom propisu. Za opasni otpad vodi se evidencija o točnoj lokaciji odlaganja na pojedinom odlagalištu.
+Članak 13.
+(1) Odlagatelj će odbiti preuzimanje otpada na odlaganje u slučajevima, kada:
+– odlaganje takvog otpada na odlagalište nije dozvoljeno, a posebno ako to proizlazi iz rezultata izrade osnovne karakterizacije otpada za odlaganje,
+– osnovna karakterizacija otpada nije izrađena,
+– međusobni utjecaj s već odloženim otpadom na odlagalištu značajno povećava mogućnosti opterećenja okoliša,
+– je sadržaj osnovne karakterizacije otpada nepotpun, nedostatan ili rezultati nisu dovoljno jasni,
+– je osnovnoj karakterizaciji otpada istekao propisani rok valjanosti,
+– dvoji o identičnosti otpada ili sadržaju opasnih tvari u njemu,
+– geotehničke osobine otpada i uvjeti njegova odlaganja u tijelo odlagališta ne jamče potrebnu stabilnost tijela odlagališta.
+(2) U slučajevima kada odlagatelj odbije preuzimanje dostavljenog otpada, prema stavku 1. ovoga članka, posjedniku otpada može dozvoliti njegovo privremeno skladištenje na lokaciji odlagališta najviše četiri mjeseca, u kojem roku posjednik mora dopuniti ili ponovo izraditi osnovnu karakterizaciju otpada za odlaganje.
+(3) Dan početka skladištenja otpada iz stavka 2. ovoga članka mora biti upisan u radni dnevnik odlagališta.
+(4) U slučajevima kada odlagatelj utvrdi da dostavljeni otpad ne odgovara podacima u priloženoj karakterizaciji otpada ili ako temeljem utvrđenih slučajeva iz stavka 1. ovoga članka odbije preuzimanje otpada o tome je dužan pismeno izvijestiti inspektora nadležnog za zaštitu okoliša.
+(5) Izvještaj iz stavka 4. ovog članka, pored podataka o posjedniku otpada, mora sadržavati i podatke o osobi koja je izradila osnovnu karakterizaciju otpada.
+Članak 14.
+Za vrijeme redovnog odlaganja otpada u tijelo odlagališta mora biti osigurano sljedeće:
+1. metoda odlaganja otpada u tijelo odlagališta mora jamčiti sigurnost osoblja odlagališta i ne smije ugrožavati sistem brtvljenja odlagališnog dna, stabilnost

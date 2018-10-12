@@ -1,0 +1,21 @@
+ Interni dokumenti koji proizlaze iz rada Povjerenstva smatraju se javnim dokumentima osim ukoliko Povjerenstvo ne klasificira dokument drukčije.
+6.1.2.3 Rad i način rada Povjerenstva uređen je Poslovnikom.
+6.2 Eksterne obuke, komunikacija i distribucija informacija o sigurnosti
+U skladu s ICAO zahtjevima, države članice moraju uspostaviti i održavati formalni način komunikacije prema industriji koji osigurava da je osoblje pružatelja usluga u potpunosti upoznato s Nacionalnim programom sigurnosti i njegovom vezom sa SMS-om, da se važne informacije o sigurnosti prenose pružatelju usluga i da pružatelj usluga razumije zašto se specifične aktivnosti poduzimaju.
+6.2.1 Eksterna obuka
+6.2.1.1 Agencija osigurava pružateljima usluga potporu u implementaciji SMS zahtjeva kroz objavu smjernica i organiziranje radionica i tečajeva. Ove su aktivnosti definirane u godišnjem planu rada Agencije. U pripremi tečajeva se uvelike oslanja na ICAO SMS i EASA dokumentaciju, na EU uredbe i direktive, ESARR-e, smjernice za provedbu ESARR-a (EAM-GUI, EAM-AMC), kao i na preporučenu praksu.
+6.2.2 Eksterna komunikacija i distribucija informacija o sigurnosti
+6.2.2.1 Vlada Republike Hrvatske na prijedlog Povjerenstva donosi Nacionalni program sigurnosti, koji se objavljuje u »Narodnim novinama«, kao i na web-stranicama Agencije i Ministarstva.
+6.2.2.2 Agencija na svojim web-stranicama zrakoplovnoj industriji i javnosti daje obavijesti i informacije o provedenim i planiranim izmjenama nacionalne i međunarodne regulative. Posebne obavijesti i smjernice daju se u slučaju specifičnih problema/pitanja povezanih sa sigurnošću zračnog prometa na koje pružatelji usluga trebaju obratiti pažnju prilikom obavljanja svojih aktivnosti.
+6.2.2.3 Agencija za istraživanje na svojim web-stranicama izvještava javnost o tijeku i rezultatima istraživanja nesreća i ozbiljnih nezgoda zrakoplova.
+DODATAK 1 – PRAVNI OKVIR ZRAKOPLOVNE SIGURNOSTI
+Pravni okvir koji uređuje područje zrakoplovne sigurnosti kombinacija je međunarodne, europske i nacionalne regulative.
+U okviru nadležnosti Europske unije, njene institucije donose uredbe, direktive, odluke, preporuke i mišljenja. Uredbe su izravno obvezujuće i neposredno se primjenjuju u svim državama članicama, te se provedbeni propis za uredbe donosi samo iznimno, kada to zahtijevaju same odredbe uredbe. Direktive su obvezujuće s obzirom na cilj koji žele postići, dok su oblik i metoda postizanja tog cilja prepušteni nacionalnim pravnim sustavima država članica kroz provedbene propise. Odluke su u cijelosti i izravno obvezujuće za svoje adresate. Preporuke i mišljenja nemaju obvezujuću snagu.
+Prema hijerarhiji nacionalni se pravni okvir sastoji od primjenjivih propisa Europske unije te nacionalnog zakonodavstva: primarnih propisa (zakoni) i sekundarnih provedbenih propisa (pravilnici i naredbe o zrakoplovnoj sigurnosti) u nekim slučajevima dodatno definiranih kroz zrakoplovno sigurnosnu informaciju (ASIL). Ovaj dodatak opisuje trenutnu situaciju nacionalnog pravnog okvira za područje zračnog prometa.
+Glavni su zahtjevi civilnog zrakoplovstva definirani u Zakonu o zračnom prometu koji sadrži odredbe koje se primjenjuju na sve aktivnosti u civilnom zrakoplovstvu koje se izvode na teritoriju i u zračnom prostoru Republike Hrvatske, kao i na aktivnosti koje se izvode izvan teritorija i zračnog prostora Republike Hrvatske zrakoplovima registriranim u Republici Hrvatskoj.
+Kao što je definirano u članku 149. Zakona o zračnom prometu, provedbena pravila vezana uz sigurnost zračnog prometa donose se:
+• radi osiguravanja provedbe i primjene EU uredbi, kada je to potrebno
+• radi preuzimanja EU direktiva u nacionalno zakonodavstvo
+• radi ujednačavanja nacionalnih propisa s ICAO standardima, te
+• radi ujednačavanja nacionalnih propisa s ICAO preporučenom praksom u opsegu u kojem je ta preporučena praksa primjenjiva i relevantna za civilno zrakoplovstvo u Republici Hrvatskoj.
+Detaljan i ažuriran pregled nacionalnog zakonodavstva za područje

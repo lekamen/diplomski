@@ -1,0 +1,41 @@
+ znakova za uzbunjivanje, snimljenih poruka i govora u živo, sa smanjenom razinom zvučnog pritiska.
+Članak 6.
+(1) Elektromotorna sirena sastoji se od standardne i dodatne opreme.
+a) Standardna oprema:
+– glava (poklopac, glava kompresora sa statorom i rotorom, namotaj motora, zaštitne mreže)
+– lokalni uređaj za upravljanje (energetski sklop, kontroler s upravljačkim elementima, modul za komunikacije, blok za praćenje stanja elektromotorne sirene, termo-zaštitni relej, baterija i punjač baterije, metalni ormarić s bravicom)
+– montažni pribor
+b) Dodatna oprema:
+– radio uređaj.
+(2) Tehnički i funkcionalni zahtjevi:
+Glava:
+– može emitirati jednoličan ili zavijajući ton zvučnog tlaka minimalno 104 dB na 30 m udaljenosti
+– osnovno napajanje 380 V, 50 Hz
+Lokalni uređaj za upravljanje:
+– osigurava uključivanje propisanih znakova za uzbunjivanje i poništavanje pokrenutih naredbi tako da generira uključivanje i isključivanje kontaktora
+– detektira prisutnost mrežnog i baterijskog napajanja
+– memorira primljene korisne poruke i promjene statusnih ulaza što se može pročitati spajanjem na prijenosno računalo
+– ima najmanje pet statusnih ulaza preko kojih se obavezno prenose podaci o mrežnom naponu (prisutnosti sve tri faze), baterijskom naponu i lokalnom radu sirene
+– podatke koji se odrede kao prioritetni (lokalni alarm, neovlašteni pristup sireni, nestanak mrežnog napajanja) odmah šalje prema centralnom uređaju za upravljanje i nadzor sirenama
+– koristiti napajanje od 12 V DC s obveznim pričuvnim baterijskim napajanjem
+– modul za komunikacije osigurava komunikaciju s centralnim uređajem za upravljanje i nadzor sirenama u dvije razine (prva stalno ispitivanje ispravnosti komunikacije i druga prijenos komandi i drugih podataka)
+– ima pouzdanu zaštitu od slučajnog ili zlonamjernog pokretanje alarma.
+Članak 7.
+(1) Centralni uređaj za upravljanje i nadzor sirenama i aplikacija za upravljanje i nadzor sirenama sastoji se od:
+– osobnog računala
+– modula za komunikacije
+– aktivacijskog panela
+– pisača.
+(2) Tehnički i funkcionalni zahtjevi centralnog uređaja za upravljanje i nadzor sirenama:
+– računalo s programskom podrškom mora omogućavati daljinsko upravljanje i nadzor nad sirenama i senzorima koji se koriste u sustavu
+– razmjena podataka mora se zasnivati na najnovijim informacijsko-komunikacijskim tehnologijama
+– konfiguracija sustava mora omogućavati nadogradnje i proširivanje kapaciteta sustava
+– u sustavu mora biti omogućen digitalni prijenos podataka
+– u sustavu mora biti omogućeno korištenje digitalne ili analogne radio mreže, TCP/IP mreže kao i zakupljenih telefonskih vodova
+– sustav mora omogućavati izgradnju podcentrala i prihvata istih u jedinstveni sustav daljinskog upravljanja zbog uvezivanja sustava uzbunjivanja pravnih osoba koje su dužne uspostaviti vlastiti sustav uzbunjivanja i uvezati ga u jedinstveni sustav županije
+– sustav mora omogućavati hijerarhijsko uvezivanja županijskih sustava u jedinstveni sustav javnog uzbunjivanja stanovništva na razini Republike Hrvatske
+– sustav treba omogućiti brz i jednostavan prijenos naredbi za aktivaciju znakova za uzbunjivanje, pokretanje reprodukcije snimljenih govornih poruka i govornih poruka uživo prema svim sirenama u sustavu, grupama sirena ili pojedinoj sireni
+– sustav naredbama za aktivaciju znakova za uzbunjivanje, pokretanje reprodukcije snimljenih govornih poruka i govornih poruka uživo kao i naredbi za prekid istih mora pridijeliti apsolutni prioritet pred ostalim aktivnostima kao što su naredbe za ispitivanje stanja sirena, slanje povratnih informacija sa sirena i slično
+– sustav mora odmah prikazivati informacije, uz zvučno upozorenje, koje se odrede kao prioritetne, kao što su lokalni alarm, neovlašteni pristup sireni, prekid mrežnog napajanja i prelazak dozvoljene koncentracije onečišćenja
+– sustav mora omogućiti provjeru veze prema sirenama
+– u okviru sustava potrebno je omogućiti ispitivanje pojedine sirene, grupe sirena i svih sirena po želji operatera u bilo koje

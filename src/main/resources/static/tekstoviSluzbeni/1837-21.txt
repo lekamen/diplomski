@@ -1,0 +1,43 @@
+ neposredno uz mjesto smještaja ili s mjesta na koje se premješta splav za spašavanje prije spuštanja, u skladu sa zahtjevima navedenim u 2.7.5.
+4.3.2 Na teretnim brodovima bruto tonaže 20.000 i više, brodice za spašavanje moraju se moći spustiti i, ako je potrebno pomoću vezaljki, dok brod plovi naprijed pri brzini do 5 čvorova u mirnoj vodi.
+PRILOG V.
+ZAHTJEVI ZA DRUGE TIPOVE BRODOVA
+5.1 BRODOVI POSEBNE NAMJENE
+5.1.1 Brodovi posebne namjene na kojima se nalazi više od 50 članova posebnog osoblja moraju biti opremljeni u skladu sa zahtjevima za putničke brodove koji obavljaju međunarodna putovanja koja nisu kratka međunarodna putovanja. Brodovi predviđeni za plovidbu u području 5, 6, 7 i 8, moraju biti opremljeni u skladu sa zahtjevima za putničke brodove predviđene za plovidbu u tim područjima.
+5.1.2 Brodovi posebne namjene na kojima se nalazi do, uključivo 50 članova posebnog osoblja moraju biti opremljeni u skladu sa zahtjevima za teretne brodove.
+5.1.3 Ako brodovi navedeni u 5.2.2 udovoljavaju zahtjevima za pregrađivanje, navedenim u skladu s Pravilima, Dio 5. – Pregrađivanje, 2.1.4.5, opremaju se u skladu s 5.2.1.
+5.1.4 Školski brodovi na jedra, na kojima je ukrcano 50 i više članova posebnog osoblja (vježbenika), moraju se opremiti u skladu s 3.1.1.5 i, pored toga, hidro-termo odijelima za sve osobe na brodu.
+5.1.5 Brodovi posebne namjene područja plovidbe 4, 5, 6, 7 i 8 opremaju se osobnim sredstvima za spašavanje u skladu sa zahtjevima za teretne brodove osim tankera, tankera za kemikalije i brodova za ukapljene plinove, predviđene za plovidbu u tim područjima.
+5.2 BRODOVI ZA TEHNIČKE NAMJENE
+5.2.1 Spasilački, protupožarni i pilotski brodovi, te tegljači moraju biti opremljeni kao teretni brodovi, a ledolomci kao brodovi posebne namjene.
+5.2.2 Brodovi za sakupljanje ulja moraju biti opremljeni sredstvima za spašavanje u skladu sa zahtjevima za tankere.
+5.2.3 Za plovne dizalice, ovisno o području plovidbe, RO u pojedinom slučaju određuje potrebnu opremu za spašavanje.
+5.3 BRZA PLOVILA
+5.3.1 Brza HSC plovila
+Brza HSC plovila moraju moraju imati opremu za spašavanje u skladu sa zahtjevima HSC Kodeksa (vidjeti MSC. 97(73)).
+5.3.2 Dinamički podržavana plovila (DSC)
+Brza plovila izrađena u skladu sa zahtjevima DSC Kodeksa (IMO Rezolucija A.373(X), s izmjenama) moraju, najmanje, imati:
+.1 splavi za spašavanje, ukupnog kapaciteta za smještaj svih osoba na brodu;
+.2 brodica za prikupljanje (postojeći brod- ako je ima, mora je zadržati; ako je nema ne zahtjeva se);
+.3 koluti za spašavanje:
+– kolut za spašavanje sa samoupaljivim svjetlom i samoupaljivim dimnim signalom
+– kolut za spašavanje sa samoupaljivim svjetlom
+– dva koluta za spašavanje s plutajućim konopom;
+.4 prsluci za spašavanje, 105 % od ukupnog broja osoba na brodu. dodatno, prsluci za spašavanje pogodni za djecu, 10 % od ukupnog broja osoba na brodu. Prsluci za spašavanje moraju biti opremljeni svjetlom;
+.5 šest raketa s padobranom (crvenih);
+.6 sprava za dobacivanje konopa s najmanje dvije rakete i dva konopa;
+.7 VHF primoodašiljač; i
+.8 uređaj za lociranje kod traganja i spašavanja.
+5.3.3 Uputstva
+Zahtjevi ove točke odnose se na sva brza plovila (vidi Pravila, Dio 1. – Opći propisi, 1.2.38).
+Navedeni brodovi moraju imati Uputstva u skladu sa zahtjevima HSC Kodeksa, poglavlje 18.2 (u opsegu koliko je primjenjivo):
+.1 Uputstvo za rukovanje plovilom;
+.2 Uputstvo za korištenje plovila na određenim rutama;
+.3 Uputstvo za održavanje i servisiranje opreme i uređaja; i
+.4 Uputstvo za obuku.
+PRILOG VI.
+SREDSTVA ZA SPAŠAVANJE
+6.1 OPĆI ZAHTJEVI
+6.1.1 Ako nije izričito drukčije kazano, ili ako, po mišljenju RO, s obzirom na putovanja koja brod stalno obavlja, drugi zahtjevi nisu potrebni, sva sredstva za spašavanje navedena u ovom odjeljku moraju biti:
+.1 dobro građena i od dobrih materijala;
+.2 ne smiju se oštetiti na mjestu smještaja pri temperaturi od -30 °C do + 65 °C i, osobna sredstva za spašavanje, ako drugdje nije drugačije kazano, moraju ostati uporabljivapri

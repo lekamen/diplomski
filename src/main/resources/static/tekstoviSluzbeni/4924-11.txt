@@ -1,0 +1,38 @@
+ mjesta na površini kotrljanja prejako udaraju o tračnicu, odmah o tome obavještava prometnika vlakova u prvom sljedećem kolodvoru, a ako je to moguće, poduzima mjere da se vlak odmah zaustavi i da se obavi pregled vozila u čiju se ispravnost sumnja.
+Probe kočenja
+Članak 39.
+(1) Na vlaku se obavlja provjera ispravnosti automatskih kočnica i drugih kočnica ako se te kočnice uračunavaju u stvarnu kočnu masu (u daljnjem tekstu: SKM). Proba kočenja obavlja se i na manevarskim sastavima i pružnim vozilima.
+(2) Vrste proba kočenja su:
+a) A – potpuna proba kočenja kod koje se provjerava kočenje i otkočivanje kočnica svih kočenih vozila u vlaku
+b) B – pojedinačna proba kočenja kod koje se provjerava kočenje i otkočivanje kočnica svakog kočenog vozila dodanog vlaku
+c) C – priključna proba kočenja kod koje se provjerava kočenje i otkočivanje kočnice prvog kočenog vozila koje se nalazi iza mjesta razdvajanja odnosno kvačenja za vlak; na motornim garniturama pri tome se provjerava kočenje i otkočivanje kočnice na prvom postolju do upravljačnice u smjeru vožnje vlaka i
+d) D – proba prolaznosti glavnog zračnog voda kod koje se provjerava kočenje i otkočivanje kočnice posljednjeg kočenog vozila u vlaku.
+(3) Probe kočenja B, C i D zajednički se nazivaju skraćenim probama kočenja.
+(4) Probu kočenja obavljaju strojovođa i drugi stručno osposobljeni izvršni radnik. Na vlaku za prijevoz putnika sastavljenom od jedne ili više motornih garnitura, probu kočenja obavlja strojovođa samostalno. Ako se potpuna proba kočenja obavlja stabilnim postrojenjem, istu na svim vlakovima obavlja drugi stručno osposobljeni izvršni radnik samostalno.
+Članak 40.
+Željeznički prijevoznik i upravitelj infrastrukture dužni su općim aktom, svaki za svoje vlakove, propisati detaljniji postupak obavljanja probe kočenja kod svih vrsta vlakova.
+Članak 41.
+Proba kočenja na motornoj garnituri ili na vlaku sastavljenom od više motornih garnitura iste serije obavlja se iz upravljačnice iz koje će se upravljati vlakom.
+Potpuna proba kočenja
+Članak 42.
+(1) Kod vlaka za prijevoz putnika koji se sastoji od jedne ili više motornih garnitura te kod lokomotivskog vlaka vrijedi potpuna proba kočenja koja se obavlja prije dolaska na područje kolodvora.
+(2) Ako vozilo za posebne namjene s vlastitim pogonom vozi samo bez vučenih vozila, proba kočenja evidentirana kod prijema vozila u radnom listu vozila vrijedi 24 sata. Ako motorno vozilo vuče vučena vozila, proba kočenja obavlja se pomoću tog vozila i evidentira se u popratnim ispravama vlaka.
+Članak 43.
+Potpuna proba kočenja obavlja se u sljedećim slučajevima:
+a) u polaznom kolodvoru nakon sastavljanja vlaka
+b) kada se vozna lokomotiva na sastavljeni vlak priključuje 24 sata i više nakon već obavljene potpune probe kočenja
+c) kada je vlak sastavljen od jedne ili više motornih garnitura, a vrijeme proteklo od prethodne potpune probe iznosi 24 sata i više
+d) nakon zadržavanja vlaka u službenom mjestu ili na otvorenoj pruzi pri vanjskoj temperaturi od -15 °C i nižoj od nje dulje od sat vremena, proba se tada obavlja neposredno prije polaska vlaka; navedena proba ne mora se obaviti onda kada je tijekom zadržavanja vlaka potpuna proba bila obavljena najviše sat vremena prije polaska vlaka i
+e) na vlaku čije su kočnice bile prepunjene zbog čega se otkočivanje nije moglo obaviti vučnim vozilom nego otkočnim uređajima na vozilima.
+Postupak kod potpune probe kočenja
+Članak 44.
+Tijekom obavljanja potpune probe kočenja potrebno je:
+– glavni zračni vod vlaka napuniti zrakom tlaka 5 bara
+– s obje strane vlaka obaviti provjere kako bi se utvrdilo da su:
+a) vozila pravilno priključena na glavni zračni vod (provjera kočničkih spojnica i čelnih slavina)
+b) napojni zračni vodovi i elektrovodovi elektropneumatske (u daljnjem tekstu: ep) kočnice spojeni
+c) rasporednici uključeni
+d) vozila otkočena
+e) mjenjači kočne sile i vrste kočnice u odgovarajućem položaju
+f) kočni umetci propisane debljine (minimalno 10 milimetara u polaznom kolodvoru)
+g) dijelovi koji

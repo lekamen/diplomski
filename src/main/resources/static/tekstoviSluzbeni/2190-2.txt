@@ -1,0 +1,28 @@
+ kojima se opisuju prostorni planovi tijekom postupka izrade i donošenja te dokumentacija koja prati izradu i donošenje prostornih planova, a služi za održavanje i preuzimanje šifrarnika propisanih pravilnikom kojim se propisuje sadržaj prostornih planova
+− modul eKatalog u koji se unose metapodaci kojima se opisuju važeći prostorni planovi i prostorni planovi stavljeni izvan snage za potrebe razmjene s drugim modulima ISPU-a te za pružanje usluga pronalaženja, pregledavanja i preuzimanja prostornih podataka u okviru NIPP-a
+− modul eDozvola koji služi za izdavanje akata za provedbu zahvata u prostoru
+− modul eInspekcija koji služi za prikaz zahvata u prostoru za koje su donesena izvršna rješenja građevinske inspekcije prema posebnom propisu
+− modul eArhiv u koji se unose podaci o aktima za građenje izdani prije uspostave modula eDozvola i metapodaci o njima
+− modul eNekretnine koji služi za unos podataka u zbirku kupoprodajnih cijena, te za izradu i prikaz plana približnih vrijednosti zemljišta i izdavanje izvadaka iz plana i zbirke u skladu s posebnim propisom koji uređuje procjenu vrijednosti nekretnina
+− ISPU-lokator koji služi za pristup podacima iz svih slojeva od značaja za bilo koju odabranu lokaciju i točno pozicioniranje u prostor oznaka koje opisuju te podatke
+− ulazni modul NIPP-a koji služi za prihvat podataka nastalih izvan geoportala ISPU, a koji su od utjecaja na podatke o prostoru.
+(3) ISPU je moguće proširivati i drugim modulima od utjecaja na prostorno planiranje i/ili praćenje stanja u prostoru.
+Dostava podataka i registar javnopravnih tijela
+Članak 6.
+(1) Podatke i informacije značajne za prostorno uređenje i izradu prostornih planova javnopravna tijela pripremaju i dostavljaju u ISPU strukturno i sadržajno uređene u skladu s pravilnikom koji propisuje sadržaj prostornih planova.
+(2) Popis javnopravnih tijela iz stavka 1. ovoga članka sadržan je u Registru javnopravnih tijela koji je sastavni dio modula eDozvola.
+(3) Javnopravna tijela dužna su podatke iz stavka 1. ovoga članka učiniti dostupnima putem internetskih servisa za razmjenu podataka te ih ažurirati sukladno rokovima određenim posebnim propisima kojima se uređuje NIPP.
+(4) Internetski servisi za razmjenu podataka moraju biti izrađeni u skladu s posebnim propisima kojima se uređuje NIPP.
+(5) Subjekti ISPU-a za korištenje internetskih servisa za razmjenu podataka ne plaćaju naknadu.
+Podaci geodetske izmjere o zahvatima u prostoru
+Članak 7.
+Za potrebe unosa podataka o zahvatima u prostoru u modulu eDozvola ovlašteni inženjeri geodezije i pravne osobe koji obavljaju poslove državne izmjere i katastra nekretnina dužni su dostavljati podatke geodetske izmjere u gml formatu.
+Preuzimanje i razmjena podataka
+Članak 8.
+(1) Subjekti ISPU-a mogu iz ISPU-a preuzeti za korištenje u vlastitim aplikacijama ili za proizvodnju novih prostornih podataka iz svoje nadležnosti podatke, metapodatke i druge informacije iz članka 4. stavka 5. ove Uredbe, putem standardnih internetskih servisa za razmjenu podataka.
+(2) Podaci iz ISPU-a se preuzimaju bez naknade.
+(3) Subjekti ISPU-a koji su proizveli nove podatke korištenjem podataka preuzetih iz ISPU-a, obvezni su bez naknade te podatke učitati u ISPU ili ih učiniti dostupnima ostalim subjektima na drugi pogodan način.
+Neusklađenost i nedostavljanje podataka
+Članak 9.
+(1) Ako su podaci, odnosno informacije iz članka 6. stavka 1. ove Uredbe međusobno neusklađeni, stručni izrađivač prostornog plana (u daljnjem tekstu: stručni izrađivač) može u dogovoru s nositeljem izrade prostornog plana te u skladu sa smjernicama za izradu plana i koncepcijom plana izraditi planersko rješenje u prijedlogu prostornog plana koristeći međusobno neusklađene podatke, odnosno informacije samo okvirno.
+(2) Ako nadležno javnopravno tijelo ne dostavi u propisanom roku podatke, odnosno informacije iz članka 6. stavka 1. ove Uredbe ili podaci ne postoje, stručni izrađivač pri izradi prijedloga prostornog plana može u dogovoru s nositeljem izrade

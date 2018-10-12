@@ -1,0 +1,37 @@
+37 22.04.2016 Naputak o načinu postupanja u slučaju zlouporabe poziva na broj 112
+DRŽAVNA UPRAVA ZA ZAŠTITU I SPAŠAVANJE
+1007
+Na temelju članka 8. stavka 5. Pravilnika o jedinstvenom europskom broju za hitne službe 112 (»Narodne novine«, broj 138/15), ravnatelj Državne uprave za zaštitu i spašavanje uz prethodnu suglasnost Hrvatske regulatorne agencije za mrežne djelatnosti, donosi
+NAPUTAK
+O NAČINU POSTUPANJA U SLUČAJU ZLOUPORABE POZIVA NA BROJ 112
+Opća odredba
+Članak 1.
+Ovim Naputkom uređuje se postupak utvrđivanja zlouporabe poziva na jedinstveni europski broj za hitne službe broj 112 (u daljnjem tekstu: broj 112) i način postupanja nadležnog centra 112 u slučaju utvrđene zlouporabe poziva na broj 112 prema operatorima javnih komunikacijskih mreža i javno dostupnih telefonskih usluga (u daljnjem tekstu: operator).
+Postupak utvrđivanja zlouporabe poziva na broj 112
+Članak 2.
+(1) Zlouporaba poziva na broj 112 je ostvarivanje zlonamjernog poziva na broj 112 kojim se lažno dojavljuje o nepostojećem hitnom slučaju ili prijetnji te ostvarivanje uznemiravajućeg poziva na broj 112 koji nije vezan za hitni slučaj u kojemu je ugrožen ljudski život, zdravlje ljudi, imovina ili okoliš, a koji pozivatelj uporno nastavlja unatoč opetovanim upozorenjima operatera da poziv nije u nadležnosti centra 112.
+(2) Zlouporabu poziva na broj 112 utvrđuje operater centra 112, koji je ustrojen i djeluje sukladno propisima kojima se uređuje sustav civilne zaštite.
+(3) U slučaju zlouporabe poziva na broj 112, operater centra 112 evidentira u elektroničkom obliku sljedeće podatke: broj pozivatelja, nadnevak poziva, vrijeme poziva, trajanje poziva i tonski zapis sadržaja poziva kojim je počinjena zlouporaba broja 112.
+Način postupanja centra 112 u slučaju utvrđene zloupotrebe poziva na broj 112
+Članak 3.
+(1) Županijski centar 112 u kojem je utvrđena zlouporaba poziva na broj 112 dostavlja Državnom centru zaštite i spašavanja na obrascu »Zahtjev za isključenje pretplatničke ili korisničke terminalne opreme iz elektroničke komunikacijske mreže zbog zlouporabe broja 112«, koji je tiskan u Prilogu 1. ovog Naputka i čini njegov sastavni dio.
+(2) Na temelju zahtjeva iz stavka 1. ovoga članka, Državni centar zaštite i spašavanja dostavlja operatoru na obrascu »Zahtjev za isključenje pretplatničke ili korisničke terminalne opreme iz elektroničke komunikacijske mreže zbog zlouporabe broja 112«, koji je tiskan u Prilogu 2. ovog Naputka i čini njegov sastavni dio.
+(3) Županijski centri 112 u slučaju zlouporaba poziva na broj 112 vode evidenciju o zahtjevima iz stavka 1. ovoga članka, s ispisom CTI sustava o relevantnim podacima (nadnevak poziva, vrijeme poziva, trajanje poziva, broj pozivatelja) i tonskim zapisom sadržaja poziva.
+(4) Državni centar zaštite i spašavanja vodi evidenciju o postupcima pokrenutim u slučaju zlouporabe poziva na broj 112.
+Način postupanja operatora u slučaju utvrđene zlouporabe poziva na broj 112
+Članak 4.
+(1) U slučaju utvrđene zlouporabe poziva na broj 112 operatori su obvezni postupiti sukladno članku 8. Pravilnika o jedinstvenom europskom broju za hitne službe, a prema Zahtjevu za isključenje pretplatničke ili korisničke terminalne opreme iz elektroničke komunikacijske mreže zbog zlouporabe broja 112 koji im je dostavio Državni centar zaštite i spašavanja.
+(2) Zahtjev iz stavka 1. ovoga članka operatori su dužni provesti najkasnije u roku od osam sati od trenutka zaprimanja zahtjeva te o provedbi povratno izvijestiti Državni centar zaštite i spašavanja.
+Prijelazne i završne odredbe
+Članak 5.
+Danom stupanja na snagu ovog Naputka prestaje važiti Naputak o načinu postupanja u slučaju zlouporabe poziva na broj 112 (»Narodne novine«, broj 107/10 i 78/11).
+Članak 6.
+Ovaj Naputak stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 012-02/16-03/03
+Urbroj: 543-01-08-01-16-3
+Zagreb, 8. travnja 2016.
+Ravnatelj dr. sc. Jadran Perinić, v. r.
+PRILOG 1.
+
+PRILOG 2.
+

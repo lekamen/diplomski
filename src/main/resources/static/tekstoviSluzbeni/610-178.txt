@@ -1,0 +1,20 @@
+ Pravilnika
+2. godišnje efektivne kamatne stope koja je izračunata kao jedinstvena diskontna kamatna stopa, takve da vrijednost novčanih tokova portfelja određenih obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju na koje se ona primijeni odgovara vrijednosti najbolje procjene portfelja određenih obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju, upotrebljavajući relevantnu vremensku strukturu bezrizičnih kamatnih stopa u skladu s člankom 108. ovoga Zakona.
+(3) Dio razlike iz stavka 2. ovoga članka linearno se smanjuje na kraju svake godine sa 100 % tijekom godine koja počinje 1. siječnja 2016. na 0 % tijekom godine koja počinje 1. siječnja 2032.
+(4) Ako društvo za osiguranje primjenjuje prilagodbu za volatilnost iz članka 113. ovoga Zakona, vremenska struktura bezrizičnih kamatnih stopa iz stavka 2. točke 2. ovoga članka mora biti prilagođena vremenska struktura bezrizičnih kamatnih stopa utvrđena člankom 113. ovoga Zakona.
+(5) Društvo za osiguranje može dobiti odobrenje Agencije za primjenu prijelaznih mjera iz stavka 1. ovoga članka samo za obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju koji zadovoljavaju sljedeće zahtjeve:
+1. ugovori o osiguranju, odnosno ugovori o reosiguranju iz kojih proizlaze obveze sklopljeni su prije prvog dana primjene ovoga Zakona, isključujući ugovore o osiguranju, odnosno ugovore o reosiguranju obnovljene tog datuma ili kasnije
+2. tehničke pričuve za obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju bile su određene u skladu s člankom 107. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) do zadnjeg dana primjene toga Zakona i Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine«, br. 97/09., 135/09., 150/09., 39/12., 56/13. i 97/13.) na zadnji dan primjene toga pravilnika
+3. prilagodba za uravnoteženje iz članka 111. ovoga Zakona ne primjenjuje se na obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(6) Društvo za osiguranje koje ima odobrenje za korištenje prijelaznih mjera iz stavka 1. ovoga članka:
+1. u izračun prilagodbe za volatilnost utvrđen člankom 113. ovoga Zakona ne uključuje određene obveze iz ugovora o osiguranju, odnosno ugovora o reosiguranju iz stavka 5. ovoga članka
+2. ne primjenjuje prijelazne mjere za tehničke pričuve iz članka 456. ovoga Zakona
+3. u sklopu svojeg izvješća o solventnosti i financijskom stanju u skladu s člankom 168. ovoga Zakona objavljuje da primjenjuje prijelaznu mjeru za vremensku strukturu bezrizičnih kamatnih stopa, kao i kvantifikaciju utjecaja primjenjivanja prijelazne mjere iz stavka 1. ovoga članka na svoj financijski položaj u odnosu kada se ona ne bi primjenjivala.
+(7) Agencija će pravilnikom detaljnije propisati dokumentaciju koja se mora priložiti uz zahtjev za izdavanje odobrenja iz stavka 1. ovoga članka.
+Prijelazna mjera za tehničke pričuve
+Članak 456.
+(1) Društvo za osiguranje može, uz prethodno odobrenje Agencije, primjenjivati umanjenja iz prijelaznih mjera na tehničke pričuve. To umanjenje može se primijeniti na razini homogenih grupa rizika iz članka 116. ovoga Zakona.
+(2) Umanjenje iz prijelaznih mjera odgovara dijelu razlike između sljedećih dvaju iznosa:
+1. tehničke pričuve nakon umanjenja za iznose naplative na temelju ugovora o reosiguranju i subjekata posebne namjene, izračunate u skladu s člankom 106. ovoga Zakona na prvi dan primjene ovoga Zakona
+2. tehničke pričuve nakon umanjenja za iznose naplative na temelju ugovora o reosiguranju izračunatih u skladu s člankom 107. Zakona o osiguranju (»Narodne novine«, br. 151/05., 87/08., 82/09., 54/13. i 94/14.) zadnjeg dana primjene toga Zakona i Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja (»Narodne novine«, br. 97/09., 135/09., 150/09., 39/12., 56/13. i 97/13.) na zadnji dan primjene toga Pravilnika.
+Umanjenje koje se može primijeniti linearno se smanjuje na

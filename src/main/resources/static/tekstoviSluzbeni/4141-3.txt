@@ -1,0 +1,10 @@
+ specifikacijama i prikladnosti za uporabu te popratni dokumenti moraju biti datirani i potpisani.
+Deklaracije moraju biti napisane na istom jeziku kao i upute, te moraju sadržavati sljedeće:
+(a) reference Direktive;
+(b) ime i adresu proizvođača, Pružatelja usluge EENC ili ovlaštenog predstavnika sa sjedištem u Zajednici (trgovački naziv i punu adresu, u slučaju ovlaštenog predstavnika, također navedite marku proizvođača ili konstruktora);
+(c) opis komponenata interoperabilnosti (marka, tip, verzija, itd.);
+(d) opis postupka koji se potrebno pridržavati kako bi se objavila usklađenost sa specifikacijama ili prikladnost za uporabu;
+(e) svi relevantni uvjeti koje komponente interoperabilnosti ispunjavaju, osobito njihovi uvjeti korištenja;
+(f) prema potrebi, ime i adresa Subjekta (subjekata) za naplatu cestarine/prijavljenog (prijavljenih) tijela uključenih u postupak kojeg je potrebno slijediti radi usklađenosti sa specifikacijama ili ocjenjivanja prikladnosti za uporabu;
+(g) prema potrebi, referencu za tehničke specifikacije;
+(h) prepoznavanje potpisnika koji je ovlašten za sklapanje ugovornih obveza u ime proizvođača ili proizvođačevog ovlaštenog predstavnika sa sjedištem u Zajednici.

@@ -1,0 +1,47 @@
+114 21.10.2015 Pravilnik o informacijskom sustavu tržišta nekretnina
+MINISTARSTVO GRADITELJSTVA I PROSTORNOGA UREĐENJA
+2185
+Na temelju članka 6. stavka 3. Zakona o procjeni vrijednosti nekretnina (»Narodne novine«, br. 78/2015), ministrica graditeljstva i prostornoga uređenja donosi
+PRAVILNIK
+O INFORMACIJSKOM SUSTAVU TRŽIŠTA NEKRETNINA
+I. OPĆE ODREDBE
+Predmet pravilnika
+Članak 1.
+(1) Ovim Pravilnikom propisuje se sadržaj, ustroj, vođenje i održavanje informacijskog sustava tržišta nekretnina (u daljnjem tekstu: eNekretnine), te izdavanje i korištenje podataka iz istoga.
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
+Primjena pravilnika
+Članak 2.
+Ovaj Pravilnik primjenjuje se u postupcima izrade plana približnih vrijednosti, uspostave, vođenja i održavanja zbirke kupoprodajnih cijena, te izdavanja izvadaka iz zbirke kupoprodajnih cijena i plana približnih vrijednosti.
+Sastavni dijelovi i prilozi Pravilnika
+Članak 3.
+Sastavni dijelovi i prilozi ovoga Pravilnika su:
+− Prilog I. – obrazac 01 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – kupoprodaja zemljišta
+                – obrazac 02 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – kupoprodaja stanova
+                – obrazac 03 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – kupoprodaja poslovnih prostora
+                – obrazac 04 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – kupoprodaja obiteljskih kuća
+                – obrazac 05 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – zakupnina za zemljišta
+                – obrazac 06 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – zakupnina za poslovne prostore
+                – obrazac 07 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – najamnina za stanove
+                – obrazac 08 – Zahtjev za izdavanje izvatka iz zbirke kupoprodajnih cijena – kupoprodaja/najam/zakup nekretnina
+− Prilog II. – Evidencijske oznake realiziranog naplatnog prometa nekretnina
+− Prilog III. – Evidencija podataka za zbirku kupoprodajnih cijena
+− Prilog IV. – Sadržaj izvadaka iz zbirke kupoprodajnih cijena
+− Prilog V. – Obrazac zahtjeva za dodjelu ovlasti u sustavu eNekretnine
+Pojmovi
+Članak 4.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+– Zakon je Zakon o procjeni vrijednosti nekretnina.
+– ISPU je Informacijski sustav prostornog uređenja koji se uspostavlja u skladu s posebnim propisima kojima se uređuje područje prostornog uređenja,
+– Ministarstvo je ministarstvo nadležno za poslove graditeljstva i prostornoga uređenja,
+– ministar je ministar nadležan za poslove graditeljstva i prostornoga uređenja,
+– Porezna uprava je ministarstvo nadležno za financije – porezna uprava,
+– ugovor je ugovor o realiziranom naplatnom prometu nekretnina (kupoprodaja, najam, zakup, pravo građenja i služnost),
+– ograničeni set atributa iz zbirke kupoprodajnih cijena sastoji se od: ID nekretnine, datum pregleda, vrsta nekretnine, ukupna površina nekretnine u prometu (m2), vrijednost nekretnine iz ugovora (kn), datum ugovora i status podatka,
+– vrijednost nekretnine iz ugovora:
+a) za promet nekretnina oporeziv u cijelosti porezom na promet nekretnina
+– u polju se prikazuje vrijednost nekretnine iz ugovora. U ove nekretnine se ubrajaju sve nekretnine koje ne pripadaju drugim dvjema kategorijama.
+b) za isporuke nekretnina u cijelosti oporezive porezom na dodanu vrijednost (promet nastao nakon 31. 12. 2014.)
+– u polju se prikazuje vrijednost nekretnine iz ugovora i to bez obračunatog PDV-a.
+c) za promet tzv. novosagrađenih nekretnina (promet nastao prije 31. 12. 2014.)
+– u polju se prikazuje ukupna vrijednost iz ugovora koja uključuje: vrijednost nekretnine + obračunati PDV na izgrađeni dio + vrijednost zemljišta i porez na promet nekretnina, uvećano za troškove komunalne infrastrukture.
+(2) Pojmovi uporabljeni u ovom Pravilniku imaju značenje

@@ -1,0 +1,23 @@
+ javnih cesta ili novoizgrađenih dijelova javnih cesta, koji se odnose na razdoblje od referentnog datuma za izradu digitalne ortofoto karte Republike Hrvatske 21. lipnja 2011. godine do dana stupanja na snagu ovoga Pravilnika. Podaci se moraju staviti na raspolaganje u roku 30 dana od dana stupanja na snagu ovoga Pravilnika.
+Članak 6.
+Za potrebe provođenja obveza iz članka 4. stavka 3., upravitelji su dužni Hrvatskim cestama d.o.o. kontinuirano stavljati na raspolaganje podatke o geometriji javnih cesta kojima upravljaju, a najkasnije u roku 30 dana od dana raspolaganja istima, i to:
+a) promjene geometrije postojećih javnih cesta, koje su nastale kao posljedica radova redovitog i izvanrednog održavanja ili drugih mjera. Podaci se moraju staviti na raspolaganje odmah po završetku radova/mjera,
+b) geometriju novoizgrađenih cesta ili novoizgrađenih dijelova cesta, koje će na temelju novoga akta o razvrstavanju javnih cesta postati javne ceste. Podaci se moraju staviti na raspolaganje odmah po završetku radova,
+c) geometriju novorazvrstanih javnih cesta, koje su na temelju novoga akta o razvrstavanju javnih cesta nastale iz nerazvrstanih cesta. Podaci se moraju staviti na raspolaganje odmah po stupanju na snagu novoga akta o razvrstavanju javnih cesta,
+d) geometriju planiranih javnih cesta na nivou izvedbenog projekta za potrebe planiranja i pripreme izmjena i dopuna akta o razvrstavanju javnih cesta te pripreme izmjena i dopuna adresnog sustava javnih cesta. Podaci se moraju staviti na raspolaganje odmah po izradi izvedbenog projekta.
+Članak 7.
+Sadržaj i tehničke specifikacije podataka iz članaka 5. i 6. ovoga Pravilnika jesu:
+a) situacija geodetske snimke izvedenog stanja u DWG/DXF formatu, u službenom projekcijskom koordinatnom sustavu HTRS96/TM, visinskoga datuma HVRS71, u 3D koordinatama (x, y, z). Ova točka ne odnosi se na članak 6. stavak 4. ovoga Pravilnika,
+b) situacija izvedbenog prometnog projekta u DWG/DXF formatu, u službenom projekcijskom koordinatnom sustavu HTRS96/TM, visinskoga datuma HVRS71, u 3D koordinatama (x, y, z) i/ili,
+c) situacija izvedbenog građevinskog projekta u DWG/DXF formatu, u službenom projekcijskom koordinatnom sustavu HTRS96/TM, visinskoga datuma HVRS71, u 3D koordinatama (x, y, z).
+Članak 8.
+(1) Iznimno, situacije iz članka 7. ovoga Pravilnika mogu biti u Gauss-Krügerovom kartografskoj projekciji 5. ili 6. zone.
+(2) U iznimnim slučajevima, kada iz opravdanih razloga ne postoje podaci iz članka 5., članka 6. stavaka 1., 2. i 3. ovoga Pravilnika, upravitelj je dužan Hrvatskim cestama d.o.o. staviti na raspolaganje prikaz grafičke situacije na digitalnoj ortofoto karti, onoga dijela ili čitave javne ceste na koju se promjena odnosi, sukladno navedenim člancima u ovom stavku.
+Članak 9.
+(1) Hrvatske ceste d.o.o. dužne su upraviteljima staviti na raspolaganje podatke iz Prostorne baze podataka o geometriji osi javnih cesta i jedinstvenog adresnog sustava označavanja javnih cesta u svrhu:
+a) implementacije i ažuriranja baze podataka o javnim cestama,
+b) prijenosa i označavanja adresnog sustava na terenu radi jednoznačnog prikupljanja podataka o cestama i objektima na njima.
+(2) Sukladno važećem aktu o razvrstavanju javnih cesta, Hrvatske ceste d.o.o. će prikupiti, obraditi, verificirati i staviti na raspolaganje upraviteljima podatke o geometriji osi postojećih javnih cesta (ceste, dionice, linkovi, čvorovi) i jedinstvenom adresnom sustavu, koji se odnose na razdoblje do dana stupanja na snagu ovoga Pravilnika. Podaci se moraju staviti na raspolaganje u roku od 12 mjeseci od dana stupanja na snagu ovoga Pravilnika.
+(3) Za daljnje kontinuirano vođenje, ažuriranje i održavanje baze podataka o javnim cestama, Hrvatske ceste d.o.o. dužne su staviti na raspolaganje upraviteljima podatke o promjenama geometrije osi javnih cesta i jedinstvenog adresnog sustavu, u roku od:
+a) 3 mjeseca od stupanja na snagu novoga akta o razvrstavanju javnih cesta,
+b) 3 mjeseca od dana raspolaganja podacima iz članka 6.

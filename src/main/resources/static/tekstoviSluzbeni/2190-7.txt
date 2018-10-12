@@ -1,0 +1,21 @@
+ točnosti jednake izvornicima podloga na kojim su izrađeni grafički dijelovi planova i obrezane po granicama obuhvata, a tumače planskog znakovlja i obrasce za ovjeru prostornih planova u PDF, TIFF ili JPEG formatu.
+(2) Ako zavod nije u mogućnosti iz dostupnih mu izvora proizvesti odgovarajuće GeoTlFF-ove, nositelji izrade prostornog plana ili stručni izrađivač obvezan je dostaviti zavodu na njegov zahtjev vektorski zapis grafičkog dijela prostornog plana uređen u skladu s člankom 12. stavkom 3. ove Uredbe iz kojeg se isti može proizvesti, bez naknade u roku od petnaest dana od dana primitka zahtjeva.
+(3) Uz elektroničke zapise iz stavka 1. ovoga članka dostavljaju se i tablice kojima se definira veza pojedinog kartografskog prikaza s temama standardiziranim u ISPU-u i koje su sastavni dio pravilnika kojim se propisuje sadržaj prostornih planova.
+(4) Zapisi iz stavka 1. ovoga članka mogu se dostaviti i putem internetskih servisa za razmjenu podataka.
+Objava prostornih planova izrađenih u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova
+Članak 28.
+(1) Zavodi su obvezni sve datoteke zapisa prostornih planova iz članka 12. stavka 1. podstavka 2. ove Uredbe koji su im dostavljeni sukladno članku 26. stavcima 1. i 2. ove Uredbe objaviti putem modula eKatalog kao priloge uz pripadajući set metapodataka u roku od 5 dana od dana njihova primitka.
+(2) Zapise iz stavka 1. ovoga članka zavod može objaviti putem modula eKatalog i unošenjem jedne ili više adresa izvora koje u naravi predstavljaju adrese mrežnih stranica na mrežnoj stranici županije, zavoda ili jedinice lokalne samouprave, ako se na njima nalaze svi dijelovi elaborata plana
+(3) U slučaju promjene adrese mrežne stranice iz stavka 2. ovoga članka, nositelj izrade prostornog plana obvezan je dostaviti zavodu novu adresu.
+Objava prijedloga prostornih planova za javnu raspravu koji se izrađuju u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova
+Članak 29.
+(1) Nositelj izrade izmjena i/ili dopuna prijedloga prostornog plana za javnu raspravu koje se izrađuju u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova obvezan je objaviti na svojim mrežnim stranicama elektronički zapis tog prijedloga najkasnije jedan dan prije dana početka javne rasprave.
+(2) Ako nositelj izrade iz stavka 1. ovoga članka nema mrežne stranice, obvezan je elektronički zapis prijedloga izmjena i/ili dopuna prijedloga prostornog plana za javnu raspravu dostaviti Ministarstvu radi objave na njegovim mrežnim stranicama.
+(3) Grafički dijelovi prijedloga prostornog plana iz stavka 1. ovoga članka objavljuju se u PDF formatu ili drugom formatu za koji postoji preglednik besplatno dostupan javnosti.
+DIO ČETVRTI PRIJELAZNA I ZAVRŠNA ODREDBA
+Uspostava internetskih servisa za razmjenu podataka
+Članak 30.
+(1) Javnopravna tijela određena posebnim propisima su dužna uspostaviti internetske servise za razmjenu podataka iz članka 6. ove Uredbe u roku propisanom posebnim propisom kojim se uređuje NIPP.
+(2) Do uspostave internetskih servisa iz stavka 1. ovoga članka javnopravna tijela određena posebnim propisima dužna su u roku od petnaest dana od dana primitka zahtjeva drugim subjektima ISPU-a dostavljati podatke iz svoje nadležnosti u elektronskom obliku na digitalnim medijima ili na drugi prihvatljiv način.
+(3) Podaci iz stavka 2. ovoga članka dostavljaju se u GeoTIFF, shp, gml formatu ili drugom formatu prihvatljivom subjektu ISPU-a, georeferenciranom u službenoj kartografskoj projekciji s naznakom datuma zadnjeg ažuriranja podataka i opisanim metapodacima u skladu s posebnim propisima.
+(4) Za dostavu podataka iz stavaka 2. i 3. ovoga članka javnopravna tijela određena posebnim propisima ne mogu tražiti

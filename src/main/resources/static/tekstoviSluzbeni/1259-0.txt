@@ -1,0 +1,36 @@
+66 15.06.2015 Pravilnik o vrsti i načinu dostave podataka državama članicama Europske unije, u svrhu istraživanja prometnih prekršaja
+MINISTARSTVO UNUTARNJIH POSLOVA
+1260
+Na temelju članka 296. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, broj 67/2008, 48/2010 – Odluka Ustavnog suda Republike Hrvatske, 74/2011, 80/2013 – Odluka Ustavnog suda Republike Hrvatske, 92/2014 i 64/2015), ministar unutarnjih poslova donosi
+PRAVILNIK
+O VRSTI I NAČINU DOSTAVE PODATAKA DRŽAVAMA ČLANICAMA EUROPSKE UNIJE, U SVRHU ISTRAŽIVANJA PROMETNIH PREKRŠAJA
+Članak 1.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose odredbe Direktive (EU) 2015/413 Europskog parlamenta i Vijeća, od 11. ožujka 2015. o olakšavanju prekogranične razmjene informacija o prometnim prekršajima protiv sigurnosti prometa na cestama (SL L 68/9, 13. 3. 2015.).
+Članak 2.
+Ovaj Pravilnik primjenjuje se na prekršaje protiv sigurnosti prometa na cestama, i to:
+(a) prekoračenje ograničenja brzine;
+(b) vožnja bez korištenja sigurnosnog pojasa;
+(c) prolazak kroz crveno svjetlo;
+(d) vožnja pod utjecajem alkohola;
+(e) vožnja pod utjecajem droga;
+(f) vožnja bez zaštitne kacige;
+(g) vožnja prometnom trakom u kojoj je zabranjena vožnja;
+(h) nezakonita uporaba mobilnog telefona ili drugog komunikacijskog uređaja u vožnji.
+Postupak razmjene podataka između država članica Europske unije
+Članak 3.
+U svrhu istraživanja prekršaja iz članka 2. ovoga Pravilnika nacionalnim kontaktnim točkama država članica Europske unije omogućit će se pristup nacionalnim bazama podataka, s ovlastima automatizirane pretrage, i to:
+(a) podacima koji se odnose na vozila; i
+(b) podacima koji se odnose na vlasnike ili korisnike vozila.
+Dostavljeni podaci iz stavka 1. točke a i b ovoga članka, koji su nužni za obavljanje pretrage, moraju biti u skladu s podacima koji se nalaze u Prilogu I. ovoga Pravilnika i čini njegov sastavni dio.
+Pretrage koje obavlja nacionalna kontaktna točka države članice provode se na temelju potpunih registarskih oznaka vozila.
+U svrhu razmjene podataka, nacionalna kontakt točka za Republiku Hrvatsku je Ministarstvo unutarnjih poslova (u daljnjem tekstu: Ministarstvo).
+Ministarstvo poduzima sve nužne mjere da osigura razmjenu podataka interoperabilnim elektronskim sredstvima bez razmjene informacija koja uključuje druge podatke.
+Ministarstvo osigurava da se razmjena podataka provodi na isplativ i siguran način te osigurava sigurnost i zaštitu podataka koji se prenose, u mjeri u kojoj je to moguće na temelju postojećih softverskih aplikacija, kao što je ona koja je posebno namijenjena za svrhe iz članka 15. Odluke 2008/616/PUP i izmijenjenih i dopunjenih verzija tih softverskih aplikacija, u skladu s Prilogom I. ovoga Pravilnika te točkama 2. i 3. poglavlja 3. Priloga Odluci 2008/616/PUP.
+Izmijenjene i dopunjene verzije softverskih aplikacija osiguravaju internetski modul razmjene u stvarnom vremenu i modul razmjene u serijama, s tim da modul razmjene u serijama omogućuje razmjenu višestrukih zahtjeva ili odgovora u jednoj poruci.
+Ministarstvo snosi vlastite troškove upravljanja, korištenja i održavanja softverskih aplikacija iz ovoga članka.
+Obavijest o prekršaju
+Članak 4.
+Ministarstvo odlučuje hoće li pokrenuti postupak u vezi počinjenja prekršaja iz članka 2. ovoga Pravilnika.
+Ako Ministarstvo odluči pokrenuti postupak, obavijestit će vlasnika odnosno korisnika vozila ili neku drugu osobu koja se sumnjiči da je počinila prekršaj iz članka 2. ovoga Pravilnika.
+Obavijest o prekršaju sadrži: mjesto, datum i vrijeme počinjenja prekršaja, naziv povrijeđenog propisa i predviđene sankcije te podatke o uređaju kojim je utvrđen prekršaj, ako je primjenjivo, u skladu s Obrascem koji se nalazi u Prilogu II. ovoga Pravilnika i čini njegov sastavni dio.
+Ako Ministarstvo odluči pokrenuti postupak u vezi počinjenja prekršaja iz članka 2. ovoga Pravilnika obavijest iz stavka 2. ovoga članka šalje na jeziku države članice Europske unije u kojoj je vozilo registrirano ili na

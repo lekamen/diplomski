@@ -1,0 +1,35 @@
+ planirale buduće aktivnosti ili doradile procedure.
+3.6. Kontinuitet poslovanja
+Ključni zahtjevi:
+3.6.1. Definiran je način postupanja u pogledu osiguranja kontinuiteta rada.
+3.6.2. Uspostavljen je proces upravljanja opremom koji uključuje primjeren odabir, nabavu, održavanje i sigurno korištenje opreme (sklapaju se ugovori o pružanju usluga za održavanje opreme ili ugovori o nabavi za zamjenu opreme i slično).
+3.6.3. Utvrđene su kontrolne aktivnosti povezane s informatičkom infrastrukturom koje se odnose na fizičku zaštitu i pristupna prava, održavanje hardvera i softvera, izradu sigurnosnih kopija, upravljanje korisničkim računima, osiguravanje potrebne razine napajanja te sigurnost podataka.
+3.6.4. Primjenjuju se odgovarajuće mjere zaštite od požara i zaštite na radu.
+3.6.5. Osigurava se zamjena u slučaju privremene odsutnosti zaposlenika.
+3.6.6. Osigurana je naplata potraživanja, dobrog izvršenja ugovorenih poslova ili drugih obveza iz ugovornog odnosa.
+3.6.7. Procjenjuje se potencijalni učinak uvođenja novih propisa, promjene postojećih procesa, promjene u nadležnosti poslovanja ili uvođenja novih tehnologija.
+3.7. Pristup imovini i informacijama
+Ključni zahtjevi:
+3.7.1. Definirana su ograničenja za pristup imovini i informacijama radi smanjenja rizika od njihovog neadekvatnog korištenja.
+3.7.2. Vrsta ograničenja određena je ovisno o vrsti imovine i informacija te procijenjenom riziku mogućih gubitaka, zlouporabe i neovlaštenog otuđenja.
+3.7.3. Provodi se godišnji popis imovine i obveza.
+4. INFORMACIJE I KOMUNIKACIJA
+4.1. Informacije i komunikacija
+Ključni zahtjevi:
+4.1.1. Uspostavljen je interni sustav izvještavanja kroz koji se osiguravaju pravovremeni, točni i potpuni podaci i informacije te njihova razmjena između unutarnjih ustrojstvenih jedinica za potrebe planiranja i izvršenja proračuna odnosno financijskog plana, provedbe programa, projekata i aktivnosti, praćenja realizacije poslovnih ciljeva i utrošenih financijskih sredstava.
+4.1.2. Poduzimaju se aktivnosti vezane uz razvoj računovodstvenih sustava, uključujući troškovno i upravljačko računovodstvo te drugih sustava evidencija i baza podataka o ciljevima, rizicima te drugim financijskim i nefinancijskim informacijama ovisno o potrebama i posebnostima poslovanja.
+4.1.3. Definiran je postupak za upravljanje dokumentima (organizirano je primanje i slanje, evidentiranje i pohranjivanje dokumenata na način da su dokumenti dostupni rukovoditeljima i zaposlenicima, kao i na zahtjev trećih strana osim ako zakonom nije drukčije propisano) te je njihovo čuvanje u skladu s regulatornim okvirom i internim aktima.
+4.1.4. Definiran je način razmjene informacija između institucije i institucija iz nadležnosti.
+4.1.5. Uspostavljen je sustav komunikacije s građanima odnosno s korisnicima usluga putem kojeg mogu dati prijedloge za unapređenja u pružanju usluga.
+4.1.6. Izrađen je i primjenjuje se postupak za podnošenje pritužbe (pisano izraženo nezadovoljstvo) i prigovora (usmeno izraženo nezadovoljstvo).
+4.1.7. Postoji kontakt adresa za anonimne prijave nepravilnosti, pritužbe i slično.
+4.1.8. Imenovana je osoba za nepravilnosti, gdje je primjenjivo.
+4.1.9. Definiran je način postupanja po prijavljenim nepravilnostima i izvještavanja o uočenim nepravilnostima u poslovanju.
+4.1.10. Zaposlenici institucije i institucija iz nadležnosti upoznati su s načinom postupanja u slučaju uočenih nepravilnosti.
+5. PRAĆENJE I PROCJENA SUSTAVA
+5.1. Stalno praćenje i samoprocjena
+Ključni zahtjevi:
+5.1.1. Aktivnosti stalnog praćenja se odvijaju tijekom poslovanja, a uključuju redovne upravljačke i nadzorne aktivnosti te druge radnje koje zaposlenici poduzimaju pri obavljanju svojih dužnosti.
+5.1.2. Postupak samoprocjene provodi se najmanje jednom godišnje sukladno propisima kojima se uređuje davanje Izjave o fiskalnoj odgovornosti.
+5.1.3. Izrađuje se i provodi plan otklanjanja slabosti i nepravilnosti.
+5.1.4. Prati se provedba plana otklanjanja slabosti i nepravilnosti u instituciji i u

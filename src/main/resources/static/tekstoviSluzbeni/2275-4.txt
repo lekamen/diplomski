@@ -1,0 +1,31 @@
+ operator aerodroma na vodi ima prethodno prihvaćen sustav upravljanja sigurnošću u području letačkih operacija, isti će biti prihvaćen i u postupku certificiranja aerodroma na vodi ukoliko ima odgovarajuće prilagođen dio upravljanja rizicima.
+Opći zahtjevi
+Članak 8.
+(1) Građevni i infrastrukturni zahtjevi, usmjereni na optimalno provođenje sigurnosnih (safety) i zaštitnih (security) mjera u komercijalnom zračnom prijevozu moraju biti implementirani tijekom:
+a) projektiranja i izgradnje novih objekata, te
+b) rekonstrukcije postojećih objekata i operativne površine na aerodromu na vodi.
+(2) Tijekom projektiranja aerodroma na vodi također će se uzeti u obzir:
+a) prostorni planovi kojima je definirana namjena terena u neposrednoj okolini aerodroma na vodi,
+b) prostorni planovi kojima je definirana namjena morskog prostora, te
+c) mjere zaštite okoliša.
+Utvrđivanje referentnog koda
+Članak 9.
+(1) Referentni kod aerodroma na vodi, koji je odabran u svrhu planiranja aerodroma na vodi, utvrđuje se u skladu s obilježjima hidroaviona kojima je aerodrom na vodi namijenjen (u daljnjem tekstu: referentni hidroavion).
+(2) Referentni kod aerodroma na vodi čini jedan element: slovo, kojim se definira duljina površine za slijetanje i uzlijetanje.
+(3) Slovo referentnog koda aerodroma na vodi utvrđuje se na temelju vrijednosti prikazanih u Tabeli 1-1.
+Tabela 1-1. Referentni kod aerodroma na vodi
+Kodni element Kodno slovo (1) Najmanja dozvoljena duljina površine za slijetanje i uzlijetanje (2) A 4.500 m i veća od toga B od 3.000 m do 4.499,99 m C od 2.000 m do 2.999,99 m D do 1.999,99 m
+(4) Referentni hidroavion, na temelju čijih tehničkih značajki se definira referentni kod aerodroma na vodi, mora biti onaj koji zahtijeva najveću duljinu površine za slijetanje i uzlijetanje.
+DIO DRUGI PODACI O AERODROMU NA VODI
+Aeronautički podaci
+Članak 10.
+(1) Utvrđivanje i iskazivanje aeronautičkih podataka koji se odnose na aerodrom na vodi moraju biti usklađeni sa zahtjevima u pogledu točnosti i cjelovitosti, utvrđenim u tabelama od A5-1 do A5-2 koje su sadržane u Dodatku 5. Pravilnika o aerodromima (»Narodne novine« broj 58/14). Pri tome valja uzeti u obzir uspostavljene postupke sustava kvalitete. Točnost aeronautičkih podataka mora biti 95% pouzdana, te se u skladu sa tim razlikuju tri vrste položajnih podataka:
+a) izmjerene točke (na terenu): npr. geometrijsko središte površine za slijetanje i uzlijetanje,
+b) izračunate točke (matematički): na temelju poznatih podataka izmjerenih na terenu,
+c) objavljene točke (declared): npr. područje letnih informacija.
+(2) Operator aerodroma na vodi mora osigurati održavanje cjelovitosti aeronautičkih podataka tijekom čitavog postupka njihove obrade: od istraživanja/izvora do sljedećeg korisnika kojem su isti namijenjeni. S obzirom na namjenu aeronautičkih podataka, zahtjev za njihovom cjelovitošću utemeljen je na potencijalnom riziku uzrokovanom njihovim oštećenjem. U skladu s tim, primjenjuje se sljedeća klasifikacija razine cjelovitosti aeronautičkih podataka:
+a) kritični podaci, razina cjelovitosti 1x10-8: ako se koriste oštećeni (necjeloviti ili pogrešni) kritični podaci, velika je vjerojatnost da će sigurnost leta i slijetanje hidroaviona biti ozbiljno ugroženi uz mogućnost katastrofe,
+b) bitni podaci, razina cjelovitosti 1x10-5: ako se koriste oštećeni (necjeloviti ili pogrešni) bitni podaci, mala je vjerojatnost da će sigurnost leta i slijetanje hidroaviona biti ozbiljno ugroženi uz mogućnost katastrofe,
+c) rutinski podaci, razina cjelovitosti 1x10-3: ako se koriste oštećeni (necjeloviti ili pogrešni) rutinski podaci, vrlo je mala vjerojatnost da će sigurnost leta i slijetanje hidroaviona biti ozbiljno ugroženi uz mogućnost katastrofe.
+(3) Zaštita elektroničkih aeronautičkih podataka, dok su pohranjeni ili se prenose, mora biti utemeljena na sustavu provjere cikličke zalihosti (cyclic redundancy check – CRC). Pri tome, u zaštiti cjelovitosti:
+a) kritičnih i bitnih podataka, primjenjuje se 32-bitni, ili

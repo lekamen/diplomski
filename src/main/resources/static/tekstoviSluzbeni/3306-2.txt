@@ -1,0 +1,13 @@
+ reosiguranju prema vrstama osiguranja
+33. SP-1-R rizici Statistički podaci o reosiguranju prema rizicima unutar vrste osiguranja
+34. SP-2-R Statistički podaci o premiji reosiguranja
+35. SP-5-R Statistički podaci o izdacima reosiguranja
+36. SP-7-R Statistički podaci o stanju pričuva prijenosne premije reosiguranja
+37. SP-8-R Statistički podaci o stanju pričuva šteta reosiguranja
+38. SP-9-R Statistički podaci o stanju pričuva reosiguranja za bonuse i popuste
+39. SP-10-R Statistički podaci o stanju pričuva reosiguranja za izravnavanje šteta (kolebanje šteta)
+40. SP-11-R Statistički podaci o stanju drugih tehničkih pričuva reosiguranja
+41. SP-12-R Statistički podaci o vrstama drugih tehničkih pričuva reosiguranja
+42. SP-15-R Statistički podaci o troškovima uprave (administrativni troškovi)
+43. SP-16-R Statistički podaci o troškovima pribave i stanju razgraničenih troškova pribave
+44. SP-23-R Statistički podaci o broju i strukturi zaposlenih

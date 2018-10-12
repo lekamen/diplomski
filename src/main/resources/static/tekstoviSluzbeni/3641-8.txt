@@ -1,0 +1,34 @@
+ nesigurnosti i njihov utjecaj,
+c) dokazati da su odgovarajuće margine uključene prilikom utvrđivanja projektnih osnova kako bi se osiguralo jamstvo da su svi predviđeni projektni događaji pokriveni i
+d) biti pregledne i ponovljive.
+(3) Nositelj odobrenja u nuklearnoj elektrani dužan je izvršiti vjerojatnosne sigurnosne analize za postrojenje. U slučaju nuklearne elektrane, to treba uključivati analize barem prve i druge razine.
+(4) Nositelj odobrenja osim nuklearne elektrane ili istraživačkog reaktora može provesti vjerojatnosnu sigurnosnu analizu za postrojenje ako projektne osnove sugeriraju važnost takve analize.
+Članak 19.
+(1) Skup pooštrenih projektnih uvjeta potrebno je izvesti na temelju inženjerske prosudbe, determinističkih i vjerojatnosnih procjena u svrhu daljnjeg poboljšanja sigurnosti nuklearne elektrane povećanjem sposobnosti elektrane da izdrži, bez neprihvatljivih radioloških posljedica, nesreće koje su ili teže od projektnog kvara ili koje uključuju dodatne kvarove.
+(2) Ove pooštrene projektne uvjete potrebno je koristiti za identifikaciju dodatnih scenarija nesreće koje treba obraditi u projektu i planirati praktične odredbe za sprječavanje takvih nesreća ili ublažavanje njihovih posljedica, ako do njih dođe.
+Članak 20.
+Projektom je potrebno utvrditi skup pogonskih ograničenja i uvjete za siguran pogon nuklearne elektrane.
+Članak 21.
+Projektne osnove za nuklearna postrojenja trebaju uključiti plan za izvanredne događaje. Na temelju analiza događaja težih od projektnih kvarova, u planovima za izvanredne događaje potrebno je osigurati posebne mjere koje će pomoći pri planiranju izvanrednih mjera.
+Ostala projektna razmatranja
+Članak 22.
+Sve sustave u nuklearnom postrojenju koji bi mogli sadržavati fisibilni materijal ili radioaktivni materijal potrebno je projektirati tako da:
+a) sprječavaju nastanak događaja koji bi mogao dovesti do nekontroliranog radioaktivnog otpuštanja u okoliš;
+b) spriječe slučajnu kritičnost i prekomjerno zagrijavanje;
+c) osiguraju da se radioaktivno ispuštanje materijala drži ispod odobrenih granica ispuštanja u normalnom pogonu i ispod prihvatljivih granica u uvjetima tijeka nesreće i tako nisko koliko je god to razumno moguće postići;
+d) omogućavaju ublažavanje radioloških posljedica nesreće.
+Članak 23.
+Sustavno uzimanje u obzir ljudskih čimbenika, uključujući sučelje čovjek – stroj, potrebno je uključiti u ranoj fazi projektiranja za nuklearne elektrane i nastaviti tijekom cijelog procesa projektiranja.
+Članak 24.
+Nuklearne elektrane zajedno s jedinicama za proizvodnju topline (kao što su za centralno grijanje) i/ili jedinicama za desalinizaciju vode potrebno je projektirati tako da spriječe procese koji prenose radionuklide iz nuklearne elektrane do jedinice za desalinizaciju ili jedinice za grijanje u pogonskim uvjetima ili u uvjetima tijeka nesreće.
+Članak 25.
+Sigurnosni sustavi se ne smiju dijeliti između više jedinica, osim ako to doprinosi povećanju sigurnosti.
+Članak 26.
+Učinkovit način komunikacije potrebno je osigurati u cijelom nuklearnom postrojenju kako bi olakšao siguran pogon u svim oblicima normalnog pogona i bio na raspolaganju za korištenje slijedeći sve pretpostavljene inicijalne događaje u uvjetima tijeka nesreće.
+Članak 27.
+(1) Nuklearna postrojenja potrebno je opremati s dovoljnim brojem evakuacijskih putova, trajno i jasno naznačenima, s pouzdanom rasvjetom za slučaj izvanrednog događaja, ventilacijom i drugim uslugama neophodnim za sigurno korištenje tih evakuacijskih putova
+(2) Nuklearna postrojenja potrebno je izolirati od okoline s odgovarajućim rasporedom različitih strukturnih elemenata kako bi pristup do njih mogao biti kontroliran.
+Članak 28.
+Potrebno je spriječiti neovlašteni pristup ili djelovanje na objekte od važnosti za sigurnost, uključujući hardver i softver računala.
+Članak 29.
+Potrebno je procijeniti potencijal za štetne interakcije sigurnosnih SSK u nuklearnom postrojenju koji trebaju djelovati istovremeno, a učinci bilo kakvih štetnih

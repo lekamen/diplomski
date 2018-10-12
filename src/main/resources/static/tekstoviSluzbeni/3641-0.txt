@@ -1,0 +1,32 @@
+36 20.04.2016 Pravilnik o uvjetima nuklearne sigurnosti za davanje suglasnosti za gradnju nuklearnog postrojenja
+DRŽAVNI ZAVOD ZA RADIOLOŠKU I NUKLEARNU SIGURNOST
+990
+Na temelju članka 15. stavka 3. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13 i 39/15), ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost donosi
+PRAVILNIK
+O UVJETIMA NUKLEARNE SIGURNOSTI ZA DAVANJE SUGLASNOSTI ZA GRADNJU NUKLEARNOG POSTROJENJA
+I. OPĆE ODREDBE
+Svrha
+Članak 1.
+Ovim se Pravilnikom utvrđuju uvjeti nuklearne sigurnosti za davanje suglasnosti za gradnju nuklearnog postrojenja.
+Primjena
+Članak 2.
+Opći i specifični uvjeti za davanje suglasnosti za gradnju nuklearnog postrojenja propisani ovim Pravilnikom primjenjuju se na nuklearna postrojenja, kao što je definirano Zakonom o radiološkoj i nuklearnoj sigurnosti, osim nuklearnih elektrana, pomoću stupnjevanog pristupa, s obzirom na složenost i specifičnost svakog nuklearnog postrojenja.
+Sukladnost sa zakonima Europske unije
+Članak 3.
+Ovaj Pravilnik sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+– Uredbom Vijeća 2014/87/Euroatom od 8. srpnja 2014. kojom se izmjenjuje i dopunjuje Uredba 2009/71/Euroatom o uspostavi okvira Zajednice za nuklearnu sigurnost nuklearnih postrojenja (SL L 219, 2014/07/25).
+– Uredbom Vijeća br. 2011/70/Euroatom od 19. srpnja 2011. o uspostavi okvira Zajednice za odgovorno i sigurno upravljanje istrošenim gorivom i radioaktivnog otpada (SL L 199, 2. 8. 2011.).
+Pojmovi
+Članak 4.
+Pojedini izrazi u smislu ovog Pravilnika imaju sljedeće značenje:
+»Cliff edge« učinak znači da mala promjena parametra u tom stanju dovodi do nerazmjernog i teškog povećanja posljedica.
+Deterministička sigurnosna analiza podrazumijeva provedenu analizu primjenom determinističkih metoda.
+Događaj označava pojavu, bilo prirodnu ili uzrokovanu ljudskom pogreškom ili djelovanjem, netočno pisanom procedurom ili uputom, kvarom na opremi, pogonskom greškom ili projektnim nedostatkom koja može ugroziti radiološku ili nuklearnu sigurnost. Događaj može dovesti do predviđenog pogonskog događaja ili nesreće, što može uključivati djelomično ili potpuno pokretanje sigurnosnih funkcija.
+Ekstremni vremenski uvjeti znače ekstremne vremenske uvjete u definiranom području, utvrđene na temelju analize povijesnih vremenskih podataka za područje.
+Elektromagnetska kompatibilnost jest sposobnost električnog i elektroničkog sustava, opreme i uređaja da djeluju u elektromagnetskom okruženju u kojem oni moraju biti operativni bez ikakvog smanjenja njihove djelotvornosti zbog elektromagnetskih smetnji ili međusobnog ometanja.
+Incident znači svaki nepredviđeni pogonski događaj, uključujući i pogonske pogreške, kvarove opreme, inicirane događaje, prethodnike nesreće, jedva izbjegnute nesreće, druge nesretne slučajeve ili neovlaštene postupke, zlonamjerne ili ne zlonamjerne, posljedice ili potencijalne posljedice kojih nisu zanemarive sa stajališta zaštite i sigurnosti.
+Inženjersko sigurnosno rješenje znači sustav, strukturu, komponentu ili značajku nuklearnog postrojenja koja je projektirana za obavljanje određene sigurnosne funkcije, osobito kako bi se spriječio ili kontrolirao projektom predviđeni kvar ili umanjile njegove posljedice.
+Jednostruki kvar znači kvar koji rezultira gubitkom sposobnosti sustava ili komponente da ispuni sigurnosnu funkciju za koju je namijenjen i svaku posljedicu kvara/kvarova koja proizlazi iz njega.
+Klasifikacija struktura, sustava i komponenata (SSK) podrazumijeva klasifikaciju SSK u sigurnosne klase prema njihovoj važnosti za sigurnost, temeljenu na provedenoj analizi nuklearne sigurnosti korištenjem determinističkih metoda, dopunjenu s vjerojatnosnim metodama i po potrebi inženjerskim mišljenjem.
+Kvar izvan projektne osnove znači nesreću u nuklearnom postrojenju čija posljedica prelazi projektom predviđeni pogonski događaj.
+Lokacija postrojenja označava zemljopisno područje koje sadrži odobreno postrojenje, ovlaštenu djelatnost ili izvor, a

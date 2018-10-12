@@ -1,0 +1,15 @@
+18 18.02.2015 Plan dodjele za frekvencijski pojas 138 - 174 MHz
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+394
+Na temelju članka 12. stavka 1. točke 9. i članka 82. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PLAN DODJELE
+ZA FREKVENCIJSKI POJAS 138 – 174 MHz
+Članak 1.
+Plan dodjele za frekvencijski pojas 138-174 MHz je kako slijedi:
+Frekvencijski pojas (MHz) Područje uporabe Primjena Širina kanala Dupleksni razmak Posebna primjena 138-174 Republika Hrvatska PMR/PAMR 25 kHz – Ogrlice za obuku pasa na frekvencijama 154,450 i 154,475 MHz. Max ERP 5W, kanalni razmak 25 kHz
+Članak 2.
+Ovaj Plan dodjele stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 344-04/15-07/35
+Urbroj: 376-03-15-1
+Zagreb, 11. veljače 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.

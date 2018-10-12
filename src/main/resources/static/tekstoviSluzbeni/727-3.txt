@@ -1,0 +1,65 @@
+
+Upisnik za obiteljske sporove P Ob
+Upisnik za platne naloge Pl
+Upisnik predmeta naknade štete Pn
+Upisnik predmeta smetanja posjeda Psp
+Upisnik za radne sporove Pr
+Upisnik stambenih sporova Ps
+Upisnik za predmete europskog postupka za sporove male vrijednosti P-eu
+Upisnik predmeta proslijeđenih od javnog bilježnika po prigovoru na rješenje o ovrsi na temelju vjerodostojne isprave Povrv
+Upisnik za ostavine O
+Upisnik za ovrhu Ovr i Ovrv
+Upisnik za predmete ovršnih vijeća OV
+Upisnik za predmete europskog ovršnog naloga za nesporne tražbine te postupka određivanja ovrhe na temelju europskog ovršnog naloga Ovr-eu
+Upisnik za izvanparnične predmete R1
+Upisnik za izdavanje potvrda, priznanje i ovrhu sudskih odluka iz država članica Europske unije R1-eu
+Upisnik za razne građanske predmete R2
+Upisnik za izvanparnične predmete po Obiteljskom zakonu R1 Ob
+Upisnik za pravnu pomoć Pom
+Upisnik za pravnu pomoć s državama članicama Europske unije Pom-eu
+Upisnik za ovjeravanje isprava namijenjenih inozemstvu Ov-I
+Upisnik za predmete mirenja Mir.«.
+Članak 28.
+Članak 188. mijenja se i glasi:
+»Županijski sudovi vode ove upisnike:
+1. Za kaznene predmete:
+Upisnik predmeta suca istrage Kir
+Upisnik za razne istražne predmete iz članka 21. Zakona o USKOK-u Kir-Us (Obrazac br. 18)
+Upisnik za razne istražne predmete ratnih zločina Kir-Rz (Obrazac br. 18)
+Upisnik za razne istražne predmete europskog uhidbenog naloga Kir-eun
+Upisnik za predmete po ostalim oblicima pravosudne suradnje u kaznenim stvarima s državama članicama Europske unije Kir-eu
+Upisnik predmeta suca istrage s posebnom oznakom Kir-t (Obrazac br. 18)
+Upisnik suca istrage za dokazno ročište ispitivanja djeteta Kir-d (Obrazac br. 18)
+Upisnik suca za mladež Kim
+Kazneni upisnik K
+Kazneni upisnik za maloljetnike Km
+Kazneni upisnik za mlađe punoljetnike Kmp
+Kazneni upisnik za kaznena djela kaznenopravne zaštite djece Kzd
+Kazneni upisnik za predmete iz članka 21. Zakona o USKOK-u K-Us (Obrazac br. 14)
+Kazneni upisnik za predmete ratnih zločina K-Rz (Obrazac br. 19)
+Upisnik za razne kaznene predmete Kr
+Upisnik za razne kaznene predmete prema Zakonu o sudovima za mladež Krm
+Upisnik za razne kaznene predmete iz članka 21. Zakona o USKOK-u Kr-Us (Obrazac br. 17)
+Upisnik za razne kaznene predmete ratnih zločina Kr-Rz (Obrazac br. 17)
+Upisnik za izvanraspravno kazneno vijeće Kv I
+Upisnik za izvanraspravno kazneno vijeće Kv II
+Upisnik za izvanraspravno kazneno vijeće Kv-t (Obrazac br. 15)
+Upisnik za izvanraspravno kazneno vijeće za mladež Kvm
+Upisnik za predmete iz članka 21. Zakona o USKOK-u za izvanraspravno vijeće Kv-Us (Obrazac br. 15)
+Upisnik za predmete ratnih zločina za izvanraspravno vijeće Kv-Rz (Obrazac br. 15)
+Upisnik izvanraspravnog kaznenog vijeća za predmete europskog uhidbenog naloga Kv-eun
+Upisnik izvanraspravnog kaznenog vijeća za predmete po ostalim oblicima pravosudne suradnje u kaznenim stvarima s državama članicama Europske unije Kv-eu
+Upisnik za optužno vijeće Kov
+Upisnik za optužno vijeće za mladež Kovm
+Upisnik za optužno vijeće za predmete iz članka 21. Zakona o USKOK-u Kov-Us (Obrazac br. 16)
+Upisnik za optužno vijeće za predmete ratnih zločina Kov-Rz (Obrazac br. 16)
+Upisnik za drugostupanjske kaznene predmete Kž
+Upisnik za drugostupanjske kaznene predmete maloljetnika Kžm
+Upisnik za drugostupanjske kaznene predmete mlađih punoljetnika Kžmp
+Upisnik za drugostupanjske kaznene predmete za kaznena djela kaznenopravne zaštite djece Kžzd
+Upisnik za drugostupanjske kaznene predmete iz članka 21. Zakona o USKOK-u Kž-Us (Obrazac br. 20)
+Upisnik za predmete izvršavanja kazne zatvora Ik I
+Upisnik za predmete izvršavanja odgojne mjere upućivanja u odgojni zavod i kazne maloljetničkog zatvora izrečene maloljetnicima Ik I ozmz m
+Upisnik za predmete izvršavanja odgojne mjere upućivanja u odgojni zavod i kazne maloljetničkog zatvora izrečene mlađim punoljetnicima Ik I ozmz mp
+Upisnik za predmete izvršavanja kazne zatvora za kaznena djela kaznenopravne zaštite djece Ik I zd
+Upisnik za razne

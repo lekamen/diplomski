@@ -1,0 +1,20 @@
+ timu, u suprotnom, iznos naknade raspoređuje se u omjeru 20% pravnoj osobi i 80% ispitivačkom timu.
+(3) U postupku ishođenja mišljenja Središnjeg etičkog povjerenstva, podnositelj zahtjeva dužan je Središnjem etičkom povjerenstvu dostaviti za svaku pravnu osobu u kojoj se planira provoditi kliničko ispitivanje, financijski plan ispitivanja u kojem se moraju opisati financijski aspekti kliničkog ispitivanja uključujući elemente iz stavka 1. i 2. ovoga članka.
+(4) U postupku odobravanja kliničkog ispitivanja, podnositelj zahtjeva obvezan je Ministarstvu dostaviti financijski plan ispitivanja za svaku pravnu osobu u kojoj se planira provoditi kliničko ispitivanje, koji su odobreni od Središnjeg etičkog povjerenstva (u daljnjem tekstu: odobreni financijski plan), i do isteka roka propisanog člankom 14. stavkom 3. ovoga Pravilnika barem jedan potpisani Ugovor, u protivnom Ministarstvo će rješenjem odbiti zahtjev.
+(5) Ukoliko uvidom u odobreni financijski plan i potpisani ugovor Ministarstvo utvrdi da je došlo do značajnih izmjena financijskih aspekata kliničkog ispitivanja i/ili minimalnih zahtjeva za ugovore koje je propisao ministar, može u roku od 5 dana, pisanim putem (elektroničkim putem ili telefaksom) od podnositelja zahtjeva zatražiti da dostavi izmijenjeni ugovor sukladno naputku Ministarstva i/ili da od Središnjeg etičkog povjerenstva ishodi dodatno mišljenje o prihvatljivosti financijskog plana. U protivnom smatra se da su odobreni financijski plan i potpisani ugovor uredni.
+(6) Rok iz stavka 5. ovoga članka primjenjuje se i za slučaj dostave dodatnog mišljenja Središnjeg etičkog povjerenstva o prihvatljivosti financijskog plana i/ili izmijenjenog ugovora sukladno naputku Ministarstva.
+(7) Nakon isteka roka propisanog člankom 14. stavkom 3. ovoga Pravilnika, podnositelj zahtjeva ima pravo Ministarstvu dostaviti i preostale potpisane Ugovore, koji nisu prvotno predani. Po zaprimljenim potpisanim Ugovorima, Ministarstvo će izdati rješenja o provođenju kliničkog ispitivanja s tim pravnim osobama.«
+Članak 8.
+Iza članka 20. dodaje se novi članak 21. koji glasi:
+»Članak 21.
+(1) Podnositelj zahtjeva može zahtjev za provođenje kliničkog ispitivanja podnijeti i elektroničkim putem kroz sustav e-POKI.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se istodobno Središnjem etičkom povjerenstvu i Ministarstvu. Rok iz članka 12. stavka 1. i članka 14. stavka 3. ovoga Pravilnika počinje teći istodobno.
+(3) U postupku podnošenja zahtjeva iz stavka 1. ovoga članka podnositelj zahtjeva obvezan je podnijeti dokumentaciju iz članka 16. ovoga Pravilnika u elektroničkom obliku, osim mišljenja Središnjeg etičkog povjerenstva.
+(4) Podnositelj zahtjeva iz stavka 1. ovoga članka obvezan je Ministarstvu dostaviti i sljedeće potpisane dokumente u pisanom obliku u originalu ili ovjerenoj preslici, do isteka roka propisanog člankom 14. stavkom 3. ovoga Pravilnika:
+– zahtjev za provođenje kliničkog ispitivanja,
+– potpisani ugovor o kliničkom ispitivanju s pravnom osobom,
+– dokaz o osiguranju ispitanika od mogućih štetnih posljedica sudjelovanja u kliničkom ispitivanju.
+(5) Podnositelj zahtjeva iz stavka 1. ovoga članka, kojem je dano odobrenje Ministarstva za provođenje kliničkog ispitivanja, obvezan je izvješća i sve izmjene i dopune kliničkog ispitivanja iz članka 20. ovoga Pravilnika dostavljati putem sustava e-POKI.
+(6) Iznimno od odredbi stavka 5. ovoga članka, podnositelj zahtjeva obvezan je u postupku podnošenja zahtjeva za odobravanje značajnih izmjena i dopuna kliničkom ispitivanju dokumente iz stavka 4. ovoga članka, podnijeti u pisanom obliku u originalu ili ovjerenoj preslici.
+(7) Administrator sustava e-POKI obvezan je u roku od dva radna dana od primitka zahtjeva, putem sustava e-POKI obavijestiti podnositelja zahtjeva ako utvrdi da predana dokumentacija nije potpuna.
+(8) Središnje etičko povjerenstvo i Ministarstvo mogu podnositelja zahtjeva iz stavka 1. ovoga članka izvijestiti o nedostacima zahtjeva i samo jednom zatražiti dopunu

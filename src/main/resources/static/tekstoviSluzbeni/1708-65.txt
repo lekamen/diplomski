@@ -1,0 +1,30 @@
+ metoda iskazuje potporu kao odgođeni prihod koja se priznaje kao prihod na sustavnoj i racionalnoj osnovi tijekom vijeka upotrebe imovine,
+b) druga metoda oduzima potporu pri izračunavanju knjigovodstvene vrijednosti imovine. Potpora se priznaje kao prihod, tijekom vijeka upotrebe imovine koja se amortizira, smanjenjem troška amortizacije.
+14.23. Odgođenu poreznu imovinu treba priznati za prenesene neiskorištene porezne gubitke, neiskorištene porezne olakšice i sve odbitne privremene razlike u visini za koju je vjerojatno da će oporeziva dobit biti raspoloživa i za koju se preneseni porezni gubitak, neiskorištene porezne olakšice i odbitne privremene razlike mogu iskoristiti, osim ako odgođena porezna imovina nastaje početnim priznavanjem imovine ili obveze u transakciji koja:
+a) nije poslovno spajanje, i
+b) u vrijeme transakcije ne utječe na računovodstvenu dobit niti na oporezivu dobit (porezni gubitak).
+Za odbitne privremene razlike koje proizlaze iz ulaganja u ovisna društva, podružnice, društva povezana sudjelujućim interesom i zajedničke pothvate odgođenu poreznu imovinu treba priznati samo i isključivo u razmjeru u kojem je vjerojatno da će:
+a) privremene razlike biti ukinute u predvidivoj budućnosti, i
+b) oporeziva dobit za koju privremena razlika može biti upotrijebljena biti raspoloživa.
+14.24. Odgođenu poreznu obvezu treba priznati za sve oporezive privremene razlike, osim ako odgođena porezna obveza proizlazi iz:
+a) početnog priznavanja goodwilla, ili
+b) goodwilla za koji vrijednosno usklađenje ili amortizacija nije priznata za porezne svrhe, ili
+c) početnog priznavanja imovine ili obveze u transakciji koja:
+i. nije poslovno spajanje, i
+ii. u vrijeme transakcije ne utječe na računovodstvenu dobit niti na oporezivu dobit (porezni gubitak).
+Za oporezive privremene razlike povezane s ulaganjem u ovisna društva, podružnice, društva povezana sudjelujućim interesom i zajedničke pothvate odgođena porezna obveza se priznaje osim u dijelu koji su ispunjena oba sljedeća uvjeta:
+a) matično društvo, ulagatelj i pothvatnik je u mogućnosti kontrolirati vrijeme ukidanja privremenih razlika, i
+b) vjerojatno je da se privremene razlike neće ukinuti u predvidivoj budućnosti.
+MJERENJE
+Početno
+14.25. Stavke vremenskih razgraničenja koje se odnose na unaprijed plaćene troškove početno se mjere u visini plaćenog iznosa.
+14.26. Stavke koje se odnose na nedospjelu naplatu prihoda početno se mjere po fer vrijednosti naknade koja se očekuje primiti ili potraživanja koje se očekuje priznati.
+14.27. Stavke koje se odnose na odgođeno plaćanje troškova početno se mjere po fer vrijednosti očekivanog izdatka ili obveze odnosno po njihovoj nabavnoj vrijednosti ako nije značajno različita od fer vrijednosti.
+14.28. Stavke koje se odnose na prihod budućeg razdoblja početno se mjere u iznosu koji je jednak primljenim iznosima ili priznatim potraživanjima.
+14.29. Odgođenu poreznu imovinu i obveze treba mjeriti stopama poreza za koje se očekuje da će se primjenjivati u razdoblju kada će imovina biti nadoknađena ili obveza podmirena. Odgođena porezna imovina i obveze obično se mjere primjenom poreznih stopa (i poreznih zakona) koji su na snazi na datum bilance.
+Nakon početnog
+14.30. Na svaki sljedeći datum bilance, stavke vremenskih razgraničenja priznaju se u iznosu koji je jednak početno priznatom iznosu umanjenom za dio koji se priznaje kao:
+a) prihod ili rashod tekućeg razdoblja ukoliko se radi o unaprijed plaćenim troškovima ili prihodima budućeg razdoblja,
+b) potraživanje ili obveze ukoliko se radi o nedospjeloj naplati prihoda ili odgođenom plaćanju troškova.
+14.31. U slučaju kada su za dio unaprijed plaćenih troškova ili prihoda budućeg razdoblja ispunjeni uvjeti priznavanja u računu dobiti i gubitka, za taj dio se smanjuje vrijednost unaprijed plaćenih troškova ili prihoda budućeg razdoblja priznatih u bilanci i povećava iznos prihoda ili rashoda u računu dobiti i gubitka.
+14.32. U slučaju kad su za dio nedospjele naplate prihoda ili odgođenog

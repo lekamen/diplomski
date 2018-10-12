@@ -1,0 +1,21 @@
+ 318. stavkom 2. točkom 1. ovoga Zakona društvo za upravljanje napajajućim UCITS fondom mora bez odgode poduzeti odgovarajuće mjere radi usklađivanja sa zahtjevima iz članka 298. i članka 301. ovoga Zakona.
+(4) Kad se raspodjela likvidacijskih sredstava glavnog UCITS fonda izvršava prije početka ulaganja napajajućeg UCITS fonda u drugi glavni UCITS fond, na temelju članka 318. stavka 2. točke 1. ovoga Zakona, odnosno prije početka ulaganja u skladu s novim investicijskim ciljevima i politikom na temelju članka 318. stavka 2. točke 2. ovoga Zakona, Agencija će odobrenje iz stavka 1. ovoga članka izdati pod sljedećim uvjetima:
+1. likvidacijska sredstva se raspodjeljuju napajajućem UCITS fondu:
+a) isplatom u novcu ili
+b) u obliku djelomičnog ili potpunog prijenosa imovine, kada tako društvo za upravljanje napajajućim UCITS fondom izabere te kad je to predviđeno sporazumom između društva za upravljanje napajajućim i glavnim UCITS fondom odnosno internim pravilima poslovanja i odlukom o likvidaciji. U ovom slučaju društvo za upravljanje napajajućim UCITS fondom može u svakom trenutku unovčiti bilo koji dio imovine koja mu je prenesena.
+2. novac koji napajajući UCITS fond primi u skladu s ovim stavkom može se ponovno uložiti i prije početka ulaganja napajajućeg UCITS fonda u drugi glavni UCITS fond odnosno prije početka ulaganja u skladu s novim investicijskim ciljevima i politikom, isključivo u svrhu učinkovitog upravljanja novcem.
+Članak 321.
+Likvidacija glavnog UCITS fonda ne smije se provesti prije isteka roka od tri mjeseca od dana kada je društvo za upravljanje glavnim UCITS fondom o namjeravanoj likvidaciji obavijestilo ulagatelje glavnog UCITS fonda i nadležna tijela matičnih država članica napajajućih UCITS fondova.
+Statusne promjene glavnog UCITS fonda
+Članak 322.
+(1) Po donošenju odluke o statusnoj promjeni glavnog UCITS fonda, društvo za upravljanje koje upravlja napajajućim UCITS fondom dužno je započeti likvidaciju napajajućeg UCITS fonda, pri čemu je o namjeravanoj likvidaciji dužno bez odgode obavijestiti ulagatelje napajajućeg UCITS fonda.
+(2) Stavak 1. ovoga članka ne primjenjuje se ako Agencija društvu za upravljanje koje upravlja napajajućim UCITS fondom izda odobrenje za:
+1. nastavak ulaganja napajajućeg UCITS fonda u isti glavni UCITS fond koji je prošao statusnu promjenu
+2. promjenu glavnog UCITS fonda, na način da postaje napajajući UCITS fond glavnog UCITS fonda koji nastane statusnom promjenom
+3. promjenu glavnog UCITS fonda, na način da postane napajajući UCITS fond nekog drugog glavnog UCITS fonda ili
+4. bitnu promjenu prospekta napajajućeg UCITS fonda i, kada je to primjenjivo, promjenu obveznog sadržaja pravila napajajućeg UCITS fonda, na temelju koje se napajajući UCITS fond preoblikuje u UCITS fond koji nije napajajući fond.
+(3) Društvo za upravljanje koje upravlja napajajućim UCITS fondom dužno je obavijest o namjeravanoj likvidaciji napajajućeg UCITS fonda odnosno zahtjev za izdavanje odobrenja iz stavka 2. ovoga članka dostaviti Agenciji u roku od jednog mjeseca od dana kada je zaprimilo obavijest o namjeri provođenja statusne promjene glavnog UCITS fonda. Ako je obavijest o namjeri provođenja statusne promjene glavnog UCITS fonda zaprimilo više od četiri mjeseca prije dana provedbe statusne promjene glavnog UCITS fonda, društvo za upravljanje napajajućim UCITS fondom dužno je predmetni zahtjev odnosno obavijest Agenciji dostaviti najkasnije tri mjeseca provedbe statusne promjene glavnog UCITS fonda.
+(4) U smislu stavka 2. točke 1. ovoga članka, smatra se da je napajajući UCITS fond nastavio ulaganje u isti glavni UCITS fond koji je prošao statusnu promjenu kada:
+a) je u predloženoj statusnoj promjeni glavni fond istodobno i fond preuzimatelj
+b) glavni fond nakon statusne promjene nadalje postoji bez da je bitnih izmjena.
+(5) U smislu stavka 2. točke 2. ovoga članka, smatra se da je napajajući UCITS fond promijenio glavni UCITS fond, i to na način da postaje napajajući UCITS fond glavnog UCITS

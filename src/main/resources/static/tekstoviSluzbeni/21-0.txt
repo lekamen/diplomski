@@ -1,0 +1,33 @@
+1 02.01.2015 Odluka o upravljanju rizicima
+HRVATSKA NARODNA BANKA
+22
+Na temelju članka 101. stavka 2. točke 1. Zakona o kreditnim institucijama (»Narodne novine«, broj 159/2013. i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
+ODLUKU
+O UPRAVLJANJU RIZICIMA
+I. OPĆE ODREDBE
+Predmet Odluke
+Članak 1.
+Ovom se Odlukom pobliže uređuju zahtjevi u vezi s upravljanjem rizicima, i to:
+1) opća pravila o upravljanju rizicima,
+2) pravila o upravljanju kreditnim rizikom,
+3) pravila o upravljanju tržišnim rizicima i
+4) pravila o upravljanju operativnim rizikom.
+Obveznici primjene
+Članak 2.
+(1) Odredbe ove Odluke primjenjuju se na kreditne institucije sa sjedištem u Republici Hrvatskoj koje su od Hrvatske narodne banke dobile odobrenje za rad.
+(2) Odredbe ove Odluke na odgovarajući način primjenjuju se na podružnice kreditnih institucija iz trećih zemalja koje su od Hrvatske narodne banke dobile odobrenje za pružanje usluga.
+(3) Odredbe ove Odluke kreditna institucija dužna je primjenjivati na pojedinačnoj i konsolidiranoj osnovi.
+Pojmovi
+Članak 3.
+Pojedini pojmovi koji se koriste u ovoj Odluci imaju sljedeće značenje:
+1. Sustav upravljanja rizicima jest sveobuhvatnost organizacijske strukture, pravila, procesa, postupaka, sustava i resursa za utvrđivanje, mjerenje odnosno procjenjivanje, ovladavanje, praćenje i izvještavanje o izloženosti rizicima odnosno upravljanju rizikom u cjelini te podrazumijeva uspostavu odgovarajućega korporativnog upravljanja i kulture rizika.
+2. Kultura rizika najmanje obuhvaća opću svjesnost o rizicima na svim razinama kreditne institucije, odnos i ponašanje radnika prema riziku i u vezi s rizikom i upravljanjem rizikom, uzimajući u obzir sklonost preuzimanju rizika.
+3. Sklonost preuzimanju rizika jest iznos odnosno razina rizika koji kreditna institucija smatra prihvatljivim preuzeti u ostvarenju svoje poslovne strategije i ciljeva u postojećem poslovnom okružju. Sklonost preuzimanju rizika obuhvaća određivanje namjere za preuzimanje rizika kao i određivanje tolerancije prema riziku u smislu određivanja razine rizika koji kreditna institucija smatra prihvatljivim.
+4. Ovladavanje rizikom jest sveukupnost strateških odrednica, metoda, kriterija i postupaka radi prihvaćanja, izbjegavanja, smanjenja ili prijenosa utvrđenog rizika.
+5. Profil rizičnosti jest mjera odnosno procjena svih rizika kojima je ili kojima bi mogla biti izložena kreditna institucija u svojem poslovanju.
+6. Više rukovodstvo na način kako je uređeno člankom 3. točkom 53. Zakona o kreditnim institucijama.
+7. Testiranje otpornosti na stres jest tehnika upravljanja rizicima koja se rabi za procjenu potencijalnih učinaka specifičnih događaja i/ili promjene više činitelja rizika na financijsko stanje kreditne institucije. Testiranje otpornosti na stres može se podijeliti na analizu scenarija i analizu osjetljivosti. Analiza scenarija je procjena utjecaja istodobne promjene više činitelja rizika na financijsko stanje kreditne institucije u jasno definiranim stresnim okolnostima. Analiza osjetljivosti je procjena utjecaja jednoga određenog činitelja rizika na financijsko stanje kreditne institucije pri čemu uzrok stresa nije identificiran.
+Obratno testiranje otpornosti na stres (engl. reverse stress testing) jest oblik testiranja otpornosti na stres koje polazi od mogućeg rezultata skorašnjeg neispunjavanja obveza (engl. near default) i identificira okolnosti u kojima bi se to moglo dogoditi.
+8. Funkcija podrške poslovanju jesu aktivnosti kreditne institucije koje obavljaju osobe ovlaštene za vođenje knjigovodstvenih evidencija i ostalih pozadinskih poslova.
+9. Funkcija ugovaranja transakcija (engl. front office) jesu aktivnosti kreditne institucije koje obavljaju osobe ovlaštene za ugovaranje transakcija iz kojih proizlaze rizici.
+10. Funkcija pozadinskih poslova riznice (engl. back office) jesu aktivnosti kreditne institucije koje obavljaju osobe

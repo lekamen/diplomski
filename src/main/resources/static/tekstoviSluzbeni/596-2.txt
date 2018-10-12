@@ -1,0 +1,29 @@
+ dopušteno iznositi tvrdnje da budući događaji mogu biti predviđeni, osim kao stvar nečijeg mišljenja, da se ostvaruje kontakt s preminulim osobama te tvrdnje koje se odnose na pitanje zdravlja, sredstava liječenja, liječenja i/ili zacjeljivanja.
+(3) Pružatelji medijskih usluga moraju jasno i kontinuirano komunicirati informaciju da su savjeti i/ili predskazanja budućih događaja namijenjeni zabavi i tome prilagoditi komunikaciju osoba koje daju savjete.
+Članak 13.
+(1) Televizijske najave programa moraju biti primjerene vremenu emitiranja tih najava i ne smiju sadržavati scene neprimjerene za vrijeme kada se najava emitira.
+(2) Pružatelj medijske usluge dužan je informaciju o kategoriji iz članka 10. objaviti prilikom svake najave i u rasporedu programa na teletekstu, elektroničkom programskom vodiču, na webu i u drugim oblicima informiranja o programskim sadržajima.
+(3) Svaka repriza programa pružatelja medijske usluge televizije podliježe odredbama ovoga Pravilnika.
+b) Postupanje pružatelja medijskih usluga na zahtjev
+Članak 14.
+(1) Ako pružatelj medijske usluge na zahtjev objavljuje programe za koje je vjerojatno da bi mogli narušiti fizički, mentalni ili moralni razvoj maloljetnika ili ugroziti njegov integritet, samopoimanje, samopoštovanje ili identitet, obvezan je osigurati da ih je moguće prepoznati pomoću vizualnih simbola.
+(2) Pod vizualnim simbolima pomoću kojih je moguće prepoznati takve programe podrazumijeva se pisana oznaka i ponuda u posebnom katalogu usluga.
+(3) Kategorije iz članka 10. ovoga Pravilnika na odgovarajući način primjenjuju i pružatelji medijskih usluga na zahtjev.
+(4) Kod prvog pristupa posebnom katalogu, pružatelj medijske usluge obvezan je uvjetovati promjenu PIN-a.
+c) Postupanje pružatelja elektroničkih publikacija
+Članak 15.
+(1) Ako se programi za koje je vjerojatno da bi mogli narušiti fizički, mentalni ili moralni razvoj maloljetnika ili ugroziti njegov integritet, samopoimanje, samopoštovanje ili identitet objavljuju u elektroničkoj publikaciji, pružatelj elektroničke publikacije je obvezan osigurati da se na naslovnoj stranici ne objavljuju neprimjerene slike ili sadržaji.
+(2) Pod vizualnim simbolom pomoću kojih je moguće prepoznati takve programe podrazumijeva se pisano upozorenje da sadržaj nije primjeren osobama mlađima od 18 godina.
+d) Postupanje pružatelja medijske usluge radija
+Članak 16.
+(1) Ako se programi za koje je vjerojatno da bi mogli narušiti fizički, mentalni ili moralni razvoj maloljetnika ili ugroziti njegov integritet, samopoimanje, samopoštovanje ili identitet emitiraju u nekodiranom obliku, pružatelj medijske usluge obvezan je osigurati da ih je moguće prepoznati pomoću audio simbola.
+(2) Pod audio simbolima pomoću kojih je moguće prepoznati takve programe podrazumijeva se zvučno upozorenje koje se emitira neposredno prije početka programa te čitanje upozorenja: »Program koji slijedi nije primjeren za osobe mlađe od 12/15/18 godina«.
+(3) Kategorije iz članka 10. ovoga Pravilnika primjenjuju i pružatelji medijske usluge radija.
+Članak 17.
+Odredbe članka 13. i 14. ovoga Pravilnika na odgovarajući način primjenjuju i pružatelji medijske usluge radija.
+II. NAGRADNA NATJECANJA I SUDJELOVANJA GLEDATELJA I SLUŠATELJA U PROGRAMU
+Članak 18.
+(1) Pod nagradnim natjecanjem gledatelja i/ili slušatelja u programu podrazumijevaju se svi oblici interakcije gledatelja i/ili slušatelja s pružateljem medijske usluge televizije i/ili radija u kojima se kroz kvizove, pitalice i slične oblike natjecanja ostvaruju novčani dobici, roba, prava ili usluge.
+(2) Nagradno sudjelovanje predstavlja sve ostale oblike sudjelovanja gledatelja i/ili slušatelja u programu u kojima se kroz pozivanje, slanje poruka ili korištenje drugih usluga elektroničkih komunikacijskih mreža ostvaruje pravo na robu ili usluge.
+Članak 19.
+(1) Ako se natjecanja i sudjelovanja provode putem elektroničkih komunikacijskih usluga s posebnim tarifama potrebno je onemogućiti naplatu onih poziva i ostalih usluga za koje postoji 

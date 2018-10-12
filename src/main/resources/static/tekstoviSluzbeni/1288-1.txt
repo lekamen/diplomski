@@ -1,0 +1,20 @@
+ »PB«, PC«, »PD« i »PF«.
+135.d U posljednjem se retku prezentira zbirni redak »Ukupno izloženost«.
+135.e Stupac 2 u Izvještaju POKI1 obuhvaća četiri vrste naziva:
+1. nazive pojedinih dužnika, pri čemu se uz svakog dužnika u stupcu 5 prikazuje podatak o postotnom udjelu koji pojedini dužnik ima u dionicama kreditne institucije koje nose pravo glasa, što se izračunava na sljedeći način:
+– nazivnik čini zbroj svih iznosa dostavljenih uz modalitet »01« obilježja »Vrsta iznosa« i uz modalitet »P1101« obilježja »Instrument« za sve protustranke u izvješću »AA«;
+– brojnik za određenog dužnika čini iznos dostavljen uz modalitet »01« obilježja »Vrsta iznosa« i uz modalitet »P1101« obilježja »Instrument« u relevantnom izvješću (ovisno o vrsti dužnika to može biti »AA«, »AF« ili »AN«);
+– iznimno, kod dužnika koji su označeni modalitetom »P5« obilježja »Osnova identificiranja« u izvješću »PO« (pravne osobe u kojima kreditna institucija, član uprave, član nadzornog odbora ili prokurist ima sudjelujući udio) iskazuje se vlasnički udio kreditne institucije u dužniku, koji se izvještava kao drugi peteroznamenkasti niz u obilježju »Veza izvještajne institucije i protustranke« u relevantnom izvješću (ovisno o vrsti dužnika to može biti »AA« ili »AN«).
+2. zbirni redak grupe povezanih osoba u obliku »Ukupno grupa povezanih osoba 1234 (12 – 21)«, pri čemu 1234 označuje grupe povezanih osoba, a 12 i 21 prvi i posljednji redni broj dužnika unutar te grupe povezanih osoba,
+3. zbirni redak razreda osoba u posebnom odnosu s kreditnom institucijom i
+4. zbirni redak »Ukupno«.
+135.f Izvještaj POKI1 obuhvaća deset razreda osoba u posebnom odnosu s kreditnom institucijom, pri čemu se na početku svakog razreda navodi zbirni redak tog razreda.
+U nastavku se navode razredi osoba u posebnom odnosu s kreditnom institucijom, zajedno s definicijom njihova izvještajnog obuhvata i specifičnom oznakom:
+1. U prvom razredu »Dioničari s pet i više posto dionica s pravom glasa« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »D1« i »PA«, a pozicije zbirnog retka razreda imaju oznaku *Z01;
+2. U drugom razredu »Uprava« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »P1« i »PB«, a pozicije zbirnog retka razreda imaju oznaku *Z02;
+3. U trećem razredu »Nadzorni odbor« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »P2« i »PC«, a pozicije zbirnog retka razreda imaju oznaku *Z03;
+4. U četvrtom razredu »Prokuristi« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »P3« i »PD«, a pozicije zbirnog retka razreda imaju oznaku *Z04;
+5. U petom razredu »Osobe koje s kreditnom institucijom imaju ugovore o radu sklopljene uz posebne uvjete« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »P4« i »PE«, a pozicije zbirnog retka razreda imaju oznaku *Z05;
+6. U šestom razredu »Pravne osobe u kojima kreditna institucija, član uprave, član nadzornog odbora ili prokurist kreditne institucije ima sudjelujući udio« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetom »P5«, a pozicije zbirnog retka razreda imaju oznaku *Z06;
+7. U sedmom razredu »Pravne osobe čiji je član upravnog ili nadzornog organa ili prokurist istodobno i član uprave ili član nadzornog odbora ili prokurist kreditne institucije« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetom »P6«, a pozicije zbirnog retka razreda imaju oznaku *Z07;
+8. U osmom razredu »Pravne osobe čiji član uprave ima 10% ili više dionica kreditne institucije s pravom glasa« u Izvještaju POKI1 prikazuju se protustranke

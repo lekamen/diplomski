@@ -1,0 +1,20 @@
+ poduzetnikom koji je povezana osoba zato što ista vlada ima kontrolu, zajedničku kontrolu ili značajan utjecaj i nad izvještajnim poduzetnikom i nad tim drugim poduzetnikom.
+m) konsolidirani neto-prihod prema kategorijama djelatnosti i geografskim tržištima
+n) prosječan broj zaposlenika tijekom izvještajnog razdoblja u poduzetnicima koji se uključuju u konsolidaciju te troškove zaposlenika koji se odnose na izvještajno razdoblje,
+o) računovodstvene politike koje se primjenjuju na različite stavke u konsolidiranim financijskim izvještajima, te metode koje se koriste u izračunu vrijednosnog usklađenja. Za stavke uključene u konsolidirane financijske izvještaje koje su, ili koje su prvobitno bile izražene u stranoj valuti potrebno je iskazati osnovu konverzije korištenu za njihovo iskazivanje u izvještajnoj valuti konsolidiranih financijskih izvještaja,
+p) ukupni iznos iskazanih dugovanja u konsolidiranoj bilanci koja dospijevaju nakon pet godina, kao i ukupan iznos iskazanih dugovanja u konsolidiranoj bilanci pokriven vrijednim instrumentom osiguranja od strane poduzetnika uključenog u konsolidaciju, uz navođenje vrste i oblika instrumenta osiguranja,
+q) ukupni iznos svih financijskih obveza koje nisu uključene u konsolidiranu bilancu, ukoliko je taj podatak koristan za procjenu financijskog položaja poduzetnika uključenih u konsolidaciju, promatranih kao cjelina. Sve obveze koje se odnose na mirovine i povezane poduzetnike koji se ne uključuju u konsolidaciju potrebno je iskazati zasebno.
+2.95. Stavke slične prirode mogu se objaviti skupno, osim kad je odvojeno objavljivanje nužno za razumijevanje učinaka transakcija povezanih osoba na financijske izvještaje poduzetnika.
+DATUM STUPANJA NA SNAGU
+2.96. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+2.97. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+3. RAČUNOVODSTVENE POLITIKE, PROMJENE RAČUNOVODSTVENIH PROCJENA I POGREŠKE
+UVOD
+3.1. Cilj ovog standarda je propisati kriterije za izbor i mijenjanje računovodstvenih politika, zajedno s računovodstvenim postupkom i objavljivanjem promjena računovodstvenih politika, promjena računovodstvenih procjena i ispravljanja pogrešaka. Standard namjerava poboljšati važnost i usporedivost financijskih izvještaja poduzetnika, kao i usporedivost tih financijskih izvještaja kroz razdoblja i u odnosu na financijske izvještaje drugih poduzetnika.
+3.2. Ovaj standard u skladu je s Direktivom 2013/34/EU.
+DEFINICIJE
+3.3. Računovodstvene politike – su posebna načela, osnove, dogovori, praksa i pravila koje primjenjuje poduzetnik pri sastavljanju i prezentiranju financijskih izvještaja.
+3.4. Promjene računovodstvene procjene – su usklađivanja knjigovodstvene vrijednosti neke imovine ili obveze, ili iznosa periodične potrošnje neke imovine nastalo procjenom sadašnjeg stanja i očekivanih budućih koristi i obveza povezanih s tom imovinom i obvezama. Promjene računovodstvenih procjena nastaju zbog novih informacija ili novih otkrića i u skladu s tim nisu ispravci pogrešaka.
+3.5. Pogreške prethodnog razdoblja – su značajna izostavljanja iz financijskih izvještaja ili značajna pogrešna prikazivanja u financijskim izvještajima poduzetnika za jedno ili više prethodnih razdoblja nastala propuštanjem upotrebe ili pogrešnom upotrebom pouzdanih informacija:
+a) koje su bile dostupne kada su se financijski izvještaji bili odobravani za izdavanje i
+b) za koje se može

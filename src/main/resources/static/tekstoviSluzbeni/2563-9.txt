@@ -1,0 +1,29 @@
+ jednim načinom ili obama sljedećim načinima za pristup tom DCA-u:
+(a) izravnom vezom s platformom sustava T2S u načinu U2A ili A2A ili
+(b) TARGET2 ICM-om zajedno s uslugama dodane vrijednosti sustava TARGET2 za sustav T2S.
+2. Izravna veza s platformom sustava T2S omogućuje imateljima DCA-a:
+(a) pristup i, ako je primjenjivo, izmjenu informacija povezanih s njihovim računima i
+(b) upravljanje likvidnošću i iniciranje naloga za prijenos likvidnosti na teret namjenskih novčanih računa.
+3. TARGET2 ICM zajedno s uslugama dodane vrijednosti sustava TARGET2 za sustav T2S omogućuje imatelju glavnog PM računa:
+(a) pristup informacijama povezanim s njihovim računima i
+(b) upravljanje likvidnošću i iniciranje naloga za prijenos likvidnosti na teret i u korist namjenskih novčanih računa.
+Dodatne tehničke pojedinosti u vezi s TARGET2 ICM-om sadržane su u Dodatku I. Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR.
+GLAVA VI. NAKNADA ŠTETE, SUSTAV ODGOVORNOSTI I DOKAZI
+Članak 20.
+Program za naknadu štete
+Ako novčana sredstva ostanu preko noći na DCA-u zbog tehničkog kvara SSP-a ili platforme sustava T2S, Hrvatska narodna banka nudi naknadu štete pogođenim sudionicima u skladu s posebnim postupkom utvrđenim u Dodatku II. ove Odluke.
+Članak 21.
+Sustav odgovornosti
+1. U ispunjavanju svojih obveza u skladu s ovom Odlukom, Hrvatska narodna banka i imatelji DCA-a su u međusobnom odnosu dužni postupati s razumnom pažnjom.
+2. Hrvatska narodna banka odgovara svojim imateljima DCA-a za štetu koja proizađe iz rada sustava TARGET2-HR zbog prijevare, namjere ili krajnje nepažnje Hrvatske narodne banke. U slučaju obične nepažnje odgovornost Hrvatske narodne banke ograničena je na iznos predmetne transakcije i/ili gubitak kamata na taj iznos, isključujući svaku drugu štetu.
+3. Hrvatska narodna banka ne odgovara za štetu koja je posljedica kvara ili pada tehničke infrastrukture (uključujući, ali ne ograničavajući se na računalnu infrastrukturu, programe, podatke, aplikacije ili mreže Hrvatske narodne banke), ako je takav kvar ili pad nastao unatoč tome što je Hrvatska narodna banka primijenila mjere koje su u razumnoj mjeri potrebne za zaštitu te infrastrukture od kvara ili pada, i za rješavanje posljedica tog kvara ili pada (ovo posljednje uključuje, ali nije ograničeno na započinjanje i dovršavanje postupaka neprekinutog poslovanja i postupka pri nepredvidivim događajima iz Dodatka IV. ove Odluke).
+4. Hrvatska narodna banka ne odgovara:
+(a) u mjeri u kojoj je štetu uzrokovao imatelj DCA-a ili
+(b) ako šteta nastane zbog vanjskih događaja izvan razumne kontrole Hrvatske narodne banke (viša sila).
+5. Stavci od 1. do 4. ovog članka primjenjuju se u mjeri u kojoj je moguće isključiti odgovornost Hrvatske narodne banke prema odredbama Zakona o platnom prometu.
+6. Hrvatska narodna banka i imatelji DCA-a dužni su poduzimati sve razumne i provedive mjere radi smanjenja štete iz ovog članka.
+7. Za ispunjavanje nekih ili svih svojih obveza koje proizlaze iz ove Odluke Hrvatska narodna banka može angažirati treće osobe, posebno pružatelje telekomunikacijskih ili drugih mrežnih usluga, ako je to potrebno za ispunjavanje tih obveza ili je to uobičajena tržišna praksa. Hrvatska narodna banka dužna je pažljivo odabrati i dati uputu tim trećim osobama te je njezina odgovornost ograničena na tu dužnost. Nacionalne središnje banke pružatelji SSP-a i četiri središnje banke ne smatraju se trećim osobama u smislu ovog stavka.
+Članak 22.
+Dokazi
+1. Ako nije drukčije uređeno ovom Odlukom, sve platne poruke i poruke koje se odnose na obradu plaćanja u vezi s namjenskim novčanim računima između Hrvatske narodne banke i imatelja DCA-a (kao što su potvrde terećenja ili odobrenja, ili izvodi iz računa) prenose se preko pružatelja mrežnih usluga sustavu T2S.
+2. Elektronički ili pisani zapisi poruka koje zadrži Hrvatska narodna banka ili pružatelj mrežnih usluga sustavu T2S dokazno su sredstvo za plaćanja koja je obradila Hrvatska narodna banka. Snimljena 

@@ -1,0 +1,36 @@
+ 2-položajni mjenjač (prazno i tovareno stanje) ili mjenjač s kontinuiranom promjenom kočne sile.
+(21) Kod teretnog vagona s automatskim 2-položajnim mjenjačem kočna sila se mijenja automatski kod ukupne mase koja odgovara prekretnoj masi, s tolerancijom ± 5% od prekretne mase.
+(22) Kod teretnog vagona s automatskim mjenjačem s kontinuiranom promjenom kočne sile ista se mijenja proporcionalno ukupnoj masi vagona.
+(23) Izvršni mehanizam kočenja automatske zračne kočnice vozila mora imati kočni cilindar i regulator kočnog polužja.
+(24) Kod kočnica kod kojih se sila kočenja ostvaruje djelovanjem na površinu kotrljanja kotača najmanja dopuštena debljina kočnih umetaka mora biti 10 mm, a kod zračnih kočnica s diskom najmanja dopuštena debljina kočnih uložaka mora biti 5 mm, mjereno na najtanjem mjestu.
+(25) Automatske zračne kočnice (P, R i G) moraju odgovarati zahtjevima sukladno objavi UIC 540.
+(26) Elektropneumatska kočnica, kojom se procesi kočenja i otkočivanja uvode elektropneumatskim putem, mora odgovarati zahtjevima LOC&PAS TSI.
+(27) Kočnik automatske zračne kočnice mora odgovarati zahtjevima sukladno objavi UIC 541-03.
+(28) Sva vozila moraju imati parkirnu kočnicu, a vučna vozila i putnički vagoni moraju imati i kočnicu za slučaj opasnosti. Sila potrebna za aktiviranje parkirne kočnice mora biti maksimalno 500 N, a sila potrebna za aktiviranje kočnice u slučaju opasnosti može biti od 100 do 170 N.
+(29) Vozilo kod kojega pregled kočnih umetaka nije moguć sa strane, s obiju strana moraju biti opremljeni pokazivačkim uređajem »zakočeno-otkočeno«.
+(30) Vagon za prijevoz putnika mora biti kočen kočnicom brzog djelovanja (P).
+(31) Ovisno o brzini, putnički vagon mora imati sljedeći najmanji postotak kočenja:
+a) do 100 km/h...... 105%,
+b) do 120 km/h...... 110%,
+c) do 140 km/h...... 130%,
+d) do 160 km/h...... 170%,
+e) do 200 km/h...... 208%.
+(32) Teretni vagon s automatskom zračnom kočnicom tovaren i sposoban za vožnju brzinom 120 km/h mora imati kočnicu s kontinuiranom promjenom kočne sile ovisno o opterećenju sukladno WAG TSI.
+(33) Vozilo mora biti opremljeno parkirnom (ručnom ili pritvrdnom kočnicom) sukladno WAG TSI.
+(34) Iznad kočenih kotača teretnog vagona s gorivim podom moraju biti postavljene zapreke za zaštitu od požara sukladno objavi UIC 543.
+(35) Vozila za prijevoz putnika i vozilo zaposjednuto osobljem moraju biti opremljena uređajem za kočenje u slučaju opasnosti.
+(36) Ručica za aktiviranje kočnice u slušaju opasnosti mora biti lako uočljiva, pristupačna i plombirana.
+(37) Izvedba uređaja za kočenje u slučaju opasnosti mora biti takva da ga putnik nakon aktiviranja ne može deaktivirati.
+(38) Vozilo za prijevoz putnika mora biti opremljeno uređajem za odgodu djelovanja kočnice u slučaju opasnosti.
+(39) Kočna oprema ugrađena na vozilo mora biti verificirana sukladno objavi UIC 541-00.
+(40) Vozilo za brzine preko 150 km/h mora biti opremljeno protukliznim uređajem.
+Članak 11.
+(1) Vozilo za prijevoz putnika mora biti opremljeno sljedećim uređajima i opremom:
+a) ulazno-izlazna vrata koja odgovaraju funkcionalnim zahtjevima za zatvaranje i blokadu sukladno objavi UIC 560,
+b) sanitarni čvor (WC, umivaonik),
+c) sustav za grijanje, ventilaciju i klimatizaciju putničkog prostora sukladno objavi UIC 553,
+d) prolazni vodovi za električno grijanje, kod putničkih vagona.
+(2) Kod vozila za prijevoz putnika uređaji za zatvaranje i blokiranje ulazno-izlaznih vrata moraju onemogućiti da se vrata, osim kod prijeke potrebe, mogu otvoriti tijekom vožnje ako je brzina veća od 5 km/h.
+(3) Ulazno-izlazna vrata za putnike s automatskim upravljanjem i vrata za putnike s kojima se upravlja iz jednog mjesta moraju biti izvedena na način da ne može doći do uklještenja putnika.
+(4) Središnje upravljanje ulazno-izlaznim vratima mora biti izvedeno na način da se svako otvaranje ili zatvaranje prethodno signalizira zvučnim ili svjetlosnim signalom u ulaznim predprostorima za putnike.
+(5) Vrata na prtljažnom vagonu i prtljažnim odjeljcima koja se

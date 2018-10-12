@@ -1,0 +1,31 @@
+ se opći minimalni uvjeti kojima se definira odgovarajuće uređenje i opremljenost poslovnice u svrhu omogućavanja nesmetanog i sigurnog kretanja i boravka stranaka i zaposlenog osoblja te nesmetano poslovanje pri manipulaciji i distribuciji gotovog novca i vrijednosti.
+(3) Organizacijske mjere zaštite odnose se na ukupnost mjera usmjerenih na prevenciju i sprječavanje kaznenih djela u poslovnicama novčarskih institucija koje provode djelatnici novčarske institucije, a propisuju se sigurnosnim planom zaštite i sigurnosnim procedurama novčarske institucije.
+(4) Svaka novčarska institucija za provedbu prostorno-tehničkih i organizacijskih mjera te mjera tjelesne, tehničke i druge zaštite u poslovnicama mora općim aktom imenovati osobu zaduženu za provedbu mjera zaštite u poslovnici sukladno propisanim sigurnosnim procedurama.
+(5) Zaštitu objekata novčarskih institucija iz članka 5. stavka 1. točke 1. i 2. ovoga Zakona provodi pravna osoba u državnom vlasništvu koju odredi Vlada Republike Hrvatske.
+Članak 7.
+Novčarske institucije obavezno se štite primjenom sljedećih mjera zaštite:
+1. Objekti Hrvatske narodne banke:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+– primjenom sustava kontrole pristupa u prostorije i prostore s posebnom namjenom, sukladno propisanim sigurnosnim procedurama
+– pohranom novca i vrijednosti u centralne trezore ili trezore s vremenskom odgodom otvaranja ili suključarstvom, koji se štite i sustavima protuprovalne i protuprepadne zaštite te sustavom video-nadzora s pohranom video-zapisa
+– tjelesnom zaštitom.
+2. Centralni objekt Hrvatskog novčarskog zavoda štiti se primjenom mjera propisanih u točki 1. ovoga članka koji se odnosi na objekte Hrvatske narodne banke, a prodajna mjesta Hrvatskog novčarskog zavoda štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar objekta s pohranom video-zapisa u digitalnom obliku
+– pohranom vrijednosti koje su izložene kao prodajni artikli u poslovnicama u čvrste prostore (ladice, ormare, vitrine i sl.) sa staklenim elementima te mehaničkim otvaranjem pomoću ključeva
+– pohranom dnevnog manipulativnog novca u ladice s mehaničkim ili elektroničkim otvaranjem ili kase s mehaničkim ili elektroničkim otvaranjem
+– pohranom gotovog novca s uplatno-isplatnih mjesta iznad blagajničkog maksimuma u kase s mehaničkim otvaranjem.
+3. Poslovnice Financijske agencije (FINA-e) štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+– primjenom sustava kontrole pristupa u prostorije i prostore s posebnom namjenom, sukladno propisanim sigurnosnim procedurama
+– pohranom dnevnog manipulativnog novca u ladice s vremenskom odgodom otvaranja ili kase s vremenskom odgodom otvaranja
+– pohranom novca s uplatno-isplatnih mjesta iznad blagajničkog maksimuma propisanog sigurnosnim procedurama u:
+– centralne trezore ili
+– trezore ili
+– čvrste neprobojne (zidane ili protubalističke) prostore ili prostorije s protuprovalnim ili drugim neprobojnim vratima u sefove s mehaničkim otvaranjem ili sefove s vremenskom odgodom otvaranja ili
+– sefove, ako se nalaze izvan centralnih trezora, trezora ili čvrstih neprobojnih (zidanih ili protubalističkih) prostora ili prostorija s protuprovalnim ili drugim neprobojnim vratima, koje imaju vremensku

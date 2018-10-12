@@ -1,0 +1,27 @@
+ ovjerenog Obrasca mora ostaviti posjedniku. Obrazac koji prati uzorak(e) odnosi se isključivo na jedno gospodarstvo (JIBG).
+(5) Službeni laboratorij dužan je izvijestiti Upravu za veterinarstvo i sigurnost hrane o svim uzorcima koji su u laboratorij dostavljeni u stanju neprikladnom za laboratorijsku pretragu ili koji nisu dostavljeni u skladu s ovom Naredbom.
+(6) Službeni laboratorij ne smije provesti traženu pretragu uzorka podrijetlom od goveda za koji na Obrascu nije čitko naveden broj ušne markice.
+(7) Službeni laboratorij ne smije provesti traženu pretragu uzorka podrijetlom od bilo koje vrste životinje, uzetog u okviru provedbe ove Naredbe, ako uz uzorak nije dostavljen čitko ispisan Obrazac s detaljno unesenim podacima u svim relevantnim poljima Obrasca, čime se jamči sljedivost svakog pojedinog uzorka.
+(8) Nalaz svake laboratorijske pretrage propisane ovom Naredbom službeni laboratorij dostavlja Upravi za veterinarstvo i sigurnost hrane u elektronskom obliku (PDF) te pošiljatelju uzorka.
+(9) Sektoru veterinarske inspekcije Uprave za veterinarstvo i sigurnost hrane službeni laboratorij dostavlja samo nalaze laboratorijskih pretraga pozitivnog rezultata u elektronskom obliku (PDF).
+VIII. BIOSIGURNOSNE MJERE
+(1) Radi djelotvornije zdravstvene zaštite životinja, zaštite zdravlja ljudi, veterinarske zaštite okoliša, kao i kod postojanja epidemioloških pokazatelja, posjednici životinja moraju provoditi deratizaciju.
+(2) Deratizaciju iz stavka 1. ovoga dijela treba provoditi u nastambama za životinje i dvorištima, objektima za klanje životinja, preradu, proizvodnju i skladištenje hrane životinjskog podrijetla i drugim objektima gdje je njezino provođenje od interesa za zdravstvenu zaštitu životinja i očuvanje zdravstvene ispravnosti hrane životinjskog podrijetla.
+(3) Deratizaciju propisanu stavcima 1. i 2. ovoga dijela treba provoditi dva puta godišnje, a na poziv pravnih i fizičkih osoba i češće. Deratizaciju mogu provoditi ovlaštene veterinarske organizacije.
+(4) Osobe koje obavljaju prijevoz životinja moraju provoditi čišćenje, pranje i dezinfekciju vozila u skladu s tehnološkim zahtjevima, korištenjem odobrenog dezinficijensa u propisanoj koncentraciji.
+(5) Radi sprječavanja unošenja i širenja virusa klasične svinjske kuge, posjednici svinja dužni su uspostaviti veterinarsko-zdravstveni red te trajno provoditi sljedeće mjere:
+(a) Za uzgoje do 10 svinja:
+– gospodarstvo mora biti ograđeno, ulaz u objekte mora biti pod kontrolom;
+– u uzgoj se smiju uvoditi samo svinje iz kontroliranih uzgoja, koje prati svjedodžba o zdravstvenom stanju i mjestu podrijetla životinja;
+– novouvedene svinje moraju se najmanje 14 dana držati odvojeno od drugih svinja na gospodarstvu;
+– provoditi redovito čišćenje i pranje objekata gdje se drže svinje;
+– provoditi dezinfekciju vozila i objekata u skladu s tehnološkim zahtjevima, korištenjem odobrenog dezinficijensa u propisanoj koncentraciji;
+– provoditi deratizaciju i dezinsekciju u skladu s tehnološkim zahtjevima;
+– koristiti posebnu odjeću i obuću prilikom boravka u objektu gdje se drže svinje ili osigurati pranje odjeće te pranje i dezinfekciju obuće odmah po izlasku iz objekta;
+– osigurati propisano zbrinjavanje uginuća, krutoga gnoja, gnojevke i otpadnih voda nastalih tijekom držanja svinja;
+– ulaz u objekte sa svinjama dozvoljen je samo članovima domaćinstva i stručnim osobama (veterinari, stručni radnici);
+– prilikom svakog ulaska u objekt sa svinjama veterinari i stručni radnici moraju provoditi preventivne biosigurnosne mjere za sprječavanje unošenja i širenja virusa KSK i to: korištenje zaštitne obuće i odjeće, primjenu načela asepse i antisepse; čišćenje, pranje i dezinfekcija obuće pri izlazu s gospodarstva;
+– vozila kojima se prevoze svinje moraju biti očišćena, oprana i dezinficirana odmah nakon istovara;
+(b) Za uzgoje od 10 do 100 svinja, uključujući mjere propisane točkom (a) ovoga stavka i:
+– radnicima i posjetiteljima osigurati zaštitnu odjeću i obuću;
+– na ulazima na farme

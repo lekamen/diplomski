@@ -1,0 +1,37 @@
+i izuzeća od ograničenja potrebnih za izračun izloženosti 11995 OI D0015 XXX 1 31. 3. 2014. 31. 12. 2015. regulatorni kapital 11996 IZ B0005 XXX 31 31. 3. 2014. 31. 12. 2015. iznos za koji se temeljem primjene tehnike smanjenja kreditnog rizika smanjuje iznos izloženosti za potrebe ograničenja 11997 IZ B0006 XXX 31 31. 3. 2014. 31. 12. 2015. iznos za koji se temeljem primjene tehnike smanjenja kreditnog rizika smanjuje iznos izloženosti za potrebe ograničenja
+U Prilogu 7. i Prilogu 8. Upute dodaje se redak 12024., koji glasi:
+Redni broj Vrsta sloga Oznaka instrumenta Portfelj Vrsta iznosa Primjena od izvještajnog datuma Primjena do izvještajnog datuma Opis vrste iznosa 12024 OI D0016 XXX 1 31. 12. 2015.   priznati kapital
+Članak 27.
+U Prilogu 9. Upute redak koji se odnosi na instrument »D0015« mijenja se i glasi:
+Oznaka instrumenta Instrument Primjena od izvještajnog datuma Primjena do izvještajnog datuma D0015 Regulatorni kapital 31. 3. 2014. 31. 12. 2015.
+U Prilogu 9. Upute dodaje se redak koji se odnosi na instrument »D0016«, a koji glasi:
+Oznaka instrumenta Instrument Primjena od izvještajnog datuma Primjena do izvještajnog datuma D0016 Priznati kapital II 31. 12. 2015.  
+Članak 28.
+U Prilogu 11. Upute mijenjaju se Tablica 1. i Tablica 2. te glase:
+Tablica 1. Pregled rokova za dostavljanje izvještaja
+
+Tablica 2. »OI« Ostale informacije – mjesečno bonitetno
+
+U Prilogu 11. Upute Tablica 3. briše se.
+Članak 29.
+U Prilogu 14. Upute tablica iza točke 300. mijenja se i glasi:
+
+Članak 30.
+U točki 303. Upute brišu se riječi »(modaliteti »K« i »G« Obilježja 3. »Konsolidirano ili nekonsolidirano izvješće«)«.
+Članak 31.
+U Uputi za izradu i dostavljanje datoteke statističkog i bonitetnog izvješća, koja je sastavni dio Odluke o statističkom i bonitetnom izvješćivanju, u točki 3.5.2. alineja 4. mijenja se i glasi:
+»– Obilježje 27. (Osnova identificiranja) složeno je od 14 skupina po dva znaka, skupine od pet znakova i četiri polja Grupa. Prvih pet skupina kriteriji su s međusobno isključivim modalitetima i upisuju se u polja 13 – 17 (Osnova ID1 – Osnova ID5), dok ostalih deset kriterija ima pojedine vrijednosti i upisuje se u polja 18 – 26 (Osnova ID6 – Osnova ID14). Za pripadnost grupi povezanih osoba predviđena su četiri polja za pojedinu protustranku, a upisuju se redom u polja 28 – 31 u formi »G****«, gdje je »****« jedinstvena identifikacija grupe u evidencijama izvještajne institucije.«
+Članak 32.
+U točki 3.5.3. Upute za izradu i dostavljanje datoteke statističkog i bonitetnog izvješća kontrole:
+Ako je Oznaka retka = ‘PO’ tada je Osnova_ID2 = ‘00’, ‘F1’ ili ‘F2’ 472 Ako je Oznaka retka = ‘PO’, tada je Osnova_ID14 = »00«, »I1« ili »U3«. 484 Oznaka retka = ‘PO’ & ID9=’ZZ’ & Grupa-n (n = 1, 2, 3, 4) popunjena, tada substr(Osnova identificiranja 16 (n,1)) mora biti K ili G, inače 0. 487 (W) Grupa povezanih osoba mora početi sa ‘N’ ili ‘G’ 488
+mijenjaju se i glase:
+Ako je Oznaka retka = ‘PO’, tada je Osnova_ID2 = ‘00’. 472 Ako je Oznaka retka = ‘PO’, tada je Osnova_ID14 = ‘00’. 484 Ako je Oznaka retka = ‘PO’, tada je Osnova_ID16 = ‘00000’. 487 Grupa povezanih osoba mora početi s ‘G’. 488
+Briše se sljedeća kontrola:
+Ako je (Oznaka retka = »AN«), tada je Djelatnost nerezidenta = NACE rev. 2. 620 (W)
+Članak 33.
+U tablici 5. Upute za izradu i dostavljanje datoteke statističkog i bonitetnog izvješća redci:
+14. Osnova ID2 AN 2 86 – 87 00, F1, F2 (MSFI) 26. Osnova ID14 AN 2 110 – 111 00, I1 ili U3 28. Grupa1 AN 5 114 – 118 G****, N**** 29. Grupa2 AN 5 119 – 123 G****, N**** 30. Grupa3 AN 5 124 – 128 G****, N**** 31. Grupa4 AN 5 129 – 133 G****, N**** 32. Osnova ID16 AN 5 134 – 138 0, K ili G
+mijenjaju se i glase:
+14. Osnova ID2 AN 2 86 – 87 00 26. Osnova ID14 AN 2 110 – 111 00 28. Grupa1 AN 5 114 – 118 G**** 29. Grupa2 AN 5 119 – 123 G**** 30. Grupa3 AN 5 124 – 128 G**** 31. Grupa4 AN 5 129 – 133 G**** 32. Osnova ID16 AN 5 134 – 138 00000
+Članak 34.
+(1) Posljednja izvješća za potrebe sastavljanja izvještaja o velikim izloženostima u skladu s 

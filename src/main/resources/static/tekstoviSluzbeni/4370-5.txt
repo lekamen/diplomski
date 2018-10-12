@@ -1,0 +1,30 @@
+ reosiguranja, s tim da omjer ne smije biti veći od 1.
+Oblik i sadržaj izvještaja o granici solventnosti
+Članak 14.
+(1) Malo društvo za osiguranje dužno je ovisno o vrsti poslova koje obavlja sastavljati sljedeće izvještaje:
+1. Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove životnih osiguranja (Obrazac: GS – ŽO)
+2. Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove dopunskih osiguranja uz osiguranje života (Obrazac: GSDO):
+– POM – GSDO Pomoćni izvještaj malog društva za osiguranje koje obavlja poslove dopunskih osiguranja uz osiguranje života za izračun izdataka za štete u posljednje tri godine
+– GSP – GSDO Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove dopunskih osiguranja uz osiguranje života utvrđenoj na osnovi premija
+– GSŠ – GSDO Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove dopunskih osiguranja uz osiguranje života utvrđenoj na osnovi šteta
+3. Izvještaji za neživotna osiguranja:
+– Pomoćni izvještaj malog društva za osiguranje za izračun izdataka za štete u posljednje tri godine (neživotna osiguranja) (Obrazac: POM)
+– Izvještaj o granici solventnosti malog društva za osiguranje utvrđenoj na osnovi premija (neživotna osiguranja) (Obrazac: GSP)
+– Izvještaj o granici solventnosti malog društva za osiguranje utvrđenoj na osnovi šteta (neživotna osiguranja) (Obrazac: GSŠ)
+4. Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove zdravstvenog osiguranja (Obrazac: ZO):
+– POM – ZO Pomoćni izvještaj malog društva za osiguranje koje obavlja poslove zdravstvenog osiguranja za izračun izdataka za štete u posljednje tri godine
+– GSP – ZO Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove zdravstvenog osiguranja utvrđenoj na osnovi premija
+– GSŠ – ZO Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove zdravstvenog osiguranja utvrđenoj na osnovi šteta
+5. Izvještaj o granici solventnosti malog društva za osiguranje koje obavlja poslove neživotnih osiguranja (Obrazac: GS – NO)
+(2) Oblik i sadržaj izvještaja iz stavka 1. ovoga članka propisani su obrascima iz Priloga koji je sastavni dio ovoga Pravilnika.
+Obrazac GS – ŽO
+Članak 15.
+(1) Obrazac GS – ŽO služi za utvrđivanje granice solventnosti malog društva za osiguranja koje obavlja poslove životnih osiguranja, u skladu s odredbama članka 12. ovoga Pravilnika. U stupac I. unose se podaci za životno osiguranje, a u stupac II. za rentno osiguranje. U stupac III. unose se podaci za osiguranje života i rentno osiguranje kod kojih ugovaratelj osiguranja snosi rizik ulaganja na sljedeći način:
+– u stupac c unose se podaci ako malo društvo za osiguranje snosi rizik ulaganja
+– u stupac d unose se podaci ako malo društvo za osiguranje ne snosi rizik ulaganja, ali su troškovi upravljanja određeni i nepromjenjivi za razdoblje dulje od 5 godina
+– u stupac e unose se podaci ako malo društvo za osiguranje ne snosi rizik ulaganja i troškovi upravljanja nisu određeni i nepromjenjivi
+– u stupac f unose se podaci ako malo društvo za osiguranje snosi rizik smrti osiguranika
+– u stupac g unose se podaci za ukupan iznos granica solventnosti za osiguranje života i rentno osiguranje kod kojih ugovaratelj osiguranja snosi rizik ulaganja.
+(2) Granica solventnosti za mala društva koja obavljaju poslove životnog i rentnog osiguranja izračunava se kao zbroj prvog i drugog rezultata, definiranih odredbama članka 12. stavka 2. ovoga Pravilnika, na sljedeći način:
+1. Prvi rezultat izračunava se kako slijedi:
+(a) Bruto iznos matematičkih pričuva obračunatih na zadnji dan prethodnog poslovnog razdoblja množi se s 0,04. U obrascu GS – ŽO pod rednim brojem 2. (stupac a, b) iskazan je iznos bruto matematičkih pričuva obračunatih na zadnji dan prethodnog poslovnog razdoblja, a pod rednim brojem 1. (stupac a, b) faktor umnoška. Umnožak tih dviju vrijednosti u obrascu GS – ŽO iskazuje se pod rednim brojem

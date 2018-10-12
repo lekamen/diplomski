@@ -1,0 +1,26 @@
+ ŽCP-a i ŽCP-a dulje od 4 minute i ako između uključne točke automatskog uređaja za osiguranje ŽCP-a i ŽCP-a bude iznimno zaustavljen ili
+g) kada je voznim redom predviđeno da se uređajem za osiguranje ŽCP-a ne rukuje.
+(2) O stanjima ŽCP-a opisanim u stavku 1. ovog članka pod točkama a), b), c) i d) strojovođa se obavještava sredstvima sporazumijevanja ili pisanim nalogom.
+(3) Za vrijeme vožnje vlaka odnosno vozila ispred ŽCP-a iz stavka 1. ovog članka strojovođa mora u više navrata signalnim znakom »Pazi« upozoriti sudionike u cestovnom prometu na nailazak vlaka odnosno vozila.
+(4) Najveća dopuštena brzina na ŽCP-u zaposjednutom izvršnim radnikom za osiguranje prometa na ŽCP-ima, na kojem uređaji za osiguranje ŽCP-a nisu ispravni te taj izvršni radnik osobno osigurava ŽCP, ne smije biti veća od 20 km/h sve dok čelo vlaka ne prijeđe preko ŽCP-a. O tome strojovođa mora biti obaviješten sredstvima sporazumijevanja ili pisanim nalogom. Ako se ŽCP nalazi na mjestu s tri ili više kolosijeka osiguranje moraju obavljati dvojica izvršnih radnika za osiguranje prometa na ŽCP-ima, a ako tih izvršnih radnika nema, ŽCP se ne osigurava te se postupa u skladu s odredbama iz stavka 1. ovog članka.
+Upravljanje vožnjom vlaka
+Članak 130.
+(1) Vožnjom vlaka mora se upravljati iz vodećeg vozila, osim kod guranih vlakova.
+(2) Vožnja vlaka mora se obavljati prema voznom redu, signalnim znakovima, signalnim oznakama i posebnim nalozima.
+(3) Brzina vožnje vlaka ne smije biti veća od najveće dopuštene brzine, a kada je vidljivost u daljinu smanjena (magla, padanje snijega i slično), mora se usklađivati s mogućnostima zapažanja signalnih znakova i signalnih oznaka.
+(4) Vlak smije voziti samo do prvog sljedećeg kolodvora, i to:
+a) ako za vrijeme vožnje noću na čelu vlaka dođe do neispravnosti svih svjetala, vlak smije nastaviti do prvog kolodvora najvećom dopuštenom brzinom do 20 km/h
+b) ako na vodećem vozilu dođe do neispravnosti uređaja za davanje zvučnih signala, vožnja vlaka smije se nastaviti do prvog kolodvora najvećom dopuštenom brzinom do 20 km/h
+c) ako na vodećem vozilu dođe do neispravnosti brzinomjera, vožnja vlaka smije se nastaviti oprezno do prvog kolodvora
+d) ako na vodećem vozilu dođe do neispravnosti budnika, vožnja vlaka smije se nastaviti do prvog kolodvora najvećom dopuštenom brzinom do 60 km/h ili
+e) ako vlak zbog neispravnosti vodećeg vozila nastavlja vožnju uporabom drugog vučnog vozila, koje se nalazi u vlaku, vlak smije nastaviti daljnju vožnju do sljedećeg kolodvora najvećom dopuštenom brzinom kao što je to propisano za gurani vlak.
+(5) Ako strojovođa primijeti signalni znak »Lagano«, a pisanim nalogom nije obaviješten o laganoj vožnji, brzinu vožnje mora prilagoditi tako da vlak odnosno željezničko vozilo može stati ispred signalnog znaka »Stoj« ili nastaviti vožnju smanjenom brzinom od mjesta na kojem je eventualno postavljen signalni znak »Početak lagane vožnje«.
+Dužnosti osoblja vlaka u polaznom kolodvoru
+Članak 131.
+Željeznički prijevoznik dužan je prije polaska vlaka popisati vlak, provjeriti pravilnost sastava vlaka i kvačenje, ispravnost tereta, utvrditi masu i duljinu vlaka, postaviti kočne mjenjače u propisani položaj, utvrditi i provjeriti propisanu kočnu masu, provjeriti signaliziranje kraja vlaka te sastaviti Izvješće o sastavu i kočenju vlaka.
+Dužnosti osoblja vlaka tijekom vožnje i zadržavanja u međukolodvorima
+Članak 132.
+(1) Nakon otpreme vlaka bez izvršnog radnika koji obavlja praćenje vlaka, njegove obveze na otvorenoj pruzi i u nezaposjednutim službenim mjestima preuzima strojovođa. Kod vlakova s dvama vučnim vozilima na čelu vlaka dužnost izvršnog radnika koji obavlja praćenje vlaka preuzima strojovođa drugog vučnog vozila.
+(2) Strojovođa vodećeg vučnog vozila vozi vlak u skladu s voznim redom i postupa sukladno signalnim znakovima i signalnim oznakama, a kod guranih vlakova signalne znakove strojovođi daje izvršni radnik koji se nalazi na čelu vlaka.
+Članak 133.
+(1) O svim zapažanjima na otvorenoj pruzi

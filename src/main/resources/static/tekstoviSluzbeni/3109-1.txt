@@ -1,0 +1,33 @@
+ preglede i ispitivanja radne opreme u sljedećim slučajevima:
+– prije početka korištenja na novom mjestu rada, ako je radna oprema premještena s jednog mjesta na drugo pa je zbog toga rastavljena i ponovno sastavljena
+– u slučaju iznimnih okolnosti koje ugrožavaju sigurnost djelovanja radne opreme (promjena načina rada, oštećenja radne opreme, nedostaci na radnoj opremi, ozljede radnika na radnoj opremi)
+– na temelju rješenja inspektora rada
+– u rokovima koje je u uputama za uporabu i održavanje odredio proizvođač radne opreme, ili u roku koji je utvrđen posebnim propisom ili
+– periodički u rokovima koji ne mogu biti duži od tri godine.
+DIO ČETVRTI POSTUPAK PREGLEDA I ISPITIVANJA TE SADRŽAJ I NAČIN IZDAVANJA ZAPISNIKA O PREGLEDU I ISPITIVANJU RADNE OPREME
+Članak 8.
+Ovlaštena osoba koje obavlja preglede i ispitivanja radne opreme vodi evidenciju o svim predmetima pregleda i ispitivanja, o postupcima i uvjetima pregleda i ispitivanja, o rezultatima pregleda i ispitivanja te o mjernoj i ispitnoj opremi koja je korištena prilikom ispitivanja.
+Članak 9.
+Tijekom provjere i ocjene ispunjavanja sigurnosno zdravstvenih zahtjeva na radnoj opremi koriste se upute proizvođača za uporabu i održavanje, zahtjevi propisa o sigurnosti i zdravlju pri uporabi radne opreme, zahtjevi propisa o sigurnosti strojeva pri njihovom stavljanju u uporabu te odgovarajuće hrvatske norme.
+Članak 10.
+(1) O obavljenom pregledu i ispitivanju radne opreme sastavlja se zapisnik koji sadrži najmanje sljedeće podatke:
+1. naziv i sjedište te OIB korisnika radne opreme
+2. naziv i sjedište te OIB ovlaštene osobe koja obavlja pregled i ispitivanje radne opreme
+3. broj zapisnika i datum sastavljanja
+4. broj i datum izdavanja rješenja o ovlaštenju za obavljanje pregleda i ispitivanja radne opreme
+5. nazive propisa kojima je utvrđena obveza ispitivanja radne opreme
+6. nazive propisa prema čijim zahtjevima je obavljena provjera ispunjavanja sigurnosno zdravstvenih zahtjeva na radnoj opremi
+7. podatke kojima se pobliže određuje radna oprema (tip, model, naziv proizvođača, tv. broj), s opisom namjene i položaja radne opreme u radnom prostoru
+8. osnovne podatke o radnim tvarima i sirovinama koje radna oprema koristi u radu
+9. naznake rizika po sigurnost i zdravlje radnika pri uporabi radne opreme
+10. ime i prezime, OIB te stručnu spremu za sve osobe koje sudjeluju u postupku pregleda i ispitivanja radne opreme, a za stručnjake zaštite na radu i podatke o položenom stručnom ispitu
+11. datum početka i završetka pregleda i ispitivanja
+12. podatke o uputama proizvođača za uporabu i održavanje radne opreme te o drugoj dokumentaciji koja je korištena tijekom pregleda i ispitivanja
+13. metode, postupke i norme koje se odnose na preglede i ispitivanja te mjernu i ispitnu opremu korištenu prilikom pregleda i ispitivanja
+14. nalaze o rezultatima pregleda i ispitivanja uzimajući u obzir dokumentaciju o održavanju radne opreme
+15. zaključnu ocjenu da rezultati pregleda i ispitivanja radne opreme ispunjavaju sigurnosno zdravstvene zahtjeve ili opis nedostataka zbog kojih rezultati ne zadovoljavaju propisane sigurnosno zdravstvene zahtjeve s prijedlogom mjera za otklanjanje nedostataka i
+16. naznaku propisanog roka za sljedeći pregled i ispitivanje.
+(2) Kada su za ocjenu ispunjavanja sigurnosno zdravstvenih zahtjeva za pojedine dijelove radne opreme (primjerice; oprema pod tlakom, nosiva užad i druge sigurnosne komponente radne opreme) neophodni nalazi drugih ovlaštenih ispitivača i/ili laboratorija te održavatelja radne opreme, tada su nalazi o tim pregledima i ispitivanjima te zaključci o tome obvezni dio zapisnika o pregledu i ispitivanju radne opreme.
+(3) Ako je u pregledu i ispitivanju sudjelovalo više osoba, svaka se od njih vlastoručno potpisuje iza podataka o pregledu i ispitnoj radnji koju je obavila.
+(4) Zapisnik vlastoručno potpisuju sve osobe koje su obavile pregled i ispitivanje.
+(5) Zaključnu ocjenu zapisnika vlastoručno potpisuje osoba ovlaštenog poslodavca ili ovlaštene

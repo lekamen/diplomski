@@ -1,0 +1,45 @@
+ underwriting) iskazuju se po nominalnoj vrijednosti.«.
+Alineja 6. briše se.
+Članak 18.
+Točka 165. mijenja se i glasi:
+»Izvještaj S1 dostavlja se elektronički u obliku dokumenta u Excelu na e-adresu bonitetno.izvjescivanje@hnb.hr, a u slučaju iz članka 11. stavka 2. ove Odluke i u pismenom obliku s potpisom ovlaštene rukovodeće osobe kreditne institucije zadužene za izvješćivanje i najmanje jednoga člana uprave kreditne institucije.«
+Članak 19.
+Iza točke 165. dodaje se poglavlje III.1.4., koje glasi:
+»III.1.4. Izvještaj o neto kratkim pozicijama
+165.a Izvještaj o neto kratkim pozicijama (u nastavku teksta: Izvještaj IKP) sastavlja se na temelju članka 162. stavka 1. točke 2. Zakona o kreditnim institucijama, a za potrebe prikupljanja obavijesti iz članaka 5., 7. i 8. Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza.
+165.b Izvještaj IKP sadrži informacije o neto kratkim pozicijama u dionicama, državnim dužničkim instrumentima i kreditnim izvedenicama na osnovi nastanka statusa neispunjavanja obveza.
+165.c Izvještaj IKP dostavlja se primjenom obrazaca koji su, ovisno o vrsti obavijesti, propisani člankom 2. Delegirane uredbe Komisije (EU) br. 826/2012 od 29. lipnja 2012. o dopuni Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća u vezi s regulatornim tehničkim standardima u pogledu zahtjeva koji se odnose na obavješćivanje i objavu neto kratkih pozicija, pojedinosti o informacijama koje je potrebno dostaviti Europskom nadzornom tijelu za vrijednosne papire i tržišta kapitala u vezi s neto kratkim pozicijama i metode izračuna prometa s ciljem određivanja izuzetih dionica.
+165.d Izvještaj IKP dostavlja se u obliku dokumenta u Excelu na e-adresu bonitetno.izvjescivanje@hnb.hr.
+165.e Ako nije imala pozicije koje su predmet izvještaja, kreditna institucija nije dužna Hrvatskoj narodnoj banci dostaviti izvještaj.«
+Članak 20.
+Iza točke 232. Upute u Tablici 11. kontrola pod rednim brojem 1 mijenja se i glasi:
+Redni broj Kontrola 1. PabZZZZ = ∑iznosa pojedinačnih pozicija, gdje je ab = 01, 02..., 05 (izostavlja se eventualno višekratno pojavljivanje određene osobe ako osoba spada u dvije grupe ili više grupa povezanih osoba)
+Članak 21.
+Tablica iza točke 274. mijenja se i glasi:
+
+
+
+
+
+Članak 22.
+U Prilogu pod naslovom »Tablice s pravilima za sastavljanje supervizorskih izvještaja« Tablica 6. mijenja se i glasi:
+
+
+
+Tablica 11. briše se.
+Tablica 14. mijenja se i glasi:
+
+
+
+
+Tablica 16. mijenja se i glasi:
+
+
+U Tablici 19. naziv 6. razreda osoba u posebnom odnosu s kreditnom institucijom mijenja se i glasi »6. Pravne osobe u kojima institucija, član uprave, član NO-a ili prokurist ima sudjelujući udio«, naziv 7. razreda osoba u posebnom odnosu s kreditnom institucijom mijenja se i glasi »7. Pravne osobe čiji je član uprave/NO-a/prokurist istodobno član uprave/NO-a/prokurist institucije«, a naziv 9. razreda osoba u posebnom odnosu s kreditnom institucijom mijenja se i glasi »9. Član uprave, član nadzornog odbora ili prokurist matičnog društva ili društva kćeri institucije«.
+Članak 23.
+Kreditne institucije dužne su prvi Izvještaj o dioničarima kreditne institucije s tri i više posto dionica i s njima povezanim osobama (PD33), Izvještaj o ulaganju u kapital društava (UKT4) i Izvještaj o izloženosti davateljima zaštite (IDZ2) u skladu s ovom Odlukom dostaviti sa stanjem na dan 31. prosinca 2015.
+Kreditne institucije dužne su prvi Izvještaj o neto kratkim pozicijama (IKP) dostaviti sa stanjem na dan 1. siječnja 2016.
+Stupanjem na snagu ove Odluke kreditne institucije više nisu dužne dostavljati konsolidirane izvještaje grupe (GR).
+Posljednji Izvještaj o prekoračenju ograničenja izloženosti (POVI) kreditna institucija dužna je dostaviti Hrvatskoj narodnoj banci sa stanjem na dan 30. rujna 2015.
+Članak 24.
+Ova Odluka stupa na snagu osmog dana od dana objave u »Narodnim novinama«, osim članaka 1. i 15. te članka

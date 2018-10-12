@@ -1,0 +1,38 @@
+IZVJEŠTAVANJE UCITS FONDA
+Poslovna godina UCITS fonda i primjena standarda financijskog izvještavanja
+Članak 204.
+(1) Poslovnu godinu UCITS fonda određuje društvo za upravljanje u prospektu svakog UCITS fonda.
+(2) Na financijsko izvještavanje UCITS fonda primjenjuju se propisi kojima se uređuje računovodstvo i Međunarodni standardi financijskog izvještavanja, osim ako Agencija ne propiše drugačije.
+(3) Agencija može propisati kontni plan za UCITS fondove.
+Izvještaji UCITS fonda
+Članak 205.
+(1) Godišnji i polugodišnji izvještaji UCITS fonda su:
+a) izvještaj o financijskom položaju
+b) izvještaj o sveobuhvatnoj dobiti
+c) izvještaj o novčanom tijeku
+d) izvještaj o promjenama u neto imovini UCITS fonda
+e) izvještaj o posebnim pokazateljima UCITS fonda
+f) izvještaj o vrednovanju imovine UCITS fonda i
+g) bilješke uz financijske izvještaje.
+(2) Godišnji financijski izvještaj UCITS fonda mora sadržavati i podatke o:
+a) ukupnom iznosu koji je društvo za upravljanje isplatilo u poslovnoj godini s osnove primitaka iz članka 60. ovoga Zakona, podijeljenom na fiksne i varijabilne primitke, te broju osoba koje su korisnici takvih primitaka
+b) ukupnom iznosu primitaka iz točke a) ovoga stavka raščlanjenom prema kategorijama radnika iz članka 59. stavaka 2. i 3. ovoga Zakona
+c) načinu izračuna primitaka
+d) ishodu revizije iz članka 60. stavka 1. točaka c) i d) ovoga Zakona, uključujući sve nepravilnosti koje su se pojavile i
+e) bitnim promjenama u usvojenoj politici primitaka.
+(3) Podatke iz stavka 2. ovoga članka društvo za upravljanje objavit će u Bilješkama uz financijske izvještaje iz stavka 1. točke g) ovoga članka.
+(4) Agencija će pravilnikom propisati strukturu i sadržaj polugodišnjih i godišnjih izvještaja iz stavka 1. ovoga članka te način njihova dostavljanja i objavljivanja.
+(5) Osim polugodišnjih i godišnjih izvještaja UCITS fonda iz stavka 1. ovoga članka, Agencija može propisati strukturu, sadržaj, način i rokove dostave drugih izvještaja UCITS fonda koje su društva za upravljanje obvezna sastavljati za potrebe Agencije.
+Revizija izvještaja UCITS fonda
+Članak 206.
+(1) Godišnje izvještaje UCITS fonda mora revidirati revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+(2) Agencija će detaljnije pravilnikom propisati opseg i sadržaj revizije, odnosno revizijskih postupaka i revizorskog izvješća o obavljenoj reviziji godišnjih izvještaja UCITS fonda.
+(3) Agencija od revizora može tražiti dodatna pojašnjenja u vezi s revidiranim godišnjim izvještajima.
+(4) Nakon što je jednom izabran isti revizor može revidirati najviše sedam uzastopnih godišnjih izvještaja istoga UCITS fonda.
+(5) Ako Agencija utvrdi da revizija godišnjih izvještaja UCITS fonda nije obavljena ili revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona, propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ili ako obavljenim nadzorom poslovanja UCITS fonda ili na drugi način utvrdi da revizija i revizorsko izvješće o godišnjim izvještajima UCITS fonda nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revidirane godišnje izvještaje i zahtijevati od društva za upravljanje da reviziju obavi drugi revizor, a na trošak društva za upravljanje.
+(6) Revizor iz stavka 1. ovoga članka dužan je Agenciji prijaviti svako kršenje odredbi ovoga Zakona, propisa donesenih na temelju njega ili drugih relevantnih propisa koje utvrdi u obavljanju revizije iz stavka 1. ovoga članka.
+Rokovi izrade polugodišnjih izvještaja i revidiranih godišnjih izvještaja
+Članak 207.
+(1) Polugodišnji izvještaji UCITS fonda dostavljaju se Agenciji u roku od dva mjeseca od završetka prvih šest mjeseci poslovne godine.
+(2) Revidirani godišnji izvještaji UCITS fonda dostavljaju se Agenciji u roku od četiri mjeseca od završetka poslovne godine.
+GLAVA

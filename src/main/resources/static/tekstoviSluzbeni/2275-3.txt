@@ -1,0 +1,21 @@
+ koji samostalno obavljaju zemaljske usluge,
+b) u svim procesima rada.
+(5) U cilju obavljanja svakodnevnih poslova na maksimalno siguran način, operator aerodroma na vodi osigurava adekvatnu obuku i kontinuiranu uvježbanost svih zaposlenika aerodroma na vodi.
+(6) Operator aerodroma na vodi procjenjuje postignutu prihvatljivu razinu sigurnosti, te u skladu sa rezultatima procjene definira:
+a) pokazatelje postignute prihvatljive razine sigurnosti (safety indicators), te
+b) planiranu višu razinu sigurnosti, postavljenu kao cilj u određenom vremenskom razdoblju (safety target).
+(7) U cilju unapređenja sigurnosti svakog aktualnog radnog procesa, operator aerodroma na vodi osigurava pravovremenu primjenu adekvatnih mjera za uklanjanje uočenih nedostataka, a na temelju kontinuirane analize:
+a) kvalitete organizacije, primijenjene tehnologije i praktične provedbe svakog aktualnog radnog procesa, te
+b) predloženih promjena, nadopuna i zamjena koje se odnose na pojedini radni proces.
+(8) Operator aerodroma na vodi na odgovarajući način dokumentira kontinuirano održavanje prihvatljive razine sigurnosti u procesima održavanja i korištenja svih objekata, operativne površine, instalacija, uređaja, sredstava i druge opreme bitne za sigurnost zračnog prometa. Dokumenti koji se odnose na kontinuirano održavanje prihvatljive razine sigurnosti čuvaju se u arhivi aerodroma na vodi najmanje 3 godine.
+(9) Operator aerodroma na vodi mora osigurati da zaposlenik zadužen za organizaciju i upravljanje sustavom sigurnosti (safety manager):
+a) direktno odgovara generalnom direktoru za kvalitetu sustava sigurnosti, te
+b) da nije u sukobu interesa, odnosno da istovremeno nije zadužen za organizaciju ili provedbu procesa sigurnost kojih se nadzire, održava i unapređuje.
+(10) Sustav upravljanja sigurnošću na aerodromu na vodi mora sadržavati kvalitetan sustav kontinuiranog nadzora kako bi svaki nedostatak u radnim procesima bio prepoznat (uočen) i adekvatnim mjerama uklonjen. U tom smislu operator aerodroma na vodi mora:
+a) organizirati i provoditi kvalitetan sustav izvješćivanja o svakoj nesreći, nezgodi ili događaju povezanim sa sigurnošću,
+b) istražiti svaku nesreću, nezgodu i događaj povezan sa sigurnošću u cilju otkrivanja i uklanjanja svih njihovih uzroka primjenom adekvatnih mjera, posebno kada je riječ o organizaciji, tehnologiji i praktičnoj provedbi pojedinih procesa,
+c) kopiju svakog izvješća o nesreći, nezgodi i događaju povezanim sa sigurnošću, te kopiju cjelokupne dokumentacije o rezultatima provedene istrage i primijenjenim mjerama u cilju uklanjanja uzroka nesreće, nezgode ili događaja povezanog sa sigurnošću, dostaviti Agenciji.
+(11) Operator aerodroma na vodi je obvezan organizirati i provoditi nadzor sigurnosti radnih procesa (safety audits) kako bi utvrdio postignutu razinu sigurnosti i osigurao definiranu prihvatljivu razinu sigurnosti. Učestalost nadzora sigurnosti mora biti definirana u potpoglavlju 5.2 aerodromskog priručnika. Zaposlenici operatora aerodroma na vodi koji nadziru sigurnost radnih procesa ne smiju biti u sukobu interesa, odnosno ne smiju biti zaduženi za organizaciju ili provedbu u praksi radnih procesa čiju sigurnost nadziru.
+(12) Operator aerodroma na vodi interno će distribuirati izvješća o svim nesrećama, nezgodama i događajima povezanima sa sigurnošću, te mjerama poduzetim u cilju njihovog sprječavanja, svim zainteresiranim pravnim i fizičkim osobama, štiteći pri tome tajnost identiteta pravnih i fizičkih osoba koje su sudjelovale u nesreći, nezgodi i događaju povezanim sa sigurnošću.
+(13) Kako bi se pravovremeno iz upotrebe uklonili svi dokumenti koji više ne vrijede, te spriječila svaka nenamjerna upotreba takvih dokumenata, operator aerodroma na vodi organizirat će i primijeniti odgovarajući sustav kvalitete u cilju izrade, distribucije i pravovremenog ažuriranja svih dokumenata koji se odnose na sustav upravljanja sigurnošću (safety assurance documentation).
+(14) Ukoliko operator zrakoplova koji je ujedno i

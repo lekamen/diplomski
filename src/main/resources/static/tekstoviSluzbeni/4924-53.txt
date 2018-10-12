@@ -1,0 +1,21 @@
+ prometnik vlakova sljedećeg kolodvora mora se prije davanja zapovijedi sporazumjeti s prometnikom vlakova prethodnog kolodvora o potrebnim mjerama.
+(6) Za daljnju vožnju od ulaznog signala vrijede signalni znakovi ulaznog signala, ručni signalni znakovi ili odobrenje dano sredstvima dokaznog sporazumijevanja.
+(7) Dopuštenje za nastavak vožnje vlaka koji je stao ispred prostornog signala koji signalizira signalni znak za zabranjenu vožnju ili je neosvijetljen, kada uređaji omogućuju kontrolu slobodnosti kolosijeka, daje prometnik vlakova sljedećeg kolodvora sredstvima dokaznog sporazumijevanja. U dopuštenju se navodi da je vožnja do sljedećeg glavnog signala dopuštena najvećom brzinom do 30 km/h i da je za nastavak vožnje mjerodavan signalni znak sljedećeg glavnog signala.
+(8) Uzastopnom vlaku koji se u trenutku smetnje zatekao na pruzi, prometnik vlakova smije dati dopuštenje za nastavak vožnje tek kada je prethodni vlak stigao cijeli u sljedeći kolodvor.
+Članak 163.
+(1) Kada se izlazni signal zbog neispravnosti kolodvorskog SS uređaja ne može postaviti tako da signalizira signalni znak za dopuštenu vožnju, a uređaj omogućuje kontrolu slobodnosti prvog prostornog odsjeka, vlakovi se otpremaju u blokovnom prostornom razmaku.
+(2) Ako je u kolodvoru koji se nalazi na pruzi opremljenoj uređajem APB izlazni signal neispravan i zadovoljen je uvjet iz stavka 1. ovog članka, tada se strojovođa o tome obavještava pisanim nalogom u čijem se sadržaju mora navesti:
+a) da izlazni signal (naziv signala) s određenog kolosijeka ne vrijedi i da je prolazak pokraj njega dopušten i
+b) da je do prvog sljedećeg glavnog signala potrebno voziti brzinom do najviše 30 km/h te da je za nastavak vožnje mjerodavan signalni znak tog signala.
+(3) Uzastopni vlak otprema se na isti takav način nakon što prethodni vlak napusti prvi prostorni odsjek.
+Članak 164.
+(1) Prometnik vlakova nakon što dobije obavijest o kvaru pružnog dijela AS uređaja, o tome obavještava susjedni kolodvor na odnosnom međukolodvorskom odsjeku i izvršne radnike koji su zaduženi za održavanje željezničkih infrastrukturnih podsustava i njihovih dijelova. Dok se ne popravi kvar, strojovođu svakog vlaka potrebno je pisanim nalogom obavještavati o tome kod kojeg signala je pružni AS uređaj neispravan uz navođenje najveće dopuštene brzine vlaka.
+(2) Na TK–pruzi i na pruzi s uređajem za vođenje vlaka te na pruzi s automatskim odjavnicama reguliranje prometa vlakova za vrijeme neispravnosti SS uređaja obavlja se u skladu s odredbama iz članaka od 159. do 164. ovog Pravilnika, a sve obavijesti i zapovijedi strojovođi daju se sredstvima dokaznog sporazumijevanja.
+Reguliranje prometa vlakova za vrijeme neispravnosti sredstava za sporazumijevanje
+Članak 165.
+(1) Kada na sredstvima za sporazumijevanje nastupi neispravnost, promet uzastopnih i suprotnih vlakova regulira se pomoću uređaja APB ili MO.
+(2) Kada na sredstvima za sporazumijevanje nastupi neispravnost i kada ni SS uređaji između dvaju susjednih kolodvora nisu ispravni, na prugama opremljenim uređajem APB i MO zabranjuje se otprema vlakova.
+(3) Na prugama bez uređaja APB ili MO zabranjuje se otprema vlakova na kolodvorske prostorne odsjeke na kojima je nastala neispravnost na sredstvima za sporazumijevanje.
+(4) Kada na sredstvima za dokazno sporazumijevanje nastupi neispravnost, reguliranje prometa iznimno je dozvoljeno drugim sredstvima za sporazumijevanje uz nazočnost svjedoka.
+(5) Dođe li do zaustavljanja vlaka na pruzi u vrijeme kada su sredstva za sporazumijevanje sa susjednim kolodvorima ili TK-dispečerom neispravna, osoblje vlaka postupa na sljedeći način:
+a) kada je vlak stao ispred prostornog signala koji signalizira signalni znak za zabranjenu vožnju, on smije nastaviti vožnju nakon promjene signalnog znaka na prostornom signalu: ako se signalni znak na prostornom signalu ne promijeni u roku od 3 minute nakon zaustavljanja vlaka ili ako je vlak stao ispred neosvijetljenog prostornog signala, nakon što je utvrđeno da sredstva za

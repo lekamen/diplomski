@@ -1,0 +1,23 @@
+25 06.03.2015 Pravilnik o kliničkim ispitivanjima lijekova i dobroj kliničkoj praksi
+MINISTARSTVO ZDRAVLJA
+534
+Na temelju članka 8. stavka 3., članka 13. i članka 18. stavka 1. Zakona o lijekovima (»Narodne novine«, broj 76/2013 i 90/2014) ministar zdravlja donosi
+PRAVILNIK
+O KLINIČKIM ISPITIVANJIMA LIJEKOVA I DOBROJ KLINIČKOJ PRAKSI
+Članak 1.
+(1) Ovim Pravilnikom utvrđuje se postupak i uvjeti provođenja kliničkog, neprofitnog i neintervencijskog ispitivanja lijeka kao i dobra klinička praksa pri provođenju kliničkog ispitivanja lijeka.
+(2) Postupanje sukladno zahtjevima dobre kliničke prakse osigurava zaštitu prava, sigurnost i dobrobit ispitanika te vjerodostojnost rezultata kliničkih ispitivanja.
+Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi:
+– Direktiva 2001/20/EZ Europskog parlamenta i Vijeća od 4. travnja 2001. o usklađivanju zakonodavstva i drugih propisa država članica koji se odnose na primjenu dobre kliničke prakse pri provođenju kliničkih ispitivanja lijekova za primjenu kod ljudi (SL L 121, 1. 5. 2001.).[1]
+Članak 3.
+(1) Pojedini izrazi u smislu ovoga Pravilnika imaju sljedeće značenje:
+Dobra klinička praksa je skup međunarodno priznatih etičkih i znanstvenih zahtjeva koji se slijede pri planiranju, provođenju, bilježenju i izvješćivanju o kliničkim ispitivanjima.
+Dosje o ispitivanom lijeku (Investigational Medicinal Product Dossier, u daljnjem tekstu: IMPD) je dokument u kojem su prikazani podaci koji se odnose na kvalitetu ispitivanog lijeka, proizvodnju i kontrolu ispitivanog lijeka te podaci iz nekliničkih i kliničkih ispitivanja kao i podaci o primjeni ispitivanog lijeka u ljudi.
+Informirani pristanak je suglasnost za sudjelovanje u kliničkom ispitivanju dana svojevoljno na temelju primljenih i pravilno dokumentiranih obavijesti o prirodi i važnosti, posljedicama i rizicima ispitivanja, u pisanom obliku, potpisana od ispitanika i s navedenim datumom. Ako je osoba nesposobna za davanje takve suglasnosti ili je maloljetna, suglasnost potpisuje zakonski zastupnik ili skrbnik. Ako je ispitanik nepismen ili ne može pisati, daje usmeni pristanak uz nazočnost barem jednog svjedoka koji nije član ispitivačkog tima.
+Inspekcijski nadzor kliničkih ispitivanja je nadzor nadležnog tijela nad provođenjem kliničkog ispitivanja, pregled dokumentacije, prostora, zapisa, sustava osiguranja kakvoće i drugih resursa vezanih uz provođenje kliničkih ispitivanja koje se može provesti na ispitivačkom mjestu, u prostorima naručitelja kliničkog ispitivanja i/ili ugovorne ustanove ili u drugim pravnim osobama u kojima nadležno tijelo smatra da je potrebno provesti nadzor.
+Ispitanik je pojedinac koji sudjeluje u kliničkom ispitivanju i prima ispitivani lijek ili je dio kontrolne skupine.
+Ispitivač je doktor medicine ili osoba s odgovarajućim stručnim kvalifikacijama za klinička ispitivanja zbog posjedovanja stručnih znanja i potrebnog iskustva u liječenju pacijenata. Ispitivač je odgovoran za vođenje kliničkog ispitivanja na mjestu ispitivanja. Ako kliničko ispitivanje provodi skupina pojedinaca na jednom ispitivačkom mjestu, ispitivač je odgovoran i naziva se glavnim ispitivačem.
+Ispitivačko mjesto je zdravstvena ustanova u kojoj se provodi kliničko ispitivanje.
+Ispitivani lijek je farmaceutski oblik s djelatnom tvari ili placebo koji se ispituje ili primjenjuje kao usporedba u kliničkom ispitivanju, a uključuje i lijekove koji imaju odobrenje za stavljanje u promet, ali se upotrebljavaju na drugačiji način od odobrenog ili se razlikuju u formulaciji ili pakiranju, ili se koriste kod neodobrenih indikacija ili se koriste za dobivanje dodatnih podataka o obliku lijeka koji ima odobrenje za stavljanje u promet.
+Kliničko ispitivanje je svako ispitivanje na ljudima namijenjeno otkrivanju ili potvrdi kliničkih, farmakoloških i/ili drugih farmakodinamičkih učinaka jednoga ili više ispitivanih lijekova i/ili otkrivanju nuspojava jednoga ili više ispitivanih lijekova, i/ili ispitivanju apsorpcije, distribucije,

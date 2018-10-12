@@ -1,0 +1,33 @@
+24 04.03.2015 Pravilnik o prenosivosti broja
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+514
+Na temelju članka 12. stavka 1. točke 1. i članka 76. stavka 6. Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PRAVILNIK
+O PRENOSIVOSTI BROJA
+I. OPĆE ODREDBE
+Sadržaj i svrha
+Članak 1.
+(1) Pravilnikom o prenosivosti broja (u daljnjem tekstu: Pravilnik) propisuju se način, uvjeti i postupak ostvarivanja prenosivosti broja u nepokretnoj i pokretnoj elektroničkoj komunikacijskoj mreži.
+(2) Ovaj Pravilnik usklađuje se s Direktivom 2002/22/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o univerzalnoj usluzi i pravima korisnika u odnosu na elektroničke komunikacijske mreže i usluge (Direktiva o univerzalnim uslugama) izmijenjenom i dopunjenom Direktivom 2009/136/EZ Europskog parlamenta i Vijeća od 25. studenoga 2009.
+Pojmovi i značenje
+Članak 2.
+(1) U smislu ovog pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. Agencija: Hrvatska regulatorna agencija za mrežne djelatnosti,
+2. davatelj broja: operator koji daje broj u postupku prijenosa broja,
+3. datum realizacije prijenosa broja: datum na koji je broj prenesen iz mreže davatelja broja u mrežu primatelja broja i korisniku omogućeno nesmetano korištenje usluge,
+4. korisnički zapis: račun korisnika usluge u nepretplatničkom sustavu plaćanja (pre-paid) u pokretnoj elektroničkoj komunikacijskoj mreži,
+5. lokalna baza prenesenih brojeva (LBPB): aktivna baza podataka koja se nalazi kod operatora, sadrži podatke potrebne za usmjeravanje poziva prema prenesenom broju i upotrebljava se u stvarnom vremenu pri uspostavi poziva,
+6. nepokretna elektronička komunikacijska mreža: elektronička komunikacijska mreža koja ne obuhvaća pokretnu elektroničku komunikacijsku mrežu,
+7. nepravovremeni prijenos broja: svaki prijenos broja izvan datuma i vremenskog okvira zapisanog u centralnoj administrativnoj bazi prenesenih brojeva, uključujući i slučajeve u kojima nakon prijenosa broja dolazi do neispravnog usmjeravanja poziva, odnosno nemogućnosti korištenja usluge, kao i kašnjenja u slučaju neopravdanog odbijanja ili odgode,
+8. operator korisnik broja: operator elektroničke komunikacijske mreže kojem je broj dodijeljen primarnom ili sekundarnom dodjelom sukladno odredbama Pravilnika o dodjeli adresa i brojeva,
+9. pokretna elektronička komunikacijska mreža: elektronička komunikacijska mreža koja omogućuje uspostavljanje elektroničke komunikacijske veze i u uvjetima fizičkog kretanja korisnika usluga te mreže,
+10. polazna mreža: elektronička komunikacijska mreža na koju je priključen pozivatelj,
+11. post-paid korisnik: korisnik koji uslugu plaća po ispostavljenom računu,
+12. preneseni broj: nacionalni broj koji je nepromijenjen prenesen iz pokretne elektroničke komunikacijske mreže jednog operatora u pokretnu elektroničku komunikacijsku mrežu drugog operatora ili iz nepokretne elektroničke komunikacijske mreže jednog operatora u nepokretnu elektroničku komunikacijsku mrežu drugog operatora,
+13. prenosivost broja: mogućnost da krajnji korisnik javno dostupnih telefonskih usluga, uključujući i usluge u pokretnoj elektroničkoj komunikacijskoj mreži, na vlastiti zahtjev, zadrži dodijeljeni broj neovisno o promjeni operatora,
+14. pre-paid korisnik: korisnik unaprijed plaćene usluge,
+15. primarna dodjela: postupak dodjele adresa i brojeva kojim Agencija dodjeljuje adrese i/ili brojeve operatorima na uporabu,
+16. primatelj broja: operator koji prima broj u postupku prijenosa broja,
+17. pristupni operator: operator koji pretplatniku pruža uslugu fizičkog i logičkog povezivanja njegove terminalne opreme na elektroničku komunikacijsku mrežu ili na dijelove elektroničke komunikacijske mreže,
+18. radni dan: dan koji nije subota, nedjelja, državni praznik ili blagdan, u trajanju od 24 sata, a ne samo dio dana unutar radnog vremena,
+19. Upit u bazu (eng.: »All Call Query«): metoda usmjeravanja

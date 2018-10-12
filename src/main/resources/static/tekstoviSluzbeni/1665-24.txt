@@ -1,0 +1,23 @@
+ energije te članka 96. ovih Općih uvjeta na mjestu predaje električne energije.
+Članak 98.
+(1) Opskrbljivač može operatoru sustava podnijeti zahtjev za privremenu obustavu isporuke električne energije u slučajevima iz članka 95. stavka 2. ovih Općih uvjeta do 10. dana u mjesecu.
+(2) Operator sustava dužan je privremeno obustaviti isporuku električne energije krajnjem kupcu tijekom istog mjeseca u kojem je zaprimljen uredan zahtjev opskrbljivača iz stavka 1. ovoga članka.
+(3) Operator sustava dužan je opskrbljivaču dostaviti obavijest o privremenoj obustavi isporuke električne energije iz stavka 2. ovoga članka u roku od 24 sata od sata izvršene privremene obustave isporuke električne energije za krajnje kupce na vrlo visokom, visokom i srednjem naponu, a u roku od 48 sati od sata izvršene privremene obustave isporuke električne energije za krajnje kupce na niskom naponu.
+Članak 99.
+(1) Ukoliko korisnik mreže onemogućava pristup obračunskom mjernom mjestu, priključku i mjernoj opremi, operator sustava provodi privremenu obustavu isporuke električne energije korisniku mreže na tehnički izvediv način i u najkraćem mogućem roku.
+(2) Operator sustava dužan je korisniku mjernih podataka dostaviti izvještaj o privremenoj obustavi isporuke električne energije korisniku mreže iz stavka 1. ovoga članka u roku od 24 sata od sata izvršene privremene obustave isporuke električne energije.
+Članak 100.
+Privremena obustava isporuke električne energije iz članka 95. ovih Općih uvjeta ne može započeti u petak, subotu ili nedjelju, na blagdan ili dan prije blagdana.
+Članak 101.
+(1) U slučaju prestanka razloga iz članka 95. stavka 1. i članka 96. ovih Općih uvjeta na temelju kojeg je korisniku mreže privremeno obustavljena isporuka električne energije, korisnik mreže je dužan operatoru sustava podnijeti zahtjev za ponovnu uspostavu isporuke električne energije.
+(2) U slučaju prestanka razloga iz članka 95. stavka 2. ovih Općih uvjeta, na temelju kojeg je krajnjem kupcu privremeno obustavljena isporuka električne energije, opskrbljivač je dužan operatoru sustava podnijeti zahtjev za ponovnu uspostavu isporuke električne energije u roku propisanom uvjetima kvalitete opskrbe električnom energijom.
+(3) Operator sustava dužan je na temelju urednog zahtjeva iz stavaka 1. i 2. ovoga članka ponovno uspostaviti isporuku električne energije korisniku mreže, u roku propisanom uvjetima kvalitete opskrbe električnom energijom.
+(4) Zahtjev iz stavaka 1. i 2. ovoga članka mora sadržavati dokaze o prestanku razloga zbog kojih je korisniku mreže privremeno obustavljena isporuka električne energije.
+(5) Operator sustava dužan je obavijestiti opskrbljivača o ponovnoj uspostavi isporuke električne energije u roku od 24 sata od sata ponovne uspostave isporuke električne energije za krajnje kupce na vrlo visokom, visokom i srednjem naponu, a u roku od 48 sati od sata ponovne uspostave isporuke električne energije za krajnje kupce na niskom naponu.
+Članak 102.
+(1) Trošak privremene obustave isporuke električne energije i trošak ponovne uspostave isporuke električne energije na zahtjev opskrbljivača, u slučaju nepravodobnog otkazivanja zahtjeva za privremenu obustavu isporuke električne energije, snosi opskrbljivač.
+(2) Pravodobnim otkazivanjem zahtjeva za privremenu obustavu isporuke električne energije smatra se otkazivanje do isteka dana u kojem je taj zahtjev podnesen.
+Članak 103.
+(1) Korisnik mreže koji je vlasnik ili nositelj nekog drugog stvarnog prava na građevini ili dijelu građevine ima pravo podnijeti zahtjev za privremenu obustavu isporuke električne energije na svom obračunskom mjernom mjestu, najdulje na razdoblje do pet godina, bez gubitka prava na korištenje mreže.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se najkasnije osam dana prije dana za koji je zatražena privremena obustava isporuke električne energije.
+(3) Zahtjev iz stavka 1. ovoga članka korisnik mreže podnosi operatoru sustava na propisanom obrascu koji obavezno sadrži i obavijest

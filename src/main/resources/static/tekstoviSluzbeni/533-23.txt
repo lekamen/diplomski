@@ -1,0 +1,23 @@
+ podacima.
+5.5.5. Naručitelj ispitivanja treba koristiti nedvosmislene identifikacijske oznake ispitanika (vidi 1.58.) koje omogućuju povezivanje svih zabilježenih podataka sa svakim pojedinim ispitanikom.
+5.5.6. Naručitelj ispitivanja, odnosno vlasnik podataka, treba čuvati sve svoje osnovne dokumente koji se odnose na ispitivanje (vidi 8. Osnovni dokumenti za provođenje kliničkog ispitivanja).
+5.5.7. Te dokumente naručitelj ispitivanja treba čuvati sukladno važećim zakonskim propisima zemalja u kojima je lijek odobren za tržište i/ili u zemljama u kojima namjerava dati zahtjev za njegovo odobrenje.
+5.5.8. Ako naručitelj ispitivanja prekine klinički razvoj ispitivanoga proizvoda (zbog neke ili svih indikacija, putova primjene ili oblika doziranja) dužan je čuvati sve svoje osnovne dokumente najmanje dvije godine od službenoga prestanka kliničkoga razvoja ispitivanoga proizvoda, odnosno toliko dugo koliko propisuju važeći zakonski propisi.
+5.5.9. Ako naručitelj ispitivanja prekine klinički razvoj ispitivanoga proizvoda, o tome treba obavijestiti sve ispitivače/ustanove te sva nadležna tijela.
+5.5.10. Odgovarajuća tijela također treba obavijestiti o svakom prijenosu vlasništva nad podacima, u skladu s važećim zakonskim propisima.
+5.5.11. Osnovne dokumente naručitelj ispitivanja treba čuvati najmanje dvije godine nakon ishođenja posljednjega odobrenja zahtjeva za stavljanje lijeka u promet u zemljama ICH, odnosno sve dok je u postupku zahtjev da se u tim zemljama lijek pusti u promet, odnosno najmanje dvije godine nakon službenoga prestanka kliničkoga razvoja ispitivanoga proizvoda. Ovisno o važećim zakonskim propisima ili potrebama naručitelja ispitivanja, ovi se dokumenti trebaju čuvati i duže.
+5.5.12. Naručitelj ispitivanja treba u pisanom obliku obavijestiti ispitivača/ustanovu o potrebi daljnjeg čuvanja podataka vezanih uz ispitivanje, kao i o prestanku potrebe za njihovim čuvanjem.
+5.6. Izbor ispitivača
+5.6.1. Naručitelj ispitivanja je odgovoran za izbor ispitivača/ustanove. Za pravilnu provedbu ispitivanja za koji je izabran, svaki ispitivač treba biti kvalificiran svojim obrazovanjem i iskustvom te treba raspolagati odgovarajućim mogućnostima/sredstvima (vidi 4.1., 4.2.). Naručitelj ispitivanja je odgovoran za uspostavljanje koordinacijskog povjerenstva i/ili izbor koordinatora koji su potrebni za organizaciju multicentričnih ispitivanja.
+5.6.2. Prije sklapanja sporazuma o provođenju ispitivanja s ispitivačem/ustanovom, naručitelj ispitivanja ispitivaču/ustanovi mora dostaviti Plan ispitivanja i ažurirane Upute za ispitivača te mu mora omogućiti dovoljno vremena da prouči Plan ispitivanja i dobivenu dokumentaciju.
+5.6.3. Ispitivač/ustanova treba se naručitelju ispitivanja obvezati da će:
+(a) ispitivanje provoditi u skladu s dobrom kliničkom praksom, važećim zakonskim propisima (vidi 4.1.3.) te Planom ispitivanja koji su odobrili naručitelj ispitivanja i Povjerenstvo (vidi 4.5.1.);
+(b) se pridržavati postupaka evidentiranja podataka i izvješćivanja;
+(c) omogućiti motrenje, nadzor i inspekciju ispitivanja (vidi 4.1.4.) te
+(d) čuvati sve osnovne dokumente koji se odnose na ispitivanje dok od naručitelja ispitivanja ne dobije obavijest da više ne postoji potreba za njihovim čuvanjem (vidi 4.9.4. i 5.5.12.).
+U znak potvrde sporazuma ispitivač/ustanova i naručitelj ispitivanja potpisuju Plan ispitivanja, odnosno drugi ugovor.
+5.7. Podjela nadležnosti
+Prije početka ispitivanja, naručitelj ispitivanja treba definirati, utvrditi i podijeliti sve obveze i zadaće vezane uz ispitivanje.
+5.8. Naknade ispitanicima i ispitivačima
+5.8.1. Ako tako propisuju važeći zakonski propisi, naručitelj ispitivanja treba ispitivača/ustanovu (zakonski i materijalno) osigurati od tužbi proizišlih iz ispitivanja, odnosno pružiti odštetu, izuzev kada se radi o tužbi za nesavjesnost i/ili nehat.
+5.8.2. Naručitelj ispitivanja u svojim odredbama i postupcima treba utvrditi visinu troškova liječenja ispitanika u slučaju ozljede proizišle iz njegova

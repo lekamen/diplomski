@@ -1,0 +1,27 @@
+ za izračun ušteda energije metodom odozdo prema gore na način utvrđen u Prilogu II. ovoga Pravilnika.
+(2) Mjerenje ušteda energije u sustavu za praćenje, mjerenje i verifikaciju ušteda koje se utvrđuju mjerenjem u skladu sa Zakonom, provodi se unosom uštede u fizičkim jedinicama kroz nacionalni informacijski sustav za gospodarenje energijom (ISGE) na način utvrđen Pravilnikom o sustavnom gospodarenju energijom ili na drugi način kojim se osigurava dostava objektivnih i nezavisnih podataka o referentnoj i stvarnoj potrošnji energije i/ili vode.
+(3) Uštede energije mjerene u Sustavu iz članka 7. stavka 1. ovoga Pravilnika, pripisuju se nositelju ušteda.
+Trajanje mjerenja ušteda u sustavu za praćenje, mjerenje i verifikaciju ušteda
+Članak 11.
+(1) Uštede energije mjere se za vrijeme trajanja životnog vijeka mjere koji je utvrđen u metodologiji iz Priloga II. ovoga Pravilnika, odnosno do prestanka mjerenja ušteda u skladu s odredbama ovoga Pravilnika.
+(2) Uštede energije koje se utvrđuju procjenom mjere se od dana unosa dokaza uštede u skladu sa odredbama iz Priloga II. ovoga Pravilnika.
+(3) Uštede energije koje se utvrđuju mjerenjem pripisuju se nositelju ušteda od dana početka mjerenja ušteda u skladu s odredbama Pravilnika o sustavnom gospodarenju energijom.
+Prestanak mjerenja ušteda u sustavu za praćenje, mjerenje i verifikaciju ušteda
+Članak 12.
+(1) Uštede se prestaju mjeriti istekom vijeka trajanja mjera ili od trenutka dostave dokaza da se uštede ne ostvaruju.
+(2) Prestanak ostvarivanja uštede dokazuje se jednakovrijednim dokazom kao za dokazivanje uštede kojeg dostavlja zainteresirana strana.
+(3) Dokaz iz stavka 1. ovoga članka u Sustav iz članka 7. stavka 1. ovoga Pravilnika dostavlja zainteresirana strana koja uštedu osporava.
+(4) Ako se mjera energetske učinkovitosti subvencionira, a korisnici subvencija nisu obveznici unosa podataka sustava za mjerenje i verifikaciju ušteda, ulazne podatke i dokaze o ostvarenim uštedama u Sustav iz članka 7. stavka 1. ovoga Pravilnika, unosi davatelj subvencija.
+Verifikacija ušteda energije
+Članak 13.
+(1) Nacionalno koordinacijsko tijelo verificira ostvarene uštede energije, provedbom mjera energetske učinkovitosti utvrđene u skladu s odredbama Zakona i odredbama ovoga Pravilnika u fizikalnim jedinicama (kWh i/ili J) za koje su priloženi dokazi u skladu s člankom 9. ovoga Pravilnika. Pri unosu dokaza za izračun ušteda energije u skladu s ovim člankom ne mogu se koristiti referentne vrijednosti.
+(2) Nacionalno koordinacijsko tijelo izdaje potvrdu o ostvarenim uštedama energije nositelju ušteda, suvlasniku zgrade koja ima važeći ugovor o energetskom učinku ili drugoj fizičkoj ili pravnoj osobi koja koristi subvencije za energetsku učinkovitost na zahtjev.
+(3) Kada se potvrda iz stavka 2. ovoga članka izdaje suvlasniku zgrade koja ima važeći ugovor o energetskom učinku potvrda sadrži podatke o uštedi energije koja se ostvaruje na godišnjoj razini, podatke o ukupnim uštedama za vrijeme životnog vijeka provedenih mjera, podatke o dokazima i izdavateljima dokaza na kojima se izračun uštede temelji te ulazne podatke uvedene u Sustav iz stavka 8. ovoga Pravilnika, a u skladu s odredbama ovoga Pravilnika.
+(4) Kada se potvrda o ostvarenim uštedama izdaje nositelju uštede, takva potvrda osim podataka iz stavka 3. ovoga članka sadrži podatke o uštedama ostvarenim od trenutka dostave dokaza o provedenoj mjeri ili od trenutka zadnje izdane potvrde do datuma zaprimanja zahtjeva.
+(5) Potvrda iz stavka 4. ovoga članka evidentira se u Sustavu iz članka 7. stavka 1. ovoga Pravilnika i dodjeljuje jedinstveni broj izdane potvrde.
+(6) Potvrda iz stavka 4. ovoga članka je prenosiva.
+(7) Prijenos potvrde o ostvarenju ušteda evidentira se u Sustavu iz članka 7. stavka 1. ovoga Pravilnika prema sporazumu potpisanom od strane nositelja uštede i osobe na čije se ime ušteda prenosi.
+IV. PLANOVI ENERGETSKE UČINKOVITOSTI
+Planovi energetske učinkovitosti
+Članak 14.
+(1) Planovi energetske učinkovitosti su sustavni

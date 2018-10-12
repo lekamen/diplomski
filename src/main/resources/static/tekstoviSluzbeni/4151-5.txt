@@ -1,0 +1,26 @@
+ uzemljenje radnih predmeta, povezivanje radnika s radnim predmetima (izjednačavanje potencijala) i prema potrebi te sukladno odredbama posebnog propisa kojima su uređeni minimalni sigurnosni i zdravstvenih zahtjevi za uporabu osobne zaštitne opreme na mjestu rada uporaba izolacijske obuće, rukavica i zaštitne odjeće.
+(7) Kod primjene članka 4. stavka 4. točke (a) ovoga Pravilnika, primjenjuju se posebne mjere zaštite kao što je kontrola kretanja.
+(8) Radnici ne smiju biti izloženi višim vrijednostima od graničnih vrijednosti izloženosti za učinke na zdravlje i graničnih vrijednosti izloženosti za učinke na osjetila, osim ako nisu ispunjeni uvjeti iz članka 10. stavka 1. točaka (a) ili (c) ili članka 4. stavaka 3. i 4. ovoga Pravilnika. Ako se unatoč mjerama koje je poduzeo poslodavac prekorače granične vrijednosti izloženosti za učinke na zdravlje i granične vrijednosti izloženosti za učinke na osjetila, poslodavac odmah poduzima mjere za smanjenje izloženosti ispod graničnih vrijednosti. Poslodavac utvrđuje razloge zbog kojih je došlo do prekoračenja graničnih vrijednosti izloženosti za učinke na zdravlje i učinke na osjetila i sukladno uzrocima prilagođava zaštitne i preventivne mjere, kako bi spriječio ponovno prekoračenje graničnih vrijednosti. Podaci o prilagodbi zaštitnih i preventivnih mjera čuvaju se u odgovarajućem obliku koji se može slijediti, kako bi se omogućilo njihovo naknadno korištenje sukladno važećim propisima i praksi.
+(9) Kod primjene članka 4. stavka 3. i 4. ovoga Pravilnika te kada radnici prijave kratkotrajne simptome, poslodavac, ako je potrebno,, ažurira procjenu rizika i preventivne mjere. Kratkotrajni simptomi mogu uključivati:
+a) osjetilne percepcije i učinke na funkcioniranje središnjeg živčanog sustava u periodički promjenljivim magnetskim poljima; i
+b) učinke statičkog magnetskog polja kao što su vrtoglavica i mučnina.
+Informiranje i osposobljavanje radnika
+Članak 7.
+Iznimno od odredbi posebnih propisa o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu, poslodavac je obvezan osigurati da radnici koji su izloženi riziku od elektromagnetskih polja na radu i/ili njihovi predstavnici budu informirani i osposobljeni u pogledu rezultata procjene rizika iz članka 5. ovoga Pravilnika, što se posebno odnosi na:
+a) mjere poduzete za primjenu ovog Pravilnika;
+b) vrijednosti i koncepte graničnih vrijednosti izloženost i vrijednosti upozorenja, s njima povezane moguće rizike i poduzete preventivne mjere;
+c) moguće neizravne učinke izloženosti;
+d) rezultate procjene, mjerenja ili proračuna razina izloženosti elektromagnetskim poljima provedenima sukladno članku 5. ovoga Pravilnika;
+e) načine otkrivanja i prijavljivanja štetnih utjecaja na zdravlje koji su posljedica izloženosti;
+f) mogućnost kratkotrajnih simptoma i osjećaja povezanih s učincima na središnji ili periferni živčani sustav
+g) okolnosti u kojima radnici imaju pravo na zdravstveni nadzor
+h) sigurne radne prakse za smanjivanje rizika zbog izloženosti;
+i) radnike koji su izloženi posebnom riziku iz članka 5. stavka 5. točke (d) i članka 6. stavaka 3. i 4. ovoga Pravilnika.
+Savjetovanje i sudjelovanje radnika
+Članak 8.
+Na savjetovanje i sudjelovanje radnika i/ili njihovih povjerenika/predstavnika na odgovarajući način primjenjuju se odredbe posebnih propisa o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu.
+POGLAVLJE III. OSTALE ODREDBE
+Zdravstveni nadzor
+Članak 9.
+(1) S ciljem prevencije i rane dijagnostike svih štetnih učinaka na zdravlje koji su posljedica izloženosti elektromagnetskim poljima, provodi se odgovarajući zdravstveni nadzor sukladno odredbama posebnih propisa o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu. Zdravstvena dokumentacija i njezina dostupnost utvrđuju se sukladno posebnim propisima i dobroj praksi.
+(2) Sukladno posebnim propisima i dobroj praksi, rezultati zdravstvenog nadzora čuvaju se u obliku koji omogućuje naknadnu uporabu,

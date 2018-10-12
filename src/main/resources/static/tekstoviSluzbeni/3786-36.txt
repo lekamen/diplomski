@@ -1,0 +1,34 @@
+ upravljanje dužno je odbiti sklapanje ugovora o ulaganju za zahtjeve za izdavanje udjela UCITS fonda zaprimljene za vrijeme obustave izdavanja i otkupa udjela.
+(5) U slučaju da je izvršena uplata novčanih sredstava na račun UCITS fonda, društvo za upravljanje vratit će uplaćena sredstva u nominalnom iznosu, na račun s kojeg je uplata zaprimljena, ako je podatak o računu poznat društvu za upravljanje.
+(6) Agencija će pravilnikom detaljnije propisati uvjete, postupak i način sklapanja i odbijanja sklapanja ugovora o ulaganju.
+Imovina UCITS fonda
+Članak 101.
+(1) Imovina UCITS fonda ne pripada društvu za upravljanje, nije dio njegove imovine, njegove likvidacijske ili stečajne mase, niti može biti predmet ovrhe radi namirenja tražbine prema društvu za upravljanje. Imovina UCITS fonda drži se i vodi odvojeno od imovine društva za upravljanje.
+(2) Sve što društvo za upravljanje stekne na temelju prava koja pripadaju UCITS fondu ili na temelju poslova koji se odnose na imovinu UCITS fonda ili što osoba ovlaštena za upravljanje UCITS fondom stekne kao naknadu za pravo koje pripada UCITS fondu, također pripada UCITS fondu i čini imovinu UCITS fonda.
+Odgovornost UCITS fonda
+Članak 102.
+(1) UCITS fond ne odgovara za obveze društva za upravljanje.
+(2) Ulagatelji u UCITS fond ne odgovaraju za obveze društva za upravljanje koje proizlaze iz pravnih poslova koje je društvo za upravljanje zaključilo u svoje ime i za zajednički račun ulagatelja. Društvo za upravljanje ne može sklopiti pravni posao kojim bi nastala obveza izravno ulagatelju. Svi pravni poslovi protivni ovome stavku, ništetni su.
+(3) Ništetna je svaka punomoć prema kojoj bi društvo za upravljanje zastupalo ulagatelje.
+(4) Potraživanja za naknadu troškova i naknada nastalih u svezi sa zaključivanjem pravnih poslova za zajednički račun ulagatelja društvo za upravljanje može podmiriti isključivo iz imovine UCITS fonda, bez mogućnosti da za njih tereti ulagatelje izravno.
+Članak 103.
+(1) Društvo za upravljanje ne može izdati punomoć ulagateljima za ostvarivanje prava glasa iz financijskih instrumenata koji pripadaju imovini UCITS fonda.
+(2) Društvo za upravljanje će samo ili putem depozitara, uz jasno danu uputu za glasovanje, ostvarivati pravo glasa iz dionica koje čine imovinu UCITS fonda.
+(3) Pravo glasa iz dionica koje čine imovinu UCITS fonda može ostvariti i punomoćnik, kojem će društvo za upravljanje u tom slučaju izdati posebnu pisanu punomoć s jasnim uputama za glasovanje.
+Udjeli u UCITS fondu
+Članak 104.
+(1) Udjeli u UCITS fondovima su slobodno prenosivi nematerijalizirani financijski instrumenti.
+(2) Udjeli u UCITS fondovima mogu njihovim imateljima davati različita prava i međusobno se razlikovati s obzirom na ta prava, u odnosu na, primjerice, isplatu prihoda ili dobiti UCITS fonda, denominaciju, pravo izdavanja i/ili otkupa, naknadu za upravljanje plativu društvu za upravljanje, početnu cijenu udjela ili kombinaciju tih prava (klase udjela).
+(3) Udjeli koji pripadaju pojedinoj klasi udjela njihovim imateljima daju ista prava.
+(4) Troškovi uvođenja novih klasa udjela u postojećem UCITS fondu uključuju se u cijenu izdanja udjela.
+(5) Agencija će pravilnikom detaljnije propisati klase udjela i način njihova uvođenja.
+Članak 105.
+(1) Nijedan ulagatelj ne može zahtijevati diobu zajedničke zasebne imovine UCITS fonda.
+(2) Diobu zajedničke zasebne imovine UCITS fonda ne može zahtijevati niti založni ili fiducijarni vjerovnik, ovrhovoditelj ili stečajni upravitelj pojedinog ulagatelja.
+POGLAVLJE II.
+Vođenje poslova društva za upravljanje i UCITS fonda
+Članak 106.
+Društvo za upravljanje dužno je:
+1. biti sposobno pravovremeno ispuniti svoje dospjele obveze (načelo likvidnosti), odnosno trajno sposobno ispunjavati sve svoje obveze (načelo solventnosti)
+2. upravljati UCITS fondom na način da je UCITS fond sposoban pravovremeno ispunjavati svoje dospjele obveze (načelo likvidnosti), odnosno da je UCITS fond trajno sposoban ispunjavati sve svoje obveze (načelo solventnosti)
+3.

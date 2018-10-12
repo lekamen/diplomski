@@ -1,0 +1,25 @@
+ nepogodama čija se težina može mijenjati s vremenom tijekom očekivanog životnog vijeka nuklearne elektrane.
+c) Korištene metode i pretpostavke trebaju biti opravdane. Potrebno je ocijeniti nesigurnosti koje mogu utjecati na rezultate procjene opasnosti.
+5.4 Definicija projektnih događaja
+(1) Potrebno je definirati projektne događaje na temelju konkretne procjene opasnosti na lokaciji.
+(2) Učestalost prekoračenja za projektne događaje treba biti dovoljno niska da osigura visoki stupanj zaštite od elementarnih nepogoda. Zajednička ciljana učestalost, ne veća od 10-4 godišnje, treba biti korištena za svaki projektni događaj. Ako nije moguće izračunati te vjerojatnosti uz prihvatljivi stupanj sigurnosti, potrebno je izabrati i opravdati događaj kako bi se postigla ekvivalentna razina sigurnosti. . U konkretnom slučaju seizmičkog opterećenja, potrebno je uzeti, kao minimum, vrijednost horizontalnog vršnog ubrzavanja tla od 0,1 g (gdje je ‘g’ ubrzanje zbog gravitacije), čak i ako je uz tu vrijednost učestalost prekoračenja manja od zajedničke ciljane učestalosti.
+(3) Projektne događaje potrebno je usporediti s relevantnim povijesnim podacima kako bi se verificiralo da su ekstremni povijesni događaji obuhvaćeni projektnom osnovom uz dovoljnu marginu.
+(4) Parametre projektne osnove potrebno je odrediti za svaki projektni događaj uzimajući u obzir rezultate procjene opasnosti. Parametre projektnog događaja potrebno je konzervativno odrediti.
+5.5 Zaštita od projektnih događaja
+(1) Za projektne događaje potrebno je osigurati zaštitu. Koncept zaštite treba biti utvrđen kako bi osigurao osnovu za projektiranje odgovarajućih mjera zaštite.
+(2) Koncept zaštite treba biti dovoljno pouzdan da su temeljne sigurnosne funkcije konzervativno osigurane za sve izravne i razumne neizravne učinke projektnih događaja.
+(3) Koncept zaštite:
+a) potrebno je primijeniti razumni konzervatizam u projektiranju sigurnosnih margina;
+b) potrebno je oslanjati se na pasivne mjere koliko je to razumno moguće;
+c) potrebno je osigurati da mjere potrebne za savladavanje projektnog kvara budu učinkovite tijekom i nakon projektnog događaja.
+d) potrebno je voditi računa o predvidljivosti i razvoju događaja tijekom vremena;
+e) potrebno je osigurati da su procedure i sredstva na raspolaganju za verificiranja stanja postrojenja tijekom i nakon projektnih događaja;
+f) potrebno je uzeti u obzir da događaji istovremeno mogu staviti pritisak na nekoliko redundantnih ili različitih dijelova sigurnosnog sustava, više SSK ili više jedinica na lokaciji, infrastrukturu na lokaciji i u regiji, vanjsku opskrbu i druge protumjere;
+g) potrebno je osigurati da dovoljno resursa ostane na raspolaganju na lokaciji s više jedinica s obzirom na korištenje zajedničke opreme ili usluga;
+h) ne smije negativno utjecati na zaštitu od drugih projektnih događaja (koji ne potiču od elementarnih nepogoda).
+(4) Za projektne događaje, SSK utvrđeni kao dio koncepta zaštite s obzirom na elementarne nepogode trebaju se smatrati važnima za sigurnost.
+(5) Procesi za nadzor i upozoravanje trebaju biti na raspolaganju za podršku konceptu zaštite. Pragovi (interventne vrijednosti) trebaju biti utvrđeni, gdje je to primjenjivo, kako bi se omogućilo pravovremeno pokretanje administrativnih mjera zaštite. Osim toga, pragovi trebaju biti utvrđeni kako bi se omogućilo izvršenje unaprijed planiranih aktivnosti nakon događaja (npr. inspekcije).
+(6) Tijekom dugotrajnih elementarnih nepogoda, trebaju biti dostupni mjere za zamjenu osoblja i materijala.
+5.6 Mjere za događaje teže od projektnih događaja
+(1) Događaji koji su teži od projektnih događaja trebaju biti utvrđeni kao dio analize PPU. Njihov izbor treba biti opravdan. Daljnja detaljna analiza događaja nije potrebna ako se njihova vjerojatnost pojavljivanja može smatrati ekstremno malom s visokim stupnjem pouzdanosti.
+(2) Težina elementarnih nepogoda kao funkcija učestalosti prekoračenja ili drugih parametara povezanih s događajem treba biti razvijena, kada je to 

@@ -1,0 +1,26 @@
+133 09.12.2015 Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+2503
+Hrvatska agencija za nadzor financijskih usluga na temelju članka 113. stavka 11. Zakona o osiguranju (»Narodne novine« broj 30/15) na sjednici Upravnog vijeća održanoj 4. prosinca 2015. donosi
+PRAVILNIK
+O SADRŽAJU DOKUMENTACIJE ZA IZDAVANJE ODOBRENJA ZA PRIMJENU PRILAGODBE ZA VOLATILNOST NA RELEVANTNU VREMENSKU STRUKTURU BEZRIZIČNIH KAMATNIH STOPA U IZRAČUNU NAJBOLJE PROCJENE
+Uvodne odredbe
+Članak 1.
+(1) Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) sukladno odredbama Zakona o osiguranju (dalje u tekstu: Zakon) detaljnije propisuje dokumentaciju koju je potrebno dostaviti uz Zahtjev za primjenu prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene (dalje u tekstu: Zahtjev za primjenu prilagodbe za volatilnost).
+(2) Odredbe ovoga Pravilnika koje se odnose na društva za osiguranje na odgovarajući način se primjenjuju na društva za reosiguranje.
+Dokumentacija za izdavanje odobrenja za primjenu prilagodbe za volatilnost
+Članak 2.
+(1) Zahtjev za primjenu prilagodbe za volatilnost koji Agenciji podnosi društvo za osiguranje (dalje u tekstu: Društvo) mora sadržavati predmet zahtjeva s naznakom tvrtke, sjedišta i OIB-a podnositelja zahtjeva i biti potpisan od strane ovlaštenih osoba za zastupanje u skladu s odredbama Zakona koje uređuju zastupanje Društva prema Agenciji.
+(2) Uz Zahtjev za primjenu prilagodbe za volatilnost društvo za osiguranje mora dostaviti sljedeću dokumentaciju:
+1. podatak o opsegu primjene prilagodbe za volatilnost:
+– početni datum primjene prilagodbe za volatilnost,
+– valuta i portfelj obveza na koji se primjenjuje prilagodba za volatilnost,
+2. izjavu da se na portfelj obveza iz točke 1. ovoga članka ne primjenjuje prilagodba za uravnoteženje iz članka 111. Zakona,
+3. utjecaj primjene prilagodbe za volatilnost na tehničke pričuve, vlastita sredstva i potrebni solventni kapital. Izračun je potrebno iskazati na posljednji dan kalendarske godine koja prethodi datumu iz točke 1. ovoga članka.
+Potrebni solventni kapital izračunava se korištenjem standardne formule. U slučaju da Društvo upotrebljava unutarnji model koji je odobren, potrebni solventni kapital izračunava se korištenjem unutarnjeg modela. U slučaju da je Agencija zaprimila uredan zahtjev za izdavanje odobrenja unutarnjeg modela, a isti još nije odobren, izračun potrebnog solventnog kapitala izračunava se korištenjem standardne formule i unutarnjeg modela,
+4. dokumentaciju iz koje je vidljivo da je Društvo identificiralo sve rizike koji su prepoznati zbog primjene prilagodbe za volatilnost te da ima odgovarajuće razumijevanje i tehnike za ublažavanje rizika te financijske resurse za upravljanje tim rizicima odnosno da je vidljivo da je Društvo uzelo u obzir usklađenost sa zahtjevima vezanim uz upravljanje rizicima iz članka 94. Zakona te zahtjevima vezanim uz načelo razboritosti iz članaka 159., 160. i 161. Zakona.
+5. plan likvidnosti koji projicira ulazne i izlazne novčane tokove u odnosu na odgovarajuću imovinu i obveze iz portfelja na koji se primjenjuje prilagodba za volatilnost,
+6. u vezi s upravljanjem imovinom i obvezama projekcije:
+– osjetljivosti svojih tehničkih pričuva i prihvatljivih vlastitih sredstava na pretpostavke na kojima se temelji izračun prilagodbe za volatilnost i mogući učinak prisilne prodaje imovine na njihova prihvatljiva vlastita sredstva,
+– utjecaja smanjenja prilagodbe za volatilnost na nulu,
+7. analizu mjera koje bi Društvo moglo poduzeti u situacijama, kada bi smanjenje prilagodbe za volatilnost na nulu rezultiralo neusklađenošću s potrebnim solventnim kapitalom, kako bi se ponovno uspostavila dovoljna razina prihvatljivih vlastitih sredstava za pokriće potrebnog

@@ -1,0 +1,97 @@
+brigadir BRANKO (Matin) TUBIĆ
+190. brigadir EMILIO (Ivanov) TURINA
+191. brigadir IVAN (Nikolin) TURKALJ
+192. brigadir JOSIP (Ivanov) TURKOVIĆ
+193. brigadir ŽELJKO (Josipov) VALENTIĆ
+194. brigadir MIJO (Antin) VALIDŽIĆ
+195. brigadir IVAN (Rudolfov) VEINGARTNER
+196. brigadir VEDRAN (Petrov) VEJIĆ
+197. brigadir IVICA (Matin) VIDOVIĆ
+198. brigadir BRANKO (Slavkov) VINCELJ
+199. brigadir DAMIR (Zvonimirov) VOŠ
+200. brigadir RUDOLF (Vladimirov) VUČIĆ
+201. brigadir BOŽE (Ivanov) VUJEVIĆ
+202. brigadir BOŽO (Draganov) VUKASOVIĆ
+203. brigadir DARKO (Jurin) VUKOSAVIĆ
+204. brigadir TIHOMIR (Vladimirov) ZAJEC
+205. brigadir TIHOMIR (Ivanov) ZEBEC
+206. brigadir VINKO (Nediljkov) ZEBIĆ
+207. brigadir MIROSLAV (Tadijin) ZEKUŠIĆ
+208. brigadir ANTO (Ivanov) ZELIĆ
+209. brigadir IVAN (Milanov) ZELIĆ
+210. brigadir NEDELJKO (Josipov) ZMAJIĆ
+211. brigadir ZLATOMIR (Jeronimov) ŽARKO
+212. brigadir ŽELJKO (Grgin) ŽEŽELJ
+213. brigadir IVAN ANTON (Ivanov) ŽLIMEN
+214. kapetan fregate SILVIO (Ivičin) AMIŽIĆ
+215. kapetan fregate MILIVOJ (Andrijin) BAČIĆ
+216. kapetan fregate MARIO (Željkov) BADROV
+217. kapetan fregate IVICA (Đurin) BAJAJ
+218. kapetan fregate VLATKO (Mirkov) BANJA
+219. kapetan fregate FRANO (Josipov) BARIĆ
+220. kapetan fregate DAMIR (Jurin) BULIĆ
+221. kapetan fregate VATROSLAV (Jozin) CAREV
+222. kapetan fregate ZORAN (Vinkov) DRAŽIĆ
+223. kapetan fregate DENI (Antin) DUMANIĆ
+224. kapetan fregate ANTUN (Ljudevitov) FLEGAR
+225. kapetan fregate DRAŽEN (Antin) GUĆ
+226. kapetan fregate BOŠKO (Milovanov) JERONČIĆ-GRBA
+227. kapetan fregate DAVOR (Antin) JUKICA
+228. kapetan fregate BERNARD (Ivanov) JURIČEV
+229. kapetan fregate DŽEVAD (Hamdijin) KAJAN
+230. kapetan fregate BORIS (Jozin) KARTELO
+231. kapetan fregate NEVEN (Šimin) KATIĆ
+232. kapetan fregate NADOMIR (Božin) KODŽOMAN
+233. kapetan fregate ERNESTO (Antin) KOSOR
+234. kapetan fregate RADOVAN (Alojzov) KOŠAK
+235. kapetan fregate KRUNOSLAV (Ivin) KRALJ
+236. kapetan fregate ŽELJKO (Mirkov) KUSIĆ
+237. kapetan fregate OLIVER (Stjepanov) MARČIĆ
+238. kapetan fregate ALEN (Tomislavov) MARKOVIĆ
+239. kapetan fregate ANTONIO (Ljubomir-Mirkov) PALOŠEK
+240. kapetan fregate DAMIR (Stankov) POKLEPOVIĆ
+241. kapetan fregate MIRO (Josipov) PROLIĆ
+242. kapetan fregate ROBERT (Rozarijev) RADIĆ
+243. kapetan fregate ZDENKO (Ivin) RUŽIĆ
+244. kapetan fregate MARIN (Josipov) SIĆ
+245. kapetan fregate IVICA (Nediljkov) SKEJIĆ
+246. kapetan fregate NEVEN (Nedjeljkov) STIPANIĆ
+247. kapetan fregate ŠIMUN (Ivanov) SVALINA
+248. kapetan fregate JOSIP (Ivanov) ŠEGO
+249. kapetan fregate MLADEN (Mladenov) TRNSKI
+250. kapetan fregate VLADE (Jurin) ZOKO
+251. kapetan fregate NENAD (Tomin) ŽITKOVIĆ
+252. pukovnica ELIZABETA (Petrova) ARSOVSKA-BADANJAK
+253. pukovnica VESNA (Ljubomirova) BEŠTEK
+254. pukovnica MERI (Ivanova) KEKEZ UŠLJEBRKA
+255. pukovnica STANKA (Ivanova) KNEŽEVIĆ
+256. pukovnica NEVENKA (Stjepanova) KOVAČ
+257. pukovnica MARCELLA (Borisova) KRANJČEC
+258. pukovnica ŽANA (Lovrina) LJUBICA
+259. pukovnica MARIA (Anđelkova) MEDVIDOVIĆ GRUBIŠIĆ
+260. pukovnica JAGODA (Nikolina) RADIĆ
+261. pukovnica ELENA (Nikolina) RUBIĆ
+262. pukovnica KSENIJA (Stipina) SORIĆ
+263. pukovnica NADA (Ivanova) SREDNOSELEC
+264. pukovnica OLIVERA (Draškova) TOKIĆ
+265. pukovnik ZVONIMIR (Božin) ANTUNOVIĆ
+266. pukovnik DRAGO (Nedjeljkov) BABIĆ
+267. pukovnik BOBAN (Vilimov) BABIĆ
+268. pukovnik DAVOR-JOSIP (Pavlov) BABIĆ
+269. pukovnik ZORAN (Jerkov) BAKULA
+270. pukovnik VLATKO (Andrijin) BANDALO
+271. pukovnik ZDRAVKO (Božin) BARBARIĆ
+272. pukovnik MILE (Antin) BARIČEVIĆ
+273. pukovnik MIROSLAV (Paškov) BATUR
+274. pukovnik VLATKO (Rajkov) BELAJEVIĆ
+275. pukovnik TIHOMIR (Željkov) BELAS
+276. pukovnik IVAN (Andrijin) BENKOVIĆ
+277. pukovnik ALEN (Matin) BIGAVA
+278. pukovnik MIRKO (Tomislavov) BILOBRK
+279. pukovnik VELJKO (Matin) BIŠKO
+280. pukovnik STANISLAV (Ivanov) BLAŽEKOVIĆ
+281. pukovnik DRAGO (Ilijin) BLAŽEVIĆ
+282. pukovnik ZORAN (Ivanov) BLAŽINIĆ
+283. pukovnik ZDENKO (Stjepanov) BOBAN
+284. pukovnik MIROSLAV (Josipov) BOLJEŠIĆ
+285. pukovnik MIROSLAV

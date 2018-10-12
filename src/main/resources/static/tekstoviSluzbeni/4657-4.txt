@@ -1,0 +1,26 @@
+osoba u skladu s člankom 4. stavkom 1. točkom 39. Uredbe (EU) br. 575/2013.
+(5) Politike, postupci i ostali interni akti iz stavka 2. ovog članka čine jedan ili više dokumenata koji moraju biti u pisanom obliku, jasno definirani i dokumentirani te dostupni svim radnicima kreditne institucije koji su uključeni u proces preuzimanja i upravljanja rizicima koji proizlaze iz izloženosti prema subjektima bankarstva u sjeni. Kreditna institucija dužna je politike iz stavka 2. ovog članka na odgovarajući način uključiti u politike iz članka 48. stavka 4. Zakona o kreditnim institucijama.
+(6) Odbor za kreditni rizik, odnosno drugo tijelo kreditne institucije s istovjetnim zadacima, dužan je nadzirati provedbu analiza iz stavka 3. točke 2. ovog članka, a kreditna institucija dužna je osigurati da navedeni odbor ili drugo tijelo koje odredi bude obaviješteno o rezultatima tih analiza.
+(7) Kreditna institucija dužna je osigurati da su rizici iz stavka 1. ovog članka na odgovarajući način uzeti u obzir u postupku procjenjivanja adekvatnosti internoga kapitala i planiranju kapitala u skladu s Odlukom o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije (»Narodne novine«, br. 20/2014.).
+Nadležnosti uprave i nadzornog odbora
+Članak 50.b
+(1) Uprava kreditne institucije dužna je na redovitoj, unaprijed utvrđenoj osnovi, a najmanje jednom godišnje:
+1) odobriti i preispitati sklonost preuzimanju rizika kreditne institucije za izloženost prema subjektima bankarstva u sjeni uključujući pojedinačne interne limite i ukupni interni limit utvrđene u skladu s člancima 50.c i 50.d ove Odluke,
+2) odobriti i preispitati proces upravljanja rizicima za potrebe upravljanja izloženostima prema subjektima bankarstva u sjeni, uključujući analizu rizika koji proizlaze iz tih izloženosti, tehnike smanjenja tih rizika i potencijalni učinak na kreditnu instituciju u stresnim scenarijima,
+3) preispitati izloženost kreditne institucije prema subjektima bankarstva u sjeni (na ukupnoj i pojedinačnoj osnovi) kao postotak ukupne izloženosti te očekivanih i ostvarenih gubitaka i
+4) osigurati dokumentiranje postupka utvrđivanja limita iz članaka 50.c i 50.d ove Odluke, uključujući sve njihove izmjene.
+(2) Uprava kreditne institucije može za zahtjeve iz stavka 1. ovog članka koji se odnose na preispitivanje ovlastiti više rukovodstvo.
+Pojedinačni interni limit
+Članak 50.c
+(1) Kreditna institucija dužna je odrediti i primjenjivati pojedinačni interni limit za izloženost prema svakom subjektu bankarstva u sjeni koji se utvrđuje u odnosu na njezin priznati kapital.
+(2) Pri određivanju pojedinačnih internih limita kreditna institucija dužna je uzeti u obzir sljedeće:
+1) regulatorni status subjekta bankarstva u sjeni, osobito je li obvezan primjenjivati neke bonitetne zahtjeve te je li pod nadzorom nekoga nadzornog tijela,
+2) financijski položaj subjekta bankarstva u sjeni uključujući najmanje visinu i kvalitetu kapitala, razinu financijske poluge i likvidnost,
+3) dostupne informacije o portfelju subjekta bankarstva u sjeni, posebice o neprihodonosnim kreditima i zajmovima,
+4) primjerenost kreditne analize koju subjekt bankarstva u sjeni provodi na svojem portfelju, ako je primjenjivo, a na temelju dostupnih informacija,
+5) ranjivost subjekta bankarstva u sjeni s obzirom na volatilnost cijene imovine ili kvalitete kredita i zajmova,
+6) koncentraciju aktivnosti kreditnog posredovanja u odnosu na druge poslovne djelatnosti subjekta bankarstva u sjeni,
+7) povezanost kao što je navedeno u članku 50.a stavku 3. točki 6. ove Odluke i
+8) sve ostale relevantne čimbenike koje odredi kreditna institucija u skladu s člankom 50.a stavkom 3. točkom 1. ove Odluke.
+(3) Pojedinačni interni limit iz stavka 1. ovog članka mora biti stroži od ukupnoga internog limita iz članka 50.d ove Odluke.
+(4) Kreditna institucija dužna je dokumentirati odnosno osigurati dokaze da je pri određivanju pojedinačnoga internog limita u obzir uzela zahtjeve iz svih točaka stavka 2. ovog

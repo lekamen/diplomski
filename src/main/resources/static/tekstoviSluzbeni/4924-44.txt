@@ -1,0 +1,21 @@
+ čini strojovođa lokomotive na kraju vlaka po odobrenju prometnika vlakova prethodnog kolodvora.
+(6) Ako sporazumijevanje nije moguće, vlak smije nastaviti vožnju do ulaznog signala odnosno prve ulazne skretnice sljedećeg kolodvora.
+(7) Prednji dio raskinutog vlaka smije nastaviti vožnju samo nakon odobrenja prometnika vlakova sljedećeg kolodvora, uz uvjet da je stražnji dio vlaka osiguran od samopokretanja i po mogućnosti pod nadzorom osoblja vlaka ili izvršnih radnika upravitelja infrastrukture.
+(8) Ako sporazumijevanje nije moguće, prvi dio raskinutog vlaka smije nastaviti vožnju uz uvjet da je preostali dio vlaka osiguran od samopokretanja. Kada ulazni signal signalizira signalni znak za dopuštenu vožnju, pokrenuti dio vlaka mora se zaustaviti ispred prve ulazne skretnice. Nakon zaustavljanja vlaka strojovođa odnosno drugi izvršni radnik željezničkog prijevoznika obavještava prometnika vlakova o preostalom dijelu vlaka koji je ostao na pruzi.
+(9) Kada vlak nastavlja vožnju u dijelovima ili kada vozi sama lokomotiva, osoblje vlaka o preostalom dijelu vlaka te o njegovu prevlačenju u dijelovima mora obavijestiti sva službena i radna mjesta na međukolodvorskom odsjeku.
+(10) Prometnik vlakova smije dati odjavu tek nakon dolaska posljednjeg dijela raskinutog vlaka u jedan od kolodvora.
+(11) Završni signal vlaka koji se dijeli ostaje na dijelu vlaka koji ostaje na pruzi.
+(12) Kod vlaka SV–bez, u slučaju prekida zračnog voda, nakon promjene zračne poluspojke, propisana provjera kočnica obavlja se u prvom sljedećem kolodvoru. Strojovođa prije pokretanja vlaka na otvorenoj pruzi mora provjeriti djelovanje kočnica, nakon čega nastavlja vožnju do prvog sljedećeg kolodvora brzinom do 20 km/h. Nakon utvrđivanja SKM–a i propisane provjere kočnica, prometnik vlakova propisuje brzinu vlaka, ako je ona manja od brzine propisane voznim redom.
+XII. DUŽNOSTI IZVRŠNIH RADNIKA ZA OSIGURANJE PROMETA NA ŽCP-ima
+Članak 141.
+(1) Izvršni radnik za osiguranje prometa na ŽCP-ima rukuje uređajem za osiguranje ŽCP-a ili u slučaju kvara uređaja osigurava promet na samom ŽCP-u.
+(2) Izvršni radnik za osiguranje prometa na ŽCP-ima rukuje uređajem najkasnije 5 minuta prije predviđenog prolaska vlaka ili pružnog vozila.
+(3) Kada uređaj za osiguranje ŽCP-a ne radi zbog neispravnosti, izvršni radnik koji njime rukuje odmah o tome obavještava prometnika vlakova u oba susjedna kolodvora.
+(4) Kada uređaj za osiguranje ŽCP-a kojim se rukuje na samom mjestu postane neispravan, dok se taj uređaj ne popravi, izvršni radnik za osiguranje prometa na ŽCP-ima mora osobno osiguravati promet na ŽCP-u.
+(5) Izvršni radnik za osiguranje prometa na ŽCP-ima koji zaposjeda ŽCP na kojem je uređaj neispravan, u vrijeme propisano stavkom 2. ovog članka zaustavlja cestovni promet. Znakove kojima se zapovijeda zaustavljanje sudionika u cestovnom prometu ispred pruge, taj izvršni radnik smije davati samo ako se nalazi na kolniku tako da ga mogu uočiti svi sudionici u prometu kojima su ti znakovi namijenjeni.
+(6) Ako na ŽCP-u promet zaustavlja samo jedan izvršni radnik za osiguranje prometa na ŽCP-ima, sudionike u cestovnom prometu zaustavlja prvo iz jednog, a zatim iz drugog smjera.
+(7) Ako na ŽCP-u promet zaustavljaju dva izvršna radnika za osiguranje prometa na ŽCP-ima, znakovi što ih daju moraju biti usklađeni.
+(8) Izvršni radnici za osiguranje prometa na ŽCP-ima sudionicima u cestovnom prometu daju signalne znakove na sljedeći način:
+a) za obavezno zaustavljanje ispred ŽCP-a – uspravno podignuta ruka s dlanom okrenutim prema naprijed ili mahanje stalnim svjetlom crvene boje uspravno na uzdužnu os kolnika ili
+b) za dopušteno kretanje preko ŽCP-a – vodoravna predručena ruka savijena u laktu s otvorenom šakom, i kružno kretanje podlaktice i šake. Navedeni znak može se davati i svjetlošću bilo koje boje.
+(9) Izvršni radnik za osiguranje prometa na ŽCP-ima dočekuje vlakove ispred svoje službene prostorije s mjesta s kojeg najbolje može pratiti njihovo kretanje i na kojem ga osoblje

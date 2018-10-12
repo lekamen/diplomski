@@ -1,0 +1,28 @@
+ troškova stečajnoga postupka, oslobodit će iznos zaplijenjenih sredstava te izdati nalog bankama za izvršenje osnova za plaćanje upisanih u Očevidnik redoslijeda osnova za plaćanje, osim ako je Financijska agencija na temelju odredbe članka 110. stavka 1. ovoga Zakona podnijela prijedlog za otvaranje stečajnoga postupka.
+(4) Nakon izvršenja svih neizvršenih osnova za plaćanje Financijska agencija izdat će nalog za oslobođenje sredstava zaplijenjenih prema odredbi stavka 1. ovoga članka i omogućiti dužniku raspolaganje.
+(5) Sud će odmah nakon primitka prijedloga za otvaranje stečajnoga postupka zatražiti od Financijske agencije obavijest o osiguranju sredstava za namirenje troškova stečajnoga postupka.
+(6) Rješenjem o otvaranju stečajnoga postupka nad dužnikom pravnom osobom sud će naložiti Financijskoj agenciji da naloži banci prijenos zaplijenjenoga iznosa predujma na račun suda i obustavi daljnju pljenidbu do iznosa iz stavka 1. ovoga članka ako iznos predujma nije zaplijenjen u cijelosti.
+(7) Ako sud odbaci ili odbije prijedlog za otvaranje stečajnoga postupka, rješenjem o odbacivanju odnosno odbijanju naložit će Financijskoj agenciji da oslobodi sredstva zaplijenjena na temelju stavka 1. ovoga članka.
+Plaćanje predujma odgovornih osoba
+Članak 113.
+(1) Ako osobe iz članka 110. stavka 2. ovoga Zakona ne podnesu prijedlog za otvaranje stečajnoga postupka u propisanom roku, sud će im po službenoj dužnosti u slučajevima iz članka 114. stavka 3. ovoga Zakona naložiti plaćanje predujma za namirenje troškova stečajnoga postupka u roku od osam dana.
+(2) Neiskorišteni iznos predujma iz stavka 1. ovoga članka sud će nakon završetka postupka uplatiti u Fond za namirenje troškova stečajnoga postupka.
+(3) Ako osoba iz stavka 1. ovoga članka ne plati predujam u propisanom roku, na odgovarajući način primijenit će se pravila o prisilnoj naplati novčane kazne u parničnom postupku.
+Predujam za namirenje troškova stečajnoga postupka
+Članak 114.
+(1) Podnositelj prijedloga za otvaranje stečajnoga postupka dužan je platiti iznos predujma od 1000,00 kuna u Fond za namirenje troškova stečajnoga postupka te po nalogu suda u roku od osam dana dodatni iznos predujma koji ne može biti viši od 20.000,00 kuna, ako ovim Zakonom nije drukčije određeno.
+(2) Ako su osigurana sredstva za namirenje troškova stečajnoga postupka u skladu s odredbom članka 112. ovoga Zakona, obveza podnositelja prijedloga iz stavka 1. ovoga članka umanjuje se za iznos osiguranih sredstava.
+(3) Predujam iz stavka 1. ovoga članka nisu dužni platiti:
+− radnici i prijašnji dužnikovi radnici ako su podnijeli prijedlog za otvaranje stečajnoga postupka radi namirenja svoje dospjele tražbine po osnovi rada
+− Financijska agencija ako je podnijela prijedlog za otvaranje stečajnoga postupka u skladu s člankom 110. stavkom 1. ovoga Zakona
+− Republika Hrvatska.
+(4) U slučaju iz stavka 3. ovoga članka sredstva za namirenje troškova postupka predujmit će se iz Fonda za namirenje troškova stečajnoga postupka, osim ako su osigurana sredstva u skladu s člancima 112. i 113. ovoga Zakona.
+(5) Ako podnositelj prijedloga za otvaranje stečajnoga postupka nije uplatio predujam iz stavka 1. ovoga članka, sud će prijedlog odbaciti kao nedopušten.
+(6) Ako predujam ne plati podnositelj prijedloga iz članka 110. stavka 2. ovoga Zakona, smatrat će se da nije podnio prijedlog za otvaranje stečajnoga postupka u propisanom roku.
+(7) Predujam je trošak stečajnoga postupka na čiju naknadu vjerovnik koji je uplatio predujam ima pravo.
+3. PRETHODNI POSTUPAK
+Pokretanje prethodnoga postupka
+Članak 115.
+(1) Na temelju prijedloga za otvaranje stečajnoga postupka sud donosi rješenje o pokretanju prethodnoga postupka radi utvrđivanja pretpostavki za otvaranje stečajnoga postupka (prethodni postupak), protiv kojega nije dopuštena posebna žalba, ili taj prijedlog odbacuje rješenjem.
+(2) U rješenju o pokretanju prethodnoga postupka sud može imenovati privremenoga stečajnog upravitelja.
+(3) Prethodni postupak može trajati 

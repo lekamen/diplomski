@@ -1,0 +1,25 @@
+ili izvršnih direktora drugog poduzetnika, a istodobno je član odnosno dioničar tog poduzetnika ili
+3. ima pravo izvršavati prevladavajući utjecaj nad drugim poduzetnikom čiji je dioničar ili član na temelju ugovora sklopljenog s tim poduzetnikom ili na temelju odredbi osnivačkog akta, statuta ili u skladu s drugim propisima ili
+4. ako je većina članova uprave ili nadzornog odbora, upravnog odbora ili izvršnih direktora odnosno upravljačkog ili nadzornog tijela poduzetnika (društva kćeri), koji su tu funkciju obavljali u tekućoj i prethodnoj poslovnoj godini i još uvijek je obavljaju do sastavljanja godišnjih financijskih izvještaja, bila imenovana isključivo ostvarenjem prava glasa matičnog društva koje je dioničar ili član tog poduzetnika ili
+5. ima kontrolu nad većinom glasačkih prava dioničara ili članova u poduzetniku (društvu kćeri) na temelju sporazuma s drugim dioničarima ili članovima u tom poduzetniku i istodobno je dioničar ili član poduzetnika ili
+6. ako može ostvarivati ili ostvaruje vladajući utjecaj ili kontrolu nad drugim poduzetnikom ili
+7. ako se matičnim ili ovisnim društvom upravlja na jedinstvenoj osnovi temeljem ugovora, osnivačkog akta ili statuta ili
+8. ako je obveznik primjene Međunarodnih standarda financijskog izvještavanja pojedinačno ili kao grupa te je prema tim standardima obvezan sastavljati konsolidirane financijske izvještaje.
+Upućivanje na matično društvo u ovom Standardu odnosi se na poduzetnike koji su obvezni sastavljati konsolidirane financijske izvještaje, ako odredbe Zakona o računovodstvu i HSFI ne propisuju drugačije.
+2.15. Metoda troška ulaganja je metoda računovodstva ulaganja čime je ulaganje priznato po trošku nabave. Ulagatelj priznaje prihod, nakon datuma njegova stjecanja, samo u mjeri u kojoj prima raspodjelu zadržane dobiti poduzetnika u kojeg je izvršio ulaganje.
+2.16. Metoda udjela je računovodstvena metoda kojom se ulaganja početno priznaju po trošku nabave i potom usklađuju za promjene ulagateljeva udjela u neto imovini poduzetnika koji je predmet ulaganja. Dobit ili gubitak ulagatelja uključuje njegov udjel u dobiti ili gubitku poduzetnika u kojeg je izvršio ulaganje.
+2.17. Odvojeni financijski izvještaji su oni koje prezentira matično društvo, ulagatelj u društva povezana sudjelujućim interesom ili pothvatnik u zajednički kontroliranom poduzetniku, u kojima su ulaganja iskazana na osnovi udjela u kapitalu, a ne na osnovi neto imovine i objavljenog rezultata poduzetnika koji je predmet ulaganja.
+2.18. Ovisno društvo (društvo kćer) je poduzetnik kojeg kontrolira matično društvo uključujući i bilo koje društvo koje kontrolira krajnje matično društvo.
+2.19. Poslovno spajanje je spajanje dvaju poduzetnika ili poslovanja u jednog izvještajnog poduzetnika.
+2.20. Pothvatnik je strana u zajedničkom pothvatu koja ima zajedničku kontrolu nad tim zajedničkim pothvatom.
+2.21. Poduzetnici unutar grupe znači bilo koja dva ili više poduzetnika unutar grupe.
+2.22. Povezana osoba je osoba ili poduzetnik koji je povezan s izvještajnim poduzetnikom:
+a) Osoba ili član uže obitelji te osobe je povezana osoba izvještajnog poduzetnika ako:
+i) ima kontrolu ili zajedničku kontrolu nad izvještajnim poduzetnikom
+ii) ima značajan utjecaj na izvještajni poduzetnik ili
+iii) je član ključnog rukovodstva izvještajnog poduzetnika ili njegovog matičnog društva.
+b) Poduzetnik je povezan s izvještajnim poduzetnikom ako je ispunjen bilo koji od sljedećih uvjeta:
+i) poduzetnik i izvještajni poduzetnik su članovi iste grupe (što znači da je svako matično društvo, svako ovisno i sestrinsko društvo povezano s drugima u grupi)
+ii) jedan poduzetnik je ovisno društvo ili zajednički poduzetnik drugog poduzetnika (ili društvo povezano sudjelujućim interesom ili zajednički pothvat poduzetnika koji je član grupe čiji član je i taj drugi poduzetnik)
+iii) oba poduzetnika su zajednički pothvati iste treće strane
+iv) jedan poduzetnik je zajednički pothvat trećeg poduzetnika, a drugi poduzetnik je društvo povezano

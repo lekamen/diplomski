@@ -1,0 +1,28 @@
+kvara SSK koji sadrži radioaktivni materijal.
+(3) U slučajevima kada je komunikacijski sustav neophodan za sigurnost istraživačkog reaktora i ostalih objekata na lokaciji potrebno ga je osigurati u projektu.
+PRILOG 3.
+PROJEKTNE OSNOVE SKLADIŠTA ISTROŠENOG NUKLEARNOG GORIVA I RADIOAKTIVNOG OTPADA
+1. Opći projekt
+(1) Potrebno je osigurati sustave i objekte za gospodarenje radioaktivnim otpadom i njegovo skladištenje na lokaciji nuklearne elektrane u razdoblju koje je u skladu s raspoloživosti relevantne opcije za odlaganje.
+(2) Projekt elektrane treba uključivati odgovarajuće značajke kako bi se olakšalo kretanje, prijevoz i zbrinjavanje radioaktivnog otpada. Pozornost je potrebno usmjeriti na pružanje pristupa objektima te mogućnostima za podizanje i pakiranje.
+(3) Prilikom projektiranja SSK namijenjenih rukovanju spremnicima radioaktivnog otpada potrebno je uzeti u obzir zaštitu od ionizirajućeg zračenja, jednostavno održavanje i smanjivanje rizika i posljedica od događaja i nesreća.
+(4) U skladištu je potrebno osigurati dodatni kapacitet za skladištenje kako bi se mogla neometano odvijati inspekcija, dohvat otpada iz skladišta, održavanje ili dodatni radovi na otpadu u skladištu, te kako bi se mogao pohraniti otpad nastao tijekom izvanredne situacije. U svakom je trenutku potrebno osigurati dovoljno dodatnog kapaciteta kako bi se mogao pohraniti sav dohvaćeni otpad i spremnici s istrošenim gorivom ili istrošeni gorivni elementi.
+(5) Projektom je potrebno osigurati odgovarajuću opremu i spremnike kako bi se oštećeni gorivni elementi ili spremnici radioaktivnog otpada mogli zbrinuti u razumnom vremenskom roku nakon otkrivanja oštećenja.
+(6) Nositelj odobrenja treba implementirati proceduru za upravljanje anomalijama vezanim s gubitkom integriteta spremnika ili propadanja spremnika do razine gdje više ne ispunjava uvjete za odlaganje ili skladištenje.
+(7) Skladište je potrebno projektirati kako bi se omogućilo premještanje svog otpada ili istrošenog goriva u razumnom vremenskom roku nakon prestanka rada postrojenja ili u okviru interventnih mjera.
+(8) Nositelj odobrenja treba napraviti pisane procedure koje definiraju kriterije prihvaćanja istrošenog goriva ili radioaktivnog otpada u skladište te metode potvrđivanja da istrošeno gorivo ili radioaktivni otpad ispunjavaju tražene kriterije. Te procedure trebaju sadržavati i naputke za sigurno rukovanje istrošenim gorivom ili radioaktivnim otpadom koje ne ispunjava kriterije za prihvaćanje u skladište.
+2. Sustavi za rukovanje gorivom i njegovo skladištenje
+(1) Projekt nuklearnog postrojenja treba uključivati odgovarajuće značajke kako bi se olakšalo kretanje, dizanje i rukovanje svježim i istrošenim gorivom. Projektom je potrebno spriječiti bilo kakva značajna oštećenja na elementima bitnim za sigurnost tijekom prijenosa goriva ili spremnika, ili u slučaju pada goriva ili spremnika.
+(2) Sustavi za rukovanje i skladištenje ozračenog i neozračenog goriva trebaju biti projektirani tako da se:
+a) spriječe kritičnost uz definiranu marginu, fizičkim sredstvima ili kroz fizikalne procese, a po mogućnosti primjenom geometrijski sigurnih konfiguracija i u uvjetima optimalne moderacije;
+b) omogući inspekcija goriva;
+c) omogući održavanje, periodični pregledi i provjera sigurnosnih komponenti;
+d) spriječi oštećenje goriva;
+e) spriječi ispadanje goriva u prijevozu;
+f) osigura identifikacija pojedinih gorivnih elemenata;
+g) osiguraju odgovarajući načini za ispunjavanje relevantnih za htjeva za zaštitu od ionizirajućeg zračenja;
+h) osigura primjena adekvatnih operativnih postupaka i sustava evidencije i kontrole nuklearnog goriva kako bi se spriječio gubitak nuklearnog goriva i kontrole nad njime.
+(3) Uz to sustav za rukovanje i skladištenje ozračenog goriva treba biti projektiran tako da se:
+a) omogući odgovarajuće odvođenje topline iz goriva u pogonskim stanjima i u uvjetima tijeka nesreće;
+b) spriječi ispadanje istrošenog goriva u prijevozu;
+c) spriječi uzrokovanje neprihvatljivog naprezanja 

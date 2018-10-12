@@ -1,0 +1,28 @@
+ upravljanje može odbiti uplate ulagatelja
+24. povijesni prinos UCITS fonda i profil tipičnog ulagatelja kome je UCITS fond namijenjen
+25. trajanje poslovne godine i
+26. datum izdavanja prospekta.
+b) podatke o društvu za upravljanje:
+1. tvrtka, pravni oblik, sjedište društva za upravljanje i adresa uprave, ako ona nije ista kao sjedište, broj odobrenja za rad koji je izdala Agencija, datum osnivanja i naznaku trajanja, ako je osnovano na određeno vrijeme, datum upisa u sudski registar, uključujući i naznaku je li društvo za upravljanje osnovano u državi članici koja nije matična država članica UCITS fonda
+2. u slučaju da društvo za upravljanje upravlja i drugim UCITS fondovima, popis tih drugih UCITS fondova
+3. osobna imena i položaj članova uprave i nadzornog odbora, odnosno upravnog odbora, njihovi kratki životopisi, uključujući i pojedinosti o njihovim glavnim djelatnostima izvan društva za upravljanje, ako su bitne za društvo za upravljanje
+4. iznos temeljnog kapitala društva za upravljanje te osobna imena ili naziv članova društva za upravljanje, pravni oblik i naznaku udjela članova u temeljnom kapitalu
+5. tvrtku, pravni oblik, datum osnivanja i upisa u sudski registar te ulogu društava koja djeluju kao savjetnik UCITS fonda te osobno ime predsjednika uprave ili drugih odgovornih osoba tih društava
+6. bitne odredbe ugovora sklopljenog s depozitarom koje mogu biti važne za imatelje udjela, osim onih koje se odnose na plaćanje naknada
+7. druge važne djelatnosti
+8. popis delegiranih poslova iz članka 70. točke k) ovoga Zakona te osoba na koje su poslovi delegirani i
+9. pojedinosti o aktualnoj politici primitaka, uključujući, no ne ograničavajući se na, opis načina izračuna primitaka, identitet osoba odgovornih za dodjelu primitaka te sastav odbora za primitke, ako takav odbor postoji ili sažetak politike primitaka i izjavu da su pojedinosti aktualne politike primitaka, uključujući, no ne ograničavajući se na, opis načina izračuna primitaka, identitet osoba odgovornih za dodjelu primitaka te sastav odbora za primitke, ako takav odbor postoji, dostupne na mrežnoj stranici društva za upravljanje (uključujući upućivanje na tu mrežnu stranicu), kao i informaciju da će se na zahtjev ulagatelja primjerak politika primitaka u papirnatom obliku istome besplatno dostaviti.
+c) podatke o depozitaru:
+1. tvrtka, pravni oblik, sjedište i adresa uprave depozitara, podaci i broj odobrenja nadležne institucije za obavljanje poslova depozitara, opis poslova koje depozitar obavlja za UCITS fond i potencijalnih sukoba interesa koji iz toga mogu nastati
+2. opis svih poslova iz članka 221. ovoga Zakona koje je depozitar delegirao na treće osobe, popis svih trećih osoba s kojima depozitar ima sklopljen ugovor o delegiranju poslova iz članka 221. ovoga Zakona, kao i popis svih osoba s kojima treća osoba ima sklopljen ugovor o delegiranju tih poslova te potencijalnih sukoba interesa koji iz takvog delegiranja mogu nastati i
+3. izjava depozitara da će ažurirane informacije iz stavka 3. točke c) podtočaka 1. i 2. ovoga članka ulagateljima biti dostupne na zahtjev.
+POGLAVLJE IV. PROMJENE PROSPEKTA
+Bitne promjene prospekta
+Članak 192.
+(1) Za bitne promjene prospekta UCITS fonda potrebno je ishoditi odobrenje Agencije. Bitnim promjenama prospekta UCITS fonda smatraju se izmjene i dopune prospekta UCITS fonda koje se predlažu s namjerom:
+1. promjene ulaznih naknada, godišnjih naknada za upravljanje ili izlaznih naknada, koje mogu rezultirati većim troškovima za ulagatelje
+2. promjene elemenata vezanih uz ulaganja UCITS fonda navedenih u članku 191. stavku 3. točki a) podtočki 13. ovoga Zakona
+3. promjene profila rizičnosti UCITS fonda, sklonosti prema riziku i sposobnosti nosivosti rizika
+4. promjene politike isplate prihoda ili dobiti UCITS fonda imateljima udjela i/ili
+5. produljenja trajanja ili skraćivanja trajanja UCITS fonda, kada je on osnovan na određeno vrijeme.
+(2) Ako društvo za upravljanje upravlja UCITS fondom iz druge države članice, dužno

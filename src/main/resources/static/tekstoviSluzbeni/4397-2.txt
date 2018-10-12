@@ -1,0 +1,22 @@
+ relativna vlažnost zraka 1 sat kontinuirano
+HR OS – POSTAJA OSIJEK – PPI PM 2,5
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Lebdeće čestice PM2,5 gravimetrijsko određivanje masenih koncentracija 24 sata dnevno Određivanje kemijskog sastava uzoraka PM2,5 : – Kationi i anioni (SO42-, Na +, NH4+, Ca 2+, NO3-, K +, Cl -, Mg 2+) – Organski (OC) i elementni ugljik (EC) 24 sata dnevno
+HR ST – POSTAJA SPLIT-2
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Prizemni ozon (O3) 1 sat kontinuirano Lebdeće čestice PM10 – analizator 1 sat kontinuirano PM2,5 – analizator 1 sat kontinuirano Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+HR ST – POSTAJA SPLIT-3
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Prizemni ozon (O3) 1 sat kontinuirano Lebdeće čestice PM10 – analizator 1 sat kontinuirano PM2,5 – analizator 1 sat kontinuirano Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+HR ST – POSTAJA SPLIT – PPI PM 2,5
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Lebdeće čestice PM2,5 gravimetrijsko određivanje masenih koncentracija 24 sata dnevno Određivanje kemijskog sastava uzoraka PM2,5 : - Kationi i anioni (SO42-, Na +, NH4+, Ca 2+, NO3-, K +, Cl-, Mg 2+) - Organski (OC) i elementni ugljik (EC) 24 sata dnevno
+HR ST – POSTAJA KAŠTEL SUĆURAC
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+IV.
+PROGRAM B.
+MJERENJE KVALITETE ZRAKA U POSTAJAMA USPOSTAVLJENIM U ZONAMA
+HR 01 – POSTAJA DESINIĆ
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Benzen 1 sat kontinuirano Prizemni ozon (O3) 1 sat kontinuirano Zrak anorganske komponente (SO2, SO42-, NO3-, NH4+, NH3 (sNO3, sNH4+), HCl, Na +, K +, Ca 2+, Mg 2+) 7 dana tjedno Policiklički aromatski ugljikovodici 7 dana tjedno Lebdeće čestice PM10 – analizator 1 sat kontinuirano PM2,5 – analizator 1 sat kontinuirano Oborina Koncentracije (SO42-, NO3-, NH 4+, H + (pH), Na +, K +, Ca 2+, Mg 2+, Cl -) 24 sata dnevno Koncentracije Cd, Pb, As, Ni 24 sata dnevno Policiklički aromatski ugljikovodici 7 dana tjedno Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka, količina i tip oborine, tlak zraka 1 sat kontinuirano
+HR 01 – POSTAJA BILOGORA
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Lebdeće čestice PM10 gravimetrijsko određivanje masenih koncentracija 24 sata dnevno Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+HR 01 – POSTAJA KOPAČKI RIT
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Benzen 1 sat kontinuirano Prizemni ozon (O3) 1 sat kontinuirano Zrak anorganske komponente (SO2, SO 42-, NO3-, NH4+, NH3 (sNO3, sNH4+), HCl, Na +, K +, Ca 2+, Mg 2+) 7 dana tjedno Lebdeće čestice PM 10 – analizator 1 sat kontinuirano PM2,5– analizator 1 sat kontinuirano Crni ugljik (BC) 1 sat kontinuirano Oborina Koncentracije (SO42-, NO3-, NH 4+, H + (pH), Na +, K +, Ca 2+, Mg 2+, Cl -) 24 sata dnevno Koncentracije Cd, Pb, As, Ni 24 sata dnevno Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka, količina i tip oborine, tlak zraka 1 sat kontinuirano
+HR 01 – POSTAJA VARAŽDIN
+Medij – zrak Pokazatelj kvalitete zraka Gustoća

@@ -1,0 +1,28 @@
+
+(1) U članku 37. stavak 4. briše se.
+(2) U članku 37. dosadašnji stavak 5. postaje stavak 4., mijenja se i glasi: »(4) Operatori iz stavka 1. ovog članka obvezni su odrediti minimalnu brzinu širokopojasnog pristupa internetu za sve svoje pakete na način da ista predstavlja vrijednost od najmanje 70% od maksimalne (oglašavane) brzine širokopojasnog pristupa internetu ili maksimalnu brzinu prethodno nižeg maloprodajnog paketa, ovisno o tome što je povoljnije za korisnika.«
+(3) U članku 37. dosadašnji stavci 6. – 14. postaju stavci 5. – 13.
+(4) U članku 37. dosadašnjem stavku 9., a sada novom stavku 8. u prvoj rečenici iza riječi »krajnjeg korisnika na račun« dodaje se zarez i riječi: »na zahtjev Agencije,«.
+(5) U članku 37. dosadašnji stavak 12., a sada novi stavak 11. mijenja se i glasi: »U slučaju da operator iz stavka 1. ovog članka nije osigurao krajnjem korisniku ugovorenu, odnosno minimalnu brzinu širokopojasnog pristupa internetu, operator je obvezan krajnjem korisniku uvijek ponuditi raskid ugovora bez plaćanja naknada zbog prijevremenog raskida ugovora, a dodatno može uz suglasnost korisnika omogućiti prelazak na paket koji je prikladniji stvarno ostvarivoj brzini širokopojasnog pristupa internetu ili umanjenje mjesečne naknade.«
+(6) U članku 37. dosadašnjem stavku 11., a sada novom stavku 10. broj u dijelu rečenice »brzine iz stavka 10. ovog članka« mijenja se i glasi: »brzine iz stavka 9. ovog članka«.
+(7) U članku 37. dosadašnjem stavku 13., a sada novom stavku 12. broj u dijelu rečenice »odredbe stavka 12. ovog članka« mijenja se i glasi: »odredbe stavka 11. ovog članka«.
+Članak 10.
+U članku 41. stavak 5. mijenja se i glasi: »(5) Svi podatci iz ovog članka moraju biti u elektroničkom obliku.«
+Članak 11.
+U članku 42. stavak 3. mijenja se i glasi: »(3) Plan održavanja iz stavka 1. ovog članka operator je obvezan dostaviti Agenciji najkasnije do kraja tekuće kalendarske godine.«
+Članak 12.
+(1) Dodatak 3. mijenja se i glasi:
+DODATAK 3.
+POKAZATELJI KAKVOĆE JAVNIH KOMUNIKACIJSKIH USLUGA U NEPOKRETNOJ ELEKTRONIČKOJ KOMUNIKACIJSKOJ MREŽI
+Operatori javnih komunikacijskih usluga u nepokretnoj elektroničkoj komunikacijskoj mreži moraju obavljati o vlastitom trošku mjerenja onih pokazatelja kakvoće usluge koji se nalaze u OBRASCU 1. koji utvrđuje Vijeće Agencije. Mjerenja pokazatelja kakvoće usluge obavljaju se na način i prema postupku utvrđenom u ETSI standardu ES 202 57-1 i ETSI uputama EG 201 769-1 i TS 132 409 RFC 6076 (za usluge prijenosa govora putem internetskog protokola) u skladu s Tablicom 1. Mjerenja pokazatelja kakvoće usluge obuhvaćaju:
+– vrijeme uspostave usluge na fiksnoj lokaciji (supply time for fixed network access)
+– omjer kvarova po pristupnom vodu (fault report rate per fixed access lines)
+– vrijeme uklanjanja kvara za pristupne vodove (fault repair time for fixed access lines)
+– odzivno vrijeme službe za korisnike (response time for operator services)
+– odzivno vrijeme za pristup popisu korisnika javne govorne usluge (response time for directory enquiry services)
+– učestalost prigovora/pritužbi u vezi s ispravnosti računa (bill corretness complaints)
+– vrijeme uspostave internetske usluge (supply time for Internet access)
+– opseg problema vezan uz postupak prenosivosti broja (proportion of problems with number portability procedures)
+– omjer neuspješnih poziva (unsuccessful call ratio)
+Tablica 1.
+Naziv pokazatelja kakvoće usluge Opis pokazatelja kakvoće usluge Metoda mjerenja Vrijeme uspostave usluge na fiksnoj lokaciji ETSI ES 202 057-1 ETSI ES 202 057-1 Omjer kvarova po pristupnom vodu ETSI ES 202 057-1 ETSI ES 202 057-1 Vrijeme uklanjanja kvara ETSI ES 202 057-1 ETSI ES 202 057-1 Odzivno vrijeme službe za korisnike ETSI ES 202 057-1 ETSI ES 202 057-1 Odzivno vrijeme za pristup popisu korisnika javno dostupne telefonske usluge ETSI ES 202 057-1 ETSI ES 202 057-1 Učestalost prigovora/pritužbi u svezi s ispravnosti računa ETSI ES 202 057-1 ETSI ES 202 057-1 Vrijeme uspostave internetske usluge ETSI ES

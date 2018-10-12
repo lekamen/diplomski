@@ -1,0 +1,25 @@
+ odgovornosti za djelovanje zaposlenika subjekta u uinternoj reviziji;
+(c) odlučivanje o tome koje će se preporuke, nastale temeljem aktivnosti interne revizije, implementirati;
+(d) izvještavanje onih koji su zaduženi za upravljanje, u ime menadžmenta, o rezultatima aktivnosti interne revizije;
+(e) obavljanje postupaka koji čine dio internih kontrola, kao što su pregledavanje i odobravanje promjena u pravima zaposlenika u pristupanju podacima;
+(f) preuzimanje odgovornosti za oblikovanje, uvođenje i održavanje internih kontrola; i
+(g) obavljanje usluga interne revizije kroz tzv. outsourcing, koji obuhvaća sve ili značajni dio poslova interne revizije, gdje je revizorsko društvo odgovorna za jedno ili više pitanja navedenih gore pod točkama (a)-(f).
+290.195 Kako bi se izbjeglo preuzimanje odgovornosti menadžmenta, revizorsko društvo će pružati usluge interne revizije nekom klijentu revizije samo ako se uvjeri da:
+(a) klijent namjenjuje odgovarajuće i kompetentne resurse, po mogućnosti iz iskusnijeg menadžmenta, radi preuzimanja trajne odgovornosti za aktivnosti interne revizije i prihvaćanja odgovornosti za oblikovanje, uvođenje i održavanje internih kontrola;
+(b) klijentov menadžment ili oni koji su zaduženi za upravljanje pregledavaju, procjenjuju i odobravaju djelokrug, rizičnost i učestalost usluga interne revizije;
+(c) menadžment klijenta ocjenjuje primjerenost usluga interne revizije i nalaze otkrivene njezinim obavljanjem;
+(d) menadžment klijenta ocjenjuje i određuje koje preporuke proizašle iz usluga interne revizije treba implementirati i rukovodi procesom implementacije; i
+(e) menadžment klijenta izvješćuje one koji su zaduženi za upravljanje o značajnim nalazima i preporukama koje se temelje na uslugama interne revizije.
+290.196 Kada revizorsko društvo koristi rad službe interne revizije, Međunarodni revizijski standardi zahtijevaju obavljanje postupaka kako bi se ocijenila primjerenost tog rada. Kada revizorsko društvo prihvati angažman radi pružanja usluga interne revizije nekom klijentu revizije, i rezultati tih usluga koristit će se pri obavljanju eksterne revizije, nastaje prijetnja temeljem samoprovjere zbog mogućnosti da će revizijski tim koristiti rezultate usluge interne revizije bez odgovarajućeg ocjenjivanja tih rezultata ili primjenjivanja iste one razine profesionalnog skepticizma koja bi se koristila da su posao interne revizije obavile osobe koje nisu članovi revizorskog društva. Važnost prijetnje ovisit će o čimbenicima kao što su:
+• značajnost iznosa iz financijskih izvještaja na koje se odnosi;
+• rizik pogrešnog prikazivanja tvrdnji povezanih s tim iznosima iz financijskih izvještaja; i
+• stupanj pouzdanosti koji će se pridati usluzi interne revizije.
+Ocijenit će se važnost prijetnje i primijenit će se zaštite kada je to nužno za uklanjanje prijetnje ili njezino smanjivanje na prihvatljivu razinu. Primjer takve zaštite je korištenje profesionalnih osoba koje nisu članovi revizijskog tima kako bi obavile usluge interne revizije.
+Klijenti revizija koji su subjekti od javnog interesa
+290.197 U slučaju klijenta revizije koji je subjekt od javnog interesa, revizorsko društvo neće pružati usluge interne revizije koje se odnose na:
+(a) značajan dio internih kontrola nad financijskim izvještavanjem;
+(b) sustave financijskog računovodstva koji stvaraju informacije koje su, pojedinačno ili skupno, značajne za klijentove računovodstvene evidencije ili financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje; ili
+(c) iznose ili objave koji su, pojedinačno ili skupno, značajni za financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje.
+Usluge u vezi sa sustavima informacijskih tehnologija
+Opće odredbe
+290.198 Usluge u vezi sa sustavima informacijskih tehnologija (IT) uključuju oblikovanje ili implementiranje softverskih ili hardverskih sustava. Sustavi mogu sakupljati izvorne podatke, tvoriti dio internih kontrola nad financijskim izvještavanjem ili stvarati informacije koje

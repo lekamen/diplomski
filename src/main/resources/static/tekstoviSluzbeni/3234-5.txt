@@ -1,0 +1,25 @@
+distributer smatra ili ima razloga vjerovati da sigurnosna komponenta za dizala nije u skladu sa zahtjevima iz članka 5. stavka 2. ovoga Pravilnika, ne smije staviti sigurnosnu komponentu za dizala na raspolaganje na tržištu sve dok se ne provede njezino usklađivanje. Nadalje, kad sigurnosna komponenta za dizala predstavlja rizik, distributer o tome obavješćuje proizvođača ili uvoznika te nadležno inspekcijsko tijelo.
+(4) Distributeri moraju osigurati, dok je sigurnosna komponenta za dizala pod njihovom odgovornošću, da uvjeti skladištenja ili prijevoza ne ugrožavaju njezinu sukladnost s člankom 5. stavkom 2. ovoga Pravilnika.
+(5) Distributeri koji smatraju ili imaju razloga vjerovati da sigurnosna komponenta za dizala koju su stavili na raspolaganje na tržištu nije sukladna s ovim Pravilnikom, moraju osigurati da se provode potrebne korektivne mjere kako bi se ta sigurnosna komponenta za dizala uskladila ili prema potrebi povukla s tržišta ili opozvala. Nadalje, ako sigurnosna komponenta za dizala predstavlja rizik, distributeri o tome bez odgode moraju obavještavati nadležno inspekcijsko tijelo, navodeći detalje, posebno o nesukladnosti i o svim poduzetim korektivnim mjerama.
+(6) Na obrazložen zahtjev nadležnog inspekcijskog tijela distributeri tom tijelu moraju dostaviti sve podatke i dokumentaciju u papirnatom ili elektroničkom obliku potrebne za dokazivanje sukladnosti sigurnosnih komponenti za dizala. Na zahtjev nadležnog inspektora distributeri moraju surađivati s njim u svakoj radnji poduzetoj kako bi se uklonili rizici koje predstavljaju sigurnosne komponente za dizala koje su stavili na raspolaganje na tržištu.
+Članak 12.
+Slučajevi u kojima se obveze proizvođača primjenjuju na uvoznike ili distributere
+Ako uvoznik ili distributer stavlja sigurnosne komponente za dizala na tržište pod svojim imenom ili trgovačkom oznakom ili preinači sigurnosnu komponentu za dizalo koja je već stavljena na tržište na takav način da to može utjecati na sukladnost s ovim Pravilnikom, smatra se proizvođačem za potrebe ovoga Pravilnika te podliježe obvezama proizvođača u skladu s člankom 8. ovoga Pravilnika.
+Članak 13.
+Identifikacija gospodarskih subjekata
+(1) Gospodarski subjekti, na zahtjev, moraju nadležnom inspekcijskom tijelu dati podatke o identitetu:
+1. svakoga gospodarskog subjekta koji im je isporučio sigurnosnu komponentu za dizala;
+2. svakoga gospodarskog subjekta kojem su isporučili sigurnosnu komponentu za dizala.
+(2) Gospodarski subjekti moraju biti u stanju predočiti podatke navedene u prvom stavku tijekom 10 godina nakon što im je isporučena sigurnosna komponenta za dizala i tijekom 10 godina nakon što su isporučili sigurnosnu komponentu za dizala.
+POGLAVLJE III. SUKLADNOST DIZALA I SIGURNOSNIH KOMPONENTI ZA DIZALA
+Članak 14.
+Pretpostavka sukladnosti dizala i sigurnosnih komponenti za dizala
+Za dizala i sigurnosne komponente za dizala koji su u skladu s usklađenim normama ili dijelom usklađenih normi koje su objavljene u Službenom listu Europske unije, pretpostavlja se da su u skladu s bitnim zdravstvenim i sigurnosnim zahtjevima iz Priloga I. ovoga Pravilnika obuhvaćenima tim normama ili dijelom normi.
+Članak 15.
+Postupci ocjenjivanja sukladnosti za sigurnosne komponente za dizala
+Sigurnosne komponente za dizala moraju biti podvrgnute jednom od sljedećih postupaka ocjenjivanja sukladnosti:
+1. uzorak sigurnosne komponente za dizala podvrgava se EU ispitivanju tipa navedenom u Prilogu IV. dijelu A ovoga Pravilnika i sukladnost tipu osigurava se nasumičnim provjerama sigurnosne komponente za dizala, kako je utvrđeno u Prilogu IX. ovoga Pravilnika;
+2. uzorak sigurnosne komponente za dizala podvrgava se EU ispitivanju tipa navedenom u Prilogu IV. dijelu A ovoga Pravilnika i podložan je sukladnosti s tipom na temelju provjere kvalitete proizvoda u skladu s Prilogom VI. ovoga Pravilnika;
+3. sukladnosti na temelju potpunog osiguravanja kvalitete utvrđenog Prilogom VII. ovoga Pravilnika.
+Članak 16.
+Postupci ocjenjivanja

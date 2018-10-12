@@ -1,0 +1,45 @@
+ ugovaranjem omogućuje financiranje zatečene pozicije u nekoj valuti (roll over duge ili kratke pozicije) izvještajne institucije ili protustranke s kojom je takva kombinacija instrumenata dogovorena.
+6. »SWM« – FX swap različitih iznosa bazne valute
+Instrument SWM označuje vrstu FX swapa kod kojega je iznos bazne valute u povratnom dijelu transakcije različit od iznosa bazne valute u inicijalnom dijelu transakcije.
+U smislu ove Upute instrument SWM obuhvaća i kombinaciju instrumenata PSP-PSP, PSP-SPT, PSP-FWD i SPT-FWD, ako se takvim ugovaranjem omogućuje financiranje zatečene pozicije u nekoj valuti (roll over duge ili kratke pozicije) izvještajne institucije ili protustranke s kojom je takva kombinacija instrumenata dogovorena.
+7. »EFK« – Efektiva
+Instrument EFK označuje transakciju kupnje (prodaje) bazne valute u gotovini (novčanicama i kovanom novcu).
+Obilježje 10. Bazna valuta
+Ovim obilježjem označuje se valuta čija jedna jedinica predstavlja određeni broj jedinica varijabilne valute.
+Vrijednost obilježja upisuje se za sve instrumente.
+Vrijednost ovog obilježja iskazuje se modalitetima koji su jednaki troslovnim oznakama valuta navedenima u Odluci o načinu otvaranja transakcijskih računa, Prilogu 2. Popis novčanih jedinica i drugih platnih sredstava i njihovih oznaka. Bazna valuta ne može biti kuna (oznaka HRK).
+Obilježje 11. Varijabilna valuta
+Ovim obilježjem označuje se valuta čiji određeni broj jedinica vrijedi jednu jedinicu bazne valute.
+Vrijednost obilježja upisuje se za sve instrumente.
+Vrijednost ovog obilježja iskazuje se modalitetima koji su jednaki troslovnim oznakama valuta navedenima u Odluci o načinu otvaranja transakcijskih računa, Prilogu 2. Popis novčanih jedinica i drugih platnih sredstava i njihovih oznaka.
+Obilježje 12. Smjer
+Ovim obilježjem označuje se smjer transakcije.
+Vrijednost obilježja upisuje se za sve instrumente.
+Vrijednost obilježja iskazuje se jednim od sljedećih modaliteta:
+1. »K« – za instrumente SPT, PSP, FWD, NDF i EFK označuje kupnju bazne valute; za instrumente SWP i SWM označuje prodaju bazne valute u inicijalnom dijelu transakcije i ponovnu kupnju bazne valute u povratnom dijelu transakcije;
+2. »P« – za instrumente SPT, PSP, FWD, NDF i EFK označuje prodaju bazne valute; za instrumente SWP i SWM označuje kupnju bazne valute u inicijalnom dijelu transakcije i ponovnu prodaju bazne valute u povratnom dijelu transakcije.
+Obilježje 13. Datum namire
+Ovim obilježjem označuje se:
+– datum namire za instrument SPT,
+– datum namire za instrument PSP,
+– datum namire za instrumente SWP i SWM u inicijalnom dijelu transakcije,
+– datum namire za instrument EFK.
+Vrijednost obilježja upisuje se za instrumente SPT, PSP, SWP, SWM i EFK.
+Vrijednost obilježja mora sadržavati datum u formatu »GGGGMMDD».
+Obilježje 14. Datum dospijeća
+Ovim obilježjem označuje se:
+– datum dospijeća za instrument FWD,
+– datum dospijeća (fixinga) za instrument NDF,
+– datum dospijeća za instrumente SWP i SWM u povratnom dijelu transakcije.
+Vrijednost obilježja upisuje se za instrumente FWD, NDF, SWP i SWM.
+Vrijednost obilježja mora sadržavati datum u formatu »GGGGMMDD».
+Obilježje 15. Datum za izračun roka dospijeća
+Ovim obilježjem označuje se:
+– datum spota za instrument PSP,
+– datum od kojeg se računa rok dospijeća za instrumente FWD i NDF.
+Vrijednost obilježja upisuje se za instrumente PSP, FWD i NDF, za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Vrijednost obilježja mora sadržavati datum u formatu »GGGGMMDD».
+Obilježje 16. Vrijeme ugovaranja transakcije
+Ovim obilježjem označuje se vrijeme ugovaranja transakcije. Ako nije moguće utvrditi stvarno vrijeme ugovaranja transakcije, onda se ovim obilježjem označuje vrijeme unosa ugovorene transakcije u sustav, pri čemu se transakcija u sustav mora unijeti najkasnije 15 minuta nakon ugovaranja.
+Vrijednost obilježja upisuje se za sve instrumente, za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Vrijednost obilježja mora sadržavati vrijeme 

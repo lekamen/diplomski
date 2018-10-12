@@ -1,0 +1,12 @@
+ compliance with EC directives for equipment of alarm systems HRI CLC/TR 50515:2010 Popis tumačenja u objavljenim normama iz »Alarmnih sustava« CLC/TR 50515:2008 List of interpretations on published standards on »Alarm Systems« HRI CLC/TR 50531:2010 Alarmni sustavi – Nazivi i definicije CLC/TR 50531:2009 Alarm systems – Terms and definitions
+Članak 6.
+(1) Popis normi navedenih u ovome Pravilniku odnosi se na elemente, uređaje, naprave i sustave koji se koriste za zaštitu novčarskih institucija i koji su ugrađeni u poslovnice, objekte, prostore, vozila i plovila novčarskih institucija i drugih osoba koje primjenjuju mjere zaštite novčarskih institucija.
+(2) Norme navedene u ovome Pravilniku primjenjuju se na elemente, uređaje, naprave i sustave ugrađene nakon stupanja na snagu ovoga Pravilnika.
+Članak 7.
+(1) Sve ustanove i druge pravne osobe koje obavljaju potvrđivanje proizvoda moraju biti usklađene s normom HRN EN ISO/IEC 17065:2013 – Ocjenjivanje sukladnosti – Zahtjevi za tijela koja provode certifikaciju proizvoda, procesa i usluga (Conformity assessment – Requirements for bodies certifying products, processes and services (ISO/IEC 17065:2012; EN ISO/IEC 17065:2012). Akreditacija ustanove i druge pravne osobe koje obavljaju potvrđivanje proizvoda prema normi HRN EN ISO/IEC 17065:2013 smatra se najboljim dokazom usklađenosti s normom HRN EN ISO/IEC 17065:2013.
+(2) Svi ispitni laboratoriji koji obavljaju ispitivanja sukladno normama navedenim u ovome Pravilniku moraju biti usklađeni s općim zahtjevima za osposobljenost ispitnih i umjernih laboratorija, kako je propisano normom HRN EN ISO/IEC 17025:2007. Akreditacija laboratorija koji obavljaju ispitivanja sukladno normama navedenim u ovome Pravilniku prema normi HRN EN ISO/IEC 17025:2007 smatra se najboljim dokazom usklađenosti s normom HRN EN ISO/IEC 17025:2007.
+Članak 8.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Broj: 511-01-152-47802-2016
+Zagreb, 2. studenoga 2016.
+Ministar Vlaho Orepić, v. r.

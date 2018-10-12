@@ -1,0 +1,45 @@
+ identifikacijom rizika po elementima rizika, sustavima/pod-sustavima i procesima/pod-procesima.
+(3) Elementi rizika obuhvaćaju, osobito:
+– ljude – osoblje i druge osobe u kontekstu održavanja funkcionalnosti infrastrukture i/ili pojedinih dijelova infrastrukture
+– zemljište – vanjski prostor koji uključuje područja od važnosti za rad i operativnost infrastrukture, putove, skladišta, parkirne površine, zelene površine i slično
+– građevine ispod i iznad zemlje (proizvodne hale, skladišta, administrativne građevine, garaže i slično)
+– postrojenja i opremu – uključivo izvore napajanja strujom, plinom, vodom, grijanje, informacijsku i komunikacijsku tehnologiju, transport
+– specijalizirana postrojenja i opremu
+– podatke i datoteke koji uključuju sve podatke potrebne za održavanje procesa i sustava koji se čuvaju u pisanom i/ili elektroničkom obliku.
+3. Analiza rizika
+Članak 9.
+(1) Analizom rizika utvrđuju se učinci i posljedice prekida rada ili značajnog narušavanja rada kritičnih infrastruktura koji mogu nastati kao posljedica prirodne prijetnje, tehničko-tehnološke prijetnje, prijetnje koja je nastala ljudskom djelatnošću (antropogena prijetnja) ili višestruke prijetnje.
+(2) Analiza rizika uključuje:
+– prikupljanje i analizu referentnih podataka te izradu baze podataka
+– izradu scenarija mogućih događaja i rizika (najgori slučaj, najvjerojatniji slučaj)
+– identifikaciju i utvrđivanje karakteristika kritičnih infrastruktura
+– identifikaciju mogućih opasnosti i procjenu izloženosti
+– identifikaciju elemenata rizika
+– analizu kritičnosti
+– analizu ranjivosti i otpornosti kritičnih infrastruktura na pojedine opasnosti
+– utvrđivanje učinaka i posljedica neželjenih događaja na kritične infrastrukture ili dijelove kritičnih infrastruktura te na proizvode i usluge
+– odabir i implementaciju metoda za izračun rizika
+– uspoređivanje i evaluaciju rizika
+– utvrđivanje prihvatljivosti rizika
+– analizu ovisnosti i međuovisnosti kritičnih infrastruktura.
+(3) U postupku analize rizika obvezno se uzimaju u obzir i izrađuju:
+1. međusektorska mjerila
+2. identifikacija rizika
+3 .kriteriji za procjenu kritičnosti
+4. analiza prijetnje i razvoj scenarija
+5. analiza ranjivosti
+6. metode za izračun rizika
+7. analiza jednostrukog i višestrukog rizika
+8. vrednovanje rizika.
+4. Analiza ranjivosti
+Članak 10.
+(1) Ranjivost kritičnih infrastruktura, njezinih dijelova ili elemenata rizika od presudne je važnosti za određivanje u kojoj je mjeri sektor, infrastruktura ili njezin dio pogođen i kakve su nastale štete. Što je ranjivost veća, veći su učinci i posljedice štetnog događaja na proizvode i usluge.
+(2) Mjerila i kriteriji za identifikaciju ranjivosti su:
+– ovisnost infrastrukture o elementima rizika – ako proces ili sustav ovisi o elementima rizika kako bi ispunio svoje zadaće, potencijalni manjak i/ili zamjena tih elemenata čini proces ili sustav ranjivim; u analizi rizika pomoću ovog kriterija utvrđuje se važnost elemenata rizika na sustave i procese
+– ovisnost elemenata rizika o drugim infrastrukturama – ako element rizika ovisi o drugoj infrastrukturi kako bi ispunio svoje zadaće i funkciju, potencijalni nedostatak i/ili zamjena te infrastrukture čini element ranjivim
+– otpornost – fizička otpornost elemenata rizika (građevina, opreme, postrojenja) je važan čimbenik za utvrđivanje hoće li u slučaju nesreće elementi biti oštećeni i imaju učinke na relevantne sustave i procese, mreže i objekte
+– stvarna razina zaštite – elementi su ranjivi ako nisu u dovoljnoj mjeri zaštićeni od prijetnji
+– zalihe i zamjene – ako štetan događaj pogodi elemente rizika, nastali problem je lakše riješiti ako postoje rezervni/zamjenski elementi koji će izvršavati iste zadaće/funkcije
+– obnova – sposobnost i mogućnost obnove u kontekstu ranjivosti odnosi se na potrebna financijska sredstva i kadrove te uloženo vrijeme obnove
+– prilagodljivost – sustavi i procesi su ranjivi ako se ne mogu jednostavno prilagoditi
+– sposobnost amortiziranja – sposobnost sustava i procesa da

@@ -1,0 +1,25 @@
+ elektroničkim putem na način iz članka 5. stavka 1. ovoga Pravilnika unosi u jedinstveni zahtjev podatak o odustajanju od dijela zahtjeva, te ispisan jedinstveni zahtjev potpisuje i dostavlja nadležnom regionalnom uredu Agencije za plaćanja.
+(3) Za odustajanje od jedinstvenog zahtjeva u potpunosti korisnik popunjava, ispisuje i dostavlja nadležnom regionalnom uredu Agencije za plaćanja potpisanu Izjavu o odustajanju od jedinstvenog zahtjeva koja se nalazi u Prilogu 2. ovoga Pravilnika.
+Obavijest o kontroli na terenu ili inspekcijskom nadzoru
+Članak 11.
+(1) Ako je Agencija za plaćanja već obavijestila korisnika o slučajevima nesukladnosti u jedinstvenom zahtjevu ili dokumentima za potporu, ili je korisnika obavijestila o namjeri obavljanja kontrole na terenu, ili ako se kontrolom na terenu utvrdi bilo koja nesukladnost, odustajanje odnosno povlačenje dijelova jedinstvenog zahtjeva ili drugih dokumenata na koje se te nesukladnosti odnose nije dopušteno u skladu s člankom 3. stavkom 2. Provedbene uredbe Komisije (EU) br. 809/2014.
+(2) Stavak 1. ovoga članka odgovarajuće se primjenjuju i na inspekcijski nadzor poljoprivredne inspekcije Ministarstva.
+Prijava svih površina
+Članak 12.
+Korisnik u jedinstvenom zahtjevu na listu B iz Priloga 2., koji je sastavni dio ovoga Pravilnika, mora prijaviti korištenje svih poljoprivrednih površina na kojima obavlja poljoprivrednu aktivnost, bez obzira da li za njih podnosi ili ne podnosi zahtjev za potporu.
+Poljoprivredna parcela
+Članak 13.
+(1) ARKOD parcela je neprekinuta površina poljoprivrednog zemljišta koja je u korištenju samo jednog poljoprivrednika, a klasificira se obzirom na vrstu uporabe zemljišta. ARKOD parcela je osnovna parcela ARKOD sustava koji se uspostavlja na temelju digitalnih grafičkih podataka sukladno pravilniku koji propisuje evidenciju uporabe poljoprivrednog zemljišta.
+(2) Poljoprivredna parcela je neprekinuta površina zemljišta unutar ARKOD parcele koja obuhvaća jednu skupinu usjeva, a prilikom podnošenja jedinstvenog zahtjeva prijavljuje se na listu B iz Priloga 2. koji je sastavni dio ovoga Pravilnika i osnova je za izračun i kontrolu potpora po površini.
+(3) Minimalna površina poljoprivredne parcele za koju se može podnijeti zahtjev je 0,05 ha.
+(4) Za potrebe zelenih plaćanja, prijavljuju se dijelovi poljoprivredne parcele ovisno o vrsti kulture iz Tablice 1. Priloga 1. koji je sastavni dio ovoga Pravilnika.
+(5) Skupine usjeva su usjevi prijavljeni za osnovno plaćanje ili za druge vrste mjera za koje je utvrđeni isti iznosi potpore, a definirane su u Tablici 1. iz Priloga 1. koji je sastavni dio ovoga Pravilnika.
+2. PROGRAM IZRAVNIH PLAĆANJA
+2.1. UVJETI ZA POTPORU
+Aktivni poljoprivrednik
+Članak 14.
+(1) Korisnik programa izravnih plaćanja je aktivni poljoprivrednik iz članka 28. Zakona koji je upisan u Upisnik poljoprivrednika, a obavlja poljoprivrednu djelatnost iz članka 26. stavka 2. točke 1. Zakona (dalje u tekstu: poljoprivredna aktivnost), koja obuhvaća:
+a) proizvodnju, uzgoj ili sadnju poljoprivrednih kultura, uključujući žetvu, mužnju, uzgoj rasplodnih životinja i držanje stoke ili
+b) održavanje poljoprivrednog zemljišta u stanju pogodnom za ispašu ili uzgoj bez pripremnih radnji koje izlaze iz okvira uobičajenih poljoprivrednih metoda i mehanizirane obrade.
+(2) Aktivnim poljoprivrednikom ne smatraju se fizičke i pravne osobe koje upravljaju zračnim lukama, željezničkim poduzećima, vodoopskrbnim poduzećima, agencijama za nekretnine, trajnim sportskim i rekreativnim terenima sukladno članku 28. stavcima 2. i 3. Zakona, a primile su za 2015. godinu 5.000 ili više od 5.000 eura izravnih plaćanja u kunskoj protuvrijednosti prema tečaju u skladu s člankom 106. stavkom 3. Uredbe (EU) br. 1306/2013.
+(3) Iznimno, pravne i fizičke osobe iz stavka 2. ovoga članka mogu u smislu članka 28. stavka 4. točaka a. i b. Zakona dokazati da su aktivni poljoprivrednici ako do 15. listopada 2016. godine dostave Agenciji za plaćanja podatke o prihodima od poljoprivredne

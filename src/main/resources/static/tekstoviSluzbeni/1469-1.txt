@@ -1,0 +1,49 @@
+ pri čemu se kao početak valjanosti potvrde uzima dan uspješnog polaganja ispita.
+(3) Polaznik koji je ishodio potvrdu, istu može obnoviti nakon isteka roka valjanosti od pet godina, sukladno stavku 2. ovoga članka, ukoliko dokaže da je u vrijeme važenja potvrde pohađao program usavršavanja i položio ispit.
+(4) Potvrda za odgovornu osobu smatra se i potvrdom za povjerenika.
+Članak 6.
+(1) Potvrdu izdaje Ministarstvo temeljem izvješća ovlaštenika izobrazbe o polaznicima izobrazbe i položenim ispitima.
+(2) Potvrda se izdaje polazniku izobrazbe nakon što je uspješno položio ispit.
+Članak 7.
+(1) Potvrda se izdaje prema obrascu iz Priloga 2. ovoga Programa izobrazbe i sadrži:
+1. naziv potvrde (za povjerenika ili odgovornu osobu),
+2. naziv tijela koje izdaje potvrdu,
+3. klasifikacijsku oznaku i urudžbeni broj potvrde,
+4. broj i datum izdavanja potvrde,
+5. ime, prezime i OIB osobe kojoj se izdaje potvrda,
+6. naziv ovlaštenika izobrazbe, klasifikacijsku oznaku, urudžbeni broj i datum ovlaštenja,
+7. mjesto i vrijeme održavanja izobrazbe, broj sati nastave, datum polaganja ispita,
+8. rok valjanosti potvrde,
+9. potpis ovlaštenika izobrazbe i ministra nadležnog za poslove zaštite okoliša i prirode.
+(2) Potvrda iz stavka 1. ovoga članka izdaje se nakon uspješno završenog programa osnovne izobrazbe i programa usavršavanja.
+Članak 8.
+(1) Ministarstvo vodi evidenciju o izdanim i obnovljenim potvrdama u obliku Registra osoba koje su uspješno završile izobrazbu.
+(2) Registar osoba koje su uspješno završile izobrazbu sadrži:
+1. ime, prezime, datum i mjesto rođenja i OIB osobe kojoj je izdana potvrda,
+2. mjesto zaposlenja osobe kojoj je izdana ili obnovljena potvrda u trenutku izdavanja ili obnavljanja potvrde, ukoliko je poznato,
+3. broj i datum izdavanja ili obnavljanja potvrde,
+4. datum početka i isteka valjanosti potvrde,
+5. naziv ovlaštenika izobrazbe koji je proveo izobrazbu,
+6. mjesto i vrijeme održavanja ispita.
+Članak 9.
+(1) Program izobrazbe provode ovlaštenici izobrazbe.
+(2) Pojedinačni program izobrazbe može pohađati najviše 50 polaznika.
+(3) Provedba programa izobrazbe može se organizirati u skladu s potrebama poslodavca.
+(4) Polaznik može pristupiti ispitu ako je prisustvovao na najmanje 75% predavanja provedenog programa izobrazbe.
+(5) Polaznik koji ima 10 godina i više radnog iskustva u području gospodarenja otpadom, a što dokazuje ovlašteniku izobrazbe preslikom ugovora o radu, odnosno na drugi odgovarajući način, može pristupiti ispitu bez ispunjavanja uvjeta iz stavka 4. ovoga članka.
+(6) Nakon završetka programa osnovne izobrazbe i programa usavršavanja polaznik polaže ispit.
+(7) Ispit se polaže kod ovlaštenika izobrazbe putem mrežne aplikacije Ministarstva koju je ovlaštenik izobrazbe dužan koristiti ili iznimno, do uspostavljanja mrežne aplikacije, pismenim putem.
+(8) Ovlaštenik izobrazbe dužan je organizirati ispit najkasnije 30 dana nakon dana završetka programa osnovne izobrazbe ili programa usavršavanja.
+(9) Polaznik je uspješno položio ispit ukoliko je ostvario najmanje 75 od maksimalnih 100 bodova.
+(10) Uspjeh polaznika na ispitu ocjenjuje se s ocjenom »položio« ili »nije položio«.
+(11) Nakon izvedenog programa izobrazbe polaznici su dužni evaluirati kvalitetu izvedenog programa anonimnom anketom.
+(12) Ovlaštenik izobrazbe vodi elektronički zapisnik o polaznicima i o polaganju ispita koji sadrži:
+1. ime, prezime, datum i mjesto rođenja i OIB polaznika,
+2. vrijeme i mjesto održavanja izobrazbe,
+3. datum pristupanja ispitu,
+4. uspjeh na ispitu,
+5. naziv ovlaštenika izobrazbe,
+6. ime i prezime voditelja i izvoditelja nastavnog programa.
+(13) U slučaju da polaznik nije položio ispit, ispitu ima pravo pristupiti još dva puta, ali tek nakon što prođe tjedan dana od zadnjeg polaganja ispita.
+(14) Ako polaznik ne položi ispit niti nakon tri pokušaja, dužan je pohađati deset sati dodatne izobrazbe iz programa osnovne izobrazbe, nakon čega polaže ispit.
+(15) Ovlaštenik izobrazbe vodi elektronički zapisnik o dodatnoj izobrazbi

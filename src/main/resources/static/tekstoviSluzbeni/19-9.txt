@@ -1,0 +1,21 @@
+ institucionalnih jedinica obuhvaćenih odgovarajućim sektorom.
+Svaka institucionalna jedinica pripada samo jednom sektoru ili podsektoru.
+2.42. Ako je glavna funkcija institucionalne jedinice proizvodnja dobara i usluga, prvo se mora odrediti vrsta proizvođača kako bi se dodijelila sektoru.
+2.43. Tablica 2.2. prikazuje vrstu proizvođača, glavne aktivnosti i funkcije, koje su karakteristične za pojedine sektore:
+Tablica 2.2. – Vrsta proizvođača, glavne aktivnosti i funkcije, razvrstano po sektorima
+Vrsta proizvođača Glavna aktivnost i funkcija Sektor Tržišni proizvođač Proizvodnja tržišnih dobara i nefinancijskih usluga Nefinancijska društva (S.11) Tržišni proizvođač Financijsko posredovanje uključujući osiguranje Pomoćne financijske aktivnosti Financijska društva (S.12) Javni netržišni proizvođač Proizvodnja i ponuda netržišne proizvodnje za zajedničku i pojedinačnu potrošnju te izvođenje transakcija čija je namjena preraspodjela nacionalnog dohotka i bogatstva Ukupna država (S.13) Tržišni proizvođač ili privatni proizvođač za vlastitu finalnu uporabu Potrošnja Proizvodnja tržišne proizvodnje i proizvodnje za vlastitu finalnu uporabu Kućanstva (S.14) Kao potrošači Kao poduzetnici Privatni netržišni proizvođač Proizvodnja i ponuda netržišne proizvodnje za pojedinačnu potrošnju Neprofitne ustanove koje služe kućanstvima (S.15)
+2.44. Sektor inozemstva (S.2) odnosi se na tokove i stanja između rezidentnih jedinica i nerezidentnih jedinica – nerezidentne jedinice ne obilježavaju slični ciljevi i vrste ponašanja, nego se prepoznaju kroz tokove i stanja s rezidentnim jedinicama.
+Nefinancijska društva (S.11)
+2.45. Definicija: sektor nefinancijskih društava (S.11) sastoji se od institucionalnih jedinica koje su neovisni pravni subjekti i tržišni proizvođači te čija je glavna aktivnost proizvodnja dobara i nefinancijskih usluga. Sektor nefinancijskih društava također uključuje i nefinancijska kvazi-društva (vidi stavak 2.13. točku (f)).
+2.46. Uključene su sljedeće institucionalne jedinice:
+(a) privatna i javna društva, koja kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga;
+(b) zadruge i partnerstva priznati kao neovisni pravni subjekti, koji kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga;
+(c) javni proizvođači priznati kao neovisni pravni subjekti i koji kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga;
+(d) neprofitne ustanove ili udruženja koji služe nefinancijskim društvima, koji su priznati kao neovisni pravni subjekti i koji kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga;
+(e) sjedišta društava koja kontroliraju grupaciju društava koja su tržišni proizvođači, ako proizvodnja dobara i nefinancijskih usluga predstavlja prevladavajuću vrstu aktivnosti cijele grupacije (izmjerena na temelju dodane vrijednosti);
+(f) subjekti posebne namjene čija je glavna aktivnost pružanje dobara i nefinancijskih usluga;
+(g) privatna i javna kvazi-društva koja kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga.
+2.47. Nefinancijska kvazi-društva su svi subjekti koji kao tržišni proizvođači prvenstveno sudjeluju u proizvodnji dobara i nefinancijskih usluga i koji ispunjavaju uvjete za kvalifikaciju kao kvazi-društva (vidi stavak 2.13. točku (f)).
+Nefinancijska kvazi-društva moraju imati dovoljno podataka za sastavljanje potpunog skupa računa te posluju kao da su društva. Faktični odnos s njihovim vlasnikom je odnos društva prema svojim dioničarima.
+Nefinancijska kvazi-društva u vlasništvu kućanstava, državnih jedinica ili neprofitnih ustanova su, zajedno s nefinancijskim društvima, okupljena u sektoru nefinancijskih društava, a ne u sektoru svojeg vlasnika.
+2.48. Postojanje potpunog skupa računa, uključujući bilance stanja, nije dovoljan uvjet da bi se tržišni proizvođači tretirali kao institucionalne jedinice, kao što su kvazi-društva. Stoga

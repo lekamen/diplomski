@@ -1,0 +1,24 @@
+45 13.05.2016 Pravilnik o načinu obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja minski sumnjivog područja
+MINISTARSTVO UNUTARNJIH POSLOVA
+1164
+Na temelju članka 84. Zakona o protuminskom djelovanju (»Narodne novine«, br. 110/15) ministar unutarnjih poslova donosi
+PRAVILNIK
+O NAČINU OBAVLJANJA POSLOVA RAZMINIRANJA, KONTROLE KVALITETE, OPĆEG I TEHNIČKOG IZVIDA I OBILJEŽAVANJA MINSKI SUMNJIVOG PODRUČJA
+I. TEMELJNE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuje se način obavljanja poslova općeg izvida – analize minski sumnjivog područja, dopunskog općeg izvida, tehničkog izvida, razminiranja, obilježavanja minski sumnjivog područja (u daljnjem tekstu: MSP), određivanje sigurnosne udaljenosti, zaštitna oprema te uvjeti za njeno korištenje, pružanje prve pomoći i medicinsko zbrinjavanje, način obavljanja kontrole kvalitete i završne kontrole kvalitete te uvjeti za ponavljanje poslova razminiranja.
+Članak 2.
+Pojmovi u smislu ovog Pravilnika imaju sljedeće značenje:
+– obilježavanje radilišta je postupak razgraničenja područja na kojem se obavlja dopunski opći izvid, tehnički izvid i poslovi razminiranja od područja koja nisu predmet obavljanja tih poslova, a koji provodi Hrvatski centar za razminiranje (u daljnjem tekstu: HCR) prilikom tehničkog izvida odnosno ovlaštena pravna osoba ili obrtnik prilikom poslova razminiranja;
+– onesposobljavanje minsko eksplozivnih sredstava (u daljnjem tekstu: MES), neeksplodiranih ubojnih sredstava (u daljnjem tekstu: NUS) i njihovih dijelova je radnja pri kojoj se eksplozivno sredstvo onesposobljava odnosno inicijalno sredstvo odvaja od eksplozivnog punjenja;
+– uništavanje MES-a, NUS-a i njihovih dijelova je radnja pri kojoj se MES, NUS i njihovi dijelovi spaljivanjem, detonacijom ili drugim sigurnim postupcima dovode u stanje trajne i potpune bezopasnosti;
+– obilježavanje MES-a, NUS-a i njihovih dijelova je radnja kojom se pronađeno eksplozivno sredstvo obilježava na mjestu pronalaska odnosno na mjestu za privremeno odlaganje;
+– kontrolna točka je mjesto do kojeg je neovlaštenim osobama dozvoljen pristup radilištu;
+– početna linija je linija od koje svakodnevno započinju poslovi tehničkog izvida i/ili razminiranja;
+– dnevnik radilišta je dokumentacija koju svakodnevno vodi i izrađuje voditelj radilišta prilikom obavljanja poslova dopunskog općeg izvida, tehničkog izvida ili razminiranja;
+– djelovodnik voditelja pirotehničke skupine je dokumentacija koju svakodnevno vodi i izrađuje voditelj pirotehničke skupine prilikom obavljanja poslova dopunskog općeg izvida, tehničkog izvida ili razminiranja i predstavlja skup podataka o angažiranim kapacitetima skupine, pojedinačne dnevne podatke o stvarno pretraženoj površini ovisno o metodologiji rada, podatke o dnevnoj internoj kontroli te podatke o pronađenom i/ili onesposobljenom MES-u, NUS-u i njihovim dijelovima;
+– sigurni pristupni putovi su putovi koji nisu zagađeni MES-om, NUS-om i njihovim dijelovima i nužni su za pristup na radilište, a HCR ih je kao takve definirao u idejnom planu razminiranja ili izvedbenom planu tehničkog izvida;
+– nezagađenost MES-om, NUS-om i njihovim dijelovima je stanje područja i/ili građevine na kojoj nije utvrđeno postojanje MES-a, NUS-a i njihovih dijelova;
+– minsko eksplozivna zapreka (u daljnjem tekstu MEZ) je zapreka izrađena od formacijskih protuoklopnih i protupješačkih mina i drugih eksplozivnih zapreka;
+– veća zagađenost MES-om i njihovim dijelovima je stanje (stupanj) zagađenosti onih dijelova MSP-a i/ili građevine na kojima je metodama općeg izvida-analize MSP-a, dopunskog općeg izvida i/ili tehničkog izvida utvrđeno postojanje najmanje jedne minsko eksplozivne zapreke (u daljnjem tekstu MEZ), postavljenih u cilju sustavnog miniranja određenog područja i koja su kao takva definirana od strane HCR-a;
+– veća zagađenost NUS-om i njihovim dijelovima je stanje (stupanj) zagađenosti onih dijelova MSP-a i/ili građevine na kojima je metodama općeg izvida-analize MSP-a,

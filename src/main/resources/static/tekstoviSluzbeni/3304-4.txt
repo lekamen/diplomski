@@ -1,0 +1,44 @@
+ imovine osim imovine nabrojene pod: 03, 04, 05, 06 i 07) uslijed djelovanja: požara, eksplozije, oluje, elementarnih nepogoda osim oluje, atomske energije, pomicanja tla i ostalih dopunskih opasnosti, a obuhvaća:
+08.01 Osiguranje od požara i elementarnih nepogoda izvan industrije i obrta,
+08.02 Osiguranje od požara i elementarnih nepogoda u industriji i obrtu,
+08.03 Osiguranje od potresa,
+08.99 Ostala osiguranja od požara i elementarnih nepogoda.
+09 OSTALA OSIGURANJA IMOVINE su osiguranja koja pokrivaju sva oštećenja ili gubitak imovine osim imovine iz vrsta osiguranja nabrojenih pod: 03, 04, 05, 06 i 07 koja nastane uslijed tuče ili smrzavanja kao i posljedica svakog drugog događaja kao što je primjerice krađa i ostalih djelovanja različitih od djelovanja navedenih pod 08, a obuhvaćaju:
+09.01 Osiguranje strojeva od loma,
+09.02 Osiguranje od provalne krađe i razbojstva,
+09.03 Osiguranje stakla od loma,
+09.04 Osiguranje kućanstva,
+09.05 Osiguranje građevinskih objekata u izgradnji,
+09.06 Osiguranje objekata u montaži,
+09.07 Osiguranje filmske djelatnosti,
+09.08 Osiguranje stvari u rudarskim jamama,
+09.09 Osiguranje informatičke opreme,
+09.10 Osiguranje zaliha u hladnjačama,
+09.11 Osiguranje usjeva i nasada,
+09.12 Osiguranje životinja,
+09.99 Ostala osiguranja imovine.
+10 OSIGURANJE OD ODGOVORNOSTI ZA UPOTREBU MOTORNIH VOZILA je osiguranje koje pokriva sve vrste odgovornosti koje proizlaze iz upotrebe kopnenih motornih vozila na vlastiti pogon uključujući odgovornost prijevoznika, a obuhvaća:
+10.01 Obvezno osiguranje vlasnika odnosno korisnika motornih vozila od odgovornosti za štete trećim osobama,
+10.02 Dragovoljno osiguranje vlasnika odnosno korisnika motornih vozila od odgovornosti za štete trećim osobama,
+10.03 Osiguranje od odgovornosti prijevoznika za robu primljenu na prijevoz u cestovnom prometu,
+10.99 Ostala osiguranja od automobilske odgovornosti.
+11 OSIGURANJE OD ODGOVORNOSTI ZA UPOTREBU ZRAČNIH LETJELICA je osiguranje koje pokriva sve vrste odgovornosti za upotrebu zrakoplova odnosno zračnih letjelica uključujući odgovornost prijevoznika, a obuhvaća:
+11.01 Obvezno osiguranje vlasnika odnosno korisnika zračnih letjelica od odgovornosti za štete trećim osobama,
+11.02 Osiguranje vlasnika odnosno korisnika zračnih letjelica od odgovornosti svih vrsta (uključujući odgovornost prijevoznika za robu primljenu na prijevoz u zračnom prijevozu),
+11.99 Ostala osiguranja od odgovornosti za upotrebu zračnih letjelica.
+12 OSIGURANJE OD ODGOVORNOSTI ZA UPOTREBU PLOVILA je osiguranje koje pokriva sve vrste odgovornosti koje proizlaze iz upotrebe morskih, riječnih, jezerskih plovila i plovila za plovidbu kanalima uključujući odgovornost prijevoznika, a obuhvaća:
+12.01 Osiguranje od odgovornosti vlasnika odnosno korisnika pomorskih brodova (uključujući odgovornost prijevoznika za robu primljenu na prijevoz),
+12.02 Osiguranje od odgovornosti vlasnika odnosno korisnika riječnih, jezerskih plovila i plovila za plovidbu kanalima (uključujući odgovornost prijevoznika za robu primljenu na prijevoz),
+12.03 Obvezno osiguranje od odgovornosti vlasnika odnosno korisnika brodica na motorni pogon za štete trećim osobama,
+12.99 Ostala osiguranja od odgovornosti za upotrebu plovila.
+13 OSTALA OSIGURANJA OD ODGOVORNOSTI su osiguranja koja pokrivaju sve vrste odgovornosti, osim odgovornosti nabrojanih pod: 10, 11 i 12, a obuhvaćaju:
+13.01 Osiguranje ugovorne odgovornosti izvođača građevinskih radova,
+13.02 Osiguranje ugovorne odgovornosti izvođača montažnih radova,
+13.03 Osiguranje od odgovornosti proizvođača filmova,
+13.04 Osiguranje od odgovornosti proizvođača za proizvode,
+13.05 Osiguranje od odgovornosti u željezničkom prometu,
+13.06 Osiguranje garancije proizvođača, prodavača i dobavljača,
+13.07 Osiguranje opće odgovornosti,
+13.08 Osiguranje od odgovornosti projektnih i drugih društava za štete na objektima zbog neispravne tehničke dokumentacije,
+13.09 Osiguranje od odgovornosti projektnih i drugih društava,
+13.10 Osiguranje od odgovornosti

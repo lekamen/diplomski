@@ -1,0 +1,23 @@
+kojeg korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(5) Promjene iz stavka 2. ovoga članka korisnik mora prijaviti najmanje 45 dana prije isteka roka za podnošenje Zahtjeva za isplatu, u protivnom, Agencija za plaćanja izdaje Pismo odbijanja zahtjeva za promjenu.
+(6) Predmet Zahtjeva za promjenu ne može biti izmjena Odluke o prihvatljivosti Zahtjeva za potporu.
+(7) Aktivnosti vezane uz promjenu Zahtjeva za potporu ne smiju započeti prije podnošenja Zahtjeva za promjenu, osim pripremnih aktivnosti iz članka 23 ovoga Pravilnika.
+(8) Ako je korisnik tražio promjene iz stavka 2. ovoga članka, Zahtjev za isplatu moći će podnijeti nakon zaprimanja odgovora od strane Agencije za plaćanja.
+(9) Ako je obrada Zahtjeva za isplatu u tijeku korisnik neće biti u mogućnosti podnijeti zahtjev za promjenu.
+(10) Uvjeti podnošenja Zahtjeva za promjenu putem AGRONET-a sustava, uključujući dokumentaciju koja se dostavlja uz Zahtjev za promjenu propisuje se Natječajem iz članka 26. ovoga Pravilnika.
+(11) Ukoliko je korisnik u obvezi provesti postupak javne nabave, uz Zahtjev za promjenu ponuditelja u obvezi je dostaviti i dokumentaciju iz provedenog postupka javne nabave.
+(12) Ako je Zahtjev za promjenu nepotpun ili ukoliko je potrebno tražiti dodatna obrazloženja/ispravke vezane uz Zahtjev za promjenu, Agencija za plaćanja će putem elektroničke pošte od korisnika tražiti dopunu/obrazloženje/ispravak. Korisnik je dužan u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanja dostaviti dopunu/obrazloženje/ispravak.
+(13) Ukoliko korisnik traženu dopunu/obrazloženje/ispravak ne dostavi sukladno stavku 12. ovoga članka, Agencija za plaćanja izdaje Pismo odbijanja zahtjeva za promjenu.
+(14) Agencija za plaćanja će za zaprimljene Zahtjeve za promjenu ovisno o zatraženoj promjeni izdati Izmjenu Odluke o dodjeli sredstava ili Pismo odobrenja u slučaju odobrenja Zahtjeva za promjenu ili Pismo odbijanja u slučaju odbijanja Zahtjeva za promjenu.
+(15) Izmjenom Odluke o dodjeli sredstava ne može se odobriti iznos potpore veći od iznosa potpore, koji je već određen Odlukom o dodjeli sredstava.
+(16) U slučaju promjene Odluke o prihvatljivosti inicirane od strane Agencije za plaćanja, korisniku će biti izdan Ispravak Odluke o prihvatljivosti te će s korisnikom biti sklopljen aneks Ugovora o financiranju.
+(17) U slučaju promjene Odluke o dodjeli sredstava inicirane od strane Agencije za plaćanja, korisniku će biti izdan Ispravak Odluke o dodjeli sredstava.
+Ostale promjene u projektu bez kojih se projekt ne može provesti ili koje imaju utjecaj na poboljšanje projekta moraju biti obrazložene prilikom dostavljanja Zahtjeva za isplatu.
+Potvrda o odustajanju i odluka o poništenju
+Članak 35.
+(1) U slučaju da korisnik želi odustati od dodjele sredstava iz EPFRR-a, dužan je podnijeti Zahtjev za odustajanje putem AGRONET-a na način opisan u Vodiču za korisnike.
+(2) Ukoliko korisnik podnese Zahtjev za odustajanje tijekom administrativne kontrole Zahtjeva za potporu odnosno prije donošenja Odluke o prihvatljivosti, Agencija za plaćanja će prekinuti sve aktivnosti nad Zahtjevom za potporu te će korisniku izdati Potvrdu o odustajanju.
+(3) U slučaju da je Agencija za plaćanja donijela Odluku o prihvatljivosti, a korisnik nije u propisanom roku vratio potpisani Ugovor o financiranju, Agencija za plaćanja će donijeti Odluku o poništenju.
+(4) Ukoliko korisnik podnese Zahtjev za odustajanje nakon donošenja Odluke o prihvatljivosti i sklapanja Ugovora o financiranju ili nakon donošenja Odluke o dodjeli sredstava, Agencija za plaćanja će korisniku izdati Odluku o poništenju te raskinuti Ugovor o financiranju.
+(5) Ukoliko je izdana Odluka o prihvatljivosti i sklopljen Ugovor o financiranju, a nakon toga je korisniku izdana Odluka o odbijanju, Agencija za plaćanja će izdati Odluku o poništenju i Izjavu o raskidu Ugovora o financiranju.
+(6) Agencija za plaćanja će donijeti Odluku o poništenju i u sljedećim

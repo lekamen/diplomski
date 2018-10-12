@@ -1,0 +1,28 @@
+objekti koji plove na plovnim putovima unutarnjih voda (rijeke, kanali i jezera na kojima se obavlja plovidba, osim rijeka hrvatskoga jadranskog sliva u onom dijelu toka koji je plovan s morske strane)
+7. ribarski brodovi duljine manje od 15 metara
+8. nepomični odobalni objekti za eksploataciju podmorja.
+(3) Bez obzira na odredbe stavka 2. točaka 4., 5. i 7. ovoga članka, glavni istražitelj pomorskih nesreća u Agenciji za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu, može odlučiti o pokretanju sigurnosne istrage vrlo ozbiljne ili ozbiljne pomorske nesreće, u kojoj su sudjelovali isključivo jahte ili brodice, odnosno ribarski brodovi duljine manje od 15 metara, ukoliko ocijeni da će provedena sigurnosna istraga rezultirati izdavanjem sigurnosne preporuke, u cilju sprječavanja sličnih pomorskih nesreća u budućnosti ili unaprjeđenja sigurnosti plovidbe.
+ZNAČENJE POJEDINIH IZRAZA I POJMOVA
+Članak 4.
+Pojedini pojmovi koji se navode u ovoj Uredbi imaju sljedeća značenja:
+1. Agencija je Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu.
+2. EMSA je engleska kratica koja označava Europsku agenciju za sigurnost pomorskog prometa (European Maritime Safety Agency).
+3. EMCIP ili europska baza podataka označava elektroničku bazu podataka pod nazivom Europska informacijska platforma za pomorske nesreće (European Marine Casualty Information Platform) u koju se pohranjuju podaci o pomorskim nesrećama i nezgodama.
+4. CMCIP ili nacionalna baza podataka označava elektroničku bazu podataka pod nazivom Hrvatska informacijska platforma za pomorske nesreće (Croatian Marine Casualty Information Platform) u koju se pohranjuju podaci o pomorskim nesrećama i nezgodama.
+5. IMO je engleska kratica za Međunarodnu pomorsku organizaciju (International Maritime Organization).
+6. UNCLOS je engleska kratica za Konvenciju Ujedinjenih naroda o pravu mora od 10. prosinca 1982. godine (United Nations Convention on the Law of the Sea).
+7. IMO Kodeks o istraživanju pomorskih nesreća i nezgoda je Kodeks Međunarodne pomorske organizacije o istraživanju pomorskih nesreća i nezgoda priložen rezoluciji A.849 Skupštine Međunarodne pomorske organizacije od 27. studenoga 1997. godine, sa svim izmjenama i dopunama.
+8. Pomorska nesreća ili nesreća označava događaj ili slijed događaja koji za posljedicu ima:
+a) smrt ili ozbiljnu ozljedu osobe, koja je uzrokovana ili je u svezi s izvedbom ili radom broda, ili
+b) gubitak osobe s broda koji je uzrokovan ili je u svezi s eksploatacijom broda ili radom broda, ili
+c) gubitak, pretpostavljeni gubitak broda ili njegovo napuštanje, ili
+d) bitnu štetu na brodu, ili
+e) nasukavanje ili onesposobljavanje broda, ili sudjelovanje broda u sudaru, ili
+f) bitnu štetu objekata pomorske infrastrukture koja je uzrokovana ili je u svezi s radom broda i koja bi mogla ozbiljno ugroziti sigurnost broda, drugog broda ili pojedine osobe, ili
+g) štetu pomorskom okolišu izazvanu oštećenjem broda ili brodova, a koje je uzrokovano ili je u svezi s radom broda ili brodova.
+9. Vrlo ozbiljna pomorska nesreća ili vrlo ozbiljna nesreća označava pomorsku nesreću koja uključuje potpuni gubitak broda, smrtni slučaj ili ozbiljno onečišćenje koje je uzrokovano ili je u svezi s radom broda.
+10. Ozbiljna pomorska nesreća ili ozbiljna nesreća označava pomorsku nesreću koja se ne razvrstava kao vrlo ozbiljna nesreća, a koja uključuje požar, eksploziju, sudar, nasukavanje, udar, oštećenje od nevremena, oštećenje ledom, napuknuće trupa ili pretpostavljeni nedostatak na trupu ili drugo slično oštećenje ili nedostatak koji ima za posljedicu:
+a) nemogućnost rada glavnih strojeva, veće oštećenje nadgrađa, ozbiljno oštećenje strukture (kao što je probijanje podvodnog dijela trupa) što čini brod nesposobnim za nastavak plovidbe
+b) onečišćenje pomorskog okoliša (neovisno o količini), i/ili
+c) kvar/oštećenje koje zahtijeva tegljenje ili pomoć s obale.
+11. Pomorska nezgoda ili nezgoda je događaj povezan s radom broda, osim pomorske

@@ -1,0 +1,40 @@
+ zahtjev za provedbu mjera iz stavka 1. ovoga članka.
+Članak 7.
+(1) Kada nadležno inspekcijsko tijelo utvrdi da bi tlačna oprema ili sklopovi koji nose oznaku CE te se koriste u svrhe za koje su namijenjeni, mogli ugroziti sigurnost ljudi te, gdje je to primjereno, domaćih životinja ili imovine, poduzet će mjere za povlačenje tlačne opreme ili sklopova s tržišta, odnosno zabraniti ili ograničiti njihovo stavljanje na tržište i u uporabu i o tome mora obavijestiti ministarstvo nadležno za gospodarstvo navodeći razloge za poduzete mjere, a posebno navodeći sljedeće razloge nesukladnosti:
+a) neispunjavanje bitnih zahtjeva iz članka 3. ovoga Pravilnika
+b) nepravilna primjena norma iz članka 5. stavka 2. ovoga Pravilnika
+c) nedostatak u normama iz članka 5. stavka 2. ovoga Pravilnika
+d) nedostatak u Europskom odobrenju za materijale za tlačnu opremu kao što je propisano člankom 11. ovoga Pravilnika.
+(2) Ministarstvo nadležno za gospodarstvo odmah obavješćuje Komisiju i zainteresirane strane o poduzetim mjerama sukladno članku 16. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti.
+(3) Kada tlačna oprema ili sklop koji ne zadovoljavaju zahtjeve ovoga Pravilnika nose oznaku CE, nadležno inspekcijsko tijelo poduzet će mjere protiv osobe(a) koje su neosnovano stavile oznaku CE.
+(4) Ministarstvo nadležno za gospodarstvo obavješćuje javnost o poduzetim mjerama.
+KLASIFIKACIJA TLAČNE OPREME
+Članak 8.
+(1) Tlačna oprema iz članka 3. stavka 1. ovoga Pravilnika klasificira se u kategorije kako je to propisano Dodatkom II ovoga Pravilnika, u skladu s rastućom razinom opasnosti.
+(2) Za potrebe takvog klasificiranja fluidi se dijele u sljedeće dvije skupine:
+2.1. Skupina 1. obuhvaća tvari i smjese u smislu članka 2. točaka 7. i 8. Uredbe (EZ) br. 1272/2008, koje su klasificirane kao opasne u skladu sa sljedećim razredima fizičke opasnosti i razredima opasnosti za zdravlje utvrđenima u dijelovima 2. i 3. Priloga I. toj Uredbi.
+i. nestabilni eksplozivi ili eksplozivi iz odjeljaka 1.1., 1.2., 1.3., 1.4. i 1.5.;
+ii. zapaljivi plinovi kategorije I. i II.;
+iii. oksidirajući plinovi kategorije I.;
+iv. zapaljive tekućine kategorije I. i II.;
+v. zapaljive tekućine kategorije III. kada je najviša dopuštena temperatura iznad plamišta;
+vi. zapaljive krutine kategorije I. i II.;
+vii. samoreagirajuće tvari i smjese tipa od A do F;
+viii. piroforne tekućine kategorije I.;
+ix. piroforne krutine kategorije I.;
+x. tvari i smjese koje u dodiru s vodom otpuštaju zapaljive plinove kategorije I., II. i III.;
+xi. oksidirajuće tekućine kategorije I., II. i III.;
+xii. oksidirajuće krutine kategorije I., II. i III.;
+xiii. organski peroksidi tipa od A do F;
+xiv. akutna oralna toksičnost, kategorije I. i II.;
+xv. akutna dermalna toksičnost, kategorije I. i II.;
+xvi. akutna inhalacijska toksičnost, kategorije I., II. i III.;
+xvii. specifična toksičnost za ciljane organe – jednokratno izlaganje, kategorije I.
+Skupina 1. obuhvaća i tvari i smjese sadržane u tlačnoj opremi s maksimalnom dopuštenom temperaturom TS koja je viša od plamišta fluida;
+2.2. Skupina 2. obuhvaća sve ostale tvari i smjese koje nisu navedene u točki 2.1.
+(3) Kada se posuda sastoji od više komora, klasificira se prema komori s najvišom kategorijom. Kada posuda sadrži nekoliko fluida, klasifikacija se vrši na temelju fluida koji zahtijeva najvišu kategoriju.
+OCJENJIVANJE SUKLADNOSTI
+Članak 9.
+(1) 1.1 Prije stavljanja tlačne opreme na tržište proizvođač je dužan svaki dio opreme podvrgnuti postupcima ocjenjivanja sukladnosti opisanim u Dodatku III ovoga Pravilnika, u skladu uvjetima iz ovoga članka.
+1.2. Postupci ocjenjivanja sukladnosti koji se primjenjuju na element tlačne opreme da bi dobio oznaku CE utvrđuju se prema kategoriji u koju je oprema klasificirana na osnovi zahtjeva navedenih u Dodatku II ovoga Pravilnika i vrsti fluida iz članka 8. ovoga Pravilnika.
+1.3. Postupci ocjenjivanja sukladnosti iz Dodatka III ovoga Pravilnika koji se primjenjuju na pojedine kategorije tlačne opreme

@@ -1,0 +1,29 @@
+ 295.
+(1) Zahtjev za izdavanje odobrenja za osnivanje i upravljanje napajajućim UCITS fondom odnosno zahtjev za izdavanje odobrenja za preoblikovanje postojećeg UCITS fonda u napajajući UCITS fond, Agenciji podnosi društvo za upravljanje.
+(2) Kada postojeći napajajući UCITS fond namjerava promijeniti glavni UCITS fond, društvo za upravljanje podnosi Agenciji zahtjev za izdavanje odobrenja za promjenu glavnog UCITS fonda.
+(3) Zahtjevima iz stavaka 1. i 2. ovoga članka se prilažu:
+1. prospekt i pravila napajajućeg i glavnog UCITS fonda
+2. ključni podaci za ulagatelje napajajućeg i glavnog UCITS fonda
+3. sporazum odnosno interna pravila iz članka 303. stavka 1. ili stavka 2. ovoga Zakona
+4. sporazum o razmjeni podataka između depozitara napajajućeg i glavnog UCITS fonda iz članka 304. stavka 1. ovoga Zakona, kada je to primjenjivo
+5. sporazum o razmjeni podataka između revizora napajajućeg i glavnog UCITS fonda iz članka 306. stavka 1. ovoga Zakona, kada je to primjenjivo
+6. kada glavni UCITS fond ima sjedište ili je osnovan u drugoj državi članici, potvrda nadležnog tijela matične države članice glavnog UCITS fonda da je riječ o UCITS fondu koji ispunjava uvjete iz članka 293. stavka 1. točaka 2. i 3. ovoga Zakona i
+7. prijedlog teksta obavijesti ulagateljima iz članka 301. stavka 1. ovoga Zakona, kada je to primjenjivo.
+Izdavanje odobrenja za osnivanje i upravljanje napajajućim UCITS fondom
+Članak 296.
+(1) Agencija će izdati odobrenje za osnivanje i upravljanje napajajućim UCITS fondom ako utvrdi da društvo za upravljanje koje je podnijelo zahtjev, napajajući UCITS fond, njegov depozitar i revizor te glavni UCITS fond ispunjavaju sve uvjete određene ovim Zakonom i propisima donesenima na temelju ovoga Zakona.
+(2) Na postupak i uvjete za izdavanje odobrenja za osnivanje i upravljanje napajajućim UCITS fondom na odgovarajući se način primjenjuju odredbe članka 243. stavaka 3. do 7. i članka 244. ovoga Zakona.
+Izdavanje odobrenja za preoblikovanje UCITS fonda u napajajući UCITS fond i promjenu glavnog UCITS fonda
+Članak 297.
+(1) Izdavanjem odobrenja za preoblikovanje UCITS fonda u napajajući UCITS fond smatra se da su odobrene bitne promjene prospekta UCITS fonda te, kada je to primjenjivo, obvezni sadržaj pravila UCITS fonda.
+(2) O zahtjevu za izdavanje odobrenja za preoblikovanje UCITS fonda u napajajući UCITS fond Agencija će odlučiti u roku od 15 radnih dana od dana zaprimanja urednog zahtjeva.
+(3) Agencija će izdati odobrenje za preoblikovanje UCITS fonda u napajajući UCITS fond ako utvrdi da društvo za upravljanje koje je podnijelo zahtjev, napajajući UCITS fond, njegov depozitar i revizor te glavni UCITS fond ispunjavaju sve uvjete određene ovim Zakonom i propisima donesenima na temelju ovoga Zakona.
+(4) Odredbe ovoga članka se na odgovarajući način primjenjuju i na izdavanje odobrenja za promjenu glavnog UCITS fonda.
+Početak ulaganja sredstava napajajućeg UCITS fonda u glavni UCITS fond
+Članak 298.
+Ulaganje napajajućeg UCITS fonda u glavni UCITS fond ne smije prekoračiti ograničenje iz članka 257. stavka 1. ovoga Zakona dok:
+1. sporazum o razmjeni informacija, sklopljen između društava za upravljanje napajajućim i glavnim UCITS fondom u skladu s člankom 303. stavkom 1. ovoga Zakona ne stupi na snagu, odnosno ne stupe na snagu interna pravila poslovanja iz članka 303. stavka 2. ovoga Zakona
+2. sporazum o razmjeni informacija, sklopljen između depozitara napajajućeg i glavnog UCITS fonda u skladu s člankom 304. stavkom 2. ovoga Zakona, ne stupi na snagu
+3. sporazum o razmjeni informacija, sklopljen između revizora napajajućeg i glavnog UCITS fonda u skladu s člankom 306. stavkom 1. ovoga Zakona, ne stupi na snagu i
+4. ne istekne rok od 30 dana od dana kada su ulagatelji napajajućeg UCITS fonda, u skladu s člankom 301. ovoga Zakona, obaviješteni o pravu na otkup ili isplatu svojih udjela, kako je to uređeno člankom 302. ovoga Zakona, kada je to primjenjivo.
+POGLAVLJE III. OBAVJEŠTAVANJE I PRAVA ULAGATELJA NAPAJAJUĆEG UCITS

@@ -1,0 +1,49 @@
+ zaključivanja i trajanja Ugovora o dodjeli državne stipendije student korisnik državne stipendije Ministarstva koja je dodijeljena u prethodnim godinama, obustavit će se isplata ranije državne stipendije te će se izvršiti povrat isplaćenih sredstava za razdoblje za koje su zaprimljene dvostruke uplate.
+(6) Ako se utvrdi da student uz državnu stipendiju prima neku drugu stipendiju ili za vrijeme trajanja državne stipendije dobije još neku stipendiju, a o toj okolnosti ne obavijesti Ministarstvo znanosti, obrazovanja i sporta u roku predviđenim ugovorom ili u roku od 30 dana od dana primanja druge stipendije, Ministarstvo će poslati studentu obavijest da se obustavlja isplata državne stipendije te da je obvezan vratiti do tada isplaćena sredstva.
+(7) Na obavijest iz stavka 6. ovoga članka student može uputiti prigovor u roku od osam dana od dana dostave obavijesti, o kojem će odlučiti Ministarstvo znanosti, obrazovanja i sporta.
+Članak 18.
+Novčani iznos državne stipendije isplaćuje se na žiroračun korisnika stipendije.
+ELEKTRONIČKI SUSTAV PRIJAVE NA NATJEČAJ
+Članak 19.
+(1) Za potrebe provedbe natječaja iz članka 12. ovoga pravilnika Ministarstvo znanosti, obrazovanja i sporta ustrojava elektronički sustav prijave.
+(2) Informacijski sustav studentskih prava (dalje: ISSP) vodi osobne podatke studenata u Republici Hrvatskoj koji su potrebni za rad elektroničkoga sustava prijave na natječaj za studentske stipendije.
+(3) U ISSP-u vode se sljedeći podaci o studentima iz članka 3. ovoga pravilnika:
+1. jedinstveni matični broj akademskoga građanina;
+2. naziv visokog učilišta na koje je student upisan;
+3. vrsta studijskoga programa;
+4. naziv studijskoga programa;
+5. status studenta (redoviti ili izvanredan);
+6. status obveza (aktivan ili u mirovanju);
+7. datum prvoga upisa studenta na studijski program;
+8. akademska godina prvoga upisa studenta na studijski program;
+9. upis studenta u tekuću akademsku godinu;
+10. broj ukupno stečenih ECTS bodova u prethodnoj akademskoj godini, zaključno s posljednjim danom te akademske godine;
+11. broj ukupno stečenih ECTS bodova u tekućoj akademskoj godini, računajući od dana početka te akademske godine;
+12. broj ukupno stečenih ECTS bodova na studijskome programu, od trenutka prvoga upisa studijskoga programa.
+(4) Visoko učilište koje evidenciju o studentima vodi u Informacijskome sustavu visokih učilišta (dalje: ISVU) podatke o studentima upisuje u taj sustav te se nakon toga podaci preuzimaju u ISSP-u.
+(5) Visoko učilište koje ne vodi evidenciju o studentima u ISVU-u obvezno je podatke iz stavka 3. ovoga članka upisati u ISSP.
+(6) U ISSP-u se preuzimaju sljedeći podaci o studentima iz članka 3. ovoga pravilnika iz Evidencije osobnih identifikacijskih brojeva:
+1. ime i prezime studenta;
+2. datum rođenja;
+3. OIB;
+4. ime oca ili majke;
+5. spol;
+6. ulica i kućni broj prebivališta;
+7. mjesto i poštanski broj prebivališta;
+8. ulica i kućni broj boravišta;
+9. mjesto i poštanski broj boravišta;
+10. broj osobne iskaznice;
+11. datum izdavanja osobne iskaznice;
+12. datum do kojeg vrijedi osobna iskaznica;
+13. državljanstvo.
+Članak 20.
+Visoka učilišta dužna su kontinuirano ažurirati podatke navedene u članku 19. stavku 3. ovoga pravilnika, na način propisan člankom 19. stavkom 4. i 5.
+PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 21.
+(1) Danom stupanja na snagu ovoga pravilnika prestaje važiti Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju (»Narodne novine«, broj 135/14).
+(2) Studenti korisnici državne stipendije dodijeljene na temelju Pravilnika o dodjeljivanju državnih stipendija redovitim studentima dodiplomskih studija i naknada dijela troškova školarine studentima poslijediplomskih studija (»Narodne novine«, broj 151/02), a koji je prestao važiti 31. prosinca 2013. godine, zadržavaju pravo na stipendiju prema potpisanome ugovoru.
+Članak 22.
+Ovaj pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 604-01/15-01/00044
+Urbroj: 533-20-15-00001
+Zagreb, 2. prosinca 2015.

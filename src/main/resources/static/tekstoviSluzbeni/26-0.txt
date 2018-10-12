@@ -1,0 +1,32 @@
+1 02.01.2015 Pravilnik o provedbi vlastite procjene rizika i solvent­nosti
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+27
+Na temelju članka 92.c stavka 4. Zakona o osiguranju (Narodne novine broj 151/05, 87/08, 82/09, 54/13 i 94/14), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 24. prosinca 2014. donosi
+PRAVILNIK
+O PROVEDBI VLASTITE PROCJENE RIZIKA I SOLVENTNOSTI
+Uvodne odredbe
+Članak 1.
+(1) Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) detaljnije propisuje: način provedbe vlastite procjene rizika i solventnosti društva za osiguranje i društva za reosiguranje (dalje u tekstu: društvo) u pripremnoj fazi za Solventnost II u skladu sa Smjernicama za anticipativnu procjenu vlastitih rizika društva (utemeljenu na načelima vlastite procjene rizika i solventnosti) (EIOPA-CP-13/09), opseg tržišta te rokove izvješćivanja Agencije o rezultatima svake vlastite procjene rizika i solventnosti.
+(2) Odredbe ovog Pravilnika na odgovarajući se način primjenjuju i na grupe osiguravatelja.
+Pojmovi i definicije
+Članak 2.
+(1) U smislu ovog Pravilnika pojedini pojmovi imaju sljedeće značenje:
+»Vlastita procjena rizika i solventnosti (ORSA)« predstavlja redovitu praksu procjene ukupnih potreba solventnosti s obzirom na specifični profil rizičnosti;
+»Anticipativna procjena vlastitih rizika (FLAOR)« (utemeljena na načelima vlastite procjene rizika i solventnosti) predstavlja način provođenja vlastite procjene rizika i solventnosti u pripremnoj fazi za Solventnost II;
+»Smjernice za anticipativnu procjenu vlastitih rizika« odnose se na Smjernice za anticipativnu procjenu vlastitih rizika društva (utemeljenu na načelima vlastite procjene rizika i solventnosti) (EIOPA-CP-13/09);
+»Ukupne potrebe solventnosti« predstavljaju vlastito stajalište društva o svojem profilu rizičnosti, kapitalu i ostalim tehnikama za upravljanje rizicima;
+»Regulatorni kapitalni zahtjevi« predstavljaju kapitalne zahtjeve u skladu s Direktivom Solventnost II;
+»Profil rizičnosti« predstavlja procjenu svih rizika kojima je ili kojima bi društvo moglo biti izloženo u svojem poslovanju;
+»Tehnike za smanjenje rizika« su sve tehnike koje omogućuju društvu za osiguranje da prenese dio svojih rizika ili sve svoje rizike na drugu osobu;
+»Direktiva Solventnost II« jest Direktiva 2009/138/EZ Europskog parlamenta i Vijeća od 25. studenog 2009. o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) (SL L 335, 17. 12. 2009.);
+»Pripremna faza za Solventnost II« jest period od 1. siječnja 2014. do početka pune primjene Direktive Solventnost II.
+Opće odredbe o vlastitoj procjeni rizika i solventnosti
+Članak 3.
+(1) U sklopu vlastite procjene rizika i solventnosti društvo procjenjuje sve rizike koji proizlaze iz njegovih poslovnih aktivnosti te temeljem navedene procjene određuje ukupne potrebe solventnosti.
+(2) Društvo odlučuje kako će provesti predmetnu procjenu uzimajući u obzir prirodu, opseg i složenost rizika svojstvenih svojoj djelatnosti. Procjena ukupnih potreba solventnosti treba odražavati vlastiti stav društva o profilu rizičnosti, kapitalu te ostalim odgovarajućim mjerama za upravljanje rizicima.
+(3) Za provedbu vlastite procjene rizika i solventnosti društvo treba uspostaviti adekvatne procese za identifikaciju, procjenu, mjerenje i praćenje rizika te određivanje ukupnih potreba solventnosti. Društvo treba osigurati da rezultati navedene procjene budu uključeni u proces odlučivanja i planiranja poslovnih aktivnosti.
+(4) Društvo u sklopu vlastite procjene rizika i solventnosti izrađuje i procjenu kontinuirane usklađenosti s regulatornim kapitalnim zahtjevima te zahtjevima u vezi s tehničkim pričuvama.
+(5) Društvo u sklopu vlastite procjene rizika i solventnosti izrađuje i procjenu odstupanja svoga profila rizičnosti od pretpostavki na kojima se temelji izračun potrebnog solventnog kapitala iz Direktive Solventnost II.
+Anticipativna procjena vlastitih rizika
+Članak 4.
+(1)

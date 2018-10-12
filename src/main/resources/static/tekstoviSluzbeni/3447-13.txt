@@ -1,0 +1,23 @@
+ valutu koju su, na mjenjačkim mjestima koja su predmet ugovora o obavljanju mjenjačkih poslova, otkupili odnosno prodali u odnosu sa svojim strankama svi ovlašteni mjenjači ugovorne banke.
+(3) U izvješće se propisani sadržaj bilježi na sljedeći način:
+1. U 1. stupac bilježi se redni broj strane valute koja je predmet izvješća.
+2. U 2. stupac bilježi se brojčana oznaka strane valute.
+3. U 3. stupac bilježi se slovna kratica strane valute.
+4. U 4. stupac bilježi se iznos otkupa strane gotovine odnosno iznos otkupljenih čekova koji glase na stranu valutu, za stranu valutu koja je zabilježena u istom retku u 2. odnosno 3. stupcu, a koje su ovlašteni mjenjači otkupili tijekom određenoga kalendarskog mjeseca.
+5. U 5. stupac bilježi se iznos u kunama koji su ovlašteni mjenjači ugovorne banke isplatili pri otkupu strane gotovine odnosno čekova koji glase na stranu valutu iz 4. stupca.
+6. U 6. stupac bilježi se iznos prodane strane gotovine, za stranu valutu koja je zabilježena u istom retku u 2. odnosno 3. stupcu, a koju su ovlašteni mjenjači prodali tijekom određenoga kalendarskog mjeseca, u ukupnom iznosu za cijeli kalendarski mjesec.
+7. U 7. stupac bilježi se iznos u kunama koje su ovlašteni mjenjači ugovorne banke naplatili pri prodaji strane gotovine iz 6. stupca.
+(4) U izvješće se podaci bilježe posebno za odnos ovlaštenog mjenjača s rezidentima, a posebno za njegov odnos s nerezidentima, kao zaokruženi iznosi, bez decimalnih mjesta.
+(5) Izvješće »Promet ovlaštenih mjenjača – zbirno izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu« prikazano je u Prilogu br. 3A ove Upute.
+III. NAČIN OBAVJEŠTAVANJA JAVNOSTI O UVJETIMA I NAČINU PRIKUPLJANJA PONUDA ZAŠTIĆENIH PROGRAMA ZA OVLAŠTENE MJENJAČE RADI NJIHOVA CERTIFICIRANJA
+O uvjetima i načinu prikupljanja zaštićenih programa, a radi njihova certificiranja, javnost se obavještava putem »Javnog poziva za prikupljanje ponuda zaštićenih programa za ovlaštene mjenjače«, koji se objavljuje na internetskoj stranici Hrvatske narodne banke http://www.hnb.hr.
+IV. NAČIN OBAVJEŠTAVANJA JAVNOSTI O TVRTKAMA I ADRESAMA SJEDIŠTA PROIZVOĐAČA ZAŠTIĆENIH PROGRAMA ZA KOJE JE HRVATSKA NARODNA BANKA IZDALA CERTIFIKATE
+O tvrtkama i adresama sjedišta proizvođača zaštićenih programa Hrvatska narodna banka obavještava javnost objavom obavijesti na internetskoj stranici Hrvatske narodne banke http://www.hnb.hr.
+V. PRIJELAZNE I ZAVRŠNE ODREDBE
+(1) Ova Uputa stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+(2) Danom stupanja na snagu ove Upute prestaje važiti Uputa za primjenu Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove (»Narodne novine«, br. 60/2011.).
+U. br.: 65-020/03-16/BV
+Zagreb, 21. ožujka 2016.
+Guverner Hrvatske narodne banke prof. dr. sc. Boris Vujčić, v. r.
+TEHNIČKA SPECIFIKACIJA ZAŠTIĆENOGA PROGRAMA ZA OVLAŠTENE MJENJAČE
+

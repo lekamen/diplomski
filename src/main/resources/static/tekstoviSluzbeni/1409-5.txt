@@ -1,0 +1,49 @@
+ označuje rimskim brojkama, a može imati naziv koji se piše ispod njezine oznake velikim tiskanim slovima.
+Poglavlje
+Članak 26.
+(1) Svaki dio ili glava mogu biti podijeljeni u pravilu na najmanje dva poglavlja koji obuhvaćaju manju zavisnu (funkcionalnu) ili smislenu cjelinu.
+(2) Poglavlje se piše velikim tiskanim slovima i označuje rimskim brojkama iza riječi POGLAVLJE, a naziv poglavlja piše se velikim tiskanim slovima, mora biti kratak i odgovarati njegovu sadržaju.
+(3) Poglavlje ne mora imati naziv, ali ako ga ima, tada ga trebaju imati sva poglavlja.
+Odjeljak
+Članak 27.
+(1) Poglavlje može imati više, a najmanje dva odjeljka.
+(2) Odredbama članaka odjeljka se uređuje najmanja samostalna cjelina propisa.
+(3) ODJELJAK se piše velikim tiskanim slovima i označuje arapskim brojkama ili slovima.
+ODJELJAK B OBLIK (FORMALNA) STRUKTURA PROPISA
+Oblik (forma)
+Članak 28.
+(1) Ovisno o opsegu, sadržaju i složenosti odnosa koji se uređuju, materija propisa se dijeli na cjeline o kojima su pravila utvrđena u skladu s ovim Pravilima.
+(2) Bez obzira na cjeline na koje se dijeli materija propisa, svi propisi moraju sadržavati članke.
+(3) Propis mora sadržavati najmanje dva članka.
+(4) Iznimno od odredbe stavka 1. ovoga članka, propis ne mora biti podijeljen na dijelove, glave, poglavlja i odjeljke, a ni članci ne moraju imati nazive ako propis ima oko dvadeset članaka.
+Članak
+Članak 29.
+(1) Članak sadržava jedno ili više određenja koja tvore jednu logičnu cjelinu.
+(2) Članak uređuje sve dijelove (elemente) ili osobine (aspekte) jednog odnosa, odnosno pitanja, kao što su pravila, iznimke i ovlaštenja.
+(3) U skladu sa stavkom 2. ovoga članka, u oblikovanju se izbjegava uređivanje više različitih odnosa, odnosno pitanja, kao i prevelike članke.
+(4) Članak se označuje riječju »Članak« s odgovarajućim arapskim brojem, redoslijedom, poslije kojega se stavlja točka.
+(5) Članak može imati naziv koji je kratak i upućuje na sadržaj članka.
+(6) Naziv članka se stavlja iznad njegove brojčane oznake.
+Dijelovi članka
+Članak 30.
+(1) Članak se dijeli na:
+a) stavke
+b) stavak na podstavke ili točke
+c) podstavak na točke
+d) točke na podtočke.
+(2) Članak ima najmanje jedan stavak, a može ih imati i više.
+(3) Najpreglednije i najpogodnije za razumijevanje odnosa koji se regulira člankom jest kada se članak sastoji od tri do četiri stavka.
+(4) Kada članak ima samo jedan stavak, on se brojčano ne označuje, ali ako ima više stavaka, tada se svaki stavak označuje arapskom brojkom s otvorenom zagradom ispred i zatvorenom zagradom iza broja.
+(5) Odredba članka ili stavka uvijek završava točkom kao pravopisnim znakom.
+(6) Odredba članka, stavka, podstavka, točke ili podtočke sastoji se od jedne rečenice.
+(7) Iznimno od odredbe stavka 6. ovoga članka, samo kada uvjet razumljivosti to zahtijeva, odredba može imati dvije ili više rečenica.
+Stavak
+Članak 31.
+(1) Svaka rečenica u jednom članku je u pravilu novi stavak koji počinje novim redom.
+(2) Sadržaj odredaba stavaka u jednom članku mora biti međusobno logički povezan.
+(3) Kada povezanost sadržaja dva ili više stavaka iziskuje ponavljanje teksta jednog stavka u drugom stavku, ponavljanje se izbjegava tako da se poziva na odgovarajući stavak, u kojem slučaju se naznačuje redni broj odgovarajućeg toga stavka bez zagrade.
+Podstavak
+Članak 32.
+(1) Stavak u članku može se dijeliti na podstavke ili točke, i to najmanje dva podstavka ili najmanje dvije točke.
+(2) Podstavak se označuje crticom, a kada je potrebno propisati više uvjeta, razloga ili različitih situacija o kojima ovisi nastavak ili prestanak prava, obveza ili pravnog odnosa, radi konciznosti odredbe, iza uvodne rečenice te uvjete, razloge ili situacije treba rasporediti u podstavke.
+(3) U slučaju iz stavka 2. ovoga članka ako se uvjeti i razlozi odnosno situacije propisuju kumulativno, na kraju predzadnjeg podstavka stavlja se sastavni veznik »i«, a ako se radi o inačici odnosno alternativnom pobrojavanju na kraju pretposljednjeg podstavka stavlja se rastavni

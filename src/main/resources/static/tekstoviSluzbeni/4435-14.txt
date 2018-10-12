@@ -1,0 +1,35 @@
+ na amaterski građeni zrakoplov odnosno na njega ugrađene uređaje i opremu.
+(4) U Programu održavanja moraju biti navedene komponente koje imaju od proizvođača ili Agencije određene rokove trajanja, obnove ili ispitivanja.
+(5) Program održavanja se odobrava istovremeno s postupkom izdavanja Dopuštenja za letenje.
+Program održavanja za tip zrakoplova
+Članak 77.
+Program održavanja za tip amaterski građenog zrakoplova može se odobriti u posebnom postupku i tada je prihvatljiv za sve amaterski građene zrakoplove toga tipa, pod uvjetom da izmjene pojedinih primjeraka nisu takve da zahtijevaju izmjenu programa.
+Naredbe o plovidbenosti
+Članak 78.
+(1) Vlasnik odnosno operator amaterski građenog zrakoplova mora provjeriti provođenje dostupnih Naredbi o plovidbenosti koje su objavile zrakoplovne vlasti projektiranja amaterski građenog zrakoplova ili na njega ugrađenih uređaja i opreme.
+(2) Naredbe o plovidbenosti koje izdaje Agencija mogu se odnositi i na amaterski građene zrakoplove ili na njih ugrađene uređaje i opremu.
+Servisna pisma (bilteni)
+Članak 79.
+Vlasnik odnosno operator amaterski građenog zrakoplova mora vrednovati dostupna servisna pisma (biltene) koje je proizvođač kompleta dijelova amaterski građenog zrakoplova ili proizvođač uređaja i opreme ugrađenih na amaterski građeni zrakoplov označio kao obvezne.
+Glava 6 ODRŽAVANJE I POPRAVCI AMATERSKI GRAĐENOG ZRAKOPLOVA
+Upute za održavanje
+Članak 80.
+(1) Vlasnik odnosno operator amaterski građenog zrakoplova mora brinuti da poslovi održavanja i popravci zrakoplova budu obavljani prema dostupnim uputama proizvođača kompleta dijelova amaterski građenog zrakoplova, uputama projektanta zrakoplova ili proizvođača uređaja i opreme ugrađenih na amaterski građeni zrakoplov.
+(2) Ako navedene upute ne postoje, graditelj mora predložiti upute za održavanje i popravak zrakoplova, koje je ovjerio zrakoplovni stručnjak.
+Osobe za održavanje
+Članak 81.
+(1) Poslove održavanja amaterski građenog zrakoplova kojem je vlasnik ili suvlasnik, može obavljati graditelj, u opsegu radova za koji posjeduje stručnu osposobljenost, alat i opremu.
+(2) Poslove održavanja amaterski građenog zrakoplova može obavljati i odgovarajuće osposobljena pravna ili fizička osoba, koja posjeduje potreban alat i opremu i koju je odobrila Agencija.
+(3) Specifične poslove održavanja amaterski građenog zrakoplova (obnova motora ili propelera, kalibriranje i popravak instrumenata, ispitivanje bez razaranja i sl.) može obavljati odgovarajuće osposobljena pravna ili fizička osoba, koja posjeduje potreban alat i opremu i prihvatljiva je Agenciji.
+(4) Pojedine jednostavnije poslove održavanja amaterski građenog zrakoplova može uz odobrenje Agencije putem odobrenja Programa održavanja obavljati i pilot vlasnik/suvlasnik amaterski građenog zrakoplova koji nije ujedno i graditelj ako posjeduje pilotsku dozvolu za taj zrakoplov i svoju sposobnost za obavljanje tih poslova je dokazao Agenciji.
+(5) Poslovi održavanja koje može obavljati pilot vlasnik amaterski građenog zrakoplova moraju biti posebno označeni u programu održavanja zrakoplova.
+Glava 7 IZMJENE AMATERSKI GRAĐENOG ZRAKOPLOVA
+Odobrenje izmjene amaterski građenog zrakoplova
+Članak 82.
+Za odobrenje izmjene amaterski građenog zrakoplova operator podnosi zahtjev Agenciji. Uz zahtjev je potrebno priložiti prijedlog projekta, program obavljanja radova, prijedlog organizacije ili osobe koje će obaviti izmjenu te u slučaju potrebe i program ispitivanja. Dokumente u prilogu mora izraditi ili ovjeriti zrakoplovni stručnjak.
+Izmjena zrakoplova
+Članak 83.
+Izmjene amaterski građenog zrakoplova i njihov tijek moraju biti zabilježene u tehničkom dnevniku zrakoplova i moraju ih ovjeriti zrakoplovni stručnjak i zrakoplovni kontrolor.
+Ispitivanje nakon izmjene
+Članak 84.
+U slučaju potrebe za ispitivanjem amaterski građenog zrakoplova nakon obavljanja izmjene, po završetku ispitivanja Agenciji se podnosi izvješće sastavljeno na temelju ishoda ispitivanja. Ispitivanje mora biti obavljeno prema

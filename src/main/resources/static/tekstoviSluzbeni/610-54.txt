@@ -1,0 +1,26 @@
+ zbog čega društvu za osiguranje prijeti nelikvidnost, nesolventnost ili je time ugrožena sigurnost poslovanja ili ugovaratelja osiguranja, osiguranika ili korisnika iz ugovora o osiguranju, nositelj funkcije unutarnje revizije mora odmah o tome obavijestiti upravu i nadzorni odbor društva za osiguranje.
+(2) Ako unutarnja revizija prilikom obavljanja revizije aktivnosti i procesa poslovanja utvrdi da uprava društva za osiguranje krši pravila o upravljanju rizicima, nositelj funkcije unutarnje revizije dužan je o tome bez odgađanja obavijestiti i nadzorni odbor.
+Aktuarska funkcija
+Članak 103.
+(1) Društvo za osiguranje dužno je uspostaviti učinkovitu aktuarsku funkciju koja obavlja poslove:
+1. koordiniranja izračuna tehničkih pričuva
+2. osiguravanja primjerenosti metodologija, modela i pretpostavki na kojima se temelji izračun tehničkih pričuva
+3. procjenjivanja dovoljnosti i kvalitete podataka koji se upotrebljavaju u izračunu tehničkih pričuva
+4. uspoređivanja najboljih procjena s iskustvom
+5. obavještavanja uprave i nadzornog odbora društva za osiguranje o pouzdanosti i adekvatnosti izračuna tehničkih pričuva
+6. nadziranja izračuna tehničkih pričuva u slučajevima iz članka 118. ovoga Zakona kada nema dovoljno podataka primjerene kvalitete za primjenu pouzdane aktuarske metode
+7. iskazivanja mišljenja o cjelokupnoj politici preuzimanja rizika osiguranja
+8. iskazivanja mišljenja o primjerenosti programa reosiguranja i
+9. sudjelovanja u učinkovitoj provedbi sustava upravljanja rizicima iz članaka 94. i 95. ovoga Zakona, posebice s obzirom na modeliranje rizika na kojemu se temelji izračun kapitalnih zahtjeva propisanih člancima 130. – 156. te člancima 157., 158. i 459. ovoga Zakona, i procjenjivanju vlastite procjene rizika i solventnosti iz članka 96. ovoga Zakona.
+(2) Nositelj aktuarske funkcije je osoba koja osim uvjeta iz članka 93. stavka 5. ovoga Zakona mora imati odgovarajuća znanja o aktuarskoj i financijskoj matematici koja su primjerena prirodi, opsegu i složenosti rizika svojstvenima poslovanju društva za osiguranje, u kojemu će navedena osoba biti imenovana nositeljem aktuarske funkcije, te odgovarajuće iskustvo u skladu s aktuarskim i drugim standardima.
+(3) Dodatni uvjeti iz stavka 2. ovoga članka ispunjeni su ako osoba posjeduje odgovarajuću dokumentaciju kojom potvrđuje da ima odgovarajuće znanje o aktuarskoj i financijskoj matematici stečeno u skladu s programom izobrazbe međunarodnih, odnosno europskih aktuarskih udruga te ako osoba može dokazati odgovarajuće iskustvo u skladu s aktuarskim i drugim standardima.
+(4) Iznimno od stavka 3. ovoga članka, ako osoba posjeduje ovlaštenje za obavljanje poslova ovlaštenog aktuara iz članka 186. stavka 1. ovoga Zakona, smatra se da ispunjava uvjete iz stavka 3. ovoga članka.
+Izdvajanje poslova ili funkcija
+Članak 104.
+(1) Izdvajanje poslova ili funkcija ugovorni je prijenos obavljanja poslova vezanih za djelatnost osiguranja, odnosno ugovorni prijenos ključnih, odnosno važnih poslovnih funkcija društva za osiguranje koje inače samo obavlja u okviru svoje registrirane djelatnosti, na pružatelje usluga, u skladu s kojim pružatelj usluga izravno ili neizravno obavlja poslove ili funkcije društva za osiguranje.
+(2) Društvo za osiguranje odgovara u potpunosti za izdvojene poslove ili funkcije.
+(3) Izdvajanje poslova ili funkcija provodi se iz objektivnih razloga i isključivo s ciljem povećanja učinkovitosti obavljanja tih poslova, vodeći računa o veličini društva za osiguranje.
+(4) Pružatelj usluga koji obavlja posredno ili neposredno poslove ili funkcije društva za osiguranje mora imati sve potrebne resurse za pravilno, kvalitetno i učinkovito obavljanje poslova ili funkcija te ovlaštene osobe koje imaju dobar ugled, stručne kvalifikacije i iskustvo potrebno za obavljanje poslova, odnosno funkcija.
+(5) Društvo za osiguranje ne smije izdvojiti poslove ili funkcije ako bi to dovelo do:
+1. ugrožavanja poslovanja društva za osiguranje
+2. značajnog pogoršanja kvalitete sustava

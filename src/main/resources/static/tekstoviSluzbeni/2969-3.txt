@@ -1,0 +1,26 @@
+
+(1) Hrvatski ured za osiguranje dužan je izvještavati Agenciju o:
+1. upisu i promjenama podataka koji se upisuju u sudski registar, dostavljanjem prijave s prilozima uz prijavu, odnosno zahtjeva sa svim prilozima, istodobno kada se dostavljaju sudskom registru, a rješenja o upisu u sudski registar najkasnije u roku od tri radna dana od njegova primitka,
+2. o održanoj Skupštini dostavljanjem zapisnika s odlukama koje su donesene na Skupštini, s pročišćenim tekstom Statuta ako je na toj Skupštini donesena odluka o izmjenama i dopunama Statuta, u roku od tri radna dana od dana održavanja Skupštine,
+3. imenovanju odnosno razrješenju direktora, dostavljanjem odluke o imenovanju i razrješenju direktora te obavijesti o primljenoj ostavci direktora dostavljanjem njegove ostavke, u roku od osam radnih dana od donošenja odluke odnosno primljene obavijesti,
+4. načinu obavljanja poslova iz članka 353. stavka 1. Zakona o osiguranju, dostavljanjem internih akata kojima je u skladu s člankom 353. stavkom 2. Zakona o osiguranju, propisan način obavljanja tih poslova, u roku od osam radnih dana od dana njihovog usvajanja ili izmjene,
+5. uspostavljenom računalnom sustavu za obradu statističkih podataka o poslovima članova Hrvatskog ureda za osiguranje te načinu njegovog održavanja dostavljanjem:
+– opisa računalnog sustava (mjesto organizacijske jedinice za IT u organizacijskoj shemi Hrvatskog ureda za osiguranje, broj zaposlenih u IT-ju i njihova zaduženja, popis poslužitelja, mrežne opreme, aplikacija, baza podataka, popis društava na koje su izdvojeni pojedini poslovi IT-ja i ugovori koji reguliraju navedena izdvajanja i sl.),
+– politike sigurnosti informacijskog sustava ili drugih internih akata koji obuhvaćaju mjere i postupke za održanje sigurnosti informacijskog sustava Hrvatskog ureda za osiguranje,
+– plana kontinuiteta poslovanja ili drugih internih akata koji obuhvaćaju mjere i postupke za održanje poslovanja Hrvatskog ureda za osiguranje u slučaju nastupa incidentnih događaja koji prijete nastavku poslovanja, sve u roku od 15 dana od svake promjene,
+6. obavljenim poslovima iz članka 353. stavka 1. Zakona o osiguranju, dostavljanjem pisanog izvješća do kraja veljače tekuće godine sa stanjem na dan 31. prosinca prethodne godine,
+7. o zaprimljenim prijavama i odlukama donesenim vezano uz obvezna osiguranja u prometu za notificirana društva za osiguranje.
+Članak 6.
+Na podružnicu društva za osiguranje iz druge države članice Europske unije/Europskog gospodarskog prostora ili iz treće države, a koja je osnovana na području Republike Hrvatske, na odgovarajući se način primjenjuju odredbe članka 2. stavka 1. točaka 1., 4., 7. i 8. ovoga Pravilnika.
+Članak 7.
+(1) Adresati ovoga Pravilnika dostavljaju Agenciji dokumentaciju propisanu ovim Pravilnikom u izvorniku ili presliku, osim dokumentacije propisane člankom 2. stavkom 3. i člankom 4. stavkom 7. ovoga Pravilnika koja se dostavlja pisano ili u elektroničkom obliku (excel formatu) na adresu elektroničke pošte insurance.legal@hanfa.hr. Dostavljena dokumentacija se ne vraća.
+(2) Adresati ovoga Pravilnika dužni su Agenciju, bez odgađanja, pisano obavijestiti o prestanku postojanja uvjeta na temelju kojih im je Agencija u skladu sa Zakonom o osiguranju izdala dozvolu ili ovlaštenje za rad.
+Članak 8.
+Osim dokumentacije propisane ovim Pravilnikom, adresati ovoga Pravilnika dužni su dostaviti na zahtjev Agencije i drugu dokumentaciju za potrebe postupanja Agencije u skladu s njezinim ovlastima.
+Članak 9 .
+(1) Stupanjem na snagu ovoga Pravilnika prestaje vrijediti Pravilnik o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga (»Narodne novine« broj 85/13 i 140/14).
+(2) Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/16-04/15
+Urbroj: 326-01-660-663-16-1
+Zagreb, 5. veljače 2016.
+Predsjednik Upravnog vijeća Petar-Pierre Matek, v. r.

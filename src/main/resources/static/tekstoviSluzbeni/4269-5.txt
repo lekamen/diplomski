@@ -1,0 +1,46 @@
+ mjerilu 1:2000 (DOF 2) i
+5. ortofotokarta u mjerilu 1:5000 (DOF 5).
+(2) Službene državne karte iz stavka 1. ovoga članka izrađuju se sukladno odgovarajućim specifikacijama proizvoda te ih pregledava i ovjerava Državna geodetska uprava.
+(3) Službene tematske i druge karte izrađuju se po potrebi iz topografskih i kartografskih baza podataka za određeno mjerilo ili na temelju službenih državnih karata.
+Članak 23.
+(1) Sadržaj službenih državnih karata određen je specifikacijom proizvoda koja se odnosi na izradu karata za svako pojedino mjerilo karte, a koje donosi Državna geodetska uprava.
+(2) Sadržaj topografskih karata ovisno o mjerilu i vrsti čine:
+1. stalne geodetske točke
+2. građevine i ostali objekti
+3. vodovi i objekti vezani uz vodove
+4. prometnice i objekti vezani uz promet
+5. vegetacija i vrste zemljišta
+6. vode i objekti vezani uz vode
+7. visinska predstava i reljefni oblici
+8. državna granica
+9. okvir i vanjski opis karte s koordinatnom mrežom i
+10. geografska imena.
+(3) Državna geodetska uprava izrađuje zbirku kartografskih znakova za potrebe izrade službenih državnih karata.
+Članak 24.
+Podjela i slovnobrojčane oznake listova službenih državnih karata i katastarskih planova određuju se prema specifikaciji za računanje i podjelu na listove u projekcijskom sustavu HTRS96/TM i HTRS96/LCC, a koju donosi Državna geodetska uprava.
+GLAVA I. IZRADA HRVATSKE OSNOVNE KARTE
+Članak 25.
+Hrvatska osnovna karta u mjerilima 1:5000 i 1:10 000 izrađuje se na osnovi neposredne izmjere zemljišta fotogrametrijskim metodama koja može biti dopunjena s podacima Temeljne topografske baze podataka.
+Članak 26.
+(1) Topografski podaci prikupljeni neposredno stereofotogrametrijskom izmjerom s prostornim digitalnim zapisom kartografski se obrađuju sukladno specifikaciji proizvoda za izradu Hrvatske osnovne karte i prema projektnom zadatku.
+(2) Visinski prikaz izohipsama izrađuje se iz podataka DMR-a.
+Članak 27.
+Topografski podaci i izvršena kartografska obrada dopunjuju se podacima iz sekundarnih izvornika definiranim u specifikaciji proizvoda za izradu Hrvatske osnovne karte i terenski provjeravaju.
+GLAVA II. IZRADA ORTOFOTOKARATA
+Članak 28.
+(1) Državna geodetska uprava izrađuje ortofotoplanove u mjerilu 1:2000 (DOF 2) i ortofotokarte u mjerilu 1:5000 (DOF 5), a u posebnim slučajevima može izrađivati ortofotoplanove i ortofotokarte u drugim mjerilima te »true« ortofoto.
+(2) Ortofotokarte izrađuju se prevođenjem digitalne aerofotogrametrijske snimke (poznatih vrijednosti unutarnje i vanjske orijentacije) iz centralne u ortogonalnu projekciju uz upotrebu DMR-a odgovarajuće točnosti.
+(3) Ortofotokarte mogu djelomično poslužiti i za održavanje topografskih baza podataka uz znatno smanjenu mogućnost interpretiranja u odnosu na stereofotogrametrijske postupke.
+Članak 29.
+(1) Ortofotokarte izrađuju se sukladno odgovarajućim specifikacijama proizvoda.
+(2) Za izradu ortofota potrebni su:
+1. aerofotogrametrijska snimka snimljena digitalnom kamerom ili satelitska snimka
+2. elementi unutarnje i vanjske orijentacije snimke sukladno specifikaciji proizvoda za aerotriangulaciju
+3. DMR/DMV sukladno specifikaciji proizvoda za DMR i
+4. okvir lista s koordinatnom mrežom i vanjskim opisom lista sukladno projektnom zadatku.
+(3) Satelitske snimke koje se koriste za izradu ortofotokarata moraju biti prethodno obrađene s parametrima koji osiguravaju zahtijevanu točnost, zadovoljavajuće rezolucije, geometrijske točnosti i trebaju se koristiti uz ažuran DMR prikupljen aerofotogrametrijskim postupcima.
+(4) Položajna točnost ortofotokarata definirana je specifikacijama proizvoda za digitalne ortofotokarte.
+(5) Ortofotokartama se u posebnim slučajevima mogu dodati geografska imena, izohipse, kote, prometnice, vode, naselja/objekti, vegetacija.
+GLAVA III. IZRADA TOPOGRAFSKIH KARATA
+Članak 30.
+(1) Topografske karte u mjerilima od 1:25 000 do 1:250 000 spadaju u grupu detaljnih topografskih karata i izrađuju se na temelju podataka odgovarajućih kartografskih baza podataka

@@ -1,0 +1,46 @@
+100 02.11.2016 Odluka o minimalno potrebnim deviznim potraživanjima
+HRVATSKA NARODNA BANKA
+2150
+Na temelju članka 77. i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donio je 26. listopada 2016.
+ODLUKU
+O MINIMALNO POTREBNIM DEVIZNIM POTRAŽIVANJIMA
+I.
+Ovom se Odlukom propisuju obveznici, postotak, način i rokovi izvješćivanja i održavanja minimalno potrebnog iznosa deviznih potraživanja u odnosu prema deviznim obvezama te devizna potraživanja kojima se održava i devizne obveze na temelju kojih se utvrđuje obveza održavanja minimalno potrebnog iznosa deviznih potraživanja.
+II.
+Obveznici su održavanja minimalno potrebnog iznosa deviznih potraživanja u odnosu prema deviznim obvezama:
+– kreditne institucije, i to banke i štedne banke, sa sjedištem u Republici Hrvatskoj koje su dobile odobrenje za rad od Hrvatske narodne banke i
+– podružnice kreditnih institucija iz trećih država koje su od Hrvatske narodne banke dobile odobrenje za osnivanje podružnice kreditne institucije iz treće države
+(u nastavku teksta: banke) te
+– podružnice kreditnih institucija iz druge države članice Europske unije za koje je njezino nadležno tijelo dostavilo obavijest Hrvatskoj narodnoj banci o osnivanju podružnice u Republici Hrvatskoj (u nastavku teksta: podružnice iz EU-a).
+III.
+Banke u devizna potraživanja u smislu ove Odluke uključuju:
+– stranu gotovinu,
+– čekove koji glase na stranu valutu,
+– devizne tekuće račune,
+– devizne depozite kod Hrvatske narodne banke,
+– devizne depozite po viđenju,
+– devizne depozite s preostalim rokom dospijeća do tri mjeseca,
+– dospjele devizne depozite,
+– vrijednosne papire stranih financijskih institucija i stranih država koji se drže radi trgovanja i koji su raspoloživi za prodaju – instrumente tržišta novca, obveznice i druge dugoročne dužničke instrumente,
+– vrijednosne papire stranih financijskih institucija i stranih država u devizama koji se drže do dospijeća i koji se vrednuju po fer vrijednosti u RDG-u (kojima se aktivno ne trguje) s preostalim rokom dospijeća do tri mjeseca – instrumente tržišta novca, obveznice i druge dugoročne dužničke instrumente s preostalim rokom dospijeća do tri mjeseca i
+– devizne obratne repo poslove sa stranim financijskim institucijama, s preostalim rokom dospijeća do tri mjeseca, ako već nisu uključeni u devizna potraživanja navedena u ovom stavku.
+IV.
+Podružnice iz EU-a u devizna potraživanja u smislu ove Odluke uključuju u nastavku navedene instrumente, koji su definirani Uputom za statističko i bonitetno izvješćivanje, a koja je sastavni dio Odluke o statističkom i bonitetnom izvješćivanju:
+– A0101 Gotov novac
+– A0102 Čekovi i drugi instrumenti plaćanja
+– A0201 Računi za namiru kod HNB-a
+– A0202 Ostali depoziti kod HNB-a
+– A0203 Izdvojena obvezna pričuva
+– A0206 Depoziti
+– A0209 Obratni repo krediti
+– A0231 Depoziti u otkaznom roku
+– A0301 Obveznice
+– A0302 Komercijalni zapisi
+– A0303 Blagajnički i trezorski zapisi
+– A0304 Certifikati o depozitu
+– A0307 Mjenice.
+Dnevno stanje za svaki radni dan svakog instrumenta iz prethodnog stavka utvrđuje se u skladu sa slogom AA (iz Upute za statističko i bonitetno izvješćivanje), uz obilježje »Valuta«: sve valute osim kune i obilježje »Vrsta iznosa«: 1 + 2 – 7 + 8 + 10 + 12.
+Za instrumente A0206, A0209, A0231, A0301, A0302, A0303, A0304 i A0307 uključuju se protustranke koje pripadaju sektoru nerezidenta: 1210, 1220, 1230, 1240, 1250, 1260, 1270, 1280, 1290 i 1311.
+Za instrumente A0301, A0302, A0303, A0304 i A0307 uključuje se obilježje »Portfelj«: DRT, RZP, FVO i DDD.
+Za instrumente A0301, A0302, A0303, A0304 i A0307, obilježje »Portfelj«: FVO i DDD i za instrumente A0206, A0209 i A0231 uključuje se dio s preostalim rokom dospijeća do tri mjeseca.
+Dnevno stanje za svaki radni dan utvrđeno prema navedenim kriterijima u ovoj točki izračunava se agregirano za sve navedene protustranke i iskazuje u kunama primjenom srednjeg tečaja Hrvatske narodne

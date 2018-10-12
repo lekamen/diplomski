@@ -1,0 +1,25 @@
+Odgovarajuće podatke za izračun i rezultate tog izračuna dostavlja Agenciji kao nadzornom tijelu grupe sudjelujuće društvo za osiguranje ili, ako grupa nije predvođena društvom za osiguranje, osigurateljni holding ili mješoviti financijski holding ili društvo u grupi koje utvrdi Agencija kao nadzorno tijelo grupe nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom.
+(2) Društvo za osiguranje, osigurateljni holding i mješoviti financijski holding kontinuirano nadziru potrebni solventni kapital grupe. Ako profil rizičnosti grupe značajno odstupa od pretpostavki na kojima se temelji posljednji prijavljeni potrebni solventni kapital grupe, potrebni solventni kapital grupe se bez odgađanja ponovo izračunava te se Agenciji kao nadzornom tijelu grupe podnosi izvješće o rezultatu tog izračuna.
+Ako postoje dokazi koji ukazuju da se profil rizičnosti grupe značajno izmijenio od datuma kada je potrebni solventni kapital grupe posljednji put prijavljen, Agencija kao nadzorno tijelo grupe može zahtijevati ponovni izračun potrebnog solventnog kapitala grupe.
+Pododjeljak 2. Odabir metode izračuna i opća načela
+Odabir metode
+Članak 305.
+(1) Izračunavanje solventnosti na razini grupe društava za osiguranje i društava za reosiguranje iz članka 298. stavka 2. točke 1. ovoga Zakona obavlja se u skladu s tehničkim načelima i metodama, u skladu s člancima 306. – 318. ovoga Zakona i Uredbom (EU) br. 2015/35.
+(2) Agencija kao nadzorno tijelo grupe može s obzirom na određenu grupu odlučiti, nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom, da se na predmetnu grupu primjenjuje alternativna metoda iz članka 318. ovoga Zakona, u skladu s Uredbom (EU) br. 2015/35, ili kombinacija metode konsolidacije i alternativne metode, kad isključiva primjena metode konsolidacije ne bi bila primjerena.
+Uključivanje proporcionalnog udjela
+Članak 306.
+(1) Prilikom izračunavanja solventnosti grupe u obzir se uzima proporcionalni udjel koji sudjelujuće društvo ima u svojim povezanim društvima.
+Proporcionalni udjel obuhvaća jedno od sljedećih:
+1. kada se upotrebljava metoda konsolidacije, postotke koji se upotrebljavaju za pripremu konsolidiranih financijskih izvještaja ili
+2. kada se upotrebljava alternativna metoda, udjel upisanog kapitala koji izravno ili neizravno drži sudjelujuće društvo.
+(2) Kada je, bez obzira na upotrijebljenu metodu, povezano društvo društvo kći i kad ono nema dostatna prihvatljiva vlastita sredstva za pokriće svog potrebnog solventnog kapitala, u obzir se uzima ukupni manjak solventnosti društva kćeri.
+Iznimno, kada je prema mišljenju nadležnih nadzornih tijela odgovornost matičnog društva koje posjeduje udjel u kapitalu isključivo ograničena na taj udjel u kapitalu, Agencija kao nadzorno tijelo grupe može dopustiti da manjak solventnosti društva kćeri bude uzet u obzir na proporcionalnoj osnovi.
+(3) Agencija kao nadzorno tijelo grupe utvrđuje, nakon savjetovanja s drugim nadležnim nadzornim tijelima i samom grupom, proporcionalni udjel koji se uzima u obzir u sljedećim slučajevima:
+1. kada ne postoji kapitalna povezanost između nekih društava u grupi
+2. kada Agencija utvrdi da udjel, izravni ili neizravni, u glasačkim pravima ili kapitalu društva predstavlja sudjelovanje jer se, prema mišljenju Agencije, nad tim društvom ostvaruje značajan utjecaj
+3. kada Agencija utvrdi da je društvo matično društvo drugog društva jer ono, prema mišljenju Agencije, nad tim društvom ostvaruje dominantan utjecaj.
+Ukidanje dvostruke uporabe prihvatljivih vlastitih sredstava
+Članak 307.
+(1) Dvostruka uporaba vlastitih sredstava prihvatljivih za pokriće potrebnog solventnog kapitala između različitih društava za osiguranje koja su prilikom izračunavanja solventnosti grupe uzeta u obzir nije dopuštena.
+Prilikom navedenog izračunavanja te ako metode iz članaka 315. – 318. ovoga Zakona to ne predviđaju, isključuju se sljedeći iznosi:
+1. vrijednost bilo koje imovine sudjelujućeg društva za osiguranje koja predstavlja

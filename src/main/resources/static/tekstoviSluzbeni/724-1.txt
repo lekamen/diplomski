@@ -1,0 +1,39 @@
+ dodjela primjenjuje se za predmete u kojima je nužna potpuna ravnomjernost dodjele ili hitnost postupanja.
+Jedinstveni crtični kod (bar kod) je niz paralelnih crta različite debljine koje nose osnovnu informaciju o predmetu. U sustavu eSpis postoji crtični kod na omotu spisa i otpravcima.
+Matrica ovlaštenja je skup podataka kojim se korisniku sustava eSpis definiraju ovlaštenja (funkcija, organizacijska jedinica, vrste predmeta, upisnici), a unosi se u sustav eSpis temeljem utvrđenoga godišnjeg rasporeda poslova.
+Administracijski modul je cjelina u administratorskoj aplikaciji koja služi za izvođenje određenih zadaća.
+Rješavatelj je sudac ili sudski službenik zadužen za rad na spisu.
+Učilica eSpis sustava je tečaj na daljinu za obučavanje korisnika sustava eSpis.
+Radna opterećenost rješavatelja je zbroj težina predmeta dodijeljenih tijekom kalendarske godine pojedinom rješavatelju, uvećana za oslobođenje rješavatelja.
+II. OVLASTI I DUŽNOSTI OSOBA OVLAŠTENIH ZA PRISTUP SUSTAVU eSpis
+1. Osobe ovlaštene za pristup sustavu eSpis
+Članak 4.
+Osobe ovlaštene za pristup sustavu eSpis su:
+1. administrator središnjeg sustava eSpis,
+2. ovlašteni stručnjak,
+3. administrator sustava eSpis u sudu,
+4. korisnik sustava eSpis,
+5. službena osoba ovlaštena za uvid u podatke sustava eSpis određenog suda,
+6. službena osoba ovlaštena za uvid u podatke sustava eSpis,
+7. vanjski korisnik sustava eSpis.
+2. Administrator središnjeg sustava eSpis
+Članak 5.
+(1) Administrator središnjeg sustava eSpis je osoba zadužena, ovlaštena i odgovorna za ažuriranje šifrarnika, osiguravanje uvjeta za nesmetani rad sustava kao i za tumačenje uputa o načinu rada u sustavu eSpis.
+(2) Administrator središnjeg sustava eSpis ovlašten je unositi u sustav eSpis sve podatke o sudovima, korisnicima i promjenama koje je potrebno unijeti u sustav.
+(3) Administrator središnjeg sustava eSpis dužan je sudjelovati pri izradi uputa o korištenju novih funkcionalnosti, pravovremeno obavještavati korisnike o promjenama u sustavu te objavljivati informacije potrebne za rad u sustavu eSpis na internom korisničkom portalu »espis.pravosudje.hr«.
+3. Ovlašteni stručnjak
+Članak 6.
+(1) Ovlašteni stručnjak je osoba zadužena za razvoj i održavanje sustava eSpis, koju odredi i ovlasti ministar nadležan za poslove pravosuđa.
+(2) Ovlašteni stručnjak, u okviru dodijeljenih ovlasti, brine o razvoju i održavanju sustava eSpis (strojna oprema, programska oprema, baza podataka, komunikacija, edukacija i drugo), a njegovo ovlaštenje određuje djelokrug rada, obveze i odgovornosti.
+(3) Ovlašteni stručnjak dužan je održavati sustav eSpis, analizirati te predlagati modele poslovnih procesa, implementirati ih i izrađivati tehničku dokumentaciju vezanu za razvoj.
+4. Administrator sustava eSpis u sudu
+Članak 7.
+(1) Administrator sustava eSpis u sudu je osoba određena godišnjim rasporedom poslova, zadužena i odgovorna za dodjeljivanje i ukidanje korisničkih imena, lozinki, uloga i ovlaštenja za pristup sustavu na sudu te unos podataka iz godišnjeg rasporeda poslova suda u administratorsku aplikaciju sustava eSpis.
+(2) Administrator sustava eSpis u sudu dužan je:
+1. osigurati za svakoga novog suca i sudskog službenika korisničko ime i lozinku za korištenje aplikacije sustava eSpis i učilice eSpis sustava,
+2. unijeti u sustav godišnji raspored poslova za sljedeću godinu, te svaku izmjenu godišnjeg rasporeda poslova odmah po njegovom primitku, a najkasnije u roku jednog radnog dana,
+3. pridružiti naselja pripadnosti predmeta zonama rješavanja pojedine vrste predmeta,
+3. obavijestiti predsjednika suda o potrebi poduzimanja mjera vezanih uz gašenje referade ili preraspodjelu spisa u referadi,
+4. ažurno postupati po nalogu predsjednika suda posebno prilikom razrješenja ovlasti određene osobe za rad u sustavu eSpis,
+5. ažurno unijeti u sustav eSpis postotak oslobođenja i osnovu oslobođenja iz godišnjeg rasporeda poslova te svaku opravdanu odsutnost suca,
+6. obavljati i ostale poslove u sustavu eSpis po nalogu

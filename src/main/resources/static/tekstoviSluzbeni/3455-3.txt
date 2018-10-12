@@ -1,0 +1,20 @@
+ jedinstveno mjesto na kojem je proizvođač dostupan. Ti podaci moraju biti na latiničnom pismu.
+(7) Proizvođač je obvezan osigurati da su uređaju priložene jasne i razumljive upute i drugi podaci iz članka 18. ovoga Pravilnika na hrvatskom jeziku i latiničnom pismu.
+(8) Proizvođač koji smatra ili ima razloga vjerovati da uređaj koji je stavio na tržište nije u skladu s ovim Pravilnikom, bez odgode je obvezan poduzeti potrebne popravne radnje kako bi se taj uređaj uskladio, ili prema potrebi povukao s tržišta, ili osigurao povrat od krajnjih korisnika. Ako uređaj predstavlja rizik, proizvođač je obvezan o tome bez odgode obavijestiti nadležna nacionalna tijela, uz navođenje pojedinosti, osobito o nesukladnosti i o svim poduzetim popravnim radnjama.
+(9) Na opravdani zahtjev nadležnog nacionalnog tijela proizvođač je obvezan dostaviti tom tijelu sve podatke i dokumente nužne za dokazivanje sukladnosti uređaja s ovim Pravilnikom, u papirnatom ili elektroničkom obliku, na jeziku lako razumljivom tom tijelu. Proizvođač je obvezan surađivati s tim tijelom, na njegov zahtjev, u svakoj radnji poduzetoj u svrhu uklanjanja rizika koje predstavlja uređaj što ga je proizvođač stavio na tržište.
+Ovlašteni zastupnici
+Članak 8.
+(1) Proizvođač može na temelju pisanog ovlaštenja imenovati ovlaštenog zastupnika. Obveza iz članka 7. stavka 1. ovoga Pravilnika i obveza izrade tehničke dokumentacije iz članka 7. stavka 2. ovoga Pravilnika nisu dio zadaća ovlaštenog zastupnika.
+(2) Ovlašteni zastupnik obavlja zadaće utvrđene u ovlaštenju koje mu je dao proizvođač, a osobito sljedeće:
+a) mora čuvati EU izjavu o sukladnosti i tehničku dokumentaciju u razdoblju od deset godina od dana stavljanja uređaja na tržište, te je dati na uvid nadležnom inspekcijskom tijelu u skladu s njegovim zahtjevom
+b) na temelju opravdanog zahtjeva nadležnog nacionalnog tijela, tom tijelu bez odgode mora dostaviti sve podatke i dokumentaciju nužnu za dokazivanje sukladnosti uređaja
+c) na zahtjev nadležnih nacionalnih tijela mora s njima surađivati u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavljaju uređaji obuhvaćeni ovlaštenjem ovlaštenog zastupnika.
+Obveze uvoznika
+Članak 9.
+(1) Uvoznik je obvezan stavljati na tržište samo sukladne uređaje.
+(2) Prije stavljanja uređaja na tržište uvoznik je obvezan utvrditi da je proizvođač proveo odgovarajući postupak ocjenjivanja sukladnosti iz članka 14. ovoga Pravilnika i izradio tehničku dokumentaciju, da uređaj nosi oznaku CE, da je uz uređaj priložena propisana dokumentacija te da je proizvođač ispunio zahtjeve iz članka 7. stavaka 5. i 6. ovoga Pravilnika.
+(3) Ako uvoznik smatra ili ima razloga vjerovati da uređaj nije u skladu s bitnim zahtjevima iz članka 6. ovoga Pravilnika, uređaj ne smije staviti na tržište sve dok se ne provede njegovo usklađivanje. Ako uređaj predstavlja rizik, uvoznik o tome obavješćuje proizvođača i nadležno inspekcijsko tijelo.
+(4) Uvoznik je obvezan na uređaju navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i poštansku adresu na kojoj je dostupan ili, ako to nije moguće, te podatke navodi na pakiranju ili u popratnom dokumentu. Ti podaci moraju biti na latiničnom pismu.
+(5) Uvoznik je obvezan osigurati da su uređaju priložene upute i podaci iz članka 18. ovoga Pravilnika na hrvatskom jeziku i latiničnom pismu.
+(6) Uvoznik je obvezan osigurati, dok je uređaj pod njegovom odgovornošću, da uvjeti skladištenja ili prijevoza uređaja ne ugrožavaju njegovu sukladnost s bitnim zahtjevima iz članka 6. ovoga Pravilnika.
+(7) Uvoznik koji smatra ili ima razloga vjerovati da uređaj koji je stavio na tržište nije u skladu s ovim Pravilnikom, obvezan je bez odgode poduzeti potrebne popravne radnje kako bi taj uređaj uskladio, ili prema potrebi povukao s tržišta, ili osigurao povrat od krajnjih korisnika. Ako uređaj predstavlja rizik, uvoznik je obvezan o tome bez odgode obavijestiti nadležna nacionalna tijela, uz navođenje pojedinosti, osobito o nesukladnosti i o svim 

@@ -1,0 +1,21 @@
+ podsektor NF (S.123) sastoji se od svih financijskih društava i kvazi-društava, osim onih razvrstanih u podsektorima središnje banke i kreditnih ustanova, koje prvenstveno obavljaju financijsko posredovanje. Njihovo poslovanje sastoji se od izdavanja udjela ili jedinica u investicijskim fondovima kao sličnih nadomjestaka za depozite od institucionalnih jedinica te, za vlastiti račun, ulaganje prvenstveno u udjele/jedinice novčanih fondova, kratkoročne dužničke instrumente i/ili depozite.
+2.80. Sljedeći financijski posrednici su razvrstani u podsektor S.123: investicijski fondovi uključujući investicijske zaklade, uzajamne investicijske fondove i druge oblike kolektivnog ulaganja čiji su udjeli ili jedinice slični nadomjesci za depozite.
+2.81. Podsektor S.123 ne obuhvaća:
+(a) sjedišta društava koja nadziru i upravljaju grupacijom koja se sastoji uglavnom od novčanih fondova, ali koji sami nisu novčani fondovi. Ona se razvrstavaju u podsektor S.126;
+(b) neprofitne ustanove koje su priznate kao neovisni pravni subjekti i koje pružaju usluge novčanim fondovima, ali ne obavljaju poslove financijskog posredovanja. One se razvrstavaju u podsektor S.126.
+Nenovčani investicijski fondovi (S.124)
+2.82. Definicija: podsektor nenovčanih investicijskih fondova (S.124) sastoji se od svih oblika kolektivnog ulaganja, osim onih razvrstanih u podsektor NF, a koji prvenstveno obavljaju financijsko posredovanje. Njihovo poslovanje sastoji se od izdavanja udjela ili jedinica u investicijskim fondovima koji nisu slični nadomjesci za depozite i, za vlastiti račun, ulaganja prvenstveno u financijsku aktivu osim kratkoročne financijske aktive i nefinancijske aktive (obično nekretnine).
+2.83. Nenovčani investicijski fondovi obuhvaćaju investicijske zaklade, uzajamne investicijske fondove i druge oblike kolektivnog ulaganja čiji udjeli ili jedinice u investicijskim fondovima nisu slični nadomjesci za depozite.
+2.84. U podsektor S.124 se razvrstavaju sljedeći financijski posrednici:
+(a) otvoreni investicijski fondovi čiji se udjeli ili jedinice u investicijskim fondovima, na zahtjev vlasnika, ponovno otkupljuju ili isplaćuju izravno ili neizravno iz aktive poduzeća;
+(b) zatvoreni investicijski fondovi s fiksnim temeljnim kapitalom, gdje investitori koji ulaze ili napuštaju fond moraju kupiti ili prodati postojeće udjele;
+(c) investicijski fondovi za nekretnine;
+(d) investicijski fondovi koji ulažu u druge fondove (»fondovi fondova«);
+(e) hedge fondovi koji obuhvaćaju različite oblike kolektivnog ulaganja, uključujući visoka minimalna ulaganja, jasnu regulaciju i različite strategije ulaganja.
+2.85. Podsektor S.124 ne obuhvaća:
+(a) mirovinske fondove koji su dio podsektora mirovinskih fondova;
+(b) državne fondove posebne namjene, poznate kao fondovi državnog bogatstva. Državni fond posebne namjene razvrstava se u društva koja se bave prijenosom financijskih sredstava ako je financijsko društvo. Klasifikacija »državnog fonda posebne namjene« kao dijela sektora ukupne države ili dijela sektora financijskih društava određuje se prema kriterijima za jedinice posebne namjene ukupne države određenim u stavku 2.27.;
+(c) sjedišta društava koja nadziru i upravljaju grupacijom sastavljenom uglavnom od nenovčanih investicijskih fondova, ali koji sami nisu investicijski fondovi. Oni se razvrstavaju u podsektor S.126;
+(d) neprofitne ustanove koje su priznate kao neovisni pravni subjekti i koje pružaju usluge nenovčanim investicijskim fondovima, ali ne obavljaju poslove financijskog posredovanja. One se razvrstavaju u podsektor S.126.
+Ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova (S.125)
+2.86. Definicija: podsektor ostalih financijskih posrednika osim osiguravajućih društava i mirovinskih fondova (S.125) sastoji se od svih financijskih društava i kvazi-društva koji prvenstveno obavljaju financijsko posredovanje preuzimanjem obveza u oblicima koji nisu gotovina, depoziti ili udjeli u investicijskim fondovima ili u vezi sa sustavima

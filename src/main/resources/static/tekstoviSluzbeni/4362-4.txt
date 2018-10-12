@@ -1,0 +1,52 @@
+ glasi:
+»(6) Dnevnik vježbenika iz članka 40. ovog Pravilnika treba biti pozitivno ocijenjen od strane ispitnog povjerenstva prije pristupanja ispitu.«
+(7) U slučaju da dnevnik vježbenika nije pozitivno ocijenjen ili nije dostavljen ispitnom povjerenstvu radi gubitka potrebno je prije pristupanja ispitu za stjecanje odnosne svjedodžbe o osposobljenosti ostvariti dodatno najmanje 3 mjeseca plovidbene službe kao vježbenik palube na brodovima od 500 BT ili većima u međunarodnoj plovidbi odnosno kao vježbenik stroja u strojarnici broda sa strojem porivne snage od 750 kW ili jačim u međunarodnoj plovidbi odnosno kao vježbenik elektrotehnike, brodski električar ili pomoćni električar.
+(8) Za vrijeme plovidbene službe iz stavka 7 ovoga članka, vježbenik je dužan voditi vježbenički dnevnik.«
+(2) Dosadašnji stavak 6. postaje stavak 9.
+Članak 13.
+(1) U članku 114. stavak 2. točka a) iza riječi »broda« dodaju se riječi: »odnosno jahte«.
+(2) U stavku 2. točka b) iza riječi: »broda« dodaju se riječi: »odnosno jahte«, a iza riječi: »svjedodžbe« dodaje se riječ: »ili«.
+(3) Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Pomorac koji posjeduje svjedodžbu o osposobljenosti iz članka 18., 19., 20., 21., 32., 33., 34. ili 35. ovog Pravilnika i posjeduje potvrdnicu o osposobljenosti iz članka 77. Pravilnika može obnoviti svjedodžbe o osposobljenosti iz članka 17. odnosno 31. ovog Pravilnika i bez obveze posjedovanja potvrdnice o osposobljenosti iz članka 76. Pravilnika, uz obvezu ispunjenja ostalih uvjeta za obnovu odnosne svjedodžbe o osposobljenosti.«
+Članak 14.
+(1) U članku 115. stavak 1. iza riječi: »brodu« dodaju se riječi: »odnosno jahti«.
+(2) U stavku 3. iza riječi: »broda« dodaju se riječi: »odnosno jahte«.
+(3) Stavci 4. i 5. se brišu.
+Članak 15.
+(1) U članku 116. stavak 2. alineja 1. iza riječi: »brodu« dodaju se riječi: »odnosno jahti«.
+(2) Stavak 5. se briše.
+Članak 16.
+U članku 132. stavak 2. mijenja se i glasi:
+»(2) Svjedodžbe iz stavka 1. točke 1., 2., 3., 4. i 5. izdat će se pomorcu koji ostvari potvrđenu plovidbenu službu tijekom koje je obavljao dužnosti što odgovaraju svjedodžbi koju posjeduje u pogledu vrste broda i to najmanje u razdoblju od ukupno tri mjeseca tijekom proteklih pet godina odnosno na temelju ponovnog uspješno završenog programa izobrazbe sukladno Prilogu D Pravilnika, dok svjedodžba iz stavka 1. točke 6. izdat će se pomorcu koji ostvari potvrđenu plovidbenu službu tijekom koje je obavljao dužnosti što odgovaraju svjedodžbi koju posjeduje u pogledu vrste broda i to najmanje u razdoblju od ukupno dvanaest mjeseci tijekom proteklih pet godina.«
+Članak 17.
+U Prilogu C Pravilnika, iza »Priloga C50« dodaje se novi prilozi »C51A« i »C51B« koji glase:
+»C51A – Rad na brodovima na koje se primjenjuje IGF Pravilnik – radna razina
+– (usmeno i praktično)
+sukladno programu iz Priloga D
+C51B – Rad na brodovima na koje se primjenjuje IGF Pravilnik – upravljačka razina
+– (usmeno i praktično)
+sukladno programu iz Priloga D«.
+Članak 18.
+U Prilogu D Pravilnika, iza »Priloga D49B« dodaju se novi prilozi »D50A« i »D50B« koji glase:
+TABLICE
+Članak 19.
+U Prilogu G2B Pravilnika, iza točke »D49B – Visoki napon-upravljačka razina« dodaju se nove točke »D50A«i »D50B« koje glase:
+»D50A – Rad na brodovima na koje se primjenjuje IGF Pravilnik – radna razina
+1. Komplet osobne sigurnosne opreme
+2. Zaštitna odjeća
+3. Uređaj za reanimaciju
+4. Aparat za disanje
+5. Prijenosni aparati za gašenje požara
+6. Uređaj za mjerenje količine kisika
+7. Ručni uređaj za mjerenje sadržaja otrovnog plina (pomoću cjevčica)
+8. Pokazatelj zapaljivog plina
+9. Cjevčice osjetljive na različite plinove
+10. Prijenosni detektor plina
+11. Komplet laboratorijske opreme za pokazne vježbe i eksperimente
+12. MARPOL Konvencija, kako je izmijenjena i dopunjena
+13. Referentni videomaterijali
+14. Eksplozimetar
+D50B – Rad na brodovima na koje se primjenjuje IGF Pravilnik – upravljačka razina
+1. Komplet osobne sigurnosne opreme
+2. Komplet za reanimaciju kisikom
+3. Cjevčice 

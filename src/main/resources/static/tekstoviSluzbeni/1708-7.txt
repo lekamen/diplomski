@@ -1,0 +1,40 @@
+metode – ova metoda prikazuje bruto novčane primitke i bruto novčane izdatke novca zasebno za svaku aktivnost (poslovne, investicijske, financijske), ili
+• indirektne metode – ova metoda novčani tok od poslovnih aktivnosti prikazuje kao usklađenje dobiti ili gubitka za nenovčane rashode i nenovčane prihode, te promjene u kratkotrajnoj imovini (osim novca i novčanih ekvivalenata) i kratkoročnim obvezama. Novčani tok od investicijskih i financijskih aktivnosti prikazuje primitke i izdatke po ovim aktivnostima (i identičan je novčanom toku koji se utvrđuje po direktnoj metodi).
+1.36. Poduzetnik sastavlja Izvještaj o promjenama kapitala na način da prikaže promjene svih komponenata kapitala između dva datuma bilance.
+1.37. Izvještaj o promjenama kapitala sadržava promjene:
+• uloženog kapitala
+• zarađenog kapitala
+• izravne promjene u kapitalu (mimo računa dobiti i gubitka).
+1.38. Pozicije u Izvještaju o promjenama kapitala, a odnose se na uloženi i zarađeni kapital sadržane su u pasivi bilance u pozicijama kapitala.
+1.39. Pozicije Izvještaja o promjenama kapitala koje izravno utječu na promjenu vrijednosti kapitala su:
+• revalorizacija dugotrajne nematerijalne imovine
+• revalorizacija dugotrajne materijalne imovine
+• rezerve fer vrijednosti financijske imovine raspoložive za prodaju
+• tekući i odgođeni porezi (dio)
+• učinkovita zaštita novčanog toka
+• promjene računovodstvenih politika
+• ispravak značajnih pogrešaka prethodnog razdoblja
+• tečajna razlika s naslova neto ulaganja u inozemno poslovanje
+• ostale promjene kapitala.
+1.40. Pozicije Izvještaja o promjenama kapitala koje se odnose na izravne promjene vrijednosti kapitala sukladne su HSFI 12 – Kapital.
+1.41. Strukturu i sadržaj financijskih izvještaja propisuje ministar financija na prijedlog Odbora za standarde financijskog izvještavanja i objavljuju se u »Narodnim novinama«.
+OBJAVLJIVANJE
+1.42. Poduzetnik treba objaviti u bilješkama:
+1. naziv, adresu poduzetnika, pravni oblik poduzetnika, državu osnivanja (ako nije objavljeno drugdje),
+2. opis vrste poslovanja poduzetnika i glavne aktivnosti,
+3. informaciju o osnovi za sastavljanje financijskih izvještaja,
+4. sažetak značajnih računovodstvenih politika,
+5. informacije prema zahtjevima Hrvatskih standarda financijskog izvještavanja koje nisu predočene u bilanci, računu dobiti i gubitka, izvještaju o promjeni kapitala i izvještaju o novčanom toku,
+6. broj i nominalnu vrijednost, ili ako ona nije dostupna knjigovodstvenu vrijednost dionica,
+7. ako postoji više klasa dionica, broj i nominalna vrijednost ili ako ona nije dostupna, knjigovodstvenu vrijednost dionica svake klase dionica,
+8. postojanje svih potvrda o sudjelujućim interesima, konvertibilnim zadužnicama ili sličnim vrijednosnim papirima, zajedno s podacima o njihovom broju i pravima koja se po njima priznaju,
+9. iznos predujmova i kredita odobrenih članovima administrativnih, upravnih i nadzornih tijela poduzetnika, zajedno s podacima o kamatama, stopama, glavnim uvjetima i otplaćenim iznosima, te obvezama preuzetim u njihovo ime po osnovi bilo kakvih garancija prikazan u ukupnom iznosu za svaku kategoriju,
+10. iznos dividendi,
+11. osnovu mjerenja i procjene stavaka financijskih izvještaja,
+12. iznos kumulativnih povlaštenih dividendi koji nije priznat,
+13. iznos obveza poduzetnika koji dospijevaju na plaćanje nakon više od pet godina, kao i ukupna zaduženja poduzetnika pokrivena vrijednosnim jamstvima poduzetnika zajedno s vrstom i oblikom jamstva. Ova informacija se obvezno objavljuje odvojeno za svaku stavku obveza,
+14. pregled nedovršenih sudskih sporova,
+15. za stavke uključene u financijski izvještaj koje jesu ili su izvorno bile izražene u stranoj valuti poduzetnik objavljuje temelj konverzije u izvještajnoj valuti,
+16. iznos naknade članovima administrativnih upravnih i nadzornih tijela,
+17. informacije o ključnim pretpostavkama u vezi s budućnošću poslovanja te procjenu neizvjesnosti na datum bilance koje stvaraju veliki rizik,
+18. sve ono što je

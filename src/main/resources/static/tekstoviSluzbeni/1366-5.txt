@@ -1,0 +1,39 @@
+ sadržavati i specijalizacije rješavatelja po vrstama sudskih predmeta.
+(3) Godišnji raspored poslova i svaka izmjena godišnjeg rasporeda poslova unosi se u sustav JCMS i u za to osnovan predmet sudske uprave.
+(4) U slučaju opravdane spriječenosti rješavatelja koji sudjeluje u radu vijeća predsjednik suda će pisanom obrazloženom naredbom odrediti drugog rješavatelja koji će toga dana sudjelovati u radu vijeća te će se taj podatak odmah evidentirati u sustavu JCMS u predmet u kojem je odlučivalo vijeće u promijenjenom sastavu.
+(5) Pisana naredba iz stavka 4. ovog članka ulaže se kronološkim redom u za to posebno osnovani predmet sudske uprave i u papirnati spis na koji se naredba odnosi.
+Članak 25.
+(1) Predsjednik suda dostavlja administratoru sustava JCMS u sudu pravomoćan godišnji raspored poslova najkasnije do 24. prosinca tekuće godine za iduću godinu.
+(2) Administrator sustava JCMS u sudu unosi u sustav JCMS podatke iz godišnjeg rasporeda poslova za iduću godinu u algoritam za dodjelu predmeta sustava JCMS najkasnije do 31. prosinca tekuće godine. U administracijski modul sustava JCMS upisuju se podaci o vrstama predmeta koje rješava pojedini rješavatelj (specijalizacija prema šifrarniku), postotak oslobođenja pojedinog rješavatelja te osnova oslobođenja.
+Članak 26.
+Izmjenu godišnjeg rasporeda poslova predsjednik suda dužan je odmah nakon pravomoćnosti dostaviti administratoru sustava JCMS u sudu, koji će tu izmjenu bez odgode unijeti u sustav JCMS.
+VI. OSNIVANJE SPISA NA PREKRŠAJNIM SUDOVIMA
+Opće odredbe
+Članak 27.
+(1) Svaki podnesak može se predati u sudskoj pisarnici u sjedištu suda i u posebnim pisarnicama stalnih službi.
+(2) Spis se u sustavu JCMS osniva unosom podataka o:
+1. strankama,
+2. zastupnicima stranaka,
+3. vrsti optužnog akta,
+4. broju optužnog akta,
+5. zakonskoj oznaci prekršaja,
+6. naselju predmeta za predmete osnovane na prekršajnom sudu,
+7. datumu počinjenja prekršaja,
+8. datumu osnivanja predmeta na sudu,
+9. podnescima i drugim prilozima.
+(3) Osoba ovlaštena za upis dužna je odmah, a najkasnije sljedećeg radnog dana upisati u odgovarajući upisnik sustava JCMS podatke iz stavka 2. ovog članka.
+(4) U sustav JCMS podaci o strankama preuzimaju se iz sustava evidencije o osobnom identifikacijskom broju, sustava Sudskog registra ili sustava Obrtnog registra ako su isti istovjetni s podacima navedenim u aktu kojim se pokreće postupak.
+(5) Ako su podaci o strankama, navedeni u aktu kojim se pokreće postupak, različiti od onih koji su upisani u sustav evidencije o osobnom identifikacijskom broju, sustav Sudskog registra ili sustava Obrtnog registra, osoba ovlaštena za upis podataka upisat će podatke o stranci navedene u aktu kojim se pokreće postupak te će u sustav JCMS, na karticu »Osnovni podaci« u polje »Primjedba«, upisati primjedbu da su podaci različiti.
+(6) Ako se podaci o strankama u sustavu JCMS ne unose na način iz stavka 5. ovog članka, osoba koja upisuje podatke u sustav JCMS dužna ih je upisati u skladu s pravilima pravopisa hrvatskoga standardnog jezika.
+(7) Prilikom upisivanja podataka o zastupniku stranke, u sustav JCMS unijet će se i adresa zastupnika.
+Članak 28.
+(1) S podneskom na temelju kojega se osniva spis postupa se na sljedeći način:
+1. pisarnica zaprima podnesak i osniva spis, nakon čega se automatski pokreće algoritam za dodjelu predmeta sustava JCMS,
+2. spis se fizički dostavlja na lokaciju predmeta na kojoj se nalazi rješavatelj kojem je predmet dodijeljen u rad.
+(2) Podnositelju podneska na njegov zahtjev uručit će se na ispisanom obrascu podaci o broju predmeta, rješavatelju i mjestu rješavanja predmeta.
+Članak 29.
+Popis podnesaka i drugih pismena vodi se u sustavu JCMS i po potrebi ulaže u spis u papirnatom obliku.
+Članak 30.
+(1) Oznaka spisa iz sustava JCMS na omot spisa ispisuje se na naslovnoj strani u gornjem desnom i donjem lijevom kutu.
+(2) Ispis omota spisa iz sustava JCMS, pored oznake spisa iz stavka 1. ovog članka, sadržava i jedinstveni crtični kod (bar kod).
+(3) Prilozi 

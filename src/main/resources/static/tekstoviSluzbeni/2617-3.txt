@@ -1,0 +1,26 @@
+ deviznog dijela obvezne pričuve, koje će vrijediti za sva buduća izdvajanja deviznog dijela obvezne pričuve. »Standard Payment Instructions« banka može mijenjati, a pri svakoj će promjeni Hrvatskoj narodnoj banci pismenim putem dostaviti nove »Standard Payment Instructions« najkasnije na dan obračuna obvezne pričuve.
+35. Ugovor o uvjetima deponiranja Hrvatska narodna banka dostavit će bankama koje izdvajaju devizni dio obvezne pričuve za sebe ili za sebe i za račun drugih banaka najkasnije na dan valute namire deviznog dijela obvezne pričuve.
+Održavanje obvezne pričuve
+36. Preostali dio obračunate obvezne pričuve (nakon odbitka dijela određenog za izdvajanje u smislu Odluke) banke su u razdoblju održavanja obvezne održavati prosječnim dnevnim stanjima likvidnih potraživanja.
+37. Tražene podatke o stanjima sredstava koja ulaze u obračun održavanja obvezne pričuve banke izračunavaju na osnovi vlastitih knjigovodstvenih podataka i iskazuju u kunama.
+Održavanje kunskog dijela obvezne pričuve
+38. Kunski dio obvezne pričuve održava se prosječnim dnevnim stanjem na računu za namiru i na računu sredstava za pokriće negativnog salda na obračunskom računu u Nacionalnom klirinškom sustavu.
+Održavanje deviznog dijela obvezne pričuve
+39. Devizni dio obvezne pričuve održava se prosječnim dnevnim stanjem:
+– likvidnih deviznih potraživanja od država članica OECD-a i od kreditnih institucija u zemljama OECD-a čiji najniži rejting prema standardizaciji međunarodnih agencija Standard & Poor's i FitchRatings glasi: AA– odnosno prema agenciji Moody's: Aa3,
+– sredstava na vlastitim deviznim eurskim računima za namiru kod Hrvatske narodne banke i
+– strane gotovine i čekova koji glase na stranu valutu.
+40. Likvidnim deviznim potraživanjima smatraju se devizna potraživanja navedena u Prilogu A ove Upute. Odgovarajući rejting država i kreditnih institucija pojašnjen je u Prilogu B ove Upute.
+41. Sve banke, osim štednih banaka, obvezne su određeni postotak deviznog dijela obvezne pričuve za održavanje, koji je definiran točkom VIII. stavkom 4. Odluke, održavati prosječnim dnevnim stanjem sredstava na vlastitim deviznim eurskim računima za namiru kod Hrvatske narodne banke.
+42. Dnevna stanja likvidnih deviznih potraživanja iskazuju se u kunama primjenom srednjih tečajeva Hrvatske narodne banke koji vrijede za taj dan.
+Knjigovodstvene vrijednosti likvidnih deviznih potraživanja mogu odstupati od vrijednosti koje ulaze u obračun održavanja deviznog dijela obvezne pričuve samo s osnove razlike između valutnih tečajeva banke obveznika održavanja deviznog dijela obvezne pričuve i srednjih tečajeva Hrvatske narodne banke.
+43. Banka ispunjava obrazac DOP 3/1 samo ako svoju obvezu održavanja deviznog dijela obvezne pričuve izvršava preko neke druge banke.
+Banka iz prethodnog stavka dužna je na obrascu DOP 3/1 navesti:
+1. nazive i sjedišta banaka preko kojih izvršava obvezu održavanja deviznog dijela obvezne pričuve i
+2. prosječan iznos deviznog dijela obvezne pričuve koji preko pojedine banke održava u likvidnim deviznim potraživanjima u razdoblju održavanja za koje se šalje obračun.
+Banka koja ispunjava obvezu održavanja deviznog dijela obvezne pričuve prema Odluci preko druge banke, dužna je toj banci dostaviti pisani nalog da se željeni iznos deponira kod inozemne banke s odgovarajućim rejtingom u skladu s Odlukom. Banka koja održava devizni dio obvezne pričuve za račun druge banke dužna je u cijelosti provesti nalog banke za koju održava devizni dio obvezne pričuve.
+Banka koja obveze održavanja i izdvajanja deviznog dijela obvezne pričuve izvršava preko drugih banaka, ne ispunjava obrasce DOP 3/2 i DOP 3/3.
+44. Osim vlastite obveze održavanja deviznog dijela obvezne pričuve banka može održavati devizni dio obvezne pričuve i za račun drugih banaka.
+Banka iz prethodnog stavka dužna je na obrascu DOP 3/2 navesti:
+1. nazive i sjedišta banaka za koje izvršava obvezu održavanja deviznog dijela obvezne pričuve i
+2. prosječne iznose deviznog dijela obvezne pričuve 

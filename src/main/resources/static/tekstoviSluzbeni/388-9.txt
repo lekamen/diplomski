@@ -1,0 +1,45 @@
+ učinkovitosti ili projekte energetske obnove.
+3.1. Planiranje mjera povećanja energetske učinkovitosti
+Osnova za planiranje mjera povećanja energetske učinkovitosti je praćenje potrošnje kojim se definiraju kritična mjesta i potencijali poboljšanja.
+Da bi se definiralo početno stanje, a naknadno bila moguća valorizacija učinak mjera, nužno je definirati početne, odnosno, referentne uvjete.
+Referentna potrošnja energije i/ili vode je količina potrošene energije i/ili vode pri referentnim uvjetima prije provedbe mjere za poboljšanje energetske učinkovitosti, koja se koristi kao osnova za usporedbu u određivanju budućih ušteda energije i/ili vode.
+Administrator sustava, Energetski administrator i provoditelj energetskog pregleda s odgovarajućim pristupom podacima u ISGE-u, mogu na osnovi podataka u ISGE-u, predefiniranih filtara i izvještaja dizajniranog u tu svrhu definirati referentnu potrošnju energenata i vode.
+Načela odabira referentne potrošnje za pojedini ETC:
+• Referentna potrošnja se određuje za svako mjerno mjesto zasebno.
+• Ako u potrošnji energenata ili vode po mjernom mjestu u posljednje tri godine nije bilo značajnijih odstupanja referentna potrošnja je prosjek potrošnje u posljednje tri godine.
+• Ako je u potrošnji energenata ili vode po mjernom mjestu u posljednje tri godine bilo značajnijih odstupanja kao referentna potrošnja se može uzeti potrošnja u jednoj godini ili prosječna potrošnja više godina u posljednjih 5 godina korištenja zgrade.
+• Referentni trošak je umnožak referentne potrošnje s jediničnim cijenama s posljednjeg računa za energent i vodu za svako mjerno mjesto posebno.
+Načelo definiranja referentne potrošnje za grupu objekata:
+• Na temelju podataka s računa za energente i vodu, referentna potrošnja određuje se kao prosjek potrošnje posljednje tri (3) godine.
+U svrhu ocjene energetskog svojstva ETC-a važno je definirati baznu i ciljanu potrošnju kao:
+• Potrošnju odabranu kao početno stanje; opisuje zatečenu razinu energetske učinkovitosti, odnosno stanje bez opterećenja – bazna potrošnja.
+• Potrošnju odabranu kao realan i dostižan cilj; opisuje što se želi postići uspostavom SGE-a – ciljana potrošnja.
+3.2. Provedba mjera povećanja energetske učinkovitosti
+Na temelju referentne potrošnje i planova povećanja energetske učinkovitosti na ETC –ima definiraju se mjere koje se dijele u dvije razine:
+• Mjere poboljšanja energetskog svojstva zgrade
+• Mjere sustavnog gospodarenja energijom (SGE mjere)
+3.2.1. Mjere poboljšanja energetskog svojstva zgrade
+• Poboljšanje toplinskih karakteristika vanjske ovojnice,
+• Poboljšanje energetskih svojstava sustava grijanja prostora,
+• Poboljšanje energetskih svojstava sustava hlađenja prostora,
+• Poboljšanje energetskih svojstava sustava ventilacije i klimatizacije,
+• Poboljšanje energetskih svojstava sustava pripreme potrošne tople vode,
+• Poboljšanje energetskih svojstava sustava potrošnje električne energije –rasvjeta, uređaji i ostala trošila,
+• Poboljšanje energetskih svojstava specifičnih podsustava,
+• analiza mogućnosti zamjene energenta ili korištenja obnovljivih izvora energije za proizvodnju toplinske i/ili električne energije,
+• Poboljšanje sustava regulacije i upravljanja,
+• Poboljšanje sustava opskrbe vodom i potrošnje
+3.2.2. Mjere sustavnog gospodarenja energijom (SGE mjere)
+• Edukacijske i promotivne aktivnosti
+• Uspostava sustava praćenja potrošnje energije i vode
+o Mjesečno praćenje potrošnje
+o Tjedno praćenje potrošnje
+o Satno praćenje potrošnje
+• Uspostava sustava upravljanja potrošnjom energije
+o Ugovaranje tarifnih modela otkupa energenata i vode
+o Revizija zakupljenih snaga uređaja za otkup energenata i vode
+o Dinamika uključivanja trošila
+• Sukcesivna zamjena trošila energenata i vode učinkovitijima u okviru redovitog održavanja
+3.3. Analiza mjera povećanja energetske učinkovitosti
+Ocjena učinka mjera povećanja energetske učinkovitosti provodi se u skladu s Pravilnikom o praćenju, mjerenju i verifikaciji ušteda (NN 77/2012).
+Uštede mogu biti

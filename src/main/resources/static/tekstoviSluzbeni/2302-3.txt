@@ -1,0 +1,36 @@
+Pravila, osim elemenata iz članka 21. ovih Pravila, uređuje se:
+– način dostave podataka radi vođenja zakonom utvrđenih evidencija,
+– način dostave i razmjene ostalih podataka,
+– način međusobnog izvještavanja,
+– trajanje te raskid ugovora i
+– ostali međusobni odnosi.
+Članak 23.
+Tržišni sudionik koji namjerava raskinuti ugovor iz članka 19. ovih Pravila obvezan je Operatoru tržišta podnijeti zahtjev za raskid ugovora o sudjelovanju na tržištu električne energije.
+Članak 24.
+(1) Operator tržišta obvezan je u najkraćem roku obavijestiti Agenciju, operatora prijenosnog sustava, operatora distribucijskog sustava i burze o tržišnom sudioniku koji je stekao pravo za sudjelovanje na tržištu električne energije sukladno odredbama članka 19. ovih Pravila.
+(2) Operator tržišta obvezan je u najkraćem roku obavijestiti Agenciju, operatora prijenosnog sustava, operatora distribucijskog sustava i burze elektroničkom poštom, a ostale tržišne sudionika putem objave na internetskim stranicama Operatora tržišta, u slučaju da tržišni sudionik izgubi pravo sudjelovanja na tržištu električne energije.
+Članak 25.
+(1) Opskrbljivač koji izlazi s tržišta električne energije planirano, dužan je o namjeri izlaska s tržišta obavijestiti pisanim putem Operatora tržišta, operatora prijenosnog sustava, operatora distribucijskog sustava, Agenciju i ostale tržišne sudionike s kojima ima sklopljene ugovore o kupoprodaji te sve krajnje kupce s kojima ima sklopljen ugovor o opskrbi krajnjeg kupca, u roku od najmanje 60 dana prije planiranog izlaska.
+(2) Operator tržišta obvezan je bez odgode nakon primitka pisane obavijesti iz stavka 1. ovoga članka na svojim internetskim stranicama objaviti takvu namjeru.
+(3) Opskrbljivač je obvezan prije izlaska s tržišta raskinuti sve ugovorne odnose s Operatorom tržišta, operatorom prijenosnog sustava, operatorom distribucijskog sustava i s ostalim tržišnim sudionicima s kojima ima sklopljene ugovore.
+Članak 26.
+(1) Danom raskida ugovora između Operatora tržišta i tržišnog sudionika ili ugovora između operatora prijenosnog sustava i tržišnog sudionika tržišni sudionik gubi pravo sudjelovanja na tržištu električne energije.
+(2) Operator tržišta dužan je bez odgode na svojim internetskim stranicama objaviti informaciju o raskidu ugovornih odnosa s tržišnim sudionikom.
+(3) Operator tržišta dužan je bez odgode elektroničkom poštom obavijestiti opskrbljivača u okviru univerzalne usluge i zajamčenog opskrbljivača o raskidu ugovornih odnosa s problematičnim opskrbljivačem.
+IV. MODEL BILANČNIH GRUPA
+Članak 27.
+Na tržištu električne energije postoje sljedeće bilančne grupe:
+– EKO bilančna grupa,
+– tržišne bilančne grupe,
+– bilančna grupa operatora prijenosnog sustava,
+– bilančna grupa operatora distribucijskog sustava i
+– bilančna grupa burze električne energije.
+Članak 28.
+(1) Operator tržišta vodi Registar bilančnih grupa koji sadrži:
+– naziv i EIC oznaku voditelja bilančne grupe i
+– popis svih članova bilančne grupe s nazivom, EIC oznakom i datumom učlanjenja.
+(2) U svakom obračunskom razdoblju Operator tržišta objavljuje Registar bilančnih grupa na svojim internetskim stranicama.
+Eko bilančna grupa
+Članak 29.
+(1) Voditelj EKO bilančne grupe je Operator tržišta.
+(2) Operator tržišta zadužen je za otkupljivanje električne energije od povlaštenih proizvođača u sustavu poticanja koji obavljaju djelatnost proizvodnje električne energije, a koji imaju pravo na poticajnu cijenu sukladno sklopljenim ugovorima o otkupu električne energije temeljem Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine», br. 33/07), Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine», br. 63/12, 121/12 i 144/12) i Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine», br. 133/13, 151/13, 20/14 i 107/14) te pravo na zajamčenu otkupnu cijenu temeljem ugovora o otkupu

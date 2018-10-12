@@ -1,0 +1,38 @@
+49 30.05.2016 Pravilnik o radijskoj opremi
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+1322
+Na temelju članka 4. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, br. 80/13. i 14/14.) ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O RADIJSKOJ OPREMI
+I. OPĆE ODREDBE
+Sadržaj Pravilnika
+Članak 1.
+(1) Ovim se Pravilnikom propisuju uvjeti kojima mora udovoljavati radijska oprema koja se stavlja na tržište, stavlja na raspolaganje na tržištu i/ili u pogon u Republici Hrvatskoj, način i postupci ocjenjivanja sukladnosti radijske opreme, način i postupak ovlašćivanja tijela za ocjenjivanje sukladnosti radijske opreme, oznake i način označivanja radijske opreme te nadzor nad mjerodavnim tržištem.
+(2) Sastavni dio ovoga Pravilnika su:
+– Dodatak 1. Modul A: Unutarnja kontrola proizvodnje (u daljnjem tekstu: Dodatak 1.)
+– Dodatak 2. Moduli B i C za ocjenjivanje sukladnosti: EU ispitivanje tipa i sukladnost s tipom na temelju unutarnje kontrole proizvodnje (u daljnjem tekstu: Dodatak 2.)
+– Dodatak 3. Modul H: Potpuno osiguranje kakvoće (u daljnjem tekstu: Dodatak 3.)
+– Dodatak 4. Tehnička dokumentacija (u daljnjem tekstu: Dodatak 4.)
+– Dodatak 5. EU izjava o sukladnosti (u daljnjem tekstu: Dodatak 5.) i
+– Dodatak 6. Pojednostavljena EU izjava o sukladnosti (u daljnjem tekstu: Dodatak 6.).
+Usklađenost s propisom Europske unije
+Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva 2014/53/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o usklađivanju zakonodavstava država članica o stavljanju na raspolaganje radijske opreme na tržištu i stavljanju izvan snage Direktive 1999/5/EZ (SL L 153/62, 22. 5. 2014.).
+Područje primjene
+Članak 3.
+(1) Ovaj se Pravilnik primjenjuje na radijsku opremu.
+(2) Odredbe ovoga Pravilnika ne primjenjuju se na:
+a) radijsku opremu koju upotrebljavaju radioamateri u smislu Radijskih propisa donesenih u okviru Statuta i Konvencije Međunarodne telekomunikacijske unije (ITU), osim radioamaterske opreme koja je stavljena na raspolaganje na tržištu
+b) pomorsku opremu, koja udovoljava posebnim uvjetima utvrđenima posebnim propisom kojim se uređuje pomorska oprema i pravilima za statutarnu certifikaciju pomorskih brodova, kojima su preuzete odredbe Direktive 96/98/EZ Vijeća od 20. prosinca 1996. o pomorskoj opremi
+c) opremu na koju se primjenjuje propis o provedbi Uredbe (EZ) br. 216/2008 Europskog parlamenta i Vijeća o zajedničkim pravilima u području civilnog zrakoplovstva i osnivanju Europske agencije za sigurnost zračnog prometa i stavljanju izvan snage Direktive Vijeća 91/670/EEZ, Uredbe (EZ) br. 1592/2002 i Direktive 2004/36/EZ
+d) pribor za ocjenjivanje izrađen po narudžbi, koji služi samo za uporabu stručnjacima isključivo u objektima za istraživanje i razvoj, i u te svrhe
+e) radijsku opremu koja se upotrebljava isključivo za potrebe Oružanih snaga Republike Hrvatske, policije i sigurnosno-obavještajnih agencija.
+(3) U smislu stavka 2. točke a) ovoga članka radijski pribor, koji sastavljaju i kojim se služe radioamateri, radijska oprema koju su preinačili i kojom se služe radioamateri, te oprema koju izrađuju radioamateri u pokusne i znanstvene svrhe, a namijenjena je amaterskoj službi, ne smatraju se radijskom opremom stavljenom na raspolaganje na tržištu.
+Značenje pojmova
+Članak 4.
+U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. Agencija: Hrvatska regulatorna agencija za mrežne djelatnosti
+2. akreditacija: akreditacija kako je utvrđena člankom 2. točkom 10. Uredbe (EZ) br. 765/2008
+3. distributer: svaka fizička ili pravna osoba u opskrbnom lancu, osim proizvođača ili uvoznika, koja stavlja radijsku opremu na raspolaganje na tržištu
+4. elektromagnetska smetnja: svaka elektromagnetska pojava koja može narušiti radne značajke opreme, a obuhvaća elektromagnetski šum, neželjeni signal ili promjenu u mediju širenja elektromagnetskih valova
+5. gospodarski subjekt: proizvođač, ovlašteni zastupnik,

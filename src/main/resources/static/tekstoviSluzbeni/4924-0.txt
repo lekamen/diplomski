@@ -1,0 +1,37 @@
+107 21.11.2016 Pravilnik o načinu i uvjetima za sigurno odvijanje i upravljanje željezničkim prometom
+MINISTARSTVO MORA, PROMETA I INFRASTRUKTURE
+2273
+Na temelju članka 76. stavka 7. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15. i 110/15.), ministar mora, prometa i infrastrukture donosi
+PRAVILNIK
+O NAČINU I UVJETIMA ZA SIGURNO ODVIJANJE I UPRAVLJANJE ŽELJEZNIČKIM PROMETOM
+I. TEMELJNE ODREDBE
+Opće odredbe i pojmovi
+Članak 1.
+Ovim Pravilnikom propisuju se način i uvjeti za sigurno odvijanje željezničkog prometa i upravljanje željezničkim prometom na željezničkoj infrastrukturi u Republici Hrvatskoj.
+Članak 2.
+Odredbe ovog Pravilnika primjenjuju se na funkcionalni podsustav »odvijanje i upravljanje prometom« kako je određeno zakonom kojim se uređuje sigurnost i interoperabilnost željezničkog sustava, a odgovarajuće se primjenjuju na industrijske kolosijeke i na kolosijeke u morskim lukama, lukama unutarnjih voda i u robnim terminalima.
+Članak 3.
+(1) Odredbe ovog Pravilnika propisane za vlakove za prijevoz stvari (u daljnjem tekstu: teretni vlakovi) odnose se i na pomoćne i radne vlakove te na vozila za posebne namjene s vlastitim pogonom kada prometuju kao vlak.
+(2) Odredbe ovog Pravilnika propisane za zaprežnu i voznu lokomotivu vrijede i za lokomotive pri vožnji u sprezi, pri čemu odredbe propisane za zaprežnu lokomotivu vrijede za vodeću lokomotivu kod vožnje u sprezi.
+(3) Odredbe ovog Pravilnika propisane za uređaje za osiguranje željezničko-cestovnih prijelaza (u daljnjem tekstu: ŽCP) u potpunosti se primjenjuju i na uređaje za osiguranje pješačkih prijelaza.
+Članak 4.
+(1) Upravitelj infrastrukture i željeznički prijevoznik donose opće akte s detaljnim odredbama o sigurnom odvijanju i upravljanju željezničkim prometom u skladu sa svojim sustavom upravljanja sigurnošću.
+(2) Upravitelj infrastrukture dužan je za svaki kolodvor izraditi Poslovni red kolodvora kojim se detaljno propisuje obavljanje poslova u vezi s reguliranjem željezničkog prometa. Osim odredaba kojima se propisuju poslovi u nadležnosti upravitelja infrastrukture, u Poslovnim redovima kolodvora propisuju se sljedeće zajedničke odredbe koje su dužni primjenjivati i željeznički prijevoznici o:
+a) signalno-sigurnosnim uređajima (u daljnjem tekstu: SS uređaji) i stabilnim kapacitetima kolodvora
+b) načinu primitka i otpreme vlaka iz kolodvora
+c) kolosijecima u kolodvoru i njihovoj namjeni
+d) manevriranju u kolodvoru i na otvorenoj pruzi
+e) tehnološkom vremenu za izvršenje pojedinih operacija s vlakovima (osim za kolodvore koji izrađuju Tehnološki proces rada kolodvora)
+f) posluživanju industrijskih kolosijeka
+g) prometu vlakova do određenog mjesta na otvorenoj pruzi i
+h) organizaciji rada u uvjetima prekida službe u službenim mjestima.
+(3) Upravitelj infrastrukture dužan je objaviti na svojim službenim internetskim stranicama izvadak iz zajedničkih odredaba Poslovnih redova kolodvora.
+(4) Željeznički prijevoznici za potrebe obavljanja poslova iz svog djelokruga izrađuju vlastite poslovnike koje su dužni dostaviti upravitelju infrastrukture.
+Članak 5.
+(1) Pojedini pojmovi u ovom Pravilniku imaju sljedeće značenje:
+1. Dopuštena infrastrukturna brzina je najveća brzina kojom vlakovi smiju voziti na željezničkoj pruzi odnosno dijelu željezničke pruge ovisno o projektiranoj građevinskoj brzini i stvarnoj tehničkoj uporabnoj sposobnosti željezničkih infrastrukturnih podsustava.
+2. Dvokolosiječni promet je promet koji se odvija na pruzi s dva kolosijeka na kojoj vlakovi istog smjera voze po kolosijeku određenome za taj smjer.
+3. Gurani vlak je vlak kod kojeg vučno vozilo nije na čelu vlaka ili se tim vozilom ne upravlja s čela vlaka.
+4. Izvršni radnik je radnik koji obavlja poslove vezane uz sigurnost željezničkog sustava na kojima neposredno sudjeluje u odvijanju željezničkog prometa.
+5. Jednokolosiječni promet je izmjenični promet vlakova suprotnog smjera po istom kolosijeku.
+6. Krnji kolosijek je kolosijek koji je

@@ -1,0 +1,29 @@
+ predstavljaju poslovnu tajnu ili su porezna tajna, osim u slučajevima kada je posebnim zakonom propisano drukčije.
+(2) Podaci koji se smatraju osobnim podacima povezuju se i prenose u skladu s pravilima o zaštiti osobnih podataka. Podaci koji su porezna tajna prenose se u skladu sa zakonom kojim se uređuje porezni postupak. Svi podaci iz stavka 1. ovoga članka koristit će se samo u svrhe za koje su dane i ne mogu se mijenjati ili prenositi drugim osobama.
+Poglavlje B. Poljoprivredni informacijski centar
+Prikupljanje podataka i izvješćivanje
+Članak 135.
+(1) Poljoprivredni informacijski centar (u daljnjem tekstu: PIC) jest informacijski sustav Ministarstva koji obavlja poslove:
+– prikupljanja i uporabe podataka i informacija i propisanih evidencija iz djelokruga središnjih tijela državne uprave, jedinica lokalne i područne (regionalne) samouprave, ustanova i slično od važnosti za poljoprivredu
+– prikupljanja, obrade podataka i informacija za potrebe izvješćivanja javnosti o poljoprivredi i provedbi mjera poljoprivredne politike
+– prikupljanja i obrade podataka o cijenama i količinama određenih poljoprivredno-prehrambenih proizvoda i određenih poljoprivrednih inputa s domaćeg reprezentativnog tržišta, administrativne kontrole i kontrole na terenu te izvješćivanja o cijenama za nacionalne potrebe i potrebe Europske komisije
+– razmjene podataka i informacija s nadležnim inozemnim ustanovama i službama u poljoprivredi.
+(2) Poslovi PIC-a iz stavka 1. ovoga članka ne odnose se na poslove iz djelokruga Državnog zavoda za statistiku.
+Tržišni cjenovni informacijski sustav u poljoprivredi
+Članak 136.
+(1) Tržišni cjenovni informacijski sustav u poljoprivredi (TISUP) koji obavlja poslove iz članka 135. stavka 1. točke 3. ovoga Zakona djeluje unutar PIC-a.
+(2) Dostava podataka iz ovoga članka obvezna je za pravne i fizičke osobe određene propisom iz članka 8. ovoga Zakona.
+(3) Uvjeti i način određivanja reprezentativnih tržišta poljoprivrednih proizvoda i uvjeti koje moraju ispunjavati pravne i fizičke osobe koje su obvezne TISUP-u dostavljati podatke te vrsta, opseg, način, rokovi i učestalost dostave podataka, kao i provedba administrativne kontrole i kontrole na terenu propisani su Uredbom (EU) br. 1308/2013 i propisima iz članka 8. ovoga Zakona.
+Zeleno izvješće
+Članak 137.
+(1) Godišnje izvješće o stanju poljoprivrede u prethodnoj kalendarskoj godini (u daljnjem tekstu: Zeleno izvješće) sadrži ocjenu stanja i gospodarskog položaja poljoprivrede te prijedlog i način provedbe mjera poljoprivredne politike za sljedeće razdoblje.
+(2) Godišnje izvješće o stanju poljoprivrede u prethodnoj kalendarskoj godini (u daljnjem tekstu: Zeleno izvješće) izrađuje Ministarstvo i dostavlja ga Vladi na utvrđivanje najkasnije do 30. svibnja tekuće godine, a Vlada ga dostavlja na prihvaćanje Saboru najkasnije do 30. rujna tekuće godine.
+(3) Zeleno izvješće temelji se na redovitom praćenju i stručnim podlogama, a izrađuje ga Ministarstvo, odnosno od njega ovlaštena pravna osoba sukladno propisima koje donosi ministar.
+(4) Zeleno izvješće se objavljuje u »Narodnim novinama«.
+GLAVA XV. ADMINISTRATIVNA KONTROLA I KONTROLA NA TERENU
+Kontrola Agencije za plaćanja
+Članak 138.
+(1) Agencija za plaćanja provodi administrativnu kontrolu i kontrolu na terenu za sve mjere i pravila za koje je nadležna, a koje prema potrebi uključuju i uzimanje uzoraka i slanje uzoraka na laboratorijsku analizu.
+(2) Administrativna kontrola zahtjeva za pojedine mjere poljoprivredne politike obuhvaća kontrolu usklađenosti svih podnesenih zahtjeva sa zakonskim i podzakonskim propisima, odnosno odgovarajućim uredbama Europske unije.
+(3) U svrhu administrativne kontrole i provođenja mjera propisanih ovim Zakonom, Agencija za plaćanja vodi evidencije pravnih i fizičkih osoba s podacima o korisnicima, odnosno obveznicima pojedinih mjera.
+(4) Način vođenja evidencija korisnika iz stavka 3. ovoga članka, kao i uvjeti i obveze korisnika vezani uz upis u evidencije uređuju se pravilnikom koji će

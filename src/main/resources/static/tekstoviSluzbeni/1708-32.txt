@@ -1,0 +1,32 @@
+ proistječu iz revalorizacije u izvještajnom razdoblju uz objašnjenje poreznog tretmana sadržanih stavki, uključujući povećanja, smanjenja i prijenose koji proizlaze iz revalorizacije, gubitke od umanjenja revalorizirane imovine koji su priznati ili ukinuti izravno u kapitalu,
+iv. gubitke od umanjenja imovine koji su priznati, odnosno ukinuti u računu dobiti i gubitka, odnosno izravno u kapitalu, te koji su naplaćeni tijekom izvještajnog razdoblja,
+v. amortizaciju, otpise i prijenose tijekom izvještajnog razdoblja,
+vi. neto tečajne razlike koje su posljedica prevođenja financijskih izvještaja iz funkcionalne valute u drugu valutu prezentiranja, uključujući prevođenje inozemnog poslovanja u valutu prezentiranja izvještajnog poduzetnika, i
+vii. ostale promjene,
+f) u slučaju kada se kamata kapitalizira, iznos kapitaliziran tijekom izvještajnog razdoblja,
+g) knjigovodstvenu vrijednost u bilanci koja bi se iskazala da nematerijalna imovina nije bila revalorizirana,
+h) u slučaju kada se nematerijalna imovina mjeri prema revaloriziranim iznosima, trošak nabave.
+i) ako je nematerijalna imovina predmet vrijednosnog usklađivanja samo za potrebe oporezivanja, iznos usklađenja kao i razlozi zbog kojih su izvršena.
+DATUM STUPANJA NA SNAGU
+5.59. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+5.60. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+6. DUGOTRAJNA MATERIJALNA IMOVINA
+UVOD
+6.1. Cilj ovog Standarda je: propisati računovodstveni postupak za dugotrajnu materijalnu imovinu i s tim povezana pitanja.
+6.2. Ovaj Standard u skladu je s Direktivom 2013/34/EU..
+DEFINICIJE
+6.3. Amortizacija je sustavni raspored amortizacijskog iznosa imovine tijekom njezina korisnog vijeka upotrebe.
+6.4. Amortizacijski iznos je trošak imovine koji je jednak trošku nabave umanjenom za ostatak vrijednosti.
+6.5. Dugotrajna materijalna imovina je imovina:
+a) namijenjena za korištenje u proizvodnji proizvoda ili isporuci roba ili usluga, za iznajmljivanje drugima ili u administrativne svrhe, i
+b) koja se očekuje koristiti duže od jednog razdoblja
+c) ona imovina koja je namijenjena za korištenje na neprekidnoj osnovi u svrhu aktivnosti poduzetnika.
+6.6. Dugotrajna materijalna imovina obuhvaća sljedeće vrste imovine: zemljište, građevinske objekte, postrojenja i opremu, alate, pogonski inventar, namještaj i transportna sredstva, dugotrajnu biološku imovinu, predujmove za dugotrajnu materijalnu imovinu i ostalu dugotrajnu materijalnu imovinu.
+6.7. Fer vrijednost je iznos koji bi trebalo primiti za prodanu imovinu ili platiti za podmirenje obveze u uobičajenoj transakciji između sudionika na tržištu na dan mjerenja vrijednosti.
+6.8. Financijski najam je najam kojim se većim dijelom prenose svi značajni rizici i nagrade povezani s vlasništvom određene imovine. Vlasništvo se na kraju najma može, ali i ne mora prenijeti.
+6.9. Gubitak od umanjenja je iznos za koji knjigovodstvena vrijednost neke imovine prelazi njen nadoknadiv iznos.
+6.10. Knjigovodstvena vrijednost je iznos po kojem je određena neka imovina priznata u bilanci nakon umanjenja za ispravak vrijednosti i akumulirane gubitke od umanjenja vrijednosti.
+6.11. Korisni vijek upotrebe je:
+a) razdoblje u kojem se očekuje da će poduzetnik upotrebljavati imovinu, tj. da će mu ista biti dostupna za upotrebu ili
+b) broj proizvoda ili sličnih jedinica koje poduzetnik očekuje ostvariti od te imovine.
+6.12. Nadoknadivi iznos

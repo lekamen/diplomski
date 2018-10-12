@@ -1,0 +1,27 @@
+ i načinu odašiljanja u skladu s Tablicom 7. i stavkom 2. ovog članka.
+Tablica 7.
+Br. Broj stanovnika na području pokrivenosti radiodifuzijske mreže Godišnja  naknada  (u kunama) 1. Od 300 001 do 500 000 stanovnika 5.000,00 2. Od 500 001 do 1 000 000 stanovnika 10.000,00 3. Od 1 000 001 do 3 000 000 stanovnika 25.000,00 4. Više od 3 000 001 stanovnika 50.000,00
+(2) Iznos godišnje naknade iz stavka 1. ovog članka izračunava se na način da se odgovarajući iznos naknade iz Tablice 7. pomnoži s koeficijentom k koji, ovisno o sustavu, iznosi:
+1. k = 1 za digitalnu radiodifuziju za sustave koji koriste širine pojasa veće od 1.6 MHz (VHF pojas III, UHF IV i V)
+2. k = 0.5 za ostale sustave: za analognu radiodifuziju (VHF pojas I, II i III, UHF IV i V), analognu i digitalnu LF, MF i HF radiodifuziju (pojasevi: 148,5 kHz – 283,5 kHz, 526,5 kHz – 1606,5 kHz, 3950 kHz – 26100 kHz) te za digitalnu radiodifuziju za sustave koji koriste širine pojasa do ili jednako 1.6 MHz (VHF pojas III i L-pojas).
+(3) Ako se radijska mreža odašiljača za odašiljanje radijskog programa u analognim radiodifuzijskim sustavima upotrebljava na način da se na istim frekvencijama odašilje radijski program dva ili više nakladnika radija, utvrđeni iznos naknade izračunava se za svakog nakladnika posebno, razmjerno ukupnom trajanju odašiljanja njihova programa tijekom tjedna.
+Naknada za privremenu uporabu radijskih postaja
+Članak 21.
+Za uporabu radiofrekvencijskog spektra temeljem privremene dozvole za uporabu radofrekvencijskog spektra visina naknade utvrđuje se razmjerno visini godišnje naknade utvrđene za tu vrstu službe, u skladu s odredbama ovog Pravilnika, a naknada se plaća unaprijed prije izdavanja dozvole za radijsku postaju i to za cijelo razdoblje valjanosti te dozvole.
+Naknada za obavljanje tehničkog pregleda kod nakladnika elektroničkih medija
+Članak 22.
+Naknada za obavljanje tehničkog pregleda kojim se utvrđuje ispunjavanje uvjeta dodijeljene koncesije nakladniku elektroničkih medija, iznosi 2.000,00 kuna po obavljenom tehničkom pregledu.
+Naknada za posebna ovlaštenja za obavljanje djelatnosti u elektroničkim komunikacijama
+Članak 23.
+(1) Podnositelj zahtjeva za izdavanje posebnog ovlaštenja za obavljanje djelatnosti u elektroničkim komunikacijama obvezan je prilikom podnošenja zahtjeva uplatiti iznos od 700,00 kuna.
+(2) Nositelj ovlaštenja iz stavka 1. ovog članka obvezan je za vrijeme trajanja ovlaštenja plaćati godišnju naknadu za obavljanje ovlasti u iznosu od 500,00 kuna.
+(3) U slučaju neplaćanja naknade iz ovog članka primjenjuju se odredbe posebnih propisa.
+(4) Ako se nositelj ovlaštenja u pisanom obliku ne odrekne izdanog ovlaštenja prije početka sljedećeg obračunskog razdoblja, obvezan je platiti godišnju naknadu iz stavka 2. ovog članka za sljedeće obračunsko razdoblje.
+IV. NAKNADA ZA OBAVLJANJE DRUGIH POSLOVA HAKOM-a U PODRUČJU ELEKTRONIČKIH KOMUNIKACIJA
+Članak 24.
+(1) Naknada za obavljanje drugih poslova HAKOM-a, izražena u postotku od ukupnog godišnjeg bruto prihoda koji su u prethodnoj kalendarskoj godini ostvarili operatori u obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, iznosi 0,20% ukupnog godišnjeg bruto prihoda.
+(2) Naknadu iz točke 1. ovog stavka obvezni su plaćati samo oni operatori koji su u prethodnoj kalendarskoj godini ostvarili bruto prihod veći od 1.000.000,00 kuna.
+(3) Izvješće o iznosu ukupnog godišnjeg bruto prihoda ostvarenoga od obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, svi operatori obvezni su dostaviti HAKOM-u najkasnije do 31. ožujka tekuće godine.
+(4) U slučaju završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga, operatori su obvezni dostaviti izvješće o iznosu ukupnog godišnjeg bruto prihoda iz tekuće kalendarske godine najkasnije 60 dana nakon završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.
+V. NAKNADA ZA OBAVLJANJE POSLOVA HAKOM-a U PODRUČJU POŠTANSKIH USLUGA
+Izračun i visina naknade

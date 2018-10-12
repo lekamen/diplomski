@@ -1,0 +1,43 @@
+ ili slijepo streljivo koje ne uključuje komponente konstruirane za bojevo streljivo; ili
+d. komponente posebno konstruirane za prazno ili slijepo streljivo, navedeno u ovoj Napomeni 2.a., b. ili c.
+Napomena 3.: ML3.a. ne odnosi se na patrone posebno konstruirane za bilo koju od sljedećih namjena:
+a. signaliziranje;
+b. tjeranje ptica; ili
+c. paljenje fitilja na naftnim bušotinama.
+ML4. Bombe, torpeda, rakete, projektili, ostale eksplozivne naprave i punjenja, kao i pripadajuća oprema i pribor, kako slijedi, posebno konstruirana za vojnu uporabu, te za njih posebno konstruirane komponente:
+POZOR 1.: Za opremu za navođenje i navigaciju, vidi ML11.
+POZOR 2.: Za sustave za zaštitu aviona od raketa (AMPS), vidi ML4.c.
+a. bombe, torpeda, granate, dimni spremnici, rakete, mine, projektili, dubinska (protupodmornička) punjenja, punjenja za rušenje, kao i oprema za uništavanje, »pirotehničke« naprave, patrone i simulatori (npr. oprema koja simulira karakteristike bilo kojeg od ovih sredstava), posebno konstruirani za vojnu uporabu;
+Napomena: ML4.a uključuje:
+a. dimne granate, zapaljive bombe i eksplozivne naprave;
+b. sapnice raketnih projektila i vrhove projektila na letjelicama koje imaju mogućnost povratka u atmosferu.
+b. oprema koja ima sve od navedenog:
+1. posebno konstruirana za vojnu uporabu; i
+2. posebno konstruirana za »aktivnosti« koje su vezane uz bilo što od navedenog:
+a. stavke navedene u ML4.a.; ili
+b. onesposobljavanje improviziranih eksplozivnih naprava (IED-ova).
+Tehnička napomena:
+Za potrebe ML4.b.2. ‚aktivnosti’ se odnosi na rukovanje, ispaljivanje, polaganje, nadzor, pražnjenje, detonaciju, aktiviranje, električno napajanje s jednokratnim radnim učinkom, zavaravanje, ometanje, odstranjivanje, otkrivanje, smetanje ili zbrinjavanje.
+Napomena 1.: ML4.b. uključuje:
+a. mobilnu opremu za pretvaranje plina u tekuće stanje koja može proizvesti 1 000 kg ili više plina u tekućem stanju po danu;
+b. ploveći električni provodni kabel za čišćenje magnetskih mina.
+Napomena 2.: ML4.b. ne odnosi se na ručne naprave koje su namijenjene isključivo za detekciju metalnih objekata i nemaju mogućnost razlikovanja mina od ostalih metalnih objekata.
+c. sustavi za zaštitu aviona od raketa (AMPS).
+Napomena: ML4.c. ne odnosi se na AMPS koji ima sve od navedenog:
+a. bilo koji od sljedećih senzora za upozorenje na prisutnost projektila:
+1. pasivne senzore s vršnim odzivom između 100-400 nm; ili
+2. aktivne pulsirajuće Dopplerove senzore za upozorenje na prisutnost projektila;
+b. sustave za stvaranje protumjera;
+c. baklje, koje imaju i vidljiv i infracrveni trag, za ometanje projektila zemlja-zrak; i
+d. ugrađen na »civilnom zrakoplovu« i koji ima sve od navedenog:
+1. AMPS je u funkciji samo na određenom »civilnom zrakoplovu« na kojem je ugrađen određeni AMPS i za kojeg je izdan bilo koji od sljedećih dokumenata:
+a. civilni certifikat tipa; ili
+b. odgovarajući dokument koji priznaje Međunarodna organizacija za civilno zrakoplovstvo (ICAO);
+2. AMPS koristi zaštitu za sprečavanje neovlaštenog pristupa »softveru«; i
+3. AMPS uključuje aktivni mehanizam koji onemogućuje funkciju sustava u slučaju njegova uklanjanja s »civilnog zrakoplova« na koji je ugrađen.
+ML5. Kontrola paljbe i pripadajuća oprema za uzbunjivanje i upozoravanje, kao i srodni sustavi, oprema za testiranje, uciljavanje i protumjere, kako slijedi, posebno konstruirana za vojnu uporabu, te za njih posebno konstruirane komponente i pribor:
+a. ciljnici oružja, računala za bombardiranje, sustavi za usmjeravanje oružja i sustavi za upravljanje paljbom;
+b. sustavi za određivanje položaja cilja, označivanje, određivanje daljine do cilja, promatranje ili praćenje; oprema za detekciju, prikupljanje podataka, prepoznavanje ili identifikaciju; te oprema za ugradnju senzora;
+c. oprema za protuelektronsko djelovanje namijenjena sredstvima navedenima u ML5.a. ili ML5.b.;
+Napomena: Za potrebe ML5.c., oprema za protuelektronsko djelovanje uključuje i opremu za otkrivanje.
+d. oprema za testiranje na

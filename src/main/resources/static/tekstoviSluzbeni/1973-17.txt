@@ -1,0 +1,22 @@
+ danom stjecanja uvjeta iz članka 49. stavka 1. ovoga Zakona za korištenje prava na univerzalnu opskrbu.
+(11) Operator distribucijskog sustava je dužan dostaviti podatke opskrbljivaču u okviru univerzalne usluge o kupcima koji prelaze u univerzalnu opskrbu u roku od deset dana od dobivanja pisane obavijesti iz članka 53. stavka 6. točke 20. ovoga Zakona.
+(12) Opskrbljivač kupaca u okviru univerzalne usluge je dužan dostaviti krajnjem kupcu koji ima pravo na taj način opskrbe i izabere ga ili koristi po automatizmu ugovor o opskrbi krajnjeg kupca u okviru univerzalne usluge u pisanom obliku u roku od 30 dana od dana početka opskrbe.«.
+Članak 26.
+U članku 49. stavku 1. točka 3. mijenja se i glasi:
+»3. ozbiljnom narušavanju uvjeta iz dozvole i njezinu oduzimanju.«.
+Članak 27.
+U članku 50. stavak 2. mijenja se i glasi:
+»(2) Prigovor iz stavka 1. ovoga članka podnosi se u vezi s odbijanjem pružanja univerzalne usluge opskrbe krajnjim kupcima koji imaju pravo na taj način opskrbe, odbijanjem pružanja zajamčene usluge opskrbe krajnjim kupcima koji imaju pravo na taj način opskrbe i primjenom metodologije za određivanje cijene električne energije u okviru zajamčene usluge opskrbe.«.
+Članak 28.
+U članku 52. stavci 5. do 10. mijenjaju se i glase:
+»(5) Na tržištu električne energije uravnoteženja operator prijenosnog sustava kupuje i prodaje električnu energiju od sudionika na tržištu električne energije radi uravnoteženja elektroenergetskog sustava, provodi mjerenje i aktivira ponude za energiju uravnoteženja prema listi ekonomskog prvenstva.
+(6) Sudjelovanje na tržištu električne energije uravnoteženja uređuje se ugovorom o pružanju usluge uravnoteženja koji operator prijenosnog sustava sklapa sa sudionicima na tržištu električne energije uravnoteženja, u skladu s pravilima o uravnoteženju elektroenergetskog sustava.
+(7) Operator tržišta električne energije obavlja količinski obračun energije uravnoteženja.
+(8) Do uspostave funkcionalnog tržišta električne energije uravnoteženja, cijene električne energije za potrebe uravnoteženja elektroenergetskog sustava obračunavaju se prema metodologiji za određivanje cijena za pružanje usluge uravnoteženja koju donosi Agencija, uz prethodno mišljenje operatora prijenosnog sustava.
+(9) Do uspostave tržišta pomoćnih usluga, o čijem otvaranju odlučuje Agencija, samostalno ili na prijedlog operatora prijenosnog sustava, cijene njihovog pružanja određuju se metodologijom za određivanje cijena za pružanje pomoćnih usluga koju donosi operator prijenosnog sustava, uz prethodnu suglasnost Agencije, a operator prijenosnog sustava izvještava Agenciju o sklopljenim ugovorima o pružanju pomoćnih usluga s pružateljima kao i mjesečnom ostvarenju tih ugovora.
+(10) Operator tržišta električne energije odgovoran je za organiziranje tržišta električne energije na cijelom području Republike Hrvatske sukladno pravilima organiziranja tržišta električne energije koja donosi uz prethodno mišljenje operatora prijenosnog sustava te uz prethodnu suglasnost Agencije.«.
+Iza stavka 11. dodaju se novi stavci od 12. do 17. koji glase:
+»(12) Pravilima primjene nadomjesnih krivulja opterećenja koja donosi operator distribucijskog sustava, uz prethodno mišljenje operatora prijenosnog sustava te uz prethodnu suglasnost Agencije, utvrđuju se nadomjesne krivulje opterećenja karakterističnih skupina kupaca te način određivanja dijela ostvarenja opskrbljivača za kupce koji nemaju izmjerenu krivulju opterećenja.
+(13) Operator distribucijskog sustava dužan je provesti javnu raspravu sa zainteresiranom javnošću o prijedlogu pravila primjene nadomjesnih krivulja opterećenja u trajanju od najmanje 15 dana.
+(14) Operator distribucijskog sustava dužan je javno objaviti pravila primjene nadomjesnih krivulja opterećenja na svojim internetskim stranicama minimalno 15 dana prije stupanja istih na snagu.
+(15) Metodologijom za određivanje cijena za obračun električne energije uravnoteženja koju donosi Agencija određuje se način izračuna jediničnih 

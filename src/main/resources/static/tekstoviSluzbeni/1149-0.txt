@@ -1,0 +1,37 @@
+59 29.05.2015 Pravilnik o sadržaju, obliku i načinu vođenja evidencije postupanja ribarskih inspektora
+MINISTARSTVO POLJOPRIVREDE
+1150
+Na temelju članka 72. stavka 2. Zakona o morskom ribarstvu (»Narodne novine«, br. 81/13, 14/14 i 152/14) i članka 68.h stavka 2. Zakona o slatkovodnom ribarstvu (»Narodne novine« br. 106/01, 7/03, 174/04, 10/05, 14/14), ministar poljoprivrede donosi
+PRAVILNIK
+O SADRŽAJU, OBLIKU I NAČINU VOĐENJA EVIDENCIJE POSTUPANJA RIBARSKIH INSPEKTORA
+Članak 1.
+Ovim se Pravilnikom propisuje sadržaj, oblik i način vođenja evidencije postupanja ribarskih inspektora.
+Članak 2.
+Evidencija postupanja ribarskih inspektora sadrži podatke o obavljenom inspekcijskom nadzoru (u daljnjem tekstu: nadzor), poduzetim radnjama i izrečenim mjerama tijekom i nakon nadzora te pismenima, a vodi se u elektroničkom obliku (u daljnjem tekstu: e-inspektor).
+Članak 3.
+Podaci iz e-inspektora vode se kao službene evidencije i unose se u aplikaciju Ministarstva (e-inspektor) na način utvrđen uputom za korištenje aplikacije.
+Članak 4.
+E-inspektor najmanje sadrži podatke o:
+– obavljenim nadzorima,
+– nazivu, sjedištu i vrsti subjekta nadzora,
+– oznaci spisa predmeta prema propisima o uredskom poslovanju,
+– vremenu početka i završetka nadzora,
+– predmetu nadzora,
+– izrečenim mjerama,
+– postupanje po utvrđenom činjeničnom stanju (rješenja, optužni prijedlog, kaznena prijava i drugi akti),
+– pravomoćno izrečenim prekršajnopravnim i kaznenopravnim sankcijama.
+Članak 5.
+(1) Podatke iz članka 4. ovoga Pravilnika upisuju ribarski inspektori za nadzore koje su obavili i odgovorni su za točnost unesenih podataka.
+(2) Podatke iz članka 4. ovoga Pravilnika ribarski inspektori obvezani su upisati odmah ili u najkraćem mogućem roku nakon obavljenog nadzora ili druge aktivnosti u provedbi inspekcijskog postupka.
+(3) Pismena, koja sadržava aplikacija iz članka 2. ovoga Pravilnika, ribarski inspektori obvezni su skenirati i pohraniti.
+(4) Odluke pravomoćno izrečenih prekršajnopravnih i kaznenopravnih sankcija, ribarski inspektor obavezan je skenirati i pohraniti.
+Članak 6.
+(1) Pristup e-inspektoru omogućen je internetskom vezom.
+(2) U slučaju da nije moguće uspostaviti internetsku vezu, ribarski inspektor dužan je rezervirati klasu i urudžbeni broj predmeta SMS-om, popuniti kontrolnu listu u papirnatom obliku te nakon dolaska u ured popuniti kontrolnu listu u elektronskom obliku.
+Članak 7.
+(1) Državni službenici nadređeni ribarskim inspektorima imaju pristup svim podacima iz e-inspektora.
+(2) Iznimno od stavka 1. ovoga članka, ministar može ovlastiti drugog državnog službenika za pristup podacima iz e-inspektora.
+Članak 8.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/44 Urbroj: 525-13/1442-15-2 Zagreb, 21. svibnja 2015.
+Ministar Tihomir Jakovina, v. r.

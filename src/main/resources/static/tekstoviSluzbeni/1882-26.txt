@@ -1,0 +1,52 @@
+ ugrađuju na mjestima gdje se pretpostavlja, obzirom na tijek vožnje vlaka, da je moguće pregrijavanje ležajeva.
+(3) Detektori moraju u obliku alarma prenijeti informacije o pregrijanim ležajevima na izvršna radna mjesta koja su ovlaštena zaustaviti vlak i poduzeti odgovarajuće mjere.
+1.8.2 Detektori ravnih mjesta na kotačima
+Članak 70.
+(1) Detektori za otkrivanje ravnih mjesta na kotačima namijenjeni su smanjivanju broja izvanrednih događaja koji su posljedica ravnih mjesta.
+(2) Detektori se mogu ugraditi i na kolodvorske glavne kolosijeke.
+(3) Detektori moraju u obliku alarma prenijeti informacije o ravnim mjestima na kotačima na izvršna radna mjesta koja su ovlaštena zaustaviti vlak i poduzeti odgovarajuće mjere.
+1.8.3 Detektori za otkrivanje prekoračenja osovinskog opterećenja
+Članak 71.
+(1) Detektori za otkrivanje prekoračenja osovinskog opterećenja namijenjeni su smanjivanju broja izvanrednih događaja koji su posljedica ravnih mjesta.
+(2) Detektori se mogu ugraditi i na kolodvorske glavne kolosijeke.
+(3) Detektori moraju u obliku alarma prenijeti informacije o prekoračenju osovinskog opterećenja na izvršna radna mjesta koja su ovlaštena zaustaviti vlak i poduzeti odgovarajuće mjere.
+(4) Uređaji dopunske zaštite mogu biti sigurnosne razine 0 sukladno HRN EN 50129.
+1.8.4 Automatska kontrola željezničkih vozila u prometu
+Članak 72.
+Detektori automatske kontrole željezničkih vozila u prometu moraju u obliku alarma prenijeti informacije na izvršna radna mjesta koja su ovlaštena zaustaviti vlak i poduzeti odgovarajuće mjere.
+1.8.5 Dojava odrona
+Članak 73.
+(1) Uređaji za detekciju odrona ugrađuju se na onim dijelovima pruge gdje postoji vjerojatnost takvog štetnog događaja.
+(2) Detektori moraju u obliku alarma prenijeti informaciju o štetnom događaju u susjedni zaposjednuti kolodvor ili SUP i na signale uz prugu prema Pravilniku o značenju i uporabi signala, signalnih znakova i signalnih oznaka u željezničkom prometu.
+2. UREĐAJI ZA ELEKTRONIČKU KOMUNIKACIJU
+Članak 74.
+(1) Uređajima za elektroničku komunikaciju (uređajima za EK), kojima se ostvaruju veze u unutarnjem i međunarodnom komunikacijskom prometu, smatraju se elektronička komunikacijska infrastruktura i povezana oprema na otvorenoj pruzi i u kolodvorima, uređaji za svjetlovodni, žični i bežični prijenos govornih i pisanih obavijesti, te komunikaciju i prijenos podataka, te pripadajući vanjski elementi i uređaji za napajanje.
+(2) EK mrežu čini skup svih funkcionalnih TK Sustava, TK Uređaja i terminalnih uređaja.
+(3) Elektronički komunikacijski sustavi su:
+– Kolodvorski sustav – čine ga sve koncentrirane veze unutar jednog ili više kolodvora, služi za upravljanje i vođenje prometom vlakova. Uključuje sustav za ozvučenje.
+– Prijenosni sustavi – za prijenos podataka se može koristiti svjetlovodni kabel ili kabel s metalnim vodičima ili se prijenos podataka može obaviti bežično.
+– Digitalni radiokomunikacijski sustav – GSM-R,
+– RD i ostalo,
+– Željeznička telefonska mreža (ŽAT),
+– Sustav pružne telefonije – čine telefonski terminalni uređaji duž željezničke pruge.
+– Sustav za prijenos podataka – poslovna računalna mreža,
+– Sustavi za vizualno informiranje putnika,
+– Sustavi za video nadzor,
+– Sustav matičnih satova,
+– Ostali sustavi (sustavi za zaštitu od požara, sustavi za praćenje brzine vjetra).
+(4) Elektronički komunikacijski uređaji su:
+– Digitalni kolodvorski uređaj
+– Uređaji za registriranje (snimanje) razgovora,
+– Uređaji za zvučno i vizualno obavješćivanje putnika u realnom vremenu,
+– Ostali uređaji.
+(5) Terminalni uređaji su:
+– Telekomunikacijski pult,
+– Telefoni,
+– Telefaks
+– Radio terminali uređaji,
+– Računalni terminali i osobna računala,
+– Ostali terminalni uređaji.
+2.1 OPĆI UVJETI
+Članak 75.
+(1) Elektronički komunikacijski uređaji koji se koriste za upravljanje i reguliranje željezničkog prometa moraju biti dio zatvorene mreže u pogledu funkcioniranja i korištenja.
+(2) Elektronička komunikacijska mreža mora se graditi tako da se osiguraju sve potrebne veze za

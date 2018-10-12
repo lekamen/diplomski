@@ -1,0 +1,22 @@
+ Agencije kao nadležnog tijela sukladno članku 109.a stavku 5. Zakona, Agencija obavlja sljedeće poslove:
+1. zahtijeva od operatera postrojenja ili operatora zrakoplova da stavi na raspolaganje svu pisanu dokumentaciju sukladno članku 12. stavku 2. Uredbe (EU) br. 601/2012;
+2. u direktnoj komunikaciji putem elektroničke pošte s operaterom postrojenja i operatorom zrakoplova zahtjeva dopunu Plana praćenja i Izvješća o poboljšanjima metodologije praćenja te svu popratnu dokumentaciju vezanu uz provođenje plana e-mailom direktno od operatera;
+3. po potrebi poziva operatera postrojenja ili operatora zrakoplova na konzultativni sastanak sa ciljem usuglašavanja metodologije praćenja, na kojima su prisutni predstavnici Ministarstva;
+4. objavljuje obrasce standardiziranih ili pojednostavljenih planova praćenja na internetskim stranicama Agencije sukladno članku 13. Uredbe (EU) br. 601/2012 i sve druge obrasce koji su propisani ovim Pravilnikom i koje je izradila Komisija za potrebe praćenja i izvješćivanja;
+5. uspostavlja sustav za elektroničko izvješćivanje i upravljanje podacima te traži da se podaci i dokumenti stave na raspolaganje sukladno članku 66. Uredbe (EU) br. 601/2012;
+6. zaprima od Ministarstva Izvješća o poboljšanjima metodologije praćenja i daje stručno mišljenje na dostavljeno sukladno članku 69. Uredbe (EU) br. 601/2012 te po potrebi ukazuje na nužnost dopune Plana praćenja;
+7. daje stručno mišljenje Ministarstvu o primjerenoj izmjeni plana praćenja temeljem utvrđenog pisanog postupka operatera o utvrđenoj metodi procjene sukladno članku 65. stavku 1. Uredbe (EU) br. 601/2012;
+8. zahtjeva od verifikatora da osigura pristup internoj verifikacijskoj dokumentaciji sukladno članku 26. stavku 3. Uredbe (EU) br. 600/2012;
+9. na svojim internetskim stranicama objavljuje standardne faktore koje država koristi za dostavu nacionalnog inventara Tajništvu Okvirne konvencije Ujedinjenih naroda o promjeni klime.
+Članak 9.
+Povjerenstvo obavlja poslove iz članaka, 17., 18., 20., 21., 22., 26., 28., 31., 32., 33., 34., 35., 37., 38., 39., 41., 45., 47., 48., 52., 53., 54., 65., 68., i 70. Uredbe (EU) br. 601/2012, poslove sukladno Uredbi (EU) br. 600/2012 i ovom Pravilniku.
+Članak 10.
+(1) Operater postrojenja i operator zrakoplova dužan je Agenciji dostaviti dopune Plana praćenja i Izvješća o poboljšanjima metodologije praćenja u roku od 8 dana, na adresu elektronske pošte: KLIMA@azo.hr i na znanje Ministarstvu na elektroničku poštu: ets-postrojenja@mzoip.hr ;
+(2) U iznimnim slučajevima, koji se trebaju dobro obrazložiti, rok iz stavka 1. ovoga članka se može produžiti do maksimalno mjesec dana;
+(3) U slučaju da operater postrojenja i operator zrakoplova ne dostavi tražene dopune sukladno stavcima 1. i 2. ovoga članka, Agencija će dati negativno mišljenje na Plan praćenja i Izvješća o poboljšanjima metodologije praćenja;
+(4) Uz obavijest o promjenama u postrojenju, gdje je primjenjivo, operater postrojenja mora detaljno obrazložiti utjecaj prijavljene promjene na proces proizvodnje i na praćenje i izvješćivanje o emisijama;
+(5) Operater postrojenja kojem je odobreno korištenje pojednostavljenog plana praćenja sukladno članku 47. st. 2. Uredbe (EU) br. 601/2012. mora izvršiti procjenu rizika sukladno članku 13. stavku 2. Uredbe (EU) br. 601/2012;
+(6) Dozvoljava se korištenje emisijskih faktora za goriva izraženih u t CO2/t ili t CO2/Nm3 sukladno članku 24. i 36. stavku 2. Uredbe (EU) br. 601/2012;
+(7) Dozvoljava se korištenje emisijskih faktora izraženih za goriva i za goriva koja se koriste kao ulazni materijal procesa ili u masenoj bilanci te praćenje donje ogrjevne vrijednosti sukladno članku 26. stavku 5. Uredbe (EU) br. 601/2012;
+(8) Dozvoljava se postrojenju koje kao jedinu djelatnost ima izgaranje goriva i ne emitira godišnje više od 25.000 t CO2 korištenje pojednostavljenog plana praćenja sukladno članku 47. st. 2. Uredbe (EU) br. 601/2012.
+(9) Operater postrojenja i operator zrakoplova za dostavljanje podataka sukladno Uredbi 

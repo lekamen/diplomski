@@ -1,0 +1,25 @@
+ ispunjavanje obveza tog proizvođača u skladu s ovim Pravilnikom.
+(3) Fond je obvezan osigurati da Registar gospodarenja posebnim kategorijama otpada u dijelu koji se odnosi na baterije i akumulatore sadrži poveznice na nacionalne registre drugih država članica.
+(4) Mrežnu poveznicu na obrazac zahtjeva iz stavka 1. ovoga članka objavljuje Fond na svojoj mrežnoj stranici.
+Članak 26.
+(1) Proizvođač baterija i akumulatora dužan je voditi evidenciju o količini prijenosnih baterija i akumulatora koje stavlja na tržište na teritoriju Republike Hrvatske i o količini izvezenih/iznesenih i uvezenih/unesenih prijenosnih baterija i akumulatora.
+(2) Proizvođač baterija i akumulatora dužan je podatke iz evidencije iz stavka 1. ovoga članka dostaviti u Registar gospodarenja posebnim kategorijama otpada do zadnjeg dana tekućeg mjeseca za prethodni kalendarski mjesec na obrascu OBA1 Izvješće proizvođača o proizvedenim, uvezenim ili izvezenim količinama baterija i akumulatora iz Priloga IV. ovoga Pravilnika.
+(3) Naknada gospodarenja otpadnim prijenosnim baterijama i akumulatorima obračunava se na temelju podataka iz Obrasca OBA1 sukladno Uredbi.
+(4) Za prijenosne baterije i akumulatore stavljene na tržište na teritoriju Republike Hrvatske koji se nalaze u uređajima ili vozilima, naknada gospodarenja se plaća sukladno posebnim propisima kojima se uređuje gospodarenje otpadnim vozilima i gospodarenje otpadnom električnom i elektroničkom opremom.
+(5) Na prijenosne baterije i akumulatore namijenjene izvozu ne plaća se naknada gospodarenja.
+(6) U slučaju izvoza prijenosnih baterija i akumulatora na koje je plaćena naknada iz stavka 3. ovoga članka proizvođač ima pravo na povrat uplaćene naknade.
+(7) Pravo na povrat uplaćene naknade iz stavka 6. ovoga članka proizvođač ostvaruje temeljem podnesenog zahtjeva Fondu, podataka dostavljenih u registar iz stavka 2. ovoga članka i priložene vjerodostojne isprave.
+Očevidnik o nastanku i tijeku otpada
+Članak 27.
+(1) U svrhu sljedivosti različitih tokova istog ključnog broja otpadnih baterija i akumulatora, osoba koja je sukladno Zakonu dužna voditi Očevidnik o nastanku i tijeku otpada (ONTO), propisanog posebnim propisom koji uređuje gospodarenje otpadom, dužna je isti voditi na način da se u odgovarajućem polju obrasca ONTO i Pratećeg lista za otpad PL-O unosi odgovarajuća oznaka:
+– u slučaju otpadnih prijenosnih baterija i akumulatora u svakom unosu ulaza i izlaza navodi se oznaka »F« (Fond) koja će omogućiti prikazivanje izdvojenih količina otpadnih prijenosnih baterija i akumulatora koji je u sustavu kojim upravlja Fond iz ukupnih količina otpadnih baterija i akumulatora po ONTO obrascu,
+– u slučaju uvezenih otpadnih baterija i akumulatora u svakom unosu ulaza i izlaza navodi se oznaka »OU« (Ostalo-uvoz),
+– za ostale otpadne baterije i akumulatore u svaki unos ulaza i izlaza navodi se oznaka »OO« (Ostalo-ostalo).
+(2) Oznaka iz stavka 1. ovoga članka unosi se u obrazac ONTO u stupac »Način« u nastavku oznake propisane posebnim propisom koji uređuje gospodarenje otpadom za stupac »Način«, na način da je od iste odvojena crticom.
+(3) Proizvođač i prodavatelj je dužan, prilikom predaje baterije ili akumulatora, koju je preuzeo sukladno članku 12. ovoga Pravilnika, ispuniti i ovjeriti prateći list, ali nije dužan količine tog otpada voditi u Očevidniku o nastanku i tijeku otpada.
+Članak 28.
+Ugovorni sakupljač je dužan, sukladno podacima iz odgovarajućeg Očevidnika o nastanku i tijeku otpada, izraditi i dostaviti Fondu Obrazac OBA2, do zadnjeg dana tekućeg mjeseca za prethodni mjesec.
+Izvješće o učinkovitosti recikliranja
+Članak 29.
+(1) Osoba koja posjeduje dozvolu za gospodarenje otpadom za djelatnost oporabe odnosno zbrinjavanja otpada koji uključuje otpadne baterije i akumulatore dužna je do 30. travnja tekuće godine za prethodnu kalendarsku godinu Agenciji dostaviti Izvješće o učinkovitosti recikliranja izrađeno sukladno Uredbi (EU) br. 493/2012, a na zahtjev i razložno obrazloženje tog izračuna.
+(2)

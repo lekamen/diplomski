@@ -1,0 +1,28 @@
+ sukladnost s tim zahtjevima u odnosu na elemente sustava kvalitete koji su u skladu s odgovarajućim specifikacijama relevantne usklađene norme.
+Barem jedan član revizorskog tima mora posjedovati iskustvo ocjenjivanja tehnologije dizala o kojoj je riječ i upoznat je sa zdravstvenim i sigurnosnim zahtjevima utvrđenima u Prilogu I. Revizija uključuje obilazak radnih prostora ugraditelja radi ocjenjivanja i obilazak mjesta ugradnje.
+Ugraditelj se mora biti obavješten o odluci. Obavijest mora sadržavati zaključke revizije i obrazloženu odluku o ocjeni.
+3.4. Ugraditelj se mora obvezati da će ispuniti obaveze koje proizlaze iz odobrenog sustava kvalitete te da će se pobrinuti da ostane odgovarajući i učinkovit.
+3.4.1. Ugraditelj mora obavještavati prijavljeno tijelo koje je odobrilo sustav kvalitete o svakoj planiranoj izmjeni sustava.
+3.4.2. Prijavljeno tijelo mora ocijeniti predložene promjene i odlučiti hoće li promijenjen sustav kvalitete proizvoda nastaviti zadovoljavati zahtjeve iz točke 3.2. ili je potrebno novo ocjenjivanje.
+O odluci mora obavijestiti ugraditelja ili, prema potrebi, njegova ovlaštenog zastupnika. Obavijest mora sadržavati zaključke ocjenjivanja i obrazloženu odluku o ocjeni.
+Prijavljeno tijelo mora staviti ili daje staviti svoj identifikacijski broj pored oznake CE u skladu s člancima 18. i 19.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Svrha nadzora je utvrditi ispunjava li ugraditelj u potpunosti obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Ugraditelj dizala mora dozvoliti prijavljenom tijelu da u svrhu ocjenjivanja ima pristup objektima u kojima se obavljaju ugradnja, provjere i ispitivanja te mu mora dati sve potrebne obavijesti, posebno:
+– dokumentaciju o sustavu kvalitete;
+– tehničku dokumentaciju;
+– zapise o kvaliteti, kao što su izvješća o provjeri, podaci o ispitivanju i kalibraciji, izvješća o stručnoj osposobljenosti uključenih zaposlenika itd.
+4.3. Prijavljeno tijelo mora provoditi povremene revizije kako bi osiguralo da ugraditelj održava i primjenjuje sustav kvalitete te ugraditelju podnosi izvješće o reviziji
+4.4. Prijavljeno tijelo povrh toga može doći u nenajavljeni obilazak mjesta na kojima se obavlja ugradnja dizala.
+Prilikom takvih obilazaka, prijavljeno tijelo prema potrebi može provesti ili dati provesti ispitivanja, s ciljem provjere propisne primjene sustava kvalitete i dizala; ono ugraditelju mora dostaviti izvješće o posjetu te, ako su provedena ispitivanja, i izvješće o ispitivanjima.
+5. Ugraditelj dizala tijekom 10 godina nakon što je posljednje dizalo stavljeno na tržište na raspolaganju nacionalnim tijelima mora čuvati:
+– dokumentaciju iz točke 3.1. alineja 3.;
+– tehničku dokumentaciju iz točke 3.1. alineja 4.;
+– podatke o promjenama iz točke 3.4.1.;
+– odluke i izvješća prijavljenih tijela navedenih u drugom stavku točke 3.4.2. i u točkama 4.3. i 4.4.
+6. Svako prijavljeno tijelo mora obavještavati ministarstvo nadležno za gospodarstvoo izdanim ili povučenim odlukama o odobrenju sustava kvalitete te povremeno ili na zahtjev ministarstvu nadležnom za gospodarstvo dostavljati listu odbijenih, suspendiranih ili na neki drugi način ograničenih odluka o odobrenju.
+Svako prijavljeno tijelo mora obavještavati druga prijavljena tijela o odlukama o odobrenju sustava kvalitete koje je odbilo, suspendiralo ili povuklo te na zahtjev, o odlukama o odobrenju koje je izdalo.
+Prijavljeno tijelo Komisiji i državama članicama na zahtjev mora dostaviti primjerak izdane odluke (izdanih odluka) o odobrenju sustava kvalitete.
+7. Oznaka CE i EU izjava o sukladnosti
+7.1. Ugraditelj mora staviti oznaku CE u kabinu svakog dizala koje zadovoljava bitne zdravstvene i sigurnosne zahtjeve iz ovoga Pravilnika te, pod odgovornošću prijavljenog tijela iz točke 3.1., njegov identifikacijski broj uz oznaku CE u kabini svakog dizala.
+7.2. Ugraditelj mora sastaviti pisanu EU izjavu o sukladnosti za svako dizalo i čuvati primjerak EU izjave o sukladnosti na raspolaganju nacionalnim tijelima 10 

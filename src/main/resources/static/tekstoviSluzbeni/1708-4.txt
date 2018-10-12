@@ -1,0 +1,34 @@
+ smanjenje budućih ekonomskih koristi proizlazi iz smanjenja imovine ili povećanja sadašnjih obveza i koje se mogu pouzdano izmjeriti.
+1.7. BROJEVI I NAZIV HRVATSKIH STANDARDA FINANCIJSKOG IZVJEŠTAVANJA
+HSFI 1 – Financijski izvještaji
+HSFI 2 – Konsolidirani financijski izvještaji
+HSFI 3 – Računovodstvene politike, promjene računovodstvenih procjena, pogreške
+HSFI 4 – Događaji nakon datuma bilance
+HSFI 5 – Dugotrajna nematerijalna imovina
+HSFI 6 – Dugotrajna materijalna imovina
+HSFI 7 – Ulaganja u nekretnine
+HSFI 8 – Dugotrajna imovina namijenjena prodaji i prestanak poslovanja
+HSFI 9 – Financijska imovina
+HSFI 10 – Zalihe
+HSFI 11 – Potraživanja
+HSFI 12 – Kapital
+HSFI 13 – Obveze
+HSFI 14 – Vremenska razgraničenja
+HSFI 15 – Prihodi
+HSFI 16 – Rashodi
+HSFI 17 – Poljoprivreda.
+1.8. PRVA PRIMJENA HRVATSKIH STANDARDA FINANCIJSKOG IZVJEŠTAVANJA
+1. Poduzetnik treba primijeniti Hrvatske standarde financijskog izvještavanja i u prvim financijskim izvještajima sastavljenim sukladno Hrvatskim standardima financijskog izvještavanja.
+2. Prvi financijski izvještaji poduzetnika pripremljeni po Hrvatskim standardima financijskog izvještavanja su izvještaji u kojima poduzetnik usvaja Hrvatske standarde financijskog izvještavanja te obvezno navodi da su financijski izvještaji sukladni Hrvatskim standardima financijskog izvještavanja.
+3. Poduzetnik sastavlja početnu bilancu na datum prijelaza na primjenu Hrvatskih standarda financijskog izvještavanja.
+4. Početna bilanca poduzetnika mora biti u skladu sa svakim Hrvatskim standardima financijskog izvještavanja.
+5. U početnu bilancu poduzetnik treba uključiti svu imovinu i obveze čije priznavanje se provodi po Hrvatskim standardima financijskog izvještavanja, osim:
+• određene financijske imovine ili financijskih obveza koje su se prestale priznavati prije datuma prijelaza na Hrvatske standarde financijskog izvještavanja,
+• goodwilla i ostale nabavljene imovine te preuzete obveze u prošloj poslovnoj kombinaciji koje nisu bile priznate u stjecateljevoj konsolidiranoj bilanci po prethodnim računovodstvenim načelima i također ne bi bile priznate po Hrvatskim standardima financijskog izvještavanja u bilanci stečenika.
+6. U početnoj bilanci poduzetnika imovinu i obveze treba mjeriti u skladu s Hrvatskim standardima financijskog izvještavanja.
+7. Glede navedenih načela primjene Hrvatskih standarda financijskog izvještavanja u početnoj bilanci postoje izuzeci koje poduzetnik može uzeti u obzir. Navedeni izuzeci jesu: – poslovne kombinacije, – fer vrijednost ili revalorizacija, – primanja zaposlenih, – kumulativne razlike preračunavanja, – složeni financijski instrumenti, – imovina i obveze podružnice, društava povezanih sudjelujućim interesom i zajedničkih pothvata, – predodređivanje prethodno priznatih financijskih instrumenata, – transakcije plaćanja temeljene na dionici, te ugovor o osiguranju.
+8. Primjena računovodstvenih politika treba biti sukladna sa svim Hrvatskim standardima financijskog izvještavanja u početnoj bilanci kao i u kasnijim financijskim izvještajima.
+9. Ako je poduzetnik provodio računovodstvenu politiku u prethodnom razdoblju različitu od računovodstvene politike koju nalažu Hrvatski standardi financijskog izvještavanja, poduzetnik će provesti usklađivanje na datum prijelaza na primjenu Hrvatskih standarda financijskog izvještavanja. Poduzetnik učinke usklađivanja priznaje izravno u zadržanu dobit ili preneseni gubitak.
+10. Prvi financijski izvještaji sastavljeni sukladno Hrvatskim standardima financijskog izvještavanja sadržavaju usporedne podatke za prethodnu godinu reklasificirane po Hrvatskim standardima financijskog izvještavanja.
+11. Ako je poduzetnik prihvatio da se usporedni podaci rade za prethodnu godinu po Hrvatskim standardima financijskog izvještavanja, ti podaci ne moraju biti usklađeni s Hrvatskim standardima financijskog izvještavanja – Financijska imovina u dijelu koji se odnosi na financijske instrumente (objavljivanje, prezentiranje, priznavanje i mjerenje).
+12. Ako 

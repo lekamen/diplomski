@@ -1,0 +1,26 @@
+ rješavaju u vijeću, primjenom žalbenog postupka, naselje predmeta, određuje se prema članku 94. stavku 2. Prekršajnog zakona. Ako nije moguće utvrditi naselje predmeta, kao naselje se upisuje sjedište suda.
+Lokacija predmeta je sjedište suda ili stalna služba u kojoj se predmet rješava.
+Zona rješavanja pojedine vrste predmeta je skup naselja dostupnih jednoj ili više lokacija mjesno nadležnog suda na kojima se može rješavati određena vrsta predmeta. Svrha određivanja zone je osiguranje ravnomjerne opterećenosti rješavatelja određenoga prekršajnog suda i dostupnosti suda strankama.
+Normirano opterećenje rješavatelja je zbroj ukupnog broja vrste predmeta i podvrste predmeta pomnožen s težinskim faktorom koji je u skladu sa Okvirnim mjerilima za rad sudaca prekršajnih sudova, faktorom oslobođenja, te faktorom udjela u težini.
+Automatska dodjela je dodjela predmeta u rad rješavateljima u skladu s godišnjim rasporedom poslova, prema kojoj svaki rješavatelj, koji ulazi u izbor za takvu dodjelu unutar pojedine vrste predmeta ovisno o normiranom opterećenju, dobiva po jedan predmet u rad. Ravnomjernost se ostvaruje u okviru pojedine vrste predmeta uzimajući u obzir podvrste predmeta i broja primljenih predmeta rješavatelja u tekućoj godini. Automatska dodjela primjenjuje se za dodjelu predmeta koji obuhvaćaju prekršaje iz područja sigurnosti prometa na cestama, prekršaje iz područja gospodarstvenih i ostalih prekršaja, prekršaje iz područja javnog reda i mira i javne sigurnosti i pravnu pomoć. U predmetima u kojima je izjavljen prigovor na obavezni prekršajni nalog u odnosu na prekršajnopravnu sankciju, troškove postupka, oduzimanja imovinske koristi ili oduzimanja predmeta automatska dodjela predmeta vrši se na cijelom području suda, bez obzira na zonu rješavanja predmeta.
+Automatska kružna dodjela je dodjela predmeta u rad rješavateljima prema kojoj svaki rješavatelj, koji ulazi u izbor za takvu dodjelu unutar pojedine vrste predmeta, dobiva po jedan predmet u rad, a nakon što svi rješavatelji, koji sudjeluju u dodjeli za pojedinu vrstu predmeta, dobiju po jedan predmet u rad, postupak dodjele se ponavlja. Automatska kružna dodjela ovisi o ukupnom broju zaprimljenih predmeta u tekućoj godini i korektivnim faktorima (oslobođenje i/ili broj radnih dana). Ravnomjernost se ostvaruje u okviru pojedine vrste predmeta i broja predmeta u radu. Automatska kružna dodjela primjenjuje se za predmete u kojima je nužna potpuna ravnomjernost dodjele ili hitnost postupanja, a primjenjuje se isključivo u dodjeli procesnih predmeta i predmeta izvršenja.
+Jedinstveni crtični kod (bar kod) je niz paralelnih crta različite debljine koje nose osnovnu informaciju o predmetu. U sustavu JCMS postoji crtični kod na omotu spisa i otpravcima.
+Matrica ovlaštenja je skup podataka kojim se korisniku sustava JCMS definiraju ovlaštenja (funkcija, organizacijska jedinica, vrste predmeta, upisnici), a unosi se u sustav JCMS temeljem utvrđenoga godišnjeg rasporeda poslova.
+Administracijski modul je cjelina u administratorskoj aplikaciji koja služi za izvođenje određenih zadaća.
+Rješavatelj je sudac ili sudski službenik zadužen za rad na spisu.
+Učilica sustava JCMS je tečaj na daljinu za obučavanje korisnika sustava JCMS.
+Radna opterećenost rješavatelja je zbroj težina predmeta dodijeljenih tijekom kalendarske godine pojedinom rješavatelju, uvećana za oslobođenje rješavatelja.
+II. OVLASTI I DUŽNOSTI OSOBA OVLAŠTENIH ZA PRISTUP SUSTAVU JCMS
+Osobe ovlaštene za pristup sustavu JCMS
+Članak 4.
+Osobe ovlaštene za pristup sustavu JCMS su:
+1. administrator središnjeg sustava JCMS,
+2. ovlašteni stručnjak,
+3. administrator sustava JCMS u sudu,
+4. korisnik sustava JCMS,
+5. službena osoba ovlaštena za uvid u podatke sustava JCMS određenog suda,
+6. službena osoba ovlaštena za uvid u podatke sustava JCMS,
+7. vanjski korisnik sustava JCMS.
+Administrator središnjeg sustava JCMS
+Članak 5.
+(1) Administrator središnjeg sustava JCMS je osoba zadužena, ovlaštena i odgovorna za ažuriranje

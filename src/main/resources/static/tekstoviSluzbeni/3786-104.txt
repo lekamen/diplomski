@@ -1,0 +1,34 @@
+ Prigovor mora sadržavati:
+1. navođenje zapisnika na koji se prigovor podnosi
+2. izjavu da se navodi iz zapisnika pobijaju u cijelosti ili u određenom dijelu
+3. razloge prigovora i
+4. druge podatke koje mora sadržavati svaki podnesak, u skladu sa Zakonom o općem upravnom postupku.
+(2) U prigovoru subjekt nadzora može navesti činjenice iz kojih proizlazi da nedostaci, nezakonitosti i nepravilnosti navedene u zapisniku ne postoje i predočiti dokaze. Ako se subjekt nadzora u izjavi poziva na isprave, dužan ih je kao dokaze priložiti prigovoru.
+(3) Nakon isteka roka za prigovor subjekt nadzora nema pravo navoditi nove činjenice i iznositi nove dokaze.
+(4) Dostavljeni prigovor na zapisnik čini sastavni dio zapisnika.
+Posredni nadzor poslovanja
+Članak 358.
+(1) Ovlaštena osoba Agencije tijekom posrednog nadzora:
+1. utvrđuje jesu li propisani izvještaji i drugi podaci dostavljeni u propisanom roku i propisanoj formi
+2. utvrđuje jesu li podaci u izvještajima ili drugoj traženoj dokumentaciji istiniti, točni i ispravni
+3. utvrđuje posluje li subjekt nadzora u skladu s propisima o upravljanju rizicima, u skladu s drugim propisima određenim ovim Zakonom i propisima donesenima na temelju ovoga Zakona te drugim zakonima kojima se uređuje poslovanje subjekata nadzora i donesenim propisima na temelju njih i
+4. provjerava i procjenjuje financijsku stabilnost i položaj subjekta nadzora te rizike kojima je subjekt nadzora izložen ili bi mogao biti izložen u svom poslovanju.
+(2) Agencija će, pri provjeri i procjeni financijske stabilnosti i položaja te pri procjeni rizika kojima je subjekt nadzora izložen ili bi mogao biti izložen, uzeti u obzir vrstu, opseg i složenost poslovanja subjekta nadzora.
+Završetak postupka posrednog nadzora
+Članak 359.
+(1) U slučaju nedostataka, nezakonitosti i nepravilnosti u poslovanju subjekta nadzora, utvrđenih u postupku posrednog nadzora, ovlaštena osoba Agencije sastavlja zapisnik.
+(2) Zapisnik o obavljenom nadzoru dostavlja se subjektu nadzora, s detaljnim opisom utvrđenih činjenica odnosno opisom nedostataka, nezakonitosti i nepravilnosti u poslovanju subjekta nadzora utvrđenih u postupku nadzora.
+(3) Na završetak postupka posrednog nadzora na odgovarajući način primjenjuju se odredbe članaka 355. do 357. ovoga Zakona.
+(4) Na temelju nalaza iz zapisnika iz ovoga članka Agencija je ovlaštena poduzeti sve nadzorne mjere kao i u slučaju neposrednog nadzora.
+Nadzorne mjere
+Članak 360.
+(1) Na temelju provedenog postupka neposrednog ili posrednog nadzora Agencija može subjektu nadzora izreći nadzorne mjere propisane ovim Zakonom u svrhu zakonitog i urednog poslovanja subjekata nadzora, zaštite interesa ulagatelja i zaštite javnog interesa, a u slučaju utvrđenih nezakonitosti i nepravilnosti podnijeti odgovarajuću prijavu nadležnom tijelu.
+(2) U smislu ovoga Zakona, nezakonitosti su stanja i postupci koji nisu u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, drugim zakonima i podzakonskim aktima te međunarodnim aktima i propisima.
+(3) U smislu ovoga Zakona, nepravilnosti su stanja i postupci koji nisu u skladu s vlastitim poslovnim politikama i usvojenim pravilima subjekta nadzora te standardima i pravilima struke, ili se oni dosljedno ne primjenjuju, a time se ugrožava poslovanje, posebice u vezi s organizacijskim zahtjevima i upravljanjem rizicima.
+(4) Kada Agencija utvrdi postojanje osnovane sumnje o počinjenom kaznenom djelu ili prekršaju, podnosi odgovarajuću prijavu nadležnom tijelu.
+Članak 361.
+Agencija je ovlaštena raznim vrstama objava (uputama, smjernicama i sl.) obavještavati određene skupine subjekata nadzora i druge adresate o objašnjenju ili načinu primjene određenih propisa iz njezine nadležnosti ili s njima povezanih općih pravnih akata.
+POGLAVLJE III. NADZOR DRUŠTAVA ZA UPRAVLJANJE IZ REPUBLIKE HRVATSKE I UCITS FONDOVA OSNOVANIH U REPUBLICI HRVATSKOJ
+Nadležnost Agencije za nadzor
+Članak 362.
+(1) Agencija je nadležna za nadzor nad poslovanjem društava za upravljanje iz Republike

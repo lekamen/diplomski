@@ -1,0 +1,24 @@
+ usklađenost s potvrđenim bilateralnim rasporedima na dugoročnim prijenosnim prekograničnim kapacitetima te dodijeljenim kratkoročnim prekograničnim prijenosnim kapacitetima svakog ugovornog rasporeda kao i međusobnu usklađenost ugovornih rasporeda za dan isporuke i
+– u slučaju potrebnih ispravaka ugovornog rasporeda traži ispravak od voditelja bilančne grupe na kojeg se ispravak odnosi.
+Članak 68.
+Do 15:30 sati u danu unaprijed koji neposredno prethodi danu isporuke voditelj bilančne grupe obvezan je Operatoru tržišta dostaviti ispravljene ugovorne rasporede za dan isporuke.
+Članak 69.
+(1) U slučaju neusklađenosti ugovornih rasporeda nakon isteka vremenskog roka iz članka 68. ovih Pravila, Operator tržišta postupa na sljedeći način:
+– ako dostavljeni ugovorni rasporedi ne prikazuju prodaju električne energije u istom smjeru, za razmatrane iznose u ugovornim rasporedima unosi nule i
+– ako dostavljeni ugovorni rasporedi prikazuju prodaju električne energije u istom smjeru, za razmatrane iznose u ugovornim rasporedima unosi manju vrijednost po apsolutnom iznosu.
+(2) Operator tržišta obvezan je voditelju bilančne grupe bez odgode dostaviti izmijenjeni ugovorni raspored iz stavka 1. ovog članka.
+(3) Izmijenjeni ugovorni raspored iz stavka 1. ovog članka Operator tržišta uvrštava u tržišni plan.
+(4) U slučaju neusklađenosti ugovornih rasporeda između bilančne grupe burze i tržišnih sudionika, za razmatrane iznose u ugovornom rasporedu tržišnog sudionika unose se vrijednosti iz ugovornog rasporeda bilančne grupe burze.
+Članak 70.
+Do 15:45 sati u danu unaprijed koji neposredno prethodi danu isporuke Operator tržišta dostavlja operatoru prijenosnog sustava tržišni plan.
+Članak 71.
+(1) Ako program razmjene hrvatskog elektroenergetskog sustava sa susjednim operatorima prijenosnog sustava nije usklađen, operator prijenosnog sustava obvezan je obavijestiti voditelja bilančne grupe o zahtijevanim promjenama ugovornih rasporeda.
+(2) Voditelj bilančne grupe obvezan je operatoru prijenosnog sustava i Operatoru tržišta bez odgode dostaviti ispravljene ugovorne rasporede članova bilančne grupe temeljem kojih Operator tržišta izrađuje ispravljeni tržišni plan te ga dostavlja operatoru prijenosnog sustava.
+(3) Ako voditelj bilančne grupe ne dostavi ispravljene ugovorne rasporede, operator prijenosnog sustava ispravlja ugovorne rasporede sukladno propisanim procedurama iz radnog priručnika ENTSO-E.
+VIII. IZMJENE UGOVORNOG RASPOREDA TIJEKOM DANA ISPORUKE
+Članak 72.
+(1) Izmjene ugovornih rasporeda koje se odnose na plan prekogranične kupoprodaje električne energije i plan proizvodnje električne energije u danu isporuke odobrava operatora prijenosnog sustava.
+(2) U slučaju izmjene prekogranične kupoprodaje električne energije voditelj bilančne grupe mora zahtijevati od operatora prijenosnog sustava izmjenu ugovornog rasporeda člana bilančne grupe tijekom dana isporuke u skladu s pravilima o dodjeli i korištenju prekograničnih prijenosnih kapaciteta.
+(3) U slučaju izmjene plana proizvodnje električne energije voditelj bilančne grupe čiji je član proizvođač dužan je operatoru prijenosnog sustava dostaviti izmjene ugovornog rasporeda i plana proizvodnje električne energije po proizvodnim jedinicama najkasnije 15 minuta prije sata u kojem nastupa promjena.
+(4) U slučaju izmjene plana proizvodnje električne energije voditelj EKO bilančne grupe dužan je operatoru prijenosnog sustava dostaviti izmjene ugovornog rasporeda i plana proizvodnje električne energije po proizvodnim jedinicama najkasnije 15 minuta prije sata u kojem nastupa promjena.
+(5) U slučaju izmjene kupoprodaje električne energije unutar granica Republike Hrvatske, voditelj bilančne grupe mora dostaviti Operatoru tržišta izmijenjenu verziju ugovornog rasporeda člana bilančne grupe za dan isporuke najkasnije četrdesetosam (48) sati nakon razdoblja na koje se izmjena odnosi, a koja sadrži i zadnje odobrene izmjene plana prekogranične kupoprodaje i plana proizvodnje električne energije od strane

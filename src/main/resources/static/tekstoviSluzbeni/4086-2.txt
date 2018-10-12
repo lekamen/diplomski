@@ -1,0 +1,30 @@
+ dodanoj vrijednosti
+2) za poslovne subjekte koji ne ostvaruju dobit proizvodnjom, prometom robe ili pružanjem usluga na tržištu prema najvećem udjelu broja zaposlenih po platnoj listi i isplaćenim bruto plaćama.
+Za utvrđivanje pokazatelja iz stavka 1. ovoga članka koriste se podaci poslovnog subjekta o broju zaposlenih prema platnoj listi, isplaćenim bruto plaćama, materijalnoj imovini po sadašnjoj vrijednosti, investicijama u materijalnu imovinu, poslovnom prihodu, nabavnoj vrijednosti prodane robe, materijalnim i nematerijalnim troškovima i troškovima usluga te dodanoj vrijednosti, a koji se daju za prethodnu kalendarsku godinu.
+Promjena glavne djelatnosti dijela poslovnog subjekta utvrđuje se na zahtjev poslovnog subjekta u skladu s rješenjem o upisu u registar kod nadležnog tijela, odnosno propisom o osnivanju, neovisno o pokazateljima iz stavka 1. ovoga članka.
+IV. OBAVIJEST O RAZVRSTAVANJU POSLOVNIH SUBJEKATA
+Članak 14.
+Državni zavod za statistiku izdaje poslovnom subjekta Obavijest o razvrstavanju u roku od 15 dana od dana primitka potpune prijave za razvrstavanje.
+Članak 15.
+Obavijest o razvrstavanju sadržava: naziv odnosno tvrtku poslovnog subjekta, adresu sjedišta poslovnog subjekta, brojčanu oznaku pravno-ustrojbenog oblika, brojčanu oznaku i naziv razreda djelatnosti NKD-a 2007., matični broj, osobni identifikacijski broj poslovnog subjekta, obrazloženje i uputu o pravnom lijeku.
+Obavijest o razvrstavanju dijelova poslovnog subjekta sadržava: naziv odnosno tvrtku dijela, sjedište i adresu dijela, brojčanu oznaku razreda djelatnosti NKD-a 2007., matični broj i osobni identifikacijski broj.
+Članak 16.
+Obavijest iz članka 14. ovoga Pravilnika Državni zavod za statistiku izdaje poslovnom subjektu u dva primjerka. Za sve dijelove poslovnog subjekta izdaje se poslovnom subjektu Obavijest o razvrstavanju u jednom primjerku.
+V. MATIČNI BROJ POSLOVNOG SUBJEKTA
+Članak 17.
+Državni zavod za statistiku svakom poslovnom subjektu određuje sedmeroznamenkasti matični broj postupkom dodjele kontrolnog broja po modulu 11, a dijelu poslovnog subjekta određuje se i četveroznamenkasti redni broj uz matični broj.
+Članak 18.
+Matični je broj stalna identifikacijska oznaka svakoga poslovnog subjekta.
+Matični broj koristi se u svim aktivnostima službene statistike, a primjenjuje se pri razmjeni podataka i izvan područja službene statistike.
+VI. SADRŽAJ REGISTRA, ZAŠTITA PODATAKA I DISEMINACIJA
+Članak 19.
+Poslovni subjekti i njihovi dijelovi razvrstani po djelatnostima prema NKD-u 2007. upisuju se u Registar koji vodi Državni zavod za statistiku. Registar sadržava obvezatne i neobvezatne podatke s obrazaca RPS-1 i RPS-2 koje je dao poslovni subjekt.
+O promjenama podataka iskazanih na obrascima RPS-1 i RPS-2 poslovni subjekt izvješćuje Državni zavod za statistiku u roku iz članka 10. stavka 1. ovoga Pravilnika.
+Članak 20.
+Registar se sastoji od jedinstvene baze podataka i dosjea.
+Jedinstvena baza podataka vodi se u elektroničkome obliku za svaki poslovni subjekt i njegove dijelove. U bazi podataka uz podatke iz članka 19. stavka 1. ovoga Pravilnika vode se i obilježja potrebna za statističke obrade.
+Dosje svakoga poslovnog subjekta sadržava sve zaprimljene prijave za razvrstavanje na obrascima RPS-1 i RPS-2, Obavijesti o razvrstavanju i Eurocertifikat.
+Članak 21.
+Svi podaci iz Registra javni su podaci.
+Svojim potpisom na obrascima RPS-1 i RPS-2 osoba koja je popunila prijavu i rukovoditelj/ovlaštenik poslovnog subjekta potvrđuju da su uneseni podaci za Registar potpuni, istiniti i vjerodostojni. Državni zavod za statistiku ima pravo naknadne promjene podataka iz Registra, ukoliko su novi podaci naknadno prikupljeni iz javnih (općedostupnih) zbirki podataka.
+Svojim potpisom na obrascima RPS-1 i RPS-2 osoba koja je popunila prijavu i rukovoditelj/ovlaštenik poslovnog subjekta daju Državnom zavoda za statistiku izričito i neopozivo pravo za daljnje pojedinačno korištenje, javnu objavu i diseminaciju svih podataka Registra iz stavka 1. ovoga

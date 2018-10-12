@@ -1,0 +1,25 @@
+ SB-a Eurosustava, koja je povezana sa sustavom TARGET2 u skladu s posebnim sporazumom;
+40) »primatelj plaćanja«, osim kada je izraz upotrijebljen u članku 39. ove Odluke, znači sudionik u sustavu TARGET2 čiji će PM račun biti odobren zbog namire naloga za plaćanje;
+41) »pristup za više adresata« znači mogućnost podružnice ili kreditne institucije osnovane u EGP-u da pristupi relevantnoj komponenti sustava TARGET2 dostavljanjem naloga za plaćanje izravno u i/ili primanjem plaćanja izravno od komponente sustava TARGET2; prema ovoj mogućnosti subjekti su ovlašteni dostavljati svoje naloge za plaćanje preko PM računa imatelja PM računa bez uključivanja tog imatelja PM računa;
+42) »privremeno isključenje« znači mirovanje prava i obveza sudionika za razdoblje koje odredi Hrvatska narodna banka;
+43) »pružatelj mrežnih usluga sustavu TARGET2« znači poduzetnik kojeg je Upravno vijeće ESB-a imenovalo za pružanje računalnih mrežnih veza radi dostavljanja platnih poruka u sustavu TARGET2;
+44) »radni dan« znači dan na koji je sustav TARGET2 otvoren za namiru naloga za plaćanje, kako je utvrđeno u Dodatku V. ove Odluke;
+45) »SB Eurosustava« znači ESB ili NSB iz europodručja;
+46) »slučaj neispunjavanja obveza« znači budući ili postojeći događaj čiji nastup može ugroziti ispunjavanje sudionikovih obveza na temelju ove Odluke ili bilo kojih drugih pravila koja se primjenjuju na odnos između tog sudionika i Hrvatske narodne banke ili bilo kojeg drugog SB-a, uključujući:
+(a) ako sudionik više ne ispunjava mjerila za pristup utvrđena u članku 5. ili zahtjeve utvrđene u članku 9. stavku 1. točki (a) podtočki (i). ove Odluke,
+(b) otvaranje postupka zbog insolventnosti nad sudionikom,
+(c) podnošenje prijave za pokretanje postupka navedenog u točki (b) ove definicije,
+(d) sudionikovo izdavanje pisane izjave o njegovoj nemogućnosti plaćanja svih ili dijela njegovih dugova,
+(e) sudionikovo sklapanje dobrovoljnog sporazuma ili dogovora s njegovim vjerovnicima,
+(f) ako je sudionik insolventan ili nesposoban platiti svoje dugove ili ga takvim smatra njegov SB,
+(g) ako je sudionikovo pozitivno stanje na njegovu PM računu ili DCA-u ili sva sudionikova imovina ili njezin znatan dio predmet odluke o blokadi, zabrani raspolaganja, zapljeni ili drugog postupka čiji je cilj zaštita javnog interesa ili prava sudionikovih vjerovnika,
+(h) ako je sudionik privremeno ili trajno isključen iz sudjelovanja u drugoj komponenti sustava TARGET2 i/ili u sporednom sustavu,
+(i) ako su bitna izjava ili predugovorno očitovanje, koje je dao sudionik ili za koje se na temelju mjerodavnog prava pretpostavlja da ih je dao sudionik, netočni ili neistiniti
+(j) prijenos cjelokupne sudionikove imovine ili njezina znatnog dijela;
+47) »sporedni sustav« znači sustav kojim upravlja subjekt osnovan u Europskom gospodarskom prostoru (EGP) koji podliježe superviziji i/ili nadzoru nadležnog tijela i koji ispunjava zahtjeve nadzora u vezi s lokacijom infrastrukture koja nudi usluge u eurima, s povremenim izmjenama koje se objavljuju na internetskoj stranici ESB-a, u kojem se razmjenjuju i/ili obračunavaju plaćanja i/ili financijski instrumenti, dok se posljedične novčane obveze namiruju u sustavu TARGET2 u skladu sa Smjernicom ESB/2012/27 i dvostranim sporazumima između sporednih sustava i odgovarajućeg SB-a;
+48) »središnje banke (SB)« znači središnje banke Eurosustava i povezane nacionalne središnje banke;
+49) »sučelje sporednog sustava (ASI)« znači tehnički uređaj koji omogućava sporednom sustavu upotrebu niza posebnih, unaprijed definiranih usluga za dostavu i namiru instrukcija za plaćanje sporednog sustava;
+50) »sudionik« (ili »izravni sudionik«) znači subjekt koji ima najmanje jedan PM račun (imatelj PM računa) i/ili jedan namjenski novčani račun (imatelj DCA-a) kod SB-a;
+51) »sudionik nalogodavac« znači sudionik u sustavu TARGET2 koji je inicirao nalog za plaćanje;
+52) »sudionik u sustavu TARGET2« znači bilo koji sudionik u bilo kojoj komponenti sustava TARGET2;
+53) »TARGET2« znači

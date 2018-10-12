@@ -1,0 +1,27 @@
+ o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17., Pre-spot/Forward tečaj. Polje sadržava podatak o tečaju. Polje može imati najviše šesnaest znakova, uključujući decimalni zarez i šest decimalnih mjesta.
+Kontrola: Polje mora biti popunjeno iznosom većim od nule.
+Kontrola: Polje se popunjava isključivo u slučaju kada je polje 7. Instrument popunjeno modalitetom »PSP«.
+6. Povratna datoteka s pogreškama
+Povratne datoteke s pogreškama imaju istu strukturu naziva datoteke kao i dolazne datoteke s podacima (slogovima), samo što im je oznaka »Gxx».
+Slogovi u kojima je ustanovljena pogreška u dolaznim podacima vraćaju se u izvještajnu instituciju u obliku i sa sadržajem s kakvima su dostavljeni u HNB, uz dodatak polja s opisom pogreške. Datoteka s pogreškama preuzima se s internetske stranice HNB-a za dostavu i preuzimanje datoteka, nakon što ovlašteni djelatnici izvještajne institucije o statusu obrade poslane datoteke budu obaviješteni elektroničkom poštom. Datoteka se generira i raspoloživa je za preuzimanje samo u slučaju da postoje pogreške u poslanoj datoteci.
+6.1. Redovna datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja
+U datoteci s pogreškama u slogu bit će dodano:
+Polje 25. Pogreška
+Polje se obvezno popunjava i sadržava opis pogreške u izvještajnom slogu.
+6.2. Datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija
+U datoteci s pogreškama u slogu bit će dodano:
+Polje 18. Pogreška
+Polje se obvezno popunjava i sadržava opis pogreške u izvještajnom slogu.
+7. XSD datoteke za dostavu podataka
+7.1. Redovna datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja
+7.2. Datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija
+Navedene datoteke HNB će objaviti na svojim internetskim stranicama (www.hnb.hr), a obveznici izvješćivanja dužni su osigurati primjenu datoteka.
+8. Primjeri XML datoteka
+8.1. Redovna datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja
+8.2. Prazna datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja
+8.3. Datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija
+8.4. Prazna datoteka bez slogova koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija
+8.5. Povratna datoteka s pogreškama u redovnoj datoteci sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja
+8.6. Povratna datoteka s greškama u datoteci sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija
+Primjere XML datoteka HNB će objaviti na svojim internetskim stranicama (www.hnb.hr).
+[1]Instrumenti navedeni u ovom odlomku odnose se na instrumente definirane Uputom za statističko i bonitetno izvješćivanje sa stanjem iz posljednjega Mjesečnog izvješća za koje su dostavljeni podaci iz Upute za statističko i bonitetno izvješćivanje, a koje prethodi izvještajnom datumu.

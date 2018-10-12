@@ -1,0 +1,39 @@
+ osigurava aktiviranjem direktne kočnice te pritezanjem ručne odnosno pritvrdne kočnice ili opružne kočnice.
+(4) Vlak ili dio vlaka, koji zbog iznimnih uvjeta (nestanak napona, raskidanje vlaka, kvar lokomotive i drugo) nije moguće osigurati od samopokretanja automatskim kočnicama, osigurava se od samopokretanja pritezanjem ručnih odnosno pritvrdnih kočnica, i to:
+a) na nagibima do 2,5‰ pritezanjem prve i posljednje ručne odnosno pritvrdne kočnice ili
+b) na nagibima većima od 2,5‰ pritezanjem svih ručnih odnosno pritvrdnih kočnica.
+(5) U teretnom vlaku mora biti potrebna količina ručnih odnosno pritvrdnih kočnica, tako da se osigura sljedeći najmanji postotak kočenja ručnih odnosno pritvrdnih kočnica (prn):
+a) na nagibima do najviše 4‰, prn = 2%
+b) na nagibima od 5‰ do najviše 10‰, prn = 5%
+c) na nagibima od 11‰ do najviše 15‰, prn = 7%
+d) na nagibima od 16‰ do najviše 20‰, prn = 10%
+e) na nagibima od 21‰ do najviše 25‰, prn = 12% i
+f) na nagibima od 26‰ do najviše 30‰, prn = 14%.
+(6) U vlakovima za prijevoz putnika mora biti osiguran dvostruki postotak kočenja ručnih odnosno pritvrdnih kočnica u skladu s odredbama iz stavka 5. ovog članka za teretne vlakove.
+(7) Postotak kočenja ručnih odnosno pritvrdnih kočnica izračunava se pomoću sljedeće formule:
+
+Značenje simbola je sljedeće:
+pr – stvarni postotak kočenja ručnih odnosno pritvrdnih kočnica,
+SKMr – ukupna kočna masa ručnih odnosno pritvrdnih kočnica vučenih vozila s pribrojenih 10 tona po jednoj ručnoj zaustavnoj papuči iz opreme vučnog/vučnih vozila (manevarske lokomotive imaju 2 ručne zaustavne papuče, a sva ostala vučna vozila po 4 ručne zaustavne papuče),
+Q – zbroj mase svih vučenih vozila u vlaku (tona).
+(8) Kočna masa ručnih odnosno pritvrdnih kočnica na vagonima s kočnim umetcima od kompozitnih materijala uzima se 50% od veličine ispisane na vagonu.
+(9) Izračunata veličina pr ne smije biti manja od najmanjeg postotka kočenja ručnih odnosno pritvrdnih kočnica za mjerodavni nagib na voznoj relaciji vlaka. Ako nedostaje određena veličina kočne mase, potrebno je dodati u vlak potreban broj vagona s ručnim odnosno pritvrdnim kočnicama tako da se zadovolji najmanji postotak kočenja ručnih odnosno pritvrdnih kočnica.
+Kočenje pri manevriranju
+Članak 65.
+Za smanjenje brzine ili zaustavljanje vozila pri manevriranju koriste se:
+a) kočnice na vozilima
+b) ručne zaustavne papuče i
+c) kolosiječne kočnice na spuštalici.
+Članak 66.
+(1) Manevarski sastav s više od 40 osovina obavezno se mora kočiti automatskim kočnicama, osim u slučajevima manevriranja na spuštalici i manevriranja odbacivanjem, pri čemu se vozila koja se spuštaju ili odbacuju ne spajaju s glavnim zračnim vodom lokomotive.
+(2) Kod vagonske skupine s uključenim automatskim kočnicama potrebno je izvesti skraćenu probu kočenja B, odnosno provjeru kočenja i otkočivanja kočnica te vagonske skupine.
+(3) Vozila koja nisu uključena u automatsko kočenje moraju biti otkočena.
+Članak 67.
+(1) Ako vagonska skupina nije uključena u glavni zračni vod lokomotive, tada se umjesto automatske kočnice koristi direktna kočnica.
+(2) Dopušteni broj osovina manevarskog sastava kočen direktnom kočnicom lokomotive izračunava se prema formuli u skladu s odredbama iz članka 68. ovog Pravilnika, ali taj broj ne smije biti veći od 40.
+(3) Ako je broj osovina manevarskog sastava veći nego izračunati broj, tada je, zavisno od mjesne situacije, potrebno predvidjeti neku od sljedećih mogućnosti:
+a) glavni zračni vod vagonske skupine s uključenim automatskim kočnicama uključiti u glavni zračni lokomotivski vod te izvesti skraćenu probu kočenja B ili
+b) za prekobrojne osovine osigurati zaposjedanje ručnih kočnica u skladu s odredbama iz članka 68. ovog Pravilnika.
+(4) Kočenje automatskim kočnicama otvaranjem čelne slavine zračnog voda izvršni radnici koji sudjeluju u manevriranju smiju koristiti samo za zaustavljanje zbog opasnosti.
+Članak 68.
+(1) Dopušteni broj osovina vagona kočenih pri manevriranju direktnom kočnicom lokomotive računa se po

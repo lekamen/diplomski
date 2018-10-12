@@ -1,0 +1,27 @@
+predsjednika ili članove uprave:
+1. ako društvo za osiguranje ne postupa djelomično ili u cijelosti u skladu s rješenjem o otklanjanju nezakonitosti i nepravilnosti, odnosno
+2. ako uprava društva za osiguranje ne provede dodatne mjere iz stavka 1. ovoga članka koje je odredila, odnosno
+3. ako društvo za osiguranje učestalo krši obvezu pravodobnog i točnog izvještavanja, odnosno obavještavanja Agencije ili ometa Agenciju u obavljanju nadzora.
+Kapitalni dodatak
+Članak 239.
+(1) Agencija može, u iznimnim okolnostima, u skladu s Uredbom (EU) br. 2015/35, rješenjem naložiti društvu za osiguranje uvođenje kapitalnog dodataka.
+(2) Potrebni solventni kapital zajedno s uvedenim kapitalnim dodatkom zamjenjuje neodgovarajući potrebni solventni kapital.
+(3) Okolnosti iz stavka 1. ovoga članka nastupaju isključivo ako:
+1. profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun potrebnog solventnog kapitala standardnom formulom u skladu s odredbama ovoga Zakona i:
+– zahtjev za uporabu unutarnjeg modela iz članka 149. ovoga Zakona je neprimjeren ili je bio nedjelotvoran ili
+– za vrijeme dok se djelomični ili potpuni unutarnji model razvija u skladu s člankom 149. ovoga Zakona
+2. profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun potrebnog solventnog kapitala uporabom potpunog ili djelomičnog unutarnjeg modela u skladu s odredbama ovoga Zakona jer neki mjerljivi rizici nisu dovoljno obuhvaćeni, a model nije bio prilagođen u odgovarajućem razdoblju kako bi bolje odražavao dani profil rizičnosti
+3. sustav upravljanja društva za osiguranje značajno odstupa od standarda propisanih ovim Zakonom te da ta odstupanja sprječavaju da se rizici kojima je društvo izloženo ili kojima bi moglo biti izloženo primjereno utvrde, mjere, prate, da se njima upravlja i o njima izvješćuje te da nije vjerojatno da bi primjena drugih mjera mogla sama po sebi dovoljno poboljšati nedostatke u odgovarajućem razdoblju
+4. društvo za osiguranje primjenjuje prilagodbu za uravnoteženje iz članka 111. ovoga Zakona, prilagodbu za volatilnost iz članka 113. ovoga Zakona ili prijelazne mjere iz članaka 455. i 456. ovoga Zakona i Agencija zaključi da profil rizičnosti tog društva značajno odstupa od pretpostavki na kojima se temelje te mjere za prilagodbu i prijelazne mjere.
+(4) U okolnostima iz stavka 3. točaka 1. i 2. ovoga članka kapitalni dodatak izračunava se u skladu s Uredbom (EU) br. 2015/35 na način koji osigurava da se društvo uskladi s člankom 131. stavkom 3. ovoga Zakona.
+(5) U okolnostima iz stavka 3. točke 3. ovoga članka kapitalni dodatak razmjeran je značajnim rizicima koji proizlaze iz nedostataka koji su doveli do odluke Agencije da odredi taj dodatak.
+(6) U okolnostima iz stavka 3. točke 4. ovoga članka kapitalni dodatak razmjeran je značajnim rizicima koji proizlaze iz odstupanja iz stavka 4. ovoga članka.
+(7) U slučajevima iz stavka 3. točaka 2. i 3. ovoga članka Agencija osigurava da društvo za osiguranje poduzme sve napore kako bi otklonilo nedostatke koji su doveli do uvođenja kapitalnog dodatka.
+(8) Agencija preispituje kapitalni dodatak iz stavka 1. ovoga članka najmanje jedanput godišnje, a on se ukida kad društvo otkloni nedostatke koji su doveli do njegova uvođenja.
+(9) Ne dovodeći u pitanje stavak 2. ovoga Zakona, potrebni solventni kapital ne uključuje kapitalni dodatak uveden u skladu sa stavkom 3. točkom 3. ovoga članka za potrebe izračuna dodatka za rizik iz članka 109. stavaka 2. i 3. ovoga Zakona.
+ODJELJAK V. IMENOVANJE POVJERENIKA
+Povjerenik Agencije u društvu za osiguranje
+Članak 240.
+(1) Agencija može imenovati povjerenika u društvu za osiguranje kad ocijeni da je potrebna detaljnija procjena i praćenje financijskog stanja te uvjeta poslovanja društva za osiguranje.
+(2) Rješenjem o imenovanju povjerenika Agencija može imenovati jednog ili više njegovih pomoćnika, od kojih će jednoga od njih odrediti za zamjenika povjerenika.
+(3) Za povjerenika se

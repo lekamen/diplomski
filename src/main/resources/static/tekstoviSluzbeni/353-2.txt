@@ -1,0 +1,20 @@
+ društvo:
+1. koje je obvezno imati iznos temeljnog kapitala sukladno članku 35. ovoga Zakona i koje ne podliježe konsolidiranom nadzoru iz članaka 265. i 267. ovoga Zakona;
+2. koje je matično investicijsko društvo u Europskoj uniji sa sjedištem u Republici Hrvatskoj, za svoju grupu;
+3. kojem to naloži Agencija posebnim rješenjem, ako utvrdi da su nastupile okolnosti za izricanje dodatnih nadzornih mjera za upravljanje rizicima iz članka 264. ovoga Zakona.
+(3) Investicijsko društvo iz stavka 2. ovoga članka dužno je plan oporavka ažurirati najmanje jednom godišnje te po svakoj promjeni u poslovnoj ili financijskoj situaciji ili pravnoj ili organizacijskoj strukturi investicijskog društva ili članice grupe za koju se plan oporavka izrađuje a koja promjena bi mogla bitno utjecati na sam plan oporavka ili uzrokovati potrebu za njegovom promjenom.
+(4) Agencija može, ako to ocijeni potrebnim, naložiti i češće ažuriranje plana oporavka od onoga iz stavka 3. ovoga članka.
+(5) Investicijsko društvo iz stavka 2. ovoga članka čiji prekid poslovanja ne bi imao negativan učinak na financijska tržišta, druga investicijska društva ili kreditne institucije ili na uvjete financiranja s obzirom na njegovu veličinu, model poslovanja i povezanost s drugim investicijskim društvima ili kreditnim institucijama ili financijskim sustavom u cjelini, plan oporavka može usvojiti i primjenjivati u manjem opsegu.
+(6) Iznimno od stavka 5. ovoga članka, Agencija može, ako to ocijeni potrebnim, naložiti primjenu plana oporavka u proširenom ili u punom opsegu.
+(7) Primjena manjeg opsega plana oporavka i manje učestalosti njegova ažuriranja kako je utvrđeno stavkom 5. ovoga članka ne utječe na ovlast Agencije za poduzimanje mjera za sprječavanje krize.
+(8) Agencija će pravilnikom detaljnije propisati izradu, sadržaj i dostavu planova oporavka Agenciji kao i kriterije za utvrđivanje manjeg opsega plana oporavka i manje učestalosti njegova ažuriranja.
+(9) Agencija će se o okolnostima iz stavka 5. ovoga članka savjetovati s Vijećem za financijsku stabilnost.
+Procjena plana oporavka
+Članak 43.b
+(1) Prije početka primjene plana oporavka iz članka 43.a stavka 1. ovoga Zakona investicijsko društvo koje je u obvezi izrade plana oporavka dužno je dostaviti Agenciji plan oporavka na odobrenje.
+(2) Plan oporavka iz članka 43.a stavka 1. ovoga Zakona mora kumulativno ispunjavati sljedeće uvjete:
+1. provedba mjera predloženih u planu osigurava i ponovno uspostavlja održivost redovnog poslovanja i stabilnost financijskog položaja investicijskog društva ili grupe za koju se plan izrađuje, u slučajevima znatnog pogoršanja poslovanja ili stabilnosti financijskog položaja, uzimajući u obzir pripremne mjere koje je investicijsko društvo poduzelo ili planira poduzeti;
+2. plan oporavka i njime predviđene mjere moraju biti takvi da se mogu u situacijama ozbiljnog financijskog poremećaja brzo i učinkovito provesti, a kako bi se izbjegle značajne štetne posljedice na financijski sustav, uključujući i slučajeve istodobnog provođenja planova oporavka u drugim investicijskim društvima.
+(3) Agencija će u roku od šest mjeseci od dostave plana oporavka ocijeniti jesu li ispunjeni uvjeti iz stavka 2. ovoga članka te o tome obavijestiti investicijsko društvo. Ako investicijsko društvo ima značajnu podružnicu u drugoj državi članici u smislu članaka 275.c i 275.d ovoga Zakona, Agencija će se u navedenom roku savjetovati i s nadležnim tijelom države članice u kojoj se nalazi ta podružnica, u onoj mjeri u kojoj je to važno za tu podružnicu.
+(4) Pri ocjenjivanju plana oporavka iz stavka 3. ovoga članka Agencija će o primjerenosti strukture kapitala i izvora financiranja investicijskog društva odlučivati ovisno o složenosti organizacijske strukture i profilu rizičnosti tog investicijskog društva.
+(5) Agencija će, bez odgađanja, sanacijskom tijelu koje je propisano zakonom kojim se uređuje sanacija investicijskih društava dostaviti plan oporavka za koji utvrdi da ispunjava uvjete propisane stavkom 

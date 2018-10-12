@@ -1,0 +1,31 @@
+56 22.05.2015 Pravilnik o sadržaju, ustroju i načinu vođenja baze podataka o javnim cestama i objektima na njima
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+1102
+Na temelju članka 17. stavka 5. Zakona o cestama (»Narodne novine«, br. 84/11, 22/13, 54/13, 148/13 i 92/14), ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O SADRŽAJU, USTROJU I NAČINU VOĐENJA BAZE PODATAKA O JAVNIM CESTAMA I OBJEKTIMA NA NJIMA
+I. OPĆE ODREDBE
+1. Predmet pravilnika
+Članak 1.
+Ovim Pravilnikom propisuju se sadržaj, ustroj, vođenje, održavanje i korištenje baze podataka o javnim cestama i objektima na njima (u daljnjem tekstu: baza podataka o javnim cestama) te načini jedinstvenog označavanja i prikupljanja podataka o javnim cestama.
+Članak 2.
+Baza podataka o javnim cestama je skup međusobno povezanih podataka, koji interakcijom omogućavaju pregled stanja javnih cesta i objekata na njima, sastavnih elemenata i prometa koji se po njima odvija, a koji se na odgovarajući način i pod određenim uvjetima koriste za potrebe upravljanja, građenja, održavanja, zaštite javnih cesta i prometa na njima te za potrebe službenih statistika, državnih upravnih tijela, međunarodnih organizacija i drugih pravnih i fizičkih osoba.
+II. SADRŽAJ, USTROJ I NAČIN VOĐENJA BAZE PODATAKA O JAVNIM CESTAMA
+1. Sadržaj i unutarnja podjela baze podataka o javnim cestama
+Članak 3.
+(1) Bazu podataka o javnim cestama čine dva osnovna dijela:
+1. Prostorna baza podataka – koja sadrži georeferencirane vektorske podatke o osima javnih cesta, jedinstveni adresni sustav javnih cesta i druge tematske GIS slojeve neophodne za prostorno analiziranje i prikazivanje,
+2. Alfanumerička baza podataka – koja sadrži opisne, brojčane i grafičke tehničke podatke o cestama i objektima na njima.
+(2) Prostorna baza podataka je temelj cjelokupne baze podataka o javnim cestama, gdje se na georeferencirane vektorske prostorne podatke osi cesta vežu, koristeći GIS tehnologiju i primjenjujući pravila i tehničke specifikacije jedinstvenog adresnog sustava, svi alfanumerički podaci o cestama te se na taj način mogu prostorno locirati.
+(3) Sadržaj Prostorne baze podataka, provedbena pravila i tehničke specifikacije prikazani su u Prilogu 1. ovoga Pravilnika, koji čini njegov sastavni dio.
+(4) Alfanumeričku bazu podataka čine obvezni i preporučljivi tehnički podaci. Obvezni tehnički podaci moraju se tekuće prikupljati i unositi u bazu. Preporučljivi tehnički podaci mogu se prikupljati tekuće ili samo za pojedine analize stanja cesta i objekata na njima, ovisno o potrebama iz članka 2. ovoga Pravilnika.
+(5) Sadržaj Alfanumeričke baze podataka, provedbena pravila i tehničke specifikacije prikazani su u Prilogu 2. ovoga Pravilnika, koji čini njegov sastavni dio.
+2. Ustroj i vođenje baze podataka o javnim cestama
+Članak 4.
+(1) Hrvatske ceste vode bazu podataka o javnim cestama sukladno odredbama Zakona o cestama i ovoga Pravilnika.
+(2) Hrvatske ceste d.o.o. nadležne su za uspostavu baze podataka o javnim cestama sukladno odredbama ovoga Pravilnika.
+(3) Hrvatske ceste d.o.o. nadležne su za vođenje baze podataka o javnim cestama, za prikupljanje, obradu, ažuriranje, verifikaciju i održavanje podataka Prostorne baze podataka te primjenu jedinstvenog adresnog sustava označavanja javnih cesta.
+(4) Hrvatske ceste d.o.o., Hrvatske autoceste d.o.o., županijske uprave za ceste i koncesionari (u daljnjem tekstu: upravitelj) nadležan je za prikupljanje, obradu, ažuriranje, verifikaciju i održavanje tehničkih podataka Alfanumeričke baze podataka za one javne ceste kojima upravlja.
+3. Obveze i rokovi za podatke Prostorne baze podataka
+Članak 5.
+Za provođenje obveza iz članka 4. stavka 3. ovoga Pravilnika, upravitelji su dužni Hrvatskim cestama d.o.o. staviti na raspolaganje podatke o geometriji javnih cesta kojima upravljaju, i to podatke o promjeni geometrije postojećih javnih cesta, koje su nastale kao posljedica radova redovitog i izvanrednog održavanja ili drugih mjera i podatke o geometriji novoizgrađenih

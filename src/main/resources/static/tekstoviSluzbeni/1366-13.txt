@@ -1,0 +1,44 @@
+ vrijeme početka i završetka ročišta.
+Članak 82.
+Priprema i ispis sudskih poziva strankama i drugim osobama obavlja se kroz sustav JCMS.
+Članak 83.
+Podaci o otpravku, uključujući način otpreme, primatelja i njegovu adresu, unose se u sustav JCMS u referadi rješavatelja.
+XVIII. POSTUPANJE SUDSKE PISARNICE PO NAREDBAMA
+Članak 84.
+(1) Fizičko i elektroničko kretanje spisa mora biti usklađeno. U sustavu JCMS sudska pisarnica ne upisuje primitak spisa nego ga samo potvrđuje. Svaka primopredaja spisa mora biti potvrđena bez odgode.
+(2) Ako spis fizički nije zaprimljen na mjestu na kojem je u sustavu JCMS evidentiran, osoba zadužena za prijem spisa dužna je poduzeti sve potrebne radnje za pronalazak spisa.
+(3) Nakon prijema spisa sudska pisarnica postupit će prema dostavnoj naredbi koja je upisana u sustav JCMS te provjeriti upozorenja koristeći odgovarajuće funkcije sustava JCMS i postupiti u skladu s njima.
+Članak 85.
+(1) Sustav JCMS sadrži »Popis aktivnosti«.
+(2) »Popis aktivnosti« je automatski generiran skup podataka koji sadrži kronološki i sažeti pregled svih bitnih radnji u predmetu i omogućava brzi uvid u tijek i trenutno stanje predmeta.
+(3) Zapisi se sastoje od datuma evidentiranja radnje, vrste radnje, njenog kratkog opisa i najvažnijih parametara te podataka o korisničkom imenu osobe koja je poduzela radnju.
+Članak 86.
+(1) Funkcija »Kretanje spisa« prikazuje kronološki tijek kretanja spisa, uključujući datum slanja i potvrde prijema, ustrojstvenu jedinicu koja šalje i ustrojstvenu jedinicu koja prima spis.
+(2) U sustavu JCMS podaci o kretanju spisa nastaju kao rezultat dostave spisa pomoću sustava JCMS.
+(3) Kronološki tijek kretanja spisa omogućuje jednostavan uvid u protekli tijek kretanja i trenutnu lokaciju spisa.
+Otpremanje i dostavljanje sudskih pošiljki
+Članak 87.
+(1) Otpremanje unesenih otpravaka evidentira se pomoću sustava JCMS, pri čemu se unosi broj pošiljke, način i datum otpreme.
+(2) Podaci o otpremljenim pismenima evidentiraju se u dostavnoj knjizi za poštu ili dostavnoj knjizi za mjesto u sustavu JCMS.
+Članak 88.
+Podatak o dostavi pošiljke upisuje se u sustav JCMS.
+Otpremna i dostavna služba
+Članak 89.
+(1) Sudski službenik određen za otpremu pošiljaka dužan je postupiti po dostavnoj naredbi koja je unesena u sustav JCMS.
+(2) Uručenje ili neuručenje otpravka unosi se u sustav JCMS, uključujući datum uručenja ili dostavnice, datum pokušaja uručenja, razlog neuručenja i napomene vezane uz uručenje.
+Članak 90.
+U sustav JCMS sudska pisarnica unosi podatke o dostavi.
+XIX. POSTUPANJE S PREDMETIMA VEZANIM UZ ROK
+Članak 91.
+(1) Rok za popis spisa (kalendar) određuje rješavatelj.
+(2) Ako se spis nalazi u referadi i dostavlja sudskoj pisarnici, rješavatelj će to učiniti kod dostavljanja spisa, navođenjem roka za popis u napomeni sustava JCMS.
+(3) Ako se spis nalazi u sudskoj pisarnici, učinit će to naredbom u sustavu JCMS, kojom određuje raspravu ili ročište, tako da u polju za opis osim dana određenog za raspravu ili ročište navede i rok za popis (npr.: »R. 01/09 – 8,30 – Kal. 15/10«). Ako su dan i sat održavanja rasprave ili ročišta već priopćeni strankama i drugim osobama na raspravi ili ročištu, a rok za popis nije određen, spis se stavlja u pretinac koji odgovara danu za koji je rasprava ili ročište određeno.
+Članak 92.
+(1) Vrijeme održavanja rasprava, ročišta i drugih sudskih radnji potrebno je evidentirati u sustavu JCMS. Početak zakazane sudske radnje vidljiv je u sustavu JCMS.
+(2) Stavljanje predmeta u elektronički kalendar evidentira se u referadi rješavatelja.
+Članak 93.
+Službenik sudske pisarnice dužan je redovito u sustavu JCMS pratiti rokove u predmetima koji se nalaze u pisarnici i pravovremeno postupati po dostavnim naredbama i upozorenjima evidentiranim u sustavu JCMS.
+XX. OSTALE ODREDBE O POSTUPANJU U SUSTAVU JCMS
+Dostavljanje spisa rješavateljima
+Članak 94.
+Prije dostave spisa u referadu na rješavanje kroz sustav JCMS sudska pisarnica je dužna u napomenu sustava JCMS upisati informaciju o provedbi 

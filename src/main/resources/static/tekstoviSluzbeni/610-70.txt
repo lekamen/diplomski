@@ -1,0 +1,27 @@
+bilo kakve naknadne veće izmjene tog modela.
+(2) Uprava društva za osiguranje odgovorna je za uspostavu, a nadzorni odbor za nadzor sustava koji osigurava kontinuirano i pravilno funkcioniranje unutarnjeg modela.
+Povratak na standardnu formulu
+Članak 147.
+Nakon dobivanja odobrenja u skladu s člankom 143. ovoga Zakona društvo za osiguranje ne može se vratiti na izračun potrebnog solventnog kapitala ili nekog njegova dijela u skladu sa standardnom formulom, osim u primjereno opravdanim okolnostima i pod uvjetom da za to dobije odobrenje Agencije.
+Neusklađenost unutarnjeg modela
+Članak 148.
+(1) Društvo za osiguranje koje nakon dobivanja odobrenja Agencije za uporabu unutarnjeg modela prestane ispunjavati zahtjeve iz članaka 150. – 155. ovoga Zakona dužno je bez odgađanja Agenciji dostaviti plan za ponovno uspostavljanje usklađenosti s navedenim zahtjevima u razumnom razdoblju ili dostaviti dokaze da učinak neusklađenosti nije značajan.
+(2) Ako društvo za osiguranje ne provede plan iz stavka 1. ovoga članka, Agencija može zahtijevati od predmetnog društava da potrebni solventni kapital ponovno izračunava u skladu sa standardnom formulom.
+Značajna odstupanja od pretpostavki na kojima se temelji izračun prema standardnoj formuli
+Članak 149.
+Kad nije primjereno izračunavati potrebni solventni kapital u skladu sa standardnom formulom jer profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji izračun prema standardnoj formuli, Agencija može zahtijevati od predmetnog društva da za izračun potrebnog solventnog kapitala ili njegovih relevantnih modula rizika upotrebljava unutarnji model.
+Test upotrebljivosti
+Članak 150.
+(1) Društvo za osiguranje dužno je dokazati da njihov unutarnji model ima široku primjenu i da ima važnu ulogu u njihovu sustavu upravljanja u skladu s odredbama ovoga Zakona, a posebno u:
+1. sustavu upravljanja rizicima iz članka 94. ovoga Zakona i postupcima odlučivanja
+2. postupcima procjene ekonomskog i solventnog kapitala te procesa njihove alokacije, uključujući procjenu iz članka 96. ovoga Zakona.
+(2) Društvo za osiguranje dužno je dodatno dokazati da je učestalost izračuna potrebnog solventnog kapitala uporabom unutarnjeg modela u skladu s učestalošću kojom upotrebljavaju svoj unutarnji model za druge svrhe navedene u stavku 1. ovoga članka.
+(3) Uprava društva za osiguranje dužna je osigurati, a nadzorni odbor nadzirati, kontinuiranu primjerenost strukture i funkcionalnosti unutarnjeg modela te osigurati da unutarnji model kontinuirano primjereno odražava profil rizičnosti društva za osiguranje.
+Standardi statističke kvalitete
+Članak 151.
+(1) Metode koje se upotrebljavaju za izračun prognoze distribucije vjerojatnosti moraju se temeljiti na primjerenim, primjenjivim i relevantnim aktuarskim i statističkim tehnikama te moraju biti usklađene s metodama koje se upotrebljavaju za izračun tehničkih pričuva. Navedene metode moraju se temeljiti na aktualnim i vjerodostojnim informacijama te realnim pretpostavkama.
+(2) Društvo za osiguranje dužno je biti u mogućnosti Agenciji opravdati pretpostavke na kojima se temelji njihov unutarnji model.
+(3) Podaci koji se upotrebljavaju za unutarnji model moraju biti točni, potpuni i primjereni. Društvo za osiguranje dužno je ažurirati podatke koje upotrebljava u izračunu prognoze distribucije vjerojatnosti najmanje jedanput godišnje.
+(4) Za izračun prognoze distribucije vjerojatnosti nije propisana posebna metoda. Neovisno o odabranoj metodi izračuna, sposobnost unutarnjeg modela da ocijeni značajnost rizika mora biti takva da navedeni unutarnji model ima široku primjenu i važnu ulogu u sustavu upravljanja društva za osiguranje, i to posebice u sustavu upravljanja rizicima, postupcima odlučivanja te alokaciji kapitala u skladu s člankom 150. ovoga Zakona.
+(5) Unutarnji model mora obuhvaćati sve značajne rizike kojima je društvo za osiguranje izloženo te mora najmanje obuhvaćati rizike iz članka 131. stavka 4. ovoga Zakona.
+(6) Što se tiče

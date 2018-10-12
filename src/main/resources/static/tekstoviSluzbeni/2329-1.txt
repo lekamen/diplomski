@@ -1,0 +1,36 @@
+ članka 27. stavka 5. ovog Pravilnika, HAKOM će donijeti odluku o oduzimanju dodijeljenih adresa i/ili brojeva.
+(7) U slučaju prestanka mogućnosti korištenja određenog broja i/ili raspona brojeva sukladno Planu numeriranja, plaćanje naknada se određuje proporcionalno vremenu korištenja predmetne numeracije unutar godine dana.
+Naknada za uporabu zemljopisnih brojeva za javne komunikacijske usluge
+Članak 4.
+(1) Naknada za jedan dodijeljeni zemljopisni broj iz raspona brojeva namijenjenih za javne komunikacijske usluge iznosi 0,55 kuna.
+(2) Naknada za dodijeljeni blok zemljopisnih brojeva iz raspona brojeva namijenjenih za javne komunikacijske usluge jednaka je zbroju naknada za sve pojedinačne dodijeljene brojeve koji se nalaze u tom bloku brojeva.
+Naknada za uporabu nezemljopisnih brojeva za usluge s posebnom tarifom, usluge jedinstvenog pristupnog broja, usluge besplatnog poziva, usluge osobnog broja, usluge pristupa internetu i kratke SMS/MMS kodove za usluge s posebnom tarifom, usluge platnog prometa i besplatne usluge
+Članak 5.
+(1) Naknada za jedan dodijeljeni šesteroznamenkasti pretplatnički broj iz raspona nezemljopisnih brojeva namijenjenih za usluge s posebnom tarifom, usluge jedinstvenog pristupnog broja, usluge besplatnog poziva, usluge osobnog broja i usluge pristupa internetu iznosi 5,00 kuna.
+(2) Naknada za jedan dodijeljeni četveroznamenkasti pretplatnički broj iz raspona nezemljopisnih brojeva namijenjenih za usluge s posebnom tarifom i usluge besplatnog poziva iznosi 50,00 kuna.
+(3) Naknada za jedan dodijeljeni kratki kod za SMS/MMS usluge s posebnom tarifom, usluge platnog prometa i besplatne usluge iznosi 250,00 kuna.
+(4) Naknada za dodijeljeni blok brojeva i kratkih SMS/MMS kodova iz raspona brojeva i kratkih SMS/MMS kodova iz ovog članka jednaka je zbroju naknada za sve pojedinačne dodijeljene brojeve koji se nalaze u tom bloku brojeva.
+Naknada za uporabu nacionalnih odredišnih kodova
+Članak 6.
+(1) Naknada za jedan dodijeljeni dvoznamenkasti nacionalni odredišni kod (NDC) za javne komunikacijske usluge u pokretnim elektroničkim komunikacijskim mrežama iznosi 589.650,00 kuna.
+(2) Naknada za jedan dodijeljeni troznamenkasti nacionalni odredišni kod (NDC) za javne komunikacijske usluge u pokretnim elektroničkim komunikacijskim mrežama iznosi 58.965,00 kuna.
+(3) Naknada za jedan dodijeljeni četveroznamenkasti nacionalni odredišni kod (NDC) za javne komunikacijske usluge u pokretnim elektroničkim komunikacijskim mrežama iznosi 5.896,50 kuna.
+(4) Naknada za jedan dodijeljeni četveroznamenkasti nacionalni odredišni kod (NDC) za M2M usluge iznosi 3.685,00 kuna, a za jedan dodijeljeni peteroznamenkasti nacionalni odredišni kod (NDC) za M2M usluge iznosi 368,50 kuna.
+Naknada za uporabu kratkih kodova
+Članak 7.
+(1) Naknada za dodijeljeni peteroznamenkasti kôd za službu davanja obavijesti (informacija) i za ostale peteroznamenkaste kôdove iznosi 10.000,00 kuna.
+(2) Naknada za dodijeljeni četveroznamenkasti kôd za odabir operatora i za ostale četveroznamenkaste kôdove iznosi 25.000,00 kuna.
+(3) Naknada za dodijeljeni troznamenkasti kôd iznosi 50.000,00 kuna.
+(4) Za uporabu kratkih kodova za hitne službe i za uporabu kratkih kodova za govorne usluge raspona 116xxx, ne plaća se naknada.
+Naknada za uporabu adresa (kôdova)
+Članak 8.
+(1) Naknada za jedan dodijeljeni kôd zatvorene korisničke skupine iznosi 2,50 kune.
+(2) Naknada za dodijeljeni blok kôdova zatvorenih korisničkih skupina jednaka je zbroju naknada za sve pojedinačne dodijeljene kôdove koji se nalaze u tom bloku kôdova.
+(3) Naknada za jedan dodijeljeni kôd nacionalne signalizacijske točke iznosi 252,50 kuna.
+(4) Naknada za jedan dodijeljeni kôd međunarodne signalizacijske točke iznosi 252,50 kuna.
+(5) Naknada za jedan dodijeljeni identifikacijski kôd podatkovne mreže iznosi 252,50 kuna.
+(6) Naknada za jedan dodijeljeni kôd pokretne komunikacijske mreže iznosi 252,50 kuna.
+III. NAKNADA ZA UPORABU RADIOFREKVENCIJSKOG SPEKTRA
+Određivanje naknade
+Članak 9.
+Naknada za 

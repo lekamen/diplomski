@@ -1,0 +1,23 @@
+osiguranje s obzirom na preporuke revizora iz prethodnih godina,
+– preporuke revizora s navođenjem uočenih slabosti i rizika,
+– ocjenu revizora je li društvo za osiguranje uspostavilo ključne funkcije unutar sustava upravljanja te da li ključne funkcije obavljaju poslove u skladu sa Zakonom o osiguranju i na temelju njega donesenim propisima kao i odredbama Delegirane Uredbe 2015/35 te Smjernicama EIOPA-e koje uređuju sustav upravljanja u skladu s člankom 2. stavkom 5. ovog Pravilnika.
+Izvještaj o stanju informacijskog sustava i adekvatnosti upravljanja informacijskim sustavom
+Članak 6.
+(1) Revizorsko društvo dužno je provjeriti i ocijeniti stanje informacijskog sustava i adekvatnosti upravljanja informacijskim sustavom o čemu mora izraditi Izvještaj o stanju informacijskog sustava i adekvatnosti upravljanja informacijskim sustavom.
+(2) Izvještaj iz stavka 1. ovoga članka mora sadržavati najmanje:
+– osnovne podatke o provedbi revizijskog postupka,
+– opis informacijskog sustava,
+– konstatacije o postupcima društva za osiguranje s obzirom na preporuke revizora iz prethodnih godina,
+– preporuke revizora s navođenjem uočenih slabosti, nedostataka i rizika informacijskog sustava,
+– ocjenu revizora o stanju i adekvatnosti upravljanja informacijskim sustavom u skladu s člankom 2. stavkom 5. ovog Pravilnika.
+(3) U slučaju da prilikom izrade Izvještaja iz stavka 1. ovoga članka revizorsko društvo nije uzelo u obzir Smjernice za provedbu revizije informacijskog sustava subjekata nadzora od strane revizorskih društava objavljene na mrežnim stranicama Agencije potrebno je obrazložiti razloge takvog postupanja.
+Izvještaj o pravilnosti, točnosti i potpunosti izvješća koja se dostavljaju Agenciji
+Članak 7.
+(1) Revizorsko društvo dužno je provjeriti i ocijeniti pravilnost, točnost i potpunost izvješća koja se dostavljaju Agenciji na temelju Zakona o osiguranju i na temelju njega donesenim propisima za razdoblje poslovne godine, i to na temelju pravilnika kojim se propisuje oblik i sadržaj financijskih i dodatnih izvještaja društva za osiguranje odnosno društva za reosiguranje te pravilnika kojim se propisuju statistički standardi za obrađivanje podataka o poslovima osiguranja odnosno reosiguranja, rizicima koje pokriva osiguranje odnosno reosiguranje, osiguranim slučajevima i štetama, o čemu mora izraditi Izvještaj o pravilnosti, točnosti i potpunosti izvješća koja se dostavljaju Agenciji.
+(2) Izvještaj iz stavka 1. ovoga članka uključuje ocjenu revizora iz članka 2. stavka 5. ovog Pravilnika o pravilnosti, točnosti i potpunosti izvješća koja se na temelju Zakona o osiguraju te na temelju njega donesenim propisima dostavljaju Agenciji. Kriterij pravilnosti, točnosti i potpunosti je između ostaloga i usuglašenost s revidiranim financijskim izvještajima.
+Izvještaj o točnosti i potpunosti Izvješća o solventnosti i financijskom stanju iz članka 168. Zakona o osiguranju
+Članak 8.
+(1) Revizorsko društvo dužno je provjeriti i ocijeniti točnost i potpunost Izvješća o solventnosti i financijskom stanju iz članka 168. Zakona o osiguranju (dalje u tekstu: Izvješće o solventnosti i financijskom stanju) te izraditi Izvještaj o točnosti i potpunosti Izvješća o solventnosti i financijskom stanju.
+(2) Provjera iz stavka 1. ovoga članka obuhvaća:
+a) provjeru da li Izvješće o solventnosti i financijskom stanju uključuje i primjerno predstavlja informacije iz članka 4. točaka a) do g) Provedbene Uredbe Komisije (EU) 2015/2452 оd 2. prosinca 2015. o utvrđivanju provedbenih tehničkih standarda u vezi s postupcima, formatima i predlošcima za izvješće o solventnosti i financijskom stanju u skladu s Direktivom 2009/138/EZ Europskog parlamenta i Vijeća (SL L br. 347 od 2. 12. 2015.; dalje u tekstu: Provedbene Uredbe Komisije 2015/2452) koje se odnose na podloge i metode upotrijebljene za vrednovanje imovine, tehničkih pričuva i ostalih obveza za potrebe solventnosti
+b) provjeru da li su elementi Izvješća o solventnosti i financijskom stanju koji nisu predmet provjere

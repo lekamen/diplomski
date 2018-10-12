@@ -1,0 +1,44 @@
+1 02.01.2016 Pravilnik o načinu vođenja Registra godišnjih financijskih izvještaja, te načinu primanja i postupku provjere potpunosti i točnosti godišnjih financijskih izvještaja i godišnjeg izvješća
+MINISTARSTVO FINANCIJA
+2
+Na temelju članka 34. stavka 12. Zakona o računovodstvu (»Narodne novine«, br. 78/15 i 134/15), ministar financija donosi
+PRAVILNIK
+O NAČINU VOĐENJA REGISTRA GODIŠNJIH FINANCIJSKIH IZVJEŠTAJA, TE NAČINU PRIMANJA I POSTUPKU PROVJERE POTPUNOSTI I TOČNOSTI GODIŠNJIH FINANCIJSKIH IZVJEŠTAJA I GODIŠNJEG IZVJEŠĆA
+DIO PRVI OPĆE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuju se sadržaj i način vođenja Registra godišnjih financijskih izvještaja (u daljnjem tekstu: Registar), ažuriranje registra, način i rokovi dostave dokumentacije, zaprimanje dokumentacije, javna objava, te zaštita i čuvanje dokumentacije i podataka iz Registra, u skladu sa Zakonom o računovodstvu (u daljnjem tekstu: Zakon).
+Članak 2.
+Registar je središnji izvor informacija o financijskome položaju i uspješnosti poslovanja poduzetnika iz članka 4. stavka 2. Zakona (u daljnjem tekstu: poduzetnici) i osoba iz članka 4. stavka 3. Zakona (u daljnjem tekstu: osobe).
+DIO DRUGI SADRŽAJ I NAČIN VOĐENJA REGISTRA
+Sadržaj registra
+Članak 3.
+(1) Registar sadrži javni i povjerljivi dio koji sadrže standardne i nestandardne dokumente (u daljnjem tekstu: dokumenti).
+(2) Za potrebe ovoga Pravilnika, dokumenti koje sadrži javni i povjerljivi dio nazivaju se standardni i nestandardni dokumenti.
+(3) Pojam standardni dokumenti odnosi se na dokumente za koje je posebnim pravilnicima iz članka 19. stavaka 5. i 6. Zakona propisana struktura i sadržaj.
+(4) Pojam nestandardni dokumenti odnosi se na dokumente koji moraju sadržavati elemente propisane Zakonom, ali ih poduzetnici kreiraju u slobodnoj formi.
+(5) Standardni dokumenti u Registru su:
+1. izvještaj o financijskom položaju (bilanca),
+2. račun dobiti i gubitka s izvještajem o ostaloj sveobuhvatnoj dobiti,
+3. izvještaj o novčanim tokovima,
+4. izvještaj o promjenama kapitala i
+5. dodatni podaci za statističke i druge potrebe.
+(6) Nestandardni dokumenti u Registru su:
+1. bilješke uz godišnje financijske izvještaje i konsolidirane godišnje financijske izvještaje,
+2. godišnje izvješće koje sadrži: godišnji financijski izvještaj za izvještajno razdoblje uključujući i revizorsko izvješće ako je propisana obveza revizije sukladno članku 20. Zakona, izjavu o primjeni kodeksa korporativnog upravljanja sukladno članku 22. Zakona, izvještaj o plaćanjima u javnom sektoru sukladno članku 27. Zakona i izvješće poslovodstva,
+3. revizorsko izvješće s godišnjim financijskim izvještajem koji je bio predmet revizije,
+4. odluku o prijedlogu raspodjele dobiti ili pokriću gubitka,
+5. odluku o utvrđivanju godišnjega financijskog izvještaja,
+6. izjavu o neaktivnosti i
+7. obavijest radi javne objave o izmjeni prethodno predane dokumentacije za javnu objavu.
+(7) Osim dokumenata iz stavaka 5. i 6. ovoga članka Registar sadrži i naknadno promijenjene dokumente iz članka 30. stavka 8. Zakona.
+(8) Registar sadrži podatke iz pojedinih vrsta standardnih dokumenata i podatke generirane za vođenje registra.
+(9) Izvještaj o ostaloj sveobuhvatnoj dobiti iz stavka 5. točke 2. ovoga članka popunjavaju obveznici primjene Međunarodnih standarda financijskog izvještavanja.
+Način vođenja registra
+Članak 4.
+Registar se vodi u elektroničkom obliku.
+Ažuriranje baze obveznika i razmjena podataka sa sudskim registrom i poreznom upravom
+Članak 5.
+(1) Financijska agencija (u daljnjem tekstu: Agencija) bazu obveznika predaje dokumentacije za javnu objavu kreira iz podataka koje jednom mjesečno, početkom mjeseca za prethodni mjesec zaprimi od sudskoga registra.
+(2) Razmjena podataka između sudskoga registra i Agencije obavlja se elektroničkim putem.
+(3) Agencija bazu obveznika poreza na dobit iz članka 4. stavka 3. Zakona kreira iz baze Ministarstva financija, Porezne uprave koju Porezna uprava u veljači tekuće godine za prethodnu godinu dostavlja Agenciji.
+Članak 6.

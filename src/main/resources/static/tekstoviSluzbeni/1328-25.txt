@@ -1,0 +1,54 @@
+ostvarenosti mjere:
+p1.8.1. Postotno smanjivanje udjela zaposlenih na horizontalnim funkcijama u javnopravnim tijelima
+p1.8.2. Skraćeno trajanje poslova obuhvaćenih horizontalnim funkcijama
+CILJ 2. OLAKŠANA KOMUNIKACIJA KORISNIKA UPRAVNIH USLUGA S JAVNOPRAVNIM TIJELIMA
+Mjera 2.1. Uspostaviti jedinstvena upravna mjesta
+Nositelji: tijela državne uprave
+Sunositelji: druga javnopravna tijela
+Rok za provedbu: kontinuirano
+Potrebna sredstva: naknadno će se procijeniti
+Izvor: Svjetska banke, EU fondovi
+Provedbene aktivnosti:
+a2.1.1. Izraditi plan uspostavljanja jedinstvenih upravnih mjesta
+a2.1.2. Izraditi aplikacije za pružanje e-usluga na jedinstvenom upravnom mjestu
+a2.1.3. Opremiti ICT opremom i računalnom mrežom jedinstveno upravno mjesto te osigurati javno pristupno mjesto za e-upravu osobama koje nisu informatički pismene
+a2.1.4. Osposobiti zaposlene za rad na jedinstvenim upravnim mjestima te za upućivanje građana za korištenje e-usluga
+a2.1.5. Izmijeniti propise u svrhu provedbe funkcije jedinstvenih upravnih mjesta
+a2.1.6. Uspostaviti jedinstvena upravna mjesta u javnopravnim tijelima najbliže građanima
+a2.1.7. Prilagoditi usluge koje pružaju javnopravna tijela na jedinstvenim upravnim mjestima
+Pokazatelji ostvarenosti mjere:
+p2.1.1. Broj ustrojenih jedinstvenih upravnih mjesta
+p2.1.2. Broj upravnih usluga koje se pružaju putem jedinstvenih upravnih mjesta
+Mjera 2.2. Unaprjeđivati sustav izdavanja vjerodajnica
+Nositelj: Ministarstvo uprave
+Sunositelji: Ministarstvo unutarnjih poslova, Ministarstvo vanjskih i europskih poslova
+Rok za provedbu: III. tromjesečje 2016.
+Potrebna sredstva: naknadno će se procijeniti
+Izvor: EU fondovi, državni proračun
+Provedbene aktivnosti:
+a2.2.1. Definirati uvjete i način dobivanja punomoći/ovlasti za korištenje sustava izdavanja vjerodajnica za druge osobe ili vlastitu maloljetnu djecu
+a2.2.2. Definirati način registracije korisnika u inozemstvu radi izdavanja vjerodajnica ePass i mToken za hrvatske građane koji žive i rade izvan Republike Hrvatske
+a2.2.3. Uključiti e-osobne iskaznice u sustav NIAS
+a2.2.4. Uključiti sve vjerodajnice, i privatnog sektora, koje zadovoljavaju kriterije u sustav NIAS
+a2.2.5. Povezati NIAS s EU sustavom STORK te osigurati identifikaciju/autentifikaciju na EU razini
+a2.2.6. Izdati i uključiti e-osobne iskaznice u NIAS, a koje osiguravaju identifikaciju i autentifikaciju te elektroničko potpisivanje
+a2.2.7. Pratiti/implementirati nova tehnološka rješenja u području identifikacije/autentifikacije
+Pokazatelji ostvarenosti mjere:
+p2.2.1. Broj korisnika sustava vjerodajnica, uključujući i e-osobne iskaznice
+p2.2.2. Broj inozemnih usluga dostupnih putem NIAS identifikacije i autentifikacije
+Mjera 2.3. Unaprijediti sustav elektroničkih usluga
+Nositelj: Ministarstvo uprave
+Sunositelji: Ministarstvo gospodarstva, Ministarstvo pravosuđa, Državna škola za javnu upravu
+Rok za provedbu: III. tromjesečje 2016.
+Potrebna sredstva: naknadno će se procijeniti
+Izvor: EU fondovi
+Provedbene aktivnosti:
+a2.3.1. Pravno regulirati uvjete za urednu dostavu elektroničkih dokumenata
+a2.3.2. Preuzeti eIDAS Uredbu Europskog parlamenta i Vijeća br. 910/2014 o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu u pravni sustav Republike Hrvatske
+a2.3.3. Pripremiti analizu svih zajedničkih funkcionalnosti e-usluga, razviti ih te pripremiti standarde za razvoj e-usluga, a s naglaskom na korisničko sučelje i izgled dokumenata
+a2.3.4. Implementirati tehnološka rješenja sukladno razvoju pravnog okvira
+a2.3.5. Pripremiti aplikaciju za komunikaciju građana i poslovnih subjekata s javnom upravom putem nestrukturirane komunikacije (e-mail) kroz osobni korisnički pretinac
+a2.3.6. Izraditi plan unaprjeđivanja znanja i vještina vezanih uz korištenje informatičke tehnologije
+a.2.3.7. Provesti izobrazbu zaposlenih u javnoj upravi o korištenju i razvoju te standardima pri razvoju e-usluga
+Pokazatelji ostvarenosti mjere:
+p2.3.1. Broj kompletnih e-usluga s

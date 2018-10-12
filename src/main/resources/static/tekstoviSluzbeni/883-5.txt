@@ -1,0 +1,24 @@
+ razdvojiti, prema kategoriji korisnika na dio namijenjen stanovništvu i na dio namijenjen zdravstvenim radnicima. Stranice namijenjene isključivo zdravstvenim radnicima moraju biti zaštićene korisničkim imenom i lozinkom.
+(2) Na internetskim stranicama nositelja odobrenja dostupnim stanovništvu, može se nalaziti popis lijekova nositelja odobrenja koji se izdaju na recept pod uvjetom da su navedena na sljedeći način: naziv lijeka i/ili uobičajeno ime (INN) te vjerna reprodukcija odobrene upute o lijeku. Tekstovi koji se odnose na informiranja o bolestima, prevenciji te dostupnim metodama liječenja ne mogu sadržavati poveznice na lijekove s ovakvih popisa nositelja odobrenja.
+(3) Sadržaj internetskih stranica mora se redovito ažurirati i mora nedvosmisleno prikazivati za svaku stranicu i/ili temu koja se obrađuje datum posljednje izmjene sadržaja.
+(4) Putem internetskih stranica može se omogućiti postavljanje upita putem e-pošte za slučajeve kada se traže daljnje informacije o lijekovima. Nositelj odobrenja može odgovoriti na takva pitanja na isti način na koji bi odgovorio na pitanja zaprimljena putem pošte, telefona ili drugih medija. U komunikaciji sa stanovništvom, mora se izbjeći razgovor o osobnom zdravstvenom stanju te ih uputiti na savjetovanje s liječnikom.
+(5) Nositelji odobrenja trebaju onemogućiti povezivanje sadržaja internetskih stranica namijenjenih stanovništvu na stranice koje su namijenjene isključivo zdravstvenim radnicima.
+(6) Sve znanstvene i medicinske informacije objavljene na internetskim stranicama ako su u funkciji oglašavanja o lijekovima, trebaju biti istinite i usklađene s ovim Pravilnikom i Zakonom o lijekovima.
+(7) Internetska stranica mora udovoljavati svim posebnim propisima kojim se uređuju zaštita tajnosti podataka i zaštita osobnih podataka.
+(8) Kod internetskog oglašavanja o lijeku svaka internetska stranica mora sadržavati jasne podatke o:
+– identitetu naručitelja izrade internetske stranice i njegove kontakt podatke (fizičke i elektroničke);
+– izvoru podataka sadržanih na odnosnoj stranici, datumu njihove objave kao i podatke o autorskim pravima, odnosno izvorima podataka koji se objavljuju.
+V. POHRANA MATERIJALA, OČEVIDNICI, SLUŽBA/OSOBA ZADUŽENA ZA OGLAŠAVANJE I PRUŽANJE INFORMACIJA O LIJEKOVIMA
+Članak 24.
+(1) Nositelji odobrenja koji oglašavaju o lijeku obvezni su, uz pohranjivanje promidžbenog materijala, voditi očevidnike o datumu i mjestu njihovog objavljivanja, osobama kojima su materijali dostavljeni te o stručnim sastancima i predavanjima koje su organizirali ili financijski poduprli.
+(2) Promidžbene materijale u pisanom, slikovnom, zvučnom, elektroničkom ili bilo kojem drugom obliku koji se može pohraniti, kao i očevidnike iz stavka 1. ovoga članka, nositelji odobrenja obvezni su čuvati dvije godine.
+Članak 25.
+(1) Pravna osoba na koju glasi odobrenje za stavljanje gotovoga lijeka u promet mora ustrojiti službu, odnosno odrediti osobu zaduženu za oglašavanje i pružanje informacija o lijekovima koje stavlja u promet.
+(2) Nositelj odobrenja mora:
+– imati na raspolaganju i, na zahtjev farmaceutske inspekcije, dostaviti primjerke svih oglasa zajedno s naznakom kojim korisnicima su namijenjeni, načinu objavljivanja i datumom prvog objavljivanja,
+– osigurati da stručni suradnici koji obavljaju oglašavanje o lijeku prema zdravstvenim radnicima budu pravilno izučeni te da ispunjavaju obveze propisane člankom 16. ovoga Pravilnika,
+– osigurati da je oglašavanje o lijeku u skladu sa zahtjevima ovoga Pravilnika,
+– osigurati da se odluke farmaceutske inspekcije u odnosu na oglašavanje o lijeku bez odlaganja u potpunosti provedu,
+– dostaviti farmaceutskoj inspekciji sve podatke potrebne za obavljanje nadzora nad oglašavanjem o lijeku.
+(3) Nositelj odobrenja može ovlastiti jednu ili više pravnih osoba za poslove promidžbe i oglašavanja istoga lijeka.
+(4) Individualne upite građana za savjetom u svezi osobnih zdravstvenih problema valja otkloniti, a tražitelja uputiti da se savjetuje s

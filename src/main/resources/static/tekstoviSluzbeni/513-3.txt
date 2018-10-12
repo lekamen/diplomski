@@ -1,0 +1,26 @@
+ Query«).
+(2) Operator nepokretne elektroničke komunikacijske mreže u kojoj poziv započinje, obvezan je ispravno usmjeriti pozive upućene prema prenesenom broju u pokretnoj elektroničkoj komunikacijskoj mreži.
+(3) Način usmjeravanja poziva iz stavka 2. ovog članka predmet je dogovora između operatora nepokretnih i pokretnih elektroničkih komunikacijskih mreža.
+(4) U slučaju nemogućnosti postizanja dogovora iz stavka 3. ovog članka, primjenjivat će se metoda usmjeravanja Upit u bazu (eng.: »All Call Query«).
+Uspostava međunarodnih poziva
+Članak 9.
+Operator elektroničke komunikacijske mreže koji je zaprimio zahtjev za uspostavu međunarodnog poziva prema prenesenom broju, obvezan je ispravno usmjeriti takve pozive izravno prema elektroničkoj komunikacijskoj mreži u kojoj se preneseni broj nalazi odgovarajućom primjenom odredbi članaka 7. i 8. ovog pravilnika.
+Usmjeravanje komunikacijskog prometa prema prenesenim brojevima
+Članak 10.
+(1) Operatori su obvezni odmah po isteku vremenskog okvira prijenosa broja iz članka 22. ovog Pravilnika ispravno usmjeravati poziv prema prenesenom broju.
+(2) Za ispravno usmjeravanje poziva prema prenesenim brojevima operator je u zahtjevu za uspostavu poziva obvezan ispred nacionalnog broja dodati predbroj za usmjeravanje poziva (eng.: NRN – Network Routing Number).
+(3) Predbroj za usmjeravanje poziva je mrežni broj koji označava elektroničku komunikacijsku mrežu (eng.: NetID – Network Identifier) i čvor (eng.: NodeID) na kojima se nalazi preneseni broj.
+(4) Veza između pretplatničkog broja i predbroja za usmjeravanje poziva (NRN) pohranjena je u CABP-u. Predbroj za usmjeravanje poziva sastoji se od 5 znamenaka sljedeće strukture:
+Predbroj za usmjeravanje poziva (eng.: NRN – Network Routing Number) 5 znamenaka Heksadecimalna vrijednost broja 14 1 znamenka Kôd za oznaku mreže (00-99) 2 znamenke Kôd za oznaku centrale (00-99) 2 znamenke E NetID NodeID
+(5) Prva znamenka predbroja za usmjeravanje iz tablice iz stavka 4. ovog članka ima heksadecimalnu vrijednost broja 14 koja označava da se pozivajući broj sastoji od predbroja za usmjeravanje na koji se nastavlja nacionalni broj.
+(6) Vrijednost polja Kôd za oznaku mreže (NetID) iz tablice iz stavka 4. ovog članka određuje Agencija sukladno Pravilniku o dodjeli adresa i brojeva.
+(7) Vrijednost polja Kôd za oznaku čvora (NodID) iz tablice iz stavka 4. ovog članka određuje operator.
+(8) Operatori su obvezni međusobno komunicirati ispravne vrijednosti Kodova za oznaku čvora (NodID). Operator je obvezan o svakoj promjeni Koda za oznaku čvora (NodID) pravovremeno obavijestiti sve operatore uključene u prijenos broja.
+III. POSTUPAK PRIJENOSA BROJA
+Zahtjev za prijenos broja
+Članak 11.
+(1) Krajnji korisnik koji želi prenijeti svoj broj, ispunjava i podnosi primatelju broja Zahtjev za prijenos broja iz Dodatka I za nepokretnu elektroničku komunikacijsku mrežu, odnosno Zahtjev za prijenos broja iz Dodatka II za pokretnu elektroničku komunikacijsku mrežu, zajedno sa zahtjevom za zasnivanje pretplatničkog odnosa ili za otvaranje korisničkog zapisa. Jedan primjerak potpisanog Zahtjeva za prijenos broja zadržava krajnji korisnik. Iznimno, u slučaju prijenosa broja u nepokretnoj elektroničkoj komunikacijskoj mreži, kada je za promjenu operatora nužno ispunjavanje obrasca jedinstvene izjave iz Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga (dalje: jedinstvena izjava), navedena jedinstvena izjava predstavlja Zahtjev za prijenos broja.
+(2) Zahtjev za prijenos broja predstavlja zahtjev za raskid pretplatničkog odnosa s davateljem broja ili zatvaranje korisničkog zapisa svih usluga označenih unutar Zahtjeva za prijenos broja.
+(3) Primatelj broja obvezan je podnositelja Zahtjeva za prijenos broja, prilikom zaprimanja Zahtjeva za prijenos broja, upoznati s postupkom prijenosa broja te obavijestiti o sljedećem:
+a. datumu i vremenskom okviru prijenosa broja u pokretnoj elektroničkoj komunikacijskoj mreži,
+b. načinu i roku

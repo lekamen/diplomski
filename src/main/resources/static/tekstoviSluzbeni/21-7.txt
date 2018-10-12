@@ -1,0 +1,40 @@
+1) opisati novi proizvod,
+2) provesti analizu utjecaja novog proizvoda na sadašnju i buduću izloženost rizicima kreditne institucije, adekvatnost kapitala i profitabilnost,
+3) osigurati potrebne tehničke, organizacijske i kadrovske uvjete,
+4) odrediti procedure kojima će se koristiti za upravljanje rizicima povezanima s novim proizvodima i
+5) udovoljiti računovodstvenim, poreznim i pravnim zahtjevima, uključujući i zahtjeve supervizora.
+(4) Kreditna institucija dužna je provesti analizu rizika prisutnih kod novih proizvoda, a koja uključuje najmanje:
+1) objektivnu procjenu svih rizika nastalih iz novih aktivnosti korištenjem različitih scenarija,
+2) procjenu uzrokuje li uvođenje novog proizvoda potencijalne slabosti u upravljanju rizicima i unutarnjim kontrolama,
+3) procjenu sposobnosti kreditne institucije da učinkovito upravlja novim rizikom.
+Testiranje otpornosti na stres
+Članak 25.
+(1) Kreditna institucija dužna je u sklopu upravljanja rizicima provoditi testiranja otpornosti na stres na razini značajnog rizika kojemu je izložena, na razini pojedinog portfelja i na razini cijele kreditne institucije te za to osigurati odgovarajuće resurse.
+(2) Kreditna institucija dužna je u politikama i procedurama kojima se uređuje testiranje otpornosti na stres, osim zahtjeva iz članka 10. Odluke o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije (»Narodne novine«, br. 20/2014.), obuhvatiti i sljedeće:
+1) korištenje različitih oblika testiranja otpornosti na stres i njihove ciljeve,
+2) opis metodologije testiranja otpornosti na stres, uključujući stručnu procjenu, te
+3) pretpostavke koje se koriste u testovima, a koje su povezane s poslovnim aktivnostima i odlukama rukovodstva.
+(3) Kreditna institucija dužna je rezultate testiranja otpornosti na stres, između ostalog, uključiti u sljedeće aktivnosti:
+1) revidiranja strateškog planiranja,
+2) preispitivanja sklonosti preuzimanju rizika,
+3) preispitivanja politike financiranja,
+4) preispitivanja internih limita,
+5) korištenja tehnika zaštite od rizika,
+6) procjene adekvatnosti kapitala i likvidnosti i
+7) revidiranja ili razvoja aktivnosti povezanih s planovima postupanja u kriznim situacijama.
+(4) Kreditna institucija dužna je najmanje jednom na godinu kao i pri svakoj značajnoj promjeni izloženosti rizicima procjenjivati prikladnost provođenja testiranja otpornosti na stres i pritom obuhvatiti sljedeće:
+1) učestalost testiranja otpornosti na stres i njihovu usklađenost s ciljevima,
+2) potrebu daljnjeg razvoja,
+3) adekvatnost informiranja relevantnih radnika, odbora osnovanih od strane nadzornog odbora ili uprave, uprave i nadzornog odbora,
+4) kvalitetu korištenih podataka i ostalih informacija i
+5) dokumentiranosti rezultata testiranja otpornosti na stres.
+III. PRAVILA O UPRAVLJANJU KREDITNIM, TRŽIŠNIM I OPERATIVNIM RIZIKOM
+PRAVILA O UPRAVLJANJU KREDITNIM RIZIKOM
+Organizacijski zahtjevi
+Članak 26.
+(1) Kreditna institucija dužna je osigurati jasnu operativnu i organizacijsku razdvojenost funkcije ugovaranja transakcija od funkcije kontrole rizika te funkcije ugovaranja transakcija od funkcije podrške poslovanju, do razine uprave.
+(2) Kreditna institucija dužna je uspostaviti jasnu i dosljednu organizacijsku strukturu za proces donošenja odluke o odobravanju plasmana koja osigurava:
+1) utvrđivanje kriterija, politika i procedura za odobravanje novih i obnavljanje te restrukturiranje postojećih plasmana,
+2) utvrđivanje pravila odobravanja plasmana na razini pojedinačnih dužnika i davatelja instrumenta osiguranja potraživanja te na razini grupe povezanih osoba s dužnikom i davateljem instrumenta osiguranja, ovisno o iznosu i rizičnosti plasmana, te
+3) utvrđivanje nadležnosti nadzornog odbora, uprave i od njih imenovanih odbora te ovlasti pojedinih razina rukovodstva za odobravanje plasmana, ovisno o iznosu i rizičnosti plasmana.
+(3) Kreditna institucija dužna je osigurati da plasman može biti odobren samo uz suglasnost ovlaštenih osoba zaduženih za procjenu

@@ -1,0 +1,23 @@
+ uz oznaku u skladu s odredbama iz stavka 1. ovog članka umjesto broja vlaka upisuje se serija i individualni broj vučnog vozila (PVV–n/serija i individualni broj vučnog vozila).
+(4) Pomoćni vlak odnosno pomoćno vučno vozilo koje se šalje po vlak na otvorenu prugu smije voziti najvećom dopuštenom brzinom do 30 km/h, a prije povlačenja odnosno guranja vlaka kojem se pruža pomoć mora se obaviti propisana proba kočenja. Najveća dopuštena brzina povlačenja vlaka smije biti do 30 km/h.
+(5) Ako se na pruzi opremljenoj uređajem APB ili MO s automatskim odjavnicama pomoćno vučno vozilo odnosno pomoćni vlak otprema u istom smjeru u kojem vozi i vlak kojem se šalje pomoć, tada se u pisanom nalogu mora navesti da se od glavnog signala koji štiti prostorni odsjek u kojem se nalazi vlak kojem se pruža pomoć mora voziti oprezno.
+(6) Ako se na pruzi opremljenoj uređajem APB ili MO s automatskim odjavnicama pomoćno vučno vozilo odnosno pomoćni vlak otprema na prugu ususret vlaku kojem se pruža pomoć, tada se u pisanom nalogu, osim podataka o mjestu zaustavljanja vlaka kojem se pruža pomoć, mora navesti da prostorni signali za njega ne vrijede te da su ŽCP-i s uređajem za osiguranje ŽCP-a neosigurani.
+(7) Strojovođa pomoćnog vučnog vozila odnosno pomoćnog vlaka prilagođava brzinu prema preglednosti pruge kako bi se sigurno približio vlaku koji je tražio pomoć odnosno ugroženom mjestu.
+(8) Nakon što prometnici vlakova susjednih kolodvora pouzdano utvrde da je pruga slobodna i prohodna, razmjenjuju o tome fonograme.
+(9) Za vožnju pomoćnog vučnog vozila odnosno pomoćnog vlaka kod pružanja pomoći obavezno je dokazno sporazumijevanje između susjednih kolodvora.
+(10) Pomoćni vlak mora imati najmanje jednog izvršnog radnika za praćenje vlaka na međukolodvorskom odsjeku na kojem pruža pomoć.
+Zatvaranje pruge odnosno kolosijeka
+Članak 155.
+(1) Za vrijeme kada se na pružnoj dionici odnosno kolosijeku obavljaju radovi koji ne dopuštaju njihovu uporabu za promet, takva pružna dionica odnosno kolosijek mora se isključiti iz uporabe. Pružna dionica odnosno kolosijek koji je isključen iz uporabe mora biti zaštićen signalima koji zabranjuju vožnju.
+(2) Na pružnoj dionici odnosno kolosijeku koji je isključen iz uporabe smiju voziti samo vlakovi za potrebe upravitelja infrastrukture i vozila za potrebe izvođenja radova.
+(3) Isključenje pružne dionice odnosno kolosijeka iz uporabe naziva se zatvaranje pruge odnosno kolosijeka, a može biti predviđeno i nepredviđeno.
+(4) Kod predviđenog zatvaranja pružna dionica odnosno kolosijek isključuje se iz uporabe zbog predviđenih radova, a kod nepredviđenog zbog iznenada nastale neuporabljivosti.
+(5) Za predviđeno zatvaranje pruge odnosno kolosijeka slobodni intervali u prometu vlakova mogu biti određeni voznim redom ili se oni određuju na temelju zahtjeva za zatvaranje pruge odnosno kolosijeka. O svim predviđenim zatvaranjima pruge odnosno kolosijeka moraju biti obaviješteni željeznički prijevoznici kojih se to tiče najkasnije 10 dana prije predviđenog zatvaranja.
+(6) Upravitelj infrastrukture dužan je općim aktom propisati rokove za podnošenje zahtjeva za izvođenje predviđenih radova i postupak za izvođenje radova za vrijeme zatvaranja pruge odnosno kolosijeka.
+(7) Odobreno vrijeme trajanja zatvorenosti pruge ne smije se produljiti.
+Lagana vožnja
+Članak 156.
+(1) Lagana vožnja je vožnja smanjenom brzinom. Smanjena brzina je brzina niža od dopuštene infrastrukturne brzine ili ograničene brzine, a uvodi se zbog tehničkog stanja pruge ili izvedbe radova. Smanjena brzina je privremenog karaktera i nije propisana voznim redom.
+(2) Mjesta na pruzi na kojima se dopuštena infrastrukturna brzina odnosno ograničena brzina mora privremeno smanjiti, moraju biti signalizirana propisanim signalima za laganu vožnju.
+(3) Lagana vožnja smije trajati najdulje 6 mjeseci.
+(4) Ako se nakon završetka radova uvodi planirana lagana vožnja, o njezinu uvođenju upravitelj infrastrukture mora obavijestiti brzojavom željezničke prijevoznike kojih se 

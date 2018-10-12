@@ -1,0 +1,25 @@
+ radiofrekvencijskog spektra.
+(3) Dodatne troškove međusobnog povezivanja (tranzit poziva) do kojih dolazi prilikom usmjeravanja poziva prema prenesenim brojevima snosi operator.
+(4) Ukoliko operator elektroničke komunikacijske mreže, u kojoj je započeo poziv, nema prema prenesenom broju ostvareno izravno međusobno povezivanje s operatorom elektroničke komunikacijske mreže u kojoj se pozvani preneseni broj nalazi, operator takve pozive neće naplaćivati po većoj cijeni od one koju operator naplaćuje za pozive prema svim ostalim brojevima koji nisu preneseni u tu elektroničku komunikacijsku mrežu.
+(5) Operatori ne mogu od podnositelja Zahtjeva za prijenos broja zahtijevati bilo kakvu dodatnu naknadu u vezi s uslugom prenosivosti broja.
+(6) Operatori ne mogu pozive na prenesene brojeve naplaćivati više od poziva na druge brojeve u toj elektroničkoj komunikacijskoj mreži koji se upotrebljavaju za pružanje istih elektroničkih komunikacijskih usluga, a nisu preneseni iz njihove elektroničke komunikacijske mreže.
+(7) Operatori ne mogu primijeniti veće cijene međusobnog povezivanja za pozive prema prenesenim brojevima u odnosu na pozive prema neprenesenim brojevima koji se upotrebljavaju za pružanje istih elektroničkih komunikacijskih usluga.
+(8) Svaki operator elektroničke komunikacijske mreže snosit će vlastite troškove prilagodbe i uspostave elektroničkih komunikacijskih i drugih sustava potrebnih radi ispunjenja obveza iz ovog Pravilnika.
+(9) Primatelj broja neće snositi administrativne troškove operatora davatelja broja vezane uz postupak prenosivosti broja.
+(10) Ukoliko davatelj broja nema drugih brojeva u sekundarnoj dodjeli u određenom bloku koje koristi u svojoj mreži, a svi preostali brojevi u tom bloku su u mreži jednog operatora kao preneseni brojevi, primatelj broja i davatelj broja mogu zatražiti prijenos prava na uporabu brojeva sukladno Pravilniku o dodjeli adresa i brojeva.
+IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+Propis koji prestaje vrijediti
+Članak 26.
+Stupanjem na snagu ovog Pravilnika prestaje vrijediti Pravilnik o prenosivosti broja (»Narodne novine« br. 100/12).
+Stupanje na snagu
+Članak 27.
+Ovaj pravilnik stupa na snagu 1. svibnja 2015.
+Klasa: 011-02/15-02/04 Urbroj: 376-10-15-1 Zagreb, 24. veljače 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.
+DODATAK 1
+ZAHTJEV za prijenos broja (nepokretna mreža)
+PODACI O KRAJNJEM KORISNIKU Pretplatnički broj / brojevi: Ime i prezime/naziv: Ime i prezime ovlaštene osobe: (samo za pravne osobe) Kontakt podaci krajnjeg korisnika: Telefon/mobitel: e-pošta: ADRESA PRIKLJUČKA Poštanski broj: Mjesto: Ulica i broj: OSTALO Naziv davatelja broja: Naziv primatelja broja: Vremenski okvir prijenosa broja: ☐ 08,00-11,00 ili       ☐ 12,00-15,00 Zahtjev za prijenos broja je vezan za veleprodajnu uslugu: ☐ Da ☐ Ne Usluge koje se ne raskidaju: ☐ Televizija ☐ Internet ☐ Govorna usluga ☐ Pristup mreži ☐ Niti jedna Vezano uz uslugu pristupa internetu zadržavaju se korisnički računi: ☐ web hosting ☐ adrese elektroničke pošte ☐ svi korisnički računi
+Podnositelj Zahtjeva za prijenos broja (dalje: Zahtjev) izričito izjavljuje da podnošenjem ovog Zahtjeva ujedno podnosi zahtjev za raskid pretplatničkog odnosa s davateljem broja ili zatvaranje korisničkog zapisa svih usluga označenih unutar Zahtjeva, tj. zahtjev za obustavu svih usluga zahtijevanih od davatelja broja koje se pružaju putem broja koji je predmet prijenosa te daje izričito ovlaštenje primatelju broja da ovaj Zahtjev uputi davatelju broja.
+Podnositelj Zahtjeva potvrđuje da je obaviješten da je prigodom raskida ugovora o korištenju usluge pristupa internetu obvezan zatražiti i isključenje svih dobivenih identifikacijskih oznaka (korisničkih računa) od postojećeg operatora elektroničkih komunikacija, odnosno da može zadržati svoje korisničke račune.
+Podnositelj Zahtjeva ovime izjavljuje da je, u slučaju da zadržava gore zahtijevane usluge s postojećim operatorom, spreman snositi buduće troškove.
+Podnositelj Zahtjeva svojim potpisom potvrđuje 

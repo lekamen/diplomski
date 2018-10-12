@@ -1,0 +1,24 @@
+ stanice, video kamere, reklamni panoi i sl.), u skladu s uvjetima iz elektroenergetske suglasnosti i ugovorom o korištenju mreže.
+(3) Korisnik mreže i pravna ili fizička osoba iz stavka 2. ovoga članka dužni su urediti svoje međusobne odnose ugovorom koji obvezno uključuje odgovornost za tehničku ispravnost niskonaponskih električnih uređaja i njima pripadajućih instalacija iz stavka 2. ovoga članka.
+Članak 27.
+(1) Pravna ili fizička osoba čija su postrojenja i instalacije uslijed statusnih ili organizacijskih promjena priključena preko obračunskog mjernog mjesta korisnika mreže dužna je urediti korištenje mreže s operatorom sustava, u skladu s odredbama važećih propisa kojima se uređuje priključenje građevine ili dijela građevine na mrežu.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju da operator sustava utvrdi da korištenje mreže nije moguće urediti na racionalan tehnički ili ekonomski način, postrojenja i instalacije pravne ili fizičke osobe iz stavka 1. ovoga članka mogu ostati priključena preko obračunskog mjernog mjesta korisnika mreže samo uz suglasnost korisnika mreže.
+(3) Korisnik mreže i pravna ili fizička osoba iz stavka 2. ovoga članka dužni su urediti svoje međusobne odnose ugovorom kojim se obvezno uređuje i odgovornost za tehničku ispravnost postrojenja i instalacija iz stavka 2. ovoga članka.
+Zatvoreni distribucijski sustav
+Članak 28.
+(1) Sustav koji distribuira električnu energiju unutar zemljopisno zatvorene industrijske i/ili komercijalne lokacije ili lokacije zajedničkih usluga može steći status zatvorenog distribucijskog sustava ako:
+– je obračunsko mjerno mjesto vlasnika sustava priključeno na mrežu visokog ili vrlo visokog napona,
+– ne distribuira električnu energiju kućanstvima, uz iznimku kućanstava koja se nalaze na području koje obuhvaća sustav,
+– su zbog posebnih tehničkih ili sigurnosnih razloga, poslovanje ili proizvodni procesi korisnika takve mreže integrirani,
+– taj sustav distribuira električnu energiju primarno vlasniku ili operatoru zatvorenog distribucijskog sustava i/ili njegovim vlasnički povezanim subjektima, pri čemu je taj uvjet ispunjen ako barem 80% potrošnje električne energije otpada na vlasnika ili operatora zatvorenog distribucijskog sustava i/ili njegove vlasnički povezane subjekte.
+(2) Agencija može odobriti status zatvorenog distribucijskog sustava na zahtjev vlasnika sustava ukoliko je udovoljeno uvjetima iz stavka 1. ovoga članka.
+(3) Vlasnik sustava iz stavka 1. ovoga članka dužan je Agenciji uz zahtjev za stjecanje statusa zatvorenog distribucijskog sustava dostaviti dokaze o ispunjavanju uvjeta iz stavka 1. ovoga članka te dokaze o području koje obuhvaća zatvoreni distribucijski sustav, jasno odvojenom od ostalog područja.
+(4) Prije donošenja odluke o zahtjevu za stjecanje statusa zatvorenog distribucijskog sustava Agencija će zatražiti mišljenje operatora prijenosnog sustava i operatora distribucijskog sustava.
+(5) Distribucija električne energije u zatvorenom distribucijskom sustavu iz stavka 2. ovoga članka ne obavlja se kao javna usluga.
+(6) Korisnik zatvorenog distribucijskog sustava plaća vlasniku zatvorenog distribucijskog sustava naknadu za korištenje mreže u skladu s odredbama ugovora o međusobnim odnosima, a najviše do iznosa tarifnih stavki za energetske djelatnosti prijenosa električne energije i distribucije električne energije.
+(7) Agencija će ukinuti status zatvorenog distribucijskog sustava iz stavka 2. ovoga članka na zahtjev vlasnika zatvorenog distribucijskog sustava ili po službenoj dužnosti, ako više nisu ispunjeni uvjeti iz stavka 1. ovoga članka.
+(8) Vlasnik zatvorenog distribucijskog sustava dužan je o svakoj promjeni koja se odnosi na ispunjavanje uvjeta iz stavaka 1. i 3. ovoga članka bez odgađanja obavijestiti Agenciju.
+Naknada štete
+Članak 29.
+(1) Korisnik mreže ima pravo na naknadu štete od operatora sustava zbog privremene obustave isporuke električne energije bez opravdanog razloga.
+(2) U slučaju štete na postrojenjima i instalacijama

@@ -1,0 +1,21 @@
+ broj i vrsta vozila i broj plovila te samoprocjenu o spremnosti vlastitih kapaciteta za provođenje mjera i aktivnosti u sustavu civilne zaštite u velikim nesrećama i katastrofama (broj osoba koje se mogu zbrinuti, kapaciteti za pripremu obroka, sanitarni kapaciteti, broj osoba koje se mogu prevesti u jedinici vremena/udaljenost, kapaciteti za raščišćavanje u m3 građevinskog materijala, saniranje površine u jedinici vremena po hektaru, ispumpavanje visokog kapaciteta u m3 i drugi podatci koji mogu biti od značaja za stožere civilne zaštite u postupku planiranja operativnog djelovanja snaga u velikim nesrećama i katastrofama) i koju izrađuje svaka operativna snaga iz ovog segmenta.
+(2) Baza podataka u segmentu pravnih osoba iz područja javnog zdravstva sadrži samoprocjenu o kapacitetima tih ustanova za provođenje općih, posebnih i protuepidemijskih DDD mjera (dezinfekcije, dezinsekcije i deratizacije), kapaciteta za stacionarno bolničko liječenje ozlijeđenih osoba i za provođenje drugih mjera i aktivnosti tih kapaciteta od značaja za zdravstvenu zaštitu stanovništva u velikim nesrećama i katastrofama.
+(3) Pored podataka iz stavka 1. ovog članka, baza podataka pravnih osoba koje u svom sastavu imaju laboratorije, osobito kemijske i radiološke za sve vrste analiza kao i istraživačke jedinice visokoškolskih i znanstvenih ustanova, baze podataka nadopunjuju samoprocjenom spremnosti tih kapaciteta za provođenje mjera i aktivnosti u sustavu civilne zaštite u velikim nesrećama i katastrofama koje uključuju opasne tvari i ionizirajuće zračenje.
+Članak 19.
+Baza podataka u segmentu pravnih osoba iz članka 18. stavka 1. ovog Pravilnika sadrži i raspoloživa materijalna sredstva i opremu za provođenje mjera i aktivnosti sustava civilne zaštite u skladu s Prilogom 1. ovog Pravilnika.
+III. UPRAVLJANJE BAZOM PODATAKA
+Članak 20.
+(1) Državna uprava nadležna je za upravljanje bazom podataka te koordinira popunu i ažuriranje baze podataka s ovlaštenim predstavnicima operativnih snaga iz članka 2. stavka 1. ovog Pravilnika.
+(2) Unutarnja ustrojstvena jedinica Državne uprave u sjedištu zadužena za uspostavu, održavanje i nadogradnju baze podataka dužna je urediti korištenje baze podataka po pitanjima poslova vezanih uz sigurnost, ispravan rad, pouzdanost i raspoloživost, osobito poslove tehničkog održavanja, sigurnosnog održavanja i administriranja te uspostaviti organizacijsku strukturu za potrebe prikupljanja, čuvanja, analiziranja i prikazivanja svih podataka sukladno odredbama ovog Pravilnika.
+(3) Ostale unutarnje ustrojstvene jedinice Državne uprave i savjetnik za informacijsku sigurnost Državne uprave dužni su osigurati sigurnost baze podataka u području svoje nadležnosti.
+Članak 21.
+(1) Državna uprava imenuje administratore baze podataka.
+(2) Administrator brine o sigurnosti i pouzdanosti rada baze podataka te ima ovlasti pregledavanja i mijenjanja svih podataka u svrhu ispravljanja pogrešaka.
+(3) Administrator je dužan voditi evidenciju ovlaštenih predstavnika (unutarnjih i vanjskih korisnika).
+Članak 22.
+(1) Operativne snage imenuju ovlaštene predstavnike (vanjski korisnici) za popunu i ažuriranje baze podataka prema obrascu iz Priloga 2. ovog Pravilnika.
+(2) Državna uprava imenuje ovlaštene predstavnike (unutarnji korisnici) za popunu i ažuriranje baze podataka.
+(3) Ovlašteni predstavnici iz stavaka 1. i 2. ovog članka koordiniraju prikupljanje relevantnih podataka, unos, izmjene i pregled podatka iz svoje nadležnosti.
+(4) Korisnički račun ovlaštenog predstavnika postaje aktivan po pisanom odobrenju unutarnje ustrojstvene jedinice Državne uprave u sjedištu nadležne za uspostavu, održavanje i nadogradnju baze podataka.
+(5) Unutarnja ustrojstvena jedinica Državne uprave u sjedištu zadužena za uspostavu, održavanje i nadogradnju baze podataka može odbiti zahtjev ili ograničiti pristup bazi podataka, ukoliko ocijeni da priloženo obrazloženja iz stavka 1. ovog članka nisu u skladu s potrebama operativne snage koji podnosi zahtjev.
+(6) Ovlašteni

@@ -1,0 +1,20 @@
+ više primarnih baterijskih članaka (koje nisu namijenjene ponovnom punjenju) ili jedne ili više sekundarnih baterijskih članaka (koje su namijenjene ponovnom punjenju);
+4. Baterijski sklop je bilo koji niz baterija ili akumulatora koje su međusobno povezane i/ili obuhvaćene zajedničkim vanjskim kućištem na način da čine cjelovitu jedinicu koja nije namijenjena da ju krajnji korisnik razdvaja ili otvara;
+5. Bežični električni alat je svaki ručni uređaj koji se napaja pomoću baterije ili akumulatora i namijenjen je održavanju, gradnji ili vrtlarstvu;
+6. Fond je Fond za zaštitu okoliša i energetsku učinkovitost;
+7. Gospodarski subjekt je svaki proizvođač baterije ili akumulatora, prodavatelj baterije ili akumulatora, osoba koja posjeduje dozvolu za gospodarenje otpadom koja uključuje gospodarenje otpadnim baterijama ili akumulatorima i osoba koja upravlja reciklažnim dvorištem;
+8. Gumbasta baterija je svaka mala okrugla prijenosna baterija ili akumulator, čiji je promjer veći od visine i koja je namijenjena za posebne svrhe kao što su slušna pomagala, satovi, mala prijenosna oprema, sigurnosno napajanje i slično;
+9. Industrijska baterija ili akumulator je svaka baterija ili akumulator koji je namijenjen isključivo za industrijsku ili profesionalnu uporabu ili za korištenje u bilo kojoj vrsti električnog vozila;
+10. Krajnji korisnik je osoba (posjednik iz kućanstva, pravna ili fizička osoba – obrtnik) koja koristi bateriju ili akumulator sukladno njezinoj namjeni i osoba koja bateriju ili akumulator proglašava otpadom (zadnji korisnik baterije ili akumulatora);
+11. Maseni udio određene tvari je omjer mase te tvari sadržane u određenom materijalu i mase materijala u kojem se određuje maseni udio te tvari;
+12. Naknada gospodarenja otpadnim baterijama i akumulatorima (u daljnjem tekstu: naknada gospodarenja) je naknada gospodarenja posebnom kategorijom otpada koju je dužan plaćati proizvođač i koja služi za financiranje troškova sustava sakupljanja i obrade otpadnih prijenosnih baterija i akumulatora kojim upravlja Fond;
+13. Otpadna baterija ili akumulator je svaka baterija ili akumulator koja je otpad;
+14. Prijenosna baterija ili akumulator je svaka baterija, gumbasta baterija ili baterijski sklop ili akumulator koji je zapečaćen i može se prenositi u ruci, a nije ni industrijska baterija ili akumulator niti automobilska baterija ili akumulator;
+15. Proces recikliranja otpadnih baterija ili akumulatora (u daljnjem tekstu: proces recikliranja) je prerada otpadnih materijala iz baterija i/ili akumulatora u proizvodnom procesu, u izvornu ili u drugu svrhu osim oporabe u energetsku svrhu;
+16. Obrada otpadnih baterija ili akumulatora je svako postupanje s otpadnom baterijom ili akumulatorom koja je predana u postrojenje radi razvrstavanja, pripreme za proces recikliranja ili pripreme za zbrinjavanje;
+17. Prodavatelj baterije ili akumulatora (u daljnjem tekstu: prodavatelj) je pravna ili fizička osoba – obrtnik koja u okviru svoje trgovačke djelatnosti u dobavljačkom lancu bateriju ili akumulator čini dostupnim krajnjem korisniku. Prodavatelj istovremeno može biti i proizvođač;
+18. Proizvođač baterija ili akumulatora (u daljnjem tekstu: proizvođač) je pravna ili fizička osoba – obrtnik, koji na profesionalnoj osnovi razvija, proizvodi, prerađuje, obrađuje, prodaje, unosi ili uvozi i prva je osoba koja stavlja bateriju ili akumulator, uključujući i one koje se nalaze u uređajima i vozilima, na tržište na teritoriju Republike Hrvatske, neovisno o načinu prodaje;
+19. Posjednik je proizvođač otpadnih baterija i akumulatora ili pravna i fizička osoba koja je u posjedu te vrste otpada;
+20. Serviser je osoba koja u sklopu obavljanja svoje registrirane djelatnosti obavlja poslove održavanja i popravaka i čijim obavljanjem djelatnosti nastaje otpadna baterija ili akumulator;
+21. Spremnik je spremnik propisan posebnim propisom koji uređuje gospodarenje otpadom;
+22. Stavljanje na tržište je uvoz proizvoda na teritorij Republike Hrvatske odnosno

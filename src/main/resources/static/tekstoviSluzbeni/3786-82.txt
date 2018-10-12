@@ -1,0 +1,36 @@
+ drugih se podfondova toga krovnog fonda razlikuje po jednoj ili više posebnosti.
+(4) Krovni fond nije pravna osoba.
+(5) Društvo za upravljanje može za pojedine podfondove odrediti različite iznose ulaznih i izlaznih naknada te naknada za upravljanje i drugih troškova.
+(6) Agencija će pravilnicima propisati posebna pravila koja se odnose na krovne fondove i njihove podfondove.
+(7) Kada se UCITS fond sastoji od podfondova, svaki od podfondova će se smatrati kao poseban UCITS fond u smislu poglavlja 3. ovoga dijela Zakona te u smislu dijela jedanaestoga ovoga Zakona.
+(8) Podfond može biti napajajući fond u smislu dijela dvanaestoga ovoga Zakona.
+DIO JEDANAESTI STATUSNE PROMJENE UCITS FONDA
+GLAVA I. STATUSNE PROMJENE UCITS FONDA
+Članak 262.
+(1) Dva ili više UCITS fonda mogu se pripojiti ili spojiti.
+(2) Pripajanje UCITS fondova provodi se prijenosom cjelokupne imovine jednog ili više UCITS fondova (fond prenositelj) na drugi, postojeći, UCITS fond (fond preuzimatelj).
+(3) Spajanje UCITS fondova provodi se osnivanjem novog UCITS fonda (fond preuzimatelj), na koji se prenosi cjelokupna imovina dva ili više UCITS fonda koji se spajaju (fondovi prenositelji).
+(4) Prilikom statusnih promjena UCITS fondova u postupku može sudjelovati više fondova prenositelja i samo jedan fond preuzimatelj.
+Pravne posljedice statusnih promjena UCITS fonda
+Članak 263.
+(1) Provođenjem statusnih promjena UCITS fondova fond prenositelj prestaje postojati bez provođenja likvidacije, a sva imovina, prava i obveze fonda prenositelja prelaze na fond preuzimatelj.
+(2) Društvo za upravljanje koje upravlja fondom preuzimateljem stupa, u svoje ime i za račun fonda preuzimatelja, u sve pravne odnose u kojima je bilo društvo za upravljanje fonda prenositelja u svoje ime, a za račun fonda prenositelja.
+(3) Nakon provedbe statusnih promjena UCITS fondova imatelj udjela u fondu prenositelju dobiva udjele u fondu preuzimatelju, u skladu s određenim omjerom zamjene.
+Novčane isplate fonda preuzimatelja prilikom zamjene udjela
+Članak 264.
+Ako prilikom zamjene udjela u fondu prenositelju za udjele u fondu preuzimatelju imatelji udjela u fondu prenositelju imaju pravo na novčane isplate, one ne smiju prelaziti 10% vrijednosti njihovih udjela u fondu prenositelju.
+Dan izračuna omjera zamjene i dan provođenja statusne promjene
+Članak 265.
+(1) Omjer zamjene udjela u fondu prenositelju za udjele u fondu preuzimatelju izračunat će se na dan provođenja statusne promjene na temelju neto vrijednosti imovine fondova koji sudjeluju u statusnoj promjeni izračunate na način predviđen odredbom članka 168. stavka 2. ovoga Zakona (Dan izračuna omjera zamjene).
+(2) Dan provođenja statusne promjene je dan određen u nacrtu pripajanja kao predviđeni datum provođenja statusne promjene, na koji se provodi prijenos imovine i obveza fonda prenositelja na fond preuzimatelj te zamjena udjela fonda prenositelja za udjele u fondu preuzimatelju.
+(3) Rok za raspodjelu udjela u fondu preuzimatelju je sljedeći radni dan od dana provođenja statusne promjene.
+Pravila i uvjeti provođenja statusnih promjena
+Članak 266.
+(1) Nakon provedbe statusne promjene neto vrijednost imovine fonda preuzimatelja mora biti najmanje jednaka iznosu neto vrijednosti imovine fonda prenositelja prije provedbe statusne promjene. Ukupna vrijednost svih udjela fonda preuzimatelja kojih je imatelj neka osoba nakon provedene statusne promjene, mora biti najmanje jednaka ukupnoj vrijednosti udjela fonda prenositelja kojih je ta osoba bila imatelj prije provođenja statusne promjene.
+(2) Statusna promjena UCITS fonda dopuštena je ako se nakon njezine provedbe ne oslabljuje ekonomski položaj imatelja udjela u UCITS fondovima koji sudjeluju u statusnoj promjeni.
+GLAVA II. POSTUPAK PROVEDBE STATUSNE PROMJENE UCITS FONDA
+POGLAVLJE I.
+Postupak pripajanja
+Članak 267.
+(1) Prije provođenja postupka pripajanja društvo za upravljanje fondom prenositeljem mora dobiti odobrenje Agencije (odobrenje za pripajanje).
+(2) Ako u postupku pripajanja

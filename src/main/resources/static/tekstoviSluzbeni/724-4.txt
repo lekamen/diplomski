@@ -1,0 +1,44 @@
+cjelokupnog sustava eSpis,
+2. funkcioniranje sustava,
+3. razvijanje i održavanje sustava eSpis,
+4. sigurnost i pohranu podataka u skladu s propisanim procedurama i standardima struke,
+5. izdavanje skupova podataka iz središnjeg sustava vanjskim korisnicima putem elektroničkih komunikacija ili prenosivih magnetskih i optičkih medija,
+6. izradu redovnih statističkih izvješća,
+7. objavu uputa o korištenju novih funkcionalnosti u sustavu eSpis na internom korisničkom portalu »espis.pravosudje.hr«.
+(3) Ministarstvo nadležno za poslove pravosuđa određuje program, metode i organizaciju osposobljavanja sudaca i sudskih službenika za korištenje sustava eSpis.
+IV. STALNO VERIFIKACIJSKO TIJELO
+Članak 23.
+(1) Stalno verifikacijsko tijelo daje mišljenja o prijedlozima korisnika koji se odnose na bitne promjene u sustavu eSpis, predlaže promjene sustava eSpis uzrokovane izmjenama propisa, verificira šifrarnike i predloške, predlaže izmjene i dopune šifrarnika te kao savjetodavno tijelo sudjeluje u razvoju predloženih rješenja.
+(2) Članove Stalnog verifikacijskog tijela imenuje ministar nadležan za poslove pravosuđa na vrijeme od četiri godine.
+(3) Stalno verifikacijsko tijelo ima devet članova od kojih je jedan sudac Vrhovnog suda Republike Hrvatske, dva suca županijskih sudova (jedan iz građanske i jedan iz kaznene grane sudovanja), dva suca općinskih sudova (jedan iz građanske i jedan iz kaznene grane sudovanja), jedan sudac Visokog trgovačkog suda Republike Hrvatske i tri predstavnika ministarstva nadležnog za poslove pravosuđa.
+(4) Predsjednik Stalnog verifikacijskog tijela je sudac Vrhovnog suda Republike Hrvatske koji je imenovan za člana Stalnog verifikacijskog tijela.
+(5) Ministar nadležan za poslove pravosuđa imenovat će u roku od 30 dana od stupanja na snagu ovog Pravilnika članove Stalnog verifikacijskog tijela i donijeti Poslovnik o njegovom radu u roku od 30 dana od imenovanja članova.
+V. GODIŠNJI RASPORED POSLOVA
+Članak 24.
+(1) Godišnji raspored poslova mora sadržavati:
+1. matricu ovlaštenja,
+2. specijalizacije rješavatelja po vrstama sudskih predmeta,
+3. osobe određene za admistratore sustava eSpis u sudu,
+4. osobe određene za ključne korisnike sustava eSpis u sudu.
+(2) Godišnji raspored poslova i svaka promjena godišnjeg rasporeda poslova unosi se u sustav eSpis i u za to osnovan predmet sudske uprave.
+(3) Rješenje kojim se mijenja sastav vijeća utvrđen godišnjim rasporedom poslova unosi se u sustavu eSpis u predmet u kojem je odlučivalo vijeće u promijenjenom sastavu te u predmet sudske uprave iz stavka 2. ovog članka.
+Članak 25.
+(1) Predsjednik suda dostavlja administratoru sustava eSpis u sudu pravomoćan godišnji raspored poslova najkasnije do 24. prosinca tekuće godine za iduću godinu.
+(2) Administrator sustava eSpis u sudu unosi u sustav eSpis podatke iz godišnjeg rasporeda poslova za iduću godinu u algoritam za dodjelu predmeta sustava eSpis najkasnije do 31. prosinca tekuće godine. U administracijski modul sustava eSpis upisuju se podaci o vrstama predmeta koje rješava pojedini rješavatelj (specijalizacija prema šifrarniku), postotak oslobođenja pojedinog rješavatelja te osnova oslobođenja.
+Članak 26.
+Izmjenu godišnjeg rasporeda poslova predsjednik suda dužan je odmah nakon pravomoćnosti dostaviti administratoru sustava eSpis u sudu, koji će tu izmjenu bez odgode unijeti u sustav eSpis.
+VI. OSNIVANJE SPISA NA OPĆINSKIM, TRGOVAČKIM I ŽUPANIJSKIM SUDOVIMA KADA ODLUČUJU U PRVOM STUPNJU
+1. Opće odredbe
+Članak 27.
+(1) Svaki podnesak može se predati u sudskoj pisarnici u sjedištu suda i u posebnim pisarnicama stalnih službi.
+(2) Spis se u sustavu eSpis osniva unosom podataka o:
+1. strankama,
+2. zastupnicima stranaka,
+3. vrsti predmeta,
+4. vrsti spora i vrijednosti predmeta spora ili oznaci kaznenog djela i kaznenog zakona,
+5. naselju predmeta za predmete osnovane na općinskom sudu,
+6. datumu početka procesa,
+7. datumu osnivanja predmeta na sudu,
+8. podnescima i drugim prilozima,
+9. sudskoj pristojbi.
+(3) Ako se spis osniva 

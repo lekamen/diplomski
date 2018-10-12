@@ -1,0 +1,28 @@
+ 3.1.2. i 3.1.3. Dodatka I. itd.;
+– načina praćenja kvalitete tražene konstrukcije i kvalitete tlačne opreme te učinkovitog rada sustava kvalitete.
+3.3. Prijavljeno tijelo ocjenjuje sustav kvalitete kako bi utvrdilo zadovoljava li on zahtjeve iz točke 3.2. Ono pretpostavlja sukladnost s tim zahtjevima u odnosu na elemente sustava kvalitete koji su u skladu s odgovarajućim specifikacijama relevantnih usklađenih standarda.
+Uz dodatak iskustva sa sustavima upravljanja kvalitetom, revizorski tim mora imati najmanje jednog člana s iskustvom za ocjenjivanje predmetne tehnologije tlačne opreme te znanjem o primjenjivim zahtjevima ovoga Pravilnika. Revizija uključuje obilazak pogona proizvođača u svrhu ocjenjivanja.
+Revizorski tim pregledava tehničku dokumentaciju iz točke 3.1. druga alineja, kako bi provjerio sposobnost proizvođača da identificira primjenjive zahtjeve ovoga Pravilnika i proveo potrebne preglede za osiguranje sukladnosti tlačne opreme s tim zahtjevima.
+O odluci se obavješćuje proizvođača ili njegova ovlaštenog predstavnika. Obavijest sadrži zaključke revizije i obrazloženje odluke o ocjeni.
+3.4. Proizvođač poduzima mjere kako bi ispunio obveze koje proizlaze iz sustava kvalitete kako je odobren, održavao sustav tako da ostane primjeren i učinkovit.
+3.5. Proizvođač izvješćuje prijavljeno tijelo koje je odobrilo sustav kvalitete o svakoj namjeravanoj promjeni sustava kvalitete.
+Prijavljeno tijelo procjenjuje sve predložene promjene i odlučuje hoće li izmijenjeni sustav kvalitete i dalje zadovoljavati zahtjeve iz točke 3.2. ili je potrebno ponovno ocjenjivanje.
+Ono o svojoj odluci obavješćuje proizvođača. Obavijest sadrži zaključke pregleda i obrazloženje odluke o ocjeni.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Svrha nadzora je osigurati da proizvođač u potpunosti ispunjava obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Proizvođač u svrhu ocjenjivanja prijavljenom tijelu omogućuje pristup mjestima konstruiranja, proizvodnje, inspekcije, ispitivanja i skladištenja i osigurava mu sve potrebne informacije, posebno:
+– dokumentaciju o sustavu kvalitete;
+– zapise o kvaliteti koje pruža dio sustava kvalitete koji se odnosi na konstrukciju, kao što su rezultati analiza, proračuna, ispitivanja itd.;
+– zapise o kvaliteti koje pruža dio sustava kvalitete koji se odnosi na proizvodnju, kao što su izvješća o inspekciji i podaci ispitivanja, podaci o umjeravanju, izvješća o osposobljenosti osoblja itd.
+4.3. Prijavljeno tijelo provodi periodične preglede kako bi osiguralo da proizvođač održava i primjenjuje sustav kvalitete te proizvođaču dostavlja izvješće o pregledu. Učestalost periodičnih pregleda je takva da se svake tri godine u cijelosti provede ponovno ocjenjivanje.
+4.4. Dodatno, prijavljeno tijelo može bez najave posjećivati proizvođača.
+Potreba za dodatnim posjetima i njihova učestalost bit će određeni na temelju kontrolnog sustava posjeta kojim upravlja prijavljeno tijelo. U okviru kontrolnog sustava posjeta posebno se razmatraju sljedeći čimbenici:
+– kategorija opreme;
+– rezultati prethodnih nadzornih posjeta;
+– potreba da se učine ispravke;
+– posebni uvjeti vezani za odobrenje sustava, kada je to primjenjivo;
+– značajne promjene u organizaciji, politici ili tehnologiji proizvodnje.
+Tijekom takvih posjeta prijavljeno tijelo može, ako je to potrebno, provesti ispitivanja na proizvodu, ili ih dati provesti, radi provjere pravilnog funkcioniranja sustava kvalitete. Prijavljeno tijelo proizvođaču dostavlja izvješće o posjetu, a ako su se provodila ispitivanja, i izvješće o ispitivanju.
+5. Oznaka CE i EU izjava o sukladnosti
+5.1. Proizvođač stavlja oznaku CE i pod odgovornošću prijavljenog tijela iz točke 3., njegov identifikacijski broj na svaki pojedini komad tlačne opreme koja zadovoljava primjenjive zahtjeve ovoga Pravilnika.
+5.2. Proizvođač sastavlja pisanu EU izjavu o sukladnosti za svaki model tlačne opreme i drži ga na raspolaganju državnim tijelima tijekom 10 godina od stavljanja tlačne opreme na 

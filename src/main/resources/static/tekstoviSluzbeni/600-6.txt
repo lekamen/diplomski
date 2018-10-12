@@ -1,0 +1,30 @@
+ članka 10. stavka 2. točke 4. ovoga Pravilnika, u prospektu AIF-a, uz maksimalnu naknadu za upravljanje koju je moguće zaračunati iz imovine samog AIF-a, mora biti jasno naznačena i maksimalna naknada za upravljanje koju je moguće zaračunati iz imovine drugih investicijskih fondova u koje namjerava ulagati, a u revidiranim godišnjim izvještajima AIF-a mora jasno biti naznačen maksimalan postotak naknade za upravljanje koja je zaračunata iz imovine AIF-a i iz imovine drugog investicijskog fonda u koji je taj AIF uložio.
+Ograničenja ulaganja radi sprječavanja značajnog utjecaja nad izdavateljima
+Članak 11.d
+(1) AIF s javnom ponudom može steći najviše:
+a) 10% dionica s pravom glasa jednog izdavatelja,
+b) 15% dionica bez prava glasa jednog izdavatelja,
+c) 15% dužničkih vrijednosnih papira jednog izdavatelja,
+d) 30% udjela pojedinog investicijskog fonda iz članka 10. stavka 2. točke 4. ovog Pravilnika
+e) 15% instrumenata tržišta novca jednog izdavatelja,
+f) ograničenja iz točaka c), d) i e) ovoga stavka mogu se zanemariti u trenutku stjecanja ako u tom trenutku nije moguće izračunati ukupan broj ili vrijednost instrumenata u opticaju.
+(2) Ograničenja iz stavka 1. ovoga članka ne primjenjuju se na prenosive vrijednosne papire i instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica, jedinica lokalne i područne (regionalne) samouprave države članice, treća država ili javna međunarodna tijela kojima pripada jedna ili više država članica.«.
+Članak 8.
+Članak 12. mijenja se i glasi:
+»(1) Ulaganje imovine zatvorenog AIF-a s javnom ponudom podliježe sljedećim ograničenjima:
+1. najviše 15% neto vrijednosti imovine AIF-a može biti uloženo u prenosive vrijednosne papire ili instrumente tržišta novca jednog izdavatelja iz članka 10. stavka 2. točaka 1., 2., 3., 7. i 9. ovoga Pravilnika,
+2. najviše 20% neto vrijednosti imovine AIF-a može se uložiti u depozite kod jedne te iste kreditne institucije iz članka 10. stavka 2. točke 5. ovoga Pravilnika, pri čemu se u obzir uzima i novac na računima iz članka 10. stavka 6. ovog Pravilnika,
+3. izloženost AIF-a riziku druge ugovorne strane kod transakcija s OTC izvedenicama ne smije biti veća od:
+a) 10% neto vrijednosti imovine AIF-a, ako je druga ugovorna strana kreditna institucija iz članka 10. stavka 2. točke 5. ovoga Pravilnika,
+b) 20% neto vrijednosti imovine AIF-a u trenutku stjecanja, ako su ispunjeni svi sljedeći uvjeti:
+– druga ugovorna strana je kreditna institucija iz članka 10. stavka 2. točke 5. ovoga Pravilnika,
+– to je jedina OTC izvedenica u AIF-u,
+– AIF ne može izgubiti više od iznosa koji je plaćen prilikom inicijalnog stjecanja izvedenice,
+– ulaganjem u izvedenicu se postiže specifična struktura ili strategija ulaganja, kao što je primjerice fond sa zaštićenom glavnicom i
+– u prospektu i/ili pravilima AIF-a je izričito predviđena mogućnost ulaganja u OTC izvedenice do 20% neto vrijednosti imovine AIF-a te su opisani svi rizici koji proizlaze iz takvog ulaganja i specifične strukture ili strategije ulaganja,
+c) 5% neto vrijednosti imovine AIF-a, ako je druga ugovorna strana neka druga pravna osoba,
+4. neovisno o pojedinačnim ograničenjima propisanim točkama 1. do 3. ovoga stavka, ista se neće kombinirati te se najviše 20% neto vrijednosti imovine fonda smije uložiti u:
+a) prenosive vrijednosne papire ili instrumente tržišta novca čiji je izdavatelj jedna te ista osoba,
+b) depozit kod te osobe ili
+c) izloženosti koje proizlaze iz transakcije s OTC izvedenicama sklopljenih s tom osobom,
+5. iznimno od ograničenja iz točke 1. ovoga stavka najviše 35% neto vrijednosti imovine AIF– a može biti uloženo u prenosive vrijednosne papire ili instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica ili jedinica lokalne i područne (regionalne) samouprave

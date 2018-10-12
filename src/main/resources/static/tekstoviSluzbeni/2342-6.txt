@@ -1,0 +1,34 @@
+ je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom ili osobno u Agenciju za plaćanja u roku od pet radnih dana od dana zaprimanja zahtjeva za dopunu/obrazloženje/ispravak. Ako tražena dokumentacija ne bude poslana u zadanom roku smatrat će se da je korisnik odustao od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(9) Vremenom zaprimanja zahtjeva za dopunu/obrazloženje/ispravak smatra se dan kada korisnik zaprimi preporučenu pošiljku.
+(10) Ako korisnik nije preuzeo zahtjev za dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke biti će ponovljena još jednom.
+(11) Ako korisnik ne preuzme zahtjev za dopunu niti nakon ponovljene dostave, zahtjev za dopunu će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja zahtjeva za dopunu na oglasnu ploču.
+(12) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja zahtjeva za isplatu obračunat će se:
+– protuvrijednost u kunama po tečaju Europske komisije (u daljnjem tekstu: ECB), u mjesecu zaprimanja zahtjeva za financiranje iskazanom na šest decimala (navedeni tečaj se može dobiti na http://ec.europa.eu/budget/inforeuro/) i
+– u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja zahtjeva za financiranje iskazanom na šest decimala, isplata potpore temeljit će se na ostvarenom tečaju.
+(13) Ako se administrativnom kontrolom zahtjeva za financiranje utvrdi neprihvatljiv izdatak, zatraženi iznos iz zahtjeva za financiranje umanjuje se za iznos nepravilnog izdatka.
+(14) Dio administrativne kontrole je i posjeta ulaganju prije financiranja koju provode djelatnici Agencije za plaćanja.
+Donošenje odluka
+Članak 28.
+(1) Nakon provjere zahtjeva za financiranje s pripadajućom dokumentacijom Agencija za plaćanja će donijeti:
+– odluku o isplati ili
+– odluku o odbijanju zahtjeva za financiranje.
+(2) Odluka o odbijanju zahtjeva za financiranje donosi se zbog:
+– neispunjavanja uvjeta propisanih ovim Pravilnikom
+– neprihvatljivosti svih aktivnosti i/ili svih troškova navedenih u zahtjevu za financiranje
+– sufinanciranja aktivnosti koja je predmet potpore drugim sredstvima proračuna EU
+– dostavljanja zahtjeva za financiranje nakon propisanog roka
+– nedostavljanja dokumentacije navedene u članku 27. stavku 8. u roku propisanom Pravilnikom ako se dopuna/obrazloženje/ispravak odnosi na zahtjev za financiranje u cijelosti
+– onemogućavanja posjeta ulaganju
+– utvrđene nepravilnosti kod koje je utvrđena i sumnja na prijevaru, a provedbeno tijelo će zbog sumnje na prijevaru izvijestiti Državno odvjetništvo Republike Hrvatske kako bi se pokrenuo postupak pred nadležnim sudom
+– ukoliko je korisnik proveo postupak javne nabave, a Agencija za plaćanje utvrdi da dokumentacija iz provedenog postupka javne nabave nije dostavljena Agenciji za plaćanja i/ili postupak nije proveden sukladno važećim propisima kojima se uređuje postupak javne nabave i/ili
+– nedostavljanja dokumentacije vezane uz postupak javne nabave zatražen zahtjevom za dopunu/obrazloženje/ispravak.
+V. POVRAT SREDSTAVA, PRIGOVORI I STUPANJE NA SNAGU
+Povrat sredstava
+Članak 29.
+(1) Agencija za plaćanja će odlukom o povratu sredstava od korisnika zahtijevati:
+1. povrat utvrđenog nepravilnog iznosa ako se nakon financiranja utvrdi administrativna greška
+2. povrat utvrđenog nepravilnog iznosa ako se nakon financiranja utvrde nepravilno isplaćeni troškovi
+3. povrat ukupno isplaćenih sredstava potpore ako se nakon financiranja utvrdi nepravilnost koja ujedno predstavlja sumnju na prijevaru
+4. povrat ukupno isplaćenih sredstava potpore ako se utvrdi da su troškovi za koje je podnesen zahtjev za financiranje financirani drugim sredstvima proračuna EU
+5. povrat isplaćenih sredstava ako je korisnik nezakonito ostvario pravo na financiranje
+6. povrat isplaćenih sredstava ako sklopljeni ugovor nije izvršen na način kako je ugovoreno poštujući propise koji uređuju postupak javne

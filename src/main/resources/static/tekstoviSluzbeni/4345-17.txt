@@ -1,0 +1,30 @@
+ nepravovremenosti i/ili nepotpunosti odgovora na Zahtjev za obrazloženje/ispravak
+– da je korisnik započeo s ulaganjem prije podnošenja Zahtjeva za potporu
+– da se utvrdi da vrijednost dijela započetog projekta/operacije iznosi više od 10% ukupnog iznosa projekta/operacije
+– sprječavanja kontrole na terenu predstavnicima Agencije za plaćanja od strane korisnika
+– utvrđene nepravilnosti
+– da se utvrdi da je ulaganje za koje je podnesen Zahtjev za potporu za financiranje unutar EPFRR-a, financirano drugim sredstvima proračuna EU
+– da se utvrdi da su informacije dostavljene od strane korisnika ili ponuditelja lažne ili pogrešne
+– da se utvrdi da dokumentacija iz postupka prikupljanja ponuda nije dostavljena Agenciji za plaćanja ili nije odgovarajuća
+– da su cijene u dostavljenim ponudama namjerno uvećane
+– da se, uvažavajući odredbe Zakona o javnoj nabavi (»Narodne novine«, br. 90/11, 83/13, 143/13 i 13/14) i ovoga Pravilnika, utvrdi da dokumentacija iz provedenog postupka javne nabave nije dostavljena Agenciji za plaćanja i/ili nije prihvatljiva
+– da se utvrdi prekoračenje najvećeg dozvoljenog iznosa javne potpore u slučaju financiranja istog ulaganja od strane središnjih tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave, te svake pravne osobe koja dodjeljuje državne potpore
+– da se utvrdi prekoračenje najvišeg dozvoljenog iznosa vrijednosti projekta/operacije za tipove operacije 7.2.1., 7.2.2. ili 7.4.1.
+(2) Ukoliko je korisnik proveo više postupaka nabave unutar jednog zahtjeva za potporu, a Agencija za plaćanja utvrdi da dokumentacija iz jednog od provedenih postupaka nabave nije dostavljena Agenciji za plaćanja i/ili nije prihvatljiva za odobrenje, uvažavajući odredbe ovog Pravilnika kao i odredbe Zakona o javnoj nabavi, donijet će se Odluka o dodjeli sredstava ili Odluka o odbijanju uzimajući u obzir odobrenu odnosno neodobrenu dokumentaciju iz provedenog postupka nabave.
+(3) Odlukom iz stavka 1. točke a) ovoga članka utvrđuju se:
+a) prihvatljivi troškovi
+b) najviši iznos javne potpore.
+(4) Najviši iznos javne potpore koji se utvrđuje odlukom o dodjeli sredstava ne može biti veći od iznosa potpore utvrđenog Odlukom o prihvatljivosti i Ugovorom o financiranju.
+(5) Odlukom iz stavka 1. točke a) ovoga članka stavit će se izvan snage Odluka o prihvatljivosti iz članka 30. stavak 2. točke a) i članka 31. stavak 1. točke c) ovoga Pravilnika.
+Promjene podataka o korisniku
+Članak 33.
+(1) Promjene podataka o korisniku podrazumijevaju promjene podataka koje se nalaze u Evidenciji korisnika.
+(2) Promjene iz stavka 1. ovoga članka korisnik podnosi putem AGRONET-a sukladno Uputi za upis u Evidenciju korisnika potpora u ruralnom razvoju i ribarstvu, koju korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(3) Korisnik mora obavijestiti Agenciju za plaćanja o promjenama navedenim u stavku 1. ovoga članka nakon pojave događaja koji ih je izazvao.
+(4) Po odobrenju/odbijanju Zahtjeva za promjenu podataka u Evidenciji korisnika, Agencija za plaćanja će korisniku poslati putem elektronske pošte obavijest da su promjene izvršene/nisu izvršene.
+Promjene Zahtjeva za potporu
+Članak 34.
+(1) Promjene Zahtjeva za potporu podrazumijevaju promjenu podataka koji se odnose na podneseni Zahtjev za potporu izuzev promjena navedenih u članku 33. ovoga Pravilnika.
+(2) Korisnik je obavezan prijaviti promjenu priloženih akata kojima se odobrava građenje građevina iz Zahtjeva za potporu, promjenu ponuditelja i ostalih općih podataka koji su sadržani u Odluci o dodjeli sredstava izuzev podataka iz članka 33. ovoga Pravilnika.
+(3) Zahtjev za promjenu popunjava se u AGRONET-u, a po popunjavanju potrebno je u Agenciju za plaćanja dostaviti ovjerenu Potvrdu o podnošenju Zahtjeva za promjenu preporučenom pošiljkom s povratnicom ili osobno.
+(4) Promjene iz stavka 2. ovoga članka korisnik može prijaviti najviše dva puta podnošenjem Zahtjeva za promjenu putem AGRONET-a na način opisan u Vodiču za korisnike, 

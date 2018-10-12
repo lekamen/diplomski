@@ -1,0 +1,5 @@
+ Jednostupanjski postupak kod omjera tekuće-čvrsto od 10 l/kg za materijale s veličinom čestica manjom od 4 mm (sa smanjenjem veličine čestica ili bez smanjenja) (EN 12457-2:2002) HRN EN 12457-4:2005 Karakterizacija otpada -– Izluživanje -– Provjera izluživanja zrnatoga otpadnog materijala i muljeva -– 4. dio: Jednostupanjski postupak kod omjera tekuće-čvrsto od 10 l/kg za materijale s veličinom čestica manjom od 10 mm (sa smanjenjem veličine čestica ili bez smanjenja) (EN 12457-4:2002) 1 za provjeru izluživanja monolitnog otpada, otpad se usitnjava na veličinu < 4 mm
+Digestija otpada
+HRN EN 13657:2008 Karakterizacija otpada -– Digestija zlatotopkom za naknadno određivanje topivih elemenata (EN 13657:2002) HRN EN 13656:2008 Karakterizacija otpada -– Mikrovalna razgradnja potpomognuta sa smjesom fluoridne, dušične i kloridne kiseline za naknadno određivanje elemenata (EN 13656:2002)
+Analize
+HRN EN 16192:2011 Karakterizacija otpada -– Analiza eluata (EN 16192:2011) HRN EN 14039:2005 Karakterizacija otpada -– Određivanje sadržaja ugljikovodika od C10 do C40 plinskom kromatografijom (EN 14039:2004)

@@ -1,0 +1,40 @@
+ mijenjani ili dopunjavani nakon provođenja transakcije uplate ili isplate gotovine u kunama ili strane gotovine odnosno isplate čekova koji glase na stranu valutu iz blagajne. Kodiraju se sljedeći podaci s potvrda iz stavka 2. ove točke:
+a) serijski broj
+b) akronim transakcije
+c) iznos uplaćene odnosno isplaćene strane gotovine odnosno isplaćenih čekova koji glase na stranu valutu
+d) protuvrijednost u kunama iznosa uplaćene odnosno isplaćene strane gotovine odnosno isplaćenih čekova koji glase na stranu valutu
+e) datum i vrijeme evidentiranja transakcije (sat i minuta)
+f) šifra odgovorne osobe ovlaštenog mjenjača odnosno osobe koja obavlja mjenjačke poslove na mjenjačkom mjestu
+g) akronim kojim se opisuje razlog storniranja transakcije otkupa ili prodaje, u slučaju storniranja transakcije uplate ili isplate.
+(10) Zaštićeni program može omogućiti storniranje transakcije uplate ili isplate prema serijskom broju potvrde o uplati ili isplati gotovine u kunama ili strane gotovine odnosno potvrde o isplati čekova koji glase na stranu valutu.
+(11) Zaštićeni program ne smije omogućiti storniranje transakcije uplate ili isplate nakon izrade konačnog izvješća »Obračun dnevne blagajne stanje blagajničkog dnevnika«.
+(12) Zaštićeni program mora omogućiti ispisivanje podataka o transakcijama uplata odnosno isplata provedenima tijekom tekućega radnog dana ili bilo kojega radnog dana tijekom tekuće odnosno prethodne kalendarske godine, razvrstano po serijskim brojevima transakcija, valutama i iznosima.
+II.4. Način dodjeljivanja serijskih brojeva transakcijama iz točaka II.2. i II.3. ove Upute
+(1) Serijski je broj za svaku vrstu transakcije iz točaka II.2. i II.3. ove Upute (u nastavku teksta: transakcija) slovno-brojčani, a sastoji se od ukupno deset slovnih i brojčanih znakova. Serijski broj transakcije počinje slovnim znakom na prvom, odnosno na prvom i drugom mjestu, a nastavlja se s devet odnosno osam brojčanih znakova.
+(2) Posljednja je znamenka brojčanog dijela prvoga serijskog broja transakcije 1, a prethodne su znamenke brojčanog dijela toga serijskog broja 0.
+(3) Posljednja znamenka brojčanog dijela serijskog broja transakcije uvećava se za 1 u odnosu na brojčani dio prethodnoga serijskog broja.
+(4) Slovni dijelovi serijskih brojeva transakcija glase:
+– kod transakcija otkupa strane gotovine, odnosno čekova koji glase na stranu valutu: »O«
+– kod transakcija prodaje strane gotovine: »P«
+– kod transakcija uplata u blagajnu u gotovini u kunama:
+– primitak kuna s računa za redovito poslovanje: »UP«
+– primitak kuna na osnovi prodaje otkupljene strane gotovine banci: »UL«
+– primitak kuna na osnovi prodaje razlike između otkupa i prodaje banci: »UA«
+– primitak kuna s drugoga blagajničkog mjesta koje je unutar istoga mjenjačkog mjesta: »UU«
+– primitak kuna s drugoga mjenjačkog mjesta istoga ovlaštenog mjenjača: »UN«
+– primitak kuna iz blagajne koja je namijenjena za obavljanje drugih djelatnosti istoga ovlaštenog mjenjača: »UB«
+– primitak efektivnih kuna: »UE«
+– kod transakcija isplata iz blagajne u gotovini u kunama:
+– polaganje kuna na račun za redovito poslovanje: »IP«
+– prijenos kuna na drugo blagajničko mjesto koje je unutar istoga mjenjačkog mjesta: »IU«
+– prijenos kuna na drugo mjenjačko mjesto istoga ovlaštenog mjenjača: »IN«
+– prijenos kuna u blagajnu koja je namijenjena za obavljanje drugih djelatnosti istoga ovlaštenog mjenjača: »IB«
+– izlaz efektivnih kuna: »IE«
+– kod transakcija uplata u blagajnu u stranoj gotovini:
+– primitak strane gotovine s drugoga blagajničkog mjesta koje je unutar istoga mjenjačkog mjesta: »FU«
+– primitak strane gotovine s drugoga mjenjačkog mjesta istoga ovlaštenog mjenjača: »FN«
+– primitak strane gotovine s posebnog računa: »FP«
+– kod transakcija isplata iz blagajne u stranoj gotovini:
+– prijenos strane gotovine na drugo blagajničko mjesto koje je unutar istoga mjenjačkog mjesta: »FI«
+– prijenos strane gotovine na drugo mjenjačko mjesto istoga ovlaštenog mjenjača: »FD«
+– polaganje strane gotovine na

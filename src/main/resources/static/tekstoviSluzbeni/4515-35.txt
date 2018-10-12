@@ -1,0 +1,39 @@
+ 350mm niti veća od 1500 m.
+(4) Na vozilima ne smiju biti postavljeni drugi uređaji za osvjetljavanje, označavanje i davanje svjetlosnih znakova te drugi izvori svjetlosti i reflektirajuće tvari, osim onih iz stavka 1. ovoga članka.
+(5) Ako su svjetla za osvjetljavanje i signalizaciju izvedena u paru, moraju biti ugrađena na istoj visini od tla i simetrično na uzdužnu os vozila, osim kod vozila kategorije L4. Moraju biti iste boje i snage te se paliti istovremeno, osim parkirnih svjetala i pokazivača smjera.
+3.1 Uređaji za osvjetljavanje ceste
+Članak 112.
+(1) Glavna svjetla na vozilima kategorije L moraju biti izvedena kao jedno ili dva kratka svjetla i jedno ili dva duga svjetla.
+(2) Vozila kategorije L1 i L2 mogu imati izvedena glavna svjetla samo kao kratka svjetla.
+(3) Glavna se svjetla moraju upaliti samostalno kada se upali vozilo, osim u slučaju kada je vozilo opremljeno dnevnim svjetlima.
+(4) Glavna svjetla moraju se upaliti zajedno s prednjim i stražnjim pozicijskim svjetlima te svjetlom stražnje registarske pločice.
+(5) Glavna svjetla mogu biti zakretna u ovisnosti o kutu zakreta kotača i brzini vozila. Geometrija podešenosti svjetala mora biti istovjetna zakretnim svjetlima dok vozilo miruje i dok su upravljački kotači ispravljeni u početni nulti položaj.
+(6) Udaljenost gornjeg ruba svjetleće površine kratkog i dugog svjetla ne smije biti veća od 1200 mm, a udaljenost donjeg ruba svjetleće površine ne smije biti manja od 500 mm od površine ceste.
+Članak 113.
+(1) Prednja svjetla za maglu na vozilima kategorije L mogu biti izvedena kao jedno ili dva prednja svjetla za maglu.
+(2) Prednja svjetla za maglu ne smiju se postavljati na većoj visini od one na kojoj su postavljena kratka svjetla glavnog svjetla.
+(3) Prednja svjetla za maglu mogu se upotrebljavati kao svjetla za asimetrično osvjetljavanje ceste u pravcu skretanja vozila.
+(4) Prednja svjetla za maglu moraju imati posebnu sklopku.
+(5) Prednje svjetlo za maglu mora biti povezano tako da se ne može uključiti ako prethodno nije uključeno prednje kratko svjetlo.
+Članak 114.
+(1) Pokretno svjetlo (reflektor) može se uključiti samo ako su uključena i pozicijska svjetla i ne smije se koristiti za vrijeme sudjelovanja u prometu.
+(2) Pokretno svjetlo (reflektor) mora imati posebnu sklopku.
+3.2 Uređaji za označavanje vozila
+Članak 115.
+(1) Pozicijska i parkirna svjetla moraju biti izvedena kao najmanje jedno prednje i jedno stražnje pozicijsko svjetlo.
+(2) Ako je vozilo kategorije L šire od 1300 mm, mora imati dva prednja i stražnja pozicijska svjetla.
+(3) Prednja pozicijska svjetla smiju biti ugrađena u glavna svjetla.
+(4) Stražnja pozicijska svjetla ne smiju biti ugrađena na dio vozila koji se pomiče u vožnji.
+(5) Ukoliko su prednja pozicijska svjetla jantarne boje, mogu biti ugrađena u rasvjetno tijelo prednjih pokazivača smjera.
+Članak 116.
+(1) Parkirna svjetla mogu biti izvedena na prednjem i stražnjem kraju vozila.
+(2) Prednje parkirno svjetlo mora biti usmjereno naprijed i ugrađeno zajedno s prednjim pozicijskim ili kratkim glavnim svjetlom.
+(3) Stražnje parkirno svjetlo mora biti usmjereno nazad i ugrađeno zajedno sa stražnjim pozicijskim svjetlom ili stop svjetlom.
+(4) Udaljenost svjetleće površine parkirnog svjetla od površine ceste ne smije biti manja od 350 mm niti veća od 1900 mm.
+Članak 117.
+(1) Smještaj stražnje registarske pločice na vozilima kategorije L mora biti u skladu s Direktivom 93/94/EEC.
+(2) Vozila kategorije L za koja uvjeti o smještaju registarske oznake nisu bili propisani u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 118.
+(1) Stražnja registarska pločica na vozilima kategorije L mora biti smještena tako da je vidljiva sudionicima u prometu koji se nalaze iza vozila.
+(2) Nosač stražnje registarske pločice ne smije biti sklopiv.
+(3) Svjetlo stražnje registracijske pločice na vozilima kategorije L, ovisno o tipu pločice, mora biti ugrađeno i izvedeno tako da se

@@ -1,0 +1,25 @@
+ osim djelatnosti upravljanja UCITS fondovima obavlja djelatnosti osnivanja i upravljanja alternativnim investicijskim fondovima ili upravljanja dobrovoljnim mirovinskim fondovima ili upravljanja portfeljem, a ne ispunjava dodatne kapitalne zahtjeve propisane pravilnikom iz članka 20. stavka 4. ovoga Zakona
+8. regulatorni kapital društva za upravljanje nije u svakom trenutku veći ili jednak većem od iznosa iz članka 21. stavka 1. ili 3. ovoga Zakona ili stavke općih troškova iz članka 21. stavka 1. točke 2. ovoga Zakona nisu u skladu s odredbama pravilnika iz članka 21. stavka 4. ovoga Zakona
+9. o ispunjenju kapitalnih zahtjeva iz članka 21. ovoga Zakona ne izvještava Agenciju najmanje jednom u šest mjeseci, u skladu s odredbama članka 22. stavka 1. ovoga Zakona
+10. su vrste ili sadržaj izvještaja o izračunu regulatornog kapitala i/ili rokovi njihove dostave protivni odredbama pravilnika iz članka 22. stavka 2. ovoga Zakona
+11. protivno odredbama članka 29. stavka 1. ovoga Zakona ima ili stekne kontrolu ili kvalificirani udjel u investicijskom društvu, kreditnoj instituciji koja pruža investicijske usluge i obavlja investicijske aktivnosti u skladu s odredbama zakona koji uređuje tržište kapitala, odnosno koja obavlja odgovarajuće usluge u skladu s odredbama zakona koji uređuje osnivanje i poslovanje kreditnih institucija, društvu za osiguranje, društvu za reosiguranje, mirovinskom društvu za upravljanje obveznim ili dobrovoljnim mirovinskim fondovima, mirovinskom osiguravajućem društvu, faktoring-društvu ili leasing-društvu
+12. ima ili stekne dionice ili udjele u depozitaru, protivno odredbama članka 29. stavka 2. ovoga Zakona
+13. ima ili stekne dionice ili udjele u osobi na koju je depozitar delegirao poslove iz članka 221. ovoga Zakona, protivno odredbama članka 29. stavka 3. ovoga Zakona
+14. funkciju člana uprave društva za upravljanje, protivno odredbama članka 39. stavka 1. ovoga Zakona, obavlja osoba koja nije dobila odobrenje Agencije za obavljanje funkcije člana uprave društva za upravljanje
+15. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. ili stavka 2. ovoga Zakona
+16. ne uspostavi sveobuhvatan i učinkovit sustav upravljanja rizicima za društvo za upravljanje i UCITS fondove kojima upravlja u skladu s odredbama članka 56. stavka 1. ovoga Zakona
+17. protivno odredbama članka 69. stavka 1. ovoga Zakona, poslove koje je dužno obavljati delegira trećim osobama bez odobrenja Agencije
+18. delegira poslove na treće osobe bez da ispuni uvjete propisane odredbama članka 70. ovoga Zakona
+19. protivno odredbama članka 85. stavka 2. ovoga Zakona, preuzme poslove upravljanja UCITS fondom bez odobrenja Agencije
+20. ne vodi poslove društva za upravljanje i UCITS fonda u skladu s odredbama članka 106. ovoga Zakona
+21. postupi poduzme radnje zabranjene odredbama članaka 107. i 108. ovoga Zakona
+22. upravljajući UCITS fondom ne poštuje ograničenja iz članka 109. ovoga Zakona
+23. vodeći registar udjela UCITS fonda priopći podatke o ulagateljima, stanju udjela te uplatama i isplatama protivno odredbama članka 114. stavka 1. ovoga Zakona
+24. postupi protivno članku 119. stavku 3. ovoga Zakona
+25. trguje udjelima otvorenih investicijskih fondova s javnom ponudom iz treće države protivno odredbama članka 147. ovoga Zakona
+26. ne utvrđuje vrijednost imovine UCITS fonda, odnosno cijene udjela, u skladu s odredbama članaka 168. i članka 169. stavaka 1. i 2. ovoga Zakona
+27. obustavu izdavanja i otkupa udjela UCITS fonda ne provodi u skladu s odredbama članka 177. stavka 1. do 5. ili članka 178. stavaka 1. i 4. ovoga Zakona
+28. ne postupi u skladu s odredbama članka 183. stavka 1. ovoga Zakona
+29. započne javnu ponudu udjela UCITS fonda na području Republike Hrvatske protivno odredbama članka 188. stavka 1. ovoga Zakona
+30. ne postupi u skladu s odredbama članka 193. stavaka 2. i 3. ovoga Zakona
+31. ne objavi pravila UCITS fonda, kao i njihove

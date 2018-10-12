@@ -1,0 +1,29 @@
+ podvozja. Glavna nosila i odgovarajuće podvozje moraju ispunjavati uvjete, odnosno slijednicu HRN EN 1865 -1: 2010. Ne smije doći do deformacija ležeće površine glavnih nosila prilikom testiranja sukladno HRN EN 1865 -1: 2010 5.1.3. odnosno slijednici navedene norme. Okvir mora biti testiran sukladno HRN EN 1865 -1: 2010 5.1.1. odnosno slijednici navedene norme. Nosila moraju zadovoljiti testiranje na torziju sukladno HRN EN 1865 -1: 2010 5.1.4. odnosno slijednici navedene norme. Kotači na podvozju glavnih nosila moraju zadovoljiti testiranje sukladno HRN EN 1865 -1: 2010 5.1.5. Otpornost glavnih nosila na požar i oslobađanje otrovnih plinova mora biti testirana sukladno EN 579-1.
+Glavna nosila u svom osnovnom položaju moraju omogućiti normalno sjedenje osoblja na sjedalu i rad s pacijentom na nosilima. Udaljenost od gornje plohe postolja za glavna nosila do stropa mora biti najmanje 1100 mm, mjereno na sredini uzdužne osi glavnih nosila.
+Glavna nosila moraju imati:
+– rasklopno podvozje sa četiri kotača i ležeću površinu nosila izrađenu od metalnog materijala otpornog na dezinficijense i sredstva za čišćenje
+– nosila dužine najmanje 1950 (+20/–50) mm i širine najmanje 550 (+/–20) mm
+– podvozje čiji okvir ne prelazi dimenzije dužine i širine nosila kada je nosilo učvršćeno u medicinskom vozilu
+– ležeću površinu nosila otpornu na klizanje i dovoljno čvrstu za provođenje postupaka kardiopulmonalne reanimacije
+– madrac učvršćen za ležeću površinu nosila izrađen od materijala otpornog na upijanje krvi i tjelesnih tekućina koji se lako čisti te je otporan na sredstva za čišćenje i dezinficijense (svojstva madraca moraju se podudarati sa svim konfiguracijama pripadajućih nosila)
+– rasklopno podvozje koje mora imati najmanje dva položaja (potpuno rasklopljeno i položaj u vozilu)
+– rasklopno podvozje koje se rasklopi pri izvlačenju nosila iz vozila tako da ih može unijeti/iznijeti jedna osoba kada je pacijent na njima
+– rasklopno podvozje koje se učvrsti u sklopljenom položaju
+– uzglavlje nosila (oslonac za glavu, vrat i leđa) dužine od najmanje 600 mm
+– uzglavlje koje se mora moći bez stupanjski podići pod kutom od 0° do najmanje 75°, s mogućnošću učvršćivanja u najmanje 5 položaja (u normalnim okolnostima unošenja/iznošenja nosila, odabrani kut mora ostati nepromijenjen)
+– podnožje nosila (oslonac za noge) dužine od najmanje 900 mm
+– podnožje nosila koje se mora moći podići pod kutom od najmanje 15° (u normalnim okolnostima unošenja/iznošenja nosila, odabrani kut mora ostati nepromijenjen)
+– sigurnosni sustav koji onemogućava da se nosila izvuku sa navoza ako se ne rasklope prednje noge
+– mogućnost blokade najmanje dva kotača
+– kotače promjera najmanje 100 mm
+– oba kotača na podnožju glavnih nosila koji se moraju moći okretati za 360°
+– sustav sigurnosnog remenja i sklopive sigurnosne ograde na obje strane glavnih nosila koji ispunjavaju uvjete HRN EN 1789:2011 – 4.5.9., odnosno slijednicu iste norme. Ne smije biti deformacija sigurnosnog sustava prilikom testiranja sukladno HRN EN 1865 -1: 2010 5.1.2, odnosno slijednici navedene norme
+– sustav sigurnosnog remenja s najmanje dva para brzo otkapčajućih remena s mogućnošću učvršćivanja naprave za vezanje djece
+– sklopive sigurnosne ograde nosila koje moraju biti dužine najmanje 500 mm i visine od najmanje 150 do 200 mm mjereno od vrha okvira nosila do vrha sigurnosne ograde
+– mogućnost učvršćenja nosača za infuziju
+– imati nosivost najmanje 150 kg
+– mehanizam za učvršćivanje nosila za podvozje (odnosi se na nosila odvojiva od podvozja)
+– mehanizam za odvajanje nosila od podvozja (odnosi se na nosila odvojiva od podvozja)
+– težinu (bez madraca i sustava za vezanje pacijenta) do najviše 45 kg (samo za nosila s nosivošću od 150 kg) kada su nosila i podvozje jedinstvena cjelina (monoblok)*
+– težinu (bez madraca i sustava za vezanje pacijenta) do najviše 51 kg (samo za nosila s nosivošću od 150 kg) kada su nosila odvojiva od podvozja*.
+*za nosila koja se ručno podižu odnosno nemaju sustav 

@@ -1,0 +1,45 @@
+nakon što je bilo potpuno zahvaćeno plamenom u trajanju od 2 s;
+.6 ima džep za prenosivi VHF telefon; i
+.7 ima bočno polje vidljivosti najmanje 120°.
+6.5.1.2 Odijelo za zaštitu od vremenskih nepogoda mora omogućiti osobi koja ga nosi:
+.1 penjanje uz okomite ljestve duljine najmanje 5 m;
+.2 skakanje u vodu s visine ne manje od 4,5 m sa stopalima naprijed, bez oštećenja ili spadanja odijela ili djelova opreme, odnosno tjelesne povrede;
+.3 plivanje u vodi najmanje 25 m i ukrcavanje u plovilo za preživljavanje;
+.4 oblačenje prsluka za spašavanje bez ičije pomoći; i
+.5 obavljanje svih dužnosti vezanih uz napuštanje broda, pomaganje drugima i upravljanje brodicom za prikupljanje.
+6.5.1.3 Odijelo za zaštitu od vremenskih nepogoda mora imati svjetlo u skladu sa 6.3.3. tako da ispuni zahtjeve 6.3.3.1.3 i 6.51.1.2 i zviždaljku navedenu u 6.3.1.14.
+6.5.2 Zahtjevi za toplinsku izvedbu za odijela za zaštitu od vremenskih nepogoda
+6.5.2.1 Odijelo za zaštitu od vremenskih nepogoda:
+.1 ako je izrađeno od materijala koji nema vlastitu izolaciju, mora biti označeno da se mora nositi zajedno s toplom odjećom; i
+.2 mora biti tako izrađeno da pruža dovoljnu toplinsku zaštitu i nakon što osoba koja ga nosi kako je navedeno, skoči u vodu koja ga u potpunosti prekrije i da osigura kad se nosi u mirnoj vodi temperature 5 °C, da se temperatura tijela osobe koja ga nosi ne smanji razmjerno više od 1.5 °C na sat nakon prvih 0.5 sati.
+6.5.3 Zahtjevi za stabilnost
+6.5.3.1 Osoba koja nosi odijelo za zaštitu od vremenskih nepogoda u slatkoj vodi, mora biti u stanju da se u roku od 5 s okrene iz položaja licem prema vodi u položaj licem iznad vode. Odijelo ne smije omogućavati prevrtanje osobe licem prema vodi kod umjerenog stanja mora.
+6.6 SREDSTVA ZA ZAŠTITU OD GUBITKA TOPLINE
+Sredstvo za zaštitu od gubitka topline mora biti izrađeno od vodonepropusnog materijala s toplinskom provodljivošću ne većom od 7800 W/m2K i mora biti tako izvedeno da osobi koja ga nosi smanjuje gubitak tjelesne topline uslijed prijenosa topline, te gubitak topline uslijed isparavanja.
+6.6.1 Sredstvo za zaštitu od gubitka topline mora:
+.1 pokrivati čitavo tijelo osoba svih veličina koje nose prsluk za spašavanje, osim lica. Ruke se također moraju pokriti, osim ako su predviđene pričvršćene rukavice;
+.2 biti takvo da ga osoba može sama raspakirati i lako ga obući bez ičije pomoći u plovilu za preživljavanje ili u brodici za prikupljanje; i
+.3 omogućiti osobi koja ga nosi da ga skine u vodi za najviše 2 min. ako ono umanjuje sposobnost plivanja.
+6.6.2 Sredstvo za zaštitu od gubitka topline mora omogućiti ispravno korištenje pri temperaturi zraka od -30 °C do + 20 °C.
+6.7 SVJETLOSNI SIGNALI
+6.7.1 Rakete s padobranom
+6.7.1.1 Raketa s padobranom mora:
+.1 se nalaziti u vodootpornom kućištu;
+.2 imati kratke upute ili slike utisnute na kućištu, koje jasno označavaju način korištenja rakete;
+.3 imati sredstvo za aktiviranje, kao sastavni dio rakete; i
+.4 biti tako izvedena da ne izaziva neudobnost osobi koja drži kućište prilikom korištenja, u skladu s uputama proizvođača.
+6.7.1.2 Kad se ispali vertikalno, raketa mora dosegnuti visinu od najmanje 300 m. Na vrhu, ili blizu vrha svoje putanje raketa mora izbaciti raketu s padobranom, koja mora:
+.1 gorjeti jarko crvenim svjetlom;
+.2 jednoliko gorjeti uz prosječnu jačinu svjetlosti od najmanje 30.000 cd;
+.3 gorjeti ne manje od 40 s;
+.4 imati brzinu spuštanja ne više od 5 m/s; i
+.5 ne smije oštetiti padobran dok gori.
+6.7.2 Ručna buktinja
+6.7.2.1 Ručna buktinja mora:
+.1 biti smještena u vodootpornom kućištu;
+.2 imati kratke upute ili slike utisnute na kućištu, koje jasno označavaju način korištenja ručnih buktinja;
+.3 imati posebna sredstva za paljenje; i
+.4 biti tako izvedena da ne izaziva neudobnost osobi koja drži kućište i da ne ugrožava plovilo za preživljavanje ostacima gorenja ili žarenja kad se koristi u skladu s uputama proizvođača.
+6.7.2.2 Ručna buktinja mora:
+.1 gorjeti jarko crvenim svjetlom;
+.2 gorjeti jednoliko uz prosječnu jačinu

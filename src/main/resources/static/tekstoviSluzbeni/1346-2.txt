@@ -1,0 +1,20 @@
+ podpostrojenjima te uspoređuje podatke o djelatnostima s podacima o emisijama iz verificiranih Godišnjih izvješća o emisijama iz postrojenja za odgovarajuće referentno razdoblje, uključujući i Plan praćenja emisija stakleničkih plinova iz postrojenja, radi sprečavanja dvostrukog brojenja emisija i negativne dodjele sukladno članku 10. Odluke Komisije 2011/278/EU;
+19. putem Povjerenstva izračunava konačan broj emisijskih jedinica koje se dodjeljuju besplatno svakom postojećem postrojenju za svaku godinu razdoblja trgovanja od 2013. do 2020. godine te o tome obavještava Komisiju sukladno članku 10. stavku 9. i članku 15. Odluke Komisije 2011/278/EU;
+20. izrađuje i dostavlja Europskoj komisiji popis operatera postojećih postrojenja sukladno članku 15. Odluke Komisije 2011/278/EU;
+21. ažurira po potrebi popis operatera postojećih postrojenja i operatora zrakoplova s obzirom na odgovarajuću preliminarnu godišnju količinu besplatnih emisijskih jedinica te popis dostavlja Europskoj komisiji sukladno članku 16. Odluke Komisije 2011/278/EU;
+22. za nove sudionike objavljuje na svojim internetskim stranicama Obrazac za nove sudionike i zatvaranje postrojenja.
+23. zaprima zahtjev operatera novog postrojenja za besplatnu dodjelu emisijskih jedinica sukladno članku 17. stavcima 1. i 2. Odluke Komisije 2011/278/EU;
+24. putem Povjerenstva provodi podjelu novih postrojenja na podpostrojenja za besplatnu dodjelu emisijskih jedinica i prema potrebi zahtijeva da operater postrojenja postupi sukladno članku 17. stavku 3. Odluke Komisije 2011/278/EU;
+25. zahtijeva da operater utvrdi početni instalirani kapacitet i ishodi odobrenje o istome za svako podpostrojenje sukladno članku 17. stavku 4. Odluke Komisije 2011/278/EU;
+26. prihvaća podatke koji se dostavljaju sukladno članku 17. stavku 5. Odluke Komisije 2011/278/EU;
+27. putem Povjerenstva određuje razinu aktivnosti postrojenja sukladno članku 18. stavku 1. Odluke Komisije 2011/278/EU;
+28. putem Povjerenstva određuje relevantni faktor iskorištenja kapaciteta iz članka 18. stavka 1. točaka (b) do (d) sukladno članku 18. stavku 2. Odluke Komisije 2011/278/EU;
+29. putem Povjerenstva određuje razinu aktivnosti postrojenja za značajno proširenje kapaciteta nakon 30. lipnja 2011. godine, sukladno članku 18. stavcima 1. i 3. Odluke Komisije 2011/278/EU;
+30. putem Povjerenstva izračunava preliminarni godišnji broj emisijskih jedinica koje se besplatno dodjeljuju novim postrojenjima sukladno članku 19. stavku 1. Odluke Komisije 2011/278/EU,
+31. dostavlja Europskoj komisiji preliminarnu ukupnu godišnju količinu besplatno dodijeljenih emisijskih jedinica za novo postrojenje sukladno članku 19. stavku 4. Odluke Komisije 2011/278/EU;
+32. putem Povjerenstva nastavlja s određivanjem konačne godišnje količine besplatno dodijeljenih emisijskih jedinica, ako Europska komisija ne odbije preliminarnu ukupnu godišnju količinu besplatnih emisijskih jedinica za pojedino postrojenje sukladno članku 19. stavku 4. Odluke Komisije 2011/278/EU;
+33. zaprima zahtjev operatera o značajnom proširenju kapaciteta sukladno članku 20. stavku 1. i 2. Odluke Komisije 2011/278/EU;
+34. putem Povjerenstva na zahtjev operatera postrojenja određuje broj besplatnih emisijskih jedinica koje treba dodijeliti s obzirom na značajno proširenje kapaciteta sukladno članku 20. stavku 1. Odluke Komisije 2011/278/EU;
+35. zahtjeva da operater postrojenja uz zahtjev dostavi dokaze o ispunjenju kriterija za značajno proširenje kapaciteta te prošireni kapacitet i instalirani kapacitet dijela postrojenja nakon značajnog proširenja kapaciteta sukladno članku 20. stavku 2. Odluke Komisije (EU) br. 2011/278/EU;
+36. putem Povjerenstva kod procjene bilo kakve naknadne značajne promjene kapaciteta uzima instalirani kapacitet dijela postrojenja nakon značajnog proširenja ili smanjenja kao početni instalirani kapacitet postrojenja sukladno članku 20. stavku 2. i članku 21. stavku 1. Odluke Komisije 2011/278/EU;
+37. zaprima obavijest operatera o umanjenom

@@ -1,0 +1,26 @@
+ upisati poslovni broj s podbrojem 1. Na unutarnjim stranicama omota spisa kronološki se vodi evidencija primljenih podnesaka odnosno akata u predmetu. Podnesci odnosno akti slažu se u omotu spisa prema datumu njihova primitka odnosno nastanka, tako da se na vrhu nalazi pismeno koje je zadnje primljeno ili nastalo.
+(2) Na omotu se označava spis na koji se odnosi podnesak, naziv upisnika kraticom, redni broj upisa i godina u kojoj je podnesak upisan u upisnik.
+(3) Omot spisa ostaje u tijelu kad se predmet dostavlja drugom tijelu na nadležno postupanje, sve do izlučivanja ili predaje nadležnom arhivu.
+Članak 7.
+(1) Upisnik predmeta počinje se voditi na početku godine te se na kraju tekuće godine zaključuje s 31. prosincem, stavlja službena bilješka o ukupnom broju upisanih predmeta (brojčano i slovima), datum i potpis službene osobe koja vodi uredsku knjigu i ovjerava službenim pečatom.
+(2) Iza službene bilješke o zaključenju ispisuju se oznake neriješenih predmeta iz tekuće godine.
+(3) Naknadno riješeni predmeti u idućoj godini, nakon njihova razvođenja u odgovarajućoj uredskoj knjizi, precrtavaju se u popisu neriješenih predmeta iza službene bilješke o zaključenju ovih uredskih knjiga.
+(4) Ako se upisnici predmeta vode u elektroničkom obliku, na kraju godine se ispisuje i također uvezuju u jednu ili više knjiga.
+Članak 8.
+(1) Razvođenje dovršenih predmeta obavlja se tako da se u upisnik predmeta upisuje datum razvođenja i stavlja oznaka: »a/a« i rok čuvanja, sukladno propisima o arhivskoj djelatnosti.
+(2) Ovlašteni službenik poslije obavljenog razvođenja, spis predmeta predaje drugom ovlaštenom službeniku radi odlaganja u pismohranu.
+(3) Knjigu pismohrane i druge pomoćne knjige dužan je voditi ovlašteni službenik, kao pomoćnu evidenciju radi općeg pregleda cjelokupne građe odložene u pismohranu. Dovršeni predmeti evidentiraju se u knjizi pismohrane i odlažu u pismohranu po oznakama i po rednim brojevima predmeta, te se čuvaju na vrijeme utvrđeno posebnim popisom gradiva s rokovima čuvanja sukladno Pravilniku o zaštiti i korištenju arhivskog i registraturnog gradiva Državnog sudbenog vijeća.
+(4) Predmeti određenog stupnja tajnosti čuvaju se odvojeno od ostalih predmeta i to na način koji osigurava čuvanje njihove tajnosti na primjeren način, sukladno propisima o tajnosti podataka.
+Članak 9.
+Svaki akt Državnog sudbenog vijeća obvezno sadržava zaglavlje, naziv i adresu primatelja, kratku naznaku predmeta, tekst akta, otisak službenog pečata i potpis ovlaštene osobe.
+Članak 10.
+(1) Odluke i ostale akte potpisuje predsjednik Vijeća ili zamjenik.
+(2) Ostala pismena koja se odnose na predmete iz nadležnosti Vijeća potpisuje tajnik Državnog sudbenog vijeća. Otpravke i ostale prijepise potpisuje administrativna tajnica predsjednika Državnog sudbenog vijeća ili drugi ovlašteni službenik.
+(3) Na akte koji se otpremaju stavlja se otisak službenog pečata tako da zahvaća dio potpisa i dio naziva dužnosti potpisnika.
+Članak 11.
+(1) Otpremanje akata obavlja ovlašteni službenik.
+(2) Pismena iz stavka 1. ovjeravaju se pečatom Vijeća i potpisom ovlaštenog službenika. Potpis se stavlja ispod štambilja koji sadrži ime i prezime predsjednika vijeća odnosno tajnika i štambilja »za točnost otpravka«.
+(3) Izvornici odluka i ostalih pismena zadržavaju se u odgovarajućem spisu, a strankama se dostavljaju u ovjerenom prijepisu (otpravak).
+(4) Na svim otpravcima stavlja se ime i prezime potpisnika izvornika na mjestu gdje je izvornik potpisao predsjednik Vijeća, zamjenik ili drugi ovlašteni službenik, kao i kratica koja označuje da je izvornik potpisan vlastoručno (v. r.). Ispod toga stavlja se potvrda o ovjeri točnosti otpravka koja glasi: »Za točnost otpravka – ovlašteni službenik«. Potvrdu potpisuje administrativna tajnica predsjednika Državnog sudbenog vijeća ili drugi ovlašteni službenik uz stavljanje službenog pečata.
+Članak 12.
+(1) Spise ili podatke označene određenim stupnjem tajnosti Vijeće ne može učiniti dostupnim drugim osobama niti ih

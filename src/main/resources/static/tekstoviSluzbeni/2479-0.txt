@@ -1,0 +1,23 @@
+132 04.12.2015 Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2015. godini
+MINISTARSTVO FINANCIJA
+2480
+Na temelju članka 22. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2015. godinu (»Narodne novine«, broj 148/14 i 103/15), ministar financija donosi
+NAREDBU
+O IZMJENAMA I DOPUNAMA NAREDBE O NAČINU UPLAĆIVANJA PRIHODA PRORAČUNA, OBVEZNIH DOPRINOSA TE PRIHODA ZA FINANCIRANJE DRUGIH JAVNIH POTREBA U 2015. GODINI
+I.
+U Naredbi o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2015. godini (»Narodne novine«, broj 12/15 i 103/15) u glavi II. VLASTITI PRIHODI PRORAČUNA u točki 1. PRIHODI DRŽAVNOG PRORAČUNA u podtočki 1.2. Doprinosi za obvezna osiguranja, u podtočki 1.2.1. Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti temeljem JOPPD izvješća – od 1.1. 2014. godine, iza brojčane oznake vrste doprinosa 8222 dodaje se brojčana oznaka koja je u primjeni od 1. siječnja 2016. godine:
+-8230 Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti po osnovi obavljanja samostalne djelatnosti za osobe koje su same za sebe obvezne obračunati doprinose.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.1.1. Upisivanje podataka u polje »poziv na broj primatelja« dio teksta »do 8222« mijenja se i glasi »do 8230«.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.2. Doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti, iza brojčane oznake vrste doprinosa 8249 dodaju se sljedeće brojčane oznake koje su u primjeni od 1. siječnja 2016. godine:
+-8257 Doprinos za mirovinsko osiguranje – pomorci – članovi posade broda u međunarodnoj plovidbi, -8265 Doprinos za mirovinsko osiguranje za staž s povećanim trajanjem – pomorci – članovi posade broda u međunarodnoj plovidbi.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.2.1. Upisivanje podataka u polje »poziv na broj primatelja« u tekstu iza brojčane oznake 8214 dodaju se 8257 i 8265.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.3. Kapitalizirani doprinos, iza podtočke 1.2.3.1. Upisivanje podataka u polje »poziv na broj primatelja« dodaju se sljedeće podtočke:
+»1.2.3.2. Kapitalizirani doprinos osiguranika prema posebnom propisu
+Vrsta doprinosa Podvrsta doprinosa Naziv - 8281 019 Kapitalizirani doprinos osiguranika prema posebnom propisu.
+»1.2.3.3. Upisivanje podataka u polje »poziv na broj primatelja«
+Uplate u korist propisanog računa na brojčanu oznaku vrste doprinosa 8281 i podvrstu doprinosa 019 moguće su samo s računa HR7610010051700036001 Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje.
+»Za prijenos sredstava s računa HR7610010051700036001 Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje, u korist propisanog računa s brojčanom oznakom vrste doprinosa 8281 i podvrste 019, na nalozima za plaćanje u polje »model« upisuje se broj modela »HR65« a u polje »poziv na broj primatelja« kao podatak prvi brojčana oznaka vrste doprinosa 8281, kao podatak drugi podvrsta doprinosa 019 te kao podatak treći OIB Ministarstva financija 18683136487.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.4. Doprinos za obvezno osiguranje u slučaju nezaposlenosti temeljem JOPPD izvješća – od 1. 1. 2014. godine, iza brojčane oznake vrste doprinosa 8788 dodaje se brojčana oznaka koja je u primjeni od 1. siječnja 2016. godine:
+-8796 Doprinos za zapošljavanje po osnovi obavljanja samostalne djelatnosti za osobe koje su same za sebe obvezne obračunati doprinose.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.4.1. Upisivanje podataka u polje »poziv na broj primatelja« dio teksta »do 8788« mijenja se i glasi »do 8796«.
+U istoj glavi u točki 2. PRIHODI ŽUPANIJSKIH PRORAČUNA, u podtočki 2.3. Županijske novčane kazne, mijenja se naziv brojčane oznake vrste 

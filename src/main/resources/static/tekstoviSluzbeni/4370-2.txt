@@ -1,0 +1,28 @@
+1. ovoga članka, može se otplatiti ako je predviđen petogodišnji otkazni rok, osim ako se taj instrument više ne smatra sastavnim dijelom dopunskog kapitala ili ako je za prijevremenu otplatu dobivena prethodna suglasnost Agencije.
+(3) O namjeri prijevremene otplate iz stavka 2. ovoga članka malo društvo za osiguranje mora obavijestiti Agenciju najmanje šest mjeseci prije datuma namjeravane otplate i pritom priložiti izračun adekvatnosti kapitala prije i nakon otplate. Agencija će dati suglasnost za otplatu samo ako je iz priloženog izračuna vidljivo da će malo društvo za osiguranje nakon otplate ispunjavati uvjete adekvatnosti kapitala propisane ovim Pravilnikom.
+Druge stavke dopunskog kapitala
+Članak 8.
+(1) Druge stavke iz članka 4. stavka 1. točke 4. ovoga članka su:
+1. vrijednost matematičke pričuve koja u izračunu ne uzima u obzir stvarni trošak odnosno dio stvarnog troška pribave osiguranja umanjena za vrijednost matematičke pričuve koja u izračunu uzima u obzir stvarni trošak pribave osiguranja. Stvarni troškovi pribave osiguranja u izračunu matematičke pričuve ne smiju prelaziti 3,5% od osigurane svote. Negativne vrijednosti u izračunu matematiče pričuve se postavljaju na nulu
+2. pričuve s naslova vrednovanja imovine koje nisu izvanrednog karaktera pod uvjetom da ne predstavljaju pričuve s naslova vrednovanja imovine za pokriće tehničkih pričuva.
+(2) Malo društvo za osiguranje može druge stavke iz ovoga članka uključiti u izračun dopunskog kapitala kao stavke kojima se uvećava iznos dopunskog kapitala samo na osnovu suglasnosti Agencije, na temelju prethodno dostavljene odgovarajuće dokumentacije.
+Stavke odbitka pri izračunu kapitala
+Članak 9.
+(1) Pri izračunu kapitala malog društva za osiguranje zbroj osnovnog i dopunskog kapitala umanjuje se za sljedeće stavke:
+1. sudjelovanje u smislu članka 3. točke 29. Zakona u drugim društvima za osiguranje, kreditnim institucijama, investicijskim društvima, društvima za upravljanje i drugim financijskim institucijama, ako adekvatnost kapitala izračunavaju na temelju sličnih propisa
+2. ulaganja u podređene dužničke instrumente i druga ulaganja u osobe iz točke 1. ovoga stavka koja se radi poštivanja adekvatnosti kapitala tih osoba uzimaju u obzir pri izračunu njihovog kapitala i u kojima malo društvo za osiguranje sudjeluje u smislu članka 3. stavka 29. Zakona
+3. nelikvidnu imovinu odnosno imovinu koju nije moguće trenutno unovčiti radi pravodobnog podmirenja dospjelih obveza malog društva za osiguranje, kao što su dionice koje nisu uvrštene na uređeno tržište i poslovni udjeli u nefinancijskim institucijama.
+Jamstveni kapital
+Članak 10.
+(1) Jamstveni kapital predstavljaju stavke osnovnog kapitala iz članka 3. ovoga Pravilnika i stavke dopunskog kapitala iz članka 4. ovoga Pravilnika uz propisane uvjete o izračunu jamstvenog kapitala.
+(2) Jamstveni kapital ne smije biti manji od jedne trećine granice solventnosti iz članka 12. odnosno 13. ovoga Pravilnika.
+(3) Jamstveni kapital ne smije biti manji od iznosa apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. Zakona.
+Oblik i sadržaj izvještaja o izračunu kapitala i jamstvenog kapitala
+Članak 11.
+(1) Malo društvo za osiguranje dužno je ovisno o vrsti poslova koje obavlja sastavljati sljedeće izvještaje:
+1. Izvještaj o izračunu kapitala i jamstvenog kapitala (životna osiguranja) (Obrazac: IK – ŽO)
+2. Izvještaj o izračunu kapitala i jamstvenog kapitala (neživotna osiguranja) (Obrazac: IK – NO)
+(2) Oblik i sadržaj izvještaja iz stavka 1. ovoga članka propisani su obrascima iz Priloga koji je sastavni dio ovoga Pravilnika.
+(3) Malo društvo za osiguranje koje obavlja poslove životnih osiguranja izračun kapitala i jamstvenog kapitala iskazuje koristeći obrazac IK – ŽO.
+(4) Malo društvo za osiguranje koje obavlja poslove neživotnih osiguranja odnosno poslove reosiguranja izračun kapitala i jamstvenog kapitala iskazuje koristeći obrazac IK – NO.
+(5) Malo kompozitno društvo kapital odnosno jamstveni kapital

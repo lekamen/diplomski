@@ -1,0 +1,31 @@
+3 09.01.2015 Pravilnik o financijskom izvještavanju u proračunskom računovodstvu
+MINISTARSTVO FINANCIJA
+59
+Na temelju članka 100. stavka 2. Zakona o proračunu (»Narodne novine«, br. 87/08 i 136/12) ministar financija donosi
+PRAVILNIK
+O FINANCIJSKOM IZVJEŠTAVANJU U PRORAČUNSKOM RAČUNOVODSTVU
+I. OPĆE ODREDBE
+Članak 1.
+Pravilnikom o financijskom izvještavanju u proračunskom računovodstvu (dalje u tekstu: Pravilnik) propisuje se oblik i sadržaj financijskih izvještaja, razdoblja za koja se sastavljaju te obveza i rokovi njihova podnošenja.
+Članak 2.
+Odredbe ovoga Pravilnika odnose se na državni proračun, proračune jedinica lokalne i područne (regionalne) samouprave, proračunske i izvanproračunske korisnike državnog proračuna te proračunske i izvanproračunske korisnike proračuna jedinica lokalne i područne (regionalne) samouprave definirane Zakonom o proračunu i utvrđene Registrom proračunskih i izvanproračunskih korisnika donesenim u skladu s Pravilnikom o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika (dalje u tekstu: proračuni, proračunski i izvanproračunski korisnici).
+Članak 3.
+(1) Osnovna svrha financijskih izvještaja jest dati informacije o financijskom položaju i uspješnosti ispunjenja postavljenih ciljeva (poslovanja) proračuna, proračunskih i izvanproračunskih korisnika.
+(2) Financijski izvještaji sastavljaju se za mjesečna razdoblja, razdoblja od 1. siječnja do 31. ožujka, od 1. siječnja do 30. lipnja, od 1. siječnja do 30. rujna i za proračunsku godinu.
+(3) Proračuni, proračunski i izvanproračunski korisnici financijske izvještaje za razdoblja u toku godine čuvaju do predaje financijskih izvještaja za isto razdoblje sljedeće godine, a godišnje financijske izvještaje čuvaju trajno i u izvorniku.
+Članak 4.
+(1) Za sastavljanje financijskih izvještaja odgovorna je osoba koja rukovodi službom računovodstva proračuna, proračunskog i izvanproračunskog korisnika ili osoba kojoj je povjereno vođenje računovodstva.
+(2) Odgovorna osoba proračuna, proračunskog i izvanproračunskog korisnika ili osoba koju ona ovlasti potpisuje financijske izvještaje i odgovorna je za predaju.
+II. OBRASCI FINANCIJSKIH IZVJEŠTAJA
+Članak 5.
+(1) Financijski izvještaji se sastavljaju na sljedećim obrascima:
+– Bilanca na Obrascu: BIL,
+– Izvještaj o prihodima i rashodima, primicima i izdacima na Obrascu: PR-RAS,
+– Izvještaj o rashodima prema funkcijskoj klasifikaciji na Obrascu: RAS-funkcijski,
+– Izvještaj o promjenama u vrijednosti i obujmu imovine i obveza na Obrascu: P-VRIO,
+– Izvještaj o obvezama na Obrascu: OBVEZE.
+(2) Obrasci iz stavka 1. ovoga članka nalaze se u prilogu ovoga Pravilnika i njegov su sastavni dio.
+Članak 6.
+(1) Zaglavlja i podnožja obrazaca financijskih izvještaja jedinstveno su definirana za sve obrasce.
+(2) Zaglavlje obrazaca popunjava se na sljedeći način:
+naziv obveznika – upisuje se naziv proračuna, proračunskog i izvanproračunskog korisnika iz propisa, rješenja ili drugoga odgovarajućeg akta, RKP broj – upisuje se broj iz Registra proračunskih i izvanproračunskih korisnika, matični broj – upisuje se matični broj iz Obavijesti o razvrstavanju poslovnog subjekta prema NKD-u 2007. Državnog zavoda za statistiku, OIB – upisuje se osobni identifikacijski broj kojeg je proračunu, proračunskom i izvanproračunskom korisniku dodijelilo Ministarstvo financija – Porezna uprava, pošta i mjesto – upisuje se poštanski broj sjedišta proračuna, proračunskog i izvanproračunskog korisnika iz popisa poštanskih brojeva i naziv mjesta/grada prema sjedištu proračuna, proračunskog i izvanproračunskog korisnika, adresa sjedišta – upisuje se naziv sjedišta proračuna, proračunskog i izvanproračunskog korisnika: ulica i broj, razina – unose se oznake 11/12/13/21/22/23/31/41/42 koje označavaju sljedeće: 11 – proračunski korisnik državnog proračuna, 12 –

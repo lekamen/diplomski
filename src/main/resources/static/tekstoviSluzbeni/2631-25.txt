@@ -1,0 +1,29 @@
+ preventivnih ili korektivnih akcija/mjera i bez formalne procjene rizika. Ključni je korak identificirati slučaj koji može utjecati na sigurnost (Safety Issue -SI).
+Nakon toga slijedi detaljna procjena rizika slučaja koji može utjecati na sigurnost. SI najčešće nisu izolirani događaji (iako se i bilo koji pojedinačni slučaj može klasificirati kao SI), već su isti zamijećeni u nekoliko slučajeva.
+Identifikacija rizika slučaja koji može utjecati na sigurnost se vrši putem ICAO modela.
+Dijagram procesa analize opasnosti i procjene rizika je prikazan na slici dolje:
+
+Procjena rizika u obzir uzima vjerojatnost i ozbiljnost bilo koje negativne posljedice koja može biti rezultat identificirane opasnosti.
+Matrica rizika je koristan alat za procjenu opasnosti. Dok se ozbiljnost posljedica nekoga događaja može dosta lako identificirati, procjena vjerojatnosti događaja podliježe subjektivnosti.
+Primjer Matrice procjene rizika:
+
+Ublažavanje rizika: Rizicima se treba upravljati kako bi ih se zadržalo na prihvatljivoj razini. Rizicima se treba upravljati na način da se balansira između vremena, troškova i teškoće provođenja mjera u cilju smanjenja ili eliminiranja rizika. Razina rizika se može smanjiti umanjujući ozbiljnost događaja ili umanjujući izloženost riziku. Korektivne mjere moraju u obzir uzeti bilo koje elemente postojeće obrane, kao i nemogućnost te obrane da održi prihvatljivu razinu performanse sigurnosti. Korektivne mjere trebaju biti predmet daljnjih postupaka procjene rizika, kako bi bili u mogućnosti odrediti da je rizik sada na prihvatljivoj razini, te da se u operacijama nisu pojavili dodatni rizici.
+Granične linije koje Agencija koristi za praćenje trendova određuju se uz pomoć standardne devijacije. Granična linija je fiksna te se određuje uzimajući u obzir prosječne podatke od prethodne godine. Svake godine se granična linija revidira sukladno novim podacima.
+Svako prekoračenje granične linije se pozorno prati. U slučaju 2 uzastopna prekoračenja granične linije potrebna je detaljnija analiza uzroka i, ukoliko je primjenjivo, definiranje mjera potrebnih za zaustavljanje negativnog trenda rasta svaki subjekt u okviru svojih nadležnosti i odgovornosti.
+3. Formula za računanje granične linije
+standardna devijacija (σ):
+
+Gdje je: x = vrijednost parametra u jednom mjesecu
+            Σ = suma
+            N = broj mjeseci u kontroliranom periodu
+Granična linija (Upper Control Limits –UCL):
+
+            k = multiplikator (postavljen je na 2)
+Primjenjujući standardnu devijaciju 2σ kod normalne razdiobe, vjerojatnost za pojavu pogrešnog alarma se kreće oko 4,5%.
+DODATAK 4 – PLAN SIGURNOSTI
+Plan sigurnosti sadrži aktivnosti i mjere koje će se provoditi u razdoblju od 3 godine (2015. – 2017.). Ukoliko se za to ukaže potreba, plan će se dopunjavati na godišnjoj razini. Plan sigurnosti obvezuje sve učesnike za provedbu mjera u rokovima definiranim u ovom dokumentu. Mjere su indikativne, te se njihova izmjena i dopuna može razmotriti u periodu koji dolazi.
+Pokazatelji performanse sigurnosti su definirani na principima Europskog programa sigurnosti (EASP) i smjernicama Europskog plana sigurnosti zračnog prometa (EASp), te na osnovu podataka o sigurnosti zračnog prometa u Republici Hrvatskoj
+Pokazatelji performanse sigurnosti se razvrstavaju u tri razine:
+Prva razina pokazatelja performanse sigurnosti (Safety Performance Indicators – SPI) su podaci o broju nesreća i ozbiljnih nezgoda u određenom vremenskom razdoblju, a koji daju opći pregled o razini sigurnosti i trendovima kretanja.
+Podaci o nesrećama i ozbiljnim nezgodama se statistički prate s obzirom na kategoriju zrakoplova, definiranu u točki 4.2.2 ovoga Programa. Izvor podataka o nesrećama i ozbiljnim nezgodama je nacionalna baza podataka ECCAIRS koju vodi Agencija za istraživanje.
+Druga razina SPI su podaci o broju događaja kategoriziranih kao nezgode u određenom vremenskom razdoblju. Izvor podataka o nezgodama je nacionalna baza podataka ECCAIRS koju vodi Agencija za

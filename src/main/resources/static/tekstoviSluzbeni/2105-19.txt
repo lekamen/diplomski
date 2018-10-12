@@ -1,0 +1,22 @@
+ se putem redovitih i izvanrednih izvješća koja su Nacionalnom vijeću za kibernetičku sigurnost dužni podnositi svi nositelji mjera iz ovog Akcijskog plana, u rokovima utvrđenim Strategijom. Nositelji podnose objedinjena izvješća koje se odnose na sve aktivnosti provedene u okviru mjere, neovisno o tome tko je odgovoran za provedbu pojedine aktivnosti (nositelj, sunositelj, sudionik).
+Akcijski plan obuhvaća područja kibernetičke sigurnosti i poveznice područja kibernetičke sigurnosti koje tematski obrađuje i Strategija, kako slijedi:
+A. Javne elektroničke komunikacije;
+B. Elektronička uprava;
+C. Elektroničke financijske usluge.
+D. Kritična komunikacijska i informacijska infrastruktura i upravljanje krizama.
+E. Kibernetički kriminalitet.
+F. Zaštita podataka.
+G. Tehnička koordinacija u obradi računalnih sigurnosnih incidenata.
+H. Međunarodna suradnja.
+I. Obrazovanje, istraživanje, razvoj i jačanje svijesti o sigurnosti u kibernetičkom prostoru.
+2. PODRUČJA I POVEZNICE PODRUČJA KIBERNETIČKE SIGURNOSTI
+A. Javne elektroničke komunikacije
+Cilj A.1 Nadzor tehničkih i ustrojstvenih mjera koje poduzimaju operatori za osiguranje sigurnosti svojih mreža i usluga, kao i usmjeravanje operatora javnih komunikacijskih mreža i/ili usluga u cilju osiguranja visoke razine sigurnosti i dostupnosti javnih komunikacijskih mreža i usluga.
+Mjera A.1.1 Provoditi nadzor i usmjeravanje operatora javnih komunikacijskih mreža i/ili usluga, kojim će se obuhvatiti različiti zahtjevi koji se postavljaju prema operatorima, od kvalitete i dostupnosti mreža i usluga, preko zahtjeva vezanih za zaštitu osobnih podataka, zahtjeva za osiguravanje primjerene pažnje u provedbi sigurnosnih mjera na temelju odgovarajućih međunarodnih normi, zahtjeva za provedbu zakonskih obveza tajnog nadzora elektroničkih mreža i usluga, ali i potreba razvijanja i stalnog unaprjeđivanja sigurnosne suradnje i razmjene podataka s tijelima nadležnim za računalne sigurnosne incidente u području javnih elektroničkih komunikacija te tijelima kaznenog progona. Nositelj HAKOM Sunositelji MPPI, AZOP Početak provedbe siječanj 2017. Kraj provedbe Kontinuirano Dodatno financiranje (DA/NE) Ne Pokazatelji provedbe Definiranje načina provedbe nadzora. Broj provedenih nadzora operatora.
+Cilj A.2 Neposredna tehnička koordinacija regulatornog tijela za područje elektroničkih komunikacija s nacionalnim i međunarodnim tijelima odgovornim za područje informacijske sigurnosti.
+Mjera A.2.1 Razvijati međusektorsku suradnju nacionalnih regulatornih tijela i tijela odgovornih za područje informacijske sigurnosti i politike zaštite podataka te međusobnu koordinaciju i razmjenu iskustava u suradnji i zahtjevima koji proizlaze iz međunarodnih okvira. Nositelj HAKOM, Nacionalni CERT, ZSIS, UVNS, SOA, VSOA, OTC Sunositelji Početak provedbe Po donošenju Strategije Kraj provedbe Kontinuirano Dodatno financiranje (DA/NE) Ne Pokazatelji provedbe Uspostava mehanizma za razmjenu informacija.
+Cilj A.3 Poticanje korištenja nacionalnog čvora za međusobnu razmjenu internetskog prometa pružatelja javnih komunikacijskih mreža i/ili usluga za davanje usluga korisnicima u RH.
+Mjera A.3.1 Izraditi i objaviti Preporuke za korištenje nacionalnog čvora za međusobnu razmjenu internetskog prometa, s posebnim osvrtom na prednosti njegova korištenje s aspekta sigurnosti razmjene internetskog prometa. Nositelj SRCE Sunositelji ZSIS, HAKOM Početak provedbe Po donošenju Strategije Kraj provedbe 12 mjeseci od donošenja Strategije Dodatno financiranje (DA/NE) Ne Pokazatelji provedbe Izrađene i objavljene preporuke.
+B. Elektronička uprava
+Cilj B.1 Poticati povezivanje informacijskih sustava tijela javnog sektora međusobno i na javni Internet kroz državnu informacijsku infrastrukturu.
+Mjera B.1.1 Analizirati potrebe i mogućnosti povezivanja na državnu informacijsku infrastrukturu šireg kruga tijela javnog sektora te u skladu s rezultatima analize, izraditi preporuke za povezivanje na državnu informacijsku infrastrukturu ili uvođenje dodatnih 

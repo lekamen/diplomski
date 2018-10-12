@@ -1,0 +1,76 @@
+ spajati i drugi informacijski sustavi sukladno pravilima propisanim Zakonom o državnoj informacijskoj infrastrukturi.«
+Članak 19.
+U članku 19. stavak 1. mijenja se i glasi:
+»(1) Korisnik je dužan dati na uvid Otočnu iskaznicu za putnika ili Otočnu iskaznicu za vozilo i putnu kartu ako je izdana u fizičkom obliku.«
+U stavku 3. riječi: »stavku 1. ovoga članka.« zamjenjuju se riječima: »odredbama ovoga Pravilnika«.
+Članak 20.
+U članku 20. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) Naknadu s osnova neostvarenog prihoda korisnika iz članka 2. stavka 1. ovoga Pravilnika, osim korisnika iz članka 2. stavka 1. alineje 5. i 6., nadoknađuje Agencija.
+(4) Naknadu s osnova neostvarenog prihoda za korisnike iz članka 2. stavka 1. alineje 5. i 6. nadoknađuju nadležne javne službe čiji su djelatnici i vozila prevezeni.«
+Članak 21.
+Prilozi iz članka 4. stavka 3., članka 9. stavka 3., članka 12. stavka 4., članka 13. stavka 6., članka 17. stavka 5., članka 17.a, stavka 4. i članka 18. stavka 1. prilažu se uz ovaj Pravilnik i čine njegov sastavni dio.
+Članak 22.
+Ovaj Pravilnik objavljuje se u »Narodnim novinama«, a stupa na snagu 15. lipnja 2015. godine.
+Klasa: 011-01/15-02/40
+Urbroj: 530-03-2-15-8
+Zagreb, 28. travnja 2015.
+Ministar dr. sc. Siniša Hajdaš Dončić, v. r.
+PRILOG 1.
+POPIS OTOKA I LINIJA/RELACIJA ČIJI KORISNICI OSTVARUJU IZNIMNO PRAVO NA POVLAŠTENI PRIJEVOZ
+Br. Otok Linija Relacija 1 LOŠINJ T332 Valbiska – Merag T334 Brestova – Porozina B9308 Cres – Rijeka 2 CRES T401 Mali Lošinj – Zadar 3 UNIJE T332 Valbiska – Merag T334 Brestova – Porozina B9308 Cres – Rijeka B9308 Mali Lošinj – Rijeka T401 Mali Lošinj – Zadar 4 SUSAK T332 Valbiska – Merag T334 Brestova – Porozina B9308 Cres – Rijeka B9308 Mali Lošinj – Rijeka T401 Mali Lošinj – Zadar 5 ILOVIK T332 Valbiska – Merag T334 Brestova – Porozina B9308 Cres – Rijeka B9308 Mali Lošinj – Rijeka T401 Mali Lošinj – Zadar 6 SRAKANE VELE B9308 Mali Lošinj – Rijeka B9308 Cres – Rijeka T401 Mali Lošinj – Zadar T332 Valbiska – Merag T334 Brestova – Porozina 7 ZVERINAC B9406 Zadar – Sali K405a Zadar – Sali 8 SESTRUNJ T431 Zadar – Preko K409 Zadar – Preko 9 RIVANJ T431 Zadar – Preko K409 Zadar – Preko 10 UGLJAN T432 Biograd – Tkon 11 PAŠMAN T431 Zadar – Preko K409 Zadar – Preko 12 BIŠEVO T602 Vis – Split B9602 Vis – Split 13 KORČULA T633 Ploče – Trpanj 14 LASTOVO T634 Dominče – Orebić T633 Ploče – Trpanj 15 MLJET T633 Ploče – Trpanj 16 PELJEŠAC B9608 Korčula – Split
+PRILOG 2.
+
+PRILOG 3.
+
+PRILOG 4.
+SADRŽAJ I IZGLED OTOČNE ISKAZNICE ZA POMORSKI PRIJEVOZ PUTNIKA
+Otočna iskaznica za pomorski prijevoz putnika sadrži sljedeće podatke:
+A. Na prednjoj strani iskaznice:
+– logo Agencije za obalni linijski pomorski promet
+– naziv OTOČNA ISKAZNICA
+– fotografija korisnika prava
+– ime korisnika prava
+– prezime korisnika prava
+– mjesto prebivališta i naziv otoka
+– status korisnika prava
+– OIB korisnika prava
+– serijski broj iskaznice
+– datum izdavanja iskaznice
+– datum isteka valjanosti iskaznice
+B. Na poleđini iskaznice
+– opće upute o namjeni i načinu korištenja otočne iskaznice
+C. Na čipu iskaznice datoteka s osnovnim podacima:
+– ime
+– prezime
+– OIB
+– status korisnika prava
+– osnovno pravo iz kataloga prava
+– naziv ulice i kućnog broja mjesta prebivanja
+– naziv mjesta prebivanja
+– šifra (DGU) mjesta prebivanja
+– naziv općine prebivanja
+– šifra (DGU) općine prebivanja
+– naziv otoka
+– broj iskaznice
+– datum izdavanja
+– datum isteka
+D. Na čipu iskaznice datoteka s dodatnim podacima:
+– naziv mjesta boravišta
+– šifra (DGU) mjesta boravišta
+– naziv općine boravišta
+– šifra (DGU) općine boravišta
+– naziv ulice i kućni broj boravišta
+IZGLED OTOČNE ISKAZNICE PUTNIKA
+Otočna iskaznica za redovne korisnike
+
+Otočna iskaznica za đake i studente
+
+Otočna iskaznica za umirovljenike i osobe starije od 65 godina
+
+PRILOG 5.
+
+PRILOG 6.
+SADRŽAJ I IZGLED OTOČNE ISKAZNICE I VINJETE ZA POMORSKI PRIJEVOZ VOZILA
+Otočna iskaznica za pomorski prijevoz vozila sadrži sljedeće podatke:
+A. Na prednjoj strani iskaznice:
+– logo

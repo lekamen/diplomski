@@ -1,0 +1,48 @@
+ programskim jezikom.
+Zadatci
+Nastavom informatike treba omogućiti učeniku:
+• razumijevanje obveza za postizanje uspjeha
+• ponavljanje naredbi za jednostruko i višestruko grananje
+• ponavljanje i primjena petlji FOR i WHILE
+• ponavljanje i primjena grananja i petlji na programskim zadacima
+• ponavljanje i primjena metoda za rad s listama
+• objašnjavanje pojma liste lista
+• primjena naučenog u izradi zadataka s listama
+• primjena funkcija u izradi programa
+• definiranje JavaScripta
+• objašnjavanje i primjena osnovnih naredbi u JavaScriptu
+• objašnjavanje i primjena osnovnih naredbi grananja i petlji u JavaScriptu
+• kombiniranje naredbi rješavanjem programskih zadataka
+• upoznavanje programa za obradu fotografija
+• primjena osnovnih naredbi u programu za obradu fotografija
+• primjena alata za crtanje jednostavnih likova
+• usvajanje i kombiniranje alata za crtanje likova
+• primjena alata za izradu animacija
+• definiranje pojma Web alata
+• primjena različitih Web alata
+• identificiranje zahtjeva za izradu samostalnog rada
+• konstruiranje samostalnog rada
+2. Obrazovna postignuća i nastavni sadržaji
+Nastavna cjelina Očekivani rezultati Nastavni sadržaji 1. Osnove programiranja – ponavljanje • ponoviti naredbe za jednostruko i višestruko grananje • ponoviti i primijeniti petlje FOR i WHILE • primijeniti grananja i petlje na programskim zadacima – Grananja – Petlje 2. Složenije naredbe za rad sa listama – Python • ponoviti i primijeniti naredbe za liste • objasniti i primijeniti metode za rad s listama • objasniti pojam liste lista • primijeniti naučeno u izradi zadataka s listama – Metode za rad s listama – Lista lista 3. Python – funkcije • primijeniti funkcije u izradi programa – Rad s funkcijama 4. JavaScript • definirati JavaScript • objasniti i primijeniti osnovne naredbe u JavaScriptu, grananja i petlje – JavaScript – uvod – Osnovne naredbe, grananja i petlje u JavaScriptu 5. Multimedija i animacije • prepoznati program za obradu fotografija • primijeniti osnovne naredbe u programu za obradu fotografija • primijeniti alate za crtanje jednostavnih likova • usvojiti i kombinirati alate za crtanje likova • primijeniti alate za izradu animacija • usvojiti i kombinirati izradu multimedijskih animacija – Programi za obradu fotografija – Osnovne naredbe i trake s alatima – Crtanje jednostavnih likova – Vježba crtanja likova – Izrada animacija 6. Web 2.0 i 3.0 alati • definirati pojam Web alata • primijeniti različite Web alate – Općenito o Web 2.0 i 3.0 alatima – Primjena Web alata – Izrada samostalnog rada
+Metodičke napomene
+Program treba realizirati tako da primjeri prate konkretne i aktualne okolnosti u kojima učenici obrađuju teme i u korelaciji sa ostalim predmetima.
+Obveze učenika
+Obvezan je redovit dolazak na nastavu, a učenici će biti ocjenjivani tijekom nastave kroz konkretne zadatke s naglaskom na individualan i grupni rad učenika.
+3. Didaktičke upute
+Metode rada:
+a) nastavne metode
+usmeno izlaganje, razgovor s učenicima, metoda demonstracija, rad na tekstu, suradničko učenje,
+rad na računalu
+b) metode učenja – kombinirana metoda
+Metodički organizacijski oblici rada:
+Frontalni oblik rada, individualni oblik rada, grupni oblik rada – u paru i timski
+Vrednovanje ishoda:
+Praćenje i vrednovanje rada učenika treba što više usmjeriti na nastavni proces bez dodatne pripreme u slobodno vrijeme kako bi učenici imali više vremena za ostale obveze. To podrazumijeva konkretne zadatke za vrijeme nastavnog sata, u obliku individualnog i grupnog rada.
+4. Literatura
+Za učenike:
+Učenici će se koristiti bilješkama s predavanja te određenom i odabranom literaturom:
+Leo Budin, Predrag Brođanac, Zlatka Markučič, Smiljana Perić: Rješavanje problema programiranjem u Pythonu, Element, Zagreb, 2014.
+Za nastavnike:
+Leo Budin, Predrag Brođanac, Zlatka Markučič, Smiljana Perić: Rješavanje problema programiranjem u Pythonu, Element, Zagreb, 2014.
+5. Materijalni uvjeti
+Umrežena računalna učionica opremljena odgovarajućim brojem računala i odgovarajućom

@@ -1,0 +1,47 @@
+naknade za stare sastojine
+1. Kad se šuma predaje u dubećem stanju, naknada je jednaka stvarnoj vrijednosti drva predmetne sastojine na panju (Vn).
+2. Stvarna se vrijednost (Vm) utvrđuje ovako:
+• obračuna se ukupna količina drva koja je utvrđena šumskogospodarskim planom, a iznimno s pomoću prirasno-prihodnih tablica,
+• procjeni se postotni udjel sortimenata,
+• obračuna se njihova količina i vrijednost,
+• odbiju se troškovi iskorištavanja šuma faze I. (sječa i izrada), faze II. (privlačenje na pomoćno stovarište), te troškovi utovara u prijevozno sredstvo.
+Navedeni elementi, za sve šume, utvrđuju se iz redovnoga godišnjeg plana Trgovačkog društva.
+3. Osobe iz čl. 2. st. 2. koje posijeku i iskoriste drvo imaju pravo na naknadu povećanih troškova iskorištavanja šuma faze I. i faze II. s troškovima utovara u prijevozno sredstvo. Posebno se nadoknađuje vrijednost postojećeg podmlatka.
+D) Utvrđivanje naknade za preborne šume
+1. Iznos naknade (E) jednak je zbroju vrijednosti te sastojine (Vm) na panju (drvo iznad taksacijske granice) i vrijednosti podmlatka u toj sastojini. Izračunava se prema formuli:
+
+gdje su:
+• E – iznos naknade za raznodobne sastojine
+• V1 – vrijednost na panju sastojine I. debljinskog razreda
+• V2 – vrijednost na panju sastojine II. debljinskog razreda
+• V3 – vrijednost na panju sastojine III. debljinskog razreda
+• p – pripadajući postotak prosječnoga tečajnoga godišnjeg prirasta
+• l – duljina je ophodnjice 10 godina
+• Vm – ukupna vrijednost sastojine na panju (V1 + V2 + V3)
+• pv – postotak vrijednosti podmlatka od Vm
+2. Vrijednost sastojine na panju utvrđuje se tako da se nakon izmjere sastojine dobiveni podaci razvrstaju na debljinske razrede:
+I. debljinski razred 10 – 30 cm
+II. debljinski razred 31 – 50 cm
+III. debljinski razred > 51 cm,
+a zatim se obračuna volumen drva po debljinskim razredima, utvrdi njegova vrijednost, odbiju troškovi iskorištavanja šuma faze I. i faze II. s troškovima utovara u prijevozno sredstvo. Elementi se utvrđuju prema godišnjem planu poslovanja Trgovačkog društva.
+3. Vrijednost sastojine na panju (Vm) jednaka je zbroju vrijednosti drva navedenih debljinskih razreda:
+Vm = (V1 + V2 + V3) (3)
+Vrijednost ponika, podmlatka i mladika izražena u postotku (pv) od ukupne vrijednosti raznodobne sastojine (Vm) iznosi za:
+• slabo pomlađenje 1 – 5 %,
+• dobro pomlađenje 10 – 15 %,
+• vrlo dobro pomlađenje 20 – 25 %.
+Stanje pomlađivanja se utvrđuje na temelju šumskogospodarskog plana ili očevidom na terenu.
+4. Kada osobe iz čl. 2. st. 2. posijeku i iskoriste drvo, visina naknade se utvrđuje na način opisan u prethodnom stavku.
+E) Utvrđivanje naknade za panjače, šikare, šibljake, makije i garige
+1. Za panjače s kojima se gospodari prema načelima oplodne sječe, naknada se utvrđuje kao za visoke regularne šume. Troškove podizanja sastojina (c) za panjače treba umanjiti za 50% zbog kraćeg razdoblja regeneracije.
+2. Za mlade degradirane panjače, koje su prikladne za melioraciju, naknada se utvrđuje kao za mlade nedegradirane sastojine, a od njezine se vrijednosti na panju odbiju troškovi potrebni za melioracijske radove. Trošak podizanja (c) analogne (ili slične) nedegradirane sastojine, kao i troškove potrebnih melioracijskih radova treba umanjiti za 50% zbog kraćeg razdoblja regeneracije.
+Iznos naknade (E) za takvu mladu degradiranu panjaču, prikladnu za melioraciju, obračunati će se prema formuli:
+
+gdje su:
+• E – iznos naknade za mladu degradiranu panjaču za melioraciju
+• Vm – vrijednost slične nedegradirane sastojine
+• c – troškovi podizanja slične nedegradirane sastojine umanjeni za 50 %
+• p – postotak prirasta vrijednosti slične nedegradirane sastojine
+• m – starost predmetne mlade sastojine za melioraciju
+• V1, V2, V3 – troškovi potrebnih melioracijskih radova u pojedinim godinama umanjeni za 50 %.
+3. Za mlade degradirane panjače, u kojima stabla kakvoćom i svojstvima ne opravdavaju daljnju ophodnju pa se stoga smatraju zrelima za sječu, te za degradirane panjače približno ili potpuno zrele za 

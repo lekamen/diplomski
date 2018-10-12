@@ -1,0 +1,62 @@
+ zračnog prometa
+c) osigurati raspoloživost dokumentacije, kako je propisano odredbama ovoga Pravilnika, primjenom računalnog programa
+d) provoditi nadzor nad stručnim osposobljavanjem primjenom računalnog programa u cilju poštivanja redoslijeda aktivnosti i propisanih rokova
+e) osigurati odgovarajući kapacitet i brzinu računalne mreže kako bi se spriječio nepotrebni gubitak vremena
+f) osigurati da računalne datoteke i računalni programi za učenje budu prilagođeni polaznicima s osnovnim poznavanjem rada na računalu
+g) osigurati da se one teme koje je vrlo teško ili nemoguće simulirati računalnim programom obrade na drugi način pod vodstvom i uz pojašnjenja instruktora
+h) osigurati ispravnost računala i računalne mreže, te svih drugih uređaja potrebnih za uspješnu provedbu i dokumentiranost stručnog osposobljavanja i ispita i
+i) osigurati referentnu literaturu i priručnike.
+(3) U cilju kvalitetne provedbe ispita korištenjem računalnog programa, organizacija za stručno osposobljavanje mora osigurati odgovarajuću banku pitanja kako bi se izbjeglo ponavljanje pitanja.
+DIO ČETVRTI POSLOVI OD ZNAČAJA ZA SIGURNOST ZRAČNOG PROMETA NA AERODROMU
+Poslovi od značaja za sigurnost zračnog prometa na aerodromu
+Članak 24.
+Poslovi od značaja za sigurnost zračnog prometa na aerodromu su:
+1. spasilačko-vatrogasna zaštita na aerodromu
+2. opskrba zrakoplova gorivom
+3. prihvat i otprema putnika:
+a) koordinacija poslovima prihvata i otpreme putnika
+b) registracija putnika i predane prtljage na let
+c) kontrola putnika pred ulazak u zrakoplov
+d) vođenje i nadzor ukrcaja/iskrcaja putnika u/iz zrakoplov(a) i
+e) prihvat i otprema putnika s ograničenjem u kretanju
+4. prihvat i otprema predane prtljage:
+a) koordinacija poslova prihvata i otpreme predane prtljage i
+b) prihvat i otprema predane prtljage
+5. prihvat i otprema tereta i pošte:
+a) koordinacija poslova prihvata i otpreme tereta i pošte i
+b) prihvat i otprema tereta i pošte
+6. prihvat i otprema zrakoplova:
+a) kontrola opsluživanja zrakoplova
+b) kontrola težine i balans zrakoplova
+c) navođenje na/izvođenje zrakoplova sa pozicije
+d) priprema i dostava hrane i pića na zrakoplov
+e) čišćenje zrakoplova
+f) odleđivanje zrakoplova i
+g) rukovanje aerodromskom opremom
+7. održavanje i pregled objekata i operativne površine aerodroma:
+a) održavanje i pregled instalacija i uređaja sustava prilaznih svjetala i rasvjete operativne površine aerodroma
+b) građevinsko održavanje i pregled objekata i operativne površine.
+8. prevencija od upada divljih životinja na aerodrom i sudara divljih životinja sa zrakoplovima i
+9. sustav upravljanja sigurnošću na aerodromu.
+Spasilačko-vatrogasna zaštita na aerodromu
+Članak 25.
+(1) Program stručnog osposobljavanja za poslove spasilačko-vatrogasne službe na aerodromu mora minimalno sadržavati:
+a) važeće propise koji se odnose na poslove spasilačko-vatrogasne službe
+b) osnovnu infrastrukturu aerodroma
+c) dijelove zrakoplova bitnih u slučaju intervencije spasilačko-vatrogasne službe
+d) siguran rad na objektima i operativnoj površini uključujući i ljudske čimbenike
+e) komunikacijske sustave predviđene za korištenje u slučaju izvanrednog događaja na aerodromu
+f) način upotrebe vatrogasnih cijevi, mlaznica, monitora i drugih uređaja
+g) način primjene svih sredstava za gašenje požara, a naročito onih koji se koriste na aerodromu
+h) način evakuacije putnika i članova posade iz zrakoplova
+i) vatrogasne operacije
+j) način prilagodbe i primjenu opreme za spašavanje i gašenje strukturalnih požara na zrakoplovu
+k) siguran način prijevoza opasnih roba
+l) dužnosti i obveze zaposlenika spasilačko-vatrogasne službe u skladu s planom za slučaj izvanrednog događaja na aerodromu
+m) korištenje zaštitne odjeće i opreme za zaštitu dišnih organa
+n) mjere i postupke na aerodromu u slučaju slabe vidljivosti
+o) poznavanje kompozitnih materijala
+p) sustav balističkog padobrana na zrakoplovu za vrijeme intervencije
+r) pravila kretanja i/ili vožnje na operativnoj površini i
+s) osnove pružanja prve pomoći.
+(2)

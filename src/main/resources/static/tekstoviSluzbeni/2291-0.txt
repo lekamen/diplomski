@@ -1,0 +1,32 @@
+121 04.11.2015 Pravilnik o ustrojavanju, sadržaju i načinu vođenja središnje elektroničke baze razvojnih projekata i razvojnih pokazatelja
+MINISTARSTVO REGIONALNOGA RAZVOJA I FONDOVA EUROPSKE UNIJE
+2292
+Na temelju članka 16. stavka 3. Zakona o regionalnom razvoju Republike Hrvatske (»Narodne novine«, broj 147/14), potpredsjednik Vlade Republike Hrvatske i ministar regionalnoga razvoja i fondova Europske unije donosi
+PRAVILNIK
+O USTROJAVANJU, SADRŽAJU I NAČINU VOĐENJA SREDIŠNJE ELEKTRONIČKE BAZE RAZVOJNIH PROJEKATA I RAZVOJNIH POKAZATELJA
+I. OPĆE ODREDBE
+Članak 1.
+Ovim se Pravilnikom uređuje ustrojavanje te sadržaj i vođenje središnje elektroničke baze razvojnih projekata i razvojnih pokazatelja (u nastavku teksta: Baza), utvrđuju se obveznici upisa projekata i pokazatelja u Bazu, vlasništvo nad Bazom, način unosa podataka u Bazu te vrste podataka koji se unose u Bazu.
+Članak 2.
+Pojedini pojmovi u smislu ovog Pravilnika imaju sljedeće značenje:
+1) baza je zbirka podataka o razvojnim projektima i razvojnim pokazateljima uređena prema određenom sustavu i metodi u skladu s odredbama Zakona o regionalnom razvoju Republike Hrvatske (u nastavku teksta: Zakon) i ovoga Pravilnika.
+2) javnopravno tijelo – tijelo državne uprave, drugo državno tijelo, tijelo jedinice lokalne i područne (regionalne) samouprave i pravna osoba koja ima javne ovlasti.
+3) korisnik projekta je pravna osoba koja je odgovorna osigurati nesmetanu i pravovaljanu provedbu razvojnog projekta.
+4) nositelj projekta je javnopravno tijelo formalno odgovorno za pripremu, ugovaranje i provedbu projekta.
+5) odgovorno tijelo je nacionalno tijelo sa sektorskom nadležnošću zaduženo za kontrolu pripreme, provedbe i trošenja financijskih sredstava u okviru razvojnog projekta koji se (su)financiraju iz nacionalnih javnih izvora i/ili Fondova Europske unije i/ili drugih izvora financiranja.
+6) ovlašteni unositelji podataka (u nastavku teksta: OUP) u Bazu su regionalni koordinatori upisani u Upisnik regionalnih koordinatora i lokalnih razvojnih agencija, ministarstvo nadležno za regionalni razvoj (u nastavku teksta: Ministarstvo) i njegovo provedbeno tijelo te druga ministarstva i njihova provedbena tijela (u nastavku teksta: Središnja tijela i njihove agencije).
+7) projekt-kandidat za (su)financiranje je projekt za kojeg Ministarstvo i/ili provedbeno tijelo Ministarstva, druga Središnja tijela i njihove agencije utvrde da je izgledni kandidat za (su)financiranje iz nacionalnih javnih izvora i/ili fondova Europske unije i/ili drugih izvora financiranja.
+8) razvojni ciljevi su rješenja za identificirane ključne razvojne probleme, čije ostvarenje je realno, mjerljivo i vremenski moguće.
+9) razvojni pokazatelji su kvantitativni i kvalitativni podaci koji omogućuju praćenje, izvještavanje i vrednovanje uspješnosti u postizanju utvrđenih razvojnih ciljeva.
+10) razvojni projekti su projekti izgradnje i/ili obnove komunalne, gospodarske, energetske, društvene i druge potporne infrastrukture za razvoj, izgradnju i/ili jačanje obrazovnih, kulturnih, znanstvenih i drugih institucija, jačanje i izgradnju društvenog kapitala te gospodarski i drugi projekti kojima se pridonosi regionalnom razvoju i jačanju regionalne konkurentnosti.
+II. SVRHA BAZE
+Članak 3.
+(1) Baza se ustrojava radi učinkovitijeg planiranja, provedbe i praćenja provedbe politike regionalnog razvoja.
+(2) U Bazu se unose podaci o razvojnim projektima korisnika i/ili nositelja javnopravnih tijela te njihovi razvojni pokazatelji.
+(3) U Bazu se unose podaci o razvojnim projektima od projektne ideje do završetka projekta.
+Članak 4.
+(1) Ministarstvo osniva Bazu, nadležno je za vođenje Baze te raspolaže svim pravima koja iz toga proizlaze.
+(2) Ministarstvo je vlasnik podataka u Bazi te ima uvid u cjelokupnu Bazu, utvrđuje pojedine razine ovlaštenja (ograničenja) drugim korisnicima te je nadležno za dodjelu i oduzimanje ovlasti pojedinim korisnicima.
+III. OVLAŠTENI UNOSITELJI PODATAKA
+Članak 5.
+Unos podataka u Bazu obavljaju OUP,

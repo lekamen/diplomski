@@ -1,0 +1,24 @@
+ uvidom u Upisnik poljoprivrednih gospodarstava, Vinogradarski registar te ostale javno dostupne registre.
+Članak 15.
+(1) Prijave pristigle po objavljenom Natječaju iz članka 13. ovoga Pravilnika, obrađuju se po redoslijedu zaprimanja.
+(2) Prilikom administrativne kontrole Prijava utvrđuje se pravovremenost i potpunost, a potpune Prijave se rangiraju sukladno članku 18. ovoga Pravilnika.
+(3) Nepravovremene Prijave neće se razmatrati, te će Podnositelju Prijave biti izdana Odluka o odbacivanju prijave.
+(4) U slučaju da Podnositelj pisanim putem obavijesti Agenciju za plaćanja o odustajanju od Prijave, Podnositelju će biti izdana Odluka o odbacivanju prijave.
+(5) Ukoliko je Prijava nepotpuna ili su potrebni ispravci ili dodatna obrazloženja, Agencija za plaćanja će pisanim putem zatražiti dopunu dokumentacije.
+(6) Podnositelj je dužan dostaviti traženu dokumentaciju, ispravke ili dodatna obrazloženja preporučenom poštom u roku iz Zahtjeva za dopunu.
+(7) Agencija za plaćanja će dopune, ispravke ili dodatna obrazloženja tražiti od Podnositelja dostavom pismena preporučenom poštom, a ukoliko Podnositelj nije preuzeo pošiljku prilikom prve dostave, dostava preporučene pošiljke biti će ponovljena još samo jednom uz objavu obavijesti na internetskim stranicama Agencije za plaćanja te će se time smatrati da je Podnositelj obaviješten o roku za dopunu.
+(8) Podnositelj je dužan pratiti objave o rezultatima obrade predanih Prijava na internetskim stranicama Agencije za plaćanja radi pravovremene dostave dokumentacije u Agenciju za plaćanja.
+(9) U slučajevima traženja dopuna, ispravka i obrazloženja, datum dostave (slanja) dokumentacije kojom se Prijava dopunjuje, ispravlja ili pojašnjava, smatra se datumom podnošenja potpune Prijave.
+Članak 16.
+(1) U Skraćenom planu projekta Podnositelj mora dokazati modernizaciju i poboljšanje vinogradarskih tehnika, poboljšanje poslovanja i ostvarenje ciljeva projekta nakon realizacije ulaganja.
+(2) Skraćeni plan projekta treba biti izrađen u skladu s predloškom i pojašnjenjima objavljenim uz Natječaj na internetskim stranicama Agencije za plaćanja, a na način da iz njega bude vidljivo da će biti zadovoljeni ciljevi iz Nacionalnog programa.
+(3) Ukoliko će biti potrebni dodatni podaci, od Podnositelja će se zatražiti obrazloženje i/ili ispravak sa specifikacijom podataka koje treba dostaviti u traženom roku.
+Članak 17.
+(1) Prije podnošenja Prijave iz članka 14. ovoga Pravilnika Podnositelj je dužan prikupiti jednu ponudu za svaku pojedinačnu nabavu roba, usluga i radova.
+(2) Dostavljene ponude moraju imati osnovne elemente ponude (broj, datum, rok važenja) i poslovne podatke ponuditelja (naziv, sjedište, adresa, OIB) te sadržavati bitne tehničke karakteristike materijala, opreme i usluga. Svaka stavka u ponudama mora sadržavati: jedinicu mjere, količinu, jediničnu cijenu i ukupnu cijenu stavke te ukupnu cijenu ponude sa iskazanim iznosom poreza na dodanu vrijednost.
+(3) Agencija za plaćanja radi provjeru cijena u dostavljenim ponudama, na način da ih uspoređuje s referentnim cijenama. Referentne cijene određuje Agencija za plaćanja. Ukoliko su cijene više od referentnih, Agencija za plaćanja će pri izračuna iznosa potpore koristiti referentne cijene. Ukoliko su cijene iskazane na ponudama niže od referentnih cijena, prihvatit će se cijena iz ponude.
+(4) Prikupljene ponude moraju biti izražene u eurima (EUR) za strane dobavljače, odnosno u hrvatskim kunama (HRK) za domaće dobavljače.
+(5) Ako su ponude za pojedinačne nabave iskazane u eurima, Podnositelj je dužan izvršiti obračun u kunama prema mjesečnom tečaju Europske središnje banke (ECB), iskazanom u četiri decimale u mjesecu u kojem je podnesena Prijava. Internetska adresa na kojoj se može dobiti uvid u navedeni tečaj je:
+http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=120.EXR.M.HRK.EUR.SP00.A
+(6) Ponude moraju biti važeće na dan podnošenja Prijave.
+(7) Podnositelj ne smije pribavljati ponude od ponuditelja roba, radova i usluga s kojima je povezan

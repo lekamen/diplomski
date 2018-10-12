@@ -1,0 +1,48 @@
+ električne energije kao i za planiranje proizvodnje i prodaju te električne energije.
+(3) Članovi bilančne grupe Operatora tržišta su povlašteni proizvođači za proizvodna postrojenja koja zadovoljavaju uvjete iz stavka 2. ovoga članka.
+(4) Voditelj EKO bilančne grupe može prodati električnu energiju tržišnim sudionicima ili na način da ju izveze preko granica Republike Hrvatske.
+(5) Voditelj EKO bilančne grupe može kupiti električnu energiju od tržišnih sudionika ili na način da ju uveze preko granica Republike Hrvatske.
+Tržišna bilančna grupa
+Članak 30.
+(1) Članovi tržišne bilančne grupe su proizvođači, trgovci i/ili opskrbljivači.
+(2) Broj i vrsta članova unutar jedne tržišne bilančne grupe nije ograničena.
+Članak 31.
+(1) Tržišna bilančna grupa je grupa koju čine jedan ili više tržišnih sudionika, odnosno članova bilančne grupe od kojih je jedan voditelj te bilančne grupe.
+(2) Svaki tržišni sudionik obvezan je biti član tržišne bilančne grupe te može biti član samo jedne tržišne bilančne grupe.
+(3) Tržišni sudionik može osnovati tržišnu bilančnu grupu ili je obvezan pridružiti se postojećoj tržišnoj bilančnoj grupi.
+Bilančne grupe operatora sustava
+Članak 32.
+(1) Jedini član bilančne grupe operatora prijenosnog sustava je operator prijenosnog sustava koji je ujedno i voditelj te bilančne grupe.
+(2) Jedini član bilančne grupe operatora distribucijskog sustava je operator distribucijskog sustava koji je ujedno i voditelj te bilančne grupe.
+Članak 33.
+Operator prijenosnog sustava i operator distribucijskog sustava dužni su sklopiti s Operatorom tržišta ugovor kojim se reguliraju međusobni odnosi, koji su u neposrednoj vezi s odvijanjem aktivnosti na tržištu električne energije i zakonskim obvezama Operatora tržišta, operatora prijenosnog sustava i operatora distribucijskog sustava.
+Članak 34.
+Ugovorom iz članka 33. ovih Pravila uređuje se:
+– način dostave podataka radi vođenja zakonom utvrđenih evidencija,
+– način dostave ugovornih rasporeda,
+– uvjeti i visina sredstva osiguranja plaćanja vezano uz energiju uravnoteženja,
+– način dostave obračunskih podataka za pojedine bilančne grupe,
+– način dostave obračunskih podataka o preuzetoj električnoj energiji od povlaštenih proizvođača radi obračuna i jamstva podrijetla električne energije,
+– za operatora prijenosnog sustava način dostave podataka o dodijeljenim prekograničnim prijenosnim kapacitetima po granicama Republike Hrvatske,
+– način dostave podataka radi obračuna odstupanja bilančnih grupa,
+– način međusobne razmjene informacija i međusobnog izvještavanja,
+– trajanje te raskid ugovora i
+– ostali međusobni odnosi.
+Bilančna grupa burze električne energije
+Članak 35.
+Jedini član bilančne grupe burze električne energije je burza koja je ujedno i voditelj te bilančne grupe.
+Članak 36.
+Burza je obvezna sklopiti s Operatorom tržišta ugovor kojim se reguliraju međusobni odnosi, koji su u neposrednoj vezi s odvijanjem aktivnosti na tržištu električne energije i zakonskim obvezama Operatora tržišta.
+Članak 37.
+Ugovorom iz članka 36. ovih Pravila uređuje se:
+– način dostave podataka radi vođenja zakonom utvrđenih evidencija,
+– način dostave ugovornih rasporeda,
+– način međusobne razmjene informacija i međusobnog izvještavanja,
+– trajanje i raskid ugovora i
+– ostali međusobni odnosi.
+Uređivanje odnosa između voditelja bilančne grupe i operatora prijenosnog sustava
+Članak 38.
+(1) Tržišni sudionik koji namjerava postati voditelj bilančne grupe obvezan je s operatorom prijenosnog sustava sklopiti ugovor o odgovornosti za odstupanje kojim se uređuje odgovornost voditelja bilančne grupe za odstupanje bilančne grupe.
+(2) Burza kao voditelj bilančne grupe sukladno članku 69. stavku 4. ovih Pravila ima uvijek uravnoteženi ugovorni raspored te stoga nema obvezu sklapanja ugovora o odgovornosti za odstupanje s operatorom prijenosnog sustava.
+Članak 39.
+Voditelj bilančne grupe koji namjerava raskinuti ugovor iz članka 38. ovih Pravila, obvezan je operatoru prijenosnog sustava dostaviti zahtjev

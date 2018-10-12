@@ -1,0 +1,94 @@
+ sat
+Poljoprivredna biomasa
+– biomasa iz ratarske proizvodnje
+– biomasa iz hortikulturalne proizvodnje
+– biomasa iz proizvodnje i prerade poljoprivrednih sirovina
+– biomasa energetskih kultura
+Šumska biomasa
+– iverje kao šumska biomasa
+– šumska biomasa kao ostatak drvno prerađivačke industrije
+– šumska biomasa iz energetskih uzgoja
+1.3. Tehnologije prerade biomase u gorivo za izgaranje – 2 sata
+– baliranje slame
+– uređaji za sjeckanje biomase
+– drvna sječka
+– tehnologija briketiranja biomase
+– briket kao gorivo
+– tehnologija peletiranja biomase
+– pelet kao gorivo
+– EU norma EN 14961: set normi namijenjen za čvrsta biogoriva za EU zemlje
+1.4. Tehnologije proizvodnje energije iz biomase – 6 sati
+Termokemijske pretvorbe
+– sagorijevanje
+– rasplinjavanje
+– piroliza
+Dobivanje toplinske energije iz drveta
+– izgaranje drveta
+– izgaranje u pećima
+– izgaranje u kotlovima
+Kotlovi
+– kombinirani kotlovi (kruto gorivo, pelet, drvena sječka)
+– kotlovi na drvo
+– pirolitički kotlovi
+– kotlovi za loženje drvenim peletima
+– kotlovi za loženje drvenom sječkom
+1.5. Gospodarski aspekti – 1 sat
+– cijena biomase
+– investicijski troškovi u postrojenja i opremu
+– makroekonomska bilanca
+– socijalno-ekonomski aspekti
+– sigurnost opskrbe
+1.6. Zakonodavna regulativa – 2 sata
+– Zakon o energetskoj učinkovitosti
+– Pravilnik o korištenju obnovljivih izvora energije i kogeneracije
+– zakonski okvir za proizvodnju toplinske energije iz obnovljivih izvora strategija energetskog razvoja Republike Hrvatske (NN 130/09)
+– Pravilnik o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za
+– certificiranje ovlaštenih instalatera OIE – manjih kotlova i peći na biomasu
+– propisi iz područja gradnje kotlovnice i dimnjaka
+– potencijali i stanje korištenja biomase u EU i RH
+– pravni okvir za korištenje energije biomase u EU i RH
+– strateški dokumenti i direktive EU
+– procjena potencijala biomase
+– izvori financiranja – bespovratna sredstva za općine i gradove, EU programi i fondovi
+– nacionalni programi energetske obnove + subvencije u HR
+1.7. Spajanje kotla na instalaciju grijanja – 4 sata
+– hidrauličke sheme spajanja u ovisnosti od korištenog goriva i tipa kotla
+– zatvoreni i otvoreni sustavi grijanja
+– mogući problemi u radu
+1.8. Održavanje manjih kotlova i peći na biomasu – 1 sat
+– najčešći problemi u radu
+– otkrivanje kvarova
+– sadržaj redovnih servisa
+– servisni intervali
+– ekološki aspekt (odlaganje otpada)
+– sadržaj dokumentacije sustava prema normi za ispitivanje manjih kotlova i peći na biomasu
+1.9. Zaštita na radu i zaštita od požara – 1 sat
+– propisi o zaštiti na radu
+– siguran rad i mjere zaštite na radu
+– potencijalne opasnosti i načini ublažavanja i izbjegavanja opasnosti
+– izvori opasnosti (električni, toplinski)
+2. Praktična nastava – 20 sati
+2.1. Montaža kotlova prema vrsti goriva (kruto gorivo, pelet, ulje, plin) – 18 sati
+– priprema prostorije za ugradnju kotla (kotlovnica) – otvor svježeg zraka ovisno o snazi kotla
+– minimalne udaljenosti kotla od zidova kotlovnice definirano vrstom goriva
+– provjera protočnosti dimnjaka
+– spajanje dimovoda na dimnjak i postavljanje izolacije
+– sastavljanje komponenti kotla prema vrsti goriva
+– spajanje tijela kotla s oplatom i toplinskom izolacijom
+– priključenje kotla na vodovodnu instalaciju
+– montaža plamenika prema vrsti goriva
+– ugradnja turbulatora ovisno o vrsti goriva
+– spajanje hidrauličke instalacije
+– ugradnja ekspanzijske posude
+– ugradnja sigurnosnog ventila
+– ugradnja nepovratnih ventila
+– spajanje sustava za pripremu tople vode
+– spajanje recirkulacijskog voda
+– spajanje kotla na zatvoreni sustav grijanja (radijatorsko ili podno grijanje)
+– ugradnja termičke zaštite grijanja – obavezno propisi EU i HR
+– spajanje termičkog ventila na kanalizaciju
+– kontrola spojeva-tlačna proba
+– provjera funkcionalnosti sigurnosnih sustava kotla
+– spajanje električne instalacije kotla, poznavanje električnih instalacija
+– spajanje kotlovske regulacije na električnu instalaciju
+– probno puštanje sustava 

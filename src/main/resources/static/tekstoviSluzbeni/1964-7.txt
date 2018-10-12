@@ -1,0 +1,26 @@
+ izmjeriti, vrednuju se po trošku stjecanja, a podložni su procjeni o postojanju dokaza ili okolnosti vezanih uz umanjenje vrijednosti iz stavka 1. ovog članka i procjeni umanjenja vrijednosti imovine iz stavka 4. ovoga članka.
+(10) Depozitar UCITS fonda dužan je provjeriti je li društvo za upravljanje prilikom izrade procjena iz stavaka 1. i 4. ovoga članka postupalo u skladu sa stavcima 5., 7. i 8. ovoga članka i o tome je dužan voditi evidenciju.
+Ostala imovina i obveze
+Članak 14.
+(1) Fer vrijednost valutne spot transakcije za dan vrednovanja, utvrđuje se izračunom razlike između ugovorenog tečaja i srednjeg tečaja Hrvatske narodne banke ili tečaja iz članka 5. stavka 3. ovoga Pravilnika za dan vrednovanja imovine UCITS fonda.
+(2) Ostala imovina i obveze UCITS fonda vrednuju se po amortiziranom trošku primjenom metode efektivne kamatne stope.
+Obračun naknada
+Članak 15.
+(1) Naknade društvu za upravljanje i depozitaru obračunavaju se u skladu s učestalosti vrednovanja imovine UCITS fonda iz članka 3. stavka 2. ovoga Pravilnika, na osnovicu koju čini ukupna imovina UCITS fonda umanjena za iznos obveza fonda s osnove ulaganja u financijske instrumente.
+(2) Naknade iz stavka 1. ovoga članka izračunavaju se na utvrđenu osnovicu primjenom propisanih stopa naknada iz prospekta UCITS fonda.
+(3) Naknada za upravljanje ne obračunava se na imovinu UCITS fonda koja je uložena u udjele UCITS fondova i dionice alternativnih investicijskih fondova, ako UCITS fondom, za koji se obračunava naknada te udjelima UCITS fondova i dionicama alternativnih investicijskih fondova u koji se ulaže, upravlja isto društvo za upravljanje.
+(4) Naknadu vezanu uz prinos UCITS fonda društvo za upravljanje obračunati će sukladno članku 244. stavku 4. Zakona.
+Način i rokovi izvještavanja
+Članak 16.
+(1) Depozitar je dužan na svaki dan izračuna cijene udjela UCITS fonda za dan vrednovanja izvijestiti društvo za upravljanje za čije UCITS fondove obavlja poslove depozitara o provedenom postupku kontrole izračuna neto vrijednosti imovine UCITS fonda.
+(2) Depozitar je obvezan svakog dana vrednovanja, a najkasnije do 15.30 sati istog dana, dostaviti Agenciji izvještaj o izračunu neto vrijednosti imovine UCITS fonda i cijeni udjela UCITS fonda za dan vrednovanja.
+(3) Izvještaj iz stavka 2. ovoga članka depozitar dostavlja u elektroničkom obliku na način propisan tehničkom uputom Agencije.
+(4) U svim slučajevima utvrđivanja nesukladnosti i nedosljednosti u primjeni ovoga Pravilnika, društvo za upravljanje odnosno depozitar obvezni su na zahtjev Agencije ispraviti vrednovanje imovine UCITS fonda i dostaviti očitovanje o razlozima i posljedicama odstupanja od načela vrednovanja imovine i obveza UCITS fonda, te izvještaj o novom izračunu neto vrijednosti imovine UCITS fonda i cijeni udjela UCITS fonda.
+Članak 17.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o utvrđivanju neto-vrijednosti imovine UCITS fonda i cijene udjela u UCITS fondu (»Narodne novine«, broj 100/2013).
+Članak 18.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/15-02/07
+Urbroj: 326-01-440-15-1
+Zagreb, 18. rujna 2015.
+Predsjednik Upravnog vijeća Petar-Pierre Matek, v. r.

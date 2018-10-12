@@ -1,0 +1,23 @@
+ identificiraju ovim modalitetom.«
+Članak 5.
+
+Članak 6.
+U dijelu Upute 6.2.2. Skupina obilježja B, obilježje 13. »Instrument«, u dijelu »Stavke aktive« mijenja se stavka A0201 i glasi:
+A0201 Računi za namiru kod HNB-a   Računi za namiru kod HNB-a jesu računi izvještajne institucije otvoreni unutar Hrvatskog sustava velikih plaćanja i sustava TARGET2 kod HNB-a.
+Članak 7.
+U Uputi za izradu i dostavljanje datoteke statističkog i bonitetnog izvješća, koja je sastavni dio Odluke o statističkom i bonitetnom izvješćivanju, u poglavlju 3.2.2. alineji 4. briše se riječ »»A0201«,«.
+U alineji 8. iza riječi »»D0015«,« dodaju se riječi »»D0016«,«.
+Iza alineje 9. dodaje se alineja 10., koja glasi:
+»– Ako je polje 14 = »A0201«, tada polje 16 mora biti »HRK« ili »EUR«.«
+Članak 8.
+U poglavlju 3.2.4. iza riječi »»D0015«« dodaju se riječi »i »D0016««.
+Članak 9.
+U poglavlju 3.5.3. kontrola 493 mijenja se i glasi:
+Ako je (Vrsta iznosa = 1 & Instrument nije 'P1108', 'P1109', 'P1110', 'P1111', 'P1115', 'P1116', 'P1118', 'P1119', 'P1122', 'P1123', 'P1124', 'P1125', 'P9992', 'D0008', 'D0009', 'D0014', 'D0015' ili 'D0016'), tada je Iznos >= 0. 493
+Kontrola 455 mijenja se i glasi:
+Ako je Instrument = ''D0008'', ''D0009'', ''D0014'', ''D0015'' ili "D0016", tada je (Oznaka izvještaja = ''NP'', ''NR'', ''KP'' ili ''KR'' & Datum stanja = 31. 3., 30. 6., 30. 9. ili 31. 12.). 455
+Članak 10.
+Ova Odluka stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+O. br. 154-020/06-16/BV
+Zagreb, 2. lipnja 2016.
+Guverner Hrvatske narodne banke prof. dr. sc. Boris Vujčić, v. r.

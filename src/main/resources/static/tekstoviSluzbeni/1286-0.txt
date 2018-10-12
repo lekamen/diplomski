@@ -1,0 +1,39 @@
+67 17.06.2015 Odluka o izmjenama i dopunama Odluke o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013
+HRVATSKA NARODNA BANKA
+1287
+Na temelju članka 17. Provedbene uredbe Komisije (EU) br. 680/2014 od 16. travnja 2014. o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 Europskog parlamenta i Vijeća (SL, L 191, 28. 6. 2014.), članka 11. stavka 1. i stavka 3., članka 101. stavka 2. točke 7. i članka 290. točke 4. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013. i 19/2015.) te članka 43. stavka 2. točke 9. i članka 77. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donosi
+ODLUKU
+O IZMJENAMA I DOPUNAMA ODLUKE O PROVEDBI PROVEDBENE UREDBE KOMISIJE (EU) BR. 680/2014 O UTVRĐIVANJU PROVEDBENIH TEHNIČKIH STANDARDA O NADZORNOM IZVJEŠĆIVANJU INSTITUCIJA U SKLADU S UREDBOM (EU) BR. 575/2013
+Članak 1.
+U Odluci o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 (»Narodne novine«, br. 84/2014., 116/2014. i 16/2015.), u Uputi za sastavljanje i dostavljanje izvještaja iz Uredbe iza točke 8. dodaje se točka 8.a, koja glasi:
+»8.a Izvještaji iz poglavlja od II.1.1. do II.1.6. ove Upute ne sastavljaju se ako je na izvještajni datum kreditna institucija iskazala priznati kapital jednak nuli ili manji od nule.«
+Članak 2.
+Točka 52. podtočka 2. mijenja se i glasi:
+»2) upute kojom se propisuje sadržaj, oblik i način popunjavanja izvješća o planovima financiranja.«.
+Članak 3.
+Iza točke 60. dodaju se točke 60.a i 60.b, koje glase:
+»60.a Primjer XML datoteke za nekonsolidirane podatke planova financiranja koji se dostavljaju na godišnjoj osnovi: Ulazni podaci – COFI FN.xml (prikaz tehničke logike, a ne logički ispravni podaci).
+60.b Primjer XML datoteke za konsolidirane podatke planova financiranja koji se dostavljaju na godišnjoj osnovi: Ulazni podaci – COFI FK.xml (prikaz tehničke logike, a ne logički ispravni podaci).«.
+Članak 4.
+U točki 62. podtočka 2. mijenja se i glasi:
+»2) uputi kojom se propisuje sadržaj, oblik i način popunjavanja izvješća o planovima financiranja.«.
+Članak 5.
+U točki 76. na kraju podtočke 5. riječ »i« briše se i dodaje zarez.
+Na kraju podtočke 6. briše se točka.
+Iza podtočke 6. dodaju se podtočke 7. i 8., koje glase:
+»7) »FN« za godišnje nekonsolidirano izvješće – planovi financiranja i
+8) »FK« za godišnje konsolidirano izvješće – planovi financiranja.«.
+Članak 6.
+Točka 95. mijenja se i glasi:
+»95. Niz znakova navodi se prema vrijednosti znakova navedenih u Prilogu 2. Ostale vrijednosti ove Upute. Ako vrijednost pozicije nije poznata, u obrazac se upisuje alfanumerička oznaka »-« (minus).«
+Članak 7.
+Tablica 1. iza točke 99. mijenja se i glasi:
+Broj XML polje Naziv polja Tip polja Duljina polja Sadržaj polja Zaglavlje (prvi slog) 1. MBR Kreditna institucija MBR N 8 Matični broj koji dodjeljuje DZS 2. DatumStanja Datum stanja D 8 gggg-mm-dd 3. OznakaIzvjesca Oznaka izvješća AN 2 NP, NR, KP, KR, MN, MK, FN, FK 4. OdgovornaOsoba Ime osobe AN 50 Ime odgovorne osobe 5. Telefon Telefon AN 30 Telefon za kontakt 6. E-mail Elektronička pošta AN 50 E-adresa za kontakt 7. OIB OIB kreditne institucije N 11 OIB 8. Napomena Napomena AN 100 Napomena Obrasci (ostali slogovi) Broj XML polje Naziv polja Tip polja Duljina polja Sadržaj polja 1. Izvjestaj Oznaka obrasca AN 12 Oznaka obrasca 2. Parametar Parametar AN 3 Prilog 1. Upute 3. Tag Tag AN 7 Oznaka za vrijednost 4. Vrijednost Vrijednost AN 100 Vrijednost prema Uputi
+Članak 8.
+Točka 101. briše se.
+Članak 9.
+U točki 104. podtočki 2. riječi »i izvještaja Pokrivenost kapitalnih zahtjeva i zaštitnih slojeva kapitala« brišu se.
+Članak 10.
+Poglavlje III.1.5.1. briše se.
+Članak 11.
+Iza točke 125. u tablici

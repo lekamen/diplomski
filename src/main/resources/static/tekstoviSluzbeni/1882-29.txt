@@ -1,0 +1,26 @@
+ postrojenja -- 1.dio: Zaštitne mjere koje se odnose na električnu sigurnost i uzemljenje (EN 50122-1:1997).
+7. HRN EN 50122-2:2001/A1:2008: Željezničke primjene -- Stabilna postrojenja -- 2. dio: Zaštitne mjere protiv učinka lutajućih struja iz istosmjernih sustava napajanja (EN 50122-2:1998/A1:2002).
+8. HRN EN 50124-1/A1:2007: Željezničke primjene -- Usklađivanje izolacije -- 1. dio: Osnovni zahtjevi -- Zračni razmaci i puzne staze za svu električnu i elektroničku opremu (EN 50124-1:2001/A1:2003).
+9. HRN EN 50124-1/A2:2007: Željezničke primjene -- Usklađivanje izolacije -- 1. dio: Osnovni zahtjevi -- Zračni razmaci i puzne staze za svu električnu i elektroničku opremu (EN 50124-1:2001/A2:2005).
+10. HRN EN 50125-3:2007: Željezničke primjene -- Uvjeti okoliša za opremu -- 3. dio: Signalna i telekomunikacijska oprema (EN 50125-3:2003).
+11. HRN EN 50126-1:2008: Željezničke primjene -- Specifikacija i prikaz pouzdanosti, dostupnosti, mogućnosti održavanja i sigurnosti (RAMS) -- 1. dio: Osnovni zahtjevi i generički (opći) postupak (EN 50126-1:1999).
+12. HRN EN 50128:2011: Željeznički sustav -- Komunikacijska i signalna tehnika i sustavi obrade podataka -- Softver za željezničke upravljačke i kontrolne sustave (EN 50128:2001).
+13. HRN EN 50129:2007: Željezničke primjene -- Komunikacijska i signalna tehnika i sustavi obradbe podataka -- Sa sigurnošću povezani elektronički sustavi za signalnu tehniku (EN 50129:2003).
+14. HRN EN 50159 – Željeznički sustav -- Komunikacijska i signalna tehnika i sustavi obrade podataka -- Sigurnosna komunikacija u prijenosnim sustavima
+15. HRN EN 50162:2007: Željezničke primjene -- Zaštita od korozije zbog lutajućih struja iz istosmjernih sustava napajanja (EN 50162:2004).
+16. HRN EN 50238:2007: Željezničke primjene -- Kompatibilnost između željezničkih vozila i sustava detekcije vlaka (EN 50238:2003).
+17. HRN EN 50239:2001: Željezničke primjene -- Radio upravljanje vučnim vozilima za teretni prijevoz (EN 50239:1999).
+18. HRN EN 50261:2001: Željezničke primjene -- Ugradnja elektroničke opreme (EN 50261:1999).
+19. HRI CLC/TR 50451:2008: Željezničke primjene -- Sustavno dodjeljivanje zahtjeva za cjelovitu sigurnost (CLC/TR 50451:2007).
+20. HRI CLC/TR 50452:2008: Željezničke primjene -- Daljinski radio upravljački sustav vučnog vozila za teretni promet pri višestrukom vučnom sustavu (CLC/TR 50452:2007).
+21. HRI CLC/TR 50488:2008: Željezničke primjene -- Zaštitne mjere za osoblje koje radi na i u blizini kontaktnog voda (CLC/TR 50488:2006).
+22. HRN EN 50500:2008: Metode mjerenja razina magnetskih polja nastalih zbog elektroničkih i električnih uređaja u željezničkom okruženju u odnosu na ljudsku izloženost (EN 50500:2008).
+23. HRI CLC/TR 50501-1:2008: Željezničke primjene -- Željeznička vozila -- Razmjena podataka između vozila i vozilo/pruga -- 1. dio: Katalog podataka i pravila za tipizaciju funkcija (CLC/TR 50501-1:2007).
+24. HRI CLC/TR 50506-1:2008: Željezničke primjene -- Komunikacijska i signalna tehnika i sustavi obrade podataka -- Upute za primjenu EN 50129 -- 1. dio: Međusobno priznavanje (CLC/TR 50506-1:2007).
+25. HRI CLC/TR 50507:2008: Željezničke primjene -- Granice smetnji postojećih kolosječnih krugova korištenih na Europskim željeznicama (CLC/TR 50507:2007).
+26. HRI CLC/TR 50511:2008: Željezničke primjene -- Komunikacijska i signalna tehnika i sustavi obrade podataka -- ERTMS/ETCS -- Vanjska signalizacija za pruge opremljene sa ERTMS/ETCS Razina 2 (CLC/TR 50511:2007).
+27. HRN IEC/UIC 60050-821:2001: Međunarodni elektrotehnički rječnik -- 821. dio: Signalni i sigurnosni uređaji za željeznicu (IEC/UIC 60050-821:1998).
+28. HRN EN ISO/IEC 17020:2012: Ocjenjivanje sukladnosti – Zahtjevi za rad različitih vrsta tijela koja provode inspekciju
+29. HRN EN ISO/IEC 17025:2007: Opći zahtjevi za osposobljenost ispitnih i umjernih laboratorija
+30. HRN HD 60364-1 – Niskonaponske električne instalacije -- 1. dio: Osnovna načela, određivanje općih značajka, definicije
+31. HRN EN ISO 9241 – Niz normi za

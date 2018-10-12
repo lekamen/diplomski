@@ -1,0 +1,24 @@
+ čuvaju u najmanje dva primjerka. Barem jedan primjerak treba biti takav da je iz njega moguće obnoviti podatke i njihovo pregledavanje kao i korištenje u slučaju gubitka ili oštećenja podataka u računalnom sustavu u kojem se obavlja pohrana i obrada zapisa.
+(2) Pri izradi arhivske kopije obvezno se u pisanom obliku utvrđuje predmet arhiviranja, format i struktura zapisa, vrijeme i odgovornost za izradu kopije, te da li se zapisi i dalje čuvaju u izvorišnom informacijskom sustavu ili se iz njega brišu.
+(3) Prije predaje arhivskih kopija na mjesto čuvanja obvezno se provjerava njihova cjelovitost, čitljivost i ispravnost.
+(4) Arhivske kopije se predaju na mjesto čuvanja s programima, odnosno aplikacijama koje su potrebne za njihovo pregledavanje i korištenje, ili se predaju s podrobnim uputama o hardverskim i softverskim zahtjevima za prikaz i korištenje te s navodom o informacijskom sustavu koji trenutno to omogućuje.
+(5) Cjelovitost, čitljivost i ispravnost arhivskih kopija elektroničkih zapisa redovito se provjerava, a najmanje jedanput godišnje. Presnimavanje na novi medij obavlja se najmanje svake pete godine, a ako su prilikom provjere uočene pogreške ili ako je primjerak arhivske kopije nečitljiv, oštećen ili izgubljen, presnimavanje na novi medij je obvezno.
+IV. KORIŠTENJE GRADIVA
+Članak 19.
+(1) Korištenje gradiva odobrava osoba odgovorna za rad pismohrane, odnosno osoba zadužena za pismohranu.
+(2) Arhivsko i registraturno gradivo može se koristiti u prostorijama pismohrane samo i jedino uz nazočnost odgovorne osobe za rad pismohrane odnosno osobe zadužene za pismohranu, iznimno kada postoji opravdano društveni interes može se ovlaštenoj instituciji na njen obrazložen zahtjev predati gradivo na korištenje. Korištenje gradiva ostvaruje se neposrednim uvidom u traženo gradivo, izdavanjem preslika ili izdavanjem originala gradiva.
+(3) Originalno arhivsko i registraturno gradivo može se izdati na privremeno korištenje jedino putem odgovarajuće pisane potvrde (reversa). Potvrda sadrži oznaku predmeta koji se izdaje, ime i prezime te vlastoručni potpis službenika odnosno namještenika koji preuzima gradivo i datum izdavanja. Potvrda se odlaže i čuva u posebnom fasciklu do vraćanja arhivskog gradiva u pismohranu, a potvrda se poništava.
+Članak 20.
+(1) Izdavanje arhivskoga i registraturnog gradiva za vanjske korisnike, koji na temelju zakona i drugih propisa imaju pravo uvida u informacije sadržane u gradivu, obavlja se na temelju zahtjeva tražitelja.
+(2) Korištenje gradiva može se uskratiti u slučajevima koje propisuje članak 8. Zakona o pravu na pristup informacijama (»Narodne novine«, broj 25/13 i 85/15).
+Članak 21.
+(1) Prije godišnjega ulaganja novoga gradiva u pismohranu, provjerava se da li je tijekom godine posuđeno gradivo vraćeno u pismohranu. Nadzor obavlja osoba zadužena za rad pismohrane.
+(2) Ako se utvrdi da posuđeno gradivo nije vraćeno, zadužena osoba za pismohranu, dužna je tražiti povrat gradiva. Ukoliko je korisniku zaduženo gradivo potrebno za rad i u narednoj godini, uz supotpis Tajnika DSV-a dužan je to pisano potvrditi.
+V. POSTUPAK ODABIRANJA I IZLUČIVANJA GRADIVA
+Članak 22.
+(1) Redovito, a najkasnije 5 (godina) od posljednjega provedenog postupka izlučivanja, obavlja se odabiranje arhivskog i izlučivanje onoga dijela registraturnog gradiva kojem je prema utvrđenim propisima prošao rok čuvanja, kako bi se u pismohrani pravovremeno oslobodio prostor za prirast novoga gradiva.
+(2) Odabiranje arhivskoga i izlučivanje registraturnog gradiva DSV-a obavlja se nakon što je gradivo sređeno i popisano.
+(3) Odabiranje arhivskoga i izlučivanje registraturnog gradiva obavlja se na temelju Pravilnika o vrednovanju te postupku odabiranja i izlučivanja arhivskoga gradiva kao i Posebnoga popisa s rokovima čuvanja koji je sastavni dio ovog Pravilnika.
+Članak 23.
+(1) Postupak za izlučivanje registraturnog gradiva pokreće predsjednik DSV-a, na temelju Posebnog popisa gradiva.
+(2) Popis gradiva za izlučivanje treba sadržavati 

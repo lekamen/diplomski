@@ -1,0 +1,47 @@
+ farmi, HPA izdaje IKG čiji je obrazac propisan Prilogom I. ovoga Pravilnika. IKG posjednik mora imati na lokaciji na kojoj se nalaze životinje.
+(5) Pri upisu podataka o farmi u Registar farmi, svaka farma od HPA dobiva JIBG koji se sastoji od dvoslovne oznake zemlje podrijetla (HR) i neponovljivog broja sastavljenog od najviše 12 znamenki.
+(6) U Registar farmi pohranjuju se najmanje sljedeći podaci:
+1. osnovni podaci farme i posjednika:
+(a) JIBG – identifikacijski broj farme koji se sastoji od koda zemlje (HR) i ne više od 12 znamenki;
+(b) adresa farme (županija, pošta, grad/općina, ulica i kućni broj, MIBPG);
+(c) podaci o posjedniku (ime i prezime/naziv, adresa/sjedište, OIB/MB, kontaktni podaci);
+(d) podaci o odgovornoj osobi na farmi/posjedniku (kontaktni podaci, ime, prezime, adresa, OIB);
+(e) zemljopisne koordinate primarne lokacije farme (X i Y);
+(f) podaci o položaju sekundarne lokacije ukoliko ista postoji;
+(g) ostali podaci vezani uz pravnu osobu.
+2. dodatni podaci o farmi:
+(a) vrsta proizvodnje – tip farme;
+(b) vrsta životinja na farmi;
+(c) godišnji broj životinja na farmi;
+(d) maksimalan kapacitet farmi.
+3. veterinarski podaci:
+(a) opći podaci:
+– ovlaštena veterinarska organizacija,
+– ovlašteni veterinar,
+– veterinarski inspektor.
+(b) podaci o naređenim mjerama i zdravstvenom statusu;
+c) Podaci o nesukladnostima u odnosu na označavanje, registraciju i promet goveda, ovaca i koza koji služe za izvješćivanje Europske komisije;
+4. ostali podaci na zahtjev nadležnog tijela.
+(7) Nakon deaktivacije farme, podaci iz stavka 6. ovoga članka ostaju trajno dostupni isključivo nadležnom tijelu.
+(8) Posjednik na farmi dužan je prije početka obavljanja djelatnosti postupiti u skladu sa stavkom 2. ovoga članka.
+(9) Identifikacijski broj farme iz stavka 6. točke 1. podtočke (a) ovoga članka može se koristiti i u druge svrhe osim za potrebe ovoga Pravilnika.
+Članak 6.
+(1) Registar reprodukcijskog materijala domaćih životinja sadrži podatke o proizvodnji, prometu, uporabi i skladištenju reprodukcijskog materijala goveda.
+(2) Obvezu upisa podataka u Registar reprodukcijskog materijala domaćih životinja imaju svi subjekti koji proizvode i/ili prodaju reprodukcijski materijal, te obavljaju umjetno osjemenjivanje i/ili prijenos jajnih stanica i zametaka ili koriste bikove u prirodnom pripustu.
+III. REGISTRACIJA FARMI
+Članak 7.
+(1) Sve farme u skladu s odredbama ovoga Pravilnika moraju se registrirati.
+(2) Farme se smatraju registriranima trenutkom upisa u Registar farmi.
+(3) Farme koja drže samo jednu svinju za vlastite potrebe ne podliježu registraciji.
+(4) Iznimno od stavka 3. ovoga članka, u slučaju prodaje/otpreme do pet živih svinja sa registrirane farme u svrhu klanja za vlastite potrebe, odredišna farma ne podliježe obvezi registracije ako se klanje obavi u roku od 72 sata od dana dopreme.
+(5) Posjednik je u slučajevima navedenima u stavcima 3. i 4. ovoga članka dužan prijaviti promet svinje/svinja za vlastite potrebe, prilikom dopreme, nadležnoj veterinarskoj organizaciji koja isto registrira u JRDŽ-u.
+(6) Farme iz stavaka 3. i 4. ovoga članka evidentiraju se u JRDŽ-u uz upis imena i prezimena, OIB-a i adrese posjednika svinje.
+(7) U slučaju otpreme svinje/svinja sa farme iz stavka 3. ovoga članka i odredišne farme iz stavka 4. ovoga članka, svinja/svinje se moraju podvrgnuti propisanim kontrolama, odnosno farma se mora upisati u Registar farmi i dobiti JIBG.
+(8) Troškove registracije farme ili pojedinog posjednika na farmi snosi predmetni posjednik.
+Članak 8.
+Posjednik životinja odgovoran je da farma bude registrirana u Registru farmi.
+Članak 9.
+(1) Posjednik mora najkasnije u roku od 14 dana prije prvog prispijeća životinja na farmu podnijeti zahtjev za registraciju farme u HPA.
+(2) Ovlaštena veterinarska organizacija, ako posjeduje saznanja o neregistriranoj farmi koja drži životinje, dužna je bez odgode izvijestiti HPA putem odgovarajuće aplikacije u JRDŽ-u.
+Članak 10.
+(1) Djelatnik HPA najkasnije u roku 7 dana od dana

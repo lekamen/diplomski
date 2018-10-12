@@ -1,0 +1,41 @@
+objekte sustava javne odvodnje i uređaja.
+III.
+Posebne mjere u vezi s ispuštanjem otpadnih voda iz objekata i postrojenja za pripremu i preradu voća i povrća su:
+– racionalna upotreba vode u tehnološkom procesu za čišćenje i pranje, recirkulacija u uporabi vode za pranje i čišćenje te racionalna upotreba i recirkulacija sredstava za pranje i dezinfekciju te pranje i čišćenje staklenki i druge ambalaže koja se pere
+– uporaba naljepnica i natpisa na staklenkama i drugoj ambalaži koja se pere na kojima boja ne sadrži teške kovine ili ih sadrži u smanjenim količinama
+– primjena fizikalnih ili fizikalno-kemijskih postupaka prethodnog čišćenja tehnoloških otpadnih voda prije ispuštanja u sustav javne odvodnje te ravnomjerno ispuštanje efluenta u sustav javne odvodnje s uređajem za pročišćavanje
+– biološko pročišćavanje otpadnih voda s uklanjanjem hranjivih tvari u skladu s tablicama 2. i 2.a ovoga Pravilnika za ispuštanje otpadnih voda u površinske vode
+– uklanjanje svih krutih tvari iz otpadnih voda nastalih u tehnološkom procesu pripreme i/ili prerade voća i povrća i
+– pravilno odlaganje svih vrsta otpada koji nastaju u tehnološkom procesu proizvodnje.
+PRILOG 21.
+GRANIČNE VRIJEDNOSTI EMISIJA OTPADNIH VODA IZ OBJEKATA I POSTROJENJA ZA PRIPREMU ZA TRŽIŠTE I PRERADU KRUMPIRA
+I.
+(1) Odredbe ovoga Priloga odnose se na objekte i postrojenja iz kojih se ispuštaju tehnološke otpadne vode nastale tijekom pripreme za tržište i prerade krumpira.
+(2) Odredbe iz stavka 1. ove točke odnose se na izvore onečišćenja:
+– pranje, ljuštenje i sortiranje krumpira
+– rezanje krumpira
+– pranje krumpira nakon rezanja
+– isparavanje i sušenje krumpira
+– blanširanje krumpira
+– prženje krumpira
+– aromatiziranje i pakiranje proizvoda od krumpira i
+– hlađenje i pakiranje proizvoda od krumpira.
+(3) Odredbe ovoga Priloga ne odnose se na sljedeće izvore onečišćenja:
+– rashladne sustave i parne generatore unutar izvora onečišćenja navedenih u stavku 2. ove točke
+– uređaje za tehnološku pripremu vode unutar navedenih izvora onečišćenja i – sanitarne otpadne vode (ako su razdvojene od tehnoloških otpadnih voda).
+II.
+Granične vrijednosti emisija otpadnih voda iz objekata i postrojenja koji su predmet ovoga Priloga navode se u Tablici 1. ove točke:
+Tablica 1. GRANIČNE VRIJEDNOSTI EMISIJA ONEČIŠĆUJUĆIH TVARI
+POKAZATELJI IZRAŽENI KAO JEDINICA U POVRŠINSKE VODE U SUSTAV JAVNE ODVODNJE FIZIKALNO-KEMIJSKI POKAZATELJI 1. Temperatura 0C 30 40 2. pH-vrijednost 6,5-9,0 6,5-9,5 3. Suspendirane tvari mg/l 35 (a) 4. Taložive tvari  ml/lh 0,5 10 EKOTOKSIOLOŠKI POKAZATELJI 5. Toksičnost na dafnije LIDD* Faktor razrjeđenja 2 – 6.Toksičnost na svijetleće bakterije LIDL* Faktor razrjeđenja 3 – ORGANSKI POKAZATELJI 7. BPK5 O2 mg/l 25 sukladno članku 5. ovoga Pravilnika 8. KPK O2 mg/l 125 sukladno članku 5. ovoga Pravilnika 9. Teškohlapljive lipofilne tvari (ukupna ulja i masti) mg/l 10 100 10. Detergenti anionski (b) mg/l 1 10 11. Detergenti neionski (b) mg/l 1 10 ANORGANSKI POKAZATELJI 12. Ukupni dušik N mg/l 10 sukladno članku 5. ovoga Pravilnika 13. Ukupni fosfor P mg/l 0,4 – 5 sukladno članku 5. ovoga Pravilnika
+Oznake u Tablici 1. znače:
+
+*LIDD, LIDL– najmanje razrjeđenje otpadne vode koje nema učinka na test organizme; određuje se najmanje četiri puta godišnje
+
+– toksičnost na dafnije određuje se u slučaju kada se otpadne vode ispuštaju u kopnene vode, a toksičnost na svjetleće bakterije u priobalne vode.
+
+(a) – granična vrijednost emisije određuje se u otpadnoj vodi u slučaju ako suspendirane tvari štetno djeluju na sustav javne odvodnje i/ili na proces pročišćavanja uređaja, a određuje ju pravna osoba koja održava objekte sustava javne odvodnje i uređaja.
+
+(b) – granična vrijednost emisije određuje se u otpadnoj vodi u slučaju korištenja detergenata (anionskih i neionskih) za pranje i čišćenje.
+III.
+Posebne mjere u svezi s ispuštanjem otpadnih voda iz objekata i postrojenja za pripremu za tržište i preradu krumpira su:
+– uklanjanje svih krutih tvari iz otpadnih voda nastalih u

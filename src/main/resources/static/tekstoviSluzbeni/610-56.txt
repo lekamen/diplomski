@@ -1,0 +1,22 @@
+ najbolje procjene i dodatka za rizik.
+(4) Tehničke pričuve iz stavka 3. ovoga članka izračunavaju se u skladu s Uredbom (EU) br. 2015/35.
+Najbolja procjena
+Članak 108.
+(1) Najbolja procjena mora biti jednaka očekivanoj sadašnjoj vrijednosti budućih novčanih tokova koja uzima u obzir vremensku vrijednost novca koju predstavlja očekivana sadašnja vrijednost budućih novčanih tokova, upotrebljavajući relevantnu vremensku strukturu bezrizičnih kamatnih stopa.
+(2) Projekcija novčanog toka koja se upotrebljava u izračunu najbolje procjene mora uzeti u obzir sve novčane priljeve i odljeve koji proizlaze iz obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom njihova trajanja.
+(3) Izračun najbolje procjene mora se temeljiti na najnovijim i vjerodostojnim informacijama i realnim pretpostavkama te se koristeći odgovarajuće, primjenjive i relevantne aktuarske i statističke metode u skladu s Uredbom (EU) br. 2015/35.
+(4) Najbolja procjena mora se izračunavati na brutoosnovi, bez umanjenja za iznose koji se mogu naplatiti na temelju ugovora o reosiguranju ili od subjekata posebne namjene koji se moraju izračunavati zasebno u skladu s člankom 117. ovoga Zakona.
+(5) Društvo za osiguranje dužno je pri izračunu najbolje procjene iz stavka 1. ovoga članka koristiti tehničke informacije u skladu s propisima Europske komisije koje se odnose na relevantne vremenske strukture bezrizičnih kamatnih stopa.
+Dodatak za rizik
+Članak 109.
+(1) Dodatak za rizik mora biti takav da je vrijednost tehničkih pričuva istovjetna s iznosom koji bi društvo za osiguranje zahtijevalo za preuzimanje i ispunjavanje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju.
+(2) Dodatak za rizik mora se izračunavati tako da se odredi trošak raspolaganja prihvatljivim vlastitim sredstvima koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza u skladu s Uredbom (EU) br. 2015/35.
+(3) Stopa koja se upotrebljava u određivanju troška raspolaganja prihvatljivim vlastitim sredstvima, odnosno stopa troška kapitala, jednaka je za sva društva za osiguranje. Stopa troška kapitala jednaka je dodatnoj stopi iznad odgovarajuće bezrizične kamatne stope koju bi imalo društvo za osiguranje kako bi raspolagalo prihvatljivim vlastitim sredstvima iz poglavlja III. ove glave Zakona koja su jednaka solventnom kapitalu potrebnom za ispunjenje obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju tijekom trajanja tih obveza.
+Ekstrapolacija relevantne vremenske strukture bezrizičnih kamatnih stopa
+Članak 110.
+(1) Određivanje relevantne vremenske strukture bezrizičnih kamatnih stopa iz članka 108. stavka 1. ovoga Zakona koristi i u skladu je s informacijama koje proizlaze iz odgovarajućih financijskih instrumenata. Prilikom navedenog određivanja uzimaju se u obzir relevantni financijski instrumenti s dospijećima kada su tržišta za te financijske instrumente, uključujući obveznice, duboka, likvidna i transparentna.
+(2) Za dospijeća kada tržišta za relevantne financijske instrumente, uključujući obveznice, više nisu duboka, likvidna i transparentna, relevantna vremenska struktura bezrizičnih kamatnih stopa se ekstrapolira.
+(3) Ekstrapolirani dio relevantne vremenske strukture bezrizičnih kamatnih stopa temelji se na terminskim kamatnim stopama koje glatko konvergiraju od jedne ili više terminskih kamatnih stopa, vezanih uz najdulja dospijeća relevantnih financijskih instrumenata, uključujući obveznice, na dubokom, likvidnom i transparentnom tržištu, do konačne terminske kamatne stope.
+Prilagodba za uravnoteženje na relevantnu vremensku strukturu bezrizičnih kamatnih stopa
+Članak 111.
+(1) Društvo za osiguranje može primijeniti prilagodbu za uravnoteženje na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene obveza iz ugovora o osiguranju s obilježjima životnih osiguranja, uključujući rente iz neživotnih osiguranja, odnosno obveza iz

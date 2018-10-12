@@ -1,0 +1,48 @@
+intervalu vremena.
+– dostupnost: vjerojatnost da će pojedine funkcije uređaja zadovoljavati postavljene uvjete za specificirani unaprijed zadani najmanji period vremena.
+– zalihost (redundancija): veći broj funkcijski i sigurnosno jednakovrijednih podataka između dviju ili više točaka, što se postiže uvođenjem dodatnih medija ili dijelova uređaja; kod SSU se primjenjuje zalihost radi povećanja sigurnosti, pouzdanosti i dostupnosti.
+– signalni znak (sz): znak određen propisom o značenju i uporabi signala, signalnih znakova i signalnih oznaka u željezničkom prometu koji može imati značenje zapovijedi ili upozorenja.
+– sigurnosna razina (safety integrity level – SIL): u skladu s definicijom 3.1.51 norme HRN EN 50129.
+– smetnja: nepravilno stanje na dijelu SS uređaja kod kojeg nije ugrožena sigurnost željezničkog prometa.
+– telekomunikacijski pult: vrsta telekomunikacijskog uređaja, koji je instaliran u službenom mjestu i omogućuje sve vrste govorne komunikacije.
+– željeznička elektronička komunikacijska mreža (ŽEKM): funkcionalna cjelina, sastavljena od elektroničkih komunikacijskih sustava i elektroničkih komunikacijskih uređaja, koja služi za potrebe pružanja telekomunikacijskih usluga kako bi se osiguralo sigurno i neometano odvijanje željezničkog prometa na prugama u Republici Hrvatskoj. Uz primjenu propisanih procedura ŽEKM omogućuje prijenos informacija i podataka za potrebe upravljanja prometom i održavanje infrastrukture, prijenos podataka do radnika i operativnih službi koje su uključene u upravljanje prometom i održavanje infrastrukture, prijenos podataka kako bi se zadovoljile potrebe poslovnih komunikacija, prijenos informacija daljinskog nadzora i upravljanja prometom i upravljanje elektroenergetskim podsustavom, prijenos podataka drugim korisnicima, te druge usluge.
+– željeznički elektronički komunikacijski sustav: dio željezničke elektroničke komunikacijske mreže, koji predstavlja funkcionalnu cjelinu.
+(2) Skraćenice uporabljene u ovom Pravilniku imaju sljedeće značenje:
+APB – automatski pružni blok
+APV – automatske prolazne vožnje
+AS – autostop uređaj
+ASZ – Agencija za sigurnost željezničkog prometa
+CSZS – cestovna svjetlosno-zvučna signalizacija
+DMI – Driver Machine Interface: sučelje strojovođa – stroj
+EKU – elektronički komunikacijski uređaj
+EKS – elektronički komunikacijska sustav
+GSM-R – Globalni sustav pokretnih komunikacija za željeznički promet
+KM – kontaktna mreža
+LEU – Lineside Electronic Unit-pružna elektronička jedinica koja signalne pojmove pretvara u telegrame podataka
+MMI – Man-Machine Interface: sučelje čovjek stroj
+MO – međukolodvorska ovisnost
+PEK – pružni energetski kabel
+PP – pješački prijelaz
+PUSSIP – prometno-upravljački i signalno-sigurnosni infrastrukturni podsustav.
+RAMS – Reliability, Availability, Maintainability, Safety: pouzdanost, dostupnost, sposobnost održavanja, sigurnost
+RBC – Radio blok centar
+SCADA – Supervisory Control And Data Aquisition: sustav za nadzor, upravljanje i obradu podataka
+SMS – Safety Management System: sustav upravljanja sigurnošću
+SSU – signalno-sigurnosni uređaj
+SUP – središnje upravljanje prometom
+TK-pult – telekomunikacijski pult
+TSI – tehničke specifikacije interoperabilnosti
+UIC – Union Internationale des Chemins de fer: međunarodna željeznička unija
+UPS – besprekidno napajanje
+ŽAT – željeznička automatska telefonija
+ŽCP – željezničko cestovni prijelaz
+ŽEKM – željeznička elektronička komunikacijska mreža
+Članak 3.
+PUSSIP se sastoji od:
+– signalno-sigurnosnih uređaja i
+– elektroničkih komunikacijskih uređaja.
+Članak 4.
+Popis obaveznih normi za PUSSIP naveden je u Prilogu 1. ovoga Pravilnika.
+Članak 5.
+(1) Ovaj Pravilnik primjenjuje se pri građenju, modernizaciji, obnovi i održavanju PUSSIP-a.
+(2) U aktivnostima navedenim u stavku 1. ovoga članka moraju se primjenjivati odgovarajuće hrvatske norme navedene u Prilogu 1 ovog Pravilnika. Pri održavanju uređaja moraju se primjenjivati upute proizvođača uređaja te mjere i postupci propisani od upravitelja

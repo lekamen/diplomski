@@ -1,0 +1,22 @@
+ zaliha i preostalog goriva i s punim brojem putnika i posade s njihovom prtljagom.
+.14 Sustav za napuštanje broda – sredstvo za brzi prijenos osoba s palube za ukrcaj u plovila za preživljavanje.
+.15 Teoretska visina boka
+.1 okomita udaljenost između gornjeg ruba kobilice i gornjeg ruba sponje palube nadvođa na boku. Na drvenim brodovima i brodovima mješovite gradnje taj razmak se mjeri od donjeg ruba kobiličnog voja. Ako dno broda u presjeku glavnog rebra ima udubljeni oblik, taj se razmak mjeri od točke presjeka produljenog ravnog dijela dna i bočne površine kobilice;
+.2 na brodovima sa zaobljenim završnim vojem teoretska visina boka mjeri se do točke presjeka teoretske linije palube i linije vanjske oplate, koje treba produljiti kao da završni voj ima kutni oblik;
+.3 ako paluba nadvođa ima stepenicu, a uzdignuti dio palube ide iza točke u kojoj treba mjeriti teoretsku visinu boka, visina boka se mjeri do zamišljene linije koja ide od donjeg dijela palube, paralelno s uzdignutim dijelom.
+.16 Sredstva i uređaji za spašavanje novog tipa – sredstva i uređaji za spašavanje s novim svojstvima, koja nisu obuhvaćena zahtjevima ovog dijela Pravila, ali za koja se predviđa jednaka ili viša razina sigurnosti.
+.17 Pozitivni stabilitet – sposobnost plovila za preživljavanje da se vrati u svoj početni položaj nakon prestanka djelovanja momenta nagibanja.
+.18 Vrijeme vraćanja u početni položaj brodice za prikupljanje – vrijeme potrebno da se brodica podigne do mjesta na kojemu se osobe iz brodice mogu iskrcati na palubu broda. Vrijeme vraćanja u početni položaj brodice uključuje vrijeme koje je potrebno za pripreme dizanja brodice za prikupljanje, uključujući povlačenje i privezivanje vezaljke koja veže brodicu za prikupljanje s uređajem za podizanje, i vrijeme za podizanje brodice za prikupljanje. Vrijeme vraćanja brodice za prikupljanje ne uključuje vrijeme potrebno za spuštanje uređaja na mjesto sa kojeg se podiže brodica za prikupljanje.
+.19 Brodica za prikupljanje – brodica namijenjena spašavanju osoba u pogibelji i sakupljanju splavi za spašavanje.
+.20 Izbavljivanje – sigurno pronalaženje i spašavanje preživjelih.
+.21 Ro-ro putnički brod – putnički brod koji ima ro-ro prostore za teret ili prostore posebne kategorije kako je navedeno u Pravilima, Dio 17. – Protupožarna zaštita, 1.5.
+.22 Kratko međunarodno putovanje – međunarodno putovanje u toku kojeg se brod ne udaljava više od 200 nautičkih milja od luke i mjesta gdje se putnici i posada mogu sigurno skloniti. Udaljenost između posljednje luke pristajanja u zemlji u kojoj je putovanje započelo i posljednje luke odredišta, te duljina puta u povratku ne smije iznositi više od 600 nautičkih milja.
+Posljednja odredišna luka – posljednja luka pristajanja u namjeravanom putovanju, iz koje započinje povratak u zemlju u kojoj je započeto putovanje.
+.23 Plovilo za preživljavanje – plovilo koje može održati živote osoba u pogibelji od vremena napuštanja broda do momenta spašavanja (brodice za spašavanje i splavi za spašavanje).
+.24 Sredstvo za zaštitu od gubitka topline – vreća ili odijelo od nepromočivog materijala s malom provodljivošću topline.
+.25 Konvencija – Međunarodna konvencija o zaštiti ljudskog života na moru 1974., s izmjenama (SOLAS 74).
+.26 Sigurno od broda – sposobnost brodice za spašavanje koja se spušta slobodnim padom da se udalji od broda nakon spuštanja slobodnim padom, bez upotrebe motora.
+.27 Ubrzanje pri slobodnom padu – ubrzanje kojem su izložene osobe na brodici za spašavanje koja se spušta slobodnim padom.
+.28 Odobrena visina slobodnog pada – najveća visina spuštanja za koju je brodica za spašavanje odobrena, mjerena od mirne površine mora do najniže točke na brodici za spašavanje kada je brodica spremna za spuštanje.
+.29 Kut staze za spuštanje – je kut između vodoravne ravnine i staze za spuštanje brodice za spašavanje kad je brodica u položaju za spuštanje a brod na ravnoj kobilici.
+.30 Duljina staze za spuštanje – je udaljenost između krme brodice za spašavanje

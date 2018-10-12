@@ -1,0 +1,25 @@
+koja vrši nadzor trebaju biti dokumentirani.
+(d) Radi očuvanja neovisnosti i vrijednosti nadzora, uvid nadležnih tijela u izvještaj o nadzoru ne treba biti dio redovnog postupka. Nadležna tijela mogu zatražiti pristup izvještaju o nadzoru u pojedinačnim slučajevima kada postoje pokazatelji ozbiljnog odstupanja od dobre kliničke prakse, odnosno tijekom sudskog postupka.
+(e) Tamo gdje to zahtijeva važeći zakon ili propis, naručitelj je dužan dostaviti potvrdu o nadzoru.
+5.20. Nepridržavanje
+5.20.1. U slučaju nepridržavanja Plana ispitivanja, standardnih operativnih postupaka, dobre kliničke prakse i/ili važećih zakonskih propisa od strane ispitivača/ustanove, odnosno naručiteljeva osoblja, naručitelj mora odmah reagirati da osigura sukladnost.
+5.20.2. Ako se u postupku motrenja i/ili nadzora utvrdi ozbiljno i/ili redovito nepridržavanje od strane ispitivača/ustanove, naručitelj treba okončati njegovo sudjelovanje u ispitivanju. Dođe li do prestanka sudjelovanja ispitivača/ustanove zbog nepridržavanja, naručitelj o tome odmah mora obavijestiti nadležna tijela.
+5.21. Prijevremeni prestanak odnosno prekid ispitivanja
+Dođe li do prijevremenoga prestanka, odnosno prekida ispitivanja, naručitelj o tome odmah treba obavijestiti ispitivača/ustanovu i nadležna tijela te navesti razloge za njegov prestanak, odnosno prekid. Također je potrebno odmah obavijestiti Povjerenstvo i navesti razloge za prestanak, odnosno prekid ispitivanja od strane naručitelja ili ispitivača/ustanove, sukladno važećim zakonskim propisima.
+5.22. Izvještavanje o kliničkom ispitivanju/studiji
+Bez obzira je li ispitivanje privedeno kraju ili prijevremeno okončan, naručitelj se treba pobrinuti da se izvještaji o kliničkom ispitivanju pripremaju i dostavljaju nadležnim tijelima sukladno važećim zakonskim propisima. Naručitelj se također treba pobrinuti da izvještaji o kliničkom ispitivanju koji su sastavni dio zahtjeva za stavljanje lijeka u promet zadovolje ICH-ove Smjernice za sastavljanje i sadržaj izvještaja o kliničkom ispitivanju. (NAPOMENA: ICH-ove Smjernice za sastavljanje i sadržaj izvještaja o kliničkom ispitivanju u nekim slučajevima dopuštaju skraćene izvještaje o tijeku kliničkoga ispitivanja).
+5.23. Multicentrična ispitivanja
+Kada se radi o multicentričnim ispitivanjima, naručitelj se treba pobrinuti da:
+5.23.1. svi ispitivači provode ispitivanje strogo se pridržavajući Plana ispitivanja kojeg je odobrio naručitelj, Povjerenstvo i, gdje je tako propisano, nadležna tijela.
+5.23.2. su test-liste napravljene tako da sadržavaju potrebne podatke iz svih mjesta na kojima se provodi multicentrično ispitivanje. Također su ispitivačima koji skupljaju dodatne podatke dostavljene dopunske test-liste kojima je namjena bilježenje dodatnih podataka.
+5.23.3. su prije početka ispitivanja dokumentirane nadležnosti koordinatora i ispitivača.
+5.23.4. su svi ispitivači dobili Upute o pridržavanju Plana kliničkog ispitivanja, o pridržavanju jedinstvenih normi za ocjenu kliničkih i laboratorijskih rezultata te o popunjavanju test-lista.
+5.23.5. je pojednostavljena komunikacija između ispitivača.
+6. PLAN KLINIČKOGA ISPITIVANJA I NJEGOVE IZMJENE I DODACI
+Plan kliničkog ispitivanja obično obuhvaća niže navedene sadržaje. Ipak, on na posebnim stranicama može sadržavati i podatke vezane uz mjesto ispitivanja, odnosno može se pozivati na poseban sporazum, a neki od niže navedenih podataka mogu se nalaziti u drugim dokumentima na koje se Plan ispitivanja poziva, kao što su Upute za ispitivača.
+6.1. Opći podaci
+6.1.1. Naziv, broj i datum Plana ispitivanja. Izmjene i dodaci Plana ispitivanja također trebaju imati broj i datum.
+6.1.2. Naziv i adresa naručitelja ispitivanja i motritelja (ako su drugačiji od naručiteljevih).
+6.1.3. Ime i titulu osobe ovlaštene da u ime naručitelja potpiše Plan ispitivanja i njegove izmjene i dodatke.
+6.1.4. Ime, titulu, adresu i telefonski broj naručiteljeva stručnog savjetnika (doktora medicine ili doktora dentalne medicine za ispitivanje.
+6.1.5. Ime i 

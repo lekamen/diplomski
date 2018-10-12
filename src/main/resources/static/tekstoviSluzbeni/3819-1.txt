@@ -1,0 +1,36 @@
+ Ujednačavanje opterećenosti iz stavka 5. i 7. ovog članka provest će administrator središnjeg sustava eSpis na zahtjev administratora sustava eSpis u sudu.
+(9) Pisane naredbe predsjednika suda iz stavaka 1., 2., 5., 6. i 7. ovog članka ulažu se u za to posebno osnovani predmet sudske uprave.«.
+Članak 6.
+U članku 57. stavku 7. iza prve rečenice dodaje se druga rečenica koja glasi:
+»U slučaju da je opravdano očekivati neprekidno izbivanje rješavatelja godinu dana ili dulje predsjednik suda može pisanom obrazloženom naredbom u odnosu na tog rješavatelja odrediti gašenje automatske dodjele dva mjeseca prije očekivanog početka izbivanja.«.
+Članak 7.
+U članku 80. iza točke 28. dodaje se točka 29. koja glasi:
+»29. S13.1. – Izvješće o KPI po sudovima i rješavateljima (samo za županijske sudove).«.
+Članak 8.
+U članku 82. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Ako ima primjedbu na izvješće iz stavka 2. točke 16. ovog članka, predsjednik suda odnosno sudac preko administratora sustava eSpis u sudu do 31. siječnja tekuće godine za prethodnu godinu može dostaviti primjedbe ustrojstvenoj jedinici ministarstva nadležnog za poslove pravosuđa čiji djelokrug rada obuhvaća poslove razvoja i održavanja sustava eSpis putem elektroničke pošte na adresu: »espis@pravosudje.hr.«.
+Članak 9.
+(1) Iznad članka 137.f dodaje se naslov koji glasi:
+»3. Postupak u predmetima stečaja potrošača«.
+(2) Članak 137.f mijenja se i glasi:
+»(1) Rješavatelj predmeta pokreće algoritam za dodjelu postupka povjereniku.
+(2) Dodjela postupaka u rad povjereniku obavlja se primjenom algoritma za dodjelu postupaka osobi upisanoj na listu povjerenika nadležnog općinskog suda.«.
+Članak 10.
+Članak 137.g mijenja se i glasi:
+»(1) Rješavatelj može odrediti ponovljenu automatsku dodjelu postupka samo u slučaju ako izabrani povjerenik ne može biti imenovan.
+(2) U slučaju iz stavka 1. ovoga članka rješavatelj u sustavu eSpis briše aktivnu ulogu izabranog povjerenika prije ponovljene automatske dodjele.«.
+Članak 11.
+Iza članka 137.g dodaje se članak 137.h koji glasi:
+»Članak 137.h
+(1) Rješavatelj je obvezan u sustav eSpis bez odgode upisati datum:
+1. imenovanja povjerenika
+2. razrješenja povjerenika
+3. prestanka aktivne uloge povjerenika.
+(2) Datum izbora povjerenika generira se automatski u trenutku pokretanja algoritma za dodjelu postupka povjereniku.
+(3) Prestankom aktivne uloge povjerenika u sustavu eSpis smatra se trenutak zaključenja postupka stečaja potrošača, a ako je određeno razdoblje provjere ponašanja trenutak pravomoćnosti rješenja o oslobođenju ili uskrati oslobođenja od preostalih obaveza.«.
+Članak 12.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/35
+Urbroj: 514-03-02-02-02-16-22
+Zagreb, 29. travnja 2016.
+Ministar Ante Šprlje, v. r.

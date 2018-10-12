@@ -1,0 +1,34 @@
+ Hrvatske u statusnoj promjeni s UCITS fondom iz druge države članice nastupa kao fond prenositelj, Agencija će izdati odobrenje na pripajanje ili spajanje ako su ispunjeni sljedeći uvjeti:
+a) pripajanje ili spajanje ispunjava sve uvjete iz dijela jedanaestoga glave 2. poglavlja 1. ovoga Zakona
+b) UCITS fond iz druge države članice koji nastupa kao fond preuzimatelj ovlašten je trgovati udjelima u Republici Hrvatskoj i drugim državama članicama u kojima je fond prenositelj iz Republike Hrvatske ovlašten trgovati u skladu s odredbama dijela šestoga glave 1. poglavlja 3. ovoga Zakona i
+c) Agencija i nadležno tijelo matične države članice fonda preuzimatelja smatraju prikladnima informacije o statusnoj promjeni koje će se dostaviti imateljima udjela.
+(6) Agencija će o odluci iz stavka 5. ovoga članka obavijestiti nadležno tijelo matične države članice UCITS fonda koji u statusnoj promjeni nastupa kao fond preuzimatelj.
+Važne informacije o statusnoj promjeni
+Članak 290.
+(1) Agencija će potpuni zahtjev za izdavanje odobrenja za statusnu promjenu, podnesen u skladu s odredbama članka 268. ovoga Zakona, bez odgode proslijediti nadležnom tijelu matične države članice fonda preuzimatelja.
+(2) Ako nadležno tijelo matične države članice fonda preuzimatelja, u roku od 15 radnih dana od zaprimanja potpunog zahtjeva iz stavka 1. ovoga članka, obavijesti Agenciju da je zatražilo društvo za upravljanje fondom preuzimateljem izmjenu ili dopunu informacija o statusnoj promjeni koje će se dostaviti ulagateljima fonda preuzimatelja, Agencija može odlučiti o izdavanju odobrenja za statusnu promjenu fondu prenositelju nakon što ju nadležno tijelo matične države članice fonda preuzimatelja obavijesti jesu li izmjene ili dopune informacija prikladne.
+(3) Ako nadležno tijelo matične države članice fonda preuzimatelja Agenciju obavijesti da izmjene ili dopune informacija nisu prikladne, Agencija će odbiti zahtjev za izdavanje odobrenja za statusnu promjenu.
+(4) Ako nadležno tijelo matične države članice fonda preuzimatelja, u roku od 15 radnih dana od zaprimanja potpunog zahtjeva iz stavka 1. ovoga članka, ne dostavi Agenciji obavijest da je zatražilo društvo za upravljanje fondom preuzimateljem izmjenu ili dopunu informacija o statusnoj promjeni koje će se dostaviti imateljima udjela u fondu preuzimatelju, smatra se da su te informacije o statusnoj promjeni prikladne.
+Statusne promjene u kojima sudjeluje više fondova prenositelja
+Članak 291.
+Ako u statusnoj promjeni sudjeluje više fondova prenositelja, na svaki od njih zasebno se primjenjuju odredbe poglavlja 2. ovoga dijela Zakona.
+DIO DVANAESTI GLAVNI I NAPAJAJUĆI UCITS FOND
+(MASTER-FEEDER STRUKTURE)
+POGLAVLJE I.
+Primjena izraza društvo za upravljanje
+Članak 292.
+Odredbe ovoga dijela Zakona koje se odnose na društvo za upravljanje primjenjuju se i na društvo za upravljanje iz druge države članice koje namjerava upravljati glavnim ili napajajućim UCITS fondom osnovanim u Republici Hrvatskoj, osim ako je u ovom dijelu Zakona određeno drugačije.
+Određenje glavnog i napajajućeg UCITS fonda
+Članak 293.
+(1) Glavni UCITS fond (master) je UCITS fond koji:
+1. među ulagateljima ima barem jedan napajajući UCITS fond
+2. nije sam napajajući UCITS fond i
+3. ne ulaže imovinu u udjele napajajućeg UCITS fonda.
+(2) Napajajući UCITS fond (feeder) je UCITS fond koji, iznimno od odredaba članka 3. stavka 1. točke 2. podtočke a), članka 252., članka 254., članka 257. i članka 258. stavka 1. točke d) ovoga Zakona, najmanje 85% svoje imovine ulaže u udjele glavnog UCITS fonda.
+POGLAVLJE II.
+Odobrenje za osnivanje i upravljanje napajajućim UCITS fondom
+Članak 294.
+(1) Za osnivanje i upravljanje napajajućim UCITS fondom društvo za upravljanje mora dobiti odobrenje Agencije.
+(2) Napajajući UCITS fond nastaje osnivanjem novog UCITS fonda u obliku napajajućeg UCITS fonda ili preoblikovanjem postojećeg UCITS fonda u napajajući UCITS fond.
+Zahtjev za izdavanje odobrenja za osnivanje i upravljanje napajajućim UCITS fondom
+Članak

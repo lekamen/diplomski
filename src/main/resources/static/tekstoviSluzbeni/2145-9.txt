@@ -1,0 +1,21 @@
+ isplatu predujma tražiti predujam za ulaganje i to do 50 % odobrenih sredstava javne potpore. Uvjet za isplatu predujma jest bankarska ili druga jednako vrijedna garancija plativa »na prvi poziv« i »bez prigovora« u stopostotnoj vrijednosti iznosa predujma. Bankarska garancija mora vrijediti od trenutka podnošenja Zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje Zahtjeva za isplatu.
+(7) Način podnošenja Zahtjeva za isplatu pojašnjen je u Vodiču za korisnike koji se nalazi na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+Postupak obrade
+Članak 26.
+(1) Korisnik je dužan dostaviti Izvještaj o napretku svakih šest mjeseci za operaciju 3.2.1, a za operaciju 3.1.1. svakih 12 mjeseci, računajući od dana izdavanja Odluke o dodjeli sredstava.
+(2) Prilikom popunjavanja Zahtjeva za isplatu/Zahtjeva za isplatu predujma korisnici su obvezni učitati u AGRONET svu dokumentaciju propisanu Natječajem. Dokumentacija koju je obvezno dostaviti i u izvorniku, propisuje se Natječajem.
+(3) Nakon popunjavanja elektronskog Zahtjeva za isplatu/Zahtjeva za isplatu predujma u AGRONET-u, korisnik je dužan osobno ili preporučenom pošiljkom s povratnicom dostaviti potpisanu i potvrđenu štambiljem korisnika Potvrdu o podnošenju Zahtjeva za isplatu/Zahtjeva za isplatu predujma, zajedno s propisanom dokumentacijom u izvorniku u papirnatom obliku na adresu Agencije za plaćanja.
+(4) Zahtjev za isplatu podrazumijeva potvrdu o podnošenju Zahtjeva za isplatu/Zahtjeva za isplatu predujma te svu dokumentaciju propisanu Natječajem, pri čemu se vrijeme podnošenja Zahtjeva za isplatu/Zahtjeva za isplatu predujma smatra datum i sat slanja dokumentacije u slučaju slanja preporučenom pošiljkom s povratnicom ili datum i sat zaprimanja u Agenciju za plaćanja ukoliko se dostavlja osobno.
+Isplata javne potpore
+Članak 27.
+(1) Zahtjev za isplatu treba sadržavati sve plaćene račune sukladno Listi prihvatljivih troškova.
+(2) Korisniku se ne može isplatiti javna potpora u iznosu višem od iznosa navedenoga u Odluci o dodjeli sredstava.
+(3) Ako korisnik u Zahtjevu za isplatu navede iznos koji je viši od prihvatljivog iznosa javne potpore Agencija za plaćanja može umanjiti iznos za isplatu.
+(4) Za nepotpun Zahtjev za isplatu Agencija za plaćanja će izdati Zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom ili osobno u Agenciju za plaćanja u roku od pet radnih dana od dana zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak. Ukoliko tražena dokumentacija ne bude poslana u zadanom roku smatrat će se da je korisnik odustao od javne potpore.
+(5) Vremenom zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak smatra se datum kada korisnik zaprimi preporučenu pošiljku.
+(6) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja Zahtjeva za isplatu obračunat će se:
+a) protuvrijednost u kunama po tečaju Europske komisije ECB u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest (6) decimala (navedeni tečaj se može dobiti na http://ec.europa.eu/budget/inforeuro/) ili
+b) u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest (6) decimala, obračun javne potpore temeljit će se na ostvarenom tečaju.
+(7) Ukoliko korisnik nije preuzeo Zahtjev za dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke biti će ponovljena još jednom. Ukoliko korisnik ne preuzme Zahtjev za dopunu/obrazloženje/ispravak niti nakon ponovljene dostave, Zahtjev za dopunu/obrazloženje/ispravak će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja Zahtjeva za dopunu/obrazloženje/ispravak na oglasnu ploču.
+(8) Ukoliko korisnik ne dostavi Zahtjev za isplatu u propisanom roku izdat će mu se Izjava o poništenju obveze.
+(9) Ukoliko korisnik dostavi Zahtjev

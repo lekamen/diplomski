@@ -1,0 +1,35 @@
+članka podnosi se nakon što je prethodni razgovor obavljen.
+(3) Zahtjev može sadržavati više pitanja, ali se sva moraju odnositi na ista konkretna područja primjene iz članka 2. ovog Pravilnika.
+(4) Zahtjev se podnosi putem nadležne ispostave Porezne uprave ili Ureda za velike porezne obveznike.
+(5) Podnositelj zahtjeva obvezan je do podnošenja zahtjeva izvršiti uplatu troškova izdavanja obvezujućeg mišljenja.
+3. Sadržaj zahtjeva
+Članak 7.
+Zahtjev iz članka 3. ovog Pravilnika osobito sadržava:
+1. ime i prezime/naziv podnositelja zahtjeva, OIB ili porezni broj, broj putovnice ukoliko podnositelju sukladno posebnom zakonu nije dodijeljen OIB, PDV ID broj poreznog obveznika ukoliko ga posjeduje,
+2. podatke o opunomoćeniku ili poreznom savjetniku koji je od strane poreznog obveznika uključen u postupak izdavanja obvezujućeg mišljenja,
+3. detaljan opis planiranih (namjeravanih) poslovnih transakcija kao i poslovne i financijske posljedice transakcije, poslovnog događaja ili aktivnosti,
+4. prijedlog odgovora od strane podnositelja zahtjeva uz pozivanje na relevantne zakonske odredbe,
+5. izjavu podnositelja zahtjeva je li u tom predmetu transakcija, poslovni događaj ili aktivnost već započeta, je li u tijeku postupak odlučivanja povodom pravnih lijekova ili sudski postupak,
+6. isprave odnosno dokumentaciju koja se odnosi na zahtjev za izdavanje obvezujućeg mišljenja ili se na nju podnositelj zahtjeva poziva,
+7. sva obvezujuća mišljenja od nadležnih poreznih tijela drugih država po istom pitanju odnosno je li po istom pitanju postavljen zahtjev za izdavanjem obvezujućeg mišljenja pred poreznim tijelima druge države u odnosu na povezane osobe.
+4. Odustanak od zahtjeva
+Članak 8.
+(1) Podnositelj zahtjeva može, pisanim putem, odustati od zahtjeva iz članka 3. ovog Pravilnika u bilo kojem trenutku prije izdavanja obvezujućeg mišljenja, pri čemu nema pravo na povrat uplaćenih troškova.
+(2) Iznimno od stavka 1. ovog članka, podnositelj zahtjeva ima pravo na povrat uplaćenih troškova, pod uvjetom da Porezna uprava nije započela s radom na izdavanju obvezujućeg mišljenja.
+5. Slučajevi u kojima se ne izdaje obvezujuće mišljenje
+Članak 9.
+(1) Porezna uprava ne donosi obvezujuće mišljenje ako:
+1. se zahtjev podnositelja odnosi na predmet započetog poreznog nadzora, predmet sudskog postupka ili postupka povodom pravnih lijekova,
+2. se zahtjev podnositelja odnosi na općenito ili hipotetsko pitanje,
+3. iz sadržaja zahtjeva podnositelja proizlazi da nema stvarnu namjeru poduzimanja poslovnih aktivnosti koje su predmet zahtjeva,
+4. se radi o predmetu zahtjeva o kojem se odlučuje u okviru prava na informiranje, prema posebnom propisu,
+5. podnositelj zahtjeva nije do dana podnošenja zahtjeva uplatio troškove izdavanja obvezujućeg mišljenja.
+(2) U slučajevima iz stavka 1. ovog članka Porezna uprava će obavijestiti podnositelja zahtjeva o nedonošenju obvezujućeg mišljenja.
+6. Rokovi izdavanja i sadržaj obvezujućeg mišljenja
+Članak 10.
+(1) Porezna uprava, u skladu s člankom 4. ovog Pravilnika, izdaje obvezujuće mišljenje u roku od 60 dana od dana podnošenja potpunog zahtjeva.
+(2) Porezna uprava može, s obzirom na složenost pitanja, produljiti rok iz stavka 1. ovog članka, najdulje slijedećih 30 dana.
+(3) Iznimno, kada Porezna uprava, s obzirom na složenost pitanja, pri izdavanju obvezujućeg mišljenja mora uključiti i druga tijela (institucije), u tuzemstvu ili u inozemstvu, a u svrhu dobivanja podataka ili informacija bitnih za donošenje obvezujućeg mišljenja, obvezujuće mišljenje može se donijeti nakon isteka rokova iz stavaka 1. i 2. ovog članka. Razlozi produljenja obrazložit će se u obvezujućem mišljenju.
+(4) Rok iz stavka 2. može se produljiti u kojem je slučaju Porezna uprava obvezna pisanim putem izvijestiti podnositelja zahtjeva o produljenju roka.
+(5) Obvezujuće mišljenje mora biti kao takvo označeno.
+(6) Obvezujuće mišljenje obavezno sadrži postavljena pitanja, odgovor, činjenice i pravnu analizu predstavljenog slučaja odnosno transakcije,

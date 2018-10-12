@@ -1,0 +1,37 @@
+ država, odnosno trećih teritorija koje se nakon završetka carinskog postupka puštanja robe u slobodan promet odmah unose u porezno skladište pri čemu je plaćanje posebnog poreza odgođeno (popunjava samo ODPS)
+4. KOLIČINE UNESENE IZ DRUGE DRŽAVE ČLANICE
+U polje 4. upisuje se podatak o količinama koje su unesene u porezno skladište (popunjava ODPS) ili o količinama koje unosi trgovac izvan sustava odgode (a koji može biti u isto vrijeme i proizvođač izvan sustava odgode)
+5. KOLIČINE PRIMLJENE U POREZNO SKLADIŠTE IZ DRUGOG POREZNOG SKLADIŠTA UNUTAR RH
+U polje 5. upisuje se podatak o primljenim količinama u porezno skladište u sustavu odgode iz drugog poreznog skladišta u Republici Hrvatskoj (popunjava samo ODPS)
+6. VIŠAK UTVRĐEN POPISOM ZALIHA
+U polje 6. upisuje se podatak o višku koji je utvrđen kod popisa zaliha na prvi dan izvještajnog razdoblja (popunjava samo ODPS)
+7. UKUPNO
+Polje 7. automatski se popunjava
+8. KOLIČINE OTPREMLJENE IZ POREZNOG SKLADIŠTA U DRUGO POREZNO SKLADIŠTE U RH
+U polje 8. upisuje se podatak o otpremljenim količinama u drugo porezno skladište u sustavu odgode u RH (popunjava samo ODPS)
+9. KOLIČINE OTPREMLJENE U DRUGU DRŽAVU ČLANICU (IZNESENE KOLIČINE)
+U polje 9. upisuju se količine koje su otpremljene u drugu državu članicu EU na koje nije nastala obveza obračuna posebnog poreza (popunjava ODPS te proizvođač i trgovac izvan sustava odgode za količine iznesene unutar obračunskog razdoblja članak 6. stavak 3. Zakona)
+10. KOLIČINE OTPREMLJENE U TREĆU DRŽAVU (IZVEZENE KOLIČINE)
+U polje 10. upisuju se količine otpremljene u treću državu na koje nije nastala obveza obračuna posebnog poreza (popunjava ODPS te proizvođač i trgovac izvan sustava odgode za količine izvezene unutar obračunskog razdoblja članak 6. stavak 3. Zakona)
+11. NEOPOREZIVI GUBICI I MANJKOVI
+U polje 11. upisuju se količine neoporezivih gubitaka i manjkova iz čl. 10. st. 3. t. 5. Zakona (popunjava samo ODPS)
+12. KOLIČINE OSLOBOĐENE PLAĆANJA POSEBNOG POREZA
+U polje 12. upisuju se količine koje su oslobođene plaćanja posebnog poreza prema čl. 9. st. 1., čl. 10. st. 3. t. 1., 2., 3. i 4. i st. 5. Zakona (za ODPS), te količine koje su oslobođene plaćanja posebnog poreza prema čl. 10. st. 4. i 5. Zakona (za proizvođača i trgovca izvan sustava odgode)
+13. KOLIČINE UTROŠENE ZA VLASTITU PROIZVODNJU
+U polje 13. upisuje se podatak o količinama BAP-a utrošenim za vlastitu proizvodnju kao repromaterijal (popunjava samo ODPS –proizvođač u sustavu odgode)
+14. UKUPNO NEOPOREZIVE KOLIČINE
+Polje 14. automatski se popunjava
+15. KOLIČINE BAP-a PUŠTENE NA TRŽIŠTE U RH (OPOREZIVE KOLIČINE)
+U polje 15. upisuje se podatak o otpuštenim količinama BAP-a iz sustava odgode i oporezivim gubicima i manjkovima (kod ovlaštenog držatelja poreznog skladišta), te količinama unesenim i/ili proizvedenim izvan sustava odgode (kod trgovca i proizvođača izvan sustava odgode)
+16. STANJE ZALIHA NA KRAJU MJESECA
+Polje 16. automatski se popunjava
+17. KOLIČINE UVEZENE I PUŠTENE U SLOBODNI PROMET U RH
+U polju 17. upisuju se količine koje su uvezene i puštene u slobodni promet u Republici Hrvatskoj i na koje je prilikom uvoza obračunat posebni porez (upisuje ODPS za količine koje je prilikom uvoza pustio u slobodni promet s obračunatim posebnim porezom te trgovac izvan sustava odgode, a koji može biti u isto vrijeme i proizvođač izvan sustava odgode, za količine koje je pustio u slobodni promet)
+18. VISINA POSEBNOG POREZA U KN
+Polje 18. automatski se popunjava (važeća visina posebnog poreza za svaku pojedinu vrstu predmeta oporezivanja)
+19. OBRAČUNATI POSEBNI POREZ PRILIKOM PUŠTANJA NA TRŽIŠTE U RH
+Polje 19. automatski se popunjava
+20. OBRAČUNATI POSEBNI POREZ PRILIKOM PUŠTANJA U SLOBODNI PROMET NA UVEZENE KOLIČINE
+Polje 20. automatski se popunjava
+21. UKUPNO OBRAČUNATI POSEBNI POREZ PRILIKOM PUŠTANJA NA TRŽIŠTE U RH
+Polje 21. automatski se popunjava, to je podatak o iznosu ukupno obračunatog posebnog poreza na količine iskazane u svakom stupcu retka 15. ovoga obrasca, odnosno zbroj

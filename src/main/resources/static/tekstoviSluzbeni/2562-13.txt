@@ -1,0 +1,26 @@
+ Odluke. U tim slučajevima inačica poruke koju je snimila ili ispisala Hrvatska narodna banka ima istu dokaznu snagu kao i izvorna poruka, neovisno o njezinu obliku.
+4. Hrvatska narodna banka čuva cjelokupnu evidenciju naloga za plaćanje podnesenih i plaćanja primljenih od strane sudionika 11 godina od dana kada su ti nalozi za plaćanje podneseni i plaćanja primljena, osim ako posebnim propisima nije određen duži rok.
+5. Vlastite poslovne knjige i evidencije Hrvatske narodne banke (pohranjene na papiru, mikrofilmu, mikrofišu, elektroničkoj ili magnetskoj snimci, u drugom obliku koji je moguće mehanički reproducirati ili bilo kojem drugom obliku) dokazna su sredstva za sve obveze sudionika i za sve činjenice i događaje na koje se stranke pozivaju.
+GLAVA IX. TRAJNO ISKLJUČENJE IZ SUDJELOVANJA I ZATVARANJE RAČUNA
+Članak 33.
+Trajanje sudjelovanja i otkaz
+1. Ne dovodeći u pitanje članak 34. ove Odluke, sudjelovanje u sustavu TARGET2-HR traje neodređeno vrijeme.
+2. Sudionik može otkazati svoje sudjelovanje u sustavu TARGET2-HR u svako doba uz otkazni rok od 14 radnih dana, osim ako s Hrvatskom narodnom bankom ugovori kraći otkazni rok.
+3. Hrvatska narodna banka može otkazati sudjelovanje sudionika u sustavu TARGET2-HR u svako doba uz tromjesečni otkazni rok, osim ako s tim sudionikom ugovori drukčiji otkazni rok.
+4. Nakon otkaza sudjelovanja dužnost čuvanja povjerljivih podataka utvrđena u članku 38. ove Odluke ostaje na snazi za razdoblje od pet godina od dana nastupa otkaza.
+5. Nakon otkaza sudjelovanja PM računi odnosnog sudionika zatvaraju se u skladu s člankom 35. ove Odluke.
+Članak 34.
+Privremeno i trajno isključenje iz sudjelovanja
+1. Imatelj PM računa bit će odmah, bez prethodne obavijesti trajno ili privremeno isključen iz sudjelovanja u sustavu TARGET2-HR ako nastupi jedan od sljedećih slučajeva neispunjavanja obveza:
+(a) otvaranje postupka zbog insolventnosti i/ili
+(b) imatelj PM računa više ne ispunjava mjerila za pristup utvrđena u članku 5. ove Odluke.
+2. Hrvatska narodna banka može bez prethodne obavijesti trajno ili privremeno isključiti imatelja PM računa iz sudjelovanja u sustavu TARGET2-HR ako:
+(a) nastupi jedan ili više slučajeva neispunjavanja obveza (osim onih iz stavka 1. ovog članka),
+(b) imatelj PM računa počini bitnu povredu ove Odluke,
+(c) imatelj PM računa propusti ispuniti bilo koju bitnu obvezu prema Hrvatskoj narodnoj banci,
+(d) imatelj PM računa je isključen ili na drugi način prestane biti članom grupe TARGET2 CUG ili
+(e) nastupi bilo koji događaj vezan uz imatelja PM računa koji bi prema ocjeni Hrvatske narodne banke ugrozio opću stabilnost, solidnost i sigurnost sustava TARGET2-HR ili bilo koje druge komponente sustava TARGET2, ili koji bi ugrozio ispunjavanje zadaća Hrvatske narodne banke utvrđenih Zakonom o Hrvatskoj narodnoj banci i Statutom Europskog sustava središnjih banaka i Europske središnje banke, ili predstavlja rizik s obzirom na načelo opreznosti.
+3. Pri korištenju diskrecijske ocjene prema stavku 2. ovog članka Hrvatska narodna banka uzima u obzir, između ostalog, ozbiljnost slučaja neispunjavanja obveza ili događaja iz točaka od (a) do (c) tog stavka.
+4. (a) U slučaju da Hrvatska narodna banka privremeno ili trajno isključi imatelja PM računa iz sudjelovanja u sustavu TARGET2-HR prema stavcima 1. ili 2. ovog članka, Hrvatska narodna banka odmah obavješćuje tog imatelja PM računa, druge središnje banke i druge imatelje PM računa o tom privremenom ili trajnom isključenju preko ICM poruke.
+(b) U slučaju da je drugi SB obavijestio Hrvatsku narodnu banku o privremenom ili trajnom isključenju imatelja PM računa iz druge komponente sustava TARGET2, Hrvatska narodna banka odmah obavješćuje svoje imatelje PM računa o tom privremenom ili trajnom isključenju preko ICM poruke.
+(c) Uzima se da su imatelji PM računa obaviješteni o trajnom/privremenom isključenju imatelja PM računa iz sudjelovanja u sustavu TARGET2-HR ili drugoj komponenti sustava TARGET2 kad prime ICM poruku o tome. Imatelji PM

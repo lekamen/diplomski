@@ -1,0 +1,24 @@
+ razdjel – konsolidirani izvještaj, 13 – državni proračun, 21 – proračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, 22 – proračun jedinice lokalne i područne (regionalne) samouprave, 23 – konsolidirani proračun jedinice lokalne i područne (regionalne) samouprave, 31 – proračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave koji obavlja poslove u sklopu funkcija koje se decentraliziraju, 41 – izvanproračunski korisnik državnog proračuna, 42 – izvanproračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, razdjel – proračunski i izvanproračunski korisnik državnog proračuna upisuje brojčanu oznaku organizacijske klasifikacije razdjela državnog proračuna koji mu je nadležan, šifra djelatnosti – upisuje se brojčana oznaka razreda djelatnosti iz Obavijesti o razvrstavanju poslovnog subjekta prema NKD-u 2007. Državnog zavoda za statistiku, šifra županije – upisuje se statistička oznaka županije koju prema Pravilniku o registru prostornih jedinica dodjeljuje Državna geodetska uprava, šifra grada/općine – upisuje se statistička oznaka grada/općine koju prema Pravilniku o registru prostornih jedinica dodjeljuje Državna geodetska uprava, oznaka razdoblja – upisuje se godina i mjesec kojim završava razdoblje za koje se obrazac predaje u formatu GGGG-MM.
+(3) Podnožje obrazaca popunjava se na sljedeći način:
+– Mjesto ______ datum________ – upisuje se sjedište proračuna, proračunskog i izvanproračunskog korisnika, datum i godina,
+– osoba za kontaktiranje – upisuje se ime osobe koja je sastavila izvještaj,
+– telefon za kontakt – upisuje se telefonski broj osobe za kontaktiranje,
+– odgovorna osoba – upisuje se ime osobe određene u skladu s člankom 4. stavkom 2. ovoga Pravilnika,
+– M. P. – oznaka za mjesto pečata.
+(4) Podaci koji se odnose na novčane iznose u obrasce se upisuju u kunama bez lipa.
+III. SADRŽAJ I STRUKTURA FINANCIJSKIH IZVJEŠTAJA
+Članak 7.
+(1) Financijski izvještaji državnog proračuna sastoje se od:
+– za proračunsku godinu: Bilance, Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o rashodima prema funkcijskoj klasifikaciji, Izvještaja o promjenama u vrijednosti i obujmu imovine i obveza i Bilješki,
+– za razdoblja od 1. siječnja do 31. ožujka, od 1. siječnja do 30. lipnja i od 1. siječnja do 30. rujna: Izvještaja o prihodima i rashodima, primicima i izdacima i Bilješki.
+(2) Financijski izvještaji proračunskih korisnika državnog proračuna sastoje se od:
+– za proračunsku godinu: Bilance, Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o rashodima prema funkcijskoj klasifikaciji, Izvještaja o promjenama u vrijednosti i obujmu imovine i obveza i Bilješki,
+– za razdoblje od 1. siječnja do 30. lipnja: Izvještaja o prihodima i rashodima, primicima i izdacima i Bilješki,
+– za razdoblja od 1. siječnja do 31. ožujka i od 1. siječnja do 30. rujna Izvještaja o prihodima i rashodima, primicima i izdacima,
+– za mjesečna razdoblja Izvještaja o obvezama.
+(3) Financijski izvještaji izvanproračunskih korisnika državnog proračuna sastoje se od:
+– za proračunsku godinu: Bilance, Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o rashodima prema funkcijskoj klasifikaciji, Izvještaja o promjenama u vrijednosti i obujmu imovine i obveza, Izvještaja o obvezama i Bilješki,
+– za razdoblja od 1. siječnja do 31. ožujka, od 1. siječnja do 30. lipnja i od 1. siječnja do 30. rujna: Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o obvezama i Bilješki.
+(4) Financijski izvještaji proračuna jedinica lokalne i područne (regionalne) samouprave sastoje se od:
+– za proračunsku godinu: Bilance, Izvještaja o prihodima i rashodima, primicima i izdacima, Izvještaja o rashodima prema funkcijskoj klasifikaciji, Izvještaja o promjenama u vrijednosti i obujmu imovine i obveza, Izvještaja o obvezama i Bilješki,
+– za razdoblja od 1. siječnja do 31. ožujka, od 1. siječnja do 30. lipnja i od 1. siječnja do 30.

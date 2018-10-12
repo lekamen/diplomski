@@ -1,0 +1,27 @@
+ razumijevanje financijskih izvještaja.
+9.35. Poduzetnik treba objaviti u bilješkama knjigovodstvene vrijednosti, prihode i rashode priznate u računu dobiti i gubitka ili u kapitalu za svaku od 4 kategorije financijske imovine, i to:
+a) financijska imovina čija se promjena fer vrijednosti priznaje u računu dobiti i gubitka,
+b) ulaganja koja se drže do dospijeća,
+c) zajmovi i potraživanja, ili
+d) financijska imovina raspoloživa za prodaju.
+9.36. Za svu financijsku imovinu koja se mjeri po fer vrijednosti poduzetnik treba objaviti način određivanja fer vrijednosti. Ako se koristi metoda procjene (vrednovanja), poduzetnik mora objaviti značajne pretpostavke koje su primijenjene u procjeni vrijednosti za svaku vrstu financijske imovine.
+9.37. Ako pouzdan podatak o fer vrijednosti više nije raspoloživ za vlasnički instrument koji se mjeri po fer vrijednosti, poduzetnik će objaviti tu činjenicu.
+9.38. Ako se dugoročna financijska imovina iskazuje po iznosu koji je veći od njene fer vrijednosti, poduzetnik mora objaviti:
+a) Knjigovodstvenu vrijednost i fer vrijednost ili pojedinih dijelova imovine ili odgovarajućih skupina tih pojedinih dijelova imovine, i
+b) razloge za nesmanjivanje knjigovodstvene vrijednosti, uključujući prirodu dokaza koji pruža osnovu za vjerovanje da će se knjigovodstvena vrijednost naplatiti u cijelosti.
+9.39. Ako je poduzetnik prenio financijsku imovinu na drugom poduzetniku u transakciji koja ne ispunjava kriterije za prestanak priznavanja, poduzetnik će za svaku vrstu financijske imovine objaviti: podatak o vrsti imovine, prirodu rizika i koristi koji nisu preneseni i knjigovodstvenu vrijednost imovine i povezanih obveza koje poduzetnik nastavlja priznavati.
+9.40. Ako je poduzetnik dao imovinu za osiguranje plaćanja obvezno objavljuje podatke o knjigovodstvenoj vrijednosti financijske imovine koja je dana kao osiguranje plaćanja te podatke o ugovorenim uvjetima vezanim za osiguranje plaćanja.
+9.41. Tablicu koja prikazuje kretanje rezerve fer vrijednosti tijekom izvještajnog razdoblja.
+9.42. Iznos predujmova i odobrenih zajmova članovima administrativnih, upravljačkih i nadzornih tijela s naznakama kamatnih stopa, glavnih uvjeta i svih otplaćenih, otpisanih ili ukinutih iznosa, kao i obveza dogovorenih u njihovu korist preko bilo kakvih jamstava, s naznakom ukupnog iznosa za svaku kategoriju.
+9.43. Za svaku kategoriju izvedenih financijskih instrumenata:
+         a) fer vrijednost instrumenata, ako se takva vrijednost može utvrditi jednom od metoda navedenih u ovom Standardu,
+         b) informacije o visini i prirodi tih instrumenata.
+DATUM STUPANJA NA SNAGU
+9.44. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+9.45. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+10. ZALIHE
+UVOD
+10.1. Cilj ovog standarda je propisati računovodstveni postupak za utvrđivanje, obračunavanje i evidentiranje zaliha. Temeljni zadatak računovodstva zaliha je obuhvatiti sve troškove koji su nastali u formiranju zaliha i koje treba priznati kao imovinu u procesu poslovanja do priznavanja povezanih prihoda. Standard sadrži upute za određivanje troškova i njihovim kasnijim priznavanjem kao rashoda, uključivši bilo koje otpisivanje do neto vrijednosti. Također upućuje na metode utvrđivanje troškova koje se koriste za određivanje vrijednosti zaliha.
+10.2. Ovaj Standard se temelji na Direktivi 2013/34/EU.
+DEFINICIJE
+10.3. Zalihe su

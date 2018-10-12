@@ -1,0 +1,39 @@
+ sustava podnijeti zahtjev za početak korištenja mreže, uz koji je dužan priložiti ugovor o opskrbi krajnjeg kupca i/ili ugovor o otkupu električne energije.
+(8) Korištenje mreže može započeti uz prisustvo korisnika mreže ili njegovog predstavnika.
+(9) Iznimno od stavka 8. ovoga članka, korištenje mreže može započeti i bez prisustva korisnika mreže, uz pisanu suglasnost operatoru sustava za početak korištenja mreže bez prisustva korisnika mreže.
+(10) Zahtjev za početak korištenja mreže iz stavka 7. ovoga članka sadrži:
+– očekivani dan i vrijeme početka korištenja mreže,
+– izjavu o prisustvu korisnika mreže odnosno njegovog predstavnika kod početka korištenja mreže ili suglasnost operatoru sustava za početak korištenja mreže bez prisustva korisnika mreže,
+– kontakt podatke korisnika mreže odnosno njegovog predstavnika.
+(11) Korištenje mreže može započeti tek nakon sklapanja ugovora o korištenju mreže, ugovora o opskrbi krajnjeg kupca i/ili ugovora o otkupu električne energije, pri čemu se korisniku mreže izdaje potvrda o početku korištenja mreže s početnim stanjem brojila, koju potpisuju operator sustava i korisnik mreže odnosno njegov predstavnik.
+(12) Kada korisnik mreže odnosno njegov predstavnik na temelju izjave iz stavka 10. podstavka 2. ovoga članka nije prisutan kod početka korištenja mreže, operator sustava dužan je u roku od 30 dana od dana početka korištenja mreže korisniku mreže dostaviti potvrdu o početku korištenja mreže s početnim stanjem brojila.
+(13) Operator sustava dužan je u roku od osam dana od dana početka korištenja mreže dostaviti korisniku mjernih podataka podatke o početnom stanju brojila.
+Članak 5.
+(1) Ugovor o korištenju mreže sklapa se na neodređeno vrijeme, osim u slučaju iz članka 4. stavka 3. i članka 31. stavka 4. ovih Općih uvjeta kada se sklapa na određeno vrijeme.
+(2) Ugovor o korištenju mreže sadrži:
+– podatke o ugovornim stranama,
+– predmet ugovora,
+– broj elektroenergetske suglasnosti i dan izdavanja,
+– podatke o priključnoj snazi i ostalim elektroenergetskim veličinama obračunskog mjernog mjesta,
+– obvezu dostave podataka planiranih vršnih radnih snaga ili planirane proizvodnje na obračunskom mjernom mjestu, za korisnika mreže na vrlo visokom, visokom te srednjem naponu,
+– uvjete korištenja snage, kod krajnjeg kupca s mjerenjem snage i proizvođača,
+– razinu kvalitete opskrbe električnom energijom,
+– razinu dopuštenog negativnog povratnog utjecaja na mrežu,
+– uvjete pristupa obračunskom mjernom mjestu i uvjete očitanja,
+– uvjete korištenja mreže,
+– način prikupljanja obračunskih podataka,
+– način obračuna naknade za korištenje mreže,
+– uvjete kod kojih je korisnik mreže dužan pristupiti ograničenju potrošnje i/ili isporuke ugovorene električne energije i snage,
+– opis i vrstu poslovnih podataka koji podliježu obvezi osiguranja tajnosti,
+– način informiranja o važećim cijenama, naknadama i davanjima te standardnim rokovima i uvjetima, osobito u pogledu pristupa mreži i korištenja usluga,
+– način izvještavanja i razmjene podataka te način utvrđivanja i obračuna štete u slučaju neizvršenja ili neurednog izvršenja ugovora,
+– uvjete za raskid i otkaz ugovora,
+– ostale međusobne obveze i
+– način rješavanja sporova.
+(3) Ugovor o korištenju mreže može na zahtjev operatora sustava sadržavati i upute za vođenje pogona postrojenja i instalacija korisnika mreže, kojima se uređuju odnosi na sučelju s mrežom.
+(4) Prije sklapanja ugovora o korištenju mreže operator sustava dužan je korisnika mreže upoznati s njegovim pravima i obvezama iz ovih Općih uvjeta.
+(5) Ugovor o korištenju mreže sklapa se za svako obračunsko mjerno mjesto, a može se sklopiti i za više obračunskih mjernih mjesta istog korisnika mreže.
+Članak 6.
+(1) Operator sustava može korisniku mreže na njegov zahtjev omogućiti prijenos ugovora o korištenju mreže trećoj osobi.
+(2) Operator sustava je dužan o prijenosu ugovora iz stavka 1. ovoga članka bez odgađanja obavijestiti opskrbljivača i/ili otkupljivača.
+(3) U slučaju prijenosa ugovora iz

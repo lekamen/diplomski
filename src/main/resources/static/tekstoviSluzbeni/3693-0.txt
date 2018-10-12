@@ -1,0 +1,30 @@
+39 28.04.2016 Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drugih izvještaja UCITS fonda
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+1042
+Na temelju članka 198. stavka 3. i članka 199. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 16/13 i 143/14) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« broj 78/15 i 134/15), Hrvatska agencija za nadzor financijskih usluga uz prethodnu suglasnost ministra financija (klasa: 401-01/16-01/19, urbroj: 513-06-03-16-4 od 21. travnja 2016.) i Odbora za standarde financijskog izvještavanja (Odluka od 31. ožujka 2016.) u djelu koji se odnosi na propisanu strukturu i sadržaj godišnjih financijskih izvještaja, na sjednici Upravnog vijeća održanoj 21. travnja 2016. godine donosi
+PRAVILNIK
+O STRUKTURI I SADRŽAJU GODIŠNJIH I POLUGODIŠNJIH IZVJEŠTAJA I DRUGIH IZVJEŠTAJA UCITS FONDA
+UVODNE ODREDBE
+Članak 1.
+Ovaj Pravilnik uređuje vođenje računovodstva, sadržaj, oblik, objavu, način i rokove izrade i dostave godišnjih i polugodišnjih izvještaja kojima društvo za upravljanje izvještava Hrvatsku agenciju za nadzor financijskih usluga (dalje: Agencija) i druge vanjske korisnike o financijskom položaju, uspješnosti poslovanja i novčanim tokovima UCITS fonda kojima upravlja, kao i druge izvještaje koji se sastavljaju za potrebe nadzora.
+VOĐENJE POSLOVNIH KNJIGA I PRIPREMA GODIŠNJIH I POLUGODIŠNJIH IZVJEŠTAJA
+Članak 2.
+(1) Društvo za upravljanje dužno je za UCITS fond voditi poslovne knjige, sastavljati i objavljivati godišnje i polugodišnje izvještaje sukladno Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 16/13 i 143/14; dalje: Zakon), propisima koji uređuju računovodstvo i Međunarodnim standardima financijskog izvještavanja.
+(2) Društvo za upravljanje dužno je poslovne događaje evidentirati u poslovnim knjigama UCITS fonda koristeći konta najmanje u opsegu koji je jednak kontnom planu propisanom u Prilogu 1 ovog Pravilnika.
+SADRŽAJ I OBLIK GODIŠNJIH I POLUGODIŠNJIH IZVJEŠTAJA
+Članak 3.
+(1) Godišnji i polugodišnji izvještaji UCITS fonda su:
+– Izvještaj o financijskom položaju,
+– Izvještaj o sveobuhvatnoj dobiti,
+– Izvještaj o novčanim tokovima,
+– Izvještaj o promjenama u neto imovini UCITS fonda,
+– Izvještaj o posebnim pokazateljima UCITS fonda,
+– Izvještaj o vrednovanju imovine i obveza UCITS fonda te
+– Bilješke uz financijske izvještaje.
+(2) Društvo za upravljanje dužno je za UCITS fond kojim upravlja sastaviti godišnje izvještaje za razdoblje poslovne godine i polugodišnje izvještaje za prvih šest mjeseci poslovne godine.
+(3) Bilješke uz financijske izvještaje koji su sastavni dio polugodišnjih izvještaja UCITS fonda iz stavka 1. alineje 7. ovoga članka trebaju obuhvaćati samo značajne poslovne događaje i promjene računovodstvenih politika u odnosu na zadnje objavljene godišnje izvještaje UCITS fonda.
+(4) Godišnji izvještaji iz stavka 1. ovoga članka moraju biti revidirani od strane neovisnog vanjskog ovlaštenog revizora, a sastavljeni sukladno strukturi i sadržaju koji su definirani na obrascima iz Priloga 2 ovog Pravilnika.
+(5) Društvo za upravljanje koje upravlja napajajućim UCITS fondom, dužno je u bilješkama uz polugodišnje i godišnje financijske izvještaje napajajućeg UCITS fonda objaviti i informacije iz članka 303. Zakona.
+(6) Revidirani godišnji izvještaji, za slučaj pogrešnog izračuna cijene udjela UCITS fonda i za slučaj povrede ograničenja ulaganja u smislu članka 250. stavka 5. Zakona, moraju sadržavati postupke naknade štete iz članka 99. stavka 5. Zakona.
+(7) Društvo za upravljanje prilikom sastavljanja Izvještaja o novčanim tokovima iz stavka 1. alineje 3. ovoga članka za UCITS fond može koristiti ili direktnu ili indirektnu metodu.
+(8) Pokazatelj ukupnih troškova, koji se iskazuje u Izvještaju o posebnim pokazateljima UCITS fonda, računa se na način da se zbroj ukupnih troškova iz članka 244. stavka 2. i članka 245. stavka 2. Zakona, osim troškova iz točaka 2., 6. i

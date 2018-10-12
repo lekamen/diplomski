@@ -1,0 +1,35 @@
+ najmanje 15 dana od dana izdavanja računa.
+(2) Krajnji kupac može operatoru sustava podnijeti prigovor na račun iz stavka 1. ovoga članka u roku od 15 dana od dana izdavanja računa.
+Članak 94.
+(1) U slučaju neovlaštene potrošnje električne energije iz članka 83. ovih Općih uvjeta, krajnji kupac je na zahtjev operatora sustava dužan omogućiti premještanje obračunskog mjernog mjesta ili zamjenu oštećene mjerne opreme te ostalih komponenata priključka i obračunskog mjernog mjesta.
+(2) Troškove iz stavka 1. ovoga članka snosi krajnji kupac.
+XV. UVJETI ZA PRIMJENU POSTUPKA OGRANIČENJA ILI PRIVREMENE OBUSTAVE ISPORUKE ELEKTRIČNE ENERGIJE
+Članak 95.
+(1) Operator sustava može nakon prethodne obavijesti, kao krajnju mjeru, privremeno obustaviti isporuku električne energije krajnjem kupcu ako:
+– krajnji kupac nije postupio u skladu s odredbom članka 23. stavka 4. ovih Općih uvjeta,
+– krajnji kupac nije otklonio neispravnost na unutrašnjem dijelu priključka u roku iz članka 24. stavka 3. ovih Općih uvjeta,
+– krajnji kupac omogućuje korištenje električne energije drugoj pravnoj ili fizičkoj osobi protivno odredbama članka 26. ovih Općih uvjeta,
+– krajnji kupac ni nakon opomene iz članka 72. ovih Općih uvjeta nije podmirio dospjele novčane obveze operatoru sustava,
+– krajnji kupac nije pristao na uvjete plaćanja iz članka 73. ovih Općih uvjeta,
+– krajnji kupac nije omogućio operatoru sustava provođenje postupka utvrđivanja neovlaštene potrošnje električne energije iz članka 83. ovih Općih uvjeta,
+– je krajnji kupac dao lažne ili nepotpune podatke koji onemogućavaju uredno ispunjenje ugovornih obveza,
+– rad postrojenja i instalacija krajnjeg kupca nije u skladu s odredbama mrežnih pravila operatora sustava, elektroenergetske suglasnosti ili ugovora o korištenju mreže,
+– krajnji kupac onemogućava pristup priključku, obračunskom mjernom mjestu i mjernoj opremi,
+– krajnji kupac kojem je utvrđena neovlaštena potrošnja iz članka 83. podstavka 4. ovih Općih uvjeta u roku od godine dana od dana utvrđivanja neovlaštene potrošnje ponovno utječe na ograničavalo strujnog opterećenja koje je bilo plombirano ili na glavne osigurače koji su bili plombirani omogućujući time korištenje snage veće od priključne snage i
+– krajnji kupac priključi svoje proizvodno postrojenje ili vlastiti izvor napajanja na svoja postrojenja i instalacije bez odobrenja operatora sustava.
+(2) Privremena obustava isporuke električne energije može se nakon prethodne obavijesti, kao krajnja mjera, provesti i na zahtjev opskrbljivača ako krajnji kupac:
+– ni nakon opomene iz članka 72. ovih Općih uvjeta nije podmirio dospjele novčane obveze opskrbljivaču,
+– nije pristao na uvjete plaćanja iz članka 73. ovih Općih uvjeta,
+– ne troši električnu energiju u skladu s ugovorom o opskrbi krajnjeg kupca.
+Članak 96.
+Operator sustava može nakon prethodne obavijesti, kao krajnju mjeru, privremeno obustaviti isporuku proizvedene električne energije u mrežu proizvođaču, ako:
+– proizvođač nema važeći ugovor o korištenju mreže,
+– proizvođač nema važeći ugovor o otkupu električne energije,
+– proizvođač nije postupio u skladu s odredbom članka 23. stavka 4. ovih Općih uvjeta,
+– proizvođač nije otklonio utvrđenu neispravnost na unutrašnjem dijelu priključka u roku iz članka 24. stavka 3. ovih Općih uvjeta,
+– proizvođač proizvedenu električnu energiju isporučuje u mrežu na način koji nije u skladu s ugovorom o korištenju mreže,
+– rad postrojenja i instalacija proizvođača nije u skladu s odredbama mrežnih pravila operatora sustava, elektroenergetske suglasnosti ili ugovora o korištenju mreže,
+– proizvođač omogućuje korištenje električne energije drugoj pravnoj ili fizičkoj osobi, protivno članku 26. ovih Općih uvjeta,
+– proizvođač onemogućava pristup priključku, obračunskom mjernom mjestu i mjernoj opremi.
+Članak 97.
+Za krajnjeg kupca s vlastitom proizvodnjom u okviru jedne građevinske lokacije jednog vlasnika primjenjuju se odredbe članka 95. ovih Općih uvjeta na mjestu preuzimanja električne

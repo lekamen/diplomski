@@ -1,0 +1,20 @@
+ sve razumne mjere kako bi se izbjegli sukobi interesa, a kada ih nije moguće izbjeći, dužno je poduzeti sve razumne mjere za prepoznavanje, upravljanje, praćenje i, kada je to potrebno, objavljivanje sukoba interesa te uspostaviti odgovarajuće kriterije za utvrđivanje vrste sukoba interesa čije bi postojanje moglo naštetiti interesima UCITS fonda, ulagatelja i/ili klijenata.
+(4) Društvo za upravljanje dužno je, uzimajući u obzir vrstu, opseg i složenost poslovanja, uspostaviti, provoditi te redovito ažurirati i nadzirati učinkovite politike upravljanja sukobima interesa.
+Članak 50.
+(1) Društvo za upravljanje koje obavlja djelatnost upravljanja portfeljem iz članka 13. stavka 1. točke 2. podtočke a) ovoga Zakona ne smije ulagati dio ili cijelu imovinu portfelja kojima upravlja u udjele UCITS fondova ili AIF-ova kojima upravlja, bez prethodnog odobrenja klijenta.
+(2) Društvo za upravljanje koje obavlja djelatnost upravljanja portfeljem iz članka 13. stavka 1. točke 2. podtočke a) ovoga Zakona dužno je poduzeti razumne mjere za prepoznavanje, upravljanje, praćenje, sprječavanje ili objavljivanje sukoba interesa klijentima, kao i utvrditi odgovarajuće kriterije za određivanje tipova sukoba interesa čije postojanje može biti štetno za interese klijenata i UCITS fondova kojima društvo upravlja.
+(3) Društvo za upravljanje koje obavlja djelatnost upravljanja dobrovoljnim mirovinskim fondovima iz članka 13. stavka 1. točke 1. podtočke c) ovoga Zakona ne smije ulagati dio ili cijelu imovinu dobrovoljnog mirovinskog fonda kojim upravlja u udjele UCITS fondova ili AIF-ova kojima upravlja.
+(4) Društvo za upravljanje koje obavlja djelatnost upravljanja alternativnim investicijskim fondom iz članka 13. stavka 1. točke 1. podtočke b) ovoga Zakona ne smije ulagati dio ili cijelu imovinu alternativnog investicijskog fonda kojim upravlja u udjele UCITS fondova kojima upravlja, ako to nije predviđeno pravilima fonda.
+(5) Društvo za upravljanje koje obavlja djelatnost upravljanja portfeljem iz članka 13. stavka 1. točke 2. podtočke a) ovoga Zakona dužno je poštovati odredbe o sustavu za zaštitu ulagatelja iz zakona koji uređuje tržište kapitala.
+Mehanizmi unutarnjih kontrola
+Kontrola od strane viših rukovoditelja i nadzorne funkcije
+Članak 51.
+(1) Društvo za upravljanje dužno je prilikom internog raspoređivanja funkcija definirati odgovornosti viših rukovoditelja i osoba koje obavljaju nadzornu funkciju u skladu s odredbama ovoga Zakona i propisima donesenim na temelju ovoga Zakona.
+(2) Društvo za upravljanje dužno je osigurati da viši rukovoditelji i osobe iz stavka 1. ovoga članka:
+1. odgovaraju za provođenje strategija ulaganja za svaki UCITS fond kojim društvo upravlja, na način kako je navedeno u prospektu i, kada je to primjenjivo, pravilima fonda
+2. nadziru odobravanje strategija ulaganja za svaki UCITS fond kojim društvo upravlja
+3. odgovaraju za uspostavljanje trajne i učinkovite funkcije praćenja usklađenosti s relevantnim propisima, čak i kad je ta funkcija delegirana na treću osobu
+4. prate i periodično potvrđuju da se strategija ulaganja i ograničenja izloženosti rizicima za svaki UCITS fond kojim društvo upravlja, pravilno i učinkovito provode i poštuju, čak i kada je funkcija upravljanja rizicima delegirana na treću osobu
+5. odobravaju i periodično ocjenjuju primjerenost internih procedura za donošenje investicijskih odluka za svaki UCITS fond kojim društvo upravlja, na način da se osigura da su te odluke u skladu s odobrenim strategijama ulaganja i
+6. odobravaju i periodično ocjenjuju politike, procedure i mjere upravljanja rizicima, postupke i tehnike za primjenu politika upravljanja rizicima uključujući sustav ograničenja izloženosti rizicima za svaki UCITS fond kojim društvo upravlja.
+(3) Osobe iz stavka 1. ovoga članka dužne su pratiti i periodično ocjenjivati učinkovitost politika, mjera i postupaka propisanih u svrhu praćenja usklađenosti poslovanja društva za upravljanje s relevantnim propisima te poduzimati odgovarajuće

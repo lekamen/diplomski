@@ -1,0 +1,34 @@
+42 04.05.2016 Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga
+HRVATSKA REGULATORNE AGENCIJE ZA MREŽNE DJELATNOSTI
+1101
+Na temelju članka 12. stavka 1. točka 1. i članka 34. Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 26. travnja 2016. donosi
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I UVJETIMA OBAVLJANJA DJELATNOSTI ELEKTRONIČKIH KOMUNIKACIJSKIH MREŽA I USLUGA
+Članak 1.
+U Pravilniku o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga (»Narodne novine« broj 154/11, 149/13, 82/14 i 24/15) u članku 7. dodaje se novi stavak 9. koji glasi: »(9) Operatori javnih komunikacijskih usluga su obvezni na internetskim stranicama na kojima nude svoje usluge jasno upućivati na dokument općih uvjeta poslovanja i cjenik. Ukoliko je predviđeno sklapanje i/ili izmjena pretplatničkog ugovora putem interneta, uz uvjete sklapanja ugovora operatori su obvezni korisnike uputiti na uvjete i načine raskida pretplatničkog ugovora, koji uključuju i raskid putem interneta, odnosno raskid elektroničkim putem.«
+Članak 2.
+(1) U članku 3., stavku 1. točka 13. briše se. Dosadašnje točke 14. – 39. postaju točke 13. – 38.
+(2) U članku 3., stavku 1. dosadašnja točka 36., a sada 35. mijenja se i glasi: »35. vrijeme uklanjanja kvara: vrijeme mjereno u satima i minutama, koje protekne od trenutka zaprimanja ispravne prijave kvara do trenutka uklanjanja kvara,«.
+Članak 3.
+U članku 8. stavku 4. dodaje se nova točka 11. koja glasi: »11. za pretplatničke ugovore za uslugu širokopojasnog pristupa internetu, minimalnu brzinu širokopojasnog pristupa internetu u nepokretnoj elektroničkoj komunikacijskoj mreži.«
+Članak 4.
+Dosadašnji članak 9. mijenja se i glasi:
+Sklapanje ugovora na daljinu
+Članak 9.
+(1) Ugovor sklopljen putem interneta smatra se pretplatničkim ugovorom sklopljenim na daljinu. Internetska stranica operatora, putem koje korisnik usluga sklapa ugovor, mora najmanje sadržavati podatke o:
+– uvjetima potrebnim za ispunjavanje zahtjeva za sklapanje ugovora, uključujući i rok za realizaciju usluge od strane operatora
+– obliku u kojem će ugovor biti dostupan korisniku usluga
+– načinu identifikacije i ispravljanja pogrešaka prije slanja zahtjeva za sklapanje ugovora
+– uvjetima korištenja usluge i cjeniku koji moraju biti dostupni korisniku usluga kako bi ih mogao pohraniti i ispisati
+– vrsti elektroničke komunikacijske usluge koja se ugovara i nazivu odabrane tarife
+– cijeni elektroničke komunikacijske usluge
+– cijeni terminalne opreme i njezine dostave
+– uvjetima plaćanja
+– trajanju ugovora.
+(2) U slučaju sklapanja ugovora na daljinu putem telefona, osoba koja predstavlja operatora je obvezna u telefonskom razgovoru korisniku uz sve obavijesti o usluzi temeljem posebnog zakona posebno navesti:
+– da pretplatnički ugovor može sklopiti samo osoba koja će po tom ugovoru postati pretplatnik, odnosno korisnik unaprijed plaćene usluge
+– da korisnik pristajanjem na ponudu putem telefona sklapa ugovor na daljinu te da će o ugovorenoj usluzi dobiti pisanu potvrdu na kućnu adresu, odnosno adresu sjedišta za korisnika koji je pravna osoba ili elektroničkim putem, ukoliko se radi o postojećem pretplatniku i to na adresu elektroničke pošte koju koristi za komunikaciju s operatorom
+– da nije potreban potpis kako bi ugovor bio valjan
+– da može, ne navodeći razloge, raskinuti ugovor u roku od 14 dana od dana kada je zaprimio potvrdu na kućnu adresu, odnosno adresu sjedišta za korisnika koji je pravna osoba ili koju je zaprimio elektroničkim putem, ukoliko se radi o postojećem pretplatniku i to na adresu elektroničke pošte koju koristi za komunikaciju s operatorom, odnosno u roku od godine dana ukoliko takvu potvrdu ne dobije, kao i načinima raskida ugovora
+– snima li se razgovor i u koje svrhe
+– prije okončanja razgovora 

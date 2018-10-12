@@ -1,0 +1,32 @@
+imovine
+Članak 309.
+Društva za upravljanje glavnog i napajajućeg UCITS fonda dužna su poduzeti odgovarajuće mjere za usklađivanje vremena za izračun i objavu neto vrijednosti imovine glavnog i napajajućeg UCITS fonda, kako bi se spriječile moguće zlouporabe koje bi mogle nastati zbog vremenske neusklađenosti tog dana i vremena.
+Obavijest o prvoj uplati pojedinog napajajućeg UCITS fonda
+Članak 310.
+(1) Društvo za upravljanje koje upravlja glavnim UCITS fondom, za koji je dobilo odobrenje Agencije, dužno je obavijestiti Agenciju o svakom napajajućem UCITS fondu tog glavnog UCITS fonda.
+(2) Društvo za upravljanje dužno je obavijestiti Agenciju i o primitku prve uplate od svakog napajajućeg UCITS fonda u glavni UCITS fond.
+(3) Ako je napajajući UCITS fond, koji je predmet obavijesti, osnovan u drugoj državi članici, Agencija će obavijesti iz stavaka 1. i 2. ovoga članka dostaviti nadležnom tijelu matične države članice tog napajajućeg UCITS fonda.
+Zabranjene ulazne i izlazne naknade
+Članak 311.
+Društvo za upravljanje koje upravlja glavnim UCITS fondom ne smije napajajućem UCITS fondu naplatiti ulazne i izlazne naknade.
+Dostupnost informacija
+Članak 312.
+Društvo za upravljanje koje upravlja glavnim UCITS fondom dužno je osigurati da su društvu za upravljanje napajajućim UCITS fondom, Agenciji, depozitaru i revizoru napajajućeg UCITS fonda u najkraćem mogućem roku dostupne informacije i podaci koji te osobe imaju pravo tražiti prema odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona te prospekta glavnog i napajajućeg UCITS fonda.
+Praćenje poslovanja glavnog UCITS fonda
+Članak 313.
+(1) Društvo za upravljanje koje upravlja napajajućim UCITS fondom dužno je učinkovito pratiti prikladnost upravljanja i poslovanja glavnog UCITS fonda.
+(2) Mišljenje o prikladnosti upravljanja i poslovanja iz stavka 1. ovoga članka društvo za upravljanje napajajućim UCITS fondom formira na temelju informacija i dokumentacije koju dobiva od društva za upravljanje glavnim UCITS fondom, njegova depozitara i revizora, osim ako postoji razlog za sumnju u njihovu točnost.
+(3) Distribucijska naknada, provizija ili druga novčana naknada koju primi društvo za upravljanje koje upravlja napajajućim UCITS fondom ili bilo koja druga osoba koja djeluje za račun napajajućeg UCITS fonda ili njegovog društva za upravljanje, a vezano za ulaganje u udjele glavnog UCITS fonda, pripada napajajućem UCITS fondu i čini njegovu imovinu.
+Dostava obavijesti o nadzornim mjerama
+Članak 314.
+Agencija je dužna obavijestiti društvo za upravljanje napajajućim UCITS fondom o svim uočenim neusklađenostima i nadzornim mjerama koje je izrekla u vezi s poslovanjem glavnog UCITS fonda ili o bilo kojoj informaciji koju je zaprimila u skladu s člankom 68. stavkom 7. ili člankom 206. stavkom 6. ovoga Zakona koja je vezana za glavni UCITS fond, ili kada je primjenjivo za njegovo društvo za upravljanje, depozitara ili revizora.
+Posebne odredbe o trgovanju udjelima glavnog UCITS fonda
+Članak 315.
+(1) Na glavni UCITS fond iz druge države članice koji na području Republike Hrvatske ne prikuplja sredstva javnom ponudom udjela, već ima samo jedan ili više napajajućih UCITS fondova iz Republike Hrvatske, ne primjenjuju se odredbe dijela šestoga glave 1. poglavlja 3. ovoga Zakona i članaka 370. do 383. ovoga Zakona.
+(2) Ako glavni UCITS fond ima najmanje dva napajajuća UCITS fonda, društvo za upravljanje glavnim UCITS fondom može odrediti da udjele u glavnom UCITS fondu ne nudi javnom ponudom, neovisno o odredbi članka 3. stavka 1. točke 2. podtočke a) ovoga Zakona.
+POGLAVLJE VI. PROSPEKT, POLUGODIŠNJI I REVIDIRANI GODIŠNJI IZVJEŠTAJI NAPAJAJUĆEG UCITS FONDA
+Prospekt napajajućeg UCITS fonda
+Članak 316.
+Prospekt napajajućeg UCITS fonda, pored odredaba iz članka 191. ovoga Zakona, sadržava:
+1. izjavu da je riječ o napajajućem UCITS fondu koji najmanje 85% svoje imovine ulaže u udjele glavnog UCITS fonda te naziv glavnog UCITS fonda
+2. ciljeve ulaganja i strategiju ulaganja napajajućeg UCITS

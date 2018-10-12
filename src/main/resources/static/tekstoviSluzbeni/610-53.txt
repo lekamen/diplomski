@@ -1,0 +1,35 @@
+ upravu i nadzorni odbor o svim nalazima utvrđenim u postupku unutarnje revizije i danim preporukama koje se moraju poduzeti s obzirom na svaki nalaz i preporuku unutarnje revizije te pratiti provedbu aktivnosti u svrhu provedbe ispunjenja tih mjera.
+(4) Nositelj funkcije unutarnje revizije uz zahtjeve iz članka 93. stavka 5. ovoga Zakona mora imati zvanje ovlaštenog revizora ili ovlaštenog unutarnjeg revizora stečenog u skladu sa zakonom kojim se uređuje revizija, odnosno stečenog u skladu s pravilima i programom kompetentne strukovne organizacije za stručno obrazovanje unutarnjih revizora.
+(5) Nositelj funkcije unutarnje revizije ne smije obavljati druge poslove različite od poslova unutarnje revizije i zadatke u istom društvu za osiguranje ili u društvu s kojim je društvo za osiguranje u odnosu uske povezanosti.
+Zadaci unutarnje revizije
+Članak 99.
+(1) Nositelj funkcije unutarnje revizije analizira i procjenjuje aktivnosti društava za osiguranje te daje stručno mišljenje, preporuke i savjete o oblikovanju kontrola koje trebaju omogućiti:
+1. obavljanje poslova osiguranja pravilno i u skladu s ovim Zakonom i propisima donesenim na temelju ovoga Zakona te u skladu s unutarnjim pravilima kojima se uređuje poslovanje društva za osiguranje
+2. vođenje poslovnih knjiga, evidentiranje poslovnih događaja na temelju vjerodostojnih knjigovodstvenih isprava, vrednovanje knjigovodstvenih stavaka i sastavljanje financijskih i ostalih izvještaja u skladu s ovim Zakonom i propisima kojima se uređuje poslovanje društva za osiguranje
+3. sustavno upravljanje rizicima koji proizlaze iz poslovnih aktivnosti društva za osiguranje u skladu s načelima stabilnog poslovanja, uključujući upravljanje resursima informacijske tehnologije i drugih pridruženih tehnologija.
+(2) Unutarnja revizija društva za osiguranje obavlja se u skladu s međunarodno priznatim revizijskim standardima za unutarnju reviziju, kodeksom strukovne etike unutarnjih revizora te pravilima djelovanja unutarnje revizije koje, u suglasnosti s nadzornim odborom, usvaja uprava društva za osiguranje.
+Planovi unutarnje revizije
+Članak 100.
+(1) Poslovi unutarnje revizije obavljaju se u skladu sa:
+– strateškim planom
+– godišnjim planom i
+– planom pojedinačne revizije.
+(2) Strateški plan unutarnje revizije donosi se za trogodišnje razdoblje, temelji se na procjeni rizika i usklađuje se svake godine.
+(3) Godišnji plan unutarnje revizije izrađuje se na temelju strateškog plana, a mora obuhvaćati:
+1. područja poslovanja koja su prioritetna s obzirom na procjenu rizika
+2. popis planiranih revizija
+3. raspored unutarnjih revizora.
+(4) Strateški, godišnji i plan pojedinačne unutarnje revizije predlaže nositelj funkcije unutarnje revizije, a usvaja ga nadzorni odbor uz prethodno mišljenje uprave društva za osiguranje.
+(5) Unutarnja revizija može se obaviti i po nalogu člana uprave ili nadzornog odbora društva za osiguranje i na zahtjev Agencije.
+Izvješće unutarnje revizije
+Članak 101.
+(1) Nositelj funkcije unutarnje revizije sastavlja izvješće o radu unutarnje revizije najmanje jednom godišnje. Izvješće unutarnje revizije sadržava:
+1. popis svih obavljenih revizija
+2. ocjenu primjerenosti i učinkovitosti djelovanja sustava unutarnjih kontrola te preporuke za njihovo poboljšanje
+3. nezakonitosti i nepravilnosti ako su utvrđene tijekom obavljanja revizije te preporuke i prijedloge mjera za njihovo otklanjanje
+4. poduzete aktivnosti u vezi s danim preporukama.
+(2) Nositelj funkcije unutarnje revizije mora svoja izvješća o radu unutarnje revizije dostavljati upravi i nadzornom odboru društva za osiguranje.
+(3) Uprava i nadzorni odbor dužni su, kada je to potrebno, poduzeti potrebne aktivnosti u skladu s nalazima i preporukama unutarnje revizije.
+Obavještavanje uprave i nadzornog odbora društva za osiguranje
+Članak 102.
+(1) Ako unutarnja revizija tijekom obavljanja revizije aktivnosti i procesa poslovanja društva za osiguranje utvrdi pojave nezakonitog poslovanja i kršenja pravila o upravljanju rizicima

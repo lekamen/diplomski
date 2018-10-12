@@ -1,0 +1,39 @@
+ nepotpuna;
+– podaci iz članka 6. stavka 6. ili članka 8. stavka 3. ovoga Pravilnika nedostaju, netočni su ili nepotpuni;
+– nije ispunjen bilo koji drugi administrativni zahtjev iz članka 6. ili članka 8. ovoga Pravilnika.
+(2) Ako se nesukladnost iz stavka 1. ovoga članka nastavi, nadležno inspekcijsko tijelo poduzima sve odgovarajuće mjere kako bi se ograničila ili zabranila oprema ili sklop stavljeni na raspolaganje na tržište ili osiguralo njezin povrat ili povlačenje s tržišta.
+POGLAVLJE VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+Prijelazne odredbe
+Članak 39.
+(1) Ne smije se spriječiti stavljanje u uporabu tlačne opreme i sklopova stavljenih na tržište do 20. listopada 2008. godine.
+(2) Ne smije se spriječiti stavljanje na tržište i/ili stavljanje u uporabu tlačne opreme ili sklopova obuhvaćenih Pravilnikom o tlačnoj opremi (»Narodne novine«, broj 20/15) i koja je stavljena na tržište prije 1. lipnja 2015. godine.
+(3) Certifikate i odluke koje su izdala tijela za ocjenjivanje sukladnosti u skladu s Pravilnikom o tlačnoj opremi (»Narodne novine«, broj 20/15) na snazi su u skladu s ovim Pravilnikom.
+Stavljanje izvan snage
+Članak 40.
+Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o tlačnoj opremi (»Narodne novine«, broj 20/2015.).
+Stupanje na snagu i primjena
+Članak 41.
+Ovaj Pravilnik objavljuje se u »Narodnim novinama«, a stupa na snagu danom objave u »Narodnim novinama«.
+Klasa: 011-01/16-01/64 Urbroj: 526-03-01-02-02/1-16-8 Zagreb, 30. kolovoza 2016.
+Ministar Tomislav Panenić, v. r.
+DODATAK I.
+OSNOVNI SIGURNOSNI ZAHTJEVI
+UVODNE NAPOMENE
+1. Obveze koje proizlaze iz osnovnih sigurnosnih zahtjeva za tlačnu opremu iz ovog Dodatka također se primjenjuju i na sklopove kod kojih postoje odgovarajuće opasnosti.
+2. Osnovni su sigurnosni zahtjevi iz ovoga Pravilnika obvezni. Obveze utvrđene ovim osnovnim sigurnosnim zahtjevima primjenjuju se samo ako postoje odgovarajuće opasnosti za dotičnu tlačnu opremu ako se ona koristi pod uvjetima koje proizvođač može razumno predvidjeti.
+3. Proizvođač je dužan analizirati opasnosti kako bi utvrdio one koji se odnose na njegovu opremu, a posljedica su tlaka; on stoga opremu konstruira i proizvodi uzimajući u obzir provedenu analizu.
+4. Osnovni se sigurnosni zahtjevi moraju tumačiti i primijeniti tako da se u obzir uzmu najnovija dostignuća i postojeća praksa u vrijeme konstruiranja i proizvodnje, kao i tehnički i ekonomski zahtjevi koji odgovaraju visokom stupnju zaštite zdravlja i sigurnosti.
+1. OPĆENITO
+1.1. Tlačna se oprema konstruira, proizvodi i provjerava te po potrebi oprema i ugrađuje tako da se pri stavljanju u uporabu osigura njezina sigurnost u skladu s uputama proizvođača ili u predvidljivim radnim uvjetima.
+1.2. Prilikom odabira najprikladnijeg rješenja, proizvođač primjenjuje utvrđena načela kako slijedi:
+– ukloniti ili umanjiti opasnosti u najvećoj mogućoj mjeri;
+– primijeniti odgovarajuće zaštitne mjere
+za opasnosti koje se ne mogu ukloniti;
+– prema potrebi, obavijestiti korisnike o ostalim opasnostima te naznačiti je li potrebno poduzeti odgovarajuće posebne mjere kako bi se smanjili rizici za vrijeme ugradnje i/ili uporabe.
+1.3. Ako postoji opasnost od zlouporabe ili ako se takva opasnost može jasno predvidjeti, tlačna se oprema projektira tako da se spriječi opasnost od zlouporabe ili, ako to nije moguće, tako da postoji odgovarajuće upozorenje o tome da se tlačna oprema ne koristi na takav način.
+2. KONSTRUIRANJE
+2.1. Općenito
+Tlačna se oprema se konstruira prema propisima uzimajući u obzir sve odgovarajuće faktore kako bi se osigurala sigurnost tlačne opreme za vrijeme njezina vijeka trajanja.
+Konstruiranje se temelji na odgovarajućim koeficijentima sigurnosti i metodama za koje je poznato da imaju odgovarajuće sigurnosne granice za sve načine otkazivanja opreme.
+2.2. Konstruiranje za odgovarajuću čvrstoću
+2.2.1. Tlačna se oprema konstruira za opterećenja koja odgovaraju njezinoj namjeni te za druge predvidljive uvjete rada. Posebno se uzimaju u obzir sljedeći

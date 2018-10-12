@@ -1,0 +1,34 @@
+ županijsko komasacijsko povjerenstvo usvoji prigovor sudionika komasacije koji utječe na upisane podatke u iskazu zemljišta o stanju nakon komasacije, izvođač stručnih geodetskih radova provodi sve potrebne radnje na terenu i uredu i promjene evidentira u iskaz zemljišta o stanju nakon komasacije.
+Izrada planova komasacijskog područja
+Članak 16.
+(1) Novi brojevi katastarskih čestica nastalih komasacijom, prikazani na preglednom planu prikazuju se i na digitalnom katastarskom planu nastalom na temelju prijedloga nadiobe komasacijske gromade iz članka 12. stavka 1. podstavka 4. ovoga Pravilnika.
+(2) Položaj i oblik katastarskih čestica unutar komasacijskog područja, koje nisu ušle u komasacijsku gromadu, a naslanjaju se neposredno na područje naselja ili građevinsko područje, prikazuju se na planu komasacijskog područja preuzetog s digitalnog katastarskog plana iz članka 4. stavka 1. ovoga Pravilnika.
+(3) Kad granica komasacijskog područja presijeca katastarske čestice tako da se one nalaze dijelom u građevinskom području, a dijelom u poljoprivrednom, iste se na planu komasacijskog područja prikazuju u cijelosti s istim položajem, oblikom i sadržajem iz preuzetog digitalnog katastarskog plana iz članka 4. stavka 1. ovoga Pravilnika.
+(4) Kad se granice komasacijskog područja i komasacijske gromade razlikuju, zbog potrebe formiranja pravilnih komasacijskih tabli i komasiranih čestica unutar komasacijske gromade, dio komasacijskog područja pridružuje se postojećim katastarskim česticama izvan komasacijskog područja radi njihove regulacije (uređenja) i to do granice komasacijske gromade. U tom slučaju katastarske čestice se na planu komasacijskog područja prikazuju u cijelosti sa istim položajem, oblikom i sadržajem iz preuzetog digitalnog katastarskog plana iz članka 4. stavka 1. ovoga Pravilnika i uređenim dijelom koji se nalazi u komasacijskom području.
+(5) Katastarski plan za komasacijsko područje izrađuje se u digitalnom i analognom obliku za svaku katastarsku općinu posebno i na način kako je propisano propisima kojima se uređuje državna izmjera i katastar nekretnina.
+(6) Detaljni listovi katastarskog plana u analognom obliku izrađuju se za komasacijsko područje u mjerilu 1:1000 ili 1:2000 na kvalitetnom crtaćem papiru.
+Izrada tehničkog elaborata komasacije
+Članak 17.
+(1) Izvođač stručnih geodetskih poslova, nakon završetka postupka rješavanja prigovora na sadržaj iskaza zemljišta o stanju nakon komasacije, izrađuje tehnički elaborat komasacije.
+(2) Tehnički elaborat sadrži:
+− katastarski plan za komasacijsko područje u analognom i digitalnom obliku
+− skice izmjere komasacijskog područja
+− popis katastarskih čestica koje se prikupljaju sukladno članku 4. stavku 1. ovoga Pravilnika obuhvaćenih postupkom komasacije
+− abecedni popis sudionika komasacije
+− popis komasiranih čestica
+− popis koordinata lomnih točaka granica katastarskih čestica i načina uporabe prema Specifikacijama za izradu koordinata u koordinatnom sustavu Republike Hrvatske HTRS96/TM
+− nacrt izreke rješenja o komasaciji odnosno tehničke podatke koji se unose u rješenje o komasaciji
+− pregledni plan/kartu o stanju prije komasacije
+− pregledni plan/kartu o stanju poslije komasacije
+− tehničko izvješće.
+(3) Tehničkom elaboratu, kada je potrebno, prilaže se i:
+− parcelacijski elaborat (rubna parcelacija)
+− geodetski elaborat za promjenu područja i granica katastarskih općina.
+(4) Tehnički elaborat izrađuje se u analognom i u digitalnom obliku u odgovarajućem razmjenskom formatu.
+Izrada i sadržaj sastavnih dijelova tehničkog elaborata
+Članak 18.
+(1) Na izradu i sadržaj skice izmjere komasacijskog područja na odgovarajući način se primjenjuju odredbe propisa kojima se uređuje državna izmjera i katastar nekretnina.
+(2) Abecedni popis sudionika komasacije je pomoćni popis i sadrži:
+− ime, prezime, prebivalište, OIB i udio vlasnika, odnosno naziv, sjedište i OIB pravne osobe
+(3) Popis katastarskih čestica obuhvaćenih postupkom komasacije sadrži podatke o:
+− broju

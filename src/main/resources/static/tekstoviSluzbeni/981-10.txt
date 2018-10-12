@@ -1,0 +1,39 @@
+ 2.
+3.4. Provjera i korektivno djelovanje
+3.4.1. Proizvođač mora:
+(a) poduzeti sve potrebne mjere da osigura proizvodnju proizvoda u skladu sa specifikacijama dizajna i sa zahtjevima primjenjive provedbene mjere;
+(b) uspostaviti i održavati postupke za istraživanje i rješavanje neusklađenosti, i provesti izmjene u dokumentiranim postupcima koji su posljedica korektivnog djelovanja;
+(c) najmanje svake tri godine provesti potpunu unutarnju reviziju sustava upravljanja vezano uz ekološke elemente.
+PRILOG VI.
+EU IZJAVA O SUKLADNOSTI (iz članka 5. stavka 3.)
+EU Izjava o sukladnosti mora sadržavati sljedeće podatke:
+1. naziv i adresu proizvođača ili njegovog ovlaštenog zastupnika;
+2. opis modela dovoljan za nedvojbenu identifikaciju;
+3. prema potrebi upute na primijenjene usklađene norme;
+4. prema potrebi druge upotrijebljene tehničke norme i specifikacije;
+5. prema potrebi upute na drugo primjenjivo zakonodavstvo Europske unije koje osigurava označivanje s oznakom »CE« i
+6. ime i potpis osobe koja je ovlaštena da obveže proizvođača ili njegovog ovlaštenog zastupnika.
+PRILOG VII.
+SADRŽAJ PROVEDBENIH MJERA (iz članka 15. stavka 6.)
+Provedbene mjere posebno navode:
+1. točnu definiciju tipa/tipova obuhvaćenog/obuhvaćenih proizvoda;
+2. zahtjev(e) za eko-dizajn za obuhvaćeni proizvod/obuhvaćene proizvode, datum(e) provedbe, postupne ili prijelazne mjere ili razdoblja;
+(a) u slučaju općeg/općih zahtjeva za eko-dizajn, relevantne faze i aspekte odabrane među onima spomenutima u točkama 1.1. i 1.2. Priloga I., popraćene primjerima parametara odabranih među onima spomenutima u točki 1.3. Priloga I., kao vodilju pri ocjenjivanju poboljšanja u vezi s identificiranim ekološkim aspektima;
+(b) u slučaju posebnog/posebnih zahtjeva za eko-dizajn, njegova/njihova razina:
+3. parametre za eko-dizajn iz dijela 1. Priloga I., u vezi kojih nisu potrebni nikakvi zahtjevi za eko-dizajn;
+4. zahtjeve za ugradnju proizvoda ako to ima izravnu važnost za razmatranu ekološku učinkovitost proizvoda;
+5. mjerne norme i/ili mjerne metode koje će se koristiti; kad su dostupne, usklađene norme čiji su referentni brojevi objavljeni u Službenom listu Europske unije;
+6. pojedinosti ocjenjivanja sukladnosti prema Odluci br. 768/2008/EZ Europskog parlamenta i Vijeća od 9. srpnja 2008. o zajedničkom okviru za stavljanje na tržište proizvoda i o stavljanju izvan snage Odluke Vijeća 93/465/EEZ (SL L 218, 13. 8. 2008.);
+(a) ako je/su modul(i) koji će se primijeniti različit(i) od Modula A; faktori koji dovode do odabira određenog postupka;
+(b) prema potrebi kriteriji za odobrenje i/ili certifikaciju trećih strana;
+ako su različiti moduli navedeni u drugim »CE« zahtjevima za isti proizvod, modul definiran u provedbenoj mjeri će prevladati za zahtjev u pitanju;
+7. zahtjeve o informacijama koje trebaju osigurati proizvođači, ponajprije o elementima tehničke dokumentacije koji su potrebni za olakšavanje provjere usklađenosti proizvoda s provedbenom mjerom;
+8. trajanje prijelaznog razdoblja u kojem države članice moraju dozvoliti stavljanje na tržište i/ili uporabu proizvoda koji zadovoljavaju propise na snazi na njihovom državnom području na datum donošenja provedbene mjere;
+9. datum za ocjenjivanje i moguću reviziju provedbene mjere, uzimajući u obzir brzinu tehnološkog napretka.
+PRILOG VIII.
+SAMOREGULACIJA (iz članka 16.)
+Povrh osnovnog pravnog zahtjeva da inicijative za samoregulaciju moraju zadovoljavati sve odredbe Ugovora (posebno pravila o unutarnjem tržištu i tržišnom natjecanju), kao i međunarodne obveze Europske unije, uključujući pravila o multilateralnoj trgovini, sljedeći nepotpuni popis okvirnih kriterija može se koristiti za ocjenu prihvatljivosti inicijativa za samoregulaciju kao alternative provedbenoj mjeri u kontekstu ovoga Pravilnika:
+1. Otvorenost sudjelovanja
+Inicijative za samoregulaciju otvorene su za sudjelovanje operaterima trećih zemalja, u fazama pripreme kao i u fazama provedbe.
+2. Dodana vrijednost
+Inicijative za samoregulaciju omogućavaju dodanu

@@ -1,0 +1,69 @@
+ heksafluoropropilen kopolimera (npr. MTV);
+12. smjese goriva, »pirotehničke« smjese ili »energetski materijali« koji nisu navedeni drugdje u ML8., a koji imaju sve niže navedene značajke:
+a. sadrže više od 0,5% čestica bilo čega od sljedećeg:
+1. aluminija;
+2. berilija;
+3. bora;
+4. cirkonija;
+5. magnezija; ili
+6. titana;
+b. čestice navedene u ML8.c.12.a veličine manje od 200 nm u bilo kojem smjeru: i
+c. čestice navedene u ML8.c.12.a. sa sadržajem metala od 60% ili više;
+d. oksidatore i njihove smjese kako slijedi:
+1. ADN (amonijev dinitramid ili SR 12) (CAS 140456-78-6);
+2. AP (amonijev perklorat) (CAS 7790-98-9);
+3. smjese sastavljene od fluora i bilo kojeg od sljedećih sastojaka:
+a. ostalih halogena;
+b. kisika; ili
+c. dušika;
+Napomena 1.: ML8.d.3. ne odnosi se na klorov trifluorid (CAS 7790-91-2).
+Napomena 2.: ML8.d.3. ne odnosi se na dušikov trifluorid (CAS 7783-54-2) u plinovitom stanju.
+4. DNAD (1,3-dinitro-1,3-diazetidin) (CAS 78246-06-7);
+5. HAN (hidroksilamonij nitrat) (CAS 13465-08-2);
+6. HAP (hidroksilamonij perklorat) (CAS 15588-62-2);
+7. HNF (hidrazinij nitroformat) (CAS 20773-28-8);
+8. hidrazin nitrat (CAS 37836-27-4);
+9. hidrazin perklorat (CAS 27978-54-7);
+10. tekući oksidatori koji su sastavljeni od ili koji sadrže inhibiranu crvenu dimeću dušičnu kiselinu (IRFNA) (CAS 8007-58-7);
+Napomena: ML8.d.10. ne odnosi se na neinhibiranu dimeću dušičnu kiselinu.
+e. veziva, plastifikatori, monomeri, polimeri, kako slijedi:
+1. AMMO (azidometilmetiloksetan i njegovi polimeri) (CAS 90683-29-7) (vidi također ML8.g.1. za njegove »prekursore«);
+2. BAMO (bisazidometiloksetan i njegovi polimeri) (CAS 17607-20-4) (vidi također ML8.g.1. za njegove »prekursore«);
+3. BDNPA (bis (2,2-dinitropropil)acetal) (CAS 5108-69-0);
+4. BDNPF (bis (2,2-dinitropropil)formal) (CAS 5917-61-3);
+5. BTTN (butanetrioltrinitrat) (CAS 6659-60-5) (vidi također ML8.g.8. za njegove »prekursore«);
+6. energetski monomeri, plastifikatori ili polimeri posebno napravljeni za vojnu uporabu koji sadrže bilo što od sljedećeg;
+a. dušične skupine;
+b. azido skupine;
+c. nitratne skupine;
+d. nitrazne skupine; ili
+e. difluoroamino skupine;
+7. FAMAO (3-difluoroaminometil-3-azidometil oksetan) i njegovi polimeri;
+8. FEFO (bis-(2-fluoro-2,2-dinitroetil)formal) (CAS 17003-79-1);
+9. FPF-1 (poli-2,2,3,3,4,4-heksafluoropentan-1,5-diol formal) (CAS 376-90-9);
+10. FPF-3 (poli-2,4,4,5,5,6,6-heptafluoro-2-tri-fluorometil-3-oksaheptan-1,7-diol formal);
+11. GAP (glicidilazid polimer) (CAS 143178-24-9) i njegovi derivati;
+12. HTPB (polibutadien s hidroksil završecima) s funkcionalnošću hidroksila jednakom ili većom od 2,2 i manjom ili jednakom 2,4, hidroksilne vrijednosti manje od 0,77 meq/g te viskoznosti na 30 °C manjeg od 47 P (CAS 69102-90-5);
+13. poli(epiklorohidrin) s funkcionalnim alkoholnim grupama s molekularnih masama manjih od 10 000, i to:
+a. poli(epiklorohidrindiol);
+b. poli(epiklorohidrintriol);
+14. NENA-ovi (nitratoetilnitramin spojevi) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 i 85954-06-9);
+15. PGN (Poli-GLYN, poliglicidilinitrat ili poli(nitratometil oksiran) (CAS 27814-48-8);
+16. poli-NIMMO (poli nitratometilmetiloksetan), poli-NMMO ili poli(3-nitratometil-3-metiloksetan) (CAS 84051-81-0);
+17. polinitroortokarbonati;
+18. TVOPA (1,2,3-tris[1,2-bis(difluoroamino)etoksi] propan ili tris vinoksi propan adukt) (CAS 53159-39-0);
+19. 4,5 diazidometil-2-metil-1,2,3-triazol (iso- DAMTR);
+20. PNO (Poli(3-nitrato oksetan));
+f. »Aditivi«, kako slijedi:
+1. bazni bakarni salicilat (CAS 62320-94-9);
+2. BHEGA (bis-(2-hidroksietil)glikolamid) (CAS 17409-41-5);
+3. BNO (butadienenitrileoksid);
+4. derivati ferocena kako slijedi:
+a. butacen (CAS 125856-62-4);
+b. katocen (2,2-bis-etilferocenil propan) (CAS 37206-42-1);
+c. ferocen karboksilne kiseline i esteri ferocen karboksilne kiseline;
+d. n-butil-ferocen (CAS 31904-29-7);
+e. ostali slični derivati aduciranog polimer ferocena koji nisu navedeni drugdje u ML8.f.4.;
+f. etil ferocen (CAS 1273-89-8);
+g. propil ferocen;
+h. pentil 

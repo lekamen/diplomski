@@ -1,0 +1,24 @@
+ koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetom »P7«, a pozicije zbirnog retka razreda imaju oznaku *Z08;
+9. U devetom razredu »Član uprave, član nadzornog odbora i prokurist matičnog društva ili društva kćeri kreditne institucije« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »P8« i »PF«, a pozicije zbirnog retka razreda imaju oznaku *Z09;
+10. U desetom razredu »Treće osobe koje djeluju za račun osoba iz točaka 1. do 9. ovog izvještaja« u Izvještaju POKI1 prikazuju se protustranke koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetom »P9«, a pozicije zbirnog retka razreda imaju oznaku *Z10.
+135.g Pojedine protustranke u izvještaju POKI1 koje su članice određenog razreda osoba u posebnom odnosu s kreditnom institucijom svrstavaju se u grupe povezanih osoba.
+135.h Zbirni redak »Ukupno grupa povezanih osoba« u Izvještaju POKI1 za određenu grupu povezanih osoba jest zbroj iznosa koji se odnose na sve članove te grupe, a prikazuje se nakon navođenja iznosa koji se odnose na posljednjeg člana svake grupe.
+135.i Iznimka od povezivanja osoba u grupu povezanih osoba vrijedi za osobe koje su članovi uže obitelji, to jest osobe koje su u izvješću »PO« u obilježju »Osnova identificiranja« označene modalitetima »PA«, »PB«, »PC«, »PD«, »PE« i »PF«. Te osobe prikazuju se samostalno, to jest ne uzima se u obzir grupa povezanih osoba za tu osobu. Drugim riječima, vrijedi načelo: ako je osoba označena modalitetima »P1«, »P2«, »P3«, »P4«, »P5«, »P6«, »P7« i »P8«, za tu osobu utvrđuje se grupa povezanih osoba; ako je osoba označena modalitetima »P9«, »PA«, »PB«, »PC«, »PD«, »PE« i »PF«, za tu se osobu ne utvrđuje grupa povezanih osoba (prikazuje se samostalno).
+135.j Zbirni redak razreda osoba u posebnom odnosu s kreditnom institucijom u Izvještaju POKI1 čini zbroj iznosa koji se odnose na sve pojedine dužnike u tom razredu, izostavljajući eventualno višekratno pojavljivanje određenog dužnika kada dužnik spada u dvije ili više grupa povezanih osoba.
+135.j Zbirni redak »Ukupno« u Izvještaju POKI1 čini zbroj iznosa koji se odnose na sve pojedine dužnike, izostavljajući eventualno višekratno pojavljivanje određenog dužnika kada dužnik spada u dvije ili više grupa povezanih osoba.«
+Članak 20.
+Točka 138. mijenja se i glasi:
+»138. Uputom se definiraju tehnički zahtjevi za dostavljanje izvještaja iz:
+1) članka 7. stavka 1. točaka od 17. do 19. Odluke o supervizorskim izvještajima kreditnih institucija,
+2) Upute za jedinstvenu primjenu Odluke o upravljanju kamatnim rizikom u knjizi banke,
+3) Upute za jedinstvenu primjenu Odluke o upravljanju likvidnosnim rizikom,
+4) Upute za provedbu Odluke o izvješćivanju o izloženosti kreditnih institucija valutnom riziku i
+5) Upute za jedinstvenu primjenu Odluke o zaštitnim slojevima kapitala i mjerama za očuvanje kapitala.«
+Članak 21.
+Točka 165. mijenja se i glasi:
+»165. Izvještaj S1 dostavlja se u rokovima predviđenima Odlukom o supervizorskim izvještajima kreditnih institucija u obliku dokumenta u Excelu na e-adresu bonitetno.izvjescivanje@hnb.hr.«.
+Članak 22.
+Točka 173. mijenja se i glasi:
+»173. Sadržaj XML slogova prema dijelu III.1 ove Upute, prema Uputi za jedinstvenu primjenu Odluke o upravljanju kamatnim rizikom u knjizi banke, Uputi za jedinstvenu primjenu Odluke o upravljanju likvidnosnim rizikom, Uputi za sastavljanje i dostavljanje supervizorskih izvještaja kreditnih institucija, Uputi za provedbu Odluke o izvješćivanju o izloženosti kreditnih institucija valutnom riziku i Uputi za jedinstvenu primjenu Odluke o zaštitnim slojevima kapitala i mjerama za očuvanje kapitala (u nastavku teksta: Upute*, u odgovarajućem padežu).«.
+Članak 23.
+U točkama 193., 214., 218., 223., 229., 238. i 244. riječi »u skladu s izmjenama i (ili) dopunama Upute o upotrebi slovnih kratica i brojčanih oznaka za države i zemlje i novčane jedinice u platnom prometu s inozemstvom« zamjenjuju

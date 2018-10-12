@@ -1,0 +1,27 @@
+ Infrastrukture reorganizacijom sektora održavanja, unaprjeđenjem učinkovitosti održavanja, osiguranjem TSI na najvažnijim dijelovima željezničke mreže, povećanjem sigurnosti, smanjenjem utjecaja na okoliš te
+– modernizacija i obnavljanje lokalnih i regionalnih pruga posebnim programom s ciljem stvaranja preduvjeta prije svega za razvoj integriranog javnog prijevoza i za eventualno davanje u koncesiju tih dijelova željezničke mreže.
+2. USTROJ ŽELJEZNIČKOGA INFRASTRUKTURNOG SUSTAVA
+2.1. Struktura željezničkoga infrastrukturnog sustava
+Struktura željezničkoga infrastrukturnog sustava usklađena je s direktivama Europske unije i propisana Zakonom o željeznici i Pravilnikom o željezničkoj infrastrukturi (»Narodne novine«, broj 127/05).
+Željeznička infrastruktura je javno dobro u općoj uporabi u vlasništvu Republike Hrvatske i njome se upravlja i gospodari u skladu s njezinim statusom. Željeznički infrastrukturni sustav sastoji se od:
+– građevinskoga infrastrukturnog podsustava (pružni donji ustroj, pružni gornji ustroj)
+– elektroenergetskoga infrastrukturnog podsustava (stabilna postrojenja za napajanje električne vuče, druga elektroenergetska postrojenja)
+– prometno-upravljačkog i signalno-sigurnosnoga infrastrukturnog podsustava (signalno-sigurnosni uređaji, telekomunikacijski uređaji)
+– ostalih funkcionalnih dijelova i opreme željezničke infrastrukture (zgrade, oprema, vozila i strojevi za održavanje i kontrolu stanja željezničke infrastrukture, informatički elementi i inventar željezničke infrastrukture).
+Željezničku prugu u tehničkom smislu čine dijelovi infrastrukturnih podsustava nužni za sigurno, uredno i nesmetano odvijanje željezničkoga prometa u skladu sa zacrtanim uvjetima, opsegom i tehnologijom. Željezničku prugu čini i zemljište ispod željezničke pruge s pružnim pojasom i ostalim zemljištem koje služi uporabi i funkciji tih dijelova infrastrukturnih podsustava te zračni prostor iznad pruge u visini od 12 m odnosno 14 m kod dalekovoda napona većeg od 220 kV, računajući od gornjeg ruba tračnice.
+Željezničkom prugom u prometno-tehnološkom smislu smatra se pruga kao cjelina, koju čine kolodvori i otvorena pruga s drugim službenim mjestima (stajališta, otpremništva).
+2.2. Funkcija i organizacijski ustroj upravitelja infrastrukture u Republici Hrvatskoj
+U skladu sa Zakonom o podjeli trgovačkog društva HŽ-Hrvatske željeznice d.o.o., osnovano je novo društvo HŽ Infrastruktura d.o.o., koje obavlja funkcije upravljanja, održavanja i izgradnje željezničke infrastrukture, odnosno funkciju upravitelja željezničke infrastrukture u Republici Hrvatskoj.
+U skladu s odredbama Zakona o sigurnosti i interoperabilnosti željezničkog sustava, upravitelj infrastrukture kao pravna osoba ima sljedeće funkcije i obveze:
+– upravljanje željezničkom infrastrukturom
+– organiziranje i reguliranje željezničkog prijevoza
+– održavanje i osuvremenjivanje željezničke infrastrukture, njezina zaštitu, te poslovi izgradnje željezničke infrastrukture
+– organiziranje i trajno obavljanje kontrole nad sigurnim tijekom prometa
+– održavanje infrastrukturnih podsustava na željezničkim prugama na kojima se obavlja promet u stanju za siguran tijek prometa
+– vođenje registra infrastrukture, te drugih evidencija i tehničkih podataka važnih za sigurnost u željezničkom prometu, uporabu i održavanje infrastrukture za sve željezničke pruge kojima upravlja
+– vođenje evidencije i drugih podataka o prometu vlakova od značenja za siguran tijek prometa
+– održavanje unutarnjeg reda u infrastrukturnom pojasu.
+Organizacijski ustroj upravitelja infrastrukture HŽ Infrastrukture d.o.o. uključuje upravu, poslove s pripadajućim službama u poslovnim i upravnim područjima, te regionalne jedinice i odjele.
+2.3. Razvrstavanje željezničkih pruga
+Na temelju članka 14. stavka 3. Zakona o željeznici, Vlada Republike Hrvatske je na sjednici održanoj 9. siječnja 2014. godine donijela Odluku o razvrstavanju željezničkih pruga (»Narodne novine«, broj 3/14).
+Željezničke pruge u Republici

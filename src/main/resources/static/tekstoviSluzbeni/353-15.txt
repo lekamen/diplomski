@@ -1,0 +1,31 @@
+
+(10) U slučaju iz stavka 9. ovoga članka, EBA može pomoći pri donošenju zajedničke odluke u odnosu na primjenu mjera rane intervencije iz članka 264.h stavka 1. točaka 1., 2., 6. i 8. ovoga Zakona.«.
+Članak 9.
+U članku 305. iza stavka 5. dodaju se novi stavak 6. i stavci 7. i 8. koji glase:
+»(6) Burza može koristiti, a članovima burze i operateru sustava poravnanja omogućiti korištenje mehanizma koji omogućuje povlačenje već izloženih naloga s uređenog tržišta ili MTP-a, te zabranu izlaganja novih naloga (kill switch), i to na razini:
+a) vlastitog sustava članova burze;
+b) burze, koja može navedeni mehanizam koristiti samostalno ili na zahtjev člana burze ili operatera sustava poravnanja.
+(7) Burza mora unaprijed definirati proceduru i standarde za primjenu mehanizma iz stavka 6. ovoga članka, te ih javno objaviti. Procedura i standardi za primjenu mehanizma iz stavka 6. ovoga članka moraju minimalno uključivati:
+– način i rokove obavještavanja Agencije,
+– okolnosti u kojima se javnost obavještava u slučaju korištenja mehanizma, način i rokove obavještavanja;
+– mjere kojima se osigurava postizanje uvjeta iz stavka 8. ovoga članka,
+– mjere kojima se osigurava kontinuirani nadzor i revizija mehanizma,
+– uvjete pod kojima prestaje korištenje mehanizma,
+– tehničke standarde za korištenje mehanizma.
+(8) Kada je primjenjivo, mehanizam iz stavka 6. ovoga članka mora omogućiti:
+a) automatiziranu primjenu, kao i nadzor u stvarnom vremenu sa sposobnošću da se prilagode unaprijed postavljene granice pri kojima se pokreće mehanizam, čak i tijekom trgovinskog dana i u svim fazama trgovinskog dana;
+b) da se u potpunosti zaustavi unos naloga nakon što je prijeđena unaprijed postavljena granica;
+c) mehanizme za autorizaciju naloga iznad unaprijed postavljenih granica na zahtjev člana burze, pod unaprijed određenim uvjetima.«.
+Dosadašnji stavak 6. postaje stavak 9.
+Članak 10.
+U članku 358. stavku 4. iza riječi: »ulagateljima« briše se zarez, a riječi: »dostavljeni Agenciji, te ih izdavatelj mora dostaviti nadležnom tijelu države članice domaćina, u što skorijem roku prilikom svake javne ponude, po mogućnosti prije početka javne ponude ili uvrštenja na uređeno tržište« zamjenjuju se riječima: »i dostavljeni Agenciji koja ih dostavlja nadležnom tijelu države članice domaćina, u što skorijem roku prilikom svake javne ponude, po mogućnosti prije početka javne ponude ili uvrštenja na uređeno tržište i ESMA-i«.
+Članak 11.
+U članku 499. iza stavka 2. dodaju se novi stavak 3. i stavci 4. i 5. koji glase:
+»(3) Novacija, u smislu poravnanja koje se provodi uz posredovanje središnje druge ugovorne strane iz stavka 2. ovoga članka, označava postupak u kojem se obvezni odnos između kupca i prodavatelja u transakciji koja se poravnava zamjenjuje s dva novonastala obvezna odnosa u kojima središnja druga ugovorna strana postaje kupac prvobitnom prodavatelju i prodavatelj prvobitnom kupcu, pri čemu raniji obvezni odnos između prvobitnog kupca i prodavatelja prestaje. Novacija, u smislu prethodne rečenice, nema značenje obnove u smislu posebnog zakona kojim su uređeni obvezni odnosi, te se na istu ne primjenjuju odredbe o obnovi u smislu zakona kojim su uređeni obvezni odnosi.
+(4) U slučaju da središnja druga ugovorna strana iz stavka 2. ovoga članka primjenjuje novaciju iz stavka 3. ovoga članka, dužna je u svojim pravilima odrediti trenutak u kojem novacija nastaje, odnosno trenutak kada se novirana transakcija u sustavu kojim upravlja središnja druga ugovorna strana smatra prihvaćenom i konačnom u smislu zakona kojim se uređuje konačnost namire u platnim sustavima i sustavima za namiru financijskih instrumenata.
+(5) Odredbe stavka 4. ovoga članka na odgovarajući se način primjenjuju i u slučaju kada središnja druga ugovorna strana iz stavka 2. ovoga članka poravnanje ne obavlja uz primjenu novacije.«.
+Dosadašnji stavak 3. postaje stavak 6.
+Članak 12.
+Iza članka 501. dodaju se članci 501.a, 501.b, 501.c i 501.d koji glase:
+»Članak 501.a
+(1) Pokretanje

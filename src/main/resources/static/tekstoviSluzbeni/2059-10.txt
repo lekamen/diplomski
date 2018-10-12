@@ -1,0 +1,30 @@
+ prihodovnoj metodi diskontirana vrijednost zemljišta neće se zanemariti i umanjit će se za troškove uklanjanja kod predvidivog ostatka održivog vijeka korištenja građevina kraćeg od 20 godina, pa izraz za jednotračnu prihodovnu metodu glasi:
+PV = PG × M + (VZ – TU)/qn
+PV = prihodovna vrijednost nekretnine; PG = čisti prihod građevine; VZ = vrijednost zemljišta; TU = troškovi uklanjanja; M = multiplikator; n = predvidivi ostatak održivog vijeka korištenja građevine.
+Periodična prihodovna metoda
+Članak 42.
+(1) U periodičnoj prihodovnoj metodi prihodovna vrijednost utvrđuje se iz:
+1. zbroja diskontiranih čistih prihoda pojedinih perioda unutar razmatranog vremenskog razdoblja i
+2. diskontirane preostale vrijednosti nekretnine.
+(2) Periodična prihodovna metoda može se primijeniti kod prihoda koji značajno odstupaju od prihoda koji se uobičajeno postižu na tržištu te kod vrlo promjenjivih prihoda, primjerice kod ugovora s promjenjivom zakupninom.
+(3) Razmatrano razdoblje za periodično različite prihode mora biti tako odabrano da se visina ostvarivih prihoda u tom razdoblju može vjerodostojno procijeniti (do 10 godina). Važan kriterij za utvrđivanje razmatranog razdoblja je trajanje ugovora o zakupu ili najmu. Period u odnosu na razmatrano razdoblje u pravilu obuhvaća jednu godinu.
+(4) Preostalo razdoblje je ostatak održivog vijeka korištenja koji je preostao nakon razmatranog razdoblja.
+(5) Preostala vrijednost nekretnine može se procijeniti iz:
+1. sadašnje vrijednosti čistih prihoda u preostalom razdoblju i
+2. vrijednosti katastarske čestice koja je diskontirana tijekom preostalog razdoblja.
+(6) Čisti prihod iz stavka 5. ovoga članka nakon isteka razmatranog razdoblja procjenjuje se na temelju ukupnog prihoda koji se u dogledno vrijeme uobičajeno postiže na tržištu. Na odgovarajući način postupa se i sa troškovima gospodarenja.
+(7) Razdoblje kapitaliziranja za preostalu vrijednost nekretnine, odgovara predvidivom ostatku održivog vijeka korištenja građevina na kraju razmatranog razdoblja.
+(8) Kapitalizacija i diskontiranje u periodičnoj prihodovnoj metodi provode se na temelju iste kamatne stope na nekretninu.
+(9) Izraz za periodičnu prihodovnu metodu na primjeru godišnjih periodičnih prihoda glasi:
+
+PRV = PGPR × MPR + VZ × q-PR
+PR = n − b
+PV = prihodovna vrijednost nekretnine; PGi = čisti periodični prihod građevine unutar razmatranog razdoblja (na godišnjoj osnovi); PGPR = čisti prihod nakon isteka razmatranog razdoblja; PRV = preostala vrijednost katastarske čestice; VZ = vrijednost zemljišta bez samostalno iskoristive djelomične površine; q-i = diskontni faktor za pojedinačne periode unutar razmatranog razdoblja; q-b = diskontni faktor za razmatrano razdoblje; q-PR = diskontni faktor za preostalo razdoblje; MPR = multiplikator za preostalo razdoblje; i = periodi (godišnji) unutar promatranog razdoblja; p = kamatna stopa na nekretnine; n = predvidivi ostatak održivog vijeka korištenja građevine; b = broj perioda (kod godišnjeg razmatranja) unutar razmatranog razdoblja; PR = preostalo razdoblje.
+Ukupni godišnji prihod i troškovi gospodarenja
+Ukupni godišnji prihod
+Članak 43.
+(1) Stvarno postignuti prihodi kao i prihodi koji se postižu na tržištu u načelu se moraju utvrditi. Utvrđivanje stvarno postignutih prihoda i prihoda koji se postižu na tržištu provodi se prikazom bitnih podataka iz ugovora o zakupu ili najmu te prikazom postojećih odnosa zakupa i najma na tržištu.
+(2) Ako stvarno postignuti prihodi odstupaju od prihoda koji se postižu na tržištu, tada će se (privremena) prihodovna vrijednost utvrditi na temelju prihoda koji se postižu na tržištu.
+(3) Stavak 2. ovoga članka ne odnosi se na periodičnu prihodovnu metodu.
+(4) Prihodi od reklamnih površina moraju se posebno navesti i vrednovati.
+(5) Privremena nepopunjenost kao i prihodi od prostorija koje se koriste za vlastite potrebe (primjerice prostorije koje su zbog osobnih razloga iznajmljene po nižoj cijeni), utvrđuju se prema prihodima koji se postižu na lokalnom

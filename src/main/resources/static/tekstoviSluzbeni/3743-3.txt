@@ -1,0 +1,23 @@
+
+(2) Rukovoditelj unutarnje revizije obvezan je osigurati da je za izradu strateškog plana unutarnje revizije razmotreno minimalno sljedeće:
+a) strateški i drugi planski dokumenti koji sadrže ciljeve i prioritete u poslovanju institucije i institucija iz nadležnosti
+b) proračun, odnosno financijski plan institucije i institucija iz nadležnosti
+c) financijska i druga izvješća o poslovanju institucije i institucija iz nadležnosti
+d) informacije dobivene iz prethodno obavljenih unutarnjih revizija
+e) procjena rukovodstva o rizicima i prioritetima vezanim uz poslovne funkcije, sustave, programe, projekte, aktivnosti i poslovne procese
+f) stručne kompetencije i broj unutarnjih revizora.
+(3) Rukovoditelj unutarnje revizije obvezan je osigurati da je godišnji plan unutarnje revizije utemeljen na strateškom planu unutarnje revizije i da minimalno sadrži informacije o ciljevima i opsegu pojedinačnih revizija koje se planiraju provesti te procjenu potrebnih resursa za obavljanje revizija.
+(4) Za svaku pojedinačnu reviziju rukovoditelj unutarnje revizije odobrava plan i program pojedinačne revizije koji sadrži cilj i opseg revizije, trajanje i raspodjelu resursa za obavljanje revizije te vrste revizijskih postupaka.
+(5) Ako odgovorna osoba korisnika proračuna ne odobri uvrštavanje pojedinih revizija u strateški ili godišnji plan unutarnje revizije, rukovoditelj unutarnje revizije obvezan je o tome, u pisanom obliku obavijestiti ustrojstvenu jedinicu Ministarstva financija nadležnu za harmonizaciju aktivnosti razvoja sustava unutarnjih kontrola, odnosno ako odgovorna osoba trgovačkog društva i druge pravne osobe ne odobri uvrštavanje pojedinih revizija u strateški ili godišnji plan unutarnje revizije, rukovoditelj unutarnje revizije obvezan je o tome, obavijestiti revizorski odbor.
+Članak 20.
+(1) Unutarnji revizori obavljaju revizije utvrđivanjem, testiranjem, analiziranjem, procjenjivanjem i dokumentiranjem podataka dovoljnih za davanje revizorskog mišljenja o adekvatnosti, učinkovitosti i djelotvornosti sustava unutarnjih kontrola.
+(2) Unutarnji revizori o obavljenoj pojedinačnoj reviziji sastavljaju nacrt revizijskog izvješća koji se dostavlja odgovornoj osobi revidirane jedinice, radi usuglašavanja činjenica prije sastavljanja konačnog revizijskog izvješća.
+(3) Ako nije postignuta suglasnost o činjenicama iz stavka 2. ovoga članka odgovorna osoba revidirane jedinice obvezna je očitovati se pisanim putem.
+(4) Odgovorna osoba revidirane jedinice obvezna je nakon usuglašavanja činjenica iz stavka 2. ovoga članka pripremiti plan djelovanja koji treba sadržavati aktivnosti za provedbu preporuka, odgovorne osobe i rokove provedbe.
+(5) Aktivnosti za provedbu preporuka, odgovorne osobe i rokove provedbe odobrava odgovorna osoba institucije potpisivanjem plana djelovanja.
+(6) Konačno revizijsko izvješće odobrava rukovoditelj unutarnje revizije i dostavlja ga odgovornoj osobi institucije, odgovornoj osobi revidirane jedinice te drugim odgovornim osobama čiji je angažman potreban u provedbi preporuka sadržanih u planu djelovanja iz stavka 5. ovoga članka.
+(7) Konačno revizijsko izvješće iz stavka 6. ovoga članka rukovoditelj unutarnje revizije dostavlja i revizorskom odboru, na zahtjev revizorskog odbora, odnosno sukladno pravilima rada revizorskog odbora gdje je primjenjivo.
+(8) Konačno revizijsko izvješće iz stavka 6. ovoga članka može se, uz odobrenje odgovorne osobe institucije, dostaviti i drugim ustrojstvenim jedinicama unutar institucije te drugim institucijama koje sukladno nadležnostima imaju pravo uvida u konačna revizijska izvješća, odnosno rezultate rada unutarnje revizije.
+(9) Unutarnji revizori obvezni su pratiti provedbu preporuka iz plana djelovanja i o istome, najmanje jednom godišnje, izvijestiti odgovornu osobu institucije, odnosno revizorski odbor gdje je primjenjivo.
+Članak 21.
+(1) Ako unutarnji revizor tijekom obavljanja revizije utvrdi nepravilnost za koju nisu propisane prekršajne odredbe ili koja ima obilježje prekršaja 

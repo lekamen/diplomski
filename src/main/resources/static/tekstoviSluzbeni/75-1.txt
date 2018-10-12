@@ -1,0 +1,42 @@
+ skraćenog naziva (skraćenog naziva na stranom jeziku)
+4. sjedišta i adrese sjedišta
+5. ciljane skupine
+5. područja djelovanja sukladno ciljevima
+6. ciljeva udruge
+7. djelatnosti udruge kojima se ostvaruju ciljevi
+8. gospodarskih djelatnosti, ako su propisane statutom
+9. izbora osoba ovlaštenih za zastupanje, neovisno o tome radi li se o osobama iz prethodnog mandata
+10. izbora i opoziva likvidatora
+11. datum izvršnosti rješenja o upisu promjene.
+(4) U registar udruga upisuje se podaci o prestanku postojanja udruge, likvidaciji i stečaju udruge.
+(5) U slučaju prestanka postojanja udruge upisuju se razlozi za prestanak djelovanja: odluka skupštine o prestanku udruge, pripajanje, spajanje i podjela (statusne promjene), protek dvostruko više vremena od vremena predviđenog za održavanje redovne sjednice skupštine, pravomoćna odluka suda o ukidanju udruge, pokretanje stečajnog postupka, smanjenje broja članova ispod potrebnog broja za osnivanje udruge.
+(6) U slučaju likvidacije u registar udruga upisuje se: rješenje o prestanku djelovanja i pokretanju postupka likvidacije, promjena naziva udruge obzirom na oznaku »u likvidaciji«, datum obavijesti likvidatora sudu o pokretanju stečajnog postupka, rješenje o brisanju.
+(7) U slučaju stečaja u registar udruga upisuju se pokretanje stečaja i brisanje udruge iz registra udruga.
+(8) U slučaju prestanka postojanja udruge po skraćenom postupku u registar udruga upisuju se: rješenje o brisanju, upis osobnih imena i prebivališta članova tijela udruge uz njihov OIB, s naznakom solidarne odgovornosti za obveze udruge.
+(9) Registar udruga sadrži rubriku »Napomena« u koju se upisuju podaci vezani za djelovanje udruge (podaci o usklađenju statuta, isteku mandata, proteku roka za održavanje skupštine, pokrenutim upravnim sporovima, sigurnosnim mjerama, predstečajnoj nagodbi, inspekcijskim mjerama, prekidu postupka i slično).
+(10) U registar udruga, za svaku udrugu, u rubriku »Kontakt-podaci udruge« mogu se upisati kontakt podaci (telefon, telefax, e-mail), a prema podacima dostavljenim od osobe ovlaštene za zastupanje udruge koja je odgovorna za njihovu točnost i ažurnost.
+Registarski broj udruge
+Članak 5.
+(1) Registarski broj udruge je broj koji se svakoj udruzi određuje pri upisu u registar udruga.
+(2) Registarski broj udruge sastoji se od:
+– dvoznamenkastog broja i
+– šesteroznamenkastog rednog broja.
+(3) Dvoznamenkasti broj određen je redoslijedom utvrđenim člankom 3. Zakona o područjima županija, gradova i općina u Republici Hrvatskoj od broja 01 do 20.
+(4) Dvoznamenkasti broj Grada Zagreba je broj 21.
+(5) Dvoznamenkasti broj 00 označava udruge koje su do dana primjene Zakona o udrugama (»Narodne novine«, br. 88/01 i 11/02) bile upisane u registar udruga pri Ministarstvu uprave (u daljnjem tekstu: Ministarstvo).
+(6) Redni broj udruge određuje se automatskom dodjelom iz informacijskog sustava registra udruga, sukladno redoslijedu upisa udruga u registar udruga.
+(7) Udruzi se može odrediti samo jedan registarski broj koji se ne mijenja i koji se po prestanku postojanja udruge ne može odrediti drugoj udruzi.
+Zbirka isprava udruge
+Članak 6.
+(1) Zbirka isprava vodi se za svaku udrugu upisanu u registar udruga.
+(2) Zbirka isprava čuva se u omotu izrađenom od tvrdog papira ili drugog odgovarajućeg materijala, a može se voditi i u elektroničkom obliku. Na omotu zbirke isprava ispisuje se naziv udruge i registarski broj udruge.
+(3) U zbirku isprava pohranjuje se:
+– rješenje o upisu u registar udruga
+– popunjeni i potpisani obrazac zahtjeva za upis u registar udruga
+– zapisnik o radu i odlukama osnivačke skupštine
+– odluka skupštine o pokretanju postupka za upis u registar udruga
+– ovjereni statut
+– popis osnivača i osoba ovlaštenih za zastupanje udruge
+– izvod iz sudskog ili drugog registra za stranu pravnu osobu osnivača udruge
+– suglasnost ili odobrenje iz članka 23. stavka 1. podstavka 8. Zakona o udrugama (»Narodne novine«, br. 74/14, u daljnjem tekstu: Zakon)
+– ovjerena suglasnost iz članka 11.

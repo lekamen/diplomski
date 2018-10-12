@@ -1,0 +1,23 @@
+ uslužnih funkcija koje gotovo sva poduzeća trebaju u nekoj mjeri, npr. čišćenje prostorija, vođenje platne liste ili pružanje infrastrukture informacijskih tehnologija za poduzeće (vidi Poglavlje 1., stavak 1.31.).
+Jedinice posebne namjene ukupne države
+2.27. Ukupna država također može uspostaviti jedinice posebne namjene, sa značajkama i funkcijama sličnim društvima koja se bave prijenosom financijskih sredstava i umjetnim društvima kćerima. Takve jedinice nemaju ovlast djelovati neovisno i ograničene su u opsegu transakcija koje mogu obavljati. Ne snose rizike i koristi povezane s aktivom i pasivom koje imaju. Takve jedinice, ako su rezidentne, tretiraju se kao sastavni dio ukupne države, a ne kao posebne jedinice. Ako su nerezidentne, tretiraju se kao posebne jedinice. Sve transakcije koje obave u inozemstvu odražavaju se u odgovarajućim transakcijama s državom. Stoga, za jedinicu koja pozajmljuje u inozemstvu smatra se da pozajmljuje isti iznos ukupnoj državi, i to pod istim uvjetima kao i prvotno pozajmljivanje.
+2.28. Sažeto, računi subjekata posebne namjene bez neovisnih prava postupanja konsolidiraju se s društvom majkom, osim ako su rezidentni u različitom gospodarstvu od onoga u kojem je društvo majka. Postoji jedna iznimka od ovog općeg pravila, a to je kada nerezidentni SPN uspostavi država.
+2.29. Uvjetno rezidentne jedinice se definiraju kao:
+(a) oni dijelovi nerezidentnih jedinica koji imaju središte prevladavajućeg ekonomskog interesa (u većini slučajeva jedinice koje obavljaju ekonomsku proizvodnju godinu dana ili dulje) na ekonomskom području zemlje;
+(b) nerezidentne jedinice u ulozi vlasnika zemljišta i/ili građevina na ekonomskom području zemlje, ali jedino u pogledu transakcija koje se odnose na spomenuto zemljište ili građevine.
+Uvjetno rezidentne jedinice, neovisno o tome vode li samo djelomične račune i neovisno o samostalnosti odlučivanja, tretiraju se kao institucionalne jedinice.
+2.30. Sljedeće se smatra institucionalnim jedinicama:
+(a) jedinice koje imaju samostalnost odlučivanja i potpuni skup računa poput:
+(1) privatnih i javnih društava;
+(2) zadruga ili partnerstava priznatih kao neovisni pravni subjekti;
+(3) javnih proizvođača koji se prema posebnim zakonima priznaju kao neovisni pravni subjekti;
+(4) neprofitnih ustanova priznatih kao neovisni pravni subjekti; i
+(5) agencija ukupne države;
+(b) jedinice koje vode potpuni skup računa i za koje se smatra da samostalno odlučuju usprkos tome što nisu osnovane odvojeno od svojeg društva majke: kvazi-društva;
+(c) jedinice koje ne vode nužno potpuni skup računa, ali za koje se smatra da samostalno odlučuju:
+(1) kućanstva;
+(2) uvjetno rezidentne jedinice.
+INSTITUCIONALNI SEKTORI
+2.31. Makroekonomska analiza ne razmatra aktivnosti svake institucionalne jedinice zasebno – razmatra ukupne aktivnosti sličnih društava. Jedinice se stoga spajaju u grupe koje se nazivaju institucionalni sektori, od kojih se neki dijele na podsektore.
+Tablica 2.1. – Sektori i podsektori
+Sektori i podsektori Javni Nacionalni privatni Pod inozemnom kontrolom Nefinancijska društva S.11 S.11001 S.11002 S.11003 Financijska društva S.12 Monetarne financijske institucije (MFI) Središnja banka S.121 Ostale monetarne financijske institucije (OMFI) Društva koja primaju depozite osim središnje banke S.122 S.12201 S.12202 S.12203 Novčani fondovi (NF) S.123 S.12301 S.12302 S.12303 Financijska društva osim monetarnih financijskih institucija (MFI) i osiguravajućih društava i mirovinskih fondova (ICPF) Nenovčani investicijski fondovi (NNIF) S.124 S.12401 S.12402 S.12403 Ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova S.125 S.12501 S.12502 S.12503 Pomoćne financijske institucije S.126 S.12601 S.12602 S.12603 Društva koja se bave prijenosom financijskih sredstava i zajmodavci S.127 S.12701 S.12702 S.12703 Osiguravajuća društva i mirovinski fondovi (ICPF) Osiguravajuća društva (IC) S.128 S.12801 S.12802 S.12803 Mirovinski fondovi (PF) S.129 S.12901 S.12902 S.12903

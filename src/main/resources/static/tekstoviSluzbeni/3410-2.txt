@@ -1,0 +1,21 @@
+SAMOUPRAVE
+Članak 13.
+U iznos osiguranih depozita na koji se Izvješće o stanju ukupnih i osiguranih depozita za obračun premije odnosi, a u dijelu posebnosti računa sukladno članku 6. Zakona uključuju se:
+1) stanja zajedničkih računa iz članka 6. stavka 1. Zakona na način da se udio svakog suvlasnika u zajedničkom računu uključuje u njegov obračun osiguranog depozita, a svakog suvlasnika u zajedničkom računu i iznos njegovih depozita treba prikazati u sektoru kojem pripada prema Sektorskoj klasifikaciji institucionalnih jedinica prema Europskom sustavu nacionalnih računa 2010 (ESA 2010) na dan sastavljanja Izvješća o stanju ukupnih i osiguranih depozita za obračun premije,
+2) stanja povjereničkih računa iz članka 6. stavka 3. Zakona na način da se pripadajući iznos depozita svakog stvarnog vlasnika uključuje u njegov obračun osiguranog depozita, a svakog stvarnog vlasnika i iznos njegovih depozita treba prikazati u sektoru kojem pripada prema Sektorskoj klasifikaciji institucionalnih jedinica prema Europskom sustavu nacionalnih računa 2010 (ESA 2010) na dan sastavljanja Izvješća o stanju ukupnih i osiguranih depozita za obračun premije.
+Članak 14.
+(1) Sukladno članku 5. stavku 4. Zakona depoziti jedinica lokalne i područne (regionalne) samouprave čiji godišnji proračun, odnosno prihod poslovanja iskazan u godišnjim financijskim izvješćima, za prethodnu godinu u odnosu na dan nastupa osiguranog slučaja iznosi najviše 3.750.000,00 kuna smatraju se prihvatljivim depozitima.
+(2) Za potrebe ovoga Pravilnika depoziti jedinica lokalne i područne (regionalne) samouprave iz stavka 1. ovoga članka jesu depoziti lokalne države prema Sektorskoj klasifikaciji institucionalnih jedinica prema Europskom sustavu nacionalnih računa 2010 (ESA 2010).
+(3) Ministarstvo financija će popis jedinica iz stavka 1. ovoga članka dostaviti Agenciji do kraja ožujka tekuće godine za prethodnu godinu.
+(4) Agencija će popis jedinica iz stavka 3. ovoga članka učiniti dostupnim kreditnim institucijama objavom na mrežnoj stranici Agencije u roku od 15 dana od dana primitka.
+VII. POSTUPAK ISPLATE OBEŠTEĆENJA ZA OSIGURANE DEPOZITE
+Članak 15.
+(1) Isplatu obeštećenja može provoditi Agencija ili kreditna institucija koja temeljem ugovora o nalogu, u ime i za račun Agencije, provodi isplatu (u daljnjem tekstu: isplatna kreditna institucija).
+(2) Agencija je dužna isplatnoj kreditnoj instituciji omogućiti izravan pristup bazi podataka o provedenim obračunima obeštećenja i izdanim nalozima za isplatu obeštećenja.
+Članak 16.
+Danom nastupa osiguranog slučaja iz članka 3. stavka 1. točke 7. Zakona, Agencija je dužna:
+1) obavijestiti deponente kreditne institucije o nastupu osiguranog slučaja kreditne institucije na svojoj mrežnoj stranici te oglasom u najmanje dvjema dnevnim novinama, koje su dostupne na području Republike Hrvatske. Obavijest o nastupu osiguranog slučaja mora sadržavati informaciju o načinu i roku ostvarenja prava na obeštećenje te informaciju da su ukupna sredstva potrebna za isplatu obeštećenja na raspolaganju u isplatnoj kreditnoj instituciji.
+2) poduzeti sve potrebne radnje za pripremu i provedbu postupka obeštećenja deponenata.
+3) zatražiti od kreditne institucije, u kojoj je nastupio osigurani slučaj, sve podatke i dokumentaciju koja je potrebna za obračun obeštećenja, a sukladno Prilogu 1. ovoga Pravilnika.
+4) provesti postupak obračuna obeštećenja temeljem primljenih podataka za sve deponente čiji se depoziti smatraju prihvatljivim sukladno članku 5. Zakona. Obračun obeštećenja sadrži podatke o: deponentu, iznosu svih deviznih depozita preračunatih u kune po srednjem tečaju Hrvatske narodne banke važećem na dan nastupa osiguranog slučaja, iznosu svih kunskih depozita, iznosu dospjelih obveza deponenta prema kreditnoj instituciji na dan nastupa osiguranog slučaja i iznosu prava na obeštećenje. Svakom obračunu obeštećenja se programski dodjeljuje jedinstveni broj.
+5) izdati nalog za isplatu obeštećenja svim deponentima kojima je provedenim obračunom

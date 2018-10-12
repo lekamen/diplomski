@@ -1,0 +1,30 @@
+ prije početka provedbe izmijenjenog plana.
+Plan se dostavlja isključivo u pismenom obliku putem e-pošte, a ovlaštena veterinarska organizacija dužna je kopiju plana i dokaz o dostavi nadležnoj ispostavi veterinarskog ureda, čuvati u evidenciji tijekom tekuće godine.
+2. UZORKOVANJE I IZVJEŠĆIVANJE
+Sve veterinarske organizacije koje mogu provoditi uzorkovanje na temelju rješenja ili Ugovora sklopljenog s Upravom, moraju imati opisan poslovni proces uzorkovanja unutar sustava upravljanja kvalitetom te isti implementirati u provedbi ove mjere. Poslovni proces mora uvažavati sve relevantne propise, Kodeks dobre veterinarske prakse i Kodeks veterinarske etike.
+Uzorkovanje
+Epruvete za uzorkovanje krvi ovlaštene veterinarske organizacije nabavljaju od dijagnostičkih laboratorija HVI-a Zagreb i veterinarskih Zavoda.
+Primjerak Obrasca za dostavu uzoraka na laboratorijsko pretraživanje (Obrazac), namijenjen Upravi, ovlaštena veterinarska organizacija mora dostavljati Upravi najkasnije tjedan dana nakon provedenog uzorkovanja.
+Uzimanje uzoraka nakon pobačaja
+Po prijavi pobačaja, ovlašteni veterinar mora uzeti odgovarajući uzorak:
+Krave, ovce, koze:
+– krv životinje koja je pobacila i vaginalni bris, tj. vaginalna sluz,
+– posteljica, lohije, i
+– pobačeni fetus ili organi pobačenog fetusa: podvezani želudac, slezena i jetra, te u slučaju sumnje na infekciju Schmallenberg virusom i mozak, amnionska tekućina, mekonij.
+Kobile, krmače:
+– krv životinje koja je pobacila, i
+– pobačeni fetus ili organi pobačenog fetusa: podvezani želudac, slezena i jetra.
+Izvješćivanje
+Sva izvješća (pozitivna/negativna) laboratoriji dostavljaju u elektroničkom obliku (PDF-u) Upravi na sljedeću e-mail adresu: veterinarstvo.nalazi@mps.hr .
+Izvješća o pozitivnom nalazu pretraživanja laboratoriji dostavljaju u elektroničkom obliku (PDF-u) Upravi na sljedeću e-mail adresu: vetinspekcije.nalazi@mps.hr
+Izvješća o pozitivnim rezultatima pretraživanja na bilo koju bolest koja se pretražuje prema Naredbi laboratorij mora dostaviti odmah po završetku pretraživanja s naznakom da se radi o poruci visoke važnosti (Microsoft Outlook – oznaka važnosti poruke: visoka (znak uskličnika)).
+Izvješće o negativnom nalazu pretraživanja, laboratorij mora dostaviti najkasnije 48 sati po završetku pretraživanja.
+Osim Upravi, laboratoriji su dužni elektroničkim putem dostaviti sva izvješća o provedenim pretragama ovlaštenoj veterinarskoj organizaciji koja je provela uzorkovanje, odnosno pošiljatelju.
+O negativnim rezultatima pretrage koje su provedene u svrhu isključivanja sumnje, ovlaštene veterinarske organizacije dužne su izvijestiti nadležnu ispostavu veterinarskog ureda.
+O pozitivnim rezultatima pretraga, ovlaštene veterinarske organizacije dužne su izvijestiti posjednika, a o rezultatima pretraga čiji se troškovi podmiruju iz sredstava državnog proračuna, ovlaštene veterinarske organizacije dužne su izvijestiti posjednika po njegovom zahtjevu.
+Izvješća o rezultatima pretraga čije troškove pokriva posjednik, laboratorij je dužan dostaviti i na adresu posjednika.
+3. PRIJAVA BOLESTI
+Prijava sumnje i potvrđenog slučaja bolesti, kao i odjava zarazne bolesti, provodi se u skladu s odredbama Pravilnika o načinu praćenja, prijavi i izvješćivanju o pojavi bolesti životinja (»Narodne novine«, br. 135/2014).
+Pravilna primjena Pravilnika o načinu praćenja, prijavi i izvješćivanju o pojavi bolesti životinja u smislu postupanja posjednika, veterinara, ovlaštenih veterinara i veterinarskih inspektora od iznimne je važnosti za pravovremeno otkrivanje bolesti ili sumnje na bolest.
+Veterinari su dužni upozoriti posjednike životinja na važnost prijave svih znakova na temelju kojih se može posumnjati na zaraznu i/ili nametničku bolest, kao i na obveznu prijavu pobačaja i uginuća životinja u svrhu potvrđivanja ili isključivanja bolesti.
+Svaki pobačaj ili uginuće više od jedne životinje podrijetlom s istog gospodarstva predstavlja sumnju na zaraznu/ili nametničku bolest te je u takvim slučajevima obveza

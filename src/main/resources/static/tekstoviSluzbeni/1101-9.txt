@@ -1,0 +1,24 @@
+njegov položaj unutar cestovnog pravca.
+Za tipove linkova 0 i 1, prvi link koji počinje u ishodištu cestovnog pravca ima redni broj 1. Slijedeći link ima redni broj 2, te svaki slijedeći dobiva broj »prethodni+1« sve do zadnjeg linka u smjeru cestovnog pravca. Za linkove u smjeru cestovnog pravca predviđeni su redni brojevi od 1 do 500.
+Redni brojevi linkova tipa 2 rastu u smjeru obrnutom od smjera glavnog cestovnog pravca, tj. u smjeru rasta njihove stacionaže. Za linkove tipa 2 predviđeni su redni brojevi od 501 na više. Zbog nekontinuiranog pojavljivanja u glavnom cestovnom pravcu, svako novo grananje, tj. odvajanje od glavnog pravca počinje sa skokom od 50 (551, 601, 651…).
+Linkovi koji se ne nalaze u glavnom cestovnom pravcu (tipovi linkova 3 – 9), nemaju redni broj, već se preko nadređenog linka koji je u glavnom pravcu može saznati pozicija unutar cestovnog pravca.
+Kod određivanja nadređenog linka nekom linku koji nije u glavnom cestovnom pravcu gleda se po prioritetu:
+a) Pripadnost linka određenom cestovnom pravcu.
+b) Čvor iz kojeg se granaju ili čvor u koji se spajaju link i nadređeni mu link, gledano u smjeru cestovnog pravca,
+c) U slučajevima kada dolazi do pojave višestrukog grananja (nizanja) podređenih linkova, svima njima za nadređeni link uzima se onaj link u glavnom pravcu od kojeg je započelo ili u kojem završava grananje, gledano u smjeru cestovnog pravca.
+8. Dionice
+8.1 Definicija dionice
+Dionica je osnovni nositelj sustava označavanja za korisnika. U poslovno-financijskom smislu ona predstavlja mjesto troška preko kojeg je moguće pratiti stanje poslovno financijskih parametara.
+Definirana je kao skup linkova i jednoznačno je određena identifikacijskom oznakom cestovnog pravca i rednim brojem dionice unutar cestovnog pravca kojem pripada. Dionica je sastavljena od jednog ili više linkova, a početna i završna točka dionice su određene stacionažom početnog i stacionažom završnog linka na dionici.
+Uvođenjem dionica, svim korisnicima cestovne infrastrukture, bilo da se radi o korištenju ili održavanju cesta, želi se olakšati snalaženje te točnije referenciranje na cestovnoj mreži.
+Link kao osnovni element adresnog sustava je neophodan za zapisivanje podataka u bazu, ali za potrebe prikupljanja cestovnih podataka ili u cilju lakšeg referenciranja na cestovnoj mreži korisniku je prihvatljiviji pojam dionice koja se kao takva i označava na terenu odgovarajućim prometnim znakom obavijesti.
+8.2 Identifikacijska oznaka dionice
+Identifikacijske oznake dionica u smjeru cestovnog pravca sastoje se od tri znamenke, počinju od broja »1« na više, s naznačenim vodećim nulama. Ujedno predstavljaju i redni broj dionice u cestovnom pravcu.
+Identifikacijske oznake dionica u smjeru obrnutom od smjera cestovnog pravca sastoje se od tri znamenke. Prva znamenka prikazuje broj dionice u smjeru obrnutom od smjera cestovnog pravca, a druga i treća znamenka prikazuju broj dionice u smjeru cestovnog pravca na koju se ova dionica »kontra smjera« odnosi.
+8.3 Mjerila za uspostavu dionica javnih cesta
+Obzirom da su kod javnih cesta, gledano građevinski, kolnici na pojedinim mjestima razdvojeni, dionice se uspostavljaju, kako u smjeru cestovnog pravca (osnovne dionice), tako i u smjeru obrnutom od smjera cestovnog pravca (suprotne dionice).
+Svrha takvog načina uspostavljanja dionica je jednoznačno i postojano određivanje elemenata adresnog sustava i njihove pripadnosti, te jednostavnijeg i točnijeg mjerenja i prikupljanja podataka po dionicama na samom terenu.
+Javna cesta može imati jednu ili više dionica koje su međusobno razgraničene križanjem s drugom javnom cestom veće ili iste kategorije.
+Iznimno, dionica javne ceste može se uspostaviti do križanja sa javnom cestom niže kategorije kako bi se izbjegle predugačke dionice.
+Iznimno, početak prve ili kraj zadnje dionice može biti određen državnom granicom, obalnom crtom ili javnom cestom niže kategorije.
+Dionica u smjeru cestovnog pravca (osnovna dionica) ne smije biti kraća od 100 m, izuzev

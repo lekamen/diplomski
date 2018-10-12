@@ -1,0 +1,36 @@
+26 09.03.2015 Pravilnik o dozvoljenim ulaganjima o ograničenjima ulaganja UCITS fonda
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+562
+Na temelju članka 97. stavka 7., članka 249. stavka 5., članka 249.a stavka 9. i članka 250.f Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« br. 16/2013 i 143/2014, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 27. veljače 2015. godine donijela je
+PRAVILNIK
+O DOZVOLJENIM ULAGANJIMA I OGRANIČENJIMA ULAGANJA UCITS FONDA
+Članak 1.
+Ovim pravilnikom detaljnije se propisuju:
+– financijski instrumenti i poslovi na tržištu kapitala u koje se može ulagati imovina UCITS fonda prema odredbama Zakona koje se odnose na korištenje tehnika i instrumenata vezanih uz prenosive vrijednosne papire i instrumente tržišta novca u svrhu učinkovitog upravljanja portfeljem, način njezina ulaganja te ograničenja i uvjeti takvih ulaganja,
+– dozvoljena ulaganja UCITS fonda,
+– institucije koje se smatraju drugom ugovornom stranom u transakcijama s OTC izvedenicama,
+– kategorije drugih izdavatelja instrumenata tržišta novca kojima se ne trguje na uređenim tržištima,
+– ograničenja ulaganja imovine UCITS fonda,
+– tržišta koja se smatraju uređenima,
+– uvjeti i ograničenja vezani za tehnike i instrumente za efikasno upravljanje imovinom UCITS fonda.
+Članak 2.
+Društvo za upravljanje dužno se prilikom upravljanja imovinom UCITS fonda pridržavati svih odredbi prospekta predmetnog UCITS fonda koje se odnose na vrste imovine u koje je dopušteno ulagati, korištenje tehnika i instrumenata za efikasno upravljanje imovinom UCITS fonda i na ograničenja ulaganja UCITS fonda.
+Uređena tržišta
+Članak 3.
+(1) Uređeno tržište u smislu Zakona je tržište koje ispunjava uvjete za uređeno tržište u skladu s odredbama zakona koji uređuje tržište kapitala u Republici Hrvatskoj i/ili drugoj državi članici.
+(2) Službena kotacija u smislu Zakona je kotacija burze sa sjedištem u trećoj državi koja minimalno ispunjava uvjete za uređeno tržište propisane zakonom koji uređuje tržište kapitala u Republici Hrvatskoj i/ili drugoj državi članici.
+(3) Druga uređena tržišta u smislu Zakona su ona koja ispunjavaju sljedeće uvjete:
+1. u vezi s njima društvo za upravljanje ima propisane sve potrebne procedure i postupke koji osiguravaju postupanje pažnjom dobrog stručnjaka u skladu s pravilima ponašanja propisanim Zakonom i pravilnikom koji uređuje organizacijske zahtjeve društva za upravljanje,
+2. u vezi s njima depozitar UCITS fonda ima propisane sve potrebne procedure i postupke za namiru vrijednosnih papira,
+3. imaju odobrenje, regulirana su i predmet su nadzora od strane nadležnih tijela sukladno nacionalnom zakonodavstvu država u kojima imaju sjedište,
+4. njihovi članovi i operater središnjeg registra nematerijaliziranih financijskih instrumenata su predmet nadzora od strane nadležnih tijela sukladno nacionalnom zakonodavstvu država u kojima imaju sjedište,
+5. namira transakcija izvršava se u prihvatljivom vremenskom roku,
+6. na njima je dozvoljeno ulagati UCITS fondu odnosno otvorenom investicijskom fondu s javnom ponudom iz države sjedišta toga tržišta,
+7. redovito posluju odnosno na njima se kontinuirano u propisanom vremenu odvija trgovanje,
+8. zadovoljavaju uvjete likvidnosti na tržištu uzimajući u obzir broj sudionika i mogućnost kontinuiranog utvrđivanja fer cijena financijskih instrumenata kojima se na njima trguje,
+9. otvorena su za javnost.
+Prenosivi vrijednosni papiri
+Članak 4.
+(1) Prenosivi vrijednosni papiri u smislu Zakona u koje je UCITS fondu dozvoljeno ulagati su oni koji zadovoljavaju sljedeće kriterije:
+1. potencijalni gubitak koji UCITS fond može pretrpjeti u odnosu na držanje tih instrumenata je ograničen na iznos koji je za njih plaćen,
+2. njihova likvidnost ne ugrožava ispunjavanje Zakonom i/ili prospektom propisanih uvjeta i rokova isplate pri otkupu udjela, osim u slučajevima kada društvo za upravljanje dokumentirano procijeni da 

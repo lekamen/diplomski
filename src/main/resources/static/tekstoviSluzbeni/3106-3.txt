@@ -1,0 +1,30 @@
+ program osposobljavanja,
+– osigurati provođenje praktične nastave za svakog polaznika,
+– voditi evidenciju osoba koje su završile program osposobljavanja i usavršavanja,
+– omogućiti Ministarstvu nadzor nad provedbom programa osposobljavanja i usavršavanja i drugim obvezama koje ima u skladu s ovim Pravilnikom, te nad dokumentima na temelju kojih se vodi evidencija osoba koje pohađaju izobrazbu,
+– učiniti dostupnim program osposobljavanja i usavršavanja te suglasnost za provođenje programa osobama koje pohađaju izobrazbu na svojim službenim internetskim stranicama,
+– objavljivati pozive za sudjelovanje na programu osposobljavanja i usavršavanja, uključujući obrazac za prijavu kandidata, na službenim internet stranicama nositelja izobrazbe i Ministarstva te po potrebi i drugim sredstvima javnog priopćavanja na području cijele Republike Hrvatske,
+– osigurati polaznicima koji pohađaju program osposobljavanja i usavršavanja pisane materijale sukladno programu.
+(2) Nositelj programa u pisanom i elektroničkom obliku dostavlja Ministarstvu podatke o osobama koje su završile program osposobljavanja u roku od 15 dana od provedene provjere znanja, odnosno 15 dana od održanog programa usavršavanja.
+(3) U slučaju da Nositelj programa ne dostavi podatke u rokovima iz stavka 2. ovog Pravilnika, dužan je Ministarstvu pisanim putem dostaviti obrazloženje s opisom razloga nepostupanja.
+(4) Nositelj programa obvezan je omogućiti osposobljavanje ili usavršavanje najmanje jednom godišnje.
+(5) Nositelj programa dužan je trajno ispunjavati propisane uvjete za davanje suglasnosti i o svakoj promjeni koja može utjecati na valjanost suglasnosti bez odlaganja, a najkasnije u roku od 15 dana, pisano obavijestiti Ministarstvo.
+Uvjeti za predavača
+Članak 13.
+(1) Predavači na osposobljavanju mogu biti osobe s najmanje završenim diplomskim sveučilišnim ili specijalističkim diplomskim studijem prometne, građevinske ili psihologijske struke s najmanje deset godina radnog iskustva u području cestovnog projektiranja, prometnog inženjerstva, tehnologije prometa, građenja, održavanja prometnica ili psihologije, uz uvjet da ima iskustvo vezano i za sigurnost prometa.
+(2) Stručno iskustvo predavača iz prethodnog stavka dokazuje se izrađenim projektima, te stručnim i znanstvenim člancima iz navedenih područja i potvrdom poslodavca o iskustvu iz navedenog područja.
+Provjera znanja
+Članak 14.
+(1) Provjeru znanja osoba koje su pohađale program osposobljavanja provodi Nositelj programa putem ispitne komisije. Provjera znanja se obavlja nakon završenog programa osposobljavanja.
+(2) Ispitnu komisiju čine 5 osoba, od kojih su 3 osobe koje su sudjelovale u provođenju programa i po jedna osoba iz Ministarstva i ministarstva nadležnog za poslove sigurnosti cestovnog prometa.
+(3) Ispit se sastoji od pismenog i praktičnog dijela.
+(4) Kod provođenja provjere znanja Nositelj programa vodi zapisnik koji potpisuje komisija te obvezno sadrži:
+– podatke o osobi koja je pristupila provjeri znanja (ime i prezime, akademski ili stručni naziv, osobni identifikacijski broj, datum i mjesto rođenja),
+– datum provođenja provjere znanja,
+– ispit koji je rješavala osoba koja je pristupila provjeri znanja,
+– imena i prezimena osoba koje su provele provjeru znanja.
+(5) Smatra se da je osoba uspješno položila pismeni dio provjere znanja ukoliko je ostvarila najmanje 70% bodova od svakog poglavlja koje je predmet ispita.
+(6) Praktični dio provjere znanja sastoji se od provođenja revizije i izrade izvješća temeljem studije slučaja.
+(7) Smatra se da je osoba uspješno položila praktični dio provjere znanja ukoliko je izrađeno revizorsko izvješće ocjenjeno pozitivno.
+(8) Osoba koja ne položi pismeni dio provjere znanja i/ili praktični dio provjere znanja ima pravo još jednom pristupiti provjeri znanja u dijelu koji nije položila.
+(9) Ako i nakon ponovnog pristupanja provjeri pismenog i/ili praktičnog dijela provjere znanja osoba nije položila, može ponovno pohađati cijeli program izobrazbe i nakon

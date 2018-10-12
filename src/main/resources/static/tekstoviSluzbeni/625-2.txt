@@ -1,0 +1,37 @@
+ izvještaje u elektroničkom obliku iz stavka 1. ovoga članka Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, predaje i Referentnu stranicu ovjerenu potpisom zakonskog zastupnika i pečatom.
+(3) Referentna stranica iz stavka 2. ovoga članka nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(4) Neprofitna organizacija može Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, predati financijske izvještaje na obrascima propisanim ovim Pravilnikom i u papirnatom obliku.
+III. FINANCIJSKO IZVJEŠTAVANJE U SUSTAVU JEDNOSTAVNOG KNJIGOVODSTVA
+Članak 12.
+(1) Neprofitna organizacija koja udovoljava uvjetima iz članka 9. stavka 2. Zakona za vođenje jednostavnog knjigovodstva i koja je donijela Odluku o vođenju jednostavnog knjigovodstva i primjeni novčanog računovodstvenog načela, sastavlja godišnji financijski izvještaj o primicima i izdacima za prethodnu poslovnu godinu.
+(2) Neprofitna organizacija iz stavka 1. ovoga članka sastavlja godišnji financijski izvještaj o primicima i izdacima na Obrascu: G-PR-IZ-NPF koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(3) Zaglavlje i podnožje Obrasca: G-PR-IZ-NPF popunjava se sukladno članku 7. ovoga Pravilnika.
+(4) Obrazac: G-PR-IZ-NPF sadrži sljedeće podatke:
+– stupac 1 – redni broj
+– stupac 2 – opis
+– stupac 3 – AOP oznaka
+– stupac 4 – ostvareno u prethodnoj poslovnoj godini
+– stupac 5 – ostvareno u tekućoj poslovnoj godini.
+(5) Neprofitna organizacija iz stavka 1. ovoga članka predaje Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, godišnji financijski izvještaj o primicima i izdacima u roku od 60 dana od isteka poslovne godine na način utvrđen člankom 11. ovoga Pravilnika.
+IV. IZJAVA O NEAKTIVNOSTI
+Članak 13.
+(1) Izjavu o neaktivnosti sastavlja neprofitna organizacija za prethodnu poslovnu godinu ako tijekom te poslovne godine nije imala poslovnih događaja, niti u poslovnim knjigama iskazane podatke o imovini i obvezama.
+(2) Poslovnim događajem iz stavka 1. ovoga članaka smatra se i trošak povezan s vođenjem računa neprofitne organizacije (provizija banke) i drugi slični troškovi.
+(3) Izjava o neaktivnosti sastavlja se na Obrascu: IZJAVA-NPF koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
+(4) Zaglavlje i podnožje Obrasca: IZJAVA-NPF popunjava se sukladno članku 7. ovoga Pravilnika.
+(5) Izjavu o neaktivnosti za prethodnu poslovnu godinu neprofitna organizacija dostavlja Ministarstvu financija u roku od 60 dana od isteka poslovne godine.
+V. IZVJEŠTAJ O POTROŠNJI PRORAČUNSKIH SREDSTAVA
+Članak 14.
+(1) Neprofitna organizacija koja ostvaruje sredstva iz javnih izvora, uključujući i sredstva državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave obvezno sastavlja izvještaj o potrošnji proračunskih sredstava za poslovnu godinu i dostavlja ga davatelju sredstava u roku od 60 dana od isteka poslovne godine.
+(2) Izvještaj iz stavka 1. ovoga članka može se sastavljati i za razdoblja u tijeku poslovne godine ako to zatraži davatelj sredstava.
+(3) Izvještaj iz stavka 1. ovoga članka može se dostaviti davatelju sredstava i u roku različitom od roka iz stavka 1. ovoga članka, ako je rok utvrđen u drugim propisima ili aktima.
+Članak 15.
+(1) Izvještaj o potrošnji proračunskih sredstava sastavlja se na Obrascu: PROR-POT ako drugim propisima ili aktima nije utvrđen detaljniji sadržaj i izgled obrasca izvještaja o potrošnji proračunskih sredstava.
+(2) Obrazac: PROR-POT, koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio, sadrži najmanje sljedeće podatke:
+I. Opći podaci:
+1. primatelj sredstava
+2. davatelj sredstava
+3. naziv projekta/programa/ostalo
+4. razdoblje izvještavanja
+II. Financijski podaci
+III. Ostali javni izvori financiranja (projekta/programa/ostalo, za koji se 

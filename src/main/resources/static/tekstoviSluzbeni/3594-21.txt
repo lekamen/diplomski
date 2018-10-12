@@ -1,0 +1,24 @@
+ njihove učestalosti;
+d) izvješća o kvaliteti, kao što su izvješća o provjeri i podaci o ispitivanjima i kalibraciji, izvještaji o osposobljenosti zaposlenika itd.; te
+e) nadzornih mjera za postizanje tražene kvalitete proizvoda i učinkovitog djelovanja sustava kvalitete.
+3.3. Prijavljeno tijelo ocjenjuje sustav kvalitete kako bi utvrdilo udovoljava li zahtjevima navedenim u točki 3.2.
+Ono pretpostavlja sukladnost s tim zahtjevima u odnosu na elemente sustava kvalitete koji su u skladu s odgovarajućim specifikacijama relevantnih usklađenih normi.
+Uz iskustvo u sustavu vođenja kvalitete ocjeniteljski tim također mora imati najmanje jednog člana s iskustvom u ocjenjivanju iz područja relevantnog proizvoda i tehnologije proizvoda kao i znanje o primjenjivim zahtjevima iz ovoga Pravilnika. Postupak ocjene uključuje obilazak objekata proizvođača u svrhu ocjenjivanja. Ocjeniteljski tim pregledava tehničku dokumentaciju iz točke 3.1. podtočke e) kako bi potvrdio sposobnost proizvođača da utvrdi primjenjive zahtjeve iz ovoga Pravilnika te kako bi izvršio nužne preglede za osiguranje sukladnosti proizvoda s tim zahtjevima.
+Odluka se upućuje proizvođaču. Obavijest sadrži zaključke ocjene i obrazloženu odluku o ocjeni.
+3.4. Proizvođač se obvezuje da će ispuniti obaveze koje proizlaze iz odobrenog sustava kvalitete te da će se pobrinuti da ostane odgovarajući i učinkovit.
+3.5. Proizvođač izvješćuje prijavljeno tijelo koje je odobrilo sustav kvalitete o svakoj planiranoj izmjeni sustava kvalitete.
+Prijavljeno tijelo ocjenjuje sve predložene izmjene i donosi odluku o tome hoće li izmijenjeni sustav kvalitete i dalje udovoljavati zahtjevima navedenim u točki 3.2. ili je potrebno ponovno ocjenjivanje.
+O svojoj odluci obavješćuje proizvođača. Obavijest sadrži zaključke pregleda i obrazloženu odluku o ocjeni.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Nadzorom se nastoji osigurati da proizvođač propisno ispunjava obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Proizvođač u svrhu ocjene prijavljenom tijelu omogućuje pristup prostorima za proizvodnju, provjeru, ispitivanje i skladištenje te pritom pruža sve potrebne informacije, a posebno:
+a) dokumentaciju o sustavu kvalitete;
+b) zapise o kvaliteti, kao što su izvješća o provjeri, podaci o ispitivanju i umjeravanju, izvješća o osposobljenosti uključenih zaposlenika itd.
+4.3. Prijavljeno tijelo provodi povremene ocjene kako bi osiguralo da proizvođač održava i primjenjuje sustav kvalitete te proizvođaču podnosi izvješće o ocjeni.
+4.4. Prijavljeno tijelo može nenajavljeno posjetiti proizvođača. Tijekom takvih posjeta prijavljeno tijelo može, ako je potrebno, izvršiti ili dati izvršiti ispitivanja proizvoda kako bi provjerilo pravilno djelovanje sustava kvalitete. Prijavljeno tijelo proizvođaču dostavlja izvješće o posjetu, a ako su provedena ispitivanja i izvješće o ispitivanjima.
+5. Oznaka CE, EU izjava o sukladnosti i potvrda o sukladnosti
+5.1. Proizvođač postavlja oznaku CE te, na odgovornost prijavljenog tijela iz točke 3.1., njezin identifikacijski broj na svaki pojedinačni proizvod koji nije komponenta koji je u skladu s tipom opisanim u certifikatu o EU ispitivanju tipa i koji zadovoljava primjenjive zahtjeve ovoga Pravilnika.
+5.2. Proizvođač sastavlja pisanu EU izjavu o sukladnosti za svaki model proizvoda koji nije komponenta i stavlja je na raspolaganje državnim tijelima tijekom deset godina od stavljanja proizvoda koji nije komponenta na tržište. U EU izjavi o sukladnosti navodi se takav model proizvoda za koji je ta izjava sastavljena.
+Uz svaki proizvod koji nije komponenta nalazi se primjerak EU izjave o sukladnosti.
+5.3. Proizvođač sastavlja pisanu potvrdu o sukladnosti za svaki uzorak komponente i čuva je, na raspolaganju državnim tijelima, najmanje deset godina nakon što je komponenta stavljena na tržište. U potvrdi o sukladnosti navodi se model komponente za koji je ta potvrda sastavljena. Uz svaku komponentu nalazi se primjerak potvrde o sukladnosti.
+6.

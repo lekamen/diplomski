@@ -1,0 +1,22 @@
+ neprihvaćanju zahtjeva, kao i o datumu prijenosa broja (ukoliko je promjena operatora praćena s prijenosom broja). U slučaju da krajnji korisnik u propisanim rokovima nije dobio navedenu obavijest smatra se da je zahtjev odbijen, osim u slučaju kada novi operator pribavi suglasnosti krajnjeg korisnika za produljenjem valjanosti zahtjeva.
+Pretplatnik daje HT-u svoju suglasnost za zadržavanje/prijenos njegovog telefonskog broja u slučaju aktivacije usluge najma korisničke linije. Pretplatnik daje izričito ovlaštenje novom operatoru da ovu jedinstvenu izjavu uputi postojećem operatoru i veleprodajnom operatoru zajedno s jedinstvenim zahtjevom za veleprodajne usluge.
+Podnositelj jedinstvene izjave krajnjeg korisnika o raskidu ugovora s postojećim operatorom (dalje: Zahtjev) izričito izjavljuje da podnošenjem ovog Zahtjeva ujedno podnosi zahtjev za raskid pretplatničkog odnosa s postojećim operatorom, odnosno zahtjev za obustavu označenih usluga unutar Zahtjeva kod postojećeg operatora te daje izričito ovlaštenje novom operatoru da ovaj Zahtjev uputi postojećem operatoru.
+Podnositelj Zahtjeva potvrđuje da je obaviješten da je prigodom raskida ugovora o korištenju usluge pristupa internetu obvezan zatražiti i isključenje svih dobivenih identifikacijskih oznaka (korisničkih računa) od postojećeg operatora elektroničkih komunikacija, odnosno da može zadržati svoje korisničke račune. Podnositelj Zahtjeva ovime izjavljuje da je, u slučaju da zadržava gore zahtijevane usluge s postojećim operatorom, spreman snositi buduće troškove.
+Podnositelj Zahtjeva svojim potpisom potvrđuje da je suglasan da se njegovi osobni podaci, koji se koriste u svrhu omogućavanja usluge prijenosa broja, prikupljaju, obrađuju i razmjenjuju između operatora i Hrvatske regulatorne agencije za mrežne djelatnosti (HAKOM) u svrhu pružanja usluge prenosivosti broja.
+Nakon što je davatelj broja zaprimio Zahtjev, podnositelj Zahtjeva ne može zatražiti otkazivanje prijenosa broja, osim u sljedećim slučajevima:
+a) ukoliko je došlo do kašnjenja u prijenosu broja dulje od 8 radnih dana,
+b) u slučaju zavaravajuće prodaje,
+c) ukoliko je iskoristio pravo na jednostrani raskid ugovora sukladno posebnim propisima o zaštiti potrošača.
+Podnositelj Zahtjeva obvezan je postojećem operatoru platiti korištene komunikacijske usluge za vrijeme do trenutka prijenosa broja u mrežu primatelja broja, odnosno do trenutka realizacije usluge u mreži novog operatora te neovisno o prijenosu broja ili realizaciji usluga kod novog operatora, obveze vezano uz naplatu i/ili povrat opreme primjenjive su sve do trenutka podmirenja svih dugovanja za predmetnu uslugu.
+Pretplatnički odnos između postojećeg operatora i podnositelja Zahtjeva kojem je uspješno prenesen broj u mrežu primatelja broja ili realizirana usluga kod novog operatora, smatrat će se raskinutim u trenutku završetka prijenosa broja ili realizacijom usluga kod novog operatora.
+Podnositelj Zahtjeva u cijelosti je upoznat sa sljedećim:
+a) roku u kojem je novi operator obvezan obavijestiti krajnjeg korisnika o prihvaćanju ili neprihvaćanju Zahtjeva,
+b) roku u kojem je novi operator obvezan poslati obavijest krajnjem korisniku u kojoj će biti naveden datum i vremenski okvir prijenosa broja,
+c) uslugama postojećeg operatora koje prestaju nakon prijenosa broja u mrežu primatelja broja ili nakon realizacije usluga kod novog operatora,
+d) opsegom korištenja i aktivaciji usluga novog operatora,
+e) svim razlozima odbijanja Zahtjeva,
+f) svim razlozima odgode Zahtjeva,
+g) mogućnosti da se zatraženi broj nalazi unutar VPN serije ili niza koje se odnose na isti priključak,
+h) mogućnosti aktivacije besplatne usluge obavijesti o mreži u kojoj se nalazi pozivani broj,
+i) pravom za naknadu u slučaju nepravovremenog prijenosa broja ili u slučaju kašnjenja pri realizaciji promjene operatora,
+j) da podnošenjem Zahtjeva daje svoju privolu postojećem i novom operatoru za razmjenu podataka o neplaćenim i dospjelim, a neosporenim dugovanjima, u svrhu zaštita

@@ -1,0 +1,32 @@
+ HNB određuje limite na obračunskim računima neposrednih sudionika u skladu s člankom 11. ove Odluke i obavlja poslove agenta za namiru NKS-a u skladu s člankom 12. ove Odluke.
+(2) HNB onemogućuje obračun platnih transakcija na teret i u korist obračunskog računa neposrednog sudionika iz članka 2. točaka 2. i 3. ove Odluke u slučaju:
+a) donošenja odluke Savjeta HNB-a o podnošenju prijedloga za otvaranje stečajnog postupka nad tim sudionikom,
+b) objave trenutka nastupa pravnih posljedica podnošenja prijedloga Državne agencije za osiguranje štednih uloga i sanaciju banaka za otvaranje stečajnog postupka nad tim sudionikom ili
+c) donošenja odluke HNB-a o pokretanju postupka prisilne likvidacije tog sudionika.
+(3) HNB onemogućuje obračun platnih transakcija na teret i u korist odnosno samo na teret obračunskog računa neposrednog sudionika iz članka 2. točke 4. ove Odluke odmah nakon primitka obavijesti nadležnog tijela druge države članice o pokretanju postupka zbog insolventnosti s posljedicom zabrane plaćanja.
+(4) HNB onemogućuje obračun platnih transakcija na teret obračunskog računa neposrednog sudionika iz članka 2. točaka 2. i 3. ove Odluke u slučaju primitka odluke suda ili naloga Fine kojima se privremeno zabranjuje plaćanje na teret računa tog sudionika.
+(5) HNB bez odgađanja obavještava Finu o potrebi onemogućavanja obračuna platnih transakcija na teret i u korist odnosno na teret posrednog sudionika iz članka 2. točaka 2., 3. i 4. u sljedećim slučajevima:
+a) donošenja odluke Savjeta HNB-a o podnošenju prijedloga za otvaranje stečajnog postupka nad posrednim sudionikom,
+b) donošenja odluke HNB-a o pokretanju postupka prisilne likvidacije toga posrednog sudionika,
+c) podnošenja prijedloga Državne agencije za osiguranje štednih uloga i sanaciju banaka za otvaranje stečajnog postupka nad posrednim sudionikom,
+d) primitka odluke suda ili naloga Fine kojima se privremeno zabranjuje plaćanje na teret posrednog sudionika,
+e) primitka obavijesti nadležnog tijela druge države članice o pokretanju postupka zbog insolventnosti čija je posljedica zabrana plaćanja u korist i na teret odnosno samo na teret posrednog sudionika, a Fina odmah postupa po takvoj obavijesti.
+(6) HNB ponovno omogućuje obračun platnih transakcija neposrednog sudionika koji je onemogućio prema stavcima 2., 3. i 4. ovog članka čim sazna za prestanak razloga za onemogućavanje obračuna.
+(7) HNB bez odgađanja obavještava Finu o potrebi ponovnog omogućavanja obračuna platnih transakcija posrednog sudionika koji je bio onemogućen u skladu sa stavkom 5. ovog članka čim sazna za prestanak razloga za onemogućavanje obračuna, a Fina odmah postupa po takvoj obavijesti.
+(8) Za poslove iz stavka 1. ovog članka HNB obračunava naknadu Fini, u skladu s propisanim naknadama HSVP-a.
+Limit na obračunskom računu
+Članak 11.
+(1) Limit na obračunskom računu neposrednog sudionika određuje HNB.
+(2) HNB određuje limit na obračunskom računu neposrednog sudionika u visini iznosa novčanih sredstava koji neposredni sudionik izdvaja kod HNB-a za potrebe osiguranja pokrića obračuna u NKS-u.
+(3) Novčana sredstva za osiguranje pokrića obračuna u NKS-u uplaćuju se na račun HNB-a u HSVP-u, u skladu s propisanim pravilima rada HSVP-a.
+(4) HNB može tijekom obračunskog dana promijeniti limit na obračunskom računu neposrednog sudionika.
+Namira obračuna izvršenog u NKS-u
+Članak 12.
+(1) HNB, kao agent za namiru NKS-a provodi namiru konačnih neto pozicija na obračunskim računima neposrednih sudionika na računima tih sudionika u HSVP-u na temelju podataka koje mu dostavlja Fina, a u skladu s Terminskim planom obračuna u NKS-u iz članka 13. ove Odluke i pravilima rada HSVP-a.
+(2) HNB izvješćuje Finu o provedenoj namiri iz stavka 1. ovog članka.
+Terminski plan obračuna u NKS-u
+Članak 13.
+(1) Obračun platnih transakcija u NKS-u obavlja se u skladu s Terminskim planom obračuna u NKS-u.
+(2) Terminski plan obračuna u NKS-u određuje vrijeme:
+1. početka obračunskog dana u NKS-u,
+2. početka i kraja svakoga

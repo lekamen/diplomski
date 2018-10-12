@@ -1,0 +1,13 @@
+ nazivaju samo unutrašnjim, odnosno vanjskim čimbenicima.
+PRILOG VII.
+AGENCIJA ZA LIJEKOVE I MEDICINSKE PROIZVODE OBRAZAC ZA PRIJAVU I OCJENU NEINTERVENCIJSKOG ISPITIVANJA
+Osnovni podaci o neintervencijskom ispitivanju (ispunjava podnositelj zahtjeva)
+Naziv neintervencijskog ispitivanja na hrvatskom jeziku: Naziv neintervencijskog ispitivanja na engleskom jeziku: Naziv djelatne tvari (INN): Naziv lijeka: Oznaka plana ispitivanja: Ime i adresa nositelja odobrenja: Ime i adresa naručitelja ispitivanja: Ime i adresa podnositelja zahtjeva: Ime i prezime lokalne odgovorne osobe za farmakovigilanciju                                                          Glavni ispitivači i ustanove u kojima će se neintervencijsko ispitivanje provoditi (nazivi ustanova i imena ispitivača): Ciljevi ispitivanja: Uključni kriteriji: Kriteriji isključivanja: Predviđeni broj bolesnika koji će biti praćeni: Predviđeno trajanje ispitivanja u Republici Hrvatskoj: Države u kojima se već provodi predmetno neintervencijsko ispitivanje Države u kojima je podnesen zahtjev za provođenje predmetnog neintervencijskog ispitivanja Broj EU PAS registra* Zajednički PASS**
+* naznačiti je li PASS registriran u EU PAS registru
+
+** u slučaju kada više nositelja odobrenja sudjeluje u planiranju i provođenju PASS-a
+Dostavljena dokumentacija (ispunjava podnositelj zahtjeva)
+Plan ispitivanja (oznaka, verzija i datum):                         Test lista (verzija i datum): Odobreni sažetak opisa svojstava lijeka na hrvatskom jeziku (datum odobrenja): Odobrena uputa o lijeku na hrvatskom jeziku (datum odobrenja): Rješenje o odobrenju za stavljanje lijeka u promet (datum): Informirani pristanak za bolesnika na hrvatskom jeziku (verzija i datum):                                                          Izvornik informiranog pristanka na engleskom jeziku (verzija i datum), ako je primjenjivo:                                     Financijski plan ispitivanja: Prijedlog obavijesti ravnateljstvu ustanove o provođenju neintervencijskog ispitivanja Ostala dokumentacija (nabrojati, uz navođenje verzije i datuma dokumenata): Mišljenje SEP-a
+Potpis odgovorne osobe podnositelja zahtjeva i datum
+__________________________
+[1] Ovom Direktivom ne regulira se neintervencijsko ispitivanje lijeka.

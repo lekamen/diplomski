@@ -1,0 +1,21 @@
+ na šest (6) decimala u mjesecu u kojem je podnesen Zahtjev za potporu. Web-adresa na kojoj se može dobiti uvid u navedeni tečaj je: http://ec.europa.eu/budget/inforeuro/.
+(15) U ponudama navedenim u stavku 2. i 5. ovoga članka mora biti naznačeno razdoblje valjanosti ponude. Ponude moraju biti važeće na dan podnošenja Potvrde o podnošenju Zahtjeva za potporu.
+(16) Tijekom administrativne kontrole Agencija za plaćanja može zatražiti dokaz o vlasničkoj strukturi ponuditelja ukoliko se radi o ponuditelju iz inozemstva. Na zahtjev Agencije za plaćanja korisnik je dužan dostaviti traženi dokument, ne stariji od 6 mjeseci na dan dostave traženog dokumenta.
+(17) Ako je ponuditelj roba, radova i usluga iz inozemstva, ponude i dokazi o vlasništvu (ukoliko budu zatraženi) moraju biti na hrvatskom ili engleskom jeziku. Ukoliko je korisnik prikupio ponude i dokaze o vlasništvu (ukoliko budu zatraženi) na jeziku koji nije hrvatski ili engleski, korisnik mora priložiti i ovjereni prijevod sudskog tumača navedenih dokumenata.
+(18) Tijekom administrativne kontrole Agencija za plaćanja može zatražiti dokaze o vlasničkoj i/ili upravljačkoj strukturi korisnika i poduzetnika koji su u partnerskom i/ili povezanom odnosu s korisnikom, kao i poslovne knjige koje je takav poduzetnik dužan voditi prema važećim zakonskim propisima o računovodstvu. Na zahtjev Agencije za plaćanja korisnik je dužan dostaviti traženi dokument.
+(19) Korisnik je obvezan odredbe ovoga članka primijeniti i na Zahtjeve za promjenu kojima se traži promjena ponuditelja, u suprotnom će Zahtjev za promjenu ponuditelja biti odbijen.
+ADMINISTRATIVNA KONTROLA ZAHTJEVA ZA POTPORU
+Članak 20.
+(1) Zahtjevi za potporu pristigli po objavljenom Natječaju iz članka 18. ovoga Pravilnika, obrađuju se po redoslijedu zaprimanja.
+(2) Prilikom administrativne kontrole Zahtjeva za potporu utvrđuje se pravovremenost, potpunost, udovoljavanje propisanim uvjetima i kriterijima, broj bodova sukladno kriterijima odabira te iznos prihvatljivih troškova.
+(3) Nakon administrativne kontrole Zahtjeva za potporu, formira se Rang lista na način propisan člankom 23. (Rangiranje Zahtjeva za potporu) ovoga Pravilnika.
+(4) Nepravovremeni Zahtjevi za potporu ne razmatraju se te se korisniku izdaje Odluka o odbijanju.
+(5) Ukoliko je potrebno tražiti dodatna obrazloženja/ispravke, Agencija za plaćanja će putem elektroničke pošte od korisnika tražiti obrazloženje/ispravak. Korisnik je dužan u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanja dostaviti obrazloženje/ispravak.
+(6) Ukoliko korisnik traženo obrazloženje/ispravak ne dostavi sukladno stavku 5. ovoga članka, Agencija za plaćanja izdaje Odluku o odbijanju.
+(7) Natječajem će biti propisana dokumentacija koju je korisnik obavezan učitati uz Zahtjev za potporu.
+(8) Ukoliko korisnik uz Zahtjev za potporu ne učita dokumentaciju propisanu Natječajem, Agencija za plaćanja će izdati Odluku o odbijanju.
+POSLOVNI PLAN
+Članak 21.
+(1) Poslovni plan treba biti izrađen u skladu s uputama i pojašnjenjima u Zahtjevu za potporu – dio »POSLOVNI PLAN« i predlošku u excel formatu pod nazivom »POSLOVNI PLAN« koji je potrebno u cijelosti popuniti sukladno pripadajućim uputama i učitati u Zahtjev za potporu. Prijave kod kojih »POSLOVNI PLAN« prilikom podnošenja Zahtjeva za potporu nije u cijelosti popunjen u skladu s pripadajućim uputama i pojašnjenjima, biti će odbijene.
+(2) U poslovnom planu korisnik mora dokazati ekonomsku održivost projekta.
+(3) Ako će za izračun ekonomske održivosti projekta biti potrebni dodatni podaci, korisnik će dobiti Zahtjev za obrazloženje i/ili ispravak sa specifikacijom podataka koje treba dostaviti. Korisnik je dužan odgovoriti na Zahtjev za obrazloženje/ispravak poslovnog plana u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanja. Zahtjevi za potporu za koje korisnik na zaprimljeni Zahtjev za obrazloženje/ispravak ne dostavi tražene podatke u propisanom roku (ili ako ti podaci budu

@@ -1,0 +1,33 @@
+ članka 6. ovoga Zakona i provođenje sanacijskih mjera u skladu s odlukom o otvaranju postupka sanacije.
+Odgovornost za štetu
+Članak 51.
+(1) Odgovornost za štetu koju sanacijska uprava ili pomoćnici sanacijske uprave prouzroče pri obavljanju dužnosti u okviru ovoga Zakona postoji samo ako je šteta prouzročena namjerno ili iz krajnje nepažnje.
+(2) Za štetu iz stavka 1. ovoga članka odgovara Državna agencija za osiguranje štednih uloga i sanaciju banaka.
+Dužnost suradnje dosadašnjih članova uprave i drugih radnika institucije
+Članak 52.
+(1) Dosadašnji članovi uprave i druge ovlaštene osobe s posebnim ovlaštenjima i odgovornostima institucije dužni su sanacijskoj upravi i pomoćnicima sanacijske uprave odmah omogućiti pristup cjelokupnoj poslovnoj i ostaloj dokumentaciji institucije te sastaviti izvješće o primopredaji poslovanja.
+(2) Dosadašnji članovi uprave institucije dužni su sanacijskoj upravi ili pojedinom članu sanacijske uprave dati sva obrazloženja ili dodatna izvješća o poslovanju institucije.
+(3) Svi radnici institucije dužni su surađivati sa sanacijskom upravom i pomoćnicima sanacijske uprave.
+(4) Član sanacijske uprave ima pravo udaljiti osobu koja onemogućuje njegov rad te, ovisno o okolnostima pojedinog slučaja, zatražiti pomoć nadležnog tijela unutarnjih poslova.
+Imenovanje sanacijske uprave u grupi
+Članak 53.
+(1) Ako je potrebno imenovati sanacijsku upravu u nekoj od članica grupe koja je dio prekogranične grupe, Državna agencija za osiguranje štednih uloga i sanaciju banaka će imenovati sanacijsku upravu, odnosno sudjelovat će, zajedno s drugim sanacijskim tijelima u sanacijskom kolegiju u razmatranju imenovanja iste sanacijske uprave za sve članice grupe radi olakšavanja provedbe mjera za ponovno uspostavljanje financijske stabilnosti tih subjekata.
+(2) Ako je potrebno imenovati sanacijsku upravu u članici grupe koja je dio grupe koja nije prekogranična, Državna agencija za osiguranje štednih uloga i sanaciju banaka može imenovati istu sanacijsku upravu, za neke ili sve članice grupe koje su u sanaciji radi olakšavanja provedbe mjera za ponovno uspostavljanje financijske stabilnosti tih subjekata.
+Stečajni upravitelj
+Članak 54.
+Ako je nad jednom članicom grupe otvoren stečajni postupak Državna agencija za osiguranje štednih uloga i sanaciju banaka može stečajnog upravitelja te članice grupe imenovati za člana sanacijske uprave druge članice grupe nad kojom je otvoren postupak sanacije.
+VIII. SMANJENJE VRIJEDNOSTI I PRETVARANJE INSTRUMENATA KAPITALA U SANACIJI
+Smanjenje vrijednosti i pretvaranje instrumenata kapitala koje provodi Državna agencija za osiguranje štednih uloga i sanaciju banaka
+Članak 55.
+(1) Ako je donesena odluka o otvaranju postupka sanacije nad institucijom ili subjektom iz članka 3. točke 2., 3. ili 4. ovoga Zakona Državna agencija za osiguranje štednih uloga i sanaciju banaka dužna je prije provođenja sanacijskih mjera koje dovode do pokrića gubitka od strane vjerovnika ili pretvaranja njihovih tražbina provesti smanjenje vrijednosti ili pretvaranje relevantnih instrumenata kapitala na način iz glave VI. ovoga Zakona, ako isto nije u potrebnoj mjeri provela Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga.
+(2) Radi pretvaranja relevantnih instrumenata kapitala ili potrebnog povećanja temeljnog kapitala institucije u sanaciji Državna agencija za osiguranje štednih uloga i sanaciju banaka može donijeti odluku da institucija u sanaciji izda nove vlasničke instrumente i ovlastiti sanacijsku upravu za provedbu te odluke.
+IX. SANACIJSKI INSTRUMENTI
+IX.1. OPĆE ODREDBE
+Opća načela sanacijskih instrumenata
+Članak 56.
+(1) Državna agencija za osiguranje štednih uloga i sanaciju banaka na institucije u sanaciji primjenjuje jedan ili više sljedećih instrumenata sanacije:
+a) instrument prodaje
+b) instrument prijelazne institucije
+c) instrument odvajanja imovine i
+d) instrument unutarnje sanacije (»bail in«).
+(2) Državna agencija za osiguranje štednih uloga i sanaciju banaka

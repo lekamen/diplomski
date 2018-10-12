@@ -1,0 +1,29 @@
+ stabala u sastojinama visokog uzgojnog oblika uređajnog razreda hrasta lužnjaka na prvom i drugom bonitetu, hrasta kitnjaka, obične bukve i poljskog jasena na prvom bonitetu, te u sastojinama visokog uzgojnog oblika u kojima je obnova započeta u prethodnom polurazdoblju.
+(3) Mjerenje prsnih promjera stabala u kulturama i plantažama obavlja se na način propisan za jednodobne sastojine visokog uzgojnog oblika.
+(4) Vrste drveća koje su u omjeru smjese gospodarske jedinice zastupljene s manje od 5 % ako su u odsjeku zastupljene s manje od 10% mogu se u odsjeku grupirati (OTB, OMB,OC, OVo), ali drvna zaliha formirane grupe u omjeru smjese odsjeka ne smije prelaziti 20%.
+(5) Terenski obrasci za izmjeru na plohama nalaze se tiskani u Prilogu 8 ovoga Pravilnika i njegov su sastavni dio.
+Članak 21.
+(1) Visinska krivulja konstruira se na temelju izmjerenih visina stabala tako da se u svakom debljinskom stupnju izmjeri, unutar pojedine grupe po vrstama drveća, pet do deset visina.
+(2) U svrhu izjednačenja visinske krivulje i određivanja tarifnog niza odsjeci se u jednodobnim sastojinama grupiraju po uređajnim razredima, bonitetima i dobnim razredima, a u prebornim i raznodobnim po uređajnim razredima i bonitetima.
+(3) Tarifni niz za pojedinu vrstu drveća u grupi određuje se na temelju izjednačene visinske krivulje i parametara dvoulaznih volumnih tablica.
+(4) Tarifni niz određuje se za svaku vrstu drveća koja je u omjeru smjese odjela odnosno odsjeka zastupljena s više od 10%.
+(5) Za svaku vrstu drveća koja je u omjeru smjese odjela odnosno odsjeka zastupljena manje od 10% tarifni niz može se preuzeti iz grupe drugog uređajnog razreda, u pravilu istog boniteta i dobnog razreda.
+(6) Tarifni niz za vrste koje su u odjelu odnosno odsjeku grupirane (OTB, OMB, OC, OVo) može se preuzeti iz grupe istog ili drugog uređajnog razreda za najzastupljeniju ili vrstu drveća sličnih bioloških i ekoloških svojstava.
+(7) Ako su lokalni tarifni nizovi određeni prethodnim osnovama ili programima nije ih potrebno ponovo određivati.
+Članak 22.
+(1) Drvna zaliha iskazuje se u krupnom drvetu (>7 cm) iznad taksacijske granice koja iznosi 10 cm, a razvrstava se po debljinskim stupnjevima od 5 cm.
+(2) Sredine debljinskih stupnjeva su:
+1. 12.5 cm – debljinski stupanj 3;
+2. 17.5 cm – debljinski stupanj 4 i tako dalje.
+(3) Drvna zaliha određuje se izmjerom prsnih promjera i visina živih stabala iznad taksacijske granice i izračunava na temelju lokalnih tarifnih nizova (jednoulaznih tablica) za pojedine vrste drveća, a iskazuje se posebno za svaki odsjek.
+(4) Drvna zaliha u sastojinama prvog dobnog razreda iskazuje se samo za stabla ostala nakon obavljenog dovršnog sjeka, a promjeri stabala utvrđuju se totalnom klupažom u godini u kojoj je obavljen dovršni sijek.
+(5) Drvna zaliha ne iskazuje se u sastojinama prvog dobnog razreda, šikarama, šibljacima, makijama, garizima i na šumskom zemljištu obraslom drvećem ispod taksacijske granice.
+(6) Sastojine u kojima je u prethodnom polurazdoblju obavljena totalna klupaža drvna zaliha može se utvrditi računski.
+(7) Drvna zaliha stojećih i cijelih ležećih suhih stabala iznad taksacijske granice iskazuje se posebno, a obračunava se na isti način kao i za živa stabla.
+(8) Pouzdanost procjene drvne zalihe iskazuje se na razini odsjeka i uređajnog razreda.
+(9) Drvna zaliha radno nedostupnih šuma može se i prilikom izrade obnove šumskogospodarskih planova utvrditi računskim putem ukoliko postoje stari dendrometrijski podaci, a ukoliko ne postoje može se utvrditi jednom od metoda procjene (daljinska istraživanja i sl.).
+Članak 23.
+(1) Sastojine se u jednodobnim šumama razvrstavaju po dobnoj strukturi.
+(2) U prebornim i raznodobnim šumama drvna zaliha se razvrstava po debljinskoj strukturi.
+(3) Za dobne razrede jednodobnih šuma unutar uređajnog razreda iskazuju se podaci o stvarnoj i normalnoj površini, drvnoj zalihi i prirastu, razvrstano po vrstama drveća po hektaru i ukupno.
+(4) Širina dobnog razreda iznosi 5 godina za ophodnje do

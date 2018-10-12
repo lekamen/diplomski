@@ -1,0 +1,23 @@
+ članovi EKO bilančne grupe obračunava se u HRK po kWh neto isporučene električne energije.
+(9) Naknadu iz stavka 7. podstavka 2. ovoga članka utvrdit će ministar pravilnikom iz članka 25. ovog Zakona, ovisno o klasifikaciji proizvodnih postrojenja.
+(10) Visina naknade iz stavka 7. podstavka 2. ovoga članka korigira se svake godine u odnosu na utvrđenu korigiranu visinu naknade iz prethodne godine primjenom Prosječnoga godišnjeg indeksa potrošačkih cijena koji objavljuje Državni zavod za statistiku za prethodnu kalendarsku godinu. Prva korekcija visine naknade iz stavka 7. podstavka 2. ovoga članka primjenjuje se u kalendarskoj godini koja slijedi godinu u kojoj je donesen pravilnik iz stavka 9. ovoga članka.
+(11) Operator tržišta električne energije dužan je planirati proizvodnju električne energije za EKO bilančnu grupu i prijavljivati ugovorne rasporede EKO bilančne grupe u skladu s planom proizvodnje EKO bilančne grupe
+(12) Članovi EKO bilančne grupe dužni su operatoru tržišta električne energije dostavljati podatke i dokumentaciju potrebnu za planiranje proizvodnje električne energije za EKO bilančnu grupu.
+(13) Pravilima vođenja EKO bilančne grupe detaljno će se utvrditi koje su podatke i dokumentaciju iz stavka 12. ovoga članka, te kojom dinamikom, dužni dostavljati članovi EKO bilančne grupe operatoru tržišta električne energije.
+XI. NADZOR
+Upravni i inspekcijski nadzor
+Članak 47.
+(1) Upravni nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavlja Ministarstvo.
+(2) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju nadležni inspektori Ministarstva i ministarstva nadležnog za zaštitu okoliša, svaki iz područja svoje nadležnosti određene posebnim propisom.
+(3) Ako nadležni inspektor pri obavljanju inspekcijskog nadzora utvrdi nepravilnosti i nedostatke, ovlašten je donijeti rješenje kojim će odrediti mjere i rok za njihovo otklanjanje.
+(4) Ako nadležni inspektor pri obavljanju inspekcijskog nadzora nad povlaštenim proizvođačem utvrdi nepravilnosti i nedostatke, dužan je o tome obavijestiti Agenciju.
+XII. PREKRŠAJNE ODREDBE
+Članak 48.
+(1) Novčanom kaznom u iznosu od 1000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba, odnosno fizička osoba koja je elektroenergetski subjekt ako:
+1. kao povlašteni proizvođač električne energije ne održava tehničko-tehnološke značajke i uvjete korištenja proizvodnog postrojenja za koje je stečen status povlaštenog proizvođača (članak 19. stavak 12. točka 1.)
+2. kao povlašteni proizvođač električne energije ne dostavlja Agenciji, operatoru tržišta električne energije i drugim nadležnim tijelima izvješća i drugu propisanu dokumentaciju sukladno odredbama ovoga Zakona, (članak 19. stavak 12. točka 2.)
+3. kao povlašteni proizvođač električne energije ne održava mjernu opremu u njegovoj nadležnosti i vlasništvu ili manipulira mjernim podacima (članak 19. stavak 12. točka 4.)
+4. kao povlašteni proizvođač električne energije ne odgovara na upite Agencije ili ne dostavlja dokumentaciju u vezi s korištenjem proizvodnog postrojenja sukladno odredbama ovoga Zakona (članak 19. stavak 12. točka 5.)
+5. ne osigura obračun neto isporučene električne energije na proizvodnom postrojenju za koje proizvodno postrojenje je stečen status povlaštenog proizvođača, a koje proizvodno postrojenje koristi više priključaka, odnosno obračunskih mjernih mjesta (članak 20. stavak 5.)
+6. koji na proizvodnom postrojenju za koje je stečen status povlaštenog proizvođača izvrši promjenu uvjeta korištenja proizvodnog postrojenja bez prethodne suglasnosti Agencije na planirane promjene (članak 24. stavak 1.)
+7. koji je opskrbljivač električne energije i koji u roku od 30 dana od postavljanog zahtjeva krajnjeg kupaca s vlastitom proizvodnjom koji ispunjava uvjete utvrđene člankom 44. stavkom 1. ovoga Zakona, kojem isporučuje električnu energiju, ne sklopi ugovor o opskrbi električne energije koji sadržava odredbe o preuzimanju viškova

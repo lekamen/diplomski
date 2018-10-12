@@ -1,0 +1,37 @@
+ tehnološkom procesu pripreme za tržište i prerade krumpira
+– sprječavanje ispuštanja otpadnih tvari iz tehnološkog procesa odgovarajućim uređajima npr. rešetkama, uređajem za flotaciju ili uklanjane suspendiranih tvari
+– maksimalno odvajanje koncentrata sivog i bijelog škroba iz otpadne vode
+– biološko pročišćavanje otpadnih voda s uklanjanjem hranjivih tvari kako je to navedeno u tablicama 2. i 2.a Priloga 1. ovoga Pravilnika za ispuštanje u površinske vode
+– racionalna potrošnja vode i primjena recirkulacije vode u najvećoj mogućoj mjeri gdje god je to moguće i
+– u tehnološkom procesu pripreme za tržište i prerade krumpira osigurati odgovarajuću predobradu otpadnih voda prije konačnog pročišćavanja.
+PRILOG 22.
+GRANIČNE VRIJEDNOSTI EMISIJA OTPADNIH VODA IZ OBJEKATA I POSTROJENJA ZA PROIZVODNJU HRANE ZA ŽIVOTINJE IZ BILJNIH PROIZVODA
+I.
+(1) Odredbe ovoga Priloga odnose se na objekte i postrojenja iz kojih se ispuštaju tehnološke otpadne vode nastale tijekom proizvodnje hrane za životinje iz biljnih proizvoda.
+(2) Odredbe iz stavka 1. ove točke odnose se na izvore onečišćenja:
+– preradu zrnja žitarica
+– preradu sjemenki i plodova uljarica
+– preradu zrnja mahunarki
+– preradu gomolja i korijenja
+– preradu ostalih zrnja, sjemenki i plodova i
+– proizvodnju voluminoznih krmiva.
+(3) Odredbe ovoga Priloga ne odnose se na sljedeće izvore onečišćenja:
+– pripremu i preradu nusproizvoda životinjskog podrijetla
+– sanitarne otpadne vode
+– rashladne sustave i parne generatore unutar izvora onečišćenja navedenih u stavku 2. ove točke i
+– uređaje za tehnološku pripremu vode unutar navedenih izvora onečišćenja.
+II.
+Granične vrijednosti emisija otpadnih voda iz objekata i postrojenja koji su predmet ovoga Priloga, navode se u Tablici 1. ove točke:
+Tablica 1. GRANIČNE VRIJEDNOSTI EMISIJA ONEČIŠĆUJUĆIH TVARI
+POKAZATELJI IZRAŽENI KAO JEDINICA POVRŠINSKE VODE SUSTAV JAVNE ODVODNJE FIZIKALNO-KEMIJSKI POKAZATELJI 1. Temperatura 0C 30 40 2. pH-vrijednost pH 6,5 – 9,0 6,5 – 9,5 3. Suspendirane tvari mg/l 35 (a) 4. Taložive tvari ml/lh 0,5 10 EKOTOKSIKOLOŠKI POKAZATELJI 5. Toksičnost na dafnije LIDD* Faktor razrjeđenja 2 – 6. Toksičnost na svjetleće bakterije LIDL* Faktor razrjeđenja 3 – ORGANSKI POKAZATELJI 7. KPK O2 mg/l 125 sukladno članku 5. ovoga Pravilnika 8. BPK5 O2 mg/l 25 sukladno članku 5. ovoga Pravilnika 9. Ukupni organski ugljik (TOC) C mg/l 30 – 10. Teškohlapljive lipofilne tvari (ukupna ulja i masti) mg/l 20 100 11. Detergenti anionski mg/l 1 10 12. Detergenti neionski mg/l 1 10 13. Adsorbilni organski halogeni (AOX) Cl mg/l 0,5 0,5 ANORGANSKI POKAZATELJI 14. Sulfiti S03 mg/l 1 10 15. Sulfidi otopljeni S mg/l 0,1 1,0 16. Sulfati SO4 mg/l 250 sukladno članku 5. ovoga Pravilnika 17. Ukupni fosfor P mg/l 2 (1 jezera) sukladno članku 5. ovoga Pravilnika 18. Klor slobodni Cl mg/l 0,2 0,5 19. Klor ukupni Cl mg/l 0,5 1,0 20. Ukupni dušik N mg/l 15 sukladno članku 5. ovoga Pravilnika
+Oznake u Tablici 1. znače:
+
+* LIDD, LIDL – najmanje razrjeđenje otpadne vode koje nema učinka na test organizme; određuje se najmanje četiri puta godišnje
+
+– Toksičnost na dafnije određuje se u slučaju kada se otpadne vode ispuštaju u kopnene vode, a toksičnost na svjetleće bakterije u priobalne vode.
+
+a) – granična vrijednost emisije određuje se u otpadnoj vodi u slučaju ako suspendirane tvari štetno djeluju na sustav javne odvodnje i/ili na proces pročišćavanja uređaja, a određuje ju pravna osoba koja održava objekte sustava javne odvodnje i uređaja.
+III.
+Posebne mjere u svezi s ispuštanjem otpadnih voda iz objekata i postrojenja za proizvodnju hrane za životinje iz biljnih proizvoda su:
+– racionalna upotreba vode u tehnološkom procesu za čišćenje i pranje (npr. visokotlačno pranje), recirkulacija u uporabi vode za pranje i čišćenje te recirkulacija sredstava za pranje i dezinfekciju; suho čišćenje opreme, radnih površina, podova pogona i svih prostora za rad prije pranja
+– racionalna upotreba sredstava za pranje i čišćenje, kao i uporaba dezinfekcijskih sredstava,

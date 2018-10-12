@@ -1,0 +1,29 @@
+ putovnice za azilanta prilaže se fotografija dimenzije 3,5 x 4,5 cm koja vjerno prikazuje azilanta, bez pokrivala za glavu, daje se na uvid dozvola boravka azilanta te se uzimaju otisci dva prsta i vlastoručni potpis.
+(2) Na fotografiji koja se prilaže prilikom podnošenja zahtjeva za izdavanje putovnice za azilanta, glava (od vrha brade do tjemena) mora zauzimati oko 2/3 fotografije, ali ne smije biti viša od 3,6 cm. Glava na fotografiji mora biti centrirana u središtu fotografije. Razmak očiju (od sredine lijevog do sredine desnog oka) mora iznositi najmanje 8 mm (optimalno 10 mm).
+(3) Fotografija iz stavka 1. ovoga članka mora osobu prikazivati s neutralnim izrazom lica, otvorenih očiju i zatvorenih usta na frontalnoj snimci.
+(4) Na fotografiji osobe koja radi vjerskih ili medicinskih razloga nosi pokrivalo za glavu moraju se vidjeti obrazi, brada i čelo.
+(5) Slijepe osobe koje nose tamne naočale mogu priložiti fotografije na kojima su fotografirane s tamnim naočalama.
+(6) Djeca na fotografiji moraju biti sama, a lice im mora biti u potpunosti vidljivo i oči otvorene.
+(7) Fotografija mora biti izrađena na visokokvalitetnom sjajnom i glatkom papiru bez površinske strukture, s visokom kvalitetom tiska. Pozadina mora biti jednobojno svijetla, bez uzoraka i s dovoljnim kontrastom prema licu i kosi.
+(8) Za osobu kojoj je hitno potrebna putovnica za azilanta radi prijevoza u inozemstvo na liječenje, može se iznimno priložiti fotografija te osobe koja ne udovoljava uvjetima iz ovoga članka.
+(9) Od azilanta iz stavka 1. ovoga članka uzimaju se otisci lijevog i desnog kažiprsta, ako azilant nema kažiprst ili je vrh kažiprsta ozlijeđen, uzima se otisak srednjeg ili nekog drugog prsta, a ako nema jedne ruke uzima se otisak kažiprsta i srednjeg ili nekog drugog prsta druge ruke. Otisci prstiju se ne uzimaju ako to, zbog medicinskih razloga koji nisu privremeni, nije moguće.
+(10) Otisci prstiju i potpis ne uzimaju se od djeteta do navršene dvanaeste godine života.
+Putovnica za azilanta
+Članak 18.
+(1) Putovnicu za azilanta izdaje nadležna policijska uprava odnosno policijska postaja prema mjestu prebivališta azilanta.
+(2) Obrazac putovnice za azilanta (Obrazac 6) je veličine 8,8 x 12,5 cm, crvene boje i sadrži 34 brojem označene stranice te je trojezičan, na hrvatskom, engleskom i francuskom jeziku.
+(3) Podaci u Obrazac 6 popunjavaju se strojno.
+(4) Obrazac 6 sadrži elektronički nosač podataka (RFID čip) na koji se pohranjuju ime i prezime, državljanstvo, datum rođenja, podatak o spolu, oznaka za vrstu putovnice, oznaka države, broj putovnice za azilanta, osobni identifikacijski broj, datum izdavanja i datum isteka valjanosti putovnice za azilanta, tijelo koje je izdalo putovnicu za azilanta, fotografija i otisci prstiju.
+(5) Obrazac 6 sadrži i biometrijske podatke: biometrijsku sliku lica i otiske prstiju.
+(6) U Obrazac 6, na drugoj stranici, u prostoru za strojno čitanje kao oznaka za vrstu putovnice upisuje se podatak »PI«.
+Gubitak, nestanak ili krađa te poništavanje putovnice za azilanta
+Članak 19.
+(1) U slučaju gubitka, nestanka ili krađe putovnice za azilanta na odgovarajući se način primjenjuje odredba članka 14. ovoga Pravilnika.
+(2) Nadležna policijska uprava odnosno policijska postaja prema mjestu prebivališta azilanta dužna je poništiti putovnicu za azilanta, koja iz bilo kojeg razloga ne može služiti svrsi.
+(3) Poništavanje se obavlja fizičkim bušenjem korica i svake stranice putovnice za azilanta te rezanjem elektroničkog nosača podataka (RFID čipa).
+Putni list (laissez-passer) u svrhu primopredaje odgovornoj državi članici
+EGP-a
+Članak 20.
+(1) Strancu u transferu, kojeg je potrebno transferirati u odgovornu državu članicu, izdat će se putni list (laissez-passer) za transfer stranca (Obrazac 7).
+(2) Obrazac 7 bijele je boje, veličine 150 x 290 mm te je dvojezičan, na hrvatskom i engleskom jeziku.
+(3) Obrazac 7 sadrži sljedeće podatke: službeni naziv odgovorne države članice, referentni broj te ime i prezime, državljanstvo,

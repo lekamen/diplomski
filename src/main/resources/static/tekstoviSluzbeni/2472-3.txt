@@ -1,0 +1,24 @@
+ /ili proizvođački prostor)
+2. prostor koji je u vlasništvu, odnosno zakupu/najmu ovlaštenog držatelja trošarinskog skladišta ili registriranog primatelja, a koje je različito od mjesta primitka navedenog u trošarinskom odobrenju, odnosno odobrenju za registriranog primatelja (npr. benzinske postaje, pogon oslobođenog korisnika trošarinskih proizvoda i sl.) i/ili prostor koji nije u vlasništvu ili stvarnom posjedu ovlaštenog držatelja trošarinskog skladišta ili registriranog primatelja (lokacija krajnjeg kupca)
+3. prostor koji posjeduje sustav računovodstvenog praćenja poslovanja i vođenja evidencija i
+4. prostor u kojem se može osigurati provedba nadzora.
+Rezervni postupak (fallback)
+Članak 6.
+(1) U slučaju kada je računalni sustav nedostupan, pošiljatelj u Republici Hrvatskoj može započeti kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine uz primjenu rezervnog postupka u skladu s člankom 15. stavkom 1. i 2. Zakona. Papirnati dokument iz članka 15. stavka 1. točke 1. Zakona mora nositi oznaku »Rezervni postupak – Prateći dokument za kretanje trošarinskih proizvoda u sustavu odgode plaćanja trošarine«.
+(2) Obrazac A dokumenta iz stavka 1. ovoga članka tiskan je u Prilogu 1 ovoga Pravilnika i njegov je sastavni dio.
+(3) U slučaju kada je računalni sustav nedostupan, a pošiljatelj tijekom kretanja trošarinskih proizvoda mijenja mjesto odredišta, pošiljatelj može izmijeniti mjesto odredišta uz primjenu rezervnog postupka u skladu s člankom 15. stavkom 5. Zakona. Pošiljatelj dostavlja presliku papirnatog dokumenta koji mora nositi oznaku »Rezervni postupak – Prateći dokument za promjenu odredišta«.
+(4) Obrazac B dokumenta iz stavka 3. ovoga članka tiskan je u Prilogu 2 ovoga Pravilnika i njegov je sastavni dio.
+(5) U slučaju nemogućnosti podnošenja potvrde o primitku, odnosno potvrde o izvozu iz razloga nedostupnosti računalnog sustava, primatelj, odnosno carinsko tijelo kod kojeg su obavljene izvozne formalnosti postupa u skladu s člankom 16. Zakona. Papirnati dokument iz članka 16. stavka 1. i 4. Zakona mora nositi oznaku »Rezervni postupak – Potvrda o primitku/Potvrda o izvozu«.
+(6) Obrazac C dokumenta iz stavka 5. ovoga članka tiskan je u Prilogu 3 ovoga Pravilnika i njegov je sastavni dio.
+Papirnati prateći trošarinski dokument
+Članak 7.
+(1) Papirnati prateći trošarinski dokument (u daljnjem tekstu: PTD) iz članka 11. stavka 2. Zakona ispostavlja pošiljatelj – ovlašteni držatelj trošarinskog skladišta prije otpreme trošarinskih proizvoda iz svog trošarinskog skladišta u pogon oslobođenog korisnika trošarinskih proizvoda (u daljnjem tekstu: oslobođeni korisnik) i podnosi ga na propisanom obrascu u četiri primjerka, i to:
+1. prvi primjerak pošiljatelj – ovlašteni držatelj trošarinskog skladišta zadržava za sebe i svoju evidenciju
+2. drugi, treći i četvrti primjerak prate pošiljku trošarinskih proizvoda do primatelja – oslobođenog korisnika koji provjerava pošiljku i ovjerava prijem pošiljke na svim primjercima te drugi primjerak zadržava za sebe i svoju evidenciju
+3. treći primjerak primatelj vraća pošiljatelju
+4. četvrti primjerak primatelj – oslobođeni korisnik bez odlaganja dostavlja nadležnom odredišnom carinskom uredu.
+(2) Iznimno, kada se trošarinski proizvodi otpremaju iz pogona oslobođenog korisnika u trošarinsko skladište uz prethodnu suglasnost nadležnog carinskog ureda na odgovarajući način se primjenjuje stavak 1. ovoga članka.
+(3) PTD mora biti ispisan tiskanim slovima tako da upisane podatke nije moguće brisati niti ispravljati. Svako prazno polje ili polje koje se ne mora popuniti mora biti precrtano tako da nije moguće ništa dopisivati. Brisanje ili prepravljanje napisanog nije dopušteno.
+(4) Za sve primjerke papir mora biti bijele boje, formata 210 mm x 297 mm (A4) s najvećim odstupanjem od pet mm manje ili osam mm više u pogledu dužine.
+(5) Na PTD-u se mogu upisati tri zasebna opisa trošarinskih proizvoda koji moraju pripadati istoj kategoriji trošarinskih proizvoda.
+(6) Obrazac PTD s uputama

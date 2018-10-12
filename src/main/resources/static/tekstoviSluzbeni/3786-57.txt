@@ -1,0 +1,29 @@
+ jest cijena jednaka neto vrijednosti imovine UCITS fonda po udjelu koja se izračunava u skladu s važećim propisima.
+Cijena udjela u UCITS fondu
+Članak 173.
+(1) Izdavanje i otkup udjela u UCITS fondu obavlja se tijekom određenog dana po cijeni koja u vrijeme izvršenja zahtjeva za izdavanje ili otkup udjela nije određena, nego odrediva, u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona, odnosno prospektom UCITS fonda. Na utvrđenu cijenu dozvoljeno je obračunavati i naplaćivati ulazne i izlazne naknade.
+(2) Nije dopušteno izdavanje i otkup udjela u UCITS fondu za iznos manji ili veći od utvrđene cijene udjela (neto vrijednosti imovine po udjelu).
+(3) Cijena udjela u UCITS fondu se izračunava prema sljedećoj formuli:
+neto vrijednost imovine UCITS fonda podijeljena brojem izdanih udjela, pri čemu je:
+1. neto vrijednost imovine izračunata u skladu s pravilnikom iz članka 168. stavka 2. ovoga Zakona i
+2. broj izdanih udjela jednak broju udjela u trenutku izračuna cijene, uzevši u obzir izdavanja i otkupe izvršene od trenutka zadnjeg izračuna cijene do trenutka izračuna nove cijene.
+Otkup udjela UCITS fondova
+Članak 174.
+(1) Otkup udjela UCITS fonda je pravni posao kojim ulagatelj konačno i bezuvjetno otuđuje udjele UCITS fonda, a društvo za upravljanje ih otkupljuje te se udjeli isplaćuju iz imovine UCITS fonda.
+(2) Ulagatelj može u svakom trenutku otuđiti sve ili dio svojih udjela u UCITS fondu i zahtijevati isplatu tih udjela iz imovine UCITS fonda, pod uvjetima navedenima u prospektu UCITS fonda, a društvo za upravljanje ima obvezu otkupiti te udjele, osim u slučajevima kada je to propisano odredbama ovoga Zakona.
+(3) Ulagatelj ima pravo zahtijevati otkup udjela u UCITS fondu pod uvjetom da je ovlašten njima slobodno raspolagati.
+Otkup in specie
+Članak 175.
+(1) Otkup in specie, odnosno otkup prijenosom odgovarajućeg postotka svake vrste imovine UCITS fonda u ukupnoj vrijednosti jednakoj vrijednosti udjela UCITS fonda koji se time otkupljuju, dopušten je, u mjeri u kojoj je to moguće i provedivo, u slučaju kada bi se prodajom imovine UCITS fonda, prijeko potrebnom za zadovoljenje zahtjeva za otkup velike vrijednosti, u nepovoljan položaj doveli ostali ulagatelji UCITS fonda i pod uvjetom da prospekt UCITS fonda predviđa otkup in specie.
+(2) Kada bi se otkupom udjela iz članka 174. ovoga Zakona u nepovoljan položaj doveli ostali ulagatelji, dozvoljena je kombinacija otkupa in specie iz stavka 1. ovoga članka i otkupa iz članka 174. ovoga Zakona, pod uvjetom da je to predviđeno prospektom UCITS fonda.
+Zamjena udjela u UCITS fondovima
+Članak 176.
+Zamjena udjela u UCITS fondovima je istovremeni otkup udjela u jednom UCITS fondu i izdavanje udjela u drugom UCITS fondu kojim upravlja isto društvo za upravljanje, od strane istog ulagatelja, i to za novčana sredstva koja se ulagatelju isplaćuju na ime otkupa udjela u UCITS fondu.
+POGLAVLJE III.
+Obustava izdavanja i otkupa udjela UCITS fonda
+Članak 177.
+(1) Otkup udjela UCITS fonda može se obustaviti samo ako društvo za upravljanje i depozitar smatraju da postoje osnovani i dostatni razlozi za obustavu otkupa u interesu imatelja ili potencijalnih imatelja udjela. Iz naznačenih razloga se istodobno mora obustaviti i izdavanje udjela.
+(2) Ako depozitar nije suglasan s odlukom društva za upravljanje o obustavi izdavanja i otkupa udjela, dužan je o tome bez odgode obavijestiti Agenciju, a obustavu nije dopušteno provesti.
+(3) Društvo za upravljanje dužno je obustavu izdavanja i otkupa udjela bez odgode prijaviti Agenciji, nadležnim tijelima matične države članice UCITS fonda i nadležnim tijelima svih država u kojima se trguje udjelima UCITS fonda te o navedenom istodobno obavijestiti depozitara.
+(4) Ako društvo za upravljanje ne obavijesti depozitara da je ispunilo obvezu iz stavka 3. ovoga članka, predmetnu obvezu društva za upravljanje dužan je ispuniti depozitar.
+(5) Društvo za upravljanje dužno je svaku obustavu izdavanja i otkupa udjela objaviti na svojim mrežnim

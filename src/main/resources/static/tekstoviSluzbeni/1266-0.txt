@@ -1,0 +1,65 @@
+66 15.06.2015 Pravilnik o sadržaju i načinu vođenja upisnika ustanova socijalne skrbi
+MINISTARSTVO SOCIJALNE POLITIKE I MLADIH
+1267
+Na temelju članka 186. stavka 13. Zakona o socijalnoj skrbi (»Narodne novine«, broj 157/13 i 152/14) ministrica socijalne politike i mladih donosi
+PRAVILNIK
+O SADRŽAJU I NAČINU VOĐENJA UPISNIKA USTANOVA SOCIJALNE SKRBI
+Osnovne odredbe
+Članak 1.
+(1) Ovim Pravilnikom propisuje se sadržaj i način vođenja upisnika ustanova socijalne skrbi (u daljnjem tekstu: upisnik).
+(2) U upisnik se upisuju centar za socijalnu skrb, dom socijalne skrbi, centar za pružanje usluga u zajednici i centar za pomoć u kući (u daljnjem tekstu: subjekt upisa).
+Članak 2.
+(1) Upisnik vodi ministarstvo nadležno za poslove socijalne skrbi (u daljnjem tekstu: Ministarstvo).
+(2) Upisnik je javan.
+(3) Svatko ima pravo uvida u podatke upisane u upisnik bez dokazivanja pravnog interesa.
+Sadržaj upisnika
+Članak 3.
+(1) Upisnik se sastoji od evidencijskog lista i zbirke isprava.
+(2) Evidencijski list vodi se u elektroničkom obliku.
+(3) Zbirka isprava vodi se za svaki subjekt upisa.
+Matični broj subjekta upisa
+Članak 4.
+(1) Matični broj subjekta upisa je identifikacijski broj koji svakom subjektu upisa dodjeljuje Ministarstvo upisom u upisnik.
+(2) Jednom dodijeljeni matični broj subjektu upisa ne mijenja se niti se dodjeljuje nakon prestanka subjekta upisa nekom drugom.
+(3) Istom subjektu upisa može se dodijeliti novi matični broj samo u slučaju kada promijeni djelatnost i vrstu korisnika, a ranije dodijeljeni matični broj više se ne koristi.
+(4) Matični broj sastoji se od osmeroznamenkastog broja koji se sastoji od dva broja koja označavaju vrstu ustanove, dva broja koja označavaju podvrstu ustanove i četiri broja upisa, unutar vrste i/ili podvrste ustanove.
+Članak 5.
+(1) Matični broj subjekta upisa dodjeljuje se ovisno o vrsti ustanove za:
+– centar za socijalnu skrb,
+– dom socijalne skrbi,
+– centar za pružanje usluga u zajednici i
+– centar za pomoć i njegu.
+(2) Matični broj subjekta upisa za dom socijalne skrbi i centar za pružanje usluga u zajednici dodjeljuje se i prema vrstama korisnika kojima pruža usluge.
+Matični broj podružnice subjekta upisa
+Članak 6.
+(1) Podružnica subjekta upisa ima matični broj koji se sastoji od matičnog broja subjekta upisa i podbroja podružnice.
+(2) Podbroj iz stavka 1. ovoga članka dodjeljuje se podružnici po redoslijedu upisa i ima četiri broja.
+Podaci koji se upisuju
+Članak 7.
+U evidencijski list upisuju se sljedeći podaci:
+1. matični broj subjekta upisa,
+2. datum upisa,
+3. naziv subjekta upisa,
+4. osobni identifikacijski broj (OIB) subjekta upisa,
+5. sjedište subjekta upisa,
+6. djelatnost subjekta upisa,
+7. osobno ime, prebivalište i osobni identifikacijski broj (OIB) osobe ovlaštene za zastupanje subjekta upisa,
+8. podaci o osnivaču – tvrtka ili naziv i sjedište, odnosno osobno ime i prebivalište osnivača,
+9. rješenja o upisu/brisanju u sudskom registru (sud koji je izvršio upis/brisanje, broj i datum rješenja),
+10. statusne promjene subjekta upisa,
+11. razlog prestanka subjekta upisa,
+12. podaci o podružnicama subjekta upisa:
+– naziv podružnice,
+– sjedište podružnice,
+– djelatnost podružnice,
+– rješenje o upisu/brisanju u sudski registar,
+– osobno ime, prebivalište i osobni identifikacijski broj (OIB) predstojnika/ce podružnice,
+13. podaci o broju i vrsti korisnika usluge smještaja, boravka ili organiziranog stanovanja doma socijalne skrbi ili centra za pružanje usluga u zajednici utvrđeni rješenjem nadležnoga tijela.
+Sadržaj zbirke isprava
+Članak 8.
+(1) Zbirka isprava sadrži:
+– presliku rješenja trgovačkog suda o upisu ustanove u sudski registar i svim naknadnim promjenama,
+– nacrt prvog statuta, statut potpisan od strane donositelja i sve izmjene i dopune statuta,
+– odluku o imenovanju osobe ovlaštene za zastupanje/predstojnika podružnice,
+– odobrenje za pružanje skrbi izvan vlastite obitelji, ukoliko je dom socijalne skrbi u mreži djelatnosti socijalne skrbi,
+– rješenje nadležnoga tijela kojim se

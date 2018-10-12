@@ -1,0 +1,23 @@
+ cijeli broj) i
+– broj mjernih postaja jednak broju njezinih stanovnika u milijunima podijeljenom s pet milijuna (zaokruženo na najbliži cijeli broj).
+Pri odabiru reprezentativnih mjernih postaja, učestalosti i razdoblja monitoringa za svaku tvar se uzima u obzir mogućnost pojave i primjene tvari. Učestalost monitoringa ne smije biti manja od jednom godišnje.
+Ako su podaci za određenu tvar dostatni, usporedivi, reprezentativni i iz najnovijih postojećih programa monitoringa ili studija, za tu tvar ne mora se provoditi dodatni monitoring iz stavka 1. ovoga članka, uz uvjet da je monitoring te tvari proveden primjenom metodologije koja udovoljava zahtjevima tehničkih smjernica koje donosi Europska komisija.«.
+Članak 7.
+U članku 32. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+»Učestalost monitoringa može se smanjiti za tvari navedene pod brojevima 5, 21, 28, 30, 35, 37, 43 i 44 Priloga 5.A ove Uredbe u odnosu na zahtjeve za prioritetne tvari iz članka 22. stavka 9. ove Uredbe i Priloga 7.A ove Uredbe pod uvjetom da je monitoring reprezentativan i da je dostupna statistički robusna osnova za procjenu prisutnosti tih tvari u vodnom okolišu te se provodi sukladno članku 33. stavku 3. ove Uredbe.«.
+Dosadašnji stavak 7. postaje stavak 8.
+Članak 8.
+Članak 33. mijenja se i glasi:
+»Za prioritetne tvari navedene u Prilogu 5.A ove Uredbe, koje pokazuju tendenciju akumuliranja u sedimentu i/ili bioti, posvećujući posebnu pozornost tvarima navedenim pod brojevima 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28, 30, 34, 35, 36, 37, 43 i 44 Priloga 5.A ove Uredbe, analizira se dugoročni trend njihovih koncentracija dobivenih na temelju monitoringa voda sukladno članku 44. Zakona o vodama te člancima od 28. do 32. ove Uredbe.
+Sukladno članku 47. Zakona o vodama i odredbama ove Uredbe poduzimaju se mjere kako bi se osiguralo da se koncentracije tvari iz stavka 1. ovoga članka znatno ne povećavaju u sedimentu i/ili relevantnoj bioti.
+Učestalost monitoringa sedimenta i/ili biote utvrđuje se tako da se osigurava dovoljno podataka za pouzdane analize dugoročnih trendova. Monitoring se provodi svake tri godine, osim ako se na temelju tehničkih znanja i stručne procjene rezultata monitoringa sadržane u godišnjem izvješću iz članka 44. Zakona o vodama ne utvrdi neko drugo razdoblje.«.
+Članak 9.
+U članku 62. stavku 1. točki 1. podstavku 1. iza riječi: »tvari« umjesto zareza stavlja se točka te se dodaje rečenica koja glasi: »U tim područjima u postupke pročišćavanja treba uključiti i uklanjanje fosfora, osim ako se može dokazati da uklanjanje neće imati nikakvog učinka na razinu eutrofikacije. Ako je riječ o ispuštanju iz većih aglomeracija može se razmotriti i uklanjanje dušika,«.
+U podstavku 2. iza riječi: »tvari« umjesto zareza stavlja se točka te se dodaje rečenica koja glasi: »Ispuštanja iz malih aglomeracija obično su od manje važnosti u tim područjima, ali je za velike aglomeracije potrebno uključiti uklanjanje fosfora i/ili dušika, osim ako se može pokazati da uklanjanje ne bi imalo utjecaja na razinu eutrofikacije,«.
+U točki 2. riječi: »koje sadrže« zamjenjuju se riječima: »koje bi mogle sadržavati«.
+Članak 10.
+Naziv glave V. »IZVJEŠTAVANJE« mijenja se i glasi: »IZVJEŠĆIVANJE«.
+Članak 11.
+Naziv glave VI. »MEĐUNARODNO IZVJEŠTAVANJE« mijenja se i glasi: »INFORMIRANJE I IZVJEŠĆIVANJE EUROPSKE KOMISIJE«.
+U članku 66. stavku 2. iza točke 3. dodaje se točka 4. koja glasi:
+»4. rezultatima monitoringa provedenog na temelju članka 31.a ove Uredbe. Za prvi Popis praćenja, o rezultatima monitoringa izvješćuju se unutar petnaest mjeseci od 20. listopada 2015. godine, te svakih dvanaest mjeseci nakon tog datuma sve dok se tvar nalazi na Popisu praćenja. Za svaku novu tvar dodanu na Popis praćenja, izvješćuje se Europska komisija o rezultatima monitoringa unutar dvadeset i jednog mjeseca od dodavanja tvari na Popis praćenja i svakih dvanaest mjeseci nakon tog datuma sve dok se tvar nalazi na Popisu praćenja. Izvješće uključuje informacije o

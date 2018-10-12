@@ -1,0 +1,32 @@
+ obrada, obvezno u uvjerenju utvrđuje rok za novi pregled koji ne može biti dulji od 3 mjeseca od dana izdavanja uvjerenja. Osoba s ovom ocjenom ne može obnašati letačke dužnosti do donošenja nove ocjene zdravstvene sposobnosti.
+8. Priopćavanje rezultata zdravstvenih pregleda
+Osobi kojoj se tijekom zdravstvenog pregleda utvrdi odstupanje zdravstvenog stanja u odnosu na propisane zahtjeve izvršitelj pregleda dužan je to na primjeren način objasniti i s time je upoznati.
+Preslike medicinske dokumentacije proistekle iz obavljenog pregleda osobe, a na osnovi koje se ocjenjuje da se treba provesti daljnje liječenje i/ili dijagnostička obrada ili je prema dijagnozi osoba ocijenjena zdravstveno nesposobnom za službu obvezno se dostavlja njezinu izabranom doktoru medicine.
+9. Ispunjavanje i pohrana dokumentacije
+9.1. Dokumentaciju o provedenim zdravstvenim pregledima i psihologijskim ispitivanjima čini:
+1. Uputnica za zdravstveni pregled (tiskanica UZP-RI)
+2. Potvrda izabranog doktora medicine (tiskanica P)
+3. Upitnik anamnestičkih podataka (tiskanica I)
+4. Karton zdravstvenog pregleda (tiskanica ZP)
+5. Nalaz transfuziologa o utvrđenoj krvnoj grupi i Rh faktoru
+6. Karton zdravstvenog pregleda zrakoplovnog osoblja (tiskanica ZP-ZO)
+7. Nalaz i mišljenje zdravstvene komisije za zrakoplovno osoblje (tiskanica NM-ZO)
+8. Uvjerenje o zdravstvenoj sposobnosti za vojnu službu (tiskanica UZS-RI)
+9. Uvjerenje o zdravstvenoj sposobnosti zrakoplovnog osoblja (tiskanice UZS-ZO i UZS-PD)
+10. Psihološki nalaz i rezultati psihologijskih ispitivanja (tiskanice PN-1 i PN)
+11. Preostala dokumentacija proistekla iz zdravstvenog pregleda
+9.2. Ispunjavanje dokumentacije
+9.2.1. Uputnicu za zdravstveni pregled (tiskanica UZP-RI) ispunjava nadležna osoba ustrojstvene jedinice koja upućuje pripadnike Oružanih snaga na zdravstveni pregled. Popunjena Uputnica za zdravstveni pregled (tiskanica UZP-RI), Potvrda izabranog doktora medicine (tiskanica P) i Upitnik anamnestičkih podataka (tiskanica I) prilažu se uz Karton zdravstvenog pregleda (tiskanica ZP).
+9.2.2. Karton zdravstvenog pregleda (iskanica ZP) ispunjavaju djelatnici izvršitelji pregleda.
+9.2.3. Psihološki nalaz ispunjava vojni psiholog.
+Specijalist medicine rada, specijalisti ostalih grana medicine, zdravstveni tehničari i vojni psiholozi odgovorni su za uredno i točno upisivanje podataka u tiskanice i zdravstvenu dokumentaciju.
+Izvršitelji zdravstvenih pregleda i psihologijskih ispitivanja u postupanju s medicinskom i psihološkom dokumentacijom dužni su pridržavati se važećih zakonskih odredbi o postupanju i zaštiti tajnosti podataka.
+Podatke se u zdravstvenu dokumentaciju upisuje čitko i točno, uz upisivanje i zaokruživanje ponuđenog odgovora, te se ovjeravaju potpisom i faksimilom doktora medicine, vojnog psihologa i pečatom zdravstvene ustanove.
+9.3. Pohrana dokumentacije koja se vodi prema ovim uputama
+9.3.1. Dokumentacija iz točke 9.1. od rednog broja 1. do 11. pohranjuje se kod izvršitelja na rok od trideset godina, uz istodobni unos odabranih podataka u odgovarajući modul računalne baze podataka Ministarstva obrane.
+9.3.2. Zdravstvena ustanova – izvršitelj pregleda obvezna je ustrojiti evidenciju o izvršenim pregledima koju pohranjuje na rok od petnaest godina.
+PRILOG 5
+POPIS BOLESTI I SRODNIH ZDRAVSTVENIH PROBLEMA
+Popis bolesti i srodnih zdravstvenih problema sastavljen je u skladu s Međunarodnom klasifikacijom bolesti i srodnih zdravstvenih problema, Deseta revizija (u daljnjem tekstu: MKB) što podrazumijeva da je dijagnoza potvrđena u skladu s načelima medicinske struke.
+U slučaju izlječenja od bolesti i srodnih zdravstvenih problema, a bez zaostalih funkcionalnih i drugih oštećenja one se ne klasificiraju prema ovom Popisu nego se prikupljeni podaci unose u skupinu anamnestičkih podataka.
+Za pojedine bolesti, tjelesne mane, nedostatke, ozljede i posljedice ozljeda stavljena je uz točku Popisa i oznaka (*), što upućuje izvršitelja pregleda da prije donošenja prijedloga ocjene zdravstvene

@@ -1,0 +1,35 @@
+122 06.11.2015 Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+2330
+Na temelju članka 12. stavka 1. točke 1., članka 16. stavka 3., članka 70. stavka 5. točke 1., članka 84. stavka 1. točke 1. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08., 90/11., 133/12., 80/13. i 71/14.), članka 13. stavka 2. Zakona o poštanskim uslugama (»Narodne novine« br. 144/12., 153/13. i 78/15.) te članka 7. stavka 3. Zakona o regulaciji tržišta željezničkih usluga (»Narodne novine« br. 71/14.), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PRAVILNIK
+O PLAĆANJU NAKNADA ZA OBAVLJANJE POSLOVA HRVATSKE REGULATORNE AGENCIJE ZA MREŽNE DJELATNOSTI
+I. OPĆE ODREDBE
+Sadržaj i svrha
+Članak 1.
+(1) Pravilnikom o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti (dalje: Pravilnik) propisuju se izračun, visina i način plaćanja naknada radi osiguravanja sredstava za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti (dalje: HAKOM) na temelju godišnjeg financijskog plana HAKOM-a.
+(2) Sredstva za obavljanje poslova HAKOM-a osiguravaju se iz naknada za upravljanje adresnim i brojevnim prostorom, naknada za upravljanje radiofrekvencijskim spektrom, naknada za obavljanje drugih poslova HAKOM-a u području elektroničkih komunikacija, naknada za obavljanje poslova HAKOM-a u području poštanskih usluga te naknada za obavljanje poslova HAKOM-a u području željezničkih usluga.
+Značenje pojmova
+Članak 2.
+1. CGC – komplementarna zemaljska sastavnica (eng. complementary ground component)
+2. Dupleks – komunikacija između dviju ili više radijskih postaja koja se istovremeno odvija na dvije frekvencije
+3. ENG/OB – veze za elektroničko prikupljanje novosti i vanjski radiodifuzijski prijenos
+4. Javna pokretna mreža za zatvorene grupe korisnika – komunikacijska mreža putem koje se zatvorenim grupama korisnika pruža usluga
+5. Mreža za vlastite potrebe – komunikacijska mreža koja se koristi za vlastite potrebe zatvorene grupe korisnika
+6. M2M – komunikacija između strojeva (eng. machine–to–machine)
+7. Nepokretne radijske postaje – radijska postaja koja je nepokretna u radu
+8. Osnovna postaja – nepokretna radijska postaja za istodoban prijam i odašiljanje gdje krajnje postaje rade u dupleks načinu rada
+9. Pokretne radijske postaje – radijska postaja koja može biti pokretna u radu
+10. Prenosive radijske postaje – radijska postaja koja je prenosiva, ali je u radu nepokretna
+11. Repetitor – nepokretna radijska postaja ili samo antenski sustav za istodoban prijam i odašiljanje gdje krajnje postaje rade u poludupleksnom načinu rada
+12. Simpleks – komunikacija između dviju ili više radijskih postaja koja se odvija na jednoj frekvenciji
+13. PLB – radio-far za osobnu uporabu.
+II. NAKNADA ZA UPORABU ADRESA I/ILI BROJEVA
+Određivanje naknade
+Članak 3.
+(1) Za uporabu adresa i/ili brojeva plaća se godišnja naknada, temeljem izdanog računa HAKOM-a.
+(2) Visina godišnje naknade za uporabu adresa i/ili brojeva određuje se ovisno o vrsti elektroničkih komunikacijskih usluga za koje se upotrebljavaju adrese i/ili brojevi.
+(3) Naknada za prvu godinu uporabe adresa i/ili brojeva obuhvaća razdoblje od dana donošenja odluke o primarnoj dodjeli adresa i/ili brojeva do kraja tekuće kalendarske godine, i utvrđuje se razmjerno trajanju razdoblja uporabe adresa i/ili brojeva.
+(4) Za drugu i svaku sljedeću godinu uporabe adresa ili brojeva, HAKOM izdaje operatoru jedinstveni račun za sve adrese i/ili brojeve koje operator upotrebljava na početku te kalendarske godine.
+(5) Ako se operator u pisanom obliku ne odrekne uporabe dodijeljenih adresa i/ili brojeva u skladu sa Zakonom o elektroničkim komunikacijama prije početka sljedećeg obračunskog razdoblja, obvezan je platiti godišnju naknadu za uporabu adresa i/ili brojeva za sljedeće obračunsko razdoblje.
+(6) Ako naknada nije plaćena u roku određenom u opomeni iz

@@ -1,0 +1,23 @@
+ gubitak je dio dobiti prethodnih razdoblja koja  ostaje poduzetniku nakon raspoređivanja u rezerve, isplate dividende ili udjela u dobiti umanjena za gubitke prethodnih razdoblja.  
+12.12. Dobit ili gubitak tekućeg obračunskog razdoblja je dio kapitala kao rezultat viška prihoda nad rashodima, odnosno viška rashoda nad prihodima ostvarenih u tekućem obračunskom razdoblju nakon obračuna poreza na dobit.  
+12.13. Knjigovodstvena vrijednost je iznos po kojemu je neka imovina priznata u bilanci nakon odbitka ispravka vrijednosti i akumuliranih gubitaka od umanjenja.  
+12.14. Dugotrajna nematerijalna imovina je imovina koja se može identificirati kao nemonetarna i bez fizičkog obilježja.  
+12.15. Manjinski interes je onaj dio dobiti ili gubitka i neto imovine ovisnog društva koji se može pripisati kapitalu koji nije vlasništvo matičnog društva, izravno ili neizravno kroz ovisna društva.
+12.16. Vlasnički (glavnički) instrument je svaki ugovor koji dokazuje udjel u kapitalu nekog drugog poduzetnika.  
+12.17. Transakcijski troškovi su troškovi koji se izravno pripisuju kupnji, izdavanju ili prodaji financijske imovine ili financijske obveze.  
+12.18. Financijska imovina raspoloživa za prodaju je ona financijska imovina koja nije klasificirana kao:
+a) zajmovi i potraživanja,
+b) ulaganja koja se drže do dospijeća ili
+c) financijska imovina čija se promjena fer vrijednosti priznaje u računu dobiti i gubitka.
+12.19. Zaštita novčanog toka predstavlja zaštitu izloženosti promjenama novčanog toka koje se odnose na određeni rizik koji je povezan s priznatom imovinom ili obvezom ili vrlo izvjesne predviđene transakcije, i koji može utjecati na dobit ili gubitak.
+12.20. Neto ulaganje u inozemno poslovanje je iznos udjela izvještajnog poduzetnika u kapitalu tog poslovanja (Inozemno poslovanje je ovisno društvo, društvo povezano sudjelujućim interesom, zajednički pothvat ili podružnica izvještajnog poduzetnika čije je poslovanje utemeljeno ili se njime upravlja u zemlji ili valuti koja nije zemlja ili valuta izvještajnog poduzetnika). 
+12.21. Tekući porez je iznos poreza na oporezivu dobit za razdoblje.
+12.22. Odgođene porezne obveze jesu iznosi poreza na dobit plativi u budućim razdobljima koje se odnose na oporezive privremene razlike.
+SADRŽAJ
+12.23. Hrvatski standard financijskog izvještavanja regulira vrste kapitala, odnosno obuhvat kapitala i to: uloženi i zarađeni kapital, revalorizacijske rezerve, rezerve fer vrijednosti tečajne razlike s naslova neto ulaganja u inozemno poslovanje, tekući i odgođeni porez, (dio) učinak zaštite novčanog toka, promjene računovodstvenih politika i ispravak pogreški prethodnih razdoblja.
+PRIZNAVANJE
+12.24. S obzirom da kapital predstavlja ostatak imovine poduzetnika nakon odbitka svih obveza, kapital se priznaje u neposrednoj povezanosti s priznavanjem imovine i obveza.
+12.25. Kada se knjigovodstvena vrijednost dugotrajne materijalne imovine poveća kao rezultat revalorizacije to povećanje treba izravno priznati u kapital pod nazivom revalorizacijske rezerve. Međutim, revalorizacijsko povećanje treba priznati kao prihod do iznosa do kojeg ono poništava revalorizacijsko smanjenje vri jednosti iste imovine, koje je prethodno priznato kao rashod.
+12.26. Kada se knjigovodstvena vrijednost dugotrajne materijalne imovine smanji zbog revalorizacije, to smanjenje treba priznati kao rashod. Međutim, revalorizacijsko smanjenje treba izravno teretiti revalorizacijsku rezervu do iznosa do kojeg smanjenje ne premašuje iznos koji postoji kao revalorizacijska rezerva za istu  imovinu.
+12.27. Kada se knjigovodstvena vrijednost dugotrajne nematerijalne imovine povećava kao  rezultat revalorizacije, povećanje se treba izravno priznati u kapital kao revalorizacijska rezerva. Međutim, povećanje revalorizacije se treba priznati kao prihod u visini kojom se stornira smanjenje revalorizacije iste imovine, koja je prethodno priznata u računu dobiti ili gubitka kao rashod.
+12.28. Ako se knjigovodstvena vrijednost nematerijalne

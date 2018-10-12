@@ -1,0 +1,27 @@
+ provodi farmaceutska inspekcija Ministarstva.
+(2) Farmaceutski inspektor Ministarstva provodi inspekciju kliničkih ispitivanja na ispitivačkom mjestu, u prostorima naručitelja kliničkog ispitivanja i/ili ugovorne ustanove ili u drugim pravnim osobama u kojima nadležno tijelo smatra da je potrebno provesti nadzor.
+(3) Farmaceutska inspekcija obavlja redovite i izvanredne nadzore nad kliničkim ispitivanjem lijekova:
+– redoviti nadzori provode se u skladu s godišnjim planom nadzora,
+– izvanredni nadzori nad kliničkim ispitivanjem lijekova provode se u slučaju incidentnih stanja.
+(4) Inspekcijski nadzor nad kliničkim ispitivanjem lijekova može biti zatražen i koordiniran od strane Europske agencije za lijekove.
+(5) Inspekcijski nadzor nad kliničkim ispitivanjem lijekova može se provoditi:
+– prije, za vrijeme ili nakon provođenja kliničkog ispitivanja,
+– u sklopu postupka davanja odobrenja za stavljanje lijeka u promet,
+– kao ponovljena inspekcija nakon dobivanja odobrenja za stavljanje lijeka u promet.
+(6) Inspekcijski nadzor nad kliničkim ispitivanjem provodi se u skladu sa smjernicama i vodičima objavljenim na mrežnim stranicama Europske komisije EudraLex – Volume 10 Clinical trials guidelines.
+Članak 25.
+U slučaju događaja koji utječe na sigurnost ispitanika, ispitivač i naručitelj kliničkog ispitivanja obvezni su bez odgađanja poduzeti hitne mjere zaštite ispitanika te po poduzimanju tih mjera obvezni su, bez odgađanja, o poduzetim mjerama i izmjenama plana kliničkoga ispitivanja izvijestiti Središnje etičko povjerenstvo, Agenciju i Ministarstvo.
+Članak 26.
+(1) Ispitivač, kao i zdravstveni radnik koji sudjeluje u kliničkom ispitivanju, i sazna za štetni događaj koji se dogodio za vrijeme kliničkog ispitivanja obvezni su o tom događaju, sukladno posebnim propisima, obavijestiti podnositelja zahtjeva, osim onih za koje plan ispitivanja i uputa za ispitivača to ne zahtijevaju.
+(2) Agencija je obvezna voditi evidenciju o Izvješćima o neškodljivosti lijeka u razvoju (Development Safety Update Report – DSUR), o sumnjama na ozbiljne neočekivane nuspojave (Suspected Unexpected Serious Adverse Reactions – SUSAR) koje su se dogodile u kliničkim ispitivanjima u Republici Hrvatskoj i drugim sigurnosnim pitanjima te o tome obavijestiti Središnje etičko povjerenstvo i Ministarstvo.
+Članak 27.
+Ako je kliničko ispitivanje završeno prije nego što je određeno planom kliničkoga ispitivanja ili je privremeno obustavljeno, podnositelj zahtjeva je obvezan, uz navođenje detaljnog objašnjenja uzroka, u roku od 15 dana o tome izvijestiti Središnje etičko povjerenstvo koje je dalo pozitivno mišljenje i Ministarstvo.
+Članak 28.
+(1) Podnositelj zahtjeva je obvezan dostaviti Središnjem etičkom povjerenstvu i Ministarstvu obavijest o završetku kliničkoga ispitivanja u roku od 90 dana od dana završetka kliničkog ispitivanja.
+(2) Završetkom kliničkog ispitivanja iz stavka 1. ovoga članka smatra se dan zadnjeg pregleda/pretrage zadnjeg uključenog ispitanika u kliničko ispitivanje.
+Članak 29.
+Nakon završetka kliničkoga ispitivanja podnositelj zahtjeva obvezan je dostaviti Središnjem etičkom povjerenstvu i Ministarstvu sažetak završnoga izvješća, u roku od jedne godine od dana završetka kliničkog ispitivanja.
+Članak 30.
+(1) Naručitelj kliničkog ispitivanja može ispitanicima nakon završetka sudjelovanja u kliničkom ispitivanju omogućiti sudjelovanje u programu produženog liječenja ispitivanim lijekom, engl. »expanded access programmes«, (u daljnjem tekstu: program).
+(2) U slučaju iz stavka 1. ovoga članka podnositelj zahtjeva dužan je o planiranom programu obavijestiti Središnje etičko povjerenstvo i zatražiti suglasnost Ministarstva.
+(3) Podnositelj zahtjeva obvezan je navesti razloge pokretanja te trajanje programa, broj ispitivačkih mjesta i ispitanika u pojedinom ispitivačkom mjestu koji će sudjelovati u programu te dozu i način primjene lijeka. Uz zahtjev podnositelj je dužan priložiti izjave glavnih ispitivača kojima potvrđuju svoje sudjelovanje u

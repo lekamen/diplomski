@@ -1,0 +1,26 @@
+ prvo omogućavanje dostupnosti na tržištu proizvoda proizvedenih u Republici Hrvatskoj;
+23. Stopa sakupljanja je omjer mase sakupljenih otpadnih prijenosnih baterija i akumulatora u određenoj kalendarskoj godini, putem sustava kojim upravlja Fond, i prosječne mase prijenosnih baterija i akumulatora, koje su svi proizvođači prodali izravno krajnjim korisnicima ili isporučili trećim osobama radi prodaje krajnjim korisnicima u Republici Hrvatskoj, u toj i prethodne dvije kalendarske godine, izražen kao postotak;
+24. Stručna osoba je osoba koja posjeduje dozvolu za gospodarenje otpadom za djelatnost koja uključuje gospodarenje otpadnim električnim i elektroničkim uređajima i opremom ili vozilima ili baterijama i akumulatorima te serviser uređaja, opreme ili vozila;
+25. Ugovorni sakupljač je pravna ili fizička osoba – obrtnik koja posjeduje dozvolu za obavljanje djelatnosti gospodarenja otpadom za sakupljanje otpadnih prijenosnih baterija i akumulatora i ima sklopljen ugovor s Fondom o obavljanju usluge sakupljanja otpadnih prijenosnih baterija i akumulatora na području određenom Odlukom sukladno Zakonu;
+26. Uredba je Uredba o gospodarenju otpadnim baterijama i akumulatorima;
+27. Uređaj je svaki električni i elektronički uređaj i oprema propisana posebnim propisom koji uređuje gospodarenje otpadnom električnom i elektroničkom opremom i koji se djelomično ili u cijelosti napaja energijom dobivenom iz baterija ili akumulatora ili koji ima sposobnost takvog napajanja;
+28. Vrste baterija ili akumulatora su:
+– prijenosne baterije i akumulatori,
+– industrijske baterije i akumulatori i
+– automobilske baterije i akumulatori (starteri);
+29. Zakon je Zakon o održivom gospodarenju otpadom.
+Ciljevi u sustavu gospodarenja otpadnim baterijama i akumulatorima
+Članak 5.
+(1) Cilj sustava gospodarenja otpadnim baterijama i akumulatorima, čiji je sastavni dio sustav sakupljanja otpadnih prijenosnih baterija i akumulatora, je smanjenje negativnih učinaka na okoliš kojeg uzrokuju baterije i akumulatori i s tim u vezi postupci svih gospodarskih subjekata.
+(2) U svrhu ostvarenja cilja iz stavka 1. ovoga članka provode se mjere za unaprjeđenje sustava gospodarenja otpadnim baterijama i akumulatorima propisane u Prilogu I. ovoga Pravilnika.
+Članak 6.
+(1) Cilj kojeg su dužni ispuniti proizvođači prijenosnih baterija i akumulatora, a sukladno članku 64. Zakona, je postizanje godišnje stope sakupljanja veće od 25% te od 26. rujna 2016. godine stope sakupljanja veće od 45% i to odvojenim sakupljanjem otpadnih prijenosnih baterija i akumulatora kako bi se na najmanju moguću mjeru smanjilo odbacivanje i zbrinjavanje otpadnih prijenosnih baterija i akumulatora u miješanom komunalnom otpadu.
+(2) Proizvođač je obvezan ispuniti cilj gospodarenja otpadnim prijenosnim baterijama i akumulatorima razmjerno količini stavljenoj na tržište sukladno Uredbi.
+(3) Na izračun mase prijenosnih baterija i akumulatora stavljenih na tržište u kalendarskoj godini primjenjuje se Odluka Komisije 2008/763/EZ od 29. rujna 2008. o uspostavljanju zajedničke metodologije za izračun godišnje prodaje prijenosnih baterija i akumulatora krajnjim korisnicima u skladu s Direktivom 2006/66/EZ Europskog parlamenta i Vijeća (priopćena pod brojem dokumenta C(2008) 5339) (Tekst značajan za EGP) (SL L 262, 1. 10. 2008.).
+(4) Fond je obvezan pratiti ispunjavanje ciljeva proizvođača u svrhu ispunjavanja cilja iz stavka 1. ovoga članka.
+Obveze proizvođača i prodavatelja
+Članak 7.
+(1) Proizvođač je dužan osigurati da je baterija i akumulator, koju stavlja na tržište, dizajnirana i proizvedena na način da je:
+– uporaba opasnih tvari u bateriji i akumulatoru smanjena na najmanju moguću mjeru, poštujući ograničenja uporabe određenih opasnih tvari u Europskoj uniji propisana posebnim propisom,
+– moguće rastavljanje i oporaba otpadne baterije i akumulatora kao i recikliranje sastavnih dijelova i materijala baterije i akumulatora,
+– u skladu s tehničkim zahtjevima za ekološki dizajn proizvoda koji olakšava

@@ -1,0 +1,26 @@
+ dana pojašnjenja (ako je primjenjivo), Žalbu i presliku rješenja Državne komisije za kontrolu provedbe javne nabave (ako je primjenjivo) te ostale dokumente za koje Korisnik smatra da je potrebno dostaviti
+• te jedno od primjenjivog:
+→ e-oglasnik – koji sadrži sve objave u Elektroničkom oglasniku javne nabave Narodnih novina Republike Hrvatske i/ili Službenom listu Europske Unije u PDF formatu (npr. Poziv na nadmetanje, Obavijest o sklopljenim ugovorima, Obavijest o dodatnim informacijama, poništenju postupka ili ispravku i sl.)
+→ poziv – koji sadrži Poziv na pregovaranje/ Zahtjev za prikupljanje ponuda/ Poziv na natječaj i dokaze zaprimanja (npr. povratnice)
+• Svaki pojedini dokument u direktoriju mora imati odgovarajući naziv iz kojeg je vidljivo što predstavlja i mora biti u PDF formatu (primjer dobre prakse u nazivanju dokumenata: »Dokumentacija za nadmetanje.pdf«, Zapisnik o pregledu i ocjeni ponuda.pdf; primjeri loše prakse: »scan1«, »slika5«, »dfgdjk»i sl.)
+• Ukoliko pojedini dokument sadrži više od jedne strane potrebno je skenirati određeni dokument na način da jedan PDF dokument sadrži sve stranice. Nije dozvoljeno svaku stranicu posebno skenirati i prilagati kao zaseban dokument. Specifično za ponude: Može se unutar direktorija ponude u direktoriju koji se odnosi na određene ponude kreirati više direktorije radi lakšeg učitavanja podataka (npr.
+PONUDE
+Ponuda1
+Ponuda (sadrži ponudbeni list, troškovnik, podatke o zajednici ponuditelja i sl)
+Sposobnost (sadrži tražene certifikate stručnjaka, popis ugovora i sl.)
+Isključenje (upis u sudski registar, potvrda Porezne uprave o stanju duga i sl)
+Ostalo (jamstvo i ostala dokumentacija i sl.)
+Ponuda2
+Ponuda (sadrži ponudbeni list, troškovnik, podatke o zajednici ponuditelja i sl)
+Sposobnost (sadrži tražene certifikate stručnjaka, popis ugovora i sl.)
+Isključenje (upis u sudski registar, potvrda Porezne uprave o stanju duga i sl)
+Ostalo (jamstvo i ostala dokumentacija i sl.))
+Korisnik prilikom dostavljanja elektronskog medija mora dostaviti i popratni dopis na kojem mora navesti minimalno sljedeće podatke:
+• opće podatke korisnika (npr. naziv, adresa, kontakt podatke, osobu za kontakt i sl.)
+• procijenjeni iznos (ukoliko je korisnik proveo više javnih nabava potrebno navesti procijenjeni iznos za svaku nabavu pojedinačno)
+• postupak javne nabave (ukoliko je korisnik proveo više javnih nabava potrebno navesti sve postupke javnih nabava)
+• vrstu ugovora (ukoliko je korisnik proveo više javnih nabava potrebno navesti vrste ugovora koje je sklopio)
+• broj objave u Elektroničkom oglasniku javne nabave Narodnih novina Republike Hrvatske i/ili Službenom listu Europske unije (ukoliko je primjenjivo)
+PRILOG VIII.
+POPIS STANDARDA EUROPSKE UNIJE
+Br. Standard ЕU zakonodavstvo Nacionalno zakonodavstvo Datum od kojeg standard postaje obavezan Datum završetka prijelaznog razdoblja Vrsta ulaganja 1. Zaštita voda od onečišćenja uzrokovanog nitratima iz poljoprivrednih izvora Direktiva Vijeća od 12. prosinca 1991. o zaštiti voda od onečišćenja uzrokovanog nitratima iz poljoprivrednih izvora (91/676/EEZ) Akcijski program zaštite voda od onečišćenja uzrokovanog nitratima poljoprivrednog podrijetla (NN, br. 15/2013) 01.07.2013. (za zahtjeve za skladišne kapacitete za stajsko gnojivo) Prijelazni rok za usklađivanje nakon pristupanja Republike Hrvatske Europskoj uniji za poljoprivredna gospodarstva: – 4 godine za poljoprivredna gospodarstva s ≤ 1 uvjetnih grla, – 2 godine za sva ostala poljoprivredna gospodarstva Kupnja/stjecanje, građenje ili poboljšanje zgrada i ostalih nekretnina koje se koriste za zaštitu vodnih tijela od onečišćenja uzrokovanog nitratima iz poljoprivrednih izvora Kupnja opreme za prijevoz, skladištenje, učinkovito korištenje biomase/stajskog gnojiva i zaštita voda i vodnih tijela od onečišćenja uzrokovanog nitratima iz poljoprivrednih izvora 2. Određenim poduzećima u sektorima prerade mlijeka i mesa odobren je prijelazni rok za usklađivanje sa standardima Zajednice koji se

@@ -1,0 +1,67 @@
+ Agencije.
+(2) Povjerenstvo iz stavka 1. ovog članka mora nakon završetka gradnje utvrditi da je zrakoplov izgrađen prema prihvaćenoj tehničkoj dokumentaciji, da su radovi obavljeni u skladu s pravilima struke te da prilikom ispitivanja nisu uočene osobine koje bi zrakoplov činile opasnim za ispitivanje u letu.
+Dozvola za ispitivanje u letu
+Članak 66.
+(1) Nakon završetka gradnje, amaterski građeni zrakoplov se ispituje u letu. Na zahtjev graditelja, a prema prijedlogu povjerenstva za prihvaćanje zrakoplova iz članka 65. ovoga Pravilnika, Agencija izdaje dozvolu za ispitivanje zrakoplova u letu.
+(2) Uz zahtjev iz stavka 1. ovog članka, podnosi se sljedeća dokumentacija:
+a) dnevnik gradnje zrakoplova;
+b) nacrt uputa za korištenje zrakoplova;
+c) pisani pristanak osobe koja će obavljati ispitivanje zrakoplova u letu;
+d) pisani pristanak nosioca prava raspolaganja aerodromom sa kojeg će se obavljati ispitivanje zrakoplova u letu;
+e) polica obveznog osiguranja;
+f) odobrenje nadležne službe kontrole letenja, ako je potrebno;
+g) kalendarski period u kojem će se obavljati ispitivanja zrakoplova;
+h) izvještaj o obavljenim ispitivanjima i probama;
+i) program ispitivanja u letu.
+Osoba za ispitivanje u letu
+Članak 67.
+Ispitivanja amaterski građenih zrakoplova u letu može obavljati osoba koje ima važeću dozvolu pilota odgovarajuću za predmetnu vrstu zrakoplova, najmanje 100 sati samostalnog letenja i Agenciji je prihvatljiva za obavljanje ispitivanja u letu.
+Ispitivanje u letu
+Članak 68.
+(1) Ispitivanje amaterski građenih zrakoplova u letu mora obuhvatiti najmanje:
+1) za amaterski građen avion ili motornu jedrilicu:
+a) 20 sati letenja i 60 slijetanja;
+b) penjanje na plafon leta;
+c) let koji odgovara najvećoj autonomiji leta skraćen za 20 minuta;
+d) letove najvećih brzina za određene konfiguracije zrakoplova (položaj stajnog trapa i zakrilaca);
+e) letove pod uvjetima graničnih položaja težišta zrakoplova;
+f) letove na napadnom kutu bliskom slomu uzgona;
+2) za amaterski građenu jedrilicu bez vlastitog pogona ili s pomoćnim motorom:
+a) 10 sati letenja i 30 slijetanja;
+b) izvođenje lijevih i desnih zaokreta;
+c) uzlijetanje i penjanje u aerozaprezi;
+d) uzlijetanje i penjanje pomoću autovitla;
+e) uzlijetanje i penjanje na ostale načine predviđene u uputi za korištenje amaterski građenog zrakoplova;
+f) letove najvećih brzina za određene konfiguracije zrakoplova (razni mogući položaji uzgonskih površina, kormila i površina koje stvaraju otpore u letu);
+g) letove na napadnom kutu bliskom slomu uzgona;
+h) uključivanje pomoćnog motora u letu, ako je ugrađen;
+3) za amaterski građen helikopter:
+a) 20 sati letenja i 60 slijetanja;
+b) penjanje na plafon leta;
+c) let koji odgovara najvećoj autonomiji leta skraćen za 20 minuta;
+d) letove najvećih brzina;
+e) letove pod uvjetima graničnih položaja težišta zrakoplova;
+f) lebdenje;
+4) za amaterski građen žiroplan:
+a) 20 sati letenja i 60 slijetanja;
+b) penjanje na plafon leta;
+c) let koji odgovara najvećoj autonomiji leta skraćen za 20 minuta;
+d) letove najvećih brzina;
+e) letove pod uvjetima graničnih položaja težišta zrakoplova;
+5) za amaterski građen balon:
+a) 5 sati letenja i 20 slijetanja;
+b) penjanje do predviđenog plafona leta;
+c) proba rada naprava za zakretanje i smanjivanje uzgona;
+d) proba upravljivosti pri najnižem dopuštenom tlaku goriva;
+e) najveću dopuštenu brzinu penjanja i spuštanja;
+f) vezani let uz najveću dopuštenu masu na uzlijetanju uvećanu faktorom opterećenja;
+6) za amaterski građen zračni brod:
+a) 10 sati letenja i 30 slijetanja;
+b) penjanje do predviđenog plafona leta;
+c) stabilnost i upravljivost u cijelom rasponu brzina zrakoplova;
+d) izvođenje lijevih i desnih zaokreta u cijelom rasponu brzina;
+e) proba naprava za smanjivanje uzgona;
+f) lebdenje;
+g) najveću dopuštenu brzinu penjanja i spuštanja;
+h) vezani let uz najveću dopuštenu masu na uzlijetanju uvećanu faktorom opterećenja.
+(2) Ako su ranije obavljana ispitivanja u letu amaterski građenog zrakoplova koji je građen prema istome 

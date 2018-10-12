@@ -1,0 +1,25 @@
+ projektom predviđenih događaja ili za ublažavanje posljedica nesreće.
+(2) Sigurnosne SSK potrebno je identificirati, klasificirati, projektirati, proizvesti, instalirati i provjeriti u skladu sa standardima kvalitete, prilikom čega je potrebno obratiti pozornost na stupnjevani pristup s obzirom na važnost njihovih sigurnosnih funkcija.
+(3) Dodatni sustavi koji osiguravaju operativnost sigurnosnog SSK klasificiraju se u skladu sa svojom funkcijom.
+(4) U određivanju zahtjeva za neovisnošću, redundancije i različitosti SSK, potrebno je uzeti u obzir mogućnost kvarova sa zajedničkim uzročnikom.
+(5) Sigurnosne SSK je potrebno projektirati sukladno graničnim uvjetima nametnutim od strane projektom predviđenih događaja.
+(6) Sigurnosne SSK potrebno je projektirati da mogu podnijeti okolišne uvjete te uskladiti s takvim utjecajima i s prirodnim uvjetima koji prevladavaju na lokaciji postrojenja u svim stanjima postrojenja i tijekom nesreće.
+(7) Sigurnosne SSK potrebno je projektirati i smjestiti u postrojenju tako da zadrže svoje sposobnosti za postizanje sigurnosne funkcije čak i tijekom mogućih požara ili izloženosti eksplozijama.
+(8) Nakon svakog projektnog događaja, sigurnosni SSK trebaju spriječiti, uz odgovarajuću razinu pouzdanosti, bilo kakvo oslobađanje radioaktivnih tvari u okoliš iznad zakonski predviđenih granica. Oni trebaju nastaviti djelovati na odgovarajućoj razini pouzdanosti bez obzira na pretpostavljene inicijalne događaje i njihove posljedice.
+(9) Za sigurnosne SSK potrebno je osigurati mogućnost održavanja, provjere, popravaka i inspekcije, kao i periodičnu inspekciju integriteta i funkcionalnosti tijekom životnog vijeka postrojenja na način da se spriječi neopravdano izlaganje radnika neopravdanim rizicima ili znatno smanjenje dostupnosti SSK.
+(10) Sigurnosni SSK koji dolaze u dodir s tekućinama trebaju biti izgrađeni od materijala odgovarajućih antikorozivnih svojstava, te otporni na habanje i kemijske reakcije u svim stanjima postrojenja i za vrijeme nesreća tijekom životnog vijeka.
+(11) Potrebno je odrediti projektirani život vijek sigurnosnih SSK. U projektu je potrebno osigurati odgovarajuće margine kako bi se uzeli u obzir relevantni mehanizmi starenja, degradacije starenjem, krhkosti zbog neutronskog zračenja te istrošenosti kako bi se osigurala sposobnost objekata važnih za sigurnost da obavljaju potrebne sigurnosne funkcije tijekom njihovog projektnog životnog vijeka.
+Članak 15.
+Prilikom projektiranja nuklearnog postrojenja poželjna je primjena pasivnih sigurnosnih funkcija jer smanjuje ovisnost o aktivnim sigurnosnim funkcijama, praćenju i ljudskoj intervenciji u osiguravanju sigurnosti.
+Sigurnosne analize
+Članak 16.
+(1) U projektnim osnovama za nuklearno postrojenje potrebno je navesti stanja postrojenja.
+(2) Prema njihovoj vjerojatnosti pojavljivanja, pretpostavljene inicijalne događaje potrebno je grupirati u ograničen broj kategorija. Kategorije uključuju: normalan pogon, predviđene pogonske događaje, projektne kvarove i u slučaju nuklearne elektrane pooštrene projektne uvjeti.
+(3) Kriteriji za klasifikaciju iz prethodnog stavka trebaju se navesti za svaku kategoriju, kako bi se osiguralo da česti pretpostavljeni inicijalni događaji imaju male ili nemaju radiološke posljedice, dok je vjerojatnost događaja s teškim radiološkim posljedicama vrlo niska.
+Članak 17.
+Niz uvjeta tijeka nesreće koje je potrebno uzeti u obzir pri projektiranju trebaju proizlaziti iz pretpostavljenih inicijalnih događaja u svrhu uspostavljanja graničnih uvjeta koje nuklearno postrojenje treba izdržati bez prekoračenja prihvatljivih granica za zaštitu od ionizirajućeg zračenja.
+Članak 18.
+(1) Ostvarenje projektne osnove za nuklearno postrojenje potrebno je verificirati kroz sigurnosne analize u kojima treba primjenjivati metode determinističke i vjerojatnosne analize.
+(2) Sigurnosna analiza treba:
+a) oslanjati se na metode, pretpostavke ili argumente koji su opravdani i konzervativni,
+b) osigurati da su uzete u obzir

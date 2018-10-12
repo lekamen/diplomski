@@ -1,0 +1,34 @@
+ stavka 2. ovoga članka izračunati posredno:
+1. na način da se zasebno izračunaju opterećene površine za svaki zaštitni pojas (zanemarujući preklapanja), a izračunani će se iznosi zbrojiti
+2. nakon toga izračunat će se postotak udjela svake pojedine opterećene površine u odnosu na prethodno izračunani zbroj
+3. tako dobiveni udjeli pomnožit će se s ukupnom površinom opterećenog dijela nekretnine, odgovarajućim koeficijentom za preračunavanje vrijednosti služnosti vodova i jediničnom tržišnom vrijednošću nekretnine neopterećene služnošću
+4. prethodno izračunani umnošci zbrojit će se, a njihov zbroj odgovara služnosti.
+(4) U slučaju s integriranom infrastrukturom, određuje se jedan zaštitni pojas, a stupanj okrnjenosti opterećene nekretnine određuje se prema važnosti i veličini integrirane infrastrukture, a ne prema zbroju zaštitnih pojasa pojedinih vodova u sklopu iste.
+(5) Prilikom procjene iznosa naknade za služnost vodova, neovisno o stupnju okrnjenosti nekretnine, prvenstveno se primjenjuju posebni propisi.
+4.4 PROCJENA VRIJEDNOSTI PRAVA STANOVANJA ILI PRAVA PLODOUŽIVANJA
+Osnove za procjenu vrijednosti prava stanovanja ili prava plodouživanja
+Članak 36.
+Pri utvrđivanju vrijednosti prava stanovanja ili prava plodouživanja potrebno je uzeti u obzir obveznopravne odredbe iz pripadnog ugovora. Ako nositelj tih prava snosi troškove koje bi snosio vlasnik nekretnine, tada se ti troškovi odbijaju od ukupnog prihoda, a time se smanjuje i umanjenje vrijednosti opterećene nekretnine.
+Gospodarski dobitak nositelja prava stanovanja ili prava plodouživanja
+Članak 37.
+(1) Osnova za procjenu vrijednosti prava stanovanja ili prava plodouživanja jest gospodarski dobitak nositelja tih prava.
+(2) Gospodarski dobitak iz stavka 1. ovoga članka sastoji se osobito od:
+1. ušteđenih, uobičajeno plaćanih zakupnina i najamnina, odnosno postojećih prihoda nekretnine
+2. uštede daljnjih izdataka ako oni nisu uzeti u obzir u iznos zakupnina i najamnina, a posebno režijski troškovi.
+(3) Preuzimanje drugih troškova i tereta koje uobičajeno plaća vlasnik uzima se u obzir kao umanjenje vrijednosti ako oni nisu uzeti u obzir u iznos zakupnina i najamnina.
+(4) Vrijednost prava stanovanja ili prava plodouživanja utvrđuje se iz kapitalizacije dobitaka za nositelja tih prava tijekom trajanja izvršavanja prava.
+Druge okolnosti koje utječu na vrijednost prava stanovanja ili prava plodouživanja
+Članak 38.
+Nemogućnost otkazivanja i sigurnost od povećanja najamnine uzimaju se u obzir dodatcima kao razlike između vrijednosti bez tih okolnosti i vrijednosti s tim okolnostima ako one nisu uzete u obzir u iznos zakupnina i najamnina odnosno kamatne stope na nekretnine.
+Obračun doživotne i vječne rente
+Članak 39.
+(1) Ako je pravo stanovanja ili pravo plodouživanja vezano uz životni vijek fizičke osobe kao nositelja tog prava, vrijednost navedenog prava utvrđuje se na temelju aktualnog očekivanog životnog vijeka u Republici Hrvatskoj prema dobi i spolu, uz korištenje tablica aktuarske matematike.
+(2) U smislu odredaba ovoga Zakona nije dopušten izračun vrijednosti prava stanovanja ili plodouživanja na način da su uzete u obzir pretpostavke o dužem životnom vijeku nositelja prava od onog očekivanog i druge osobne okolnosti nositelja prava iz stavka 1. ovoga članka.
+(3) Ako je nositelj prava plodouživanja pravna osoba, fizička osoba obrtnik i drugi poslovni oblik fizičkih osoba, primjerice projektantski ured ili odvjetnički ured, vrijednost prava plodouživanja utvrđuje se primjenom prikladnih faktora sadašnje vrijednosti rente.
+(4) Kamatna stopa na nekretnine utvrđuje se na temelju vrste nekretnine koju koristi nositelj prava stanovanja ili prava plodouživanja.
+Vrijednost nekretnine opterećene pravom stanovanja ili pravom plodouživanja
+Članak 40.
+(1) Gospodarsko umanjenje vrijednosti nekretnina koje ostvaruju prihod slijedi iz:
+1. izmaklih najamnina ili zakupnina i
+2. drugih troškova ako već nisu uzeti u obzir prilikom utvrđivanja izmaklih najamnina i zakupnina.
+(2) Ako

@@ -1,0 +1,22 @@
+ sudjelujućim interesom tog trećeg poduzetnika
+v) poduzetnik je mirovinski fond zaposlenih ili u izvještajnom poduzetniku, ili u poduzetniku koji je povezan s izvještajnim poduzetnikom. Ako je izvještajni poduzetnik takav mirovinski fond, poslodavci koji uplaćuju u taj fond su također povezani s izvještajnim poduzetnikom
+vi) poduzetnik je pod kontrolom ili zajedničkom kontrolom osobe navedene pod a).
+vii) Osoba navedena pod točkom a) alinejom i) ima značajan utjecaj u poduzetniku ili je član ključnog rukovodstva poduzetnika (ili njegovog matičnog društva).
+2.23. Sudjelujući interes (sudjelujući udjel) znači prava u kapitalu drugih poduzetnika, bez obzira na to jesu li materijalizirana u obliku potvrda ili nisu, koja su, na temelju trajne povezanosti s tim poduzetnicima, stečena s namjerom da pridonose poslovanju poduzetnika koji ima ta prava. Smatrat će se da udio u dijelu kapitala nekog drugog poduzetnika predstavlja sudjelujući interes (udjel) u slučaju kada je jednak ili prelazi 20%.
+2.24. Ulagatelj u zajednički pothvat je strana u zajedničkom pothvatu i sudjeluje u zajedničkoj kontroli nad tim zajedničkim pothvatom.
+2.25. Zajednička kontrola je ugovorom uređeno sudjelovanje u kontroli nad gospodarskim aktivnostima i postoji samo kada donošenje strateških financijskih i poslovnih odluka zahtijeva jednoglasni pristanak svih strana koje dijele kontrolu (pothvatnici).
+2.26. Značajan utjecaj je moć sudjelovanja u odlučivanju o financijskim i operativnim politikama poduzetnika koji je predmet ulaganja, ali nije kontrola nad tim politikama. Značajan utjecaj može se postići vlasništvom nad dionicama, statutom ili ugovorom.
+2.27. Zajednički pothvat je ugovorno uređenje gdje dvije ili više strana poduzimaju ekonomsku aktivnost koja je predmet zajedničke kontrole.
+2.28. Zajednički kontrolirani poduzetnik je zajednički pothvat koji obuhvaća uspostavu trgovačkog društva, partnerstva ili drugog poduzetnika, u kojem svaki pothvatnik ima udjel.
+2.29. Značajnost je obilježje informacije za čije se izostavljanje ili pogrešno prikazivanje može razumno očekivati da će imati utjecaja na odluke koje korisnici donose na temelju financijskih izvještaja poduzetnika. Značajnost pojedinačnih stavki ocjenjuje se u kontekstu drugih sličnih stavki.
+SADRŽAJ
+2.30. Standard propisuje financijsko izvještavanje poduzetnika koji sudjeluju u poslovnim kombinacijama.
+2.31. Standard obuhvaća sljedeće poslovne kombinacije koje se razlikuju ovisno o stupnju kontrole jednog poduzetnika nad drugim:
+a) poslovne kombinacije u kojima jedan poduzetnik kontrolira drugog poduzetnika
+b) poslovne kombinacije u kojima jedan poduzetnik ima značajan utjecaj na drugog poduzetnika.
+c) poslovne kombinacije u kojima jedan poduzetnik zajedno s drugim poduzetnicima ima zajedničku kontrolu nad trećim poduzetnicima.
+Standard propisuje uvjete konsolidiranja, metode konsolidacije, uvjete prestanka konsolidacije i sadržaj objavljenih konsolidiranih financijskih izvještaja.
+2.32. Standard propisuje objavljivanje međusobnih transakcija među poduzetnicima koji sudjeluju u poslovnim kombinacijama.
+2.33. Standard određuje sadržaj konsolidiranih financijskih izvještaja koji obuhvaćaju konsolidiranu bilancu, konsolidirani račun dobiti i gubitka, konsolidirani izvještaj o novčanom toku, konsolidirani izvještaj o promjenama kapitala te bilješke uz izvještaje.
+2.34. Poslovno spajanje poduzetnika ili poslovanja pod zajedničkom kontrolom unutar grupe konsolidirajućih poduzetnika je poslovno spajanje u kojem su svi poduzetnici ili sva poslovanja koja se spajaju pod krajnjom kontrolom iste strane ili strana i prije i nakon poslovnog spajanja, a ta kontrola nije privremena.
+Datum stjecanja u poslovnom spajanju poduzetnika pod zajedničkom kontrolom unutar grupe konsolidirajućih poduzetnika je datum koji proizlazi iz ugovora o poslovnom spajanju i predstavlja datum od kojeg se prihodi i rashodi i novčani tokovi poduzetnika koji prestaju uključuju u financijske izvještaje izvještajnog poduzetnika.

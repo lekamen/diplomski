@@ -1,0 +1,26 @@
+ min, pri okolnoj temperaturi od 18 oC do 20 oC i za 3 min pri okolnoj temperaturi -18 oC. Nakon napuhavanja splav za spašavanje opterećena ukupnim brojem osoba i opreme mora zadržati svoj oblik.
+6.11.2.8 Svaki pregradak splavi za spašavanje mora izdržati tlak tri puta veći od radnog, ne smije biti izložen tlaku većem od dvostrukog radnog tlaka, što se postiže ili sigurnosnim ventilima, ili ograničavanjem dovedene količine plina. Da bi se u pregradcima održao radni tlak, mora se predvidjeti mogućnost njihova napuhavanja pumpom ili mijehom.
+6.11.2.9 Površina uzgonskih komora mora biti protuklizne izvedbe. Najmanje 25% od ovih komora mora biti u boji jake vidljivosti.
+6.11.2.10 Broj osoba koje se mogu smjestiti na splav za spašavanje mora biti jednak najmanjem od ova tri iznosa:
+.1 najvećem cijelom broju dobivenom dijeljenjem zapremine glavnih uzgonskih komora u napuhanom stanju (u koju se u tu svrhu ne uključuju lukovi, ako postoje), s 0,096; (s 0,075 za splavi za područje plovidbe 6), ili
+.2 najvećem cijelom broju dobivenim dijeljenjem unutarnje vodoravne površine presjeka splavi za spašavanje (u koju se u tu svrhu mogu uključiti poprečke, ako postoje), do unutarnjeg ruba uzgonskih komora, s 0,372; (s 0,304 za splavi za područje plovidbe 6), ili
+.3 broju osoba prosječne mase 75 kg s prslucima za spašavanje, koji mogu udobno sjediti, unutar uzgonskih komora, ne ometajući korištenje opreme na splavi za spašavanje.
+6.11.3 Oprema otvorenih dvostranih samonapuhavajućih splavi za spašavanje
+6.11.3.1 Konopci za pridržavanje moraju biti pričvršćeni naokolo, s unutarnje i vanjske strane splavi za spašavanje.
+6.11.3.2 Otvorena dvostrana splav mora biti opremljena sa sigurnom vezaljkom dužine prikladne za automatsko uključivanje u rad sustava za napuhavanje kada je na vodi. Za otvorene dvostrane splavi za spašavanje kapaciteta za više od 30 osoba, jedna dodatna vezaljka mora biti postavljena.
+6.11.3.3 Prekidna čvrstoća sustava vezaljki uključujući sredstva za njezino pričvršćenje za splav, osim slabe karike navedene u 6.7.6.2 mora iznositi najmanje:
+.1 7,5 kN za otvorene dvostrane, splavi kapaciteta do 8 osoba,
+.2 10 kN za otvorene dvostrane splavi kapaciteta 9 do 30 osoba
+.3 15 kN za otvorene dvostrane splavi, kapaciteta više od 30 osoba.
+6.11.3.4 Otvorena dvostrana splav za spašavanje mora imati najmanje sljedeći broj rampa koje se napušu i pomažu pri ukrcaju u splav iz mora na bilo koju se stranu splav napuhala:
+.1 jednu rampu za ukrcavanje za otvorene dvostrane splavi za spašavanje, kapaciteta do 30 osoba
+.2 dvije rampe za ukrcaj za otvorene dvostrane splavi za spašavanje, kapaciteta više od 30 osoba. Rampe za ukrcaj moraju biti postavljene 180o jedna u odnosu na drugu.
+6.11.3.5 Otvorena dvostrana splav za spašavanje mora biti opremljena s vodenim stabilizatorima koji udovoljavaju sljedećim zahtjevima:
+.1 površina presjeka stabilizatora mora biti oblika istokračnog trokuta sa osnovicom trokuta učvršćenom na uzgonsku komoru otvorene dvostrane splavi.
+.2 mora biti takve konstrukcije da napuni oko 60% kapaciteta u vremenu od 15 do 25 s.
+.3 stabilizatori pričvršćeni za pojedinu uzgonsku komoru moraju imati ukupan kapacitet između 125 l i 150 l za otvorene dvostrane splavi za 10 i manje osoba.
+.4 stabilizatori koji se postavljaju na pojedinu uzgonsku komoru za splavi kapaciteta više od 10 osoba moraju imati, koliko je to praktično, ukupni kapacitet od 12 N litara, gdje je N broj osoba za koje je splav odobrena.
+.5 svaki stabilizator za vodu, kada je u razvijenom stanju, mora biti pričvršćena cijelim svojim gornjim rubom na donji dio donje uzgonske komore.
+.6 vreće moraju biti raspoređene simetrično po opsegu splavi, sa dovoljnim razmakom između vreća kako bi zrak mogao lako izlaziti.
+6.11.3.6 Najmanje jedna svjetiljka koja se uključuje ručno i odgovara zahtjevima navedenim u 6.8.3.3 mora biti postavljena na gornju i donju površinu uzgonskih komora.
+6.11.3.7 Prikladan sustav za samodrenažu mora biti postavljen na svakom boku poda splavi i 

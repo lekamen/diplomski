@@ -1,0 +1,31 @@
+ dopunu niti nakon ponovljene dostave, zahtjev za dopunu će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja zahtjeva za dopunu na oglasnu ploču Agencije za plaćanja.
+(6) Danom podnošenja potpunog zahtjeva za potporu smatra se dan dostave propisane dokumentacije i/ili propisanih podataka iz stavka 3. ovoga članka.
+(7) Ukoliko korisnik ne postupi sukladno stavku 3. ovoga članka, Agencija za plaćanja donosi odluku o odbijanju.
+Članak 15.
+(1) Nakon završene administrativne kontrole i provjere dostupnosti sredstava, Agencija za plaćanja će donijeti:
+a) odluku o dodjeli sredstava kojom će definirati maksimalni iznos potpore sukladno članku 7. ovoga Pravilnika za sve pozitivno ocijenjene zahtjeve za potporu za koje su sredstva dostatna i sklopiti ugovor o financiranju
+b) odluku o odbijanju za sve pozitivno ocijenjene zahtjeve za potporu za koje sredstva nisu dostatna ili
+c) odluku o odbijanju za sve negativno ocijenjene zahtjeve za potporu.
+(2) Agencija za plaćanja donosi odluku o odbijanju iz stavka 1. točke c) ovoga članka iz sljedećih razloga:
+a) neispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i natječajem
+b) nepravovremeno podnesenih zahtjeva za potporu
+c) nepotpunih zahtjeva za potporu
+d) nepravovremenosti i/ili nepotpunosti odgovora na zahtjev za dopunu/obrazloženje/ispravak
+e) lažnih ili netočnih informacija dostavljenih od strane korisnika i/ili
+f) utvrđene nepravilnosti.
+Članak 16.
+(1) U slučaju kada se nakon zaprimanja svih zahtjeva za potporu utvrdi da ima dovoljno raspoloživih sredstava za sve korisnike, Agencija za plaćanja će nakon završetka administrativne kontrole svakoga pojedinačnog zahtjeva za potporu donijeti:
+a) odluku o dodjeli sredstava u slučaju ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i natječajem ili
+b) odluku o odbijanju sukladno razlozima iz članka 15. stavku 2. ovoga Pravilnika.
+(2) U slučaju donošenja odluka kako je navedeno u stavku 1. ovoga članka, rang lista će se izraditi nakon provedenog postupka odlučivanja po prigovorima.
+(3) U slučaju kada se nakon zaprimanja svih zahtjeva za potporu utvrdi da nema dovoljno raspoloživih sredstava za sve korisnike, Agencija za plaćanja će nakon završetka administrativne kontrole svih zaprimljenih zahtjeva za potporu pripremiti rang listu temeljem koje će donijeti:
+a) odluku o odbijanju sukladno razlozima iz članka 15. stavku 2. ovoga Pravilnika nakon obrade svakog pojedinog zahtjeva za potporu
+b) odluku o odbijanju zbog nedostatnosti raspoloživih sredstava s obzirom na rangiranje zahtjeva za potporu nakon obrade svih zahtjeva za potporu ili
+c) odluku o dodjeli sredstava nakon obrade svih zahtjeva za potporu i nakon završetka postupka odlučivanja po prigovoru na odluke iz točke a) i b) ovoga stavka te po potrebi ponovne administrativne kontrole zahtjeva za potporu nakon usvojenih prigovora, u slučaju ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i natječajem.
+(4) Prednost na rang listi ima korisnik s ostvarenim većim brojem bodova.
+(5) Ako dva ili više zahtjeva za potporu nakon rangiranja imaju isti broj bodova, prednost na rang listi imaju ranije podneseni zahtjevi za potporu (datum, sat, minuta, sekunda).
+(6) Ako dva ili više zahtjeva za potporu imaju jednaki broj bodova i jednako vrijeme podnošenja zahtjeva za potporu, a navedeno uvjetuje dodjelu potpore provest će se postupak izvlačenja slučajnim odabirom, u prisutnosti javnog bilježnika.
+(7) U slučaju promjene odluke o dodjeli sredstava uslijed utvrđene administrativne greške učinjene od strane Agencije za plaćanja, korisniku će biti izdan ispravak odluke o dodjeli sredstava.
+Članak 17.
+(1) Nakon donošenja odluke o dodjeli sredstava Agencija za plaćanja će s korisnikom sklopiti ugovor o financiranju kojim se uređuju međusobna prava i obveze (u daljnjem tekstu: ugovor).
+(2) Korisnik je obvezan vratiti jedan potpisan primjerak ugovora iz stavka 1. ovoga članka Agenciji za

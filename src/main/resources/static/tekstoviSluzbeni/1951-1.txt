@@ -1,0 +1,46 @@
+ udomiteljska obitelj, druga vrsta ustanove i dr.),
+10. kome je korisnik povjeren za vrijeme trajanja ostalih usluga (roditeljima, udomiteljskoj obitelji, drugoj ustanovi i dr.),
+11. pravni temelj priznavanja prava na uslugu (Zakon o socijalnoj skrbi, Obiteljski zakon),
+12. datum početka pružanja usluge,
+13. datum prestanka pružanja usluge,
+14. razlog prestanka usluge,
+15. obrazovni status korisnika na početku pružanja usluge,
+16. obrazovni status korisnika prilikom odlaska, odnosno završetka pružanja svih usluga (završen razred, škola, zvanje),
+17. napomene.
+Članak 7.
+U pomoćnu knjigu upisuju se abecednim redom osobno ime svakog korisnika te redni broj iz matične knjige.
+Članak 8.
+(1) Kartoteka osobnih listova sadrži osobne listove svih korisnika razvrstane prema vrsti usluge.
+(2) Osobni list korisnika sadrži sljedeće osnovne podatke o korisniku i usluzi:
+1. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+2. datum i mjesto rođenja,
+3. spol,
+4. državljanstvo/država podrijetla djece bez pratnje – stranih državljana u Republici Hrvatskoj,
+5. prebivalište/boravište,
+6. osobno ime roditelja/zakonskog zastupnika – adresa i telefon,
+7. bračni status roditelja, zanimanje i podaci o zaposlenju,
+8. smještaj korisnika prije smještaja kod pružatelja usluge (kod roditelja, udomiteljska obitelj, druga vrsta ustanove i dr.),
+9. kome je korisnik povjeren za vrijeme trajanja ostalih usluga (roditeljima, udomiteljskoj obitelji, drugoj ustanovi i dr.),
+10. datum početka pružanja usluge,
+11. pravni temelj priznavanja prava na uslugu (Zakon o socijalnoj skrbi, Obiteljski zakon),
+12. klasa, urudžbeni broj i datum izdavanja rješenja centra za socijalnu skrb o priznatoj usluzi,
+13. vrsta usluge koja se pruža korisniku,
+14. obveznik plaćanja usluge,
+15. nadležni centar za socijalnu skrb (naziv i sjedište),
+16. stručni radnik centra za socijalnu skrb zadužen za korisnika (osobno ime),
+17. škola/predškolska ustanova koju korisnik pohađa,
+18. vrsta školskog programa i razred koji korisnik pohađa,
+19. datum i razlog prestanka usluge te plan daljnjih aktivnosti, mjera ili usluga za korisnika.
+Članak 9.
+Knjiga dnevne evidencije vodi se na razini ustrojstvene jedinice kod pružatelja usluge smještaja, organiziranog stanovanja i boravka, odnosno na razini pojedine vrste usluge, ovisno o (dis)lociranosti prostora u kojem se usluga pruža, a sadrži:
+1. evidenciju prisutnih stručnih radnika po smjenama,
+2. brojno stanje/popis s osobnim imenima prisutnih korisnika,
+3. brojno stanje/popis s osobnim imenima odsutnih korisnika, vrijeme odsutnosti (odlazak i povratak), razlog (i opravdanost) odsutnosti (odlazak u školu, na vikend, blagdane, mjesto gdje će boraviti i kod koga, liječnički pregled, bolničko liječenje i druga opravdana izbivanja, neopravdana odsutnost, samovoljno napuštanje prostora pružatelja usluge te ako se nije korisnik sam vratio, navesti osobno ime i svojstvo osobe koja je korisnika dopratila kod pružatelja usluge – roditelj, stručni radnik centra za socijalnu skrb ili druge ustanove socijalne skrbi, policija),
+4. sva važnija zapažanja i informacije odgajatelja o provedenim aktivnostima, događanjima i poduzetim mjerama tijekom svake smjene, te naputak/smjernice za daljnje postupanje ukoliko djetetovo stanje ili ponašanje zahtijeva maksimalni nadzor stručnih radnika,
+5. kratku bilješku o provedenoj primopredaji smjene (broj prisutnih/odsutnih korisnika, stanje prostora, prijenos važnih poruka i sl.),
+6. za svako dijete jasličke dobi svakodnevno se vodi evidencija o: hranjenju i stolici, a za bolesnu djecu i o podjeli terapije te temperaturna lista,
+7. za svako dijete koje prima terapiju nužno je upisati bilješku o podjeli terapije, a ovisno o stanju i vrsti bolesti i podatak o mjerenju tjelesne temperature te kratki naputak liječnika o postupanju.
+Članak 10.
+Knjiga dnevne evidencije za obiteljski dom sadrži sljedeće podatke:
+1. evidenciju prisutnog stručnog radnika/predstavnika obiteljskog doma po smjenama,
+2. brojno stanje/popis s

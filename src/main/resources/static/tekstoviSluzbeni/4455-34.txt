@@ -1,0 +1,34 @@
+ koje je odbilo, poništilo ili na drugi način ograničilo.
+Svako prijavljeno tijelo izvješćuje druga prijavljena tijela o odobrenjima sustava kvalitete koje je odbilo, poništilo ili povuklo i, na zahtjev, o odobrenjima sustava kvalitete koje je izdalo.
+8. Ovlašteni zastupnik
+Obveze proizvođača navedene u točkama 3.1., 3,5., 5. i 6. može u njegovo ime i na njegovu odgovornost ispuniti njegov ovlašteni zastupnik ako su navedene u ovlaštenju.
+6. MODUL D1: OSIGURANJE KVALITETE PROIZVODNOG POSTUPKA
+1. Osiguranje kvalitete postupka proizvodnje postupak je ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2., 4. i 7. te jamči i izjavljuje na vlastitu odgovornost da je dotična tlačna oprema u skladu sa zahtjevima ovoga Pravilnika koji se na nju odnosi.
+2. Tehnička dokumentacija
+Proizvođač izrađuje tehničku dokumentaciju. Dokumentacija omogućava ocjenjivanje sukladnosti tlačne opreme s mjerodavnim zahtjevima te uključuje odgovarajuću analizu i procjenu rizika. Tehničkom dokumentacijom određuju se primjenjivi zahtjevi i ona obuhvaća, u mjeri u kojoj je to bitno za ocjenjivanje, konstrukciju, proizvodnju i rad proizvoda. Tehnička dokumentacija, ako je to primjenjivo, sadržava najmanje sljedeće elemente:
+– opći opis tlačne opreme;
+– idejno rješenje i crteže za proizvodnju te crteže dijelova, podsklopova, povezivanja itd.;
+– opise i objašnjenja potrebna za razumijevanje tih crteža te načina rada tlačne opreme;
+– popis usklađenih norma na koje su upućivanja objavljena u Službenom listu Europske unije, koje se u potpunosti ili djelomično primjenjuju te opis rješenja donesenih kako bi se ispunili osnovni sigurnosni zahtjevi ovoga Pravilnika kada ti usklađene norme nisu primijenjene. U slučaju djelomične primjene usklađenih norma u tehničkoj dokumentaciji navode se dijelovi koji se primjenjuju,
+– rezultate provedenih proračuna, obavljenih ispitivanja itd., te
+– ispitna izvješća.
+3. Proizvođač drži tehničku dokumentaciju na raspolaganju nacionalnim vlastima tijekom 10 godina nakon što je tlačna oprema stavljena na tržište.
+4. Proizvodnja
+Proizvođač ima odobren sustav kvalitete za proizvodnju, završnu provjeru proizvoda i ispitivanje tlačne opreme u skladu s točkom 5. te se nad njim provodi nadzor kako je navedeno u točki 6.
+5. Sustav kvalitete
+5.1. Proizvođač podnosi zahtjev za ocjenjivanje sustava kvalitete prijavljenom tijelu po svom izboru za dotičnu tlačnu opremu.
+Zahtjev uključuje:
+– naziv i adresu proizvođača te naziv i adresu ovlaštenog zastupnika ako je on podnio zahtjev;
+– pisanu izjavu da isti zahtjev nije podnio nijednom drugom prijavljenom tijelu;
+– sve potrebne podatke o predviđenom tipu tlačne opreme;
+– dokumentaciju koja se odnosi na sustav kvalitete;
+– tehničku dokumentaciju iz točke 2.
+5.2. Sustav kvalitete jamči usklađenost tlačne opreme sa zahtjevima ovoga Pravilnika koji se na njega odnose.
+Svi elementi, zahtjevi i odredbe koje proizvođač donese dokumentiraju se na sustavan i logičan način u obliku pisanih politika, postupaka i uputa. Dokumentacija o sustavu kvalitete omogućuje dosljedno tumačenje programa kvalitete, planova, priručnika i zapisa.
+Ona posebno sadržava primjeren opis:
+– ciljeva kvalitete te organizacijske strukture, odgovornosti i ovlasti uprave u vezi s kvalitetom tlačne opreme;
+– odgovarajućih metoda proizvodnje, kontrole i osiguranja kvalitete, postupaka i sustavnih mjera, a posebno postupaka upotrijebljenih za nerastavljive spojeve kako je odobreno u skladu s točkom 3.1.2. Dodatka I.;
+– pregleda i ispitivanja koji će se provoditi prije, tijekom i nakon proizvodnje te učestalosti njihova provođenja;
+– zapise o kvaliteti, kao što su inspekcijska izvješća i podaci o ispitivanjima, podaci o umjeravanju, te izvješća o kvalifikacijama i odobrenjima predmetnog osoblja, a posebno osoblja koje je zaduženo za nerastavljive spojeve u skladu s točkom 3.1.2. Dodatka I. itd.;
+– načina praćenja postizanja zahtijevane kvalitete proizvoda i stvarnog djelovanja sustava kvalitete.
+5.3. Prijavljeno tijelo 

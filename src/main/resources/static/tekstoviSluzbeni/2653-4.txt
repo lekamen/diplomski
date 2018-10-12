@@ -1,0 +1,33 @@
+ objavu i statističke i druge potrebe.
+(3) Poduzetnici nad kojima je tijekom godine pokrenut postupak stečaja ili likvidacije ne mogu za tu godinu predati istovremeno godišnji financijski izvještaj za javnu objavu te statističke i druge potrebe. Godišnji financijski izvještaj za statističke i druge potrebe sastavljaju za cijelu kalendarsku godinu koja obuhvaća razdoblje prije pokretanja stečaja ili likvidacije i razdoblje nakon pokretanja postupka do 31. prosinca promatrane godine.
+DIO ČETVRTI ZAPRIMANJE DOKUMENTACIJE
+Potvrda o primitku
+Članak 16.
+Agencija na zahtjev izdaje potvrdu primitka dokumentacije za javnu objavu odnosno za statističke i druge potrebe.
+Provjera potpunosti i točnosti dokumentacije
+Članak 17.
+(1) Provjera potpunosti dokumentacije provodi se u smislu provjere potpunosti dostave svih potrebnih dokumenata sukladno Zakonu, osnovnih podataka iz članka 8. stavka 2. ovoga Pravilnika, a na temelju utvrđene veličine poduzetnika sukladno člancima 5. i 6. Zakona i ovjere u skladu s člankom 9. ovoga Pravilnika.
+(2) Za potrebe izračuna veličine iz čl. 5. i 6. Zakona prosječan broj radnika tijekom poslovne godine za poduzetnike koja su poslovali cijelu godinu računa se na način da se zbroj stanja broja zaposlenih na dan 1. siječnja, 31. ožujka, 30. lipnja, 30. rujna i 31. prosinca podijeli s pet, odnosno prilagodbom izračuna prema razdoblju poslovanja kod novoosnovanih poduzetnika.
+(3) Provjera točnosti vrši se za standardnu dokumentaciju u smislu provjere računskih operacija i logičkih kontrola. Standardna je dokumentacija točna ako su zadovoljene sve računske i logičke kontrole navedene u propisanim obrascima.
+(4) Provjeru potpunosti i točnosti izvršava službena osoba Agencije ovlaštena za obavljanje poslova Registra ili automatizmom korištenjem aplikativne podrške koja je sadržana u internetskom servisu za predaju dokumentacije u Registar.
+Nepotpuna ili netočna dokumentacija
+Članak 18.
+(1) Ako Agencija utvrdi da je dostavljena dokumentacija nepotpuna neće je zaprimiti uz obavijest o razlozima nezaprimanja.
+(2) Ako dokumentacija nije u potpunosti dostavljena sukladno članku 11. ovoga Pravilnika u propisanom roku za dostavu dokumentacije za javnu objavu smatra se da dokumentacija nije podnesena.
+(3) Ako Agencija utvrdi netočnosti u standardnoj dokumentaciji obavijestit će podnositelja dokumentacije o netočnostima.
+(4) Agencija u roku od 15 dana po primitku dokumentacije obavještava poduzetnika na način koji ostavlja dokaz o dostavljenoj obavijesti te poziva da u roku od 8 dana od primitka obavijesti dostavi točnu dokumentaciju.
+Ispunjavanje obveze dostave dokumentacije
+Članak 19.
+(1) Poduzetnik je ispunio obvezu dostave dokumentacije radi javne objave, odnosno za statističke i druge potrebe u roku ako je u zakonskom roku dostavio Agenciji potpunu i točnu dokumentaciju.
+(2) Smatra se da je poduzetnik ispunio obvezu dostave dokumentacije radi javne objave, odnosno za statističke i druge potrebe u zakonskom roku i u slučaju kada istu dostavi po isteku zakonski propisanoga roka postupajući prema obavijesti iz članka 18. stavka 3. ovoga Pravilnika, a dostavi je sukladno stavku 4. istoga članka.
+Članak 20.
+Agencija obrađuje za statističke i druge potrebe samo onu dokumentaciju koja je potpuna i točna te zaprimljena u Zakonom propisanom roku.
+DIO PETI JAVNA OBJAVA
+Članak 21.
+(1) Javno se objavljuje sljedeća dokumentacija:
+1. godišnji financijski izvještaj, odnosno konsolidirani godišnji financijski izvještaj,
+2. revizorsko izvješće,
+3. godišnje izvješće i
+4. odluka o prijedlogu raspodjele dobiti ili pokriću gubitka.
+(2) Godišnji financijski izvještaji velikih i srednjih poduzetnika objavljuju se u punom sadržaju.
+(3) Ako je poduzetnik, temeljem članka 21. Zakona, obveznik predaje godišnjega izvješća, javno se objavljuje godišnje izvješće u punom sadržaju sa revizorskim izvješćem sukladno članku 20. Zakona, a koje sadrži i financijske izvještaje koji su bili predmet revizije. Posebno se ne objavljuje standardni sadržaj

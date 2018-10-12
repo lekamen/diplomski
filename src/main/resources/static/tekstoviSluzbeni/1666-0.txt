@@ -1,0 +1,36 @@
+85 01.08.2015 Metodologija za određivanje cijena za pružanje usluge uravnoteženja
+HRVATSKA ENERGETSKA REGULATORNA AGENCIJA
+1667
+Na temelju članka 52. stavka 8. Zakona o tržištu električne energije (»Narodne novine«, broj 22/13), a na prijedlog operatora tržišta električne energije te uz prethodno mišljenje operatora prijenosnog sustava, Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 23. srpnja 2015. godine donijela
+METODOLOGIJU
+ZA ODREĐIVANJE CIJENA ZA PRUŽANJE USLUGE URAVNOTEŽENJA
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovom Metodologijom za određivanje cijena za pružanje usluge uravnoteženja (u daljnjem tekstu: Metodologija) određuje se način izračuna jediničnih cijena za pružanje usluge uravnoteženja u obračunskom intervalu za povećanje i smanjenje proizvodnje električne energije u okviru aktiviranja rezerve snage za automatsku sekundarnu regulaciju frekvencije i snagu razmjene, aktiviranja rezerve snage za tercijarnu regulaciju za uravnoteženje sustava i aktiviranja rezerve snage za tercijarnu regulaciju za sigurnost sustava.
+(2) Ovom Metodologijom određuje se i način:
+– izračuna referentne cijene za pružanje usluge uravnoteženja u obračunskom intervalu te
+– izvještavanja i nadzora nad primjenom ove Metodologije.
+Članak 2.
+Izrazi koji se koriste u ovoj Metodologiji imaju značenja utvrđena zakonima kojima se uređuje energetski sektor, regulacija energetskih djelatnosti i tržište električne energije kao i propisima donesenim na temelju tih zakona.
+II. REFERENTNA CIJENA ZA PRUŽANJE USLUGE URAVNOTEŽENJA U OBRAČUNSKOM INTERVALU
+Članak 3.
+(1) Referentna cijena Cu,r za pružanje usluge uravnoteženja u obračunskom intervalu iskazuje se u kn/MWh, a računa se prema formuli:
+
+gdje su:
+SIPX satna cijena električne energije za promatrani obračunski interval na regionalnoj energetskoj burzi BSP (http://www.bsp-southpool.com) [kn/MWh] i
+HUPX satna cijena električne energije za promatrani obračunski interval na mađarskoj burzi električne energije HUPX (http://www.hupx.hu) [kn/MWh].
+(2) U slučaju privremene nedostupnosti satnih cijena s neke od burza iz stavka 1. ovoga članka, referentna cijena za pružanje usluge uravnoteženja u obračunskom intervalu jednaka je vrijednosti satne cijene s burze iz stavka 1. ovoga članka čije su cijene dostupne.
+(3) U slučaju privremene istovremene nedostupnosti satnih cijena s obje burze iz stavka 1. ovoga članka, referentna cijena za pružanje usluge uravnoteženja u obračunskom intervalu jednaka je vrijednosti referentne cijene za pružanje usluge uravnoteženja u obračunskom intervalu koji je za 24 sata prethodio razmatranom obračunskom intervalu.
+(4) Referentne cijene iz stavka 1. ovoga članka preračunavaju se po srednjem tečaju Hrvatske narodne banke koji vrijedi u zadnjem danu obračunskog razdoblja.
+(5) Referentne cijene Cu,r za pružanje usluge uravnoteženja operator tržišta električne energije dužan je izračunati i objaviti na svojim internetskim stranicama najkasnije do petog radnog dana u mjesecu koji slijedi nakon isteka obračunskog razdoblja.
+(6) Satne i referentne cijene iz ovoga članka zaokružuju se na dva decimalna mjesta.
+III. JEDINIČNE CIJENE ZA PRUŽANJE USLUGE URAVNOTEŽENJA
+Članak 4.
+(1) Vrijednosti jediničnih cijena za pružanje usluge uravnoteženja za svaki obračunski interval iskazuju se u kn/MWh i zaokružuju na dva decimalna mjesta, a računaju se prema formulama iz sljedeće tablice:
+
+(2) Vrijednosti koeficijenata iz stavka 1. ovoga članka za svaki obračunski interval prikazane su u sljedećoj tablici:
+
+(3) Pružatelju usluge uravnoteženja plaća se za povećanje proizvodnje iz stavka 1. ovoga članka, dok pružatelj usluge uravnoteženja plaća za smanjenje proizvodnje iz stavka 1. ovoga članka.
+IV. IZVJEŠTAVANJE I NADZOR
+Članak 5.
+Operator prijenosnog sustava dužan je najkasnije do 25. dana tekućeg mjeseca za prethodni mjesec Hrvatskoj energetskoj regulatornoj agenciji (u daljnjem tekstu: Agencija) dostaviti podatke o realizaciji pruženih usluga uravnoteženja iz članka 4. ove

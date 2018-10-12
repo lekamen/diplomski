@@ -1,0 +1,37 @@
+ Korisnička skupina koja može ostvariti pravo sukladno Zakonu o socijalnoj skrbi, posebnom propisu ili općim aktima jedinice lokalne i područne (regionalne) samouprave, odnosno Grada Zagreba.
+Članak 4.
+Osim podataka iz članka 3. ovog Pravilnika, evidencija prava koje korisnici ostvaruju temeljem Zakona o socijalnoj skrbi sadrži i sljedeće podatke:
+I. Podatke o pravu na naknadu za troškove stanovanja
+II. Podatke o pravu na naknadu za troškove prijevoza
+III. Podatke o pravu na troškove ogrjeva.
+Podaci o pravu na naknadu za troškove stanovanja su:
+1. Iznos proračunskih sredstava na poziciji za socijalnu skrb jedinice lokalne samouprave (po donošenju proračuna)
+2. Iznos proračunskih sredstva na poziciji za pomoć za podmirenje troškova stanovanja korisnicima zajamčene minimalne naknade (po donošenju proračuna)
+3. Broj korisnika zajamčene minimalne naknade koji ostvaruju pravo na naknadu troškova stanovanja (ukupno, broj samaca, broj kućanstava)
+4. Broj zaprimljenih zahtjeva za priznavanje prava na naknadu za troškove stanovanja
+5. Broj usvojenih zahtjeva za priznavanje prava na naknadu za troškove stanovanja
+6. Broj odbijenih zahtjeva za priznavanje prava na naknadu za troškove stanovanja
+7. Broj odbačenih zahtjeva za priznavanje prava na naknadu za troškove stanovanja
+8. Broj zaprimljenih žalbi na rješenja za priznavanje prava na naknadu za troškove stanovanja
+9. Iznos utrošenih proračunskih sredstava za prvih šest mjeseci tekuće godine za pomoć za podmirenje troškova stanovanja
+10. Ukupan iznos utrošenih proračunskih sredstava za pomoć za podmirenje troškova stanovanja na godišnjoj razini
+11. Broj osoba koje nisu korisnici zajamčene minimalne naknade, a koji ostvaruju pravo na naknadu troškova stanovanja (ukupno, broj samaca, broj kućanstava)
+12. Ukupan iznos utrošenih proračunskih sredstava za pomoć za podmirenje troškova stanovanja osobama koje nisu korisnici zajamčene minimalne naknade za prvih šest mjeseci tekuće godine
+13. Ukupan iznos utrošenih proračunskih sredstava za pomoć za podmirenje troškova stanovanja osobama koje nisu korisnici zajamčene minimalne naknade na godišnjoj razini.
+Podaci o pravu na naknadu za troškove prijevoza su:
+1. Iznos proračunskih sredstava predviđen za naknadu za troškove prijevoza osobama s invaliditetom i djece s teškoćama u razvoju koji pohađaju nastavu radi stjecanja srednjoškolskog obrazovanja u mjestu prebivališta, a koji nemaju osiguran prijevoz po nekoj drugoj osnovi (po donošenju proračuna)
+2. Broj korisnika prava na naknadu za troškove prijevoza (ukupno, broj osoba s invaliditetom, broj djece s teškoćama u razvoju)
+3. Iznos utrošenih proračunskih sredstava za prvih šest mjeseci tekuće godine za naknadu za troškove prijevoza
+4. Ukupni iznos utrošenih proračunskih sredstava za naknadu za troškove prijevoza na godišnjoj razini.
+Podaci o pravu na troškove ogrjeva su:
+1. Iznos proračunskih sredstava predviđen za troškove ogrjeva
+2. Broj korisnika zajamčene minimalne naknade kojima je priznato pravo na troškove ogrjeva (ukupno, broj korisnika kojima je odobren novčani iznos, broj korisnika kojima su odobrena 3 m3 drva)
+3. Ukupan iznos utrošenih proračunskih sredstava za troškove ogrjeva
+4. Broj osoba koje nisu korisnici zajamčen minimalne naknade, a kojima je odobreno pravo na troškove ogrjeva
+5. Ukupan iznos utrošenih proračunskih sredstava za troškove ogrjeva
+6. Ukupan iznos utrošenih proračunskih sredstava za troškove ogrjeva za korisnike zajamčene minimalne naknade
+7. Ukupan iznos utrošenih proračunskih sredstava za troškove ogrjeva za osobe koje nisu korisnici zajamčene minimalne naknade.
+UNOS PODATAKA I NAČIN VOĐENJA EVIDENCIJE
+Članak 5.
+(1) Evidencija prava u sustavu socijalne skrbi vodi se u elektronskom obliku sukladno tablicama o evidenciji prava u sustavu socijalne skrbi koje su sastavni dio ovog Pravilnika (Prilog 1. i Prilog 2.).
+(2) Jedinica lokalne i područne (regionalne) samouprave, odnosno Grad Zagreb dužna je redovito ažurirati, odnosno unositi podatke o pravima u sustavu

@@ -1,0 +1,29 @@
+ stabilnosti, brzine otapanja, bioraspoloživosti) koji su potrebni za ocjenu mogu li ove promjene značajno promijeniti farmakokinetiku lijeka.
+5.14. Opskrba i rukovanje ispitivanim proizvodom
+5.14.1. Naručitelj ispitivanja je odgovoran za opskrbu ispitivača/ustanove ispitivanim proizvodom.
+5.14.2. Naručitelj ispitivanja ne smije opskrbiti ispitivača/ustanovu ispitivanim proizvodom dok ne ishoduje svu potrebnu dokumentaciju (npr. odobrenje/pozitivno mišljenje Povjerenstva i nadležnih tijela).
+5.14.3. Naručitelj ispitivanja se treba pobrinuti da opis postupaka obuhvati i Upute za rukovanje i čuvanje ispitivanoga proizvoda i pripadajuću dokumentaciju koje ispitivač/ustanova treba slijediti. Ove Upute trebaju obuhvatiti pravilan i siguran primitak, rukovanje, čuvanje i izdavanje ispitivanoga proizvoda, prikupljanje neuporabljenog ispitivanoga proizvoda od ispitanika i njegov povrat naručitelju ispitivanja (odnosno drugi način uklanjanja neuporabljenoga proizvoda sukladno važećim zakonskim propisima).
+5.14.4. Naručitelj ispitivanja treba:
+(a) se pobrinuti za pravodobnu dostavu ispitivanoga proizvoda ispitivaču;
+(b) čuvati evidenciju o slanju, primitku, uklanjanju, povratu i uništenju ispitivanoga proizvoda (vidi 8. Osnovni dokumenti za provođenje kliničkog ispitivanja);
+(c) održavati sustav povrata ispitivanoga proizvoda i evidentiranja njegova povrata (npr. za povlačenje manjkavog proizvoda, vraćanja po svršetku ispitivanja, povrata proizvoda kojemu je istekla valjanost);
+(d) voditi sustav uklanjanja neuporabljenih ispitivanih proizvoda i evidentiranja njihova uklanjanja.
+5.14.5. Naručitelj ispitivanja treba:
+(a) poduzeti potrebne mjere osiguranja stabilnosti ispitivanoga proizvoda za vrijeme primjene;
+(b) imati na raspolaganju dovoljne količine ispitivanoga proizvoda radi potvrde njegovih specifikacija, odnosno voditi evidenciju analiza serije i svojstava proizvoda. U mjeri koju dozvoljava stabilnost lijeka, uzorke valja čuvati ili do svršetka analize rezultata ispitivanja ili do roka propisanog važećim zakonskim propisima, koji god od ta dva termina dolazi kasnije.
+5.15. Pristup dokumentaciji
+5.15.1. Naručitelj ispitivanja se treba pobrinuti da je u Planu ispitivanja ili drugom pisanom sporazumu jasno rečeno da ispitivač/ustanova moraju omogućiti izravan pristup izvornim podacima/dokumentima radi motrenja, nadzora, ocjene Povjerenstva i inspekcije od strane nadležnih tijela.
+5.15.2. Naručitelj ispitivanja treba provjeriti je li svaki ispitanik dao svoj pisani pristanak da se njegovim izvornim zdravstvenim podacima može izravno pristupiti radi motrenja, nadzora, ocjene Povjerenstva i inspekcije od strane nadležnih tijela.
+5.16. Podaci o sigurnosti proizvoda
+5.16.1. Naručitelj ispitivanja je odgovoran za ocjenu sigurnosti ispitivanoga proizvoda.
+5.16.2. Naručitelj ispitivanja treba bez odgađanja obavijestiti sve ispitivače/ustanove i nadležna tijela o saznanjima koja mogu nepovoljno utjecati na sigurnost ispitanika, utjecati na provedbu ispitivanja ili povlačenje odobrenja/pozitivnog mišljenja Povjerenstva.
+5.17. Izvješćivanje o nuspojavama lijeka
+5.17.1. Naručitelj ispitivanja treba hitno izvijestiti sve ispitivače/ustanove, Povjerenstva (gdje je to potrebno) i nadležna tijela o svim ozbiljnim i neočekivanim nuspojavama lijeka.
+5.17.2. Ovi hitni izvještaji trebaju biti sukladni važećim zakonskim propisima i ICH-ovim Smjernicama za upravljanje podacima o kliničkoj sigurnosti: Definicije i norme za hitno izvješćivanje.
+5.17.3. Naručitelj ispitivanja nadležnim tijelima treba dostaviti sve nove podatke o sigurnosti i povremene izvještaje sukladno važećim zakonskim propisima .
+5.18. Motrenje
+5.18.1. Svrha
+Svrha motrenja nad ispitivanjem je provjeriti da:
+(a) su prava i dobrobit ispitanika zaštićeni;
+(b) da su podaci u izvještajima točni, potpuni i da se mogu potvrditi/verificirati pomoću izvornih dokumenata;
+(c) da se ispitivanje provodi sukladno aktualnim odobrenim Planom ispitivanja i njegovim eventualnim izmjenama i dodacima, s

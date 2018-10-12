@@ -1,0 +1,43 @@
+1 02.01.2016 Pravilnik o sadržaju, uvjetima korištenja, opsegu podataka i naknadi troškova za isporuku dokumentacije i podataka iz Registra godišnjih financijskih izvješ­taja
+MINISTARSTVO FINANCIJA
+3
+Na temelju članka 35. stavka 6. Zakona o računovodstvu (»Narodne novine«, br. 78/15 i 134/15) ministar financija donosi
+PRAVILNIK
+O SADRŽAJU, UVJETIMA KORIŠTENJA, OPSEGU PODATAKA I NAKNADI TROŠKOVA ZA ISPORUKU DOKUMENTACIJE I PODATAKA IZ REGISTRA GODIŠNJIH FINANCIJSKIH IZVJEŠTAJA
+I. OPĆE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuju se sadržaj, uvjeti korištenja, opseg podataka te naknada troškova za isporuku dokumentacije i podataka sukladno članku 35. Zakona o računovodstvu (u daljnjem tekstu: Zakon).
+II. SADRŽAJ, OPSEG PODATAKA I UVJETI KORIŠTENJA
+Članak 2.
+(1) Svaka fizička ili pravna osoba (u daljnjem tekstu: tražitelj) može, pisanim zahtjevom, zatražiti dokumentaciju i podatke iz Registra godišnjih financijskih izvještaja (u daljnjem tekstu: Registar), bez dokazivanja pravnog interesa, uz naknadu.
+(2) Dokumentaciju iz Registra Financijska agencija (u daljnjem tekstu: Agencija) tražiteljima daje u obliku preslike, ispisa ili izvatka najkasnije u roku od 15 dana od dana podnošenja urednog zahtjeva.
+(3) U izvatku se navode svi dokumenti koje je poduzetnik, pravna ili fizička osoba dostavila Registru. Ako poduzetnik, pravna ili fizička osoba do dana izdavanja izvatka nije dostavila Registru propisanu dokumentaciju to se navodi u izvatku.
+(4) Podatke iz Registra Agencija tražiteljima daje u prikladnom elektroničkom formatu (Excel, Access, txt) najkasnije u roku od 15 dana od dana podnošenja urednog zahtjeva.
+Članak 3.
+(1) Dokumentaciju iz članka 2. ovoga Pravilnika Agencija daje na pisani zahtjev tražitelja ili ju tražitelj može preuzeti putem mrežne aplikacije RGFI uz korištenje digitalnog certifikata. Pisani zahtjev podnosi se:
+– osobno u poslovnim jedinicama Agencije,
+– putem pošte na adrese navedene na mrežnoj stranici Agencije ili
+– putem elektroničke pošte na adrese dostupne na mrežnoj stranici Agencije.
+(2) Podatke iz članka 2. ovoga Pravilnika Agencija daje na pisani zahtjev tražitelja. Pisani zahtjev podnosi se:
+– osobno u poslovnim jedinicama Agencije,
+– putem pošte na adrese navedene na mrežnoj stranici Agencije ili
+– putem elektroničke pošte na adrese dostupne na mrežnoj stranici Agencije.
+Članak 4.
+(1) Iz Registra se daju standardni i nestandardni dokumenti.
+1. Standardne dokumente čine:
+a) izvještaj o financijskom položaju (bilanca), račun dobiti i gubitka s izvještajem o ostaloj sveobuhvatnoj dobiti i dodatne podatke za statističke i druge potrebe,
+b) izvještaj o novčanim tokovima,
+c) izvještaj o promjenama kapitala.
+2. Nestandardne dokumente čine:
+a) bilješke uz godišnje financijske izvještaje i konsolidirane godišnje financijske izvještaje,
+b) godišnje izvješće koje sadrži: godišnji financijski izvještaj za izvještajno razdoblje uključujući i revizorsko izvješće ako je propisana obveza revizije sukladno članku 20. Zakona, izjavu o primjeni kodeksa korporativnog upravljanja sukladno članku 22. Zakona, izvještaj o plaćanjima u javnom sektoru sukladno članku 27. Zakona i izvješće poslovodstva,
+c) revizorsko izvješće sa godišnjim financijskim izvještajem koji je bio predmet revizije,
+d) odluka o prijedlogu raspodjele dobiti ili pokriću gubitka,
+e) odluka o utvrđivanju godišnjega financijskog izvještaja i
+f) izjava o neaktivnosti.
+(2) Nestandardni dokumenti iz stavka 1. točke 2. podtočaka e) i f) ovoga članka dostupni su samo u obliku preslike.
+Članak 5.
+Osim dokumenata iz članka 4. ovoga Pravilnika iz Registra daju se pojedinačni i agregirani podaci iz standardnih dokumenata.
+Članak 6.
+(1) Pojedinačni podaci iz članka 5. ovoga Pravilnika daju se u standardiziranome i nestandardiziranome obliku.
+(2) Pojedinačni podaci u standardiziranome obliku obuhvaćaju popis pojedinačnih podataka, strukturiranih prema propisanoj strukturi i sadržaju godišnjega financijskog izvještaja i dodatnih podataka za statističke i druge

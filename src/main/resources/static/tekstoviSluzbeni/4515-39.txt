@@ -1,0 +1,44 @@
+ opremljena osvjetljenim brzinomjerom s putomjerom.
+Članak 134.
+(1) Uređaj za davanje zvučnih znakova mora biti ugrađen i izveden kao najmanje jedan uređaj tako da daje jednolične zvukove nepromjenljiva intenziteta.
+(2) Prekidač za upravljanje uređaja za davanje zvučnih znakova mora biti postavljen tako da je pristupačan vozaču za vrijeme vožnje.
+10. Uređaj za spajanje vučnog i priključnog vozila
+Članak 135.
+(1) Uređaj za spajanje vučnog i priključnog vozila, osim za vozila kategorije L4, mora biti postavljen u uzdužnoj simetričnoj vertikalnoj ravnini vozila i izveden tako da omogućuje pokretljivost uređaja u svim smjerovima u prostoru.
+(2) Svornjak uređaja za spajanje vučnog i priključnog vozila pomoću kojeg se spaja priključno vozilo, mora imati osigurač koji onemogućuje razdvajanje spojenih vozila.
+(3) Uređaj za spajanje vučnog i priključnog vozila mora biti pričvršćen za pojačani dio vučnog vozila i postavljen sukladno preporukama proizvođača.
+11. Ostali uređaji i dijelovi vozila
+Članak 136.
+(1) Vozila moraju imati ugrađene i izvedene oslonce za noge vozača s obje strane vozila, a ako imaju sjedalo za putnika moraju imati ugrađen rukohvat i ugrađene oslonce za noge putnika s obje strane vozila.
+(2) Vozilo mora na svom stražnjem kraju imati tvornički predviđen prostor za nosač registarske pločice.
+(3) Nosač registarske pločice mora biti postavljen sukladno Direktivi 93/94/EEC.
+(4) Blatobrani na vozilima koja mogu razviti brzinu kretanja veću od 30 km/h moraju biti ugrađeni i izvedeni iznad svih kotača.
+(5) Na motornim vozilima koja ostavljaju jedan trag prednji blatobran mora pokrivati kotač u luku najmanje od 15° ispred okomice povučene kroz osovinu prednjeg kotača.
+12. Uređaji za pogon plinom
+Članak 137.
+Uređaji, oprema i sustavi za pogon motornih vozila plinom, uređeni se propisom kojim se uređuju uređaji, oprema i sustavi za pogon motornih vozila plinom.
+V. UREĐAJI NA VOZILIMA KATEGORIJE T i R
+1. Uređaj za upravljanje
+Članak 138.
+(1) Uređaj za upravljanje na vozilima kategorije T i R mora biti odobren, te ugrađen sukladno Direktivi 75/321/EEZ.
+(2) Vozila za čiji uređaj za upravljanje nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, mora udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 139.
+(1) Uređaj za upravljanje mora osigurati jednostavno i sigurno upravljanje vozilom
+(2) Uređaj za upravljanje mora omogućiti vozaču neometano zakretanje upravljača u oba smjera do graničnika upravljača.
+(3) Slobodan hod kola upravljača na vozilu ne smije biti veći od 30°.
+2. Uređaj za kočenje
+Članak 140.
+(1) Uređaj za kočenje na vozilima kategorije T i R mora biti odobren i ugrađen sukladno Direktivi 76/432/EEC.
+(2) Vozila za čiji uređaj za kočenje nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 141.
+Na uređaj za kočenje na vozilima kategorije T i R koja na ravnoj cesti razvijaju brzinu kretanja veću od 40 km/h, odgovarajuće se primjenjuju odredbe za uređaje za kočenje na vozilima kategorije M i N propisane ovim Pravilnikom.
+Članak 142.
+Sustav radnog kočenja na traktoru može biti ugrađen i izveden samo na jednoj osovini pod uvjetom da je sila kočenja podjednako raspoređena na oba kotača te osovine.
+Članak 143.
+Sila kojom se djeluje na komandu sustava parkirne kočnice traktora ne smije biti veća od 40 daN.
+Članak 144.
+(1) Traktorska prikolica (u daljnjem tekstu: prikolica) mora biti opremljena sustavom radnog i parkirnog kočenja.
+(2) Radna kočnica prikolice, mora se aktivirati istovremeno i s istim uređajem kao i radna kočnica vučnog traktora.
+(3) Prikolica može biti opremljena naletnom kočnicom ako joj najveća dopuštena masa ne prelazi 8 t, a brzina 40 km/h.
+(4) Kada najveća dopuštena brzina prikolice ne prelazi 25 km/h mogu se vučnom traktoru dodati najviše dvije prikolice.
+(5) Kada najveća brzina prikolice ne prelazi 40 km/h mogu se vučnom traktoru dodati

@@ -1,0 +1,36 @@
+ puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 72.
+(1) Pneumatici kao dio opreme vozila, uključujući i rezervne pneumatike, moraju biti odgovarajući za uporabu na onim vozilima za koja su namijenjeni, s obzirom na njihove dimenzije, brzinu i značajkama nosivosti.
+(2) Pneumatici na vozilima moraju odgovarati dimenzijama koje je odobrio proizvođač, namijenjeni za vožnju brzinom koja je jednaka ili veća od najveće brzine kojom se vozilo može kretati, ili najveće brzine koju ograničivač brzine ugrađen na vozilo ograničava te moraju biti dimenzionirani da izdrže najveće dopušteno osovinsko opterećenja vozila.
+(3) Pneumatici na istoj osovini vozila moraju biti jednaki po dimenzijama, obliku šara gazne površine, nosivosti, brzinskoj karakteristici,vrsti (zimske/ljetne) konstrukciji (radijalne/dijagonalne itd) i marki/tipu.
+(4) Dubina utora pneumatika po gaznoj površini mora biti viša od tvornički dopuštene dubine označene TWI oznakama, odnosno ako iste ne postoje najmanja dopuštena dubina je 1,60 mm.
+(5) Zimski pneumatik je pneumatik čiji je profil, sastav i struktura gazećeg sloja konstruirana tako da po blatu, zimskim i snježnim uvjetima postiže bolje rezultate od ostalih cestovnih pneumatika.
+(6) Zimski pneumatici označeni su oznakama M+S, M.S. ili M&S.
+(7) Obnovljeni pneumatici na osobnim automobilima i njihovim prikolicama moraju biti proizvedeni sukladno Pravilniku ECE R108, a na gospodarskim vozilima i njihovim prikolicama sukladno Pravilniku ECE R109, te na bočnoj strani pneumatika moraju imati odgovarajuću homologacijsku oznaku i oznaku RETREAD.
+(8) Odredbe ovoga članka, osim odredbe iz stavka 1. ovoga članka, ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+8. Električni uređaji i instalacije
+Članak 73.
+Akumulator na vozilu mora biti dobro pričvršćen u ležištu i mora imati odgovarajući vanjski odušak izvan prostora za vozača i putnike, osim akumulatora koji je izveden tako da ne isparava.
+Članak 74.
+(1) Elektropokretač mora omogućiti pokretanje motora vozila.
+(2) Elektropokretač se pokreće iz kabine vozila s mjesta za vozača.
+(3) Generator omogućuje istovremeno napajanje svih potrošača električne energije na motornom vozilu te skupu motornog i priključnog vozila
+(4) Kontakt brava izvedena je tako da obavlja kontakt, uključivanje i isključivanje motora na jednoj bravi, ili može biti izvedena da omogućuje samo kontakt, a dodatni prekidač omogućava paljenje.
+(5) Kontakt brava izvedena je tako da onemogući ispadanje ključa i da ostaje u položaju neovisno da li motor radi ili je ugašen.
+9. Kontrolni i signalni uređaji
+Članak 75.
+(1) Brzinomjeri na vozilima kategorije M i N moraju biti odobreni, te ugrađeni sukladno Direktivi 97/39/EZ.
+(2) Vozila za čije brzinomjere nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 76.
+(1) Brzinomjer s putomjerom mora biti opremljen svjetiljkom koja se pali kada se upale pozicijska svjetla, kako bi se osiguralo pouzdano očitavanje brzine u uvjetima smanjene rasvijetljenosti.
+(2) Brzinomjer s putomjerom ne smije pokazivati brzinu koja je manja od stvarne brzine vozila.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 77.
+(1) Vozila kategorije M i N, moraju biti opremljena tahografom u skladu s Uredbama 165/2014 i 561/2006.
+(2) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 78.
+(1) Na vozilima kategorije N2, N3, M2 i M3 mora postojati ograničivač brzine izveden sukladno Direktivi 92/6/EEC.
+(2) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 79.
+(1) Uređaj za davanje zvučnih znakova na motornom vozilu mora biti ugrađen i izveden tako da daje jednolične zvukove

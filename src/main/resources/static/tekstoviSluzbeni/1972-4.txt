@@ -1,0 +1,27 @@
+ manje uplaćenim iznosom iz članka 19.c stavka 1. točke 6. ovoga Zakona.
+Prava osobe koja je ispunila obvezu iz kredita
+Članak 19.g
+(1) Jamac ili druga osoba iz članka 19.e stavka 3. ovoga Zakona od koje je vjerovnik zahtijevao ili ima pravo zahtijevati ispunjenje obveze iz kredita u CHF i u kunama s valutnom klauzulom u CHF može s vjerovnikom u svoje ime ugovoriti tražbinu u korist potrošača ako je utvrđen iznos preplate iz članka 19.c stavka 1. točke 5. ovoga Zakona i ako potrošač ne prihvati izračun konverzije kredita.
+(2) Ugovorom iz stavka 1. ovoga članka potrošač stječe vlastito i neposredno pravo prema vjerovniku kao da je prihvatio izračun konverzije, a ugovaratelj ima pravo zahtijevati da vjerovnik ispuni prema potrošaču što je ugovoreno u korist tog potrošača.
+(3) Ako potrošač izjavi da ne prihvaća ili odbije korist koja je ugovorena za njega, korist pripada ugovaratelju.
+(4) Vjerovnik može isticati potrošaču sve prigovore koje ima prema ugovaratelju po osnovi ugovora kojim je ugovorena korist za potrošača.
+(5) Ugovorom iz stavka 1. ovoga članka vjerovnik pristaje umanjiti tražbinu prema potrošaču odgovarajućom primjenom načela i pravila iz članaka 19.b do 19.f ovoga Zakona.
+Porezni tretman učinka konverzije
+Članak 19.h
+(1) Učinak konverzije iz članka 19.e stavka 7. ovoga Zakona koji rezultira rashodom u poslovnim knjigama vjerovnika, porezno je priznati rashod vjerovnika u smislu posebnog propisa o porezu na dobit, vodeći se načelom izbjegavanja dvostrukog oporezivanja i načelom izbjegavanja dvostrukog umanjenja porezne osnovice.
+(2) Vjerovnik je dužan uz poreznu prijavu poreza na dobit za razdoblje u kojem je u poslovnim knjigama evidentiran rashod iz stavka 1. ovoga članka, dostaviti kumulativni sažetak izračuna konverzija iz članka 19.e ovoga Zakona temeljem kojeg je evidentirao rashod u poslovnim knjigama, kao i dokaz iz kojeg nedvojbeno proizlazi da je rashod porezno tretiran u skladu s odredbama stavka 1. ovoga članka.
+(3) Odredbe stavka 1. i 2. ovoga članka na odgovarajući se način primjenjuju na oporezivanje učinka konverzije iz članka 19.e stavka 7. ovoga Zakona ako vjerovnik podliježe oporezivanju porezom na dohodak.
+(4) Učinak konverzije iz članka 19.e stavka 7. ovoga Zakona ne smatra se dohotkom potrošača u smislu posebnog propisa o porezu na dohodak.
+(5) Odredbe stavaka 1. do 4. ovoga članka na odgovarajući se način primjenjuju i na rashod temeljem povrata preplate iz članka 19.c stavka 1. točke 5. podtočaka 1. i 2. ovoga Zakona i povrata iz članka 19.c stavka 2. ovoga Zakona.
+Izvješće o provedbi konverzije kredita
+Članak 19.i
+Vjerovnik je dužan dostaviti Ministarstvu financija u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona izvješće o rezultatima provedbe konverzije kredita, koje sadrži najmanje sljedeće podatke:
+– broj potrošača koji su prihvatili, odnosno nisu prihvatili konverziju kredita denominiranih u CHF u kredite denominirane u EUR,
+– broj potrošača koji su prihvatili, odnosno nisu prihvatili konverziju kredita denominiranih u kunama s valutnom klauzulom u CHF u kredite denominirane u kunama s valutnom klauzulom u EUR,
+– broj potrošača koji su prihvatili, odnosno nisu prihvatili konverziju tražbine nastale zbog prestanka ugovora o kreditu denominiranih u CHF i kredita denominiranih u kunama s valutnom klauzulom u CHF,
+– stanje kredita denominiranih u CHF i kredita denominiranih u kunama s valutnom klauzulom u CHF po vrstama kredita, odnosno tražbina nastalih zbog prestanka ugovora o kreditu denominiranih u CHF odnosno kredita denominiranih u kunama s valutnom klauzulom u CHF, na dan prije konverzije i nakon konverzije, zajedno s iznosima učinka konverzije.
+IV.b NIŠTETNOST I SUDSKI POSTUPCI
+Ništetnost ugovora i posljedice ništetnosti
+Članak 19.j
+(1) Ako je ugovor o kreditu sklopio vjerovnik, odnosno kreditni posrednik koji nema odobrenje za pružanje usluga potrošačkog kreditiranja, odnosno za posredovanje pri potrošačkom kreditiranju, ugovor je ništetan.
+(2) U slučaju postojanja

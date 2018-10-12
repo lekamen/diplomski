@@ -1,0 +1,20 @@
+ nije te o tome bez odgode obavijestiti depozitara u pisanom obliku.
+(10) Po nastupu informacije koja je procijenjena kao bitna sukladno stavku 9. ovoga članka, društvo za upravljanje je dužno bez odgode izraditi procjenu fer vrijednosti prenosivog vrijednosnog papira, instrumenta tržišta novca ili financijske izvedenice i uključiti takvu fer vrijednost u izračun cijene udjela UCITS fonda za dan saznanja te informacije. U protivnom će društvo za upravljanje obustaviti izdavanje i otkup udjela UCITS fonda dok se navedena procjena fer vrijednosti ne izradi.
+(11) Po nastupu informacije koja nije sukladno stavku 9. ovog članka procijenjena kao bitna, društvo za upravljanje je dužno novu procjenu izraditi u u roku od 10 radnih dana.
+(12) Društvo za upravljanje dužno je u internim aktima UCITS fonda opisati postupak revidiranja procjena iz stavka 7. ovoga članka, a uključujući primjerice:
+a) usporedbu realiziranih cijena, u slučaju da je bilo trgovanja, s posljednjom procijenjenom fer vrijednosti,
+b) razmatranje ugleda, dosljednosti i kvalitete izvora podataka koji se koriste za vrednovanje,
+c) ispitivanje i dokumentiranje izuzetaka,
+d) isticanje i istraživanje svih razlika koje se čine neobičnima ili odstupaju od referentne vrijednosti utvrđene procjenom fer vrijednosti,
+e) testiranje sa zastarjelim cijenama i implicitnim parametrima,
+f) usporedbu s cijenama bilo koje povezane imovine ili njihovim zaštitama od rizika i
+g) pregled ulaznih podataka korištenih kod određivanja cijena na temelju modela, a posebno onih prema kojima cijena modela iskazuje znatnu osjetljivost.
+(13) Depozitar UCITS fonda dužan je provjeravati je li društvo za upravljanje prilikom utvrđivanja fer vrijednosti tehnikama procjene za prenosive vrijednosne papire, instrumente tržišta novca te financijske izvedenica postupalo u skladu sa stavcima 2. i 12. ovoga članka, člankom 8. stavkom 1. točkom c) te člankom 9. stavcima 4. i 5. ovoga Pravilnika i o tome je dužan voditi evidenciju.
+(14) Društvo je dužno dostaviti depozitaru na njegov upit svu dokumentaciju koja sadrži ulazne podatke na kojima se temelji njegova procjena fer vrijednosti prenosivih vrijednosnih papira, instrumenata tržišta novca ili financijskih izvedenica iz stavaka 3. i 4. ovoga članka, a koja uključuje javno dostupne podatke i pretpostavke korištene u modelima procjene fer vrijednosti.
+(15) Ponovnim aktiviranjem trgovanja i ispunjenjem uvjeta aktivnog tržišta iz članka 10. ovoga Pravilnika, prenosivi vrijednosni papiri, instrumenti tržišta novca te financijske izvedenice će se početi vrednovati po načelima važećim u uvjetima njihova kotiranja na aktivnom tržištu.
+Financijski instrumenti koji se vrednuju po amortiziranom trošku
+Članak 12.
+(1) Financijske obveze i financijska imovina klasificirana kao zajmovi i potraživanja te ulaganja koja se drže do dospijeća vrednuju se po amortiziranom trošku primjenom metode efektivne kamatne stope ostvarene prilikom svakog početnog pojedinačnog ulaganja.
+(2) Društvo za upravljanje može najviše 10% neto vrijednosti imovine UCITS fonda klasificirati kao ulaganja koja se drže do dospijeća.
+(3) U slučaju prodaje dijela imovine UCITS fonda koja se drži do dospijeća ili uslijed promjene namjere društva ili promjene sposobnosti da se drži do dospijeća, cjelokupnu imovinu UCITS fonda koja se drži do dospijeća treba mjeriti po fer vrijednosti. Od datuma nastanka slučaja djelomične prodaje ili reklasifikacije tijekom naredne dvije poslovne godine niti jedan preostali vrijednosni papir ne smije se vrednovati na način primjeren financijskoj imovini koja se drži do dospijeća. Izuzetak od navedenog su slučajevi prodaje i reklasifikacije s obilježjima koja opisuje točka 9. MRS 39.
+(4) U slučaju kada je došlo do prekoračenja odredbe iz stavka 2. ovog članka kao posljedica okolnosti na koje društvo za upravljanje nije moglo utjecati, društvo za upravljanje dužno je bez odgode, minimalno dio imovine koja se drži do dospijeća preko ograničenja iz stavka 2. ovoga članka,

@@ -1,0 +1,20 @@
+ korištenja aplikacije; minimalne hardverske i softverske zahtjeve; mjere zaštite zapisa od neovlaštenoga pristupa, mijenjanja i gubitka podataka; format i strukturu zapisa; predviđeni način trajne pohrane zapisa (npr. čuvanje u izvornom formatu, konverzija u drugi format, kopiranje na drugi medij i dr.); način (tehnologija) na koji će se osigurati pristup podacima ako je predviđeno čuvanje izvan izvornog hardverskog i softverskog okruženja; način predaje gradiva arhivu (format zapisa i medij, aplikacija, odnosno tehnologija za pristup podacima koja treba omogućiti iskoristivost podataka nakon predaje, dokumentacija o aplikaciji i strukturi zapisa, dokumentacija o postupku pripreme za predaju).
+Članak 16.
+(1) Elektronički dokumenti i drugi elektronički zapisi arhiviraju se i čuvaju u najmanje dva primjerka. Barem jedan primjerak treba biti takav da je iz njega moguće obnoviti podatke i mogućnost njihova pregledavanja i korištenja u slučaju gubitka ili oštećenja podataka u računalnom sustavu u kojem se obavlja pohrana i obrada zapisa.
+(2) Pri izradi arhivske kopije obvezno se u pisanom obliku utvrđuje predmet arhiviranja, format i struktura zapisa, vrijeme i odgovornost za izradu kopije, te da li se zapisi i dalje čuvaju u izvorišnom informacijskom sustavu ili brišu iz njega.
+(3) Prije predaje arhivskih kopija na mjesto čuvanja obvezno se provjerava njihova cjelovitost, čitljivost i ispravnost.
+(4) Arhivske se kopije predaju na mjesto čuvanja s programima, odnosno aplikacijama koje su potrebne za njihovo pregledavanje i korištenje, ili s podrobnim uputama o hardverskim i softverskim zahtjevima za prikaz i korištenje i navodom o informacijskom sustavu koji trenutno to omogućuje.
+(5) Cjelovitost, čitljivost i ispravnost arhivskih kopija elektroničkih zapisa redovito se provjerava najmanje jedanput godišnje. Presnimavanje na novi medij vrši se najmanje svake pete godine, a obvezno ako su prilikom provjere uočene pogreške ili ako je primjerak arhivske kopije nečitljiv, oštećen ili izgubljen, presnimavanje na novi medij je obavezno.
+DIO ČETVRTI KORIŠTENJE GRADIVA
+Članak 17.
+(1) Korištenje gradiva odobrava osoba odgovorna za rad pismohrane, odnosno drugi ovlašteni službenik.
+(2) Arhivsko i registraturno gradivo može se koristiti u prostorijama pismohrane samo i jedino uz nazočnost osoba odgovorne za rad pismohrane, odnosno drugog ovlaštenog službenika. Korištenje gradiva ostvaruje se neposrednim uvidom u traženo gradivo, izdavanjem preslika ili izdavanjem originala gradiva.
+(3) Originalno arhivsko i registraturno gradivo izdaje zadužena osoba za pismohranu ili drugi ovlašteni službenik na privremeno korištenje jedino putem odgovarajućeg reversa (potvrde) i obaveznog upisa u odgovarajuću evidenciju.
+(4) Revers (potvrda) sadrži sljedeće elemente: klasifikacijsku oznaku, datum uzimanja i vraćanja spisa predmeta, potpis službenika koji preuzima spis predmeta uz oznaku unutarnje ustrojstvene jedinice.
+Članak 18.
+Revers (potvrdu) zadužena osoba za pismohranu ili drugi ovlašteni službenik izdaje u tri primjerka i to: Jedan primjerak reversa (potvrde) ostavlja na mjestu gdje je gradivo izdvojeno, drugi primjerak zadržava zadužena osoba za pismohranu, odnosno drugi ovlašteni službenik, a treći primjerak predaje službeniku odnosno korisniku gradiva. Nakon korištenja gradivo vraća na mjesto na kojem je bilo pohranjeno, a revers (potvrdu) uništava.
+Članak 19.
+(1) Izdavanje arhivskoga i registraturnog gradiva za vanjske korisnike, koji temeljem zakona i propisa imaju pravo uvida u informacije sadržane u gradivu, obavlja se temeljem pismene zamolbe tražitelja.
+(2) Korištenje gradiva može se uskratiti u slučajevima koje propisuje članak 15. Zakona o pravu na pristup informacijama (»Narodne novine, broj 25/13 i 85/15).
+Članak 20.
+(1) Krajem svake godine, odnosno prije godišnjega ulaganja novog gradiva u pismohranu, potrebno je provjeriti da li je tijekom godine posuđeno gradivo vraćeno u pismohranu. Nadzor obavlja zadužena osoba za pismohranu,

@@ -1,0 +1,28 @@
+ valute ili otvara jedinstveni transakcijski račun vlasnika na koji se mogu evidentirati novčana sredstva u više različitih valuta (s oznakom »MVR«).«.
+Točka 15. mijenja se i glasi:
+»15. Oznaka specifičnih namjena (1 znak)
+Oznaku specifičnih namjena banka upisuje za novčana sredstva koja su sukladno propisu izuzeta od ovrhe koja se provodi na novčanim sredstvima vlasnika sredstava.
+Upisuje se:
+– oznaka »1« za novčana sredstva pričuve stambene zgrade,
+– oznaka »6« za novčana sredstva depozita po ugovoru koji se odnosi na imovinu za pokriće matematičke pričuve,
+– oznaka »7« za novčana sredstva stečajne mase pravne osobe koja je prestala postojati brisanjem iz odgovarajućeg registra odnosno novčana sredstva stečajne mase imovine dužnika pojedinca, a koji otvara fizička osoba na temelju odluke nadležnog tijela ako stečajna masa nije upisana u sudski registar i nema dodijeljen osobni identifikacijski broj,
+– oznaka »8« za novčana sredstva klijenata investicijskog društva,
+– oznaka »9« za novčana sredstva specifične namjene po ostalim propisima.«.
+Članak 4.
+U članku 7. stavku 1. točka 2. mijenja se i glasi:
+»2. Oznaka statusa vlasnika transakcijskog računa/novčanih sredstava (1 znak)
+Upisuje se:
+– oznaka »1« za transakcijski račun i novčana sredstva vlasnika sredstava koji nije u stečaju, odnosno u predstečajnoj nagodbi te nema evidentiranu statusnu promjenu odnosno nije prestao postojati brisanjem iz odgovarajućeg registra,
+– oznaka »2« za transakcijski račun i novčana sredstva dužnika nad kojim je otvoren stečajni postupak,
+– oznaka »3« za transakcijski račun i novčana sredstva dužnika za kojeg je objavljeno rješenje o otvaranju postupka predstečajne nagodbe/ rješenje o otvaranju predstečajnog postupka,
+– oznaka »4« za transakcijski račun i novčana sredstva dužnika za kojeg je objavljena privremena mjera kojom je Agenciji naloženo zastajanje s provedbom ovrhe i osiguranja i prije otvaranja postupka predstečajne nagodbe sukladno Zakonu o financijskom poslovanju i predstečajnoj nagodbi,
+– oznaka »5« za transakcijski račun i novčana sredstva vlasnika sredstava – pravne osobe koja je upisom brisanja u odgovarajući registar prestajala postojati,
+– oznaka »6« za transakcijski račun i novčana sredstva vlasnika sredstava – građanina koji je preminuo,
+– oznaka »7« za transakcijski račun i novčana sredstva vlasnika sredstava – pravne osobe za koju je u odgovarajući registar upisana statusna promjena podjele, pripajanja ili spajanja,
+– oznaka »8« za račune i novčana sredstva banke za koje je Savjet Hrvatske narodne banke donio Odluku o podnošenju prijedloga za otvaranje stečajnog postupka nad kreditnom institucijom sukladno Zakonu o kreditnim institucijama,
+– oznaka »9« za transakcijski račun i novčana sredstva vlasnika sredstava za kojeg je u evidencijama Ministarstva financija – Porezna uprava upisano poništenje podatka o dodjeli osobnog identifikacijskog broja.
+Agencija upisuje oznaku statusa vlasnika transakcijskog računa/ novčanih sredstava na sve otvorene transakcijske račune i novčana sredstva vlasnika računa kod svih obveznika.
+Agencija upisuje oznaku stečaja ovršenika sukladno članku 17. stavku 2. Zakona, odnosno na temelju vjerodostojnih podataka dobivenih od nadležnog tijela koje je temeljem Zakona o osobnom identifikacijskom broju nadležno za postupak dodjeljivanja osobnog identifikacijskog broja i za vođenje evidencije o osobnim identifikacijskim brojevima.
+Na temelju rješenja o ukidanju rješenja o otvaranju stečajnog postupka odnosno rješenja o zaključenju stečajnog postupka, Agencija za sve otvorene transakcijske račune i novčana sredstva dužnika mijenja oznaku »2« u oznaku »1«.
+Agencija upisuje oznaku »3« nakon upisa rješenja o otvaranju postupka predstečajne nagodbe odnosno rješenja o otvaranju predstečajnog postupka u Očevidnik redoslijeda osnova za plaćanje kojeg vodi sukladno članku 6. Zakona.
+Ako postupak predstečajne nagodbe/ predstečajni postupak bude obustavljen odnosno ukinut, Agencija za sve transakcijske račune i

@@ -1,0 +1,30 @@
+ kupovni tečaj ovlaštenog mjenjača za stranu valutu na koju glasi ček.
+6. U 6. stupac bilježi se iznos umnoška iznosa navedenih u istom retku u 4. i 5. stupcu.
+7. U 7. stupac bilježi se kupovni tečaj banke za stranu valutu na koju glasi ček.
+8. U 8. stupac bilježi se iznos umnoška iznosa navedenih u istom retku u 4. i 7. stupcu.
+9. U 9. stupac bilježi se iznos razlike u kunama.
+(4) Zaštićeni program mora omogućiti prikaz i ispis izvješća, koji obuhvaća kumulativne podatke za sva blagajnička mjesta jednoga mjenjačkog mjesta, za tekuću i prethodnu kalendarsku godinu.
+(5) Zaštićeni program ne smije omogućiti mijenjanje podataka u izvješću »Specifikacija strane gotovine i čekova koji glase na stranu valutu«, koje je izrađeno tijekom primjene jedne tečajne liste, nakon izrade konačnog izvješća »Obračun dnevne blagajne – stanje blagajničkog dnevnika«.
+(6) Izvješće »Specifikacija strane gotovine i čekova koji glase na stranu valutu« prikazano je u Prilogu br. 5 ove Upute.
+g) Izvješće »Pregled radnih dana tijekom kojih je ovlašteni mjenjač primjenjivao dvije tečajne liste«
+(1) Zaštićeni program mora omogućiti prikaz i ispis izvješća s pregledom radnih dana tijekom kojih je ovlašteni mjenjač u tekućoj i prethodnoj kalendarskoj godini primjenjivao dvije tečajne liste.
+(2) Izvješće mora sadržavati sljedeće podatke za tekuću odnosno prethodnu kalendarsku godinu tijekom kojih je ovlašteni mjenjač primjenjivao dvije tečajne liste, i to:
+• datume radnih dana, u formatu DDMMGGGG i
+• ukupan broj radnih dana po godini.
+h) Izvješće »Pregled tečajnih lista na kojima je istovrsni tečaj bilo koje valute odstupao od tečaja iste valute na prethodnoj tečajnoj listi za više od 1%«
+(1) Zaštićeni program mora omogućiti prikaz i ispis izvješća s podacima o tečajnim listama primjenjivanima u tekućoj i prethodnoj kalendarskoj godini na kojima je istovrsni tečaj bilo koje valute odstupao od tečaja iste valute na prethodnoj tečajnoj listi za više od 1%.
+(2) Izvješće mora sadržavati sljedeće podatke vezane uz svaku tečajnu listu iz stavka 1. ove točke:
+• broj i datum primjene tečajne liste u formatu DDMMGGGG i
+• slovnu oznaku svake strane valute za koju je istovrsni tečaj odstupao od tečaja iste valute na prethodnoj tečajnoj listi za više od 1%, postotak odstupanja s odgovarajućim predznakom (+ ili –) i vrstu tečaja (temeljni kupovni odnosno prodajni ili povoljni kupovni odnosno prodajni tečaj).
+i) »Izvješće o broju ispisivanja potvrda o otkupu odnosno prodaji«
+(1) Zaštićeni program mora omogućiti prikaz i ispis izvješća o broju ispisivanja potvrda o otkupu odnosno prodaji za bilo koje razdoblje u tekućoj i prethodnoj kalendarskoj godini.
+(2) Izvješće mora sadržavati sljedeće podatke:
+• serijski broj potvrde o otkupu odnosno prodaji i
+• broj ispisanih, istovjetnih potvrda o otkupu odnosno prodaji za isti serijski broj potvrde o otkupu odnosno prodaji.
+II.6. Funkcija izrade i ispisivanja pregleda s trenutačnim stanjem gotovine i čekova koji glase na stranu valutu u blagajni
+Zaštićeni program mora omogućiti u svakom trenutku prikaz podataka o trenutačnom stanju gotovine u kunama i strane gotovine te čekova koji glase na stranu valutu, za svaku stranu valutu u blagajni.
+II.7. Funkcija izvoza kodiranih podataka za potrebe nadzornog tijela
+Zaštićeni program mora omogućiti u bilo kojem trenutku izvoz kodiranih podataka za određeno razdoblje.
+II.8. Izvješće »Promet ovlaštenih mjenjača – zbirno izvješće o kupnji odnosno prodaji strane gotovine i otkupljenim čekovima koji glase na stranu valutu« (Prilog br. 3A)
+(1) Izvješće »Promet ovlaštenih mjenjača – zbirno izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu« dostavljaju Hrvatskoj narodnoj banci banke koje s ovlaštenim mjenjačima sklapaju ugovore o obavljanju mjenjačkih poslova.
+(2) U izvješće bilježe se podaci o iznosu otkupa strane gotovine i čekova koji glase na stranu valutu te o iznosu prodaje strane gotovine tijekom određenoga kalendarskog mjeseca za svaku stranu

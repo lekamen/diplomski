@@ -1,0 +1,34 @@
+124 13.11.2015 Pravilnik o načinu vođenja i podacima koji se unose u upisnike pomorskih objekata, vođenju postupka EOP upisa, obrascima, te nadležnosti lučkih kapetanija za upis
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+2358
+Na temelju članka 1021., stavka 1., alineja 17., a u svezi s člankom 195. stavkom 7. Pomorskog zakonika (»Narodne novine« br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.), ministar pomorstva, prometa i infrastrukture, donosi
+PRAVILNIK
+O NAČINU VOĐENJA I PODACIMA KOJI SE UNOSE U UPISNIKE POMORSKIH OBJEKATA, VOĐENJU POSTUPKA EOP UPISA, OBRASCIMA, TE NADLEŽNOSTI LUČKIH KAPETANIJA ZA UPIS
+I. OPĆE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuje se način vođenja upisnika brodova, upisnika jahti, upisnika brodova u gradnji, upisnika jahti u gradnji, upisnika plutajućih objekata, upisnika nepomičnih odobalnih objekata, upisnika plutajućih objekata u gradnji, upisnika nepomičnih odobalnih objekata u gradnji (u daljnjem tekstu: pomorskih objekata), vođenja postupaka EOP upisa, podacima koji se unose u listove A, B i C glavne knjige upisnika, zbirkama isprava, pomoćnim popisima koji se vode uz upisnike i obrascima tih isprava i popisa, te nadležnosti lučkih kapetanija za upis.
+Članak 2.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+1. IMO broj – identifikacijski broj koji u skladu s Međunarodnom konvencijom o sigurnosti na moru, 1974. (SOLAS 74) s dopunama, mora biti dodijeljen brodu, vlasniku broda ili kompaniji
+2. NIB – nacionalni identifikacijski broj je broj koji se dodjeljuje pomorskom objektu u trenutku upisa u odgovarajući upisnik pomorskih objekata Republike Hrvatske
+3. CFR broj – jedinstveni identifikacijski broj koji se dodjeljuje svakom plovnom objektu koje je upisano u Registar ribarske flote Republike Hrvatske koji se vodi pri ministarstvu nadležnom za ribarstvo
+4. MMSI (Maritime Mobile Service Identity) – identifikacijski broj pomorske mobilne postaje.
+Članak 3.
+(1) Za upis broda ili upis jahte koja je u cjelini u vlasništvu fizičke ili pravne osobe s prebivalištem, odnosno sjedištem u Republici Hrvatskoj, nadležne su lučke kapetanije u Puli, Rijeci, Senju, Zadru, Šibeniku, Splitu, Pločama i Dubrovniku, prema prebivalištu odnosno sjedištu vlasnika broda ili jahte.
+(2) Za upis broda ili upis jahte koja je u cjelini ili dijelom u vlasništvu strane fizičke ili pravne osobe ili osobe bez državljanstva ili državljanina Republike Hrvatske s prebivalištem u inozemstvu, a brodar, kompanija ili korisnik jahte je hrvatska fizička ili pravna osoba s prebivalištem, odnosno sjedištem u Republici Hrvatskoj, nadležna je lučka kapetanija prema prebivalištu, odnosno sjedištu brodara, kompanije, odnosno korisnika jahte.
+(3) Za upis broda ili upis jahte čiji vlasnik, brodar, kompanija ili korisnik jahte nema prebivalište odnosno sjedište na području lučke kapetanije, nadležna je lučka kapetanija iz stavka 1. ovog članka kojoj je podnesena prijava za prvi upis broda ili jahte.
+Članak 4.
+Za upis broda u gradnji ili jahte u gradnji nadležna je lučka kapetanija prema sjedištu brodograditelja.
+Članak 5.
+(1) Plutajući objekti i nepomični odobalni objekti upisuju se u upisnik plutajućih objekata i upisnik nepomičnih odobalnih objekata koje vodi lučka kapetanija na čijem se području ti objekti nalaze.
+(2) Za upis plutajućih objekata u gradnji i nepomičnih odobalnih objekata u gradnji nadležna je lučka kapetanija prema sjedištu graditelja.
+(3) Za upis pomorskih objekata iz članka 4. i članka 5. stavka 2., kada brodograditelj ili graditelj nema sjedište na području lučke kapetanije, nadležna je lučka kapetanija iz članka 3. stavka 1. kojoj je podnesena prijava za upis u odgovarajući upisnik.
+II. POSTUPAK UPISA
+Članak 6.
+Za upis pomorskih objekata vode se sljedeći upisnici koji imaju odgovarajuće oznake:
+1. Upisnik trgovačkih brodova (oznaka: T)
+2. Upisnik ribarskih brodova (oznaka: R)
+3. Upisnik javnih brodova (oznaka: J)
+4. Upisnik jahti (oznaka: Y)
+5. Upisnik plutajućih objekata (oznaka: P)
+6.

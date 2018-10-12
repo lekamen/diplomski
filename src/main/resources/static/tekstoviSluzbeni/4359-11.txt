@@ -1,0 +1,34 @@
+ zapovjednik postrojbe koja organizira provedbu vježbovnih i ispitnih letova.
+(2) Pri obavljanju vježbovnih i ispitnih letova instruktor letenja na bespilotnom zrakoplovu je zapovjednik bespilotnog zrakoplova.
+(3) Iznimno od stavka 2. ovoga članka, zapovjednika bespilotnog zrakoplova može odrediti zapovjednik ustrojstvene jedinice koja organizira letenje bespilotnog zrakoplova.
+IX. USLUGE U ZRAČNOJ PLOVIDBI I VOĐENJE VOJNIH ZRAKOPLOVA
+Nadležnost za pružanje usluga
+Članak 65.
+(1) Pružatelj usluga u zračnoj plovidbi mora biti osposobljen za pružanje usluga vojnim zrakoplovima u skladu s odredbama ovoga Pravilnika, provedbenim sporazumima i uputama.
+(2) Osposobljavanje kontrolora zračnog prometa za pružanje usluga vojnoga zračnog prometa obavlja se u skladu s odredbama Pravilnika o dozvolama, ovlaštenjima i posebnim ovlastima kontrolora zračnog prometa.
+(3) Plan osposobljavanja za lokaciju kontrolora zračnog prometa za pružanje usluga vojnim zrakoplovima i Shemu stručnosti donosi pružatelj usluga u zračnom prometu uz prethodnu suglasnost Ministarstva obrane.
+Članak 66.
+(1) Pružatelj usluga u zračnoj plovidbi mora se pridržavati Upute o letenju vojnih zrakoplova.
+(2) Razdvajanje ostalog prometa od OAT prometa u kontroliranom zračnom prostoru bez obzira na njegovu klasifikaciju, na visinama od 7000 ft AMSL i više ili 5500 ft AGL i više, ovisno koja je razina veća, provodi nadležna kontrola zračnog prometa.
+(3) U rezerviranom zračnom prostoru vođenje vojnih zrakoplova mogu obavljati i vojne osobe nadležne za vođenje vojnog zrakoplova pri čemu nadležna kontrola zračnog prometa pruža usluge informiranja i uzbunjivanja.
+(4) Pozicije i uvjeti primopredaje radiokomunikacije između nadležnog kontrolora leta i vojne osobe nadležne za vođenje vojnih zrakoplova uređuju se sporazumom između Ministarstva obrane i pružatelja usluga u zračnoj plovidbi.
+(5) Na letove vojnih zrakoplova u hrvatskom zračnom prostoru ne primjenjuju se mjere regulacije u zračnom prometu.
+(6) Vojne osobe nadležne za vođenje vojnog zrakoplova u područjima s ograničenjem letenja su:
+– časnik za navođenje
+– prednji zračni kontrolor
+– voditelj djelovanja na poligonu
+– voditelj letenja na vojnoj zrakoplovnoj priredbi.
+Jezik u uporabi
+Članak 67.
+(1) Govorna komunikacija s nadležnom kontrolom zračnog prometa provodi se uporabom propisanih normiranih međunarodnih izraza na hrvatskom ili engleskom jeziku.
+(2) Pri obavljanju IFR letova radiokomunikacija s nadležnom službom kontrole zračnog prometa provodi se uporabom propisanih normiranih međunarodnih izraza na engleskom jeziku.
+(3) Iznimno od stavka 2. ovoga članka, pri provedbi svih letova avionom MiG-21, svih letova iz letačke pripravnosti te u slučajevima kada je vojni zrakoplov u nuždi, pilot vojnog zrakoplova može upotrebljavati hrvatski jezik.
+(4) Nije dopušteno javno emitiranje govorne komunikacije između posade vojnog zrakoplova i nadležnog kontrolora leta ili vojne osobe nadležne za vođenje vojnog zrakoplova.
+Tonski zapis govorne komunikacije
+Članak 68.
+(1) Radiokomunikaciju između posade vojnog zrakoplova i nadležne kontrole zračnog prometa snima nadležna kontrola zračnog prometa na za to predviđeni medij i čuva snimke najmanje 30 dana, a u slučaju nesreće ili ozbiljne nezgode vojnog zrakoplova do završetka istrage odnosno drugih istražnih radnji koje provode nadležna tijela Republike Hrvatske.
+(2) Radiokomunikaciju između posade vojnog zrakoplova i časnika za navođenje snima postrojba nadležna za navođenje vojnog zrakoplova na za to predviđeni medij i čuva snimke najmanje 30 dana, a u slučaju nesreće ili ozbiljne nezgode vojnog zrakoplova do završetka istrage odnosno drugih istražnih radnji koja provode nadležna tijela Republike Hrvatske.
+X. UPRAVLJANJE VOJNIM LETENJEM
+Članak 69.
+(1) Upravljanje vojnim letenjem je skup postupaka i mjera koje se planiraju i poduzimaju radi sigurne i cjelovite provedbe letenja te radi raščlambe uspjeha i poduzimanja mjera za uklanjanje nedostataka.
+(2) Upravljanje vojnim letenjem

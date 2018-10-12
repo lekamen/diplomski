@@ -1,0 +1,26 @@
+ praćenja usklađenosti s relevantnim propisima u depozitaru.
+(2) Politike iz stavka 1. ovoga članka moraju sadržavati najmanje način provedbe prijave iz stavka 1. ovoga članka i postupanje po njoj.
+(3) Osoba odgovorna za funkciju praćenja usklađenosti s relevantnim propisima dužna je primljene informacije čuvati kao povjerljive, a depozitar je dužan osigurati da se prijave iz stavka 1. ovoga članka provode poštujući načela poštenja, objektivnosti i nepristranosti te zaštite osobnih podataka, kao i da radnik koji je prijavio eventualnu povredu propisa neće snositi nikakve negativne posljedice zbog takvog prijavljivanja. Depozitar ne smije radnika koji je podnio prijavu iz stavka 1. ovoga članka ni na koji način diskriminirati, dovoditi u nepovoljniji položaj u odnosu na druge radnike niti se takvo njegovo postupanje može smatrati kršenjem bilo kakvih ograničenja otkrivanja informacija koja su određena ugovorom, zakonom ili drugim propisom, te to ne može biti razlog za otkaz ugovora o radu ili drugog ugovora na temelju kojeg radnik radi u depozitaru.
+(4) Agencija će omogućiti pouzdan način dostavljanja obavijesti o povredama odredaba ovoga Zakona i/ili podzakonskih propisa donesenih na temelju ovoga Zakona te potiče njihovo dostavljanje.
+(5) Na zahtjev Agencije depozitar je dužan dostaviti Agenciji obavijest o povredama odredaba ovoga Zakona i/ili podzakonskih propisa donesenih na temelju ovoga Zakona, odnosno o prijavama iz stavka 1. ovoga članka, ako je takvih prijava bilo, za razdoblje i u roku koji odredi Agencija.
+(6) Prilikom dostavljanja obavijesti iz stavka 4. ovoga članka Agencija će osigurati odgovarajuću zaštitu radnika depozitara koji je dostavio predmetnu obavijest, u svrhu njegove zaštite od moguće diskriminacije ili drugih oblika dovođenja u nepovoljniji položaj, odnosno pozivanja na odgovornost zbog otkrivanja navedenih podataka.
+(7) Agencija će pravilnikom propisati prihvat obavijesti iz stavka 4. ovoga članka i postupanje u vezi s dostavljenom obavijesti, s jasnim pravilima o povjerljivosti podataka o osobi koja je obavijest dostavila i osobi koja je navodno, u skladu s obavijesti, odgovorna za nezakonitost.
+(8) Agencija će s osobnim podacima iz obavijesti iz stavka 4. ovoga članka odnosno iz stavka 5. ovoga članka postupati u skladu s propisima kojima se regulira zaštita osobnih podataka.
+(9) Iznimno od stavka 8. ovoga članka, Agencija može podatke o osobi koja je Agenciji dostavila obavijest iz stavka 4. ovoga članka odnosno podatke o radniku koji je prijavio eventualnu povredu propisa iz stavka 5. ovoga članka upotrijebiti, ako je to nužno u svrhu provođenja istrage u kaznenom postupku ili za pokretanje drugih sudskih postupaka.
+(10) Agencija će podatke iz stavka 4. ovoga članka odnosno iz stavka 5. ovoga članka dostaviti ESMA-i na njezin zahtjev.
+DIO DESETI UCITS FOND
+POGLAVLJE I. OPĆE ODREDBE
+Članak 239.
+Odredbe ovoga dijela Zakona primjenjuju se i na društvo za upravljanje iz druge države članice koje upravlja UCITS fondom osnovanim u Republici Hrvatskoj, osim ako je u ovom dijelu Zakona određeno drugačije.
+Pojam UCITS fonda
+Članak 240.
+(1) UCITS fond osniva se s namjerom prikupljanja novčanih sredstava javnom ponudom udjela u UCITS fondu, a sredstva UCITS fonda ulažu se u skladu s odredbama ovoga Zakona, prospekta i pravila tog UCITS fonda.
+(2) Imatelji udjela u UCITS fondu (ulagatelji) imaju pravo u svako doba zahtijevati otkup udjela i na taj način istupiti iz UCITS fonda.
+Udjeli u UCITS fondu
+Članak 241.
+(1) Osim udjela UCITS fonda, ne smiju se izdavati druge vrste financijskih instrumenata koji nose prava na bilo koji dio imovine UCITS fonda.
+(2) Udjel može glasiti na iznos koji nije djeljiv s cijelim brojem, odnosno može glasiti na decimalan iznos.
+Vrijednost imovine UCITS fonda
+Članak 242.
+(1) Vrijednost imovine UCITS fonda ne smije pasti ispod 5.000.000,00 kuna tijekom tri uzastopna kalendarska mjeseca, a ako se to dogodi, UCITS fond mora biti likvidiran ili pripojen nekom drugom UCITS fondu.
+(2) 

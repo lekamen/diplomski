@@ -1,0 +1,57 @@
+ knjige, podatak o matičnim brojevima i razdoblju koje knjiga obuhvaća; osobno ime i potpis odgovorne osobe kod pružatelja usluge u vrijeme početka vođenja knjige i u vrijeme završetka vođenja knjige),
+2. redni broj u matičnoj knjizi,
+3. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+4. spol,
+5. datum, mjesto i država rođenja, državljanstvo,
+6. prebivalište/boravište,
+7. zvanje,
+8. bračno stanje,
+9. rješenje centra za socijalnu skrb o skrbništvu (klasa, urudžbeni broj i datum izdavanja rješenja),
+10. podatke o skrbniku (osobno ime, prebivalište/boravište, srodstvo),
+11. rješenje nadležnog centra za socijalnu skrb o priznavanju prava na uslugu (klasa, urudžbeni broj i datum izdavanja rješenja), odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+12. opis zdravstvenog stanja prilikom dolaska na smještaj,
+13. vrsta smještaja na dan dolaska – I. i II. stupanj usluge ili III. i IV. stupanj,
+14. datum početka pružanja usluge,
+15. datum prestanka pružanja usluge,
+16. razlog prestanka pružanja usluge,
+17. primjedbe.
+Članak 63.
+Upisnik korisnika usluge boravka, sadrži:
+1. opće podatke o pružatelju usluge i upisniku (naziv i sjedište pružatelja usluge i podružnice pružatelja usluge, redni broj upisnika, podatak o rednim brojevima upisnika i razdoblju koje obuhvaća, osobno ime i potpis odgovorne osobe kod pružatelja usluge u vrijeme početka vođenja upisnika i u vrijeme završetka vođenja upisnika),
+2. redni broj u upisniku,
+3. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+4. spol,
+5. datum, mjesto i država rođenja te državljanstvo,
+6. prebivalište/boravište,
+7. zvanje,
+8. tip kućanstva (samac, dvočlano kućanstvo starijih osoba (65+), višečlano kućanstvo starijih osoba, višegeneracijsko kućanstvo),
+9. rješenje centra za socijalnu skrb o skrbništvu (klasa, urudžbeni broj i datum izdavanja rješenja),
+10. podaci o skrbniku (osobno ime, prebivalište/boravište, srodstvo),
+11. rješenje nadležnog centra za socijalnu skrb o priznavanju prava na uslugu (klasa, urudžbeni broj i datum izdavanja rješenja), odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+12. opis zdravstvenog stanja,
+13. vrsta boravka po stupnju i trajanju (I. ili II. stupanj poludnevnog boravka, I. ili II. stupanj cjelodnevnog boravka),
+14. datum početka pružanja usluge,
+15. datum završetka pružanja usluge,
+16. primjedbe.
+Članak 64.
+Upisnik korisnika usluge pomoć u kući, sadrži:
+1. opće podatke o pružatelju usluge i upisniku (naziv i sjedište pružatelja usluge i podružnice pružatelja usluge, redni broj upisnika, podatak o rednim brojevima upisnika i razdoblju koje obuhvaća, osobno ime i potpis odgovorne osobe kod pružatelja usluge u vrijeme početka vođenja upisnika i u vrijeme završetka vođenja upisnika),
+2. redni broj,
+3. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+4. spol,
+5. datum, mjesto i država rođenja, državljanstvo,
+6. prebivalište/boravište,
+7. tip kućanstva (samac, dvočlano kućanstvo starijih osoba (65+), višečlano kućanstvo starijih osoba, višegeneracijsko kućanstvo),
+8. rješenje nadležnog centra za socijalnu skrb o priznavanju prava na uslugu u 100% ili 50% iznosu (klasa, urudžbeni broj i datum izdavanja rješenja), odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+9. funkcionalna očuvanost (pokretan, polupokretan, nepokretan),
+10. podaci o obiteljskom liječniku (osobno ime, broj telefona, naziv ustanove u kojoj ordinira te adresa ustanove),
+11. podaci o kontakt osobi (osobno ime, prebivalište/boravište, broj telefona, e-adresa, srodstvo),
+12. vrsta pomoći u kući (organiziranje prehrane, obavljanje kućanskih poslova, održavanje osobne higijene, zadovoljavanje drugih potreba),
+13. datum početka pružanja usluge,
+14. datum završetka pružanja usluge,
+15. primjedbe.
+Članak 65.
+(1) U pomoćnu knjigu upisuju se abecednim redom osobno ime svakog korisnika te redni broj iz matične knjige.
+(2) Pomoćna knjiga iz stavka 1. ovog članka može se voditi u elektroničkom obliku.
+Članak 66.
+Osobni list

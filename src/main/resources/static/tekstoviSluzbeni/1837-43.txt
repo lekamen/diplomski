@@ -1,0 +1,35 @@
+ koja mora biti smještena u vodonepropusnom spremniku;
+.13 četiri rakete s padobranom, koje udovoljavaju zahtjevima navedenim u 6.7.1;
+.14 šest ručnih buktinja, koje udovoljavaju zahtjevima navedenim u 6.7.2;
+.15 dva plutajuća dimna signala, koji udovoljavaju zahtjevima navedenim u 6.7.3;
+.16 vodonepropusnu električnu svjetiljku, pogodnu za signalizaciju Morzeovim znakovima, s rezervnim slogom baterija i rezervnom žaruljom u vodonepropusnoj kutiji;
+.17 signalno zrcalo s uputama za signalizaciju brodovima i zrakoplovima;
+.18 primjerak ilustrirane tablice signala za spašavanje, izrađene od materijala otpornog na djelovanje vode, ili smještene u omotu otpornom na djelovanje vode;
+.19 zviždaljku, ili drugo jednakovrijedno zvučno signalno sredstvo;
+.20 pribor za prvu pomoć, u vodonepropusnoj kutiji koja se nakon korištenja može vodonepropusno zatvoriti;
+.21 tablete protiv morske bolesti, dovoljno za najmanje 48 sati i po jednu higijensku vrećicu za svaku osobu;
+.22 nož na rasklapanje, pričvršćen za brodicu konopcem;
+.23 tri otvarača limenki;
+.24 dva plutajuća koluta za izbavljanje, pričvršćena za plutajuće uže, duljine najmanje 30 m;
+.25 ako brodica za spašavanje nema automatsku drenažu, mora se predvidjeti odgovarajuća ručna pumpa;
+.26 slog pribora za ribolov;
+.27 slog alata i rezervnih dijelova za motor;
+.28 prenosivu napravu za gašenje požara odobrenog tipa, pogodnu za gašenje požara tekućeg goriva;
+.29 reflektor koji ima horizontalno i vertikalno područje najmanje 6° i izmjerenu jačinu svjetlosti od 2500 cd, koji može neprekidno raditi najmanje 3 sata;
+.30 radarski reflektor;
+.31 osobna sredstva za zaštitu od gubitka topline u skladu sa zahtjevima navedenim u 6.6, u broju dovoljnom za 10% osoba koje se mogu smjestiti u brodicu za spašavanje, ili najmanje dva (prema tome što je veće);
+.32 brodice za spašavanje na brodovima koji obavljaju putovanja za koja, po mišljenju RO, nije potrebna oprema navedena u 6.13.8.1.12 i 6.13.8.1.26, ne moraju imati tu opremu.
+6.13.8.2 Brodice za spašavanje na brodovima područja plovidbe 5, 6 i 7 moraju, najmanje, imati:
+.1 jedno plutajuće veslo za svaku klupu, s rašljom;
+.2 ispolac i kablić;
+.3 privezaljku, pričvršćenu za pramčanu statvu, spremnu za korištenje (dimenzije prema 6.13.8.1.7),
+.4 signalnu zviždaljku, ili drugo jednakovrijedno zvučno signalno sredstvo,
+.5 kompas svjetleći ili opremljen sredstvom za osvjetljenje. Na potpuno zatvorenoj brodici za spašavanje kompas mora biti ugrađen pored mjesta upravljanja kormilom, a na svim drugim brodicama za spašavanje kompas mora imati kućište, ako je potrebno da ga zaštiti od djelovanja vremenskih nepogoda, kao i odgovarajuća sredstva za pričvršćenje;
+.6 zavlačno sidro sa sidrenim užetom izdržljivim na dinamički otpor i užetom za vraćanje sidra. Čvrstoća zavlačnog sidra, sidrenog užeta i užeta za vraćanje sidra mora odgovarati svim uvjetima na moru;
+.7 dvije privezaljke duljine dvostruke udaljenosti između mjesta smještanja brodice za spašavanje i vodne linije pri najmanjem operativnom gazu broda, ili 15 m (prema tome što je veće). Na brodicama za spašavanje koje se spuštaju slobodnim padom obje vezaljke moraju se nalaziti blizu pramca spremne za upotrebu. Na drugim brodicama za spašavanje jedna vezaljka pričvršćena za napravu za otpuštanje koja se zahtijeva u 6.13.8.1.7 mora se postaviti na pramčanom dijelu brodice za spašavanje, a druga mora biti pričvršćena za pramac brodice za spašavanje ili blizu njega, spremna za upotrebu.
+.8 dvije rakete s padobranom u skladu sa 6.7.1;
+.9 dvije ručne buktinje u skladu sa 6.7.2; i
+.10 ručnu vodonepropusnu svjetiljku, pogodnu za signalizaciju Morzeovim znakovima, s rezervnim slogom baterija i rezervnom žaruljom u vodonepropusnoj kutiji.
+6.13.9 Označavanje brodice za spašavanje
+6.13.9.1 Broj osoba za koji je brodica za spašavanje odobrena, za putničke brodove i/ili teretne brodove, što je primjenjivo, mora biti jasno i trajno označen.
+6.13.9.2 Ime i luku pripadnosti broda kojem pripada brodica za spašavanje

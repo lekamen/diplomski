@@ -1,0 +1,32 @@
+ rednog broja 1 do zaključno rednog broja 14.
+Ako prijedlog liste sadrži manje od 14 kandidata, lista nije pravovaljana.
+Ako prijedlog liste sadrži više od 14 kandidata, smatrat će se da je pravovaljana lista od prvih 14 kandidata.
+5. Redoslijed kandidata istaknutih na listi samostalno utvrđuje predlagatelj.
+6. U prijedlogu liste za izbor zastupnika u Sabor u XI. izbornoj jedinici na kandidacijskoj listi predlaže se najmanje 6 a najviše 14 kandidata.
+Ako prijedlog liste sadrži manje od 6 kandidata, lista nije pravovaljana.
+Ako prijedlog liste sadrži više od 14 kandidata, smatrat će se da je pravovaljana lista od prvih 14 kandidata.
+7. Redoslijed kandidata istaknutih na listi samostalno utvrđuje predlagatelj.
+8. U prijedlogu liste za svakog se kandidata obvezno navodi: ime i prezime, OIB, adresa prebivališta, dan, mjesec i godina rođenja, spol.
+U prijedlogu liste, uz ime i prezime kandidata, mogu se navesti akademski i stručni naziv i akademski stupanj kandidata u skladu sa Zakonom o akademskim i stručnim nazivima i akademskom stupnju (»Narodne novine«, broj 107/07 i 118/12).
+9. Uz prijedlog liste kandidata dostavlja se:
+– potvrda općinskog suda ili posebno uvjerenje Ministarstva pravosuđa (članak 9. stavak 4. i 5. Zakona u svezi članka 14.a Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (»Narodne novine«, broj 143/12 i 105/15.)),
+– obrazac OZ-2a s prikupljenim potpisima birača koji predlažu neovisnu listu (ako listu predlaže skupina birača),
+– očitovanje kandidata o prihvaćanju kandidature (obrazac OZ-17) – potpis kandidata na očitovanju nije potrebno ovjeriti,
+– izvadak iz Registra političkih stranaka za političku stranku odnosno za svaku od dvije ili više političkih stranaka koje predlažu kandidate – s podacima upisanima u registar političkih stranaka najkasnije na dan stupanja na snagu odluke o raspisivanju izbora,
+– preslik Ugovora o otvaranju posebnog računa za financiranje izborne promidžbe,
+– preslik međusobnog sporazuma iz kojeg je vidljivo koja je politička stranka ovlaštena otvoriti poseban račun za financiranje izborne promidžbe (ako listu predlažu dvije ili više političkih stranaka).
+Prispijeće lista
+Prijedlozi lista dostavljaju se na obrascima propisanim Obvezatnom uputom broj Z II Državnog izbornog povjerenstva Republike Hrvatske (dalje: Državno izborno povjerenstvo).
+Prijedlozi lista moraju prispjeti Državnom izbornom povjerenstvu najkasnije u roku 14 dana od dana stupanja na snagu odluke o raspisivanju izbora.
+Odustanak od liste
+Političke stranke koje su predložile prihvaćene liste kandidata za izbor zastupnika u Sabor, mogu na način predviđen njihovim statutom ili posebnom odlukom donesenom na temelju statuta odustati od te liste najkasnije 48 sati nakon što je lista bila objavljena.
+Za neovisnu listu odluku o odustajanju donosi prvi kandidat, kao osoba ovlaštena za zastupanje liste.
+Pisana obavijest o odustanku mora prispjeti izbornom povjerenstvu izborne jedinice najkasnije u roku od 48 sati nakon što je prihvaćena lista bila objavljena.
+Izborno povjerenstvo izborne jedinice dužno je odmah, bez odgode, dostaviti obavijest o odustanku Državnom izbornom povjerenstvu.
+Nakon prihvaćanja liste nije dopušten odustanak jednog ili više kandidata s liste na kojoj su navedeni i takva će lista ostati pravovaljanom s imenima svih objavljenih kandidata.
+Smrt kandidata
+Ako neki od kandidata na listi za izbor zastupnika u Sabor umre u vremenu od dana objave liste kandidata, politička stranka, odnosno stranke koje su kandidirale tog kandidata mogu umjesto njega predložiti Državnom izbornom povjerenstvu novog kandidata, bez posebnih uvjeta za valjanost kandidature, sve do 10 dana prije dana održavanja izbora.
+Ako neki od kandidata na listama za izbor zastupnika u Sabor umre nakon gore navedenog roka, zastupnika će zamijeniti njegov zamjenik (sukladno odredbi čl. 42. Zakona).
+Kandidiranje u XII. izbornoj jedinici
+Predlagatelji
+1. Pravo predlaganja kandidata nacionalnih manjina za zastupnike i

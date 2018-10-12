@@ -1,0 +1,28 @@
+35 27.03.2015 Pravilnik o evidenciji uporabe poljoprivrednog zemljišta
+MINISTARSTVO POLJOPRIVREDE
+730
+Na temelju članka 120. stavka 2. Zakona o poljoprivredi (»Narodne novine« broj 30/2015), ministar poljoprivrede donosi
+PRAVILNIK
+O EVIDENCIJI UPORABE POLJOPRIVREDNOG ZEMLJIŠTA
+Opća odredba
+Članak 1.
+Ovim Pravilnikom propisuju se uvjeti, sadržaj, te način vođenja evidencije uporabe poljoprivrednog zemljišta.
+Pojmovnik
+Članak 2.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+(1) »ARKOD« je evidencija uporabe poljoprivrednog zemljišta u digitalnom grafičkom obliku na području Republike Hrvatske.
+(2) »AGRONET« je elektronička aplikacija namijenjena za pomoć poljoprivrednicima i ostalim korisnicima u ostvarivanju prava na potpore u poljoprivredi
+(3) »Digitalna ortofoto karta« (u daljnjem tekstu: DOF) je list karte sastavljen od jedne ili mozaika ortofotosnimki (središnji dio fotogrametrijske snimke preveden iz centralne ili druge poznate projekcije u ortogonalnu) jedinstvenog mjerila, s nanesenom pravokutnom koordinatnom mrežom, odgovarajućim kartografskim znacima, nadopunjen izvanokvirnim podacima, a u sustavu se primjenjuje u infracrvenom i RGB dijelu spektra
+(4) »Digitalni katastarski planovi« (u daljnjem tekstu: DKP) je katastarski plan preveden ili izrađen u elektroničkom obliku i predstavlja skupni prikaz katastarskih podataka.
+(5) »Topografska karta« (u daljnjem tekstu: TK) je karta producirana sredstvima digitalne kartografije dostupna u analognom i digitalnom rasterskom obliku.
+(6) »Središnji registar prostornih jedinica« (u daljnjem tekstu: SRPJ) sadrži podatke o vrsti i imenu, identifikatoru, prikazu granica i izvoru podatka o granicama prostornih jedinica, podatke o prostornim jedinicama s kojima se povezuju, posebne podatke (status, sjedište i dr.) te vrstu, izvor i datum primjene.
+(7) »Digitalni model reljefa« (u daljnjem tekstu: DMR) numerički je zapis položajno i visinski određenih točaka i geometrijskih elemenata koji prikazuju reljef zemljišta i iz njih izračunat matematički model površine Zemlje (digitalni model visina).
+(8) »ARKOD parcela« je neprekinuta površina poljoprivrednog zemljišta koju u pravilu obrađuje samo jedan poljoprivrednik, klasificirana s obzirom na vrstu uporabe zemljišta.
+(9) »Fotointerpretacija« je postupak prepoznavanja poljoprivrednih površina na DOF-u i vektoriziranja ARKOD parcela prema vidljivim granicama obrade.
+(10) »Predstavnik poljoprivrednika« je nositelj ili član obiteljskog poljoprivrednog gospodarstva (u daljnjem tekstu: OPG) te odgovorna osoba obrta, trgovačkog društva ili druge pravne osobe. Predstavnik poljoprivrednika može biti i punomoćnik.
+(11) »Ekološki značajne površine« (u daljnjem tekstu: EZP) su površine definirane člankom 20. Zakona o poljoprivredi i člankom 32. Pravilnika o Izravnim Potporama.
+(12) »Rubni pojasevi duž vodotoka i stajaćih voda« su pojasevi na granici obradivog zemljišta, široki najmanje 3, a udaljeni najviše 10 metara od ruba korita vodotoka i obradivog zemljišta.
+(13) »Pojasevi prihvatljivih hektara uz rubove šuma« su rubni pojasevi na granici obradivog zemljišta, duž rubova šume, bez poljoprivredne proizvodnje. Šumom u smislu ovoga Pravilnika se smatra zemljište obraslo šumskim drvećem na površini većoj od 0,2 ha, a koja nije uža od 20 metara.
+(14) »Obilježja krajobraza« su sastavni dijelovi ARKOD parcele, nalaze se na poljoprivrednom zemljištu ili na njegovoj granici, nastali su prirodnim putem ili ljudskom aktivnošću te su sljedeći elementi: šumarak, pojedinačno stablo, drvored, živica, lokva (jezerce), jarak, suhozid.
+(15) »Šumarak« je neprekinuto i homogeno područje pokriveno drvećem i grmljem, koje se ne koristi u poljoprivredne svrhe i čija je ukupna minimalna površina 100 m², dok maksimalna površina ne prelazi 2000 m². Grafički je prikazan u ARKOD-u kao poligon.
+(16) »Pojedinačno stablo« je stablo čija je površina horizontalne projekcije krošnje najmanje 8 m², a visina najmanje 2 metra te se pod istim obavlja minimalna

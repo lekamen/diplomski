@@ -1,0 +1,24 @@
+ KVALIFIKACIJE, CERTIFIKACIJA I IZVJEŠTAVANJE
+3.1 Posada broda ili nepomične odobalne platforme mora obavljati tjedne i mjesečne preglede i rutinsko održavanje opreme i uređaja za spašavanje pod direktnim nadzorom kvalificirane osobe (uobičajeno brodski časnik), prema ispitnoj listi (check list) u skladu sa zahtjevima i uputama proizvođača. Izvještaji o navedenom se moraju upisati u brodski dnevnik (za detalje vidi MSC.1/Circ. 1206/Rev.1, ANNEX 1 uključivo APPENDIX).
+3.2 Sve druge preglede, održavanja, popravke i ispitivanja mora obavljati predstavnik proizvođača.
+Izvještaji i ispitne liste moraju se uredno ispuniti i potpisati od strane osobe koja je obavila pregled i održavanje i supotpisati od strane predstavnika Kompanije ili zapovjednika broda. Izvještaji o obavljenim pregledima, popravcima i održavanju moraju se čuvati na brodu.
+Nakon izvršenog godišnjeg/petogodišnjeg pregleda, servisiranja i ispitivanja, odgovorna osoba koja je obavila ispitivanje mora promptno izdati potvrdu da je brodica za spašavanje s pripadajućom opremom spremna za uporabu (točka 15, MSC.1/Circ.1206/Rev.1).
+Predstavnik proizvođača
+U slučaju godišnjeg pregleda, MSC.1/Circ.1206/Rev.1 zahtjeva da pregled, servisiranje i ispitivanje prvenstveno mora obavljati predstavnik proizvođača. Kompanija mora nastojati ispuniti ove zahtjeve, ali u slučaju da Kompanija ne može osigurati predstavnika proizvođača, pregled, servisiranje i ispitivanje može se obaviti na jedan od tri načina:
+a) Uslužna tvrtka ili osoba koja je certificirana za obavljanje tih poslova u skladu s preporukama navedenim u MSC.1/Circ.1277 od strane RO ili druge Vlade potpisnice SOLAS konvencije.
+b) Uslužna tvrtka ili osoba koju odabere Kompanija. Kompanija je odgovorna za odabir prikladne (kvalificirane) uslužne tvrtke ili osobe i mora uspostaviti odgovarajuću proceduru, ispitne liste i obrazac izvještaja o obavljenom pregledu u Sustav upravljanja sigurnošću kompanije. Svi poslovi uslužne tvrtke ili osobe moraju se odvijati u prisustvu i na zadovoljstvo inspektora RO.
+Za ovaj slučaj inspektor RO mora izdati potvrdu o izvršenom pregledu.
+c) Uslužna tvrtka ili osoba prihvatljiva za RO.
+U svakom slučaju Kompanija mora, koliko je to potrebno, surađivati s RO.
+U slučaju petogodišnjeg pregleda inspektor RO mora nazočiti i nakon provedenog testiranja uređaja izdati potvrdu.
+4. PRIMJENA
+Za obveze Kompanije i inspektora RO u odnosu na naprijed navedeno vidi tablicu 4.1.
+a) Ispitivanje funkcionalnosti uređaja za otpuštanje slobodnopadajuće brodice za spašavanje (simuliranje otpuštanja)
+Slobodnopadajuću brodicu za spašavanje mora se osigurati u skladu s uputama Proizvođača za izvođenje simuliranog otpuštanja. Osoba koja obavlja ispitivanje mora ući u brodicu, sjesti na upravljačko mjesto i propisno se vezati i zatim izvršiti sve radnje potrebne za otpuštanje brodice. Nakon izvršenog simuliranja otpuštanja brodica se mora vratiti u početni položaj, osiguranje skinuti i potvrditi da je brodica spremna za uporabu (za detalje vidi MSC.1/Circ.1206/Rev.1, Annex2).
+b) Upute za sigurno izvođenje vježbi s brodicama za spašavanje
+Preporuka je, da se za vrijeme izvođenja redovitih vježbi s brodicama za spašavanje s posadom u njima koriste »uređaji za spriječavanje pada« (FALL PREVENTER DEVICE) u daljnjem tekstu FDP, radi spriječavanja mogućih nesreća uslijed pogreške i nekontroliranog otpuštanja kuke pod opterećenjem.
+Izvedba i način upotrebe svakog FDP mora biti prihvaćen od RO uzimajući u obzir navedeno u MSC.1/Circ.1327 kao i tumačenje IACS-a UI SC 254 (April 2012). Ne smiju se obavljati preinake bilo kakve vrste, bilo na uređajima za spuštanje, bilo na brodici za spašavanje.
+Uporaba FDP-a je privremena i isti se moraju skinuti nakon završetka vježbe. Za detalje vidi MSC.1/Circ.1206/Rev.1, Annex2 i MSC.1/Circ.1327.
+c) Izvještaji
+Izvještaji o pregledima i ispitne liste moraju biti izrađeni u skladu s preporukama MSC.1/Circ.1277 i moraju biti i na engleskom jeziku za brodove u međunarodnoj plovidbi.
+Izvještaji o

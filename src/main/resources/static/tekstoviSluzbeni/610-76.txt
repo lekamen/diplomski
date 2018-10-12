@@ -1,0 +1,30 @@
+ način da:
+– poveća razinu prihvatljivih osnovnih vlastitih sredstava na razinu minimalnog potrebnog kapitala ili
+– smanji profil rizičnosti kako bi se osigurala usklađenost s potrebnim minimalnim kapitalom.
+(5) Agencija može ograničiti ili zabraniti slobodno raspolaganje imovinom društva za osiguranje. Agencija će o mjerama koje je poduzela obavijestiti nadležno nadzorno tijelo države članice u kojoj društvo za osiguranje obavlja poslove osiguranja neposredno ili putem podružnice koje je dužno, na zahtjev Agencije, poduzeti iste mjere. Agencije će odrediti koja će imovina biti obuhvaćena tim mjerama.
+Plan oporavka i financijski plan
+Članak 167.
+(1) Plan oporavka iz članka 165. stavka 3. ovoga Zakona i financijski plan iz 166. stavka 3. ovoga Zakona moraju sadržavati najmanje pojedinosti ili dokaze o sljedećem:
+1. procjeni troškova upravljanja, posebno tekućim općim troškovima i proviziji
+2. procjeni prihoda i rashoda iz djelatnosti izravnog osiguranja, preuzetih obveza reosiguranja i ustupljenih obveza reosiguranja
+3. projekciji izvještaja o financijskom položaju za potrebe solventnosti
+4. procjeni financijskih sredstava za pokriće tehničkih pričuva, potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+5. projekcije izvještaja o financijskom položaju i izvještaja o sveobuhvatnoj dobiti
+6. ukupnoj politici reosiguranja.
+(2) U razdoblju u kojem se provode mjere iz članaka 164. i 165. ovoga Zakona Agencija neće društvu za osiguranje izdati rješenje o odobrenju za prijenos portfelja sve dok smatra da su ugrožena prava ugovaratelja osiguranja ili ugovorne obveze društva za reosiguranje.
+GLAVA XI. JAVNA OBJAVA
+Sadržaj izvješća o solventnosti i financijskom stanju
+Članak 168.
+(1) Društvo za osiguranje dužno je svake godine izraditi i na svojim mrežnim stranicama objaviti izvješće o solventnosti i financijskom stanju u skladu s informacijama iz stavka 4. i načelima iz članka 215. stavka 5. ovoga Zakona i Uredbom (EU) br. 2015/35.
+(2) Izvješće o solventnosti i financijskom stanju sadržava sljedeće informacije:
+1. opis poslovanja i rezultata društva
+2. opis sustava upravljanja i procjenu njegove primjerenosti za profil rizičnosti društva
+3. opis izloženosti riziku, koncentracije rizika, smanjenja rizika i osjetljivosti na rizik, za svaku kategoriju rizika zasebno
+4. opis, zasebno za imovinu, tehničke pričuve i ostale obveze, podloga i metoda upotrijebljenih za njihovo vrednovanje za potrebe solventnosti, zajedno s objašnjenjem svih većih razlika u podlogama i metodama koje su upotrijebljene za njihovo vrednovanje u financijskim izvještajima
+5. opis upravljanja kapitalom, koji obuhvaća najmanje:
+– strukturu i iznos vlastitih sredstava te njihovu kvalitetu
+– iznose potrebnog solventnog kapitala i minimalnog potrebnog kapitala
+– informacije koje omogućavaju pravilno razumijevanje glavnih razlika između osnovnih pretpostavki na kojima se temelji standardna formula i pretpostavki na kojima se temelji unutarnji model koji društvo upotrebljava za izračun svojeg potrebnog solventnog kapitala
+– iznos bilo kakve neusklađenosti s minimalnim potrebnim kapitalom ili bilo kakve značajne neusklađenosti s potrebnim solventnim kapitalom tijekom izvještajnog razdoblja, čak i ako su te neusklađenosti poslije riješene, uz objašnjenje njihovih uzroka i posljedica, te bilo kakve poduzete mjere za poboljšanje stanja.
+(3) Opis za imovinu, tehničke pričuve i ostale obveze iz stavka 2. točke 4. ovoga članka, kada je primijenjena prilagodba za uravnoteženje iz članka 111. ovoga Zakona, uključuje opis prilagodbe za uravnoteženje i portfelja obveza i dodijeljene imovine na koje je primijenjena prilagodba za uravnoteženje, kao i kvantifikaciju utjecaja promjene prilagodbe za uravnoteženje na nulu na financijski položaj društva za osiguranje.
+(4) Opis za imovinu, tehničke pričuve i ostale obveze iz stavka 2. točke 4. ovoga članka također uključuje izjavu o tome je li društvo za osiguranje koristilo prilagodbu za volatilnost iz članka 113. ovoga Zakona, kao 

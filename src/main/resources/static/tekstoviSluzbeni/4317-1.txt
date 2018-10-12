@@ -1,0 +1,28 @@
+ Ciljano snimanje iz zraka pojedinih vojnih i civilnih lokacija i građevina posebno važnih za obranu je snimanje za potrebe vlasnika, odnosno korisnika vojne i civilne lokacije i građevine posebno važne za obranu.
+(3) Ciljano snimanje iz zraka pojedinih industrijskih, gospodarskih, poljoprivrednih lokacija i građevina za potrebe vlasnika, odnosno korisnika lokacije i građevine može se obaviti sustavima bespilotnih zrakoplova u skladu s propisima o sustavima bespilotnih zrakoplova bez Odobrenja za snimanje iz zraka izdanog od strane Državne geodetske uprave kada se obavlja unutar granica navedene lokacije i građevine u svrhu praćenja stanja izgrađenosti, oštećenosti odnosno zaštite.
+(4) Vlasnik, odnosno korisnik vojne i civilne lokacije i građevine posebno važne za obranu odgovoran je za zaštitu klasificiranih podataka o lokaciji i građevini pri ugovaranju snimanja, za vrijeme snimanja, pohranjivanju nakon snimanja te za uporabu zračnih snimaka.
+(5) Ciljano snimanje iz zraka je i snimanje za potrebe izvještavanja o kulturnim i sportskim priredbama/manifestacijama te izvanrednim događajima kao što su prometne gužve, velike prometne nesreće, prirodne nepogode (poplave, požari, potresi i sl.) koje smiju snimati isključivo televizijske kuće s nacionalnom koncesijom te pravne ili fizičke osobe koje obavljaju snimanja za njih.
+(6) Iznimno se za ciljana snimanja iz stavka 5. ovoga članka može dopustiti korištenje zračnih snimaka bez prethodnog pregleda Državne geodetske uprave isključivo radi prijenosa uživo, a snimljeni materijal treba dostaviti na pregled u Državnu geodetsku upravu odmah po obavljenom snimanju, a najkasnije u roku od osam dana od završetka snimanja.
+Odobrenje za snimanje iz zraka
+Članak 5.
+(1) Pravne i fizičke osobe smiju snimati iz zraka nakon pribavljenog odobrenja za snimanje iz zraka.
+(2) Odobrenje iz stavka 1. ovoga članka izdaje Državna geodetska uprava naručitelju snimanja.
+(3) Odobrenje iz stavka 1. ovoga članka izdaje se za svako pojedinačno snimanje.
+(4) Odobrenje iz stavka 1. ovoga članka može se iznimno izdati za više pojedinačnih snimanja u određenom razdoblju za potrebe izvještavanja o događajima navedenim u članku 4. stavku 5. ove Uredbe.
+(5) Odobrenje iz stavka 1. ovoga članka sadrži podatke o snimatelju, naručitelju snimanja, području i vremenu snimanja te svrsi snimanja.
+(6) Odobrenje iz stavka 1. ovoga članka može se izdati najviše za razdoblje od 3 mjeseca.
+(7) Primjerak odobrenja iz stavka 1. ovoga članka Državna geodetska uprava dostavlja ministarstvu nadležnom za poslove obrane i u slučaju iz članka 8. ove Uredbe nadležnoj ustrojstvenoj jedinici Ministarstva unutarnjih poslova.
+Zahtjev za izdavanje odobrenja za snimanje iz zraka
+Članak 6.
+(1) Zahtjev za izdavanje odobrenja za snimanje iz zraka podnosi se za svako pojedinačno snimanje. Za potrebe izvještavanja o događajima iz članka 4. stavka 5. ove Uredbe iznimno se može podnijeti zahtjev za više pojedinačnih snimanja.
+(2) Zahtjev neposredno podnosi naručitelj snimanja u pisanom obliku, slanjem poštom ili dostavom u obliku elektroničke isprave Državnoj geodetskoj upravi.
+(3) Zahtjev mora sadržavati sljedeće podatke:
+1. podatke o naručitelju snimanja (naziv, adresu sjedišta i OIB)
+2. podatke o snimatelju (naziv, adresu sjedišta i OIB) i dokaz o registriranoj djelatnosti snimanja iz zraka (dokument koji izdaje inozemno nadležno tijelo, prilaže se u ovjerenom prijevodu na hrvatski jezik)
+3. podatke o operatoru snimanja (ime, prezime, zanimanje)
+4. podatke o zrakoplovu (proizvođač, tip/model, registracijska oznaka)
+5. podatke o operatoru zrakoplova (naziv, adresa, osoba za kontakt, telefon, fax, e-mail) i dokaz o registraciji za izvođenje operacija za snimanje iz zraka
+6. podatke o vremenu snimanja
+7. svrhu snimanja (izmjera zemljišta, istraživanje, prostorno uređenje te druge gospodarstvene i znanstvene potrebe)
+8. plan snimanja na karti u mjerilu 1:100 000 ili krupnije s označenim područjem snimanja
+9. podatak radi li se o ciljanom snimanju (u

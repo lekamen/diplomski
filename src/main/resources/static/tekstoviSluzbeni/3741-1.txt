@@ -1,0 +1,31 @@
+ posredno s razinama kvalifikacija kvalifikacijskih okvira u drugim zemljama.
+(...)
+Kvalifikacija (engl. Qualification) je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete. Dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba.
+Cjelovita kvalifikacija (engl. Full Qualification) je kvalifikacija koja samostalno udovoljava uvjetima za pristupanje odgovarajućem tržištu rada i/ili nastavku obrazovanja.
+Djelomična kvalifikacija (engl. Partial Qualification) je kvalifikacija koja samostalno ne udovoljava uvjetima za pristupanje tržištu rada i/ili nastavku obrazovanja, nego isključivo uz odgovarajuću cjelovitu kvalifikaciju, odnosno uz jednu ili više drugih odgovarajućih djelomičnih kvalifikacija, u skladu sa standardom cjelovite kvalifikacije.
+(...)
+Ishodi učenja (engl. Learning Outcomes) su kompetencije koje je osoba stekla učenjem i dokazala nakon postupka učenja.
+Skup ishoda učenja (engl. Unit of Learning Outcomes) je najmanji cjelovit skup povezanih ishoda učenja iste razine, obujma i profila.
+(...)«
+»Obujam kvalifikacija i skupova ishoda učenja – HROO, ECVET i ECTS bodovi
+Članak 5.
+(1) Za svaku kvalifikaciju i skup ishoda učenja određuje se obujam, odnosno prosječno ukupno utrošeno vrijeme potrebno za stjecanje te kvalifikacije, odnosno tog skupa ishoda učenja.
+(2) Prosječno ukupno utrošeno vrijeme iskazuje se u ECTS (Europski sustav prijenosa i prikupljanja bodova/European Credit Transfer and Accumulation System) bodovima u visokom obrazovanju, ECVET (Europski sustav bodova strukovnog obrazovanja/European Credit System for Vocational Education and Training) bodovima u strukovnom obrazovanju i HROO (Hrvatski sustav bodova općeg obrazovanja/Croatian Credit System for General Education) bodovima u općem obrazovanju i u općeobrazovnim sadržajima strukovnih kvalifikacija.
+(3) Za kvalifikacije koje se stječu na temelju originalnih znanstvenih ili umjetničkih istraživanja prosječno ukupno utrošeno vrijeme iskazuje se brojem godina istraživanja u punome radnom opterećenju.
+(...)
+Opisnice ishoda učenja
+Članak 6.
+(1) Ishodi učenja u HKO-u prikazuju se kroz znanja, spoznajne vještine, psihomotoričke vještine, socijalne vještine te pripadajuću samostalnost i odgovornost.
+(2) U HKO-u se uspostavlja osam razina skupova ishoda učenja: 1; 2; 3; 4; 5; 6; 7; 8, čije opisnice predstavljaju minimalne uvjete za smještanje skupova ishoda učenja na pripadajuće razine HKO-a. Više razine skupova ishoda učenja uključuju niže razine u odgovarajućem profilu.
+(...)
+(4) Opisnice razina ishoda učenja navedene su u tablici u Dodatku A koji je sastavni dio ovoga Zakona.
+Razine cjelovitih i djelomičnih kvalifikacija
+Članak 7.
+(1) U HKO-u se uspostavlja deset razina cjelovitih kvalifikacija: 1; 2; 3; 4.1; 4.2; 5; 6; 7; 8.1; 8.2.
+(2) Minimalni uvjeti za stjecanje i pristupanje cjelovitim kvalifikacijama su:
+– Razina 1 – ukupno radno opterećenje za stjecanje kvalifikacije je minimalno 480 HROO bodova.
+– Razina 2 – ukupno radno opterećenje za stjecanje kvalifikacije je minimalno 30 ECVET i/ili HROO bodova na 2. ili višoj razini skupova ishoda učenja. Uvjet pristupanja: posjedovanje prethodne kvalifikacije na 1. razini.
+– Razina 3 – ukupno radno opterećenje za stjecanje kvalifikacije je minimalno 60 ECVET i/ili HROO bodova na 3. ili višoj razini skupova ishoda učenja. Uvjet pristupanja: posjedovanje prethodne kvalifikacije na 1. razini.
+– Razina 4.1 – ukupno radno opterećenje za stjecanje kvalifikacije je minimalno 180 ECVET i/ili HROO bodova od kojih je najmanje 120 ECVET i/ili HROO bodova na 4. ili višoj razini skupova ishoda učenja. Uvjet pristupanja: posjedovanje prethodne kvalifikacije na 1. razini.
+– Razina 4.2 – ukupno radno opterećenje za stjecanje kvalifikacije je minimalno 240 ECVET i/ili HROO bodova, od kojih je najmanje 150 ECVET i/ili HROO bodova na 4. ili višoj razini skupova ishoda učenja. Uvjet pristupanja: posjedovanje prethodne kvalifikacije na 1. razini.
+–

@@ -1,0 +1,24 @@
+u zamjenu za nemonetarnu imovinu ili imovine, ili kombinaciju monetarne i nemonetarne imovine. Trošak nabave u transakciji zamjene jedne nenovčane imovine za drugu nenovčanu imovinu mjeri se po fer vrijednosti, osim: a) ako transakcija nema komercijalni sadržaj ili b) ako se fer vrijednost primljene imovine i fer vrijednost dane imovine ne mogu pouzdano izmjeriti. Nabavljena se imovina mjeri na navedeni način čak i ako poduzetnik ne može odmah prestati priznavati imovinu koju je dao u zamjenu. Ako se nabavljena imovina ne mjeri po fer vrijednosti, njezin se trošak nabave mjeri po knjigovodstvenoj vrijednosti dane imovine.
+Poduzetnik odlučuje ima li zamjena komercijalni sadržaj na način da ocijeni u kojoj će se mjeri promijeniti njegovi budući novčani tokovi kao posljedica te transakcije. Razmjena ima komercijalni sadržaj ako:
+(a) se struktura (tj. rizik, vrijeme i iznos) novčanih tokova primljene imovine razlikuje od strukture novčanih tokova imovine dane u zamjenu, ili
+(b) se vrijednost dijela poslovanja poduzetnika, svojstvena tom poduzetniku i pod utjecajem odnosne transakcije, promijeni kao posljedica zamjene, i
+(c) je razlika u podtočki (a) ili (b) značajna u odnosu na fer vrijednost zamijenjene imovine.
+Kako bi se utvrdilo ima li zamjena komercijalni sadržaj, vrijednost dijela poslovanja poduzetnika, svojstvena tom poduzetniku i pod utjecajem odnosne transakcije, mora odražavati novčane tokove nakon oporezivanja. Rezultat ovih analiza može biti jasan bez da poduzetnik vrši podrobne izračune.
+Fer vrijednost nematerijalne imovine za koju ne postoje usporedne tržišne transakcije može se pouzdano izmjeriti ako (a) promjenjivost raspona razumnih procjena fer vrijednosti nije značajna za tu imovinu ili (b) se vjerojatnosti različitih procjena u tom rasponu mogu razumno ocijeniti i koristiti u procjeni fer vrijednosti. Ako poduzetnik može pouzdano utvrditi fer vrijednost primljene imovine ili dane imovine, fer se vrijednost dane imovine koristi za mjerenje troška nabave, osim ako je fer vrijednost primljene imovine jasnija.
+PRESTANAK PRIZNAVANJA
+5.54. Nematerijalna imovina se prestaje priznavati kada nisu ispunjeni uvjeti iz točke 5.5. ovog standarda, a osobito:
+a) prilikom otuđenja, ili
+b) kada se ne očekuju buduće ekonomske koristi od upotrebe ili otuđenja te imovine.
+5.55. Dobici ili gubici koji proizlaze iz prestanka priznavanja nematerijalne imovine priznaju se u skladu s HSFI 6 – Dugotrajna materijalna imovina, HSFI 15 – Prihodi i HSFI 16 – Rashodi.
+5.56. Otuđenje nematerijalne imovine može nastati na različite načine (npr. prodajom, financijskim najmom, ili donacijom, otpisom i dr.).
+5.57. Amortizacija nematerijalne imovine s ograničenim korisnim vijekom upotrebe ne prestaje u trenutku kada se imovina povuče iz upotrebe, osim ako imovina nije do kraja amortizirana ili klasificirana u imovinu namijenjenu prodaji.
+OBJAVLJIVANJE
+5.58. Za svaku skupinu nematerijalne imovine, pri čemu mora napraviti razliku između interno dobivene imovine i druge nematerijalne imovine poduzetnik treba objaviti sljedeće:
+a) je li korisni vijek upotrebe ograničen ili neodređen i, ako je ograničen, trajanje korisnog vijeka upotrebe ili korištene stope amortizacije,
+b) korištene metode amortizacije za nematerijalnu imovinu s ograničenim korisnim vijekom upotrebe,
+c) bruto knjigovodstvenu vrijednost, kumulativne iznose ispravka vrijednosti, kumulativne iznose gubitaka od umanjenja imovine na početku i na kraju izvještajnog razdoblja,
+d) stavke računa dobiti i gubitka i kapitala u kojima je uključena amortizacija nematerijalne imovine,
+e) usklađenje knjigovodstvene vrijednosti na početku i na kraju razdoblja, kojim se prikazuje:
+i. povećanja, s tim da se odvojeno prikažu povećanja iz unutarnjeg razvijanja, zasebno nabavljena povećanja i povećanja stečena u okviru poslovnoga spajanja,
+ii. smanjenja i prijenosi tijekom izvještajnog razdoblja,
+iii. u slučaju kada se nematerijalna imovina mjeri prema revaloriziranim iznosima, povećanja i smanjenja koja

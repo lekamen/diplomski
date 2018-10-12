@@ -1,0 +1,44 @@
+
+11. rezultat (osnovicu)
+12. iznos mjesečne naknade
+13. mjesto i datum izrade obračuna
+14. odgovornu osobu.
+(3) Priređivač koji je automate za igre na sreću povezao u sustav kumulativnih dobitaka (jack-pot) dužan je elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna dostaviti Ministarstvu financija mjesečno Izvješće o ostvarenom dobitku jack-pota (obrazac br. 20 – Prilog 3). Izvješće se dostavlja zaključno dvadesetoga dana u tekućem mjesecu za prethodni mjesec, u PDF formatu, kao prilog obrascu br. 23.
+Članak 34.
+(1) Priređivač je dužan dostaviti Ministarstvu financija obrazac Konačni mjesečni obračun naknade od priređivanja igara na sreću na automatima u uplatnim mjestima kladionica (obrazac br. 24 NP-ISAK) najkasnije do dvadesetog dana u tekućem mjesecu za prethodni mjesec, elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna.
+(2) Obrazac Konačni mjesečni obračun naknade od priređivanja igara na sreću na automatima u uplatnim mjestima kladionica (obrazac br. 24 NP-ISAK) obvezno mora sadržavati sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. broj automata za igre na sreću
+4. razdoblje za koje se obrazac podnosi
+5. oznaku lokacije
+6. ukupan ulaz
+7. ukupan izlaz
+8. rezultat (osnovicu)
+9. iznos mjesečne naknade
+10. mjesto i datum izrade obračuna
+11. odgovornu osobu.
+(3) Priređivač koji je automate za igre na sreću povezao u sustav kumulativnih dobitaka (jack-pot) dužan je elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna dostaviti Ministarstvu financija mjesečno Izvješće o ostvarenom dobitku jack-pota (obrazac br. 20 – Prilog 3). Izvješće se dostavlja zaključno dvadesetoga dana u tekućem mjesecu za prethodni mjesec, u PDF formatu, kao prilog obrascu br. 24.
+Obrazac br. 23 NP-ISA – Konačni mjesečni obračun naknade od priređivanja igara na sreću na automatima u automat klubu
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+OZNAKA LOKACIJE:
+BROJ AUTOMATA ZA IGRE NA SREĆU:
+BROJ ELEKTRONSKIH ROULETTA DO 6 IGRAĆIH MJESTA:
+BROJ ELEKTRONSKIH ROULETTA S VIŠE OD 6 IGRAĆIH MJESTA:
+KONAČNI MJESEČNI OBRAČUN NAKNADE OD PRIREĐIVANJA IGARA NA SREĆU NA AUTOMATIMA U AUTOMAT KLUBU ZA ______(mj)______(god)
+R. br. VRSTA AUTOMATA UKUPAN ULAZ UKUPAN IZLAZ REZULTAT (OSNOVICA) IZNOS NAKNADE 1 2 3 4 5 (4x25%) 1. AUTOMATI ZA IGRE NA SREĆU 2. AUTOMATI ZA IGRE NA SREĆU S VIŠE SJEDEĆIH MJESTA (ELEKTRONSKI ROULETT) UKUPNO
+Mjesto i datum izrade obračuna           Odgovorna osoba __________________________      __________________
+Obrazac br. 24 NP-ISAK – Konačni mjesečni obračun naknade od priređivanja igara na sreću na automatima u uplatnim mjestima kladionica
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+BROJ AUTOMATA ZA IGRE NA SREĆU:
+KONAČNI MJESEČNI OBRAČUN NAKNADE OD PRIREĐIVANJA IGARA NA SREĆU NA AUTOMATIMA U UPL. MJESTIMA KLADIONICA ZA ______ (mj)______(god)
+R. br. OZNAKA LOKACIJE UKUPAN ULAZ UKUPAN IZLAZ REZULTAT (OSNOVICA) IZNOS NAKNADE 1 3 4 5 6 (5x25%) UKUPNO
+  Mjesto i datum izrade obračuna                 Odgovorna osoba ____________________________           __________________
+VI. SADRŽAJ, NAČIN I OBLIK DOSTAVLJANJA KONAČNOG OBRAČUNA GODIŠNJE NAKNADE ZA PRAVO PRIREĐIVANJA IGARA NA SREĆU
+1. Godišnja naknada za priređivanje igara na sreću u casinima
+Članak 35.
+(1) Priređivač koji priređuje igre na sreću u casinima, dužan je sukladno odredbama članka 31. i članka 38. stavak 1. i 2. Zakona plaćati godišnju naknadu za priređivanje igara na sreću u casinima.
+(2) Priređivač iz stavka 1. ovoga članka dužan je dostaviti Ministarstvu financija obrazac Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima (obrazac br. 25 GN-ISC) i uplatiti godišnju naknadu za priređivanje igara na sreću u casinima, do kraja prosinca tekuće godine za sljedeću godinu.
+(3) Priređivač iz stavka 1. ovoga članka dužan je za svako otvaranje casina tijekom godine, za koje postoji obveza

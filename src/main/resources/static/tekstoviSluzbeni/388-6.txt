@@ -1,0 +1,37 @@
+ korištenju energije (NN 127/14) imenovati osobu za sustavno gospodarenje energijom.
+Nema zadaću u hijerarhiji sustavnog gospodarenja energijom, ali je nužno da podrži implementaciju Sustavnog gospodarenja energijom u sustav upravljanja i gospodarenja institucijom javnog sektora.
+U sustavu javnog sektora odgovorna osoba je: Ministar, ravnatelj, direktor, predsjednik, župan, načelnik i sl.
+Odgovornoj osobi Administrator sustava na zahtjev dodjeljuje funkciju Energetskog menadžera u ISGE-u.
+2.5. Imenovana osoba
+Imenovana osoba ima zadaću uspostaviti i održavati aktivnosti sustavnog gospodarenja energijom u instituciji javnog sektora za koju je imenovana.
+Zadaće imenovane osobe:
+• Hijerarhijska organizacija sustava, određivanje broja, rasporeda i zaduženja osoba u sustavu
+• Definiranje komunikacijskih kanala unutar sustava
+• Osiguravanje ljudskih i tehničkih resursa za obavljane aktivnosti javnog sektora
+2.6. Energetski savjetnik
+Broj i raspored Energetskih savjetnika određuje imenovana osoba u dogovoru s Agencijom i odgovornom osobom.
+Broj i raspored Energetskih savjetnika prati funkcionalni ustroj institucije javnog sektora i složenost tehničkih sustava u zgradama kojima je institucija javnog sektora vlasnik ili korisnik.
+Preporuka: Energetski savjetnik potreban je za jednu ili više zgrada s korisnom površinom većom od 15.000 m² sa složenim termotehničkim sustavom. Primjer: KBC, Fakultet, FINA.
+Energetski savjetnik potreban je za do 50 ETC-a. Primjer: Grad Kutina, Zadar.
+Za institucije s malim brojem ETC-ova, Energetski savjetnik obavlja funkcije svih osoba u sustavu. Primjer: MGIPU.
+Obveze Energetskog savjetnika:
+• Koordiniranje rada Energetskih suradnika.
+• Stvaranje uvjeta za praćenje potrošnje za Energetske suradnike; otvaranje ETC-a, mjernih mjesta, dostupnost mjernih mjesta za očitavanje stanja mjernih uređaja.
+• Kontrola redovitosti praćenja potrošnje od strane Energetskih suradnika.
+• Analiza prikupljenih podataka radi uočavanja anomalija u sustavu.
+• Predlaganje mjera povećanja energetske učinkovitosti i smanjenja potrošnje i troškova.
+• Predlaganje mjera povećanja energetske učinkovitosti i uporabe OiE te predviđanje investicijskih troškova uz financiranje i sufinanciranje Fonda.
+• Praćenje regulative vezane za SGE; akcijski planovi, certificiranje, pregledi.
+• Definiranje plana provedbe mjera energetske učinkovitosti, prijava istih Agenciji jednom godišnje korištenjem predefiniranih izvještaja u ISGE-u.
+• Osiguravanje financijskih sredstava za provođenje zakonskih obveza vezanih uz SGE poput energetskih pregleda, certifikata, imenovanja odgovornih osoba, osiguravanje informatičke opreme.
+• Predlaganje novih funkcionalnosti ISGE-a.
+• Educiranje o energetskoj učinkovitosti (usavršavanje) po obavijesti Agencije.
+• Izvještavanje NKT o predloženim i provedenim mjerama u skladu s Pravilnikom o praćenju, mjerenju i verifikaciji ušteda (NN 77/2012).
+Energetskom savjetniku Agencija nakon edukacije dodjeljuje ulogu Energetskog administratora u ISGE-u.
+Uloga Energetskog administratora u ISGE-u:
+• Korisnici – upravljanje bazom korisnika; uređivanje, dodjeljivanje dostupnosti podacima, praćenje aktivnosti, uređivanje uloga.
+• Objekti – otvaranje novih objekata, uređivanje mjernih mjesta, dodjeljivanje dostupnosti podacima.
+• Praćenje – analiza izravnog upisa mjesečne potrošnje, ručnog unosa mjesečne i tjedne potrošnje energenata i vode, kontrola rada uređaja za daljinsko mjerenje (satna potrošnja).
+• Analiza i izvještavanje – ispunjavanje obveza Energetskog savjetnika kroz predefinirane master filtre, module statistike, izvještavanja, grafičke i tablične analize unutar ISGE-a i ostalih aplikacija (MS Office, ..).
+Energetski administrator izvještava Agenciju/Administratora sustava po polugodišnjem razdoblju, do kraja kolovoza i veljače za polugodišnja razdoblja siječanj-lipanj i srpanj-prosinac protekle godine:
+• O sumarnom statusu praćenja potrošnje na svim mjernim mjestima u ISGE-u; predefinirani Izvještaji po

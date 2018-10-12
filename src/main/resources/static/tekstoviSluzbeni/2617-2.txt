@@ -1,0 +1,25 @@
+ izdvajanje u tekućem razdoblju.
+Izdvajanje deviznog dijela obvezne pričuve
+27. Postotak izdvajanja deviznog dijela obvezne pričuve određen je točkom X. stavkom 2. Odluke.
+Obveza u stranoj valuti izračunava se primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi na dan obračuna obvezne pričuve.
+28. Valuta namire deviznog dijela obvezne pričuve jest tri radna dana nakon dana obračuna obvezne pričuve.
+29. Izdvajanje deviznog dijela obvezne pričuve izvršava se prenošenjem tih sredstava na eurski i/ili dolarski račun Hrvatske narodne banke u inozemstvu te na devizni eurski račun Hrvatske narodne banke za namiru na datum valute namire deviznog dijela obvezne pričuve iz točke 28. ove Upute.
+Hrvatska narodna banka dostavit će bankama koje izvršavaju obvezu izdvajanja deviznog dijela obvezne pričuve za sebe ili za sebe i za račun drugih banaka, standardne instrukcije plaćanja (»Standard Payment Instructions«) za uplate deviznog dijela obvezne pričuve, koje će vrijediti za sva buduća izdvajanja deviznog dijela obvezne pričuve. »Standard Payment Instructions« Hrvatska narodna banka može mijenjati, a pri svakoj će promjeni bankama pravodobno pismenim putem dostaviti nove »Standard Payment Instructions«.
+Udjele izdvajanja deviznog dijela obvezne pričuve u svakoj od navedenih valuta banke same određuju u postotnom iznosu, kako je navedeno u obrascu DOP 1/1.
+Iznosi izdvajanja deviznog dijela obvezne pričuve u eurima i američkim dolarima zaokružuju se na tisućice.
+30. Ako je devizni dio obvezne pričuve izdvojen u prethodnom obračunskom razdoblju u eurima i/ili američkim dolarima veći od deviznog dijela obvezne pričuve obračunate za izdvajanje u tekućem razdoblju u eurima i/ili američkim dolarima, Hrvatska narodna banka vratit će banci razliku između tih iznosa u eurima i/ili američkim dolarima. U protivnom banka će na račune Hrvatske narodne banke uplatiti razliku između deviznog dijela obvezne pričuve izdvojenog u prethodnom razdoblju u eurima i/ili američkim dolarima i obračunatoga deviznog dijela obvezne pričuve za izdvajanje u tekućem razdoblju u tim valutama.
+Prebijati se mogu samo iznosi u istoj valuti izdvajanja.
+31. Štedne banke izvršavaju obvezu izdvajanja deviznog dijela obvezne pričuve preko banaka. Ostale banke također mogu obvezu izdvajanja obvezne pričuve izvršavati preko drugih banaka.
+Banka koja izdvaja devizni dio obvezne pričuve za drugu banku, dužna je nalog banke za koju izdvaja devizni dio obvezne pričuve u cijelosti provesti samostalno.
+32. Obrazac DOP 3/1 popunjava banka koja obvezu izdvajanja deviznog dijela obvezne pričuve izvršava preko drugih banaka.
+Banka iz prethodnog stavka dužna je na obrascu DOP 3/1 navesti:
+1. nazive i sjedišta banaka preko kojih izvršava uplatu odnosno preko kojih se izvršava povrat deviznog dijela obvezne pričuve,
+2. iznos deviznog dijela obvezne pričuve koji će preko pojedine banke biti uplaćen odnosno vraćen i
+3. ukupan iznos deviznog dijela obvezne pričuve koji će biti uplaćen odnosno vraćen.
+33. Obrazac DOP 3/2 popunjava banka koja izdvaja devizni dio obvezne pričuve za sebe ili za sebe i za račun drugih banaka.
+Banka iz prethodnog stavka dužna je na obrascu DOP 3/2 navesti:
+1. nazive i sjedišta banaka za koje izvršava uplatu odnosno kojima se izvršava povrat deviznog dijela obvezne pričuve,
+2. iznos deviznog dijela obvezne pričuve koji će biti uplaćen odnosno vraćen za pojedinu banku iz prethodne točke,
+3. iznos deviznog dijela obvezne pričuve koji će banka uplatiti za sebe odnosno koji će biti vraćen njoj i
+4. ukupan iznos deviznog dijela obvezne pričuve koji će banka iz stavka 1. ove točke uplatiti ili koji će banci iz stavka 1. ove točke biti vraćen, a koji je jednak zbroju svih pojedinačnih uplata umanjenih za zbroj svih pojedinačnih povrata iz podstavaka 2. i 3. ove točke.
+34. Banke koje izdvajaju devizni dio obvezne pričuve za sebe ili za sebe i za račun drugih banaka dostavljaju »Standard Payment Instructions« Hrvatskoj narodnoj banci za povrat izdvojenih sredstava

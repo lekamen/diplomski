@@ -1,0 +1,33 @@
+ mjera i aktivnosti.
+(2) Agencija za plaćanja je dužna izvijestiti Nadležno tijelo o provođenju mjera i aktivnosti iz stavka 1. ovoga članka u roku 15 dana od proteka određenog roka.
+Odluka o uvjetnoj akreditaciji
+Članak 32.
+(1) Ako na temelju izvješća Tijela za ovjeravanje i drugih vanjskih revizora ili vlastitim nadzorom Nadležno tijelo utvrdi da je Agencija za plaćanja prestala ispunjavati jedan ili više akreditacijskih kriterija ili ih ispunjava tako da to utječe na njezinu sposobnost izvršavanja zadaća iz članka 4. ovoga Pravilnika, posebna ustrojstvena jedinica Nadležnog tijela će predložiti ministru nadležnom za poljoprivredu donošenje odluke o uvjetnoj akreditaciji u skladu s odredbom članka 2. stavka 3. Provedbene uredbe Komisije (EU) br. 908/2014.
+(2) Kada ministar nadležan za poljoprivredu donese odluku o uvjetnoj akreditaciji, posebna ustrojstvena jedinica Nadležnog tijela dostavlja Agenciji za plaćanja plan za otklanjanje utvrđenih nedostataka i izvješćuje Europsku komisiju u skladu s odredbom članka 2. stavka 3. Provedbene uredbe Komisije (EU) br. 908/2014.
+4. POVLAČENJE AKREDITACIJE
+Članak 33.
+(1) Ako posebna ustrojstvena jedinica Nadležno tijelo utvrdi da Agencija za plaćanja nije provela mjere i aktivnosti iz članka 32. ovoga Pravilnika u određenom roku ili da više ne ispunjava akreditacijske kriterije, predložit će ministru nadležnom za poljoprivredu donošenje odluke o povlačenju akreditacije.
+(2) O povlačenju akreditacije Nadležno tijelo obavještava Europsku komisiju u roku osam dana od dana donošenja odluke.
+(3) U cilju osiguranja kontinuiteta isplata potpora korisnicima u slučaju povlačenja akreditacije, Nadležno tijelo akreditira drugu pravnu osobu za plaćanja u poljoprivredi u skladu s odredbama ovoga Pravilnika.
+(4) Na drugu pravnu osobu iz stavka 3. ovoga članka primjenjuju se svi uvjeti i postupak akreditacije propisan ovim Pravilnikom.
+5. ZAVRŠNE ODREDBE
+Članak 34.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o akreditaciji Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (»Narodne novine« br. 40/11 i 96/13).
+Članak 35.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/67 Urbroj: 525-03/0796-15-1 Zagreb, 27. studenoga 2015.
+Ministar Tihomir Jakovina, v. r.
+PRILOG I.
+OCJENA SUSTAVA UNUTARNJE KONTROLE/SUKLADNOSTI S AKREDITACIJSKIM KRITERIJIMA I IZVJEŠĆIVANJE
+
+Za Agenciju za plaćanja u izvješću je potrebno razlikovati različite sustave kontrole i to kako slijedi:
+1) Programi u okviru EFJP-a[1] obuhvaćeni sustavom IAKS, – Matrica br. 1;
+2) Programi u okviru EFJP-a[2] koji nisu obuhvaćeni IAKS-om, – Matrica br. 2;
+3) Programi u okviru EPFRR-a obuhvaćeni IAKS-om, – Matrica br. 3;
+4) Programi u okviru EPFRR-a koji nisu obuhvaćeni IAKS-om, – Matrica br. 4.
+■ Ocjena akreditacijskih kriterija
+Ukupan zaključak o sustavu unutarnje kontrole (SUK) donosi se na temelju ocjene oblika i postojanja kontrola te ocjene provedbene učinkovitosti SUK-a.
+Ocjena se donosi na dvjema razinama:
+(1) Ocjena kriterija procjene (mjerilo funkcije Agencije za plaćanja u odnosu na akreditacijsku komponentu). Svaki se kriterij procjene ponderira kako slijedi: 10% – organizacija, 5% – delegiranje, ljudski potencijali, komunikacija, unutarnja revizija; 10% – trajno praćenje; sustav informacijske sigurnosti i 50% – kontrolne aktivnosti (uključujući IT aplikaciju i delegirane kontrole). Ako nema delegiranja, odgovarajući se ponder prenosi na »organizaciju«.
+Ukupna ocjena na razini SUK-a ponderirana kako slijedi: potvrđivanje operacija, odobravanje plaćanja 40% (administrativne kontrole: 20%, kontrole na terenu 20%); izvršenje plaćanja – 15%; računovodstvo – 15%; predujmovi i jamstva – 10% te nepravilnosti/upravljanje dugovanjima – 20%. Ako nema »predujmova i jamstava«, odgovarajući se postotak dijeli na računovodstvo (5%) i izvršenje plaćanja (5%).
+Ocjena utvrđena po provjeri sukladnosti s akreditacijskim kriterijima navodi se u matrici upotrebom sljedećih 

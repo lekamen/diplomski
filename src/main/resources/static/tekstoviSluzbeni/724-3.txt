@@ -1,0 +1,42 @@
+ sustava eSpis
+Članak 14.
+(1) Službenik sudske pisarnice dužan je prilikom osnivanja spisa u sustav eSpis ažurno i na pravilan način unositi točne i potpune podatke te odgovorno postupati sa spisom.
+(2) Službenik sudske pisarnice dužan je prilikom rada na spisu u sustavu eSpis postupati u skladu s dostavnom i drugom naredbom koja je unesena u sustav eSpis.
+5.6. Dužnosti službenika pisarnice sudske uprave kao korisnika sustava eSpis
+Članak 15.
+(1) Službenik pisarnice sudske uprave dužan je prilikom osnivanja spisa u sustav eSpis ažurno i na pravilan način unositi točne i potpune podatke te odgovorno postupati sa spisom.
+(2) Službenik pisarnice sudske uprave dužan je prilikom rada na spisu u sustavu eSpis postupati u skladu s dostavnom i drugom naredbom koja je unesena u sustav eSpis.
+5.7. Dužnosti i ovlasti ključnog korisnika
+Članak 16.
+(1) Ključni korisnik je sudac ili sudski službenik određenog suda koji je godišnjim rasporedom poslova raspoređen za obavljanje poslova ključnog korisnika na tom sudu.
+(2) Dužnosti i ovlasti ključnog korisnika:
+1. sudjeluje u analizi poslovnih procesa te razvoju internih edukacijskih sadržaja,
+2. prikuplja detaljna znanja o funkcionalnostima i mogućnostima eSpisa,
+3. pomaže u razjašnjenju utjecaja eSpisa na promjene postupanja i surađuje s projektnim timom u nadziranju utjecaja,
+4. redovito educira korisnike vezano za korištenje novih funkcionalnosti u sustavu eSpis,
+5. pohađa edukacije za edukatore,
+6. aktivno sudjeluje u edukaciji krajnjih korisnika,
+7. predstavlja prvu razinu eSpis podrške u svojoj okolini te kontaktira korisničku službu u slučaju potrebe.
+5.8. Dužnosti službenika sudskog arhiva kao korisnika sustava eSpis
+Članak 17.
+Službenik sudskog arhiva dužan je pravovremeno i ažurno arhivirati spise u sustavu eSpis, pratiti rokove čuvanja tih spisa te evidentirati svaku radnju koja je u arhiviranom spisu poduzeta nakon arhiviranja.
+5.9. Dužnosti druge osobe ovlaštene od predsjednika suda za rad u sustavu eSpis
+Članak 18.
+Druga osoba koju godišnjim rasporedom poslova određuje predsjednik suda dužna je i odgovorna u sustavu eSpis postupati na način propisan za obavljanje poslova na koji je raspoređena, koristeći pri tomu isključivo svoje dodijeljeno korisničko ime i lozinku.
+6. Službena osoba ovlaštena za uvid u podatke sustava eSpis određenog suda
+Članak 19.
+(1) Službena osoba ovlaštena za uvid u podatke sustava eSpis određenog suda je zaposlenik tog ili drugog suda, koji nije ovlašten za unos i promjene podataka o predmetima, ali ima ovlaštenje za uvid u podatke na temelju ovlaštenja predsjednika suda te dodijeljene uloge i ovlaštenja u sustavu eSpis.
+(2) Osoba iz stavka 1. ovog članka ovlaštena je za uvid u podatke sustava eSpis bez mogućnosti promjene podataka.
+7. Službena osoba ovlaštena za uvid u podatke sustava eSpis
+Članak 20.
+(1) Službena osoba ovlaštena za uvid u podatke sustava eSpis je ovlašteni službenik ministarstva nadležnog za poslove pravosuđa koji u okviru djelokruga svojih poslova ima obvezu obavljati nadzor i pratiti rad sudova koji rade u sustavu eSpis.
+(2) Osoba iz stavka 1. ovog članka ovlaštena je za uvid u podatke sustava eSpis bez mogućnosti promjene podataka.
+8. Vanjski korisnik sustava eSpis
+Članak 21.
+(1) Vanjski korisnik sustava eSpis je osoba koja ima pravo na ograničen uvid u podatke sustava eSpis u spisu u kojem učini vjerojatnim postojanje opravdanog interesa. Vanjski korisnik može biti javni bilježnik, odvjetnik, Financijska agencija te ostale osobe propisane posebnim zakonom.
+(2) Osoba iz stavka 1. ovog članka ovlaštena je za uvid u podatke sustava eSpis bez mogućnosti promjene podataka.
+III. NADLEŽNOST MINISTARSTVA NADLEŽNOG ZA POSLOVE PRAVOSUĐA ZA SUSTAV eSpis
+Članak 22.
+(1) Ministarstvo nadležno za poslove pravosuđa ovlašteno je provoditi nadzor nad primjenom i korištenjem sustava eSpis na sudovima.
+(2) Ministarstvo nadležno za poslove pravosuđa osigurava potrebne tehničke preduvjete za:
+1. provedbu mjera osiguranja, pohranjivanja i zaštite podataka 

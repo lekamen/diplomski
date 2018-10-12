@@ -1,0 +1,28 @@
+ brzini vrtnje motora ne smiju prelaziti vrijednost propisanu od strane proizvođača vozila. Povećana brzina vrtnje motora mora biti propisana od strane proizvođača vozila. Ako podaci proizvođača nisu poznati, sadržaj ugljičnog monoksida (CO) i vrijednost faktora zraka (λ) ne smiju prelaziti:
+a) CO ≤ 0,5% volumnih udjela, pri temperaturi ulja u motoru od najmanje 80 °C (ili radnoj temperaturi motora) i brzini vrtnje motora na praznom hodu, odnosno CO ≤ 0,3 % volumnih udjela pri istim uvjetima rada ako je vozilo proizvedeno 2002. godine ili ranije
+b) CO ≤ 0,3% volumnih udjela, λ = 1,00 ± 0,03, pri temperaturi ulja u motoru od najmanje 80 °C (ili radnoj temperaturi motora) i brzini vrtnje motora od 2500 do 3000 min-1, odnosno CO ≤ 0,2 % volumnih udjela pri istim uvjetima rada ako je vozilo proizvedeno 2003. godine ili kasnije.
+3) Dizelski motori – nakon što je motor postigao radnu temperaturu propisanu od strane proizvođača vozila, srednji koeficijent zacrnjenja ispušnog plina (k) nakon tri ili više slobodnih ubrzanja neopterećenog motora od brzine vrtnje na praznom hodu do najveće brzine vrtnje ne smije prelaziti vrijednost propisanu od strane proizvođača vozila. Ako podaci proizvođača o srednjem koeficijentu zacrnjenja i radnoj temperaturi motora nisu poznati, onda srednji koeficijent zacrnjenja ispušnog plina k ne smije prelaziti vrijednost:
+a) k ≤ 2,50 m-1, pri temperaturi ulja u motoru od najmanje 80 °C ili normalnoj radnoj temperaturi motora (za motore bez prednabijanja)
+b) k ≤ 3,00 m-1, pri temperaturi ulja u motoru od najmanje 80 °C ili normalnoj radnoj temperaturi motora (za motore s prednabijanjem)
+c) k ≤ 1,50 m-1, pri temperaturi ulja u motoru od najmanje 80 °C ili normalnoj radnoj temperaturi motora (za vozila/motore proizvedene nakon 2009. godine, osim vozila ekološke kategorije Euro 6 / Euro VI)
+d) k ≤ 0,7 m-1, pri temperaturi ulja u motoru od najmanje 80 °C ili normalnoj radnoj temperaturi motora za dizelska vozila ekološke kategorije Euro 6 / Euro VI.
+(2) Količine štetnih tvari iz stavka 1. ovoga članka ne odnose se na:
+a) vozila opremljena s benzinskim dvotaktnim motorima
+b) vozila opremljena benzinskim motorima ako su proizvedena prije 1970. godine
+c) vozila opremljena benzinskim motorima ako im konstrukcijska brzina nije veća od 50 km/h
+d) vozila opremljena dizelskim motorima ako su proizvedena prije 1980. godine
+e) vozila opremljena dizelskim motorima ako im konstrukcijska brzina nije veća od 30 km/h
+f) vozila s alternativnim pogonskim motorom ili izvorom energije (vodik, metan, propan-butan, gorive ćelije, alkohol i sl.)
+g) starodobna vozila (oldtimere)
+h) vojna vozila oružanih snaga Republike Hrvatske kategorije M2, M3 i N.
+Članak 84.
+(1) Najviše granice dopuštene razine vanjske buke iz ispušnih sustava za vozila kategorije M i N ne smiju prelaziti vrijednosti propisane u Direktivi 70/157/EEC.
+(2) Vozila kod kojih, u vrijeme njihovog puštanja u promet ili proizvodnje, nisu postojali propisani uvjeti na razinu buke iz ispušnih sustava, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+(3) Ukoliko se mjeri stacionarna emisija buke ispušnog sustava vozila kategorija M ili N, mjerenje se obavlja uređajem za mjerenje buke koji je najmanje klase II i u skladu s postupkom iz norme ISO 5130:2007. Izmjerena emisija buke ispušnog sustava ne smije biti veća od 5 dB(A) u odnosu na dopuštenu razinu buke u stacionarnim uvjetima koju propisuje proizvođač.
+(4) Ukoliko ne postoje podaci o dopuštenoj razini buke u stacionarnim uvjetima koju propisuje proizvođač, najviša dopuštena razina buke, kada se mjeri prema postupku iz stavka 3. ovoga članka, iznosi 105 dB(A).
+(5) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 85.
+Instalacije koje sadrže pogonske tekućine vozila (gorivo, ulje, rashladna tekućina, kočna tekućina, itd.) ne smiju propuštati te tekućine u okoliš.
+11. Uređaj za spajanje vučnog i priključnog vozila
+Članak 86.
+(1) Uređaj za spajanje vučnog i

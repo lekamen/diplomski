@@ -1,0 +1,34 @@
+ korištenje uključujući upotrebu pripadajuće opreme;
+.4 zahtjeve za održavanje.
+6.12 PLUTAJUĆE NAPRAVE
+6.12.1 Općenito
+Sve plutajuće naprave moraju:
+.1 biti dobre izvedbe i materijala;
+.2 biti tako izvedene da zadržavaju svoj oblik i svojstva kada su izložene vre-menskim nepogodama na brodu kao i u vodi. Moraju biti tako izvedene da ne zahtijevaju ugađanje (podešavanje) prije upotrebe; i
+.3 biti otporne na djelovanje korozije, morske vode, nafte i naftnih derivata.
+6.12.2 Izvedba
+6.12.2.1 Plutajuća naprava mora biti tako izvedena da izdrži bacanje u vodu s visine od 10 metara. Ako se plutajuća naprava mora postaviti na visini koja prelazi 10 metara iznad vodne linije za stanje praznog broda koje odgovara najmanjem operativnom gazu, ona mora udovoljavati zahtjevima ispitivanja na bacanje najmanje s iste visine.
+6.12.2.2 Plutajuća naprava mora biti upotrebljiva i stabilna bez obzira na kojoj strani pluta. Naprava mora biti u mogućnosti držati masu željeza od 22,5 kg po metru uzduž ruba, ovješenu za uže u slatkoj vodi, a da ni jedan dio gornjih površina plutajuće naprave ne uroni.
+6.12.2.3 Zračne komore i istovrijedna plutala moraju biti smješteni što je moguće bliže bokovima naprave. Sposobnost plutanja ne smije ovisiti o napuhavanju. Plutajući materijal ne smije biti podložan štetnom djelovanju nafte i naftnih derivata.
+6.12.2.4 Plutajuća naprava ne smije prijeći težinu od 185 kg, osim ako su predviđena sredstva za njeno spuštanje a da se ne podiže ručno. Ako težina naprave prelazi 135 kg, moraju se postaviti odgovarajuće ručke ili prečke u tu svrhu.
+6.12.2.5 Broj osoba za koji je odobrena plutajuća naprava mora biti jednak manjem od:
+.1 najvećeg cijelog broja koji se dobije diobom broja kilograma željeza koje može naprava držati u slatkoj vodi s 14,5; ili
+.2 najvećeg cijelog broja koji se dobije diobom opsega plutajuće naprave (u metrima) s 0,3.
+6.12.3 Oprema plutajuće naprave
+6.12.3.1 Konopac za pridržavanje
+.1 Plutajući konopac za pridržavanje mora biti pričvršćen oko plutajuće naprave tako da tvori vijence, i da osigurava broj ručki jednak broju osoba kose za napravu mogu prihvatiti.
+.2 Svaka ručka mora imati dubinu najmanje 150 mm, ali ne iznad 200 mm.
+Plutajuća naprava čija visina prelazi 300 mm mora imati dva reda konopaca za pridržavanje od kojih jedan mora imati mjesta pričvršćenja ispod gornjeg dijela zračnih komora, a drugi iznad donjeg dijela zračnih komora što je moguće bliže bokovima zračnih komora. Plutajuća naprava visine 300 mm ili manje mora imati jedan konopac za pridržavanje koji treba biti pričvršćen na polovici visine.
+.3 Konopci za pridržavanje moraju biti plutajući promjera ne manjeg od 14 mm. Oni se mogu pričvrstiti na plutajuću napravu tako da prolaze kroz otvore u orebrenju i da su prepleteni da se spriječi gibanje, ili pričvršćeni stezačima od čelika ili kovanog željeza.
+Bilo koji način pričvršćenja mora osigurati dovoljnu čvrstoću koja je potrebna za podizanje plutajuće naprave pomoću konopaca za pridržavanje.
+6.12.3.2 Plutajuća naprava mora imati privezaljku duljine najmanje jednake visini od mjesta na kojem se nalazi do vodne linije za stanje najmanjeg operativnog gaza broda, plus 5 metara.
+6.12.3.3 Na svim površinama plutajuće naprave mora se postaviti retroreflektirajući materijal u skladu s IMO Rezolucijom A.658(16).
+6.12.4 Označavanje plutajuće naprave
+Svaka plutajuća naprava mora imati označeno:
+.1 naziv proizvođača ili trgovački naziv;
+.2 serijski broj;
+.3 dopušteni broj osoba koje može prihvatiti;
+.4 najveću dopuštenu visinu smještanja iznad vodne linije.
+6.13 BRODICE ZA SPAŠAVANJE
+6.13.1 Izvedba brodica za spašavanje
+6.13.1.1 Izvedba, oblik i odnos glavnih dimenzija brodice za spašavanje moraju osigurati dovoljan stabilitet na valovima i nadvođe kada je opterećena dopuštenim brojem osoba i cjelokupnom opremom i mora se moći sigurno spustiti u nepovoljnim uvjetima trima do 10° i nagiba do 20° na bilo koju stranu broda. Brodice za spašavanje moraju imati čvrsti trup i moraju imati pozitivan 

@@ -1,0 +1,26 @@
+(1A), pasivi (B) te koeficijenata likvidnosti (C).
+b) Oslanjanje na izvore financiranja – Drugi dio obuhvaća četiri područja projekcija povezanih s izvorima financiranja, sa sljedećim ciljevima:
+– utvrđivanje i procjena specifičnih izvora financiranja i njihovih promjena. Ovaj dio obuhvaća projekcije o oslanjanju na specifične izvore financiranja (2A) koje obuhvaćaju osigurane i neosigurane depozite te neosigurane financijske instrumente slične depozitima (2A1), izvore financiranja iz javnog sektora (2A2) i projekcije inovativnih struktura financiranja (2A3).
+– procjena izvedivosti planiranog financiranja s cjenovnog stajališta. Ovaj dio obuhvaća projekcije prinosa i troškova sa stajališta određivanja cijena (2B) koje obuhvaća područja prinosa na kreditnu aktivu (2B1) i troškova financiranja po depozitima (2B2).
+– utvrđivanje i procjena neusklađenosti financiranja u određenim valutama. Ovaj dio obuhvaća projekcije određivanja elemenata podijeljenih u pojedinačno najveće značajne valute (2C).
+– procjena izvedivosti planiranog financiranja kada je institucija suočena sa značajnim restrukturiranjem svoje bilance. Ovaj dio obuhvaća projekcije o planovima za restrukturiranje aktive i pasive (2D) koje obuhvaćaju projekcije o stjecanju, prodaji i/ili otplati aktive (2D1) i projekcije o stjecanju, prodaji i/ili otplati obveza (2D2).
+c) Obuhvat – Treći dio za cilj ima stjecanje detaljnog opisa članica koje su obuhvaćene konsolidacijom za izradu planova financiranja. Ovaj dio obuhvaća popis jedinstvenih identifikacijskih oznaka pravnih osoba obuhvaćenih planom financiranja.
+d) Bilješke – Četvrti dio za cilj ima dodatnu razradu pojedinih stavki obrazaca obuhvaćenih u prve tri skupine obrazaca ovog okvira izvješćivanja o planovima financiranja zbog dodatnih potreba praćenja planova karakterističnih za domaće nacionalno tržište.
+1.2. Pravilo označivanja brojevima
+Pri upućivanju na stupce, retke i ćelije obrazaca u dokumentu se poštuju pravila označivanja iz tablice u nastavku. Te se brojčane oznake u velikoj mjeri upotrebljavaju u pravilima vrednovanja.
+U uputama se primjenjuje sljedeća opća bilješka: {obrazac;redak; stupac}.
+U slučaju vrednovanja u okviru obrasca, u kojemu se upotrebljavaju samo podatkovne točke tog obrasca, bilješkama se ne upućuje na obrazac: {redak;stupac}.
+1.3. Pravilo o dostavljanju iznosa
+Pri dostavljanju izvješća u obliku dokumenta u excelu ili telekomunikacijskim putem (ili na magnetnom mediju) svi iznosi u novčanim jedinicama navode se u punom iznosu (kune i lipe).
+Svi iznosi koji su iskazani u obrascu iz ove Odluke trebaju biti usklađeni s drugim izvješćima dostavljenima Hrvatskoj narodnoj banci.
+Kreditna institucija ne upisuje iznose za pozicije obrasca koje su osjenčane.
+Svaki iznos kojim se povećava iznos u redcima iskazuje se kao pozitivna vrijednost. Nasuprot tome, svaki iznos kojim se smanjuje iznos u redcima iskazuje se kao negativna vrijednost. Ako negativan predznak (–) prethodi oznaci stavke, očekuje se da se za tu stavku neće iskazivati pozitivne vrijednosti.
+Podatke u obrascima treba projicirati za razdoblje od tri godine: u šestomjesečnoj frekvenciji za prvu godinu, a za svaku sljedeću godinu na godišnjoj frekvenciji. Iznimke su redak 030 i 040 obrasca 1C (LCR) te obrazac 2B1 i 2B2 (Određivanje cijena), čiji podaci zahtijevaju projekcije za razdoblje od jedne godine.
+Iznimno, o projiciranim stavkama podataka za prvo izvještajno razdoblje sa stanjem na dan 30. lipnja 2015. potrebno je izvijestiti na način da:
+– planirane šestomjesečne pozicije odgovaraju za stupac prosinac 2015.;
+– planirane pozicije za 1. godinu odgovaraju za stupac prosinac 2016.;
+– planirane pozicije za 2. godinu odgovaraju za stupac prosinac 2017.
+Napomena: 1. i 2. godina izračunate su s obzirom na kalendarske godine, a ne za jednogodišnje razdoblje koje je počelo od referentnog datuma.
+1.4. Pravilo o dostavljanju zaglavlja
+U zaglavlju izvješća navode se sljedeći podaci:
+Naziv kreditne institucije – u nekonsolidiranim izvješćima 

@@ -1,0 +1,27 @@
+ spašavanje; takva splav za spašavanje mora se jasno označiti.
+2.13.7 Upisi
+Datum kad su održane smotre, podaci o vježbama napuštanja broda i protupožarnim vježbama, vježbama s drugim sredstvima za spašavanje i o obuci na brodu, moraju se upisati u brodski dnevnik koji odredi Administracija. Ako se nije održala potpuna smotra, vježba ili obuka u predviđeno vrijeme, u dnevnik se moraju navesti okolnosti i upisati opseg održane smotre, vježbe ili obuke.
+2.14 SPREMNOST ZA KORIŠTENJE, ODRŽAVANJE I PREGLEDI
+Zahtjevi ovog odjeljka odnose se na sve brodove.
+2.14.1 Brodovi građeni prije 1. srpnja 1986. moraju udovoljiti zahtjevima navedenim u 2.14.3.2, 2.14.3.3 i 2.14.6.1.2, koliko je to praktički izvodljivo.
+2.14.2 Spremnost za korištenje
+Prije nego što brod isplovi i za cijelo vrijeme plovidbe, sva sredstva za spašavanje moraju biti ispravna i odmah spremna za korištenje.
+2.14.3 Održavanje
+.1 Održavanje, ispitivanja i pregledi sredstava za spašavanje moraju se obavljati u skladu sa smjernicama IMO MSC.1/Circ. 1206/Rev.1 (vidi Dopunu br. 1) s ciljem da se osigura pouzdanost tih sredstava.
+.2 Na brodu moraju postojati upute za održavanje sredstava za spašavanje, u skladu sa 7.2, i tih se uputa treba pridržavati.
+.3 RO može prihvatiti, umjesto uputa iz točke 2.14.3.2, planirani program održavanja koji obuhvaća zahtjeve navedene u 7.2.
+2.14.4 Održavanje užadi za zavješenje
+2.14.4.1 Užad za zavješenje koja se koristi za spuštanje, mora se periodički pregledavati, posebno površine koje prolaze kroz koloturnike, i zamjeniti ako je to zbog istrošenosti potrebno, ili ih zamijeniti u razmacima ne duljim od 5 godina, prema tome što je kraće.
+2.14.5 Rezervni dijelovi i oprema za popravak
+2.14.5.1 Rezervni dijelovi i oprema za popravak moraju se predvidjeti za sredstva za spašavanje i njihove dijelove koji su podložni trošenju, i mora ih se redovito mijenjati.
+2.14.6 Tjedni pregled
+2.14.6.1 Sljedeća ispitivanja i pregledi se moraju obavljati jednom tjedno a izvještaj o izvršenim pregledima mora se unijeti u Brodski dnevnik:
+.1 sva plovila za preživljavanje, brodice za prikupljanje i uređaji za spuštanje moraju se vizualno pregledati, da se utvrdi jesu li spremni za korištenje. Pregledom se mora utvrditi, ali se ne smije ograničiti samo na, u kakvom su stanju kuke, njihovo pričvršćenje za brodicu za spašavanje i je li uređaj za otpuštanje ispravno i u potpunosti resetiran;
+.2 svi motori u brodicama za spašavanje i brodicama za prikupljanje moraju se uputiti i raditi najmanje 3 min. ako je okolna temperatura viša od najniže temperature potrebne za upućivanje i rad motora. Za to vrijeme mora se pokazati da kopča ispravno radi. Ako posebne karakteristike izvanbrodskog motora na brodici za prikupljanje ne dopuštaju rad motora na drugi način osim ako je porivni vijak uronjen 3 min., mora se predvidjeti odgovarajuće snabdjevanje vodom. U posebnim slučajevima RO može odbaciti ovaj zahtjev za brodove građene prije 1. srpnja 1986.;
+.3 ako vremenski uvjeti i stanje mora to omogućava, brodice za spašavanje, osim brodica za spašavanje koje se spuštaju slobodnim padom, na teretnim brodovima moraju se pomaknuti iz položaja morskog veza, bez osoba u njima, da se pokaže da uređaj za spuštnje ispravno radi; i
+.4 mora se ispitati opći sustav uzbune u nuždi.
+2.14.7 Mjesečni pregledi
+2.14.7.1 Ako vremenski uvjeti i stanje mora to omogućava, brodice za spašavanje, osim brodica za spašavanje koje se spuštaju slobodnim padom, moraju se pomaknuti iz položaja morskog veza, bez osoba u njima.
+2.14.7.2 Pregled sredstava za spašavanje, uključujući opremu brodica za spašavanje, mora se obaviti jednom mjesečno, upotrijebivši kontrolni popis naveden u 7.3.1, da se utvrdi jesu li ona potpuna i u dobrom stanju. Izvještaj o pregledu mora se upisati u Brodski dnevnik.
+2.14.8 Pregled samonapuhavajućih splavi za spašavanje, napuhavajućih prsluka za spašavanje, sustava za napuštanje broda i održavanje i popravak napuhavajućih brodica za prikupljanje.
+2.14.8.1 Svaka samonapuhavajuća

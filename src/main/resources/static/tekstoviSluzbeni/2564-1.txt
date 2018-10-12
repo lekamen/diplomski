@@ -1,0 +1,30 @@
+i izmijenjene odredbe
+Odredbe Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR primjenjuju se kod upotrebe internetskog pristupa uz sljedeće izmjene i dopune:
+1. Članak 2. zamjenjuje se sljedećim:
+»Članak 2.
+Dodaci
+1. Sastavni dio ove Odluke čine:
+Dodatak I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa: Tehničke specifikacije za obradu naloga za plaćanje za internetski pristup
+Dodatak II.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa: Popis naknada i izdavanje računa za internetski pristup
+Dodatak II. ove Odluke: Program za naknadu štete u sustavu TARGET2
+Dodatak III. ove Odluke: Referentni okvir za mišljenja o sposobnosti i o državi
+Dodatak IV. ove Odluke (osim točke 7. pod (b)): Postupak neprekinutog poslovanja i postupak pri nepredvidivim događajima
+Dodatak V. ove Odluke: Raspored rada i
+Dodatak VII. ove Odluke: Mjerila za pristup.
+2. U slučaju bilo koje proturječnosti ili nedosljednosti između sadržaja bilo kojeg Dodatka iz stavka 1. ovog članka i sadržaja bilo koje odredbe ove Odluke ili Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa te Odluke imaju prednost.
+3. Ova Odluka zajedno s Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i dodacima iz stavka 1. ovog članka predstavlja opće uvjete za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa.
+4. Ova Odluka i njezini dodaci zajedno s Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i njezinim dodacima, Odlukom o uvjetima za otvaranje i funkcioniranje namjenskog gotovinskog računa u sustavu TARGET2-HR i njezinim dodacima i Odlukom o postupcima namire za sporedne sustave čine Pravila rada sustava TARGET2-HR.«
+2. Članak 4. mijenja se kako slijedi:
+(a) Stavak 1. zamjenjuje se sljedećim:
+»1. Sustav TARGET2 omogućava namiru plaćanja u eurima u realnom vremenu na bruto načelu, s namirom u novcu središnje banke preko PM računa.«.
+(b) Stavak 2. zamjenjuje se sljedećim:
+»2. Sljedeći nalozi za plaćanje obrađuju se u sustavu TARGET2-HR:
+(a) namira prijenosa u eurima koji proizlaze iz transakcija u prekograničnim sustavima netiranja za plaćanja velikih vrijednosti,
+(b) namira prijenosa u eurima koji proizlaze iz transakcija u sistemski važnim sustavima plaćanja malih vrijednosti u eurima i
+(c) svi drugi nalozi za plaćanje u eurima naslovljeni na sudionike sustava TARGET2.«
+(c) Iza stavka 2. dodaje se sljedeći stavak 2.a:
+»2.a Internetski sudionici iz tehničkih razloga ne mogu davati naloge za prijenos likvidnosti s PM-a na DCA.«.
+(d) Stavak 4. zamjenjuje se sljedećim:
+»4. Hrvatska narodna banka je pružatelj usluga prema ovoj Odluci. Radnje i propusti nacionalnih središnjih banaka pružatelja SSP-a i/ili tijela za certificiranje uzimaju se radnjama i propustima Hrvatske narodne banke za koje ona preuzima odgovornost u skladu s člankom 31. ove Odluke. Sudjelovanje u skladu s ovom Odlukom ne stvara ugovorni odnos između sudionika i nacionalnih središnjih banaka pružatelja SSP-a kada one djeluju u tom svojstvu. Upute, poruke ili informacije koje sudionik primi od SSP-a ili ih pošalje SSP-u u vezi s uslugama pruženima na temelju ove Odluke smatraju se poslanima od Hrvatske narodne banke ili poslanima Hrvatskoj narodnoj banci.«.
+(e) Stavak 6. zamjenjuje se sljedećim:
+»6. Sudjelovanje u sustavu TARGET2 odvija se na temelju sudjelovanja u komponenti sustava TARGET2. Ovom Odlukom uređuju se međusobna prava i obveze imatelja PM računa u sustavu TARGET2-HR i Hrvatske narodne banke. Pravila o obradi naloga za plaćanje (glava IV. ove Odluke) odnose se na sve naloge za plaćanje koje podnese i na

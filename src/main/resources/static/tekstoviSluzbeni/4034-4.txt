@@ -1,0 +1,36 @@
+ Broj ribolovnih dana po plovilu za koje se traži potpora 61 – 100 10 101 – 120 12 121 – 140 14 >141 16 Veći iznos vlastitih uloženih sredstava za ulaganje za koje se traži potpora Za iznos vlastitih sredstava u ukupnom ulaganju od 40.000,00 kuna do 70.000,00 kuna 4 Za iznos vlastitih sredstava u ukupnom ulaganju 70.000,01 do 100.000,00 kuna 6 Za iznos vlastitih sredstava u ukupnom ulaganju od 100.000,01 do 200.000,00 kuna 8 Za iznos vlastitih sredstava u ukupnom ulaganju od 200.000,01 kuna i više 10
+(3) Za potpune, pravovremene i prihvatljive Zahtjeve za potporu bit će izrađena rang-lista temeljem dodijeljenih bodova.
+(4) U slučaju da dva ili više Zahtjeva za potporu nakon rangiranja sukladno stavku 2. ovoga članka imaju isti broj bodova, izvršit će se rangiranje tih Zahtjeva na temelju ranijeg vremena podnošenja potpunog Zahtjeva za potporu.
+(5) Ukoliko dva ili više Zahtjeva za potporu imaju jednaki broj bodova i jednako vrijeme podnošenja dopune/obrazloženja/ispravka odnosno Zahtjeva za potporu provest će se postupak izvlačenja slučajnim odabirom, u prisutnosti javnog bilježnika.
+(6) U slučaju kad se tijekom procesa administrativne obrade Zahtjeva utvrdi da ima dovoljno sredstava za sve Zahtjeve koje udovoljavaju uvjetima ovoga Pravilnika, proces rangiranja se u daljnjoj fazi obrade Zahtjeva neće primjenjivati.
+Odluka o dodjeli potpore
+Članak 16.
+(1) Podnositelju čiji Zahtjev udovoljava uvjetima propisanim Zakonom i ovim Pravilnikom izdat će se Odluka o dodjeli potpore na temelju koje će se izvršiti isplata potpore ulaganju.
+(2) Odluka iz stavka 1. ovoga članka sadrži:
+1. podatke o korisniku (tvrtka/obrt, MB, OIB, sjedište);
+2. iznos i udio odobrene potpore;
+3. namjenu dodijeljene potpore;
+4. način isplate potpore;
+5. obveze korisnika u smislu:
+– čuvanja dokumentacije i predmeta potpore koja se odnosi na ulaganje sljedećih pet godina od datuma konačne isplate potpore,
+– omogućavanje kontrole na terenu davanjem cjelokupne dokumentacije vezane za dobivanje potpore na uvid te stavljanje na raspolaganje predmeta potpore za kontrolu na terenu,
+– zabrana prodaje predmeta potpore ili korištenja mimo svrhe za koju je namijenjeno, zabrana davanja u najam ili bilo koje drugo raspolaganje i korištenje drugim fizičkim i pravnim osobama pet godina od isplate potpore,
+6. uputu o pravnom lijeku.
+(3) Iznimno od stavka 2. točke 5. alineje 3. ovoga stavka, korisnik potpore, uslijed nepredviđenih okolnosti ili više sile može obaviti navedene radnje uz prethodno pribavljeno odobrenje Ministarstva.
+(4) Odluka iz stavka 1. ovoga članka dostavit će se korisniku preporučenom poštom s povratnicom.
+Odluka o odbijanju Zahtjeva za sufinanciranje ulaganja
+Članak 17.
+(1) Podnositelju čiji Zahtjev ne udovoljava uvjetima propisanim Zakonom i ovim Pravilnikom, izdat će se Odluka o odbijanju Zahtjeva.
+(2) Neudovoljavanjem uvjetima u smislu stavka 1. ovoga članka smatrat će se:
+a) neispunjavanje uvjeta i kriterija propisanih Zakonom i ovim Pravilnikom;
+b) namjerno davanje krivih podataka u Zahtjevu od strane podnositelja;
+c) nepravovremeno podnesene Zahtjeve i nepravodobno i nepotpuno dopunjene Zahtjeve.
+(3) Odluka o odbijanju Zahtjeva izdat će se i onim podnositeljima za koje nije bilo dovoljno raspoloživih sredstava određenih sukladno članku 3. stavku 1. ovoga Pravilnika.
+(4) Odluka iz stavka 1. ovoga članka poslat će se korisniku preporučenom poštom s povratnicom.
+Isplata potpore
+Članak 18.
+(1) Nakon izvršene administrativne kontrole, Uprava ribarstva izrađuje nalog za isplatu s tabličnim prikazom koji sadrži podatke o svim korisnicima i iznosima dodijeljene potpore te ga upućuje Agenciji za plaćanja koja vrši isplatu prema korisnicima.
+(2) Agencija za plaćanja o izvršenim isplatama po korisnicima izvještava Ministarstvo slanjem izvješća o isplatama u elektroničkom obliku u roku od petnaest dana nakon izvršene isplate.
+Povrat potpore
+Članak 19.
+(1) Ministarstvo može zahtijevati povrat svih ili dijela isplaćenih novčanih sredstava na temelju Odluke o

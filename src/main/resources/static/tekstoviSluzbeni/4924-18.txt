@@ -1,0 +1,26 @@
+ uzima se napisana kočna masa koja odgovara položaju mjenjača vrste kočnice G, P ili R.
+(17) Povećane kočne mase dobivene istodobnim djelovanjem dopunskih kočnica Mg, E ili H, moraju biti posebno napisane, a uračunavaju se u SKM samo onda ako su upisane u Izvješće o sastavu i kočenju vlaka.
+(18) Ako kočna masa na vučnom vozilu nije čitljiva, takvo vozilo ne može se koristiti u prometu.
+(19) Ako se izračunom utvrdi da je SKM manji nego PKM, tada je potrebno odrediti brzinu temeljem stvarnog postotka kočenja ili smanjiti ukupnu masu vlaka. Brzina vlaka određuje se na temelju stvarnog postotka kočenja, a smanjena ukupna masa vlaka izračunava se na temelju potrebnog postotka kočenja. Potrebne veličine izračunavaju se na sljedeći način:
+a) stvarni postotak kočenja vlaka, ps
+
+Dobivena veličina zaokružuje se na prvi manji cijeli broj. Temeljem izračunatog stvarnog postotka kočenja u tablici mjerodavnog zaustavnog puta pronalazi se brzina kojom vlak smije voziti. Ako se dobivena veličina nalazi između veličina postotaka kočenja navedenih u tablici, mjerodavan je manji postotak kočenja iz tablice. Po mogućnosti potrebno je izračunati postotke kočenja za nekoliko dionica na voznoj relaciji vlaka, čime se omogućuje određivanje različitih brzina vlaka u skladu sa stvarnim postotkom kočenja za svaku dionicu posebno.
+b) smanjena ukupna masa vlaka, (Q+L)SM
+
+Dobivena veličina zaokružuje se na prvi manji cijeli broj.
+Značenje simbola navedenih pod točkom a) i točkom b) iz stavka 19. ovog članka je sljedeće:
+ps – stvarni postotak kočenja na temelju kojeg se određuje brzina vlaka,
+SKM – stvarna kočna masa – zbroj kočnih masa svih vučnih i vučenih vozila u vlaku s ispravnim i uključenim kočnicama te ispravno postavljenim mjenjačima za vrstu kočnice i kočnu silu,
+(Q+L) – ukupna masa vlaka – zbroj mase svih vučenih vozila u vlaku (Q) i mase radnih lokomotiva (L),
+(Q+L)SM – smanjena ukupna masa vlaka koja je potrebna zbog toga da se udovolji uvjetu da SKM bude veći nego PKM ili jednak njemu; na temelju smanjene ukupne mase isključuju se nekočeni vagoni iz vlaka,
+p – postotak kočenja vlaka – postotni odnos kočne mase i ukupne mase vlaka, a to je onaj faktor kočnog učinka koji se mora osigurati kod vlaka s obzirom na duljinu zaustavnog puta, najveću brzinu vlaka, vrstu kočnice i mjerodavni nagib pruge.
+Osiguravanje vlaka ili dijela vlaka od samopokretanja
+Članak 64.
+(1) Vlak koji se zaustavi na otvorenoj pruzi ili u službenom mjestu osigurava se od samopokretanja na sljedeći način:
+a) na pruzi s nagibom do 2,5‰ i zadržavanjem do 30 minuta potrebno je aktivirati direktnu kočnicu vučnog vozila ili
+b) na pruzi s nagibom do 2,5‰ i zadržavanjem duljim od 30 minuta te na pruzi s nagibom većim od 2,5‰ bez obzira na zadržavanje, potrebno je aktivirati automatske kočnice cijelog vlaka.
+(2) Ako se na otvorenoj pruzi ili u službenom mjestu ostavlja vlak ili dio vlaka bez vučnog vozila odnosno manevarski sastav bez vučnog vozila, osiguravanje od samopokretanja obavlja se na sljedeći način:
+a) na pruzi s nagibom do 2,5‰ i zadržavanjem do 60 minuta potrebno je isprazniti glavni zračni vod vlaka, dijela vlaka odnosno manevarskog sastava
+b) na pruzi s nagibom do 2,5‰ i zadržavanjem duljim od 60 minuta potrebno je isprazniti glavni zračni vod vlaka, dijela vlaka odnosno manevarskog sastava te pritegnuti prvu i posljednju ručnu odnosno pritvrdnu kočnicu ili
+c) na pruzi s nagibom većim od 2,5‰ bez obzira na zadržavanje potrebno je isprazniti glavni zračni vod vlaka, dijela vlaka odnosno manevarskog sastava te pritegnuti sve ručne odnosno pritvrdne kočnice. Vlak, dio vlaka odnosno manevarski sastav koji se ostavlja na otvorenoj pruzi ili u nezaposjednutom službenom mjestu, osim ručnim odnosno pritvrdnim kočnicama mora se osigurati i četirima ručnim zaustavnim papučama postavljenima jednakomjerno duž cijelog sastava vlaka odnosno dvjema ručnim zaustavnim papučama ako se radi o manevarskom sastavu.
+(3) Ako na kolosijeku ostaje vučno vozilo bez strojovođe, onda se to vozilo

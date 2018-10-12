@@ -1,0 +1,32 @@
+ zrakoplovima ili željeznicama koja je u skladu sa sigurnosnim odredbama koje su sastavila međunarodna tijela u čijem radu sudjeluju države članice.
+– Oprema za ocjenjivanje izrađena po mjeri, isključivo namijenjena za uporabu stručnjaka na mjestima za istraživanje i razvoj i u te svrhe.
+DODATAK III.
+MODUL A
+UNUTARNJA KONTROLA PROIZVODNJE
+1. Unutarnja kontrola proizvodnje je postupak ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2., 3. i 4. ovoga Dodatka te osigurava i na vlastitu odgovornost izjavljuje da dotična električna oprema ispunjava zahtjeve iz ovoga Pravilnika koji se na nju primjenjuje.
+2. Tehnička dokumentacija
+Proizvođač mora izraditi tehničku dokumentaciju. Dokumentacija omogućuje ocjenjivanje sukladnosti električne opreme s odgovarajućim zahtjevima te uključuje odgovarajuću analizu i procjenu rizika. Tehničkom dokumentacijom određuju se mjerodavni zahtjevi i ona obuhvaća, koliko je to potrebno za ocjenjivanje, konstruiranje, proizvodnju i rad električne opreme. Tehnička dokumentacija prema potrebi sadrži barem sljedeće elemente:
+– opći opis električne opreme,
+– idejni projekt i radioničke nacrte, te sheme sastavnih dijelova, podsklopova, strujnih krugova itd.,
+– opise i objašnjenja potrebna za razumijevanje tih nacrta i shema te rada električne opreme,
+– popis u cijelosti ili djelomično primijenjenih usklađenih normi čiji su referencijski podaci objavljeni u Službenom listu Europske unije ili međunarodnih ili nacionalnih normi iz članaka 13. i 14. ovoga Pravilnika te opise rješenja usvojenih kako bi se udovoljilo sigurnosnim zahtjevima ovoga Pravilnika, uključujući popis drugih odgovarajućih primijenjenih tehničkih specifikacija, u slučaju kad te usklađene norme ili međunarodne ili nacionalne norme nisu bile primijenjene. U slučaju djelomično primijenjenih usklađenih normi ili međunarodnih ili nacionalnih normi iz članaka 13. i 14. ovoga Pravilnika, u tehničkoj dokumentaciji navode se dijelovi koji su bili primijenjeni,
+– rezultate projektnih proračuna, obavljenih ispitivanja itd., te
+– izvješća o ispitivanjima.
+3. Proizvodnja
+Proizvođač mora poduzeti sve potrebne mjere kako bi postupak proizvodnje i njegovo praćenje osigurali sukladnost proizvedene električne opreme s tehničkom dokumentacijom iz točke 2. ovoga Dodatka te sa zahtjevima ovog Pravilnika koji se na njih primjenjuje.
+4. Oznaka CE i EU izjava o sukladnosti
+4.1 Proizvođač mora staviti oznaku CE na svaku pojedinačnu električnu opremu koja zadovoljava primjenjive zahtjeve ovoga Pravilnika.
+4.2 Proizvođač mora sastaviti pisanu EU izjavu o sukladnosti za uzorak proizvoda i čuvati je zajedno s tehničkom dokumentacijom kako bi je mogao dati na raspolaganje nadležnom inspekcijskom tijelu još 10 godina nakon što je električna oprema stavljena na tržište. EU izjavom o sukladnosti utvrđuje se električna oprema za koju je ta izjava bila sastavljena.
+Kopija EU izjave o sukladnosti na zahtjev se stavlja na raspolaganje odgovarajućim tijelima za nadzor tržišta.
+5. Ovlašteni zastupnik
+Obveze proizvođača iz točke 4. u njegovo ime i na njegovu odgovornost može ispuniti njegov ovlašteni zastupnik ako su one navedene u ovlaštenju.
+DODATAK IV.
+EU IZJAVA O SUKLADNOSTI (br. XXXX) (1)
+1. Uzorak proizvoda/proizvod (broj proizvoda, tipa, šarže ili serijski broj):
+2. Ime i adresa proizvođača ili njegovog ovlaštenog zastupnika:
+3. Za izdavanje EU izjave o sukladnosti odgovoran je isključivo proizvođač.
+4. Predmet izjave (identifikacija električne opreme koja omogućava sljedivost. Može uključivati dovoljno jasnu sliku u boji ako je potrebno za identifikaciju električne opreme):
+5. Predmet navedene izjave u skladu je s mjerodavnim zakonodavstvom Unije o usklađivanju:
+6. Pozivanja na relevantne primijenjene usklađene norme ili pozivanja na druge tehničke specifikacije u vezi s kojima se izjavljuje sukladnost:
+7. Dodatne informacije:
+Potpisano za i u ime: (mjesto i dan izdavanja): (ime, funkcija) (potpis):

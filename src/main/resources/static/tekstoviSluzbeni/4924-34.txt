@@ -1,0 +1,22 @@
+ putu proklizavanja nisu u ovisnosti s ulaznim signalima, kod osiguranja voznog puta za ulazak vlaka, skretnice koje se nalaze u putu proklizavanja ostaju u redovnom položaju, a kod križanja i pretjecanja te skretnice postavljaju se za ulazak suprotnog vlaka odnosno za izlazak uzastopnog vlaka.
+(12) Ako skretnica u putu proklizavanja ima takav redovan položaj da vodi na neki kolosijek koji je privremeno zauzet, ona se postavlja u položaj koji vodi na slobodan kolosijek.
+(13) U prometnom uredu i skretničarskoj lokalnoj postavnici na vidljivu mjestu mora se istaknuti pregled redovnih položaja skretnica.
+(14) U kolodvorima s relejnim i elektroničkim osiguranjem postavljanje i osiguranje voznog puta za ulazak, izlazak i prolazak vlaka te rukovanje signalima obavlja prometnik vlakova.
+(15) Detaljnije odredbe o osiguranju voznog puta u kolodvoru i na otvorenoj pruzi s elektromehaničkim, relejnim i elektroničkim SS uređajima propisane su uputom za rukovanje odnosnim uređajima koju izrađuje upravitelj infrastrukture za svaki pojedini kolodvor i koja je prilog Poslovnom redu kolodvora. Ako je to tehnološki moguće, može se izraditi jedna uputa za više kolodvora i međukolodvorskih prostora na određenoj pružnoj dionici s istovrsnim SS uređajima.
+(16) Za kolodvore koji nisu osigurani relejnim odnosno elektroničkim SS uređajem, odredbe o voznom putu i postupci kod njegovog osiguranja propisani su ovim Pravilnikom.
+(17) Fonogrami za osiguranje voznog puta mogu se, umjesto sredstvima za sporazumijevanje, davati neposredno uz upisivanje u propisane evidencije.
+Osiguranje voznoga puta u kolodvorima
+Članak 112.
+(1) Vozni put za ulazak vlaka koji se zaustavlja u kolodvoru obuhvaća:
+– u kolodvoru s ulaznim signalima, a bez graničnih kolosiječnih signala ili s graničnim kolosiječnim signalima, ako se vlak prima na drugi odsjek podijeljenog kolosijeka u smjeru kretanja vlaka:
+a) dio pružnog kolosijeka od ulaznog signala do prve ulazne skretnice i određeni kolodvorski kolosijek od prve ulazne skretnice do kolosiječnog izlaznog signala
+b) ako kolosiječnog izlaznog signala nema, tada vozni put obuhvaća dio do manevarskog signala za zaštitu voznog puta ili do međnika na izlaznoj strani
+c) propisanu duljinu puta proklizavanja iza kolosiječnog izlaznog signala ili manevarskog signala za zaštitu voznog puta ili međnika na izlaznoj strani
+– u kolodvoru s ulaznim signalima i graničnim kolosiječnim signalima, ako se vlak prima na prvi odsjek podijeljenog kolosijeka u smjeru kretanja vlaka, dio pružnog kolosijeka od ulaznog signala do prve ulazne skretnice i određeni kolodvorski kolosijek od prve ulazne skretnice do graničnog kolosiječnog signala te propisani put proklizavanja iza graničnog kolosiječnog signala
+– u kolodvoru bez ulaznih signala, dio pružnog kolosijeka na ulaznoj strani u duljini propisanog zaustavnog puta do prve ulazne skretnice i kolodvorski kolosijek od prve ulazne skretnice do međnika na izlaznoj strani te propisani put proklizavanja iza međnika
+(2) Vozni put za prolazak vlaka kroz kolodvor obuhvaća:
+– u kolodvoru s ulaznim signalima, dio pružnog kolosijeka na ulaznoj strani od ulaznog signala do prve ulazne skretnice, kolodvorski kolosijek od prve ulazne do posljednje izlazne skretnice i dio pružnog kolosijeka od posljednje izlazne skretnice do ulaznog signala na izlaznoj strani
+– u kolodvoru bez ulaznih signala, dio pružnog kolosijeka na ulaznoj strani u duljini propisanog zaustavnog puta do prve ulazne skretnice, kolodvorski kolosijek od prve ulazne skretnice do posljednje izlazne skretnice i dio pružnog kolosijeka od posljednje izlazne skretnice u duljini propisanog zaustavnog puta na izlaznoj strani
+(3) Vozni put za izlazak vlaka obuhvaća:
+– u kolodvoru s izlaznim signalima, kolodvorski kolosijek od posljednjeg vozila u vlaku do posljednje izlazne skretnice i dio pružnog kolosijeka od posljednje izlazne skretnice do ulaznog signala na izlaznoj strani
+– u kolodvoru bez izlaznih signala, kolodvorski kolosijek od posljednjeg vozila u

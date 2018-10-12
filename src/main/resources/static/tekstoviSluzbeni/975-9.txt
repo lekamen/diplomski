@@ -1,0 +1,28 @@
+dokumenta (otpremnica, primka) ovjeren od odabranog dobavljača robe/materijala i od Korisnika (obvezni dijelovi su naziv, sjedište, adresa i OIB dobavljača, broj i datum robnog dokumenta, specifikacija i datum dostave robe/materijala);
+c) Izvornik troškovnika izvršenih radova/usluga ovjeren od odabranog izvršitelja radova/usluga i od Korisnika (obvezni dijelovi su naziv, sjedište, adresa i OIB izvršitelja, broj i datum troškovnika, specifikacija/opis i datum izvršenja pojedinih radova/usluga);
+d) Ovjereni izvornik izvoda iz banke o izvršenju plaćanja svakog pojedinog računa (obvezni dijelovi su naziv banke, broj i datum izvoda, datum plaćanja, poveznica sa odgovarajućim računom odabranog dobavljača/izvršitelja);
+e) Tablični prikaz (rekapitulacija) izvršenih plaćanja odobrenih aktivnosti i pripadajućih utvrđenih troškova;
+f) Ostala dokumentacija u izvornom obliku koja pojašnjava izvršenje plaćanja utvrđenih troškova (ugovor o isporuci robe/izvršenju usluga, ovjerene dopune ugovora, ovjerene privremene situacije i sl.).
+(4) Korisniku se ne može isplatiti potpora u iznosu višem od maksimalnog iznosa navedenog u Odluci o odobrenju projekta.
+(5) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja zahtjeva za isplatu obračunat će se:
+– protuvrijednost u kunama prema mjesečnom tečaju Europske središnje Banke, u mjesecu predaje Zahtjeva za isplatu iskazanom u četiri decimale. Internet adresa na kojoj se može dobiti uvid u navedeni tečaj je:
+http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=120.EXR.M.HRK.EUR.SP00.A
+– u slučaju da je Korisnik kupio strana sredstva plaćanja po tečaju nižem od tečaja Europske središnje banke (iskazanom u četiri decimale) u mjesecu zaprimanja Zahtjeva za isplatu obračun potpore za isplatu temeljit će se na ostvarenom tečaju.
+(6) Ukoliko je Zahtjev za isplatu potpore nepotpun, Agencija za plaćanja zatražit će njegovu dopunu od Korisnika te može na način sukladan članku 15. ovoga Pravilnika tražiti dostavu dopuna, ispravaka ili obrazloženja.
+(7) Korisnik je dužan Zahtjev za isplatu potpore dopuniti, ispraviti, obrazložiti, dostavom tražene dokumentacije preporučenom poštom u roku iz Zahtjeva za dopunu zahtjeva za isplatu potpore.
+(8) U slučajevima traženja dopuna, ispravaka, obrazloženja datum dostave dokumentacije kojom se Zahtjev za isplatu potpore dopunjuje, ispravlja ili pojašnjava, smatra se datumom zaprimanja potpunog Zahtjeva.
+(9) Zahtjevi za isplatu obrađuju se prema redoslijedu zaprimanja potpunih zahtjeva.
+Članak 27.
+(1) Sredstva iz programa za mjeru Restrukturiranje odobrena Odlukom o odobrenju projekta, isplaćuju se na račun Korisnika, temeljem podnijetog Zahtjeva za isplatu potpore po završetku aktivnosti ulaganja.
+(2) U slučaju potrebe za promjenom planiranog datuma dostave Zahtjeva za isplatu, Korisnik mora obavijestiti Agenciju za plaćanje najmanje trideset dana prije isteka roka za dostavu Zahtjeva za isplatu.
+Članak 28.
+Nakon provjere Zahtjeva za isplatu i kontrole ispunjavanja uvjeta opravdanosti i prihvatljivosti provedenih aktivnosti ulaganja i/ili troškova Agencija za plaćanja će Korisniku izdati:
+a) Odluku o isplati, ili
+b) Odluku o odbijanju Zahtjeva za isplatu.
+Članak 29.
+(1) Odlukom o isplati Agencija za plaćanja će utvrditi iznos potpore za isplatu.
+(2) Agencija za plaćanja će donijeti Odluku o isplati u roku od šezdeset dana od dana zaprimanja potpunog Zahtjeva za isplatu, a isplatu će izvršiti na račun korisnika u roku trideset dana od dana donošenja Odluke o isplati.
+(3) Prilikom donošenja Odluke o isplati Agencija za plaćanja može umanjiti iznos za isplatu potpore u odnosu na iznos potpore iz Odluke o odobrenju projekta ukoliko utvrdi da pojedine provedene aktivnosti, ulaganja i/ili troškovi nisu provedeni ili na valjani način dokazani (plaćeni).
+(4) Po izvršenom plaćanju Agencija za plaćanja izdaje Potvrdu o završenom ulaganju, a Korisnik je dužan sljedećih pet godina od datuma utvrđenog u Potvrdi o završenom ulaganju:
+a) čuvati dokumentaciju koja se odnosi na ulaganje;
+b) 

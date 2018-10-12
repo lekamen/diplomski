@@ -1,0 +1,28 @@
+ proizvođač ispunjava obveze propisane u točkama 2. i 5., te kojim osigurava i potvrđuje na vlastitu odgovornost da je dotična pomorska oprema u skladu s tipom opisanim u potvrdi o EZ tipnom ispitivanju te da ispunjava zahtjeve međunarodnih instrumenata koji se primjenjuju na nju.
+2. Proizvodnja
+Proizvođač upravlja odobrenim sustavom kvalitete, provjerom konačnog proizvoda i ispitivanjem dotičnih proizvoda, kako je navedeno u točki 3., te podliježe nadzoru, kako je opisano u točki 4.
+3. Sustav kvalitete
+3.1. Proizvođač podnosi zahtjev za ocjenu svojeg sustava kvalitete za dotičnu pomorsku opremu kod prijavljenog tijela prema vlastitu izboru. Zahtjev mora sadržavati:
+– ime i adresu proizvođača i, ako je zahtjev podnio ovlašteni predstavnik, njegovo ime i adresu,
+– pisanu izjavu da isti zahtjev nije podnesen ni kod jednog drugog prijavljenog tijela,
+– sve relevantne informacije o predviđenoj kategoriji pomorske opreme,
+– dokumentaciju o sustavu kvalitete,
+– tehničku dokumentaciju o odobrenom tipu i primjerak potvrde o EZ tipnom ispitivanju.
+3.2. Sustavom kvalitete osigurava se da su proizvodi u skladu s tipom opisanim u potvrdi o EZ tipnom ispitivanju te da su u skladu sa zahtjevima međunarodnih instrumenata koji se na njih primjenjuju.
+Sve elemente, zahtjeve i odredbe koje usvoji proizvođač potrebno je dokumentirati na sustavan i pregledan način, u pisanom obliku, i to politike, postupke i upute. Dokumentacijom o sustavu kvalitete mora biti dopušteno dosljedno tumačenje programa kvalitete, planova, priručnika i zapisa.
+Također posebno sadržava odgovarajući opis:
+– ciljeva kvalitete i organizacijske strukture, odgovornosti i ovlaštenja upravljačke strukture u vezi s kvalitetom proizvoda,
+– odgovarajućih tehnika proizvodnje, nadzora kvalitete i osiguranja kvalitete, kao i planiranih procesa i sustavnih aktivnosti,
+– ispitivanja i testova koje je potrebno provesti prije, tijekom i nakon proizvodnje te učestalost njihova provođenja,
+– evidencije kvalitete, kao što su izvješća o pregledu i podaci o ispitivanjima, podaci o umjeravanju, izvješća o stručnoj osposobljenosti dotičnog osoblja itd., i
+– načina praćenja postizanja zahtijevane kvalitete proizvoda i učinkovitog funkcioniranja sustava kvalitete.
+3.3. Prijavljeno tijelo ocjenjuje sustav kvalitete kako bi utvrdilo ispunjava li uvjete navedene u točki 3.2.
+Osim iskustva sa sustavima upravljanja kvalitetom revizorski tim mora imati barem jednog člana koji ima iskustva u procjeni u odgovarajućem području i tehnologiji proizvodnje pomorske opreme te znanje o primjenjivim zahtjevima međunarodnih instrumenata. Revizija uključuje posjet prostorijama proizvođača radi procjene. Revizorski tim pregledava tehničku dokumentaciju navedenu u točki 3.1. petoj alineji kako bi provjerio sposobnost proizvođača da prepozna odgovarajuće zahtjeve međunarodnih instrumenata te da izvrši potrebna ispitivanja radi osiguranja sukladnosti proizvoda s tim zahtjevima.
+Odluka se dostavlja proizvođaču. Obavijest mora sadržavati zaključke revizije i obrazloženu odluku o ocjeni.
+3.4. Proizvođač se mora obvezati da će ispuniti obveze koje proizlaze iz sustava kvalitete, kako je odobren, te da će ga održavati odgovarajućim i učinkovitim.
+3.5. Proizvođač mora obavijestiti prijavljeno tijelo koje je odobrilo sustav kvalitete o svim planiranim izmjenama u sustavu kvalitete.
+Prijavljeno tijelo procjenjuje predložene izmjene i odlučuje o tome ispunjava li izmijenjeni sustav kvalitete i dalje uvjete navedene u točki 3.2. ili ga je potrebno ponovno procijeniti.
+Ono obavješćuje proizvođača o svojoj odluci. Obavijest mora sadržavati zaključke ispitivanja i obrazloženu odluku o ocjeni.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Svrha je nadzora osigurati da proizvođač propisno ispunjava obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Proizvođač u svrhu ocjene dopušta prijavljenom tijelu pristup prostorima u kojima se obavlja proizvodnja, pregled, ispitivanje i odlaganje, te mu pruža sve potrebne

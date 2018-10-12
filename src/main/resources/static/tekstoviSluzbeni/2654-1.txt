@@ -1,0 +1,32 @@
+ potrebe.
+(3) Pojedinačni podaci u nestandardiziranome obliku obuhvaćaju određene pojedinačne podatke iz godišnjeg financijskog izvještaja i dodatnih podatka za statističke i druge potrebe pripremljene prema posebno određenim pravilima i traženim kriterijima od strane tražitelja.
+Članak 7.
+(1) Agregirani podaci iz članka 5. ovoga Pravilnika daju se u standardiziranome i nestandardiziranome obliku.
+(2) Agregirani podaci prema standardiziranoj metodologiji su podaci strukturirani prema unaprijed određenim pravilima zadanim od strane Agencije.
+(3) Agregirani podaci prema nestandardiziranome zahtjevu, kreiraju se prema zahtjevu koji je odredio naručitelj, nisu unaprijed obrađeni na zadani način.
+Članak 8.
+(1) Podaci iz godišnjih financijskih izvještaja koji uključuju i dodatne podatke za statističke i druge potrebe daju se, bez naknade, u standardiziranome obliku, tijelima državne uprave, drugim državnim tijelima te pravnim osobama s javnim ovlastima.
+(2) Iznimno, ako subjekti iz stavka 1. ovoga članka zahtijevaju isporuku podataka u nestandardiziranom obliku plaćaju naknadu u visini troškova pripreme podatka prema Cjeniku koji je određen u Prilogu I. ovoga Pravilnika.
+III. NAKNADA TROŠKOVA
+Članak 9.
+(1) Naknada za davanje ispisa, preslike i izvatka iz Registra naplaćuje se unaprijed na temelju obavijesti o plaćanju koju Agencija dostavlja tražitelju po zaprimljenom zahtjevu. Tražitelj je obvezan Agenciji dostaviti dokaz o izvršenoj uplati na temelju obavijesti o plaćanju, nakon čega je Agencija obvezna isporučiti zatraženu dokumentaciju i ispostaviti račun.
+(2) Naknada za preuzimanje dokumentacije iz Registra putem mrežne aplikacije RGFI, naplaćuje se mjesečno na temelju ispostavljenog računa.
+Članak 10.
+(1) Naknada za pripremu i isporuku podataka obračunava se tražitelju ovisno o tome priprema li Agencija te podatke za njihovu vlastitu uporabu ili za komercijalne svrhe.
+(2) Naknada iz stavka 1. ovoga članka obračunava se u skladu s Cjenikom koji je određen u Prilogu I. ovoga Pravilnika.
+(3) Cjenik iz stavka 2. ovoga članka Agencija je dužna objaviti na svojim mrežnim stranicama.
+Članak 11.
+Prilog I. tiskan je uz ovaj Pravilnik i njegov je sastavni dio.
+Članak 12.
+Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu 2. siječnja 2016.
+Klasa: 011-01/15-01/469
+Urbroj: 513-06-03-15-2
+Zagreb, 30. prosinca 2015.
+Ministar financija mr. sc. Boris Lalovac, v. r.
+PRILOG I.
+CJENIK
+I. Izdavanje dokumentacije iz Registra
+Red. br. Opis usluge Osnovica za obračun Cijena u kn* 1. Ispis/preslika/izvadak iz Registra – – 1.1. Ispis/preslika standardne dokumentacije – – 1.1.1. Bilanca, račun dobiti i gubitka dokumentacija 39,00 1.1.2. Izvještaj o novčanim tokovima izvještaj 19,00 1.1.3. Izvještaj o promjenama kapitala izvještaj 16,00 1.2. Ispis/preslika nestandardne dokumentacije dokumentacija do 5 stranica 25,00 svaka sljedeća započeta stranica 2,50 1.3. Izvadak iz Registra izvadak 15,00 2. Preuzimanje dokumentacije putem interneta – – 2.1. Bilanca, račun dobiti i gubitka dokumentacija 29,00 2.2. Izvještaj o novčanim tokovima dokument 9,00 2.3. Izvještaj o promjenama kapitala dokument 6,00
+II. Isporuka podataka iz Registra
+Red. br. Korisnici Podaci iz standardnih dokumenata Pojedinačni standardizirani podaci Nestandardni zahtjevi (pojedinačni / agregirani podaci) Agregirane standardne tablice 1. Tijela državne uprave, druga državna tijela i pravne osobe s javnim ovlastima – prema troškovima sati rada – čovjek/sat 300,00* kn 2. Pravne i fizičke osobe za vlastite potrebe (analitičke potrebe bez daljnje distribucije) 0,01* kn po podatku prema troškovima sati rada, uvećano za umnožak cijene po podatku (0,01) 125,00* kn čovjek/sat 300,00* kn 3. Pravne i fizičke osobe za komercijalne potrebe 0,03* kn po podatku prema troškovima sati rada uvećano za umnožak cijene po podatku (0,03) 125,00* kn čovjek/sat 300,00* kn
+* PDV je uključen u cijene

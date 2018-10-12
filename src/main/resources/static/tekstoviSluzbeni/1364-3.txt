@@ -1,0 +1,44 @@
+ za identifikaciju u smislu ovoga Zakona sastoje se od:
+− tvrtke ili naziva, sjedišta i poslovne adrese i osobnoga identifikacijskog broja za pravnu osobu
+− imena i prezimena, sjedišta i poslovne adrese, adrese prebivališta i osobnoga identifikacijskog broja za fizičku osobu.
+Dopuštenost pokretanja postupka
+Članak 15.
+(1) Za vrijeme likvidacije pravne osobe nije dopušteno pokretanje predstečajnoga postupka, a pokretanje stečajnoga postupka dopušteno je dok se ne provede podjela imovine.
+(2) Ako je pokrenut predstečajni postupak, do njegova završetka nije dopušteno pokretanje stečajnoga postupka.
+Prijedlog za otvaranje predstečajnoga i stečajnoga postupka
+Članak 16.
+(1) Prijedlog za otvaranje predstečajnoga i stečajnoga postupka podnosi se sudu na propisanom obrascu te sadržava podatke za identifikaciju dužnika i podnositelja prijedloga i popis imovine i obveza dužnika.
+(2) Podnositelj prijedloga za otvaranje stečajnoga postupka koji nije dužnik, nije dužan naznačiti popis imovine i obveza dužnika.
+(3) U slučaju iz stavka 2. ovoga članka sud će dužniku narediti dostavu popisa imovine i obveza.
+(4) Prijedlog za otvaranje predstečajnoga i stečajnoga postupka ne može se povući.
+(5) Prijedlog za otvaranje predstečajnoga i stečajnoga postupka objavit će se na mrežnoj stranici e-Oglasna ploča sudova u roku od tri dana od dana podnošenja potpunoga prijedloga.
+(6) Ako su podnesena dva ili više prijedloga za otvaranje predstečajnoga ili stečajnoga postupka, sud će za sve prijedloge provesti jedinstveni postupak i donijeti zajedničku odluku.
+Popis imovine i obveza dužnika
+Članak 17.
+(1) Popis imovine i obveza dužnika sastoji se od naznake:
+1. nekretnina i pokretnina dužnika
+2. imovinskih prava dužnika na tuđim stvarima
+3. novčanih i nenovčanih tražbina dužnika
+4. drugih prava koja čine imovinu dužnika
+5. novčanih sredstava na računima
+6. druge imovine dužnika
+7. obveza dužnika unesenih u njegove poslovne knjige
+8. drugih novčanih i nenovčanih obveza dužnika
+9. razlučnih prava na imovini dužnika
+10. izlučnih prava
+11. prosječnih mjesečnih troškova redovnoga poslovanja dužnika u posljednjih godinu dana
+12. postupaka pred sudovima ili javnopravnim tijelima u kojima je dužnik stranka i visinu ili opis tražbine koja je predmet postupka.
+(2) U popisu imovine i obveza iz stavka 1. ovoga članka moraju se navesti podaci o pravnoj i činjeničnoj osnovi u odnosu na svaki dio imovine i obveza, te o dokazima, osobito ispravama, kojima se oni mogu potkrijepiti i potvrditi da su navedeni podaci točni i potpuni i da ništa od imovine i obveza nije zatajeno.
+(3) Za davanje neistinitoga ili nepotpunoga popisa imovine i obveza, dužnik odgovara kao za davanje lažnoga iskaza u postupku pred sudom.
+Odluke
+Članak 18.
+(1) Odluke u predstečajnom i stečajnom postupku sud donosi u obliku rješenja i zaključka.
+(2) Zaključkom sud izdaje nalog službenoj osobi ili tijelu u postupku za obavljanje pojedinih radnji te odlučuje o upravljanju postupkom i o drugim pitanjima ako je to izrijekom određeno ovim Zakonom.
+Pravni lijekovi
+Članak 19.
+(1) Protiv rješenja donesenoga u prvom stupnju može se izjaviti žalba, ako ovim Zakonom nije drukčije određeno.
+(2) Žalba se izjavljuje u roku od osam dana od dostave prvostupanjskoga rješenja, ako ovim Zakonom nije drukčije određeno.
+(3) Žalba ne odgađa provedbu rješenja, ako ovim Zakonom nije drukčije određeno.
+(4) Prvostupanjski sud dužan je žalbu podobnu za odlučivanje dostaviti drugostupanjskom sudu u roku od osam dana od njezina primitka, ako ovim Zakonom nije drukčije određeno.
+(5) Ako je protiv rješenja dopuštena posebna žalba, prvostupanjski sud će umnožiti dio spisa na koji se žalba odnosi i prijepis toga dijela spisa sa žalbom dostaviti drugostupanjskom sudu. Dok drugostupanjski sud ne donese odluku, u prvostupanjskom postupku poduzimat će se one radnje koje je moguće poduzimati prije pravomoćnosti pobijanoga rješenja, ako ovim Zakonom nije drukčije određeno.
+(6) Drugostupanjski sud dužan je o žalbi odlučiti najkasnije u roku 

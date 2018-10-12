@@ -1,0 +1,53 @@
+ prezentiranja, korištenje riječi, naziva proizvoda, žigova, naziva marki proizvoda, slikovnih prikaza ili drugih oznaka, koji upućuju na prirodnu mineralnu ili prirodnu izvorsku vodu, primjerice riječi »kiselica«, »mineralna voda«, »mineral«, »izvorska voda«, »izvor«, »vrelo«, »prirodna« ili bilo koje izvedenice tih riječi.
+(4) Stolna voda koja je bila podvrgnuta obradi sa zrakom obogaćenim ozonom mora biti označena navodom »voda podvrgnuta odobrenom postupku obrade zrakom obogaćenim ozonom«.
+(5) Kod naziva proizvoda naziv kemijskog spoja »ugljikov dioksid« može biti zamijenjen kemijskom formulom »CO2«.
+Članak 44.
+Pravne osobe koje obavljaju djelatnost punjenja stolne vode u ambalažu koja se stavlja na tržište, obvezne su izraditi i provoditi plan uzorkovanja za propisane kemijske i indikatorske parametre te s učestalošću definiranom Pravilnikom o parametrima sukladnosti.
+Službena kontrola
+Članak 45.
+(1) Službena kontrola provodi se periodično kako bi se utvrdilo udovoljava li stolna voda odredbama članka 39. ovoga Pravilnika.
+(2) Službena kontrola stolne vode u ambalaži provodi se sukladno Pravilniku o parametrima sukladnosti.
+(3) Planovi službenih kontrola zdravstvene ispravnosti stolne vode koja se stavlja na tržište u bocama ili drugoj ambalaži temelje se na procjeni rizika.
+(4) Ako se utvrdi za pojedinu stolnu vodu koja se može nalaziti na tržištu jedne ili više država članica Europske unije da ne udovoljava mikrobiološkim, fizikalnim, kemijskim, fizikalno-kemijskim i senzorskim parametrima te je ujedno prijetnja za zdravlje ljudi, Republika Hrvatska može privremeno ograničiti ili obustaviti trgovinu takvom stolnom vodom.
+III. UTVRĐIVANJE SUKLADNOSTI
+Članak 46.
+Za utvrđivanje sukladnosti prirodne mineralne, prirodne izvorske i stolne vode sa zahtjevima propisanim ovim Pravilnikom u svrhu službene kontrole mogu se koristiti međunarodno priznate i validirane metode.
+Članak 47.
+Dodaci 1., 2., 3., 4. i 5. tiskani su uz ovaj Pravilnik i njegov su sastavni dio.
+IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 48.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o prirodnim mineralnim, prirodnim izvorskim i stolnim vodama (»Narodne novine«, broj 81/2013).
+Članak 49.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/03
+Urbroj: 525-09/1429-15-23
+Zagreb, 24. travnja 2015.
+Ministar Tihomir Jakovina, v. r.
+DODATAK 1.
+ZAHTJEVI I KRITERIJI ZA PRIMJENU DEFINICIJA
+a) Zahtjevi za geološka i hidrogeološka ispitivanja:
+Potrebno je utvrditi sljedeće pojedinosti:
+1. točan položaj zahvata izvora s naznakom nadmorske visine na karti razmjera ne većeg od 1:1000;
+2. detaljan geološki izvještaj o podrijetlu i prirodi terena (izvorišnog područja);
+3. stratigrafiju hidrogeološkog sloja (hidrogeološke značajke izvorišnog područja);
+4. opis izvođenja zahvata;
+5. razgraničenje područja ili pojedinosti o drugim mjerama zaštite izvora od onečišćenja.
+b) Zahtjevi za fizikalna, kemijska i fizikalno-kemijska ispitivanja:
+Ova ispitivanja će utvrditi sljedeće:
+1. protok vode na izvoru;
+2. temperaturu vode na izvoru i temperaturu okoline;
+3. vezu između prirode terena te prirode i vrste mineralnih tvari u vodi;
+4. suhe ostatke pri 180 °C i 260 °C;
+5. električnu vodljivost ili otpor, uz naznaku temperature mjerenja;
+6. pH vrijednost;
+7. anione i katione;
+8. nedisocirane tvari;
+9. elemente u tragovima;
+10. radioaktivna svojstva na izvoru;
+11. prema potrebi odnos razine izotopa sastavnih komponenti vode: kisik (16O – 18O) i vodik (proton, deuterij, tricij);
+12. toksične tvari prisutne u vodi (Dodatak 2.), uzimajući u obzir maksimalno dopuštene koncentracije za svaki od njih.
+c) Kriteriji za mikrobiološka ispitivanja na izvoru:
+Ova ispitivanja moraju uključivati:
+1. prikaz odsutnosti parazita i patogenih mikroorganizama;
+2. kvantitativno određivanje broja kolonija sposobnih za razmnožavanje koji ukazuju na fekalno onečišćenje:
+– odsutnost bakterije Escherichia coli i drugih koliformnih bakterija u 250 ml

@@ -1,0 +1,23 @@
+ pod sljedećim uvjetima:
+– da je obavijestio krajnjeg primatelja o isteku datuma minimalne trajnosti
+– da krajnji primatelj prihvaća doniranje hrane kojoj je istekao datum minimalne trajnosti.
+Članak 9.
+(1) Doniranje hrane smatra se obavljenim u svrhu sprječavanja njenog uništavanja, zaštite okoliša i pomoći krajnjim primateljima ako se:
+a) donira hrana za koju se učini vjerojatnim da se do isteka »upotrijebiti do« datuma neće moći prodati, a donirana je u razdoblju od najviše tri mjeseca do isteka »upotrijebiti do« datuma
+b) donira hrana za koju se učini vjerojatnim da se do isteka datuma minimalne trajnosti neće moći prodati, a donirana je u razdoblju od najviše tri mjeseca do najmanje sedam dana prije isteka datuma minimalne trajnosti
+c) donira hrana koja nije prikladna za prodaju iz razloga navedenih u članku 6. stavku 2. ovoga Pravilnika.
+(2) Na doniranje hrane u slučaju elementarnih nepogoda ili prirodnih katastrofa iz članka 5. stavka 3. ovoga Pravilnika ne primjenjuju se razdoblja iz stavka 1. točke a) i b) ovoga članka.
+Članak 10.
+(1) Doniranu hranu moraju pratiti isprave (otpremnica, primka).
+(2) Posrednik koji je zaprimio hranu koja je oduzeta u prekršajnim postupcima iz članka 1. stavka 2. ovoga Pravilnika mora pregledati hranu i izgled pakiranja te čuvati dokumentaciju o dodjeli hrani.
+(3) U slučaju doniranja hrane od strane građana, posrednik treba pregledati hranu i izgled pakiranja te izdati potvrdu o zaprimljenoj hrani koju potpisuju posrednik i građanin.
+(4) Potvrda iz stavka 3. ovoga članka treba sadržavati najmanje sljedeće podatke: naziv, vrstu, količinu i rok trajanja hrane, podatke o subjektu u poslovanju s hranom pod čijim se imenom hrana stavlja na tržište, ime osobe koja je donirala hranu i nabavnu vrijednost donirane hrane. Jedan primjerak potvrde mora čuvati posrednik.
+(5) U slučaju doniranja hrane od strane obiteljskih poljoprivrednih gospodarstava (u daljnjem tekstu: OPG) upisanih u Upisnik poljoprivrednika te u odgovarajući upisnik objekata u poslovanju s hranom kada je propisana obveza upisa, posrednik treba pregledati hranu te izdati potvrdu o zaprimljenoj hrani koju potpisuju posrednik i nositelj/član OPG-a. Jedan primjerak potvrde mora čuvati posrednik.
+(6) Potvrda iz stavka 5. ovoga članka treba sadržavati najmanje sljedeće podatke: naziv, vrstu, količinu te rok trajanja hrane ako je primjenjivo, podatke o OPG-u koji je donirao hranu i tržišnu vrijednost hrane.
+(7) Tržišna vrijednost hrane iz stavka 6. ovoga članka određuje se prema prosječnim veleprodajnim mjesečnim cijenama za mjesec koji prethodi mjesecu u kojem je izvršeno doniranje hrane Tržišnog cjenovnog informacijskog sustava u poljoprivredi (TISUP-a), a koje se objavljuju na mrežnim stranicama Ministarstva poljoprivrede (www.tisup.mps.hr).
+Članak 11.
+(1) Donator je dužan voditi evidenciju davanja hrane koja mora sadržavati podatke o: otpremnicama, datumu davanja odnosno otpreme hrane, nazivu, vrsti, količini i roku trajanja hrane, nabavnoj cijeni (bez PDV-a), iznosu PDV-a te podatke o posredniku odnosno u slučaju izravnog doniranja o krajnjem primatelju.
+(2) Posrednik je dužan voditi evidenciju primitka hrane od donatora odnosno građanina koja mora sadržavati podatke o: primkama odnosno potvrdama, datumu zaprimanja, nazivu, vrsti, količini i roku trajanja hrane te podatke o donatoru odnosno građaninu.
+(3) Posrednik je dužan voditi evidenciju primitka hrane koja je oduzeta u prekršajnim postupcima iz članka 1. stavka 2. ovoga Pravilnika koja mora sadržavati podatke o: ispravama kojima je hrana dodijeljena posredniku, nazivu, vrsti, količini i roku trajanja hrane.
+(4) Posrednik je dužan voditi evidenciju primitka hrane od drugog posrednika koja mora sadržavati podatke o: ispravama (otpremnica, primka), datumu zaprimanja, nazivu, vrsti, količini i roku trajanja hrane te podatke o posredniku od kojeg je primljena hrana.
+(5) Posrednik je dužan voditi evidenciju ili bazu podataka krajnjih primatelja iz koje je razvidno da se radi o

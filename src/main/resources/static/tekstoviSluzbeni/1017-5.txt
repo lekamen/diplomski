@@ -1,0 +1,83 @@
+ Agencije za obalni linijski pomorski promet
+– naziv OTOČNA ISKAZNICA
+– registarska oznaka vozila
+– tip vozila
+– ime i prezime ili naziv vlasnika odnosno korisnika prava
+– OIB
+– prebivalište ili sjedište vlasnika odnosno korisnika
+– serijski broj iskaznice
+– datum izdavanja iskaznice
+– datum isteka valjanosti iskaznice
+B. Na poleđini iskaznice
+– opće upute o namjeni i načinu korištenja otočne iskaznice
+C. Na čipu iskaznice – datoteka s osnovnim podacima:
+– registarska oznaka vozila
+– tip vozila
+– ime vlasnika
+– prezime vlasnika
+– naziv vlasnika
+– datum rođenja vlasnika
+– OIB vlasnika
+– naziv mjesta prebivališta/sjedišta vlasnika
+– naziv općine prebivališta/sjedišta vlasnika
+– šifra (DGU) mjesta prebivališta/sjedišta vlasnika
+– naziv ulice i kućni broj vlasnika
+– broj iskaznice
+– datum izdavanja
+– datum isteka
+– osnovno pravo iz kataloga prava
+D. Na čipu iskaznice – datoteka s dodatnim podacima
+– maraka vozila
+– model vozila
+– namjena vozila
+– kategorija/vrsta vozila
+– masa praznog vozila
+– najveća dopuštena masa
+– tehnička najveća dopuštena masa
+– dopuštena nosivost
+– duljina vozila
+– širina vozila
+– visina vozila
+– broj sjedišta vozila
+– ime korisnika
+– prezime korisnika
+– naziv korisnika
+– OIB korisnika
+– naziv mjesta prebivališta/sjedišta korisnika
+– šifra (DGU) mjesta prebivališta/sjedišta korisnika
+– naziv općine prebivališta/sjedišta korisnika
+– šifra (DGU) općine prebivališta/sjedišta korisnika
+– naziv ulice i kućni broj korisnika
+Izgled otočne iskaznice vozila
+
+Vinjeta za pomorski prijevoz vozila sadrži sljedeće podatke:
+A. Na prednjoj strani vinjete:
+– logo Agencije za obalni linijski pomorski promet
+– registarska oznaka vozila
+– bar kod vinjete
+– datum izdavanja
+– datum isteka valjanosti
+– serijski broj vinjete
+Izgled vinjete vozila
+
+PRILOG 7.
+KORISNICI PRAVA PREMA BOJI OTOČNIH ISKAZNICA
+Otočna iskaznica izdaje se u četiri boje za koje su definirani korisnici.
+A. otočna iskaznica s dominantno crvenom bojom namijenjena je sljedećim korisnicima:
+– djetetu starosti od jedne godine do polaska u osnovnu školu
+– učeniku koji pohađa osnovnu ili srednju školu na otoku
+– studentu koji pohađa visokoškolsku ustanovu na otoku
+– fizičke osobe koje nemaju status učenika, studenta, umirovljenika i mlađe su od 65 godina
+B. otočna iskaznica s dominantno plavom bojom namijenjena je sljedećim korisnicima:
+– učenici koji svakodnevno putuju do škole izvan otoka
+– učenici koji za vrijeme školovanja privremeno borave izvan otoka, a vikendom dolaze na otok prebivališta
+– studenti koji svakodnevno putuju izvan otoka do visokoškolske ustanove i
+– studenti koji za vrijeme školovanja privremeno borave izvan otoka, a vikendom dolaze na otok
+C. otočna iskaznica s dominantno sivom bojom namijenjena je sljedećim korisnicima:
+– umirovljenicima i
+– osobama starijima od 65 godina.
+D. otočna iskaznica s dominantno zelenom bojom namijenjena je za:
+– vozila u vlasništvu fizičkih osoba,
+– vozila u vlasništvu pravnih osoba,
+– vozila registrirana na obrt, OPG i djelatnost slobodnog zanimanja,
+– vozila u vlasništvu leasing kuća ili banaka, a koja su registrirana na korisnike iz prethodnih alineja ove podtočke.

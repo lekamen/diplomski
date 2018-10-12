@@ -1,0 +1,26 @@
+ upravljanje ili drugo društvo ne smiju zaračunavati ulaznu ili izlaznu naknadu kod ulaganja fonda u udjele ili dionice tih drugih UCITS fondova ili investicijskih fondova.
+(4) Ako se bitan dio imovine UCITS fonda ulaže u udjele ili dionice investicijskih fondova iz članka 252. stavka 1. točke 3. ovoga Zakona, u prospektu fonda, uz maksimalnu naknadu za upravljanje koju je moguće zaračunati iz imovine samog fonda, mora biti jasno naznačena i maksimalna naknada za upravljanje koju je moguće zaračunati iz imovine drugih investicijskih fondova u koje namjerava ulagati, a u revidiranim godišnjim izvještajima fonda mora jasno biti naznačen maksimalan postotak naknade za upravljanje koja je zaračunata iz imovine fonda i iz imovine drugog investicijskog fonda u koji je taj fond uložio.
+Ograničenja ulaganja radi sprječavanja bitnog utjecaja nad izdavateljima
+Članak 258.
+(1) UCITS fond može steći najviše:
+a) 10% dionica s pravom glasa jednog izdavatelja
+b) 10% dionica bez prava glasa jednog izdavatelja
+c) 10% dužničkih vrijednosnih papira jednog izdavatelja
+d) 25% udjela pojedinog UCITS fonda ili drugog investicijskog fonda koji zadovoljava uvjete iz članka 4. stavka 1. točke 2. podtočaka a) i b) ovoga Zakona ili
+e) 10% instrumenata tržišta novca jednog izdavatelja.
+Ograničenja iz točaka c), d) i e) ovoga stavka mogu se zanemariti u trenutku stjecanja ako u tom trenutku nije moguće izračunati ukupan broj ili vrijednost instrumenata u optjecaju.
+(2) Ograničenja iz stavka 1. ovoga članka ne primjenjuju se na prenosive vrijednosne papire i instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica, jedinica lokalne i područne (regionalne) samouprave države članice, treća država ili javna međunarodna tijela kojima pripada jedna ili više država članica.
+Izuzeci od ograničenja ulaganja
+Članak 259.
+(1) Ograničenja ulaganja iz članaka 254. do 258. ovoga Zakona mogu se prekoračiti kada društvo za upravljanje za račun UCITS fonda ostvaruje prava prvenstva upisa ili prava upisa koja proizlaze iz prenosivih vrijednosnih papira ili instrumenata tržišta novca koji čine dio imovine fonda.
+(2) Ako su prekoračenja ograničenja ulaganja propisana ovim Zakonom, propisima donesenim na temelju ovoga Zakona i/ili prospektom UCITS fonda posljedica okolnosti na koje društvo za upravljanje nije moglo utjecati, promjene strategije ulaganja UCITS fonda ili okolnosti iz stavka 1. ovoga članka, društvo za upravljanje dužno je uskladiti ulaganja UCITS fonda u roku od tri mjeseca od dana nastanka prekoračenja ulaganja i poduzimati transakcije prodaje ponajprije u svrhu usklađenja ulaganja imovine UCITS fonda, pri čemu mora uzimati u obzir interese imatelja udjela, nastojeći pri tome eventualni gubitak svesti na najmanju moguću mjeru.
+(3) Iznimno, na zahtjev društva za upravljanje Agencija može produžiti rok iz stavka 2. ovoga članka za dodatna tri mjeseca ako je to u interesu ulagatelja.
+(4) Ako su prekoračenja ograničenja ulaganja propisana ovim Zakonom, propisima donesenim na temelju ovoga Zakona i/ili prospektom UCITS fonda posljedica transakcija koje je sklopilo društvo za upravljanje, a kojima su se u trenutku njihova sklapanja prekoračila navedena ograničenja, društvo za upravljanje dužno je uskladiti ulaganja UCITS fonda odmah po saznanju za prekoračenje ograničenja. Društvo za upravljanje dužno je fondu i/ili ulagateljima nadoknaditi tako nastalu štetu.
+(5) Ograničenja ulaganja navedena u ovom Zakonu mogu biti prekoračena u prvih šest mjeseci od osnivanja UCITS fonda, uz dužno poštivanje načela razdiobe rizika i zaštite interesa imatelja udjela.
+Članak 260.
+Agencija će pravilnikom detaljnije odrediti ograničenja ulaganja UCITS fondova.
+POGLAVLJE IV. KROVNI FOND
+Članak 261.
+(1) Društvo za upravljanje može osnovati krovni fond.
+(2) Krovni fond je UCITS fond koji se sastoji od dva ili više podfondova.
+(3) Svaki podfond jednoga krovnog fonda od

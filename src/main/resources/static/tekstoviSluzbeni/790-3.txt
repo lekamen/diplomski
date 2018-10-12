@@ -1,0 +1,33 @@
+ postupak izvlačenja slučajnim odabirom u prisutnosti javnog bilježnika.
+Administrativna kontrola postupka javne nabave
+Članak 16.
+(1) Agencija za plaćanja vrši administrativnu kontrolu provedbe postupka javne nabave.
+(2) Administrativna kontrola provedbe postupka javne nabave provodi se u fazi:
+1. administrativne kontrole zahtjeva za potporu
+2. dovršetka postupka javne nabave
+3. završne isplate.
+(3) Zajedno sa zahtjevom za potporu korisnik dostavlja Agenciji obveznu dokumentaciju za nadmetanje s prilozima te popratnom dokumentacijom koja se propisuje natječajem.
+(4) Po dovršetku postupka javne nabave, a najkasnije u roku od osam mjeseci od dana donošenja odluke o prihvatljivosti zahtjeva za potporu, korisnik dostavlja Agenciji za plaćanja dokumentaciju iz provedenog postupka javne nabave.
+(5) Zajedno sa zahtjevom za isplatu korisnik dostavlja dokumentaciju vezano uz postupak javne nabave i izvršenje ugovora koja se propisuje natječajem iz članka 12. ovoga Pravilnika.
+(6) Korisnik je u obvezi dostaviti dokumentaciju iz postupka javne nabave u elektronskom obliku na CD-u/DVD-u. Popis dokumentacije i način predaje dokumentacije na elektronskom mediju propisuje se natječajem.
+(7) Ukoliko je potrebno tražiti dodatna obrazloženja vezano uz dostavljenu dokumentaciju navedenu u stavku 4. i 5. ovoga članka Agencija za plaćanja će korisniku dostaviti zahtjev za dopunu/obrazloženje/ispravak.
+(8) Ukoliko korisnik nije preuzeo zahtjev za dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ukoliko korisnik ne preuzme zahtjev za dopunu niti nakon ponovljene dostave, zahtjev se objavljuje na oglasnoj ploči u sjedištu Agencije za plaćanja te se dostava smatra obavljenom istekom osmoga dana od dana stavljanja zahtjeva na oglasnu ploču.
+(9) Korisnik je dužan u roku od deset dana od dana zaprimanja zahtjeva za dopunu/obrazloženje/ispravak dostaviti dopunu/obrazloženje/ispravak.
+(10) U slučaju da dokumentacija iz postupka javne nabave nije prihvatljiva, Agencija za plaćanja donosi odluku o odbijanju zahtjeva za potporu čime se prethodno donesena odluka o prihvatljivosti zahtjeva za potporu stavlja izvan snage.
+(11) Ukoliko dokumentacija vezano uz postupak javne nabave i izvršenje ugovora koja se dostavlja sa zahtjevom za isplatu nije prihvatljiva, Agencija donosi odluku o odbijanju zahtjeva za isplatu.
+(12) Administrativna kontrola postupka javne nabave koju temeljem ovog Pravilnika provodi Agencija za plaćanja ne može se smatrati kontrolnim mehanizmima u smislu posebnih propisa koji uređuju postupak javne nabave.
+Donošenje odluka
+Članak 17.
+(1) U slučaju kada se nakon zaprimanja svih zahtjeva za potporu i provjere ukupnoga traženog iznosa potpore utvrdi da ima dovoljno raspoloživih sredstava, Agencija za plaćanja donijet će odluke po završetku administrativne kontrole svakog pojedinačnog zahtjeva za potporu.
+(2) Agencija za plaćanja će nakon obrade zahtjeva za potporu donijeti:
+1. odluku o prihvatljivosti zahtjeva za potporu, u slučaju pozitivne eliminacijske provjere zahtjeva za potporu
+2. odluku o dodjeli sredstava, u slučaju:
+– ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i natječajem iz članka 12. ovoga Pravilnika
+– prihvatljivosti dokumentacije iz provedenog postupka javne nabave dostavljene od strane korisnika prema obvezi sukladno članku 16. stavku 4. ovog Pravilnika.
+3. odluku o odbijanju, u slučaju:
+– neispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i natječajem iz članka 12. ovoga Pravilnika
+– nepravovremeno podnesenih zahtjeva za potporu i nepravovremeno/nepotpuno/neodgovarajuće dopunjenih zahtjeva za potporu
+– utvrđene nepravilnosti
+– da se utvrdi da su informacije dostavljene od strane korisnika lažne ili pogrešne
+– sprječavanja posjeta ulaganju ovlaštenih djelatnika Agencije za plaćanja od strane korisnika
+– da se utvrdi da je ulaganje za koje je podnesen zahtjev za potporu financirano iz drugih sredstava javne potpore, odnosno u slučaju

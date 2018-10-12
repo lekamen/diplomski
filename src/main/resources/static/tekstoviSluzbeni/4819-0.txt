@@ -1,0 +1,19 @@
+101 04.11.2016 Plan dodjele za frekvencijski pojas 28 GHz koji se koristi za mikrovalne veze
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+2168
+Na temelju članka 12. stavka 1. točke 9. i članka 82. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PLAN
+DODJELE ZA FREKVENCIJSKI POJAS 28 GHz KOJI SE KORISTI ZA MIKROVALNE VEZE
+Članak 1.
+Plan dodjele za frekvencijski pojas 28 GHz koji se koristi za mikrovalne veze, je kako slijedi:
+Tablica 1.
+Frekvencijski raspon: 27.5 – 29.5 GHz Kanalni raspored: T/R 13-02, Annex C ETSI norma: ETSI EN 302 217 Ostali dokumenti: ECC/DEC/(05)01 Napomene: Frekvencijsko područje se dodjeljuje i za mikrovalne veze gdje ne postoji optička vidljivost između krajnjih točaka, gdje se veza ostvaruje ogibom ili refleksijom radijske zrake te prolaskom zrake kroz vegetaciju. Frekvencijski podpojasevi 27500 – 27828.5, 28444.5 – 28836.5 i 29452.5 – 29500 MHz, te 28836.5 – 28948.5 MHz koriste se za nepokretne satelitske veze i ne dodjeljuju se za mikrovalne veze. Mogući kanalni rasporedi: 3.5, 7, 14, 28, 56 i 112 MHz Dupleksni razmak: 1008 MHz Centralna frekvencija f0: 28500.5 MHz Tablica kanalnog rasporeda: Tablica 2
+
+Tablica 2. - Frekvencijski nosioci
+
+Članak 2.
+Plan dodjele za frekvencijski pojas 28 GHz koji se koristi za mikrovalne veze stupa na snagu osmi dan od dana objave u »Narodnim novinama«.
+Klasa: 011-02/16-02/09
+Urbroj: 376-03/KB-16-2 (IS)
+Zagreb, 26. listopada 2016.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.

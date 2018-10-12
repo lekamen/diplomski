@@ -1,0 +1,25 @@
+2,
+9.15. Ugovori kojima se kupuje ili prodaje roba, dugotrajna materijalna imovina ili zalihe ne predstavljaju financijske instrumente. Međutim, ovaj Standard se primjenjuje na one ugovore ako bi iz tih ugovora za prodavatelja ili kupca mogli proizaći gubici, a koji nisu povezani s promjenama cijene predmeta nefinancijske imovine, promjenama valutnih tečajeva ili neispunjavanjem ugovora od strane jedne ugovorne strane.
+9.16. Ovaj se Standard primjenjuje i na ugovore o kupnji ili prodaji nefinancijske imovine kod kojih potraživanje ili obveza može biti podmirena u neto iznosu primitkom novca ili drugog financijskog instrumenta ili razmjenom financijskih instrumenata, osim ugovora koji su sklopljeni i traju u svrhu primanja ili isporučivanja nefinancijske imovine kao što je to slučaj kod kupnje, prodaje za upotrebu takve imovine od strane poduzetnika u okviru njegove djelatnosti.
+PRIZNAVANJE
+9.17. Poduzetnik priznaje financijsku imovinu u svojoj bilanci u trenutku kada postane jedna od ugovornih strana na koju se primjenjuju ugovorni uvjeti instrumenta. Redovna kupnja financijske imovine priznaje se temeljem računovodstva na datum trgovanja ili računovodstva na datum namire. Datum trgovanja je datum na koji se je poduzetnik obvezao na kupnju ili prodaju određene imovine. Datum namire je datum na koji je imovina isporučena poduzetniku ili na koji je poduzetnik imovinu isporučio.
+9.18. Pri početnom priznavanju poduzetnik će financijsku imovinu iz točke 9.4. b), d), e) i f) razvrstati u jednu od 4 kategorije, i to:
+a) financijska imovina čija se promjena fer vrijednosti priznaje u računu dobiti i gubitka,
+b) ulaganja koja se drže do dospijeća,
+c) zajmovi i potraživanja, ili
+d) financijska imovina raspoloživa za prodaju.
+MJERENJE
+9.19. Financijska imovina se početno mjeri po fer vrijednosti (trošku stjecanja) uvećano za transakcijske troškove, osim imovine čija se promjena fer vrijednosti priznaje u računu dobiti i gubitka. Pri početnom mjerenju ove imovine ne uključuju se transakcijski troškovi već oni terete rashode razdoblja.
+Transakcijski troškovi su troškovi koji se izravno pripisuju kupnji, izdavanju ili prodaji financijske imovine.
+9.20. Na svaki sljedeći datum bilance poduzetnik će:
+a) zajmove i potraživanja,
+b) ulaganja koja se drže do dospijeća
+mjeriti po amortizacijskom trošku primjenom metode efektivne kamatne stope. Efekti nastali naknadnim mjerenjem ove imovine priznaju se u računu dobiti i gubitka.
+9.21. Na svaki sljedeći datum bilance poduzetnik će ulaganja u vlasničke instrumente čija cijena ne kotira na aktivnom tržištu i čija se fer vrijednost ne može pouzdano utvrditi mjeriti po trošku stjecanja.
+9.22. Ostalu financijsku imovinu na svaki sljedeći datum bilance poduzetnik će mjeriti po fer vrijednosti bez umanjenja za iznos transakcijskih troškova. Promjena fer vrijednosti priznaje se:
+a) za imovinu raspoloživu za prodaju, izravno u kapital (rezervu fer vrijednosti),
+b) za ostalu financijsku imovinu, kao prihod ili rashod u računu dobiti i gubitka.
+9.23. Poduzetnik ne reklasificira financijsku imovinu nakon početnog priznavanja osim u skladu s točkom 9.24.
+9.24. Prilikom naknadnog mjerenja, ako fer vrijednost više nije dostupna za vlasnički instrument čija promjena fer vrijednosti se priznaje u računu dobiti ili gubitka, njegova zadnja poznata fer vrijednost je ujedno i knjigovodstvena vrijednost, te će poduzetnik nastaviti mjeriti takav instrument po knjigovodstvenoj vrijednosti ispravljenoj za umanjenje vrijednosti, ako postoji, dok fer vrijednost ne bude ponovno dostupna. Ova financijska imovina reklasificira se u skupinu raspoloživo za prodaju.
+9.25. Ulaganja u ovisna (povezana) društva, zajednički kontrolirane pothvate i društva povezana sudjelujućim interesom poduzetnik će mjeriti u skladu s HSFI 2 – Konsolidirani financijski izvještaji.
+9.26. Na potraživanja po osnovi financijskog najma primjenjivat će se odredbe HSFI 6 – Dugotrajna materijalna imovina u smislu njihovog priznavanja, mjerenja te

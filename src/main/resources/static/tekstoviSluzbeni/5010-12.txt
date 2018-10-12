@@ -1,0 +1,24 @@
+ Ministarstva obrane i Oružanih snaga prema sudionicima operacije potpore miru.
+UPUTE ZA DONOŠENJE OCJENE ZDRAVSTVENE SPOSOBNOSTI
+Ad Skupina I. Ocjena zdravstvene sposobnosti donosi se na temelju nalaza liječnika infektologa, epidemiologa i/ili drugih nadležnih specijalista i polikliničko-bolničko-kliničkih ispitivanja.
+Ad 1. do 2. Za dijagnostičku potvrdu tuberkuloze obvezan je radiološki nalaz, bakteriološki/histološki nalaz, nalaz pulmologa i drugih specijalista (ovisno o lokalizaciji). Tuberkuloza urogenitalnih organa mora biti dokazana nalazom uzročnika u urinu ili histološkim nalazom.
+Inaktivna tuberkuloza podrazumijeva prije neliječenu tuberkulozu ili izliječenu tuberkulozu ako je od prestanka liječenja prošlo godinu dana. Zdravstveno stanje u slučaju inaktivne tuberkuloze s funkcionalnim oštećenjem bilo kojeg stupnja može se ocijeniti i u skladu s točkama popisa bolesti ovoga Popisa za pojedine organe/organske sustave.
+Ad 1.2., 1.3. i 1.4. Stupanj oštećenja funkcije pluća utvrđuje se u skladu s izmjerenim vrijednostima vitalnog kapaciteta (VK) i forsiranog ekspiratornog volumena nakon prve sekunde forsirane ekspiracije:
+– oštećenje funkcije pluća lakog stupnja: VK = 80%–65% i/ili ako vrijednost ostvarenog postotka FEV1/VK, podijeljena s teorijskom vrijednosti FEV1/VK, iznosi 89%–70%.
+– oštećenje funkcije pluća srednjeg stupnja VK=64%–50% i/ili ako vrijednost ostvarenog postotka FEV1/VK, podijeljena s teorijskom vrijednosti FEV1/VK, iznosi 69% – 50%
+– oštećenje funkcije pluća teškog stupnja = VK manji od 50% i/ili ako vrijednost ostvarenog postotka FEV1/VK iznosi manje od 50%.
+Ad 3. Virusni hepatitis mora biti utvrđen specijalističko-konzilijarnom obradom. U dijagnostičkoj obradi potrebno je učiniti: AST, ALT, gama GT i serološko testiranje (markeri na viruse hepatitisa). Osnovni nalaz za donošenje ocjene nesposobnosti kod kroničnog virusnog hepatitisa je nalaz i mišljenje specijalista gastroenterologa uz nalaze kontinuirano povišenih jetrenih enzima i prisutnost HBsAg ili drugog odgovarajućeg antigena virusa hepatitisa.
+Ocjena 3 donosi se u slučajevima sporadično povišenih jetrenih enzima.
+Zdravstveno stanje s utvrđenim funkcionalnim oštećenjem zahvaćenog organa/organskog sustava može se ocijeniti i u skladu s točkama popisa bolesti ovoga Popisa za zahvaćeni organ/organski sustav.
+Ad 4. Ocjena zdravstvene sposobnosti određuje se na temelju specijalističkih polikliničko-bolničkih nalaza i ispitivanja.
+Ad 5. Ocjena zdravstvene sposobnosti određuje se na temelju specijalističkih polikliničko-bolničkih nalaza i ispitivanja. Zdravstveno stanje s utvrđenim funkcionalnim oštećenjem zahvaćenog organa/organskog sustava može se ocijeniti i u skladu s točkama popisa bolesti ovoga Popisa za zahvaćeni organ/organski sustav.
+Ocjena 4 donosi se kada je bolest potvrđena i ne nalazi se funkcionalnih oštećenja, a u svrhu prevencije progresije bolesti.
+Ocjena 4 donosi se i u slučajevima lakšeg funkcionalnog oštećenja.
+Ocjena 3 donosi se u slučajevima srednje teškog funkcionalnog oštećenja.
+Ocjena 1 donosi se u slučajevima teškog funkcionalnog oštećenja i trajnog kliconoštva.
+Ad Skupina II. Ocjena zdravstvene sposobnosti donosi se na temelju nalaza nadležnog specijalista i polikliničko-bolničko-kliničkih ispitivanja i liječenja.
+Ad 6. Ocjena zdravstvene sposobnosti zbog utvrđenih zloćudnih novotvorina ovisi o veličini, lokalizaciji i o histološkom nalazu dobivenom na temelju bolničko-kliničkog ispitivanja.
+Ocjena 4 donosi se za slučajeve koji su na dan zdravstvenog pregleda u remisiji, bez funkcionalnih oštećenja organa/organskih sustava.
+Ocjena 3 donosi se za slučajeve koji su na dan zdravstvenog pregleda u remisiji, uz postojanje lakših funkcionalnih oštećenja organa/organskih sustava.
+Ocjena 1 donosi se za slučajeve sa srednjim i težim funkcionalnim oštećenjem zahvaćenih organa/organskih sustava.
+Zdravstveno stanje s utvrđenim funkcionalnim oštećenjem zahvaćenog organa/organskog sustava može se ocijeniti i u skladu s točkama popisa

@@ -1,0 +1,50 @@
+za slijetanje i uzlijetanje
+34) zaštićene zone leta (protected flight zones): posebno utvrđeni zračni prostori u cilju umanjenja opasnih učinaka laserskog isijavanja,
+35) znak (sign):
+a) znak sa nepromjenjivom informacijom (fixed message sign): znak koji daje samo jednu trajno postavljenu informaciju,
+b) znak sa promjenljivim informacijama (variable message sign): znak koji može prikazivati nekoliko prethodno utvrđenih informacija ili biti bez informacije,
+36) zona bez prepreka (obstacle free zone): zračni prostor iznad unutarnje prilazne površine, unutarnjih prijelaznih površina i površine prekinutog slijetanja, te dijela zaštitnog područja površine za slijetanje i uzlijetanje ograničenog tim površinama, koji nije probijen nikakvom nepokretnom preprekom osim lakog i lomljivog uređaja namijenjenog sigurnosti zračne plovidbe.
+(2) Kratice koje se upotrebljavaju u ovom Pravilniku imaju sljedeće značenje:
+1) C – degree Celsius (Celzijev stupanj, oznaka mjerne jedinice za Celzijevu temperaturu),
+2) cm – centimetre (centimetar),
+3) ft – foot (oznaka mjerne jedinice za vertikalnu udaljenost),
+4) km – kilometre (kilometar),
+5) km/h – kilometres per hour (kilometara na sat),
+6) kt – knot (čvor, oznaka mjerne jedinice za brzinu),
+7) m – metre (metar, oznaka mjerne jedinice za duljinu),
+8) OCA/H – Obstacle clearance altitude/height (visina nadvišenja prepreka/visina),
+9) OFZ – Obstacle free zone (zona bez prepreka),
+10) VFR – Visual flight rules (pravila vizualnog letenja).
+(3) Simboli koji se upotrebljavaju u ovom Pravilniku imaju sljedeće značenje:
+° Stupanj (Degree)
+= Jednako (Equals)
+> Više od (Greater than)
+< Manje od (Less than)
+% Postotak (Percentage)
+± Plus ili minus (Plus or minus).
+Položajni referentni sustav
+Članak 3.
+(1) Svjetski geodetski sustav-1984 (World Geodetic System -1984) (u daljnjem tekstu: WGS-84) koristi se kao položajni (geodetski) referentni sustav.
+(2) Sve geografske koordinate (širine i dužine) moraju biti izražene u WGS-84.
+Visinski referentni sustav
+Članak 4.
+Srednja razina mora (MSL), kojom se izražava odnos gravitacijske visine (razine) u odnosu na površinu poznatu kao geoid, koristi se kao visinski referentni sustav.
+Vremenski referentni sustav
+Članak 5.
+(1) Gregorijanski kalendar i koordinirano (univerzalno) svjetsko vrijeme (UTC) koristi se kao vremenski referentni sustav.
+(2) Ako se koristi neki drugi vremenski referentni sustav (na primjer lokalno vrijeme), to mora biti naznačeno u točki 2.1.2 poglavlja GEN (GEN 2.1.2) Zbornika zrakoplovnih informacija (u daljnjem tekstu: AIP).
+Certificiranje aerodroma na vodi
+Članak 6.
+(1) Operatori aerodroma na vodi namijenjenih za prihvat i otpremu hidroaviona najveće dopuštene uzletne mase veće od 5.700 kg kojima se obavlja komercijalni zračni prijevoz moraju ishoditi svjedodžbu aerodroma.
+(2) Operatori aerodroma na vodi namijenjenih za obavljanje svih vrsta letačkih operacija, osim komercijalnog zračnog prijevoza sa zrakoplovima najveće dopuštene uzletne mase veće od 5.700 kg, moraju ishoditi odobrenje za uporabu aerodroma.
+Sustav upravljanja sigurnošću
+Članak 7.
+(1) U cilju postizanja prihvatljive razine sigurnosti aerodromskih operacija, sustav upravljanja sigurnošću na aerodromu na vodi mora biti usklađen sa Nacionalnim programom sigurnosti.
+(2) Pored ostalog, sustav upravljanja sigurnošću aerodroma na vodi mora sadržavati:
+a) adekvatnu procjenu sigurnosnog rizika radnih procesa kojih su nositelji zaposlenici aerodroma na vodi,
+b) periodičnu redefiniciju procjene sigurnosnog rizika.
+(3) Svi objekti, operativna površina, instalacije, uređaji, sredstva i druga oprema aerodroma na vodi moraju biti održavani i korišteni na način kojim će se osigurati kontinuirano:
+a) održavanje prihvatljive razine sigurnosti, te
+b) unapređenje postignute (prihvatljive) razine sigurnosti.
+(4) Operator aerodroma na vodi definira temeljna načela sigurnosti i osigurava njihovu primjenu:
+a) od strane svih zaposlenika aerodroma na vodi, drugih pružatelja zemaljskih usluga i korisnika

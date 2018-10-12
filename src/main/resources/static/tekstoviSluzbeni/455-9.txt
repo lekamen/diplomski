@@ -1,0 +1,34 @@
+ plaćanja će izdati Odluku o odbijanju.
+RANGIRANJE ZAHTJEVA ZA POTPORU
+Članak 31.
+(1) Nakon zaprimanja Zahtjeva za potporu, Zahtjevima se dodjeljuju bodovi temeljem kriterija odabira Zahtjeva za potporu iz Priloga I ovoga Pravilnika.
+(2) Ukoliko korisnik prilikom podnošenja Zahtjeva za potporu ne učita dokumentaciju na temelju koje se dodjeljuju bodovi sukladno kriterijima odabira, Zahtjevu se neće dodijeliti bodovi za određeni kriterij odabira što će rezultirati manjim ukupnim brojem bodova.
+(3) Nakon administrativne kontrole pristiglih Zahtjeva za potporu, za sve potpune, pravovremene i prihvatljive Zahtjeve za potporu formira se rang-lista sukladno kriterijima odabira Zahtjeva za potporu koji su navedeni u Prilogu I ovoga Pravilnika i čine njegov sastavni dio.
+(4) U slučaju da dva ili više Zahtjeva za potporu imaju isti broj bodova prednost na rang-listi imaju Zahtjevi s ranijim vremenom podnošenja Zahtjeva za potporu na Natječaj (datum, sat, minuta, sekunda).
+(5) Ukoliko dva ili više Zahtjeva za potporu imaju jednaki broj bodova i jednako vrijeme podnošenja Zahtjeva za potporu, a navedeno uvjetuje dodjelu potpore, provest će se postupak izvlačenja slučajnim odabirom u prisutnosti javnog bilježnika.
+JAVNA NABAVA
+Članak 32.
+(1) Postupak javne nabave za nabavu robe, radova ili usluga u provedbi podmjera propisanih ovim Pravilnikom provodi se prema Zakonu o javnoj nabavi. Postupak javne nabave provodi se prije podnošenja Zahtjeva za potporu. Postupak javne nabave obvezni su provesti oni korisnici koji su obveznici provedbe postupka javne nabave prema Zakonu o javnoj nabavi i podzakonskim propisima temeljem Zakona o javnoj nabavi.
+(2) Agencija za plaćanja kontrolira i odobrava provedeni postupak javne nabave.
+(3) Korisnik je u obvezi dostaviti dokumentaciju iz postupka javne nabave u elektronskom obliku na CD-u/DVD-u prilikom podnošenja Zahtjeva za potporu. Popis dokumentacije te način predaje dokumentacije na elektronskom mediju je prilog ovoga Pravilnika.
+(4) Ukoliko je potrebno tražiti dodatna obrazloženja vezano uz dostavljenu dokumentaciju, Agencija za plaćanja će putem elektroničke pošte od korisnika tražiti obrazloženje.
+(5) Korisnik je dužan u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanja dostaviti obrazloženje.
+(6) Kontrolni mehanizmi koje temeljem ovog Pravilnika provodi Agencija za plaćanja ne mogu se smatrati kontrolnim mehanizmima u smislu Zakona o javnoj nabavi. Kontrole Agencije za plaćanja ne mogu rezultirati formalno pravnim posljedicama propisanim Zakonom o javnoj nabavi.
+IZDAVANJE ODLUKA
+Članak 33.
+(1) U slučaju kada se nakon zaprimanja svih Zahtjeva za potporu i provjere ukupnog traženog iznosa potpore utvrdi da ima dovoljno raspoloživih sredstava, Agencija za plaćanja će izdati Odluke po završetku administrativne kontrole svakog pojedinačnog Zahtjeva za potporu.
+(2) Agencija za plaćanja će nakon obrade Zahtjeva za potporu donijeti:
+a) Odluku o dodjeli sredstava, u slučaju:
+– ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i Natječajem;
+b) Odluku o odbijanju, u slučaju:
+– neispunjavanja uvjeta i kriterija propisanih Pravilnikom i Natječajem,
+– nepravovremeno podnesenih Zahtjeva za potporu
+– nepotpunih Zahtjeva za potporu,
+– nepravovremeno dostavljenih i/ili nepotpunih odgovora na Zahtjev za obrazloženje/ispravak,
+– da je korisnik započeo s ulaganjem prije podnošenja Zahtjeva za potporu,
+– utvrđene nepravilnosti,
+– da se utvrdi da su informacije dostavljene od strane korisnika ili ponuditelja lažne ili pogrešne,
+– da se utvrdi da je ulaganje za koje je podnesen Zahtjev za potporu za financiranje unutar EPFRR-a, financirano drugim sredstvima proračuna EU,
+– da su cijene u dostavljenim ponudama namjerno uvećane,
+– sprječavanja posjeta ulaganju predstavnicima Agencije za plaćanja od strane korisnika,
+– da se, uvažavajući odredbe Zakona o javnoj nabavi i ovog Pravilnika, utvrdi da dokumentacija iz provedenog postupka javne nabave nije dostavljena Agenciji za

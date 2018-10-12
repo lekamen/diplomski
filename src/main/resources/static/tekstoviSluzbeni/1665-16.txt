@@ -1,0 +1,36 @@
+ operator sustava će o svom trošku poduzeti jednu od sljedećih mjera:
+– ugraditi korisniku mreže brojilo s daljinskim očitanjem ili
+– premjestiti obračunsko mjerno mjesto korisnika mreže na lokaciju dostupnu operatoru sustava.
+(7) Korisnik mreže dužan je omogućiti operatoru sustava provedbu mjera iz stavka 6. ovoga članka, u protivnom operator sustava ima pravo privremeno obustaviti isporuku električne energije korisniku mreže, bez prethodne najave.
+Članak 57.
+(1) Operator distribucijskog sustava dužan je krajnjem kupcu iz kategorije kućanstvo na njegov zahtjev omogućiti da sam očitava stanje brojila i da podatke o stanju brojila redovito mjesečno dostavlja operatoru distribucijskog sustava (samoočitanje stanja brojila).
+(2) Krajnji kupac iz stavka 1. ovoga članka dužan je operatoru distribucijskog sustava redovito mjesečno dostavljati podatke o stanju brojila na način, u rokovima i za razdoblje odobreno prema zahtjevu iz stavka 1. ovoga članka.
+(3) Krajnji kupac iz stavka 2. ovoga članka ima mjesečno obračunsko razdoblje na temelju obračuna čija se izrada ne naplaćuje.
+(4) U mjesecu u kojem krajnji kupac iz stavka 2. ovoga članka ne dostavi operatoru distribucijskog sustava podatke o stanju brojila, obračun se temelji na potrošnji električne energije koju procjenjuje operator distribucijskog sustava.
+(5) Krajnjem kupcu iz stavka 2. ovoga članka koji u tri uzastopna mjeseca ne dostavi podatke o stanju brojila, operator distribucijskog sustava će, nakon prethodne pisane obavijesti, ukinuti pravo na samoočitanje stanja brojila do isteka sljedećeg polugodišnjeg obračunskog razdoblja krajnjeg kupca.
+(6) Krajnji kupac iz stavka 2. ovoga članka gubi pravo na samoočitanje stanja brojila u sljedeće tri kalendarske godine ako se polugodišnja potrošnja električne energije određena na temelju članka 60. ovih Općih uvjeta razlikuje za više od 50% od zbroja šest uzastopnih mjesečnih potrošnji izračunatih na temelju podataka o stanju brojila dostavljenih sukladno stavku 2. ovoga članka.
+(7) Krajnji kupac iz stavka 2. ovoga članka kojemu je ukinuto pravo na samoočitanje stanja brojila, novi zahtjev može podnijeti nakon isteka razdoblja za koje je izgubio pravo samoočitanja stanja brojila iz stavaka 5. i 6. ovoga članka.
+Članak 58.
+(1) Operator sustava jednom mjesečno daljinski očitava mjerne podatke proizvođača.
+(2) Troškove očitanja iz stavka 1. ovoga članka plaća proizvođač, u skladu s pravilima i cjenikom nestandardnih usluga operatora sustava.
+Članak 59.
+Operator sustava dužan je svakih 30 dana, s dopuštenim odstupanjem ± 3 dana, očitati mjerne podatke krajnjeg kupca s mjesečnim obračunskim razdobljem.
+Članak 60.
+Operator sustava dužan je svakih šest mjeseci, s dopuštenim odstupanjem ± 15 dana, očitati mjerne podatke krajnjeg kupca s polugodišnjim obračunskim razdobljem, na temelju čega određuje polugodišnju potrošnju električne energije krajnjeg kupca.
+Članak 61.
+Operator sustava, ovisno o kategoriji kupaca i tarifnom modelu, očitava sljedeće mjerne podatke:
+– radnu energiju po jedinstvenoj dnevnoj tarifi,
+– radnu energiju po višoj dnevnoj tarifi,
+– radnu energiju po nižoj dnevnoj tarifi,
+– radnu snagu,
+– jalovu energiju i
+– krivulju opterećenja.
+Članak 62.
+(1) Kada se obračunsko mjerno mjesto krajnjeg kupca ne nalazi na mjestu preuzimanja električne energije, potrošnja se određuje uvažavajući gubitke električne energije na opremi između mjesta preuzimanja električne energije i obračunskog mjernog mjesta.
+(2) Način određivanja potrošnje iz stavka 1. ovoga članka uređuje se ugovorom o korištenju mreže.
+Članak 63.
+Operator sustava će procijeniti potrošnju električne energije krajnjeg kupca:
+– u slučaju nemogućnosti očitanja stanja brojila,
+– ako krajnji kupac nije dostavio operatoru sustava podatke o stanju brojila, sukladno članku 57. stavku 4. ovih Općih uvjeta,
+– ako stanje brojila koje je dostavio krajnji kupac sukladno članku 71. ovih Općih uvjeta odstupa za više od 30% u odnosu na odgovarajuće prethodno obračunsko razdoblje.
+Članak 

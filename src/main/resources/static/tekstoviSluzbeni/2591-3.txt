@@ -1,0 +1,26 @@
+ sa središnjim tijelom državne uprave nadležnim za sustav civilne zaštite, na prikladan i javno dostupan način obavješćuje i upoznaje korisnike usluga sa svrhom i načinom uporabe broja 112.
+Zabrana zlouporabe poziva na broj 112
+Članak 8.
+(1) Zabranjena je svaka zlouporaba poziva na broj 112, što osobito obuhvaća sve vrste zlonamjernih ili uznemiravajućih poziva.
+(2) U slučaju utvrđene zlouporabe poziva na broj 112 operatori moraju, na temelju pisanog zahtjeva Centra 112, privremeno isključiti iz elektroničke komunikacijske mreže pretplatničku ili korisničku terminalnu opremu pretplatnika ili korisnika usluga za kojeg se utvrdi počinjenje te zlouporabe, i to u trajanju od sedam dana, uz mogućnost primanja dolaznih poziva u tom razdoblju.
+(3) Ako se utvrdi da je pretplatnik ili korisnik usluga iz stavka 2. ovoga članka ponovno počinio zlouporabu poziva na broj 112, njegova pretplatnička ili korisnička terminalna oprema privremeno će se isključiti iz elektroničke komunikacijske mreže u trajanju od 30 dana, uz mogućnost primanja dolaznih poziva u tom razdoblju.
+(4) Ako se i nakon isteka razdoblja iz stavka 3. ovoga članka utvrdi da je isti pretplatnik ili korisnik usluga ponovno počinio zlouporabu poziva na broj 112, operator će njegovu pretplatničku ili korisničku terminalnu opremu trajno isključiti iz elektroničke komunikacijske mreže te raskinuti pretplatnički odnos, u skladu s općim uvjetima poslovanja.
+(5) Postupak utvrđivanja zlouporabe poziva na broj 112 i način postupanja u slučaju utvrđene zlouporabe poziva na broj 112 pobliže se propisuju naputkom koji donosi čelnik središnjeg tijela državne uprave nadležnog za sustav civilne zaštite, uz prethodnu suglasnost Agencije.
+(6) Primjena mjera iz stavaka 2., 3. i 4. ovoga članka ne isključuje odgovornost pretplatnika ili korisnika usluga u skladu s općim propisima o prekršajnoj i kaznenoj odgovornosti.
+Nadzor
+Članak 9.
+Nadzor nad kakvoćom usluge poziva na broj 112, uključujući i ocjenjivanje sukladnosti djelovanja Centra 112 u odnosu na e-poziv, obavlja Agencija u okviru provedbe propisanih poslova inspekcijskog nadzora nad primjenom Zakona o elektroničkim komunikacijama i propisa donesenih na temelju toga Zakona.
+Prijelazne odredbe
+Članak 10.
+(1) Agencija će dostaviti izvješće Europskoj komisiji o stanju provedbe odredaba ovoga Pravilnika kojima se uređuje e-poziv, a koje izvješće osobito mora sadržavati naziv tijela kojem je povjereno ocjenjivanje sukladnosti djelovanja Centra 112 u odnosu na e-poziv, popis lokacija Centra 112 na kojima je omogućeno zaprimanje e-poziva i zemljopisno područje koje pokrivaju te lokacije, opis testova sukladnosti te opis protokola za privatnost i zaštitu podataka.
+(2) Operatori, koji pružaju javne komunikacijske usluge ili daju na korištenje javnu komunikacijsku mrežu na dan stupanja na snagu ovoga Pravilnika, moraju uskladiti svoje opće uvjete poslovanja s odredbama ovoga Pravilnika do 1. srpnja 2016.
+Propis koji prestaje važiti
+Članak 11.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o jedinstvenom europskom broju za hitne službe (»Narodne novine«, br. 82/09.).
+Stupanje na snagu Pravilnika
+Članak 12.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredaba ovoga Pravilnika kojima se uređuju obveze operatora u vezi s e-pozivom i SMS porukama na broj 112, te obveza dostave podataka o imenu i prezimenu ili nazivu pozivatelja i o geokodiranoj lokaciji pozivatelja i osoba iz članka 4. stavka 6. ovoga Pravilnika, a koje stupaju na snagu 1. srpnja 2016.
+Klasa: 011-01/15-01/67
+Urbroj: 530-06-2-15-3
+Zagreb, 18. prosinca 2015.
+Ministar dr. sc. Siniša Hajdaš Dončić, v. r.

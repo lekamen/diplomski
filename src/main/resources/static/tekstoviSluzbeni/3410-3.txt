@@ -1,0 +1,21 @@
+ obeštećenja utvrđen iznos prava na obeštećenje. Nalog za isplatu obeštećenja sadrži podatke o deponentu i iznosu obeštećenja za isplatu.
+Članak 17.
+U postupku isplate obeštećenja isplatna kreditna institucija je dužna:
+1) provoditi isplatu obeštećenja sukladno ugovoru o nalogu, koji sklapa s Agencijom, te sukladno ovom Pravilniku i Zakonu,
+2) utvrditi postoji li u bazi podataka obračun obeštećenja i nalog za isplatu obeštećenja za svakog deponenta koji zatraži isplatu,
+3) nakon što utvrdi da je za deponenta obračunato obeštećenje i da je izdan nalog za isplatu obeštećenja, pri isplati obeštećenja provesti identifikaciju deponenta ili osobe ovlaštene za ostvarenje prava na isplatu obeštećenja,
+4) provesti isplatu obeštećenja deponentu ili osobi ovlaštenoj za ostvarenje prava na isplatu obeštećenja koja je suglasna s obračunom obeštećenja.
+Članak 18.
+(1) Identifikacija deponenta ili osobe ovlaštene za ostvarenje prava na isplatu obeštećenja iz članka 17. stavka 1. točke 3. ovoga Pravilnika provodi se predočenjem važeće osobne iskaznice ili putovnice, odnosno predočenjem druge važeće identifikacijske isprave te dokumenta o ovlaštenju:
+1) zakonski zastupnik nefinancijskog društva ili neprofitne institucije koja služi kućanstvima mora predočiti izvornik izvoda iz sudskog registra ili drugog registra koji nije stariji od 30 dana, odnosno ovjerenu presliku izvoda, ovjereni prijepis ili drugu odgovarajuću javnu ispravu iz koje je vidljivo ovlaštenje za zastupanje te pravne osobe,
+2) opunomoćenik nefinancijskog društva ili neprofitne institucije koja služi kućanstvima mora predočiti izvornik punomoći za ostvarenje prava na obeštećenje, potpisanu od zakonskog zastupnika nefinancijskog društva ili neprofitne institucije koja služi kućanstvima,
+3) osoba ovlaštena za zastupanje jedinice lokalne i područne (regionalne) samouprave mora predočiti izvornik akta izvršnog tijela jedinice lokalne i područne (regionalne) samouprave, odnosno ovjerenu presliku akta, ovjereni prijepis ili drugu odgovarajuću javnu ispravu iz koje je vidljivo ovlaštenje za zastupanje,
+4) fizička osoba koja obavlja samostalnu djelatnost mora predočiti izvornik izvatka iz registra u koji je upisana koji nije stariji od 30 dana, odnosno ovjerenu presliku ili ovjereni prijepis izvatka,
+5) opunomoćenik fizičke osobe mora predočiti izvornik punomoći za ostvarenje prava na obeštećenje, potpisanu od deponenta,
+6) opunomoćenik fizičke osobe koja obavlja samostalnu djelatnost mora predočiti izvornik punomoći za ostvarenje prava na obeštećenje, potpisanu od fizičke osobe koja obavlja djelatnost slobodnih zanimanja,
+7) zakonski zastupnik maloljetne osobe mora predočiti izvornik ili ovjerenu presliku ili ovjereni prijepis rodnog lista ili izvoda iz matične knjige rođenih maloljetne fizičke osobe na koju glasi obračun obeštećenja i nalog za isplatu obeštećenja,
+8) skrbnik odnosno staratelj odnosno zakonski zastupnik fizičke osobe mora predočiti izvornik ili ovjerenu presliku ili ovjereni prijepis odgovarajućeg pravomoćnog rješenja Centra za socijalnu skrb iz kojeg proizlazi status skrbnika odnosno staratelja i kojim dokazuje pravo na obeštećenje.
+(2) Potpis opunomoćitelja mora ovjeriti javni bilježnik odnosno domaće ili strano nadležno tijelo, ovlaštena osoba diplomatskog ili konzularnog predstavništva države opunomoćitelja ili Republike Hrvatske. Punomoć mora biti sastavljena na hrvatskom jeziku ili prevedena na hrvatski jezik te ovjerena od ovlaštenog sudskog tumača.
+(3) Ostvarenje prava na obeštećenje ne može se provesti temeljem punomoći kojom je opunomoćenik imao pravo raspolaganja depozitom u redovnom poslovanju kreditne institucije već samo temeljem punomoći za ostvarenje prava na obeštećenje.
+(4) Obrazac punomoći može se preuzeti u poslovnicama isplatne kreditne institucije ili s mrežne stranice isplatne kreditne institucije ili Agencije.
+(5) Radi potpunije identifikacije deponent mora predočiti i izvorni dokument o depozitu, odnosno štednu knjižicu, ugovor o oročenju ili

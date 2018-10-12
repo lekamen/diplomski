@@ -1,0 +1,31 @@
+
+(2) Zadužena osoba za pismohranu dužna je pregledati sve preuzeto gradivo i provjeriti točnost upisanih podataka. Po prijemu i obradi arhivskoga i registraturnog gradiva na način propisan u odredbama ovoga Pravilnika, gradivo se raspoređuje na police, odnosno ormare, u odgovarajućim prostorijama.
+Arhivsko i registraturno gradivo razvrstava se prema sadržajnim cjelinama, vremenu nastanka, vrstama gradiva i rokovima čuvanja.
+(3) Arhivsko gradivo označeno određenim stupnjem tajnosti odlaže se i čuva u zaključanim metalnim ormarima.
+Članak 12.
+Personalna dokumentacija od statusnog značenja za zaposlene u DSV-u odlaže se primjenom načela personalnih dosjea. Pod personalnom dokumentacijom smatraju se:
+– dokumentacija o školskoj/stručnoj spremi, stečenim zvanjima, stručnim i drugim ispitima,
+– rješenje o prijemu u državnu službu, rješenja o rasporedu na radno mjesto i rješenja o premještaju,
+– odluke i važniju dokumentacija koja pokazuje prirodu radnog spora,
+– rješenje o ocjeni,
+– odluke u disciplinskom postupku,
+– seminari,
+– certifikat te uvjerenja i potvrde o položenim ispitima,
+– rješenje o zamjeni za vrijeme odsutnog službenika,
+– rodiljni dopust.
+Članak 13.
+Osobna dokumentacija izvan one navedene u članku 12. ovog Pravilnika (npr. rješenja o godišnjim odmorima i sl.) ne odlaže se u personalni dosje, već u posebne spise zasebno zbog ograničenog roka čuvanja.
+Članak 14.
+(1) Personalni dosjei čuvaju se neposredno u Tajništvu DSV-a.
+(2) Stariji dio personalnih dosjea, koji se odnosi na umirovljene službenike ili namještenike DSV-a, ili one kojima je u DSV prestala državna služba, odnosno radni staž, predaje se u Pismohranu, gdje se odlaže prema pravilima koja važe za čuvanje arhivskog gradiva.
+Članak 15.
+(1) Računovodstvena dokumentacija odlaže se u fascikle i registratore, na kojima se ispisuju naziv stvaratelja, vrste dokumenata, razdoblje njihova nastanka ili granični redni brojevi te godište nastanka.
+(2) Računovodstvena dokumentacija se nakon isteka dvije godine od završene obrade odlaže u Pismohranu, gdje se čuva do izlučivanja ili ostaje na trajnom čuvanju, u skladu s mjerodavnim propisima.
+III/2 Nekonvencionalno gradivo
+Članak 16.
+(1) Dokumenti nastali ili zaprimljeni u elektroničkom obliku, baze podataka, elektroničke kopije dokumenata i drugi elektronički zapisi nastali u poslovanju čuvaju se na način koji ih osigurava od neovlaštenog pristupa, brisanja, mijenjanja ili gubitka podataka, u skladu s važećim standardima te dobroj praksi upravljanja i zaštite informacijskih sustava.
+(2) Za svaki računalni sustav, odnosno aplikaciju koja se koristi za pohranu ili rad s elektroničkim dokumentima i drugim elektroničkim zapisima, obvezno je odrediti osobu koja je odgovorna za zaštitu podataka, redovitu izradu sigurnosnih kopija i arhiviranje podataka, te u pisanom obliku utvrditi postupak i učestalost izrade sigurnosnih kopija, te postupak obnove podataka u slučaju pogreške ili gubitka podataka. Postupci izrade sigurnosnih kopija i obnove podataka trebaju biti takvi da omoguće sigurnu i cjelovitu obnovu podataka u kratkom roku.
+Članak 17.
+Kod uvođenja ili izmjena aplikacije, baze podataka ili formata zapisa, obvezno je u pisanom obliku opisati: svrhu, opseg i način korištenja aplikacije; minimalne hardverske i softverske zahtjeve; mjere zaštite zapisa od neovlaštenoga pristupa, mijenjanja i gubitka podataka; format i strukturu zapisa; predviđeni način trajne pohrane zapisa (npr. čuvanje u izvornom formatu, konverzija u drugi format, kopiranje na drugi medij i dr.); način (tehnologija) na koji će se osigurati pristup podacima ako je predviđeno čuvanje izvan izvornoga hardverskoga i softverskog okruženja; način predaje gradiva arhivu (format zapisa i medij, aplikacija/tehnologija za pristup podacima koja treba omogućiti iskoristivost podataka nakon predaje, dokumentacija o aplikaciji i strukturi zapisa, dokumentacija o postupku pripreme za predaju).
+Članak 18.
+(1) Elektronički dokumenti i drugi elektronički zapisi arhiviraju se i

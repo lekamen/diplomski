@@ -1,0 +1,75 @@
+ hidrografski institut redaktorskim planom izrade službenih pomorskih navigacijskih karata, uredničkim planom izrade službenih pomorskih navigacijskih publikacija i tehnološkim planom izrade službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija, koji se donose u skladu s aktom Hrvatskog hidrografskog instituta kojim se utvrđuje pisanje (projektiranje), izrada, tiskanje i održavanje pomorskih karata i publikacija.
+VII. KORIŠTENJE I POHRANJIVANJE PODATAKA
+Članak 32.
+(1) Djelatnici Hrvatskog hidrografskog instituta koji su uključeni u izradu i održavanje hidrografskih i kartografskih baza podataka, službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija obvezni su osigurati zaštitu podataka u skladu s propisima o zaštiti tajnosti podataka poštujući specifičnosti primijenjene tehnologije.
+(2) Način pohranjivanja dokumentacije i podataka utvrđuje se aktom Hrvatskog hidrografskog instituta za svaku pojedinačnu grupu proizvoda.
+Članak 33.
+(1) Tijela državne uprave, jedinice područne (regionalne) samouprave, jedinice lokalne samouprave, pravne i fizičke osobe mogu zatražiti licencno korištenje podataka Hrvatskog hidrografskog instituta u izvedenim komercijalnim i nekomercijalnim proizvodima.
+(2) Uvjete, način korištenja i iznos naknade za licencno korištenje podataka iz stavka 1. ovoga članka utvrđuje Hrvatski hidrografski institut posebnim aktom.
+(3) Uvid u podatke i korištenje podataka iz stavka 1. ovoga članka Hrvatski hidrografski institut može ograničiti u opsegu koji zahtijeva interes sigurnosti i obrane, odnosno zaštitu podataka Hrvatskog hidrografskog instituta, a koji je određen u skladu s posebnim propisima.
+VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 34.
+Do uspostave hidrografskog informacijskog sustava iz članka 8. ovoga Pravilnika, koriste se postojeći postupci izrade službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija u skladu s važećim pravilima i planovima izrade Hrvatskog hidrografskog instituta.
+Članak 35.
+(1) Hrvatski hidrografski institut će u roku do šest mjeseci od dana uspostave hidrografskog informacijskog sustava uspostaviti hidrografske i kartografske baze podataka.
+(2) Do uspostave hidrografskih i kartografskih baza podataka iz stavka 1. ovog članka, baze podataka službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija uspostavljene su kao lokalne baze podataka Hrvatskog hidrografskog instituta.
+Članak 37.
+Hrvatski hidrografski institut dužan je u roku od 6 mjeseci od stupanja na snagu ovoga Pravilnika donijeti akt iz članka 6. stavka 3. i članka 33. stavka 2. ovoga Pravilnika.
+Članak 38.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/14-02/105
+Urbroj: 530-04-2-1-1-16-6
+Zagreb, 18. travnja 2016.
+Ministar Oleg Butković, v. r.
+PRILOG I.
+Popis građevina, aktivnosti i zahvata u prostoru i drugih podataka koji čine obvezan sadržaj službenih pomorskih navigacijskih karata i planova u službenim pomorskim navigacijskim publikacijama
+1. OBJEKTI, ZAHVATI I PRIRODNI OBLICI NA KOPNU I OBALI
+1.1. PRIRODNI OBLICI
+1.1.1. bara
+1.1.2. bjelogorica
+1.1.3. brzaci
+1.1.4. crnogorica
+1.1.5. četinjače
+1.1.6. dine
+1.1.7. drveće
+1.1.8. eukaliptus
+1.1.9. filao
+1.1.10. grebenasta obala
+1.1.11. grmlje
+1.1.12. izohipsa
+1.1.13. izvor
+1.1.14. jezero
+1.1.15. kamenita obala
+1.1.16. kazuarina
+1.1.17. klifovi
+1.1.18. klisurasta obala
+1.1.19. kote
+1.1.20. konture reljefa
+1.1.21. laguna
+1.1.22. livada
+1.1.23. makija
+1.1.24. mangrova
+1.1.25. močvara
+1.1.26. niska obala
+1.1.27. obala
+1.1.28. obalna crta
+1.1.29. obalni humci
+1.1.30. palma nipa
+1.1.31. palma
+1.1.32. park
+1.1.33. pješčana obala
+1.1.34. pješčani sprudovi
+1.1.35. plantaža
+1.1.36. plavljena obala
+1.1.37. polje obrađeno
+1.1.38. polje rižino
+1.1.39. potok
+1.1.40. reljef
+1.1.41. rijeka
+1.1.42. solana
+1.1.43. strma obala
+1.1.44. šljunčana obala
+1.1.45. šuma
+1.1.46. travnjak
+1.1.47. ušće
+1.1.48. vegetacija

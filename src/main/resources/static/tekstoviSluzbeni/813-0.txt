@@ -1,0 +1,38 @@
+39 08.04.2015 Pravilnik o načinu vođenja evidencije o obavljenim inspekcijskim pregledima mjeriteljskog inspektora
+DRŽAVNI ZAVOD ZA MJERITELJSTVO
+814
+Na temelju članka 63. stavka 2. Zakona o mjeriteljstvu, (»Narodne novine«, broj 74/14), ravnatelj Državnog zavoda za mjeriteljstvo donosi
+PRAVILNIK
+O NAČINU VOĐENJA EVIDENCIJE O OBAVLJENIM INSPEKCIJSKIM PREGLEDIMA MJERITELJSKOG INSPEKTORA
+Članak 1.
+(1) Ovim Pravilnikom propisuje se sadržaj, oblik i način vođenja evidencije o obavljenim inspekcijskim pregledima (u daljnjem tekstu: očevidnik) koju vode mjeriteljski inspektori Državnog zavoda za mjeriteljstvo.
+(2) Očevidnik sadrži podatke o obavljenim inspekcijskim pregledima (nadzorima) i poduzetim mjerama koje su obavili, odnosno poduzeli mjeriteljski inspektori.
+(3) Mjeriteljski inspektori dužni su voditi očevidnik (obrazac OMI) koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+Članak 2.
+(1) Očevidnik iz članka 1. ovoga Pravilnika vodi se kao službena evidencija na računalu u elektroničkom obliku.
+(2) Način unošenja podataka u računalo u svakom trenutku osigurava naknadni sumarni prikaz svih podataka koji se mogu zbrajati.
+(3) Svi podaci koji se unose u računalo moraju imati svoju sigurnosnu kopiju pohranjenu na odgovarajućem magnetskom mediju (pričuvna kopija).
+(4) Pričuvna kopija stvara se najmanje jednom u pola godine za nove podatke.
+Članak 3.
+(1) Očevidnik iz članka 1. ovoga Pravilnika dužan je voditi svaki inspektor koji obavlja inspekcijski nadzor sukladno svom djelokrugu rada.
+(2) Očevidnik se vodi za svaku kalendarsku godinu.
+(3) Podaci u propisani obrazac upisuju se odmah ili najkasnije u roku od 3 dana od dana sastavljanja zapisnika o obavljenom inspekcijskom nadzoru i nastale promjene koje podliježu upisu.
+Članak 4.
+Očevidnik se sastoji od 11 tablica sačinjenih u excelu u koje se unose sljedeći podaci:
+TABLICA 1. MJESEČNA EVIDENCIJA O KORIŠTENJU RADNOG VREMENA INSPEKTORA (ime i prezime)
+U Tablicu 1. mjeriteljski inspektor unosi podatke o korištenju radnog vremena za pojedine mjesece u tekućoj godini (službena putovanja, dnevnice, dopusti i sl.).
+TABLICA 1.a. GODIŠNJA EVIDENCIJA I SPECIFIKACIJA SLUŽBENIH PUTOVANJA INSPEKTORA (ime i prezime)
+Tablica 1a. sadrži sumarni prikaz broja i specifikacije službenih putovanja inspektora tijekom cijele tekuće godine (ovu tablicu inspektor ne popunjava već ona automatski nastaje kao ovisna radna bilježnica u excelu temeljem 12 popunjenih tablica o mjesečnoj evidenciji).
+TABLICA 2. URUDŽBENI ZAPISNIK INSPEKTORA (ime i prezime) ZA TEKUĆU GODINU (MJERITELJSTVO)
+Način upisivanja podataka u pojedine rubrike i stupce Tablice 2.:
+1. redni broj: daje se svakom inspekcijskom nadzoru obavljenom po službenoj dužnosti ili provedenom postupku po prijavi građana ili drugog tijela državne uprave (MUP, drugo inspekcijsko tijelo i sl.);
+2. unutarnja organizacijska jedinica: navodi se brojčana oznaka unutarnje organizacijske jedinice Državnog zavoda za mjeriteljstvo;
+3. ime i prezime (naziv) stranke i adresa: upisuje se naziv subjekta koji je bio predmet nadzora kao i adresa na kojoj je obavljen nadzor. Za pravnu osobu upisuje se naziv pravne osobe a za fizičku osobu obrtnika ime i prezime fizičke osobe – vlasnika obrta;
+4. osnovni broj spisa: upisuje se klasifikacijska oznaka spisa (neupravni postupak);
+5. broj pismena (priloga): upisuje se urudžbeni broj pismena ili broj priloga;
+6. datum nastanka pismena (priloga): upisuje se datum završene radnje iz zapisnika o obavljenom inspekcijskom nadzoru ili datum nastanka priloga;
+7. datum upisa pismena (priloga): upisuje se datum upisa pismena (priloga) u urudžbeni zapisnik;
+8. kratak sadržaj pismena (priloga): pobliže se upisuje što je u pismenu (prilogu) sadržano, (npr. u pismenu – predmet nadzora, u prilogu – slika mjerila, izvješće o ispitivanju i sl.);
+9. napomena: upisuje se podatak značajan za pismeno (prilog).
+TABLICA 3. UPISNIK PREDMETA UPRAVNOG POSTUPKA INSPEKTORA (ime i prezime) ZA TEKUĆU GODINU (MJERITELJSTVO)
+Način upisivanja

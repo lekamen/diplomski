@@ -1,0 +1,42 @@
+ plaćanja godišnje naknade za priređivanje igara na sreću u casinima, te za početak priređivanja igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja, dostaviti Ministarstvu financija obrazac Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima (obrazac br. 25 GN-ISC – Dodatak).
+(4) Iznimno od stavka 3. ovoga članka, priređivač nije dužan dostaviti obrazac Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima (obrazac br. 25 GN-ISC – Dodatak) u slučaju kada je predao zahtjev za preseljenje casina za koji je podmirio obvezu plaćanja godišnje naknade za priređivanje igara na sreću u casinima.
+(5) U postupcima u kojima se utvrđuje ispunjavanje uvjeta za priređivanje igara na sreću u casinima (otvaranje casina te priređivanje igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja), Ministarstvo financija će za potrebe sistemskog unosa i kontrole godišnjih i mjesečnih obrazaca, lokaciji za koju izdaje odobrenje za početak priređivanja igara na sreću u casinima, dodijeliti oznaku lokacije. O dodijeljenoj oznaci lokacije Ministarstvo financija izvješćuje priređivača pisanim putem.
+(6) Priređivač koji priređuje igre na sreću u casinima obvezan je obrasce iz stavaka 2. i 3. ovoga članka dostaviti elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna. Obrazac br. 25 GN-ISC – Dodatak dostavlja se nakon što je Ministarstvo financija pisanim putem obavijestilo priređivača o dodijeljenim identifikatorima obrasca (oznaci lokacije i/ili šifri zahtjeva).
+(7) Godišnja naknada za otvaranje casina tijekom godine te za priređivanje igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja, plaća se u roku od tri dana od predaje obrasca iz stavka 3. ovoga članka.
+(8) Odobrenje za početak priređivanja igri na sreću u casinu te za priređivanje igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja, Ministarstvo financija donosi nakon što je priređivač ispunio uvjete propisane stavcima 3. i 7. ovoga članka.
+(9) Obrazac Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima (obrazac br. 25 GN-ISC) iz stavka 2. ovoga članka, sadrži sljedeće podatke:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. godina za koju se plaća godišnja naknada
+4. naziv i adresa casina
+5. iznos naknade
+6. mjesto i datum izrade obračuna
+7. odgovorna osoba.
+(10) Obrazac Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima (obrazac br. 25 GN-ISC – Dodatak) iz stavka 3. ovoga članka, sadrži sljedeće podatke:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. oznaka lokacije
+4. šifra zahtjeva
+5. godina za koju se plaća godišnja naknada
+6. naziv i adresa casina
+7. iznos naknade
+8. mjesto i datum izrade obračuna
+9. odgovorna osoba.
+Obrazac br. 25 GN-ISC – Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA: OIB PRIREĐIVAČA:
+KONAČNI OBRAČUN GODIŠNJE NAKNADE ZA PRIREĐIVANJE IGARA NA SREĆU U CASINIMA ZA ______GODINU
+R. br. NAZIV I ADRESA CASINA IZNOS NAKNADE 1 2 3 UKUPNO
+Mjesto i datum izrade obračuna            Odgovorna osoba
+__________________________       __________________
+Obrazac br. 25 GN-ISC – Konačni obračun godišnje naknade za priređivanje igara na sreću u casinima – DODATAK
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+OZNAKA LOKACIJE:
+ŠIFRA ZAHTJEVA:
+KONAČNI OBRAČUN GODIŠNJE NAKNADE ZA PRIREĐIVANJE IGARA NA SREĆU U CASINIMA ZA ______ GODINU
+R. br. NAZIV I ADRESA CASINA IZNOS NAKNADE 1 2 3 UKUPNO
+Mjesto i datum izrade obračuna          Odgovorna osoba
+__________________________      __________________
+2. Godišnja naknada za priređivanje igara klađenja
+Članak 36.
+(1) Priređivač koji priređuje igre klađenja, dužan je sukladno odredbama članka 31. i članka 51. stavak 1. i 2. Zakona plaćati godišnju naknadu za priređivanje 

@@ -1,0 +1,24 @@
+ otuđenja te imovine.
+6.63. Dobici ili gubici proizašli od prestanka priznavanja dugotrajne materijalne imovine priznaju se u računu dobiti i gubitka kad se navedena imovina prestane priznavati, u skladu s HSFI-om 14 – Prihodi i HSFI-om 15 – Rashodi. Dobici ili gubici priznaju se kao ostali prihodi ili ostali rashodi.
+6.64. Dobici ili gubici koji proizlaze iz prestanka priznavanja pojedinog predmeta dugotrajne materijalne imovine utvrđuju se kao razlika između iznosa koji se prima za otuđenu imovinu, ako postoji, i knjigovodstvene vrijednosti imovine.
+6.65. Na svaki datum izvještavanja poduzetnik treba ocijeniti postoji li pokazatelj za neku imovinu, gubitak od umanjenja imovine koji je priznat u ranijim godinama više ne postoji ili je možda smanjen. Ako takav pokazatelj postoji, poduzetnik treba procijeniti nadoknadivi iznos te imovine.
+6.66. Gubitak od umanjenja imovine koji je priznat za imovinu, u ranijim godinama treba ukinuti ako, i samo ako su se promijenile procjene korištene za određivanje nadoknadivog iznosa imovine od kada je posljednji gubitak od umanjenja imovine priznat. U ovom slučaju knjigovodstvenu vrijednost imovine treba se povećati do njezinog nadoknadivog iznosa i priznaje se u računu dobiti i gubitka.
+6.67. Povećanje knjigovodstvene vrijednosti neke imovine, radi ukidanja gubitka od umanjenja imovine ne treba prelaziti knjigovodstvenu vrijednost koja bi se mogla odrediti (neto, bez amortizacije) da nije bilo gubitka od umanjenja imovine koji je priznat za tu imovinu u ranijim godinama.
+6.68. Ukidanje gubitka od umanjenja za neku imovinu, treba se priznati kao prihod odmah u računu dobiti i gubitka, osim ako je imovina priznata u revaloriziranom iznosu. S ukidanjem gubitka od umanjenja imovine kod revalorizacije imovine treba se postupati kao s povećanjem revalorizacije sukladno odredbama o revalorizaciji navedenim u ovom Standardu.
+6.69. Nakon što je ukinut gubitak od umanjenja vrijednosti imovine, trošak amortizacije se treba uskladiti za buduća razdoblja da se sustavno rasporedi promijenjena knjigovodstvena vrijednost imovine, umanjena za ostatak vrijednosti (ako postoji) tijekom preostalog korisnog vijeka trajanja imovine.
+OBJAVLJIVANJE
+6.70. Za svaku skupinu dugotrajne materijalne imovine u financijskim izvještajima treba objaviti:
+a) osnove mjerenja korištene za utvrđivanje bruto knjigovodstvene vrijednosti,
+b) korištene metode amortizacije,
+c) korisni vijek upotrebe ili korištene stope amortizacije,
+d) bruto knjigovodstvenu vrijednost, kumulativne iznos ispravka vrijednosti, kumulativne iznose gubitaka od umanjenja imovine na početku i na kraju izvještajnog razdoblja,
+e) usklađenje knjigovodstvene vrijednosti na početku i na kraju razdoblja kojim se prikazuje:
+i. povećanja, smanjenja i prijenosi tijekom izvještajnog razdoblja,
+ii. u slučaju kada se dugotrajna materijalna imovina mjeri prema revaloriziranim iznosima, povećanja i smanjenja koja proistječu iz revalorizacije u izvještajnom razdoblju uz objašnjenje poreznog tretmana sadržanih stavki, uključujući povećanja, smanjenja i prijenose koji proizlaze iz revalorizacije, gubitke od umanjenja revalorizirane imovine koji su priznati ili ukinuti izravno u kapitalu,
+iii. gubitke od umanjenja imovine koji su priznati, odnosno ukinuti u računu dobiti i gubitka, odnosno izravno u kapitalu, te koji su naplaćeni tijekom izvještajnog razdoblja, i
+iv. amortizaciju, otpise i prijenose tijekom izvještajnog razdoblja,
+v. neto tečajne razlike koje su posljedica prevođenja financijskih izvještaja iz funkcionalne valute u drugu valutu prezentiranja, uključujući prevođenje inozemnog poslovanja u valutu prezentiranja izvještajnog poduzetnika, i
+vi. ostale promjene,
+f) u slučaju kada se kamata kapitalizira, iznos kapitaliziran tijekom izvještajnog razdoblja,
+g) knjigovodstvena vrijednost u bilanci koja bi se iskazala da dugotrajna materijalna imovina nije bila revalorizirana,
+h) u slučaju kada se dugotrajna materijalna imovina mjeri prema revaloriziranim iznosima,

@@ -1,0 +1,32 @@
+ topografske baze, Hrvatske osnovne karte u mjerilu 1:5000, topografskih karata, izradu ortofotokarte u mjerilu 1:5000 i sitnijim mjerilima, izradu ortofotoplanova različitih mjerila i dr.
+(2) Aerofotogrametrijsko snimanje izvodi se sukladno specifikaciji proizvoda za snimanje iz zraka i orijentacijske točke odnosno tehničkim uputama definiranim u projektnom zadatku te propisima kojima je regulirano snimanje iz zraka u Republici Hrvatskoj.
+POGLAVLJE II. PRIPREMNI RADOVI ZA SNIMANJE IZ ZRAKA
+Članak 10.
+(1) Prije početka snimanja iz zraka izrađuje se projekt snimanja.
+(2) Projekt snimanja izrađuje izvoditelj u postupku prije izdavanja odobrenja za snimanje iz zraka.
+(3) Projekt snimanja izrađuje se sukladno specifikaciji proizvoda za snimanje iz zraka i orijentacijske točke te projektnom zadatku.
+(4) Projekt snimanja mora zadovoljiti sljedeće uvjete:
+1. planirane razlike u GSD-u uslijed visinskih razlika terena ne smiju biti veće od 15%, iznimno za područja manjeg gospodarskog značaja do 20%
+2. mjerna kamera s kalibracijom ne starijom od dvije godine
+3. uzdužni preklop mora osiguravati stereoskopsko prekrivanje snimanog područja (min. 55%) te povoljni bazisni omjer izražen omjerom baze i visine leta
+4. poprečnim preklopom mora se osigurati stereoskopska veza između susjednih nizova (min. 15%)
+5. planiranjem broja i položaja orijentacijskih točaka mora se osigurati stabilnost i homogenost modela bloka te zadovoljiti točnost aerotriangulacije i prostornih podataka i
+6. snimanje treba planirati za doba godine kad je zemljište najmanje zakriveno raslinjem, kao i doba dana kad su sjene male te za mirna vremena.
+(5) Projekt snimanja pregledava Državna geodetska uprava i jedan je od uvjeta za izdavanje odobrenja za snimanje iz zraka.
+Članak 11.
+(1) Prije početka snimanja iz zraka, a radi boljeg kontrasta i identifikacije točaka na snimci, izvoditelj je dužan signalizirati orijentacijske točke (osnovne zadane i kontrolne točke) i granične oznake granica katastarskih čestica (kod katastarske izmjere).
+(2) Točka bez signala je prirodna orijentacijska točka.
+(3) Ukoliko odabrana orijentacijska točka nije stabilizirana (stalna geodetska točka), izvoditelj će ju trajno ili privremeno stabilizirati kako bi se omogućila tražena točnost određivanja koordinata, te kako bi se iste mogle koristiti tijekom samog mjerenja, naknadnog dopunskog i kontrolnog mjerenja odnosno pregleda elaborata.
+(4) Sve osnovne zadane i kontrolne orijentacijske točke moraju biti izmjerene geodetskim metodama mjerenja koje osiguravaju traženu točnost i pouzdanost.
+(5) Određivanje orijentacijskih točaka provodi se sukladno specifikaciji proizvoda za snimanje iz zraka i orijentacijske točke.
+POGLAVLJE III. IZVEDENO SNIMANJE IZ ZRAKA
+Članak 12.
+(1) Radi postizanja propisane točnosti i kvalitete konačnih proizvoda ostvarenog snimanja iz zraka, snimanje iz zraka mora biti izvedeno sukladno sljedećim zahtjevima:
+1. kalibracija kamere mora biti valjana tijekom izvođenja snimanja iz zraka
+2. područje predviđeno za snimanje iz zraka mora biti bez snijega, visokih voda, zelene vegetacije ili drugih prirodnih čimbenika koji mogu zakriti dijelove tla
+3. položajno odstupanje koje se iskazuje poprečnim odstupanjem izvedenih osi nizova od planiranih mora biti manje od +/- 15% planiranog poprečnog preklopa, a odstupanje uzdužnih preklopa manje od +/- 5%
+4. odstupanje visine leta od planirane mora biti manje od 5%
+5. nagib ne smije biti veći od 4° za bilo koju snimku te u prosjeku ne više od 2° za bilo kojih deset uzastopnih snimki, prosječno odstupanje nagiba u kompletnom zadatku ne smije biti veće od 1°
+6. kut zakošenja mjeren u odnosu na prosječne linije leta ne smije prelaziti 5°, a razlika između bilo koje dvije uzastopne snimke ne smije prelaziti 5°
+7. izvedeno snimanje iz zraka mora u potpunosti obuhvatiti ugovoreno područje te u najmanjoj mjeri prelaziti poligon područja 500 m u svim smjerovima
+8. prostorna veličina slikovnog elementa (GSD) na terenu osnovni je faktor kojim se

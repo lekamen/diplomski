@@ -1,0 +1,22 @@
+23 16.03.2016 Pravilnik o statističkim standardima osiguranja
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+655
+Na temelju odredbe članka 202. stavak 2. Zakona o osiguranju (»Narodne novine« broj 30/15) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 11. ožujka 2016. donijela je
+PRAVILNIK
+O STATISTIČKIM STANDARDIMA OSIGURANJA
+Članak 1.
+(1) Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) propisuje statističke standarde za obrađivanje podataka o poslovima osiguranja odnosno reosiguranja, rizicima koje pokriva osiguranje odnosno reosiguranje, osiguranim slučajevima i štetama.
+(2) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je voditi i obrađivati statističke podatke o poslovima osiguranja odnosno reosiguranja, rizicima koje pokriva osiguranje odnosno reosiguranje, osiguranim slučajevima i štetama.
+(3) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je statističke podatke iz stavka 2. ovoga članka obrađivati primjenom statističkih standarda osiguranja.
+Članak 2.
+(1) Društvo za osiguranje, odnosno društvo za reosiguranje dostavlja Agenciji statističke izvještaje, i to mjesečni izvještaj koristeći obrazac SP_1_O/R_rizici, tromjesečne izvještaje koristeći obrasce SP_1_ O/R _rizici, SP_1_ O/R vrste, SP_5_ O/R, SP_7_ O/R, SP_8_ O/R, SP_10_ O/R, SP_13_O, SP_15_ O/R i SP_16_ O/R, i godišnje izvještaje koristeći obrasce od rednog broja 1. do rednog broja 44. iz priloga ovog Pravilnika.
+(2) Društvo za osiguranje koje je dobilo odobrenje za obavljanje poslova reosiguranja za poslove reosiguranja dodatno dostavlja Agenciji i statističke izvještaje koristeći obrasce označene slovom »R« propisanim stavkom 1. ovoga članka izuzev obrasca SP_15R i SP_23R.
+(3) Društvo za osiguranje, koje obavlja poslove osiguranja u državi članici, dužno je dostaviti statističke izvještaje o poslovima osiguranja u pojedinoj državi članici, i to odvojeno za poslove osiguranja koje obavlja preko podružnice i poslove osiguranja koje neposredno obavlja. Društvo za osiguranje dužno je dostaviti godišnje izvještaje koristeći obrasce SP_1_O_rizici_EU i, SP_16_O_EU iz priloga ovog Pravilnika.
+(4) Podatke iz statističkih izvještaja SP-7-O/R, SP-8-O/R, SP-9-O/R, SP-10-O/R, SP-11-O/R, SP-12-O/R, SP-13-O, SP-14-O/R, SP-21.1-O, SP-21.2-O, SP-25.1-O i SP-25.2-O iz priloga ovog Pravilnika potvrđuje imenovani ovlašteni aktuar.
+(5) Godišnje statističke izvještaje usklađene s revidiranim financijskim izvještajima, društvo za osiguranje, odnosno društvo za reosiguranje je dužno dostaviti najkasnije u roku od četiri mjeseca od isteka kalendarske godine za koju se izvještaji sastavljaju.
+(6) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti tromjesečne statističke izvještaje najkasnije do zadnjeg dana u mjesecu koji slijedi nakon izvještajnog tromjesečja.
+(7) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je dostaviti mjesečne statističke izvještaje najkasnije do desetog dana u mjesecu koji slijedi nakon izvještajnog mjeseca.
+(8) Iznosi se u izvještajima iz priloga ovog Pravilnika upisuju kunama, uz obvezno upisivanje dvije znamenke iza decimalnog zareza. Postotke je društvo za osiguranje, odnosno društvo za reosiguranje dužno izračunati i prikazati na dvije decimale. Iznosi trebaju biti usklađeni s odgovarajućim pozicijama u Izvještaju o financijskom položaju i Izvještaju o sveobuhvatnoj dobiti.
+(9) Društvo za osiguranje, odnosno društvo za reosiguranje dužno je Agenciji dostaviti izvještaje iz stavka 1. ovog članka u elektroničkom obliku s naprednim elektroničkim potpisom u skladu s tehničkom uputom Agencije.
+(10) Smatra se da je društvo za osiguranje, odnosno društvo za reosiguranje dostavilo izvještaje iz stavka 1. ovog članka u trenutku kada je izvještaj prihvaćen na poslužitelju Agencije za primanje izvještaja.
+(11) U opravdanim slučajevima nemogućnosti dostave na način propisan stavkom 10. ovog članka, društvo za osiguranje, odnosno

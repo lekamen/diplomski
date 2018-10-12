@@ -1,0 +1,50 @@
+ papiri, sadrži vrijednosne papire klasificirane prema vrstama financijskih instrumenata.
+Članak 21.
+Skupina računa 15 – Dionice i udjeli u glavnici, sastoji se od dionica i udjela u glavnici banaka i ostalih financijskih institucija te trgovačkih društava.
+Članak 22.
+Skupina računa 16 – Potraživanja za prihode poslovanja, sadrži potraživanja: od kupaca, za članarine i članske doprinose, za prihode po posebnim propisima, za prihode od imovine te ostala nespomenuta potraživanja.
+Članak 23.
+Skupina računa 19 – Rashodi budućih razdoblja i nedospjela naplata prihoda (aktivna vremenska razgraničenja), sadrži:
+– unaprijed plaćene rashode koji se ne odnose na izvještajno razdoblje i
+– prihode koji pripadaju određenom obračunskom razdoblju, ali u tom razdoblju nije dospjela njihova naplata ili nisu mogli biti izdani računi.
+IIb. OBVEZE
+Članak 24.
+Obveze se sastoje od:
+– 24 – Obveza za rashode
+– 25 – Obveza za vrijednosne papire
+– 26 – Obveza za kredite i zajmove
+– 29 – Odgođeno plaćanje rashoda i prihodi budućih razdoblja (pasivna vremenska razgraničenja).
+Članak 25.
+(1) Skupina računa 24 – Obveze za rashode, sadrži obveze koje se u trenutku nastanka priznaju kao rashod na računima razreda 4 – Rashodi, a to su obveze za: radnike, materijalne rashode, financijske rashode, prikupljena sredstva pomoći, kazne i naknade šteta te ostale tekuće obveze.
+(2) Obveze za prikupljena sredstva pomoći (područjima pogođenim prirodnim katastrofama, skupinama stanovništva s posebnim potrebama, institucijama za nabavu medicinske opreme i slično) evidentiraju se u trenutku primitka novca ili druge vrste imovine. Kada neprofitna organizacija prikupljena sredstva pomoći proslijedi krajnjim korisnicima priznaju se rashodi za danu donaciju i prihodi od donacija.
+Članak 26.
+(1) Skupina računa 25 – Obveze za vrijednosne papire, obuhvaća obveze za vrijednosne papire klasificirane prema vrstama financijskih instrumenata.
+(2) Obveze za kamate po izdanim vrijednosnim papirima iskazuju se na računima obveza za rashode poslovanja u skupini 24.
+Članak 27.
+(1) Skupina računa 26 – Obveze za kredite i zajmove, obuhvaća obveze koje neprofitna organizacija ima za primljene kredite i zajmove.
+(2) Obveze za kamate po primljenim kreditima i zajmovima evidentiraju se na računima obveza za rashode poslovanja u skupini 24.
+Članak 28.
+Skupina računa 29 – Odgođeno plaćanje rashoda i prihodi budućih razdoblja (pasivna vremenska razgraničenja), sadrži:
+– rashode koji nisu fakturirani, a terete tekuće razdoblje te
+– prihode koji su naplaćeni ili obračunani u tekućem razdoblju, a odnose se na iduće obračunsko razdoblje.
+IIc. PRIHODI
+Članak 29.
+Prihodi se klasificiraju na sljedeće skupine računa:
+– 31 – Prihodi od prodaje roba i pružanja usluga
+– 32 – Prihodi od članarina i članskih doprinosa
+– 33 – Prihodi po posebnim propisima
+– 34 – Prihodi od imovine
+– 35 – Prihodi od donacija
+– 36 – Ostali prihodi i
+– 37 – Prihodi od povezanih neprofitnih organizacija.
+Članak 30.
+Skupina računa 31 – Prihodi od prodaje roba i pružanja usluga, obuhvaća prihode koje neprofitna organizacija ostvari od kupaca prodajom roba i/ili pružanjem usluga.
+Članak 31.
+Skupina računa 32 – Prihodi od članarina i članskih doprinosa, obuhvaća prihode koji se ostvaruju od obveznih kontinuiranih uplata članova neprofitne organizacije.
+Članak 32.
+(1) Skupina računa 33 – Prihodi po posebnim propisima, obuhvaća prihode po posebnim propisima iz proračuna i iz ostalih izvora.
+(2) Prihodi po posebnim propisima iz proračuna jesu prihodi koje neprofitna organizacija ostvaruje u skladu sa zakonima i drugim propisima iz državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave.
+(3) Prihodi po posebnim propisima iz ostalih izvora jesu prihodi koje neprofitna organizacija ostvaruje u skladu sa zakonima i drugim propisima od pravnih i/ili fizičkih osoba.
+Članak 33.
+(1) Skupina računa 34 – Prihodi od imovine, obuhvaća prihode od financijske i prihode od nefinancijske imovine.
+(2) Prihodi od financijske

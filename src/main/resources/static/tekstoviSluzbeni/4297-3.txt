@@ -1,0 +1,24 @@
+ godine i
+6. u slučaju računa koji nije naveden u točkama 4. ili 5. ovoga stavka, ukupan brutoiznos isplaćen ili pripisan na račun imatelja računa tijekom kalendarske godine u kojem je izvještajna financijska institucija obveznik ili dužnik prema imatelju računa, uključujući zbirni iznos isplata po osnovi otkupa imatelju računa tijekom kalendarske godine.
+(3) Uz informacije iz stavka 2. ovoga članka navodi se valuta u kojoj je iskazan svaki relevantni iznos.
+(4) Neovisno o stavku 1. točki 1. ovoga članka, za svaki račun o kojem se izvješćuje, a koji je postojeći račun, nije potrebno navesti porezni identifikacijski broj ili više njih ili datum rođenja, ako taj porezni identifikacijski broj ili više njih ili datum rođenja nisu u evidenciji izvještajnih financijskih institucija te se na osnovi drugog pravnog okvira od te izvještajne financijske institucije ne zahtijeva prikupljanje tih podataka. Međutim, od izvještajne financijske institucije zahtijeva se da poduzme odgovarajuće mjere u cilju pribavljanja poreznog identifikacijskog broja ili više njih i datuma rođenja za postojeće račune do kraja kalendarske godine koja slijedi nakon godine u kojoj se za postojeće račune utvrdilo da su računi o kojima se izvješćuje.
+(5) Porezni identifikacijski broj nije potrebno navesti ako država članica i druga jurisdikcija rezidentnosti ne izdaje porezni identifikacijski broj.
+(6) Mjesto rođenja nije potrebno navesti osim ako:
+1. se od izvještajne financijske institucije na temelju domaćih propisa zahtijeva pribavljanje i izvješćivanje o datumu rođenja ili se od izvještajne financijske institucije na temelju važećeg pravnog instrumenta Europske unije ili koji je bio na snazi na dan 5. siječnja 2015., zahtijeva pribavljanje i izvješćivanje o datumu rođenja i
+2. podatak o datumu rođenja dostupan je putem elektroničkog pretraživanja podataka koje vode izvještajne financijske institucije.
+1.2. Rok i način izvješćivanja
+Članak 12.
+(1) Izvještajne financijske institucije obvezne su informacije iz članka 11. ovoga Pravilnika dostaviti Poreznoj upravi do 30. lipnja tekuće za prethodnu kalendarsku godinu.
+(2) Automatska razmjena informacija iz članka 177.a stavka 1. Zakona i članka 11. ovoga Pravilnika odvija se elektroničkim putem, u propisanom formatu, objavljenom na internetskim stranicama Porezne uprave.
+1.3. Opće obveze dubinske analize računa
+Članak 13.
+(1) Račun o kojem se izvješćuje smatra se račun od datuma kada se za njega utvrdilo da se radi o takvom računu, u skladu s postupcima dubinske analize na temelju članaka 13. do 48. ovoga Pravilnika i ako nije drukčije predviđeno, informacije koje se odnose na račun o kojem se izvješćuje moraju se dostavljati jedanput godišnje u kalendarskoj godini, koja slijedi nakon godine na koju se te informacije odnose.
+(2) Stanje ili vrijednost računa utvrđuje se posljednjeg dana kalendarske godine.
+(3) Kada se stanje ili vrijednost računa utvrđuje posljednjeg dana kalendarske godine tada se odgovarajuće stanje ili vrijednost utvrđuju posljednjeg dana izvještajnog razdoblja koje završava tom kalendarskom godinom ili u toj kalendarskoj godini.
+(4) Izvještajne financijske institucije mogu koristiti vanjske pružatelje usluga radi izvršavanja obveza iz članka 177.a stavaka 1. i 2. Zakona i članaka 13. do 48. ovoga Pravilnika ali su te obveze i nadalje odgovornost izvještajnih financijskih institucija. Ako izvještajne financijske institucije koriste vanjske pružatelja usluga, tada su obvezne postupati sukladno odredbama propisa koji uređuju područje sprječavanja pranja novca i financiranja terorizma.
+(5) Izvještajne financijske institucije mogu primjenjivati postupke dubinske analize za nove račune na postojeće račune, te mogu primjenjivati postupke za račune velike vrijednosti na račune male vrijednosti.
+2. Dubinska analiza postojećih računa fizičkih osoba
+2.1. Utvrđivanje računa male vrijednosti
+2.1.1. Načini utvrđivanja računa male vrijednosti
+Članak 14.
+Na postojeće račune male vrijednosti fizičkih osoba,

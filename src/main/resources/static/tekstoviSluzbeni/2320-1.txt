@@ -1,0 +1,23 @@
+ Odluka o Obrascu standardne metodologije za procjenu fiskalnog učinka (»Narodne novine«, broj 73/08).
+X.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2016. godine.
+Klasa: 022-03/15-04/470
+Urbroj: 50301-05/16-15-3
+Zagreb, 5. studenoga 2015.
+Predsjednik Zoran Milanović, v. r.
+OBRASCI
+
+
+UPUTE ZA ISPUNJAVANJE OBRASCA STANDARDNE METODOLOGIJE ZA PROCJENU FISKALNOG UČINKA (OBRASCA PFU)
+Obrazac je dan u elektroničkom obliku, u MS Excel formatu, međutim isti se unosi u web aplikaciju kojoj se pristupa logiranjem u sustav Državne riznice.
+Polja u Obrascu označena su bijelom, žutom i plavom bojom. U poljima označenim bijelom bojom opisuju se podaci koje predlagatelj propisa/akta planiranja upisuje u polja označena žutom bojom. Polja označena plavom bojom predviđena su za unos podataka od strane Ministarstva financija.
+U gornjem desnom uglu Obrasca prvo se odabire klasifikacija stupnja tajnosti. Ako se radi o Obrascu koji se odnosi na propis/akt planiranja koji nema stupanj tajnosti, upisuje se odnosno u ponuđenom meniju web aplikacije odabire oznaka NEKLASIFICIRANO. U suprotnom se upisuje odnosno odabire pripadajući stupanj tajnosti sukladno klasifikaciji propisanoj u Zakonu o tajnosti podataka (OGRANIČENO, POVJERLJIVO, TAJNO, VRLO TAJNO).
+1. PREDLAGATELJ PROPISA/AKTA PLANIRANJA
+Predlagatelji propisa/akata planiranja su središnja tijela državne uprave (ministarstva, državni uredi i državne upravne organizacije) i stručne službe Vlade. U polje Razdjel unosi se brojčana oznaka i naziv razdjela predlagatelja sukladno organizacijskoj klasifikaciji državnog proračuna. U web aplikaciji se ovi podaci popunjavanju automatski prilikom logiranja predlagatelja.
+2. OSNOVNI PODACI O PRIJEDLOGU PROPISA/AKTA PLANIRANJA
+Pod Vrstom propisa/akta planiranja potrebno je, upisom riječi »DA«, odnosno u ponuđenom meniju web aplikacije odabrati o kojem se propisu/aktu planiranja radi. Također je potrebno unijeti naziv propisa/akta planiranja i to naziv koji će propis/akt planiranja imati stupanjem na snagu bez »Prijedlog«, »Nacrt« i slično. U slučaju izmjene propisa/akta planiranja tijekom njegovog donošenja (prvo čitanje – drugo čitanje) ako u odnosu na prvotno izrađeni dođe do promjene fiskalnog učinka, u dogovoru s Ministarstvom financija, napravit će se izmjena i dopuna prvotno izrađenog Obrasca.
+3. POVEZANOST PRIJEDLOGA PROPISA/AKTA PLANIRANJA S DRŽAVNIM PRORAČUNOM
+Određuje se povezanost učinka provedbe prijedloga propisa/akta planiranja s državnim proračunom. U polje Aktivnost/projekt unosi se brojčana oznaka aktivnosti i/ili projekta, sukladno programskoj klasifikaciji državnog proračuna (na primjer: A123456), te naziv iste i/ili istog u okviru kojih su planirana sredstva za provedbu predloženog propisa/akta planiranja.
+Ako su sredstva za provedbu propisa/akta planiranja planirana na više aktivnosti i/ili projekata, predlagatelj je dužan iskazati sve aktivnosti i/ili projekte na kojima se planiraju sredstva za provedbu. Isto tako, u slučaju da u provedbi predloženog propisa/akta planiranja osim predlagatelja sudjeluju i druga tijela, predlagatelj ima mogućnost i mora iskazati sve aktivnosti i/ili projekte s kojih će se financirati provedba.
+U web aplikaciji se odabirom brojčane oznake aktivnosti i/ili projekta i naziva iste i/ili istog iz ponuđenog menija automatski popunjavaju polja koja se odnose na Glavni program, Razdjel, Program, Glavu i Funkciju. Aktivnosti i/ili projekte koji nisu u nadležnosti predlagatelja već drugih tijela, predlagatelj odabire iz ponuđenog menija nakon što u ponuđenom meniju razdjela odabere to drugo tijelo na čijoj se aktivnosti i/ili projektu osiguravaju sredstva za provedbu.
+Ukoliko nije poznata aktivnost i/ili projekt na kojoj će biti planirana sredstva u točki 4.3. Obrazloženje promjena u rashodima i izdacima te prihodima i primicima se tekstualno iskazuju svi podaci o sredstvima potrebnim za provedbu predloženog propisa/akta planiranja u pojedinoj godini kao i kako se ista planiraju

@@ -1,0 +1,29 @@
+osiguranju neposredno vezana uz dionički indeks, odnosno druge referentne vrijednosti, osim onih navedenih u stavku 2. ovoga članka, vrijednost imovine za pokriće tehničkih pričuva koje društvo za osiguranje oblikuje u vezi s ovim osiguranjima mora u najvećoj mogućoj mjeri odgovarati ukupnoj vrijednosti udjela koji predstavljaju referentnu vrijednost, odnosno, ako udjeli nisu oblikovani, vrijednosti imovine primjerene sigurnosti i utrživosti koja u najvećoj mogućoj mjeri odgovara imovini na kojoj se temelji indeks, odnosno druga referentna vrijednost.
+(4) Ako ugovor o osiguranju iz stavaka 2. i 3. ovoga članka jamči određeni prinos na ulaganja ili druge isplate ugovaratelju osiguranja ili korisniku osiguranja, na imovinu za pokriće odgovarajućih dodatnih tehničkih pričuva koje društvo za osiguranje oblikuje za pokriće zajamčenih isplata u vezi s ovim osiguranjima primjenjuju se i odredbe članka 160. ovoga Zakona.
+(5) U slučaju iz stavka 2. ovoga članka, kada je ugovor o osiguranju vezan uz vrijednost imovine unutarnjeg fonda, društvo za osiguranje dužno je usvojiti pravila unutarnjeg fonda koja moraju sadržavati najmanje:
+– politiku ulaganja
+– način izračuna netovrijednosti imovine unutarnjeg fonda
+– način izračuna vrijednosti udjela unutarnjeg fonda
+– način i vrijeme objavljivanja vrijednosti udjela unutarnjeg fonda
+– troškove koji terete premije
+– troškove koje terete imovinu unutarnjeg fonda
+– troškove koji nastaju u slučaju prestanka ugovora o osiguranju.
+GLAVA X. POTEŠKOĆE I NEPRAVILNOSTI U POSLOVANJU DRUŠTVA ZA OSIGURANJE
+Utvrđivanje i obavještavanje o pogoršanju financijskog stanja društva za osiguranje
+Članak 163.
+(1) Društvo za osiguranje dužno je uspostaviti postupke za utvrđivanje pogoršanja financijskog stanja.
+(2) Društvo za osiguranje dužno je bez odgađanja obavijestiti Agenciju o pogoršanju financijskog stanja.
+Zabrana isplate dobiti
+Članak 164.
+Društvo za osiguranje ne smije isplatiti dobit u obliku akontacije dobiti, odnosno dividende ni u obliku isplate iz naslova sudjelovanja u dobiti uprave društva, nadzornog odbora, odnosno zaposlenika ako:
+1. je razina prihvatljivih vlastitih sredstava manja od potrebnog solventnog kapitala ili bi se razina prihvatljivih vlastitih sredstava zbog isplate dobiti smanjila ispod potrebnog solventnog kapitala
+2. je razina prihvatljivih osnovnih vlastitih sredstava manja od minimalnog potrebnog kapitala ili bi se razina prihvatljivih osnovnih vlastitih sredstava zbog isplate dobiti smanjila ispod minimalnog potrebnog kapitala
+3. društvo za osiguranje ne ispunjava najmanji stupanj likvidnosti ili zbog isplate dobiti ne bi više ispunjavalo najmanji stupanj likvidnosti
+4. je Agencija društvu za osiguranje odredila otklanjanje nezakonitosti i nepravilnosti u svezi s krivim iskazivanjem bilančnih ili izvanbilančnih stavki i poslovnog rezultata društva za osiguranje te ako društvo za osiguranje nije postupilo u skladu s mjerama Agencije o otklanjanju nezakonitosti i nepravilnosti.
+Neusklađenost s potrebnim solventnim kapitalom
+Članak 165.
+(1) Društvo za osiguranje dužno je bez odgađanja obavijestiti Agenciju kad utvrdi da više nije usklađeno s potrebnim solventnim kapitalom ili kad postoji rizik da se ta neusklađenost pojavi u sljedeća tri mjeseca.
+(2) U slučaju neusklađenosti iz stavka 1. ovoga članka uprava društva za osiguranje dužna je bez odgađanja poduzeti mjere radi dostizanja iznosa potrebnog solventnog kapitala i izraditi prijedlog mjera za koja su nadležna druga tijela tog društva za osiguranje.
+(3) Društvo za osiguranje dužno je u roku od dva mjeseca od dana kad je utvrđeno postojanje neusklađenosti s potrebnim solventnim kapitalom dostaviti Agenciji na odobrenje realan plan oporavka.
+(4) Društvo za osiguranje dužno je poduzeti potrebne mjere radi otklanjanja neusklađenosti iz stavka 1. ovoga članka u roku od šest mjeseci od dana kad je utvrđeno postojanje neusklađenosti s potrebnim solventnim kapitalom na način da:
+1. poveća razinu prihvatljivih vlastitih sredstava za

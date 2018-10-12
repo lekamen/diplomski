@@ -1,0 +1,24 @@
+ dostavljeni unaprijed najviše pet radnih dana prije određenog datuma namire (uskladišteni nalozi za plaćanje).
+2. Uskladišteni nalozi za plaćanje primaju se i unose u ulaznu dispoziciju na datum koji je odredio sudionik nalogodavac na početku dnevne obrade, kako je navedeno u Dodatku V. ove Odluke. Stavljaju se prije naloga za plaćanje istog prioriteta.
+3. Članak 16. stavak 3., članak 24. stavak 2. i članak 29. stavak 1. točka (a) ove Odluke primjenjuju se na odgovarajući način na uskladištene naloge za plaćanje.
+Članak 22.
+Namira naloga za plaćanje u ulaznoj dispoziciji
+1. Osim ako je sudionik nalogodavac naznačio vrijeme namire kako je navedeno u članku 20. ove Odluke, primljeni nalozi za plaćanje namiruju se odmah ili najkasnije do kraja radnog dana na koji su primljeni, pod uvjetom da su dostupna dostatna sredstva na platiteljevu PM računu i uzimajući u obzir sva ograničenja i rezervacije likvidnosti kako je navedeno u člancima 17., 18. i 19. ove Odluke.
+2. Sredstva se mogu osigurati:
+(a) dostupnom likvidnošću na PM računu ili
+(b) plaćanjima primljenima od drugih sudionika sustava TARGET2, pridržavajući se važećih optimizacijskih postupaka.
+3. Za vrlo hitne naloge za plaćanje primjenjuje se načelo »prvi unutra, prvi van« (FIFO). To znači da se vrlo hitni nalozi za plaćanje namiruju kronološkim redom. Hitni i redovni nalozi za plaćanje ne namiruju se sve dok u redu čekaju vrlo hitni nalozi za plaćanje.
+4. Za hitne naloge za plaćanje također važi načelo FIFO. Redovni nalozi za plaćanje ne namiruju se ako hitni i vrlo hitni nalozi za plaćanje čekaju u redu.
+5. Iznimno od stavaka 3. i 4. ovog članka, nalozi za plaćanje s manjim prioritetom (ili istog prioriteta, ali primljeni poslije) mogu se namiriti prije naloga za plaćanje s višim prioritetom (ili istim prioritetom, ali primljeni prije), ako bi se nalozi za plaćanje s nižim prioritetom saldirali s plaćanjima koja se primaju te bi se stanje likvidnosti kod platitelja povećalo.
+6. Redovni nalozi za plaćanje namiruju se u skladu sa zaobilaznim načelom FIFO. To znači da se mogu namiriti odmah (neovisno o drugim redovnim plaćanjima koja čekaju u redu, a primljena su prije) i mogu stoga prekršiti načelo FIFO, pod uvjetom da je dostupno dovoljno sredstava.
+7. Dodatni detalji o namiri naloga za plaćanje u ulaznoj dispoziciji sadržani su u Dodatku I. ove Odluke.
+Članak 23.
+Namira i povrat naloga za plaćanje koji čekaju u redu
+1. Nalozi za plaćanje koji nisu odmah namireni u ulaznoj dispoziciji stavljaju se u redove u skladu s prioritetom koji im je odredio odnosni sudionik, kako je navedeno u članku 16. ove Odluke.
+2. Radi optimiziranja namire naloga za plaćanje koji čekaju u redu, Hrvatska narodna banka upotrebljava optimizacijske postupke na način opisan u Dodatku I. ove Odluke.
+3. Osim vrlo hitnih naloga za plaćanje, platitelj može preko ICM-a promijeniti mjesto u redu za naloge za plaćanje koji čekaju u redu, tj. izmijeniti im redoslijed. Nalozi za plaćanje mogu se pomaknuti ili na početak ili na kraj odnosnog reda s trenutnim učinkom u bilo koje vrijeme dok traje dnevna obrada, kako je navedeno u Dodatku V. ove Odluke.
+4. Na zahtjev platitelja Hrvatska narodna banka može promijeniti mjesto u redu za vrlo hitne naloge za plaćanje (osim za vrlo hitne naloge za plaćanje u kontekstu postupaka namire 5 i 6) pod uvjetom da ta promjena ne utječe na nesmetanu namiru od strane sporednih sustava u sustavu TARGET2 ili inače ne bi dovela do sistemskog rizika.
+5. Nalozi za prijenos likvidnosti inicirani u ICM-u odmah se vraćaju kao nenamireni ako ne postoji dostatna likvidnost. Ostali nalozi za plaćanje vraćaju se kao nenamireni ako ne mogu biti namireni do isteka vremena za odnosne vrste poruka, kako je navedeno u Dodatku V. ove Odluke.
+Članak 24.
+Prihvat naloga za plaćanje u sustav i njihova neopozivost
+1. U svrhu članka 3. stavka 1. prve rečenice Direktive 98/26/EZ i članka 8. stavka 1. Zakona o konačnosti namire, nalozi za plaćanje prihvaćeni su u sustav TARGET2-HR u trenutku kada je

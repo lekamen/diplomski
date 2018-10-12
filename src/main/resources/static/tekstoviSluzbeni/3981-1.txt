@@ -1,0 +1,22 @@
+ PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 5.
+(1) Iznimno od članka 3. stavka 1. ove Metodologije, operator tržišta plina utvrđuje cijenu pozitivne energije uravnoteženja i cijenu negativne energije uravnoteženja za lipanj, srpanj, kolovoz i rujan 2016., mjesečno za plinske dane u narednom mjesecu, prema sljedećim jednadžbama:
+CEu,POZ,m = 1,4 × CREF,m [kn/kWh],
+CEu,NEG,m = 0,55 × CREF,m [kn/kWh],
+gdje je:
+CEu,POZ,m – cijena pozitivne energije uravnoteženja za plinske dane u mjesecu m [kn/kWh], CEu,NEG,m – cijena negativne energije uravnoteženja za plinske dane u mjesecu m [kn/kWh], CREF,m – referentna cijena plina za mjesec m [kn/kWh].
+(2) Referentna cijena plina za mjesec m iz stavka 1. ovoga članka izračunava se prema sljedećoj jednadžbi:
+CREF,m= 0,5 × COVT,m + 0,5 × CCEGH,m [kn/kWh],
+gdje je:
+CREF,m – referentna cijena plina za mjesec m [kn/kWh], COVT,m – cijena plina opskrbljivača na veleprodajnom tržištu plina za mjesec m [kn/kWh], CCEGH,m – cijena plina na plinskoj burzi Central European Gas Hub AG (CEGH) za mjesec m [kn/kWh].
+(3) Cijena plina opskrbljivača na veleprodajnom tržištu plina za mjesec m iz stavka 2. ovoga članka jednaka je cijeni plina po kojoj je opskrbljivač na veleprodajnom tržištu plina dužan prodavati plin opskrbljivačima u javnoj usluzi opskrbe plinom za kupce iz kategorije kućanstvo, koja je za mjesec m utvrđena odlukom Vlade Republike Hrvatske [kn/kWh].
+(4) Cijena plina na plinskoj burzi Central European Gas Hub AG (CEGH) za mjesec m iz stavka 2. ovoga članka izračunava se prema sljedećoj jednadžbi:
+CCEGH,m = (CCEGH,m-1 + 0,5 × (CCEGH,m-12 – CCEGH,m-13)) × tEUR / kNCV/GCV / 1000 [kn/kWh],
+gdje je:
+CCEGH,m – cijena plina na plinskoj burzi Central European Gas Hub AG (CEGH) za mjesec m [kn/kWh], CCEGH,m-1 – aritmetička sredina dnevnih iznosa cjenovnog indeksa »CEGHIX®« plinske burze Central European Gas Hub AG (CEGH) za trgovinske dane u razdoblju od 1. do 25. dana u mjesecu m-1 koji prethodi mjesecu za koji se utvrđuje cijena energije uravnoteženja [EUR/MWh], CCEGH,m-12 – aritmetička sredina dnevnih iznosa cjenovnog indeksa »CEGHIX®« plinske burze Central European Gas Hub AG (CEGH) za trgovinske dane mjeseca m-12 koji za dvanaest mjeseci prethodi mjesecu za koji se utvrđuje cijena energije uravnoteženja [EUR/MWh], CCEGH,m-13 – aritmetička sredina dnevnih iznosa cjenovnog indeksa »CEGHIX®« plinske burze Central European Gas Hub AG (CEGH) za trgovinske dane mjeseca m-13 koji za trinaest mjeseci prethodi mjesecu za koji se utvrđuje cijena energije uravnoteženja [EUR/MWh], tEUR – aritmetička sredina srednjih dnevnih tečajeva za devize u kn/EUR, prema tečajnim listama Hrvatske narodne banke (HNB) objavljenima za radne dane u razdoblju od 1. do 25. dana u mjesecu m-1 koji prethodi mjesecu za koji se utvrđuje cijena energije uravnoteženja, kNCV/GCV – koeficijent za pretvorbu cijene plina iz gornje ogrjevne vrijednosti u donju ogrjevnu vrijednost, koji iznosi 0,901.
+(5) Cijene i svi iznosi u postupku izračuna iz stavaka 1., 2., 3. i 4. ovoga članka zaokružuju se na četiri decimale.
+(6) Iznimno od članka 3. stavka 5. ove Metodologije, operator tržišta plina objavljuje referentnu cijenu plina, cijenu pozitivne energije uravnoteženja i cijenu negativne energije uravnoteženja za plinske dane u lipnju, srpnju, kolovozu i rujnu 2016. na svojim internetskim stranicama najkasnije do zadnjeg radnog dana u mjesecu koji prethodi mjesecu za koji se utvrđuje cijena energije uravnoteženja.
+Članak 6.
+Iznimno od članka 4. ove Metodologije, u razdoblju važenja odluke Vlade Republike Hrvatske o cijeni plina po kojoj je opskrbljivač na veleprodajnom tržištu plina dužan prodavati plin opskrbljivačima u javnoj usluzi opskrbe plinom za kupce iz kategorije kućanstvo iz članka 5.a stavka 5. Zakona o tržištu plina, jedinična cijena plina za izračun nadoknade gubitaka plina u distribucijskom sustavu prema Mrežnim pravilima plinskog distribucijskog sustava utvrđuje se u iznosu cijene plina određene navedenom odlukom.
+Članak 7.
+Danom stupanja

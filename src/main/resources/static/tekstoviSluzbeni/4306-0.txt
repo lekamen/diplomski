@@ -1,0 +1,43 @@
+69 27.07.2016 Pravilnik o sadržaju, obliku i načinu vođenja očevidnika inspekcijskog nadzora u sustavu civilne zaštite
+DRŽAVNA UPRAVA ZA ZAŠTITU I SPAŠAVANJE
+1655
+Na temelju članka 84. stavka 2. Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15), ravnatelj Državne uprave za zaštitu i spašavanje donosi
+PRAVILNIK
+O SADRŽAJU, OBLIKU I NAČINU VOĐENJA OČEVIDNIKA INSPEKCIJSKOG NADZORA U SUSTAVU CIVILNE ZAŠTITE
+Članak 1.
+Ovim Pravilnikom uređuje se sadržaj, oblik i način vođenja očevidnika o provedenim inspekcijskim nadzorima u sustavu civilne zaštite iz djelokruga Državne uprave za zaštitu i spašavanje (u daljnjem tekstu: Očevidnik).
+Članak 2.
+(1) Očevidnik o provedenim nadzorima i izrečenim mjerama vode viši inspektor za civilnu zaštitu, inspektor za civilnu zaštitu, viši inspektor za vatrogastvo i inspektor za vatrogastvo (u daljnjem tekstu: inspektor) za svaku godinu posebno, u elektroničkom obliku.
+(2) Inspektor, koji u skladu s odredbom članka 76. stavka 3. Zakona o sustavu civilne zaštite, privremeno obavlja nadzor na području više područnih jedinica, vodi zasebni očevidnik za obavljene nadzore za svaku područnu jedinicu za vrijeme obavljanja nadzora.
+(3) Inspektor je dužan prvog radnog dana u tekućoj godini popuniti podatke u Očevidniku u elektroničkom obliku a podatke o pojedinom nadzoru dužan je popunjavati redovito tijekom godine, ovisno o dinamici provođenja nadzora i saznanja o podacima koje je potrebno evidentirati.
+(4) Inspektor vodi podatke u Očevidniku ažurno i uredno kako bi se u svako doba mogao utvrditi broj obavljenih nadzora, nadzirane fizičke ili pravne osobe, utvrđeno stanje te poduzete mjere i faze provođenja mjera.
+Članak 3.
+(1) U Očevidnik se upisuju sljedeći podaci o pojedinom nadzoru i poduzetim mjerama na temelju nadzora:
+1. redni broj nadzora
+2. podaci o nadziranoj pravnoj osobi i odgovornoj osobi
+3. vrsti nadzora (redovni, izvanredni)
+4. normativni temelj nadzora
+5. zapisnik o inspekcijskom nadzoru
+6. utvrđeno činjenično stanje
+7. upravno rješenje s naloženim mjerama
+8. upravni spor
+9. ishod upravnog spora
+10. kontrola izvršenja rješenja
+11. obavijest o pokretanju prekršajnog postupka
+12. prekršajni postupak
+13. presuda/rješenje prekršajnog suda
+14. napomena.
+15. inspektor – samostalni izvršitelj koji provodi nadzor/postupak.
+(2) Obrazac Očevidnika nalazi se u prilogu 1. ovog Pravilnika i čini njegov sastavni dio.
+Članak 4.
+(1) Inspektor upisuje Podatke u Očevidnik odmah, a najkasnije idući radni dan od dana sastavljanja zapisnika o obavljenom inspekcijskom nadzoru, odnosno poduzetoj mjeri ili saznanju o promjeni stanja upravnog ili prekršajnog postupka koje je potrebno evidentirati.
+(2) Ako je terenski rad inspektora trajao dulje od jednog dana, inspektor upisuje podatke u Očevidnik idući radni dan po povratku u mjesto rada.
+Članak 5.
+(1) Podaci u Očevidniku koji se vode u elektroničkom obliku moraju omogućiti naknadni prikaz, pretraživanje i ispis Očevidnika u obliku i sadržaju propisanom odredbama ovoga Pravilnika.
+(2) Podaci u elektroničkom obliku moraju biti zaštićeni od neovlaštenog pristupa, upisivanja, mijenjanja ili brisanja.
+(3) Svi podaci iz stavka 1. ovoga članka moraju imati izrađenu sigurnosnu kopiju, koju inspektor obnavlja najmanje jedanput mjesečno te pohranjuje na sigurnom mjestu, izvan prostorije u kojoj se nalazi računalo s izvornim računalnim podacima.
+Članak 6.
+Inspektor je dužan najkasnije do 5. siječnja tekuće godine popuniti sve stranice Očevidnika o nadzorima koje je obavio u prethodnoj godini te na zadnjoj stranici ovjeriti Očevidnik potpisom i pečatom, a sve ispisane stranice Očevidnika, uključujući prednju i zadnju stranicu, obvezan je uvezati i tako uvezane trajno pohraniti.
+Članak 7.
+Ako se u obavljenom nadzoru pokreće i/ili vodi upravni i/ili prekršajni postupak i u narednoj/narednim godinama, podaci o tome se upisuju u elektronički obrazac u kojem je evidentiran zapisnik o nadzoru, a ručno se upisuju u Očevidnik one godine u kojoj je obavljen nadzor.
+Članak 

@@ -1,0 +1,30 @@
+ Oprema mora biti tako projektirana i konstruirana da su onemogućeni predvidivi uzročnici paljenja koji se mogu dogoditi za vrijeme normalnog rada.
+2.3.1.2. Temperature površine ne smiju prijeći navedene maksimalne temperature površine u određenim radnim uvjetima. Više temperature u izvanrednim okolnostima mogu biti dopuštene samo ako proizvođač primijeni posebne dodatne zaštitne mjere.
+2.3.2. Eksplozivna atmosfera uzvitlane prašine
+2.3.2.1. Oprema mora biti tako projektirana i konstruirana da uzvitlana prašina u zraku ne može biti zapaljena predvidivim uzročnicima paljenja koji postoje za vrijeme normalnog pogona.
+2.3.2.2. U odnosu na temperature površina primjenjuju se uvjeti iz točke 2.1.2.3.
+2.3.2.3. Oprema, uključujući kabelske uvode i priključne elemente, mora biti proizvedena tako da prašina ne može formirati eksplozivnu smjesu sa zrakom, niti se nakupiti u opasnim količinama unutar opreme, uzimajući u obzir veličinu čestica prašine.
+3. Dodatni zahtjevi za zaštitne sustave
+3.0. Opći zahtjevi
+3.0.1. Zaštitni sustavi moraju biti tako dimenzionirani da umanje učinke eksplozije na dovoljnu razinu sigurnosti.
+3.0.2. Zaštitni sustavi moraju biti tako projektirani i sposobni za postavljanje tako da se spriječi širenje eksplozije kroz opasne lančane reakcije ili plameni udar, kao i da početne eksplozije ne prijeđu u detonaciju.
+3.0.3. U slučaju nestanka napajanja zbog kvara zaštitni sustavi moraju zadržati svoju sposobnost funkcioniranja dovoljno dugo da se izbjegnu opasne situacije.
+3.0.4. Zaštitni sustavi ne smiju zakazati zbog vanjskih djelovanja.
+3.1. Planiranje i projektiranje
+3.1.1. Svojstvo materijala
+Maksimalni tlak i temperatura koji se uzimaju za projektiranje svojstava materijala su očekivani tlak za vrijeme eksplozije u ekstremnim radnim uvjetima kao i u tom slučaju pretpostavljeni učinci zagrijavanja plamenom.
+3.1.2. Zaštitni sustavi, projektirani da izdrže ili ograniče eksploziju moraju biti sposobni izdržati udarni val eksplozije bez narušavanja integriteta sustava.
+3.1.3. Pribor priključen na zaštitni sustav mora biti sposoban izdržati očekivani maksimalni tlak eksplozije bez gubitka sposobnosti funkcije.
+3.1.4. U projektiranju i planiranju zaštitnih sustava moraju biti uzete u obzir reakcije koje može prouzročiti tlak u perifernim uređajima i priključenim cijevima odnosno priključcima.
+3.1.5. Sustav otpusta tlaka
+Ako su vjerojatna naprezanja zaštitnih sustava koja će prijeći čvrstoću njihove strukture, moraju biti poduzete mjere u konstrukciji za odgovarajuće otpuštanje tlaka uređajima koji neće ugroziti osobe u njihovoj blizini.
+3.1.6. Sustav za gušenje eksplozije
+Sustavi za gušenje eksplozije moraju biti tako projektirani i planirani da reagiraju na početak pojave eksplozije u što je moguće ranijem stupnju njezina razvoja i da se suprotstave eksploziji s najvećim učinkom s obzirom na maksimalni prirast tlaka eksplozije (brizancu) i maksimalni tlak eksplozije
+3.1.7. Sustav za odvajanje eksplozije
+Sustavi za odvajanje namijenjeni za što je brže moguće odvajanje posebne opreme, u slučaju početka eksplozije, s pomoću odgovarajućih sredstava moraju biti tako planirani i projektirani da ostanu pouzdani glede sprečavanja probojnog paljenja i da zadrže svoju mehaničku čvrstoću u radnim uvjetima.
+3.1.8. Zaštitni sustavi moraju imati mogućnost uključenja u alarmni strujni krug s odgovarajućim pragom alarma tako da, ako je potrebno, zaustave proizvodni proces i potpuno prekinu rad dijelova opreme koji ne mogu dalje sigurno funkcionirati.
+PRILOG III
+MODUL B: EU ISPITIVANJE TIPA
+1. EU ispitivanje tipa dio je postupka ocjenjivanja sukladnosti u kojem prijavljeno tijelo pregledava tehničko rješenje proizvoda te provjerava i potvrđuje da tehničko rješenje proizvoda ispunjava zahtjeve ovoga Pravilnika koji se na njega odnose.
+2. EU ispitivanje tipa obavlja se pregledom uzorka proizvoda, reprezentativnog za buduću proizvodnju (tip proizvoda).
+3. Proizvođač podnosi zahtjev za EU ispitivanje tipa jednom prijavljenom tijelu po

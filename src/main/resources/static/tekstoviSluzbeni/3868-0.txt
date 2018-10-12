@@ -1,0 +1,39 @@
+47 20.05.2016 Pravilnik o Registru "Ne zovi"
+MINISTARSTVO GOSPODARSTVA
+1217
+Na temelju članka 11. a stavka 4. Zakona o zaštiti potrošača (»Narodne novine«, br. 41/14. i 110/15.) ministar gospodarstva, uz prethodno mišljenje Hrvatske regulatorne agencije za mrežne djelatnosti (HAKOM), donosi
+PRAVILNIK
+O REGISTRU »NE ZOVI«
+I. TEMELJNE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuje se obvezni sadržaj i način vođenja registra potrošača koji ne žele primati pozive i/ili poruke u okviru promidžbe i/ili prodaje putem telefona (u daljnjem tekstu: Registar »NE ZOVI«), obveznici upisa podataka u Registar »NE ZOVI«, način i rokovi upisa podataka, te način korištenja podataka.
+Članak 2.
+Svrha Registra iz članka 1. ovoga Pravilnika je stvaranje baze podataka, odnosno prikupljanje i korištenje podataka o telefonskim brojevima potrošača koji ne žele primati pozive i/ili poruke u svrhu promidžbe i/ili prodaje proizvoda i usluga putem telefona.
+Članak 3.
+Izrazi koji se u ovom Pravilniku koriste za osobe, koriste se neutralno i odnose se na muške i ženske osobe.
+Članak 4.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. Korisnik telefonskog broja je potrošač kojem je operator javne govorne usluge sekundarnom dodjelom dodijelio telefonski broj i s kojim ima sklopljen pretplatnički ugovor ili se nalazi u korisničkom odnosu unaprijed plaćene usluge.
+2. Obveznik upisa podataka je operator sukladno Zakonu o elektroničkim komunikacijama.
+3. Poruka je svaka SMS poruka ili MMS poruka sukladno Zakonu o elektroničkim komunikacijama.
+4. Privola je izričito očitovanje volje potrošača kojom izražava svoju suglasnost za korištenje njegovih podataka u svrhe promidžbe i/ili prodaje.
+5. Telefonski broj je niz znamenaka koji se upotrebljava za numeriranje u elektroničkim komunikacijskim mrežama, a kako je uređeno u Prilogu I ovoga Pravilnika.
+(2) Ostali pojmovi koji se koriste u ovom Pravilniku imaju jednako značenje kao pojmovi koji se koriste u Zakonu o zaštiti potrošača i Zakonu o elektroničkim komunikacijama.
+II. OBLIK, SADRŽAJ I NAČIN VOĐENJA REGISTRA »NE ZOVI«
+Članak 5.
+(1) Registar » NE ZOVI« je javan samo u dijelu koji se odnosi na telefonske brojeve.
+(2) Registar »NE ZOVI« je informacijski sustav kojeg ustrojava, vodi i održava Hrvatska regulatorna agencija za mrežne djelatnosti – HAKOM (u daljnjem tekstu: Agencija) u elektroničkom obliku.
+(3) Sastavni dio Registra »NE ZOVI« je baza podataka s pripadajućom aplikacijom za unos, pregled i preuzimanje podataka te preglednici koji omogućuju izravan pristup podacima.
+(4) Provjeru upisanih telefonskih brojeva u Registar »NE ZOVI« Agencija omogućuje na svojoj mrežnoj stranici www.hakom.hr.
+Upis/ispis iz registra »Ne zovi«
+Članak 6.
+(1) Upis/ispis podataka u Registar »NE ZOVI« obavlja operator koji s korisnikom telefonskog broja ima sklopljen pretplatnički ugovor ili se s istim nalazi u korisničkom odnosu unaprijed plaćene usluge, bez naknade, na temelju pisanog zahtjeva korisnika telefonskog broja upućenog operatoru putem posebnog obrasca i to osobno, pisanim putem ili putem elektroničke pošte s adrese koja je prethodno provjerena i registrirana pri operatoru kao adresa elektroničke pošte korisnika telefonskog broja.
+(2) Za upis/ispis iz stavka 1. ovoga članka, korisnik telefonskog broja dužan je operatoru dostaviti:
+– ime i prezime
+– telefonski broj koji se želi upisati u Registar »NE ZOVI«, a koji glasi na ime i prezime korisnika telefonskog broja
+– osobni identifikacijski broj (OIB) korisnika telefonskog broja
+– broj osobne iskaznice.
+(3) Prilikom obrade podataka iz stavka 2. ovoga članka, operator postupa sukladno propisima kojima se uređuje zaštita osobnih podataka.
+(4) Obrazac zahtjeva iz stavka 1. ovoga članka sastavni je dio Priloga I. ovoga Pravilnika.
+(5) Podatke iz stavka 2. ovoga članka operator je dužan upisati/ispisati u Registar »NE ZOVI« u roku od 7 dana od dana zaprimljenog ispravnog zahtjeva korisnika telefonskog broja.
+(6) Telefonski broj iz stavka 2. podstavka 2.

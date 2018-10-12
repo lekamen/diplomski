@@ -1,0 +1,20 @@
+25 23.03.2016 Izmjena Metodologije utvrđivanja iznosa tarifnih stavki za javnu uslugu opskrbe plinom i zajamčenu opskrbu
+HRVATSKA ENERGETSKA REGULATORNA AGENCIJA
+768
+Na temelju članka 11. stavka 1. točke 9. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 21. ožujka 2016. donijela
+IZMJENU
+METODOLOGIJE UTVRĐIVANJA IZNOSA TARIFNIH STAVKI ZA JAVNU USLUGU OPSKRBE PLINOM I ZAJAMČENU OPSKRBU
+Članak 1.
+U Metodologiji utvrđivanja iznosa tarifnih stavki za javnu uslugu opskrbe plinom i zajamčenu opskrbu (»Narodne novine«, broj 38/14 i 28/15), članak 18. mijenja se i glasi:
+»Članak 18.
+(1) Trošak opskrbe plinom namijenjen je pokrivanju svih opravdanih operativnih troškova opskrbljivača plinom, uključujući amortizaciju, kao i odgovarajućeg prinosa na regulirana sredstva opskrbljivača plinom.
+(2) Trošak opskrbe plinom za regulacijsku godinu t sastoji se od varijabilnog iznosa naknade za opskrbu plinom – Ts1o (kn/kWh) i iznosa fiksne mjesečne naknade za opskrbu plinom – Ts2o,TMi (kn).
+(3) Varijabilni iznos naknade za opskrbu plinom (Ts1o) iznosi 0,0149 kn/kWh bez PDV-a.
+(4) Iznos fiksne mjesečne naknade za opskrbu plinom (Ts2o,TMi) bez PDV-a za svaki tarifni model za regulacijsku godinu t prikazan je u sljedećoj tablici:
+Tarifni model, TMi Iznos fiksne mjesečne naknade za opskrbu plinom, Ts2o,TMi kn TM1 1 TM2 1 TM3 2 TM4 3 TM5 4 TM6 6 TM7 10 TM8 15 TM9 20 TM10 30 TM11 40 TM12 50
+Članak 2.
+Ova Izmjena Metodologije stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/16-01/03
+Urbroj: 371-01/16-02
+Zagreb, 21. ožujka 2016.
+Predsjednik Upravnog vijeća Tomislav Jureković, dipl. ing., v. r.

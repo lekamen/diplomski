@@ -1,0 +1,45 @@
+ račun – upisuje se račun za redovno poslovanje neprofitne organizacije šifra djelatnosti – upisuje se brojčana oznaka razreda djelatnosti iz Obavijesti o razvrstavanju poslovnog subjekta prema NKD-u 2007. Državnog zavoda za statistiku šifra županije – upisuje se statistička oznaka županije koju prema Pravilniku o registru prostornih jedinica dodjeljuje Državna geodetska uprava šifra grada/općine – upisuje se statistička oznaka grada/općine koju prema Pravilniku o registru prostornih jedinica dodjeljuje Državna geodetska uprava oznaka razdoblja – upisuje se godina i mjesec kojim završava razdoblje za koje se obrazac predaje u formatu GGGG-MM.
+(3) Podnožje obrazaca popunjava se na sljedeći način:
+– zakonski zastupnik – upisuje se ime osobe određene u skladu s člankom 3. stavkom 2. ovoga Pravilnika
+– potpis zakonskog zastupnika
+– datum sastavljanja izvještaja
+– M.P. – mjesto za pečat neprofitne organizacije
+– osoba za kontakt – upisuje se ime osobe koja je sastavila izvještaj
+– telefon – upisuje se telefonski broj neprofitne organizacije ili osobe za kontakt
+– telefax – upisuje se fax neprofitne organizacije ili osobe za kontakt
+– adresa e-pošte – upisuje se e-mail neprofitne organizacije ili osobe koja je sastavila izvještaj.
+Članak 8.
+(1) Obrazac: BIL-NPF sadrži sljedeće podatke:
+– stupac 1 – račun iz računskog plana
+– stupac 2 – opis
+– stupac 3 – AOP oznaka
+– stupac 4 – stanje 1. siječnja godine za koju se sastavlja izvještaj, odnosno na dan početka poslovanja u toku godine
+– stupac 5 – stanje 31. prosinca godine za koju se sastavlja izvještaj, odnosno na dan prestanka poslovanja
+– stupac 6 – indeks promjene stanja (upisuje se cijeli broj bez decimala).
+(2) Obrasci: PR-RAS-NPF i S-PR-RAS-NPF sadrže sljedeće podatke:
+– stupac 1 – račun iz računskog plana
+– stupac 2 – opis
+– stupac 3 – AOP oznaka
+– stupac 4 – ostvareno prethodne godine
+– stupac 5 – ostvareno u izvještajnom razdoblju
+– stupac 6 – indeks ostvarenja u odnosu na isto razdoblje prethodne godine (upisuje se cijeli broj bez decimala).
+Članak 9.
+(1) Bilješke su dopuna podataka uz financijske izvještaje.
+(2) Bilješke mogu biti opisne, brojčane ili kombinirane. Označavaju se rednim brojevima s pozivom na AOP oznaku izvještaja na koju se odnose.
+(3) Obvezne Bilješke uz Bilancu jesu:
+– pregled ugovornih odnosa i slično koji, uz ispunjenje određenih uvjeta, mogu postati obveza ili imovina (dana kreditna pisma, hipoteke, sporovi na sudu koji su u tijeku…)
+– pregled stanja i rokova dospijeća dugoročnih i kratkoročnih kredita i zajmova te posebno robnih kredita i financijskih najmova (leasing).
+(4) U Bilješkama uz Izvještaj o prihodima i rashodima potrebno je navesti razloge zbog kojih je došlo do većih odstupanja u odnosu na ostvarenje prethodne godine.
+Članak 10.
+(1) Neprofitna organizacija iz članka 5. stavka 1. ovoga Pravilnika sastavlja:
+– za poslovnu godinu: Bilancu, Izvještaj o prihodima i rashodima i Bilješke
+– za razdoblje od 1. siječnja do 30. lipnja: Izvještaj o prihodima i rashodima
+– za razdoblja od 1. siječnja do 31. ožujka i od 1. siječnja do 30. rujna: Skraćeni izvještaj o prihodima i rashodima.
+(2) Financijski izvještaji iz stavka 1. ovoga članka predaju se:
+– za poslovnu godinu: u roku od 60 dana od isteka izvještajnog razdoblja
+– za razdoblje od 1. siječnja do 30. lipnja: u roku od 30 dana po isteku izvještajnog razdoblja
+– za razdoblja od 1. siječnja do 31. ožujka i od 1. siječnja do 30. rujna: u roku od 20 dana po isteku izvještajnog razdoblja.
+(3) Financijski izvještaji sastavljaju se i podnose na razini pravne osobe s uključenim podacima o poslovanju njenih organizacijskih dijelova.
+Članak 11.
+(1) Neprofitna organizacija iz članka 5. stavka 1. ovoga Pravilnika predaje Ministarstvu financija, odnosno drugoj instituciji koju Ministarstvo financija ovlasti za zaprimanje i obradu financijskih izvještaja, financijske izvještaje u elektroničkom obliku objavljene na internetskoj stranici Ministarstva financija.
+(2) Neprofitna organizacija uz financijske

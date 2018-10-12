@@ -1,0 +1,44 @@
+ jedinice lokalne samouprave ili umetanjem privitaka uz odgovarajući set metapodataka.
+(3) Elektronički zapis grafičkog dijela elaborata prostornog plana iz članka 12. stavka 1. podstavka 2. ove Uredbe može se učiniti dostupnim i putem internetskih servisa za razmjenu podataka.
+DIO TREĆI VOĐENJE I UPRAVLJANJE INFORMACIJSKOG SUSTAVA PROSTORNOG UREĐENJA
+Subjekti ISPU-a
+Članak 14.
+(1) Subjekti ISPU-a su:
+− Ministarstvo graditeljstva i prostornoga uređenja (u daljnjem tekstu: Ministarstvo)
+− Hrvatski zavod za prostorni razvoj
+− zavod
+− stručna upravna tijela županije i jedinice lokalne samouprave, nadležna za obavljanje stručnih poslova prostornog uređenja (u daljnjem tekstu: stručno upravno tijelo)
+− upravna tijela županije, Grada Zagreba i velikog grada, nadležna za obavljanje upravnih poslova prostornog uređenja i graditeljstva (u daljnjem tekstu: upravno tijelo)
+− upravna tijela velikog grada, Grada Zagreba i županije, nadležna za obavljanje stručnih i tehničkih poslova procjene vrijednosti nekretnina (u daljnjem tekstu: upravno tijelo za procjenu vrijednosti nekretnina)
+− Ministarstvo financija, Porezna uprava
+− stručni izrađivači i
+− javnopravna tijela određena posebnim propisima koja davanjem zahtjeva i mišljenja u postupku izrade i donošenja prostornih planova i/ili utvrđivanjem posebnih uvjeta, odnosno potvrđivanjem idejnog projekta sudjeluju u sustavu prostornog uređenja (u daljnjem tekstu: javnopravno tijelo određeno posebnim propisom).
+(2) Subjekti ISPU-a osiguravaju nesmetan tijek i pristup podacima i informacijama i odgovorni su za ažurnost, točnost i vjerodostojnost podataka i informacija prema svojoj nadležnosti.
+Ovlašteni korisnici ISPU-a
+Članak 15.
+(1) Ovlašteni korisnici ISPU-a su zaposlenici subjekata ISPU-a koji imaju ovlasti za preuzimanje, unos, povlačenje i/ili verifikaciju podataka u modulima iz članka 5. stavka 2. ove Uredbe.
+(2) Ovlasti iz stavka 1. ovoga članka, ovisno o djelokrugu rada ovlaštenika po pisanom zahtjevu subjekta ISPU-a daje Ministarstvo, ako ovom Uredbom nije propisano drukčije.
+(3) Ovlasti iz stavka 1. ovoga članka za module eKatalog i ePlanovi, osim ovlasti službenicima Ministarstva i Hrvatskog zavoda za prostorni razvoj, ovisno o djelokrugu rada ovlaštenika po pisanom zahtjevu subjekta ISPU-a, daje Hrvatski zavod za prostorni razvoj.
+Ministarstvo
+Članak 16.
+(1) Ministarstvo uspostavlja, razvija i vodi ISPU te njime upravlja u suradnji s Hrvatskim zavodom za prostorni razvoj i zavodom.
+(2) Ministarstvo u vođenju i upravljanju ISPU-om obavlja sljedeće poslove:
+− unosi, održava i verificira podatke u modulima eDozvola, eArhiv, eInspekcija i eNekretnine
+− održava zajedničke šifrarnike za module eDozvola, eArhiv, eInspekcija i eNekretnine
+− administrira korisničke račune za module eDozvola, eArhiv, eInspekcija i eNekretnine
+− daje objašnjenja za vođenje i upravljanje ISPU-om drugim subjektima ISPU-a i za korištenje ovlaštenim korisnicima i
+− obavlja stručne i administrativno-tehničke poslova za potrebe visokog procjeniteljskog povjerenstva prema posebnom propisu.
+Hrvatski zavod za prostorni razvoj
+Članak 17.
+(1) Hrvatski zavod za prostorni razvoj u vođenju i upravljanju ISPU-om obavlja sljedeće poslove:
+− unosi, održava i verificira prostorno-planske podatke i metapodatke o prostornim planovima državne razine u modulima ePlanovi i eKatalog
+− određuje razinu dostupnosti podacima i informacijama u sustavu
+− održava zajedničke šifrarnike za module eKatalog i ePlanovi
+− administrira korisničke račune za module eKatalog i ePlanovi
+− koordinira rad subjekata ISPU-a i
+− daje objašnjenja za korištenje ovlaštenim korisnicima ISPU-a za module ePlanovi i eKatalog.
+(2) Ako je Hrvatski zavod za prostorni razvoj stručni izrađivač prostornog plana, na njega se na odgovarajući način primjenjuju i odredbe članka 22. ove Uredbe.
+(3) Ako je Hrvatski zavod za prostorni razvoj koordinator izrade prostornog plana, na njega se na odgovarajući način primjenjuju i odredbe članka 19. ove Uredbe.
+Zavod
+Članak 18.
+(1)

@@ -1,0 +1,43 @@
+ isplaćenih ili uplaćenih na račun isplatitelja po primitku iz članka 200. stavaka 1. i 2. Zakona, a koji ne koristi opciju da ga se smatra UCITS-om na temelju članka 200. stavka 5. Zakona, dostavlja se iznos kamata koji se dodjeljuje članovima subjekata koji se smatraju isplatiteljima po primitku iz članka 200. stavaka 1. i 2. Zakona i koji ispunjavaju kriterije da ih se smatra stvarnim korisnicima kamata,
+5. u slučaju kamata iz točke 2. ovoga stavka, dostavlja se iznos kamata obračunat na godišnjoj razini, čak ako i ne dođe do prodaje, reotkupa ili otplate tijekom tog razdoblja.
+(4) Isplatitelji kamata obvezni su informacije iz stavaka 2. i 3. ovoga članka, dostaviti Poreznoj upravi najkasnije do 31. ožujka tekuće za prethodnu kalendarsku godinu.
+(5) Rok za razmjenu informacija iz stavaka 2. i 3. ovoga članka, između država članica, je 30. lipnja tekuće godine, za sve isplate kamata ostvarene tijekom prethodne kalendarske godine.
+2. Način izvješćivanja
+Članak 10.
+(1) Informacije iz članka 9. stavaka 2. i 3. ovoga Pravilnika dostavljaju se elektroničkim putem u propisanom formatu odnosno putem aplikacije SIDEIS (Savings Income Data Exchange Information System).
+(2) Korisnici aplikacije SIDEIS su banke i ostali isplatitelji kamata.
+(3) Za korištenje aplikacije SIDEIS od strane banaka i drugih isplatitelja kamata potrebna je prethodna registracija predajom obrasca »Punomoć«.
+(4) Porezna uprava na svojim službenima internetskim stranicama objavljuje upute za korištenje aplikacije SIDEIS.
+IV. AUTOMATSKA RAZMJENA INFORMACIJA O FINANCIJSKIM RAČUNIMA
+1. Opće obveze
+1.1. Obveze izvješćivanja
+Članak 11.
+(1) Izvještajne financijske institucije obvezne su Poreznoj upravi dostaviti sljedeće informacije u odnosu na svaki račun o kojem se izvješćuje i koji pripada izvještajnoj financijskoj instituciji:
+1. za svaku fizičku osobu koja je osoba o kojoj se izvješćuje i koja je imatelj računa:
+(a) ime i prezime,
+(b) adresa prebivališta,
+(c) država(-e) rezidentnosti,
+(d) porezni identifikacijski broj ili više njih,
+(e) osobni identifikacijski broj (OIB),
+(f) datum i mjesto rođenja,
+2. za svaki subjekt koji je osoba o kojoj se izvješćuje i koja je imatelj računa, a u skladu s člancima 33. do 48. ovoga Pravilnika utvrđeno je da ima jednu ili više osoba koje nad njim imaju kontrolu, a koje su osobe o kojima se izvješćuje:
+(a) naziv,
+(b) adresa,
+(c) država(-e) rezidentnosti,
+(d) porezni identifikacijski broj ili više njih,
+(e) osobni identifikacijski broj (OIB),
+(f) podatke za jednu ili više osoba koje imaju kontrolu nad subjektom, a osobe su o kojima se izvješćuje:
+1. ime i prezime,
+2. adresa,
+3. država(-e) rezidentnosti,
+4. porezni identifikacijski broj ili više njih,
+5. osobni identifikacijski broj (OIB),
+6. datum i mjesto rođenja.
+(2) Osim informacija iz stavka 1. ovoga članka, izvještajne financijske institucije obvezne su dostaviti sljedeće informacije:
+1. broj računa (ili ako nema broja računa, funkcionalno istovjetna oznaka),
+2. naziv i osobni identifikacijski broj (OIB) izvještajne financijske institucije,
+3. stanje računa ili vrijednost (uključujući, u slučaju ugovora o osiguranju ili ugovora o rentnom osiguranju uz mogućnost isplate otkupne vrijednosti police, novčanu ili otkupnu vrijednost) na kraju relevantne kalendarske godine ili ako je tijekom te godine račun zatvoren, informaciju o zatvaranju računa,
+4. u slučaju skrbničkog računa:
+(a) ukupan brutoiznos kamata, ukupan brutoiznos dividendi i ukupan brutoiznos drugog primitka ostvarenog od imovine na računu, odnosno u svim slučajevima ono što je isplaćeno ili pripisano na račun tijekom kalendarske godine i
+(b) ukupni brutoprimici od prodaje ili otkupa financijske imovine, isplaćeni ili pripisani na račun tijekom kalendarske godine u kojem je izvještajna financijska institucija djelovala kao skrbnik, broker, opunomoćenik ili zastupnik imatelja računa po nekoj drugoj osnovi,
+5. u slučaju depozitnog računa, ukupan brutoiznos kamata isplaćenih ili pripisanih na račun tijekom kalendarske

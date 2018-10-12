@@ -1,0 +1,22 @@
+(u daljnjem tekstu: gradivo) stavljaju se u za to određene omote, fascikle, registratore, arhivske kutije, svežnjeve, uveze ili arhivske mape i slične tehničke arhivske jedinice. U pismohrani, nakon arhiviranja predmeta, gradivo se sređuje te se provodi postupak izlučivanja i vrednovanja redovito, a najmanje pet godina od posljednjeg provedenog postupka. Odabrano gradivo se obavezno predaje tehnički opremljeno i popisano.
+Članak 11.
+(1) Rukovoditelj svake ustrojstvene jedinice odgovoran je za arhivsko i registraturno gradivo koje nastaje u njegovom poslovnom području, od trenutka zaprimanja i obrade do predaje na daljnje čuvanje.
+(2) Svaki službenik odgovoran je za gradivo za koje je zadužen u pogledu sadržaja podataka, pravodobne obrade, te ukupnog stanja svakog predmeta kojim raspolaže.
+(3) Svaki službenik obavezan je dovršene predmete bez odgode predati na arhiviranje, a prije predaje, sve akte u predmetu posložiti kronološkim redom prema datumu nastanka odnosno primitka akta s prilozima.
+(4) Referent predmeta određuje uputu o arhiviranju predmeta na lijevu stranu omota spisa, a sastoji se od oznake: a/a, datuma predaje predmeta na arhiviranje i potpisa službenika koji je dao uputu. Kod predmeta II. stupnja obavezno je na omotu spisa označiti kako je riješena žalba tijela drugog stupnja.
+Članak 12.
+(1) Arhivsko i registraturno gradivo predaje se na arhiviranje u pismohranu sukladno članku 11. ovoga Pravilnika uz popunjeni obrazac Popis predmeta predanih na arhiviranje.
+(2) Obrazac Popis predmeta predanih za arhiviranje sastavni je dio ovoga Pravilnika koji se ne objavljuje u »Narodnim novinama«.
+(3) Zadužena osoba za pismohranu odnosno drugi ovlašteni službenik u pismohrani, dužan je prilikom preuzimanja gradiva za arhiviranje provjeriti točnost upisanih podataka.
+(4) Zadužena osoba za pismohranu odnosno drugi ovlašteni službenik ne preuzima gradivo koje nije složeno u skladu sa stavkom 1. ovoga članka. Ukoliko naknadno uoči da referent predmeta nije pravilno pripremio gradivo za arhiviranje, obavezan je primjedbu unijeti u obrazac Popis predmeta predanih za arhiviranje i predmet vratiti referentu predmeta na ispravak.
+Članak 13.
+(1) Po prijemu i obradi arhivskog i registraturnog gradiva na način propisan u odredbama ovoga Pravilnika, zadužena osoba za pismohranu odnosno drugi ovlašteni službenik raspoređuje gradivo na police, odnosno ormare, u odgovarajućim prostorijama pismohrane.
+(2) Arhivsko i registraturno gradivo u pismohrani potrebno je razvrstati prema sadržajnim cjelinama, vremenu nastanka, vrstama gradiva i rokovima čuvanja. Nakon smještanja gradiva jednog godišta na police i u ormare, potrebno je numerirati arhivske jedinice.
+(3) Na svaku arhivsku jedinicu, ispisuju se sljedeći podaci: naziv institucije, ustrojstvena jedinica, godina nastanka gradiva, naziv i vrsta gradiva, raspon brojeva predmeta u arhivskoj jedinici, rok čuvanja gradiva.
+GLAVA II. NEKONVENCIONALNO GRADIVO
+Članak 14.
+(1) Dokumenti nastali ili zaprimljeni u elektroničkom obliku, baze podataka, elektroničke kopije dokumenata i drugi elektronički zapisi nastali u poslovanju čuvaju se na način koji ih osigurava od neovlaštenog pristupa, brisanja, mijenjanja ili gubitka podataka, sukladno važećim standardima te dobroj praksi upravljanja i zaštite informacijskih sustava.
+(2) Za svaki računalni sustav, odnosno aplikaciju koja se koristi za pohranu ili rad s elektroničkim dokumentima i drugim elektroničkim zapisima, obvezno je odrediti osobu koja je odgovorna za zaštitu podataka, redovitu izradu sigurnosnih kopija i arhiviranje podataka, te u pisanom obliku utvrditi postupak i učestalost izrade sigurnosnih kopija, te postupak obnove podataka u slučaju greške ili gubitka podataka.
+(3) Postupci izrade sigurnosnih kopija i obnove podataka trebaju biti takvi da omoguće sigurnu i cjelovitu obnovu podataka u kratkom roku.
+Članak 15.
+Kod uvođenja ili izmjena aplikacije, baze podataka ili formata zapisa, obvezno je u pisanom obliku opisati: svrhu, opseg i način

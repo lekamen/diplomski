@@ -1,0 +1,46 @@
+ odnosno za to ovlaštene osobe OUP-a.
+Članak 6.
+(1) OUP može poduzeti sve radnje u okviru svojeg ovlaštenja koje su neophodne za pristup sadržaju Baze i njezino redovito korištenje.
+(2) Ako je OUP ovlašten za korištenje samo dijela Baze, dopušteno je reproduciranje i obrada samo tog dijela.
+Članak 7.
+(1) OUP-i sa svim podacima moraju postupati nepristrano, objektivno i profesionalno.
+(2) Svaki OUP dužan je na zahtjev Ministarstva dostaviti popis ovlaštenih osoba za pristup Bazi.
+(3) U slučaju promjene ovlaštenih osoba unutar OUP-a potrebno je obavijestiti Ministarstvo u roku 15 dana od dana nastanka promjene.
+(4) Ministarstvo vodi popis OUP-a te ga objavljuje na službenim internetskim stranicama Ministarstva.
+(5) Popis OUP-a ažurira se po potrebi, najmanje jednom godišnje.
+IV. UNOS PODATAKA
+Članak 8.
+(1) Svakoj ovlaštenoj osobi unutar OUP-a Ministarstvo dodjeljuje pristupne podatke kojima se prijavljuje u Bazu. Postupanje s pristupnim podacima je detaljno opisano u Priručniku za korištenje Baze.
+(2) Svakom OUP-u treba biti omogućen nesmetani i sustavni unos podataka u Bazu.
+(3) Unos podataka obavlja se putem računala upisom u predviđene obrasce, na temelju Priručnika za korištenje Baze, propisanim redoslijedom i načinom.
+(4) Izmjena i/ili ažuriranje podataka o projektu unesenom u Bazu obavlja se po potrebi, a najmanje po isteku godine dana od posljednjeg unosa podataka o projektu.
+(5) Ukoliko nositelj projekta ne dostavi podatke za ažuriranje projekta u Bazi u propisanom razdoblju u skladu sa stavkom 4. ovoga članka OUP je dužan kontaktirati nositelja projekta sa zahtjevom za ažuriranje.
+(6) Rok za unos i ažuriranje podataka od strane OUP-a je 10 dana od dana zaprimanja zahtjeva za unos i/ili ažuriranje projekta u Bazi.
+(7) Podaci koji se dostavljaju OUP-u se smatraju povjerljivim podacima. OUP je dužan pružati povratne informacije nositelju projekta o obavljenom unosu i/ili ažuriranju podataka.
+(8) Svaka ovlaštena osoba OUP-a iz stavka 1. ovoga članka mora potpisati Izjavu o povjerljivosti.
+Članak 9.
+(1) Ovlaštene osobe OUP-a iz članka 8. stavka 1. ovog Pravilnika obvezne su se osposobiti za korištenje Baze. Osposobljavanje će organizirati Ministarstvo.
+(2) O provedenom osposobljavanju iz stavka 1. ovoga članka Ministarstvo izdaje potvrde.
+Članak 10.
+(1) U Bazu se unose podaci o projektima neovisno o fazi u kojoj se nalaze.
+(2) Svaki projekt iz stavka 1. ovog članka prilikom prvog unosa u Bazu dobiva svoju identifikacijsku oznaku projekta, koja je jedinstvena i nepromjenjiva u svim fazama projekta.
+(3) Projekt koji je unesen u Bazu ne može se ukloniti iz Baze već ostaje u njoj trajno pohranjen.
+Članak 11.
+(1) Svaki spremljeni unos, izmjena ili brisanje ostaju trajno zapisani u Bazi na način da se bilježi unos, odnosno izmjena, brisanje zajedno s datumom i vremenom spremanja te identifikacijskim podacima ovlaštene osobe koja unosi, izmjenjuje ili briše podatak.
+(2) Baza omogućava pregled povijesnosti zabilježenih unosa odnosno izmjena ili brisanja.
+V. RAZINE OVLAŠTENJA
+Članak 12.
+(1) Pristup Bazi može biti ograničen i neograničen, ovisno o ovlaštenju koje dobije pojedini OUP.
+(2) Ovlaštenje za korištenje Baze Ministarstvo dodjeljuje ovisno o sektoru i/ili teritoriju (županija) na kojem se projekt provodi te se razlikuje pet razina ovlaštenja.
+(3) Prava i ovlasti OUP-a pojedinih razina bit će detaljno razrađeni u Priručniku za korištenje Baze.
+Članak 13.
+(1) Razina 1. ovlaštenja dodjeljuje se regionalnim koordinatorima upisanim u Upisnik regionalnih koordinatora i lokalnih razvojnih agencija.
+(2) Razina 2. ovlaštenja dodjeljuje se Središnjim tijelima i njihovim agencijama.
+(3) Razina 3. ovlaštenja dodjeljuje se provedbenom tijelu Ministarstva.
+(4) Razina 4. ovlaštenja dodjeljuje se Ministarstvu.
+(5) Razina 5. ovlaštenja dodjeljuje se administratoru Baze.
+Članak 14.
+Razina 1. ovlaštenja obuhvaća:
+– teritorijalno ograničen pristup
+– uvid u sve projekte s područja županije za koju su nadležni
+– kreiranje, mijenjanje i/ili

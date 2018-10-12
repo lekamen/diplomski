@@ -1,0 +1,52 @@
+ prostora te ostalih prostorija.
+1. Glavni prostor zbrinjavanja pacijenata čine:
+1.1. prostor za prijam pacijenata:
+1.1.1. prostor za trijažu,
+1.1.2. čekaonica,
+1.2. prostorija za reanimaciju,
+1.3. prostor za zbrinjavanje akutnih pacijenata,
+1.4. prostor za zbrinjavanje subakutnih pacijenata,
+1.5. prostorija za izolaciju,
+1.6. prostor za središnji nadzor pacijenata,
+1.7. prostorija za intervencije i male operacijske zahvate.
+OHBP ima minimalno pet ležaja za zbrinjavanje akutnih i subakutnih pacijenata.
+Broj ležaja u OHBP-u određuje se u odnosu na godišnji broj pacijenata 1., 2. i 3. trijažne kategorije smještenih u OHBP-u, i to:
+1. do 10.000 zbrinutih pacijenata/godini min. 5 ležajeva
+2. do 15.000 zbrinutih pacijenata/godini min. 7 ležajeva
+3. do 20.000 zbrinutih pacijenata/godini min. 11 ležajeva
+4. do 25.000 zbrinutih pacijenata/godini min. 15 ležajeva
+5. do 35.000 zbrinutih pacijenata/godini min. 21 ležajeva
+6. do 50.000 zbrinutih pacijenata/godini min. 30 ležajeva.
+1.1. Prostor za prijam pacijenata
+1.1.1. Prostor za trijažu predstavlja mjesto prvog kontakta zdravstvenog radnika i pacijenta, a čine ga prijamni pult i prostorija za trijažu koja osigurava privatnost pacijenta.
+Prijamni pult mora biti smješten neposredno uz čekaonicu s nadzorom cijele čekaonice i uz prostoriju za trijažu.
+Površina prijamnog pulta mora biti dovoljno velika i oblik prijamnog pulta mora biti takav da omogućava nesmetanu komunikaciju i rad s pacijentom, odnosno prijamni pult mora imati dovoljno prostora za rad i razmještaj odgovarajuće opreme.
+1.1.2. Čekaonica mora biti smještena neposredno uz prijamni pult i prostoriju za trijažu.
+Prostor čekaonice mora biti otvoren i mora se lako nadzirati s prijamnog pulta. Čekaonica ne smije izravno biti povezana s prostorima za zbrinjavanje pacijenata.
+1.2. Prostorija za reanimaciju
+Prostorija za reanimaciju koristi se za zbrinjavanje životno ugroženog pacijenta i mora biti pristupačna ulazu.
+Površina prostorije za reanimaciju mora iznositi minimalno 20 m2.
+1.3. Prostor za zbrinjavanje akutnih pacijenta
+Prostor za zbrinjavanje akutnih pacijenta služi za smještaj i obradu akutno ugroženog pacijenta.
+Broj ležajeva u prostoru za zbrinjavanje akutnih pacijenata mora iznositi minimalno 25% ukupnog broja ležajeva OHBP-a, ali ne manje od dva ležaja.
+1.4. Prostor za zbrinjavanje subakutnih pacijenata
+Broj ležajeva u prostoru za zbrinjavanje subakutnih pacijenata mora iznositi minimalno 60% od ukupnog broja ležajeva OHBP -a, ali ne manje od 3 ležaja.
+1.5. Prostorija za izolaciju
+U okviru kapaciteta prostora za prijam pacijenata mora se osigurati prostorija za izolaciju.
+Površina prostorije za izolaciju mora iznositi minimalno 12 m2 i mora imati minimalno 1 ležaj.
+1.6. Prostor za središnji nadzor pacijenata
+Prostor za središnji nadzor pacijenata mora biti smješten tako da omogući nadzor nad prostorima za zbrinjavanje akutnih pacijenata, subakutnih te pacijenata u prostoriji za izolaciju.
+1.7. Prostorija za intervencije i male operacijske zahvate
+Površina prostorije za intervencije i male operacijske zahvate mora iznositi minimalno 30 m2.
+2. Dodatni prostori koji se nalaze u sastavu prostora OHBP-a:
+2.1. prostorija za pohranu lijekova, potrošnog medicinskog materijala i pokretne medicinske opreme,
+2.2. gipsaonica.
+2.1. Prostorija za pohranu lijekova, potrošnog medicinskog materijala i pokretne medicinske opreme
+Površina prostorije za pohranu lijekova, potrošnog medicinskog materijala i pokretne medicinske opreme mora iznositi minimalno 12 m2.
+2.2. Gipsaonica
+Površina gipsaonice mora iznositi minimalno 12 m2.
+3. Dodatni prostori funkcionalno povezani s prostorom OHBP-a
+Prostorija za radiološku dijagnostiku i medicinsko-biokemijski laboratorij mogu biti u sastavu drugih ustrojstvenih jedinica bolničke zdravstvene ustanove, ali moraju biti funkcionalno povezani s OHBP-om i mora im se osigurati brzi pristup pacijenta.
+4. Ostale prostorije OHBP-a su:
+4.1. prostorije za pohranjivanje čistih/nečistih stvari,
+4.2. prostor za

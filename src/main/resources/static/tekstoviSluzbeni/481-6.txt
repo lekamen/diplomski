@@ -1,0 +1,63 @@
+ (vidi također ML8.g.5. za njegove »prekursore«) kako slijedi:
+a. HMX (ciklotetrametilenetetranitramin, oktahidro-1,3,5,7-tetranitro-1,3,5,7-tetrazin,1,3,5,7-tetranitro-1,3,5,7-tetrazaciklooktan, oktogen ili octogene) (CAS 2691-41-0);
+b. difluoroaminirani analozi HMX;
+c. K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabiciklo [3,3,0]-oktanon-3,tetranitrosemiglikuril ili keto-bicklik HMX) (CAS 130256-72-3);
+14. HNAD (heksanitroadamantan) (CAS 143850-71-9);
+15. HNS (heksanitrostilben) (CAS 20062-22-0);
+16. imidazoli kako slijedi:
+a. BNNII (oktahidro-2,5-bis(nitroimino)imidazo[4,5-d]imidazol);
+b. DNI (2,4-dinitroimidazol) (CAS 5213-49-0);
+c. FDIA (1-fluoro-2,4-dinitroimidazol);
+d. NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazol);
+e. PTIA (1-pikril-2,4,5-trinitroimidazol);
+17. NTNMH (1-(2-nitrotriazolo)-2dinitrometilen hidrazin);
+18. NTO (ONTA ili 3-nitro-1,2,4-triazol-5-jedan) (CAS 932-64-9);
+19. polinitrokubani s više od četiri dušične grupe;
+20. PYX (2,6-Bis(pikrilamino)-3,5-dinitropiridin) (CAS 38082-89-2);
+21. RDX i derivati kako slijedi:
+a. RDX (ciklotrimetilenetrinitramin, ciklonit, T4, heksahidro-1,3,5-trinitro-1,3,5-1,3,5-triazin, 1,3,5-trinitro-1,3,5-triaza-cikloheksan, heksogen ili hexogene) (CAS 121-82-4);
+b. Keto-RDX (K-6 ili 2,4,6-trinitro-2,4,6-triazacikloheksanon) (CAS 115029-35-1);
+22. TAGN (triaminoguanidinenitrat) (CAS 4000-16-2);
+23. TATB (triaminotrinitrobenzen) (CAS 3058-38-6) (vidi također ML8.g.7. za njegove »prekursore«);
+24. TEDDZ (3,3,7,7-tetrabis(difluoramin) oktahidro-1,5-dinitro-1,5-diazocin);
+25. Tetrazoli kako slijedi:
+a. NTAT (nitrotriazol aminotetrazol);
+b. NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazol);
+26. Tetril (trinitrofenilmetilnitramin) (CAS 479-45-8);
+27. TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadekalin) (CAS 135877-16-6) (vidi također ML8.g.6. za njegove »prekursore«);
+28. TNAZ (1,3,3-trinitroazetidin) (CAS 97645-24-4) (vidi također ML8.g.2. za njegove »prekursore«);
+29. TNGU (SORGUYL ili tetranitroglikoluril) (CAS 55510-03-7);
+30. TNP (1,4,5,8-tetranitro-piridazino[4,5-d]piridazin) (CAS 229176-04-9);
+31. triazini kako slijedi:
+a. DNAM (2-oksi-4,6-dinitroamino-s-triazin) (CAS 19899-80-0);
+b. NNHT (2-nitroimino-5-nitro-heksahidro-1,3-5-triazin) (CAS 130400-13-4);
+32. Triazoli kako slijedi:
+a. 5-azido-2-nitrotriazol;
+b. ADHTDN (4-amino-3,5-dihidrazino-1,2,4-triazol dinitramid) (CAS 1614-08-0);
+c. ADNT (1-amino-3,5-dinitro-1,2,4-triazol);
+d. BDNTA ([bis-dinitrotriazol]amin);
+e. DBT (3,3’-dinitro-5,5-bi-1,2,4-triazol) (CAS 30003-46-4);
+f. DNBT (dinitrobistriazol) (CAS 70890-46-9);
+g. ne upotrebljava se od 2010.;
+h. NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazol);
+i. PDNT (1-pikril-3,5-dinitrotriazol);
+j. TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
+33. eksplozivi koji nisu navedeni drugdje u ML8.a. i koji imaju bilo što od sljedećeg:
+a. brzinu detonacije veću od 8 700 m/s na maksimalnoj gustoći; ili
+b. tlak detonacije veći od 34 GPa (340 kbar);
+34. ne upotrebljava se od 2013.
+35. DNAN (2,4-dinitroanizol) (CAS 119-27-7);
+36. TEX (4,10-dinitro-2,6,8,12-tetraoksa-4,10-diazaizovurcitan)
+37. GUDN (Guanylurea dinitramid) FOX-12 (CAS 217464-38-5)
+38. tetrazini, kako slijedi:
+a. BTAT (Bis(2,2,2-trinitroetil)-3,6-diaminotetrazin);
+b. LAX-112 (3,6-diamino-1,2,4,5-tetrazin-1,4-dioksid);
+39. energetski ionski materijali koji se tope na temperaturi između 343 K (70 °C) i 373 K (100 °C) i s brzinom detonacije većom od 6 800 m/s ili s tlakom detonacije većim od 18 GPa (180 kbar);
+b. »Pogonska goriva« kako slijedi:
+1. Bilo koje kruto »pogonsko gorivo« teoretskog specifičnog impulsa (u standardnim uvjetima) većeg od:
+a. 240 sekundi za nemetalizirano, nehalogenizirano »pogonsko gorivo«;
+b. 250 sekundi za nemetalizirano, halogenizirano »pogonsko gorivo«; ili
+c. 260 sekundi za metalizirano »pogonsko gorivo«;
+2. ne upotrebljava se od 2013.
+3. »Pogonska goriva« koja imaju vrijednost konstante snage veću od 1 200 kJ/kg;
+4. »Pogonska goriva« koja mogu podnijeti stabilnu linearnu brzinu gorenja veću od 38

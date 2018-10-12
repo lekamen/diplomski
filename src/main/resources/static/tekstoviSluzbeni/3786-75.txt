@@ -1,0 +1,32 @@
+u skladu s člankom 189. ovoga Zakona.
+(2) Društvo za upravljanje dužno je, u okviru prospekta ili kao naknadnu obavijest, na svojoj mrežnoj stranici objaviti datume početka i završetka početne ponude udjela, kao i datum do kojega će ulagateljima isplatiti uplaćena novčana sredstva u slučaju da okončanjem razdoblja za početnu ponudu nije prikupljen predviđeni iznos najniže vrijednosti imovine UCITS fonda.
+(3) Razdoblje početne ponude udjela u UCITS fondu ne smije trajati dulje od 30 dana od dana početka početne ponude. Tijekom tog razdoblja ukupni iznos primljenih novčanih sredstava drži se na računu UCITS fonda otvorenom kod depozitara i ne smije se ulagati sve do trenutka kada UCITS fond ne prijeđe zakonom utvrđeni prag najniže vrijednosti imovine UCITS fonda od 5.000.000,00 kuna.
+(4) Ulaganje prikupljenih novčanih sredstava smije početi tek po isteku razdoblja početne ponude.
+(5) Cijena izdanja i dodjela udjela ulagateljima određeni su člankom 172. ovoga Zakona.
+(6) Prije uspješnog okončanja početne ponude udjela u UCITS fondu ulagateljima se ne zaračunavaju i ne naplaćuju nikakve naknade.
+(7) Ulagatelji nemaju pravo na isplatu uplaćenih novčanih sredstava za vrijeme trajanja početne ponude udjela UCITS fonda.
+(8) U slučaju da okončanjem razdoblja za početnu ponudu nije prikupljen predviđeni iznos najniže vrijednosti imovine UCITS fonda, društvo za upravljanje dužno je vratiti uplaćena sredstva ulagateljima u roku od 15 dana.
+(9) Ako se UCITS fond ne osnuje u roku od tri mjeseca od izdavanja odobrenja za osnivanje i upravljanje UCITS fondom, odobrenje prestaje važiti, a Agencija će donijeti rješenje kojim se utvrđuje prestanak važenja predmetnog odobrenja.
+(10) Po okončanju razdoblja početne ponude udjela društvo za upravljanje je dužno bez odgode obavijestiti Agenciju o ishodu početne ponude.
+Izdavanje udjela
+Članak 246.
+(1) Izdavanje udjela javnom ponudom obavlja se isključivo uplatama novčanih sredstava na račun UCITS fonda otvoren u skladu s člankom 220. stavkom 1. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, izdavanje udjela može se obaviti dodjelom novih udjela na ime isplate udjela u dobiti, odnosno prilikom smanjivanja vrijednosti udjela na ime dodjele novih udjela, odnosno u drugim slučajevima koje propiše Agencija.
+(3) Uplata u UCITS fond obavlja se u novčanim sredstvima, a iznimno i u financijskim instrumentima u posebnim okolnostima koje pravilnikom odredi Agencija, uz uvjet da se ponuđenim financijskim instrumentima trguje na uređenom tržištu te da im je moguće utvrditi točnu cijenu.
+POGLAVLJE II.
+Naknade koje naplaćuje društvo za upravljanje
+Članak 247.
+(1) Naknade koje društvo za upravljanje naplaćuje ulagatelju u UCITS fond ograničene su na ulaznu i izlaznu naknadu.
+(2) Naknada koju društvo za upravljanje naplaćuje UCITS fondu ograničena je na naknadu za upravljanje i s time povezane troškove.
+(3) Iznimno od stavka 2. ovoga članka, dopušteno je naplaćivati i naknadu vezanu uz prinos UCITS fonda.
+(4) Plaćanje naknada iz stavaka 1., 2. i. 3. ovoga članka kontrolirat će depozitar UCITS fonda.
+(5) Prospektom UCITS fonda moraju biti jasno određeni uvjeti za naplatu naknada iz ovoga članka, visina naknada i način njihova izračuna, kao i mogućnost sniženja ili nenaplaćivanja neke od naknada na temelju odluke društva za upravljanje.
+(6) Agencija će propisati pravilnikom uvjete za naplatu, visinu i način izračuna naknada iz ovoga članka.
+Ostali troškovi i naknade UCITS fonda
+Članak 248.
+(1) Osim naknada iz članka 247. ovoga Zakona UCITS fondu mogu se naplaćivati samo oni troškovi poslovanja i naknade koji su određeni stavkom 2. ovoga članka, ako su ujedno navedeni u prospektu UCITS fonda.
+(2) Iz imovine UCITS fonda mogu se izravno plaćati isključivo:
+1. naknada i troškovi plativi depozitaru
+2. troškovi, provizije ili pristojbe vezane uz stjecanje ili prodaju imovine
+3. troškovi vođenja registra udjela, uključujući troškove izdavanja potvrda o transakciji ili stanju udjela, ako je to potrebno
+4. troškovi

@@ -1,0 +1,31 @@
+ poslovanju UCITS fonda iz članka 212. ovoga Zakona te način, sadržaj i rokove objava iz članka 213. ovoga Zakona.
+DIO DEVETI DEPOZITAR
+POGLAVLJE I.
+Osobe koje mogu obavljati poslove depozitara
+Članak 216.
+(1) Društvo za upravljanje dužno je za svaki UCITS fond kojim upravlja izabrati depozitara u skladu s odredbama ovoga Zakona te s njim sklopiti pisani ugovor o obavljanju poslova depozitara određenih ovim Zakonom.
+(2) UCITS fond može imati samo jednog depozitara.
+(3) Depozitar UCITS fonda može biti:
+1. kreditna institucija sa sjedištem u Republici Hrvatskoj, koja ima odobrenje Hrvatske narodne banke za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima, odnosno instrumentima osiguranja
+2. podružnica kreditne institucije države članice, osnovana u Republici Hrvatskoj u skladu s odredbama zakona koji uređuje osnivanje i rad kreditnih institucija, koja ima odobrenje nadležnog tijela te države članice za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima, odnosno instrumentima osiguranja ili
+3. podružnica kreditne institucije iz treće države, osnovana u Republici Hrvatskoj u skladu s odredbama zakona koji uređuje osnivanje i rad kreditnih institucija, koja ima odobrenje Hrvatske narodne banke za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima, odnosno instrumentima osiguranja.
+(4) Depozitar mora trajno ispunjavati sve organizacijske zahtjeve i uvjete potrebne za obavljanje poslova depozitara prema odredbama ovoga Zakona.
+(5) Upravitelji depozitara UCITS fonda moraju imati dobar ugled i odgovarajuće iskustvo u odnosu na UCITS fond za koji se obavljaju poslovi depozitara. Upraviteljima depozitara smatraju se osobe odgovorne za poslovanje organizacijske jedinice koja obavlja poslove depozitara unutar kreditne institucije, odnosno podružnice kreditne institucije ili osobe koje mogu utjecati na poslovnu politiku kreditne institucije, odnosno podružnice kreditne institucije, u dijelu obavljanja poslova depozitara.
+Izbor i promjena depozitara te bitne izmjene ugovora o obavljanju poslova depozitara
+Članak 217.
+(1) Agencija će u okviru postupka izdavanja odobrenja za osnivanje i upravljanje UCITS fondom, u skladu s člankom 243. ovoga Zakona, odobriti depozitara za UCITS fond.
+(2) Za promjenu depozitara, kao i bitne izmjene ugovora o obavljanju poslova depozitara, potrebno je ishoditi odobrenje Agencije.
+(3) Agencija će pravilnikom pobliže urediti postupak i uvjete za izdavanje odobrenja iz stavka 2. ovoga članka, sadržaj ugovora o obavljanju poslova depozitara te bitne izmjene ugovora o obavljanju poslova depozitara.
+POGLAVLJE II.
+Poslovi depozitara
+Članak 218.
+Depozitar za UCITS fond obavlja sljedeće poslove:
+1. kontrolne poslove
+2. praćenje tijeka novca UCITS fonda i
+3. poslove pohrane imovine UCITS fonda.
+Kontrolni poslovi
+Članak 219.
+(1) Depozitar za UCITS fond obavlja sljedeće kontrolne poslove:
+a) osigurava da se izdavanje, otkup i isplata udjela UCITS fonda obavljaju u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona, drugim važećim propisima i prospektom UCITS fonda
+b) osigurava da je neto vrijednost imovine UCITS fondova te cijena udjela u UCITS fondu izračunata u skladu s usvojenim računovodstvenim politikama, odnosno metodologijama vrednovanja, ovim Zakonom, propisima donesenim na temelju ovoga Zakona, važećim propisima te prospektom UCITS fonda
+c) izvršava naloge društva za upravljanje u vezi s transakcijama financijskim instrumentima i drugom imovinom koja čini portfelj UCITS fonda, isključivo pod uvjetom da nisu u suprotnosti s ovim Zakonom, propisima Agencije, prospektom i

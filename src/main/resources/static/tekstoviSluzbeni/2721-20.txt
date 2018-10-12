@@ -1,0 +1,33 @@
+ Kompetitivni imunoenzimski test »Competitive enzyme-linked immunosorbent assay« (cELISA)
+3.2.1. Uvjeti za korištenje testa cELISA
+a) Proba cELISA ne smije se koristiti za svrhe certifikacije za trgovinu unutar EU.
+b) Goveda koja su pokazala pozitivan rezultat na neki od drugih seroloških testova navedenih u ovom Dodatku mogu biti pretražena cELISA testom, u cilju što točnije interpretacije rezultata drugih seroloških testova; posebice u slučajevima goveda iz stada službeno slobodnih od bruceloze goveda, a u svrhu isključivanja unakrižne reakcije na protutijela na druge bakterije ili za isključivanje reakcija na rezidualna protutijela nastala nakon vakcinacije sa S19.
+3.2.2. Postupak provedbe testa
+Test se provodi u skladu s propisom iz važećeg Priručnika za norme dijagnostičkih testova i cjepiva OIE-a.
+4. NACIONALNI REFERENTNI LABORATORIJ
+4.1. Zadaće i odgovornosti
+Nacionalni referentni laboratoriji određeni u skladu s člankom 6. stavcima 4. i 5. ovoga Pravilnika odgovorni su za:
+a) odobravanje rezultata ispitivanja validacije koji pokazuju pouzdanost metode korištenog testa;
+b) utvrđivanje maksimalnog broja pojedinačnih uzoraka koji mogu sačinjavati skupni uzorak za testiranje imunoenzimnim testom;
+c) kalibraciju norme sekundarne referencije nacionalnih normiranih seruma (»radne norme«) u odnosu na primarni internacionalni normirani serum iz stavka 2.1.6.;
+d) provjere kvalitete svih antigena i serija ELISA kitova koji se koriste;
+e) postupanje u skladu s preporukama te suradnja s mrežom nacionalnih referentnih laboratorija Europske unije za brucelozu.
+DODATAK D
+Poglavlje I. STADA SLUŽBENO SLOBODNA OD ENZOOTSKE LEUKOZE GOVEDA
+A. Stado službeno slobodno od enzootske leukoze goveda je stado u kojem:
+a) nema dokaza, kliničkih ili na temelju laboratorijskih testova enzootske leukoze goveda i u kojem nijedan takav slučaj nije potvrđen u posljednje dvije godine;
+i
+b) sve životinje starije od 24 mjeseca imaju negativnu reakciju tijekom prethodnih 12 mjeseci na dva testa provedena u skladu s ovim Dodatkom u razmaku od najmanje četiri mjeseca;
+ili
+c) stado udovoljava zahtjevima iz podtočke (a) ove točke i nalazi se u državi ili regiji koja je službeno slobodna od enzootske leukoze goveda.
+B. Stado će zadržati status službeno slobodnog od enzootske leukoze goveda pod uvjetom da:
+a) se uvjet pod točkom A. podtočkom (a) ovoga Poglavlja i dalje ispunjava,
+b) sve životinje prispjele u stado dolaze iz stada službeno slobodnog od enzootske leukoze goveda,
+c) sve životinje starije od 24 mjeseca i dalje imaju negativnu reakciju na test proveden u skladu s Poglavljem II. ovoga Dodatka u razmacima od tri godine,
+d) su životinje za uzgoj prispjele u stado, ukoliko potječu iz trećih zemalja, uvezene u skladu s Pravilnikom o veterinarskim uvjetima za uvoz i provoz određenih živih papkara i kopitara (»Narodne novine, broj 41/09 i 31/13).
+C. Status stada službeno slobodnog od enzootske leukoze goveda mora se privremeno oduzeti ukoliko stado ne udovoljava uvjetima navedenim u točki B ovoga Poglavlja, ili kad se na temelju laboratorijskih testova ili kliničkih znakova sumnja da jedno ili više grla ima enzootsku leukozu goveda te kada su sumnjiva grla odmah zaklana.
+D. Status stada službeno slobodnog od enzootske leukoze goveda ostaje privremeno oduzet sve dok se ne poštuju ovi zahtjevi:
+1. Ako pojedinačna životinja u stadu službeno slobodnom od enzootske leukoze goveda ima pozitivnu reakciju na jedan od testova iz Poglavlja II. ovoga Dodatka, ili kad se inače sumnja na infekciju kod jedne životinje iz stada:
+(a) životinja koja ima pozitivnu reakciju, a u slučaju krave i svakog njezinog teleta, mora napustiti stado zbog klanja pod nadzorom nadležnog tijela,
+b) sve životinje u stadu starije od 12 mjeseci imaju negativnu reakciju na dva serološka testa (u razmaku od najmanje 4 mjeseca, ali manje od 12 mjeseci) provedena u skladu s Poglavljem II. ovoga Dodatka tri mjeseca nakon odstranjivanja pozitivne životinje i svakog njezinog mogućeg potomka,
+c)

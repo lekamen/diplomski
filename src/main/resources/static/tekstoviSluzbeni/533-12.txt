@@ -1,0 +1,37 @@
+ povezanim s kliničkim ispitivanjem i mogu se naći na mjestu provođenja kliničkog ispitivanja, kod naručioca ispitivanja i/ili ugovorne istraživačke organizacije ili drugim ustanovama koje nadležno tijelo smatra primjerenim.
+1.30. Ustanova (medicinska)
+Svaki javni ili privatni subjekt, zavod ili medicinska ili stomatološka ustanova u kojoj se provode klinička ispitivanja.
+1.31. Vijeće ustanove za klinička ispitivanja
+Nezavisno tijelo sastavljeno od profesionalaca medicinske struke i članova koji nisu medicinske struke čija je odgovornost osiguranje zaštite prava, sigurnosti i dobrobiti ljudi koji sudjeluju u kliničkom ispitivanju, između ostaloga pregledom, odobravanjem i osiguranjem stalnoga uvida u Plan kliničkog ispitivanja i njegovih dodataka se koriste za dobivanje i dokumentiranje pristanaka obaviještenog ispitanika u kliničkom ispitivanju.
+1.32. Međuizvještaj o kliničkom ispitivanju/studiji
+Izvještaj o međurezultatima i njihovoj procjeni koji se zasniva na analizi provedenoj tijekom kliničkog ispitivanja.
+1.33. Ispitivani proizvod
+Farmaceutski oblik aktivne tvari ili placeba koji se ispituje u kliničkom ispitivanju radi usporedbe, uključujući i proizvod koji je odobren na tržištu ako se njegova primjena ili način (formulacija ili pakiranje) razlikuju od odobrenog, ili, ako se primjenjuje za indikaciju koja nije odobrena, ili se koristi za prikupljanje daljnjih podataka o odobrenoj primjeni.
+1.34. Ispitivač
+Osoba odgovorna za provođenje kliničkog ispitivanja na mjestu gdje se ono provodi. Ako ispitivanje na nekom mjestu provodi skupina pojedinaca, ispitivač je odgovorna osoba koja vodi tu skupinu te se još naziva i glavni ispitivač. Također vidi Pomoćni ispitivač.
+1.35. Ispitivač/Ustanova
+Izraz koji označava »ispitivača i/ili ustanovu u skladu s važećim zakonskim propisima«.
+1.36. Uputa za ispitivača
+Skup kliničkih i pretkliničkih podataka o ispitivanom proizvodu koji su važni za njegovo ispitivanja u ljudi (vidi 7. Upute za ispitivača).
+1.37. Zakonski zastupnik
+Pojedinac ili pravna osoba ili drugo tijelo ovlašteno važećim zakonima da u ime ispitanika da pristanak za sudjelovanje u kliničkom ispitivanju.
+1.38. Motrenje
+Čin motrenja napretka kliničkoga ispitivanja i briga da su njegova provedba, dokumentiranje i izvješćivanje u skladu s Planom kliničkog ispitivanja, standardnim operativnim postupcima, dobrom kliničkom praksom i važećim zakonskim propisima.
+1.39. Izvještaj o motrenju
+Izvještaj u pisanom obliku koji motritelj podnosi naručitelju ispitivanja nakon svakog posjeta mjestu ispitivanja i/ili nakon novih saznanja vezanih uz ispitivanje u skladu sa standardnim operativnim postupcima naručitelja ispitivanja.
+1.40. Multicentrično ispitivanje
+Kliničko ispitivanje koje se provodi u skladu s jedinstvenim Planom kliničkog ispitivanja na više od jednog mjesta te ga stoga provodi više od jednoga ispitivača.
+1.41. Pretklinička istraživanja
+Biomedicinska istraživanja koja se ne provode na ljudima.
+1.42. Mišljenje (odnosi se na nezavisno etičko povjerenstvo)
+Ocjena i/ili preporuka koju izdaje nezavisno etičko povjerenstvo.
+1.43. Izvorni zdravstveni podaci
+Vidi Izvorni dokumenti.
+1.44. Plan kliničkog ispitivanja
+Dokument u kojemu su opisani ciljevi, plan, metodologija, statistika i organizacija ispitivanja. Uz to se u Planu kliničkog ispitivanja obično razlaže pozadina i smisao ispitivanja, ali je to moguće naći i u drugim dokumentima na koje se Plan kliničkog ispitivanja poziva. U ovim se ICH Smjernicama pojam »Plan kliničkog ispitivanja« odnosi na sam Plan kliničkog ispitivanja i njegove izmjene i dodatke.
+1.45. Izmjene i dodaci Planu kliničkog ispitivanja
+Izmjene Plana kliničkog ispitivanja u pisanom obliku, odnosno njegovo službeno pojašnjenje.
+1.46. Osiguranje kvalitete
+Sve planirane i sustavne aktivnosti kojima se želi osigurati sukladnost kliničkog ispitivanja, dokumentiranja (bilježenja) rezultata i izvješćivanja s dobrom kliničkom praksom i važećim zakonskim propisima.
+1.47. Kontrola kvalitete
+Provedbene tehnike i

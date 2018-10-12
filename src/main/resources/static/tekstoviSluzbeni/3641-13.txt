@@ -1,0 +1,30 @@
+ sigurnosti postrojenja sastavljeno na temelju dokumentacije iz točke a) i točke b) ovog stavka;
+d) dokumentirani dokaz koji pokazuje da će se bilo koji izvođači radova pridržavati tijekom razgradnje postrojenja standarda radiološke ili nuklearne sigurnosti sukladno onima koji su zahtijevani od strane investitora ili operatera.
+Odobrenje za početak razgradnje nuklearnog postrojenja
+Članak 57.
+(1) Uz zahtjev za odobrenje za početak razgradnje nuklearnog postrojenja, potrebno je priložiti slijedeće:
+a) izvješće o sigurnosnoj analizi za razgradnju izrađeno u skladu s Pravilnikom o izvješću o sigurnosnoj analizi za nuklearna postrojenja;
+b) sustav upravljanja dokumentacijom kao što je navedeno u Pravilniku o sigurnosti i upravljanju kvalitete;
+c) program razgradnje kako je navedeno u Pravilniku;
+d) program upravljanja radioaktivnim otpadom ili istrošenim gorivom u skladu s odredbama propisa kojim se uređuje upravljanje radioaktivnim otpadom ili istrošenim gorivom;
+e) programe za održavanje SSK, provjere i inspekcije u skladu s Pravilnikom kojim se uređuje sigurnost radioloških i nuklearnih postrojenja;
+f) mišljenje od strane ovlaštenog stručnjaka nuklearne sigurnosti u vezi s relevantnim aspektima o sigurnosti postrojenja, sastavljeno na temelju dokumentacije iz točke 1. do 5. ovog stavka;
+g) rezultate radiološkog monitoringa nakon prestanka pogona;
+h) projekt za razgradnju sastavljen na temelju programa razgradnje i u skladu s odredbama Pravilnika;
+i) podatke o izdavanju građevinske dozvole za uklanjanje radiološkog ili nuklearnog postrojenja;
+j) popis pisanih procedura koji obuhvaćaju početak razgradnje u skladu s pravilima kojima se uređuje sigurnost radioloških i nuklearnih postrojenja;
+k) dokumentirani dokaz koji pokazuje da će se bilo koji izvođači radova pridržavati tijekom razgradnje postrojenja standarda radiološke ili nuklearne sigurnosti sukladno onima koji su zahtijevani od strane investitora ili operatera;
+l) plan fizičke zaštite izrađen u skladu sa zahtjevima propisanim zakonom kojim se uređuje zaštita od ionizirajućeg zračenja i nuklearna sigurnost i ispravke koje su stupile na snagu nakon prestanka pogona postrojenja, kao zaseban i povjerljiv dokument u skladu s propisima koji uređuju tajnost podataka.
+(2) Bez obzira na odredbe iz prethodnog stavka, podnositelj zahtjeva ne treba priložiti uz zahtjev za izdavanje odobrenja za razgradnju nikakvu dokumentaciju ili podatke na snazi za postrojenje koji se nisu promijenili od podnošenja.
+(3) Zavod treba odobriti dokumentaciju iz točke a), c) i d) stavka 1. ovog članka, kao dio procedura za izdavanje suglasnosti za početak razgradnje.
+(4) Odobrenje za početak razgradnje nuklearnog postrojenja izdaje se nakon izdavanja građevinske dozvole za uklanjanje postrojenja. Tijekom izdavanja odobrenja za početak razgradnje radiološkog ili nuklearnog postrojenja, radovi razgradnje radiološkog ili nuklearnog postrojenja ne mogu započeti isključivo na temelju građevinske dozvole za uklanjanje postrojenja.
+Odobrenje za završetak razgradnje nuklearnog postrojenja
+Članak 58.
+(1) Uz zahtjev za odobrenje za završetak razgradnje nuklearnog postrojenja potrebno je priložiti sljedeće:
+a) izvješće o sigurnosnoj analizi na završetku razgradnje nuklearnog postrojenja, sastavljeno u skladu s Pravilnikom o izvješću o sigurnosnoj analizi za nuklearna postrojenja;
+b) izvješće o tehničkom pregledu radioloških uvjeta lokacije postrojenja koje pokazuje da je razina radioaktivnosti, uključujući brzinu doze i onečišćenje tla s alfa, beta, gama emiterima, ispod propisanih granica;
+c) potvrda o odlaganju, obradi ili ponovnom korištenju svih radioaktivnih tvari koje nastaju tijekom razgradnje;
+d) rezultati praćenja radioaktivnosti tijekom razgradnje;
+e) mišljenje od strane ovlaštenog stručnjaka za nuklearnu sigurnost sastavljeno na temelju dokumentacije iz točke a) do točke d), ovog stavka;
+f) vrsta i način arhiviranja dokumentacije o svim prošlim djelatnostima vezanim za lokaciju postrojenja.
+(2) Izvješće 

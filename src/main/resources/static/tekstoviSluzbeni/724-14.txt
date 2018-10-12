@@ -1,0 +1,61 @@
+ pokretanja postupka do datuma rješavanja predmeta.
+Članak 82.
+(1) U sustavu eSpis korisnicima sustava su u svakom trenutku dostupna upravljačka izvješća koja mogu kreirati u skladu s potrebama suda.
+(2) Odabirom željenih parametara sustav eSpis generira sljedeća izvješća:
+1. Predmeti u radu
+2. Riješeni predmeti
+3. Stari neriješeni predmeti
+4. Predmeti u kojima je okrivljenik u istražnom zatvoru
+5. Predmeti u kojima je izdana tjeralica
+6. Predmeti u kojima nastupa ili je nastupila zastara
+7. Predmeti u kojima je određena sudska radnja
+8. Predmeti u kojima su održane sudske radnje
+9. Predmeti u kojima su odgođene sudske radnje
+10. Predmeti s oznakom hitno
+11. Predmeti s kaznenopravnom sankcijom
+12. Predmeti u mirovanju/neaktivnosti
+13. Predmeti izvan suda
+14. Kontrolna lista
+15. Rok otpreme
+16. Ispunjenje Okvirnih mjerila za period
+17. Izjavljene žalbe
+18. Sudske pristojbe
+19. Naplaćeno u ovršnom postupku
+20. Presignirani predmeti
+21. Razumni rok – prekoračen rok
+22. Razumni rok – pregled rješavanja
+23. Vrijednost predmeta spora
+24. Izrečene mjere
+25. Novčane kazne
+26. Pregled ročišta
+27. Pregled po člancima zakona
+28. Predmeti po sudionicima.
+Članak 83.
+Način preuzimanja mapa sa statističkim izvješćima te sadržaj pojedinog izvješća sadržan je u »Uputi o preuzimanju i korištenju statističkih izvješća« koja je objavljena na internom korisničkom portalu »espis.pravosudje.hr«.
+Članak 84.
+Korisnici sustava eSpis su prilikom preuzimanja i korištenja statističkih izvješća dužni postupati po »Uputi o preuzimanju i korištenju statističkih izvješća«.
+XVII. PROMJENA OZNAKE, SPAJANJE, PRILAGANJE I RAZDVAJANJE SPISA
+Članak 85.
+(1) Promjena upisnika unosi se u sustav eSpis. Prilikom unosa promjene po potrebi se mijenjaju podaci o ulogama stranaka u predmetu, te o hitnosti i tajnosti postupka. Od tog trenutka, novi podnesci i sudske odluke dobivaju novu oznaku spisa, a podbrojevi na podnescima nastavljaju redoslijed.
+(2) Ustupanje spisa drugom sudu unosi se u sustav eSpis uz obvezno navođenje razloga ustupanja spisa.
+(3) Ustupanje spisa iz članka 11. Zakona o sudovima provodi se kroz sustav eSpis unosom pripadajuće odluke te pokretanjem funkcije ustupanja.
+(4) Zaprimanje spisa iz članka 11. Zakona o sudovima provodi se kroz sustav eSpis unosom pripadajućeg podneska te pokretanjem funkcije zaprimanja.
+Članak 86.
+(1) Slanje spisa na viši sud evidentira se u sustavu eSpis uz obvezno navođenje razloga slanja spisa.
+(2) Vraćanje spisa sa višeg suda na niži sud evidentira se u sustavu eSpis.
+Članak 87.
+(1) Spajanje spisa evidentira se u sustavu eSpis.
+(2) Spajanje spisa u sustavu eSpis provodi se nakon što rješavatelj u sustav eSpis unese dostavnu naredbu za spajanje spisa.
+(3) Nakon spajanja spisa, podnesci, podaci o kretanju spisa i podaci o odluci upisuju se u sustav eSpis u spojeni jedinstveni spis.
+Članak 88.
+Prilaganje spisa evidentira se u sustavu eSpis. Spisu se mogu priložiti samo oni spisi u kojima postoji dostavna naredba rješavatelja za prilaganje.
+Članak 89.
+Razdvajanje spisa provodi se u sustavu eSpis nakon što je rješavatelj u sustav unio odgovarajuću dostavnu naredbu. Ovlašteni sudski službenik provodi razdvajanje na način da iz spisa koji se razdvaja ili iz kojeg se dio izdvaja podatke o strankama i drugim sudionicima te podneske i odluke navedene u dostavnoj naredbi prenese ili preslika u spis koji se osniva razdvajanjem ili izdvajanjem.
+XVIII. RAD U REFERADAMA
+Članak 90.
+(1) Za naredbe i rješenja o određivanju rasprave i ročišta odnosno o provođenju neke druge sudske radnje koristit će se odgovarajuće funkcije sustava eSpis te će se unijeti podaci o osobama koje treba pozvati, vremenu sudske radnje, dostavi poziva i slično.
+(2) Upisivanje sudske radnje, dodavanje sudionika te priprema poziva obavlja se u referadi unosom podataka u sustav eSpis.
+Članak 91.
+Podaci o pozivanju stranaka i ostalih sudionika postupka unose se u sustav eSpis u referadi rješavatelja.
+Članak 92.
+Spisi u kojima su određene rasprave ili ročišta automatski 

@@ -1,0 +1,26 @@
+u fondu osiguranja depozita nisu dovoljna za isplatu obeštećenja u trenutku nastanka osiguranog slučaja, Agencija može donijeti odluku o prikupljanju izvanredne premije od članica sustava osiguranja depozita, a koja ne prelazi 0,5 % osiguranih depozita svih članova po kalendarskoj godini. U iznimnim okolnostima, kao primjerice slučaj iz stavka 5. ovoga članka, i uz suglasnost Hrvatske narodne banke, Agencija može zahtijevati i veće premije za osiguranja depozita.
+(5) Hrvatska narodna banka može djelomično ili u cijelosti odgoditi obvezu plaćanja izvanredne premije kreditnoj instituciji ako bi ona ugrozila njezinu likvidnost ili solventnost. Takva odluka o odgodi donosi se na zahtjev kreditne institucije i može se odobriti na rok od najdulje šest mjeseci te se iznimno može ponovno odobriti na isti rok.
+(6) Obveza plaćanja premije nastupit će i prije roka iz stavka 5. ovoga članka ako njegovim plaćanjem više nije ugrožena likvidnost ili solventnost kreditne institucije.
+(7) Premija za osigurane depozite iz stavka 4. ovoga članka plaća se po posebnom pozivu i u roku određenom u dostavljenom računu.
+(8) Agencija obavještava EBA-u do 31. ožujka svake godine o iznosu osiguranih depozita u Republici Hrvatskoj te o iznosu raspoloživih financijskih sredstava sustava osiguranja depozita na dan 31. prosinca prethodne godine.
+Upotreba sredstava fonda osiguranja depozita
+Članak 15.
+(1) Sredstva fonda osiguranja depozita prvenstveno su namijenjena za isplatu obeštećenja deponentima kreditne institucije u slučaju nastupa osiguranog slučaja, u skladu s ovim Zakonom.
+(2) Sredstva fonda osiguranja depozita, osim za namjenu iz stavka 1. ovoga članka, koriste se i za:
+1. plaćanje troškova nastalih u postupku isplate obeštećenja iz stavka 1. ovoga članka
+2. plaćanje troškova nastalih u postupku ostvarenja tražbina koje je Agencija stekla na temelju odredbe članka 20. stavka 7. ovoga Zakona
+3. troškove vezane uz iskup vrijednosnih papira
+4. otplatu zajmova uzetih radi podmirenja obveze iz stavka 1. ovoga članka
+5. plaćanje pasivnih kamata
+6. financiranje mjera iz članka 16. stavka 1. ovoga Zakona
+7. financiranje sanacije kreditne institucije u skladu s člankom 22. ovoga Zakona te
+8. financiranja poslovnih rashoda Agencije vezanih za sustav osiguranja depozita.
+(3) Raspoloživa financijska sredstva fonda osiguranja depozita ulažu se u niskorizičnu imovinu na dovoljno diverzificiran način kojemu je cilj očuvanje vrijednosti imovine te ograničenje rizika gubitaka od ulaganja.
+(4) Agencija može raspoloživa financijska sredstva pozajmiti sustavima osiguranja depozita drugih država članica kada za taj sustav financiranja nastupe okolnosti iz članka 13. stavka 4. ovoga Zakona.
+(5) Agencija može donijeti odluku o davanju zajma sustavu osiguranja depozita druge države članice iz fonda osiguranja depozita. Odluka se donosi temeljem zahtjeva imenovanog tijela koje upravlja sustavom osiguranja depozita druge države članice u žurnom postupku uz prethodnu suglasnost Ministarstva financija. Odluka se dostavlja EBA-i, zajedno s početnom kamatnom stopom i dogovorenim rokom vraćanja takvog zajma.
+(6) Kamata na odobreni zajam ne smije biti niža od kamatne stope koju Europska središnja banka koristi za instrument »mogućnosti granične posudbe« u provođenju monetarne politike. Kamata dospijeva tek u vrijeme otplate zajma, a zajam se može otplatiti u godišnjim obrocima.
+Mjere za sprječavanje nastupa osiguranog slučaja
+Članak 16.
+(1) Agencija može koristiti sredstva iz fonda osiguranja depozita u svrhu poduzimanja mjera za sprječavanje nastupa osiguranog slučaja, a s namjerom povećanja likvidnosti i solventnosti kreditne institucije koja posluje s poteškoćama, ako su troškovi takve mjere manji od troškova koji bi nastali za sustav osiguranja depozita nastupom osiguranog slučaja.
+(2) Agencija može koristiti sredstva iz fonda osiguranja depozita u svrhu poduzimanja mjera iz stavka 1. ovoga članka uz uvjet da:
+1. Agencija kao sanacijsko tijelo nije donijela odluku o otvaranju

@@ -1,0 +1,25 @@
+ vrijeme
+– potrebno je osigurati da se dnevno najmanje jedanput automatski ispita ispravnost sirena u sustavu
+– na tvrdom disku računala treba pohraniti sve relevantne informacije o događajima na sustavu (pokretanje ili prekid naredbi za alarme, pripremljenih govornih poruka i govornih poruka u živo, prekidi u napajanju i komunikaciji, ispitivanje i rezultati ispitivanja) koje treba čuvati najmanje 30 dana
+– sustav mora omogućiti brz i jednostavan ispis željenih podataka pohranjenih na tvrdom disku računala
+– upravljanje sustavom mora biti jednostavno, lako i pouzdano putem osobnog računala i posebnog aktivacijskog panela
+– aktivacijski panel je samostalna i pričuvna jedinica koja treba osigurati brz i jednostavan odabir vrste signala za uzbunjivanje te slanje naredbe za aktivaciju istog na jednoj sireni, grupi sirena ili svih sirena bez obzira na ispravnost računala
+– sustav mora imati pouzdanu zaštitu od slučajnog ili zlonamjernog pokretanje alarma, poruka i govora.
+Uređaj za prijem priopćenja o vrsti opasnosti i mjerama zaštite koje je potrebno poduzeti
+Članak 8.
+(1) Za prijem priopćenja u objektima za koje su vlasnici i korisnici na temelju članka 39. Zakona o sustavu civilne zaštite dužni osigurati prijem priopćenja o vrsti opasnosti i mjerama za zaštitu i spašavanje koje je potrebno poduzeti, do definiranja i izgradnje posebnog sustava za tu namjenu, mogu koristiti sve vrste uređaja predviđene za prijem elektroničke pošte.
+(2) Vlasnici i korisnici objekata iz stavka 1. ovog članka dužni su nabaviti i instalirati posebne uređaje za prijem priopćenja o vrsti opasnosti i mjerama za zaštitu i spašavanje u roku od godine dana nakon što ih središnje tijelo državne uprave nadležno za poslove civilne zaštite (u daljnjem tekstu: Državna uprava) izvijesti o obvezi uspostave posebnog sustava i tehničkim karakteristikama prijemnika za tu namjenu.
+Otpornost opreme s obzirom na zahtjeve na okoliš
+Članak 9.
+(1) Klimatski uvjeti: uređaji izvan zaštićenih prostora moraju raditi na temperaturama između -25 °C i 55 °C, te u relativnoj vlazi od 5 % do 95 %. Sirene montirane na stupovima moraju podnijeti brzinu vjetra ovisno o statističkim podacima o brzini vjetra za pojedino područje, a minimalno od 120 km/h. Sirene moraju imati odgovarajuću zaštitu od atmosferskih oborina i prašine (stupnja IP65) i antikorozivnu zaštitu.
+(2) Električko okruženje: električki uvjeti u kojima će oprema raditi određeni su uvjetima električkog okruženja Republike Hrvatske (norme EN 55011:1998.+A1:1999.;)
+(3) Elektromagnetsko okruženje: elektromagnetski uvjeti u kojima će oprema raditi moraju zadovoljavati norme (EN 61000-3-2:1995 + A1:1998+A2:2000, EN 61000-3-31995., EN 50130-4:1995) koje određuju normalni rad elektroničke opreme, s obzirom na elektromagnetsko okruženje i smetnje.
+(4) Zaštita od gromova: sva instalirana oprema treba imati ugrađenu zaštitu od udara groma uzemljivačima vodova koji moraju zadovoljavati propisane uvjete za zaštitu od udara groma.
+(5) Tehnički zahtjevi na okoliš – emitiranje: sva instalirana oprema ili njezini dijelovi ne smije utjecati na okolinu niti djelatnike (radijacija, buka, toplina), i ne smije postojati međudjelovanje s drugom opremom. Vanjski dijelovi opreme trebaju biti zaštićeni odgovarajućim filtrima kako bi se u najvećoj mogućoj mjeri smanjilo međudjelovanje s ostalom opremom.
+(6) Elektromagnetsko zračenje: sva oprema mora zadovoljavati trenutno važeće propise Republike Hrvatske o elektromagnetskom zračenju.
+Smjernice za verifikaciju dijelova sustava
+Članak 10.
+Za provjeru deklariranih parametra zvučnog tlaka, usmjerenih karakteristika i frekvencije zvučnog tlaka izvode se mjerenja prema sljedećim pravilima:
+– sva mjerenja obavljaju se na otvorenom prostoru, bez zgrada i prirodnih prepreka, postavljenih između sirene i mikrofona koji se koriste za mjerenje razine zvučnog tlaka
+– brzina vjetra prilikom mjerenja razina zvučnog tlaka ne smije biti veća od 3 m/s
+– visina postavljene sirene i mikrofona treba biti ista i to 

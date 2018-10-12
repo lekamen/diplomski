@@ -1,0 +1,43 @@
+
+6.19.1.10 Brodicu za prikupljanje mora imati vodonepropusni prostor za smještaj sitnih dijelova opreme.
+6.19.1.11 Ako nije izričito drukčije navedeno, svakaka brodica za prikupljanje mora imati pouzdana sredstva za drenažu ili automatsku drenažu.
+6.19.1.12 Brodica za prikupljanje mora biti tako izvedena da pruža dobru vidljivost prema naprijed, prema natrag i na oba boka s kontrolnog mjesta i mjesta upravljanja za sigurno spuštanje i kormilarenje, i posebno, dobru vidljivost mjesta i posade kada sudjeluju u izvlačenju osoba iz vode i tegljenju solavi za spašavanje.
+6.19.2 Oprema brodica za prikupljanje
+6.19.2.1 Oprema brodice za prikupljanje, osim čaklji, koje moraju biti smještene slobodno radi odguravanja, mora biti pričvršćena u brodici za prikupljanje privezaljkom, ili čuvana u kutijama, ili prostorima, policama ili sličnoj opremi za smještaj, ili u drugim prikladnim sredstvima. Oprema se mora tako pričvrstiti da ne ometa dizanje ili spuštanje brodice.
+Svi predmeti opreme brodice za prikupljanje moraju biti što manji, i cjeloviti te u prikladnom i čvrstom pakiranju.
+6.19.2.2 Svaka brodica za prikupljanje mora imati:
+.1 dovoljno plutajućih vesala ili lopatica za plovidbu naprijed po mirnom moru. Za svako veslo treba predvidjeti palce, rašlje ili neke druge odgovarajuće uređaje.
+Palci ili rašlje moraju biti učvršćeni za brodicu uzicom ili lancem;
+.2 plutajući ispolac;
+.3 kompas s kućištem i osvjetljenjem, ili opremljen sredstvom za osvjetljenje;
+.4 zavlačno sidro s konopom duljine ne manje od 10 m, dovoljne čvrstoće, te s užetom za prikupljanje sidra, ako je ugrađeno;
+.5 vezaljku na pramcu, dovoljne duljine i čvrstoće, pričvršćenu za uređaj za otpuštanje u skladu sa 6.13.7.7;
+.6 plutajući konopac duljine ne manje od 50 m, dovoljne čvrstoće za tegalj splavi za spašavanje u skladu sa 6.19.1.7;
+.7 vodonepropusnu električnu svjetiljku, s rezervnim slogom baterija i rezervnom žaruljom (u nepromočivoj kutiji) pogodnu za davanje Morzeovih znakova;
+.8 zviždaljku, ili neko drugo prikladno sredstvo za zvučnu signalizaciju;
+.9 prvu pomoć u vodonepropusnoj kutiji koja se nakon upotrebe može čvrsto zatvoriti;
+.10 dva plutajuća koluta za izbavljanje s plutajućim konopom, duljine ne manje od 30 m;
+.11 reflektor s vodoravnim i okomitim područjem od najmanje 6° i izmjerenom jačinom svjetlosti 2500 cd koji može raditi neprekidno ne manje od 3 sata;
+.12 pouzdan radarski reflektor;
+.13 osobna sredstva za zaštitu od gubitka topline za 10% osoba smještenih u brodici za prikupljanje, ali ne manje od dva komada;
+.14 prenosivu napravu za gašenje požara odobrenog tipa pogodnu za gašenje požara tekućeg goriva.
+6.19.2.3 Uz opremu navedenu u 6.19.2.2, svaka kruta brodica za prikupljanje mora imati:
+.1 čaklju;
+.2 kablić; i
+.3 nož ili sjekiru.
+6.19.2.4 Uz opremu navedenu u 6.19.2.2, svaka samonapuhavajuća brodica za prikupljanje mora imati:
+.1 plutajući sigurnosni nož;
+.2 dvije spužve;
+.3 pouzdan ručni mijeh ili pumpu;
+.4 slog pribora za popravak rupa u prikladnom spremniku; i
+.5 sigurnosnu čaklju.
+6.19.3 Dodatni zahtjevi za napuhavajuće brodice za prikupljanje
+6.19.3.1 Zahtjevi navedeni u 6.13.1.3 i 6.13.1.5 ne primjenjuju se na napuhavajuće brodice za prikupljanje.
+6.19.3.2 Napuhavajuća brodica za prikupljanje mora biti tako izvedena da kad je obješena o nosač ili kuku:
+.1 mora biti dovoljno čvrsta i kruta da se može spuštati i dizati s dopuštenim brojem osoba i opreme;
+.2 mora biti dovoljno čvrsta da izdrži opterećenje četiri puta veće od mase dopuštenog broja osoba i opreme, pri okolnoj temperaturi od (20 ± 3) oC sa zatvorenim sigurnosnim ventilima;
+.3 mora biti dovoljno čvrsta da izdrži opterećenje od 1,1 puta mase dopuštenog broja osoba i opreme pri temperaturi okoline – 30oC s otvorenim sigurnosnim ventilima.
+6.19.3.3 Napuhvajuća brodica za prikupljanje mora biti tako izvedena da može izdržati:
+.1 smještaj na otvorenoj palubi dok je brod na moru;
+.2 plutati 30 dana u svim uvjetima na moru.
+6.19.3.4 Uz udovoljavanje zahtjevima navedenim u 6.13.9,

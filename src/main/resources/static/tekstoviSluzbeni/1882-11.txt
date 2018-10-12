@@ -1,0 +1,32 @@
+ Granični kolosiječni signal kod »dugog« ulaska vlaka na posljednji odsjek podijeljenog kolosijeka signalizira SZ »Stoj« nakon oslobađanja »srednje« skretnice ili prvog kontroliranog odsjeka iza graničnog kolosiječnog signala. U slučajevima podijeljenog kolosijeka bez srednje skretnice granični kolosiječni signal signalizira SZ »Stoj« nakon zauzimanja odsjeka iza navedenog graničnog kolosiječnog signala.
+(6) Granični kolosiječni signal kod dugog izlaza signalizira SZ »Stoj« nakon oslobađanja prve skretnice ili prvog kontroliranog odsjeka iza graničnog kolosiječnog signala. U slučajevima podijeljenog kolosijeka bez srednje skretnice granični kolosiječni signal signalizira SZ »Stoj« nakon zauzimanja odsjeka iza navedenog graničnog kolosiječnog signala. Ako pripadni izlazni signal »dugog« izlaza signalizira SZ »Stoj« prije oslobađanja navedene skretnice ili kontroliranog odsjeka, onda granični kolosiječni signal signalizira SZ »Stoj« istovremeno s izlaznim signalom.
+(7) Moguće je postaviti vozni put od neosvijetljenog startnog signala.
+(8) Nije moguće postaviti vozni put do neosvijetljenog ciljnog signala.
+(9) Nakon ispunjenja ovih uvjeta može se postaviti vozni put za uzastopni vlak.
+Signaliziranje i predsignaliziranje
+Članak 34.
+(1) U osiguranju voznog puta, kao dio istog, sudjeluju:
+– glavni signali: ulazni, izlazni, prostorni i zaštitni signali,
+– dopunski signali pokazivači brzine
+– granični kolosiječni signali,
+– manevarski signali za zaštitu voznog puta,
+– predsignali glavnih signala,
+– ponavljači predsignaliziranja,
+(2) Pojedine vrste signala iz stavka 1 ne moraju biti ugrađene, ako prometnim propisima nisu potrebni ili ne postoje tehnološke potrebe.
+(3) Signalne znakove signala definira »Pravilnik o značenju i uporabi signala, signalnih znakova i signalnih oznaka u željezničkom prometu«.
+(4) SSU mora kontrolirati ispravnost signalnih znakova u odnosu na postavljeni vozni put. U slučaju neispravnosti, signalizacija se mora postaviti u stanje veće sigurnosti, što znači da mora signalizirati restriktivniji signalni znak.
+(5) Način slovno-brojčanog označavanja signala propisuje upravitelj infrastrukturom internom uputom i o tome obavještava sve prijevoznike odnosno korisnike željezničke infrastrukture.
+(6) Kolodvorski glavni signali su:
+– ulazni signali kojima se zabranjuje ili dopušta ulazak vlaka u kolodvor,
+– izlazni signali kojima se dopušta ili zabranjuje izlazak vlaka iz kolodvora. Izlazni signal koji signalizira izlazak s jednog kolosijeka naziva se kolosiječni izlazni signal, a izlazni signal koji signalizira izlazak iz skupine kolosijeka naziva se skupni izlazni signal;
+– zaštitni signali kojima se zabranjuje ili dozvoljava vožnja vlaka preko dijela kolodvorskog područja.
+– granični kolosiječni signali, u kolodvorima s kolosijecima podijeljenim na ograničene odsjeke voznog puta preuzimaju sigurnosne funkcije glavnih signala.
+(7) Međusobne ovisnosti između dvoznačnih glavnih signala u postavljenom voznom putu sastoje se u sljedećem:
+– ako je glavni signal neosvijetljen, onda prethodni glavni signal ne može signalizirati dopuštenu vožnju prema neosvijetljenom ciljnom signalu. Ako se to dogodilo nakon što je postavljen vozni put, onda prethodni glavni signal mora automatski signalizirati »Stoj«.
+– prethodni glavni signal može predsignalizirati dopuštenu vožnju narednog glavnog signala tek nakon što isti počne pokazivati signalni znak dopuštene vožnje,
+(8) Međusobne ovisnosti glavnih signala i samostalnog predsignala sastoje se u sljedećem:
+– predsignal može predsignalizirati dopuštenu vožnju pripadnog glavnog signala tek nakon što glavni signal počne signalizirati signalni znak dopuštene vožnje,
+– ako glavni signal prijeđe u položaj »Stoj«, onda predsignal mora odmah signalizirati signalni znak »Očekuj Stoj«,
+– ako glavni signal postane neosvijetljen, predsignal mora signalizirati signalni znak »Očekuj Stoj«.
+Identične ovisnosti moraju postojati između glavnog signala i pripadajućeg ponavljača predsignaliziranja.
+(9)

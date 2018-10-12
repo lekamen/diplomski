@@ -1,0 +1,25 @@
+ njihovim dopunama koje je odbilo, povuklo, poništilo ili na drugi način ograničilo i na zahtjev o takvim certifikatima i/ili dopunama koje je izdalo. Europska komisija, države članice i druga prijavljena tijela mogu na zahtjev dobiti primjerak certifikata o EU-pregledu tipa, proizvodni tip i/ili njezinih dodataka. Komisija i države članice mogu na zahtjev dobiti presliku tehničke dokumentacije i rezultate pregleda koje je obavilo prijavljeno tijelo. Prijavljeno tijelo zadržava primjerak certifikata o EU-pregledu tipa, proizvodni tip, njezine priloge i dodatke kao i tehnički dosje s dokumentacijom koju je dostavio proizvođač, sve do isteka valjanosti certifikata.
+9. Proizvođač drži primjerak certifikata o EU-pregledu tipa, proizvodni tip, njegovih priloga i dodataka zajedno s tehničkom dokumentacijom na raspolaganju državnim tijelima u razdoblju od 10 godina nakon što je tlačna oprema stavljena na tržište.
+10. Ovlašteni zastupnik proizvođača može podnijeti zahtjev iz točke 3. i ispuniti obveze iz točaka 7. i 9. ako su navedene u ovlaštenju.
+3.2. EU-pregled tipa, konstrukcijski tip
+1. EU-pregled tipa, konstrukcijski tip dio je postupka ocjenjivanja sukladnosti u kojem prijavljeno tijelo pregledava tehničko rješenje tlačne opreme te provjerava i potvrđuje da ona ispunjava zahtjeve ovoga Pravilnika.
+2. EU-pregled tipa, konstrukcijski tip sastoji se od procjene primjerenosti tehničke konstrukcije tlačne opreme pregledom tehničke dokumentacije i popratnih dokaza iz točke 3. bez pregleda uzorka.
+Nije obvezna primjena eksperimentalne metode za konstrukciju utvrđene u točki 2.2.4. Dodatka I.
+3. Proizvođač jednom prijavljenom tijelu prema svom izboru podnosi zahtjev za EU-pregled tipa, konstrukcijski tip.
+Zahtjev uključuje:
+– ime i adresu proizvođača te ime i adresu ovlaštenog zastupnika ako je on podnio zahtjev;
+– pisanu izjavu da isti zahtjev nije podnio nijednom drugom prijavljenom tijelu;
+– tehničku dokumentaciju. Tehnička dokumentacija omogućuje ocjenjivanje sukladnosti tlačne opreme s primjenjivim zahtjevima ovoga Pravilnika i uključuje odgovarajuću analizu i ocjenu rizika. Tehničkom dokumentacijom određuju se mjerodavni zahtjevi i ona obuhvaća, koliko je to potrebno za ocjenjivanje, konstrukciju, proizvodnju i rad tlačne opreme. Tehnička dokumentacija, ako je to primjenjivo, sadržava najmanje sljedeće elemente:
+– opći opis tlačne opreme;
+– idejno rješenje i crteže za proizvodnju te crteže dijelova, podsklopova, povezivanja itd.;
+– opise i objašnjenja potrebna za razumijevanje tih crteža te načina rada tlačne opreme;
+– popis usklađenih norma na koje su upućivanja objavljena u Službenom listu Europske unije, koji se u potpunosti ili djelomično primjenjuju te opis rješenja donesenih kako bi se ispunili osnovni sigurnosni zahtjevi ovoga Pravilnika kada te usklađene norme nisu primijenjene. U slučaju djelomične primjene usklađenih norma u tehničkoj dokumentaciji navode se dijelovi koji se primjenjuju,
+– rezultate provedenih proračuna, provedenih ispitivanja itd.,
+– informacije koje se odnose na potrebne kvalifikacije ili odobrenja u skladu s točkama 3.1.2. i 3.1.3. Dodatka I.;
+– popratni dokaz prikladnosti tehničkog rješenja. Taj popratni dokaz navodi sve dokumente koji su korišteni, posebno gdje odgovarajuće usklađene norme nisu primijenjene u cijelosti. Dokazi po potrebi uključuju rezultate ispitivanja koja su provedena u odgovarajućem laboratoriju proizvođača ili nekom drugom laboratoriju koji vrši ispitivanja u njegovo ime i pod njegovom odgovornošću.
+Zahtjevom može obuhvatiti različite izvedbe tlačne opreme pod uvjetom da razlike među njima ne utječu na razinu sigurnosti.
+4. Prijavljeno tijelo:
+4.1. pregledava tehničku dokumentaciju i dokaze kako bi se ocijenilo primjerenost tehničkog rješenja proizvoda.
+Prijavljeno tijelo posebno:
+– ocjenjuje korištene materijale kada oni nisu u skladu s odgovarajućim usklađenim normama ili s europskim odobrenjem za materijale za tlačnu opremu;
+– odobrava postupke za nerastavljive spojeve

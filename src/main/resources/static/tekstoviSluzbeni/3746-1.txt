@@ -1,0 +1,25 @@
+ službenim pomorskim navigacijskim kartama.
+Članak 5.
+(1) Službene pomorske navigacijske karte i službene pomorske navigacijske publikacije moraju sadržavati podatke o građevinama i zahvatima u prostoru za koje je prema posebnim propisima potrebno ishoditi akt prostornog uređenja ili gradnje, kao i podatke o drugim zahvatima i aktivnostima iz Priloga I. koji čini sastavni dio ovoga Pravilnika.
+(2) Na službenim pomorskim navigacijskim kartama, osim hidrografskog, topografskog i općeg sadržaja, podaci iz stavka 1. ovoga članka prikazuju se znakovima i kraticama kao obvezan dio kartografskog sadržaja u skladu s IHO/HR standardom.
+(3) Popis i prikaz znakova i kratica iz stavka 2. ovoga članka sadržani su u službenoj pomorskoj navigacijskoj publikaciji »Znakovi i kratice na hrvatskim pomorskim kartama«.
+(4) Službena pomorska navigacijska publikacija »Znakovi i kratice na hrvatskim pomorskim kartama« ispravlja se i dopunjuje službenom pomorskom navigacijskom publikacijom »Oglas za pomorce«.
+Članak 6.
+(1) Podatke o građevini ili zahvatu u prostoru za koje je prema posebnim propisima potrebno ishoditi akt prostornog uređenja ili gradnje kao i podatke o drugim zahvatima i aktivnostima iz Priloga I. koji čini sastavni dio ovoga Pravilnika objavljuje Hrvatski hidrografski institut u službenoj pomorskoj navigacijskoj publikaciji »Oglas za pomorce« prije izdavanja uporabne dozvole za građevinu odnosno zahvat u prostoru u skladu s posebnim propisima.
+(2) Podaci iz stavka 1. ovoga članka jesu službeni podaci koje prikupi i obradi Hrvatski hidrografski institut, odnosno prikupljeni, obrađeni i ovjereni podaci ovlaštenih pravnih osoba registriranih za obavljanje djelatnosti hidrografske izmjere u skladu s posebnim propisima.
+(3) Postupak i način uvrštavanja podataka iz stavka 1. ovoga članka u službene pomorske navigacijske karte i službene pomorske navigacijske publikacije obavlja se u skladu s aktom kojim se utvrđuje pisanje (projektiranje), izrada, tiskanje i održavanje pomorskih karata i publikacija kojeg donosi Hrvatski hidrografski institut uz suglasnost Ministarstva.
+Članak 7.
+(1) Službena hidrografska izmjera obuhvaća pripremu i terensko snimanje područja geodetskim metodama što uključuje snimanje obalne crte, izmjeru dubina mora, marinsku geodeziju, geodetska i druga snimanja objekata u priobalju, u moru, na morskom dnu i podmorju, te oceanologiju, geologiju i geofiziku mora.
+(2) Podaci službene hidrografske izmjere su osnova za izradu službenih pomorskih navigacijskih karata i planova u službenim pomorskim navigacijskim publikacijama.
+(3) Podaci službene hidrografske izmjere su osnova za izradu i održavanje temeljne hidrografske baze podataka.
+II. HIDROGRAFSKE I KARTOGRAFSKE BAZE PODATAKA
+Članak 8.
+Uspostava hidrografskih i kartografskih baza podataka temelji se na hidrografskom informacijskom sustavu.
+Članak 9.
+(1) Temeljna hidrografska baza podataka je osnovna službena objektno orijentirana baza podataka organizirana u skladu s modelom podataka hidrografskog informacijskog sustava, primarno nastala topološkom obradom podataka hidrografske izmjere.
+(2) Temeljna hidrografska baza podataka sastoji se od podataka dobivenih na temelju hidrografskih originala i lučkih planova hidrografske izmjere izrađenih u papirnatom obliku ili digitalnih podataka hidrografske izmjere izrađenih u rasterskom ili vektorskom obliku prikaza.
+(3) Način prikupljanja podataka za temeljnu hidrografsku bazu podataka i postupak topološke obrade podataka hidrografske izmjere definirani su IHO/HR standardom proizvoda za hidrografske podatke.
+Članak 10.
+(1) Iz temeljne hidrografske baze podataka uspostavljaju se službene hidrografske baze podataka s definiranom gustoćom podataka za određeni raspon mjerila, metodom modelne generalizacije podataka iz krupnijeg u sitnije mjerilo, koje su definirane odgovarajućim IHO/HR standardom za hidrografske i kartografske baze podataka.
+(2) Službene hidrografske baze podataka iz stavka 1. ovoga članka jesu:
+− službena

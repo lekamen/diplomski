@@ -1,0 +1,28 @@
+će da je rasprava zaključena.
+(2) Arbitražni sud može odlučiti da se zaključena rasprava ponovno otvori ako je to potrebno radi dopune postupka ili razjašnjenja važnih pitanja.
+5. Odlučivanje o nadležnosti arbitražnog suda
+Prigovor nenadležnosti
+Članak 41.
+(1) Arbitražni sud može odlučivati o svojoj nadležnosti, uključujući i odlučivanje o svakom prigovoru o postojanju ili valjanosti ugovora o arbitraži. U tu će se svrhu arbitražna klauzula koja je sastavni dio nekog ugovora smatrati kao sporazum nezavisan od ostalih odredaba tog ugovora. Odluka arbitražnog suda o tome da je taj ugovor ništav sama po sebi ne znači da ni arbitražna klauzula nije valjana.
+(2) Prigovor da arbitražni sud nije nadležan mora se podnijeti najkasnije kad i odgovor na tužbu ili, u odnosu na protutužbu ili prigovor radi prijeboja, u odgovoru na protutužbu ili na prigovor radi prijeboja. Okolnost što je stranka imenovala arbitra ili što je sudjelovala u imenovanju arbitra ne lišava je prava na taj prigovor. Prigovor da arbitražni sud prekoračuje granice svojih ovlaštenja mora se podnijeti čim predmet za koji se tvrdi da prelazi djelokrug njegovih ovlaštenja bude iznesen u arbitražnom postupku. Arbitražni sud može u oba slučaja dopustiti naknadno podnošenje prigovora ako smatra da je zakašnjenje opravdano.
+(3) Arbitražni sud može odlučivati o prigovoru iz stavka 2. ovoga članka kao o prethodnom pitanju ili u odluci o biti spora. Arbitražni sud može nastaviti postupak i donijeti pravorijek, bez obzira na eventualni postupak koji se vodi pred državnim sudom u vezi njegove nadležnosti.
+6. Dokazivanje
+Opće odredbe
+Članak 42.
+(1) Arbitražni sud odlučuje o dopustivosti, važnosti, značenju i dokaznoj snazi ponuđenih i izvedenih dokaza te o tome na kojoj stranci leži teret dokazivanja istinitosti određenog činjeničnog navoda.
+(2) Arbitražni sud može, ako nađe da je to svrhovito, zatražiti od stranke da arbitražnom sudu i drugoj stranci, u roku koji odredi arbitražni sud, uputi sažet pregled isprava i drugih dokaza koje ta stranka namjerava predočiti radi utvrđivanja spornih činjenica iznesenih u tužbi ili u odgovoru na tužbu.
+(3) Tijekom arbitražnog postupka arbitražni sud može u granicama svojih ovlaštenja zatražiti od stranaka da podnesu isprave ili druge dokaze u roku koji odredi.
+(4) Arbitražno vijeće može odlučiti da se izvođenje određenih dokaza povjeri arbitru predsjedniku vijeća ili arbitru članu arbitražnog vijeća.
+(5) Tajnik Sudišta poduzet će potrebno da se osigura vođenje stenografskih bilježaka, tonsko snimanje i vođenje zapisnika na stranom jeziku o izvođenju dokaza ako to zatraži jedna od stranaka ili ako tako odredi arbitražni sud te ako bude položen predujam za podmirenje odgovarajućih troškova. Ako se predujam ne položi u roku koji za to odredi arbitražni sud ili, ako on to nije učinio, tajnik Sudišta, te se radnje, u pravilu, neće poduzeti.
+Svjedoci
+Članak 43.
+(1) Ako se stranke o tome nisu drukčije sporazumjele, arbitražni sud može odrediti način na koji će se svjedoci saslušavati.
+(2) Arbitražni sud može odrediti da se svjedok ili svjedoci udalje za vrijeme saslušavanja drugih svjedoka.
+Vještaci
+Članak 44.
+(1) Arbitražni sud može, nakon što strankama omogući da se o tome izjasne, imenovati jednog ili više vještaka radi podnošenja nalaza i mišljenja o određenim pitanjima o kojima treba odlučiti arbitražni sud. Arbitražni će sud dostaviti strankama primjerak odluke o imenovanju vještaka i o određenju njegove zadaće.
+(2) Kad primi nalaz i mišljenje vještaka, arbitražni sud dostavit će prijepis izvješća strankama i omogućiti im da se o njemu u pisanom obliku izjasne. Stranke su ovlaštene pregledati svaku ispravu na koju se vještak u svojem izvješću poziva.
+(3) Arbitražni sud može imenovati eksperta za određena pravna pitanja i od njega zatražiti da iznese svoje mišljenje.
+Troškovi izvođenja dokaza
+Članak 45.
+(1) Arbitražni će sud prigodom određivanja saslušanja svjedoka, vještačenja ili izvođenja nekog drugog dokaza, u dogovoru s tajnikom

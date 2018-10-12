@@ -1,0 +1,27 @@
+ posrednici, osim osiguravajućih društava i mirovinskih fondova S.125 S.12501 S.12502 S.12503 Pomoćne financijske institucije S.126 S.12601 S.12602 S.12603 Društva koja se bave prijenosom financijskih sredstava i zajmodavci S.127 S.12701 S.12702 S.12703 Osiguravajuća društva i mirovinski fondovi (ICPF) Osiguravajuća društva (IC) S.128 S.12801 S.12802 S.12803 Mirovinski fondovi (PF) S.129 S.12901 S.12902 S.12903
+Središnja banka (S.121)
+2.72. Definicija: podsektor središnja banka (S.121) se sastoji od svih financijskih i kvazi-društava, čija je glavna funkcija emisija primarnog novca, održavanje unutarnje i vanjske valutne vrijednosti i držanje svih dijelova međunarodnih državnih rezervi.
+2.73. U podsektor S.121 se razvrstavaju sljedeći financijski posrednici:
+(a) nacionalna središnja banka, uključujući kada je dio Europskog sustava središnjih banaka;
+(b) središnje monetarne agencije uglavnom javne prirode (npr. agencije koje upravljaju deviznim tečajem ili emisijom primarnog novca) koje vode potpuni skup računa i samostalno donose odluke u odnosu na središnju državu. Ako se te aktivnosti obavljaju u okviru središnje države ili središnje banke, ne postoji zasebna institucionalna jedinica.
+2.74. Podsektor S.121 ne uključuje agencije i tijela, osim središnje banke, koje upravljaju ili nadziru financijska društva ili financijska tržišta. Oni se razvrstavaju u podsektor S.126.
+Društva koja primaju depozite osim središnje banke (S.122)
+2.75. Definicija: podsektor društava koja primaju depozite osim središnje banke (S.122) obuhvaća sva financijska i kvazi-društva, osim onih razvrstanih u podsektore središnje banke i novčanih fondova, koje prvenstveno obavljaju financijsko posredovanje i čije se poslovanje sastoji od primanja depozita i/ili sličnih nadomjestaka za depozite od institucionalnih jedinica, dakle ne samo od monetarnih financijskih institucija, te odobravanja zajmova i/ili ulaganja u vrijednosnice za vlastiti račun.
+2.76. Društva koja primaju depozite osim središnje banke ne mogu se opisati jednostavno kao »banke« jer mogu obuhvaćati neka financijska društva koja se ne nazivaju banke ili neka financijska društva kojima to nije dopušteno u njihovim zemljama, dok neka financijska društva koja se nazivaju banke ne moraju zapravo biti društva koja primaju depozite. U podsektor S.122 se razvrstavaju sljedeći financijski posrednici:
+(a) poslovne banke, »univerzalne« banke, »svenamjenske« banke;
+(b) štedionice (uključujući uzajamne štedionice, štedionice i kreditne zadruge);
+(c) poštanske žiro institucije, poštanske banke i žiro banke;
+(d) ruralne kreditne banke, poljoprivredne kreditne banke;
+(e) zadružne kreditne banke, kreditne zadruge;
+(f) specijalizirane banke (npr. trgovačke banke, kuće koje se bave emisijama, privatne banke); i
+(g) institucije za elektronički novac koje prvenstveno obavljaju financijsko posredovanje.
+2.77. U podsektor S.122 su razvrstani sljedeći financijski posrednici, ako se njihovo poslovanje sastoji od primanja sredstava plaćanja od stanovništva u obliku depozita ili u drugim oblicima kao što su kontinuirano izdavanje dugoročnih dužničkih instrumenata:
+(a) društva koja odobravaju hipotekarne zajmove (uključujući građevinska poduzeća, hipotekarne banke i hipotekarne kreditne ustanove);
+(b) lokalne kreditne ustanove.
+Inače, financijski posrednici se razvrstavaju u podsektor S.124.
+2.78. Podsektor S.122 ne obuhvaća:
+(a) sjedišta društava koja nadziru i upravljaju drugim jedinicama grupacije koja se sastoje uglavnom od društava koja primaju depozite osim središnje banke, ali koji nisu društva za primanje depozita. Takva sjedišta društava se razvrstavaju u podsektor S.126;
+(b) neprofitne ustanove koje su priznate kao neovisni pravni subjekti i koje pružaju usluge društvima za primanje depozita, ali ne obavljaju poslove financijskog posredovanja. One se razvrstavaju u podsektor S.126; i
+(c) institucije za elektronički novac koje ne obavljaju prvenstveno financijsko posredovanje.
+NF (S.123)
+2.79. Definicija:

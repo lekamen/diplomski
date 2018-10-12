@@ -1,0 +1,26 @@
+ uvoznici moraju tom tijelu dostaviti sve podatke i dokumentaciju u papirnatom ili elektroničkom obliku potrebnu za dokazivanje sukladnosti električne opreme na hrvatskom jeziku.
+(11) Na zahtjev nadležnog inspekcijskog tijela uvoznici moraju s njim surađivati u svakoj radnji poduzetoj kako bi se uklonili rizici koje predstavlja električna oprema koju su stavili na tržište.
+Članak 9.
+Obveze distributera
+(1) Kad stavljaju električnu opremu na raspolaganje na tržištu, distributeri su dužni djelovati prema zahtjevima ovoga Pravilnika.
+(2) Prije stavljanja električne opreme na raspolaganje na tržištu distributeri moraju provjeriti nosi li električna oprema oznaku CE, te jesu li uz tu električnu opremu priloženi potrebni dokumenti te upute i podaci o sigurnosti na hrvatskom jeziku te jesu li proizvođač i uvoznik zadovoljili zahtjeve iz članka 6. stavaka 7. i 8. i. članka 8. stavka 4. ovoga Pravilnika.
+(3) Kad distributer smatra ili ima razloga vjerovati da električna oprema nije u skladu sa sigurnosnim zahtjevima iz članka 3. i Dodatka I. ovoga Pravilnika, ne smije staviti električnu opremu na raspolaganje na tržištu sve dok se ne provede njezino usklađivanje. Nadalje, ako električna oprema predstavlja rizik, distributer o tome mora obavijestiti proizvođača ili uvoznika te nadležno inspekcijsko tijelo.
+(4) Distributeri moraju osigurati, dok je električna oprema pod njihovom odgovornošću, da njezini uvjeti skladištenja ili prijevoza ne ugrožavaju njezinu sukladnost sa sigurnosnim zahtjevima navedenima u članku 3. i Dodatku I. ovoga Pravilnika.
+(5) Distributeri koji smatraju ili imaju razloga vjerovati da električna oprema koju su stavili na raspolaganje na tržištu nije sukladna s ovim Pravilnikom, moraju osigurati provođenje potrebnih popravnih radnji kako bi se ta električna oprema uskladila, ili po potrebi povukla s tržišta ili vratila. Nadalje, ako električna oprema predstavlja rizik, distributeri o tome bez odgode moraju obavijestiti nadležna nacionalna tijela država članica u kojima su stavili na raspolaganje na tržištu električnu opremu navodeći podatke, posebno o nesukladnosti i o svim poduzetim popravnim radnjama.
+(6) Na opravdan zahtjev nadležnog inspekcijskog tijela distributeri tom tijelu moraju dostaviti sve podatke i dokumentaciju u papirnom ili elektroničkom obliku neophodne za dokazivanje sukladnosti električne opreme.
+(7) Na zahtjev nadležnog inspekcijskog tijela distributeri moraju surađivati s njim u svakoj radnji poduzetoj kako bi se uklonili rizici koje predstavlja električna oprema koju su stavili na raspolaganje na tržištu.
+Članak 10.
+Slučajevi u kojima se obveze proizvođača primjenjuju na uvoznike i distributere
+Ako uvoznik ili distributer stavlja električnu opremu na tržište pod svojim imenom ili trgovačkim znakom ili preinači električnu opremu koja je već stavljena na tržište na takav način da to može utjecati na sukladnost s ovim Pravilnikom, smatra se proizvođačem za potrebe ovog Pravilnika te podliježe obvezama proizvođača u skladu s člankom 6. ovoga Pravilnika.
+Članak 11.
+Identifikacija gospodarskih subjekata
+(1) Gospodarski subjekti, na zahtjev, moraju nadležnom inspekcijskom tijelu dati podatke o identitetu:
+1. svakog gospodarskog subjekta koji im je isporučio električnu opremu;
+2. svakog gospodarskog subjekta kojem su isporučili električnu opremu.
+(2) Gospodarski subjekti moraju biti u stanju predočiti podatke koji su navedeni u stavku 1. ovoga članka deset godina nakon što im je isporučena električna oprema i deset godina nakon što su isporučili električnu opremu.
+POGLAVLJE III. SUKLADNOST ELEKTRIČNE OPREME
+Članak 12.
+Pretpostavka sukladnosti na temelju usklađenih normi
+Za električnu opremu koja je u skladu s usklađenim normama ili dijelom usklađenih normi koje su objavljene u Službenom listu Europske unije, pretpostavlja se da je u skladu sa sigurnosnim zahtjevima koji su obuhvaćeni navedenim normama ili dijelom normi iz članka 3. i Dodatka I. ovoga Pravilnika.
+Članak 13.
+Pretpostavka sukladnosti na 

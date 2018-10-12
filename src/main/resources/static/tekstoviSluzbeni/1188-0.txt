@@ -1,0 +1,39 @@
+62 05.06.2015 Zakon o osobnoj iskaznici
+HRVATSKI SABOR
+1189
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+ODLUKU
+O PROGLAŠENJU ZAKONA O OSOBNOJ ISKAZNICI
+Proglašavam Zakon o osobnoj iskaznici, koji je Hrvatski sabor donio na sjednici 29. svibnja 2015. godine.
+Klasa: 011-01/15-01/38
+Urbroj: 71-05-03/1-15-2
+Zagreb, 29. svibnja 2015.
+Predsjednica Republike Hrvatske Kolinda Grabar-Kitarović, v. r.
+ZAKON
+O OSOBNOJ ISKAZNICI
+I. OPĆE ODREDBE
+Članak 1.
+(1) Osobna iskaznica je elektronička javna isprava kojom hrvatski državljanin dokazuje identitet, hrvatsko državljanstvo, spol, datum rođenja i prebivalište u Republici Hrvatskoj.
+(2) Hrvatski državljanin koji nema prijavljeno prebivalište u Republici Hrvatskoj može ishoditi osobnu iskaznicu u koju se upisuje podatak o njegovu prebivalištu izvan Republike Hrvatske prema podacima o prebivalištu ispisanim u javnoj ispravi koju mu je izdalo nadležno tijelo države u kojoj ima prijavljeno prebivalište ili odobren boravak.
+(3) Iznimno od stavka 1. ovoga članka, hrvatskim državljanima iz stavka 2. ovoga članka osobna iskaznica ne služi kao dokaz njihova prebivališta.
+(4) Osobna iskaznica može služiti i kao putna isprava za putovanja u države koje to dopuštaju.
+(5) Osobna iskaznica predstavlja dio državne informacijske infrastrukture, sukladno propisima kojima je regulirana državna informacijska infrastruktura.
+Članak 2.
+(1) Osobna iskaznica sadržava elektronički nosač podataka na koji se uz podatke iz članka 1. stavka 1. ovoga Zakona može pohraniti jedan ili dva certifikata.
+(2) Certifikati koji se mogu pohraniti na elektronički nosač podataka iz stavka 1. ovoga članka su identifikacijski certifikat i potpisni certifikat.
+(3) Identifikacijski certifikat je kvalificirani certifikat koji se koristi za elektroničku identifikaciju i autentifikaciju radi pristupa elektroničkim uslugama.
+(4) Potpisni certifikat je kvalificirani certifikat koji se koristi za podršku naprednom elektroničkom potpisu koji ima istu pravnu snagu i zamjenjuje vlastoručni potpis sukladno propisima kojima je reguliran elektronički potpis.
+(5) Davatelj usluga certificiranja koji obavlja poslove izdavanja certifikata iz stavaka 3. i 4. ovoga članka je pravna osoba ovlaštena za izradu osobnih iskaznica.
+(6) Davatelj usluga certificiranja iz stavka 5. ovoga članka dužan je uspostaviti Portal elektroničke osobne iskaznice na kojem će objavljivati sve informacije potrebne za korištenje osobne iskaznice, donijeti interni akt o postupcima certificiranja te se upisati u evidenciju ministarstva nadležnog za poslove gospodarstva kao davatelj usluga certificiranja koji obavlja usluge izdavanja kvalificiranih certifikata te provesti integraciju u sustav e-Građani sukladno propisima o državnoj informacijskoj infrastrukturi.
+Članak 3.
+(1) Pravo na hrvatsku osobnu iskaznicu ima svaki državljanin Republike Hrvatske (u daljnjem tekstu: osoba).
+(2) Osoba s navršenih 18 godina života s prijavljenim prebivalištem u Republici Hrvatskoj mora ishoditi osobnu iskaznicu.
+II. ROK VAŽENJA OSOBNIH ISKAZNICA
+Članak 4.
+(1) Rok važenja osobnih iskaznica i certifikata koje sadržavaju je pet godina.
+(2) Iznimno od stavka 1. ovoga članka, osobna iskaznica koja je izdana osobi s navršenih 65 godina nema roka važenja.
+(3) Osobna iskaznica izdana djeci do navršenih pet godina ne sadržava identifikacijski niti potpisni certifikat.
+(4) Osobna iskaznica izdana djeci od navršenih pet do navršenih 18 godina sadržava identifikacijski certifikat.
+(5) Osobna iskaznica izdana osobama od navršenih 18 do navršenih 65 godina sadržava identifikacijski i potpisni certifikat.
+(6) Osobe s navršenih 65 godina mogu po vlastitoj želji ishoditi osobnu iskaznicu s identifikacijskim i potpisnim certifikatom ili bez njega.
+(7) Osoba s navršenih 65 godina koja ishodi osobnu iskaznicu koja sadržava certifikate istekom roka važenja certifikata može nastaviti koristiti osobnu iskaznicu, ali njome neće moći obavljati elektroničku potvrdu svojeg identiteta niti će joj ona moći

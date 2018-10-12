@@ -1,0 +1,46 @@
+neobavljenom uručenju, uključujući i razlog neobavljenog uručenja, unose se u sustav eSpis.
+Članak 63.
+Podatke o podnescima zaprimljenim na zapisnik kod suda u sustav eSpis unosi sudski službenik u referadi.
+Članak 64.
+Izdavanje potvrda propisanih Sudskim poslovnikom evidentira se u sustavu eSpis.
+XIII. KRETANJE SPISA
+Članak 65.
+(1) Dostavljanje spisa na rješavanje rješavateljima i vraćanje sudskoj pisarnici, kao i svako drugo dostavljanje spisa unutar suda upisuje se u sustav eSpis.
+(2) Potvrdu prijema spisa obavlja osoba kojoj je spis upućen pomoću sustava eSpis odmah po prijemu spisa, a najkasnije unutar radnog dana u kojem je primila spis.
+(3) Sustav eSpis prikazuje podatke o trenutnoj lokaciji predmeta i povijesti kretanja spisa.
+XIV. OBLIK SUDSKIH AKATA I ODLUKA, NAČIN PISANJA I POTPISIVANJA
+Članak 66.
+Sve radnje vezane za pojedini spis koje poduzima sud unose se u sustav eSpis.
+Članak 67.
+Iz sustava eSpis sudski zapisnici, dopisi, zamolnice, potvrde, kao i pozivi odnosno rješenja koja nemaju poseban uvod mogu se ispisivati neposredno na obrascu koji je sastavni dio sustava.
+Članak 68.
+Službena bilješka i njen sadržaj unosi se u sustav eSpis.
+Članak 69.
+Kod izrade odluka ili drugih akata u sustavu eSpis mogu se koristiti verificirani obrasci.
+Članak 70.
+U sustav eSpis rješavatelj je obvezan unijeti točan datum pravomoćnosti odluke.
+Članak 71.
+Predmet se iskazuje u statističkim izvješćima koja se generiraju iz sustava eSpis kao riješen s datumom koji sustav automatski generira označavanjem predmeta riješenim.
+XV. SUDSKE PRISTOJBE I TROŠKOVI POSTUPKA
+Članak 72.
+(1) Podaci o svim sudskim pristojbama i troškovima unose se u sustav eSpis, a sudske pristojbe i troškovi koji su nastali stranci koja je oslobođena plaćanja sudske pristojbe temeljem Zakona o besplatnoj pravnoj pomoći posebno se evidentiraju u sustavu eSpis.
+(2) Sustav eSpis automatski preuzima podatke o uplati sudskih pristojbi temeljem podataka dostavljenih iz informacijskog sustava Financijske agencije.
+Članak 73.
+Zatraženo oslobođenje od plaćanja sudske pristojbe, datum zahtjeva, činjenica da je stranka oslobođena od plaćanja sudske pristojbe te iznosi sudskih pristojbi koji su nastali stranci koja je oslobođena od plaćanja sudskih pristojbi unose se u sustav eSpis.
+Članak 74.
+Podaci o polaganju predujma unose se u sustav eSpis.
+Članak 75.
+Ako pozvana stranka u određenom roku ne položi predujam, sudska pisarnica će u napomeni o dostavi spisa u sustavu eSpis unijeti bilješku o tome i spis dostaviti rješavatelju.
+Članak 76.
+Kad sudska pisarnica primi obavijest od računovodstva da je pozvana stranka položila predujam, podatke o položenom predujmu unijet će u sustav eSpis.
+Članak 77.
+(1) Kad je stranka oslobođena od polaganja predujma za troškove svjedoka, vještaka, očevida ili sudskih oglasa, sudska će pisarnica unijeti u sustav eSpis troškove, uz napomenu da su troškovi predujmljeni iz proračunskih sredstava.
+(2) Podaci za osobe navedene u stavku 1. ovog članka unose se u sustav eSpis.
+Članak 78.
+Troškovi postupka koji su isplaćeni na teret proračunskih sredstava, a nisu naplaćeni od stranke zbog priznatog oslobođenja od plaćanja troškova postupka, unose se redom u popis troškova u sustav eSpis.
+XVI. STATISTIKA I IZVJEŠĆA
+Članak 79.
+(1) Statistička izvješća koja se nalaze u sustavu eSpis definira ministarstvo nadležno za poslove pravosuđa u suradnji sa sudovima.
+(2) Ministarstvo nadležno za poslove pravosuđa na kraju svakoga statističkog razdoblja, a najkasnije do desetog dana u mjesecu dostavlja sudovima sumarna statistička izvješća o njihovom radu. Izvješća se temelje na podacima unesenim u sustav eSpis.
+(3) Standardna statistička izvješća ministarstvo nadležno za poslove pravosuđa dostavlja sudovima putem elektroničke pošte.
+(4) Ako ima primjedbu na statističko izvješće, predsjednik suda može, u roku pet dana od dana primitka izvješća, dostaviti primjedbe ustrojstvenoj jedinici ministarstva nadležnog za poslove pravosuđa čiji djelokrug rada obuhvaća poslove

@@ -1,0 +1,26 @@
+121 04.11.2015 Pravilnik o željezničkim vozilima
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+2296
+Na temelju članka 55. stavka 12., članka 63. stavka 6. i članka 64. stavka 6. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15. i 110/15.), ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O ŽELJEZNIČKIM VOZILIMA
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim Pravilnikom propisuju se tehnički uvjeti kojima moraju udovoljavati željeznička vozila (u daljnjem tekstu: vozila), postupak dodjele oznake posjednika vozila te uvjeti i način održavanja vozila.
+(2) Ovaj Pravilnik primjenjuje se na podsustav vozila i prometno-upravljački i signalno-sigurnosni podsustav ugrađen na vozilu kako je propisano u Prilogu 1. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, br. 82/13., 18/15. i 110/15., u daljnjem tekstu: Zakon).
+(3) Vozilo namijenjeno za prijevoz opasnih tvari, osim uvjeta propisanih ovim Pravilnikom, mora udovoljavati i Propisu o međunarodnom prijevozu opasnih tvari željeznicom (RID) – Dodatak C Konvenciji o međunarodnom željezničkom prijevozu (COTIF).
+(4) Zahtjev za dodjelu i opoziv oznake posjednika vozila (engl. Vehicle Keeper Marking – VKM) podnosi se Agenciji za sigurnost željezničkog prometa (u daljnjem tekstu: Agencija), u skladu s Odlukom Komisije broj 2007/756/EZ od 9. studenoga 2007. o donošenju zajedničke specifikacije nacionalnog registra vozila u skladu s člankom 14. stavcima 4. i 5. direktiva 96/48/EZ i 2001/16/EZ (SL L 305, 23.11.2007.) sa svim naknadnim izmjenama.
+(5) Upravitelj infrastrukture utvrđuje operativne tehničke uvjete za provjeru kompatibilnosti vozila s prometno-upravljačkim i signalno-sigurnosnim željezničkim infrastrukturnim podsustavom a istu provodi u suradnji s imenovanim tijelom, za slučajeve i u opsegu koje u dogovoru s upraviteljem infrastrukture utvrdi Agencija. O provedbi provjere upravitelj infrastrukture ispostavlja izvješće imenovanom tijelu.
+(6) Serijsko vozilo odobrava se temeljem provjere njegove sukladnosti s odobrenim tipom, provedene sukladno postupcima iz članka 61. stavka 8. Zakona, osim u slučaju izdavanja prvog odobrenja za puštanje u uporabu novoproizvedenog vozila u kojem se navedena provjera ne obavlja. Kod izdavanja prvog odobrenja za puštanje u uporabu novoproizvedenog serijskog vozila koje odstupa od odobrenog tipa, značaj odstupanja ocjenjuje Agencija te po potrebi upućuje podnositelja zahtjeva na provjeru sukladnosti istih odstupanja s osnovnim zahtjevima.
+(7) Popis obaveznih normi i UIC objava iz ovoga Pravilnika naveden je u Prilogu 1. ovoga Pravilnika.
+(8) Popis tehničkih specifikacija za interoperabilnost (u daljnjem tekstu: TSI), važeće na dan stupanja na snagu ovoga Pravilnika, naveden je u Prilogu 2. ovoga Pravilnika.
+Članak 2.
+(1) Pojmovi uporabljeni u ovom Pravilniku imaju sljedeće značenje:
+1. »Brzinomjerni uređaj« je sigurnosni uređaj na vučnom vozilu koji služi za pokazivanje brzine,
+2. »Elektromagnetska kočnica« je dopunska kočnica kojom se ostvaruje kočna sila djelovanjem magnetskog polja magneta sa vozila na tračnicu,
+3. »Elektropneumatska kočnica« je automatska zračna kočnica kod koje se procesom kočenja i otkočivanja upravlja električnim putem,
+4. »Glavni zračni vod« je vod s čelnim slavinama i spojnicama koji povezuje sva vozila u sastavu vlaka i dovodi zrak u kočne uređaje,
+5. »Kinematički profil vozila« je trenutačan položaj poprečnog presjeka vozila koje se kreće kolosijekom,
+6. »Kočni cilindar« je izvršni uređaj u sustavu kočenja u kojem se ostvaruje sila proporcionalna tlaku zraka upuštenog u cilindru, a koja se prenosi preko kočnog polužja na kočne umetke,
+7. »Kočnica« je podsustav vozila ili vlaka koji služi za održavanje brzine ili zaustavljanje vozila ili vlaka, a kojim se upravlja izravno ili neizravno,
+8. »Kočnička spojnica« je naprava za povezivanje glavnog zračnog voda između vozila u sastavu vlaka, a sastoji se od gumenog crijeva i spojne glave s gumenom

@@ -1,0 +1,52 @@
+23 27.02.2015 Uredba o Hrvatskoj akademskoj i istraživačkoj mreži - CARNet
+VLADA REPUBLIKE HRVATSKE
+478
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/2008), Vlada Republike Hrvatske je na sjednici održanoj 26. veljače 2015. godine donijela
+UREDBU
+O HRVATSKOJ AKADEMSKOJ I ISTRAŽIVAČKOJ MREŽI – CARNet
+Članak 1.
+(1) Hrvatska akademska i istraživačka mreža – CARNet osnovana je Uredbom o osnivanju Hrvatske akademske i istraživačke mreže – CARNet (»Narodne novine«, broj 16/95), kao ustanova za informatičko-informacijsku infrastrukturnu djelatnost u obrazovanju i znanosti.
+(2) Ustanova iz stavka 1. ovoga članka djeluje pod nazivom: Hrvatska akademska i istraživačka mreža – CARNet.
+(3) Skraćeni naziv ustanove glasi: CARNet.
+(4) Sjedište ustanove je u Zagrebu, na adresi Josipa Marohnića 5.
+Članak 2.
+(1) Osnivač CARNet-a je Republika Hrvatska, a osnivačka prava u ime osnivača obavlja ministarstvo nadležno za obrazovanje i znanost.
+(2) CARNet ima svojstvo pravne osobe i upisuje se u sudski registar.
+Članak 3.
+(1) CARNet djeluje na cijelom teritoriju Republike Hrvatske.
+(2) CARNet može osnivati podružnice.
+(3) CARNet može, radi obavljanja svoje djelatnosti, osnivati podružnice u inozemstvu, ako to nije u suprotnosti s pravnim poretkom odnosne države.
+Članak 4.
+(1) Djelatnost CARNet-a je:
+– razvoj, izgradnja i održavanje računalno-komunikacijske infrastrukture koja će povezivati obrazovne, znanstveno-istraživačke te ostale ustanove po odluci osnivača, međusobno u jedinstveni informacijski sustav,
+– povezivanje CARNet mreže s međunarodnim mrežama,
+– razvoj i izgradnja informacijskih čvorišta i mreža,
+– provedba informatizacije sustava osnovnog i srednjeg obrazovanja, kroz planiranje, razvoj, organizaciju, provedbu i praćenje ključnih aspekata informatizacije, u suradnji s ministarstvom nadležnim za obrazovanje i znanost,
+– poslovi iz nadležnosti nacionalnog tijela za prevenciju i zaštitu od računalnih ugroza sigurnosti javnih informacijskih sustava u Republici Hrvatskoj,
+– promocija informacijskih tehnologija,
+– ostali poslovi iz područja informacijskih znanosti,
+– izdavanje časopisa i periodičnih publikacija,
+– ostala izdavačka djelatnost,
+– pružanje savjeta o računalnoj opremi (hardware),
+– ostale djelatnosti povezane s računalima,
+– izrada i pribavljanje programske opreme (software),
+– izrada i upravljanje bazama podataka,
+– edukacija (obavljanje i organizacija edukativnih djelatnosti),
+– projektiranje i izgradnja u području informacijskih tehnologija,
+– projektiranje telekomunikacijskih sustava.
+(2) Ostale djelatnosti CARNet-a su:
+– organiziranje seminara, konferencija i sl.,
+– organiziranje i ostvarivanje potpore korisnicima,
+– savjetovanje korisnika iz područja djelovanja.
+(3) Djelatnost CARNet-a iz stavka 1. ovoga članka od posebnog je interesa za Republiku Hrvatsku.
+(4) CARNet obavljanjem svoje djelatnosti nema za cilj stjecanje dobiti. Ukoliko CARNet u obavljanju svoje djelatnosti ostvari dobit, ta se dobit upotrebljava isključivo za obavljanje i razvoj djelatnosti.
+Članak 5.
+Tijela CARNet-a su Upravno vijeće, ravnatelj i Vijeće korisnika.
+Članak 6.
+(1) Upravno vijeće upravlja CARNet-om.
+(2) Upravno vijeće donosi Statut, akt o unutarnjem ustroju i načinu rada, programe rada i razvoja ustanove i nadzire njihovo izvršavanje, odlučuje o financijskom planu i godišnjem obračunu, predlaže osnivaču promjenu djelatnosti, daje osnivaču i ravnatelju ustanove prijedloge i mišljenja o pojedinim pitanjima, te donosi odluke i obavlja druge poslove određene zakonom, ovom Uredbom i Statutom ustanove.
+(3) Upravno vijeće ima pet članova, predsjednika i četiri člana, od kojih je jedan predstavnik zaposlenika imenovan ili izabran u skladu s propisima o radu, a imenuje ih ministar nadležan za znanost i obrazovanje.
+(4) Mandat članova Upravnog vijeća traje četiri godine.
+(5) Član Upravnog vijeća može biti razriješen i prije isteka roka od četiri godine, u slučaju da:
+– sam zatraži razrješenje,
+– ne

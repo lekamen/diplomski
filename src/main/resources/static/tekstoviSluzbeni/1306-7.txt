@@ -1,0 +1,29 @@
+tijeka procesa iz stavka 2. točke 3. ovoga članka mora uključivati sve faze, postupke i korake u procesu proizvodnje, uključujući i razmake tijekom ili između faza te ponovnu preradu, od zaprimanja sirovina do stavljanja krajnjeg proizvoda na tržište, uključujući pripremu, proizvodnju, preradu, pakiranje, skladištenje, prijevoz i distribuciju.
+(6) Dijagram tijeka procesa proizvodnje iz stavka 2. točke 3. ovoga članka izrađuje se za svaki proizvod i/ili grupu proizvoda i/ili proizvodnu liniju, ovisno o sličnosti tehnološkog procesa.
+(7) Dijagram tijeka procesa proizvodnje iz stavka 2. točke 3. ovoga članka mora biti verificiran od strane osobe subjekta u poslovanju s hranom odgovorne za verifikaciju.
+Analiza opasnosti
+Članak 17.
+(1) Analiza opasnosti iz članka 16. stavka 1. ovoga Pravilnika uključuje utvrđivanje svih potencijalnih bioloških, kemijskih i fizičkih opasnosti koje se mogu očekivati u svakoj fazi pripreme, proizvodnje, prerade, pakiranja, skladištenja, prijevoza i distribucije, uključujući i opasnosti uzrokovane proizvodnom opremom.
+(2) Na temelju analize opasnosti iz stavka 1. ovoga članka provodi se procjena svih opasnosti kako bi se utvrdile opasnosti čije sprječavanje ili uklanjanje ili smanjenje pojavnosti ili učinka na prihvatljivu razinu, imaju utjecaj na sigurnost hrane.
+(3) Za procjenu opasnosti iz stavka 2. ovoga članka može se koristiti metoda »Stablo odlučivanja« iz Priloga ovoga Pravilnika, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio, i druge metode.
+(4) Potrebno je utvrditi i opisati koje se kontrolne i preventivne mjere mogu primijeniti za pojedinu vrstu opasnosti.
+(5) Kontrolne i preventivne mjere iz stavka 4. ovoga članka moraju biti popraćene detaljno opisanim postupcima koji će osigurati njihovu učinkovitu provedbu.
+(6) Subjekt u poslovanju s hranom prilikom analize opasnosti, mora uzeti u obzir odredbe posebnih propisa kojima je propisan način kontrole opasnosti, kao i preporuke Europske komisije.
+Kritične kontrolne točke, kontrolne točke i kritične granice
+Članak 18.
+(1) U svrhu kontrole opasnosti subjekt u poslovanju s hranom mora utvrditi kritične kontrolne točke (KKT) i kontrolne točke (KT). Koraci procesa koji su identificirani u analizi opasnosti kao važni za sigurnost hrane, a nisu identificirani kao KKT, mogu procjenom opasnosti biti identificirani kao KT.
+(2) Za identificirane KKT subjekt u poslovanju s hranom mora utvrditi kritične granice.
+Postupci praćenja na KKT i KT
+Članak 19.
+(1) Subjekt u poslovanju s hranom mora odrediti i uspostaviti postupak praćenja za svaku KKT i KT koji uključuje sva predviđena mjerenja i/ili opažanja.
+(2) Postupak praćenja iz stavka 1. ovoga članka mora se sastojati od odgovarajućih pisanih postupaka i zapisa koji obuhvaćaju najmanje sljedeće:
+1. metode mjerenja i/ili opažanja;
+2. uređaje za praćenje, metode umjeravanja, ako je primjenjivo;
+3. učestalost praćenja;
+4. odgovornosti i ovlaštenja za praćenje i ocjenu rezultata praćenja;
+5. evidencije.
+(3) Mjerenje i/ili opažanje može provoditi djelatnik i/ili se može provoditi pomoću opreme, ako je primjenjivo, praćenjem definiranih parametara na KKT i KT, ukoliko to nije drugačije propisano posebnim propisom.
+(4) Subjekt u poslovanju s hranom mora odrediti djelatnika odgovornog za praćenje i djelatnika odgovornog za provjeru praćenja KKT i KT.
+(5) Evidencije praćenja KKT i KT moraju biti ovjerene od djelatnika iz stavka 4. ovoga članka.
+(6) Evidencije praćenja KKT i KT, uključujući sve podatke o sastojcima ugrađenim u proizvod, moraju se čuvati najmanje šest mjeseci od isteka roka trajanja proizvoda, a za proizvode za koje sukladno propisu o informiranju potrošača o hrani nije obavezno navođenje roka trajanja (izuzev lako kvarljivih proizvoda) evidencije se moraju čuvati najmanje pet godina od dana proizvodnje.
+(7) Evidencije praćenja KKT i KT za lako kvarljive proizvode za koje sukladno propisu o informiranju potrošača o hrani nije obavezno navođenje roka trajanja moraju se čuvati najmanje šest 

@@ -1,0 +1,35 @@
+ dostaviti Informacijskoj središnjici u roku 15 radnih dana prije isteka razdoblja mirovanja.
+(5) Komentar na prijedlog propisa druge države potrebno je dostaviti Informacijskoj središnjici u roku 10 radnih dana prije isteka razdoblja mirovanja.
+(6) Detaljno mišljenje ili komentar koje dostave tijela i zainteresirana javnost iz stavaka 1. i 2. ovoga članka na odredbe prijedloga propisa drugih država, na zahtjev Informacijske središnjice, mora potvrditi središnje tijelo državne uprave nadležno za područje prijedloga propisa.
+(7) Detaljno mišljenje ili komentar na tehničke specifikacije ili druge zahtjeve ili propise o uslugama iz članka 3. stavka 1. točke h) podtočke 3. ove Uredbe mogu se odnositi samo na odredbe koje mogu predstavljati prepreke trgovini, pravu poslovnog nastana pružatelja usluga ili slobodi pružanja usluga, ali ne na fiskalne ili financijske značajke tih mjera.
+(8) Detaljno mišljenje na prijedlog propisa o uslugama, ne smije utjecati na mjere kulturne politike, posebno u području audiovizualnih djelatnosti, koje države članice mogu donijeti u skladu sa svojim zakonodavstvom, uzimajući u obzir njihovu jezičnu različitost, njihove posebne nacionalne i regionalne značajke i njihovo kulturno nasljeđe.
+(9) Ako nadležno tijelo sadržaj prijedloga tehničkog propisa označi kao povjerljiv, tijela državne uprave koja sudjeluju u raspravi o tom prijedlogu tehničkog propisa mogu zatražiti stručni savjet fizičkih i pravnih osoba iz privatnog sektora nakon što se provedu odgovarajuće mjere predostrožnosti u skladu sa zakonom kojim se uređuje tajnost podataka.
+(10) Tijela državne uprave moraju posebno od Informacijske središnjice tražiti odobrenje za uvid u povjerljivi dokument druge države koja sudjeluje u Postupku 98/34.
+Program 98/34
+Članak 20.
+(1) Program 98/34 sadrži popis planiranih tehničkih propisa za proizvode i propise o uslugama informacijskog društva koji će biti upućeni u Postupak 98/34 tijekom jedne kalendarske godine.
+(2) Program 98/34 priprema Informacijska središnjica u suradnji s nadležnim tijelima, javni je dokument i objavljuje se na internetskim stranicama ministarstva nadležnog za gospodarstvo.
+(3) Odgovornost vezana uz notifikaciju propisa u Postupak 98/34 je na nadležnom tijelu iz članka 5. stavka 2. ove Uredbe.
+III. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 21.
+Dodatak I.: Indikativni popis usluga koje nisu obuhvaćene člankom 3. stavkom 1. točkom c) ove Uredbe, sastavni je dio ove Uredbe.
+Članak 22.
+Stupanjem na snagu ove Uredbe prestaju važiti Uredba o postupcima službenog obavješćivanja u području norma, tehničkih propisa, te propisa o uslugama informacijskog društva (»Narodne novine«, broj 40/13) i Postupovnik o postupcima službenog obavješćivanja u području norma i tehničkih propisa (»Narodne novine«, broj 19/11).
+Članak 23.
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 022-03/15-03/94
+Urbroj: 50301-05/05-15-2
+Zagreb, 1. listopada 2015.
+Predsjednik Zoran Milanović, v. r.
+DODATAK I.
+INDIKATIVNI POPIS USLUGA KOJE NISU OBUHVAĆENE ČLANKOM 3. STAVKOM 1. TOČKOM C) OVE UREDBE
+1. Usluge koje se ne pružaju »na daljinu«
+Usluge koje se pružaju u fizičkoj prisutnosti pružatelja i primatelja, čak i kada se koriste elektronički uređaji:
+a) medicinski pregledi ili tretmani u liječničkoj ordinaciji kod kojih se koristi elektronička oprema u fizičkoj prisutnosti pacijenta
+b) konzultiranje elektroničkog kataloga u trgovini u prisutnosti kupca
+c) rezervacija zrakoplovnih karata u putničkoj agenciji kada je kupac fizički prisutan, pomoću umreženih računala
+d) elektroničke igre koje su dostupne u za to predviđenim prostorima u kojima je korisnik fizički prisutan.
+2. Usluge koje se ne pružaju »elektroničkim sredstvima«
+– usluge čiji sadržaj je materijalan čak i kada se pružaju putem elektroničkih uređaja:
+a) automati za izdavanje gotovine ili karata (novčanica, voznih karata)
+b) pristup cestovnim mrežama, parkiralištima, itd., naplate za korištenje, čak i kada se elektronički uređaji

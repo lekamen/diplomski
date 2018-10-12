@@ -1,0 +1,21 @@
+ relevantnog razdoblja
+i) zajamčeni varijabilni primici su iznimka i mogu se ugovoriti samo prilikom zapošljavanja novih radnika, pri čemu su ograničeni na prvu godinu rada
+j) fiksni i varijabilni primici su primjereno uravnoteženi. Fiksni dio primitaka mora predstavljati dovoljno visok udio u ukupnim primicima, čime se omogućava provođenje u potpunosti fleksibilne politike varijabilnih primitaka, uključujući mogućnost neisplaćivanja varijabilnog dijela primitaka
+k) primici koji se daju u slučaju prijevremenog prestanka ugovornog odnosa s društvom za upravljanje odražavaju uspješnost postignutu u relevantnom razdoblju i određuju se na način koji ne nagrađuje neuspjeh
+l) mjerenje uspješnosti, kao osnova za izračun varijabilnog dijela primitaka, mora biti prilagođeno svim vrstama rizika kojima je društvo za upravljanje izloženo ili kojima bi moglo biti izloženo
+m) znatan dio, a u svakom slučaju najmanje 50% varijabilnog primitka, se sastoji od instrumenata (udjela relevantnog UCITS fonda ili ekvivalentnih nenovčanih instrumenata s jednako djelotvornim poticajima)
+Takve obveze nema ako imovina UCITS fondova pod upravljanjem društva za upravljanje čini manje od 50% ukupnog portfelja kojim upravlja društvo za upravljanje.
+Navedeni instrumenti podliježu primjerenoj politici zadržavanja, s namjerom usklađenja poticaja koji se daju pojedincu s interesima društva za upravljanje, UCITS fondova kojima upravlja i ulagatelja.
+Ovaj se zahtjev politike primitaka primjenjuje na neodgođen dio varijabilnih primitaka kao i na odgođen dio varijabilnih primitaka u skladu s točkom n) ovoga stavka.
+n) znatan dio, a u svakom slučaju najmanje 40% varijabilnog primitka, daje se s odgodom tijekom razdoblja koje odgovara razdoblju preporučenog držanja udjela ulagatelja u relevantnom UCITS fondu. Prilikom određenja vremenskog okvira odgode varijabilnog dijela primitka, u obzir se uzima i profil rizičnosti relevantnog UCITS fonda
+U slučaju osobito visokog varijabilnog primitka najmanje 60% varijabilnog primitka će se odgoditi.
+Razdoblje odgode varijabilnog dijela primitaka u svakom slučaju ne smije biti kraće od tri godine.
+Društvo za upravljanje odgođene primitke ne smije isplaćivati odnosno dodjeljivati brže nego što proizlazi iz načela pravilnoga vremenskog razgraničavanja. Načelo pravilnoga vremenskog razgraničavanja pri isplati odnosno dodjeli odgođenih primitaka nalaže da kod primitaka koji se odgađaju tijekom n godina, počevši od kraja razdoblja procjene, isplate primitaka na kraju svake godine od kraja razdoblja procjene čine odgođeni iznos primitaka pomnožen sa 1/n.
+Odgođeni dijelovi primitaka ne smiju se isplaćivati češće od jedanput godišnje, a prvi odgođeni dio primitaka smije se isplatiti najmanje godinu dana nakon isteka razdoblja procjene.
+o) varijabilni primici, uključujući odgođene dijelove varijabilnih primitaka, daju se samo kada i ako je to održivo i opravdano. Varijabilni primici smatraju se održivima ako u razdoblju od utvrđivanja tih primitaka do njihove konačne isplate ne dođe do narušavanja financijskog stanja društva za upravljanje, odnosno do ostvarivanja gubitka društva za upravljanje. Varijabilni primici smatraju se opravdanima ako su zasnovani na uspješnosti relevantne poslovne jedinice, UCITS fonda i/ili pojedinca.
+U slučaju znatnog narušavanja uspješnosti ili ostvarenja gubitka društva za upravljanje i/ili UCITS fondova pod upravljanjem, ukupni varijabilni primici će se znatno umanjiti, pri čemu se u obzir uzimaju svi sljedeći oblici smanjenja primitaka:
+– smanjenje primitaka tekuće poslovne godine
+– smanjenje odgođenih, neisplaćenih primitaka (aktiviranjem odredbi o malusu) i
+– naknadno smanjenje već isplaćenih primitaka (aktiviranjem odredbi o povratu primitaka)
+p) diskrecijske mirovinske pogodnosti moraju biti usklađene s poslovnom strategijom, ciljevima, vrijednostima i dugoročnim interesima društva za upravljanje i UCITS fondova kojim upravlja.
+U slučaju prestanka radnog odnosa kada radnik ne odlazi u mirovinu, društvo 

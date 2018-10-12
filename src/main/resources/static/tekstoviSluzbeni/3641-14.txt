@@ -1,0 +1,46 @@
+sigurnosne analize na završetku razgradnje nuklearnog postrojenja iz točke a) stavka 1. ovog članka treba sadržavati:
+a) opis postrojenja;
+b) ciljeve razgradnje;
+c) kriterije provjere;
+d) djelatnosti razgradnje;
+e) opis SSK, zgrada ili neočišćenih područja;
+f) konačno radiološko stanje;
+g) otpuštanje iz regulatornog nadzora;
+h) otpad;
+i) doze osoblja;
+j) opis događaja tijekom razgradnje;
+k) opis naučenih lekcija tijekom razgradnje.
+(3) Zavod treba odobriti dokumentaciju iz točke a) do b) stavka 1. ovog članka kao dio procedura za izdavanje odobrenja za završetak razgradnje nuklearnog postrojenja.
+VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 59.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o obavljanju nuklearne djelatnosti (»Narodne novine«. br. 74/06) i Pravilnik o uvjetima nuklearne sigurnosti i zaštite za smještaj, projektiranje, gradnju, uporabu i razgradnju objekta u kojem se obavlja nuklearna djelatnost (»Narodne novine«, br. 71/08).
+Članak 60.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/16-02/1
+Urbroj: 542-01-16-2
+Zagreb, 12. travnja 2016.
+Ravnatelj mr. sc. Saša Medaković, v. r.
+PRILOG 1.
+PROJEKTNE OSNOVE NUKLEARNE ELEKTRANE
+1. OSNOVNE PROJEKTNE OSNOVE
+1.1 Projektne osnove nuklearne elektrane
+(1) S obzirom na pogon nuklearne elektrane, rizici za stanovništvo bit će usporedivi ili manji od onih stvorenih proizvodnjom električne energije iz drugih izvora.
+(2) Projekt nuklearne elektrane treba ograničiti učestalost oštećenja jezgre na manje od 10-6 godišnje i učestalost velikog otpuštanja radioaktivnih tvari iz elektrana na manje od 10-7 godišnje.
+(3) Projektne osnove trebaju utvrditi potrebne sposobnosti nuklearne elektrane kako bi izdržala sva stanja postrojenja u skladu sa zahtjevima zaštite od ionizirajućeg zračenja. Projektne osnove uključuju:
+a) normalne uvjete pogona;
+b) uvjete u okviru pretpostavljenog inicijalnog događaja i projektom predviđenih događaja i nesreća koje su posljedica pretpostavljenih inicijalnih događaja i njihovih kombinacija;
+c) SSK sigurnosnu klasifikaciju;
+d) važne pretpostavke i odabrane analitičke metode.
+1.2 Sigurnosne analize
+Osim uvjeta navedenih u članku 18. ovog Pravilnika, sigurnosne analize trebaju uzeti u obzir:
+a) najnepovoljniji jednostruki kvar sigurnosno-tehničke opreme gdje se slučajevi kvara pasivne komponente ne uzimaju u obzir ukoliko se može dokazati da je takav kvar vrlo malo vjerojatan te da događaj pod analizom ne ugrožava predviđenu sigurnosnu funkciju komponente;
+b) razdoblje od 30 minuta dostupno operateru od prijema prve karakteristične informacije o događaju do vremena kada je potrebna prva mjera za sprječavanje ili ublažavanje posljedica događaja;
+c) početni i granični uvjeti za analizirane scenarije izabrane na konzervativan način;
+d) operativnost sustava nevezanog za sigurnost, uključujući vanjsko napajanje, samo u uvjetima gdje takvi sustavi dodatno pogoršavaju posljedice događaja;
+e) pretpostavka najnepovoljnije izvedbe sigurnosnog sustava za dani inicijalni događaj;
+f) bilo koje i sve potencijalne kvarove koji mogu nastati zbog pretpostavljenog inicijalnog događaja;
+g) u svrhu postizanja i održavanja stanja sigurno ugašenim, samo one SSK klasificirane prema potpoglavlju 2.1 ovog Priloga;
+h) kao dodatne otežavajuće okolnosti, u svim stanjima postrojenja i pod svim projektnim događajima, blokiranje kontrolne šipke s najvišom vrijednosti reaktivnosti u potpunosti udaljenom položaju i ukupni gubitak vanjskog napajanja.
+1.3 Tehničko prihvaćanje
+Projektom je potrebno navesti, kao minimum:
+a) radiološke i druge tehnički prihvaćene kriterije za klasifikaciju pretpostavljenih inicijalnih događaja u različitim pogonskim uvjetima nuklearne elektrane (uglavnom: stanja postrojenja, projektom predviđeni pogonski događaji, dodatni pretpostavljeni kvarovi, teške nesreće). Pretpostavljeni inicijalni događaji s većom vjerojatnošću pojave imaju zanemarive ili nikakve radiološke posljedice, dok događaji koji mogu

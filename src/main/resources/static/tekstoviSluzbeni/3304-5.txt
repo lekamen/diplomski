@@ -1,0 +1,66 @@
+ odvjetnika,
+13.11 Osiguranje od odgovornosti javnih bilježnika,
+13.12 Osiguranje od odgovornosti revizorskih tvrtki,
+13.13 Osiguranje od odgovornosti špeditera,
+13.14 Osiguranje od odgovornosti vlasnika odnosno korisnika marine,
+13.15 Osiguranje od odgovornosti brodopopravljača,
+13.16 Osiguranje od odgovornosti obavljanja zaštitarskih i detektivskih djelatnosti,
+13.17 Osiguranje od odgovornosti iz obavljanja djelatnosti upravljanja nekretninama,
+13.18 Osiguranje od odgovornosti iz obavljanja liječničke, stomatološke i ljekarničke djelatnosti,
+13.19 Osiguranje od odgovornosti stečajnih upravitelja,
+13.20 Osiguranje od odgovornosti iz djelatnosti zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju,
+13.21 Osiguranje od odgovornosti menadžera (direktora i rukovoditelja D&O),
+13.22 Osiguranje turističke agencije od odgovornosti za paket-aranžman,13.99 Ostala osiguranja od odgovornosti.
+14 OSIGURANJE KREDITA je osiguranje koje pokriva:
+– rizik neplaćanja (odnosno kašnjenja plaćanja) uslijed opće nesolventnosti ili drugih događaja (postupanja ili činjenica),
+– izvozne kredite i druge rizike u svezi s izvozom, trgovinom i ulaganjima na stranim ili domaćim tržištima,
+– kredite s obročnim otplatama,
+– hipotekarne i lombardne kredite,
+– poljoprivredne kredite, te
+– druge kredite i zajmove; a obuhvaća:
+14.01 Osiguranje izvoznih potraživanja,
+14.02 Osiguranje drugih vrsta potraživanja,
+14.03 Osiguranje korisnika kredita od nemogućnosti vraćanja kredita uslijed rizika smrtnosti, nezgode, nesposobnosti za rad, gubitka posla i sličnih rizika,
+14.99 Ostala osiguranja kredita.
+15 OSIGURANJE JAMSTAVA je osiguranje koje pokriva i izravno i neizravno jamstvo za ispunjavanje obveza dužnika, a obuhvaća:
+15.01 Osiguranje jamstava koje podrazumijeva rizike izravnog i neizravnog jamstva,
+15.02 Osiguranje garancija,
+15.99 Ostala osiguranja jamstava.
+16 OSIGURANJE RAZNIH FINANCIJSKIH GUBITAKA je osiguranje koje pokriva:
+– profesionalne rizike,
+– nedostatne prihode (općenito),
+– loše vrijeme,
+– izgubljenu dobit,
+– nepredviđene troškove općenite vrste,
+– nepredviđene poslovne troškove,
+– gubitak tržišne vrijednosti,
+– gubitak najamnine odnosno prihoda,
+– druge posredne poslovne gubitke, osim gubitka iz gornjih alineja,
+– druge neposlovne financijske gubitke,
+– druge oblike financijskih gubitaka, a obuhvaća:
+16.01 Osiguranje financijskih gubitaka radi prekida rada zbog požara i nekih drugih opasnosti,
+16.02 Osiguranje financijskih gubitaka radi prekida rada zbog loma strojeva,
+16.03 Osiguranje raznih priredbi zbog atmosferskih oborina,
+16.04 Osiguranje od šteta zbog otkupa krivotvorenih inozemnih sredstava plaćanja,
+16.05 Osiguranje opasnosti otkaza turističkih putovanja,
+16.06 Osiguranje financijskih gubitaka radi prekida rada zbog potresa i drugih elementarnih nepogoda,
+16.99 Ostala osiguranja financijskih gubitaka.
+17 OSIGURANJE TROŠKOVA PRAVNE ZAŠTITE je osiguranje koje pokriva troškove pravne zaštite i troškove sudskog ili kojeg drugog postupka, a obuhvaća:
+17.01 Osiguranje troškova pravne zaštite i troškova sudskog postupka
+17.99 Ostala osiguranja troškova pravne zaštite.
+18 OSIGURANJE POMOĆI (ASISTENCIJA) je osiguranje koje pokriva pomoć pruženu osobama koje zapadnu u teškoće za vrijeme puta, izvan doma ili uobičajenog boravišta, a obuhvaća:
+18.01 Turističko osiguranje,
+18.03 Putno zdravstveno osiguranje,
+18.04 Osiguranje pomoći (asistencije) za vrijeme puta, izvan mjesta boravka ili prebivališta,
+18.05 Osiguranje automobilske asistencije
+18.99 Ostala osiguranja pomoći (asistencija).
+Članak 8.
+Vrste rizika unutar vrsta životnih osiguranja dijele se na:
+19 ŽIVOTNA OSIGURANJA su osiguranja koja pokrivaju sljedeće rizike:
+19.01 Osiguranje života za slučaj smrti i doživljenja (mješovito osiguranje),
+19.02 Osiguranje za slučaj smrti,
+19.03 Osiguranje za slučaj doživljenja,
+19.04 Doživotno osiguranje za slučaj smrti,
+19.05 Osiguranje kritičnih bolesti,
+19.99 Ostala osiguranja života.
+20 RENTNO OSIGURANJE je osiguranje periodičnih prihoda

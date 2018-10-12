@@ -1,0 +1,48 @@
+ ažuriranje projekata s područja županije za koju su nadležni, osim grupe opći podaci kandidata za sufinanciranje i financijski podaci o potencijalnim izvorima i iznosima sufinanciranja
+– mogućnost obrade i analize svih podataka, projekata i razvojnih pokazatelja iz županije za koju su nadležni.
+Članak 15.
+Razina 2. ovlaštenja obuhvaća:
+– sektorski ograničen pristup
+– uvid u sve projekte iz sektora za koje su nadležni
+– kreiranje, mijenjanje i/ili ažuriranje svih projekata čiji su nositelji
+– da kao odgovorno tijelo projektu mogu dodijeliti status projekta – kandidata za (su)financiranje te po dodjeli statusa mogu kreirati, mijenjati i/ili ažurirati grupe opći podaci kandidata za sufinanciranje i financijski podaci o potencijalnim izvorima i iznosima sufinanciranja projekta – kandidata za (su)financiranje
+– mogućnost obrade i analize svih podataka, projekata i razvojnih pokazatelja iz njihovog sektora.
+Članak 16.
+Razina 3. ovlaštenja obuhvaća:
+– uvid u sve projekte koji se nalaze u Bazi
+– kreiranje, mijenjanje i/ili ažuriranje svih projekata čiji je nositelj
+– da kao odgovorno tijelo projektu može dodijeliti status projekta – kandidata za (su)financiranje te po dodjeli statusa može kreirati, mijenjati i/ili ažurirati grupe opći podaci kandidata za sufinanciranje i financijski podaci o potencijalnim izvorima i iznosima sufinanciranja projekta – kandidata za (su)financiranje
+– mogućnost obrade i analize svih podataka, projekata i razvojnih pokazatelja.
+Članak 17.
+Razina 4. ovlaštenja obuhvaća:
+– uvid u sve projekte koji se nalaze u Bazi
+– kreiranje, mijenjanje i/ili ažuriranje svih projekata čiji je nositelj
+– da kao odgovorno tijelo projektu može dodijeliti status projekta – kandidata za (su)financiranje te po dodjeli statusa može kreirati, mijenjati i/ili ažurirati grupe opći podaci kandidata za sufinanciranje i financijski podaci o potencijalnim izvorima i iznosima sufinanciranja projekta – kandidata za (su)financiranje
+– kreiranje, mijenjanje i/ili ažuriranje regionalnih projekata iz članka 19. točke c) ovoga Pravilnika.
+– mogućnost obrade i analize svih podataka, projekata i razvojnih pokazatelja.
+Članak 18.
+Razina 5. ovlaštenja obuhvaća:
+– mogućnost administriranja Baze, korisnika, dodjeljivanja prava, ažuriranja šifrarnika i predefiniranih polja za unos.
+VI. VRSTE RAZVOJNIH PROJEKATA
+Članak 19.
+U smislu ovog Pravilnika prema teritorijalnom obuhvatu i značaju (razini), razvojni projekti se dijele na:
+a) lokalne
+b) županijske
+c) regionalne
+d) nacionalne.
+Članak 20.
+(1) Lokalni projekti iz članka 19. točke a) ovog Pravilnika su projekti koji imaju značenje i utjecaj na razvoj jedne ili više jedinica lokalne samouprave, a nisu utvrđeni kao županijski projekti.
+(2) Županijski projekti iz članka 19. točke b) ovog Pravilnika su projekti koji imaju značenje i utjecaj na razvoj jedne ili više jedinica regionalne (područne) samouprave, utvrđeni su od strane župana i/ili županijskog partnerskog vijeća, a nisu prepoznati kao regionalni projekti u skladu sa stavkom 3. ovog članka.
+(3) Regionalni projekti iz članka 19. točke c) ovog Pravilnika su projekti koji imaju značenje i utjecaj na razvoj statističke regije, utvrđeni su na partnerskom vijeću statističke regije, a nisu utvrđeni kao nacionalni projekti.
+(4) Nacionalni projekti iz članka 19. točke d) ovog Pravilnika su projekti od nacionalne važnosti koje je utvrdila Vlada Republike Hrvatske, na prijedlog resornog ministarstva.
+Članak 21.
+Razvojni projekti u Bazi dodatno se razvrstavaju prema sektorima, izvorima financiranja i vrstama projekta.
+VII. RAZVOJNI POKAZATELJI
+Članak 22.
+(1) Razvojni pokazatelji su kvantitativni i kvalitativni podaci koji omogućuju praćenje, izvještavanje i vrednovanje uspješnosti u postizanju utvrđenih razvojnih ciljeva kojima se doprinosi provedbom projekta.
+(2) Razvojni pokazatelji kategorizirani su u Bazi prema sektoru.
+VIII. GRUPE PODATAKA
+Članak 23.
+(1) Podaci za razvojne projekte u Bazi iz članka 19. svrstavaju se u sljedeće grupe:
+a) opći podaci
+b)

@@ -1,0 +1,22 @@
+ pirotehničara i imaju najmanje godinu dana iskustva na poslovima uklanjanja MES-a, NUS-a i njihovih dijelova kao službenici protueksplozijske zaštite Ministarstva mogu, nakon prestanka djelatne službe, obavljati poslove pirotehničara, voditelja radilišta i kontrole kvalitete u ovlaštenoj pravnoj osobi i/ili kod obrtnika ili u HCR-u ako ispunjavaju uvjete iz članka 101. ovoga Zakona.
+(6) Osobe koje su osposobljene za obavljanje poslova razminiranja prema stranim propisima mogu obavljati poslove pomoćnog djelatnika, pirotehničara i voditelja radilišta u ovlaštenoj pravnoj osobi ili kod obrtnika u Republici Hrvatskoj ako Ministarstvo utvrdi da strani program izobrazbe i osposobljavanja odgovara programu koji se donosi na temelju ovoga Zakona, o čemu se izdaje uvjerenje sukladno odredbama pravilnika kojim se uređuje osposobljavanje i uvjeti za osposobljavanje pomoćnog djelatnika, pirotehničara, voditelja radilišta i djelatnika kontrole kvalitete.
+Članak 106.
+(1) Uz zahtjev za izdavanje rješenja o odobrenju za obavljanje poslova osposobljavanja ustanova prilaže dokaze da:
+– posjeduje odgovarajući prostor i sredstva za održavanje teorijske i praktične nastave, opremljen sukladno pravilniku iz stavka 5. ovog članka
+– ima zaposlenu najmanje jednu osobu ugovorom o radu u punom radnom vremenu koja ima najmanje diplomski sveučilišni studij i najmanje tri godine radnog iskustva na poslovima humanitarnog razminiranja, protuminskog djelovanja ili u protueksplozijskoj zaštiti Ministarstva
+– ima zaposlenu najmanje jednu osobu ugovorom o radu u punom radnom vremenu koja ima najmanje srednju stručnu spremu, položen stručni ispit za pirotehničara te najmanje tri godine radnog iskustva na poslovima humanitarnog razminiranja, protuminskog djelovanja ili u protueksplozijskoj zaštiti Ministarstva
+– posjeduje suglasnost za obavljanje poslova stručnog osposobljavanja izdanog od ministarstva nadležnog za obrazovanje
+– posjeduje Nastavni plan i program za stručno osposobljavanje, sukladno pravilniku iz stavka 5. ovog članka, odobrenog od ministarstva nadležnog za obrazovanje
+– posjeduje sklopljen ugovor s osiguravajućim društvom o osiguranju osoba koje se osposobljavaju, od posljedica štetnog događaja vezanog uz izobrazbu (tjelesno ozljeđivanje, smrtno stradavanje).
+(2) Ministarstvo po službenoj dužnosti pribavlja dokaze o ispunjenju uvjeta da:
+– odgovorna osoba u pravnoj osobi nije pravomoćno osuđivana ili se protiv nje ne vodi kazneni postupak za kazneno djelo za koje se postupak pokreće po službenoj dužnosti, osim za kazneno djelo izazivanja prometne nesreće iz nehaja, koja za posljedicu ima tjelesnu ozljedu ili materijalnu štetu
+– odgovorna osoba u pravnoj osobi nije u posljednje tri godine pravomoćno osuđivana za prekršajno djelo s elementima nasilja
+– je ustanova upisana u sudski registar ustanova.
+(3) Ministarstvo će rješenjem ukinuti odobrenje za obavljanje poslova osposobljavanja ako prestanu postojati uvjeti na temelju kojih je odobrenje izdano odnosno poništiti ako je rješenje o odobrenju izdano na temelju lažnih ili krivotvorenih podataka.
+(4) Protiv rješenja o ukidanju odobrenja ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+(5) Ministar donosi pravilnik o osposobljavanju i uvjetima za osposobljavanje pomoćnog djelatnika, pirotehničara, voditelja radilišta i djelatnika kontrole kvalitete.
+15. PRAVA PIROTEHNIČARA I S NJIMA IZJEDNAČENIH OSOBA S OSNOVE INVALIDNOSTI I SMRTI I OBVEZNA OSIGURANJA
+Članak 107.
+Staž osiguranja u povećanom trajanju računa se:
+– pirotehničarima koji neposredno obavljaju poslove dopunskog općeg izvida, tehničkog izvida, razminiranja i kontrole kvalitete, nadzornicima kontrole kvalitete, voditeljima radilišta i pomoćnim djelatnicima koji neposredno obavljaju poslove rukovatelja stroja i poslove vodiča pasa, kao staž osiguranja u trajanju od 18 mjeseci za svakih 12 mjeseci stvarno provedenih na tom radnom mjestu
+– inspektorima Ministarstva koji obavljaju poslove inspekcijskog nadzora radilišta tehničkog 

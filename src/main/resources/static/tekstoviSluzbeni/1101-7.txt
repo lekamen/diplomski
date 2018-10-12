@@ -1,0 +1,48 @@
+ čvorova na terenu:
+– Označavanje pozicije čvora bojom uz rub ceste,
+– Zabijanje klina u čvoru
+Važno je, bez obzira koju metodu koristili, voditi skicu čvora sa kontrolnim odmjeranjima u svrhu ponovnog uspostavljanja čvora na terenu uslijed mogućeg gubitka ili oštećenja oznake čvora.
+Na skici je potrebno ucrtati minimalno tri kontrolna odmjeranja za svaki čvor od stalnih, čvrstih točaka (npr. prometnog znaka, rasvjetnog stupa, stabla, ugla zgrade i sl.) te označiti smjer sjevera.
+Na jednoj skici mogu biti ucrtani jedan ili više čvorova u ovisnosti o međusobnoj udaljenosti, odnosno preglednosti skice.
+6.3.1 Označavanje pozicije čvora bojom uz rub ceste
+Točke dobivene projekcijom pozicije čvora na lijevi i desni rub kolnika označuju se bojom. Označavanje obje strane kolnika provodi se radi lakšeg uočavanja pozicije čvora iz oba smjera kretanja. Promjer kružnice koji označava poziciju čvora iznosi 30 cm.
+Također uz kružnicu odnosno oznake uz rub kolnika treba bojom upisati i identifikacijski broj čvora.
+6.3.2 Zabijanje klina u čvoru
+U točku koja predstavlja poziciju čvora zabija se klin. Položaj klina je dodatno moguće označiti bojom (kružnicom promjera oko 30 cm).
+6.4 Prostorno snimanje i pohranjivanje položaja čvora
+GPS uređajem
+Razvojem i povećanjem točnosti GPS tehnologije moguće je snimanje prostornih koordinata pozicije čvora, uz uvjet da GPS uređaj ima submetarsku točnost mjerenja u realnom vremenu ili se ista može postići naknadnom obradom u postprocesingu.
+7. Linkovi
+7.1 Definicija linka
+Link je osnovni element adresnog sustava unutar mreže javnih cesta. Definiran je početnim i završnim čvorom. Skup linkova iste identifikacijske oznake cestovnog pravca čini cestovni pravac.
+7.2 Identifikacijska oznaka linka
+Unutar razvrstane cestovne mreže link je jednoznačno određen identifikacijskom oznakom.
+Brojevi linkova rastu od 1 naviše, neovisno o lokaciji na kojoj se nalaze.
+7.3 Pravila prilikom određivanja pripadnosti linkova koji identificiraju rampe (skretače)
+U raskrižjima razvrstanih cesta pripadnost linkova koji identificiraju rampe (skretače) određuju se na temelju građevinsko-prometne izvedbe raskrižja, te funkcije u mreži javnih cesta.
+Postoje dva osnovna tipa raskrižja:
+– Raskrižje u nivou,
+– Raskrižje u dva ili više nivoa.
+7.3.1 Raskrižja u nivou
+Unutar ovog osnovnog tipa raskrižja, uzevši u obzir mogućnost različitog geometrijskog oblikovanja i izvedbe raskrižja, mogu se definirati slijedeći podtipovi:
+A1: Trokrako raskrižje:
+Priključak jedne ceste na drugu.
+Glavni pravac može biti u pravcu ili u krivini.
+
+
+
+A2: Četverokrako raskrižje:
+Sjecište glavnih osi dviju cesta u jednoj točci, sa ili bez dodatnih traka za lijevo i desno skretanje, sa ili bez razdjelnog pojasa.
+
+A3: Višekrako raskrižje:
+Križanje tri ili više cesta sa sjecištem njihovih osi u jednoj točci.
+
+A4: Kružno raskrižje – »rotor«:
+Raskrižja u nivou gdje se više cesta sastaje na jedinstvenoj (zajedničkoj) kružnoj, elipsastoj, kvadratičnoj krivulji (»rotoru«), koja uvijek pripada jednoj od cesta. Mogu biti trokraka ili višekraka raskrižja.
+
+A5: Turbo kružno raskrižje – »turbo rotor«:
+Kanalizirano dvo ili trotračno kružno raskrižje sa spiralnim tokom kružnog kolnika, na kojega se priključuju tri ili četiri priključne ceste, a vozni trakovi su međusobno odvojeni uzdignutim razdjelnim elementima (delineatorima) koji sprječavaju promjenu voznog traka (preplitanje prometnih tokova) na kružnom kolniku.
+
+a) Za određivanje pripadnosti linkova prvo je potrebno odrediti sjecište glavnih osi dviju ili više javnih cesta koje se sijeku u raskrižju.
+b) Svi linkovi koji identificiraju rampe (skretače) pripadaju priključku gledano u građevinsko-prometnom smislu, bez obzira na kategoriju ceste. Pod pojmom građevinsko-prometni smisao podrazumijeva se da li priključak u raskrižju sadrži fizički izgrađene razdjelne otoke, njihov broj i položaj.
+c) Ukoliko su u građevinsko-prometnom smislu susjedni priključci u raskrižju jednako vrijedni, gleda se u tom slučaju prvo kategorija

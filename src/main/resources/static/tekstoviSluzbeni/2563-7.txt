@@ -1,0 +1,32 @@
+ privremenog ili trajnog isključenja imatelja glavnog PM računa.
+GLAVA IV. OTVARANJE I VOĐENJE DCA-a I OBRADA OPERACIJA
+Članak 12.
+Otvaranje i vođenje DCA-a
+1. Hrvatska narodna banka otvara i vodi najmanje jedan DCA za svakog imatelja DCA-a. DCA se utvrđuje pomoću jedinstvenog broja računa s 34 znaka koji će biti strukturiran kako slijedi:
+Naziv Format Sadržaj Dio A Vrsta računa Točno 1 znak ‘C’ za novčani račun Kôd zemlje središnje banke Točno 2 znaka ISO kôd države 3166-1 Kôd valute Točno 3 znaka EUR Dio B Imatelj računa Točno 11 znakova BIC kôd Dio C Daljnja raščlamba Do 17 znakova Slobodan tekst (alfanumerički) koji osigurava imatelj DCA-a
+2. Nije dopušteno negativno stanje na namjenskim novčanim računima.
+3. Na DCA-u se ne drže sredstva preko noći. Na početku i kraju radnog dana stanje na namjenskim novčanim računima je nula. Uzima se da su imatelji DCA-a dali instrukciju Hrvatskoj narodnoj banci za prijenos svakog preostalog salda na kraju radnog dana kako je definirano u Dodatku V. ove Odluke, na glavni PM račun iz članka 11. stavka 1. ove Odluke.
+4. DCA se koristi samo u razdoblju između početka i kraja dana sustava T2S kako je određeno u Detaljnim funkcionalnim specifikacijama za korisnike sustava T2S (UDFS).
+5. DCA računi su beskamatni.
+Članak 13.
+Operacije koje se mogu provoditi preko DCA-a
+Ovisno o naznačenju potrebnog/ih račun/a vrijednosnih papira od strane imatelja DCA-a, imatelj DCA-a može provoditi sljedeće operacije preko DCA-a za svoj račun ili za račun svojih klijenata:
+(a) naloge za prijenos likvidnosti s DCA-a na PM,
+(b) naloge za prijenos likvidnosti s DCA-a na DCA i
+(c) namiru novčanih instrukcija koje proizlaze iz platforme sustava T2S.
+Članak 14.
+Primanje i odbijanje naloga za plaćanje
+1. Nalozi za plaćanje koje su podnijeli imatelji DCA-a primljeni su od Hrvatske narodne banke ako je:
+(a) platna poruka u skladu s pravilima koje je utvrdio pružatelj mrežnih usluga sustavu T2S,
+(b) platna poruka u skladu s pravilima i uvjetima formatiranja sustava TARGET2-HR i ako je prošla provjeru dvostrukog unosa kako je opisano u Dodatku I. ove Odluke i
+(c) SB privremeno isključenog sudionika dao izričit pristanak u slučaju kada je platitelj ili primatelj plaćanja privremeno isključen.
+2. Hrvatska narodna banka odmah odbija svaki nalog za plaćanje koji ne ispunjava uvjete utvrđene u stavku 1. ovog članka. Hrvatska narodna banka obavješćuje imatelja DCA-a o svakom odbijanju naloga za plaćanje kako je utvrđeno u Dodatku I. ove Odluke.
+3. Platforma sustava T2S određuje vremensku oznaku za obradu naloga za plaćanje na temelju vremena podnošenja i primanja naloga za plaćanje.
+Članak 15.
+Rezervacije likvidnosti i blokiranje likvidnosti
+1. Sudionici mogu rezervirati likvidnost ili blokirati likvidnost na svojem DCA-u. To ne predstavlja jamstvo namire u odnosu na bilo koju treću stranu.
+2. Zahtijevanjem rezerviranja ili blokiranja iznosa likvidnosti sudionik daje instrukciju Hrvatskoj narodnoj banci da smanji dostupnu likvidnost za taj iznos.
+3. Zahtjev za rezerviranje je instrukcija na temelju koje se provodi rezervacija ako je dostupna likvidnost jednaka ili viša od iznosa koji se treba rezervirati. Ako je dostupna likvidnost niža, rezervira se ta likvidnost, a manjak se može namiriti ulaznom likvidnošću sve dok puni iznos rezervacije ne postane dostupan.
+4. Zahtjev za blokiranje je instrukcija na temelju koje se provodi blokiranje ako je dostupna likvidnost jednaka ili viša od iznosa koji se treba blokirati. Ako je dostupna likvidnost niža, ni jedan iznos se ne blokira i zahtjev za blokiranje ponovno se podnosi sve dok se cijelom iznosu zahtjeva za blokiranje može udovoljiti dostupnom likvidnošću.
+5. Sudionik može u bilo koje vrijeme tijekom radnog dana u kojem je zahtjev za rezerviranje ili blokiranje likvidnosti proveden dati instrukciju Hrvatskoj narodnoj banci za opoziv rezerviranja ili blokiranja. Djelomični opoziv nije dopušten.
+6. Svi zahtjevi za rezerviranje i blokiranje likvidnosti na temelju ovog članka

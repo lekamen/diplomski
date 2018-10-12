@@ -1,0 +1,27 @@
+ različito; tijelo državne uprave/Vlada/ovlaštena organizacija koja je izdala potvrdu o upravljanju sigurnošću SMS, te tijelo koje je provelo prosudbu ako je različito; tijelo državne uprave/Vlada/priznata organizacija koja je izdala Međunarodnu svjedodžbu o sigurnosnoj zaštiti broda (ISSC), te tijelo koje je provelo provjeru ako je različito; datum brisanja broda iz upisnika brodova te napomene vezano uz probleme u provedbi odredbi XI-1/5 SOLAS Konvencije ili rezolucije A.959(23) Međunarodne pomorske organizacije s dopunama.
+(2) Lučka kapetanija je dužna upisati sve podatke iz stavka 1. ovog članka na obrascu koji je sastavni dio ovog Pravilnika, a za podatke koji nisu primjenjivi za odnosni brod unosi se oznaka N/A.
+Članak 32.
+Trajni zapis o brodu nosi brojčanu oznaku zapisa i IMO broj broda. Brojčana oznaka trajnog zapisa o brodu ima neprekinuti slijed nezavisno od promjene zastave broda ili drugih statusnih promjena, osim u slučajevima iz članka 37. ovog Pravilnika.
+Članak 33.
+(1) Izmjene trajnog zapisa o brodu unosi zapovjednik broda ili kompanija iz članka 29. stavak 2. ovog Pravilnika.
+(2) Prilikom unošenja izmjena trajnog zapisa o brodu za podatke koji se ne mijenjaju unosi se oznaka N/C.
+Članak 34.
+(1) Izmjene trajnog zapisa o brodu prilažu se uz trajni zapis o brodu.
+(2) Podatak o izmjenama trajnog zapisa o brodu unosi se u Popis izmjena trajnog zapisa o brodu.
+(3) Preslike izmjena trajnog zapisa o brodu zapovjednik broda ili kompanija iz članka 29. stavak 2. ovog Pravilnika dužno je bez odlaganja dostaviti nadležnoj lučkoj kapetaniji.
+Članak 35.
+Lučka kapetanija koja je zaprimila presliku izmjena trajnog zapisa o brodu, izdat će u roku ne duljem od tri mjeseca od datuma izmjene, novi trajni zapis o brodu koji brojčano slijedi prethodno izdani trajni zapis o brodu.
+Članak 36.
+Nadležna lučka kapetanija će izdati trajni zapis o brodu za brod koji je bio upisan u strani upisnik brodova, nakon što joj država čiju je zastavu brod vijao dostavi preslike svih ranijih trajnih zapisa o brodu ili potvrdu da isti nisu bili izdani.
+Članak 37.
+(1) Kada država čiju je zastavu brod vijao ne dostavi preslike svih ranijih trajnih zapisa o brodu ili potvrdu da isti nisu bili izdani u roku od tri mjeseca od datuma brisanja, nadležna lučka kapetanija će izdati trajni zapis o brodu temeljem zadnjeg trajnog zapisa koji se nalazi na brodu.
+(2) Lučka kapetanija će trajnom zapisu o brodu iz stavka 1. ovog članka dodijeliti brojčanu oznaku koja je za dva (2) broja veće od brojčane oznake zadnjeg trajnog zapisa koji se nalazio na brodu.
+(3) Preslik zadnjeg trajnog zapisa o brodu zapovjednik broda ili kompanija iz članka 29. stavak 2. ovog Pravilnika dužno je bez odlaganja dostaviti nadležnoj lučkoj kapetaniji na njen zahtjev.
+(4) Lučka kapetanija će u polje napomena trajnog zapisa o brodu iz stavka 2. ovog članka naznačiti da država čiju je zastavu brod vijao nije dostavila preslike svih ranijih trajnih zapisa o brodu ili potvrdu da isti nisu bili izdani.
+Članak 38.
+(1) Uz prijavu za brisanje broda iz hrvatskog upisnika brodova radi upisa u strani upisnik brodova, podnositelj je dužan izvijestiti nadležnu lučku kapetaniju o državi u čiji će upisnik brod biti upisan.
+(2) Uz potvrdu o brisanju pomorskog objekta iz članka 26. ovog Pravilnika, lučka kapetanija će izdati i novi trajni zapis o brodu s naznakom datuma brisanja iz Upisnika brodova Republike Hrvatske.
+(3) Kada je brod iz stavka 1. ovog članka brisan, lučka kapetanija će u roku ne duljem od mjesec dana dostavit državi u čiji se upisnik brod upisuje preslike svih ranijih trajnih zapisa o brodu ili će izdati i dostaviti potvrdu da isti nisu bili izdani.
+Članak 39.
+U slučaju gubitka ili oštećenja registra statusnih promjena ili pojedinog dijela, zapovjednik broda ili kompanija iz članka 29. stavak 2. ovog Pravilnika dužna je bez odlaganja dostaviti pisani zahtjev za izdavanje preslika nadležnoj lučkoj kapetaniji s popisom izgubljenih ili oštećenih dokumenata.
+V. PRIJELAZNE I ZAVRŠNE

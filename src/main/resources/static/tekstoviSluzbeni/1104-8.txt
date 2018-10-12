@@ -1,0 +1,20 @@
+iz stavka 1. ovoga članka umjesto podataka o završenom Programu izobrazbe upisuju se ekvivalentni podaci o završenim programima i ustanovama koje su ih provele.
+Provjera znanja
+Članak 31.
+(1) Provjeru znanja fizičkih osoba koje ispunjavaju uvjete propisane ovim Pravilnikom provodi Nositelj Programa osposobljavanja putem Ispitnog povjerenstva.
+(2) Nositelj Programa osposobljavanja dužan je omogućiti izlazak na provjeru znanja osobama koje su završile Program izobrazbe u roku od 14 dana nakon završetka Programa izobrazbe. Nositelj Programa osposobljavanja dužan je osigurati provjere znanja najmanje dva puta godišnje.
+(3) Ispitno povjerenstvo se sastoji od tri člana: predsjednika povjerenstva izabranog iz kadra stručnih osoba koje vode teorijski dio izobrazbe i provjere znanja, člana povjerenstva izabranog iz kadra stručnih osoba koje vode teorijski dio izobrazbe i provjere znanja i člana povjerenstva izabranog iz kadra stručnih osoba koje vode praktični dio izobrazbe i provjere znanja.
+(4) Provjeri znanja mogu pristupiti osobe koje ispunjavaju propisane uvjete stručne spreme i radnog iskustva, a koje su završile Program izobrazbe prema ovome Pravilniku. Provjeri znanja osoba može pristupiti najkasnije šest mjeseci nakon završetka Programa izobrazbe.
+(5) Provjeri znanja mogu pristupiti i osobe koje su završile odgovarajući program formalnog obrazovanja odraslih u skladu sa člankom 26. ovog Pravilnika.
+(6) Provjera znanja obuhvaća teorijski i praktični dio. Teorijski dio provjere znanja odnosi se na pismenu provjeru stečenih stručno – teorijskih znanja potrebnih za samostalno obavljanje poslova i obuhvaća pitanja iz svake od nastavnih cjelina teoretskog dijela Programa izobrazbe. Praktični dio provjere znanja odnosi se na demonstraciju samostalnog spajanja fotonaponskog sustava za provjeru stečenih vještina. Samostalno spajanje fotonaponskog sustava obuhvaća: analizu lokacije i procjenu zasjenjenja, analizu potrebnih mjera i primjenu sredstava zaštite na radu (pripremu i uporabu zaštitne radne odjeće za rad na visini), demonstriranje postavljanja FN modula na ravnom i/ili kosom krovu, spajanje elemenata ormara istosmjerne struje (DC ormara) prema tehničkoj dokumentaciji, spajanje ormara izmjenične struje (AC ormara) prema tehničkoj dokumentaciji, spajanje ožičenja sunčane elektrane (FN modul, DC ormar, izmjenjivač i AC ormar), puštanje u pogon i nadzor rada elektrane.
+(7) Kod provođenja provjere znanja Ispitno povjerenstvo vodi zapisnik koji obvezno sadrži:
+1. podatke o osobi koja je pristupila provjeri znanja (ime i prezime, stručnu spremu, datum i mjesto rođenja, osobni identifikacijski broj);
+2. datum provođenja provjere znanja;
+3. ispit koji je osoba rješavala u provjeri teorijskog dijela znanja s ocjenom teorijskog dijela znanja;
+4. izvješće o provjeri praktičnog dijela znanja s ocjenom praktičnog dijela znanja;
+5. konačnu ocjenu provjere znanja »položio« ili »nije položio«;
+6. imena i prezimena članova Ispitnog povjerenstva.
+(8) Smatra se da je osoba položila provjeru znanja ukoliko je položila provjeru teorijskog dijela znanja i praktičnog dijela znanja. Smatra se da je osoba položila provjeru teorijskog dijela znanja ukoliko je osvojila najmanje 70% bodova.
+Smatra se da je osoba položila provjeru praktičnog dijela znanja ukoliko je pravilno izvela praktičnu vježbu samostalnog spajanja fotonaponskog sustava.
+Rezultate provjere znanja objavljuje predsjednik Ispitnog povjerenstva odmah nakon završetka provjere znanja. Osoba koja nije zadovoljna s ocjenom Ispitnog povjerenstva, može odmah nakon objave rezultata provjere znanja uložiti prigovor koji se unosi u zapisnik o tijeku provjere znanja. O prigovoru odlučuje Ispitno povjerenstvo koje po potrebi može odrediti dodatnu provjeru znanja.
+(9) Osobama koje su položile provjeru znanja nakon završenog Programa izobrazbe ili odgovarajućeg programa formalnog obrazovanja odraslih, Nositelj Programa osposobljavanja izdaje Uvjerenje o uspješno završenom Programu izobrazbe u roku od 3 

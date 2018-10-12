@@ -1,0 +1,58 @@
+7 22.01.2016 Pravilnik o pretpostavkama i načinu izbora povjerenika metodom slučajnoga odabira
+MINISTARSTVO PRAVOSUĐA
+91
+Na temelju članka 37. stavka 2. Zakona o stečaju potrošača (»Narodne novine«, broj 100/15.) ministar nadležan za poslove pravosuđa donosi
+PRAVILNIK
+O PRETPOSTAVKAMA I NAČINU IZBORA POVJERENIKA METODOM SLUČAJNOGA ODABIRA
+Sadržaj pravilnika
+Članak 1.
+Ovim Pravilnikom uređuju se pretpostavke i način izbora povjerenika metodom slučajnoga odabira.
+Značenje pojedinih izraza
+Članak 2.
+U smislu ovoga Pravilnika pojedini izrazi imaju sljedeća značenja:
+– algoritam dodjele postupka povjereniku je dio sustava eSpis i skup je definiranih pravila za automatsku nasumičnu dodjelu postupka
+– metoda slučajnoga odabira je način izbora povjerenika korištenjem posebne funkcionalnosti sustava eSpis
+– automatski nasumični izbor je izbor povjerenika na temelju definirane težine postupka, utvrđene šifrarnikom u sustavu eSpis i ukupne težine svih postupaka u kojima je povjerenik imenovan
+– dodijeljena težina postupka je definirana težina postupka koji se dodjeljuje povjereniku unutar sustava eSpis, a koja se iskazuje brojem jedan
+– aktivna uloga je uloga povjerenika od trenutka izbora do trenutka zaključenja postupka stečaja potrošača ili ako je određeno razdoblje provjere ponašanja do pravomoćnosti rješenja o oslobođenju ili uskrati oslobođenja od preostalih obaveza
+– radna opterećenost povjerenika je zbroj težina postupaka na području svih općinskih sudova u kojima povjerenik ima aktivnu ulogu
+– rješavatelj je sudac nadležnog općinskog suda zadužen za rad na spisu.
+Imenovanje
+Članak 3.
+Sud imenuje povjerenika na temelju automatskog nasumičnog odabira koji provodi korištenjem posebne funkcionalnosti u algoritmu sustava eSpis.
+Pretpostavke za izbor povjerenika
+Članak 4.
+Pretpostavke za izbor povjerenika su:
+1. u sustav eSpis unesen popis povjerenika
+2. u sustav eSpis unesena
+– lista povjerenika za područje nadležnosti svakog općinskog suda
+– poslovni broj predmeta.
+Izbor
+Članak 5.
+Izbor povjerenika obavlja se prije donošenja rješenja o otvaranju postupka stečaja potrošača.
+Metoda slučajnoga odabira
+Članak 6.
+(1) Algoritam odabira povjerenika pokreće sud korištenjem jedne od funkcionalnosti unutar sustava eSpis.
+(2) Funkcionalnosti iz stavka 1. ovoga članka su:
+1. slučajni odabir
+2. slučajni odabir uz iznimku.
+Slučajni odabir
+Članak 7.
+Slučajni odabir je način izbora povjerenika prilikom otvaranja postupka stečaja potrošača na način u kojem sud kroz algoritam sustava eSpis određuje povjerenika pokretanjem algoritma slučajnoga odabira s liste povjerenika za područje nadležnog općinskog suda.
+Slučajni odabir uz iznimku
+Članak 8.
+(1) Slučajni odabir uz iznimku je način izbora povjerenika prilikom otvaranja postupka stečaja potrošača, na način u kojem sud kroz algoritam sustava eSpis određuje povjerenika pokretanjem algoritma slučajnoga odabira s liste povjerenika za područje nadležnog općinskog suda izuzećem jedne ili više osoba s liste ili odabirom određenih osoba s liste.
+(2) U slučaju iz stavka 1. ovoga članka obavezno će se unijeti u sustav eSpis razlog korištenja iznimke, a podaci o rješavatelju koji je koristio iznimku, broju povjerenika koji nisu izuzeti i razlozima korištenja iznimke bit će vidljivi na mrežnoj stranici e-Oglasna ploča sudova.
+Dodjela postupka povjereniku
+Članak 9.
+Povjereniku s liste povjerenika nadležnog općinskog suda postupak se dodjeljuje na sljedeći način:
+1. algoritam automatski odabire sve osobe upisane na listu povjerenika
+2. između osoba iz točke 1. ovoga stavka odabiru se tri osobe s najmanjom radnom opterećenošću u trenutku izbora
+3. svakoj od osoba iz točke 2. ovoga stavka sustav automatski određuje konačnu vjerojatnost dodjele na temelju ukupne radne opterećenosti
+4. osobi izabranoj s liste povećava se opterećenje za broj jedan.
+Završna odredba
+Članak 10.
+Ovaj Pravilnik stupa na snagu prvog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/155
+Urbroj: 514-04-01-02-16-01
+Zagreb, 20.

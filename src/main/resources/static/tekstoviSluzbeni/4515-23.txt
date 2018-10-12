@@ -1,0 +1,29 @@
+ neispravnog rada bilo kojeg od prednjih ili stražnjih pokazivača smjera ugasi, ostaje upaljeno bez treptanja ili pokazuje znatnu promjenu frekvencije. Ako emitira samo slušne signale, oni se moraju jasno čuti i moraju pokazati znatnu promjenu frekvencije u slučaju neispravnog rada bilo kojeg od prednjih ili stražnjih pokazivača smjera.
+(14) Učestalost treptanja svjetla pokazivača smjera mora biti 90±30 puta u minuti.
+(15) Od trenutka uključivanja pokazivača smjera, svjetlost pokazivača mora se upaliti najkasnije za jednu sekundu, a prvi put se mora ugasiti najkasnije za jednu i pol sekundu.
+(16) Ako je motorno vozilo opremljeno za vuču prikolice, sklopka pokazivača smjera vučnog vozila mora uključivati i isključivati pokazivače smjera prikolice. U slučaju kvara, osim kratkog spoja, jednoga pokazivača smjera, ostali pokazivači smjera moraju nastaviti sa treptanjem, ali učestalost u tim uvjetima može biti različita od propisane.
+(17) Istodobno uključivanje svih pokazivača smjera na motornom vozilu može se uključivati i automatski nakon postignutog najvećeg usporenja pri kočenju.
+(18) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 50.
+(1) Upozoravajući signal opasnosti mora biti ugrađen na motornim vozilima.
+(2) Upozoravajući signal opasnosti mora se davati istodobnim radom svih pokazivača smjera, a pomoću odvojene sklopke koja omogućava svim pokazivačima smjera treptanje u fazi.
+(3) Za upozoravajući signal opasnosti obvezna je pokazna svjetiljka u vidnom polju vozača.
+(4) Ako je motorno vozilo opremljeno za vuču prikolice, sklopka za upozoravajući signal opasanosti mora pokretati i pokazivače smjera na priključnom vozilu.
+(5) Istodobno uključivanje svih pokazivača smjera mora se pokrenuti i kad je uređaj koji upravlja pokretanjem i zaustavljanjem motora u položaju koji onemogućava rad motora.
+(6) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 51.
+Prostor za vozača i putnike u motornim i priključnim vozilima mora imati unutarnju rasvjetu.
+Članak 52.
+(1) Motorna vozila i priključna vozila koja se zbog konstrukcijskih razloga, na ravnoj cesti ne mogu kretati brzinom većom od 30 km/h ili se na cesti kreću brzinom manjom od 30 km/h kada obavljaju pojedine radove u prometu, moraju biti obilježena znakom »sporo vozilo«, sukladno odredbama Pravilnika ECE-R69.
+(2) Na vozilu iz stavka 1. ovoga članka mora postojati najmanje jedan znak »sporo vozilo«, postavljen na stražnjem dijelu vozila. Ako je na vozilu samo jedan znak »sporo vozilo«, znak mora biti postavljen tako da se nalazi na lijevoj strani vozila.
+(3) Znak »sporo vozilo« mora biti postavljen na visini ne manjoj od 250 mm do donjeg ruba znaka i ne višoj od 1500 mm do gornjeg ruba znaka, mjereći od tla do ruba znaka.
+(4) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 53.
+(1) Teretna motorna vozila najveće dopuštene mase veće od 12000 kg osim tegljača namijenjenih za vuču poluprikolica, moraju biti obilježeni pločom/pločama »teško vozilo« sukladno odredbama Pravilnika ECE– R70.
+(2) Priključna vozila najveće dopuštene mase 10000 kg ili manje čija duljina uključujući duljinu vučne rude prelazi 8 m i priključna vozila najveće dopuštene mase veće od 10000 kg bez obzira na duljinu, moraju biti obilježena pločom/pločama »dugo vozilo« sukladno odredbama Pravilnika ECE-R70.
+(3) Na vozilima iz stavka 1. i 2. ovoga članka mora postojati jedna, dvije ili četiri ploče »dugo vozilo« ili »teško vozilo«, a broj ploča ovisi o mogućnosti njihove montaže na stražnjem dijelu vozila.
+(4) Ploča ili ploče »teško vozilo« ili »dugo vozilo« moraju biti postavljene na visini od najmanje 250 mm do donjeg ruba ploče i najviše do 2100 mm do gornjeg ruba ploče, mjereći od tla do ruba ploče.
+(5) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+5. Uređaji koji omogućuju normalnu vidljivost
+Članak 54.
+(1) Uređaji koji omogućuju

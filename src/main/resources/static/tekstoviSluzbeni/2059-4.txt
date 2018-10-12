@@ -1,0 +1,23 @@
+ robom, osiguravajuća društva i banke. Takva lokacija se uglavnom proteže na malom prostoru od najviše 500 m dužine ulica ili trgova.
+b) Vrlo dobra lokacija – nalazi se blizini središta velikog grada ili u središtu ostalih gradova (naselja) s vrlo dobrom infrastrukturom, vrlo dobre prometne povezanosti s cestovnom mrežom i dovoljno parkirališnog prostora na prihvatljivoj udaljenosti.
+c) Dobra lokacija – nalazi se u velikom gradu ili u blizini središta ostalih gradova (naselja) s dobrom infrastrukturom i dobre prometne povezanosti.
+d) Loša lokacija – nalazi se u naselju s nedovoljnom infrastrukturom, nepovoljne prometne povezanosti, u blizini proizvodnih nekretnina.
+(7) Moguće iznimke od ocjene položaja (lokacije) opisane u stavcima 4. i 6. ovoga članka, potrebno je argumentirati dodatnom analizom prema načelima iz ovoga članka.
+Utjecaj buke i zagađenja zraka
+Članak 15.
+(1) Utjecaj buke na smanjenje vrijednosti nekretnina obuhvaća se koeficijentima iz tablice u Prilogu 6. koja je sastavni dio ovoga Pravilnika, uvažavajući propise kojima se uređuju pitanja zaštite od buke.
+(2) Utjecaj zagađenja zraka na vrijednost nekretnina obuhvaća se koeficijentima iz tablice u Prilogu 7. koja je sastavni dio ovoga Pravilnika, uvažavajući propise kojima se uređuju pitanja zaštite zraka.
+Vrijeme čekanja
+Članak 16.
+(1) Procjena vremena čekanja mora biti odvojena od rizičnih (špekulantskih) razmatranja koja nerealno procjenjuju promjene stanja katastarske čestice zbog promjene kategorije zemljišta izvan stanja koja su utvrđena zakonom, odgovarajućim prostornim planom i iskustvenim podacima o vremenu koje je potrebno za početak građevinskog korištenja na usporedivim područjima.
+(2) Vrijeme čekanja može se utvrditi i kod prve i druge kategorije zemljišta u slučaju da za to postoje pravni i stvarni razlozi kao što su primjerice neriješeni imovinsko-pravni odnosi ili su u tijeku sudski ili upravni postupci koji onemogućuju početak stvarnog korištenja građevne čestice.
+(3) Utjecaj vremena čekanja na vrijednost nekretnine može se izračunati primjenom pravila kamatnog računa prema sljedećem izrazu kojim se poredbena vrijednost diskontira (1/qn = faktori diskontiranja, u tablici iz Priloga 8. koja je sastavni dio ovoga Pravilnika) na sadašnju vrijednost na temelju procijenjenog vremena čekanja i odgovarajuće kamatne stope na nekretnine:
+Vo = (1/qn) × Vn ; q = 1 + p/100
+Vo = sadašnja vrijednost; Vn = konačna vrijednost; n = vrijeme čekanja u godinama; p = kamatna stopa na nekretninu
+Predvidivi ostatak održivog vijeka korištenja
+Članak 17.
+(1) U pravilu za utvrđivanje tržišne vrijednosti nekretnina potrebno je imati u vidu održivi vijek gospodarskog korištenja i predvidivi ostatak održivog vijeka gospodarskog korištenja. Tehnički vijek korištenja (vijek trajanja konstrukcije) je duži od gospodarskog vijeka korištenja. Predvidivi ostatak održivog vijeka korištenja utvrđuje na temelju odbitaka zbog starosti održivog vijeka korištenja.
+(2) Održivi vijek korištenja i predvidivi ostatak održivog vijeka korištenja građevina procjenjuje se prema vrsti i obilježjima građevine, a osobito uzimajući u obzir način gradnje.
+(3) Temelj za odabir prosječnog gospodarskog održivog vijeka korištenja za pojedine vrste građevina mogu biti i odgovarajući podatci iz zemalja članica Europske unije ako su ti podatci javno dostupni. Održivi vijek korištenja uzima se u obzir primarno prema položaju građevine, njenih obilježja i gospodarske iskoristivosti. Vrijednosti održivog vijeka korištenja građevina (OVK) nalaze se u tablici iz Priloga 9. koja je sastavni dio ovoga Pravilnika.
+(4) Prilikom utvrđivanja predvidivog ostatka održivog vijeka korištenja građevina treba razmotriti činjenice vezano uz ispunjavanje zahtjeva za zdravim životnim i radnim uvjetima, sigurnosti na predmetnoj katastarskoj čestici ili utjecaju na ljude koji žive ili rade u okolnom području ili budućim gospodarskim zahtjevima u odnosu na vrstu i opremu građevine.
+(5) Predvidivi ostatak održivog vijeka

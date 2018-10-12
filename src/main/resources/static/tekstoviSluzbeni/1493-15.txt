@@ -1,0 +1,24 @@
+ verifikacije, te dokaznice da su elementi kritični za sigurnost, te zaštitu okoliša i prirode, kao i svi navedeni pogoni u sustavu održavani i u dobrom stanju
+c. opis načina verifikacije iz točke b. ovoga stavka koji uključuje pojedinosti o načelima koja će se primjenjivati za izvršavanje funkcija u okviru sustava i za redovito preispitivanje tijekom rada odobalnog objekta, što uključuje:
+I. ispitivanje elemenata kritičnih za sigurnost, te zaštitu okoliša i prirode od strane neovisnih verifikatora
+II. provjeru projektnih rješenja, normi, certifikata ili drugih sustava sukladnosti elemenata koji su kritični za sigurnost, te zaštitu okoliša i prirode
+III. pregled radova u tijeku
+IV. izvješćivanje o slučajevima nesukladnost
+V. korektivne radnje koje poduzima operator ili vlasnik.
+(4) Rezultati neovisne verifikacije ne dovode u pitanje odgovornost operatora ili vlasnika za pravilno i sigurno funkcioniranje opreme i sustava koji se provjeravaju.
+(5) Odabir neovisnog verifikatora i oblikovanje sustava za neovisnu verifikaciju mora zadovoljavati sljedeće uvjete:
+a. neovisni verifikator nije u obvezi razmatrati elemente koji su kritični za sigurnost, te zaštitu okoliša i prirode, niti dijelove odobalnih objekata koje je razmatrao prije verifikacije ili u slučaju kada bi objektivnost verifikatora mogla biti dovedena u pitanje
+b. neovisni verifikator mora biti neovisan od svih dijelova sustava upravljanja koji su obuhvaćeni sustavom neovisne verifikacije, kako bi se osigurala objektivnost u izvršavanju dužnosti verifikatora u okviru sustava.
+(6) Koordinacija je dužna osigurati da su glede sustava neovisne verifikacije ispunjeni sljedeći uvjeti:
+a. neovisni verifikator mora imati odgovarajuću tehničku sposobnost i dovoljan broj odgovarajuće kvalificiranih zaposlenika, te unutarnju organizaciju i sustav upravljanja kako bi osigurao ispunjavanje obveza iz ovoga Zakona
+b. neovisni verifikator mora raspodijeliti zadaće u okviru sustava neovisne verifikacije zaposlenicima koji su kvalificirani za njihovo izvršavanje
+c. da je uspostavljena komunikacija između operatora ili vlasnika i neovisnog verifikatora.
+(7) Neovisni verifikator mora biti u potpunosti neovisan od Koordinacije, operatora ili vlasnika, kao i ovlaštenika dozvole.
+(8) Operator ili vlasnik dužni su obavijestiti neovisnog verifikatora o bitnim promjenama radi daljnje verifikacije u skladu sa sustavom neovisne verifikacije, a rezultati takve daljnje verifikacije dostavljaju se, putem ovlaštenika dozvole, Koordinaciji.
+(9) Ako je za neovisnu verifikaciju potrebno dostaviti dodatne informacije, ovlaštenik dozvole dužan je na zahtjev Koordinacije, u roku ne dužem od 15 dana, dostaviti sve tražene informacije i izvršiti sve tražene radnje, uključujući promjenu neovisnog verifikatora i/ili sustava neovisne verifikacije.
+(10) Sustavi neovisne verifikacije uspostavljaju se:
+a. glede odobalnih objekata, kako bi se dobila neovisna potvrda da su elementi kritični za sigurnost, te zaštitu okoliša i prirode koji su utvrđeni tijekom procjene rizika za odobalni objekt kako je opisano u izvješću o velikim opasnostima, prikladni i da je raspored pregledavanja i ispitivanja elemenata kritičnih za sigurnost, te zaštitu okoliša i prirode prikladan, ažuriran, te da se primjenjuje kako je planirano
+b. glede obavijesti o radovima u bušotini, kako bi se dobila neovisna potvrda da su projekt bušotine i mjere nadzora bušotine prikladni u svakom trenutku za predviđene uvjete u bušotini.
+(11) Operatori i vlasnici obvezni su odgovoriti na preporuke neovisnog verifikatora i u skladu s njima poduzeti odgovarajuće mjere.
+(12) Ovlaštenik dozvole obvezan je dostaviti Koordinaciji preporuke neovisnog verifikatora, u skladu s odredbama ovoga članka, kao i zapisnik o izvršenim radnjama koje su poduzeli na temelju takvih preporuka, te ih je obvezan čuvati najmanje šest mjeseci nakon završetka odobalnih radova na koje se odnose.
+(13) Operator ili vlasnik je dužan osigurati da se zaključci i primjedbe neovisnog

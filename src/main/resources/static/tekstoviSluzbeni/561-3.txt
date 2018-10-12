@@ -1,0 +1,27 @@
+ udjela UCITS fonda, dužno je procijeniti i njihov rizik likvidnosti.
+Članak 7.
+(1) Instrumenti tržišta novca iz članka 5. stavka 2. točke 2. ovoga pravilnika su oni instrumenti tržišta novca koji zadovoljavaju sljedeće kriterije:
+1. ispunjavaju minimalno jedan od kriterija navedenih u članku 5. stavku 1. ovoga pravilnika i sve kriterije navedene u članku 6. stavku 2. ovoga pravilnika,
+2. za njih su dostupne odgovarajuće informacije koje omogućavaju prikladnu procjenu kreditnog rizika koji je povezan s ulaganjem u takav instrument, uzimajući u obzir stavke 3.,4. i 5. ovoga članka,
+3. slobodno su prenosivi.
+(2) Prilikom procjene likvidnosti instrumenata tržišta novca iz stavka 1. ovoga članka društvo za upravljanje treba uzeti u obzir elemente iz članka 6. stavka 3. ovoga pravilnika.
+(3) Za instrumente tržišta novca iz članka 249. stavka 1. točke 6. podtočaka b) i d) ili za instrumente izdane od lokalne ili regionalne samouprave Republike Hrvatske ili druge države članice ili javne međunarodne organizacije za koje ne jamči država članica, ili izdane od federalne jedinice u slučaju federalne države koja je država članica, odgovarajuća informacija iz stavka 1. točke 2. ovoga članka mora sadržavati:
+1. informacije o izdanju ili programu izdavanja, te o pravnom i financijskom položaju izdavatelja prije izdavanja instrumenta tržišta novca,
+2. ažurirane informacije iz točke 1. ovoga stavka na redovnoj osnovi i u slučaju nastanka značajnog događaja,
+3. informacije iz točke 1. ovoga stavka potvrđene od kvalificirane treće strane, neovisno i bez utjecaja izdavatelja,
+4. dostupne i pouzdane statističke podatke o izdanju ili programu izdavanja.
+(4) Za instrumente tržišta novca iz članka 249. stavka 1. točke 6. podtočke c) Zakona, odgovarajuća informacija iz stavka 1. točke 2. ovoga članka mora sadržavati:
+1. informacije o izdanju ili programu izdavanja, te o pravnom i financijskom položaju izdavatelja prije izdavanja instrumenta tržišta novca,
+2. ažurirane informacije iz točke 1. ovoga stavka na redovnoj osnovi i u slučaju nastanka značajnog događaja,
+3. dostupne i pouzdane statističke podatke o izdanju ili programu izdavanja, ili druge podatke koji omogućavaju procjenu kreditnog rizika koji je povezan s ulaganjem u takav instrument.
+(5) Za instrumente tržišta novca iz članka 249. stavka 1. točke 6. podtočke a) Zakona odgovarajuća informacija iz točke 2. stavka 1. ovoga članka mora sadržavati informacije o izdanju ili programu izdavanja ili informacije o pravnom i financijskom položaju izdavatelja prije izdanja instrumenta tržišta novca.
+(6) U slučaju dužničkih vrijednosnih papira i instrumenata tržišta novca izdanih u tranšama u okviru programa izdanja, za izračun ograničenja ulaganja iz članka 250.d stavka 1. točaka c) i e) Zakona koriste se nedospjeli financijski instrumenti u opticaju.
+Članak 8.
+Smatrat će se da subjekti iz članka 249. stavka 1. točke 6. podtočke c) Zakona podliježu bonitetnom nadzoru nadležnog tijela države članice u skladu s kriterijima definiranim pravom Europske unije odnosno podliježu ili udovoljavaju pravilima nadzora koja su prema mišljenju Agencije barem jednako stroga kao ona propisana pravom Europske unije, ako ispunjavaju jedan od sljedećih kriterija:
+1. sjedište im je u državi potpisnici Ugovora o europskom gospodarskom prostoru,
+2. sjedište im je u zemljama OECD-a koje pripadaju grupi G-10,
+3. imaju investicijski rejting,
+4. na osnovu analize izdavatelja može se dokazati da podliježe bonitetnom nadzoru nadležnog tijela države članice u skladu s kriterijima definiranim pravom Europske unije odnosno pravilima nadzora koja su prema mišljenju Agencije barem jednako stroga kao ona propisana pravom Europske unije.
+Članak 9.
+(1) Posebni subjekti za sekuritizaciju iz Zakona su svi subjekti osnovani s ciljem obavljanja poslova sekuritizacije koji su definirani zakonom kojim se uređuju poslovi sekuritizacije.
+(2) Bankovna kreditna linija iz Zakona odnosi se na bankovnu uslugu za koju jamči financijska institucija

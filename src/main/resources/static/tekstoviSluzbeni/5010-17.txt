@@ -1,0 +1,21 @@
+ dB, a na 4000 Hz manja od 40 dB.
+Prosječan gubitak sluha izračunava se na zračnoj krivulji kao zbroj dobivenih vrijednosti na frekvencijama 500, 1000 i 2000 Hz podijeljen s 3.
+Ocjena sposobnosti donosi se na temelju gubitka sluha bez obzira je li riječ o konduktivnoj, perceptivnoj ili mješovitoj gluhoći. Ako se radi o akustičkoj traumi, uzimaju se u obzir frekvencije na 500, 1000, 2000 i 4000 Hz i njihov zbroj dijeli se sa 4.
+Kada se utvrdi stupanj nagluhosti po F.S. od 60% i više donosi se ocjena 1.
+Na ustrojbenim mjestima s povećanom izloženošću buci obvezna je uporaba osobnih zaštitnih sredstava.
+Ad 49.1. i 49.2 Kada je prisutan i poremećaj sluha ocjena se donosi u skladu s točkom 48.
+Ad Skupina IX. Ocjena zdravstvene sposobnosti donosi se na temelju nalaza nadležnog specijalista, rezultata bolničko-kliničkih ispitivanja i cjelovite obrade.
+Ad 50., 51. Dijagnoza mora biti postavljena na temelju nalaza kardiologa. Za osobe bez funkcionalnih oštećenja donosi se ocjena 4, a kada su prisutna lakša funkcionalna oštećenja ocjena 3. Za utvrđena teža funkcionalna oštećenja donosi se ocjena 1.
+Ad 52. Dijagnoza mora biti postavljena na temelju nalaza kardiologa s točnom specifikacijom srčane mane ili mane velikih krvnih žila. Obvezan ultrazvuk srca. Pod srčanom manom lakog stupnja (ocjena 3) podrazumijeva se da nije praćena EKG promjenama, rtg znacima, UZV promjenama jasnog povećanja pojedinih srčanih struktura i negativnim testovima opterećenja. Za srčane mane težeg stupnja (ocjena 1) postoje neke od navedenih promjena.
+Ad 53. Pod povišenim krvnim tlakom podrazumijevaju se sljedeće vrijednosti arterijskog tlaka: sistolički iznad 140 mm Hg, a dijastolički iznad 90 mm Hg. Ocjena 4 donosi se u slučajevima dobro reguliranog krvnog tlaka bez oštećenja ciljnih organa. Ocjena 3 donosi se u slučajevima trajno povišenog krvnog tlaka uz lakše funkcionalno oštećenje ciljnih organa. Ocjena 1 donosi se u slučajevima trajno povišenog krvnog tlaka uz srednje teško i teže funkcionalno oštećenje ciljnih organa. Ako je utvrđeno trajno povišenje krvnog tlaka obvezno je učiniti ergometriju i nalaz oftalmologa.
+Sve nedovoljno definirane ili granične slučajeve povišenja krvnog tlaka treba uputiti kardiologu na dodatnu obradu.
+Ad 54. Dijagnoza mora biti postavljena u bolnici ili stacionarnoj zdravstvenoj ustanovi. Kod svih srčanih bolesti obvezno je mišljenje kardiologa i cjelovita kardiološka obrada (UZV srca, ergometrija i drugo).
+Ocjena 3 donosi se samo za lakše ishemične bolesti srca i plućne bolesti srca. U svim ostalim slučajevima donosi se ocjena 1.
+Ad 55. Ocjena 3 donosi se u slučajevima lakšeg funkcionalnog oštećenja i bez znakova konstriktivnog sindroma, dok se za utvrđene znakove konstriktivnog sindroma donosi ocjena 1.
+Ad 56. Ocjena 4 donosi se kada je nakon provedenog liječenja stanje bez funkcionalnog oštećenja, ocjena 3 kada je zaostalo lakše funkcionalno oštećenje, a ocjena 1 za utvrđena teža funkcionalna oštećenja.
+Ad 57.2. Ocjena 3 donosi se kada je nakon provedenog liječenja stanje s lakšim funkcionalnim oštećenjem, a ocjena 1 kada je zaostalo teže funkcionalno oštećenje.
+Ad 58. Kada je zdravstvenim pregledom postavljena sumnja u postojanje znakova poremećaja provodnog sustava srca, indicirana je kardiološka obrada uz obveznu ergometriju.
+Uz uredan nalaz ergometrije i QRS kompleks kraći od 0,095 s donosi se ocjena 5.
+Uz patološki nalaz ergometrije ocjena se donosi u skladu s utvrđenim stupnjem poremećaja provodnog sustava:
+Ocjena 4 donosi se kada je prisutna supraventrikularna ekstrasistola, parcijalni blok desne grane s trajanjem QRS kompleksa od 0,095 s do 0,12 s, produljen PQ interval do 0,24 s pri frekvenciji srca ispod 70 u minuti i nodalni ritam koji dobro podnosi test opterećenja. Osim navedenog za donošenje ocjene 4 obvezna je negativna anamneza srčano-žilnog sustava, uredan nalaz ergometrije, uredan UZV srca i nalaz kardiologa.
+Ocjena 3 donosi se kao i za navedeno samo što je prisutan kompletni blok desne grane gdje je duljina

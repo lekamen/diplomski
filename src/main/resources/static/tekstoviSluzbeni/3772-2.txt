@@ -1,0 +1,27 @@
+ ostalih ugljikovodika iz Odjeljka 4. Priloga B. Uredbe (EZ-a) br. 1099/2008, u tonama,
+ZMB – zbroj zaliha motornih benzina, u tonama,
+ZZB – zbroj zaliha benzina za zrakoplove, u tonama,
+ZBMG – zbroj zaliha mlaznog goriva benzinskog tipa, u tonama,
+ZKMG – zbroj zaliha mlaznog goriva kerozinskog tipa, u tonama,
+ZK – zbroj zaliha ostalih kerozina, u tonama,
+ZDG – zbroj zaliha dizelskog goriva za pogon, u tonama,
+ZPU – zbroj zaliha plinskog ulja za grijanje, u tonama,
+ZLU – zbroj zaliha loživog ulja, u tonama.
+(2) HANDA može izabrati koju od formula iz stavka 1. ovoga članka će koristiti za izračun količina obveznih zaliha, ali u tom slučaju se izabrana formula mora koristiti tijekom čitave kalendarske godine.
+(3) Izračunavanje obveznih zaliha može uključivati količine koje se drže u rafinerijskim spremnicima, u skladišnim terminalima, u spremnicima naftovoda, u baržama, u obalnim tankerima, u tankerima u luci, u bunkerima brodova za unutarnju plovidbu, na dnu spremnika, kao operativne zalihe, kod velikih potrošača, u skladu s važećim propisima. Ipak, te se količine, osim onih koje se drže u rafinerijskim spremnicima, u spremnicima naftovoda ili u skladišnim terminalima, ne mogu uključiti u izračunavanje razina posebnih zaliha, ako se takve zalihe izračunavaju odvojeno od obveznih zaliha.
+(4) U izračunavanje obveznih zaliha se ne može uključiti sirova nafta koja još nije proizvedena, količine koje se drže: u cjevovodima, u vagonskim cisternama, u bunkerima brodova za odobalnu plovidbu, na benzinskim crpkama ili prodavaonicama, kod ostalih potrošača, na tankerima koji se nalaze na moru, kao vojne zalihe.
+(5) Kod izračunavanja obveznih zaliha količina zaliha se umanjuje za 10% zbog nepumpabilnog dijela zaliha, ali smanjenje od 10% se ne primjenjuje kada se izračunava razina posebnih zaliha, ako se takve zalihe promatraju odvojeno od obveznih zaliha.
+Članak 6.
+(1) HANDA vodi registar svih obveznih zaliha koje čuva za svoje potrebe i koje ne čine posebne zalihe.
+(2) Registar iz stavka 1. ovoga članka mora sadržavati sve podatke potrebne za određivanje točne lokacije skladišta, rafinerije ili objekta za čuvanje zaliha, kao i njihove količine i strukturu, s upućivanjem na kategorije određeno sukladno Odsjeku 3.1. Priloga C. Uredbe (EZ-a) br. 1099/2008.
+(3) Ministarstvo nadležno za energetiku dužno je dostaviti Europskoj komisiji do 25. veljače svake godine sažetak kopije registra zaliha iz stavka 1. ovoga članka iz kojeg je vidljiva količina i vrsta obveznih zaliha koje su uvrštene u registar na posljednji dan prethodne kalendarske godine.
+(4) Ministarstvo nadležno za energetiku dužno je dostaviti Europskoj komisiji cjelovitu kopiju registra u roku od 15 dana od zahtjeva Europske komisije. U kopiji registra se mogu izostaviti osjetljivi podaci vezani uz lokaciju zaliha.
+(5) Zahtjev iz stavka 4. ovoga članka može se postaviti najkasnije pet godina nakon datuma na koji se odnose zatraženi podaci i ne smije se odnositi na podatke vezane uz razdoblje prije 1. siječnja 2013.
+Članak 7.
+(1) HANDA vodi registar svih posebnih zaliha koje čuva na teritoriju Republike Hrvatske.
+(2) Registar iz stavka 1. ovoga članka sadrži posebice sve podatke potrebne za određivanje točne lokacije posebnih zaliha.
+(3) Ministarstvo nadležno za energetiku dužno je poslati Europskoj komisiji kopiju registra u roku od 15 dana od zahtjeva Europske komisije. U kopiji registra se mogu izostaviti osjetljivi podaci vezani uz lokaciju zaliha.
+(4) Zahtjev iz stavka 3. ovoga članka može se postaviti najkasnije pet godina nakon datuma na koji se odnose zatraženi podaci.
+Članak 8.
+(1) Ministarstvo nadležno za energetiku dužno je svaki mjesec sastaviti i dostaviti Europskoj komisiji konačni statistički sažetak o razini obveznih zaliha koje stvarno čuva na zadnji dan kalendarskog mjeseca, a koje su izračunate ili na temelju broja dana neto uvoza nafte, ili na temelju broja dana domaće potrošnje nafte.
+(2) Statistički sažetak iz stavka 1. ovoga članka mora pružiti precizne i

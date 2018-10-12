@@ -1,0 +1,29 @@
+Imenik se tjedno ažurira.
+2. Ako imatelj PM računa drukčije ne zahtijeva, njegovi se BIC-evi objavljuju u imeniku sustava TARGET2.
+3. Imatelji PM računa mogu proslijediti imenik sustava TARGET2 samo svojim podružnicama i subjektima s pristupom za više adresata.
+4. Subjekti navedeni u stavku 1. točkama (b) i (c) ovog članka mogu upotrebljavati svoj BIC u vezi s jednim imateljem PM računa.
+5. Imatelji PM računa potvrđuju da Hrvatska narodna banka i druge središnje banke mogu objaviti njihova imena i BIC-eve. Osim toga, imena i BIC-evi neizravnih sudionika koje registriraju imatelji PM računa mogu se objaviti te imatelji PM računa osiguravaju da su se neizravni sudionici složili s tom objavom.
+GLAVA III. OBVEZE STRANA
+Članak 11.
+Obveze Hrvatske narodne banke i sudionika
+1. Hrvatska narodna banka nudi usluge opisane u glavi IV. ove Odluke. Osim kada je drukčije uređeno ovom Odlukom ili zakonom, Hrvatska narodna banka poduzima sve razumne mjere u okviru svojih ovlasti kako bi ispunila svoje obveze prema ovoj Odluci, bez jamčenja ishoda.
+2. Sudionici plaćaju Hrvatskoj narodnoj banci naknade utvrđene u Dodatku VI. ove Odluke u valuti navedenoj u tom Dodatku (tj. valuti u kojoj posluje sustav TARGET2).
+3. Sudionici osiguravaju povezanost sa sustavom TARGET2-HR radnim danima u skladu s rasporedom rada iz Dodatka V. ove Odluke.
+4. Sudionik izjavljuje i jamči Hrvatskoj narodnoj banci da ispunjavanjem svojih obveza iz ove Odluke ne čini povredu zakona ili drugog propisa koji se primjenjuje na njega ni bilo kojeg sporazuma koji ga obvezuje.
+Članak 12.
+Suradnja i razmjena informacija
+1. U ispunjavanju svojih obveza i ostvarivanju svojih prava iz ove Odluke Hrvatska narodna banka i sudionici blisko surađuju radi osiguravanja stabilnosti, solidnosti i sigurnosti sustava TARGET2-HR. Hrvatska narodna banka i sudionici međusobno razmjenjuju sve informacije i dokumente relevantne za ispunjavanje svojih obveza i ostvarivanje svojih prava iz ove Odluke, ne dovodeći u pitanje obvezu čuvanja bankovne tajne.
+2. Hrvatska narodna banka uspostavlja i održava podršku sustava radi pomoći sudionicima u vezi s poteškoćama koje proizlaze iz rada sustava.
+3. Najnovije informacije o operativnom stanju SSP-a dostupne su u informacijskom sustavu TARGET2 (T2IS). T2IS može se upotrebljavati za dobivanje informacija o svakom događaju koji utječe na redovan rad sustava TARGET2.
+4. Hrvatska narodna banka može dostaviti poruke sudionicima preko ICM-a ili preko bilo kojeg drugog komunikacijskog sredstva.
+5. Sudionici su odgovorni za pravodobno ažuriranje postojećih obrazaca za prikupljanje statičnih podataka i dostavljanje novih obrazaca za prikupljanje statičnih podataka Hrvatskoj narodnoj banci. Sudionici su odgovorni za provjeru točnosti informacija u vezi s njima koje je u sustav TARGET2-HR unijela Hrvatska narodna banka.
+6. Hrvatska narodna banka je ovlaštena dostaviti nacionalnim središnjim bankama pružateljima SSP-a sve informacije u vezi sa sudionicima koje nacionalne središnje banke pružatelji SSP-a mogu zatrebati kao administratori usluga, u skladu s ugovorom sklopljenim s pružateljem mrežnih usluga sustavu TARGET2.
+7. Sudionici obavješćuju Hrvatsku narodnu banku o svim promjenama svoje sposobnosti i relevantnim zakonodavnim promjenama koje utječu na pitanja obuhvaćena mišljenjem o državi koja se odnose na njih.
+8. Sudionici obavješćuju Hrvatsku narodnu banku o:
+(a) svakom novom neizravnom sudioniku, dostupnom imatelju BIC-a ili subjektu s pristupom za više adresata koji je kod njih registriran i
+(b) svakoj promjeni u vezi sa subjektima navedenima u točki (a) ovog stavka.
+9. Sudionici odmah obavješćuju Hrvatsku narodnu banku ako nastupi slučaj neispunjavanja obveza koji se odnosi na njih.
+GLAVA IV. VOĐENJE PM RAČUNA I OBRADA NALOGA ZA PLAĆANJE
+Članak 13.
+Otvaranje i vođenje PM računa
+1. Hrvatska narodna banka otvara i vodi najmanje jedan PM račun za svakog sudionika. Na zahtjev sudionika koji djeluje kao banka namire, Hrvatska narodna banka otvara u sustavu

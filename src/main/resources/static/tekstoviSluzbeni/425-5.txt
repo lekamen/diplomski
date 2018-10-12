@@ -1,0 +1,32 @@
+ su:
+– kategorija I
+Modul A
+– kategorija II
+Modul A1
+Modul D1
+Modul E1
+– kategorija III
+Modul B1 + D
+Modul B1 + F
+Modul B + E
+Modul B + C1
+Modul H
+– kategorija IV
+Modul B + D
+Modul B + F
+Modul G
+Modul H1
+1.4. Tlačna se oprema podvrgava jednom od postupaka ocjenjivanja sukladnosti za kojeg se proizvođač opredijelio između onih predviđenih za kategoriju u koju je oprema klasificirana. Proizvođač može također primijeniti i postupak koji se odnosi na višu kategoriju ako ona postoji.
+1.5. U okviru postupaka osiguranja kvalitete za opremu iz članka 3. stavka 1. točke 1.1. (a), prve alineje točke 1.1. (b) i točke 1.2. razvrstanu u kategorije III i IV, tijelo za ocjenjivanje sukladnosti je dužno, prilikom nenajavljenih kontrola, uzeti uzorak opreme iz proizvodnje ili skladišta kako bi provelo ili dalo provesti završno ocjenjivanje prema točki 3.2.2. Dodatka I ovoga Pravilnika. Proizvođač je dužan obavijestiti to tijelo o utvrđenom rasporedu proizvodnje. Tijelo za ocjenjivanje sukladnosti dužno je provesti najmanje dvije kontrole za vrijeme prve godine proizvodnje. Učestalost sljedećih kontrola određuje tijelo za ocjenjivanje sukladnosti na temelju kriterija utvrđenih u točki 4.4. odgovarajućih modula za ocjenjivanje sukladnosti iz Dodatka III ovoga Pravilnika.
+1.6. U slučaju jednokratne proizvodnje posuda i opreme navedene u članku 3. stavku 1. točki 1.2. razvrstanih u kategoriju III, modul H, tijelo za ocjenjivanje sukladnosti je dužno provesti ili dati provesti završno ocjenjivanje za svaku jedinicu, kao što je navedeno u točki 3.2.2. Dodatka I ovoga Pravilnika. U tu svrhu, proizvođač je dužan obavijestiti tijelo za ocjenjivanje sukladnosti o utvrđenom rasporedu proizvodnje.
+(2) Sklopovi iz članka 3. stavka 2. ovoga Pravilnika podvrgavaju se postupku ocjenjivanja sukladnosti koji obuhvaća:
+(a) ocjenjivanje svakog elementa tlačne opreme koji pripada sklopu i koji je naveden u članku 3. stavku 1. ovoga Pravilnika, a koji nije prethodno bio zasebno podvrgnut postupku ocjenjivanja sukladnosti i dobio oznaku CE; postupak ocjenjivanja sukladnosti utvrđuje se prema kategoriji svakog elementa opreme
+(b) ocjenjivanje objedinjenosti raznih komponenata sklopa, kao što je navedeno u točkama 2.3., 2.8. i 2.9. Dodatka I ovoga Pravilnika, koja se provodi uzevši u obzir najvišu kategoriju za dotičnu opremu, pri čemu se ne uzimaju u obzir dijelovi sa sigurnosnom funkcijom
+(c) ocjenjivanje zaštite sklopa od prekoračenja dopuštenih radnih parametara, kao što je navedeno u točkama 2.10. i 3.2.3. Dodatka I ovoga Pravilnika, koja se mora provesti za najvišu kategoriju primjenjivu na elemente opreme koju treba zaštititi.
+(3) Nadležno inspekcijsko tijelo može dopustiti stavljanje na tržište i u uporabu pojedinačne tlačne opreme i sklopova iz članka 1. ovoga Pravilnika na koje nisu primijenjeni postupci iz stavka 1. i 2. ovoga članka, a čija je uporaba namijenjena za potrebe eksperimenata.
+(4) Zapisi i prepiska u vezi s ocjenom sukladnosti moraju biti na službenom jeziku države u kojoj je registrirano tijelo za ocjenjivanje sukladnosti odgovorno za provođenje ovih postupaka ili na jeziku koji je to tijelo prihvatilo.
+EUROPSKO ODOBRENJE ZA MATERIJALE
+Članak 10.
+(1) Europsko odobrenje za materijale iz članka 1. točka 2.9., na zahtjev jednog ili više proizvođača materijala ili opreme, izdaje tijelo za ocjenjivanje sukladnosti iz članka 11. posebno ovlašteno za ove poslove. To će tijelo odrediti i provesti ili organizirati provedbu odgovarajućih pregleda i ispitivanja kako bi potvrdilo sukladnost tipa materijala s odgovarajućim zahtjevima ovoga Pravilnika. Za tipove materijala koji su ocijenjeni sigurnim za uporabu prije 29. studenoga 1999., tijelo za ocjenjivanje sukladnosti dužno je kada potvrđuje sukladnost uzeti u obzir postojeće podatke.
+(2) Prije izdavanja Europskog odobrenja za materijale, tijelo za ocjenjivanje sukladnosti je dužno obavijestiti Komisiju i države članice Europske unije (u daljnjem tekstu države članice).
+(3) Primjerak Europskog odobrenja

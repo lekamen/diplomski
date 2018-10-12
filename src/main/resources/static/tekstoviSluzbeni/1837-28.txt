@@ -1,0 +1,24 @@
+ više od 25 osoba, ne manja od 10,0 kN za splavi za spašavanje koje su odobrene za smještaj 9 do 25 osoba, i ne manja od 7,5 kN za druge splavi za spašavanje.
+6.8.3.3 Ručno upravljiva svjetiljka mora se postaviti na najviši vrh šatora ili strukture splavi za spašavanje. Svjetlo mora biti bijele boje i mora svijetliti neprekidno ne manje od 12 sati jačinom svjetlosti ne manje od 4.3 cd u svim smjerovima gornje polukugle. Međutim, ako je svjetlo bljeskajuće, tada mora bljeskati ne manje od 50 i ne više 70 puta u minuti za vrijeme 12 sati rada uz jednaku jačinu svjetlosti. Svjetiljka mora automatski zasvijetliti kad je šator podignut. Baterije moraju biti otporne na vlagu.
+6.8.3.4 Ručno upaljiva svjetiljka mora se postaviti unutar splavi za spašavanje uz mogućnost neprekinutog rada najmanje 12 sati. Mora zasvijetliti automatski kad se šator podigne i mora biti dovoljne jačinu osvjetljenosti ne manje od 0.5 cd kada se mjeri iznad unutarnje polutke i mora omogućiti čitanje uputa za preživljavanje. Baterije moraju biti otporne na vlagu i vodu koja se može pojaviti unutar spremnika.
+6.8.4 Splavi za spašavanje koje se spuštaju sohom
+6.8.4.1 Uz naprijed navedene zahtjeve, splavi za spašavanje koje se spuštaju uređajem za spuštanje moraju:
+.1 izdržati udar o bok broda s ukupnim brojem osoba i opreme pri brzini splavi za spašavanje u smjeru okomitom na bok broda ne manjoj od 3,5 m/s, te bacanje u vodu s visine od najmanje 3 m bez oštećenja koje može utjecati na njezinu upotrebljivost;
+.2 imati sredstva za pričvršćivanje splavi uz bok broda na palubi za ukrcaj, i za sigurno pričvršćenje tijekom ukrcaja.
+6.8.4.2 Izvedba splavi za spašavanje koja se spušta sohom na putničkom brodu, mora omogućiti brzo ukrcavanje ukupnog broja osoba za koje je odobrena.
+6.8.4.3 Izvedba splavi za spašavanje koja se spušta sohom na teretnom brodu, mora omogući brzo ukrcavanje ukupnog broja osoba u ne više od 3 minute, računajući od trenutka davanja naredbe za ukrcaj.
+6.8.5 Oprema
+6.8.5.1 Splav za spašavanje mora imati:
+.1 plutajući kolut za izbavljivanje, pričvršćen za plutajuće uže duljine ne manje od 30 m;
+.2 nesklopivi nož s ručicom od plutajućeg materijala, koji može plutati na vodi, pričvršćen konopčićem i smješten u džepu s vanjske strane šatora blizu mjesta pričvršćenja vezaljke za splav za spašavanje. Dodatno, splavi za spašavanje u kojima se može smjestiti 13 i više osoba moraju imati drugi nož koji može biti sklopiv;
+.3 plutajući ispolac za splav u koju se može smjestiti do 12 osoba; dva ispolca za splav u koju se može smjestiti 13 i više osoba;
+.4 dvije spužve;
+.5 dva zavlačna sidra, svako s užetom koje može izdržati trzaje i užetom za povrat sidra, od kojih je jedno rezervno, a drugo pričvršćeno za splav za spašavanje, tako da pri napuhivanju splavi, nakon njezina spuštanja u vodu održava splav za spuštanje stabilnom na vjetru. Čvrstoća svakog zavlačnog sidra, sidrenog užeta i užeta za povrat, ako postoji, mora odgovarati svim uvjetima na moru. Zavlačna sidra moraju imati sredstva za sprečavanje uvijanja užeta, te moraju biti izvedbe koja osigurava da se ne zapliću između svojih pripona. Na splavima za spašavanje koje se spuštaju sohom kao i na splavima za spašavanje na putničkim brodovima, zavlačna sidra moraju biti takve izvedbe da se samo ručno otpuštaju. Sve druge splavi za spašavanje moraju imati zavlačno sidro koje se automatski otpušta kada se splav napuše.
+.6 dva plutajuća vesla;
+.7 tri otvarača za limenke i škare. U tu svrhu mogu se koristiti noževi sigurnosne izvedbe s posebnim otvaračima za limenke;
+.8 pribor za prvu pomoć u vodonepropusnoj kutiji koja se nakon korištenja može ponovo vodonepropusno zatvoriti;
+.9 zviždaljku ili neko drugo jednakovrijedno sredstvo za zvučnu signalizaciju;
+.10 četiri rakete s padobranom, koje udovoljavaju zahtjevima navedenim u 6.7.1;
+.11 šest ručnih buktinja, koje udovoljavaju zahtjevima navedenim u 6.7.2;
+.12 dva plutajuća dimna signala, koja udovoljavaju zahtjevima navedenim u 6.7.3;
+.13 vodonepropusnu

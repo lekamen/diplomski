@@ -1,0 +1,24 @@
+ povratku prometnik vlakova, a iznimno izvršni radnik željezničkog prijevoznika, mora prednajaviti vožnju vlaka izvršnom radniku za osiguranje prometa na ŽCP-ima.
+(14) Nakon povratka vlaka s pruge daje se odjava prometniku vlakova koji je dao dopuštenje za otpremu vlaka do nekog mjesta na otvorenoj pruzi fonogramom.
+(15) Sadržaj fonograma i način komuniciranja prometnika vlakova te izvršnih radnika željezničkih prijevoznika, upravitelj infrastrukture dužan je propisati općim aktom.
+(16) Detaljne odredbe o prometu vlaka do nekog mjesta na otvorenoj pruzi upravitelj infrastrukture dužan je propisati uputom u skladu s važećim voznim redom.
+(17) Materijalni vlak se na međukolodvorski odsjek na kojem radi otprema prema uvjetima iz ovog članka te mora imati najmanje jednog izvršnog radnika za praćenje vlaka i sve popratne isprave vlaka. Materijalni vlak otprema se isključivo u uvjetima zatvorene pruge, a umjesto broja označava se slovima MV.
+(18) Upravitelj infrastrukture može otpremati manevarske sastave na otvorenu prugu isključivo u uvjetima zatvorene pruge.
+(19) Uvjete kretanja materijalnih vlakova i manevarskih sastava na zatvorenoj pruzi odnosno kolosijeku upravitelj infrastrukture dužan je propisati općim aktom.
+Potiskivanje vlaka
+Članak 153.
+(1) Vlak se može potiskivati samo zakvačenom potiskivalicom.
+(2) Potiskivanje vlaka dopušteno je samo na prugama odnosno pružnim dionicama koje je odredio upravitelj infrastrukture, a koje je dužan objaviti u Izvješću o mreži.
+(3) Automatska kočnica potiskivalice mora biti spojena s automatskim kočnicama vlaka.
+(4) Potiskivanje vlaka dopušteno je samo na prugama odnosno pružnim dionicama s polumjerima horizontalnog luka većima od 220 metara.
+(5) Sila kojom se vlak potiskuje može iznositi najviše 150 kN u odbojnicima. Na osnovi te sile i drugih parametara pruge određuje se i najveće opterećenje potiskivalice.
+(6) Samo jedna električna lokomotiva može se uporabiti za potiskivanje.
+(7) Ako se za potiskivanje uporabe dvije dizelske lokomotive, njihova ukupna sila potiskivanja u odbojnicima ne smije biti veća od 150 kN.
+(8) Odbojničke osi vozila u vlaku koji se potiskuje i odbojničke osi lokomotiva mogu imati razliku do 85 milimetara, a kvačenje se obavlja tako da se odbojnici dodiruju.
+(9) U vlak koji se potiskuje ne smiju se uvrstiti vagoni ukupne mase od 10 tona ili manje, vagoni s niskim podom za prijevoz kamiona, neradne motorne garniture, motorna pružna vozila, vagoni zakvačeni krutim kvačilom, vagoni međusobno spojeni teretom te drugi vagoni za koje je u prijevoznim uvjetima zabranjeno potiskivanje.
+(10) Sporazumijevanje između strojovođe u voznoj lokomotivi i potiskivalici obavlja se propisanim signalnim znakovima osoblja vučnog vozila ili sredstvima sporazumijevanja u skladu s tehničkim mogućnostima.
+Vožnja pomoćnog vučnog vozila i pomoćnog vlaka
+Članak 154.
+(1) Prije otpreme pomoćnog vučnog vozila odnosno pomoćnog vlaka do vlaka kojem se pruža pomoć odnosno do ugroženog mjesta na otvorenoj pruzi, prometnik vlakova traži dopuštenje od prometnika vlakova u susjednom kolodvoru na odnosnom međukolodvorskom odsjeku, pri čemu se pomoćno vučno vozilo evidentira PVV–1, PVV–2, itd., a pomoćni vlak PVL–1, PVL–2, itd. Na jednak način upisuju se i podaci u popratne isprave vlaka.
+(2) Prometnici vlakova prije otpreme pomoćnog vučnog vozila odnosno pomoćnog vlaka moraju se dogovoriti u koji kolodvor se vlak odnosno pomoćni vlak povlači ili gura s otvorene pruge te o drugim sigurnosnim mjerama i u skladu s tim izmjenjuju fonograme dopuštenja.
+(3) Za pomoćni vlak ispostavljaju se potrebne popratne isprave vlaka, a za pomoćno vučno vozilo samo pisani nalog. Pomoćnom vučnom vozilu odnosno pomoćnom vlaku u kolodvoru se daje pisani nalog o točnom kilometarskom položaju čela ili kraja vlaka koji je tražio pomoć odnosno o točnom kilometarskom položaju ugroženog mjesta, o načinu osiguranja ulaska vlaka u kolodvor te o drugim sigurnosnim mjerama. U pisanom nalogu koji se ispostavlja za pomoćno vučno vozilo

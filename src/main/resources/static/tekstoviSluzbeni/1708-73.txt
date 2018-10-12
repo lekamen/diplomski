@@ -1,0 +1,30 @@
+ naknade neće prelaziti iznos rezerviranja. U računu dobiti i gubitka može biti prikazan rashod u vezi s rezerviranjem umanjen za priznat iznos naknade.
+16.30. Rezerviranja treba pregledati na svaki datum bilance i uskladiti ih tako da odražavaju najbolju tekuću procjenu. Ako više nije vjerojatno da će podmirivanje obveze zahtijevati odljev resursa koji utjelovljuju ekonomske koristi, rezerviranje se treba ukinuti. Pri tome treba voditi računa da se rezerviranje treba ukinuti samo za izdatke za koje je rezerviranje izvorno priznato.
+16.31. Ostali poslovni rashodi uključuju, primjerice, inventurne manjkove, kazne, prodaja dugotrajne imovine, gubitak od prestanka poslovanja i slično.
+16.32. Prihodi ili rashodi od prestanka priznavanja dugotrajne imovine priznaju se u skladu s HSFI 15 – Prihodi i klasificiraju se kao ostali poslovni rashodi.
+Financijski rashodi
+16.33. Poduzetnik će u Računu dobiti i gubitka prikazati financijske rashode grupirane kao:
+a) kamate, tečajne razlike i slične troškove iz odnosa s povezanim poduzetnikom, i
+b) kamate, tečajne razlike i slične troškove iz odnosa s nepovezanim poduzetnikom.
+16.34. Troškovi posudbe mogu uključiti:
+a) kamate na prekoračenja na bankovnom računu, kratkoročne i dugoročne posudbe,
+b) amortizaciju diskonta ili premije vezane na posudbu,
+c) amortizaciju pomoćnih troškova koji nastaju u svezi s aranžmanima posudbe,
+d) financijske troškove financijskog najma,
+e) tečajne razlike nastale posudbama u stranoj valuti, u iznosu u kojem se smatraju usklađivanjem troškova kamata.
+16.35. Troškovi posudbe priznaju se kao rashod u razdoblju u kojem su nastali, osim ako se kapitaliziraju u skladu s točkom 16.36.
+16.36. Kamate i drugi troškovi posudbe, koji se izravno mogu pripisati stjecanju, izgradnji ili proizvodnji kvalificirane imovine (za koju je potrebno znatno vremensko razdoblje, više od jedne godine, da bi bila spremna za namjeravanu upotrebu ili prodaju), mogu kapitalizirati kao dio troška nabave te imovine.
+16.37. Tečajne razlike proizašle iz podmirivanja monetarnih stavki ili izvještavanja o monetarnim stavkama po tečajevima različitim od onih po kojima su bile početno evidentirane tijekom razdoblja ili prikazane u prošlim financijskim izvještajima, trebaju se priznati u računu dobiti i gubitka razdoblja u kojem nastaju.
+16.38. Tečajne razlike proizašle iz monetarne stavke koja čini dio neto ulaganja poduzetnika u inozemno poslovanje treba se priznati u računu dobiti i gubitka u odvojenim financijskim izvještajima izvještajnog poduzetnika ili posebnim financijskim izvještajima inozemnog poduzetnika, ovisno o tome što je prikladnije. U financijskim izvještajima koji uključuju inozemno poslovanje i izvještajni poduzetnik (npr. konsolidirani financijski izvještaji kada inozemno poslovanje predstavlja podružnicu), takve tečajne razlike trebaju se početno priznati kao zasebna stavka kapitala i rezervi i priznati u računu dobiti i gubitka kod prodaje neto ulaganja.
+16.39. Nerealizirani gubici (rashodi) s osnove promjene fer vrijednosti i troška umanjenja financijske imovine priznaju se sukladno HSFI 15 – Prihodi.
+OBJAVLJIVANJA
+16.40. U bilješkama će poduzetnik objaviti:
+a) Razloge umanjenja pojedine vrste imovine i metode primijenjene pri utvrđivanju umanjenja,
+b) Bruto iznos nastalih prihoda i rashoda povezanih s otuđenjem dugotrajne imovine (alternativa: bruto iznos prihoda i rashoda za stavke uključene u račun dobiti i gubitka na neto osnovi)
+c) Objašnjenja iznosa prikazanih kao ostali rashodi
+d) Opis, iznos i očekivano vrijeme odljeva ekonomskih koristi vezanih uz rezerviranja,
+e) Iznos kamata i drugih troškova posudbe kapitaliziran tijekom razdoblja,
+f) Neto tečajne razlike klasificirane kao zasebnu komponentu kapitala,
+g) Iznos nastalih troškova i priznate gubitke po ugovorima o izgradnji,
+h) Nepredviđene najamnine priznate kao rashod u razdoblju,
+i) Sve druge informacije zahtijevane drugim standardima ili važne korisnicima financijskih izvještaja za pravilno i potpuno sagledavanje 

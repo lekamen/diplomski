@@ -1,0 +1,41 @@
+123 11.11.2015 Pravilnik o obavljanju stručnih geodetskih poslova u komasaciji
+DRŽAVNA GEODETSKA UPRAVA
+2352
+Na temelju članka 43. stavka 3. Zakona o komasaciji poljoprivrednog zemljišta (»Narodne novine«, br. 51/15) ravnatelj Državne geodetske uprave donosi
+PRAVILNIK
+O OBAVLJANJU STRUČNIH GEODETSKIH POSLOVA U KOMASACIJI
+DIO PRVI UVODNA ODREDBA
+Predmet Pravilnika
+Članak 1.
+Ovim Pravilnikom propisuje se način i radnje koje osobe ovlaštene za obavljanje stručnih geodetskih poslova (u daljnjem tekstu: izvođač stručnih geodetskih poslova) obavljaju u svrhu izvođenja komasacije.
+DIO DRUGI STRUČNI GEODETSKI POSLOVI U KOMASACIJI
+Radnje u obavljanju stručnih geodetskih poslova u komasaciji
+Članak 2.
+U postupku komasacije izvođač stručnih geodetskih poslova sukladno članku 42. stavku 1. i članku 43. Zakona o komasaciji poljoprivrednog zemljišta (»Narodne novine«, br. 51/15 – u daljnjem tekstu – Zakon), obavlja sljedeće radnje:
+1. Prikuplja i obrađuje podatke o katastarskim česticama
+2. Obilježava na terenu granicu komasacijskog područja ili komasacijske gromade i snima stalne objekte unutar granice komasacijskog područja
+3. Sudjeluje u usklađivanju katastarskog i zemljišnoknjižnog stanja sa stvarnim stanjem
+4. Sudjeluje u procjeni zemljišta
+5. Izrađuje projekt mreže poljoprivrednih putova
+6. Sastavlja iskaze zemljišta o stanju prije komasacije i sudjeluje u njegovom izlaganju na javni uvid
+7. Izrađuje prijedlog nadiobe komasacijske gromade
+8. Obilježava na terenu projektiranu putnu i kanalsku mrežu
+9. Sudjeluje u javnoj raspravi za nadiobu zemljišta, obilježava granice komasiranih čestica i sudjeluje u uvođenju sudionika komasacije u posjed komasiranog zemljišta
+10. Sastavlja iskaze zemljišta nakon komasacije i sudjeluje u njihovu izlaganju i rješavanju prigovora na sadržaj iskaza
+11. Izrađuje planove komasacijskog područja
+12. Izrađuje tehnički elaborat komasacije
+13. Sastavlja nacrt rješenja o komasaciji.
+Terenske radnje i mjerenja
+Članak 3.
+U obavljanju pojedinih radnji iz članka 2. ovoga Pravilnika izvođač stručnih geodetskih poslova provodi terenske radnje i mjerenja.
+Prikupljanje i obrada podataka o katastarskim česticama
+Članak 4.
+(1) U postupku prikupljanja podataka o katastarskim česticama obuhvaćenim komasacijskim područjem izvođač stručnih geodetskih poslova podnosi zahtjev katastarskom uredu za izdavanje digitalnog katastarskog plana u HTRS96/TM-u i podataka iz knjižnog dijela katastarskog operata, a od nadležnog zemljišnoknjižnog odjela preuzima zemljišnoknjižne podatke.
+(2) Za područje obuhvaćeno komasacijom izvođač stručnih geodetskih poslova može koristiti Hrvatsku osnovnu kartu (HOK), topografsku kartu M = 1:25000 (TK25), digitalni model reljefa (DMR) i digitalnu ortofotokartu (DOF2/DOF5).
+Obilježavanje na terenu granica komasacijskog područja i snimanje stalnih objekata unutar granice komasacijskog područja
+Članak 5.
+(1) Lomne točke granice komasacijskog područja prikazane na preglednoj karti, koja je sastavni dio idejnog projekta komasacije, obilježavaju se vidljivim trajnim oznakama.
+(2) Snimanje lomnih točaka granice komasacijskog područja iz stavka 1. ovoga članka obavlja se u skladu s propisima kojima se uređuje državna izmjera i katastar nekretnina.
+(3) Granica komasacijskog područja ucrtava se na digitalnim katastarskim planovima iz članka 4. stavka 1. ovoga Pravilnika.
+(4) U slučaju kad se granica komasacijskog područja ne podudara s granicama katastarskih čestica, potrebno je odvojiti dijelove čestica koji pripadaju komasacijskom području od dijelova koji su izvan komasacijskog područja ili komasacijske gromade. Kada je potrebno, izvođač stručnih geodetskih poslova, u okviru izrade tehničkog elaborata komasacije, izrađuje i odgovarajući parcelacijski elaborat (rubna parcelacija) u skladu s propisima kojima se uređuje državna izmjera i katastar nekretnina.
+(5) Ukoliko je razlika površine stvarnog stanja pojedine katastarske čestice iz stavka 4. ovoga članka i površine evidentirane katastarske čestice u

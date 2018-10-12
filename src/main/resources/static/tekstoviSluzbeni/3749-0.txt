@@ -1,0 +1,40 @@
+42 04.05.2016 Metodologija za utvrđivanje naknade za priključenje na toplinsku distribucijsku mrežu i za povećanje priključne snage
+HRVATSKA ENERGETSKA REGULATORNA AGENCIJA
+1098
+Na temelju članka 11. stavka 1. točke 9. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12) i članka 34. stavka 2. Zakona o tržištu toplinske energije (»Narodne novine«, broj 80/13, 14/14 i 95/15) Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 29. travnja 2016. donijela
+METODOLOGIJU
+ZA UTVRĐIVANJE NAKNADE ZA PRIKLJUČENJE NA TOPLINSKU DISTRIBUCIJSKU MREŽU I ZA POVEĆANJE PRIKLJUČNE SNAGE
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovom Metodologijom za utvrđivanje naknade za priključenje na toplinsku distribucijsku mrežu i za povećanje priključne snage (u daljnjem tekstu: Metodologija) određuje se struktura troškova za utvrđivanje naknade za priključenje na distribucijsku mrežu i za povećanje priključne snage, koja se sastoji od troškova:
+– građenja priključka,
+– pripremno-završnih radova i
+– izvanrednog stvaranja tehničkih uvjeta u distribucijskoj mreži.
+(2) Ovu Metodologiju dužni su primjenjivati:
+– distributer toplinske energije,
+– ovlašteni izvođač priključka i
+– naručitelj priključka.
+Članak 2.
+(1) Izrazi koji se koriste u ovoj Metodologiji imaju značenja utvrđena zakonima kojima se uređuje energetski sektor, regulacija energetskih djelatnosti i tržište toplinske energije, područje prostornog uređenja, gradnje i građevnih proizvoda, kao i propisima donesenim na temelju tih zakona.
+(2) U ovoj Metodologiji koriste se i izrazi koji u smislu ove Metodologije imaju sljedeće značenje:
+1. investitor priključka – distributer toplinske energije,
+2. izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži – gradnja novih dijelova distribucijske mreže koja nije planirana u planu razvoja distribucijske mreže,
+3. naknada za priključenje na distribucijsku mrežu i za povećanje priključne snage – naknada koja se plaća distributeru toplinske energije za priključenje zgrade/građevine na distribucijsku mrežu, a obračunava se i naplaćuje sukladno odredbama ove Metodologije i ugovora o priključenju na distribucijsku mrežu,
+4. naručitelj priključka – proizvođač toplinske energije, investitor zgrade/građevine ili krajnji kupac,
+5. ovlašteni izvođač priključka – pravna ili fizička osoba koju je distributer toplinske energije ovlastio za građenje priključka, izvođenje pripremno-završnih radova i za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži,
+6. priključak – toplovod, vrelovod i/ili parovod koji spaja distribucijsku mrežu s toplinskom podstanicom, toplinskom stanicom ili građevinom za proizvodnju toplinske energije,
+7. spojni vod proizvođača toplinske energije – toplovod, vrelovod i/ili parovod koji spaja građevinu za proizvodnju toplinske energije s toplinskom stanicom, odnosno distribucijskom mrežom, a koji gradi, održava i njime upravlja proizvođač toplinske energije.
+II. TROŠKOVI GRAĐENJA PRIKLJUČKA
+Članak 3.
+Troškovi građenja priključka (TGP) obuhvaćaju troškove nabave potrebnog materijala i opreme te troškove izvođenja građevinskih, strojarskih, elektrotehničkih, geodetskih i drugih radova.
+Članak 4.
+(1) Građenje priključka obavlja distributer toplinske energije ili ovlašteni izvođač priključka.
+(2) Naručitelj priključka može odabrati svoga izvođača za građenje priključka, a distributer toplinske energije dužan mu je dati jednokratno ovlaštenje za građenje tog priključka, ako izvođač ispunjava uvjete za obavljanje djelatnosti građenja prema posebnom zakonu.
+III. TROŠKOVI PRIPREMNO-ZAVRŠNIH RADOVA
+Članak 5.
+Troškovi pripremno-završnih radova (TPZR) sastoje se od troškova za:
+– izradu projektne dokumentacije,
+– provjeru usklađenosti građenja priključka s glavnim projektom,
+– ispitivanje ispravnosti i nepropusnosti priključka,
+– izvođenje radova na ugradnji mjerila toplinske energije i druge mjerne, regulacijske i sigurnosne opreme u toplinskoj stanici ili toplinskoj podstanici,
+– stručni nadzor građenja

@@ -1,0 +1,29 @@
+40 30.04.2016 Uredba o izmjenama Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu
+VLADA REPUBLIKE HRVATSKE
+1048
+Na temelju članka 4. stavka 2., članka 7. stavka 5. i članka 16. stavka 6. Zakona o državnoj informacijskoj infrastrukturi (»Narodne novine«, broj 92/14), Vlada Republike Hrvatske je na sjednici održanoj 28. travnja 2016. godine donijela
+UREDBU
+O IZMJENAMA UREDBE O ORGANIZACIJSKIM I TEHNIČKIM STANDARDIMA ZA POVEZIVANJE NA DRŽAVNU INFORMACIJSKU INFRASTRUKTURU
+Članak 1.
+U Uredbi o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu (»Narodne novine«, broj 103/15), u članku 5. stavci 1. i 2. mijenjaju se i glase:
+»(1) CDU priprema Godišnji plan rada i razvoja DU-a (u daljnjem tekstu: Godišnji plan) te ga dostavlja radi prethodne suglasnosti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske, koje ga predlaže Vijeću na donošenje.
+(2) Svaki projekt DU-a upisuje se u javni Registar za koordinaciju projekata izgradnje državne informacijske infrastrukture (u daljnjem tekstu: Registar ProDII) i odobrava od strane Vijeća na temelju preporuke središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske.«.
+Članak 2.
+U članku 6. stavak 7. mijenja se i glasi:
+»(7) Detaljan opis sustava visoko dostupne okoline te razine dostupnosti usluga bit će opisani u posebnom poglavlju Kataloga. CDU priprema Katalog te ga prezentira središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske. Vijeće donosi Katalog na temelju prijedloga središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske.«.
+Članak 3.
+U članku 7. stavak 1. mijenja se i glasi:
+»(1) Korisnici usluga CDU-a su tijela javnog sektora. CDU priprema Plan integracije informacijskih sustava tijela javnog sektora te ga dostavlja radi prethodne suglasnosti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske, koje ga predlaže Vijeću na donošenje.«.
+Članak 4.
+U članku 17. riječi: »Javni registar« zamjenjuju se riječju: »Registar«.
+Članak 5.
+U članku 25. stavci 1., 2. i 3. mijenjaju se i glase:
+»(1) CDU će pripremiti Godišnji plan iz članka 5. stavka 1. ove Uredbe i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske do kraja prosinca za iduću godinu, koje će Godišnji plan uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
+(2) CDU će pripremiti Katalog iz članka 6. stavka 7. ove Uredbe i prezentirati središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od dana stupanja na snagu ove Uredbe, koje će Katalog uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
+(3) CDU će pripremiti Plan integracije iz članka 7. stavka 1. ove Uredbe i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od dana stupanja na snagu ove Uredbe, koje će Plan integracije uputiti Vijeću radi donošenja u daljnjem roku od 30 dana od dana izdavanja prethodne suglasnosti.«.
+Članak 6.
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. svibnja 2016. godine.
+Klasa: 022-03/16-03/19
+Urbroj: 50301-09/06-16-2
+Zagreb, 28. travnja 2016.
+Predsjednik Tihomir Orešković, v. r.

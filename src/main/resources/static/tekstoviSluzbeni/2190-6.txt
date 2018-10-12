@@ -1,0 +1,21 @@
+ ovlaštenim korisnicima modula ePlanovi te se ne objavljuju u javnom dijelu ISPU-a.
+Ispravak greške stručnog izrađivača
+Članak 23.
+(1) Ako prilikom unosa u modul ePlanovi elektronički oblik prijedloga prostornog plana ne prođe formalnu računalnu kontrolu ispravnosti ugrađenu u modul ePlanovi i/ili se gml, odnosno shp datoteke ne prikažu u ISPU na ispravan način, stručni izrađivač obvezan je bez naknade ispraviti greške i osigurati ispravan prikaz najkasnije u roku od 3 radna dana prije početka javne rasprave.
+(2) Ako prilikom unosa u modul ePlanovi elektronički oblik prostornog plana ne prođe formalnu računalnu kontrolu ispravnosti ugrađenu u modulu ePlanovi i/ili se gml, odnosno shp datoteke ne prikažu u modulu ePlanovi na ispravan način, stručni izrađivač obvezan je bez naknade ispraviti greške i osigurati ispravan prikaz najkasnije u roku od petnaest dana od dana objave odluke o donošenju prostornog plana.
+(3) Ako zavod utvrdi da prostorni plan iz članka 12. stavka 3. ove Uredbe nije topološki uređen i georeferenciran na odgovarajući način, stručni izrađivač obvezan je bez naknade ispraviti greške i dostaviti zavodu uređeni plan najkasnije u roku od trideset dana od dana dostave pisanog zahtjeva zavoda.
+Dostava podataka
+Članak 24.
+Dostava podataka u elektroničkom obliku prema ovoj Uredbi ne isključuje obvezu dostave analognih podataka propisanu drugim propisom.
+Izjava o sukladnosti
+Članak 25.
+(1) Uz analogni i elektronički zapis prostornog plana, odnosno drugog dokumenta nositelj izrade prostornog plana dostavlja izjavu o sukladnosti elektroničkog i analognog zapisa prostornog plana, odnosno drugog dokumenata.
+(2) Izjavu o sukladnosti iz stavka 1. ovoga članka potpisuje ovlaštena osoba nositelja izrade prostornog plana i odgovorni voditelj izrade nacrta prijedloga prostornog plana.
+Dostava prostornih planova izrađenih u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova
+Članak 26.
+(1) Nositelj izrade prostornog plana izrađenog u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova, a koji je plan donesen nakon stupanja na snagu ove Uredbe, obvezan je dostaviti mjesno nadležnom zavodu elektronički zapis tog plana, u roku od petnaest dana od dana objave odluke o njegovom donošenju.
+(2) Nositelj izrade izmjena i/ili dopuna prostornog plana izrađenih u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova koje su donesene nakon stupanja na snagu ove Uredbe, obvezan je dostaviti mjesno nadležnom zavodu elektronički zapis pročišćenog teksta odredbi za provedbu prostornog plana objavljenog nakon stupanja na snagu ove Uredbe i pripadajući grafički dio prostornog plana u elektroničkom obliku u roku od petnaest dana od dana objave pročišćenog teksta.
+(3) Vektorski zapis grafičkih dijelova prostornog plana iz stavaka 1. i 2. ovoga članka stručni izrađivač je obvezan nositelju izrade na njegov zahtjev dostaviti uređen u skladu člankom 12. stavkom 3. ove Uredbe, bez naknade.
+Dostava dijelova prostornih planova izrađenih u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova
+Članak 27.
+(1) Zavodi su obvezni dostaviti Hrvatskom zavod za prostorni razvoj elektroničke zapise karata l, 2 i 3 prostornih planova područja posebnih obilježja, prostornih planova županije i prostornih planova uređenja grada ili općine izrađenih u skladu s pravnim pravilima Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova, koje su važeće na dan stupanja na snagu ove Uredbe na digitalnom mediju u GeoTlFF formatu, georeferencirane u službenoj kartografskoj projekciji

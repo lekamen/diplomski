@@ -1,0 +1,25 @@
+ kao sigurnosno orijentirani na postizanje funkcije kritične za sigurnost;
+c) sigurnosna kategorija tri (SC – 3) obuhvaća SSK koji su klasificirani kao sigurnosno orijentirani i nisu namijenjeni za postizanje funkcije kritične za sigurnost;
+d) sigurnosna kategorija četiri (SC – 4) obuhvaća SSK koji nisu klasificirani kao sigurnosno orijentirani i nisu namijenjeni za postizanje funkcije kritične za sigurnost.
+(3) Funkcija kritična za sigurnost kao što je navedeno u prethodnom stavku označava funkciju gubitka koji može značajno ugroziti obranu po dubinskoj ili sigurnosnoj margini, odnosno može se značajno povećati rizik.
+(4) Kategorizacija treba:
+a) biti u skladu s rezultatima i nalazima vjerojatnosnih sigurnosnim procjenama (VSP) postrojenja; VSP se provodi visoko – kvalitetnim, neovisno verificiranim i odgovarajuće detaljnim načinom i treba, kao minimum, pokrivati teške nesreće uzrokovane unutarnjim događajima tijekom pogona elektrane;
+b) odrediti važnost SSK za postizanje funkcija kritičnih za sigurnost kroz cjelovit i sustavan pristup koji obuhvaća pokretanje događaja, SSK i stanja elektrane uključujući i one koji nisu obuhvaćeni sa VSP. Proces treba uzeti u obzir stvarno stanje elektrane, s unutarnjim i vanjskim pogonskim iskustvima. Funkcije kritične za sigurnost trebaju uključivati funkcije u projektno baznim događajima, nesrećama i teškim nesrećama;
+c) biti u skladu s obranom u dubinskom načelu;
+d) obuhvaćenim analizama jamčiti odgovarajuću razinu pouzdanosti i postojanja odgovarajućih sigurnosnih margina za sve SSK kategorije SC – 3 i na zanemariv doprinos kategorizacije na povećanja rizika od topljenja jezgre i velikih ispuštanja;
+e) pokrivati cijeli sustav i strukture, a ne samo odabrane dijelove sustava i strukture.
+(5) Iskusni stručnjaci upoznati s nuklearnom elektranom trebaju minimalno napraviti kategorizaciju s VSP, drugim vrstama sigurnosne analize, pogona elektrane, specifikacijama osnova projekta i projekta sustava.
+2.3 Primjena kategorizacije
+(1) Procjena SSK u kategorijama SC – 1 ili SC – 2 treba potvrditi njihovu mogućnost da ostvare svoje funkcije kako nalažu njihove kategorije.
+(2) SSK kategorizirani u SC – 3 trebaju biti u stanju postići svoje funkcije s odgovarajućom pouzdanošću tijekom radnog vijeka u svim okolnostima određenim u osnovama projekta.
+(3) SSK u kategorijama SC – 3 ili SC – 4 ne podliježu zahtjevima utvrđenim za njihove sigurnosne klasifikacije u potpoglavlju 2.1. Priloga 1. ovog Pravilnika.
+2.4 Uvjeti za strukture, sustave i komponente
+Neuspjeh SSK niže sigurnosne klase iz potpoglavlja 2.1. Priloga 1. ovog Pravilnika ne smiju uzrokovati neuspjeh SSK više sigurnosne klase. Isti uvjet odnosi se na pomoćne sustave koji podržavaju sigurnost vezane opreme.
+2.5 Kvalifikacijski program struktura, sustava i komponenti
+(1) Nositelj odobrenja u nuklearnoj elektrani dužan je usvojiti i provesti program osposobljavanja za sigurnosne SSK.
+(2) Nositelj odobrenja u nuklearnoj elektrani treba primjenjivati kvalifikacijski program iz prethodnog stavka kako bi potvrdio sposobnost SSK da ostvari svoje projektne funkcija tijekom cijelog radnog vijeka projekta.
+(3) SSK kvalifikacijski program uključuje prikupljanje, dokumentiranje i održavanje podataka kako bi potvrdili sposobnost SSK kako bi postigli svoje projektne funkcije tijekom cijelog radnog vijeka projekta.
+(4) Kvalifikacijski program iz prethodnog stavka treba razmotriti pogonske uvjete kao što su vibracije, temperatura, tlak, utjecaj mlaza vode, elektromagnetski poremećaji, zračenje, vlaga, potres i njihove kombinacije. Pogonski uvjeti moraju obuhvatiti normalne uvjete za pogon tijekom cijelog vijeka trajanja projekta i uvjeta, predviđenih pogonskih pojava, osnovi projekta ili teških nesreća.
+(5) Kvalifikacijski program za SSK mora verificirati da:
+a) instalirani ili ugrađeni u SSK ispunjava kvalifikacijske uvjete (tj. specifikacije);
+b) instalirani ili ugrađeni u SSK je osposobljen u skladu s međunarodnim standardima, kao što su pokazali

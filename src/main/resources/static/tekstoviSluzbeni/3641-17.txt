@@ -1,0 +1,27 @@
+ ugašenih uvjeta i uklanjanje ostatne topline iz jezgre i skladištenje istrošenog goriva te praćenje ključnih parametara postrojenja, uključujući i uvjete pohrane istrošenog goriva.
+1.10 Energetsko napajanje tijekom izvanredne situacije
+Izvor energetskog napajanja tijekom izvanredne situacije treba biti u mogućnosti opskrbiti potrebnu energiju sigurnosno vezanom sustavu i komponentama u svim stanjima postrojenja i tijekom projektom predviđenog događaja. Isto je potrebno postići u slučaju jednostrukog kvara i ukupnog gubitka vanjskog napajanja.
+1.11 Sustavi za rukovanje radioaktivnim otpadom
+(1) Projektom je potrebno omogućiti pohranu istrošenog goriva i procedure uključene u prijevoz gorivih elemenata iz postrojenja. Potrebno je osigurati hlađenje ozračenog goriva. U svakom trenutku treba biti dostupna mogućnost uklanjanja cjelokupne jezgre iz reaktora.
+(2) Projektom je potrebno osigurati skladištenje ozračenog goriva na duži vremenski period. Projekt sustava za rukovanje istrošenim gorivom i radioaktivnim otpadom treba:
+a) spriječiti nenamjernu kritičnost kroz fizička sredstva, npr. kroz odgovarajuću geometriju ili trajnim apsorberima neutrona;
+b) minimalizirati rizik od gubitka goriva ili oštećenja, spriječiti padove teških predmeta i prekomjerno opterećenje gorivih elemenata;
+c) skladištenje oštećenih gorivih elemenata, kontrola kemijskih uvjeta i aktivnosti hlađenja i pružanje periodičkih nadzora i provjeravanje goriva;
+d) odgovarajuća fizička zaštita od krađe ili sabotaže i verifikacije identiteta pojedinih elemenata goriva.
+(3) Projektiranje i pogon nuklearne elektrane treba smanjiti volumen nastalog radioaktivnog otpada. Sustavi za rukovanje radioaktivnim otpadom trebaju smanjiti otpuštanje i pratiti propisane granice kroz nadzor i praćenje. Za čvrsti i tekući radioaktivni otpad, potrebno je osigurati sustav za rukovanje i skladištenje na licu mjesta.
+(4) Kako bi se smanjila izloženost osoblja i radioaktivna otpuštanja u okoliš, projektom je potrebno osigurati zaštitu i sustave radioaktivnog raspada. Potrebno je osigurati sredstva za mjerenje radioaktivnog ispuštanja u okoliš kao što su uzorkovanje i praćenje ispuštanja.
+(5) Projektom je potrebno osigurati sredstva za rukovanje radioaktivnim otpadom, prikupljanje, obradu, skladištenje i transport od mjesta. Sustav za rukovanje tekućim radioaktivnim otpadom treba osigurati detekciju propuštanja i hvatanje otpuštenih tvari.
+2. SIGURNOSNA KLASIFIKACIJA I KATEGORIZACIJA STRUKTURA, SUSTAVA I KOMPONENTI
+2.1 Sigurnosna klasifikacija struktura, sustava i komponenti
+(1) Svaki SSK treba biti klasificiran u sigurnosnu klasu prema njegovoj sigurnosnoj važnosti. SSK je potrebno projektirati, proizvesti i održavati kako bi osigurali pouzdanost i kvalitetu primjerenu važnosti SSK za sigurnost.
+(2) Klasifikaciju SSK u klasama sigurnosti prema njihovoj važnosti za sigurnost potrebno je temeljiti na analizama nuklearne sigurnosti provedenim uporabom determinističkih metoda i nadopunjena vjerojtanosnim metodama i inženjerskom procjenom.
+(3) Za svaku sigurnosnu klasu, sigurnosnom klasifikacijom potrebno je odrediti:
+a) propise i standarde koji se primjenjuju za projektiranje, proizvodnju, postavljanje i nadzor;
+b) uvjete za izvor napajanja za izvanredne situacije i SSK usklađenosti s predviđenim okolišnim uvjetima.
+c) dostupnost/nedostupnost sustava potrebnih za postizanje sigurnosne funkcije prilikom pokretanja događaja pretpostavljenih u sigurnosnim analizama uporabom determinističkih metoda;
+d) uvjete za osiguranje kvalitete.
+2.2 Kategorizacija struktura, sustava i komponenti
+(1) SSK može se kategorizirati.
+(2) SSK kategorizacija znači klasifikaciju SSK u četiri sigurnosne kategorije prema njihovoj važnosti za rizike određenih vjerojatnosnom sigurnosnom procjenom:
+a) sigurnosna kategorija jedan (SC – 1) obuhvaća SSK koji su klasificirani kao sigurnosno orijentirani na postizanje funkcije kritične za sigurnost;
+b) sigurnosna kategorija dva (SC – 2) obuhvaća SSK koji nisu klasificirani

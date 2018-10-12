@@ -1,0 +1,38 @@
+70 24.06.2015 Pravilnik o provedbi sustava poljoprivrednih knjigovodstvenih podataka
+MINISTARSTVO POLJOPRIVREDE
+1346
+Na temelju članka 8. stavka 2. i članka 126. stavaka 2., 3. i 7. Zakona o poljoprivredi (»Narodne novine«, br. 30/15.) ministar poljoprivrede donosi
+PRAVILNIK
+O PROVEDBI SUSTAVA POLJOPRIVREDNIH KNJIGOVODSTVENIH PODATAKA
+Članak 1.
+(1) Ovim se Pravilnikom propisuju način i uvjeti provedbe Sustava poljoprivrednih knjigovodstvenih podataka – Farm Accountancy Data Network (u daljnjem tekstu: FADN), koji obuhvaća provedbu godišnjeg istraživanja o strukturi, proizvodnji, prihodima i rashodima poljoprivrednika (u daljnjem tekstu: FADN istraživanje), institucije koje sudjeluju u organizaciji i provedbi FADN istraživanja te uvjeti za davanje anonimiziranih individualnih rezultata FADN istraživanja.
+(2) Za potrebe provedbe FADN-a iz stavka 1. ovoga članka, ovim Pravilnikom se utvrđuju specifične odredbe u smislu uredbi Europske unije, i to:
+– Uredbe Vijeća (EZ) br. 1217/2009 od 30. studenoga 2009. o uspostavi sustava za prikupljanje knjigovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gospodarstava u Europskoj zajednici (SL L 328, 15. 12. 2009.) kako je posljednji put izmijenjena Uredbom (EU) br. 1318/2013 Europskog parlamenta i Vijeća od 22. listopada 2013. o izmjeni Uredbe Vijeća (EZ) br. 1217/2009 o uspostavi sustava za prikupljanje knjigovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gospodarstava u Europskoj zajednici (SL L 340, 17. 12. 2013.), (u daljnjem tekstu: Uredba Vijeća (EZ) br. 1217/2009)
+– Provedbene uredbe Komisije (EU) br. 2015/220 оd 3. veljače 2015. o utvrđivanju pravila za primjenu Uredbe Vijeća (EZ) br. 1217/2009 o uspostavi sustava za prikupljanje knjigovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gospodarstava u Europskoj uniji (SL L 46, 19. 2. 2015.), (u daljnjem tekstu: Provedbena uredba Komisije (EU) br. 2015/220).
+Članak 2.
+U organizaciji i provedbi FADN istraživanja sudjeluju:
+– Savjetodavna služba
+– Državni zavod za statistiku.
+Članak 3.
+(1) Savjetodavna služba obavlja poslove agencije za sustav poljoprivrednih knjigovodstvenih podataka (engl. Liaison Agency) sukladno odredbama članka 7. Uredbe Vijeća (EZ) br. 1217/2009.
+(2) Osim poslova navedenih u članku 7. stavku 1. Uredbe Vijeća (EZ) br. 1217/2009 i članku 3. stavku 2. Provedbene uredbe Komisije (EU) br. 2015/220 poslovi iz stavka 1. ovoga članka obuhvaćaju:
+– izradu plana organizacije i provedbe FADN istraživanja
+– izradu obrazaca i uputa za prikupljanje podataka u FADN istraživanju
+– prikupljanje podataka na reprezentativnom uzorku poljoprivrednika
+– obradu i kontrolu podataka FADN istraživanja
+– ustroj i vođenje baze podataka FADN-a
+– izradu individualnih izvještaja za poljoprivrednike u FADN-u
+– izračun standardnih rezultata FADN istraživanja
+– izradu izvještaja o provedbi FADN istraživanja
+– komunikaciju s Europskom komisijom.
+Članak 4.
+(1) Državni zavod za statistiku utvrđuje okvir za klasifikaciju poljoprivrednika, područje FADN istraživanja i veličinu reprezentativnog uzorka poljoprivrednika.
+(2) Klasifikacija poljoprivrednika određuje se pomoću kriterija: ekonomske veličine, tipa poljoprivredne proizvodnje i pripadnosti područnoj FADN jedinici.
+(3) Područje FADN istraživanja uključuje poljoprivrednike čija je ekonomska veličina jednaka ili veća od praga propisanog u Prilogu I. Provedbene uredbe Komisije (EU) br. 2015/220.
+(4) Reprezentativni uzorak poljoprivrednika je broj poljoprivrednika u FADN istraživanju koji se utvrđuje statističkim metodama sukladno odredbama članaka 4., 5., 6. i 7. Provedbene uredbe Komisije (EU) br. 2015/220.
+Članak 5.
+(1) Sukladno odredbama članka 6. Uredbe Vijeća (EZ) br. 1217/2009 Nacionalni FADN odbor (u daljnjem tekstu: FADN odbor) čine predstavnici:
+– ministarstva nadležnog za poljoprivredu (u daljnjem tekstu: Ministarstvo), pet članova
+– Savjetodavne službe, tri člana
+– Državnog zavoda za statistiku, dva člana
+–

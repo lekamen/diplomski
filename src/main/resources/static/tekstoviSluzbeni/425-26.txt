@@ -1,0 +1,30 @@
+ kvalitete kako bi utvrdilo zadovoljava li zahtjeve iz točke 4.2. Pretpostavlja se da su elementi sustava kvalitete, koji su u skladu s odgovarajućim hrvatskim normama, u skladu s odgovarajućim zahtjevima iz točke 4.2.
+Najmanje jedan član tima za ocjenjivanje mora imati iskustva u ocjenjivanju tehnologija proizvodnje tlačne opreme. Postupak ocjenjivanja mora uključivati inspekcijsku posjetu prostorima proizvođača.
+Proizvođača se mora obavijestiti o rezultatima pregleda. Obavijest mora sadržavati zaključke provjera i obrazloženu odluku o ocjeni, te upute o pravnom lijeku.
+4.4. Proizvođač se obvezuje ispuniti obveze koje proizlaze iz odobrenog sustava kvalitete i osigurati da bude zadovoljavajući i učinkovit.
+Proizvođač ili njegov ovlašteni zastupnik s nastanom u Europskoj uniji mora obavijestiti tijelo za ocjenjivanje sukladnosti koje je odobrilo sustav kvalitete o bilo kakvim promjenama koje namjerava izvršiti na sustavu kvalitete.
+Tijelo za ocjenjivanje sukladnosti mora ocijeniti predložene promjene i odlučiti hoće li izmijenjeni sustav kvalitete i dalje zadovoljavati zahtjeve iz točke 4.2. ili je potrebno ponovno izvršiti postupak ocjenjivanja.
+Svoju odluku mora dostaviti proizvođaču. Obavijest mora sadržavati zaključke ispitivanja te obrazloženu odluku o ocjeni.
+5. Nadzor u nadležnosti tijela za ocjenjivanje sukladnosti
+5.1. Svrha je nadzora provjera izvršava li proizvođač pravilno obveze koje proizlaze iz odobrenog sustava kvalitete.
+5.2. Proizvođač mora tijelu za ocjenjivanje sukladnosti u svrhu inspekcije dopustiti pristup mjestima proizvodnje, kontrole, ispitivanja i skladištenja te pružiti sve potrebne informacije, a posebno:
+– dokumentaciju o sustavu kvalitete
+– tehničku dokumentaciju
+– zapise vezane za kvalitetu, kao što su inspekcijski izvještaji i podaci o ispitivanjima, podaci o umjeravanju te izvještaji koji se odnose na kvalifikacije i odobrenja pojedinog osoblja, itd.
+5.3. Tijelo za ocjenjivanje sukladnosti mora provoditi periodična ocjenjivanja kako bi bilo sigurno da proizvođač održava i primjenjuje sustav kvalitete te mora proizvođaču dostaviti izvještaj o ocjenjivanju. Učestalost periodičnih ocjenjivanja mora biti takva da se svake tri godine u cijelosti provede ponovni postupak.
+5.4. Pored toga, tijelo za ocjenjivanje sukladnosti može nenajavljeno posjetiti proizvođača. Potreba za tim dodatnim posjetima i njihova učestalost određuje se na temelju plana kontrolnih posjeta koji donosi tijelo za ocjenjivanje sukladnosti. U okviru plana kontrolnih posjeta moraju se posebno uzeti u obzir:
+– kategorija opreme
+– rezultati prethodnih kontrolnih posjeta
+– potreba da se učine ispravke
+– posebni uvjeti vezani uz odobrenje sustava, gdje je to primjereno
+– značajne promjene u organizaciji, načinu proizvodnje ili tehnologiji.
+Za vrijeme takvih posjeta, ako je potrebno, tijelo za ocjenjivanje sukladnosti može provesti ili dati provesti ispitivanja kako bi provjerilo djelotvornost sustava kvalitete. Tijelo za ocjenjivanje sukladnosti mora proizvođaču dostaviti izvještaj o posjeti te izvještaj ispitivanja ako je ono provedeno.
+6. Deset godina nakon proizvodnje posljednjeg komada tlačne opreme, proizvođač mora moći staviti na raspolaganje sljedeće:
+– tehničku dokumentaciju iz točke 2.
+– dokumentaciju iz druge alineje točke 4.1.,
+– promjene iz točke 4.4.,
+– odluke i izvještaje tijela za ocjenjivanje sukladnosti koje su navedene u točkama 4.3., 4.4., 5.3. i 5.4.
+7. Tijelo za ocjenjivanje sukladnosti mora dostaviti ministarstvu nadležnom za gospodarstvo i nadležnim inspekcijskim tijelima i državama članicama odgovarajuće informacije koje se odnose na povučena odobrenja za sustav kvalitete, a na zahtjev i o izdanim odobrenjima za sustav kvalitete.
+Tijelo za ocjenjivanje sukladnosti mora također dostaviti drugim tijelima za ocjenjivanje sukladnosti odgovarajuće informacije o povučenim ili izdanim odobrenjima za sustav kvalitete.
+Modul F (ovjera proizvoda)
+1. Ovim se modulom opisuje postupak kojim proizvođač ili njegov ovlašteni 

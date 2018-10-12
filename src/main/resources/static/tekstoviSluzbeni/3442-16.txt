@@ -1,0 +1,26 @@
+ datum početka proizvodnje.
+3.3. Provjere posuda
+Prijavljeno tijelo provodi ili daje provesti provjeru posuda na nasumično odabranim uzorcima i u nasumično odabranim razmacima koje samo određuje, zbog provjeravanja kvalitete unutarnjih provjera posuda, uzimajući u obzir između ostalog njihovu tehničku složenost i količinu proizvodnje. Ispituje se odgovarajući uzorak završnih posuda koje prijavljeno tijelo uzima na licu mjesta prije stavljanja na tržište te se provode odgovarajuća testiranja u skladu s relevantnim dijelovima usklađenih normi i/ili slična testiranja utvrđena u drugim relevantnim tehničkim specifikacijama kako bi se provjerila sukladnost posude s tipom opisanom u potvrdi o EU ispitivanju tipa i relevantnim zahtjevima ovoga Pravilnika.
+Prijavljeno tijelo također osigurava da proizvođač uistinu provjerava posude koje se proizvode u serijama u skladu s točkom 3.2.3. alineja 3.
+Ako uzorak nije u skladu s prihvatljivom razinom kvalitete, prijavljeno tijelo poduzima odgovarajuće mjere.
+Svrha postupka prihvaćanja uzorka koji se primjenjuje je utvrditi da li je postupak proizvodnje posude u prihvatljivim granicama, kako bi se osigurala njezina sukladnost.
+Prijavljeno tijelo dostavlja primjerak izvješća o kontroli koje je izdalo državi članici koja ga je prijavila i na zahtjev ostalim prijavljenim tijelima, državama članicama i Komisiji.
+Na odgovornost prijavljenog tijela proizvođač tijekom proizvodnje stavlja identifikacijski broj tog tijela.
+3.4. Oznaka CE i EU izjava o sukladnosti
+3.4.1. Proizvođač stavlja oznaku CE navedenu u ovome Pravilniku na svaku pojedinu posudu koja je u skladu s tipom opisanim u potvrdi o EU ispitivanju tipa i koja ispunjava primjenjive zahtjeve iz ovoga Pravilnika.
+3.4.2. Proizvođač sastavlja pisanu EU izjavu o sukladnosti za svaki model posude i stavlja je na raspolaganje nadležnom inspekcijskom tijelu u razdoblju od deset godina nakon stavljanja posude na tržište. U EU izjavi o sukladnosti navodi se model posude za koji je ta izjava sastavljena.
+3.4.3. Kopija EU izjave o sukladnosti na zahtjev se stavlja na raspolaganje relevantnim tijelima.
+3.5. Ovlašteni zastupnik
+Obveze proizvođača iz točke 3.4. ovoga Dodatka u njegovo ime i na njegovu odgovornost može ispuniti njegov ovlašteni zastupnik ako su one navedene u ovlaštenju.
+4. SUKLADNOST S TIPOM NA TEMELJU UNUTARNJE KONTROLE PROIZVODNJE (MODUL C)
+4.1. Sukladnost s tipom na temelju unutarnje kontrole proizvodnje dio je postupka ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 4.2. i 4.3. ovoga Dodatka te jamči i izjavljuje da su dotične posude u skladu s tipom opisanim u potvrdi o EU ispitivanju tipa i da ispunjavaju zahtjeve ovoga Pravilnika koji se primjenjuju na njih.
+4.2. Proizvodnja
+Proizvođač poduzima sve potrebne mjere kako bi se postupkom proizvodnje i nadzorom nad njim osigurala sukladnost proizvedenih posuda s odobrenim tipom opisanim u potvrdi o EU ispitivanju tipa i sa zahtjevima ovoga Pravilnika koji se primjenjuju na njih.
+Prije početka proizvodnje proizvođač prijavljenom tijelu koje je izdalo potvrdu o EU ispitivanju tipa osigurava sve potrebne informacije, a posebno:
+– potvrde o primjerenosti postupaka zavarivanja i primjerenoj kvalifikaciji zavarivača ili operatera za zavarivanje;
+– zapisnik o kontroli materijala korištenih u proizvodnji dijelova i komponenata koji pridonose čvrstoći posude;
+– izvješće o provedenim ispitivanjima i testiranjima;
+– dokument u kojem se opisuje postupak proizvodnje i sve unaprijed određene sustavne mjere koje su poduzete da bi se osigurala sukladnost posuda s tipom opisanim u potvrdi o EU ispitivanju tipa. Taj dokument sadrži:
+• opis načina proizvodnje i obavljanja provjera prikladnih za izradu posuda;
+• dokument o kontroli u kojem su opisana odgovarajuća ispitivanja i testiranja koja treba provesti tijekom proizvodnje, zajedno s njihovim postupcima i učestalošću njihove provedbe;
+• obavezu provođenja ispitivanja i testiranja u skladu s dokumentom o kontroli te provođenja

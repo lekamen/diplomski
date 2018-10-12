@@ -1,0 +1,48 @@
+ u bilančnoj grupi.
+Članak 48.
+(1) Ukoliko tržišni sudionik koji ima status voditelja bilančne grupe prestane sudjelovati na tržištu električne energije, članovi njegove tržišne bilančne grupe, ukoliko namjeravaju nastaviti sudjelovati na tržištu električne energije, u obvezi su postati voditelji svojih tržišnih bilančnih grupa ili se pridružiti nekoj od postojećih tržišnih bilančnih grupa ili među sobom odabrati novog voditelja bilančne grupe.
+(2) Operator tržišta bez odgode obavještava operatora prijenosnog sustava o svim promjenama u bilančnim grupama.
+V. EVIDENCIJA UGOVORNIH OBVEZA
+Članak 49.
+(1) Operator tržišta evidentira ugovorne obveze koje proizlaze iz sljedećih ugovora sklopljenih na tržištu električne energije:
+– ugovora o kupoprodaji električne energije,
+– ugovora vezanih uz sustav poticanja proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije,
+– ugovora o nabavi električne energije za pokriće gubitaka u prijenosnoj mreži,
+– ugovora o nabavi električne energije za pokriće gubitaka u distribucijskoj mreži,
+– ugovora o pružanju energije za kompenzacijski plan razmjene,
+– ugovora o pružanju pomoćnih usluga,
+– ugovora o pružanju usluge uravnoteženja,
+– ugovora o odgovornosti za odstupanje,
+– ugovora o članstvu u bilančnoj grupi,
+– ugovora o sudjelovanju na tržištu električne energije i
+– ugovora o uređivanju odnosa između operatora sustava i opskrbljivača.
+(2) Ugovorima iz stavka 1. od alineje 1. do 7. ovoga članka određeni su proizvodi za trgovanje na tržištu električne energije.
+Članak 50.
+Operator prijenosnog sustava dostavlja Operatoru tržišta podatke o ugovornim obvezama koje proizlaze iz sklopljenih ugovora iz članka 49. alineje 3., 5., 6, 7., 8. i 11. ovih Pravila, na način i u rokovima utvrđenim ugovorom iz članka 33. ovih Pravila.
+Članak 51.
+Operator distribucijskog sustava dostavlja Operatoru tržišta podatke o ugovornim obvezama koje proizlaze iz sklopljenih ugovora iz članka 49. alineje 4., 6. i 11. ovih Pravila, na način i u rokovima utvrđenim ugovorom iz članka 33. ovih Pravila.
+VI. UGOVORNI RASPOREDI
+Članak 52.
+Ugovorni raspored EKO bilančne grupe sadrži:
+– ukupni plan proizvodnje električne energije od povlaštenih proizvođača u sustavu poticanja koji su članovi EKO bilančne grupe,
+– plan kupoprodaje električne energije unutar Republike Hrvatske raspoređen po tržišnim sudionicima,
+– plan prekogranične kupoprodaje električne energije raspoređen po tržišnim sudionicima i granicama Republike Hrvatske posebno za uvoz i posebno za izvoz,
+– plan kupoprodaje električne energije zaključene na burzi,
+– plan kupoprodaje električne energije s operatorom prijenosnog sustava i
+– plan kupoprodaje električne energije s operatorom distribucijskog sustava.
+Članak 53.
+Ugovorni raspored proizvođača sadrži:
+– ukupni plan proizvodnje električne energije u vlastitim proizvodnim objektima,
+– plan kupoprodaje električne energije unutar Republike Hrvatske raspoređen po tržišnim sudionicima,
+– plan prekogranične kupoprodaje električne energije raspoređen po tržišnim sudionicima i granicama Republike Hrvatske posebno za uvoz i posebno za izvoz,
+– plan kupoprodaje električne energije zaključene na burzi,
+– plan kupoprodaje električne energije za gubitke, za kompenzacijski plan razmjene te za uravnoteženje elektroenergetskog sustava s operatorom prijenosnog sustava i
+– plan kupoprodaje električne energije s operatorom distribucijskog sustava.
+Članak 54.
+Ugovorni raspored opskrbljivača sadrži:
+– plan isporuke električne energije sumarno za krajnje kupce,
+– raspored preuzimanja udjela električne energije proizvedene od povlaštenih proizvođača u sustavu poticanja,
+– plan kupoprodaje električne energije unutar Republike Hrvatske raspoređen po tržišnim sudionicima,
+– plan prekogranične kupoprodaje električne energije raspoređen po tržišnim sudionicima i granicama Republike Hrvatske posebno za uvoz i posebno za izvoz,
+– plan kupoprodaje električne energije zaključene na burzi,
+– plan kupoprodaje električne energije

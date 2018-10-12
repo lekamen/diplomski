@@ -1,0 +1,23 @@
+ depozitara jednom godišnje revidirat će revizor.
+(2) Revizor iz stavka 1. ovoga članka je revizor koji revidira godišnje financijske izvještaje depozitara i koji mora imati dostatno iskustvo u odnosu na predmet revizije.
+(3) Depozitar mora imenovati revizora u roku utvrđenom propisima koji uređuju reviziju.
+(4) Depozitar je dužan obavijestiti Agenciju o izboru revizora bez odgode.
+(5) U roku od jednog mjeseca od primitka obavijesti iz stavka 4. ovoga članka Agencija depozitaru može naložiti imenovanje novoga revizora, ako ocijeni da je to potrebno kako bi se ostvarila svrha revizije.
+(6) Revizor je po završetku revizorskog izvješća dužan bez odgode predati revizorsko izvješće depozitaru, a depozitar Agenciji. Revizorsko izvješće depozitar je dužan dostaviti Agenciji najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvješće sastavlja.
+(7) Agencija će pravilnikom propisati opseg i sadržaj revizorskog izvješća o obavljenoj reviziji izvršavanja obveza depozitara.
+(8) Ako Agencija utvrdi da revizija izvršavanja obveza depozitara nije obavljena ili revizorsko izvješće nije sastavljeno u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona, propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ili ako obavljenim nadzorom nad depozitarom ili na drugi način utvrdi da revizija i revizorsko izvješće o izvršavanju obveza depozitara nije zasnovano na istinitim i objektivnim činjenicama, može odbiti revizorsko izvješće i zahtijevati od depozitara da reviziju obavi drugi revizor, a na trošak depozitara. U tom slučaju Agencija može javno objaviti podatak o odbijanju revizorskog izvješća i razlozima toga odbijanja.
+Poslovna tajna
+Članak 231.
+Podatke o ulagateljima, njihovim udjelima te uplatama i isplatama, koji su mu učinjeni dostupnima u skladu s odredbama ovoga Zakona, depozitar je dužan čuvati kao poslovnu tajnu.
+POGLAVLJE V.
+Promjena depozitara
+Članak 232.
+(1) Depozitar koji namjerava prestati obavljati poslove depozitara UCITS fonda dužan je najmanje dva mjeseca prije prestanka obavljanja tih poslova uputiti pisanu obavijest o svojoj namjeri Agenciji i društvu za upravljanje koje upravlja UCITS fondom za koji obavlja poslove depozitara.
+(2) U slučaju iz stavka 1. ovoga članka društvo za upravljanje je dužno zaključiti ugovor o obavljanju poslova depozitara s drugim depozitarom i Agenciji podnijeti zahtjev za odobrenje novog depozitara najkasnije 30 dana prije nego trenutačni depozitar prestane s obavljanjem poslova depozitara.
+(3) Ako društvo za upravljanje ne zaključi ugovor s novim depozitarom u skladu sa stavkom 2. ovoga članka, odnosno ako Agencija ne izda odobrenje za novog depozitara prije nego trenutačni depozitar prestane s obavljanjem poslova depozitara, trenutačni depozitar je dužan, ako je u mogućnosti, nastaviti s pružanjem usluga depozitara u daljnjem roku od 30 dana računajući od predviđenog datuma prestanka obavljanja poslova depozitara.
+(4) U slučaju da ni u dodatnom roku od 30 dana iz stavka 3. ovoga članka ne bude zaključen ugovor o obavljanju poslova depozitara s novim depozitarom i dobiveno odobrenje Agencije, UCITS fondovi za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu s odredbama dijela trinaestoga ovoga Zakona.
+Članak 233.
+(1) Društvo za upravljanje može promijeniti depozitara, za što je dužno ishoditi odobrenje Agencije u skladu s člankom 217. stavcima 2. i 3. ovoga Zakona.
+(2) Dotadašnji depozitar mora u roku od tri dana od primitka obavijesti društva za upravljanje o raskidu odnosno otkazu ugovora o obavljanju poslova depozitara obavijestiti Agenciju postoje li prema svim njegovim saznanjima nerazriješene povrede ovoga Zakona ili drugih propisa.
+Članak 234.
+Na dan kada je ugovorom o obavljanju poslova depozitara zaključenim s novim depozitarom predviđeno da će novi depozitar početi s obavljanjem poslova depozitara, dosadašnji depozitar je dužan svu imovinu UCITS fonda prenijeti na pohranu i

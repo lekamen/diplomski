@@ -1,0 +1,40 @@
+smještaj ili učinkovitost vizualnih navigacijskih sredstava, moraju se ukloniti, ukoliko je to izvedivo.
+(2) Svaki objekt u granicama unutarnje horizontalne i stožaste površine, za koji Agencija na temelju dostavljene aeronautičke studije procijeni da može ugroziti sigurnost operacija hidroaviona:
+a) u području kretanja/plovidbe na površini, ili
+b) u prostoru leta u zraku
+smatrat će se preprekom i potrebno ga je ukloniti ako je to moguće.
+Označavanje prepreka
+Članak 30.
+Nepokretni i/ili pokretni objekti za koje se utvrdi da predstavljaju zrakoplovnu prepreku ili probijaju neku od površina ograničenja prepreka moraju biti primjereno označeni u skladu sa odredbama primjenjivih propisa donesenih na temelju zakona kojim se uređuje civilni zračni promet te objavljeni na način uobičajen u zračnom prometu.
+DIO PETI VIZUALNA SREDSTVA ZA NAVIGACIJU
+Opće odredbe
+Članak 31.
+Hidroavion se tijekom mirovanja i kretanja/plovidbe na vodenoj površini smatra pomorskim (plovnim) objektom, pa način označavanja i obilježavanja aerodroma na vodi i pripadajućih mu infrastrukturnih objekata i površina mora biti u skladu sa primjenjivim pomorskim propisima.
+Označavanje aerodroma na vodi
+Članak 32.
+(1) Standardna oznaka aerodroma na vodi je simbol sidra, sličnog oznaci koja se može naći na zrakoplovnim kartama (Slika 2-1.).
+(2) Oznaka aerodroma na vodi se postavlja na krovovima ili drugim ravnim površinama aerodroma na vodi na način da bude lako vidljiva iz zraka.
+(3) Oznaka aerodroma na vodi je žute boje sa crnim rubom.
+(4) Najmanja dozvoljena dimenzija oznake aerodroma na vodi iznosi:
+a) duljina – 4m
+b) širina – 2,5m
+
+Slika 2-1. Oznaka aerodroma na vodi
+Pokazivač smjera vjetra
+Članak 33.
+(1) Aerodrom na vodi mora biti opremljen s najmanje jednim pokazivačem smjera vjetra.
+(2) Pokazivač smjera vjetra mora biti postavljen na način da na njega ne utječu poremećaji u zraku, uzrokovani objektima u blizini, te tako da je vidljiv:
+a) iz hidroaviona u letu, i
+b) na operativnoj površini za kretanje/plovidbu hidroaviona.
+(3) Pokazivač smjera vjetra mora biti sačinjen od platna ili drugog materijala jednake čvrstoće, u obliku krnjeg stošca, duljine od najmanje 3,6 m i promjera na širem kraju od najmanje 0,9 m. Mora biti izveden na način da daje jasni prikaz smjera i opći prikaz brzine površinskog vjetra. Obavezne boje pokazivača smjera površinskog vjetra su crvena (ili narančasta) i bijela, raspoređene u pet naizmjenično poredanih traka, uz uvjet da prva i posljednja traka budu crvene (ili narančaste) boje, tako da isti bude jasno vidljiv u odnosu na pozadinu, s visine od najmanje 300 m.
+DIO ŠESTI OPERATIVNE SLUŽBE, OPREMA I INSTALACIJE AERODROMA NA VODI
+Planiranje za slučajeve izvanrednih događaja na aerodromu na vodi
+Članak 34.
+(1) Operator aerodroma na vodi mora postupati prema propisanim postupcima za slučaj izvanrednog događaja koji je donesen za lučko područje na kojem je smješten aerodrom na vodi.
+(2) Kada se aerodrom na vodi nalazi izvan uređenog lučkog područja u cilju pripreme i provedbe odgovarajućeg postupanja u slučaju izvanrednih događaja na aerodromu na vodi ili u njegovoj blizini, operator aerodroma na vodi mora planirati te aktivnosti. Cilj planiranja aktivnosti za slučajeve izvanrednih događaja na aerodromu na vodi podrazumijeva svođenje posljedica na najmanju moguću mjeru, posebno u pogledu spašavanja života i materijalnih dobara, te nastavka redovitih operacija hidroaviona. U planu aerodroma na vodi za slučaj izvanrednih događaja (Emergency plan) navode se postupci za koordinaciju aktivnosti:
+a) različitih aerodromskih i drugih službi čije je područje rada na aerodromu na vodi, te
+b) drugih organizacija i službi, javnih i zdravstvenih ustanova u neposrednoj okolini aerodroma na vodi koje bi mogle pomoći u:
+− sprječavanju većih posljedica, kao i
+− sanaciji nastalih šteta.
+(3) Plan aerodroma na vodi za slučaj izvanrednog događaja izrađuje se i primjenjuje na pojedinom aerodromu na vodi u skladu s:
+a) organizacijskim, tehničkim i tehnološkim

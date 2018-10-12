@@ -1,0 +1,40 @@
+u međunarodnoj plovidbi na kružnim putovanjima dužni su VTS službi dostaviti plan plovidbe na odobrenje najmanje 3 sata prije isplovljenja.
+(8) Plan plovidbe brodovi iz stavka 7. ovog članka dostavljaju, a VTS služba potvrđuje zaprimanje, putem elektroničke pošte ili drugih dostupnih komunikacijskih sredstava.«.
+Članak 8.
+U članku 64. stavku 3. iza riječi: »izdaje se« dodaju se riječi: »brodu što je moguće ranije, a najkasnije«.
+Članak 9.
+Iza članka 64. dodaje se Poglavlje 2. naziv poglavlja i članak 64.a koji glasi:
+»Poglavlje 2.
+VTS USLUGE ZA JAHTE I BRODICE
+Članak. 64.a
+(1) VTS služba pruža informacijsku podršku brodicama i jahtama (nautical Information Service – nIS) (u daljnjem tekstu: nIS) od značaja za sigurnu plovidbu u VTS području.
+(2) Informacijska podrška iz stavka 1. ovog članka obuhvaća uslugu pružanja sljedećih podataka:
+a. podaci o službama nadležnim za sigurnost pomorskog prometa,
+b. meteorološki podaci,
+c. hidrografski podaci,
+d. podaci o stanju objekata sigurnosti plovidbe,
+e. podaci o opasnostima koje predstavljati ugrozu brodicama/jahtama,
+f. drugi podaci koji mogu biti od utjecaja za sigurnost pomorskog prometa.
+(3) Pružanje podataka iz stavka 1. i stavka 2. ovoga članka osigurava se elektroničkom dostavom podataka uporabom mrežnih preglednika.
+(4) Podaci iz stavka 2. točke c. ovog članka temelje se na službenim hidrografskim podacima Hrvatskog hidrografskog instituta.
+(5) Podaci iz stavka 2. točke d. ovog članka temelje se na službenim obavijestima za pomorce (radiooglasi, SECURITE poruke i dr.).
+(6) Brodice i jahte dužne su na vlastitu odgovornost uzeti u razmatranje podatke pružene u skladu s odredbama ovog članka.«.
+Članak 10.
+U članku 65. stavku 5. riječi: »navigacijskim kartama i priručnicima Hrvatskog hidrografskog instituta« zamjenjuju se riječima »pomorskim navigacijskim kartama i publikacijama«.
+Članak 11.
+U članku 67. stavku 2. iza riječi: »telefaks« stavlja se zarez i dodaje riječ »e-mail«.
+Članak 12.
+Iza članka 75. dodaje se glava IV. naziv glave i članci 75.a, 75.b, 75.c, 75.č, 75.ć, 75.d, 75.dž, 7.đ, 75.e, 75.f, 75.g, 75.h, 75.i, 75.j, 75.k, 75.l, 75.lj, 75.m, 75.n, 75.nj koji glase:
+»Glava IV. STRUČNA OSPOSOBLJENOST DJELATNIKA VTS SLUŽBE
+Poglavlje 1. OPĆE ODREDBE
+Članak 75.a
+U ovoj glavi Pravilnika propisuju se djelatnosti i poslovi VTS službe, razine odgovornosti, uvjeti i način stjecanja Svjedodžbi o stručnoj osposobljenosti i Ovjera osposobljenosti, programi izobrazbe djelatnika VTS službe, uvjeti i način obnove, zamjene i oduzimanja Svjedodžbi o stručnoj osposobljenosti i Ovjera osposobljenosti.
+Članak 75.b
+Za potrebe ove glave pojedini izrazi imaju sljedeća značenja:
+– Službenik VTS službe je VTS operater (VTSO) ili VTS nadzornik (VTSS)
+– Izobrazba – označava stjecanje znanja i vještina putem uvježbavanja i svladavanja stručnih programa posebne namjene propisanih ovim Pravilnikom
+– Izobrazba na radu (On-the-Job training) – je izobrazba službenika VTS službe posebne namjene koja se obavlja tijekom rada u VTS službi i koja obuhvaća izobrazbu o postupcima i propisima, o uporabi opreme i informacijskih sustava VTS službe, te upoznavanje s osobitostima VTS sektora
+– Svjedodžba o stručnoj osposobljenosti – je isprava izdana i ovjerena od strane Ministarstva u skladu s odredbama ovog Pravilnika, kojom se dokazuje odgovarajuća osposobljenost njezinog posjednika
+– Ovjera osposobljenosti za VTS sektor – je isprava izdana i ovjerena od strane Ministarstva u skladu s odredbama ovog Pravilnika, kojom se dokazuje da je službenik VTS službe osposobljen obavljati djelatnost nadzora i upravljanja pomorskim prometom na odgovarajućoj razini odgovornosti i u određenim VTS sektorima
+– Ovjera osposobljenosti VTS instruktora izobrazbe na radu – je isprava izdana i ovjerena od strane Ministarstva u skladu s odredbama ovog Pravilnika, kojom se dokazuje da je službenik VTS službe osposobljen provoditi program izobrazbe na radu u određenim VTS sektorima
+– IALA – International Association of Marine Aids to

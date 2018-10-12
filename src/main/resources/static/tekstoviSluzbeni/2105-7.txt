@@ -1,0 +1,20 @@
+ financijskih usluga, regulatornih i nadzornih tijela, kao i tijela nadležnih za računalne sigurnosne incidente u području javnih elektroničkih komunikacija te tijela kaznenog progona.
+5.2 Kritična komunikacijska i informacijska infrastruktura i upravljanje kibernetičkim krizama (D)
+Donošenjem Zakona o kritičnim infrastrukturama[3] i pratećim podzakonskim aktima stvoreni su legislativni preduvjeti za uspješno upravljanje rizicima kritične komunikacijske i informacijske infrastrukture unutar utvrđenih sektora kritične infrastrukture, u cilju:
+1. povećanja otpornosti/smanjenja ranjivosti komunikacijskih i informacijskih sustava;
+2. umanjivanja posljedica negativnih događaja (prirodne i tehničko-tehnološke nesreće) i mogućih napada (namjernih i nenamjernih);
+3. omogućavanja brzog i učinkovitog oporavka te nastavka rada.
+Odlukom Vlade RH[4] sektor komunikacijske i informacijske tehnologije utvrđen je kao jedan od sektora iz kojih središnja tijela državne uprave primjenom odgovarajuće metode identificiraju nacionalne kritične infrastrukture. Kao njegovi podsektori utvrđuju se: elektroničke komunikacije, prijenos podataka, informacijski sustavi i pružanje audio i audio-vizualnih medijskih usluga. Ovi se podsektori dalje raščlanjuju na elektroničke komunikacijske mreže, infrastrukturu i povezanu opremu, informatičku infrastrukturu te sustave zemaljske radiodifuzije.
+Od strateškog je interesa nastaviti s poduzimanjem aktivnosti u području zaštite kritične komunikacijske i informacijske infrastrukture, u svrhu osiguravanja svih potrebnih uvjeta za njihov rad i kontinuirano djelovanje.
+Kritičnu komunikacijsku i informacijsku infrastrukturu predstavljaju oni komunikacijski i informacijski sustavi koji upravljaju kritičnom infrastrukturom ili su bitni za njezino funkcioniranje, neovisno o kojem sektoru kritične infrastrukture je riječ.
+Stoga je identificiranje kritične komunikacijske i informacijske infrastrukture i propisivanje obveznih tehničkih i organizacijskih mjera, uključujući i postupke izvješćivanja o računalnim sigurnosnim incidentima, potrebno provesti u koordinaciji središnjih državnih tijela za pojedine sektore kritične infrastrukture, vlasnika/upravitelja kritične infrastrukture te nadležnih tehničkih i sigurnosnih državnih tijela.
+Također, uspostavljanje sustava upravljanja kibernetičkim krizama koji će osigurati pravovremenu i učinkovitu reakciju/odgovor na prijetnju i osigurati oporavak infrastrukture ili usluge od naročitog je sigurnosnog interesa RH.
+Sustav upravljanja u kibernetičkim krizama u RH potrebno je uspostaviti u skladu sa sljedećim zahtjevima:
+1. usklađenost s nacionalnim rješenjima upravljanja u krizama,
+2. obuhvaćanje zaštite kritične nacionalne komunikacijske i informacijske infrastrukture,
+3. usklađenost s međunarodnim sustavima upravljanja u kibernetičkim krizama EU i NATO-a,
+4. usklađenost s nacionalnim nadležnostima tijela zakonom zaduženih za koordinaciju prevencije i odgovora na računalne ugroze sigurnosti informacijskih sustava.
+U tom smislu, potrebno je:
+Cilj D.1 Utvrditi kriterije za prepoznavanje kritične komunikacijske i informacijske infrastrukture.
+Kriteriji za prepoznavanje kritične komunikacijske i informacijske infrastrukture moraju pratiti i dalje razrađivati Zakonom o kritičnoj infrastrukturi predviđenu metodologiju pristupa. Pri tome se kritična komunikacijska i informacijska infrastruktura utvrđuje u okvirima sektora utvrđenih ranije spomenutom Odlukom Vlade RH o određivanju sektora iz kojih središnja tijela državne uprave identificiraju nacionalne kritične infrastrukture te listom redoslijeda sektora kritičnih infrastruktura. Kriteriji koji se definiraju za utvrđivanje kritične komunikacijske i informacijske infrastrukture moraju proizlaziti iz metodologije koju primjenjuje Zakon o kritičnim infrastrukturama te se, prema potrebi koja proizlazi iz analize stanja, mogu dodatno razraditi i propisati odgovarajućim podzakonskim aktima.
+Cilj D.2 Utvrditi obvezujuće sigurnosne mjere koje

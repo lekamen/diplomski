@@ -1,0 +1,32 @@
+popis država i zemalja i njihovih oznaka.
+3. Ako se radi o nerezidentima međunarodnim institucijama, potrebno je upisati odgovarajuću oznaku pojedine međunarodne institucije navedenu u Uputi za statističko i bonitetno izvješćivanje, Prilogu 4. Popis oznaka država i međunarodnih institucija.
+Obilježje 7. Sektor nerezidenta
+Sastavljanje agregata i grupiranje protustranaka zahtijeva sektorsku identifikaciju protustranaka sa sjedištem izvan Republike Hrvatske u skladu sa standardima sektorizacije. ESA 2010 određuje standard za klasifikaciju sektora. Tretman protustranaka potpuno je jednak u svim raščlambama.
+Vrijednost obilježja upisuje se za sve protustranke nerezidente, a za rezidente se ne upisuje.
+Vrijednost ovog obilježja iskazuje se jednim od sljedećih modaliteta:
+1. »1100« – nefinancijska društva,
+2. »1220« – društva koja primaju depozite osim središnje banke,
+3. »1230« – novčani fondovi,
+4. »1240« – investicijski fondovi osim novčanih fondova,
+5. »1250« – drugi financijski posrednici, osim osiguravajućih društava i mirovinskih fondova,
+6. »1260« – pomoćne financijske institucije,
+7. »1270« – vlastite financijske institucije i zajmodavci,
+8. »1280« – osiguravajuća društva,
+9. »1290« – mirovinski fondovi,
+10. »1311« – središnja država,
+11. »1312« – regionalna država,
+12. »1313« – lokalna država,
+13. »1314« – fondovi socijalne sigurnosti,
+14. »1400« – kućanstva,
+15. »1500« – neprofitne institucije koje služe kućanstvima.
+Za razliku od modaliteta »1220« i »1230«, koji podrazumijevaju prethodnu identifikaciju MFI-ja u skladu s Prilogom 2. Popis nerezidentnih MFI-ja i ostalih institucija, odabir ostalih modaliteta ovisi o nacionalnoj definiciji sektora svake države. Svaka izmjena i (ili) dopuna popisa MFI-ja i (ili) nacionalne klasifikacije rezidenata zahtijevat će korekciju Priloga 2. Izvještajne institucije moraju se pobrinuti za vremenski slijed podataka u pripremnim bazama kako bi se omogućila precizna sektorska distribucija protustranaka nerezidenata za izvještajni datum na koji se odnosi izvještajni slog.
+Za klasifikaciju sektora nerezidenata (članica EU-a) koji nisu MFI, dodatne upute mogu se naći u priručniku ESB-a Monetary Financial Institutions and Markets Statistics Sector Manual, koji se objavljuje na ESB-ovoj internetskoj stranici.
+Obilježje 8. Veza izvještajne institucije i protustranke
+Ovo obilježje omogućuje identifikaciju vlasničke povezanosti izvještajne institucije i protustranke.
+Vrijednost obilježja upisuje se za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Vrijednost ovog obilježja sastoji se od pet dijelova. Prvim dijelom utvrđuje se nepostojanje ili postojanje povezanosti te se navodi jedan od tipova te povezanosti:
+1. Ako ne postoji povezanost, upisuje se »N«.
+2. Ako postoji primarna povezanost između izvještajne institucije i protustranke, upisuje se »P«. Uvjet je za odabir ovog modaliteta posjedovanje dionica ili vlasničkih udjela (izvještajna je institucija u vlasničkom odnosu s protustrankom).
+3. Ako postoji sekundarna povezanost između izvještajne institucije i protustranke, upisuje se »S«, pod uvjetom da istodobno nema primarne povezanosti. Ovaj modalitet upotrebljava se za protustranke članice grupe koje imaju istog vlasnika kao i izvještajna institucija.
+Iza identifikatora povezanosti upisuju se postotni udjeli, zaokruženi na dvije decimale, koji se odnose na udjele protustranke u izvještajnoj instituciji odnosno udjele izvještajne institucije u protustranci (stoga vrijednost mora biti veća ili jednaka nuli i manja ili jednaka sto).
+Prvih pet znamenaka određuje ulaganja protustranke u izvještajnu instituciju u odnosu na vlasničku glavnicu prikazanu instrumentom[1] P1101 Dionički kapital – redovne dionice. Sljedećih pet znamenaka određuje ulaganja izvještajne institucije u protustranku u odnosu na vlasničku glavnicu opisanu definicijom instrumenata A0401 Dionice – redovne dionice u trgovačkim društvima koja su dionička ili A0404 Vlasnički udjeli u trgovačkim društvima koja

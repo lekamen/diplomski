@@ -1,0 +1,38 @@
+21 09.03.2016 Pravilnik o mjeriteljskim i temeljnim zahtjevima za neautomatske vage
+DRŽAVNI ZAVOD ZA MJERITELJSTVO
+594
+Na temelju članka 21. stavka 1. Zakona o mjeriteljstvu (»Narodne novine« broj 74/14) i članka 4. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine« broj 80/13) ravnatelj Državnog zavoda za mjeriteljstvo donosi
+PRAVILNIK
+O MJERITELJSKIM I TEMELJNIM ZAHTJEVIMA ZA NEAUTOMATSKE VAGE
+I. OPĆE ODREDBE
+Predmet
+Članak 1.
+Ovim se Pravilnikom propisuju temeljni zahtjevi koje moraju zadovoljiti neautomatske vage (u daljnjem tekstu: vage) koje se stavljaju na tržište i/ili uporabu, prava i obveze pravnih i/ili fizičkih osoba koje stavljaju vage na raspolaganje na tržištu i/ili uporabu, postupci ocjenjivanja sukladnosti vaga s propisanim zahtjevima, prava i obveze tijela za ocjenjivanje sukladnosti vaga s propisanim zahtjevima, dokumenti koji moraju biti dostupni nadležnim tijelima prije stavljanja vaga na tržište i/ili uporabu, način označivanja vaga te nadzor nad ispunjavanjem propisanih zahtjeva.
+Članak 2.
+Ovim Pravilnikom se u pravni poredak Republike Hrvatske prenosi sljedeća direktiva:
+– Direktiva 2014/31/EU Europskog parlamenta i Vijeća od 26. veljače 2014. o usklađivanju zakonodavstva država članica u odnosu na stavljanje na raspolaganje neautomatskih vaga na tržištu (preinačena) (Tekst značajan za EGP) (SL L 96, 29. 3. 2014.).
+Područje primjene
+Članak 3.
+(1) Odredbe ovoga Pravilnika primjenjuju se na sve neautomatske vage.
+(2) U smislu odredaba ovoga Pravilnika razlikuju se sljedeće kategorije uporabe neautomatskih vaga:
+a) za određivanje mase za potrebe trgovačkog poslovanja;
+b) za određivanje mase radi izračunavanja cestarina, carina, poreza, premija, kazni, naknada, naknada za štetu ili sličnih vrsta plaćanja;
+c) za određivanje mase radi primjene zakona ili propisa, za davanje stručnog mišljenja tijekom sudskih postupaka;
+d) za određivanje mase u medicinskoj praksi odnosno za vaganje pacijenata u svrhu pregleda, dijagnoze i postupka liječenja;
+e) za određivanje mase radi pripreme lijekova po receptu u ljekarnama i određivanje mase u analizama koje se provode u medicinskim i farmaceutskim laboratorijima;
+f) za određivanje iznosa za naplatu koji se temelje na masi u svrhu izravne javne prodaje kao i pripremanja pretpakiranih proizvoda;
+g) za sve ostale primjene različite od onih navedenih u točkama a) do f).
+Definicije
+Članak 4.
+Pojedini izrazi u smislu odredaba ovoga Pravilnika imaju sljedeće značenje:
+1. »akreditacija« – je akreditacija kako je definirano člankom 2. točkom 10. Uredbe (EZ) br. 765/2008;
+2. »distributer« – je fizička ili pravna osoba u opskrbnom lancu, različita od proizvođača ili uvoznika, koja stavlja vagu na raspolaganje na tržištu;
+3. »gospodarski subjekt« – je proizvođač, ovlašteni zastupnik, uvoznik ili distributer;
+4. »nacionalno akreditacijsko tijelo« – je nacionalno akreditacijsko tijelo kako je definirano člankom 2. točkom 11. Uredbe (EZ) br. 765/2008;
+5. »neautomatska vaga« (u daljnjem tekstu: »vaga«) – je mjerilo koje tijekom vaganja zahtijeva sudjelovanje rukovatelja kako bi se dobio i potvrdio rezultat vaganja;
+6. »ocjenjivanje sukladnosti« – je postupak kojim se utvrđuje jesu li ispunjeni temeljni zahtjevi ovoga Pravilnika koji se odnose na vagu;
+7. »opoziv« – je svaka mjera usmjerena na povrat vage koja je već stavljena na raspolaganje krajnjem korisniku;
+8. »ovlašteni zastupnik« – je svaka pravna ili fizička osoba, s poslovnim nastanom u Europskoj uniji, koju je proizvođač pismeno ovlastio da djeluje umjesto njega za posebne zadatke u smislu ovoga Pravilnika;
+9. »oznaka CE« – je oznaka kojom proizvođač označuje da je vaga sukladna s općim načelima za stavljanje oznake CE kako je definirano člankom 30. Uredbe (EZ) br. 765/2008.
+10. »povlačenje« – je svaka mjera usmjerena na sprječavanje da vaga u opskrbnom lancu bude stavljena na raspolaganje na tržištu;
+11. »proizvođač« – je svaka fizička ili pravna osoba koja proizvodi vagu ili daje 

@@ -1,0 +1,36 @@
+ prema posebnom propisu koji uređuje uvjete koje moraju ispunjavati laboratoriji za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a.
+Zahtjev za izdavanje ovlaštenja mora sadržavati podatke o podnositelju zahtjeva (adresa, OIB, odgovorna osoba u pravnoj osobi, kontakt osoba) te dokaze o ispunjavanju uvjeta iz članka 5. ovog Pravilnika.
+Na zahtjev za ovlaštenje laboratorij plaća propisanu upravnu pristojbu.
+Ministarstvo daje ovlaštenje za službeni laboratorij za GMO na rok od dvije godine, protiv kojeg nije dopušteno izjavljivanje žalbe, ali se može pokrenuti uspravni spor.
+Članak 5.
+Zahtjev iz članka 4. ovoga Pravilnika može podnijeti laboratorij koji ispunjava sljedeće uvjete:
+1. ima sjedište na području Republike Hrvatske;
+2. ima ovlaštenje za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a, najmanje tri godine prije podnošenja zahtjeva;
+3. ima akreditaciju u skladu s HRN EN ISO/IEC 17025 »Opći zahtjevi za osposobljenost ispitnih i umjernih laboratorija«;
+4. ima dokaz o akreditacijama analitičkih metoda (popis metoda ispitivanja)
+5. koristi analitičke metode validirane od strane referentnog laboratorija Unije EURL-GMFF i definirane Odlukama EU komisije za pojedine odobrene i neodobrene GMO koji se nalaze na web- -stranicama Joint Research Centar of EU (npr. P-35S, t-NOS, geni iz porodice cry, pat, bar)
+6. mora osigurati pouzdanost izvršenih analiza (npr. dokaz o rezultatima međulaboratorijskih testiranja);
+7. mora imati dokaz o financijskom bonitetu.
+Članak 6.
+Ispunjavanje uvjeta iz članka 5. ovoga Pravilnika utvrđuje Stručno Povjerenstvo (u daljnjem tekstu: Povjerenstvo) koje imenuje ministar nadležan za zdravlje (u daljnjem tekstu: ministar).
+Povjerenstvo iz stavka 1. ovog članka čine tri člana, i to:
+– jedan predstavnik ministarstva nadležnog za poljoprivredu,
+– jedan predstavnik Ministarstva i
+– jedan stručnjak iz područja molekularne biologije/biotehnologije ili srodnog zanimanja, koji sudjeluje u revizijama laboratorija za GMO.
+Članak 7.
+Nakon što utvrdi da je podnositelj zahtjeva priložio svu dokumentaciju kojom dokazuje ispunjavanje uvjeta iz članka 5. ovoga Pravilnika, Povjerenstvo provodi očevid prostora, opreme i djelatnika laboratorija.
+Troškove očevida Povjerenstva snosi podnositelj zahtjeva, a uplatu troškova podnositelj zahtjeva je obvezan izvršiti najkasnije osam dana prije zakazanog očevida i prilikom očevida priložiti dokaz o izvršenoj uplati.
+Visinu troškova očevida Povjerenstva propisuje ministar Odlukom.
+Članak 8.
+Ministarstvo je obvezno najkasnije u roku od 60 dana od dana zaprimanja potpunog zahtjeva izdati rješenje podnositelju zahtjeva.
+Članak 9.
+Hrvatska agencija za akreditaciju obvezna je pisanim putem izvijestiti Ministarstvo o zaključku provedene revizije u ovlaštenom službenom laboratoriju za GMO.
+Ako ovlašteni službeni laboratorij za GMO izgubi status akreditiranog laboratorija temeljem odluke Hrvatske agencije za akreditaciju, Ministarstvo će rješenjem ukinuti ovlaštenje iz članka 4. ovoga Pravilnika.
+O rezultatima provedenih analiza za potrebe službenih kontrola iz svojega djelokruga, službeni laboratorij za GMO najkasnije do 31. ožujka tekuće godine za prethodnu godinu podnosi Ministarstvu izvješće o radu.
+III. POSTUPAK I NAČIN OVLAŠĆIVANJA REFERENTNIH LABORATORIJA ZA GMO
+Članak 10.
+Postupak i način ovlašćivanja referentnih laboratorija za GMO provodi se sukladno odredbama članaka 4., 6., 7., 8. i 9. ovoga Pravilnika, a podnositelj zahtjeva mora ispunjavati uvjete iz članka 11. ovoga Pravilnika.
+Članak 11.
+Podnositelj zahtjeva za izdavanje ovlaštenja za referentni laboratorij mora ispunjavati sljedeće uvjete:
+1. ima sjedište na području Republike Hrvatske;
+2. ima ovlaštenje za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadrže i/ili se sastoje ili potječu od GMO-a najmanje u trajanju od pet godina ili obavlja znanstveno-istraživačku djelatnost na području GMO-a u Republici

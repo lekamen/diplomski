@@ -1,0 +1,40 @@
+100 02.11.2016 Dopune Upute za provedbu Odluke o obveznoj pričuvi
+HRVATSKA NARODNA BANKA
+2154
+Na temelju članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) i točke XVIII. Odluke o obveznoj pričuvi (»Narodne novine«, br. 136/2015. i 55/2016.) guverner Hrvatske narodne banke donio je 26. listopada 2016.
+DOPUNE
+UPUTE ZA PROVEDBU ODLUKE O OBVEZNOJ PRIČUVI
+I.
+U Uputi za provedbu Odluke o obveznoj pričuvi (»Narodne novine«, br. 140/2015. i 59/2016.) iza točke 46. dodaje se novo poglavlje, koje glasi:
+»Posebne odredbe za provedbu Odluke o obveznoj pričuvi za podružnice iz EU-a«,
+te točke od 46.a do 46.r, koje glase:
+»46.a Podružnice iz EU-a definirane su u točki II. stavku 1. alineji 2. Odluke.
+46.b Podružnice iz EU-a obračun obvezne pričuve sastavljaju na priloženim obrascima P-KOP 1 i P-DOP 1.
+46.c Podružnice iz EU-a obračun održavanja obvezne pričuve sastavljaju na priloženim obrascima P-KOP 2 i P-DOP 2.
+46.d Podatke vezane uz održavanje i izdvajanje deviznog dijela obvezne pričuve podružnice iz EU-a dostavljaju na obrascu DOP 3.
+46.e Izvori sredstava na temelju kojih podružnice iz EU-a utvrđuju osnovicu za obračun obvezne pričuve obuhvaćaju u nastavku navedene instrumente, koji su definirani Uputom za statističko i bonitetno izvješćivanje, a koja je sastavni dio Odluke o statističkom i bonitetnom izvješćivanju:
+– P0201 Transakcijski računi
+– P0202 Štedni depoziti
+– P0203 Oročeni depoziti
+– P0204 Depoziti u otkaznom roku
+– P0205 Ograničeni depoziti
+– P0207 Krediti s osnove prekoračenja po transakcijskim računima
+– P0208 Primljeni prekonoćni krediti
+– P0209 Krediti na osnovi repo poslova
+– P0210 Financijski najam (engl. leasing)
+– P0211 Primljeni sindicirani krediti
+– P0212 Ostali primljeni krediti
+– P0213 Maržni depoziti
+– P0501 Obveznice
+– P0502 Komercijalni zapisi
+– P0505 Certifikati o depozitu
+– P0506 Neprenosivi instrumenti (dužnički vrijednosni papiri)
+– P0601 Ostale financijske obveze kojima se trguje – short selling.
+46.f Dnevno stanje svakog instrumenta iz točke 46.e utvrđuje se u skladu sa slogom AA (iz Upute za statističko i bonitetno izvješćivanje), uz obilježje »Vrsta iznosa«: 1 + 2 – 7 + 8 + 10 + 12. Tako utvrđeno dnevno stanje izračunava se agregirano za sve protustranke, pri čemu se isključuju HNB i banke koje obračunavaju obveznu pričuvu u smislu Odluke.
+Za izračun dnevnog stanja kunskih izvora sredstava primjenjuje se obilježje »Valuta«: kuna. Pritom se posebno izračunava dnevno stanje izvora sredstava u kunama, uz obilježje »Indeksacija«: instrumenti koji nisu indeksirani i u kunama s valutnom klauzulom, uz obilježje »Indeksacija«: jednosmjerna i dvosmjerna valutna klauzula.
+Za izračun dnevnog stanja deviznih izvora sredstava primjenjuje se obilježje »Valuta«: sve valute osim kune.
+46.g Kunski odnosno devizni dio osnovice za obračun obvezne pričuve izračunava se zasebno, a čini ga prosječno dnevno stanje kunskih odnosno deviznih izvora sredstava u smislu točaka 46.e i 46.f ove Upute u jednom obračunskom razdoblju.
+46.h Tražene podatke o stanjima sredstava koja ulaze u kunski dio osnovice za obračun obvezne pričuve podružnice iz EU-a izračunavaju na osnovi vlastitih podataka o dnevnom stanju izvora sredstava u kunama i u kunama s valutnom klauzulom definiranih u točki 46.e ove Upute.
+Dnevna stanja izvora sredstava u kunama s valutnom klauzulom iskazuju se u kunama primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi za pojedini dan.
+46.i Tražene podatke o stanjima sredstava koja ulaze u devizni dio osnovice za obračun obvezne pričuve podružnice iz EU-a izračunavaju na osnovi vlastitih podataka o dnevnom stanju izvora sredstava u stranim valutama definiranih u točki 46.e ove Upute, u originalnim valutama. Tako izračunata dnevna stanja deviznog dijela obračunske osnovice iskazuju se u kunama primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi za pojedini dan.
+46.j Tražene podatke o stanjima sredstava koja ulaze u obračun održavanja obvezne

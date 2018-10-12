@@ -1,0 +1,26 @@
+ podaci u tečajnoj listi:
+a) redni broj tečajne liste
+b) datum primjene tečajne liste
+c) slovne i brojčane oznake stranih valuta istaknutih na tečajnoj listi
+d) kupovni i prodajni tečajevi za svaku stranu valutu na tečajnoj listi te iznosi kunskih protuvrijednosti stranih valuta ili iznosi stranih valuta na koje se primjenjuju povoljni kupovni odnosno prodajni tečajevi.
+(12) Zaštićeni program mora omogućiti ispis važeće tečajne liste i tečajnih lista koje su važile tijekom radnih dana u tekućoj i prethodnoj kalendarskoj godini.
+II.2. Funkcije zaštićenog programa vezane uz transakciju otkupa strane gotovine ili čeka koji glasi na stranu valutu odnosno transakciju prodaje strane gotovine
+(1) Zaštićeni program mora pri provođenju transakcije otkupa strane gotovine ili čeka koji glasi na stranu valutu odnosno transakcije prodaje strane gotovine (u nastavku teksta: transakcija otkupa ili prodaje) omogućiti izradu i pohranjivanje te automatski ispis na pisaču Potvrde o otkupu odnosno Potvrde o prodaji u barem jednom primjerku, koji se predaje stranci, a mora sadržavati podatke propisane člankom 4. stavkom 6. odnosno 7. Odluke. Uvjet za provođenje nove transakcije jest potvrđivanje prethodne transakcije.
+(2) Zaštićeni program mora rabiti pri provođenju transakcije otkupa ili prodaje odnosno pri izradi Potvrde o otkupu ili Potvrde o prodaji tečajeve s tečajne liste koja je u primjeni u trenutku provođenja transakcije otkupa ili prodaje.
+(3) Zaštićeni program može omogućiti storniranje transakcije otkupa ili prodaje prema serijskom broju Potvrde o otkupu odnosno Potvrde o prodaji.
+(4) Zaštićeni program ne smije omogućiti storniranje transakcije otkupa ili prodaje odnosno Potvrde o otkupu ili Potvrde o prodaji nakon izrade konačnog izvješća »Obračun dnevne blagajne stanje blagajničkog dnevnika«.
+(5) Zaštićeni program mora omogućiti izradu, pohranjivanje i ispisivanje izvješća u kojem su navedeni podaci o potvrdama o otkupu odnosno potvrdama o prodaji s istim serijskim brojem, a koje su ispisane više od jedanput. Izvješće mora sadržavati popis s nazivom potvrde i serijskim brojem potvrde te podatak o broju ispisivanja svake potvrde.
+(6) Zaštićeni program mora s pomoću kodera iz točke II.1. stavka 11. ove Upute omogućiti kodiranje podataka s Potvrde o otkupu odnosno Potvrde o prodaji, čime se može utvrditi jesu li podaci na navedenim potvrdama brisani, mijenjani ili dopunjavani nakon provođenja transakcije otkupa ili prodaje. Kodiraju se sljedeći podaci s Potvrde o otkupu odnosno Potvrde o prodaji:
+a) serijski broj koji se oblikuje u skladu s točkom II.4. ove Upute
+b) brojčana i slovna oznaka strane valute
+c) iznos strane gotovine odnosno čeka koji glasi na stranu valutu
+d) tečaj strane valute
+e) protuvrijednost strane valute u kunama
+f) iznos mjenjačke provizije (ako je ovlašteni mjenjač smije naplatiti, a u skladu s člankom 10. stavkom 9. Odluke)
+g) oznaka za rezidentnost stranke: »R«
+h) datum i vrijeme potvrđivanja transakcije (sat i minuta)
+i) šifra odgovorne osobe ovlaštenog mjenjača odnosno osobe koja obavlja mjenjačke poslove na mjenjačkom mjestu
+j) serijski broj s tiskanog obrasca Potvrde o otkupu odnosno Potvrde o prodaji kojim se ovlašteni mjenjač koristi kada se zbog objektivnih razloga ne može koristiti računalnom tehnologijom
+k) akronim kojim se opisuje razlog storniranja transakcije otkupa ili prodaje, a koji se oblikuje u skladu s točkom II.5. pod a) ove Upute, u slučaju storniranja transakcije.
+(7) Zaštićeni program mora omogućiti ispisivanje podataka o transakcijama otkupa odnosno prodaje provedenima tijekom tekućega radnog dana ili bilo kojega radnog dana tijekom tekuće odnosno prethodne kalendarske godine, razvrstano po serijskim brojevima transakcija, valutama i iznosima, posebno za otkupljenu stranu gotovinu odnosno čekove koji glase na stranu valutu, a posebno za prodanu stranu gotovinu.
+II.3. Funkcije zaštićenog programa vezane uz transakcije uplate ili isplate gotovine u kunama ili strane gotovine odnosno isplate

@@ -1,0 +1,51 @@
+126 20.11.2015 Pravilnik o načinu vođenja popisa turista te o obliku i sadržaju obrasca prijave turista turističkoj zajednici
+MINISTARSTVO TURIZMA
+2395
+Na temelju članka 21. stavka 6. Zakona o boravišnoj pristojbi (»Narodne novine«, broj 152/08., 59/09. – isp. i 30/14.), ministar turizma donosi
+PRAVILNIK
+O NAČINU VOĐENJA POPISA TURISTA TE O OBLIKU I SADRŽAJU OBRASCA PRIJAVE TURISTA TURISTIČKOJ ZAJEDNICI
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim Pravilnikom propisuje se način vođenja popisa osoba koje se prijavljuju turističkoj zajednici (u daljnjem tekstu: Popis turista) te oblik i sadržaj elektroničkog obrasca prijave i odjave turista turističkoj zajednici.
+(2) Popis turista vodi se, a prijava i odjava turista obavljaju se putem sustava eVisitor, kao središnjeg elektroničkog sustava prijave i odjave turista u Republici Hrvatskoj.
+(3) Uspostavljenje i održavanje sustava eVisitor u nadležnosti je Hrvatske turističke zajednice.
+II. POPIS TURISTA
+Članak 2.
+(1) Popis turista vodi se za područje Republike Hrvatske, a prema području za koje su osnovane turističke zajednice.
+(2) Popis turista vodi se posebno za svaku pojedinu pravnu ili fizičku osobu koja:
+1. pruža uslugu noćenja u smještajnom objektu u kojem se obavlja ugostiteljska djelatnost;
+2. pruža uslugu noćenja na plovnom objektu nautičkog turizma (charter, crusing);
+3. pruža uslugu smještaja u domaćinstvu i seljačkom domaćinstvu.
+(3) Popis turista vodi se i za:
+1. vlasnike kuća i stanova za odmor i za sve osobe koje noće u toj kući ili stanu;
+2. stanovnike turističke općine ili grada koji ima obvezu prijave osoba koje borave u njegovoj kući ili stanu.
+Članak 3.
+(1) U Popis turista upisuju se sljedeći podaci o pravnoj ili fizičkoj osobi iz članka 2. stavka 2. i 3. ovog Pravilnika:
+– porezni broj – OIB
+– šifra smještajnog objekta – za pravne i fizičke osobe iz članka 2. stavka 2. ovoga Pravilnika
+– naziv, odnosno ime i prezime
+– podaci o ugostiteljskom objektu za smještaj (vrsta, kategorija, kapacitet, adresa, naziv) – za pravne i fizičke osobe iz članka 2. stavka 2. ovoga Pravilnika
+– podaci o adresi za dostavu pismena
+– podaci o ovlaštenoj osobi ili punomoćniku za preuzimanje pristupnih podataka za ispravno obavljanje elektroničke prijave i odjave turista koje dodjeljuje turistička zajednica.
+(2) U Popis turista upisuju se sljedeći podaci o turistima:
+– Prezime i ime, mjesto, država i datum rođenja
+– Državljanstvo
+– Vrsta i broj isprave o identitetu
+– Prebivalište (boravište) i adresa
+– Datum i vrijeme dolaska u objekt
+– Predviđeni datum odlaska iz objekta
+– Datum i vrijeme odlaska iz objekta
+– Napomena
+(3) Upisivanje podataka iz stavka 1. ovog članka u Popis turista obavlja se na temelju podataka iz rješenja nadležnog ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba odnosno ministarstva nadležnog za turizam izdanog temeljem zakona koji uređuje ugostiteljsku djelatnost odnosno pružanje usluga u turizmu te drugih odgovarajućih dokumenata kojima se dokazuje identitet i svojstvo pravne ili fizičke osobe iz članka 2. stavka 2. i 3. ovog Pravilnika.
+(4) Upisivanje podataka iz stavka 2. ovoga članka u Popis turista, obavlja se na temelju podataka iz prijave i odjave turista.
+(5) Pristupne podatke iz stavka 1. podstavka 6. ovoga članka dodjeljuje mjesno nadležna turistička zajednica, a uključuju korisničko ime, lozinku i TAN listu.
+(6) Šifru smještajnog objekta iz stavka 1. podstavka 2. ovoga članka dodjeljuje Ministarstvo unutarnjih poslova.
+III. OBVEZNICI PRIJAVE I ODJAVE TURISTA
+Članak 4.
+(1) Obveznici prijave i odjave turista turističkoj zajednici su:
+1. pravne i fizičke osobe koje pružaju uslugu noćenja u smještajnom objektu;
+2. pravne i fizičke osobe koje pružaju uslugu noćenja na plovnom objektu nautičkog turizma (charter, crusing);
+3. fizičke osobe koje pružaju uslugu smještaja u domaćinstvu i seljačkom domaćinstvu
+4. vlasnik kuće ili stana za odmor;
+5. stanovnici turističke općine ili grada.
+(2) Osobe iz stavka 1. ovoga članka prijavu i odjavu turista

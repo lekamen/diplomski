@@ -1,0 +1,46 @@
+ izračunat kao geometrijski prosjek,
+3. prinos UCITS fonda mora uvijek sadržavati točno navedeno vremensko razdoblje na koje se odnosi (datum početka i kraja razdoblja),
+4. uz prikaz prinosa, promidžbena informacija mora sadržavati i podatke o rizicima ulaganja u UCITS fond,
+5. navesti naknade i troškove UCITS fonda koji su uzeti u obzir prilikom izračuna prinosa.
+MJESEČNI IZVJEŠTAJ ZA ULAGATELJE
+Članak 7.
+(1) Mjesečni izvještaj za ulagatelje iz članka 212. Zakona mora minimalno sadržavati sljedeće podatke:
+1. osnovne informacije o UCITS fondu,
+2. ulagateljske ciljeve i strategiju ulaganja UCITS fonda,
+3. strukturu ulaganja UCITS fonda,
+4. naknade UCITS fonda,
+5. neto vrijednost imovine i cijenu udjela UCITS fonda,
+6. podatke o prinosu UCITS fonda,
+7. grafički prikaz kretanja cijene udjela UCITS fonda,
+8. naziv depozitara UCITS fonda.
+(2) Mjesečni izvještaj za ulagatelje na mrežnoj stranici društva za upravljanje mora biti dostupan dvije godine od dana objave.
+Članak 8.
+Osnovne informacije o UCITS fondu iz članka 7. stavka 1. točke 1. ovoga Pravilnika trebaju minimalno sadržavati sljedeće:
+1. naziv društva za upravljanje,
+2. naziv UCITS fonda,
+3. vrstu UCITS fonda,
+4. iznos minimalne uplate u UCITS fond,
+5. datum početka rada UCITS fonda,
+6. početnu vrijednost udjela UCITS fonda,
+7. valutu UCITS fonda,
+8. trajanje UCITS fonda u slučaju da je osnovan kao UCITS fond na određeno vrijeme
+9. podatke o osnovnim karakteristikama svake pojedine klase udjela UCITS fonda, kada je to primjenjivo.
+Članak 9.
+(1) Mjesečni izvještaj mora minimalno sadržavati sljedeće podatke o strukturi ulaganja iz članka 7. stavka 1. točke 3. ovoga Pravilnika, koji se odnose na posljednji radni dan mjeseca za koji se izrađuje izvještaj:
+1. deset (10) najvećih pozicija ulaganja s naznakom postotnog udjela u neto imovini UCITS fonda,
+2. strukturu imovine UCITS fonda prema vrstama imovine,
+3. strukturu imovine UCITS fonda prema državama, skupinama država ili regijama,
+4. valutnu izloženost imovine UCITS fonda,
+5. strukturu imovine UCITS fonda prema gospodarskim sektorima,
+6. za vrijednosne papire koji su vrednovani metodom procjene, naziv izdavatelja, identifikacijske oznake vrijednosnih papira, trenutno procijenjene vrijednosti, te metode i datum zadnje procjene,
+7. podaci iz točaka 1. do 5. ovoga članka mogu se prikazati grafički ili tablično s naznakom postotnog udjela svake kategorije koja se grafički prikazuje.
+(2) Mjesečni izvještaj mora sadržavati i naznaku postotnog udjela prenosivih vrijednosnih papira u neto imovini UCITS fonda, koji se grupiraju na sljedeći način:
+1. prenosivi vrijednosni papiri iz članka 252. stavka 1. točaka 1. i 2. Zakona,
+2. prenosivi vrijednosni papiri iz članka 252. stavka 2. Zakona.
+(3) Podaci o deset (10) pozicija ulaganja imovine UCITS fonda iz stavka 1. točke 1. ovoga članka moraju jasno prikazivati o kojem se financijskom instrumentu radi na način da je iz istoga vidljivo sljedeće:
+1. za prenosive vrijednosne papire i instrumente tržišta novca naziv izdavatelja i identifikacijska oznaka,
+2. za depozite naziv kreditne institucije u koju je položen depozit,
+3. za sve ostale financijske instrumente koji se nalaze u deset (10) pozicija ulaganja imovine UCITS fonda, a koje nisu navedene u točkama 1. i 2. ovoga stavka, potrebno je navesti podatke iz kojih je jasno vidljivo o kojem financijskom instrumentu se radi.
+(4) Struktura imovine UCITS fonda po državama, skupinama država ili regijama iz stavka 1. točke 3. ovoga članka i gospodarskim sektorima iz stavka 1. točke 5. ovoga članka jasno mora prikazivati stvarnu izloženost izdavateljima ili tržištima pojedinih država, skupinama država ili regijama te gospodarskim sektorima koja uključuje i izloženost postignutu ulaganjem u izvedenice te udjele ili dionice investicijskih fondova i ostale financijske instrumente, kada je to primjenjivo.
+Članak 10.
+Naknade UCITS fonda iz članka 7. stavka 1. točke 4. ovoga Pravilnika trebaju prikazivati postotni iznos godišnje naknade za

@@ -1,0 +1,26 @@
+ registracije
+Naziv luke upisa ili mjesta registracije ispisuje se ili na oba boka plovila ili na njegovoj krmi, a iza njih slijedi slovo ili slova predviđena za zemlju u kojoj se nalazi luka upisa ili mjesto registracije;
+c) jedno od sljedećeg:
+(i) Jedinstveni europski identifikacijski broj plovila koji se sastoji od osam arapskih brojki. Prve tri znamenke označavaju zemlju i nadležno tijelo gdje je jedinstveni europski identifikacijski broj plovila dodijeljen. Ova identifikacijska oznaka obvezna je samo za ona plovila kojima je jedinstveni europski identifikacijski broj plovila dodijeljen: ili
+(ii) Službeni broj plovila, koji se sastoji od sedam arapskih brojeva, iza kojih se po mogućnosti nalazi malo slovo. Prve dvije znamenke označavaju zemlju i nadležno tijelo gdje je službeni broj plovila dodijeljen. Ova identifikacijska oznaka obvezna je samo za ona plovila kojima je dodijeljen službeni broj plovila, a koji još nije pretvoren u jedinstveni europski identifikacijski broj plovila.
+Jedinstveni europski identifikacijski broj plovila ili službeni broj plovila moraju se pokazivati sukladno odredbama točke a) ovoga stavka.
+(2) Dodatno, osim za čamce i pomorske brodove:
+a) svako plovilo namijenjeno za prijevoz robe mora imati i oznaku nosivosti u tonama ispisanu na obje strane plovila, na trupu ili na trajno pričvršćenim pločama,
+b) svako plovilo namijenjeno za prijevoz putnika mora imati oznaku najvećeg dopuštenog broja putnika istaknutu na dobro vidljivom mjestu na plovilu.
+(3) Oznake za identifikaciju iz stavaka 1. i 2. ovoga članka moraju biti lako čitljivi i napisani neizbrisivim latiničnim slovima. Natpisi uljanom bojom smatraju se neizbrisivim. Visina znakova mora biti najmanje 20 cm za ime, a za druge oznake najmanje 15 cm. Širina znakova i debljina crta moraju biti u skladu s visinom. Znakovi moraju biti svijetle boje na tamnoj podlozi ili tamne boje na svijetloj podlozi.
+(4) Kao izuzetak od prethodnog stavka pomorska plovila mogu zadržati svoje oznake za identifikaciju.
+(5) Plovila koja imaju posadu dužna su, za vrijeme plovidbe danju, na krmi izvjesiti zastavu državne pripadnosti. Brzi brodovi mogu umjesto zastave državne pripadnosti postaviti ploču koja odgovara zastavi u pogledu oblika i boja.
+Članak 2.02 – Oznake za identifikaciju čamaca
+(1) Čamci moraju imati zvanične registracijske oznake, a ukoliko takve oznake nisu propisane, moraju imati:
+a) ime koje također može biti skraćenica ili broj i
+b) ime i stalno mjesto boravka vlasnika.
+(2) Registracijske oznake i oznake za identifikaciju navedene u stavku 1. točki a) ovoga članka ispisuju se na vanjskoj strani čamca lako čitljivim i neizbrisivim latiničnim slovima, čija je visina najmanje 10 cm, pri čemu se neizbrisivim smatra natpis napravljen uljanom bojom. Ako čamac nema ime, onda se na njemu ispisuje naziv (ili skraćeni naziv) kompanije kojoj čamac pripada, a zatim se u slučaju potrebe ispisuje i broj.
+(3) Ime i stalno mjesto boravka vlasnika čamca ispisuju se na vidljivom mjestu s unutarnje ili vanjske strane čamca.
+(4) Čamci koji pripadaju plovilima moraju imati s unutarnje ili vanjske strane ime plovila kome pripadaju i bilo koji drugi podatak potreban za identifikaciju vlasnika.
+Članak 2.03 – Baždarenje plovila
+Svakom plovilu namijenjenom za prijevoz tereta mora biti utvrđena nosivost.
+Članak 2.04 – Oznake uronjenja i ljestvice uronjenja
+(1) Svako plovilo, osim čamaca, mora imati oznake koje pokazuju razinu najvećeg uronjenja. Za plovila unutarnje plovidbe, metode po kojima će se određivati razina najvećeg uronjenja kao i uvjeti koji se moraju poštivati prilikom postavljanja oznaka gaza propisani su Tehničkim pravilima za statutarnu certifikaciju plovila unutarnje plovidbe.
+(2) Svako plovilo, osim čamaca, čije uronjenje može dostići jedan metar mora na trupu imati označene ljestvice uronjenja. Uvjeti za postavljanje ljestvica uronjenja za plovila unutarnje plovidbe su navedeni u Prilogu 2 ovoga Pravilnika.
+Članak 2.05 – Oznake za identifikaciju sidara
+(1)

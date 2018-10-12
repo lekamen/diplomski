@@ -1,0 +1,22 @@
+ km/h«, a iza glavnog signala se nalazi ŽCP koji se osigurava SS uređajem, takav ŽCP smatra se neosiguranim te strojovođa postupa u skladu s odredbama iz članka 129. stavka 1. ovog Pravilnika.
+(10) Ako se ulazak ili izlazak vlaka dopušta signalnim znakom »Oprezna vožnja brzinom do 20 km/h«, smatra se da signalni znakovi manevarskih signala za zaštitu voznog puta ne vrijede za vožnju vlaka, ali se oni postavljaju tako da signaliziraju slobodno manevriranje ako je to moguće.
+Članak 161.
+(1) Za vrijeme isključenja SS uređaja zbog održavanja ili drugih radova, uzastopni vlakovi smiju se otpremati samo u kolodvorskom razmaku. Za te vlakove, kao i za vlakove suprotnog smjera na jednokolosiječnoj pruzi, obavezno je traženje dopuštenja te davanje najave i odjave.
+(2) Kada uređaj za osiguranje prometa na pruzi ne omogućava kontrolu stanja svakog pojedinog prostornog odsjeka te se zbog smetnje ili kvara pojavi zauzeće jednog ili više blokovnih prostornih odsjeka ili je jedan od prostornih signala neispravan i signalizira signalni znak za zabranjenu vožnju ili je neosvijetljen, uzastopni vlakovi otpremaju se u kolodvorskom razmaku.
+(3) Kada se na jednokolosiječnoj pruzi i na pruzi s obostranim prometom ne može dobiti privola pomoću SS uređaja za otpremu vlakova, vlakovi se otpremaju u kolodvorskom razmaku u onom smjeru za koji ne postoji privola. Za prvi vlak koji se otprema u smjeru za koji postoji privola obavezno je traženje dopuštenja.
+(4) Nakon uvođenja kolodvorskog razmaka, od prostornog signala koji signalizira signalni znak za zabranjenu vožnju ili je neosvijetljen do onog prostornog signala koji signalizira signalni znak za dopuštenu vožnju, vlakovi moraju voziti smanjenom brzinom, ali ne većom od 30 km/h.
+(5) Kod reguliranja prometa vlakova u kolodvorskom razmaku zbog neispravnosti SS uređaja, prometnik vlakova obavještava pisanim nalogom strojovođu svakog vlaka o sljedećem:
+a) da se promet vlakova odvija u kolodvorskom razmaku
+b) koji prostorni signali ne vrijede
+c) koji su ŽCP-i s uređajem za osiguranje ŽCP-a neosigurani
+d) ako je neuporabljiv prvi prostorni signal ispred ulaznog signala, da se od njega mora voziti smanjenom brzinom, ali ne većom od 30 km/h
+e) o opreznoj vožnji i smanjenoj brzini na pojedinim prostornim odsjecima i
+f) o brojevima prostornih signala od kojih i do kojih se mora voziti smanjenom brzinom.
+(6) Obavještavanje strojovođe obavlja prometnik vlakova u kolodvoru koji otprema vlak u kolodvorskom razmaku.
+(7) Upravitelj infrastrukture dužan je općim aktom propisati sve postupke vezane za utvrđivanje neispravnosti SS uređaja i način reguliranja prometa za vrijeme neispravnosti SS uređaja.
+Članak 162.
+(1) Nakon što strojovođa odnosno izvršni radnik željezničkog prijevoznika obavijesti prometnika vlakova da je vlak stao ispred prostornog signala koji signalizira signalni znak za zabranjenu vožnju ili ispred neosvijetljenog prostornog signala, prometnici vlakova susjednih kolodvora odnosnog međukolodvorskog odsjeka moraju utvrditi da na sljedećem prostornom odsjeku nema vlaka ili raskinutog dijela vlaka i postoji li neispravnost na uređaju za osiguranje ŽCP-a.
+(2) Kada se utvrdi da nema smetnji za daljnju vožnju, a uređaji ne omogućavaju kontrolu slobodnosti kolosijeka, dopuštenje za nastavak vožnje pojedinog vlaka strojovođi daje prometnik vlakova sljedećeg kolodvora u nazočnosti prometnika vlakova prethodnog kolodvora odnosno sredstvima dokaznog sporazumijevanja.
+(3) Kada se na dijelu pruge koji se nalazi između glavnog signala ispred kojeg je vlak stao i kolodvora nalaze ŽCP-i s uređajem za osiguranje ŽCP-a koji nisu osigurani, kod dopuštenja za nastavak vožnje vlaka moraju se navesti kilometarski položaji neosiguranih ŽCP-a.
+(4) Dopuštenje za nastavljanje vožnje daje se prvom vlaku u smjeru vožnje. Za uzastopni vlak smije se dati dopuštenje za nastavljanje vožnje kad je prethodni vlak ušao cijeli u kolodvor na jednak način kao i za prethodni vlak.
+(5) Ako se obavijest ili zapovijed daje preko RDU-a,

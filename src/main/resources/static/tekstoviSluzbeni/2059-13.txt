@@ -1,0 +1,27 @@
+ troškovi. Iznimno se troškovi ugradnje građevinskih uređaja mogu utvrditi na temelju uobičajenih troškova gradnje pojedinih sastavnica.
+(3) Normalne troškove gradnje se prilagođava cjenovnim odnosima na dan vrednovanja uz pomoć prikladnih indeksnih nizova za cijenu gradnje.
+(4) Normalni troškovi gradnje obuhvaćaju uobičajene troškove gradnje u određenom razdoblju uključivo iznos odgovarajuće stope poreza na dodanu vrijednost u odnosu na vrstu građevine, godinu izgradnje i standard gradnje procjenjivane građevine. Prilikom korištenja normalnih troškova gradnje iz zemalja Europske unije potrebno je primarno uzeti u obzir razlike u visini poreza na dodanu vrijednost u odnosu na stope koje su propisane u Republici Hrvatskoj.
+(5) Prilikom procjene vrijednosti starijih građevina u obzir se uzimaju troškovi gradnje novih zamjenskih građevina, a ne troškovi rekonstrukcije. Posebna obilježja građevine prema vrsti građevine, godini izgradnje i standarda gradnje, mogu se uzeti u obzir interpolacijom.
+Vrijednost građevina na dan vrednovanja
+Članak 56.
+(1) Za procjenu vrijednosti građevina koriste se normalni troškovi gradnje koji bi za gradnju novih građevina nastali na dan vrednovanja.
+(2) Procjena vrijednosti građevine može se utvrditi:
+1. na temelju normalnih troškova gradnje ili
+2. prema stvarno nastalim troškovima gradnje.
+(3) Prilikom procjene vrijednosti građevina prednost ima trošak gradnje na temelju normalnih troškova gradnje.
+(4) Preduvjet za primjenu stavka 3. ovoga članka je dostupnost prikladnih normalnih troškova gradnje. Prikladni su oni normalni troškovi gradnje koji se dovoljno podudaraju s procjenjivanom građevinom prije svega u odnosu na vrstu građevine, građevne materijale, tehnologiju izvođenja radova i opremu.
+(5) Za utvrđivanje troškovne vrijednosti građevine normalni troškovi gradnje izraženi prema jedinici ploštine površine ili volumena množe se s površinskim ili prostornim sadržajem procjenjivane građevine.
+(6) U slučaju poznate buduće prenamjene dijela građevine, procjena troškovnom metodom se ograničuje samo na one dijelove građevine koje će se koristiti na postojeći način.
+(7) Prilikom provjere ranijeg korištenja građevine u slučaju dogradnje u obzir se uzimaju troškovi djelomičnog rušenja, odvoza, čišćenja, osiguranja građevine kao i novčani dobitci uklonjenih dijelova građevine.
+Uzgredni troškovi
+Članak 57.
+(1) Uzgredni troškovi nastaju: planiranjem, istražnim radovima, izradom tehničke i projektne dokumentacije, provođenjem stručnog nadzora nad građenjem, upravljanjem projektom gradnje, ishođenjem dozvola i podmirenjem doprinosa, te troškovima koji su nužni za financiranje izgradnje.
+(2) U slučaju da je nekretnina stečena radi gradnje u uzgredne troškove ubrojit će se: troškovi posrednika u prometu nekretnina, troškovi javnog bilježnika, važeći porez vezan uz promet nekretnina, procjena vrijednosti nekretnine, katastarske izmjere, troškovi priključaka, troškovi oslobađanja nekretnine od stvari i osoba, troškovi osiguranja gradnje i drugi troškovi koji nisu uključeni u normalne troškove gradnje.
+Indeksni nizovi za cijenu gradnje
+Članak 58.
+Indeksni nizovi za cijenu gradnje mogu se utvrditi na temelju dostupnih podataka o kretanju normalnih troškova gradnje, vrijednosti etalona ili druge pogodne jedinice.
+Umanjenja vrijednosti
+Općenito o umanjenju vrijednosti zbog starosti građevine
+Članak 59.
+(1) Na temelju normalnih troškova gradnje, prikladnih indeksnih nizova za cijenu gradnje i odgovarajućih korekcijskih faktora utvrđuje se cijena gradnje novih građevina. U slučaju da se radi o starijim građevinama vrijednost istih se utvrđuje umanjenjem u odnosu na starost.
+(2) Umanjenje vrijednosti zbog starosti građevine utvrđuje se uzimanjem u obzir odnosa između predvidivog ostatka održivog vijeka korištenja građevine i održivog vijeka korištenja za pojedinu vrstu građevine, pri čemu se kao osnovica uzima ravnomjerno umanjenje vrijednosti kao postotak troška gradnje. Umanjenje je potrebno obrazložiti prilikom

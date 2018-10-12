@@ -1,0 +1,30 @@
+ povezanih osoba (oznaka grupe povezanih osoba »G0000«), za nositelje grupe povezanih osoba (oznaka grupe povezanih osoba prema nositelju grupe povezanih osoba »N****«) koji su u izvješću »PO« u obilježju 27. »Osnova identificiranja« označeni modalitetom »ZZ« te za grupe odnosnih izloženosti prikazane na instrumentima Z2009 i Z2012 jer:
+– čine izloženost prema osobama, grupama povezanih osoba i grupama odnosnih izloženosti koja je prije primjene izuzeća i priznatih tehnika smanjenja kreditnog rizika jednaka ili veća od 10% priznatoga kapitala izvještajne institucije (izloženost prikazana u stupcu 210 Izvještaja LE2) na nekonsolidiranoj osnovi i, ako se na izvještajnu instituciju ne primjenjuje posljednja rečenica iz članka 394. stavka 1. Uredbe (EU) br. 575/2013, na konsolidiranoj osnovi
+– čine 20 najvećih izloženosti izvještajne institucije na konsolidiranoj osnovi ako se na izvještajnu instituciju primjenjuje posljednja rečenica članka 394. stavka 1. Uredbe (EU) br. 575/2013 i
+– čine 10 najvećih izloženosti izvještajne institucije prema institucijama i 10 najvećih izloženosti prema nereguliranim financijskim subjektima na konsolidiranoj osnovi prema članku 394. stavku 2. Uredbe (EU) br. 575/2013.«
+U točki 35. treća alineja mijenja se i glasi:
+»– modalitet Z2010 uključuje se u izloženosti grupe povezanih osoba koje su označene modalitetom »ZZ«;«
+Četvrta alineja briše se, a peta alineja postaje četvrta alineja.
+Članak 7.
+U poglavlju II.1.4. »Podaci o izloženostima prema pojedinačnim osobama iz grupa povezanih osoba« točka 38. mijenja se i glasi:
+»38. Izvještaj LE3 sastavlja se za sve osobe koje su uključene u grupe povezanih osoba (oznaka grupe povezanih osoba »G****«) koje su u izvješću »PO« u obilježju 27. »Osnova identificiranja« označene modalitetom »ZZ« te za članice grupe odnosnih izloženosti Z2012, a koje su prikazane u Izvještaju LE2.«
+Članak 8.
+U poglavlju II.1.5. »Razdoblja dospijeća 10 najvećih izloženosti«, u točki 44. treća alineja mijenja se i glasi:
+»– modalitet Z2010 iz izvješća »AI« prikazuje se u izvješću »AC« u modalitetu Z3000 i uključuje se u izloženosti pojedinačnih osoba ili grupa povezanih osoba;«.
+Četvrta alineja briše se, a peta alineja postaje četvrta alineja.
+Članak 9.
+U poglavlju II.1.6. »Razdoblja dospijeća 10 najvećih izloženosti prema pojedinačnim osobama iz grupa povezanih osoba« točka 49. mijenja se i glasi:
+»49. U Izvještaju LE5 prikazuju se one odnosne izloženosti koje su u izvješću »AI« pridružene modalitetima Z2008 i Z2010, a u izvješću »AC« uključene u modalitet Z3000 te se prikazuju na razini pojedinačne osobe u grupi povezanih osoba prema razdoblju dospijeća. Članice grupe odnosnih izloženosti »Z2012 odnosna izloženost iznad 0,25%« prikazuju se u razdoblju s nedefiniranim dospijećem (stupac 260).«
+Članak 10.
+U dijelu III. »Dostavljanje izvještaja«, u poglavlju III.1.1. »Standardne karakteristike datoteke«, u točki 62. pod 1) iza stavka e. dodaje se stavak f., koji glasi:
+»f. prilozima XVI. i XVII. – Izvješćivanje o opterećenju imovine,«.
+Članak 11.
+U poglavlju III.1.4. »Ostali slogovi datoteke« točka 81. mijenja se i glasi:
+»81. Oznake za tag prate logiku označavanja redaka i stupaca koji su propisani validacijskim pravilima koja objavljuje Europsko nadzorno tijelo za bankarstvo na svojoj internetskoj stranici i koja vrijede za određeni izvještajni datum.«
+Članak 12.
+U poglavlju III.1.5. »Kontrole« točka 100. mijenja se i glasi:
+»100. Sadržaj kontrola izvještaja iz Provedbene uredbe Komisije (EU) br. 680/2014 objavljuje Europsko nadzorno tijelo za bankarstvo na svojoj internetskoj stranici.«
+Točka 102. mijenja se i glasi:
+»102. Za potrebe razumijevanja validacijskih formula koje objavljuje Europsko nadzorno tijelo za bankarstvo i validacija iz ovog dijela Upute opći zapis polja izvještaja definiran je kao: {izvještaj, redak, stupac, parametar}.«
+Točke 106., 107., 108. i 109. mijenjaju se i glase:
+»106. U dijelu zapisa »parametar« upisano je dodatno obilježje po kojem obrasci variraju

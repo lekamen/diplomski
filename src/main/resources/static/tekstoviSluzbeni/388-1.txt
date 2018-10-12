@@ -1,0 +1,33 @@
+ mjerenje i verifikaciju (u daljnjem tekstu: SMIV) – računalni sustav za prikupljanje, obradu i verifikaciju informacija o energetskoj učinkovitosti i ostvarenim uštedama energije.
+17. Tim energetske učinkovitosti (u daljnjem tekstu: EE tim) – tim osoba koji čine energetski savjetnik, energetski suradnik i/ili imenovana osoba koje u ETC-u obavljaju poslove iz ovog Pravilnika
+18. Uređaj za daljinsko mjerenje potrošnje – elektronički uređaj koji automatski preuzima podatke s mjernog uređaja.
+19. Zakon – Zakon o energetskoj učinkovitosti.
+20. Zgrada javnog sektora – zgrada koju koristi subjekt javnog sektora.
+21. Zgrada s više zona – zgrada koja se sastoji iz više dijelova koje su zaokružene zasebne funkcionalne cjeline za koje se mogu izraditi zasebni energetski certifikati:
+a) i koja se sastoji od dijelova koji čine zaokružene funkcionalne cjeline koje imaju različitu namjenu te imaju mogućnost odvojenih sustava grijanja i hlađenja (stambeni dio u nestambenoj zgradi), ili se razlikuju po unutarnjoj projektnoj temperaturi za više od 4 °C, osim ako čine funkcionalnu cjelinu (npr.: kupaonica u stanu, garderoba uz sportsku dvoranu i slično),
+b) ili kod koje je 10% i više neto podne površine prostora zgrade u kojem se održava kontrolirana temperatura u drugoj namjeni od osnovne namjene kada je ploština te neto podne površine u drugoj namjeni veća od 50 m²,
+c) ili kod koje dijelovi zgrade koji su zaokružene funkcionalne cjeline imaju različiti termotehnički sustav i/ili bitno različite režime korištenja termotehničkih sustava.
+Prilozi Pravilniku
+Članak 4.
+Ovaj Pravilnik sadrži sljedeće priloge:
+– Prilog 1 Metodologija sustavnog gospodarenja energijom;
+– Prilog 2 Upute za slanje računa i očitanja daljinskim putem u ISGE sustav (ISGE Remote 2.0);
+– Prilog 3 Izgled i sadržaj Izvještaja o godišnjoj potrošnji energenata i vode.
+II. OBVEZE JAVNOG SEKTORA
+Imenovana osoba
+Članak 5.
+(1) Odgovorna osoba dužna je imenovati najmanje jednu pravnu ili fizičku osobu zaduženu za SGE (u daljnjem tekstu: imenovana osoba) i o tome obavijestiti APN.
+(2) Imenovana osoba dužna je uspostaviti SGE u subjektu javnog sektora za koji je imenovana što uključuje definiranje hijerarhije, imenovanje jednog ili više energetskog savjetnika i/ili energetskog suradnika te definiranje ETC-a za koji je pojedini energetski savjetnik zadužen, te o tome obavijestiti APN.
+(3) Imenovana osoba može samostalno obavljati funkcije energetskog savjetnika i/ili energetskog suradnika u sustavu.
+Energetski savjetnik i energetski suradnik
+Članak 6.
+Energetski savjetnik i energetski suradnik su dio EE tima, a zadužene su za unos, praćenje, analizu i izvještavanje u procesu sustavnog gospodarenja energijom na način propisan Metodologijom iz Priloga 1 koji je sastavni dio ovog Pravilnika.
+Edukacija sudionika u sustavnom gospodarenju energijom javnog sektora
+Članak 7.
+(1) APN provodi redovite edukacije imenovanih osoba, energetskog savjetnika i energetskog suradnika.
+(2) Edukacija imenovane osobe i energetskog savjetnika traje 16 školskih sati, odnosno dva radna dana, a obuhvaća informiranje o zakonskoj regulativi, gradnji i izolaciji zgrade, sustavima grijanja, ventilacije i hlađenja, primjeni obnovljivih izvora energije i učinkovitom korištenju energije te korištenju ISGE-a za uloge energetski administrator i energetski menadžer.
+(3) Edukacija energetskog suradnika traje 8 školskih sati, odnosno jedan radni dan, a obuhvaća informiranje o zakonskoj regulativi, gradnji i izolaciji zgrade, sustavima grijanja, ventilacije i hlađenja, primjeni obnovljivih izvora energije i učinkovitom korištenju energije te korištenju ISGE-a za uloge Gost i Korisnik.
+(4) Imenovanoj osobi APN nakon edukacije dodjeljuje ulogu energetskog administratora ili energetskog menadžera u ISGE-u.
+(5) Energetskom savjetniku APN nakon edukacije dodjeljuje ulogu Energetskog administratora u ISGE-u.
+(6) Energetskom suradniku APN nakon edukacije dodjeljuje ulogu Korisnika u ISGE-u.
+Praćenje potrošnje energenata i vode

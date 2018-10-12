@@ -1,0 +1,37 @@
+ djelatnosti u okviru osiguranja kvalitete kojima je cilj potvrditi da su ispunjeni svi zahtjevi kvalitete vezani uz ispitivanje.
+1.48. Slučajni odabir
+Postupak slučajnog odabira ispitanika u skupine za liječenje, odnosno kontrolne skupine, čime se smanjuje pristranost.
+1.49. Nadležna tijela
+Tijela nadležna za donošenje zakonskih propisa. U ovim Smjernicama pojam nadležna tijela obuhvaća tijela koja razmatraju dobivene kliničke podatke i ona koja provode inspekciju (vidi 1.29). Ova se tijela katkada nazivaju i nadležna tijela.
+1.50. Ozbiljni štetni događaj ili ozbiljna nuspojava
+Svaka nepoželjna medicinska pojava koja pri bilo kojoj dozi uključuje sljedeće:
+– smrt osobe,
+– po život opasno stanje,
+– potrebu za bolničkim liječenjem ili produljenjem već postojećeg bolničkog liječenja,
+– trajni ili teški invaliditet ili nesposobnost,
+– prirođenu anomaliju/manu od rođenja.
+(vidi ICH Smjernice za postupanje s podacima o kliničkoj neškodljivosti: Definicije i standardi za hitno izvješćivanje).
+1.51. Izvorni podaci
+Svi podaci u izvornim dokumentima i ovjerenim kopijama izvornih zapisa kliničkih nalaza zapažanja ili drugih postupaka u kliničkim ispitivanjima potrebnim za praćenje tijeka i procjenu kliničkog ispitivanja.
+Izvorni podaci nalaze se u izvornoj dokumentaciji (izvornim zapisima ili ovjerenim kopijama).
+1.52. Izvorna dokumentacija
+Izvorni spisi, podaci i zapisi (npr. bolnička dokumentacija, bolnički i zdravstveni kartoni, laboratorijske bilješke, dopisi, dnevnici ispitanika ili kontrolne liste, liste izdavanja lijekova, snimljeni podaci s automatiziranih uređaja, kopije i prijepisi ovjereni kao vjerodostojne kopije, mikrofiši, negativi, mikrofilmovi i magnetski mediji, rendgenske snimke, dosjei ispitanika i evidencija iz ljekarni, laboratorija i zdravstveno-tehničkih odjela uključenih u kliničko ispitivanje.
+1.53. Naručitelj ispitivanja
+Pojedinac, tvrtka, ustanova ili organizacija koja je odgovorna za pokretanje, vođenje i/ili financiranje kliničkog ispitivanja.
+1.54. Naručitelj ispitivanja – ispitivač
+Pojedinac koji pokreće i provodi, sam ili s drugima, kliničko ispitivanje i pod čijim se neposrednim vođenjem ispitivani proizvod propisuje, izdaje, ili ga ispitanik primjenjuje. Ovaj pojam ograničen je na fizičke osobe (tj. ne obuhvaća pravne osobe kao što su korporacije ili agencije).
+Obveze naručitelja – ispitivača uključuju i obveze naručitelja kliničkog ispitivanja i one ispitivača u kliničkom ispitivanju.
+1.55. Standardni operativni postupci (SOPs)
+Detaljne pisane Upute radi postizanja ujednačenosti u obavljanju određenih poslova.
+1.56. Pomoćni ispitivač
+Svaki pojedini član tima za provođenje kliničkog ispitivanja kojega ispitivač u ustanovi u kojoj se provodi kliničko ispitivanje rasporedi ili nadgleda pri obavljanju postupaka vezanih za kliničko ispitivanje i/ili pri donošenju odluka vezanih za kliničko ispitivanje (npr. suradnici, specijalizanti, znanstveni suradnici). Također vidi Ispitivač.
+1.57. Ispitanik/sudionik kliničkog ispitivanja
+Osoba koja sudjeluje u kliničkom ispitivanju bilo da prima ispitivani proizvod ili služi kao kontrola.
+1.58. Identifikacijska oznaka ispitanika
+Jedinstvena identifikacijska oznaka koju ispitivač dodjeljuje svakom ispitaniku radi zaštite identiteta ispitanika, koja se koristi umjesto imena ispitanika kad ispitivač izvještava o štetnom događaju i/ili drugim podacima vezanim uz ispitivanje.
+1.59. Mjesto provođenja kliničkog ispitivanja
+Mjesto na kojem se provode aktivnosti vezane uz kliničko ispitivanje.
+1.60. Neočekivana nuspojava
+Nuspojava čija priroda ili težina nije u skladu s važećim podacima o proizvodu (npr. Uputama za ispitivača za neodobreni ispitivani proizvod ili uputi o lijeku/sažetku proizvoda ako se radi o odobrenom proizvodu) (vidi ICH Smjernice za rukovanje podacima o kliničkoj neškodljivosti: Definicije i standardi za hitno izvješćivanje).
+1.61. Posebno osjetljivi ispitanici
+Pojedinci na čiju spremnost da sudjeluju u kliničkom ispitivanju mogu neosnovano utjecati

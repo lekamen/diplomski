@@ -1,0 +1,24 @@
+ sva plaćanja koja primi bilo koji imatelj PM računa pod uvjetima iz Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa.«.
+3. U članku 5. stavku 2. točka (e) zamjenjuje se sljedećom:
+»(e) kreditne institucije ili bilo koju vrstu subjekata navedenih u točkama od (a) do (c) ovog stavka, u oba slučaja kad su osnovani u zemlji s kojom je Unija sklopila monetarni sporazum kojim se odobrava pristup bilo kojem od tih subjekata platnim sustavima Unije, pridržavajući se uvjeta iz monetarnog sporazuma i pod uvjetom da je relevantni pravni režim na snazi u toj zemlji jednakovrijedan relevantnom zakonodavstvu Unije.«.
+4. Članak 9. mijenja se kako slijedi:
+(a) U stavku 1. uvodna rečenica i točka (a) zamjenjuju se sljedećim:
+»1. Radi otvaranja PM računa dostupnog preko interneta u sustavu TARGET2-HR sudionici podnositelji prijave moraju:
+(a) ispuniti sljedeće tehničke zahtjeve:
+i. postaviti, voditi, upravljati i pratiti te osigurati sigurnost potrebne informatičke infrastrukture radi povezivanja sa sustavom TARGET2-HR i podnošenja naloga za plaćanje tom sustavu, u skladu s tehničkim specifikacijama iz Dodatka I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa. Pritom sudionici podnositelji prijave mogu uključiti treće strane, ali ostaju isključivo odgovorni i
+ii. proći test koji zahtijeva Hrvatska narodna banka i«.
+(b) U stavku 1. na kraju točke (b) točka se zamjenjuje zarezom, te se iza točke (b) dodaje sljedeća točka (c):
+»(c) navesti da žele pristupati svojem PM računu preko interneta, a ako žele dodatnu mogućnost pristupa sustavu TARGET2-HR preko pružatelja mrežnih usluga, i podnijeti zahtjev za poseban PM račun u sustavu TARGET2-HR. Podnositelji prijave dužni su podnijeti propisno ispunjen obrazac za prijavu za izdavanje elektroničkih certifikata potrebnih za pristup sustavu TARGET2-HR upotrebom internetskog pristupa.«.
+5. Članak 10. mijenja se kako slijedi:
+(a) Stavak 3. zamjenjuje se sljedećim:
+»3. Sudionici koji se koriste internetskim pristupom mogu samo online pregledavati imenik sustava TARGET2 i ne smiju ga dijeliti ni interno ni prema van.«.
+(b) Stavak 5. zamjenjuje se sljedećim:
+»5. Sudionici potvrđuju da Hrvatska narodna banka i druge središnje banke mogu objaviti njihova imena i BIC-eve.«.
+6. Članak 11. mijenja se kako slijedi:
+(a) Stavci 1. i 2. zamjenjuju se sljedećim:
+»1. Hrvatska narodna banka nudi internetski pristup opisan u Odluci o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa. Osim kad je drukčije propisano ovom Odlukom ili zakonom, Hrvatska narodna banka poduzima sve razumne mjere u okviru svojih ovlasti kako bi ispunila svoje obveze prema ovoj Odluci, bez jamčenja ishoda.
+2. Sudionici koji se koriste internetskim pristupom za pristup sustavu TARGET2-HR plaćaju Hrvatskoj narodnoj banci naknade utvrđene u Dodatku II.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa u valuti navedenoj u tom Dodatku (tj. valuti u kojoj posluje sustav TARGET2).«.
+(b) Iza stavka 4. dodaje se sljedeći stavak 5.:
+»5. Sudionici su dužni:
+(a) svakog radnog dana aktivno i u pravilnim razmacima provjeravati sve informacije koje su im dostupne na ICM-u, posebno informacije koje se odnose na važne sistemske događaje (kao što su poruke u vezi s namirom sporednog sustava) i događaje trajnog ili privremenog isključenja sudionika. Hrvatska narodna banka nije odgovorna za bilo koju izravnu ili neizravnu štetu, koja potječe iz sudionikova propusta da provodi ove provjere i
+(b) u svakom trenutku osigurati usklađenost sa sigurnosnim zahtjevima navedenima u Dodatku I.A. Odluke o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa, posebno u vezi 

@@ -1,0 +1,26 @@
+ splav za spašavanje, napuhavajući prsluk za spašavanje i sustav za napuštanje broda mora se pregledati:
+.1 u vremenskim razmacima koji ne prelaze 12 mjeseci, ako je to u nekim slučajevima nepraktično, RO može produljiti rok pregleda koji ne prelaze 17 mjeseci,
+.2 u odobrenoj uslužnoj tvrtki osposobljenoj da ih pregledava, održava ispravno sredstva za preglede i koristi odgovarajuće osposobljeno osoblje u skladu s preporukama IMO Rezolucije A.761(18).
+2.14.8.3 Kružna izmjena otpuštanja sustava za napuštanje broda
+Uz zahtjeve navedene u 2.14.8.1 koji se odnose na vremenske razmake pregleda sustava za napuštanje broda, svaki sustav za napuštanje broda mora se otpustiti s broda na temelju kružne izmjene u razmacima koje je odobrila RO, uz uvjet da se svaki sustav otpusti najmanje jednom u šest godina.
+2.14.8.4 RO, kada odobrava nove i posebne samonapuhavajuće splavi za spašavanje u skladu sa zahtjevima navedenim u 1.3.3, može odobriti produljene razmake pregleda pod uvjetom da:
+.1 nove i posebne samonapuhavajuće splavi za spašavanje zadrže isti standard, kao i onaj koji se propisuje kod pregleda, u produljenim razmacima za pregled;
+.2 sustav samonapuhavajućih splavi za spašavanje mora pregledavati na brodu ovlaštena osoba u skladu s 2.14.8.1.1; i
+.3 pregled u vremenskim razmacima do 5 godina, obavljat će se u skladu s preporukama IMO Rezolucije A.761(18).
+2.14.8.5 Osim kako je navedeno u 2.14.6, napuhavajuće brodice za prikupljanje moraju se pregledati u vremenskim razmacima do 12 mjeseci, a ako je to u nekim slučajevima nepraktično, RO može produljiti rok pregleda koji ne prelaze 17 mjeseci. Pregled mora obaviti ovlaštena osoba.
+Popravci i održavanje napuhavajućih brodica za prikupljanje moraju se obavljati u skladu s uputama proizvođača. Nužni popravci mogu se obavljati na brodu, a popravci većeg obima moraju se obavljati u odobrenoj uslužnoj tvrtci.
+2.14.9 Periodično održavanje hidrostatskih uređaja za otpuštanje
+2.14.9.1 Hidrostatski uređaji za otpuštanje, osim onih kojima je trajnost ograničena, moraju se pregledavati.
+.1 u vremenskim razmacima koji ne prelaze 12 mjeseci, a ako je to neizvedivo RO može produljiti rok pregleda koji ne prelaze 17 mjeseci; i
+.2 u odobrenoj uslužnoj tvrtki koja je ovlaštena da ih pregledava, da održava ispravnim uređaje za preglede i ima odgovarajuće obučeno osoblje.
+2.14.10 Označavanje mjesta za čuvanje opreme
+2.14.10.1 Spremnici, police, sanduci i druga slična mjesta za pohranu opreme za spašavanje moraju se označiti simbolima u skladu s IMO Rezolucijom A.760(18), uz označavanje sredstava koja su pohranjena na tim mjestima. Ako je na tom mjestu složeno više od jednog sredstva za spašavanje broj sredstava se također mora označiti.
+2.14.11 Periodični pregled uređaja za spuštanje i uređaja za otpuštanje pod opterećenjem
+2.14.11.1 Uređaji za spuštanje moraju se:
+.1 održavati u skladu s uputama za održavanje na brodu koji se zahtijevaju u 7.3;
+.2 moraju se temeljito pregledavati za vrijeme godišnjeg pregleda u skladu sa zahtjevima Pravila, Dio 1.- Opći propisi, Odjeljak 5.; i
+.3 nakon izvršenog pregleda prema .2, podvrgnuti dinamičkom ispitivanju kočnice vitla pri maksimalnoj brzini spuštanja. Opterećenje mora biti jednako masi plovila za preživljavanje ili brodice za prikupljanje bez osoba, osim u vremenskim razmacima koji ne prelaze 5 godina, kada se ispitivanje mora izvršiti ispitnim opterećenjem jednakim 1,1 mase plovila za preživljavanje ili brodice za prikupljanje uvećane za masu pripadajuće opreme i masu dopuštenog broja osoba.
+2.14.11.2 Uređaj za otpuštanje brodice za spašavanje ili brodice za prikupljanje, uključivo sistem za otpuštanje brodice za spašavanje koja se spušta slobodnim padom, mora se:
+.1 održavati u skladu s uputama za održavanje na brodu koji se zahtijevaju u 7.3;
+.2 podvrgnuti temeljitom pregledu i ispitivanju za vrijeme pregleda u skladu s zahtjevima Pravila, Dio 1. – Opći propisi, Odjeljak 5., i mora ga obavljati odgovarajuće obučeno osoblje koje poznaje uređaj; i
+.3

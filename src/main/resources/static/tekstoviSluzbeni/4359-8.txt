@@ -1,0 +1,43 @@
+na stvarnoj visini od 330 ft AGL (100 m) do 3300 ft AGL/QNH (1000 m)
+– let na srednjim visinama – na visini od 3300 ft AGL/QNH (1000 m) do FL285
+– let na velikim visinama – na visini od FL285 do FL460
+– let na vrlo velikim visinama – na visini iznad FL460.
+Let prema broju vojnih zrakoplova
+Članak 46.
+(1) Prema broju vojnih zrakoplova koji istodobno provode letačku zadaću let može biti pojedinačni i grupni.
+(2) Pojedinačni let je let u kojem letačku zadaću vojni zrakoplov provodi pojedinačno.
+(3) Grupni let je let dva ili više vojnih zrakoplova u grupi koji su u međusobnoj vizualnoj ili radarskoj vezi i pod zapovijedanjem vođe grupe.
+VI. METEOROLOŠKI UVJETI
+Meteorološki uvjeti za letenje
+Članak 47.
+(1) Prema stupnju utjecaja vremenskih prilika na provedbu leta, meteorološki uvjeti dijele se na vizualne meteorološke uvjete, instrumentalne meteorološke uvjete i nepovoljne meteorološke uvjete.
+(2) Vizualni meteorološki uvjeti za letenje su meteorološki uvjeti u kojima su vidljivost, odstojanje od oblaka i baza oblaka jednaki ili veći od utvrđenih minimuma za vizualno letenje.
+(3) Instrumentalni meteorološki uvjeti su meteorološki uvjeti u kojima su vidljivost, udaljenost od oblaka i baza oblaka manji od minimuma utvrđenih za vizualne meteorološke uvjete.
+(4) Nepovoljni meteorološki uvjeti za letenje su meteorološki uvjeti u kojima je letenje zabranjeno.
+Nepovoljni meteorološki uvjeti
+Članak 48.
+(1) Nepovoljni meteorološki uvjeti za uzlijetanje i slijetanje su:
+– oluja praćena jakim vjetrom, tučom ili ledenom kišom
+– magla, sumaglica i padaline zbog kojih je vidljivost ispod propisanog meteorološkog minimuma za aerodrom, vojni zrakoplov ili posadu
+– niski oblaci s bazom ispod propisanog meteorološkog minimuma za aerodrom, vojni zrakoplov ili posadu
+– prizemni vjetar čija je brzina i/ili smjer veća od propisane za određeni tip vojnog zrakoplova ili posade
+– poledica ili snježni pokrivač na uzletno-sletnoj stazi čija je visina iznad dopuštene za određeni tip vojnog zrakoplova
+– stanje vodene površine prigodom kojih je visina i vrsta valova veća od propisane za određeni tip zrakoplova koji slijeće na vodu ili posade.
+(2) Nepovoljni meteorološki uvjeti za let na ruti su:
+– olujna zona koja se ne može obići ili nadletjeti minimalno 1500 ft (500 m) iznad
+– zaleđivanje zrakoplova koje se ne može ukloniti s pomoću uređaja za razleđivanje na vojnom zrakoplovu
+– zaleđivanje vojnog zrakoplova koji nije opremljen uređajem za razleđivanje
+– turbulencija zraka koja ugrožava sigurnost letenja
+– vulkanski pepeo.
+Meteorološki minimum za uzlijetanje i slijetanje
+Članak 49.
+(1) Radi povećanja sigurnosti letenja propisuju se meteorološki minimumi za vojni zrakoplov, aerodrom i posadu.
+(2) Meteorološki minimum za vojni zrakoplov su minimalne vrijednosti baze oblaka, vidljivosti orijentira i maksimalne brzina vjetra (za hidro zrakoplov i stanje vodene površine), prigodom kojih letačko-tehničke značajke vojnog zrakoplova i njegove opreme, uz potporu odgovarajuće opreme na aerodromu, omogućuju sigurno uzlijetanje i slijetanje.
+(3) Meteorološki minimum za vojni zrakoplov određuje se Priručnikom za uporabu određenog tipa vojnog zrakoplova.
+(4) Meteorološki minimum za vojni aerodrom su minimalne vrijednosti baze oblaka i vidljivosti orijentira prigodom kojih je, ovisno o reljefu zemljišta, umjetnim preprekama i odgovarajućoj opremi aerodroma, moguće sigurno uzlijetanje i slijetanje.
+(5) Meteorološki minimum za vojni aerodrom objavljuje se na način uobičajen u zračnom prometu.
+(6) Meteorološki minimum za posadu propisuje se Programom letačke obuke.
+VII. NADZOR I KONTROLA
+Nadzor i kontrola obavljanja poslova značajnih za sigurnost vojnog zračnog prometa
+Članak 50.
+(1) Sve ustrojstvene jedinice Oružanih snaga koje vojni zrakoplov ili zrakoplovni uređaj proizvode, upotrebljavaju, održavaju, obnavljaju ili popravljaju, obavljaju preinake na vojnom zrakoplovu ili zrakoplovnom uređaju, opskrbljuju zrakoplov gorivom i mazivom, obavljaju prijevoz u vojnom zračnom

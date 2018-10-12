@@ -1,0 +1,29 @@
+ Trajanje učinaka;
+– Ovisnost učinaka o dozi.
+Gdje je god moguće valja koristiti tablice radi jasnijeg prikaza podataka.
+U niže navedenim odjeljcima Uputa valja raspraviti najvažnije rezultate pretkliničkih istraživanja, uključujući zamijećenu ovisnost učinaka o dozi, važnost za primjenu u ljudi te ostale aspekte koje valja ispitati u ljudi. Tamo gdje je to moguće, valja usporediti rezultate djelotvornih netoksičnih doza primijenjenih u istoj vrsti životinja (npr. valja raspraviti terapijski indeks). Valja razmotriti važnost ovih podataka za odgovarajuću primjenu u ljudi. Gdjegod je to moguće, usporedbe je potrebno zasnivati na razinama u krvi/tkivu, a ne na mg/kg.
+(a) Pretklinička farmakologija
+Potrebno je dati sažetak farmakoloških aspekata ispitivanog proizvoda te značajnih metabolita zamijećenih kod eksperimentalnih životinja, gdje je to moguće. Ovakav bi sažetak trebao obuhvaćati istraživanja u kojima je ocijenjeno moguće terapijsko djelovanje lijeka (npr. modeli djelotvornosti, vezanje na receptore i specificitet) i njegova sigurnost (npr. posebna istraživanja ostalih farmakoloških djelovanja osim terapijskih).
+(b) Farmakokinetika i metabolizam ispitivanog proizvoda kod životinja
+Potrebno je dati sažetak farmakokinetike i biotransformacije (metabolizma) i eliminacije ispitivanog proizvoda u svih životinja na kojima je provedeno pretkliničko istraživanje. U raspravi rezultata valja se osvrnuti na apsorpciju te lokalnu i sistemsku bioraspoloživost ispitivanog proizvoda i njegovih metabolita, kao i njihovu povezanost s farmakološkim i toksikološkim nalazima kod životinjskih vrsta.
+(c) Toksikologija
+Tamo gdje je to prikladno, sažeti opis zamijećenih toksičnih učinaka u različitih vrsta životinja potrebno je slijediti ovu strukturu:
+– Jednokratna doza;
+– Ponavljana doza;
+– Kancerogenost;
+– Posebna istraživanja (npr. iritacija i senzibilizacija);
+– Reprodukcijska toksičnost;
+– Genotoksičnost (mutagenost).
+7.3.6. Učinci na ljudima
+Uvod:
+Potrebno je temeljito raspraviti poznate učinke ispitivanog proizvoda na ljudima, uključujući podatke o njegovoj farmakokinetici, metabolizmu, farmakodinamici, ovisnosti o dozi, sigurnosti, učinkovitosti (djelotvornosti) i drugim farmakološkim djelovanjima. Tamo gdje je to moguće potrebno je dati sažetak svih dovršenih kliničkih ispitivanja. Također, potrebno je navesti podatke koji se odnose na primjenu ispitivanog proizvoda izvan kliničkih ispitivanja, kao što su iskustva nakon stavljanja lijeka u promet.
+(a) Farmakokinetika i metabolizam ispitivanog proizvoda kod ljudi
+– potrebno je sažeto prikazati farmakokinetiku ispitivanog proizvoda, uključujući sljedeće dostupne podatke:
+– farmakokinetiku (uključujući metabolizam i apsorpciju, vezanje bjelančevina u plazmi, raspodjelu i eliminaciju);
+– bioraspoloživost ispitivanog proizvoda (apsolutnu i relativnu gdje je to moguće) koristeći referentni pripravak;
+– populacijske podskupine (npr. prema spolu, dobi i oštećenoj funkciji organa);
+– interakcije (npr. interakcije lijekova te utjecaj hrane);
+– ostale farmakokinetičke podatke (npr. rezultate populacijskih ispitivanja provedenih u okviru kliničkih ispitivanja).
+(b) Sigurnost i učinkovitost
+Potrebno je dati sažetak podataka o sigurnosti, farmakodinamici, učinkovitosti (djelotvornosti) i ovisnosti o dozi ispitivanog proizvoda (uključujući njegove metabolite) iz ranijih ispitivanja na ljudima (zdravih volontera i/ili bolesnika). Potrebno je raspraviti značenje ovih podataka. Tamo gdje je dovršeno više kliničkih ispitivanja, pregledni sažeci dobivenih rezultata o sigurnosti i učinkovitosti prema indikacijama u podskupinama mogu dati jasan prikaz podataka. Korisno bi bilo objediniti u tablice sve nuspojave lijeka (za sve ispitivane indikacije) zamijećene u svim kliničkim ispitivanjima. Potrebno je raspraviti značajne razlike u nuspojavama prema indikacijama i podskupinama ispitanika.
+Upute za ispitivača trebaju opisati očekivane rizike i nuspojave lijeka na temelju ranijih iskustava s ispitivanim

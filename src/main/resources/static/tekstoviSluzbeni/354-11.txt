@@ -1,0 +1,36 @@
+ raspoložive procjene odgovarajuće ili ne temelji se na sljedećim razmatranjima:
+– procjene se odnose na sustav za vrednovanje smanjivanja rizika od smrtnosti u sektoru prometa i slijede pristup vrijednosti spremnosti na plaćanje (WTP) u skladu s metodama navedenih preferencija,
+– uzorak ispitanika korišten za vrijednosti reprezentativan je za dotično stanovništvo. Uzorak naročito mora odražavati raspodjelu prema dobi/dohotku zajedno s ostalim mjerodavnim društveno-gospodarskim/demografskim značajkama stanovništva,
+– metoda za dobivanje vrijednosti WTP-a: anketa mora biti sastavljena tako da su pitanja jasna/razumljiva ispitanicima.
+Izravni i neizravni gospodarski troškovi procjenjuju se na temelju stvarnih troškova koje snosi društvo.
+5.3. Definicije
+5.3.1. »troškovi štete po okoliš« znači troškovi koje moraju pokriti željeznički prijevoznici i upravitelji infrastrukture koji se procjenjuju na temelju njihova iskustva kako bi se oštećeno područje ponovno vratilo u stanje prije željezničke nesreće;
+5.3.2. »troškovi materijalne štete na željezničkim vozilima ili infrastrukturi« znači troškovi osiguravanja novih željezničkih vozila ili infrastrukture, koji imaju jednaku funkcionalnost i tehničke parametre kao nepovratno oštećeni te trošak ponovne uspostave stanja željezničkih vozila ili infrastrukture u stanje prije nesreće, koje ocjenjuju željeznički prijevoznici i upravitelji infrastrukture na temelju svojega iskustva, uključujući i troškove povezane sa zakupom željezničkih vozila zbog neraspoloživosti oštećenih vozila;
+5.3.3. »trošak kašnjenja kao posljedice nesreća« znači novčana vrijednost kašnjenja koju su pretrpjeli korisnici željezničkog prijevoza (putnici i korisnici prijevoza tereta) kao posljedicu nesreća, a izračunava se prema sljedećem modelu:
+VT = novčana vrijednost uštede vremena putovanja
+Vrijednost vremena za putnike u vlaku (po satu)
+VTP = [VT poslovnih putnika] * [prosječni postotak poslovnih putnika godišnje] + [VT putnika koji ne putuju poslom] * [prosječni postotak putnika koji ne putuju poslom godišnje]
+VTP se mjeri u eurima po putniku po satu
+»Poslovni putnik« znači putnik koji putuje u vezi sa svojim profesionalnim djelatnostima, isključujući putovanje na posao i s posla.
+Vrijednost vremena za teretni vlak (po satu)
+VTF = [VT teretnih vlakova] * [(tonski kilometar) / (vlak-kilometar)]
+VTF se mjeri u eurima po toni tereta po satu
+Prosječni broj tona tereta prevezenog vlakom u jednoj godini = (tonski kilometar) / (vlak-kilometar)
+CM = trošak jedne minute kašnjenja vlaka
+Putnički vlak
+CMP = K1 * (VTP / 60) * [(putnički kilometar) / (vlak-kilometar)]
+Prosječan broj putnika po vlaku u jednoj godini = (putnički kilometar) / (vlak-kilometar)
+Teretni vlak
+CMF = K2 * (VTF/60)
+Faktori K1 i K2 su između vrijednosti vremena i vrijednosti kašnjenja, kako je procijenjeno u studijama navedenih preferencija, kako bi se u obzir uzelo da se vrijeme izgubljeno zbog kašnjenja smatra znatno negativnijim od uobičajenog vremena putovanja.
+Troškovi kašnjenja zbog nesreće = CMP * (minute kašnjenja putničkih vlakova) + CMF * (minute kašnjenja teretnih vlakova)
+Područje primjene modela
+Troškovi kašnjenja izračunavaju se za značajne nesreće kako slijedi:
+– stvarna kašnjenja na željezničkim prugama na kojima su se dogodile nesreće, mjereno na krajnjim postajama,
+– stvarna kašnjenja ili, ako to nije moguće, procijenjena kašnjenja na ostalim zahvaćenim prugama.
+6. Pokazatelji koji se odnose na tehničku sigurnost infrastrukture i njezinu provedbu
+6.1. »Sustav za zaštitu vlakova (TPS)« znači sustav koji pomaže osigurati poštovanje signala i ograničenja brzine.
+6.2. »Ugrađeni sustavi« znači sustavi koji pomažu strojovođi da poštuje pružnu signalizaciju i signalizaciju u upravljačnici i time osiguravaju zaštitu opasnih mjesta i provođenje ograničenja brzine.
+Ugrađeni TPS-ovi opisani su kako slijedi:
+(a) upozorenje, kojim se pruža automatsko upozorenje vozača;
+(b) upozorenje i automatsko zaustavljanje, kojim se pruža automatsko upozorenje 

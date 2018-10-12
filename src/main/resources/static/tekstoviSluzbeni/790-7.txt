@@ -1,0 +1,34 @@
+ dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ukoliko korisnik ne preuzme zahtjev za dopunu niti nakon ponovljene dostave, zahtjev za dopunu će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja zahtjeva za dopunu na oglasnu ploču.
+(7) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja zahtjeva za isplatu obračunat će se:
+1. protuvrijednost u kunama po tečaju Europske komisije ECB u mjesecu zaprimanja zahtjeva za isplatu iskazanom na šest decimala (navedeni tečaj se može dobiti na: http://ec.europa.eu/budget/inforeuro/)
+2. u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja zahtjeva za isplatu iskazanom na šest decimala, obračun potpore temeljit će se na ostvarenom tečaju.
+(8) Ukoliko korisnik ne dostavi zahtjev za isplatu, donijet će se izjava o poništenju obveze.
+(9) Ukoliko korisnik dostavi zahtjev za isplatu nakon propisanog roka, Agencija za plaćanja će donijeti odluku o odbijanju zahtjeva za isplatu.
+(10) Ukoliko korisnik odustane od ulaganja nakon podnošenja zahtjeva za isplatu, odnosno podnese zahtjev za odustajanje, donijet će se potvrda o odustajanju.
+(11) Ukoliko se tijekom obrade zahtjeva za isplatu utvrdi nepravilnost, a koja ne prelazi iznos od 50 % ukupne vrijednosti odobrenih sredstava javne potpore, Agencija za plaćanja će odbiti iznos nepravilnog izdatka od zahtjeva za isplatu i donijeti odluku o isplati u kojoj će ukupan iznos biti umanjen za iznos nepravilnog izdatka.
+Odluke temeljem zahtjeva za isplatu
+Članak 24.
+(1) Nakon provjere zahtjeva za predujam s pripadajućom dokumentacijom Agencija za plaćanja će korisniku donijeti:
+1. odluku o isplati predujma ili
+2. odluku o odbijanju zahtjeva za isplatu predujma.
+(2) Odluka o odbijanju zahtjeva za isplatu predujma donosi se zbog nedostavljanja valjane garancije.
+(3) Nakon provjere zahtjeva za isplatu s pripadajućom dokumentacijom Agencija za plaćanja će korisniku donijeti:
+1. odluku o isplati ili
+2. odluku o odbijanju zahtjeva za isplatu.
+(4) Odluka o odbijanju zahtjeva za isplatu donosi se zbog:
+1. neispunjavanja uvjeta propisanih Pravilnikom, javnim natječajem
+2. neprihvatljivosti ulaganja i/ili svih troškova sukladno odluci o dodjeli sredstava
+3. dostavljanja zahtjeva za isplatu nakon propisanog roka
+4. ukoliko se tijekom obrade zahtjeva za isplatu utvrdi nepravilnost, koja prelazi iznos od 50 % ukupne vrijednosti odobrenih sredstava javne potpore
+5. onemogućavanja obavljanja kontrole na terenu
+6. korištenja razminiranog zemljišta na način koji nije u skladu s njegovom namjenom
+7. nedostavljanja dokumentacije navedene u natječaju ovoga Pravilnika preporučenom pošiljkom u roku od deset dana od dana zaprimanja zahtjeva za dopunu/obrazloženje/ispravak ukoliko se dopuna odnosi na cjelokupno ulaganje
+8. utvrđene nepravilnosti kod koje je utvrđena i sumnja na prijevaru, a sredstva potpore nisu isplaćena korisniku. Provedbeno tijelo će zbog sumnje na prijevaru izvijestiti Državno odvjetništvo Republike Hrvatske.
+V. KONTROLA NA TERENU
+Ovlaštenje za provedbu kontrole na terenu
+Članak 25.
+(1) Kontrolu na terenu provode djelatnici Agencije za plaćanja (u daljnjem tekstu: kontrolori).
+(2) Kontrolu na terenu provode kontrolori kontrolom prije isplate i tijekom petogodišnjeg razdoblja nakon izvršenoga konačnog plaćanja (ex post kontrola).
+(3) Osim redovnih kontrola, kontrole na terenu mogu se provoditi u bilo kojem trenutku.
+(4) Za provedbu kontrole na terenu može se zatražiti tehnička pomoć ovlaštenih djelatnika Hrvatskog centra za razminiranje i/ili ovlaštenih djelatnika Ministarstva unutarnjih poslova za upravni i inspekcijski nadzor nad obavljanjem poslovima humanitarnog razminiranja.
+(5) Osim djelatnika iz stavka 1. ovoga članka, kontrolu korištenja financijskih sredstava dodijeljene potpore mogu obavljati i djelatnici Službe za unutarnju reviziju Agencije za

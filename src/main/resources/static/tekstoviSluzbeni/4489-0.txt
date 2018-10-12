@@ -1,0 +1,40 @@
+82 14.09.2016 Pravilnik o mjeriteljskim zahtjevima za boce koje se upotrebljavaju kao mjerni spremnici
+DRŽAVNI ZAVOD ZA MJERITELJSTVO
+1838
+Na temelju članka 43. stavka 5. Zakona o mjeriteljstvu (»Narodne novine«, broj 74/14) ravnatelj Državnog zavoda za mjeriteljstvo donosi
+PRAVILNIK
+O MJERITELJSKIM ZAHTJEVIMA ZA BOCE KOJE SE UPOTREBLJAVAJU KAO MJERNI SPREMNICI
+Članak 1.
+(1) Ovim Pravilnikom propisuju se mjeriteljski zahtjevi za boce koje se upotrebljavaju kao mjerni spremnici.
+(2) Ovaj se Pravilnik primjenjuje na spremnike koji se općenito nazivaju bocama, a izrađeni su od stakla ili neke druge tvari čija čvrstoća i postojanost oblika pružaju jednaka mjeriteljska jamstva kao i staklo ukoliko:
+– su takvi spremnici začepljeni ili ih se može začepiti, a namijenjeni su za skladištenje, prijevoz ili isporuku tekućina,
+– imaju nazivni obujam od 0,05 litara do uključivo 5 litara,
+– imaju takve mjeriteljske značajke (oblik i ujednačenost proizvodnje) da se mogu upotrebljavati kao mjerni spremnici odnosno da im se napunjenima do utvrđene razine ili utvrđenog postotka njihovog vršnog obujma sadržaj može mjeriti s dostatnom točnošću.
+(3) Spremnici koji zadovoljavaju uvjete propisane stavkom 2. ovoga članka nazivaju se boce kao mjerni spremnici.
+Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća 75/107/EEZ od 19. prosinca 1974. godine o usklađivanju zakona država članica koji se odnose na boce koji se upotrebljavaju kao mjerni spremnici (SL L 42/14, 15. 2. 1975.).
+Članak 3.
+(1) Samo se boce kao mjerni spremnici koje zadovoljavaju zahtjeve ovoga Pravilnika mogu označivati oznakom propisanom u šestom i sedmom stavku točke 5. Dodatka I. ovoga Pravilnika.
+(2) One se podvrgavaju mjeriteljskom nadzoru pod uvjetima koji su specificirani u dodacima ovoga Pravilnika.
+Članak 4.
+Boce kao mjerni spremnici koje zadovoljavaju zahtjeve i provjere utvrđene ovim Pravilnikom, neće se odbiti, zabraniti niti će se ograničiti njihovo stavljanje na tržište i u uporabu na osnovi razloga koji se odnose na njihov obujam, način određivanja njihova obujma ili metode kojima se provjeravaju.
+Članak 5.
+Proizvođač boca kao mjernih spremnika, ovlašteni zastupnik ili uvoznik odgovoran je da boce kao mjerni spremnici ispunjavaju odredbe ovoga Pravilnika.
+Članak 6.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o mjeriteljskim zahtjevima za boce kao mjerne spremnike (»Narodne novine«, broj 56/13).
+Članak 7.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/16-02/10
+Urbroj: 558-01/2-16-4
+Zagreb, 9. rujna 2016.
+Zamjenik ravnatelja mr. sc. Božidar Ljubić, dipl. ing., v. r.
+DODATAK I.
+1. Boce kao mjerni spremnici moraju biti obilježeni sljedećim obujmima koji se uvijek utvrđuju za temperaturu od 20 °C:
+1.1. »nazivni obujam« Vn je obujam koji je označen na boci; to je obujam tekućine za koji se pretpostavlja da ga boca sadrži kada je napunjena u uvjetima uporabe za koje je namijenjena;
+1.2. »vršni obujam« boce je obujam tekućine koji ona sadrži kada je napunjena do vrha.
+1.3. »stvarni obujam« boce je obujam tekućine koji ona stvarno sadrži kada je napunjena pod točno takvim uvjetima koji teoretski odgovaraju nazivnom obujmu.
+2. Postoje dvije metode punjenja boca kao mjernih spremnika:
+a) do stalne razine,
+b) do stalne praznine.
+Udaljenost između teoretske razine punjenja za nazivni obujam i vršne razine i razlike između vršnog obujma i nazivnog obujma, koja se naziva obujmom širenja ili praznine, mora biti stalna za sve boce istoga tipa tj. za boce izrađene prema istom nacrtu.
+3. Kako bi, uzimajući u obzir uobičajene nesigurnosti punjenja, bilo moguće izmjeriti obujam sadržaja boca kao mjernih spremnika s dostatnom točnošću, posebno s točnošću koja se zahtijeva pravilnikom kojim se uređuju pretpakovine, najveće dopušteno odstupanje (pozitivno ili negativno) obujma boca kao mjernih spremnika, tj. najveće dopuštene razlike (pozitivne i negativne) na temperaturi od 20 °C i pod 

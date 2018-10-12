@@ -1,0 +1,26 @@
+ovlašten sam odrediti pravila postupka ili tako što će ih sam utvrditi ili upućivanjem na određena pravila, zakon ili na drugi prikladan način.
+V. POSEBNA PRAVILA O UBRZANOM ARBITRAŽNOM POSTUPKU
+Područje primjene
+Članak 62.
+(1) Posebna pravila o ubrzanom arbitražnom postupku primjenjuju se:
+1. u sporovima bez međunarodnog obilježja čija vrijednost predmeta ne prelazi kunsku protuvrijednost 100.000,00 €, ako stranke nisu drukčije odredile u svom arbitražnom ugovoru,
+2. u sporovima bez međunarodnog obilježja čija vrijednost predmeta spora prelazi 100.000,00 € te u sporovima s međunarodnim obilježjem ako su stranke u arbitražnom ugovoru odredile da će se u pravnim stvarima na koje se on odnosi postupak provesti po tim pravilima.
+(2) Ako sljedećim odredbama ovih pravila nije drukčije određeno, u ubrzanom arbitražnom postupku primjenjivat će se na odgovarajući način odredbe glave I. do IV. ovog Pravilnika.
+Sastav i konstituiranje arbitražnog suda
+Članak 63.
+(1) Skraćeni arbitražni postupak provodi arbitar pojedinac.
+(2) Ako se stranke u arbitražnom ugovoru ili prije podnošenja tužbe nisu sporazumjele o osobi koja će kao arbitar pojedinac riješiti njihov spor, arbitra pojedinca imenovat će ovlaštenik za imenovanje s mjerodavne liste arbitara Sudišta u roku od osam dana računajući od dana uplate predujma za pokriće troškova arbitražnog postupka.
+Podnošenje i dostava pismena
+Članak 64.
+(1) Tužba, odgovor na tužbu i drugi podnesci kao i prilozi uz te podneske u postupku na koji se primjenjuju odredbe ove glave podnose se u papirnom i elektroničkom obliku.
+(2) Tužitelj je dužan u tužbi, a tuženik u odgovoru na tužbu naznačiti svoju elektroničku adresu na kojoj će im se pismena dostavljati elektroničkim putem. Ova elektronička adresa smatra se obvezatnim dijelom identifikacije stranke u postupku.
+(3) Sudište i arbitar pojedinac dostavu svojih pismena strankama obavljaju elektroničkim putem i u papirnom obliku, osim ako se stranke ne odreknu dostave u papirnom obliku. Arbitar pojedinac dužan je svoja pismena upućena strankama dostaviti elektroničkim putem. Sudište je dužno svoja pismena upućena strankama dostaviti elektroničkim putem i arbitru pojedincu.
+(4) U slučajevima iz stavaka 1. do 3. ovoga članka stranke su dužne elektroničkim putem najkasnije u roku od tri dana potvrditi primitak pismena protivne stranke, Sudišta i arbitra pojedinca te priloga uz ta pismena. Elektronički oblik potvrde o primitku utvrdit će Sudište posebnom odlukom, odnosno na taj će se oblik primijeniti odredbe o preporučenoj elektroničkoj pošiljci iz E-Idas Uredbe Europske Komisije nakon što se počne primjenjivati.
+(5) Pismeno stranke upućeno elektroničkim putem protivnoj stranci elektroničkim će putem biti upućeno i Sudištu, koje će ga tim putem proslijediti toj stranci i arbitru pojedincu. Pismeno arbitra pojedinca upućeno elektroničkim putem strankama elektroničkim će putem biti upućeno i Sudištu, koje će ga tim putem proslijediti strankama.
+(6) Smatrat će se da je pismeno stranke, Sudišta i arbitra pojedinca dostavljeno protivnoj stranci odnosno strankama istekom trećeg dana nakon što ga je Sudište elektroničkim putem proslijedilo protivnoj stranci odnosno strankama (stavak 5.).
+(7) Stranka koja ne ispunjava ili neuredno ispunjava svoje obveze prema prethodnim odredbama ovoga članka dužna je protivnoj stranci, na njezin zahtjev, naknaditi troškove koji su joj time izazvani neovisno o ishodu spora. O navedenom ponašanju stranke arbitar pojedinac vodit će računa i pri odlučivanju o njezinu zahtjevu za naknadu troškova postupka.
+(8) Sudište ili arbitar pojedinac mogu odrediti poseban elektronički format koji su stranke dužne koristiti.
+(9) Visinu troškova izazvanih neispunjavanjem ili neurednim ispunjavanjem obveza iz prethodnih odredaba ovoga članka arbitar pojedinac odmjerava po slobodnoj ocjeni.
+(10) Dostava pravorijeka obavlja se prema odredbama članka 12. ovog Pravilnika.
+(11) Sudište i arbitar pojedinac međusobno komuniciraju elektroničkim putem.
+(12)

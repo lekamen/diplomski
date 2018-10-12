@@ -1,0 +1,47 @@
+ izravna zapovijed bit će:
+a) zatvoriti sve prozore i otvore s vanjske strane,
+b) ugasiti svaku nezaštićenu vatru i sva nezaštićena svjetla,
+c) prestati pušiti,
+d) zaustaviti sva nepotrebna pomoćna postrojenja,
+e) izbjegavati stvaranje iskri.
+Ako plovilo stoji, svi strojevi i pomoćni uređaji moraju se zaustaviti ili isključiti.
+(5) Stavak 4. ovoga članka primjenjuje se na plovila koje stoje u blizini opasnog područja. Nakon što opaze znak »Ne prilazi«, posada će, po potrebi, napustiti ova plovila.
+(6) Prilikom obavljanja radnji navedenih u stavcima 3. do 5. ovoga članka treba uzeti u obzir smjer kretanja struje i vjetra.
+(7) Plovila trebaju poduzeti radnje propisane stavcima 3. do 6. ovoga članka i ako se znak »Ne prilazi« odašilje s obale.
+(8) Zapovjednici koji primaju signal »Ne prilazi« moraju učiniti sve što je u njihovoj moći da obavijeste najbliže nadležno tijelo.
+Članak 8.02 – Obveza javljanja
+(1) Prije ulaska na područja sektora, prometnih kontrolnih postaja, prometnih centara i prevodnica označenih od strane nadležnih tijela i eventualno označenih znakom B.11 iz Priloga 7 ovoga Pravilnika zapovjednici sljedećih plovila i sastava moraju se prijaviti putem radiotelefonskog uređaja:
+a) plovila i sastavi koji prevoze opasne tvari u skladu s ADN,
+b) plovila koja prevoze više od 20 kontejnera,
+c) putnički brodovi osim brodova za jednodnevne izlete,
+d) pomorski brodovi, osim plovnih objekata za rekreaciju
+e) plovila za posebni prijevoz iz članka 1.21 ovoga Pravilnika,
+f) ostala plovila i sastavi, kada je to propisala lučka kapetanija.
+(2) Prilikom javljanja zapovjednici plovila navedenih u stavku 1. ovoga članka obavezni su dati sljedeće podatke:
+a) vrsta plovila,
+b) ime plovila,
+c) poziciju i smjer plovidbe,
+d) jedinstveni europski identifikacijski broj plovila ili službeni identifikacijski broj plovila; za pomorska plovila: IMO broj,
+e) maksimalnu nosivost plovila; za pomorska plovila: nosivost,
+f) dužinu i širinu plovila,
+g) vrstu, dužinu i širinu sastava,
+h) gaz (samo po posebnom zahtjevu),
+i) rutu putovanja
+j) luku utovara,
+k) luku istovara,
+l) vrstu i količinu tereta (za opasne tvari: kao što se zahtijeva prema točkama 5.4.1.1.1 a), b), c), d) i f) i 5.4.1.2.1 a) Dodatka ADN za prijevoz u rasutom stanju ili pakiranjima ili prema 5.4.1.1.2 a), b), c) d) i e) Dodatka ADN za prijevoz u tankerima);
+m) signalizaciju potrebnu za prijevoz opasnih tvari,
+n) broj osoba na plovilu
+o) broj kontejnera na plovilu.
+(3) Podaci iz stavka 2. ovoga članka, osim onih pod točkama c) i h), mogu se prijaviti nadležnom tijelu putem drugih sredstava ili osoba pisanim putem, telefonom ili elektronički. U svakom slučaju zapovjednik mora najaviti ulazak i izlazak plovila ili sastava iz sektora na kojem se zahtijeva najava.
+(4) Kada je plovidba prekinuta više od dva sata u sektoru na kojem se zahtijeva najava, zapovjednik je dužan prijaviti početak i završetak prekida.
+(5) Kada dođe do izmjena u podacima iz stavka 2. ovoga članka za vrijeme plovidbe kroz sektor na kojem se zahtijeva najava, nadležna tijela moraju biti o tome odmah izviještena.
+(6) Nadležna tijela ne smiju navedene podatke prenositi trećim stranama osim nadležnim tijelima susjednih zemalja na ruti plovila. Iznimno, u slučaju nesreće, nadležno tijelo smije dati podatke potrebne za hitne akcije spašavanja službama za pomoć u nuždi.
+(7) U Republici Hrvatskoj se primjenjuje i članak 11.21 ovoga Pravilnika.
+Glava 9 Bez teksta
+Glava 10 SPRJEČAVANJE ONEČIŠĆENJA VODA I UKLANJANJE OTPADA NASTALOG NA PLOVILU
+Članak 10.01 – Značenje pojedinih izraza
+Za potrebe ove Glave navedeni izrazi imaju sljedeće značenje:
+(1) Opći izrazi:
+a) »otpad nastao na plovilu« – tvari i predmeti utvrđeni točkama b) do f) ovoga stavka koje su odgovorne osobe uklonile ili ih namjeravaju ukloniti ili se to od njih zahtijeva;
+b) »otpad nastao prilikom korištenja plovila« – otpad i otpadne vode koji nastaju na plovilu korištenjem i održavanjem plovila uključujući uljni i mastan otpad i drugi otpad nastao prilikom

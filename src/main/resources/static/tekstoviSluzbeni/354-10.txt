@@ -1,0 +1,30 @@
+ tvari ADR-om, odjeljkom 1.8.5.;
+2.2. »opasne tvari« znači one tvari i proizvode čiji je prijevoz zabranjen RID-om ili dopušten samo pod uvjetima propisanim u njemu.
+3. Pokazatelji koji se odnose na samoubojstva
+3.1. »samoubojstvo« znači čin namjernog samoozljeđivanja čija je posljedica smrt, kako ga je zabilježilo i razvrstalo nadležno nacionalno tijelo;
+3.2. »pokušaj samoubojstva« znači čin namjernog samoozljeđivanja čija je posljedica teška ozljeda.
+4. Pokazatelji koji se odnose na pretkazivače nesreća
+4.1. »puknuta tračnica« znači svaka tračnica koja je podijeljena na dva ili više dijelova ili svaka tračnica s koje se odvojio komad metala, a što je prouzročilo slobodan prostor na voznoj površini duži od 50 mm i dublji od 10 mm;
+4.2. »izbacivanje ili druge deformacije kolosijeka« znači sva oštećenja koja se odnose na neprekinutost i geometriju kolosijeka zbog kojih je kolosijek potrebno zatvoriti ili odmah ograničiti dopuštenu brzinu;
+4.3. »ispad signalizacije u nesigurno stanje« znači svaki ispad signalno-sigurnosnog sustava (na infrastrukturi ili željezničkim vozilima) čija je posljedica pokazivanje manje ograničavajućih signalnih informacija od zahtijevanih;
+4.4. »prolazak pokraj signala kojim se zabranjuje daljnja vožnja uz prolazak opasne točke« znači svaka situacija kada bilo koji dio vlaka nastavi vožnju izvan dopuštenog kretanja i prođe opasnu točku;
+4.5. »prolazak pokraj signala kojim se zabranjuje daljnja vožnja bez prolaska opasne točke« znači svaka situacija kada bilo koji dio vlaka nastavi vožnju izvan dopuštenog kretanja, ali ne prođe opasnu točku.
+Nedopušteno kretanje iz točaka 4.4. i 4.5. znači prolazak:
+– pokraj svjetlosnog signala u boji ili likovnog signala uz prugu kojima se upozorava na opasnost ili pokazuje naredba STOJ, kada sustav za zaštitu vlakova (TPS) nije u funkciji,
+– kraja dopuštenog sigurnog kretanja koje je utvrđeno u TPS-u,
+– pokraj točke koja je priopćena pisanim ili usmenim odobrenjem utvrđenim u propisima,
+– pokraj ploče sa znakom obveznog zaustavljanja (ublaživači udarca nisu uključeni) ili ručnih signala.
+Slučajevi kada vozila bez priključene vučne jedinice ili nezaposjednuti vlak prođu pokraj signala kojim se zabranjuje daljnja vožnja nisu uključeni. Nisu uključeni ni slučajevi gdje signal iz bilo kojeg razloga pravodobno ne ukaže na zabranu daljnje vožnje i time omogući strojovođi da zaustavi vlak prije signala.
+Tijela nadležna za sigurnost mogu odvojeno izvješćivati o četiri indeksa nedopuštenog kretanja iz alineja ove točke, a moraju izvijestiti najmanje o zbirnom pokazatelju koji sadržava podatke o sva četiri indeksa pokazatelja.
+4.6. »puknut kotač na željezničkom vozilu u prometu« znači lom koji utječe na kotač i stvara rizik od nesreće (iskliznuća ili sudara);
+4.7. »puknuta osovina na željezničkom vozilu u prometu« znači lom koji utječe na osovinu i stvara rizik od nesreće (iskliznuća ili sudara).
+5. Zajedničke metodologije za izračunavanje gospodarskog učinka nesreća
+5.1. Vrijednost sprečavanja stradavanja (VPC) sastoji se od:
+(1) vrijednosti sigurnosti per se: vrijednosti spremnosti na plaćanje (WTP – engl. Willingness to Pay) na temelju studija navedenih preferencija, koje su provedene u državama članicama na koje se primjenjuju;
+(2) izravnih i neizravnih gospodarskih troškova: vrijednosti troškova procijenjenih u državi članici, koji se sastoje od:
+– troškova liječenja i oporavka,
+– sudskih troškova, troškova policije, privatnih istraga o sudaru, troškova službe za hitne slučajeve te administrativnih troškova osiguranja,
+– gubitaka u proizvodnji: vrijednost koje su za društvo mogle imati robe i usluge koje je osoba mogla proizvesti ili pružiti da se nesreća nije dogodila.
+Pri izračunu troškova stradavanja, smrtni slučajevi i teške ozljede razmatraju se zasebno (različiti VPC-ovi za smrtne slučajeve i za teške ozljede).
+5.2. Zajednička načela za ocjenu vrijednosti sigurnosti per se i izravnih/neizravnih gospodarskih troškova
+Za vrijednost sigurnosti per se ocjena jesu li

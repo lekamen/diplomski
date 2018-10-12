@@ -1,0 +1,33 @@
+ popunjeno, polje se obvezno popunjava.
+Polje 17. Vrijeme ugovaranja transakcije
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, obilježje 16. Polje ima četiri mjesta i sva se popunjavaju.
+Kontrola: Ako je polje 10. Instrument popunjeno modalitetom »FWD«, »NDF«, »SWP« ili »SWM«, polje se obvezno popunjava.
+Kontrola: Ako je polje 10. Instrument popunjeno modalitetom »SPT«, »PSP« ili »EFK« i polje 22. Spot tečaj je popunjeno, polje se obvezno popunjava.
+Kontrola: Ako je polje 10. Instrument popunjeno modalitetom »SPT«, »PSP« ili »EFK« i polje 24. Retail tečaj je popunjeno, polje se ne popunjava.
+Polje 18. Inicijator transakcije
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, obilježje 17. Polje ima dva mjesta i oba se popunjavaju.
+Kontrola: Polje je moguće popuniti modalitetom »DA« ili »NE«.
+Kontrola: Polje se popunjava isključivo ako je polje 12. Varijabilna valuta popunjeno modalitetom »HRK« i polje 22. Spot tečaj je popunjeno.
+Polje 19. Izvor referentnog tečaja
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, obilježje 18. Polje ima tri mjesta i sva se popunjavaju.
+Kontrola: Polje je moguće popuniti modalitetom »HNB«, »ECB«, »WMR« ili »OST«.
+Kontrola: Polje se popunjava isključivo ako je polje 10. Instrument popunjeno modalitetom »NDF«.
+Polje 20. Iznos transakcije
+Polje se obvezno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17. Iznos transakcije. Polje sadržava podatak o iznosu transakcije iskazan u baznoj valuti. Polje može imati najviše dvadeset znakova, uključujući decimalni zarez i dva decimalna mjesta.
+Kontrola: Ako je polje 2. Oznaka sloga popunjeno s »R« ili »Ixx«, polje mora biti popunjeno iznosom većim od nule.
+Kontrola: Ako je polje 2. Oznaka sloga popunjeno s »Sxx«, polje mora biti popunjeno iznosom suprotnog predznaka predznaku iznosa transakcije koji je naveden u slogu koji se stornira.
+Polje 21. Iznos povratne transakcije
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17. Iznos povratne transakcije. Polje sadržava podatak o iznosu povratne transakcije iskazan u baznoj valuti. Polje može imati najviše dvadeset znakova, uključujući decimalni zarez i dva decimalna mjesta.
+Kontrola: Polje se popunjava isključivo ako je polje 10. Instrument popunjeno modalitetom »SWM«.
+Kontrola: Polje mora biti popunjeno iznosom većim od nule.
+Polje 22. Spot tečaj
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17. Spot tečaj. Polje sadržava podatak o tečaju. Polje može imati najviše šesnaest znakova, uključujući decimalni zarez i šest decimalnih mjesta.
+Kontrola: Polje mora biti popunjeno iznosom većim od nule.
+Kontrola: Ako je polje 24. Retail tečaj popunjeno, polje se ne popunjava.
+Polje 23. Pre-spot/Forward tečaj
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17. Pre-spot/Forward tečaj. Polje sadržava podatak o tečaju. Polje može imati najviše šesnaest znakova, uključujući decimalni zarez i šest decimalnih mjesta.
+Kontrola: Polje mora biti popunjeno iznosom većim od nule.
+Kontrola: Ako je polje 10. Instrument popunjeno modalitetom »SPT« ili »EFK«, polje se ne popunjava.
+Polje 24. Retail tečaj
+Polje se uvjetno popunjava, i to u skladu s Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja, poglavlje IX., točka 17. Retail tečaj. Polje sadržava podatak o tečaju. Polje može imati najviše šesnaest znakova, uključujući decimalni zarez i šest decimalnih mjesta.
+Kontrola: Polje mora biti popunjeno iznosom većim od nule.

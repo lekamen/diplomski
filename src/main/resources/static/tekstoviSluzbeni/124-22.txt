@@ -1,0 +1,20 @@
+ ostvaruju kroz fizičku osobu ili skupinu fizičkih osoba koje zajedno djeluju također su povezana poduzeća ako se bave svojom djelatnošću ili dijelom svoje djelatnosti na istom mjerodavnom tržištu ili susjednim tržištima.
+»Susjednim tržištem« smatra se tržište proizvoda ili usluga izravno smješteno uzlazno ili silazno u odnosu na mjerodavno tržište.
+4. Osim u slučajevima navedenim u stavku 2., drugom podstavku, poduzeće se ne može smatrati malim i srednjim poduzećem ako mu s 25 posto ili više kapitala ili glasačkih prava izravno ili neizravno upravlja, zajedno ili samostalno, jedno ili više tijela javne vlasti.
+5. Poduzeća mogu usvojiti izjavu o svom statusu neovisnog poduzeća, partnerskog poduzeća ili povezanog poduzeća, uključujući podatke o pragovima navedene u članku 2. Ova izjava može se donijeti čak i ako je kapital raspoređen na takav način da je nemoguće točno odrediti tko ga posjeduje, u kojem slučaju poduzeće može u dobroj vjeri izjaviti da je moguće legitimno pretpostaviti da jedno poduzeće ili više međusobno povezanih poduzeća ne posjeduje 25 posto kapitala ili više. Takve se izjave donose ne dovodeći u pitanje provjere ili istrage predviđene nacionalnim pravilima ili pravilima Zajednice.
+Članak 4. PODACI KOJI SE KORISTE ZA BROJ OSOBLJA, FINANCIJSKE IZNOSE I REFERENTNO RAZDOBLJE
+1. Podaci koji se koriste za broj osoblja i financijske iznose su podaci koji se odnose na posljednje odobreno računovodstveno razdoblje, a izračunati su na godišnjoj razini. Uzimaju se u obzir od datuma zaključenja poslovnih knjiga. Iznos koji se koristi za iznos prometa računa se bez poreza na dodanu vrijednost (PDV) i drugih neizravnih poreza.
+2. Ako, na datum zaključenja poslovnih knjiga, poduzeće ustanovi da je na godišnjoj razini premašilo ili palo ispod praga broja zaposlenih ili financijskih pragova utvrđenih u stavku 2., to ne dovodi do gubitka ili stjecanja statusa srednjeg, malog ili mikro poduzeća, osim ako se ti pragovi premašuju tijekom dva uzastopna računovodstvena razdoblja.
+3. U slučaju novoosnovanih poduzeća čija financijska izvješća još nisu odobrena, podaci koji se primjenjuju uzimaju se iz procjene bona fide sastavljene tijekom financijske godine.
+Članak 5. BROJ OSOBLJA
+Broj osoblja odgovara broju godišnjih jedinica rada, to jest broju osoba koje su bile zaposlene na puno radno vrijeme kod predmetnog poduzeća ili u njegovo ime, tijekom cijele promatrane referentne godine. Rad osoba koje nisu bile zaposlene punu godinu, rad onih koje su radile skraćeno radno vrijeme, bez obzira na trajanje, kao i sezonski rad, računaju se kao dijelovi godišnje jedinice rada. Osoblje se sastoji od:
+(a) zaposlenih;
+(b) osoba koje rade za podređeno poduzeće, a smatraju se zaposlenima prema nacionalnom pravu;
+(c) vlasnika-upravitelja;
+(d) partnera koji se bave redovitom djelatnošću kod poduzeća i ostvaruju pogodnost od njegovih financijskih koristi.
+Pripravnici i studenti koji su uključeni u stručno usavršavanje s ugovorom o pripravništvu ili ugovorom o stručnom usavršavanju ne broje se kao osoblje. Ne uračunava se trajanje porodiljskog ili roditeljskog dopusta.
+Članak 6. UTVRĐIVANJE PODATAKA PODUZEĆA
+1. U slučaju neovisnih poduzeća, podaci, uključujući broj osoblja, određuju se isključivo na temelju financijskih izvješća tog poduzeća.
+2. Podaci, uključujući broj osoblja, poduzeća koje ima partnerska poduzeća ili povezana poduzeća određuju se na temelju financijskih izvješća i ostalih podataka poduzeća odnosno, ako postoje, konsolidiranih financijskih izvješća poduzeća ili konsolidiranih financijskih izvješća u koje je poduzeće uključeno kroz konsolidaciju.
+Podacima spomenutim u prvom podstavku dodaju se podaci od svakog poduzeća koje je partner predmetnom poduzeću i koje se nalazi neposredno uzlazno ili silazno od njega. Zbrajanje je razmjerno postotnom udjelu u kapitalu ili glasačkim pravima (ovisno o tome koji je veći). U slučaju unakrsnog vlasništva, primjenjuje se veći postotak.
+Podacima iz prvog i drugog podstavka dodaje se 100 posto

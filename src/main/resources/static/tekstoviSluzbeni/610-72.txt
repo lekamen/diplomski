@@ -1,0 +1,28 @@
+unutarnjeg modela, i osobito testiranje osjetljivosti rezultata unutarnjeg modela na promjene ključnih pretpostavki na kojima se unutarnji model temelji
+– procjenu točnosti, potpunosti i primjerenosti podataka koje unutarnji model upotrebljava
+– djelotvoran statistički postupak validacije unutarnjeg modela koji omogućuje društvu za osiguranje da Agenciji dokaže da su dobiveni kapitalni zahtjevi primjereni.
+Dokumentacijski standardi
+Članak 155.
+(1) Društvo za osiguranje dužno je dokumentirati oblik i pojedinosti o djelovanju svojeg unutarnjeg modela. Navedena dokumentacija mora dokazati usklađenost s odredbama članaka 150. – 155. ovoga Zakona.
+(2) Dokumentacija iz stavka 1. ovoga članka mora sadržavati detaljan pregled teorije, pretpostavki te matematičkih i empirijskih podloga na kojima se temelji unutarnji model te navesti sve okolnosti u kojima unutarnji model ne funkcionira učinkovito.
+(3) Društvo za osiguranje dokumentira sve veće promjene svojeg unutarnjeg modela, kako je određeno u članku 145. ovoga Zakona.
+Vanjski modeli i podaci
+Članak 156.
+Uporaba modela ili podataka dobivenih od treće strane ne smatra se opravdanjem za izuzeće od bilo kojeg zahtjeva u vezi s unutarnjim modelom iz članaka 150. – 155. ovoga Zakona te iz Uredbe (EU) br. 2015/35.
+POGLAVLJE V. MINIMALNI POTREBNI KAPITAL
+Opće odredbe
+Članak 157.
+(1) Društvo za osiguranje dužno je imati prihvatljiva osnovna vlastita sredstva za pokriće minimalnog potrebnog kapitala.
+(2) Društvo za osiguranje dužno je računati minimalni potrebni kapital u skladu s člankom 158. ovoga Zakona i Uredbom (EU) br. 2015/35.
+Izračun minimalnog potrebnog kapitala
+Članak 158.
+(1) Društvo za osiguranje dužno je izračunavati minimalni potrebni kapital u skladu sa sljedećim načelima:
+1. na jasan i jednostavan način te na takav način da se izračun može revidirati
+2. na način da minimalni potrebni kapital odgovara iznosu prihvatljivih osnovnih vlastitih sredstava ispod kojeg bi ugovaratelji i korisnici osiguranja bili izloženi neprihvatljivoj razini rizika u slučaju da se društvu za osiguranje dopusti daljnje poslovanje
+3. podložno uvjetima iz stavka 2. ovoga članka, minimalni potrebni kapital izračunava se kao linearna funkcija skupa ili podskupa sljedećih varijabli: tehničkih pričuva društva za osiguranje, zaračunatih premija osiguranja, svote pod rizikom, odgođenih poreza i administrativnih troškova, pri čemu su iznosi upotrijebljenih varijabli neto od reosiguranja. Linearna funkcija za izračun minimalnog potrebnog kapitala kalibrira se prema rizičnoj vrijednosti osnovnih vlastitih sredstava društva za osiguranje sa stupnjem pouzdanosti od 85 % tijekom jednogodišnjeg razdoblja
+4. minimalni potrebni kapital mora biti najmanje jednak apsolutnom pragu minimalnog potrebnog kapitala koji iznosi:
+– 19.500.000,00 kuna za društva za neživotno osiguranje, uključujući vlastita društva za osiguranje, osim u slučaju kada su pokriveni neki ili svi rizici uključeni u jednu od vrsta osiguranja koje su navedene u članku 7. stavku 2. točkama 10. – 15. ovoga Zakona, u kojem slučaju apsolutni prag minimalnog potrebnog kapitala iznosi 28.860.000,00 kuna
+– 28.860.000,00 kuna za društva za životno osiguranje, uključujući vlastita društva za osiguranje
+– 28.080.000,00 kuna za društva za reosiguranje, osim u slučaju vlastitih društava za reosiguranje, u kojem slučaju apsolutni prag minimalnog potrebnog kapitala iznosi 9.360.000,00 kuna
+– zbroj iznosa iz podtočaka 1. i 2. ove točke za društva za osiguranje koja istodobno obavljaju djelatnosti životnih i neživotnih osiguranja.
+(2) Ne dovodeći u pitanje stavak 1. točku 4. ovoga članka, minimalni potrebni kapital ne smije biti manji od 25 % niti veći od 45 % potrebnog solventnog kapitala društva za osiguranje, izračunatog u skladu sa standardnom formulom, odnosno potpunim ili djelomičnim unutarnjim modelom iz poglavlja IV. ove glave o potrebnom solventnom kapitalu, uključujući kapitalni dodatak koji može biti uveden u skladu s člankom 239. ovoga Zakona. Društvo za

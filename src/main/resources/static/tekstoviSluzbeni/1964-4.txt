@@ -1,0 +1,22 @@
+financijske izvedenice iz portfelja UCITS fonda, koje su definirane kao instrument zaštite, vrednovati primjenom odredbi Međunarodnog računovodstvenog standarda 39 – Financijski instrumenti: priznavanje i mjerenje (dalje: MRS 39) u dijelu koji se odnosi na računovodstvo zaštite.
+(8) Ako društvo za upravljanje primjenjuje računovodstvo zaštite iz stavka 7. ovoga članka, dužno je u pisanom obliku sastaviti interni akt o definiranju instrumenata zaštite i zaštićenih stavaka, kao i dokaze o udovoljavanju uvjetima iz MRS-a 39.
+Aktivno i neaktivno tržište
+Članak 10.
+(1) Za vlasničke vrijednosne papire aktivnim tržištem smatra se tržište na kojem se vrijednosnim papirom trgovalo minimalno 20 trgovinskih dana u tromjesečnom razdoblju.
+(2) Za dužničke vrijednosne papire i instrumente tržišta novca aktivnim tržištem smatra se tržište na kojem se navedenim instrumentima trgovalo minimalno 15 trgovinskih dana u tromjesečnom razdoblju.
+(3) Društvo za upravljanje dužno je za ulaganja u financijske izvedenice iz članka 9. stavka 1. ovoga Pravilnika, ako su ista predviđena prospektom UCITS fonda, u proceduri UCITS fonda propisati kriterije za razgraničavanje aktivnog i neaktivnog tržišta.
+(4) Društvo za upravljanje dužno je najmanje jednom tromjesečno, na kraju tromjesečnog razdoblja, koje je definirano računovodstvenim politikama UCITS fonda, procijeniti zadovoljavaju li prenosivi vrijednosni papiri, instrumenti tržišta novca te financijske izvedenice uvjete iz stavaka 1.,2. i 3. ovoga članka.
+(5) Društvo za upravljanje dužno je u proceduri UCITS fonda propisati jasne kriterije za određivanje transakcija čija cijena ne predstavlja fer vrijednost, odnosno transakcija koje se neće smatrati relevantnima prilikom izračuna broja dana trgovanja iz stavka 1. i 2. ovoga članka, a uzimajući u obzir, primjerice volumen trgovanja, broj transakcija, promjenu cijene i sl.
+(6) Društvo za upravljanje može proceduri UCITS fonda, osim kriterija iz stavaka 1. i 2. ovoga članka, propisati dodatne kriterije za razgraničenje aktivnog i neaktivnog tržišta, uzimajući u obzir primjerice:
+a) volumen trgovanja u odnosu na prosječni volumen u tromjesečnom razdoblju,
+b) razliku između zadnje cijene ponude na kupnju i zadnje cijene ponude na prodaju i
+c) volumen trgovanja u odnosu na tržišnu kapitalizaciju u tromjesečnom razdoblju.
+(7) Društvo za upravljanje dužno je za prenosive vrijednosne papire, instrumente tržišta novca te financijske izvedenice, koji su u trenutku procjene iz stavka 4. ovoga članka uvršteni na tržištima iz članka 249. stavka 1. točke 1. Zakona u razdoblju kraćem od tri mjeseca, proporcionalno razdoblju uvrštenja prenosivog vrijednosnog papira, instrumenta tržišta novca te financijske izvedenice, na odgovarajući način primijeniti odredbe iz ovoga članka.
+Tehnike procjene vrijednosti prenosivih vrijednosnih papira, instrumenata tržišta novca te financijskih izvedenica koji se vrednuju po fer vrijednosti
+Članak 11.
+(1) Fer vrijednost prenosivih vrijednosnih papira, instrumenata tržišta novca te financijskih izvedenica kojima se trguje na neaktivnom tržištu utvrđuje se tehnikama procjene, kojima je cilj procijeniti cijenu po kojoj bi imovina bila prodana odnosno obveza prenesena u urednoj transakciji među tržišnim sudionicima za datum vrednovanja.
+(2) Društvo za upravljanje dužno je u proceduri UCITS fonda opisati tehnike procjene iz stavka 1. ovoga članka, a koje uključuju najmanje:
+a) kriterije za izbor pojedine metode procjene fer vrijednosti,
+b) pretpostavke koje će se uzeti u obzir prilikom primjene pojedine metode procjene fer vrijednosti i obrazloženje za njihovo korištenje kao što su:
+– kod metode usporedivih poduzeća (peer group); kriteriji za odabir usporedivih poduzeća, referentan broj usporedivih poduzeća potrebnih za korištenje metode,
+– kod metode diskontiranih novčanih tokova (DCF); način izračuna diskontne stope, izvore inputa koji se koriste prilikom izračuna diskontne stope, način projiciranja budućih novčanih tokova izdavatelja i

@@ -1,0 +1,48 @@
+ stavka 1. ovoga članka.
+(3) Ponuda pristigla nakon isteka roka za dostavu ponuda, ima obilježje zakašnjele ponude i kao takva se neće razmatrati u postupku provedbe nadmetanja.
+(4) Ponude se ne smiju otvarati prije isteka roka za njihovu dostavu.
+(5) Otvaranje ponuda je javno.
+Članak 6.
+(1) Ponuda mora sadržavati sljedeće podatke:
+1. Naziv ponuditelja
+2. Osobni identifikacijski broj ponuditelja
+3. Grupu – redni broj
+4. Upravu šuma, podružnicu
+5. Šumariju
+6. Stovarište ili gospodarsku jedinicu, odjel, odsjek
+7. Mjesto prodaje – paritet (franco: pomoćno stovarište, glavno stovarište, na panju, kraj panja oboreno, kraj panja izrađeno)
+8. Vrstu drva
+9. Kvalitetu drvnih sortimenata
+10. Količinu i jedinicu mjere (m3, t)
+11. Iskličnu jediničnu cijenu po jedinici (kn/m3, t)
+12. Ponuđeni postotak povećanja početne cijene
+13. Ponuđenu vrijednost (kuna)
+14. Naznaku krajnjeg odredišta robe, odnosno zemlje izvoza i naznaku izvoznika ukoliko se radi o izvozu.
+(2) Podaci iz stavka 1. ovoga članka upisuju se putem web portala iz članka 5. stavka 1. ove Uredbe.
+(3) Ponudu mogu podnijeti samo oni kupci koji su registrirani putem web portala: https://prodaja.hrsume.hr.
+(4) Za registraciju na web portal propisan stavkom 3. ovoga članka, potrebno je dostaviti sljedeće:
+1. Osobni identifikacijski broj ponuditelja
+2. Naziv ponuditelja
+3. Adresu ponuditelja
+4. Ime i prezime osobe po kojoj je ponuditelj zastupan, ukoliko ponudu podnosi ovlašteni punomoćnik
+5. E-mail adresu
+6. Kontakt telefon/fax.
+(5) Kupci moraju za pristupanje nadmetanju ispuniti i sljedeće uvjete, koji se provjeravaju uvidom u podatke stručnih službi i računalni sustav trgovačkog društva Hrvatske šume d.o.o.:
+1. Da nema dospjelog duga starijeg od 15 dana u dospijeću prema evidenciji trgovačkog društva Hrvatske šume d.o.o. na dan dostave ponude
+2. Osigurati odgovarajuće instrumente osiguranja plaćanja
+3. Osigurati jamstvo u iznosu od 10% isklične vrijednosti drvnih sortimenata za koju se ponuda podnosi, a koje jamstvo se može naplatiti i putem postojećih sredstava osiguranja plaćanja položenih od strane kupca u trgovačkom društvu Hrvatske šume d.o.o.
+4. Elektronički potvrditi izjavu odgovorne osobe kojom se pod kaznenom i materijalnom odgovornošću izjavljuje da pravna ili fizička osoba, odnosno odgovorna osoba u pravnoj osobi nije kažnjavana za povredu propisa iz područja šumarstva, carinskih propisa i propisa koji uređuju trgovinu drvnih proizvoda, kao i da nema nepodmirenih dospjelih javnih davanja.
+Provedba
+Članak 7.
+(1) Provedbu nadmetanja drvnih sortimenata iz članka 1. ove Uredbe provodi Povjerenstvo koje imenuje ministar nadležan za gospodarstvo.
+(2) Povjerenstvo čini pet članova od kojih je jedan predsjednik.
+(3) Članovi Povjerenstva iz stavka 1. ovoga članka su po dva predstavnika ministarstva nadležnog za gospodarstvo i po jedan predstavnik ministarstva nadležnog za poslove šumarstva i drvne industrije, Ministarstva financija, Carinske uprave i trgovačkog društva Hrvatske šume d.o.o.
+(4) Predsjednik i zamjenik predsjednika Povjerenstva su predstavnici ministarstva nadležnog za gospodarstvo.
+(5) Članovi Povjerenstva imaju svoje zamjene.
+(6) Povjerenstvo donosi Poslovnik o radu.
+(7) Administrativne i tehničke poslove za Povjerenstvo obavlja trgovačko društvo Hrvatske šume d.o.o.
+Članak 8.
+(1) Provedba javnog nadmetanja vrši se javnim otvaranjem ponuda zaprimljenih putem web portala: https://prodaja.hrsume.hr na mjestu i u vrijeme objavljeno sukladno članku 3. stavku 2. točki 15. ove Uredbe, u prisutnosti Povjerenstva i zainteresiranih ponuditelja ili ovlaštenih zastupnika.
+(2) Povjerenstvo je dužno otvoriti pristigle ponude dostavljene putem web portala: https://prodaja.hrsume.hr, izvršiti pregled ponuda i o tome sastaviti zapisnik o otvaranju i odabiru najpovoljnijih ponuditelja (u daljnjem tekstu: zapisnik).
+(3) Kriterij za odabir najpovoljnije ponude je najviši ponuđeni postotak povećanja početne cijene.
+(4) Ukoliko se utvrdi da su u tijeku provedbe javnog nadmetanja dva 

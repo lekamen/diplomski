@@ -1,0 +1,30 @@
+ Ako profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki na kojima se temelji posljednji potrebni solventni kapital za koji je društvo za osiguranje podnijelo izvješće Agenciji, društvo bez odgađanja ponovno izračunava potrebni solventni kapital i podnosi Agenciji izvješće o rezultatu tog izračuna.
+(5) Ako postoje dokazi koji ukazuju da se profil rizičnosti društva za osiguranje značajno izmijenio od datuma kad je posljednji put podneseno izvješće o potrebnom solventnom kapitalu, Agencija može zahtijevati da društvo za osiguranje ponovno izračuna potrebni solventni kapital.
+ODJELJAK 2. IZRAČUN POTREBNOG SOLVENTNOG KAPITALA STANDARDNOM FORMULOM
+Opće odredbe
+Članak 133.
+Društvo za osiguranje dužno je izračun potrebnog solventnog kapitala standardnom formulom provoditi u skladu s člancima 134. – 141. ovoga Zakona, Uredbom (EU) br. 2015/35 te drugim propisima Europske komisije kojima se uređuju:
+– ujednačeni uvjeti primjene izračuna kapitalnih zahtjeva u skladu sa standardnom formulom, izračuni modula tržišnog rizika, izračuni modula rizika neispunjenja obveza druge ugovorne strane, vrednovanje tehnika smanjenja rizika, izračuni tehničkih pričuva, tehničke informacije koje se odnose na simetričnu prilagodbu stopa za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire, izračuni modula preuzetog rizika zdravstvenog osiguranja
+– metode i parametri koji se koriste pri procjeni kapitalnih zahtjeva rizika neispunjenja obveza druge ugovorne strane za izloženosti kvalificiranim središnjim drugim ugovornim stranama
+– kvantitativna ograničenja i kriteriji prihvatljivosti imovine kada ti rizici nisu na odgovarajući način obuhvaćeni standardnom formulom.
+Struktura standardne formule
+Članak 134.
+Potrebni solventni kapital izračunat na temelju standardne formule jednak je zbroju sljedećih stavki:
+1. osnovnog potrebnog solventnog kapitala
+2. kapitalnog zahtjeva za operativni rizik
+3. prilagodbe za sposobnost tehničkih pričuva i odgođenih poreza da pokriju gubitke.
+Oblik osnovnog potrebnog solventnog kapitala
+Članak 135.
+(1) Osnovni potrebni solventni kapital obuhvaća najmanje sljedeće module rizika:
+1. preuzeti rizik neživotnog osiguranja
+2. preuzeti rizik životnog osiguranja
+3. preuzeti rizik zdravstvenog osiguranja
+4. tržišni rizik
+5. rizik neispunjenja obveza druge ugovorne strane
+koji se agregiraju u skladu s propisima iz članka 142. stavka 1. ovoga Zakona.
+(2) U smislu stavka 1. točke 1., 2. i 3. ovoga članka poslovi osiguranja i poslovi reosiguranja dodjeljuju se onom modulu preuzetog rizika osiguranja koji najbolje odražava tehničku prirodu pripadnih rizika.
+(3) Koeficijenti korelacije za agregiranje modula rizika iz stavka 1. ovoga članka, kao i kalibracija kapitalnih zahtjeva za svaki modul rizika rezultiraju ukupnim potrebnim solventnim kapitalom koji je u skladu s načelima iz članka 131. stavaka 2. – 5. ovoga Zakona.
+(4) Svaki od modula rizika iz stavka 1. ovoga članka kalibrira se uporabom mjere rizične vrijednosti sa stupnjem pouzdanosti od 99,5 % tijekom jednogodišnjeg razdoblja. Pri oblikovanju svakog od modula rizika, gdje to odgovara prirodi rizika, uzimaju se u obzir učinci diverzifikacije.
+(5) Sva društva za osiguranje upotrebljavaju isti oblik i specifikacije za module rizika za potrebe izračuna osnovnog potrebnog solventnog kapitala i bilo kojih pojednostavnjenih izračuna iz članka 140. ovoga Zakona.
+(6) Društvo za osiguranje može za rizike koji proizlaze iz katastrofa, ako to odgovara prirodi rizika, za izračun modula preuzetog rizika životnog, neživotnog, odnosno zdravstvenog osiguranja upotrijebiti geografske specifikacije.
+(7) Društvo za osiguranje može, uz odobrenje Agencije u skladu s propisima Europske komisije kojima se uređuju postupci za odobrenje specifičnih parametara, unutar standardne formule zamijeniti podskup parametara parametrima koji su specifični za predmetno društvo pri izračunu modula preuzetog rizika životnog, neživotnog, odnosno zdravstvenog osiguranja. Ti se parametri

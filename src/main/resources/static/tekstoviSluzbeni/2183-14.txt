@@ -1,0 +1,24 @@
+
+Granične vrijednosti parametara eluata otpada:
+Parametar Izražen kao Jedinica Granična vrijednost parametra eluata ***T/K = 10 l/kg Arsen As mg/kg suhe tvari 2 Barij Ba mg/kg suhe tvari 500 Kadmij Cd mg/kg suhe tvari 1 Ukupni krom Cr mg/kg suhe tvari 10 Bakar Cu mg/kg suhe tvari 50 Živa Hg mg/kg suhe tvari 0,2 Molibden Mo mg/kg suhe tvari 50 Nikal Ni mg/kg suhe tvari 10 Olovo Pb mg/kg suhe tvari 10 Antimon Sb mg/kg suhe tvari 0,7 Selen Se mg/kg suhe tvari 2,5 Cink Zn mg/kg suhe tvari 50 Kloridi Cl mg/kg suhe tvari 75.000 Fluoridi F mg/kg suhe tvari 150 Sulfati SO4 mg/kg suhe tvari 100.000 Otopljeni organski ugljik – DOC* C mg/kg suhe tvari 500 Ukupne rastopljene tvari ** – mg/kg suhe tvari 60.000
+*Ako izmjerena vrijednost parametra eluata prelazi graničnu vrijednost iz tablice kod vlastite pH vrijednosti eluata, analiza se može provesti kod pH vrijednosti između 7,5 i 8,0 pri čemu treba upotrijebiti normu HRN EN 14429:2015 Karakterizacija otpada -– Ispitivanje ponašanja pri izluživanju -– Utjecaj pH-vrijednosti na izluživanje uz početni dodatak kiseline/lužine (EN 14429:2015) ili drugu jednakovrijednu metodu
+**Prisutnost ukupnih rastopljenih tvari u eluatu može se koristiti umjesto prisutnosti sulfata i klorida u eluatu
+*** T/K = tekuće/kruto
+3. KRITERIJI ZA ODLAGANJE OTPADA NA ODLAGALIŠTE OPASNOG OTPADA
+3.1. Za zrnati otpad koji je prikladan za prihvat na odlagališta opasnog otpada vrijede granične vrijednosti parametara eluata otpada određene u Odluci 2003/33/EZ – Prilog Kriteriji i postupci za prihvat otpada na odlagališta – odjeljak 2.4.1. Granične vrijednosti parametara eluata otpada. Koriste se granične vrijednosti parametara eluata otpada izračunate na temelju omjera tekuće-čvrsto (L/S) od 10 l/kg.
+Ako izmjerena vrijednost za DOC (otopljeni organski ugljik) prelazi graničnu vrijednost iz odjeljka 2.4.1. Odluke 2003/33/EZ kod vlastite pH vrijednosti eluata, analiza se može provesti kod pH vrijednosti između 7,5 i 8,0 pri čemu treba upotrijebiti normu HRN EN 14429:2015 Karakterizacija otpada -– Ispitivanje ponašanja pri izluživanju -– Utjecaj pH-vrijednosti na izluživanje uz početni dodatak kiseline/lužine (EN 14429:2015) ili drugu jednakovrijednu metodu. Smatra se da otpad zadovoljava kriterije prihvata za DOC ako rezultat ovog ispitivanja ne prelazi 1000 mg/kg.
+3.2. Dodatne granične vrijednosti parametara onečišćenja otpada
+Uz granične vrijednosti određene u točki 3.1. ovoga Priloga, granularni (zrnati) opasni otpad mora zadovoljiti dodatne granične vrijednosti iz Odluke 2003/33/EZ – Prilog Kriteriji i postupci za prihvat otpada na odlagališta – odjeljak 2.4.2. Drugi kriteriji. Kapacitet neutralizacije kiseline (ANC), izražen u mol/kg, mora se procijeniti.
+PRILOG IV.
+1. KONTROLA METEOROLOŠKIH PARAMETARA NA ODLAGALIŠTU OTPADA
+1.1. Mjerenja meteoroloških parametara obuhvaćaju dnevna mjerenja količine oborina, temperature zraka, brzine i smjera vjetra, vlage zraka i isparavanja.
+1.2. Nakon zatvaranja odlagališta mjerenja se provode jednom mjesečno u idućih 5 godina.
+1.3. Meteorološki parametri mogu se prikupljati s najbliže meteorološke stanice državne meteorološke mreže.
+2. KONTROLA EMISIJA TVARI U ZRAK IZ ODLAGALIŠTA OTPADA
+2.1. Mjerenja koncentracije odlagališnih plinova u zrak obuhvaćaju:
+– mjesečna mjerenja koncentracije CH4, CO2 i O2 u odlagališnom plinu za vrijeme rada odlagališta, a nakon zatvaranja svakih 6 mjeseci.
+– mjerenje ostalih odlagališnih plinova (H2S i H2) provodi se ovisno o sastavu odloženog otpada ili ako je to propisano u dozvoli za obavljanje djelatnosti odlaganja otpada.
+2.2. Mjerenje se mora provesti na reprezentativnim točkama za svaki dio odlagališta i reprezentativnom broju uzoraka.
+2.3. Učinkovitost sustava za skupljanje odlagališnog plina mora se redovito provjeravati.
+2.4. Ako se rezultati mjerenja sastava i koncentracije odlagališnog plina ponavljaju, vrijeme između dvaju uzastopnih mjerenja može se produžiti, ali ne smije biti duže od šest mjeseci.
+2.5. Mjerenje koncentracija odlagališnih

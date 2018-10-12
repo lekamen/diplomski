@@ -1,0 +1,54 @@
+8 23.01.2015 Pravilnik o sadržaju, obliku i načinu vođenja elektroničkog očevidnika inspektora cestovnog prometa i inspektora cesta
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+189
+Na temelju članka 34. stavka 3. i 4. Zakona o inspekciji cestovnog prometa i cesta (»Narodne novine«, broj 22/14) ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O SADRŽAJU, OBLIKU I NAČINU VOĐENJA ELEKTRONIČKOG OČEVIDNIKA INSPEKTORA CESTOVNOG PROMETA I INSPEKTORA CESTA
+Članak 1.
+(1) Ovim Pravilnikom propisuje se sadržaj, oblik i način vođenja elektroničkog očevidnika (u daljnjem tekstu: e-očevidnik) kojeg vode inspektori cestovnog prometa i inspektori cesta (u daljnjem tekstu: inspektori) u provođenju inspekcijskih pregleda nad primjenom propisa u cestovnom prometu i cestovnoj infrastrukturi.
+(2) Radi osiguranja uvida u provođenje inspekcijskih pregleda i podataka o poduzetim mjerama Inspekcija cestovnog prometa i cesta Ministarstva pomorstva, prometa i infrastrukture (u daljnjem tekstu: inspekcija) dužna je voditi očevidnik svih obavljenih inspekcijskih pregleda iz djelatnosti inspekcije kao i voditi evidenciju o poduzetim mjerama.
+Članak 2.
+(1) Aplikacija e-očevidnik sadrži podatke o obavljenim inspekcijskim nadzorima i poduzetim mjerama koje su obavili, odnosno poduzeli inspektori i vodi se isključivo na računalu u elektroničkom obliku.
+(2) Podaci o obavljenom inspekcijskom nadzoru i poduzetim mjerama vode se kao službena evidencija i upisuje se u aplikaciju e-očevidnika Inspekcije.
+Članak 3.
+Aplikacija iz članka 2. ovoga Pravilnika obavezno sadrži podatke o:
+– broju obavljenih inspekcijskih nadzora (redni broj u aplikaciji),
+– osobnom identifikacijskom broju (OIB), nazivu i sjedištu i adresi subjekta nadzora,
+– oznaci spisa predmeta prema propisima o uredskom poslovanju,
+– datumima, vremenu i mjestu pregleda
+– oznaci države i registraciji vozila
+– vrsti prijevoza, odnosno vrsti licencije
+– kategoriji prijevoznika po vrstama
+– broju analognog, odnosno digitalnog tahografa
+– ukupnom broj pregledanih tahografa
+– broju pregledanih vozača
+– broju pregledanih tvrtki i vozila u tvrtkama
+– broju poduzetih radnji u postupku inspekcijskog nadzora
+– propisima čija se primjena nadzire,
+– poduzetim upravnim mjerama (vrste upravnih rješenja)
+– opisu prekršaja
+– ukupno počinjenim prekršajima
+– ukupno počinjenim prekršajima kategorije I, II i III
+– količini tereta
+– izrečenim prekršajnim sankcijama, zaštitnim mjerama, mjerama upozorenja (PN, OPN, OP, RON, ROI i ROZ)
+– naplaćenim kaznama
+– izrečenim troškovima postupka
+– naplaćenim troškovima postupka
+– sudskim presudama
+– pravomoćnim sudskim presudama
+– ostalim podacima i napomenama inspektora u svezi s provedenim inspekcijskim pregledima.
+Članak 4.
+(1) E-očevidnik dužni su voditi svi inspektori cestovnog prometa i inspektori cesta, pojedinačno svaki za sebe na aplikaciji iz članka 2. ovoga Pravilnika.
+(2) E-očevidnik može sadržavati i dodatne podatke.
+Članak 5.
+(1) Inspektor je obvezan podatke u aplikaciju e-očevidnik upisati bez odlaganja, a najkasnije idući dan od dana sastavljanja zapisnika o obavljenom inspekcijskom nadzoru, odnosno poduzete mjere koje je potrebno evidentirati.
+(2) Ako je terenski rad inspektora bio dulji od jednog dana, podatke u aplikaciju upisat će idući radni dan po povratku u ured.
+Članak 6.
+U e-očevidnik unose se samo podaci inspekcijske naravi. O drugim aktivnostima može se ustrojiti posebna evidencija.
+Članak 7.
+(1) Pomoćnik ministra ima neograničen pristup podacima iz e-očevidnika svih inspektora.
+(2) Rukovodeći državni službenici imaju neograničen pristup podacima iz e-očevidnika onih inspektora kojima su nadređeni.
+Članak 8.
+Podaci sadržani u aplikacijama iz članka 4. ovog Pravilnika obavezno se koriste za izradu godišnjeg izvješća o radu Inspekcije.
+Članak 9.
+Danom stupanja na snagu Pravilnika prestaje važiti Naputak o načinu vođenja očevidnika o obavljenim inspekcijskim pregledima u djelatnosti cestovnog prometa i cesta i poduzetih mjera (»Narodne novine

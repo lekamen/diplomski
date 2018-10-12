@@ -1,0 +1,41 @@
+ spojeva od propuštanja (tlačna proba), namještanje parametara diferencijalne automatike i puštanje sustava u rad te ispitivanje i održavanje solarnih toplinskih sustava.
+(7) Kod provođenja provjere znanja Ispitno povjerenstvo vodi zapisnik koji obvezno sadrži:
+1. podatke o osobi koja je pristupila provjeri znanja (ime i prezime, stručnu spremu, datum i mjesto rođenja, osobni identifikacijski broj);
+2. datum provođenja provjere znanja;
+3. ispit koji je osoba rješavala u provjeri teoretskog dijela znanja s ocjenom teoretskog dijela znanja;
+4. izvješće o provjeri praktičnog dijela znanja s ocjenom praktičnog dijela znanja;
+5. konačnu ocjenu provjere znanja »položio« ili »nije položio«;
+6. imena i prezimena članova Ispitnog povjerenstva.
+(8) Smatra se da je osoba položila provjeru znanja ukoliko je položila provjeru teoretskog dijela znanja i praktičnog dijela znanja. Smatra se da je osoba položila provjeru teoretskog dijela znanja ukoliko je osvojila najmanje 70% bodova.
+Smatra se da je osoba položila provjeru praktičnog dijela znanja ukoliko je pravilno izvela praktičnu vježbu samostalnog spajanja solarnog toplinskog sustava.
+Rezultate provjere znanja objavljuje predsjednik Ispitnog povjerenstva odmah nakon završetka provjere znanja. Osoba koja nije zadovoljna s ocjenom Ispitnog povjerenstva, može odmah nakon objave rezultata provjere znanja uložiti prigovor koji se unosi u zapisnik o tijeku provjere znanja. O prigovoru odlučuje Ispitno povjerenstvo koje po potrebi može odrediti dodatnu provjeru znanja.
+(9) Osobama koje su položile provjeru znanja nakon završenog Programa izobrazbe ili odgovarajućeg programa formalnog obrazovanja odraslih, Nositelj Programa osposobljavanja izdaje Uvjerenje o uspješno završenom Programu izobrazbe u roku od 3 dana od položene provjere znanja.
+(10) Osoba koja ne položi provjeru teoretskog i/ ili praktičnog dijela znanja, ima pravo još dva puta pristupiti provjeri znanja u dijelu koji nije položila.
+(11) Ako i nakon ponovnog pristupanja provjeri teoretskog i/ili praktičnog dijela znanja osoba nije položila provjeru znanja, može ponovno pohađati cijeli Program izobrazbe i nakon toga ponovno pristupiti provjeri znanja.
+Stručno usavršavanje
+Članak 32.
+(1) Sadržaj stručnog usavršavanja utvrđuje Nositelj Programa osposobljavanja.
+(2) Stručno usavršavanje se utvrđuje u trajanju od 8 sati godišnje.
+(3) Raspored stručnog usavršavanja za sljedeću godinu Nositelj Programa osposobljavanja dužan je objaviti na svojim službenim internetskim stranicama najkasnije do 31. prosinca tekuće godine.
+(4) Certificirani instalateri pohađanjem stručnog usavršavanja stječu znanja o:
+1. iskustvima iz provedenih postavljanja solarnih toplinskih sustava;
+2. tehničkom napretku u struci (materijali, tehnologije, metodologije i sl.);
+3. promjenama vezanim uz nacionalnu i europsku tehničku regulativu iz područja postavljanja solarnih toplinskih sustava i promjenama europskog prava na tom području itd.
+Potvrda o sudjelovanju na stručnom usavršavanju
+Članak 33.
+Certificiranim instalaterima koje su pohađali seminar za stručno usavršavanje Nositelj Programa osposobljavanja izdaje potvrdu o sudjelovanju na stručnom usavršavanju i unosi podatke o tome u Registar certificiranih instalatera sustava obnovljivih izvora energije.
+Članak 34.
+Potvrda o pohađanju stručnog usavršavanja za fizičku osobu obvezno sadrži:
+1. ime i prezime;
+2. osobni identifikacijski broj;
+3. datum i mjesto rođenja;
+4. datum pohađanja stručnog usavršavanja;
+5. naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji ga je proveo;
+6. broj potvrde, datum i mjesto izdavanja potvrde;
+7. ime i prezime, potpis odgovorne osobe Nositelja Programa osposobljavanja i njegov pečat.
+VII. NADZOR NAD RADOM NOSITELJA PROGRAMA OSPOSOBLJAVANJA
+Nadzor
+Članak 35.
+Nadzor nad ispunjavanjem uvjeta za provođenje Programa osposobljavanja nad Nositeljima Programa osposobljavanja provodi Ministarstvo i po potrebi poduzima propisane mjere.
+Oduzimanje suglasnosti
+Članak 36.

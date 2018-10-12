@@ -1,0 +1,37 @@
+Hrvatske narodne banke na temelju Zakona o platnom prometu. KL Za konvertibilne valute KVL EVKI FKS Za pojedinačno značajne valute Upotrebljava se troslovna oznaka valute u skladu s popisom novčanih jedinica i drugih platnih sredstava i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu. EVKI FKS Za skupinu ostalih valuta OST EVKI PKS Za pojedinačno značajne valute Upotrebljava se troslovna oznaka valute u skladu s popisom novčanih jedinica i drugih platnih sredstava i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu. EVKI PKS Za skupinu ostalih valuta OST EVKI AKS Za pojedinačno značajne valute Upotrebljava se troslovna oznaka valute u skladu s popisom novčanih jedinica i drugih platnih sredstava i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu. EVKI AKS Za skupinu ostalih valuta OST EVKI ZBR Za pojedinačno značajne valute Upotrebljava se troslovna oznaka valute u skladu s popisom novčanih jedinica i drugih platnih sredstava i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu. EVKI ZBR Za skupinu ostalih valuta OST DKT Troslovna oznaka valute Upotrebljava se troslovna oznaka valute u skladu s popisom novčanih jedinica i drugih platnih sredstava i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu.
+Članak 26.
+Tablica iza točke 269. mijenja se i glasi:
+Oznaka obrasca Naziv kategorije Oznaka kategorije (AN) KI Dvoslovna oznaka valute Upotrebljava se dvoslovna oznaka zemlje u skladu s abecednim popisom država i zemalja i njihovih oznaka u dijelu podzakonskih propisa Hrvatske narodne banke na temelju Zakona o platnom prometu.
+Članak 27.
+Tablica iza točke 274. mijenja se i glasi:
+TABLICA
+Članak 28.
+Iza točke 276. točka 2. postaje točka 276.a.
+Članak 29.
+Tablica iza točke 277. mijenja se i glasi:
+TABLICA
+Članak 30.
+U točki 278. iza riječi »valutama« dodaju se riječi »i Pokrivenost kapitalnih zahtjeva i zaštitnih slojeva kapitala«.
+Članak 31.
+U Prilogu pod naslovom »Tablice za dostavljanje supervizorskih izvještaja KOKI (tag)« iza tablice 13. dodaje se tablica 14., koja glasi:
+
+Članak 32.
+U Prilogu pod naslovom »Tablice s pravilima za sastavljanje supervizorskih izvještaja« tablica pod naslovom »Tablica 7: Izvještaj MIKI1 – Izvještaj o materijalnoj imovini« mijenja se u »Tablica 7: Izvještaj MIKI2 – Izvještaj o materijalnoj imovini«, i glasi:
+
+
+
+
+
+
+Članak 33.
+U Prilogu pod naslovom »Tablice s pravilima za sastavljanje supervizorskih izvještaja« iza tablice 18. dodaje se tablica 19., koja glasi:
+
+
+Članak 34.
+Kreditne institucije dužne su prvi Izvještaj o izloženostima prema osobama u posebnom odnosu s kreditnom institucijom (POKI1) u skladu s ovom Odlukom dostaviti sa stanjem na dan 31. kolovoza 2015.
+Kreditne institucije dužne su prvi Izvještaj o materijalnoj imovini (MIKI2) u skladu s ovom Odlukom dostaviti sa stanjem na dan 30. rujna 2015.
+Članak 35.
+Ova Odluka objavljuje se u »Narodnim novinama« i stupa na snagu 30. lipnja 2015.
+O.br. 156-020/06-15/BV
+Zagreb, 8. lipnja 2015.
+Guverner prof. dr. sc. Boris Vujčić, v. r.

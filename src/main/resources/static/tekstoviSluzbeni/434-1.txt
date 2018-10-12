@@ -1,0 +1,26 @@
+unaprjeđenje statističkog sustava Republike Hrvatske u 2015.
+I. DEMOGRAFSKE I DRUŠTVENE STATISTIKE
+– apsolutni i relativni pokazatelji za rođene i umrle osobe te sklopljene i razvedene brakove prema geografskim, demografskim, ekonomskim i obrazovnim obilježjima (statistika rođenih i umrlih te statistika sklopljenih i razvedenih brakova)
+– umrle osobe prema uzroku smrti, vrsti i uzroku nasilne smrti, podaci o majci umrlog dojenčeta
+– opće i specifične stope vitalnih događaja
+– broj i strukture doseljenih iz inozemstva i odseljenih u inozemstvo (statistika vanjske migracije stanovništva) te preseljenih osoba unutar granica Republike Hrvatske (statistika unutarnje migracije stanovništva)
+– opće stope migracije i specifične stope migracije prema dobi i spolu
+– podaci o azilu, nezakonitim migracijama i dozvolama boravka
+– sociodemografske karakteristike i uvjeti života braniteljske populacije
+– pokazatelji o dohotku, socijalnoj uključenosti i životnim uvjetima privatnih kućanstava dobiveni iz Ankete o dohotku stanovništva (ADS)
+– pokazatelji Ankete o potrošnji kućanstava (APK)
+– provedba istraživanja o slobodnim radnim mjestima (SRM)
+– provedba istraživanja o strukturi zarada (SZ)
+– pokazatelji Ankete o radnoj snazi (ARS)
+– modernizacija načina prikupljanja podataka, posebice anketnih istraživanja na kućanstvima (uspostava CATI i CAPI centra)
+– smanjenje opterećenja izvještajnih jedinica iz područja demografskih i društvenih statistika (preuzimanje podataka iz administrativnih izvora, npr. iz državnih matica za potrebe vitalne statistike ili iz obrasca JOPPD za potrebe statistike tržišta rada)
+– unaprjeđenje sadržaja podataka rodne statistike te iz raznih područja društvenih i demografskih statistika (obrazovanje, tržište rada itd.)
+– dodatne kategorije postojećih varijabla i dodatne varijable potrebne za ispunjavanje UOE-ova i CTS-ova upitnika (UNESCO, OECD, EUROSTAT, UNODC) s područja statistike obrazovanja i kaznenog pravosuđa
+– godišnji pokazatelji o primicima i izdacima te korisnicima socijalne zaštite prema metodologiji ESSPROS
+– kontinuirano unaprjeđivanje statistike iz područja zdravstva
+II. MAKROEKONOMSKE STATISTIKE
+– redovita istraživanja u sklopu godišnjih ekonomskih računa obuhvaćaju obračun godišnjeg BDP-a prema proizvodnoj (prema NKD-u 2007.), rashodnoj i dohodovnoj metodi u tekućim i stalnim cijenama za 2013., redoviti obračun regionalnog BDP-a odnosno obračun BDP-a za Republiku Hrvatsku, NKPJS – 2. razina – i županije za 2012., obračun bruto investicija u dugotrajnu imovinu na godišnjoj razini za obračun BDP-a te na regionalnoj razini, Godišnji izvještaj o investicijama u dugotrajnu imovinu pravnih osoba (INV-P), obračun vrijednosti dugotrajne imovine Republike Hrvatske, izračun svih pokazatelja vrijednosti stambenog fonda i vrijednosti zemljišta ispod stambenih zgrada za potrebe izračuna stambene rente, obračun vrijednosti softvera za vlastiti račun, kontinuirano unaprjeđivanje i usklađivanje sa standardima EU-a u području izrade nefinancijskih računa po institucionalnim sektorima na godišnjoj i tromjesečnoj razini te izradi input/output tablica
+– nastavak primjene nove metodologije u sustav nacionalnih računa – ESA 2010[2] pri kompilaciji podataka, izvješćivanju i transmisiji podatka u Eurostat
+– sudjelovanje u Višekorisničkom programu IPA[3] 2012, komponenta 1 – Metodologija nacionalnih računa, s ciljem unaprjeđenja metodologije i poboljšanja kvalitete obračuna nacionalnih računa. Kontinuirano će se unaprjeđivati metodologija izračuna godišnjih ekonomskih računa
+– sudjelovanje u Višekorisničkom programu IPA 2012, komponenta 3 – Regionalni računi kućanstava – omogućit će obračun kategorija u skladu sa standardima europskog sustava nacionalnih računa na razini NKPJS – 2. razina i vremenskom okviru definiranom transmisijskim programom dostave podataka u Eurostat (t + 24 mjeseca)
+– polazeći od važnosti raspolaganja cjelovitim i pravodobnim informacijama o makroekonomskim trendovima, set podataka o tromjesečnom BDP-u 

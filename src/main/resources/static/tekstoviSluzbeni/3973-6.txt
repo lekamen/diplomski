@@ -1,0 +1,21 @@
+ dok se ne provede njezino usklađivanje. Ako radijska oprema predstavlja rizik, distributer o tome obavješćuje proizvođača ili uvoznika te nadležno inspekcijsko tijelo.
+(4) Distributer je obvezan osigurati, dok je radijska oprema pod njegovom odgovornošću, da uvjeti skladištenja ili prijevoza radijske opreme ne ugrožavaju njezinu sukladnost s bitnim zahtjevima iz članka 5. ovoga Pravilnika.
+(5) Kada distributer smatra ili ima razloga vjerovati da radijska oprema, koju je stavio na raspolaganje na tržištu, nije u skladu s ovim Pravilnikom, obvezan je osigurati provedbu popravnih radnji kako bi se ta radijska oprema uskladila ili povukla s tržišta, ili kako bi se osigurao njezin povrat od krajnjih korisnika. Ako radijska oprema predstavlja rizik, distributer je obvezan o tome bez odgode obavijestiti nadležna nacionalna tijela onih država članica Europske unije u kojima je radijsku opremu stavio na raspolaganje na tržištu, uz navođenje pojedinosti, osobito o nesukladnosti te o svim poduzetim popravnim radnjama i njihovu ishodu.
+(6) Na opravdani zahtjev nadležnog nacionalnog tijela distributer je obvezan dostaviti tom tijelu sve podatke i dokumente nužne za dokazivanje sukladnosti radijske opreme s ovim Pravilnikom, u papirnatom ili elektroničkom obliku, na jeziku lako razumljivom tom tijelu. Distributer je obvezan surađivati s tim tijelom, na njegov zahtjev, u svakoj radnji poduzetoj u svrhu uklanjanja rizika koje predstavlja radijska oprema koju je distributer stavio na raspolaganje na tržištu.
+Slučajevi u kojima se obveze proizvođača primjenjuju na uvoznike i distributere
+Članak 16.
+Ako uvoznik ili distributer stavlja radijsku opremu na tržište pod svojim imenom ili trgovačkim znakom, ili preinačuje radijsku opremu koja je već stavljena na tržište, na takav način da to može utjecati na njezinu sukladnost sa zahtjevima ovoga Pravilnika, smatrat će se proizvođačem u smislu ovoga Pravilnika te podliježe obvezama proizvođača iz članka 12. ovoga Pravilnika.
+Identifikacija gospodarskih subjekata
+Članak 17.
+(1) Gospodarski subjekti obvezni su, na zahtjev nadležnog inspektora, dostaviti podatke o identitetu:
+a) svakog gospodarskog subjekta koji im je isporučio radijsku opremu
+b) svakog gospodarskog subjekta kojem su isporučili radijsku opremu.
+(2) Gospodarski subjekti moraju biti u mogućnosti dostaviti podatke iz stavka 1. ovoga članka u razdoblju od deset godina od dana kada im je radijska oprema isporučena ili kada su radijsku opremu isporučili.
+III. SUKLADNOST RADIJSKE OPREME
+Pretpostavka sukladnosti radijske opreme
+Članak 18.
+(1) Ako radijska oprema udovoljava odgovarajućim hrvatskim normama kojima su prihvaćene usklađene europske norme, smatra se da je sukladna odgovarajućim bitnim zahtjevima iz članka 5. ovoga Pravilnika. Pretpostavka sukladnosti ograničena je na opseg usklađene norme ili norma koje se primjenjuju te primjenjivih bitnih zahtjeva koje obuhvaća takva usklađena norma ili norme.
+(2) Ministarstvo redovito usklađuje i dopunjuje popis hrvatskih norma koje pružaju pretpostavku o sukladnosti s bitnim zahtjevima iz članka 5. ovoga Pravilnika, te ga prema potrebi, a najmanje jedanput godišnje, objavljuje u »Narodnim novinama« i na svojim internetskim stranicama.
+(3) Hrvatsko nacionalno normirno tijelo osigurava, u skladu s mjerodavnim odredbama zakona kojim se uređuje područje normizacije, podatke o hrvatskim normama iz stavka 2. ovoga članka.
+(4) Ako u Republici Hrvatskoj nisu prihvaćene i objavljene hrvatske norme kojima su prihvaćene usklađene europske norme koje se odnose na radijsku opremu, a koje pružaju pretpostavku o sukladnosti s bitnim zahtjevima iz članka 5. ovoga Pravilnika, mogu se primjenjivati odgovarajuće europske ili međunarodne norme.
+(5) Ako Ministarstvo smatra da hrvatska norma iz stavka 2. ovoga članka ne zadovoljava u potpunosti bitne zahtjeve iz članka 5. ovoga Pravilnika, o tome će, uz pisano obrazloženje, izvijestiti središnje tijelo državne uprave nadležno za gospodarstvo i hrvatsko nacionalno

@@ -1,0 +1,29 @@
+
+Klijenti revizija koji nisu subjekti od javnog interesa
+290.168 Revizorsko društvo može pružati usluge u vezi s pripremanjem računovodstvenih evidencija i financijskih izvještaja nekom klijentu revizije koji nije subjekt od javnog interesa gdje su usluge rutinske ili tehničke prirode, sve dok je bilo koja prijetnja temeljem samoprovjere umanjena na prihvatljivu razinu. Usluge koje su rutinske ili mehaničke prirode zahtijevaju od profesionalnog računovođe malo ili nimalo profesionalnog prosuđivanja. Neki primjeri takvih usluga su:
+• pripremanje obračuna plaća ili izvješća temeljeno na klijentovim podacima za klijentovo odobrenje i isplatu;
+• evidentiranje učestalih transakcija za koje su iznosi lako odredljivi iz izvornih dokumenata ili kreiranih dokumenata, na primjer račun za komunalne usluge gdje je klijent odredio ili odobrio konto;
+• evidentiranje transakcija za koje je klijent već utvrdio iznos koji treba evidentirati, čak iako transakcija uključuje značajan stupanj subjektivnosti;
+• izračunavanje amortizacije osnovnih sredstava kada klijent određuje računovodstvenu politiku i procjenjuje vijek uporabe i rezidualnu vrijednost;
+• knjiženje stavki u probnu bilancu koje je odobrio klijent; i
+• sastavljanje financijskih izvještaja temeljeno na informacijama iz probne bilance koju je odobrio klijent i sastavljanje odgovarajućih bilješki temeljeno na evidencijama koje je odobrio klijent.
+U svim slučajevima, ocijenit će se važnost svake nastale prijetnje i primijenit će se zaštite kada je to nužno za uklanjanje prijetnje ili njezino smanjivanje na prihvatljivu razinu. Primjeri takvih zaštita uključuju:
+• organiziranje da takve usluge obavlja osoba koja nije član revizijskog tima; ili
+• ako je takve usluge obavio član revizijskog tima, korištenje partnera ili iskusnijeg člana osoblja s odgovarajućom stručnošću koji nije član revizijskog tima kako bi pregledao obavljeni posao.
+Klijenti revizija koji su subjekti od javnog interesa
+290.169 Revizorsko društvo neće pružati klijentu revizije koji je subjekt od javnog interesa računovodstvene i knjigovodstvene usluge, uključujući usluge obračuna plaća, ili pripremati financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje ili financijske informacije koje tvore osnovicu za financijske izvještaje.
+290.170 Unatoč točki 290.169, revizorsko društvo može pružati računovodstvene i knjigovodstvene usluge, uključujući usluge obračuna plaća i pripremanja financijskih izvještaja ili drugih financijskih informacija, koje su rutinske ili tehničke prirode, sektorima ili povezanim subjektima klijenta revizije koji je subjekt od javnog interesa ako osoblje koje pruža usluge nisu članovi revizijskog tima i:
+(a) sektori ili povezani subjekti kojima se pružaju usluge u ukupnosti neznačajni su za financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje; ili
+(b) usluge se odnose na problematiku koja je u ukupnosti neznačajna za financijske izvještaje sektora ili povezanog subjekta.
+[Točka 290.171 i njezin naslov »Izvanredne situacije« biti će brisani.]
+Usluge poreznog savjetovanja
+Pripremanje poreznih prijava za svrhu pripremanja računovodstvenih knjiženja
+Klijenti revizije koji su subjekti od javnog interesa
+[Točka 290.182 bit će brisana i zamijenjena sljedećom točkom 290.181.]
+290.181 U slučaju klijenta revizije koji je subjekt od javnog interesa, revizorsko društvo neće pripremati izračune tekućih i odgođenih poreznih obveza (ili imovine) za svrhu pripremanja računovodstvenih knjiženja koji su značajni za financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje.
+[Točka 290.183 bit će brisana.]
+ODJELJAK 291
+Pružanje usluga bez izražavanja uvjerenja klijentu za kojeg se izražava uvjerenje
+Odgovornosti menadžmenta
+[Točke 291.141–291.145 bit će brisane i zamijenjene sljedećim točkama 291.141–291.144.]
+291.141 Odgovornosti menadžment obuhvaćaju kontroliranje, vođenje i usmjeravanje subjekta, uključujući i donošenje značajnih odluka u vezi sa stjecanjem,

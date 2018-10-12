@@ -1,0 +1,24 @@
+ materijalne imovine utvrđuje se tako da se od neto zaračunatog iznosa (ili fer vrijednosti u slučaju zamjene) oduzme knjigovodstvena vrijednost ove imovine. Ovaj prihod ili rashod klasificira se kao ostali prihodi i ostali rashodi i priznaje se na neto osnovi.
+15.43. Prihod ili rashod koji proizlaze iz povlačenja ili otuđenja nematerijalne imovine utvrđuje se tako da se od neto zaračunatog iznosa (ili fer vrijednosti u slučaju zamjene) oduzme knjigovodstvena vrijednost ove imovine. Ovaj prihod ili rashod klasificira se kao ostali prihodi i ostali rashodi i priznaje se na neto osnovi.
+15.44. Prihod ili rashod od povlačenja ili otuđenja ulaganja u nekretnine utvrđuje se tako da se od neto zaračunatog iznosa (ili fer vrijednosti u slučaju zamjene) oduzme knjigovodstvena vrijednost ove imovine. Ovaj prihod ili rashod klasificira se kao ostali prihodi i ostali rashodi i priznaje se na neto osnovi.
+15.45. Prihod ili rashod koji nije prethodno priznat do datuma prodaje dugotrajne imovine namijenjen za prodaju ili grupe za otuđenje, priznaje se u trenutku otuđenja i klasificira se kao ostali prihod ili ostali rashod na neto osnovi.
+15.46. Promjena knjigovodstvene vrijednosti dugotrajne imovine koja prestaje biti klasificirana kao namijenjena za prodaju priznaje se u računu dobiti ili gubitka.
+15.47. Poduzetnik će u računu dobiti ili gubitka priznati prihode ili rashode od prestanka poslovanja.
+15.48. Ukidanje gubitka od umanjenja vrijednosti dugotrajne materijalne i nematerijalne imovine, osim goodwilla priznaje se kao prihod u računu dobiti i gubitka, osim ako je imovina mjerena po revaloriziranim iznosima.
+Kod ukidanja gubitka od umanjenja dugotrajne materijalne i nematerijalne imovine koja je revalorizirana postupa se na način da se povećanje revalorizacijske rezerve priznaje kao dio kapitala.
+15.49. Naknadno povećanje fer vrijednosti umanjene za troškove prodaje dugotrajne imovine namijenjene za prodaju, priznaje se u računu dobiti i gubitka do visine prethodno priznatog rashoda.
+15.50. Kad se knjigovodstvena vrijednost dugotrajne materijalne imovine povećava, to povećanje priznaje se kao prihod do iznosa do kojeg poništava smanjenje vrijednosti ove imovine koje je prethodno bilo priznato kao rashod.
+15.51. Kada se knjigovodstvena vrijednost dugotrajne nematerijalne imovine povećava to povećanje priznaje se kao prihod do iznosa do kojeg poništava smanjenje vrijednosti ove imovine koje je prethodno bilo priznato kao rashod.
+15.52. Promjena fer vrijednosti ulaganja u nekretnine priznaje se u računu dobiti i gubitka u razdoblju u kojem je nastala u skladu s HSFI 7 – Ulaganja u nekretnine.
+15.53. Ako su se promijenile okolnosti koje su u ranijim razdobljima uzrokovale otpis zaliha, te je došlo do povećanja neto utržive vrijednosti zaliha raniji otpis zaliha se poništavaju i taj iznos priznaje se u prihod.
+Priznavanje financijskih prihoda
+15.54. Kod obračuna ulaganja prema metodi udjela ulagateljev udio u dobiti ili gubitku poduzetnika u koji je obavljeno ulaganje priznaje se kao ulagateljev prihod.
+15.55. Prihode od kamata, tantijema i dividendi priznaju se ako:
+– je vjerojatno da će ekonomske koristi povezane s transakcijom i poslovnim događajem pritjecati kod poduzetnika i
+– iznos prihoda može se pouzdano izmjeriti.
+15.56. Prihod iz točke 15.55. ovog Standarda temelji se na sljedećim kriterijima:
+– kamata se priznaje primjenom efektivne kamatne stope,
+– tantijeme će se priznati na računovodstvenoj osnovi nastanka događaja,
+– dividenda će se priznati kada je ustanovljeno dioničarevo pravo na isplatu dividendi.
+15.57. Ako postoji promjena tečaja monetarnih stavki u svezi transakcije u stranoj valuti, između datuma transakcije i datuma namire nastale tečajne razlike priznaju se u račune dobiti i gubitka kao prihod odnosno rashod, osim tečajnih razlika proizašlih iz monetarnih stavki koje čine neto-ulaganje u inozemno poslovanje i priznaju se u kapital u skladu s HSFI 12 – Kapital.
+15.58. Tečajne razlike proizašle iz monetarnih stavki 

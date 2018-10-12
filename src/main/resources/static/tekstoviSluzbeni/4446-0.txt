@@ -1,0 +1,47 @@
+78 31.08.2016 Pravilnik o izmjeni Pravilnika o ambalaži i otpadnoj ambalaži
+MINISTARSTVO ZAŠTITE OKOLIŠA I PRIRODE
+1795
+Na temelju članka 53. stavka 3. Zakona o održivom gospodarenju otpadom (»Narodne novine«, broj 94/13), ministar zaštite okoliša i prirode donosi
+PRAVILNIK
+O IZMJENI PRAVILNIKA O AMBALAŽI I OTPADNOJ AMBALAŽI
+Članak 1.
+U Pravilniku o ambalaži i otpadnoj ambalaži (»Narodne novine«, broj 88/15) Prilog VI. zamjenjuje se Prilogom VI. koji je sastavni dio ovoga Pravilnika.
+Članak 2.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 351-02/16-04/14
+Urbroj: 517-01-16-19
+Zagreb, 24. kolovoza 2016.
+Ministar dr. sc. Slaven Dobrović, v. r.
+PRILOG VI.
+OZNAČAVANJE AMBALAŽNOG MATERIJALA
+(1) Brojčana oznaka i kratica za plastiku te primjer uporabe oznake za recikliranje:
+1.     PET – polietilen tereftalat PET                   2. HDPE – polietilen visoke gustoće             HDPE 3. PVC – polivinil-klorid PVC 4. LDPE – polietilen niske gustoće LDPE 5. PP – polipropilen PP 6. PS – polistiren PS 7. O – ostali polimerni materijali O
+(2) Brojčana oznaka i kratica za papir i karton:
+MATERIJAL KRATICA BROJČANA OZNAKA Valovita ljepenka (karton) PAP 20 Ravna ljepenka (karton) PAP 21 Papir PAP 22
+(3) Brojčana oznaka i kratica za metale:
+MATERIJAL KRATICA BROJČANA OZNAKA Čelik FE 40 Aluminij ALU 41
+(4) Brojčana oznaka i kratica za drvne materijale:
+MATERIJAL KRATICA BROJČANA OZNAKA Drvo FOR 50 Pluto FOR 51
+(5) Brojčana oznaka i kratica za tekstilne materijale:
+MATERIJAL KRATICA BROJČANA OZNAKA Pamuk TEX 60 Juta TEX 61
+(6) Brojčana oznaka i kratica za staklo:
+MATERIJAL KRATICA BROJČANA OZNAKA Bezbojno staklo GL 70 Zeleno staklo GL 71 Smeđe staklo GL 72 Ostalih boja staklo GL 73
+(7) Brojčana oznaka i kratica za višeslojne (kompozitne) materijale:
+MATERIJAL KRATICA* BROJČANA OZNAKA Papir i karton/raznovrsni metali 80 Papir i karton/plastika 81 Papir i karton/aluminij 82 Papir i karton/bijeli lim 83 Papir i karton/plastika/aluminij 84 Papir i karton/plastika/aluminij/bijeli lim 85 Plastika/aluminij 90 Plastika/bijeli lim 91 Plastika/raznovrsni metali 92 Staklo/plastika 95 Staklo/aluminij 96 Staklo/bijeli lim 97 Staklo/raznovrsni metali 98
+* Piše se kratica za prevladavajući materijal (C/…)
+(8) Kratice se pišu samo velikim slovima.
+(9) Oznake za povratnu ambalažu i ambalažu za recikliranje:
+POVRATNA AMBALAŽA
+
+AMBALAŽA ZA RECIKLIRANJE
+ili
+(10) Oznaka »Sustava povratne naknade«
+Osnovna pravila apliciranja
+1. Minimalna dozvoljena veličina:
+
+2. Minimalni zaštitni prostor:
+
+3. Pozitiv i negativ:
+NAPOMENA: Znak se aplicira u pozitivu ili negativu u najvećem mogućem kontrastu u odnosu na boju pozadine
+
+NAPOMENA: oznaka se preuzima u eps formatu datoteke sa službene web-stranice Fonda za zaštitu okoliša i energetsku učinkovitost.

@@ -1,0 +1,22 @@
+ prijelaznoj instituciji ili nositelju upravljanja imovinom
+e) za plaćanje naknade štete dioničarima ili vjerovnicima u skladu s člankom 108. ovoga Zakona
+f) nadoknade instituciji u sanaciji iznosa nastalog isključenjem podložnih obveza određenih vjerovnika od primjene instrumenta unutarnje sanacije u skladu s člankom 67. stavcima 1., 2. i 3. i člankom 68. stavcima 1. do 6. ovoga Zakona
+g) za pozajmljivanje drugim sanacijskim fondovima u skladu s člankom 121. ovoga Zakona
+h) za poduzimanje bilo koje kombinacije mjera iz točaka a) do g) ovoga stavka
+i) za plaćanje svih opravdanih izdataka sanacijskih tijela Republike Hrvatske u vezi s primjenom sanacijskih instrumenata ili ovlasti ako nisu nadoknađeni u skladu s člankom 56. stavkom 5. ovoga Zakona.
+(2) Pri primjeni sanacijskog instrumenta prodaje Državna agencija za osiguranje štednih uloga i sanaciju banaka može koristiti sredstva sanacijskog fonda i za poduzimanje mjera iz stavka 1. točaka a) do h) ovoga članka koje se odnose na kupca.
+(3) Sredstva sanacijskog fonda ne koriste se izravno za nadoknađivanje gubitaka ili za dokapitalizaciju institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona. U slučaju da korištenje sredstava sanacijskog fonda za potrebe iz stavka 1. i 2. ovoga članka neizravno dovede do toga da se dio gubitaka institucije ili subjekta iz članka 3. točke 2., 3. ili 4. ovoga Zakona pokrije iz sanacijskog fonda, primjenjuju se načela za korištenje sredstava sanacijskog fonda utvrđena u člancima 66. do 68. ovoga Zakona.
+Ciljana razina sanacijskog fonda
+Članak 117.
+(1) Sredstva sanacijskog fonda moraju iznositi najmanje 1 % iznosa osiguranih depozita svih kreditnih institucija s odobrenjem za rad u Republici Hrvatskoj, a prema revidiranim financijskim izvještajima za prethodnu godinu.
+(2) Iznimno od stavka 1. ovoga članka, ako se sredstva sanacijskog fonda smanje ispod iznosa iz stavka 1. ovoga članka na iznos koji predstavlja više od dvije trećine ciljane razine iz stavka 1. ovoga članka doprinosi prikupljeni u skladu s člankom 118. ovoga Zakona, nastavljaju se prikupljati dinamikom kojom su se i do tada prikupljala dok se ne dosegne razina iz stavka 1. ovoga članka.
+(3) Iznimno od stavka 2. ovoga članka, ako se sredstva sanacijskog fonda smanje na iznos koji predstavlja manje od dvije trećine ciljane razine iz stavka 1. ovoga članka, doprinos se postavlja na razinu koja omogućuje dostizanje ciljne razine iz stavka 1. ovoga članka u roku od šest godina.
+(4) Iznimno od stavka 3. ovoga članka Državna agencija za osiguranje štednih uloga i sanaciju banaka može odlučiti drugačije ako je to opravdano obzirom na fazu poslovnog ciklusa i utjecaj koji prociklički doprinosi mogu imati na određivanje godišnjih doprinosa u smislu ove odredbe.
+Prethodni doprinos
+Članak 118.
+(1) Institucije i podružnice u Europskoj uniji koje imaju odobrenje za rad u Republici Hrvatskoj dužne su jednom godišnje uplaćivati prethodni doprinos.
+(2) Doprinos iz stavka 1. ovoga članka pojedine institucije i podružnice u Europskoj uniji koje imaju odobrenje za rad u Republici Hrvatskoj razmjeran je iznosu njezinih obveza (isključujući regulatorni kapital) umanjenih za osigurane depozite u odnosu na ukupne obveze (isključujući regulatorni kapital) umanjene za osigurane depozite svih institucija i u Europskih podružnica koje imaju odobrenje za rad u Republici Hrvatskoj.
+(3) Doprinosi se prilagođavaju razmjerno profilu rizičnosti institucija u skladu s kriterijima za utvrđivanje rizičnosti institucije i podružnice u Europskoj uniji koje imaju odobrenje za rad u Republici Hrvatskoj.
+(4) Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga kao nadležno tijelo temeljem dostavljenih revidiranih podataka za prethodnu poslovnu godinu dostavljaju Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka podatak o:
+a) iznosu ukupnih obveza umanjenih za stavke regulatornog kapitala i
+b) ulazne parametre za izračun profila rizičnosti u skladu s delegiranom

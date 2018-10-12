@@ -1,0 +1,26 @@
+ upravljanje i ulagateljima UCITS fonda i za bilo koju drugu pričinjenu štetu koja je nastala kao posljedica nepažnje ili namjernog propusta depozitara u obavljanju poslova depozitara propisanih ovim Zakonom, propisima donesenim na temelju njega i uredbom Europske unije kojom se uređuje poslovanje depozitara UCITS fondova.
+(5) Na odgovornost depozitara iz stavaka 1. do 4. ovoga članka ne utječe činjenica da je obavljanje svojih poslova iz članka 221. stavka 1. ovoga Zakona delegirao trećim osobama.
+(6) Depozitar se ne može sporazumom ograničiti ili osloboditi od odgovornosti prema društvu za upravljanje i ulagateljima UCITS fonda.
+(7) Svaki sporazum koji je u suprotnosti sa stavkom 6. ovoga članka smatra se ništetnim.
+Ostvarivanje zahtjeva i prava od strane depozitara i prema depozitaru
+Članak 227.
+(1) Depozitar je ovlašten i dužan u svoje ime ostvarivati zahtjeve i prava ulagatelja prema društvu za upravljanje, zbog kršenja odredaba ovoga Zakona, prospekta i pravila UCITS fonda. To ne sprječava ulagatelje da pojedinačno i samostalno ostvaruju imovinskopravne zahtjeve prema društvu za upravljanje.
+(2) Depozitar je dužan vratiti u imovinu UCITS fonda sve što je iz nje isplaćeno bez valjane pravne osnove.
+(3) Društvo za upravljanje ovlašteno je i dužno u svoje ime ostvarivati zahtjeve i prava ulagatelja prema depozitaru. To ne sprječava ulagatelje da pojedinačno i samostalno ostvaruju imovinskopravne zahtjeve prema depozitaru, pod uvjetom da to ne dovodi do dvostruke pravne zaštite ili do neravnopravnog postupanja prema ulagateljima.
+Evidencija o kršenjima i obavijesti depozitara o pitanjima važnima za nadzor
+Članak 228.
+(1) Na zahtjev Agencije depozitar će Agenciji dostaviti obavijesti i informacije o svim pitanjima važnima za obavljanje nadzora nad obavljanjem poslova depozitara za UCITS fondove.
+(2) Kada depozitar, pri izvršavanju svojih dužnosti i obveza iz članka 218. ovoga Zakona, utvrdi nepravilnosti i/ili nezakonitosti koje su posljedica aktivnosti društva za upravljanje, a predstavljaju kršenje obveza društva za upravljanje određenih ovim Zakonom, propisima donesenima na temelju ovoga Zakona, prospekta ili pravila UCITS fonda, na njih će bez odgode pisanim putem upozoriti društvo za upravljanje i zatražiti pojašnjenje tih okolnosti.
+(3) Ako društvo za upravljanje, nakon upozorenja depozitara iz stavka 2. ovoga članka, nastavi s kršenjem svojih obveza, depozitar će o tome bez odgode obavijestiti Agenciju.
+(4) Depozitar je dužan Agenciji, revizorima i drugim osobama ovlaštenima za obavljanje uvida omogućiti pristup i dostaviti sve podatke o UCITS fondu.
+(5) Agencija će pravilnikom detaljnije propisati način i rokove obavještavanja o utvrđenim nepravilnostima iz stavaka 2. i 3. ovoga članka.
+Odvojenost poslovanja depozitara i društva za upravljanje
+Članak 229.
+(1) Niti jedan subjekt ne smije djelovati kao društvo za upravljanje i kao depozitar.
+(2) U izvršavanju svojih poslova i dužnosti, predviđenih ovim Zakonom i propisima donesenima na temelju njega, depozitar i društvo za upravljanje će postupati pažnjom dobrog stručnjaka, u skladu s načelom savjesnosti i poštenja, neovisno i isključivo u interesu UCITS fonda i ulagatelja u UCITS fond.
+(3) Depozitar ne smije u odnosu na UCITS fond obavljati druge poslove koji mogu dovesti do sukoba interesa između UCITS fonda, ulagatelja UCITS fonda ili društva za upravljanje i depozitara, ako nije funkcionalno i hijerarhijski razdvojio obavljanje poslova depozitara od ostalih poslova čije bi obavljanje moglo dovesti do sukoba interesa i ako potencijalne sukobe interesa primjereno ne prepoznaje, njima upravlja, prati i objavljuje ulagateljima UCITS fonda.
+(4) Upravitelji i ostali radnici depozitara, njegovi prokuristi te punomoćnici ne smiju biti radnici društva za upravljanje.
+(5) Članovi uprave i ostali radnici društva za upravljanje, njegovi prokuristi te punomoćnici ne smiju biti radnici depozitara.
+Revizija izvršavanja obveza depozitara
+Članak 230.
+(1) Izvršavanje obveza

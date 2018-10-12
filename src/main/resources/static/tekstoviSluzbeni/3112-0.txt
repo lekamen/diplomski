@@ -1,0 +1,33 @@
+16 19.02.2016 Pravilnik o registrima ovlaštenih osoba za obavljanje poslova zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+461
+Na temelju odredbi članka 433. točke 2. Zakona o osiguranju (»Narodne novine«, broj 30/15), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 12. veljače 2016. donijela je
+PRAVILNIK
+O REGISTRIMA OVLAŠTENIH OSOBA ZA OBAVLJANJE POSLOVA ZASTUPANJA U OSIGURANJU I POSREDOVANJA U OSIGURANJU I REOSIGURANJU
+Članak 1.
+(1) Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Agencija) utvrđuje oblik, sadržaj i pravila o načinu vođenja registara pravnih i fizičkih osoba koje imaju pravo na području Republike Hrvatske obavljati poslove zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju.
+(2) Registri iz stavka 1. ovoga članka vode se u elektroničkom obliku i u skladu s odredbama ovog Pravilnika, a dostupni su na službenim internetskim stranicama Agencije: http//www.hanfa.hr/.
+Članak 2.
+Agencija vodi registre:
+1. Društava za zastupanje u osiguranju (oznaka: DZ).
+2. Obrta za zastupanje u osiguranju (oznaka: OZ).
+3. Društava za zastupanje u osiguranju i obrta za zastupanje u osiguranju u stanicama za tehnički pregled vozila (oznaka: DSTP i OSTP).
+4. Društava za posredovanje u osiguranju i reosiguranju (oznaka: DP).
+5. Zastupnika u osiguranju, odnosno fizičkih osoba koje su dobile ovlaštenje Agencije za obavljanje poslova zastupanja u osiguranju (oznaka: ZO).
+6. Posrednika u osiguranju i reosiguranju, odnosno fizičkih osoba koje su dobile ovlaštenje Agencije za obavljanje poslova posredovanja u osiguranju i reosiguranju (oznaka: PO).
+7. Kreditnih institucija koje imaju dozvolu za obavljanje poslova zastupanja u osiguranju (oznaka: KI).
+8. Financijske agencije i HP-Hrvatske pošte d.d. (oznaka: FAHP).
+9. Investicijskih društava koja imaju dozvolu za obavljanje poslova zastupanja u osiguranju (oznaka: ID).
+10. Društava, podružnica i fizičkih osoba iz drugih država članica Europske unije i država potpisnica Ugovora o Europskom gospodarskom prostoru (dalje u tekstu: država članica) koje na temelju odredbi Zakona o osiguranju imaju pravo na području Republike Hrvatske neposredno obavljati poslove zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju i podružnica društava iz drugih država članica koje na temelju odredbi Zakona o osiguranju imaju pravo obavljati poslove zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju u Republici Hrvatskoj (oznaka: ENEP).
+11. Društava, podružnica i fizičkih osoba iz Republike Hrvatske koje na temelju odredbi Zakona o osiguranju imaju pravo na području druge države članice neposredno obavljati poslove zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju i podružnica društava iz Republike Hrvatske koje na temelju odredbi Zakona o osiguranju imaju pravo obavljati poslove zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju u drugoj državi članici (oznaka: HNHP).
+Članak 3.
+(1) Upis i izmjena podataka u registru provodi se na temelju primljenih obavijesti subjekata upisa iz članka 2. ovoga Pravilnika, primljenih obavijesti nadležnih nadzornih tijela država članica i po službenoj dužnosti.
+(2) Agencija će kronološkim redoslijedom izdavanja dozvola i ovlaštenja za obavljanje poslova zastupanja u osiguranju i posredovanja u osiguranju i reosiguranju, odnosno upisa u registar subjekta upisa iz članka 11. i 12. ovoga Pravilnika, svakom subjektu upisa prilikom upisa u odgovarajući registar dodijeliti jedinstven, nepromjenjiv i neponovljiv registarski broj subjekta upisa (dalje u tekstu: RBS).
+REGISTAR DRUŠTAVA ZA ZASTUPANJE U OSIGURANJU
+Članak 4.
+(1) U registru društava za zastupanje u osiguranju vode se sljedeći podaci:
+1. RBS,
+2. tvrtka ili skraćeni naziv tvrtke,
+3. matični broj društva (MBS) i osobni identifikacijski broj društva (OIB),
+4. sjedište društva (grad, ulica),
+5. datum i klasa dozvole za

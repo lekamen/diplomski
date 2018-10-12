@@ -1,0 +1,40 @@
+ visinu teretne vodne linije čamca za gospodarske namjene; proizvođač, mjesto i godina gradnje, materijal gradnje, područje plovidbe, najveći dopušteni broj osoba, najveći dopušteni broj putnika, namjena čamca i precizna namjena kod čamaca za gospodarske namjene, vrsta pogona);
+6. podaci o porivnim strojevima (proizvođač, tip, model, vrsta i ukupan broj porivnih strojeva, tvornički broj/brojevi i snaga pojedinih porivnih strojeva);
+7. oprema čamca;
+8. najmanji broj članova posade potreban za sigurnu plovidbu s osposobljenjima;
+9. utvrđeno stanje i nalaz ovlaštene osobe;
+10. mišljenje i odluka ovlaštene osobe;
+11. rok važenja obavljenog tehničkog pregleda;
+12. potpis ovlaštene osobe.
+PRILOG 2.
+OSNOVNI PREGLED ČAMCA je obvezni tehnički pregled koji se obavlja:
+a) prije upisa čamca u Upisnik čamaca;
+b) prije promjene namjene ili područja plovidbe čamca;
+c) poslije svake obnove čamca kojom su promijenjena plovna svojstva čamca.
+REDOVNI PREGLED ČAMCA je obvezni tehnički pregled koji se obavlja u sljedećim propisanim rokovima ovisno o namjeni čamca i to:
+a) svakih pet godina za čamce za osobne potrebe dulje od 7 metara i snage porivnog stroja veće od 15 kW;
+b) svake godine za čamce namijenjene za prijevoz putnika;
+c) svake dvije godine za ostale čamce za gospodarske namjene i čamce za javne namjene;
+d) plutajuća tijela do najviše tri godine;
+Čamci za osobne potrebe duljine do 7 metara, kao i čamci za negospodarske namjene dulji od 7 metara ali s porivnim strojem snage do 15 kW ne podliježu obveznom redovnom tehničkom pregledu. Smatra se da je rok valjanosti tehničkog pregleda takvog čamca do eventualnog osnovnog ili izvanrednog tehničkog pregleda;
+Pregled na suhom čamca za gospodarske namjene i čamca za javne namjene obavlja se u dolje propisanim rokovima ovisno o njegovoj namjeni i to:
+a) svake tri godine za čamce namijenjene za prijevoz putnika i iznajmljivanje;
+b) svake četiri godine za ostale čamce za gospodarske i javne namjene.
+Za čamce za gospodarske namjene prvi pregled na suhom obavit će se prilikom prvog redovnog pregleda koji će se obaviti nakon šest godina računajući od datuma gradnje (datuma isporuke od strane proizvođača).
+IZVANREDNI PREGLED ČAMCA je obvezni tehnički pregled čamca koji se obavlja:
+a) nakon pretrpljene plovidbene nesreće čamca, a nakon završetka radova na popravku ili obnovi dijelova čamca;
+b) u slučajevima postojanja opravdane sumnje da čamac ne ispunjava propisane uvjete u pogledu sposobnosti za plovidbu.
+PRILOG 3.
+OPREMA ČAMCA ZA OSOBNE POTREBE
+
+OPREMA ČAMCA ZA GOSPODARSKE I JAVNE NAMJENE
+
+SIDRA I SIDRENI LANCI
+Duljina trupa, m Masa sidra, kg Promjer lanca/užeta sidra, mm 3 5 6 8 4 6 6 10 5 7 6 10 6 8 6 12 7 9 8 12 8 10 8 12 9 11 8 12 10 13 8 12 11 15 8 12 12 18 8 12 13 21 8 12 14 24 8 12 15 27 8 12 16 30 8 12 17 34 8 14 18 38 8 14 19 42 10 14 20 47 10 14
+Masa sidra navedena u Tablici odnosi se na sidra povećane sile držanja. Ako se koriste tradicionalna sidra (npr. s prečkom ili sl.) masa sidra mora biti uvećana 25%.
+Duljina lanaca mora biti odgovarajuća području plovidbe. Općenito, duljina ne smije biti manja od tri duljine trupa čamca ili 30 metara, što je veće, za svako sidro.
+Sidreni lanci mogu biti zamijenjeni plastičnim ili čeličnim užadima. U tom slučaju između sidra i užeta mora biti ugrađen lanac u duljini ne manje od 20% ukupne duljine.
+Mora se predvidjeti najmanje četiri užeta za vez duljine koja odgovara duljini čamca ali ne manje od 5 metara. Mora se predvidjeti jedno uže za tegalj duljine četiri duljine čamca koje može biti uže za vez. Promjer užeta kako je navedeno u koloni za uže za sidro.
+PRILOG 4.
+PROGRAM ISPITA ZA VODITELJA ČAMCA KATEGORIJE »A«
+1 PLOVIDBENI PROPISI I OSNOVE PLOVIDBE 1 Propisi o plovidbi, o redu u lukama, 1 Isprave na čamcu, upis čamca u upisnik čamaca, tehnički pregledi, osiguranje 1 Posada čamca (broj i osposobljenost) 1 Nadležnosti lučkih kapetanija u odnosu na čamac i posadu čamca 1 Plovidba u lukama i prijevodnicama; svjetla i oznake na plovnom putu; 1 Vrste

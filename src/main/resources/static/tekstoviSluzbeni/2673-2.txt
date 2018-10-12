@@ -1,0 +1,34 @@
+ prikuplja prema posebnim propisima kojima se uređuje zaštita okoliša.
+(7) Izvješće iz stavka 6. ovoga članka sadrži podatke o količini upotrijebljenog mulja (na poljoprivrednom zemljištu, u kompostiranju, hortikulturi i ostali načini) i količini odloženog/zbrinutog mulja (npr. na odlagalištima otpada, spaljivanje, ostali načini), koji moraju biti razvrstani prema vodnim područjima i podslivovima.
+(8) Hrvatske vode izrađuju objedinjeno izvješće, koje obuhvaća podatke o ispuštanju komunalnih otpadnih voda i podatke o mulju iz stavka 6. ovoga članka te ga, uz prethodnu suglasnost ministarstva nadležnog za vodno gospodarstvo, dostavljaju Europskoj komisiji svake dvije godine odnosno u roku od šest mjeseci po primitku zahtjeva Europske komisije.
+(9) Izvješće iz stavka 8. ovoga članka objavljuje se na mrežnim stranicama ministarstva nadležnog za vodno gospodarstvo i Hrvatskih voda.
+(10) Podatke o provedbi višegodišnjeg programa gradnje komunalnih vodnih građevina iz članka 37. stavka 1. Zakona o vodama, Hrvatske vode dostavljaju Europskoj komisiji.«.
+Članak 8.
+Prilog 1. mijenja se i glasi:
+PRILOG 1.
+Članak 9.
+Prilog 1. A mijenja se i glasi:
+PRILOG 1. A
+Članak 10.
+Iza Priloga 19. dodaju se prilozi 20., 21., 22. i 23. iz članka 3. ovoga Pravilnika koji glase:
+»PRILOG 20.
+GRANIČNE VRIJEDNOSTI EMISIJA OTPADNIH VODA IZ OBJEKATA I POSTROJENJA ZA PRIPREMU I PRERADU VOĆA I POVRĆA
+I.
+(1) Odredbe ovoga Priloga odnose se na objekte i postrojenja iz kojih se otpuštaju tehnološke otpadne vode nastale tijekom pripreme i prerade voća i povrća.
+(2) Odredbe iz stavka 1. ove točke odnose se na onečišćenje koje nastaje tijekom:
+– pripreme voća i povrća za tržište (pranja, čišćenja, rezanja, obrezivanja, ljuštenja, usitnjavanja, sjeckanja, rashlađivanja, zamrzavanja i sušenja voća i povrća bez pretvaranja u prerađevine od voća i povrća) i
+– prerade voća i povrća odnosno djelovanja koje bitno mijenja početni proizvod (zagrijavanje, dimljenje, soljenje, dozrijevanje, sušenje, mariniranje, ekstrahiranje, prešanje ili kombinacija ovih procesa).
+(3) Odredbe ovoga Priloga ne odnose se na sljedeće izvore onečišćenja:
+– objekte i postrojenja za proizvodnju sokova od voća i povrća
+– objekte i postrojenja za proizvodnju biljnih ulja i masti
+– rashladne sustave i parne generatore unutar izvora onečišćenja navedenih u stavku 2. ove točke i
+– uređaje za tehnološku pripremu vode unutar navedenih izvora onečišćenja isanitarne otpadne vode (ako su razdvojene od tehnoloških otpadnih voda).
+II.
+Granične vrijednosti emisija otpadnih voda iz objekata i postrojenja koji su predmet ovoga Priloga navode se u Tablici 1. ove točke:
+Tablica 1. GRANIČNE VRIJEDNOSTI EMISIJA ONEČIŠĆUJUĆIH TVARI
+POKAZATELJI IZRAŽENI KAO JEDINICA POVRŠINSKE VODE SUSTAV JAVNE ODVODNJE FIZIKALNO-KEMIJSKI POKAZATELJI 1. Temperatura   0C 30 40 2. pH-vrijednost   6,5 – 9,0 6,5 – 9,5 3. Suspendirane tvari   mg/l 50 (a) 4. Taložive tvari   ml/lh 0,5 10 EKOTOKSIKOLOŠKIPOKAZATELJI 5. Toksičnost na dafnije LIDD* Faktor razrjeđenja 2 – 6. Toksičnost na svjetleće bakterije LIDL* Faktor razrjeđenja 3 – ORGANSKI POKAZATELJI 7. BPK5 O2 mg/l 25 sukladno članku 5. ovoga Pravilnika 8. KPK O2 mg/l 125 sukladno članku 5. ovoga Pravilnika 9. Teškohlapljive lipofilne tvari (ukupna ulja i masti) mg/l 10 100 ANORGANSKI POKAZATELJI 10. Ukupni dušik N mg/l 10 sukladno članku 5. ovoga Pravilnika 11. Kloridi Cl mg/l – sukladno članku 5. ovoga Pravilnika 12. Ukupni fosfor P mg/l 0,4-5 sukladno članku 5. ovoga Pravilnika
+Oznake u Tablici 1. znače:
+
+* LIDD, LIDL – najmanje razrjeđenje otpadne vode koje nema učinka na test organizme; određuje se najmanje četiri puta godišnje. Toksičnost na dafnije određuje se u slučaju kada se otpadne vode ispuštaju u kopnene vode, a toksičnost na svjetleće bakterije u priobalne vode.
+
+(a) – granična vrijednost emisije određuje se u otpadnoj vodi u slučaju ako suspendirane tvari štetno djeluju na sustav javne odvodnje i/ili na proces pročišćavanja uređaja, a određuje ju pravna osoba koja održava 

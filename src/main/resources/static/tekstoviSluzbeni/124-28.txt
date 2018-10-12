@@ -1,0 +1,31 @@
+ plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju na adresu elektroničke pošte ponude@apprrr.hr.
+PRILOG VII.
+POPIS DOKUMENTACIJE U SLUČAJEVIMA KAD SE PROVODI POSTUPAK JAVNE NABAVE SUKLADNO POSEBNIM PROPISIMA KOJI UREĐUJU TO PODRUČJE TE NAČIN PREDAJE DOKUMENTACIJE IZ POSTUPKA JAVNE NABAVE NA ELEKTRONSKOM MEDIJU (CD-u/DVD-u):
+1. Poziv na nadmetanje iz Elektroničkog oglasnika javne nabave Narodnih novina Republike Hrvatske i/ili Službenog lista Europske unije (u slučaju nabave velike vrijednosti);
+2. Dokumentacija za nadmetanje te sva moguća dodatna dokumentacija sa svim prilozima i eventualnim izmjenama/dopunama (ukoliko je primjenjivo);
+3. Odluka naručitelja o imenovanju ovlaštenih predstavnika naručitelja u postupku javne nabave;
+4. Certifikat iz područja javne nabave za najmanje jednog ovlaštenog predstavnika naručitelja koji je sudjelovao u postupku javne nabave;
+5. Izjava/e o postojanju/nepostojanju sukoba interesa sukladno Zakonu o javnoj nabavi za sve koji su sudjelovali u postupku javne nabave;
+6. Popis osoba koje su sudjelovale u izradi dokumentacije za nadmetanje;
+7. Poziv na pregovaranje (u slučaju pregovaračkog postupka javne nabave bez prethodne objave) sa dokazom o dostavi/zaprimanju od strane ponuditelja;
+8. Zahtjev za prikupljanje ponuda (u slučaju da su predmet nabave usluge iz dodatka II. B Zakona o javnoj nabavi) sa dokazom o dostavi/zaprimanju od strane ponuditelja;
+9. Poziv na natječaj (u slučaju natječaja) sa dokazom o dostavi/zaprimanju od strane ponuditelja;
+10. Zaprimljeni upiti potencijalnih ponuditelja i danih pojašnjenja sa dokazima o zaprimanju/dostavi (ukoliko je primjenjivo);
+11. Obavijest o dodatnim informacijama, poništenju postupka ili ispravku (u slučaju izmjena dokumentacije za nadmetanje i/ili Poziva za nadmetanje);
+12. Svi dokazi zaprimanja dokumentacije od strane gospodarskih subjekata/ponuditelja (npr. dokaz zaprimanja poziva na pregovaranje, dokaz zaprimanja poziva na natječaj, dokaz zaprimanja Odluke o odabiru) (ukoliko je primjenjivo)
+13. Upisnik o zaprimanju ponuda;
+14. Zapisnik o javnom otvaranju ponuda;
+15. Zapisnik o pregledu i ocjeni ponuda s prilozima;
+16. Odluka o odabiru s dokazom o dostavi Odluke o odabiru svim ponuditeljima koji su sudjelovali u postupku javne nabave;
+17. Sklopljeni ugovor s odabranim ponuditeljem;
+18. Sve zaprimljene ponude;
+19. Obavijest o sklopljenim ugovorima/Obavijest o rezultatima natječaja iz Elektroničkog oglasnika javne nabave Narodnih novina;
+20. Žalba i rješenje Državne komisije za kontrolu postupaka javne nabave (ako je primjenjivo)
+Način predaje dokumentacije iz postupka javne nabave na elektronskom mediju (CD-u/DVD-u)
+Jedan Zahtjev za potporu može imati jedan ili više provedeni postupak javne nabave.
+• Na elektronski medij (CD/DVD) potrebno je svaki postupak javne nabave posebno spremiti po direktorijima (folderima) s naznakom naziva vrste ugovora (npr. »radovi«, »usluge«, »roba») koji će predstavljati glavni direktorij. Ukoliko postoje dvije iste vrste ugovora tada je potrebno dodijeliti i broj uz naziv (npr. »roba1«, »roba2« i sl.)
+• Navedeni glavni direktorij bi trebao sadržavati minimalno sljedeće direktorije:
+→ zapisnici – koji sadrži sve zapisnike koji su nastali u prilikom otvaranja i ocjenjivanja pristiglih ponuda te Odluku o odabiru, dokaze o dostavi Odluke o odabiru ponuditeljima i Ugovor sa odabranim ponuditeljem
+→ ponude – koji sadrži sve pristigle ponude u roku propisanim dokumentacijom za nadmetanje i koje su bile predmet ocjenjivanja
+→ dzn – koji sadrži dokumentaciju za nadmetanje s prilozima, izmjene dokumentacije za nadmetanje (ako je primjenjivo)
+→ ostalo – koji sadrži Odluku naručitelja o imenovanju ovlaštenih predstavnika naručitelja, Certifikat iz područja javne nabave za najmanje jednog ovlaštenog predstavnika naručitelja, Izjavu o postojanju/nepostojanju sukoba interesa sukladno Zakonu o javnoj nabavi, Popis osoba koje su sudjelovale u izradi dokumentacije za nadmetanje, zaprimljene upite potencijalnih ponuditelja i

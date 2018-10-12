@@ -1,0 +1,36 @@
+ svojstvima utvrđenima za materijale koji se spajaju osim ako u proračunu nisu posebno uzete u obzir druge odgovarajuće vrijednosti tih svojstava.
+Kod tlačne opreme, nerastavljive spojeve sastavnih dijelova opreme koji su izvrgnuti tlaku i sastavne dijelove koji su izravno na nju spojeni mora ispitati odgovarajuće kvalificirano osoblje u skladu s odgovarajućim radnim postupcima.
+Za tlačnu opremu kategorije II, III i IV radne postupke i osoblje mora odobriti priznata neovisna organizacija koja, po izboru proizvođača, može biti:
+– tijelo za ocjenjivanje sukladnosti,
+– priznata neovisna organizacija kako je predviđeno u članku 12. ovoga Pravilnika.
+Da bi dala odobrenje, priznata neovisna organizacija mora izvršiti preglede i ispitivanja kako je predviđeno u odgovarajućim usklađenim normama ili jednakovrijednim provjerama i ispitivanjima ili se mora pobrinuti da se ti pregledi i ispitivanja izvrše.
+3.1.3. Nerazorna ispitivanja
+Kod tlačne opreme, nerazorna ispitivanja nerastavljivih spojeva mora izvršiti odgovarajuće kvalificirano osoblje. Za tlačnu opremu kategorije III i IV osoblje mora odobriti priznata neovisna organizacija u skladu s člankom 12. ovoga Pravilnika.
+3.1.4. Toplinska obrada
+Kada postoji opasnost da proizvodni postupak promijeni svojstva materijala do te mjere da se ugrozi sigurnost tlačne opreme, mora se primijeniti odgovarajuća toplinska obrada u pojedinoj fazi proizvodnje.
+3.1.5. Slijedivost
+Moraju se utvrditi i provoditi odgovarajući postupci identifikacije materijala od kojih su izrađeni sastavni dijelovi opreme koji doprinose otpornosti na tlak i to od preuzimanja, tijekom proizvodnje, pa sve do završnog ispitivanja proizvedene tlačne opreme.
+3.2. Završno ocjenjivanje
+Tlačna se oprema mora podvrgnuti završnom ocjenjivanju i to:
+3.2.1. Završna inspekcija
+Tlačna oprema mora proći završnu inspekciju kojom se vizualno, te provjerama pratećih dokumenata, ocjenjuje njezina sukladnost sa zahtjevima ovoga Pravilnika. Mogu se uzeti u obzir ispitivanja provedena za vrijeme proizvodnje. Dok god je to potrebno iz sigurnosnih razloga završna se inspekcija može provesti na vanjskoj i unutarnjoj strani svakog dijela opreme, a prema potrebi i za vrijeme proizvodnje (npr. kada to više nije moguće izvršiti za vrijeme završne inspekcije).
+3.2.2. Tlačna proba
+Završno ocjenjivanje tlačne opreme mora uključivati ispitivanje otpornosti na tlak, što je obično hidrostatska tlačna proba pri tlaku koji je, gdje je to primjereno, barem jednak vrijednosti utvrđenoj u točki 7.4. ovoga Dodatka.
+Za serijski proizvedenu tlačnu opremu iz kategorije I, ovo ispitivanje može se provoditi na statistički određenom broju uzoraka.
+Kada je hidrostatska tlačna proba štetna ili nepraktična mogu se primijeniti druga priznata ispitivanja. Kada se provode ispitivanja otpornosti na tlak koja nisu hidrostatska tlačna proba, moraju se prije njihove provedbe primijeniti dodatne provjere kao nerazorna ispitivanja ili druge jednako važeće metode.
+3.2.3. Kontrola sigurnosnih uređaja
+Kod sklopova, završno ocjenjivanje mora također uključivati provjeru sigurnosnih uređaja čija je namjena utvrditi potpunu sukladnost sa zahtjevima iz točke 2.10. ovoga Dodatka.
+3.3. Stavljanje oznaka i pločice s tehničkim podacima
+Pored oznake CE iz članka 14. ovoga Pravilnika moraju se navesti sljedeći podaci:
+a) za svu tlačnu opremu
+– naziv i adresa ili drugi načini identifikacije proizvođača te, prema potrebi, njegovog ovlaštenog zastupnika s nastanom u Europskoj uniji,
+– godina proizvodnje,
+– identifikacija tlačne opreme prema vrsti, kao što je tip, serija i serijski broj,
+– bitna najviša/najniža dopuštena ograničenja;
+b) ovisno o vrsti tlačne opreme, podatke za sigurnu montažu, rukovanje ili uporabu te, prema potrebi, održavanje i periodične preglede kao što su:
+– obujam V tlačne opreme u litrama,
+– nazivni promjer za cijevi NO,
+– ispitni tlak PT izražen u barima i datum tlačne probe,
+– postavni tlak sigurnosnog uređaja u barima,
+– snaga (učin) tlačne opreme u kW,
+– priključni

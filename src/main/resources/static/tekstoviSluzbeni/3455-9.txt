@@ -1,0 +1,39 @@
+ovoga Pravilnika na telekomunikacijsku terminalnu opremu u nepokretnoj mreži prestaje se primjenjivati Pravilnik o radijskoj opremi i telekomunikacijskoj terminalnoj opremi (»Narodne novine«, br. 25/12.).
+Dodaci Pravilnika
+Članak 28.
+Dodatak 1., Dodatak 2., Dodatak 3. i Dodatak 4. tiskani su uz ovaj Pravilnik i čine njegov sastavni dio.
+Propis koji prestaje važiti
+Članak 29.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti Pravilnik o elektromagnetskoj kompatibilnosti (»Narodne novine«, br. 23/11.) i Naputak o utvrđivanju osposobljenosti tijela za ocjenjivanje sukladnosti u području elektromagnetske kompatibilnosti (»Narodne novine«, br. 36/10.).
+Stupanje na snagu Pravilnika
+Članak 30.
+Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu 20. travnja 2016.
+Klasa: 344-06/15-01/01
+Urbroj: 530-06-2-2-2-16-8
+Zagreb, 23. ožujka 2016.
+Ministar Oleg Butković, v. r.
+DODATAK 1.
+MODUL A: UNUTARNJA KONTROLA PROIZVODNJE
+1. Unutarnja kontrola proizvodnje je postupak ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2., 3., 4. i 5. ovoga Dodatka, te osigurava i na vlastitu odgovornost izjavljuje da uređaj udovoljava zahtjevima iz ovoga Pravilnika koji se na njega primjenjuju.
+2. Ocjenjivanje elektromagnetske kompatibilnosti
+Proizvođač je obvezan provesti ocjenjivanje sukladnosti uređaja s bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 6. stavka 1. ovoga Pravilnika, pri čemu mora uzeti u obzir sve uobičajene radne uvjete i sve konfiguracije tog uređaja koje je proizvođač predvidio za namjensku uporabu.
+3. Tehnička dokumentacija
+Proizvođač je obvezan izraditi tehničku dokumentaciju koja mora omogućiti ocjenjivanje sukladnosti uređaja s bitnim zahtjevima elektromagnetske kompatibilnosti iz članka 6. stavka 1. ovoga Pravilnika, te sadržavati odgovarajuću analizu i procjenu rizika.
+Tehničkom dokumentacijom određuju se primjenjivi zahtjevi i ona obuhvaća, u mjeri u kojoj je to bitno za ocjenjivanje, oblikovanje, proizvodnju i rad uređaja, te osobito sadržava sljedeće podatke:
+a) opći opis uređaja
+b) koncept oblikovanja, nacrte proizvodnje i sheme komponenata, podsklopova, strujnih krugova, itd.
+c) opise i objašnjenja potrebna za razumijevanje tih nacrta, shema i rada uređaja
+d) popis u cijelosti ili djelomično primijenjenih usklađenih norma iz članka 13. ovoga Pravilnika, te opis postupaka koji su primijenjeni kako bi se zadovoljili bitni zahtjevi iz članka 6. ovoga Pravilnika, uključujući i popis drugih odgovarajućih primijenjenih tehničkih specifikacija, ako te usklađene norme nisu bile primijenjene. U slučaju djelomične primjene usklađenih norma u tehničkoj se dokumentaciji navode dijelovi norma koji su primijenjeni
+e) ishode provedenih izračuna oblikovanja, ispitivanja, itd.
+f) ispitna izvješća.
+4. Proizvodnja
+Proizvođač je obvezan poduzeti sve potrebne mjere kako bi postupak proizvodnje i nadzor nad postupkom proizvodnje osigurali sukladnost proizvedenih uređaja s tehničkom dokumentacijom iz točke 3. ovoga Dodatka te s bitnim zahtjevima iz članka 6. stavka 1. ovoga Pravilnika.
+5. Oznaka CE i EU izjava o sukladnosti
+5.1. Proizvođač je obvezan staviti oznaku CE na svaki pojedinačni uređaj koji ispunjava mjerodavne zahtjeve iz ovoga Pravilnika.
+5.2. Proizvođač je obvezan sastaviti pisanu EU izjavu o sukladnosti za model uređaja i čuvati je zajedno s tehničkom dokumentacijom u razdoblju od najmanje deset godina od dana stavljanja uređaja na tržište, te je dati na uvid nadležnom inspektoru u skladu s njegovim zahtjevom. U EU izjavi o sukladnosti navodi se uređaj za koji je ta izjava sastavljena.
+Na zahtjev nadležnih tijela proizvođač je obvezan dostaviti presliku EU izjave o sukladnosti.
+6. Ovlašteni zastupnik
+Obveze proizvođača iz točke 5. ovoga Dodatka u njegovo ime i na njegovu odgovornost može ispuniti njegov ovlašteni zastupnik, ako su te obveze navedene u ovlaštenju.
+DODATAK 2.
+MODUL B: EU ISPITIVANJE TIPA
+1. EU ispitivanje tipa dio je postupka ocjenjivanja sukladnosti u kojem

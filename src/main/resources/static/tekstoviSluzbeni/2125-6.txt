@@ -1,0 +1,21 @@
+ informacije o:
+(a) zaprimljenim zahtjevima za provjeru i zahtjevima za ISV;
+(b) zahtjevima za ocjenu sukladnosti i prikladnosti za uporabu interoperabilnih sastavnih dijelova;
+(c) izdanim ili uskraćenim ISV-ima;
+(d) izdanim ili uskraćenim potvrdama o sukladnosti i »EZ« potvrdama o prikladnosti za uporabu;
+(e) izdanim ili uskraćenim potvrdama o provjeri.
+2.8. Jezik
+Dokumentacija i dopisi koji se odnose na postupak »EZ« provjere moraju biti sastavljeni na službenom jeziku države članice Europske unije u kojoj podnositelj zahtjeva ima poslovni nastan ili na službenom jeziku Europske unije koji prihvati podnositelj zahtjeva.
+3. POTVRDA O PROVJERI KOJU IZDAJE IMENOVANO TIJELO
+3.1. Uvod
+U slučaju primjene prijavljenih nacionalnih pravila, provjera uključuje postupak u kojem tijelo imenovano u skladu s člankom 37. stavkom 4. ovoga Zakona (imenovano tijelo) provjerava i potvrđuje sukladnost podsustava s nacionalnim pravilima prijavljenima u skladu s člankom 47. ovoga Zakona.
+3.2. Potvrda o provjeri
+Imenovano tijelo sastavlja potvrdu o provjeri namijenjenu podnositelju zahtjeva.
+Potvrda sadržava točnu uputu na nacionalna pravila čiju je sukladnost tijekom postupka provjere ocijenilo imenovano tijelo.
+U slučaju nacionalnih pravila povezanih s podsustavima od kojih se sastoji vozilo, imenovano tijelo dijeli potvrdu na dva dijela, gdje je u prvom dijelu navedeno upućivanje na ona nacionalna pravila koja se strogo odnose na tehničku kompatibilnost između vozila i dotične mreže, a u drugom upućivanje na sva ostala nacionalna pravila.
+3.3. Tehnička dokumentacija
+Tehnička dokumentacija koju je sastavilo imenovano tijelo, a koja se prilaže uz potvrdu o provjeri u slučaju nacionalnih pravila, mora biti uključena u tehničku dokumentaciju priloženoj »EZ« izjavi o provjeri iz točke 2.4. i sadržavati tehničke podatke od važnosti za ocjenu sukladnosti podsustava s nacionalnim pravilima.
+3.4. Jezik
+Dokumentacija i dopisi koji se odnose na postupak »EZ« provjere moraju biti sastavljeni na službenom jeziku države članice Europske unije u kojoj podnositelj zahtjeva ima poslovni nastan ili na službenom jeziku Europske unije koji prihvati podnositelj zahtjeva.
+4. PROVJERA DIJELOVA PODSUSTAVA
+Odredbe ovoga Priloga primjenjuju se na odgovarajući način i u slučaju kada prijavljeno tijelo izdaje potvrdu o provjeri za određene dijelove podsustava.«.

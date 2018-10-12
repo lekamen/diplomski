@@ -1,0 +1,42 @@
+ naznačena i maksimalna naknada za upravljanje koju je moguće zaračunati iz imovine drugih investicijskih fondova u koje namjerava ulagati, a u revidiranim godišnjim izvještajima AIF-a mora jasno biti naznačen maksimalan postotak naknade za upravljanje koja je zaračunata iz imovine AIF-a i iz imovine drugog investicijskog fonda u koji je taj AIF uložio.
+Ograničenja ulaganja radi sprječavanja značajnog utjecaja nad izdavateljima
+Članak 12.d
+(1) AIF s javnom ponudom može steći najviše:
+a) 25% dionica s pravom glasa jednog izdavatelja,
+b) 15% dionica bez prava glasa jednog izdavatelja,
+c) 25% dužničkih vrijednosnih papira jednog izdavatelja,
+d) 30% udjela pojedinog investicijskog fonda iz članka 10. stavka 2. točke 4. ovog Pravilnika
+e) 15% instrumenata tržišta novca jednog izdavatelja,
+f) ograničenja iz točaka c), d) i e) ovoga stavka mogu se zanemariti u trenutku stjecanja ako u tom trenutku nije moguće izračunati ukupan broj ili vrijednost instrumenata u opticaju.
+(2) Ograničenja iz stavka 1. ovoga članka ne primjenjuju se na prenosive vrijednosne papire i instrumente tržišta novca čiji je izdavatelj ili za koje jamči Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave Republike Hrvatske, druga država članica, jedinica lokalne i područne (regionalne) samouprave države članice, treća država ili javna međunarodna tijela kojima pripada jedna ili više država članica.«.
+Članak 10.
+(1) U članku 14. stavku 2. točki c) riječi: »podtočke b) ove točke« zamjenjuju se riječima: »točke b) ovog stavka«.
+(2) U stavku 3. točki a) iza riječi: »ulaganja u« dodaje se riječ: »poslovne«.
+Članak 11.
+U članku 16. stavku 1. riječi: »Vrste AIF-ova s privatnom ponudom koje se mogu osnovati u Republici Hrvatskoj uključuju, ali nisu ograničene na:« zamjenjuju se riječima: »UAIF u Republici Hrvatskoj može osnovati AIF s privatnom ponudom bilo kakve vrste, u skladu s odredbama Zakona i odredbama uredbi Europske unije, uključujući, ali se ne ograničavajući na:«.
+Članak 12.
+U članku 17. dodaje se novi stavak 3. koji glasi:
+»Najniži iznos obveze uplate pojedinog ulagatelja u AIF s privatnom ponudom je 400.000,00 kuna ili ekvivalentna vrijednost u drugoj valuti, na način kako je propisano pravilima AIF-a.«
+Članak 13.
+(1) U članku 18. stavku 1. točki 4. iza riječi: »udjela« briše se ostatak teksta točke i dodaju se riječi: »ili dionica investicijskih fondova iz članka 10. stavka 2. točke 4. ovoga Pravilnika,«.
+(2) U stavku 3. redni broj »21.« zamjenjuje se rednim brojem »20.«.
+Članak 14.
+U članku 24. stavku 3. iza riječi: »od strane AIF-a« riječ: »isključivo« briše se.
+Članak 15.
+(1) U članku 25. stavku 1. redni broj »4.« zamjenjuje se rednim brojem »7.«.
+(2) U stavku 2. redni broj »4.« zamjenjuje se rednim brojem »7.«.
+(3) U stavku 7. točki c) ispred riječi: »udjele« dodaje se riječ: »poslovne«.
+Članak 16.
+Iza članka 28. dodaje se nova glava IV., članci 29. – 29.f i naslovi iznad njih koji glase:
+»IV. KROVNI AIF
+Osnivanje krovnog AIF-a
+Članak 29.
+(1) UAIF u Republici Hrvatskoj može osnovati krovni AIF, koji se sastoji od dva ili više podfondova.
+(2) UAIF je dužan ishoditi odobrenje Agencije za osnivanje i rad krovnog AIF-a te za osnivanje i rad svih podfondova krovnog AIF-a.
+(3) Nakon osnivanja krovnog AIF-a, UAIF može, uz odobrenje Agencije, naknadno osnovati nove podfondove koje će uključiti u navedeni krovni AIF, pri čemu je dužan pridržavati se odredbe članka 29.b stavka 4. ovog Pravilnika.
+(4) UAIF koji upravlja s najmanje dva AIF-a može osnovati krovni AIF iz postojećih AIF-ova preoblikovanjem navedenih fondova u podfondove i uključivanjem istih u krovni AIF.
+(5) Na zahtjev za osnivanje te izdavanje odobrenja za rad krovnog AIF-a i podfondova na odgovarajući način se primjenjuju odredbe članka 251. Zakona.
+Naziv krovnog AIF-a i podfondova
+Članak 29.a
+(1) Naziv krovnog AIF-a mora sadržavati naznaku da se radi o krovnom AIF-u.
+(2) Naziv podfonda mora sadržavati naziv krovnog AIF-a bez naznake »krovni AIF« te naziv prema kojem se podfond

@@ -1,0 +1,16 @@
+ popis stanovništva iz 2011. g. za Zonu primjene hitnih mjera zaštite i spašavanja (podzonu između 15 km i 25 km udaljenosti od NEK-a):
+Tablica 4 – Gradovi u UPZ-u:
+Jedinica mjesne samouprave Broj stanovnika (ukupno) Broj stanovnika (15 – 40 g.) Broj stanovnika (0 – 14 g.) Samobor 37.633 12.216 5.868 Zaprešić 25.223 8.697 4.060
+Tablica 5 – Općine u UPZ-u:
+Jedinica mjesne samouprave Broj stanovnika (ukupno) Broj stanovnika (15 – 40 g.) Broj stanovnika (0 – 14 g.) Brdovec 11.134 3.648 1.775 Dubravica 1.437 446 193 Klanjec 2.915 916 440 Kraljevec na Sutli 1.727 561 271 Kumrovec 1.588 486 204 Luka 1.351 436 197 Marija Gorica 2.233 669 318 Tuhelj 2.104 618 295 Pušća 2.700 838 467 Zagorska Sela 996 298 126 Žumberak 883 170 64
+Ukupan broj potrebnih doza računa se kao dvije doze za svakog stanovnika svih općina i gradova u UPZ-u između 15 i 40 godina te jedna doza za svakog stanovnika svih općina i gradova u UPZ-u mlađeg od 15 godina (doza za dva dana). Tome se pribraja 25% zalihe, potrebne zbog mogućnosti da se na području nalaze i ljudi koji tu ne stanuju te zbog nemogućnosti predviđanja kretanja stanovništva između dva službena popisa stanovništva.
+Prema navedenom planu, potreban broj doza po skladištu iznosi:
+Tablica 6 – Gradovi u UPZ-u u sastavu Zagrebačke županije:
+Jedinica mjesne samouprave Broj stanovnika (ukupno) Broj stanovnika (15 – 40 g.) Broj stanovnika (0 – 14 g.) Broj doza Samobor 37.633 12.216 5.868 30300 Zaprešić 25.223 8.697 4.060 21454
+Tablica 7 – Općine u UPZ-u u sastavu Zagrebačke županije:
+Jedinica mjesne samouprave Broj stanovnika (ukupno) Broj stanovnika (15 – 40 g.) Broj stanovnika (0 – 14 g.) Broj doza Brdovec 11.134 3.648 1.775 9071 Dubravica 1.437 446 193 1085 Luka 1.351 436 197 1069 Marija Gorica 2.233 669 318 1656 Pušća 2.700 838 467 2143 Žumberak 883 170 64 404
+Tablica 8 – Općine u UPZ-u u sastavu Krapinsko-zagorske županije:
+Jedinica mjesne samouprave Broj stanovnika (ukupno) Broj stanovnika (15 – 40 g.) Broj stanovnika (0 – 14 g.) Broj doza Klanjec 2.915 916 440 2272 Kraljevec na Sutli 1.727 561 271 1393 Kumrovec 1.588 486 204 1176 Tuhelj 2.104 618 295 1531 Zagorska Sela 996 298 126 722
+Prema tablicama 6 i 7 za potrebe Zagrebačke županije predviđene su 67182 doze. Uz 25% dodatne zalihe za Zagrebačku županiju ukupno je potrebno 83978 doza.
+Prema tablici 8 za potrebe Krapinsko-zagorske županije predviđene su 7094 doze. Uz 25% dodatne zalihe za Krapinsko-zagorsku županiju ukupno je potrebno 8868 doza.
+Ukupno je potrebno osigurati 92.846 doza.

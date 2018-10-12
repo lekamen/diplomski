@@ -1,0 +1,21 @@
+ utječu na računovodstvene evidencije ili financijske izvještaje ili sustavi mogu biti nepovezani s računovodstvenim evidencijama, internim kontrolama nad financijskim izvještavanjem ili financijskim izvještajima klijenta revizije. Pružanje usluga u vezi sa sustavima može stvoriti prijetnju temeljem samoprovjere ovisno o vrsti usluge i IT sustava.
+290.199 Za sljedeće usluge u vezi sa sustavima informacijskih tehnologija smatra se da ne stvaraju prijetnju neovisnosti sve dok osoblje revizorskog društva ne prihvaća odgovornosti menadžmenta za:
+(a) oblikovanje ili uvođenje IT sustava nepovezanih s internim kontrolama nad financijskim izvještavanjem;
+(b) oblikovanje ili uvođenje IT sustava koji ne stvaraju informacije koje tvore značajan dio računovodstvenih evidencija ili financijskih izvještaja;
+(c) uvođenje općenamjenskog računovodstvenog softvera ili softvera za izvještavanje financijskih informacija koji nisu sastavljeni za specifične potrebe pojedinog korisnika i koje nije kreiralo revizorsko društvo, ako nisu potrebne značajne prilagodbe radi ispunjavanja klijentovih potreba; i
+(d) ocjenjivanje i davanje preporuka u vezi sa sustavima koje je oblikovao, implementirao ili kojima upravlja drugi pružatelj usluga ili klijent.
+Klijenti revizija koji nisu subjekti od javnog interesa
+290.200 Pružanje usluga nekom klijentu revizije koji nije subjekt od javnog interesa koje uključuju oblikovanje ili uvođenje sustava informacijskih tehnologija koji (a) tvore značajan dio internih kontrola nad financijskim izvještavanjem ili (b) stvaraju informacije koje su značajne za klijentove računovodstvene evidencije ili financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje, stvara prijetnju temeljem samoprovjere.
+290.201 Prijetnja temeljem samoprovjere previše je značajna da bi se dopustile takve usluge, osim ako nisu uspostavljene odgovarajuće zaštite koje osiguravaju da:
+(a) klijent prihvaća svoju odgovornost za uspostavljanje i nadziranje sustava internih kontrola;
+(b) klijent dodjeljuje odgovornosti za donošenje svih menadžerskih odluka u vezi s oblikovanjem i implementacijom hardverskog ili softverskog sustava kompetentnom zaposleniku koji je po mogućnosti iz iskusnijeg menadžmenta;
+(c) klijent donosi sve menadžerske odluke u vezi s procesom oblikovanja i implementacije;
+(d) klijent ocjenjuje primjerenost i rezultate oblikovanosti i implementacije sustava; i
+(e) klijent je odgovoran za djelovanje sustava (hardvera ili softvera) i za podatke koje on koristi ili stvara.
+290.202 Ovisno o stupnju pouzdavanja koji se pridaje određenom sustavu informacijskih tehnologija kao dijelu revizije, trebat će se odrediti hoće li se pružati takve usluge bez izražavanja uvjerenja samo korištenjem osoba koje nisu članovi revizijskog tima i koje imaju različite linije izvještavanja unutar revizorskog društva. Ocijenit će se važnost svake preostale prijetnje i primijenit će se zaštite kada je to nužno za uklanjanje prijetnje ili njezino smanjivanje na prihvatljivu razinu. Primjer takve zaštite je postojanje profesionalnog računovođe koji pregledava reviziju ili posao koji ne uključuje izražavanje uvjerenja.
+Klijenti revizija koji su subjekti od javnog interesa
+290.203 U slučaju klijenta revizije koji je subjekt od javnog interesa, revizorsko društvo neće pružati usluge koje uključuju oblikovanje ili uvođenje sustava informacijskih tehnologija koji:
+(a) čini značajan dio internih kontrola nad financijskim izvještavanjem; ili
+(b) stvara informacije koje su značajne za klijentove računovodstvene evidencije ili financijske izvještaje o kojima će revizorsko društvo izraziti mišljenje.
+Usluge podrške u sudskim sporovima
+290.204 Usluge podrške u sudskim sporovima mogu uključiti aktivnosti kao što su djelovanje u svojstvu stručnog svjedoka, izračunavanje procijenjenih šteta ili drugih iznosa koji mogu postati potraživanja ili obveze kao posljedica parnice ili drugog sudskog spora i pomoć u vođenju dokumentacije i pretraživanju. Te usluge mogu

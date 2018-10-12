@@ -1,0 +1,25 @@
+ samo s jedne strane vezan sa susjednim kolosijekom i čiji kraj završava signalom kraja krnjeg kolosijeka, a na glavnom kolosijeku i prsobranom.
+7. Najveća dopuštena brzina vlaka je najveća brzina kojom vlak smije voziti na pruzi ili njezinu dijelu, a propisana je voznim redom, pisanim nalogom ili je signalizirana signalima.
+8. Ograničena brzina je brzina niža od dopuštene kojom se smije voziti preko dijela pruge, uvjetovana njezinim tehničkim stanjem ili brzina kojom se smije voziti preko skretnica, uvjetovana njihovom konstrukcijom i načinom osiguranja. Ta brzina propisana je voznim redom i ona je najveća dopuštena brzina za taj dio pruge za koji je propisana.
+9. Postotak kočenja je postotni odnos kočne mase i ukupne mase vlaka.
+10. Potiskivani vlak je vlak s vučnim vozilom na čelu vlaka koji je na svom kraju potiskivan drugim vučnim vozilom kojim se ne upravlja s čela vlaka.
+11. Potrebni postotak kočenja je postotak kočenja koji se unaprijed određuje za svaki vlak.
+12. Proba kočenja je postupak kojim se utvrđuje ispravnost kočnica i njihova spremnost za djelovanje u vlaku.
+13. Prometna operativa je organizacijska jedinica upravitelja infrastrukture kojoj je zadaća osiguranje učinkovitosti željezničkog prometa u slučaju odstupanja od voznog reda.
+14. Pružno vozilo je željezničko vozilo za posebne namjene koje između dvaju kolodvora ne vozi pod uvjetima za vožnju vlakova odnosno manevarskih sastava.
+15. Put proklizavanja je dio pruge iza signala kod kojeg se vlak mora najkasnije zaustaviti. Na putu proklizavanja nisu istodobno dopuštene druge vožnje i on mora biti slobodan.
+16. Rasporedni odsjek je dio pruge između dvaju rasporednih kolodvora.
+17. Stvarni postotak kočenja je stvarni postotni odnos kočne mase vlaka i ukupne mase vlaka.
+18. Uređaj za vođenje vlaka je SS uređaj i komunikacijski uređaj na vučnom vozilu koji omogućuje nadzor i sigurno upravljanje vožnjom vlaka.
+19. Vlak je sastavljeni i spojeni niz željezničkih vozila s jednim ili više vučnih vozila, ili samo vučno vozilo, odnosno više međusobno spojenih vučnih vozila, koji prometuju pod određenim brojem ili oznakom, označen signalnim znakom čelnog i završnog signala.
+20. Vodeće vozilo je prvo vozilo u smjeru kretanja vlaka iz kojeg se upravlja vožnjom i kočenjem vlaka.
+21. Vozni put je dio pruge po kojem će se obaviti vožnja vlaka. Za vlak koji se zaustavlja vozni put obuhvaća i put proklizavanja, osim kod ulaska na krnji ili zauzeti kolosijek. Vozni put za manevarske sastave naziva se manevarski vozni put.
+22. Vozni red je skup podataka koji određuju sva planirana kretanja vlakova na određenoj željezničkoj infrastrukturi tijekom razdoblja za koji isti vrijedi.
+23. Vožnja u sprezi je vuča vlaka s dva ili više vučnih vozila kojima se upravlja iz vodećeg vučnog vozila.
+24. Vučeno vozilo je željezničko vozilo bez vlastitog pogona ili željezničko vozilo s isključenim vlastitim pogonom.
+25. Vučno vozilo je pogonsko vozilo koje se može samostalno kretati i vući druga vozila koja se na njega mogu priključiti.
+26. Zaustavni put je propisani najveći dopušteni put potpunog kočenja na pruzi odnosno na pružnoj dionici za vlak koji vozi najvećom dopuštenom brzinom. Duljina zaustavnog puta, ovisno o brzini na pruzi, može biti 700, 1000 ili 1500 metara. Zaustavni put određuje upravitelj infrastrukture i dužan ga je objaviti u Izvješću o mreži.
+(2) Ostali pojmovi koji se koriste u ovom Pravilniku imaju značenja utvrđena zakonom kojim se uređuje sigurnost i interoperabilnost željezničkog sustava, zakonom kojim se uređuje željeznica ili se objašnjavaju kod njihovog prvog spominjanja u ovom Pravilniku.
+Željezničke pruge i kolosijeci
+Članak 6.
+(1) Željeznička pruga (u daljnjem tekstu: pruga) je sastavni dio željezničke infrastrukture koju u tehničkom smislu čine dijelovi željezničkih infrastrukturnih podsustava nužni za sigurno, uredno i nesmetano odvijanje željezničkog prometa, kao i zemljište ispod pruge s pružnim pojasom i ostalim zemljištem koje služi uporabi i funkciji tih

@@ -1,0 +1,25 @@
+ svjetla za maglu uključuju se i isključuju neovisno o dugom glavnom svjetlu, kratkom glavnom svjetlu ili bilo kojoj kombinaciji dugih i kratkih glavnih svjetala.
+(6) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 33.
+(1) Na motornim vozilima mogu biti ugrađena dva svjetla za skretanje (svjetla za osvjetljavanje u zavoju).
+(2) Vanjski rub prividne površine ne smije biti udaljen više od 400 mm od krajnjeg vanjskog ruba vozila.
+(3) Rubovi prividne površine ne smiju biti udaljeni manje od 250 mm i ne više od 900 mm iznad tla. Svjetla za skretanje ne smiju se postavljati na većoj visini od one na kojoj su postavljena kratka glavna svjetla.
+(4) Svjetla za skretanje smiju se postavljati najviše do 1000 mm od prednje strane vozila.
+(5) Svjetla za skretanje na jednoj strani vozila mogu se automatski uključiti samo kad su pokazivači smjera na istoj strani vozila uključeni i/ili kad se kut zakretanja upravljača promijeni iz položaja za vožnju ravno naprijed u smjeru iste strane vozila.
+(6) Svjetla za skretanje moraju se automatski isključiti kad se pokazivač smjera isključi i/ili kad se kut upravljanja ponovno vrati u položaj za vožnju ravno naprijed.
+(7) Svjetla za skretanje ne uključuju se kad je brzina vozila veća od 40 km/h.
+(8) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 34.
+(1) Svjetlo za osvjetljavanje mjesta na kojem se izvode radovi, ako je ugrađeno, mora biti izvedeno tako da se može uključiti posebnom sklopkom samo ako su uključena i pozicijska svjetla.
+(2) Dodatna svjetla za osvjetljavanje ceste, ako su ugrađena, moraju biti izvedena tako da se mogu uključiti posebnom sklopkom samo ako su uključena i pozicijska svjetla.
+(3) Pokretno svjetlo (reflektor), ako je ugrađen, mora biti izveden tako da se može uključiti posebnom sklopkom samo ako su uključena i pozicijska svjetla. Pokretno svjetlo se ne smije koristiti za vrijeme sudjelovanja u prometu.
+3.2 Uređaji za označavanje vozila
+Članak 35.
+(1) Uređaji za označavanje vozila smiju emitirati sljedeće boje svjetlosti:
+Naziv sklopa Boja svjetla prednja pozicijska svjetla bijela stražnja pozicijska svjetla crvena stražnje svjetlo za maglu crvena parkirna svjetla bijela sprijeda, crvena straga, jantarna ako je povezano sa pokazivačima smjera ili s bočnim svjetlima za označavanje bočno svjetlo za označavanje jantarna; međutim, bočno svjetlo za označivanje koje je smješteno najviše straga može biti crveno gabaritna svjetla bijela sprijeda, crvena straga stražnji netrokutasti katadiopter crvena stražnji trokutasti katadiopter crvena prednji netrokutasti katadiopter bijela bočni netrokutasti katadiopter jantarna, osim bočnog netrokutastog katadioptera koji može biti crvene boje ako je ugrađen u stražnji sklop svjetala označavanje visoke uočljivosti (retroreflektirajuće trake za označavanje konture vozila) bijela ili jantarna bočno; crvena ili jantarna straga uređaji za davanje posebnih svjetlosnih znakova (rotacijska i treptava svjetla) plava, crvena ili jantarna (žuto-narančasta). svjetlo stražnje registracijske pločice bijela rotacijska i treptava svjetla jantarna, crvena ili plava retroreflektirajuće površine crvena (samo straga ili bočna na stražnjem dijelu vozila), jantarna (samo bočna na prednjem dijelu vozila) dnevna svjetla bijela
+Članak 36.
+(1) Na motornim i priključnim vozilima širine veće od 1600 mm moraju biti ugrađena dva prednja pozicijska svjetla.
+(2) Na motornim vozilima vanjski rub prividne površine ne smije biti udaljen više od 400 mm od krajnjeg vanjskog ruba vozila.
+(3) Kod priključnih vozila vanjski rub prividne površine ne smije biti udaljen više od 150 mm od krajnjeg vanjskog ruba vozila.
+(4) Udaljenost između unutarnjih rubova prividnih površina, osim za vozila kategorije M1 i N, ne smije biti manja od 600 mm. Udaljenost se može smanjiti na 400 mm ako je sveukupna širina vozila manja od 1300 mm.
+(5) Rubovi prividne površine ne smiju biti udaljeni manje od 350

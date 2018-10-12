@@ -1,0 +1,31 @@
+ mjeseca od dana izdavanja odluke o dodjeli sredstava.«.
+Članak 9.
+Članak 22. mijenja se i glasi:
+»(1) Potpora se korisniku isplaćuje temeljem zahtjeva za isplatu/zahtjeva za isplatu predujma.
+(2) Korisnik može podnijeti zahtjev za isplatu jednokratno ili u ratama do najviše tri rate. Maksimalni iznos prve rate iznosi do 50% odobrenih sredstava javne potpore.
+(3) Korisnik može putem zahtjeva za isplatu predujma tražiti predujam za ulaganje i to do 50% odobrenih sredstava javne potpore. Uvjet za isplatu predujma jest dostava zadužnice ili drugog odgovarajućeg jamstva u stopostotnoj vrijednosti iznosa predujma sukladno članku 63. stavku 1. Uredbe (EU) br. 1305/2013. Zadužnica ili drugo odgovarajuće jamstvo mora vrijediti od trenutka podnošenja zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje zahtjeva za isplatu.
+(4) Isplaćeni predujam iz stavka 3. ovoga članka opravdava se plaćenim računima/situacijama i dokumentacijom navedenom u članku 23. stavku 2. ovoga Pravilnika za odobrena ulaganja pri podnošenju zahtjeva za isplatu. Zbroj predujma i iznosa sredstava traženih zahtjevom za isplatu ne može biti veći od ukupno odobrenog iznosa potpore, odnosno od ukupno prihvatljivih troškova.
+(5) Zadužnice ili druga odgovarajuća jamstva iz stavka 3. ovoga članka bit će vraćena korisniku po prihvaćanju opravdanosti odobrenih ulaganja temeljem odluke o odgovarajućem jamstvu.
+(6) Zadužnice ili druga odgovarajuća jamstva iz stavka 3. ovoga članka bit će aktivirana radi povrata sredstava isplaćenog predujma u slučaju neispunjavanja uvjeta iz stavka 4. ovog članka temeljem odluke o odgovarajućem jamstvu.
+(7) Korisnik je dužan dostaviti izvještaj o napretku projekta svakih šest mjeseci, računajući od dana donošenja odluke o dodjeli sredstava.
+(8) Korisnik je nakon završenog projekta dužan neposredno ili preporučenom pošiljkom s povratnicom dostaviti zahtjev za isplatu na adresu Agencije za plaćanje. Zahtjev za isplatu ne može sadržavati samo račune kojima se pravda predujam.
+(9) Uz zahtjev za isplatu/zahtjeva za isplatu predujma korisnik je dužan dostaviti svu dokumentaciju propisanu natječajem, pri čemu se kao vrijeme podnošenja smatra vrijeme slanja dokumentacije u slučaju slanja preporučenom pošiljkom s povratnicom odnosno vrijeme zaprimanja u Agenciju za plaćanja ako se dostavlja neposredno.«.
+Članak 10.
+U članku 23. stavak 1. mijenja se i glasi:
+»(1) Uz zahtjev za isplatu rate potrebno je priložiti:
+– izjave o očišćenosti od MES-a, NUS-a i njihovih dijelova
+– završno izvješće razminiranja voditelja radilišta i/ili završna izvješća zamjenika voditelja radilišta za pojedine cjeline radilišta (ako je primjenjivo)
+– rekapitulaciju zahtjeva izvoditelja za plaćanje
+– sve plaćene račune u izvorniku sukladno odluci o dodjeli sredstava, a svi priloženi računi moraju biti plaćeni u cijelosti
+– podatke nakon svakog stručnog nadzora nad obavljenim poslovima i konačne geodetske izmjere razminiranog područja u elektroničkom obliku na prijenosnom mediju (CD-u/DVD-u) u ESRI shapefile formatu (HTRS96/TM).«.
+Stavak 2. mijenja se i glasi:
+»(2) Uz zahtjev za konačnu isplatu potrebno je priložiti:
+– izjave o očišćenosti od MES-a, NUS-a i njihovih dijelova
+– završno izvješće razminiranja voditelja radilišta i/ili završna izvješća zamjenika voditelja radilišta za pojedine cjeline radilišta (ako je primjenjivo)
+– rekapitulaciju zahtjeva izvoditelja za plaćanje
+– zapisnik o završnoj kontroli kvalitete
+– potvrdu o isključenju područja i/ili građevine iz MSP-a
+– sve plaćene račune u izvorniku sukladno odluci o dodjeli sredstava, a svi priloženi računi moraju biti plaćeni u cijelosti
+– podatke nakon svakog stručnog nadzora nad obavljenim poslovima i konačne geodetske izmjere razminiranog područja u elektroničkom obliku na prijenosnom mediju (CD-u/DVD-u) u ESRI shapefile formatu (HTRS96/TM).«.
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»(4) Ako korisnik u zahtjevu za isplatu navede iznos koji je viši od prihvatljivog iznosa

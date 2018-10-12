@@ -1,0 +1,23 @@
+ tehničkih specifikacija, uključujući usklađene norme i tehničke propise, kao i odgovarajuće specifikacije ispitivanja koje će se primijeniti te, u slučaju kada se usklađene norme neće u potpunosti primijeniti, način na koji se osigurava sukladnost radijske opreme s odgovarajućim bitnim zahtjevima iz članka 5. ovoga Pravilnika
+– nadzora projektiranja i tehnika provjere projektiranja, postupaka i sustavnih mjera koje će se primijeniti u projektiranju radijske opreme u skladu s pripadajućim razredom (klasom) opreme
+– odgovarajućih tehnika, postupaka i sustavnih mjera proizvodnje, upravljanja kakvoćom i osiguranja kakvoće, koje će se primijeniti
+– pregleda i ispitivanja koja će se provesti prije, za vrijeme i nakon proizvodnje, učestalosti njihove provedbe, kao i rezultate ispitivanja provedenih prije proizvodnje, gdje je to prikladno
+– načina na koji se utvrđuje da prostor i oprema za pregled i ispitivanje udovoljavaju odgovarajućim zahtjevima za provedbu tih pregleda i ispitivanja
+– zapisa o kakvoći, kao što su izvješća o nadzoru, podaci o ispitivanju, podaci o umjeravanju, izvješća o osposobljenosti osoblja, itd.
+– načina nadzora ostvarivanja tražene kakvoće proizvoda i projektiranja te djelotvornosti sustava kakvoće.
+3.3. Prijavljeno tijelo mora ocijeniti sustav kakvoće u svrhu utvrđivanja udovoljavanja zahtjevima iz točke 3.2. ovoga Dodatka, pri čemu se smatra da sustavi kakvoće, koji primjenjuju odgovarajuću usklađenu normu, udovoljavaju zahtjevima iz točke 3.2. ovoga Dodatka.
+Prijavljeno tijelo osobito mora ocijeniti osigurava li sustav upravljanja kakvoćom sukladnost proizvoda s uvjetima propisanima ovim Pravilnikom u pogledu odgovarajuće dokumentacije iz točaka 3.1. i 3.2. ovoga Dodatka, uključujući i rezultate ispitivanja koje je dostavio proizvođač.
+Povjerenstvo za provjeru mora imati najmanje jednog člana s iskustvom procjenitelja u odgovarajućoj proizvodnoj tehnologiji. Postupak ocjenjivanja mora sadržavati i procjeniteljev obilazak proizvođačevih proizvodnih pogona.
+O odluci se mora obavijestiti proizvođač ili njegov ovlašteni zastupnik. Obavijest mora sadržavati zaključke provedenog pregleda i obrazloženu odluku.
+3.4. Proizvođač mora preuzeti odgovornost za ispunjavanje obveza koje proizlaze iz potvrđenog sustava kakvoće te ga mora održavati u odgovarajućem i djelotvornom stanju.
+3.5. Proizvođač mora redovito izvješćivati prijavljeno tijelo za ocjenjivanje sukladnosti, koje je odobrilo sustav kakvoće, o svakoj namjeri promjene u sustavu kakvoće.
+Prijavljeno tijelo mora procijeniti predložene promjene i utvrditi udovoljava li i nadalje promijenjeni sustav kakvoće zahtjevima iz točke 3.2. ovoga Dodatka, ili je potrebno ponoviti postupak ocjenjivanja.
+O odluci se mora obavijestiti proizvođač. Obavijest mora sadržavati zaključke provedene procjene i obrazloženu odluku.
+4. Nadzor sustava kakvoće
+4.1. Svrha nadzora je utvrditi ispunjava li proizvođač pravilno sve svoje obveze koje proizlaze iz odobrenog sustava kakvoće.
+4.2. U svrhu provedbe nadzora proizvođač mora prijavljenom tijelu za ocjenjivanje sukladnosti omogućiti pristup lokacijama za projektiranje, proizvodnju, nadzor, ispitivanje i skladištenje, te mu mora pružiti sve potrebne podatke i dokumentaciju, a osobito sljedeće:
+– dokumentaciju o sustavu kakvoće
+– zapise o kakvoći predviđene projektnim dijelom sustava kakvoće, kao što su ishodi analiza, izračuna, ispitivanja, itd.
+– zapise o kakvoći predviđene proizvodnim dijelom sustava kakvoće, kao što su izvješća o nadzoru, podaci o ispitivanju, podaci o umjeravanju, izvješća o osposobljenosti osoblja, itd.
+4.3. Prijavljeno tijelo mora obavljati provjere u primjerenim vremenskim razmacima kako bi se osiguralo da proizvođač održava i primjenjuje sustav kakvoće, a izvješće o obavljenoj provjeri mora se dostaviti proizvođaču.
+4.4. Prijavljeno tijelo može obaviti i nenajavljeni obilazak proizvođača, tijekom kojega se mogu, prema potrebi, provesti ispitivanja ili narediti provedba ispitivanja u svrhu provjere ispravnog 

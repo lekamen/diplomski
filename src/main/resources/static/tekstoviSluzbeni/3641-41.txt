@@ -1,0 +1,32 @@
+ razrjeđivači, i hidrazin nitrat;
+b) proizvodnje vodika radiolizom u vodenim ili organskim otopinama i krutinama;
+c) stvaranja eksplozivnih ili zapaljivih proizvoda kemijskim reakcijama, npr. nitrirane organske tvari (crvena ulja);
+d) piroforskih materijala, npr. malih čestica legure cirkonija.
+(2) U područjima s potencijalno eksplozivnom atmosferom potrebno je odgovarajući zaštititi električnu mrežu i opremu.
+(3) Potrebno je ugraditi sustav detekcije i dojave i/ili sprječavanje koji je razmjeran riziku od vatre i eksplozije.
+(4) Kako bi se spriječilo širenje vatre kroz ventilacijske cijevi te kako bi se održao integritet protupožarnih štitova, ventilacijski sustavi trebaju biti opremljeni s protupožarnim prigušivačima na odgovarajućim mjestima.
+Kvar opreme
+(5) Prilikom projektiranja postrojenja za preradu potrebno je prikladno procijeniti opremu za uporabu u radiološkom i nuklearnom okolišu s obzirom na adekvatnu izvedbu ili potencijalni kvar. Mjere za industrijsku sigurnost opreme koja nije projektirana za rad u nuklearnom okolišu a instalirana je u digestorima ili vrućim ćelijama (npr. mehaničke zaštite, osigurači, brtvila, izolacije) potrebno je prilagoditi okolišu, ako je to neophodno.
+Curenje
+(6) Potrebno je primijeniti mjere za sprječavanje, otkrivanje i sakupljanje curenja koja su uzrokovana korozijom, erozijom i vibracijama u sustavima izloženim oscilacijama. Potrebno je usmjeriti pozornost na opremu koja sadrži otopine kiseline, pogotovo kada su takve otopine na visokim temperaturama.
+Poplava
+(7) Postrojenja za preradu potrebno je projektirati tako da spriječe ispuštanje kontaminirane tekućine za okoliš u slučaju unutarnje poplave.
+Gubitak pomoćnih sustava
+(8) Pri projektiranju postrojenja za preradu potrebno je procijeniti mogućnost za dugotrajni gubitak pomoćnih sustava i značajki, kao što su hlađenje i napajanje koji su potrebni za funkcioniranje sigurnosnih sustava te je potrebno procijeniti utjecaj takvog gubitka na sigurnost.
+(9) Projektom je potrebno osigurati da sustav napajanja postrojenja za preradu ima odgovarajuću dostupnost, održivost i pouzdanost. U slučaju gubitka normalnog napajanja, čak i u dužem periodu, npr. više dana, potrebno je osigurati napajanje za izvanredne situacije za uređaje važne za sigurnost koji ovise o pogonskom statusu postrojenja za preradu (npr. normalan pogon, obustava rada, održavanje ili pročišćavanje objekta). Potrebno je planirati obnovu opskrbe električnom energijom i provesti vježbe kako bi se osiguralo adekvatno i pravovremeno uspostavljanje opskrbe nakon takvog gubitka normalnog napajanja.
+Pad tereta
+(10) Prilikom projektiranja postrojenja za preradu potrebno je uzeti u obzir mogućnost padova tereta i procijeniti njihov utjecaj na sigurnost.
+Projektili
+(11) Prilikom projektiranja postrojenja za preradu potrebno je uzeti u obzir mogućnost nastanka projektila nastalih rotirajućim dijelovima i procijeniti njihov utjecaj na sigurnost.
+Vanjski inicijalni događaji
+Potres
+(12) S obzirom na seizmičke opasnosti potrebno je odabrati odgovarajuće konzervativno kretanje tla kako bi se osigurala:
+a) stabilnost građevina i prijenos kanala između zgrada te osigurala konačna prepreka sustava zadržavanja u slučaju potresa, uzimajući u obzir posljedice za radnike, javnost i okoliš;
+b) dostupnost relevantnih SSK tijekom i nakon potresa.
+(13) Potrebno je osigurati mogućnost praćenja statusa i sigurnosnih funkcija postrojenja za preradu nakon potresa (npr. koristeći instrumentaciju, pomoćne sustave, procedure).
+Ekstremni vremenski uvjeti
+(14) Prilikom projektiranja uređaja i sustava važnih za sigurnost (uključujući i njihov smještaj), posebno sustava hlađenja za odvođenje ostatne topline iz skladišta visokoradioaktivnog otpada, potrebno je uzeti u obzir ekstremne vremenske uvjete.
+4.3.6 Instrumentacija i sustavi upavljanja
+Instrumentacija
+(1) Potrebno je osigurati odgovarajuća sredstva za mjerenje parametara procesa važnih za sigurnost postrojenja za preradu:
+a) u normalnom pogonu, kako bi se 

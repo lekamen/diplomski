@@ -1,0 +1,22 @@
+119 30.10.2015 Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu
+VLADA REPUBLIKE HRVATSKE
+2245
+Na temelju članka 60. stavka 6. Pomorskog zakonika (»Narodne novine«, br. 181/04, 76/07, 146/08, 61/11, 56/13 i 26/15) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14), Vlada Republike Hrvatske je na sjednici održanoj 29. listopada 2015. godine donijela
+UREDBU
+O JEDINSTVENOM SUČELJU ZA FORMALNOSTI U POMORSKOM PROMETU
+Članak 1.
+(1) Ovom Uredbom utvrđuju se način i uvjeti usklađene dostave i razmjene isprava, dokumenata i podataka o pomorskom prometu jedinstvenim sučeljem za formalnosti u pomorskom prometu (u daljnjem tekstu: jedinstveno sučelje), između broda i nadležnih tijela državne uprave, između tijela državne uprave međusobno te međunarodne razmjene podataka s ciljem smanjenja administrativnog opterećenja i unaprjeđenja kvalitete javnih usluga standardiziranjem i racionaliziranjem službenog postupka prijave po principu jednokratne dostave isprava, dokumenata i podataka.
+(2) Jedinstveno sučelje čine interoperabilne i kompatibilne informacijske i tehničke platforme, odnosno rješenja kojima se osigurava jednokratno i usklađeno prikupljanje isprava, dokumenata i podataka od strane pružatelja podataka i elektronička razmjena podataka među subjektima jedinstvenog sučelja u području nadzora i upravljanja pomorskim prometom, carinskih, sigurnosnih i zdravstvenih postupaka te granične kontrole, obrane i drugih aktivnosti na moru, s ciljem stvaranja cjelovite situacijske slike o pomorskom prometu u unutarnjim morskim vodama, teritorijalnom moru i zaštićenom ekološko-ribolovnom pojasu Republike Hrvatske.
+Članak 2.
+Ovom se Uredbom u pravni poredak Republike Hrvatske prenosi Direktiva 2010/65/EU Europskog parlamenta i Vijeća od 20. listopada 2010. o službenom postupku prijave za brodove koji dolaze u luke i/ili odlaze iz luka država članica i o stavljanju izvan snage Direktive 2002/6/EZ (SL L 283, 29. 10. 2010.).
+Članak 3.
+Pojedini pojmovi u smislu ove Uredbe imaju sljedeće značenje:
+1. brod je svaki pomorski objekt na koji se primjenjuje službeni postupak prijave, uključujući ratni brod, javni brod, znanstvenoistraživački brod i brod kojim se obavlja istraživanje u skladu s posebnim propisima
+2. e-Carina je računalni informacijski sustav carinske uprave za provedbu carinskih postupaka, koji omogućava brže i jednostavnije kretanje roba, bez papira, primjenom elektroničkog poslovanja i razmjenom podataka s gospodarskim subjektima
+3. elektronička razmjena podataka je elektronički prijenos podataka između dva računalna sustava u skladu s Temeljnom funkcionalnom specifikacijom jedinstvenog sučelja koju u skladu s odredbama ove Uredbe donosi Međuresorni normativno-tehnički odbor
+4. elektronički prijenos podataka je proces prijenosa digitalno kodiranih informacija uporabom prilagodljivog strukturiranog formata koji se može izravno upotrebljavati za računalnu pohranu i obradu
+5. elektroničko poslovanje je provedba službenog postupka prijave elektroničkim prijenosom podataka pomoću sustava elektroničke razmjene podataka ili uporabom web-aplikacije, uz primjenu naprednog elektroničkog potpisa, informatičke opreme, sigurnih telekomunikacijskih kanala, računalnih mreža, aplikativnih sustava i drugih alata elektroničkog poslovanja
+6. IMO FAL Konvencija je IMO Konvencija o olakšicama u međunarodnom pomorskom prometu, iz 1965. godine, kako je izmijenjena i dopunjena
+7. IMO FAL obrasci su standardizirani IMO FAL obrasci 1-7 u A-4 formatu kako su propisani IMO FAL Konvencijom
+8. pružatelj podataka je ovlašteni predstavnik broda, zapovjednik, druga od strane brodara ovlaštena osoba, pomorski agent, predstavnik tereta, organizator pomorskog prijevoza, kao i druga fizička ili pravna osoba koja je u skladu s posebnim propisima obveznik dostave isprava, dokumenata i podataka u pomorskom prometu
+9. SafeSeaNet je pomorski informacijski sustav Europske unije za elektroničku razmjenu podataka u pomorskom

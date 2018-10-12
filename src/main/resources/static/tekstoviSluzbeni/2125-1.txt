@@ -1,0 +1,34 @@
+ predstavnika i trgovački naziv naručitelja ili proizvođača);
+d) kratak opis podsustava;
+e) naziv i adresu s identifikacijskim brojem prijavljenog tijela koje je provelo (ili nazive i adrese s identifikacijskim brojevima prijavljenih tijela koja su provela) »EZ« provjeru podsustava;
+f) naziv i adresu s identifikacijskim brojem prijavljenog tijela koje je provelo (ili nazive i adrese s identifikacijskim brojevima prijavljenih tijela koja su provela) ocjenu sukladnosti s ostalim propisima koji proizlaze iz Ugovora o funkcioniranju Europske unije;
+g) naziv i adresu imenovanog tijela koje je provelo (ili nazive i adrese imenovanih tijela koja su provela) provjeru sukladnosti s nacionalnim tehničkim pravilima prijavljenima u skladu s člankom 47. ovoga Zakona;
+h) naziv i adresu tijela za ocjenu koje je sastavilo izvješća o procjeni sigurnosti povezana s uporabom zajedničkih sigurnosnih metoda za procjenu rizika kada je to propisano ovim Zakonom;
+i) upućivanja na dokumente sadržane u tehničkoj dokumentaciji priloženoj »EZ« izjavi o provjeri;
+j) sve mjerodavne privremene ili konačne propise s kojima podsustavi moraju biti sukladni, a posebno u odnosu na posebna ograničenja kod uporabe ili na posebne uvjete za uporabu;
+k) identitet potpisnika (ovlaštene fizičke osobe ili ovlaštenih fizičkih osoba).
+(4) Odredbe stavaka 1. do 3. ovoga članka primjenjuju se i na privremeni izvještaj o pojedinim fazama provjere ili o provjeri pojedinih dijelova podsustava (ISV) koja se provodi u skladu s Prilogom 5. ovoga Zakona i na dopunsku »EZ« izjavu o provjeri podsustava iz članka 50.a ovoga Zakona.
+(5) »EZ« izjava o provjeri za podsustav može biti dopunjena u slučaju dodatnih provjera podsustava koje se provode u slučaju izdavanja dodatnog odobrenja za puštanje u uporabu, pri čemu je njezino područje primjene ograničeno na područje primjene dodatnih provjera.«.
+Članak 6.
+Iza članka 50. dodaju se naslov iznad članka i članak 50.a koji glase:
+»»EZ« izjava o provjeri podsustava u slučaju izmjene podsustava
+Članak 50.a
+(1) Ne dovodeći u pitanje članak 53. ovoga Zakona, odredbe ovoga članka primjenjuju se kod izmjene podsustava koji posjeduje »EZ« izjavu o provjeri i koja ne predstavlja izmjenu u okviru održavanja.
+(2) U slučaju da podnositelj zahtjeva koji izvodi radove na izmjeni podsustava dokaže da izmjena ne utječe na osnovne značajke podsustava bitne za sukladnost sa osnovnim parametrima:
+a) podnositelj zahtjeva ažurira dokumente sadržane u tehničkoj dokumentaciji priloženoj »EZ« izjavi o provjeri,
+b) podnositelj zahtjeva ne mora sastavljati novu »EZ« izjavu o provjeri.
+(3) U slučaju da podnositelj zahtjeva koji izvodi radove na izmjeni podsustava dokaže da izmjena utječe na osnovne značajke podsustava bitne za sukladnost s određenim osnovnim parametrima:
+a) podnositelj zahtjeva sastavlja dopunsku »EZ« izjavu o provjeri u odnosu na mjerodavne osnovne parametre;
+b) dopunska »EZ« izjava o provjeri sadrži popis dokumenata koji nisu više važeći u odnosu na izvornu tehničku dokumentaciju koja je priložena izvornoj »EZ« izjavi o provjeri;
+c) tehnička dokumentacija priložena dopunskoj »EZ« izjavi o provjeri uključuje dokaz da je utjecaj izmjene podsustava ograničen na mjerodavne osnovne parametre;
+d) izvorna »EZ« izjava o provjeri smatra se važećom za ostale osnovne parametre koji nisu obuhvaćeni izmjenom podsustava.«.
+Članak 7.
+U članku 67. stavak 2. mijenja se i glasi:
+»(2) Svi svjetlosni glavni signali, predsignali i kontrolni svjetlosni signali na željezničko-cestovnim prijelazima s automatskim uređajima za osiguranje prijelaza moraju biti opremljeni pružnim uređajem za automatsku zaštitu vlaka (autostop uređaj).«.
+Članak 8.
+U članku 89. stavak 3. mijenja se i glasi:
+»(3) Odredbe članka 90. i članka 92. ovoga Zakona ne primjenjuju se na strojovođe.«.
+Članak 9.
+Članak 91. mijenja se i glasi:
+»(1) Izvršni radnik mora imati fizičku i psihičku sposobnost za rad (u daljnjem tekstu: zdravstvena sposobnost).
+(2) Utvrđivanje zdravstvene sposobnosti obavlja se 

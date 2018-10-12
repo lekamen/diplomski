@@ -1,0 +1,25 @@
+ prije njezine promjene namjene koja je povod izvlaštenja, odnosno prije isključivanja zemljišta buduće javne namjene iz daljnjeg konjunkturnog razvoja u smislu privatnoga gospodarskog korištenja i stvaranja dobiti (načelo prethodnog učinka)
+44. uzor-čestica je katastarska čestica prevladavajuće kategorije i pretežite vrste i mjere građevinskog korištenja na području cjenovnog bloka
+45. vrijeme čekanja je vrijeme od dana vrednovanja i/ili dana kakvoće do stupanja na snagu prostornog plana ili do pravomoćnosti odgovarajućeg akta za građenje kojim se ispunjavaju druge pretpostavke za početak stvarnoga korištenja građevne čestice
+46. vrsta i mjera građevinskog ili drugog korištenja odnosno namjena i parametri građevinske iskoristivosti u pravilu su propisani prostornim planom.
+(2) Ostali pojmovi uporabljeni u ovom Zakonu imaju značenje određeno posebnim zakonom kojim se uređuje područje prostornog uređenja i drugim posebnim zakonom kojim se uređuje područje gradnje.
+(3) Pojam nekretnine i prava na nekretninama propisana posebnim zakonom kojim se uređuje vlasništvo i druga stvarna prava koriste se i za potrebe ovoga Zakona.
+(4) Izrazi koji u ovom Zakonu imaju rodno značenje koriste se neutralno i odnose se na muške i ženske osobe.
+Procjembeni elaborat
+Članak 5.
+(1) Procjembeni elaborat je dokument kojim se procjena vrijednosti nekretnina jasno i transparentno prezentira u pisanom obliku, a obuhvaća nalaz i mišljenje stalnoga sudskog vještaka za procjenu nekretnina ili procjenu stalnoga sudskog procjenitelja.
+(2) Ako se procjembeni elaborat izrađuje za procjenu vrijednosti naknade za potpuno izvlaštenu nekretninu ili za djelomično izvlaštenu nekretninu, za procjenu naknade za ustanovljenje zakupa i za procjenu naknade za ustanovljenje služnosti, za svaku će se nekretninu koja je predmet tog pravnog posla izraditi zasebni procjembeni elaborat.
+(3) Procjembene elaborate za sve nekretnine iz stavka 2. ovoga članka izradit će u pravilu isti stalni sudski vještak za procjenu nekretnina ili stalni sudski procjenitelj.
+(4) Za izradu procjembenog elaborata u postupku određivanja naknade i u sporazumnom rješavanju pitanja stjecanja prava vlasništva određene nekretnine u postupcima izvlaštenja primjenjuju se pravila iz stavaka 2. i 3. ovoga članka.
+(5) Svaki odabir parametara korištenih u procjeni vrijednosti nekretnina obvezno se obrazlaže u procjembenom elaboratu.
+Informacijski sustav tržišta nekretnina
+Članak 6.
+(1) Ministarstvo nadležno za poslove graditeljstva i prostornog uređenja (u daljnjem tekstu: Ministarstvo) uspostavit će i održavati informacijski sustav tržišta nekretnina (u daljnjem tekstu: eNekretnine) za potrebe provedbe ovoga Zakona i drugih propisa.
+(2) Sastavni dio eNekretnina čini zbirka kupoprodajnih cijena i plan približnih vrijednosti.
+(3) Sadržaj i način vođenja eNekretnina, zbirke kupoprodajnih cijena i plana približnih vrijednosti te način korištenja podataka iz istih propisat će pravilnikom ministar nadležan za poslove graditeljstva i prostornog uređenja (u daljnjem tekstu: ministar).
+(4) eNekretnine vode se i održavaju u elektroničkom obliku, a na mrežnim stranicama Ministarstva javno su dostupni podatci u skladu s pravilnikom iz stavka 3. ovoga članka i propisima o zaštiti osobnih podataka.
+Zbirka kupoprodajnih cijena
+Članak 7.
+(1) Zbirka kupoprodajnih cijena je evidencija o ostvarenom prometu na tržištu nekretnina na području županije, Grada Zagreba, odnosno velikoga grada.
+(2) Zbirku kupoprodajnih cijena vodi upravno tijelo županije, Grada Zagreba, odnosno velikoga grada za svoje područje temeljem evidentiranih podataka iz isprava o prodaji ili drugom načinu raspolaganja nekretninama naplatnim putem, te temeljem evaluacije tih podataka.
+(3) Ministarstvo će za potrebe ažuriranja zbirke kupoprodajnih cijena, putem automatske razmjene podataka dnevno preuzimati podatke o realiziranom naplatnom prometu nekretnina (kupoprodaja, najam, zakup, pravo građenja i služnost) iz Evidencije prometa nekretnina ministarstva

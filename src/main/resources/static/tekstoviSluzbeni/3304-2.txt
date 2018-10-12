@@ -1,0 +1,26 @@
+ gore navedenih, druge financijske gubitke (neposlovne), kao i svaki drugi rizik neživotnog osiguranja koji nije obuhvaćen linijom poslovanja od 1 do 11. Obuhvaćaju rizike iz članka 7. navedene pod 16.01, 16.02, 16.03, 16.04, 16.05, 16.06 i 16.99. B. Proporcionalne obveze neživotnog reosiguranja Linije poslovanja od 13 do 24 obuhvaćaju proporcionalne obveze reosiguranja koje se odnose na obveze navedene u svakoj od linijom poslovanja od 1 do 12. C. Neproporcionalne obveze neživotnog reosiguranja   25. Neproporcionalno zdravstveno reosiguranje Neproporcionalne obveze reosiguranja koje se odnose na obveze osiguranja navedene u linijom poslovanja od 1 do 3. 26. Neproporcionalno reosiguranje od odgovornosti Neproporcionalne obveze reosiguranja koje se odnose na obveze osiguranja navedene u linijom poslovanja 4 i 8. 27. Neproporcionalno pomorsko reosiguranje, reosiguranje zračnih letjelica i transportno reosiguranje Neproporcionalne obveze reosiguranja koje se odnose na obveze osiguranja navedene u linijom poslovanja 6. 28. Neproporcionalno reosiguranje imovine Neproporcionalne obveze reosiguranja koje se odnose na obveze osiguranja navedene u linijom poslovanja 5, 7 te od 9 do 12. D. Obveze životnog osiguranja   29. Zdravstveno osiguranje Obveze zdravstvenog osiguranja pri kojima se temeljna djelatnost obavlja po tehničkoj osnovi sličnoj onoj kod životnog osiguranja, osim obveza navedenih pod linijom poslovanja 33. Obuhvaća rizik iz članka 7. navedene pod 19.05. 30. Osiguranje sa sudjelovanjem u dobiti Obveze osiguranja sa sudjelovanjem u dobiti osim onih u linijom poslovanja 33 i 34. Obuhvaćaju rizike iz članka 7. navedene pod 19.01, 19.03, 19.04, 20.01, 20.02, 20.99, 22.01, 22.02 i 25.01. 31. Osiguranje vezano uz indekse i udjele u investicijskim fondovima Obveze osiguranja s naknadama vezanim uz indekse i udjele u investicijskim fondovima osim onih navedenih u linijom poslovanja 33 i 34. Obuhvaćaju rizike iz članka 7. navedene pod 23.01, 23.02, 23.03, 23.04 i 23.99. 32. Ostala životna osiguranja Ostale obveze životnog osiguranja osim obveza navedenih u linijom poslovanja od 29 do 31 te u 33 i 34. Obuhvaća rizik iz članka 7. naveden pod 19.02,19.99, 21.01, 21.02, 21.99 i 24.01. 33. Rente koje proizlaze iz ugovora o neživotnom osiguranju i odnose se na obveze zdravstvenog osiguranja Obuhvaća rizike iz linija poslovanja 4, 5, 6 i 8. 34. Rente koje proizlaze iz ugovora o neživotnom osiguranju i odnose se na obveze osiguranja osim onih zdravstvenog osiguranja  Obuhvaća rizike iz linija poslovanja 4, 5, 6 i 8. E. Obveze životnog reosiguranja   35. Zdravstveno reosiguranje Obveze reosiguranja koje se odnose na obveze navedene u linijom poslovanja 29 i 33. 36. Životno reosiguranje Obveze reosiguranja koje se odnose na obveze navedene u linijom poslovanja od 30 do 32 i 34.
+(2) Iznimno od stavka 1. ovoga članka društvo za osiguranje odnosno društvo za reosiguranje može primjenjivati drugačiju raspodjelu rizika prema linijama poslovanja i to u slučaju određivanja (segmentacije) osigurateljnih obveza životnih odnosno neživotnih osiguranja prema stvarnoj prirodi osnovnog rizika.
+VRSTE OSIGURANJA
+Članak 5.
+Vrste osiguranja unutar Skupine neživotnih osiguranja dijele se na:
+01. osiguranje od nezgode,
+02. zdravstveno osiguranje,
+03. osiguranje cestovnih vozila
+04. osiguranje tračnih vozila,
+05. osiguranje zračnih letjelica,
+06. osiguranje plovila,
+07. osiguranje robe u prijevozu,
+08. osiguranje od požara i elementarnih šteta,
+09. ostala osiguranja imovine,
+10. osiguranje od odgovornosti za upotrebu motornih vozila,
+11. osiguranje od odgovornosti za upotrebu zračnih letjelica,
+12. osiguranje od odgovornosti za upotrebu plovila,13. ostala osiguranja od odgovornosti,
+14. osiguranje kredita,
+15. osiguranje jamstava,
+16. osiguranje raznih financijskih gubitaka,
+17. osiguranje troškova pravne zaštite,
+18. osiguranje pomoći (asistencija).
+Članak 6.
+Vrste osiguranja unutar Skupine životnih osiguranja dijele se na:
+19. životna osiguranja,
+20. rentno

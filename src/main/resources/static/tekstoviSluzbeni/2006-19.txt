@@ -1,0 +1,20 @@
+ pruge.
+3.8. Inovativne tehnologije u funkciji osiguranja ciljane razine kapaciteta kolosiječne infrastrukture
+Sustav središnjeg upravljanja prometom
+Implementacija ovog sustava na najopterećenijem dijelu mreže sustava HŽI-a (radi se prvenstveno o onom dijelu mreže gdje na koridorskim pravcima imamo jednokolosiječne pruge), uz bitno manja ulaganja u infrastrukturu povećava pouzdanost i raspoloživost kapaciteta.
+Mjerno vozilo u funkciji sustava održavanja željezničke infrastrukture
+Inovativni sustav mjerenja i nadzora kvalitete kolosiječne geometrije u funkciji je održivog tehnološko-ekonomskog održavanja i obnavljanja kolosiječne infrastrukture. Strategija održavanja i unaprjeđenja kvalitete kolosiječne infrastrukture mora biti temeljena na pružanju što kvalitetnije usluge korisnicima te mora u sebi sadržavati sljedeće glavne komponente:
+– osiguranje kolosiječne raspoloživosti putem smanjenja utjecaja održavanja na kolosiječnu raspoloživost
+– osiguranje i pružanje primjerenog standarda kolosiječne kvalitete uz zahtijevanu razinu pouzdanosti
+– osiguranje ekonomski opravdanog i produktivnog izvršenja održavanja
+– osiguranje i realizacija prije navedenog na siguran i odgovoran način.
+Provođenje tih zadataka zahtijeva znanje o kompleksnim interakcijama između stanja i ponašanja strukture kolosijeka i utjecaja izvršenog održavanja i obnavljanja na eksploatacijsku kvalitetu kolosijeka. Istraživanje, izvođenje analiza i sastavljanje dosljednog plana za različite sekcije kolosijeka nekoliko puta u godini uključuje procesiranje velike mase mjerenja stanja kolosijeka, prometnih zabilješki, informacija o troškovima, podataka o konstrukciji mjernih kolosiječnih dionica i povijesti održavanja.
+3. ULAGANJA U ŽELJEZNIČKU INFRASTRUKTURU
+4.1. Dosadašnja ulaganja u željezničku infrastrukturu
+Dosadašnja ulaganja u tekuće i investicijsko održavanje željezničkih infrastrukturnih podsustava bila su usmjerena u nabavu materijala i pričuvnih dijelova te u radove i usluge na održavanju funkcionalnosti i propisanih uvjeta za siguran tijek prometa. Najveći dio ulaganja bio je usmjeren na održavanje postrojenja te uređaja otvorene pruge i kolodvora na željezničkim prugama za međunarodni promet, a preostali dio na sanaciju dotrajalih postrojenja na željezničkim prugama za regionalni promet i na željezničkim prugama za lokalni promet, na kojima su investicijska ulaganja bila vrlo mala. Ukupan opseg svih radova bio je premali da bi se spriječio pad uporabne razine i funkcionalnosti na cjelokupnoj željezničkoj mreži, ali zahvaljujući ovim radovima održani su uvjeti za siguran tijek prometa na najvećem dijelu željezničke mreže, a u funkciji se održao i dio pruga te pružnih postrojenja koji bi se bez takvih radova, zbog dotrajalosti, morao isključiti iz prometa.
+4.2. Planirana ulaganja i izvori sredstava u razdoblju od 2016. do 2020. godine
+Željeznički sektor Republike Hrvatske treba iskoristiti mogućnosti financiranja koje pružaju EU fondovi, koji osobito potiču investicijski ciklus razvojem željezničkog sektora, a time jača uloga tranzitnih koridora Hrvatske. U tom smislu ovaj Program, kao i drugi propisi i programi o investicijama, stavlja snažan naglasak na ulaganja u željezničku infrastrukturu. Ocjenjuje se da je potrebna aktivnost za realizaciju navedenoga, izrada strateškog plana multimodalnog prometa, kojim se može kanalizirati izvore financiranja iz EU fondova za razdoblje 2016. – 2020. godine. U navedenome kontekstu treba neprestano imati na umu sljedeće ciljeve koji pri tome moraju biti ostvareni:
+1. investicije u željeznički sustav Republike Hrvatske treba poticati samo ako dovode do zaposlenosti i razvoja lokalnih tehnoloških kapaciteta
+2. domaćim tvrtkama u realizaciji ovih projekata mora biti pružena mogućnost za kvalitetnim transferom tehnologije
+3. moraju se stvarati nova radna mjesta (i to za sve razine kvalifikacija potencijalnih zaposlenika)
+4. domaći znanstveni i stručni potencijali moraju u puno većoj mjeri nego do sada biti uključeni u

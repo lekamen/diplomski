@@ -1,0 +1,56 @@
+
+Klasa: 011-02/15-01/07
+Urbroj: 524-03-02-01/2-16-33
+Zagreb, 10. veljače 2016.
+Ministrica dr. sc. Nada Šikić, v. r.
+PRILOG
+POPIS MJERNE I ISPITNE OPREME
+a) ZA MJERENJE BUKE:
+– zvukomjer prema zahtjevima norme HRN EN 61672
+– zvučni kalibrator prema zahtjevima norme HRN EN 60942
+– frekvencijski analizator prema zahtjevima norme HRN EN 61260
+b) ZA MJERENJE VIBRACIJA:
+– mjerač vibracija koji omogućuje mjerenje i ocjenu vibracija koje djeluju na ruke odnosno na cijelo tijelo
+c) ZA MJERENJE OSVIJETLJENOSTI:
+– mjerač osvjetljenosti (lx) s korekcijom boje (V(I)) i kosinusnom korekcijom
+d) ZA ISPITIVANJE I ODREĐIVANJE KONCENTRACIJA OPASNIH KEMIKALIJA:
+Vrste štetnosti:
+1. prašina
+2. prašina u obliku vlakana
+3. anorganski plinovi i pare
+4. organski plinovi i pare
+5. tvari koje zahtijevaju posebne analitičke tehnike.
+Skupni zahtjevi u pogledu mjerne opreme za svih pet točaka štetnosti su:
+– crpke za uzimanje uzoraka
+– osobni dozimetri
+– odgovarajuće glave za pričvršćivanje na crpke za uzimanje različitih uzoraka
+– sprave za umjeravanje crpki
+– umjereni kronometar ili drugi mjerač vremena
+– mjerač temperature, higrometar, barometar, anemometar
+– sustav za obradu i pohranu podataka.
+Zahtjevi za mjernu opremu po pojedinim točkama su:
+1. za prašinu:
+– stacionarni sustav za uzimanje uzoraka za finu i ukupnu prašinu s odgovarajućim glavama za uzimanje
+– kalibrirana analitička vaga
+– oprema za kondicioniranje filtara
+– mjerna sprava za procjenjivanje koncentracije respirabilne prašine
+– oprema za konimetrijsku analizu prašine
+2. za prašinu u obliku vlakana:
+– odgovarajuće glave, deklarirane za uzimanje uzoraka prašine u obliku vlakana
+– fazno kontrastni optički mikroskop
+3. za anorganske plinove i pare:
+– oprema za uzorkovanje u tekuće i krute apsorpcijske medije
+– spektrofotometar UV/VIS/IR
+– sustav za kontinuirano praćenje koncentracije tvari u zraku s direktnim očitavanjem
+– metoda za potenciometrijsko određivanje koncentracija tvari
+4. za organske plinove i pare:
+– oprema za uzorkovanje u tekuće i krute apsorpcijske medije
+– kapilarni plinski kromatograf s FID detektorom
+– spektrofotometar UV/VIS/IR
+– postupak ili sustav za identifikaciju tvari
+– sustav za kontinuirani prijam koncentracija tvari u zraku s direktnim očitavanjem
+5. za tvari koje zahtijevaju posebne analitičke tehnike:
+– visokotlačni tekućinski kromatograf (HPLC), instrument za određivanje ukupnog organskog ugljika, kapilarni plinski kromatograf s različitim detektorima
+e) ZA MJERENJE MIKROKLIME:
+– mjerni instrument za mjerenja temperature zraka, relativne vlažnosti i brzine strujanja zraka
+– mjerni instrument za mjerenje toplinskog zračenja

@@ -1,0 +1,38 @@
+138 24.12.2015 Pravilnik o izmjenama Pravilnika o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+2595
+Na temelju članka 70. stavka 5. točke 2. i članka 84. stavka 1. točke 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12., 80/13. i 71/14.) ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O IZMJENAMA PRAVILNIKA O PLAĆANJU NAKNADA ZA PRAVO UPORABE ADRESA, BROJEVA I RADIOFREKVENCIJSKOG SPEKTRA
+Članak 1.
+U Pravilniku o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra (»Narodne novine«, br. 154/08., 28/09., 97/10., 92/12., 62/14. i 147/14.), u članku 5. stavak 2. mijenja se i glasi:
+»(2) Koeficijent upravljanja skupinom brojeva b utvrđen je u Tablici 1. na sljedeći način:
+Tablica 1.
+Br. Uporaba nacionalnih brojeva iz skupine brojeva Koeficijent upravljanja skupinom brojeva 1. Zemljopisni broj – usluge u nepokretnoj elektroničkoj komunikacijskoj mreži 1 2. Nezemljopisni broj – usluge u pokretnoj elektroničkoj komunikacijskoj mreži 1,6 3. Nezemljopisni broj – usluge s posebnom tarifom 1,5 4. Nezemljopisni broj – usluge jedinstvenog pristupnog broja 1,5 5. Nezemljopisni broj – usluge besplatnog poziva 1,5 6. Nezemljopisni broj – usluge pristupa internetu 1,5 7. Nezemljopisni broj – usluge osobnog broja 1,5 8. Nezemljopisni broj – M2M usluge 1
+Stavak 3. mijenja se i glasi:
+»(3) Koeficijent proširenja brojevnog prostora c za skupinu brojeva utvrđen je u Tablici 2., ovisno o broju znamenaka koje sadržava broj u toj skupini, na sljedeći način:
+Tablica 2.
+Br. Broj znamenaka nacionalnog broja u skupini brojeva Koeficijent proširenja brojevnog prostora za skupinu brojeva 1. 10 0,01 2. 9 0,1 3. 8 1 4. 7 10 5. 6 100 6. 5 100.000 7. 4 1.000.000 8. 3 10.000.000 9. 2 100.000.000
+Članak 2.
+Naslov iznad članka 8. mijenja se i glasi: »Naknada za uporabu radiofrekvencijskog spektra za satelitsku službu«.
+Članak 8. mijenja se i glasi:
+»(1) Visina godišnje naknade za uporabu neuparenog i uparenog radiofrekvencijskog spektra koji upotrebljava zemaljska postaja u satelitskoj službi širine pojasa od 1 MHz, za radiofrekvencijski pojas utvrđen u dozvoli za uporabu radiofrekvencijskog spektra, izračunava se prema izrazu:
+(a × b)
+gdje je:
+1. a: jedinična cijena za uporabu radiofrekvencijskog spektra utvrđena u skladu s člankom 14. stavkom 1. ovoga Pravilnika,
+2. b: koeficijent zagušenja radiofrekvencijskog pojasa utvrđen u skladu s Tablicom 4. iz članka 14. stavka 2. ovoga Pravilnika.
+(2) Ako je podnositelju zahtjeva ili nositelju dozvole dodijeljen radiofrekvencijski spektar širine pojasa različite od 1 MHz, visina naknade razmjerno će se umanjiti ili uvećati.
+(3) Za uporabu neuparenog i uparenog radiofrekvencijskog spektra koji upotrebljava nepokretna radijska postaja na Zemlji, koja se koristi za komunikaciju sa satelitima i/ili sa zrakoplovima (komplementarna zemaljska sastavnica (CGC) pokretne satelitske mreže) širine pojasa od 1 MHz, za radiofrekvencijski pojas utvrđen u dozvoli za uporabu radiofrekvencijskog spektra, plaća se 150% visine naknade utvrđene stavkom 1. ovoga članka.«.
+Članak 3.
+U članku 10. stavak 7. mijenja se i glasi:
+»(7) Visina naknade za svaku krajnju radijsku postaju u javnoj mreži pokretnih komunikacija u pretplatničkom sustavu plaćanja usluge iznosi 60,00 kuna godišnje. Iznimno, za krajnju radijsku postaju u javnoj mreži pokretnih komunikacija u pretplatničkom sustavu plaćanja usluge, koja se upotrebljava isključivo za M2M usluge uz uporabu brojeva u skladu s Planom numeriranja, naknada se ne plaća.«.
+Članak 4.
+U članku 15. stavku 7. riječi: »osam dana« zamjenjuju se riječima: »petnaest dana«.
+Članak 5.
+U članku 17. stavku 3. riječi: »osam dana« zamjenjuju se riječima: »petnaest dana«.
+Članak 6.
+Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2016.
+Klasa: 011-01/15-01/185
+Urbroj: 530-06-2-15-2
+Zagreb, 18. prosinca 2015.
+Ministar dr. sc.

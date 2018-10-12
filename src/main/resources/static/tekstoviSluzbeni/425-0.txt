@@ -1,0 +1,30 @@
+20 23.02.2015 Pravilnik o tlačnoj opremi
+MINISTARSTVO GOSPODARSTVA
+426
+Na temelju članka 4. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, br. 80/13 i 14/14) ministar gospodarstva donosi
+PRAVILNIK
+O TLAČNOJ OPREMI
+PODRUČJE PRIMJENE I NAZIVI
+Članak 1.
+(1) Ovaj se Pravilnik primjenjuje na konstruiranje, proizvodnju i ocjenjivanje sukladnosti tlačne opreme i sklopova s najvećim dopuštenim tlakom PS većim od 0,5 bar pretlaka.
+(2). Nazivi koji se upotrebljavaju u smislu odredaba ovoga Pravilnika imaju sljedeće značenje:
+2.1. »Tlačna oprema« označava posude, cjevovode, sigurnosni pribor i tlačni pribor.
+Prema potrebi, tlačna oprema može uključivati elemente koji su pripojeni dijelovima pod tlakom kao što su prirubnice, priključci, spojnice, potpornji, nosive uške, itd.
+2.1.1. »Posuda« označava zatvoren prostor konstruiran i izrađen s namjenom da sadržava fluide pod tlakom uključujući i priključke za povezivanje s drugom opremom. Posuda se može sastojati od više zatvorenih prostora (komora).
+2.1.2. »Cjevovod« označava cijevne komponente namijenjene za transport fluida spojene međusobno tako da čine tlačni sustav. Cjevovod posebno uključuje cijev ili sustav cijevi, fitinge, dilatacijske spojnice, crijeva, ili druge potrebne dijelove pod tlakom. Izmjenjivači topline koji se sastoje od cijevi, a čija je svrha hlađenje ili zagrijavanje zraka smatraju se cjevovodima.
+2.1.3. »Sigurnosni pribor« označava uređaje konstruirane sa svrhom zaštite tlačne opreme od prekoračenja dopuštenih graničnih vrijednosti. Oni uključuju:
+– uređaje za izravno ograničavanje tlaka poput sigurnosnih ventila, sigurnosne uređaje s rasprskavajućim diskom, zaštitne šipke, uređaje za kontrolirano rasterećenje od tlaka te,
+– uređaje za ograničavanje koji služe za: korekciju veličina, isključivanje ili blokadu kao što su presostati, termostati ili regulatori razine, te mjerne i regulacijske uređaje sa sigurnosnom funkcijom.
+2.1.4. »Tlačni pribor« označava uređaje s radnom funkcijom čija su kućišta pod tlakom.
+2.1.5. »Sklop« označava nekoliko dijelova tlačne opreme koje sklapa proizvođač kako bi stvorio objedinjenu i funkcionalnu cjelinu.
+2.2. »Tlak« označava relativni tlak u odnosu na atmosferski tlak, odnosno pretlak. Slijedom toga, vakuum ima negativnu vrijednost.
+2.3. »Najveći dopušteni tlak PS« označava najveći tlak za koji je oprema konstruirana, a utvrđuje ga proizvođač.
+On je definiran na mjestu koje utvrđuje proizvođač. To mjesto mora biti priključak zaštitnog uređaja i/ili uređaja za ograničavanje ili najviše mjesto na opremi ili, ako to nije prikladno, bilo koje drugo utvrđeno mjesto.
+2.4. »Najveća/najmanja dopuštena temperatura TS« označava najvišu/najnižu temperaturu za koju je oprema konstruirana, a utvrđuje ju proizvođač.
+2.5. »Obujam V« predstavlja unutarnji obujam komore, uključujući obujam priključaka do prvog spoja ili zavara te isključujući obujam trajno ugrađenih unutarnjih dijelova.
+2.6. »Nazivni promjer NO« predstavlja brojčanu oznaku veličine koja je svojstvena svim komponentama cjevovoda, osim onih označenih vanjskim promjerom ili veličinom navoja. To je prikladan cijeli broj koji služi kao nazivna veličina i približan je stvarnoj dimenziji. Nazivni promjer označava se s oznakom NO nakon koje slijedi broj.
+2.7. »Fluidi« označavaju plinove, kapljevine i pare u čistom stanju kao i njihove mješavine. Fluid može sadržavati suspenziju krutih tvari.
+2.8. »Nerastavljivi spojevi« označavaju spojeve koji se mogu rastaviti samo razaranjem.
+2.9. »Europsko odobrenje za materijale« označava tehnički dokument u kojem su opisana svojstva materijala namijenjenog za trajnu uporabu u proizvodnji tlačne opreme, a koji nije obuhvaćen niti jednom usklađenom normom.
+(3) Ovaj se Pravilnik ne odnosi na:
+3.1. cjevovode koji se sastoje od cijevi ili sustava cijevi namijenjenih za transport bilo kojeg fluida ili tvari, prema instalaciji ili od nje (na kopnu ili na moru), počevši od i uključivši posljednji zaporni uređaj smješten

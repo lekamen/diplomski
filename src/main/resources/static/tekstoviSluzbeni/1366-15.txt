@@ -1,0 +1,33 @@
+ je li već osnovan spis za isti predmet, koristeći funkcije pretraživanja sustava JCMS.
+(3) Podnesci kojima se izjavljuje redovni ili izvanredni pravni lijek upisat će se u sustav JCMS. Navedeni podnesci upisuju se u predmetu na koji se odnose.
+Članak 105.
+(1) Spisi se u sustav JCMS upisuju u odgovarajuće upisnike po redu primitka u sudu, neovisno o datumu predaje pošti.
+(2) Svaki spis vodi se u odgovarajućem upisniku sustava JCMS pod istim rednim brojem do označavanja predmeta dovršenim sukladno odredbama Sudskog poslovnika.
+(3) Kad postupak pokrene više osoba ili je pokrenut protiv više osoba, spis se upisuje u odgovarajući upisnik pod jednim rednim brojem. U sustav JCMS se ispred imena stranaka upisuju arapski brojevi od 1 na dalje i to posebno za tužitelja, a posebno za okrivljenike.
+Pogrešni upisi
+Članak 106.
+(1) Pogrešni upisi u sustavu JCMS ne smiju se brisati.
+(2) Ako je neki spis pogrešno upisan, u sustavu JCMS označit će se zatvorenim, uz korištenje posebne funkcionalnosti »pogrešan upis«. Oznaka pogrešno upisanog spisa ne može se ponovno iskoristiti.
+(3) Pogrešno upisani spisi ne iskazuju se u sudskoj statistici o broju primljenih, riješenih i neriješenih predmeta.
+(4) Učinci pogrešnih upisa pojedinih podnesaka, sudskih radnji, naredbi i slično ispravljaju se na način da se u odgovarajuće polje sustava JCMS unese napomena o pogrešnom upisu i eventualnim razlozima te se koristeći posebnu funkcionalnost upis briše. Nakon toga se u sustav JCMS unosi novi, točan upis.
+Označavanje spisa dovršenim
+Članak 107.
+(1) Spis se u sustavu JCMS označava dovršenim korištenjem posebne funkcionalnosti.
+(2) Spis se može označiti dovršenim u skladu s odredbama Sudskog poslovnika. Popis odluka kojima se spis može označiti dovršenim objavljen je na internom korisničkom portalu »jcms.pravosudje.hr«.
+Označavanje spajanja i razdvajanja spisa
+Članak 108.
+Kad se više spisa spoji radi provođenja zajedničkog postupka i donošenja zajedničke odluke, spajanje spisa će se evidentirati u sustavu JCMS. U spojenom spisu sustav automatski unosi podatak o tome na koji je spis i kada spojen.
+Članak 109.
+(1) Razdvajanje spisa koji su bili prethodno spojeni obavlja se pomoću sustava JCMS na način da se na listi spojenih predmeta bira spis koji se želi razdvojiti. Razdvajanje spisa formiranjem novog spisa istovremeno se provodi kroz sustav JCMS.
+(2) U slučajevima iz stavka 1. ovog članka u osnovne podatke o spisu nužno je upisati naredbu s razlogom i datumom razdvajanja. U sustavu JCMS nužno je odabrati stranke i druge sudionike te podneske i odluke koji će se izdvojiti i prenijeti u razdvojeni spis ili ih kopirati na način da kopirani podaci ostanu i u spisu koji se razdvaja.
+(3) Upisi koji se odnose na izdvojeni dio spisa prenijet će se u upisniku u odgovarajuće odjeljke kod izdvojenog (novog) spisa.
+Postupak s ustupljenim spisima
+Članak 110.
+(1) Ustupanje spisa evidentira se u sustavu JCMS uz navođenje suda kojem je spis ustupljen i razloga ustupanja.
+(2) Ako spis ustupa drugostupanjski sud, taj sud će o tome obavijestiti stvarno i mjesno nadležan sud prvog stupnja, koji će to unijeti u napomenu uz osnovne podatke o spisu u sustavu JCMS.
+(3) Sud kojem su spisi ustupljeni upisat će ustupljene spise u odgovarajuće upisnike sustava JCMS i s njima postupati kao s ostalim spisima u tom sudu.
+(4) Kod prijema spisa s drugog suda sudska pisarnica otvara novi spis i u sustav JCMS unosi osnovne podatke, kopira stranke, sudionike i dodaje podneske.
+Zaključivanje upisnika
+Članak 111.
+(1) Upisnici se u sustavu JCMS zaključuju korištenjem posebne administrativne funkcije. U zaključen upisnik nije moguće unijeti novi spis, ali je moguće pregledavati i mijenjati podatke o postojećim spisima.
+(2) Sud u upisnik sustava JCMS iz prethodne godine može upisati spise tokom prvih pet radnih dana tekuće godine za spise predane pošti ili neposredno sudu do 31. prosinca prethodne godine. U tom slučaju, spis će se unijeti u upisnik sustava JCMS iz prethodne godine, a kao datum

@@ -1,0 +1,58 @@
+ opasnih mjesta.
+1.3. Žute i crne pruge ili crvene i bijele pruge moraju biti pod kutom od 45°. Pruge moraju biti jednako široke.
+Primjer:
+
+PRILOG VI.
+ZAHTJEVI ZA SVJETLOSNE ZNAKOVE
+1. Izgled
+1.1. Svjetlost znaka mora osigurati dovoljan kontrast glede okoliša, ali bez bliještanja u slučaju da je okoliš slabo osvijetljen.
+1.2. Svjetleća površina znaka mora biti jednobojna, a na njoj može biti piktogram sa specifičnom pozadinom.
+1.3. Boja znaka mora biti u skladu s tablicom boja i njenim značenjem predviđenim točkom 4. Priloga I.
+1.4. Ako znak sadrži piktogram, slova moraju odgovarati zahtjevima iz Priloga II.
+2. Posebna pravila uporabe
+2.1. Ako uređaj može emitirati neprekidne i prekidne znakove, prekidni znak se mora koristiti za viši stupanj opasnosti ili za žurno postupanje. Trajanje i frekvencija prekidnog svjetlosnog znaka mora biti takva da se:
+– osigura odgovarajući prijem poruke,
+– spriječi zamjena između različitih svjetlosnih znakova ili odnosno s kontinuiranim svjetlosnim znakom.
+2.2. Ako se svjetlosni znak upotrebljava umjesto zvučnog signala ili zajedno s njim, mora pri tome biti upotrijebljen isti način šifriranja.
+2.3. Uređaji, koji emitiraju svjetlosne znakove u slučaju ozbiljne opasnosti, moraju biti redovito održavani te opremljeni pomoćnim izvorom napajanja.
+PRILOG VII.
+ZAHTJEVI ZA ZVUČNE SIGNALE
+1. Opći zahtjevi
+1.1. Zvučni signal mora:
+a) imati zvučnu razinu dobrog prijema odnosno čujnosti, koja je za 10 dB(A) viša od razine buke u okolini, ali ne smije dostizati prag bola;
+b) biti dobro prepoznatljiv glede trajanja impulsa i intervala između impulsa, te se jasno razlikovati od drugih zvučnih signala i buke u okolini.
+1.2. Ako uređaj emitira zvučni signal s promjenljivom i konstantnom frekvencijom, promjenjiva frekvencija mora biti namijenjena za upozoravanje na viši stupanj opasnosti ili za žurno poduzimanje mjera u slučaju opasnosti.
+2. Šifriranje znaka
+Znak za evakuaciju mora biti neprekinut.
+PRILOG VIII.
+ZAHTJEVI ZA GOVORNU KOMUNIKACIJU
+1. Opći zahtjevi
+1.1. Govorno komuniciranje osobe koja daje poruke jednoj ili više osoba koje je slušaju, mora se odvijati u obliku kratkih tekstova, izraza ili pojedinih riječi.
+1.2. Govorne poruke moraju biti kratke, jednostavne i razumljive, tako da nisu ovisne o govornim sposobnostima osobe koja ih daje.
+1.3. Govorno komuniciranje se može odvijati neposredno govorom (pomoću ljudskog glasa) ili posredno (pomoću ljudskog ili umjetnog glasa) uz uporabu zvučnih uređaja.
+2. Posebna pravila
+2.1. Osobe koje govorno komuniciraju, moraju dobro poznavati jezik na kojem daju poruke, da ih pravilno izgovaraju i da ih se razumije.
+2.2. Ako se govorno komuniciranje upotrebljava umjesto pokreta (gestikulacije) ili zajedno s njima, mogu se pri tome upotrebljavati sljedeće šifrirane riječi:
+– početak označava početak
+– stoj smetnja ili završetak operacije
+– kraj završetak operacije
+– digni podigni teret
+– spusti spusti teret
+– naprijed*
+– natrag*
+– desno*
+– lijevo*
+– opasnost za zaustavljanje u nuždi
+– brzo za ubrzanje pokreta iz sigurnosnih razloga
+PRILOG IX.
+ZAHTJEVI ZA RUČNE SIGNALE
+1. Opći zahtjevi
+Ručni znakovi moraju biti precizni, jednostavni, dobro vidljivi, laki za izvođenje i razumijevanje te vidljivo različiti od drugih pokreta osobe koja ih daje.
+Ako osoba koristi obje ruke istovremeno, ruke se moraju pomicati simetrično i pri tome davati samo jedan znak.
+Smatra se da ručni signali još uvijek ispunjavaju gornje zahtjeve, ako samo donekle odstupaju ili ako su detaljniji od signala koji su prikazani u 3. točki ovoga Priloga, s time da moraju imati isto značenje i razumljivost.
+2. Pravila za davanje ručnih signala
+2.1. Osoba koja daje ručne signale je signalist.
+Signalist daje manevarske upute rukovatelju.
+2.2. Signalist mora vizualno pratiti sve manevre, koje izvodi rukovatelj.
+2.3. Obveza signalista je osim vođenja manevra i osiguranje sigurnosti radnika i drugih osoba u blizini izvođenja operacija.
+2.4. Ako signalist sam ne može ispuniti sve zahtjeve iz točke 2.2. ovoga

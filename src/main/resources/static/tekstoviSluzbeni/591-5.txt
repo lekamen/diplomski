@@ -1,0 +1,60 @@
+ dostavnici,
+– nošene dozimetre vratiti na očitavanje,
+– skrbiti o aktivnim elektroničkim dozimetrima za kontinuirano mjerenje razine ionizirajućeg zračenja u okolini rendgenskog uređaja (dostava na redovno očitavanje jednom godišnje ili po alarmu),
+– čuvati obrasce o zamjeni osobnih dozimetara dvije godine, a kopiju potpisanih obrazaca dostaviti osobi odgovornu za zaštitu od ionizirajućeg zračenja,
+– izvještavati osobu odgovornu za zaštitu od ionizirajućeg zračenja o svim promjenama vezano za:
+– djelatnike,
+– rendgenske uređaje,
+– dozimetre,
+– skrbiti o provedbi i primjeni odredbi o zaštiti od ionizirajućeg zračenja utvrđenih ovim Pravilnikom te drugim važećim propisima.
+IX. OČEVIDNICI – SADRŽAJ, NAČIN VOĐENJA I ROKOVI ČUVANJA TE NAČIN I ROKOVI IZVJEŠĆIVANJA NADLEŽNIH TIJELA
+Članak 30.
+Ministarstvo vodi Evidenciju svih radnika koji rukuju rendgenskim uređajima, ali se ne smatraju izloženim radnicima, Evidenciju svih izloženih radnika i Evidenciju o rendgenskim uređajima.
+Članak 31.
+Evidencija svih radnika koji rukuju rendgenskim uređajima, ali se ne smatraju izloženim radnicima sadrži slijedeće podatke:
+a. ime i prezime,
+b. osobni identifikacijski broj,
+c. spol,
+d. nadnevak početka rada kod trenutnog poslodavca,
+e. nadnevak prestanka rada u kod poslodavca,
+f. zanimanje,
+g. vrsta posla izloženog radnika,
+h. podaci o posebnom stručnom obrazovanju o primjeni mjera zaštite od ionizirajućeg zračenja i za rukovanje izvorima ionizirajućeg zračenja,
+Podaci iz stavka 1. ovog članka čuvaju se do godine kad se očekuje navršavanje 75. godine starosti radnika, ali nikako ne kraće od 30 godina od dana prestanka rada radnika s rendgenskim uređajem.
+Izgled evidencije iz stavka 1. ovog članka nalazi se u Prilogu 4. ovog Pravilnika i njegov je sastavni dio.
+Članak 32.
+Evidencija svih izloženih radnika za svakog izloženog radnika sadrži sljedeće podatke:
+a. ime i prezime,
+b. osobni identifikacijski broj,
+c. spol,
+d. nadnevak početka rada u području izloženosti kod trenutnog poslodavca,
+e. nadnevak prestanka rada u području izloženosti kod poslodavca,
+f. zanimanje,
+g. vrsta posla izloženog radnika,
+h. efektivna doza, odnosno Hp(10) (za svako mjerno razdoblje),
+i. ovlašteni stručni tehnički servis koji je provodio mjerenje osobnih doza,
+j. podaci o posebnom stručnom obrazovanju o primjeni mjera zaštite od ionizirajućeg zračenja i za rukovanje izvorima ionizirajućeg zračenja,
+k. podaci o zdravstvenoj sposobnosti,
+l. podaci o vrsti izvora ionizirajućeg zračenja u području izloženosti kojeg izloženi radnik radi.
+Podaci iz stavka 1. ovog članka čuvaju se do godine kad se očekuje navršavanje 75. godine starosti izloženog radnika, ali nikako ne kraće od 30 godina od dana prestanka rada izloženog radnika u području izloženosti.
+Za svakog izloženog radnika koji je tijekom godine u bilo kojem mjernom razdoblju primio dozu veću od 3/10 bilo koje propisane gornje granice izlaganja, Ministarstvo mora od ovlaštenog stručnog tehničkog servisa zatražiti posebnu provjeru radnog mjesta na kojem je takva doza primljena te istraživanje uzroka prekomjernog ozračenja. Po provedenom ispitivanju, ovlašteni stručni tehnički servis sastavlja izvješće i dostavlja ga inspektoru za radiološku i nuklearnu sigurnost Državnog zavoda za radiološku i nuklearnu sigurnost i ustanovi medicine rada koja provodi zdravstveni nadzor tog izloženog radnika.
+Izgled evidencije iz stavka 1. ovog članka nalazi se u Prilogu 4. ovog Pravilnika i njegov je sastavni dio.
+Članak 33.
+Evidencija o rendgenskim uređajima sadrži sljedeće podatke:
+A. PODACI O UREĐAJU
+1. proizvođač,
+2. model,
+3. serijski ili tvornički broj,
+4. maksimalni napon,
+5. maksimalna struja,
+6. broj cijevi,
+7. godina proizvodnje,
+8. godina postavljanja,
+9. je li uređaj digitalni ili analogni,
+10. dostupnost AEC,
+11. mobilnost uređaja,
+12. namjena rendgenskog uređaja,
+13. oznaka i nadnevak izvješća o ispitivanju uređaja,
+14. klasa, urudžbeni broj i nadnevak izdavanja dozvole za uporabu.
+B. PODACI O KUĆIŠTU I RENDGENSKOJ CIJEVI
+I.

@@ -1,0 +1,37 @@
+ Zahtjeva za potporu u pisanom obliku u Agenciju za plaćanja na adresu sukladno uvjetima Natječaja.
+(5) Vrijeme podnošenja Zahtjeva za potporu je vrijeme slanja (datum, sat, minuta, sekunda) potvrde o podnošenju Zahtjeva za potporu u slučaju slanja preporučenom pošiljkom s povratnicom odnosno vrijeme zaprimanja u Agenciju za plaćanja ako je korisnik neposredno predaje.
+(6) Način popunjavanja Zahtjeva za potporu te način i mjesto podnošenja potvrde o podnošenju Zahtjeva za potporu pojašnjeni su u Vodiču za korisnike potpora iz EPFRR Mjera 07 (u daljnjem tekstu: Vodič za korisnike), koji je objavljen na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+(7) Korisnici putem AGRONET-a mogu pregledavati pravne osnove i elektronski popunjavati Zahtjev za potporu/promjenu/isplatu/odustajanje.
+(8) Agencija za plaćanje će korisnicima putem AGRONET-a dostavljati:
+a) Odluke o dodjeli sredstava
+b) Odluke o odbijanju
+c) Izmjene Odluke o dodjeli sredstava
+d) Pisma odbijanja
+e) Potvrde o odustajanju
+f) Odluke o isplati predujma
+g) Odluke o odbijanju Zahtjeva za isplatu predujma
+h) Odluke o isplati i
+i) Odluke o odbijanju Zahtjeva za isplatu.
+(9) Korisnik mora biti upisan u Evidenciji korisnika kako bi mu Agencija za plaćanja dodijelila korisničko ime i zaporku kojima se prijavljuje u AGRONET.
+(10) Upute za upis u Evidenciju korisnika i za korištenje AGRONET-a su dostupne na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+(11) Prilikom popunjavanja Zahtjeva za potporu korisnici su obavezni učitati u AGRONET-u svu dokumentaciju propisanu Natječajem. Dokumentacija koju je obvezno dostaviti u izvorniku propisuje se Natječajem.
+Administrativna kontrola Zahtjeva za potporu
+Članak 27.
+(1) Prilikom administrativne kontrole Zahtjeva za potporu utvrđuje se pravovremenost, potpunost, udovoljavanje propisanim uvjetima i kriterijima, ostvareni broj bodova sukladno kriterijima odabira te iznos prihvatljivih troškova.
+(2) Po zaprimanju Zahtjeva za potporu Agencija za plaćanja će prvo provjeriti pravovremenost, potpunost, prihvatljivost te broj bodova sukladno kriterijima odabira iz Priloga I. ovoga Pravilnika i na temelju traženih iznosa potpore formirati Rang-listu za Natječaj.
+(3) Za nepravovremene Zahtjeve za potporu izdaje se Odluka o odbijanju.
+(4) Natječajem će biti propisana dokumentacija koju je korisnik obavezan učitati uz Zahtjev za potporu.
+(5) Nakon podnošenja Zahtjeva za potporu nije moguća dopuna dokumentacije propisane Natječajem.
+(6) Neće se smatrati dopunom u smislu stavka 5. ovoga članka sljedeće:
+a) dostava dijela dokumenta koji je propisan Natječajem ukoliko dokument nije učitan u AGRONET u cijelosti i
+b) dostava dokumenta koji je propisan Natječajem ukoliko učitani dokument nije čitak ili iz istoga nije moguće utvrditi činjenično stanje.
+(7) Ukoliko korisnik uz Zahtjev za potporu ne učita dokumentaciju propisanu Natječajem, Agencija za plaćanja će donijeti Odluku o odbijanju.
+(8) Ukoliko je potrebno tražiti dodatna obrazloženja/ispravke, Agencija za plaćanja će putem elektroničke pošte od korisnika tražiti obrazloženje/ispravak. Korisnik je dužan u roku od pet radnih dana od slanja elektroničke pošte od strane Agencije za plaćanja dostaviti obrazloženje/ispravak.
+(9) Temeljem zahtjeva za obrazloženje/ispravak iz stavka 8. ovoga članka, korisnik može dostaviti:
+a) pisano objašnjenje
+b) pisani ispravak
+c) novi dokument koji nije bio propisan Natječajem i
+d) dokument koji je propisan Natječajem jer učitani dokument koji je propisan Natječajem nije učitan u cijelosti, nije čitak ili iz istoga nije moguće utvrditi činjenično stanje.
+(10) Ukoliko korisnik traženo obrazloženje/ispravak ne dostavi sukladno stavku 8. ovoga članka, Agencija za plaćanja donosi Odluku o odbijanju.
+(11) Nakon administrativne kontrole pristiglih Zahtjeva za potporu, svim potpunim, pravovremenim i prihvatljivim Zahtjevima za potporu dodjeljuju se bodovi temeljem kriterija odabira iz Priloga I ovoga Pravilnika te se formira Rang-lista.
+(12) Ukoliko

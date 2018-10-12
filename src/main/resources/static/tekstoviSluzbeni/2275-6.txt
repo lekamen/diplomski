@@ -1,0 +1,39 @@
+ aerodroma na vodi je obvezan izmjeriti najveću nadmorsku visinu i geografske koordinate u WGS-84, izražene u stupnjevima, minutama, sekundama i desetinkama sekunde te iste objaviti u VFR priručniku za:
+a) prepreke u prostoru u zoni 2 (područje unutar granica aerodroma na vodi),
+b) prepreke u prostoru u zoni 3 (područje izvan granica aerodroma na vodi – prilazna i odletna zona oko aerodroma na vodi).
+Ako su prepreke u prostoru (u zonama 2 i 3) označene, obvezno je u VFR priručniku objaviti vrstu oznaka i tip rasvjete tih prepreka.
+Uvjeti na površinama za kretanje hidroaviona i povezanim sadržajima
+Članak 15.
+(1) Uvjeti na prostoru za kretanje i operativni status pojedine površine bitni za sigurnost kretanja hidroaviona podrazumijevaju sve što može utjecati na performanse hidroaviona, a posebno:
+a) led na površini za slijetanje i uzlijetanje, stazi za vožnju ili površini za pristajanje/sidrenje hidroaviona,
+b) različita kemijska sredstva na vodenoj površini,
+c) sve druge privremene opasnosti, uključujući bilo kakav plutajući objekt, usidreni hidroavion ili drugi plovni objekt na:
+– manevarskoj površini, ili
+– površini za pristajanje/sidrenje hidroaviona na prostoru izvan označenih i objavljenih parkirališnih mjesta,
+d) kvar ili nepropisan rad jednog dijela ili svih vizualnih pomagala na operativnoj površini aerodroma na vodi, te u području prilaza i odleta.
+(2) U cilju provedbe odredbi stavaka 1. ovoga članka, operator aerodroma na vodi je obvezan prije svake operacije uzlijetanja ili slijetanja organizirati pregled:
+a) manevarske površine i površine za sidrenje/pristajanje hidroaviona, te svih pripadajućih sustava namijenjenih za dnevno obilježavanje manevarske površine i površine za sidrenje/pristajanje hidroaviona.
+
+Oprema za uklanjanje nepokretnog hidroaviona
+Članak 16.
+Operator aerodroma na vodi je obvezan u VFR priručniku objaviti:
+a) broj(eve) telefona/telefaksa ureda koordinatora aerodroma na vodi, nadležnog za operacije uklanjanja neispravnog hidroaviona koji se nalazi na operativnoj površini ili u njezinoj neposrednoj blizini,
+b) vrstu opreme koju posjeduje u cilju uklanjanja oštećenog hidroaviona sa operativne površine,
+c) najveći hidroavion za kojeg je aerodrom opremljen u cilju njegovog uklanjanja kada je oštećen.
+Koordinacija između službe zrakoplovnog informiranja i uprave aerodroma na vodi
+Članak 17.
+U cilju pravovremenog objavljivanja svih informacija bitnih za kvalitetnu pripremu leta, kao i siguran let hidroaviona, operator aerodroma na vodi je obvezan posebnim sporazumom sa pružateljem usluga u zračnoj plovidbi definirati način dostave, te broj telefona/telefaksa radnog mjesta operatora aerodroma na vodi na kojem je zaposlenik odgovoran za prikupljanje, ažuriranje i pravovremeno objavljivanje aeronautičkih informacija o:
+a) statusu certifikacije aerodroma na vodi,
+b) operativnom statusu pridruženih objekata, službi i pomagala za navigaciju, za održavanje kojih je odgovoran operator aerodroma na vodi, kao i
+c) sve druge informacije za koje se smatra da su od operativnog značaja.
+DIO TREĆI FIZIČKA OBILJEŽJA
+Glava I POVRŠINA ZA SLIJETANJE I UZLIJETANJE
+Broj i orijentacija površine za slijetanje i uzlijetanje
+Članak 18.
+(1) U postupku određivanja lokacije površine za slijetanje i uzlijetanje, operator aerodroma na vodi mora osigurati da na područjima iznad kojih će hidroavion letjeti tijekom:
+a) prilaza površini za slijetanje i uzlijetanje, ili
+b) odustajanja od slijetanja i ponavljanja postupaka prilaza (missed approach),
+nema prepreka koje bi ograničavale operacije hidroaviona za koje je površina za slijetanje i uzlijetanje namijenjena kao i drugih nepovoljnih čimbenika koji bi utjecali na sigurno izvođenje operacija hidroaviona.
+(2) Ukupni broj, položaj i orijentacija površina za slijetanje i uzlijetanje na aerodromu na vodi moraju biti definirani na način da:
+a) uvijek bude omogućeno slijetanje i uzlijetanje hidroaviona s vjetrom u čelo (uz vjetar),
+b) faktor iskoristivosti aerodroma na vodi namijenjenog za

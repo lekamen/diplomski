@@ -1,0 +1,62 @@
+ završetka vođenja knjige),
+2. redni broj u matičnoj knjizi,
+3. osobno ime (djevojačko prezime), ime oca/majke korisnika,
+4. osobni podaci o korisniku (datum, mjesto i država rođenja, državljanstvo, identifikacijski dokument),
+5. rješenje nadležnog centra za socijalnu skrb o smještaju (klasa, urudžbeni broj i datum),
+6. datum smještaja kod pružatelja usluge,
+7. obrazovni status pri odlasku iz matične države (završeni razred odnosno postignuta razina obrazovanja),
+8. datum prestanka smještaja kod pružatelja usluge,
+9. rješenje nadležnog centra za socijalnu skrb o prestanku smještaja (klasa, urudžbeni broj i datum),
+10. obrazovni status pri odlasku od pružatelja usluge,
+11. napomena.
+Članak 109.
+Pružatelj usluge je dužan je prvi sljedeći radni dan od prijama žrtve trgovanja ljudima obavijestiti ministarstvo o prijamu žrtve.
+Članak 110.
+(1) Osobni list korisnika predstavlja izvor osnovnih informacija o korisniku smještenom kod pružatelja usluge.
+(2) U osobni list korisnika upisuju se sljedeći dostupni podaci:
+1. redni broj iz matične knjige,
+2. osobno ime (djevojačko prezime), ime oca/majke korisnika,
+3. datum, mjesto i država rođenja,
+4. državljanstvo,
+5. broj putovnice i datum izdavanja,
+6. drugi identifikacijski dokument i datum izdavanja,
+7. prebivalište/boravište žrtve prije identifikacije,
+8. bračni status i dodatne informacije o obitelji,
+9. broj djece i podaci o djeci,
+10. obrazovni status pri odlasku iz matične države (završeni razred odnosno postignuta razina obrazovanja),
+11. radno iskustvo,
+12. prihodi,
+13. razlozi napuštanja matične države ukoliko je žrtva strani državljanin,
+14. način vrbovanja žrtve,
+15. način iskorištavanja od strane vrbovatelja/trgovca,
+16. nadležni centar za socijalnu skrb (naziv, sjedište, te osobno ime i kontakt telefon socijalnog radnika),
+17. podaci o posebnom skrbniku za djecu žrtve trgovanja ljudima (osobno ime te kontakt telefon),
+18. rješenje centra za socijalnu skrb o smještaju (klasa, urudžbeni broj i datum),
+19. zdravstveno stanje prilikom dolaska kod pružatelja usluge,
+20. prava koja žrtva ostvaruje u sustavu socijalne skrbi,
+21. vrsta usluge koja se pruža korisniku,
+22. aktivnosti u koje je korisnik usluge uključen (socijalna pomoć i podrška, psihosocijalni tretman, podrška u obavljanju svakodnevnih aktivnosti i njega, opće savjetovanje i pomaganje, pravno savjetovanje i pomaganje),
+23. suradnja s centrom za socijalnu skrb i drugim nadležnim tijelima,
+24. podaci o uključenosti u programe odgoja i obrazovanja te osposobljavanja žrtve,
+25. sve promjene tijekom boravka kod pružatelja usluge,
+26. datum odlaska od pružatelja usluge,
+27. napomena.
+Članak 111.
+Knjiga dnevne evidencije sadržava evidenciju stručnih radnika po smjenama, brojčano stanje korisnika, te sva važnija zapažanja i obavijesti stručnih djelatnika tijekom 24 sata (odlazak korisnika na tretman, kontakt s nadležnim centrom za socijalnu skrb i sl.).
+Članak 112.
+Knjiga pruženih socijalnih usluga sadržava evidenciju pruženih usluga korisnicima (osobno ime korisnika, vrsta usluge, pružatelj usluge, dan pružanja usluge i napomena).
+Članak 113.
+Knjiga dežurstava sadržava evidenciju noćenja, odnosno popis korisnika na noćenju, evidenciju svih važnih događanja tijekom noći, te osobno ime i potpis odgovorne osobe pružatelja usluge koja je bila u dežurstvu.
+Sadržaj dokumentacije
+Članak 114.
+Pružatelj usluga iz članka 107. ovog Pravilnika dužan je voditi sljedeću dokumentaciju o korisniku i vrsti usluge, koja je sastavni dio dosjea korisnika:
+1. dokaz o prebivalištu/boravištu u Republici Hrvatskoj,
+2. dokaz o statusu žrtve trgovanja ljudima,
+3. rješenje centra za socijalnu skrb o smještaju,
+4. socijalna anamneza,
+5. zdravstveni karton i zdravstvena iskaznica,
+6. individualni plan i program rada,
+7. evidencija novčanih primanja i izdataka,
+8. evidencija o kontaktima vezanima uz žrtvu,
+9. evidencija suradnje sa centrom za socijalnu skrb te drugim nadležnim tijelima i institucijama vezano uz (re)integraciju žrtve,
+10. ostali dokumenti 

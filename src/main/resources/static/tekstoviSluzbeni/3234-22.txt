@@ -1,0 +1,27 @@
+ dokumentaciju o sustavu kvalitete;
+– tehničku dokumentaciju o odobrenim sigurnosnim komponentama za dizala i primjerak potvrde o EU ispitivanju tipa.
+3.2. U sklopu sustava kvalitete, svaka se sigurnosna komponenta za dizala mora provjeriti i moraju se provesti prikladna ispitivanja kao što je utvrđeno relevantnim usklađenim normama ili istovjetna ispitivanja kako bi se osigurala njezina sukladnost s uvjetima utvrđenima točkom 1. Svi elementi, zahtjevi i mjere prihvaćene od proizvođača moraju biti dokumentirana sustavno i pravilno u obliku pisanih načela, postupaka i uputa. Ta dokumentacija o sustavu kvalitete mora omogućiti jednoznačno tumačenje programa i planova kvalitete, priručnika za kvalitetu i zapisa o kvaliteti.
+Posebno mora sadržavati odgovarajući opis:
+– ciljeva kvalitete;
+– organizacijske strukture, odgovornosti i ovlasti uprave u odnosu na kvalitetu proizvoda;
+– pregleda i ispitivanja koji se provode nakon proizvodnje;
+– načina praćenja učinkovitog funkcioniranja sustava kvalitete; i
+– zapisa o kvaliteti, kao što su izvješća o provjeri, podaci o ispitivanju i kalibraciji, izvješća o stručnoj osposobljenosti zaposlenika itd.
+3.3. Prijavljeno tijelo mora procijeniti sustav kvalitete kako bi utvrdilo udovoljava li zahtjevima iz točke 3.2. Ono pretpostavlja sukladnost s tim zahtjevima u odnosu na elemente sustava kvalitete koji su u skladu s odgovarajućim specifikacijama relevantne usklađene norme.
+Uz iskustvo sa sustavima upravljanja kvalitetom barem jedan član revizorskog tima mora posjedovati iskustvo ocjenjivanja tehnologije dizala o kojoj je riječ i biti upoznat sa zdravstvenim i sigurnosnim uvjetima utvrđenima u Prilogu I. ovoga Pravilnika.
+Postupak revizije uključuje obilazak objekata proizvođača u svrhu ocjenjivanja.
+Revizorski tim mora pregledati tehničku dokumentaciju iz točke 3.1. alineja 6. kako bi potvrdio sposobnost proizvođača da utvrdi primjenjive zahtjeve ovog Pravilnika te kako bi proveo nužne preglede za osiguranje sukladnosti sigurnosnih komponenti za dizala s tim zahtjevima.
+O odluci mora biti obaviješten proizvođač. Obavijest sadrži zaključke revizije i obrazloženu odluku o ocjeni.
+3.4. Proizvođač se mora obvezati da će ispuniti obaveze koje proizlaze iz odobrenog sustava kvalitete te da će se pobrinuti da ostane odgovarajući i učinkovit.
+3.5. Proizvođač ili njegov ovlašteni zastupnik mora obavještavati prijavljeno tijelo koje je odobrilo potpuni sustav kvalitete o svim namjeravanim izmjenama sustava kvalitete.
+Prijavljeno tijelo ocjenjuje predložene promjene i odlučuje hoće li promijenjen sustav kvalitete proizvoda nastaviti zadovoljavati zahtjeve iz točke 3.2. ili je potrebno novo ocjenjivanje.
+O svojoj odluci obavješćuje proizvođača. Obavijest sadržava zaključke ispitivanja i utemeljenu odluku o ocjeni.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Svrha nadzora je utvrditi ispunjava li proizvođač u potpunosti obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Proizvođač u svrhu ocjenjivanja prijavljenom tijelu mora omogućiti pristup prostorima u kojima se vrši završna provjera, ispitivanje i skladištenje i dati mu sve potrebne informacije, a posebno:
+– dokumentaciju o sustavu kvalitete;
+– tehničku dokumentaciju;
+– zapise o kvaliteti, kao što su izvješća o provjeri, podaci o ispitivanju i kalibraciji, izvješća o stručnoj osposobljenosti uključenih zaposlenika.
+4.3. Prijavljeno tijelo mora provoditi povremene revizije kako bi osiguralo da proizvođač održava i primjenjuje sustav kvalitete te proizvođaču mora podnijeti izvješće o reviziji.
+4.4. Prijavljeno tijelo k tomu može doći u nenajavljeni obilazak radnih prostora/objekata proizvođača u kojima se obavljaju završna provjera i ispitivanje sigurnosnih komponenti za dizala.
+Prilikom takvih posjeta, prijavljeno tijelo prema potrebi može provesti ili dati provesti ispitivanja, s ciljem provjere propisne primjene sustava kvalitete. Proizvođaču mora dostaviti izvješće o posjetu, a ako je provedeno ispitivanje, i izvješće o ispitivanju.

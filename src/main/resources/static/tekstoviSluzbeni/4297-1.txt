@@ -1,0 +1,25 @@
+
+(2) Smatrat će se da Porezna uprava ne želi primati informacije u skladu s člankom 3. stavkom 2. ovoga Pravilnika, ako ne izvijesti Europsku komisiju o bilo kojoj pojedinoj kategoriji dohotka ili imovine za koju ima dostupne informacije.
+4. Standardni elektronički obrazac
+Članak 6.
+Automatska razmjena informacija iz članka 3. ovoga Pravilnika odvija se koristeći standardni elektronički obrazac s ciljem olakšavanja takve razmjene. Propisani standardni obrazac donosi Europska komisija.
+5. Primjena sporazuma
+Članak 7.
+Ako se Porezna uprava putem zaključenih bilateralnih ili multilateralnih sporazuma dogovori s drugim državama članicama o automatskoj razmjeni informacija za dodatne kategorije dohotka i imovine, obvezna je o tome obavijestiti Europsku komisiju što te sporazume čini dostupnim svim drugim državama članicama.
+6. Povratna informacija
+Članak 8.
+Porezna uprava dostavlja odnosno zaprima povratne informacije o automatskoj razmjeni informacija od drugih država članica jedanput godišnje, u skladu s praktičnim dogovorima sklopljenim bilateralno.
+III. AUTOMATSKA RAZMJENA INFORMACIJA O ISPLAĆENIM KAMATAMA NA DOHODAK OD ŠTEDNJE
+1. Obveze izvješćivanja o isplaćenim kamatama isplatiteljima po primitku
+Članak 9.
+(1) Ako isplatitelj kamata isplati ili osigura isplatu kamate isplatitelju po primitku iz članka 200. stavaka 1. i 2. Zakona, obvezan je Poreznoj upravi dostaviti informacije u skladu s člankom 202. stavcima 1. i 2. Zakona.
+(2) Porezna uprava automatskom razmjenom dostavlja nadležnim tijelima drugih država članica informacije zaprimljene od isplatitelja kamata, koje se odnose na rezidente u tim drugim državama članicama. To su sljedeće informacije:
+1. naziv isplatitelja (ime i prezime/naziv tvrtke), adresu sjedišta ili mjesto poslovanja isplatitelja,
+2. identitet i rezidentnost stvarnog korisnika, koja se utvrđuje na temelju podataka o stalnoj adresi stvarnog korisnika kamata. Smatra se da je stvarni korisnik kamata rezident one države u kojoj ima stalnu adresu,
+3. broj računa stvarnog korisnika ili, ako nije dostupan, opis tražbine na temelju koje se isplaćuje kamata (instrument osiguranja, oznaka vrijednosnog papira i sl.),
+4. informacije vezane uz kamate isplaćene u skladu sa stavkom 3. ovoga članka.
+(3) U minimalnoj količini informacija o isplaćenim kamatama, koje je isplatitelj kamata obvezan dostaviti Poreznoj upravi, razlikuju se sljedeće kategorije kamata:
+1. u slučaju kamata isplaćenih u gotovini ili pripisanih na račun, vezano uz potraživanja svake vrste, bez obzira na to jesu li ta potraživanja osigurana zalogom i bez obzira na to nose li pravo sudjelovanja u dobiti dužnika, a posebno prihod od državnih vrijednosnih papira i prihod od obveznica ili zadužnica, uključujući premije i nagrade u vezi s tim vrijednosnim papirima, obveznicama i zadužnicama,
+2. u slučaju obračunatih ili kapitaliziranih kamata pri prodaji, reotkupu, otplati tražbina ili u slučaju ostvarenih prihoda pri prodaji, reotkupu ili otplati dionica ili udjela u: subjektu za zajednička ulaganja u prenosive vrijednosne papire sukladno posebnom propisu (dalje u tekstu: UCITS), subjektima koji koriste mogućnost da ih se smatra UCITS-om na temelju potvrde iz članka 200. stavka 5. Zakona, te u subjektu za zajednička ulaganja osnovanom izvan Europske unije, ako oni izravno ili neizravno putem subjekata za zajednička ulaganja ili naprijed navedenih subjekata više od 25% imovine ulažu u tražbine iz točke 1. ovoga stavka, dostavlja se iznos kamata ili prihoda, ili u nedostatku istih, puni iznos prihoda od prodaje, reotkupa ili otplate,
+3. u slučaju raspodjele kamata koje su isplaćene izravno ili putem isplatitelja po primitku iz članka 200. stavaka 1. i 2. Zakona, a te kamate je raspodijelio: UCITS, subjekt koji koristi mogućnost da ga se smatra UCITS-om na temelju potvrde iz članka 200. stavka 5. Zakona te subjekt za zajednička ulaganja osnovan izvan Europske unije, dostavlja se iznos prihoda ili puni iznos raspodijeljenog prihoda,
+4. u slučaju kamata

@@ -1,0 +1,30 @@
+osobito se utvrđuju:
+1. model tržišta električne energije,
+2. postupci, načela i standardi za organiziranje i rad tržišta električne energije u skladu s primijenjenim modelom tržišta električne energije,
+3. način identifikacije i registracije sudionika na tržištu električne energije,
+4. vrste ugovora koji se sklapaju na tržištu električne energije,
+5. proizvodi za trgovanje na tržištu električne energije,
+6. standardi i postupci za evidentiranje transakcija na tržištu električne energije,
+7. standardi i postupci vezani za problematičnog opskrbljivača na tržištu električne energije,
+8. standardi i postupci za uspostavu i vođenje baze podataka za potrebe tržišta električne energije,
+9. standardi i postupci za prijavu, izradu, provjeru i promjenu dnevnih rasporeda kupoprodaje električne energije,
+10. pravila i postupak razmjene mjernih podataka korisnika mreže,
+11. ostala pitanja potrebna za organiziranje i rad tržišta električne energije.«.
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+»(4) Operator tržišta električne energije dužan je provesti javnu raspravu sa zainteresiranom javnošću o prijedlogu pravila organiziranja tržišta električne energije u trajanju od najmanje 15 dana.
+(5) Operator tržišta električne energije dužan je javno objaviti pravila organiziranja tržišta električne energije na svojim internetskim stranicama minimalno 15 dana prije stupanja istih na snagu.«.
+Članak 31.
+Iza članka 55. dodaju se članci 55.a i 55.b koji glase:
+»Članak 55.a
+(1) Kada Burza obavlja poslove kliringa zaključenih kupoprodajnih transakcija, Burza za potrebe realizacije kupnje i prodaje električne energije putem Burze otvara jedan ili više posebnih poslovnih računa.
+(2) Financijski instrumenti i novčana sredstva na posebnim poslovnim računima Burze koja je predmetne račune otvorila u svrhu deponiranja novca koji Burza primi od strane pojedinog člana Burze radi osiguranja plaćanja električne energije koju član Burze kupuje sudjelovanjem na Burzi, u svrhu naplate iznosa za električnu energiju koju je član Burze kupio sudjelovanjem na Burzi, a koji iznos Burza koristi da bi platila električnu energiju koju član Burze prodaje sudjelovanjem na Burzi, u svrhu plaćanja iznosa za električnu energiju koju je član Burze prodao sudjelovanjem na Burzi, ne ulaze u likvidacijsku, predstečajnu ili stečajnu masu Burze i člana Burze niti mogu biti predmetom ovrhe ili bilo kakvog zahtjeva trećih osoba temeljem potraživanja takvih trećih osoba prema Burzi i/ili prema članu Burze.
+(3) Uzajamni odnosi člana Burze i Burze u pogledu prava i obveza Burze na sredstvima koja se nalaze na takvim posebnim poslovnim računima Burze uređuju se odgovarajućim ugovorom između Burze i člana Burze.
+Članak 55.b
+Kada se steknu uvjeti za prijeboj uzajamnih potraživanja između jednog ili više članova Burze i Burze u okviru obavljanja kliringa burzovnih poslova, u predstečajnom postupku i stečajnom postupku se protiv bilo kojeg od tih članova Burze i/ili Burze ne primjenjuju odredbe koje uređuju predstečajni postupak i stečajni postupak o nedozvoljenosti prijeboja potraživanja te zabrani prijeboja potraživanja predstečajnog ili stečajnog dužnika.«.
+Članak 32.
+U članku 56. stavak 3. mijenja se i glasi:
+»(3) Operator prijenosnog sustava, operator distribucijskog sustava, operator tržišta električne energije i burza električne energije su posebni sudionici s obzirom na obvezu kupnje električne energije za pokriće gubitaka u prijenosnoj i distribucijskoj mreži, na kupnju i prodaju energije uravnoteženja, kupnju i prodaju električne energije proizvedene iz obnovljivih izvora energije i visokoučinkovite kogeneracije te na trgovanje na burzi električne energije, a čije se posebitosti detaljnije uređuju podzakonskim aktima donesenim na temelju ovoga Zakona i posebnog propisa kojim se uređuje područje obnovljivih izvora energije.«.
+Članak 33.
+U članku 59. stavak 1. mijenja se i glasi:
+»(1) Agencija donosi opće uvjete za korištenje mreže i opskrbu električnom energijom.«.
+Članak 34.

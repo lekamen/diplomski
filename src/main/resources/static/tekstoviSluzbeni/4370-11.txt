@@ -1,0 +1,27 @@
+ način:
+u redak 1. iz obrasca GS – ŽO upisuje se podatak za granicu solventnosti za životna osiguranja izračunat u skladu s odredbama članka 12. ovoga Pravilnika. Pod rednim brojem 2. upisuje se iznos kapitala, a u retke pod rednim brojem 5. i 8. iznos jamstvenog kapitala iz obrasca IK – ŽO. Pod rednim brojem 4. prikazana je jedna trećina iznosa vrijednosti granice solventnosti. Pod rednim brojem 7. unosi se podatak o iznosu apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. Zakona.
+(2) U obrazac AK – NO upisuju se podaci za izračun adekvatnosti kapitala malog društva koje obavlja poslove neživotnih osiguranja na sljedeći način:
+u redak 1. iz obrasca GS – NO upisuje se podatak za granicu solventnosti za neživotna osiguranja izračunat u skladu s odredbama članka 13. ovoga Pravilnika. Pod rednim brojem 2. upisuje se iznos kapitala, a u retke pod rednim brojem 5. i 8. iznos jamstvenog kapitala iz obrasca IK – NO. Pod rednim brojem 4. prikazana je jedna trećina iznosa vrijednosti granice solventnosti. Pod rednim brojem 7. unosi se podatak o iznosu apsolutnog praga minimalnog potrebnog kapitala iz članka 158. stavka 1. točke 4. Zakona.
+III. UPRAVLJANJE LIKVIDNOŠĆU
+Upravljanje likvidnošću
+Članak 24.
+(1) Malo društvo za osiguranje dužno je izvorima sredstava i ulaganjima upravljati na način da je u svakom trenutku u stanju ispuniti dospjele obveze.
+(2) Malo društvo za osiguranje dužno je u okviru sustava upravljanja rizicima propisati, primjenjivati, dokumentirati i redovito ažurirati odgovarajuće, učinkovite i sveobuhvatne politike i postupke upravljanja rizikom likvidnosti koje obuhvaćaju:
+1. mjere koje malo društvo za osiguranje poduzima kako bi uzelo u obzir kratkoročni i dugoročni rizik likvidnosti
+2. primjerenost sastava imovine za pokriće tehničkih pričuva u pogledu njezine prirode, trajanja i likvidnosti radi ispunjenja obveza malog društva za osiguranje nakon njihova dospijeća
+3. plan rješavanja promjena u očekivanom novčanom priljevu i odljevu.
+IV. ULAGANJA
+IV.1. Načela ulaganja imovine malog društva za osiguranje
+Ulaganje imovine malog društva za osiguranje
+Članak 25.
+(1) Malo društvo za osiguranje dužno je ulagati imovinu u skladu sa Zakonom, ovim Pravilnikom, pravilima struke te načelima urednog i savjesnog gospodarstvenika, posebice uvažavajući načela sigurnosti, isplativosti i utrživosti ulaganja te smanjenja rizika raspršenošću ulaganja.
+(2) Malo društvo za osiguranje dužno je imovinu za pokriće tehničkih pričuva ulagati na način koji je primjeren prirodi i trajanju obveza osiguranja i obveza reosiguranja i u najboljem interesu ugovaratelja osiguranja, osiguranika i korisnika osiguranja.
+(3) Vrijednost imovine za pokriće tehničkih pričuva osim matematičke pričuve mora u svakom trenutku biti najmanje jednaka visini traženog pokrića odnosno visini tehničkih pričuva namijenjenih pokriću obveza iz ugovora o osiguranju za koje je malo društvo za osiguranje dužno oblikovati tehničke pričuve osim matematičke pričuve (dalje u tekstu: traženo pokriće tehničkih pričuva osim matematičke pričuve).
+(4) Vrijednost imovine za pokriće matematičke pričuve mora u svakom trenutku biti najmanje jednaka visini traženog pokrića odnosno visini tehničkih pričuva namijenjenih pokriću obveza iz ugovora o životnom osiguranju i ostalih ugovora o osiguranju za koja se primjenjuju slične tablice vjerojatnosti i izračuni kao i za životna osiguranja za koje je malo društvo za osiguranje dužno oblikovati matematičke pričuve (dalje u tekstu: traženo pokriće matematičke pričuve).
+Sigurnost ulaganja
+Članak 26.
+(1) Ulaganje imovine malog društva za osiguranje mora kontinuirano ispunjavati ekonomski i pravni aspekt sigurnosti.
+(2) Ekonomski aspekt sigurnosti podrazumijeva očuvanje vrijednosti uložene imovine gdje se za ocjenu sigurnosti, uz uvažavanje načela raspršenosti, isplativosti i utrživosti ulaganja, uzimaju u obzir sljedeći kriteriji:
+– trajanje obveza s osnove ugovora o osiguranju
+– rizičnost ulaganja
+– očekivani

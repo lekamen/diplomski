@@ -1,0 +1,41 @@
+41 02.05.2016 Odluka o osnivanju Vijeća za državnu informacijsku infrastrukturu
+VLADA REPUBLIKE HRVATSKE
+1066
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11 i 119/14) i članka 4. stavka 1. Uredbe o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture (»Narodne novine«, br. 134/14 i 40/16), Vlada Republike Hrvatske je na sjednici održanoj 28. travnja 2016. godine donijela
+ODLUKU
+O OSNIVANJU VIJEĆA ZA DRŽAVNU INFORMACIJSKU INFRASTRUKTURU
+I.
+U svrhu praćenja i koordinacije razvoja državne informacijske infrastrukture i pripreme izvješća Vladi Republike Hrvatske osniva se Vijeće za državnu informacijsku infrastrukturu (u daljnjem tekstu: Vijeće).
+II.
+(1) Članovi Vijeća su:
+– predsjednik Vlade Republike Hrvatske
+– prvi potpredsjednik Vlade Republike Hrvatske
+– potpredsjednik Vlade Republike Hrvatske
+– čelnik središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske
+– čelnik središnjeg tijela državne uprave nadležnog za poslove gospodarstva
+– čelnik središnjeg tijela državne uprave nadležnog za poslove regionalnoga razvoja i fondova Europske unije
+– čelnik središnjeg tijela državne uprave nadležnog za unutarnje poslove
+– čelnik središnjeg tijela državne uprave nadležnog za poslove znanosti, obrazovanja i sporta
+– čelnik središnjeg tijela državne uprave nadležnog za financije
+– čelnik središnjeg tijela državne uprave nadležnog za obranu
+– čelnik središnjeg tijela državne uprave nadležnog za vanjske i europske poslove
+– predstojnik Državnog ureda za središnju javnu nabavu
+– pomoćnik čelnika središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske, nadležan za poslove e-Hrvatske
+– ravnatelj Zavoda za sigurnost informacijskih sustava
+– ravnatelj Hrvatske akademske i istraživačke mreže (CARNet)
+– predsjednik Uprave Agencije za podršku informacijskim sustavima i informacijskim tehnologijama (APIS IT d.o.o.)
+– predsjednik Uprave Financijske agencije (FINA).
+(2) Vijeću predsjedava predsjednik Vlade Republike Hrvatske, a u slučaju njegove odsutnosti prvi potpredsjednik Vlade Republike Hrvatske.
+(3) Čelnici tijela i pravnih osoba iz stavka 1. ove točke imenuju zamjenika člana Vijeća, s pravom glasa, za slučaj spriječenosti.
+(4) Za članove Vijeća koji su čelnici središnjih tijela državne uprave zamjenici se imenuju iz reda državnih dužnosnika.
+III.
+(1) Po potrebi, na poziv predsjednika Vijeća, sjednicama Vijeća mogu prisustvovati i predstavnici drugih nadležnih tijela i institucija te stručnjaci iz drugih relevantnih područja, bez prava glasa.
+(2) Za operativnu provedbu zadaća iz točke IV. stavka 1. ove Odluke, Vlada Republike Hrvatske može odlukom osnivati radne skupine.
+(3) Vijeće koordinira rad radnih skupina iz stavka 2. ove točke, te im daje odgovarajuće smjernice za rad.
+IV.
+(1) Vijeće obavlja sljedeće zadaće:
+– prati provođenje i daje preporuke za provođenje investicija u informacijske tehnologije u središnjim tijelima državne uprave i drugim proračunskim korisnicima državnog proračuna i izvanproračunskim korisnicima državnog proračuna ako vrijednost tih investicija prelazi 2,5 milijuna kuna
+– prati politike javnih nabava investicija u informacijske tehnologije u središnjim tijelima državne uprave i drugim proračunskim korisnicima državnog proračuna i izvanproračunskim korisnicima državnog proračuna
+– predlaže Vladi Republike Hrvatske mjere i aktivnosti za unaprjeđenje investicija u informacijske tehnologije u središnjim tijelima državne uprave i drugim proračunskim korisnicima državnog proračuna i izvanproračunskim korisnicima državnog proračuna
+– razmatra prijedloge strateških, planskih i provedbenih akata primjene informacijske i komunikacijske tehnologije s ciljem unaprjeđenja elektroničkih javih usluga
+– prati provođenje projekata državne informacijske i komunikacijske infrastrukture te daje preporuke o spajanju istovrsnih projekata upisanih u javnom Registru za koordinaciju projekata izgradnje državne

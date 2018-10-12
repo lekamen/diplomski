@@ -1,0 +1,21 @@
+ stavka 1. ovoga članka provode poštujući načela poštenja, objektivnosti i nepristranosti, te zaštite osobnih podataka, kao i da radnik koji je prijavio eventualnu povredu propisa neće snositi nikakve negativne posljedice zbog takvog prijavljivanja. Društvo za upravljanje ne smije radnika koji je podnio prijavu iz stavka 1. ovoga članka ni na koji način diskriminirati, dovoditi u nepovoljniji položaj u odnosu na druge radnike niti se takvo njegovo postupanje može smatrati kršenjem bilo kakvih ograničenja otkrivanja informacija koja su određena ugovorom, zakonom ili drugim propisom, te to ne može biti razlog za otkaz ugovora o radu ili drugog ugovora na temelju kojeg radnik radi u društvu za upravljanje.
+(4) Agencija će omogućiti pouzdan način dostavljanja obavijesti o povredama odredaba ovoga Zakona i/ili podzakonskih propisa donesenih na temelju ovoga Zakona te potiče njihovo dostavljanje.
+(5) Na zahtjev Agencije društvo za upravljanje dužno je dostaviti Agenciji obavijest o povredama odredaba ovoga Zakona i/ili podzakonskih propisa donesenih na temelju ovoga Zakona, odnosno o prijavama iz stavka 1. ovoga članka, ako je takvih prijava bilo, za razdoblje i u roku koji odredi Agencija.
+(6) Prilikom dostavljanja obavijesti iz stavka 4. ovoga članka Agencija će osigurati odgovarajuću zaštitu radnika društva za upravljanje koji je dostavio predmetnu obavijest, u svrhu njegove zaštite od moguće diskriminacije ili drugih oblika dovođenja u nepovoljniji položaj, odnosno pozivanja na odgovornost zbog otkrivanja navedenih podataka.
+(7) Agencija će pravilnikom propisati prihvat obavijesti iz stavka 4. ovoga članka i postupanje u vezi s dostavljenom obavijesti, s jasnim pravilima o povjerljivosti podataka o osobi koja je obavijest dostavila i osobi koja je navodno, u skladu s obavijesti, odgovorna za nezakonitost.
+(8) Agencija će s osobnim podacima iz obavijesti iz stavka 4. ovoga članka odnosno iz stavka 5. ovoga članka postupati u skladu s propisima kojima se regulira zaštita osobnih podataka.
+(9) Iznimno od stavka 8. ovoga članka, Agencija može podatke o osobi koja je Agenciji dostavila obavijest iz stavka 4. ovoga članka odnosno podatke o radniku koji je prijavio eventualnu povredu propisa iz stavka 5. ovoga članka upotrijebiti ako je to nužno u svrhu provođenja istrage u kaznenom postupku ili za pokretanje drugih sudskih postupaka.
+(10) Agencija će podatke iz stavka 4. ovoga članka odnosno iz stavka 5. ovoga članka dostaviti ESMA-i na njezin zahtjev.
+Funkcija interne revizije
+Članak 55.
+(1) Društvo za upravljanje dužno je, kada je to prikladno i primjereno vrsti, opsegu i složenosti poslovanja društva za upravljanje, ustrojiti zasebnu funkciju interne revizije te osigurati neovisnost te funkcije od ostalih funkcija i djelatnosti društva za upravljanje.
+(2) Funkcija interne revizije neovisno i objektivno procjenjuje primjerenost i učinkovitost uspostavljenih sustava i procesa društva za upravljanje, sustava unutarnjih kontrola i korporativnog upravljanja te daje neovisno i objektivno stručno mišljenje i savjete za unapređenje poslovanja društva za upravljanje.
+(3) Funkcija interne revizije iz stavka 1. ovoga članka odgovorna je za:
+1. propisivanje, provođenje i ažuriranje plana revizije te periodičko ispitivanje i procjenjivanje primjerenosti i učinkovitosti sustava društva za upravljanje, kao i mehanizma unutarnjih kontrola
+2. davanje preporuka na temelju rezultata postupka iz točke 1. ovoga stavka
+3. provjeravanje usklađenosti s preporukama iz točke 2. ovoga stavka i
+4. izvješćivanje u vezi s poslovima interne revizije, u skladu s člankom 51. stavkom 4. ovoga Zakona.
+Sustav upravljanja rizicima
+Članak 56.
+(1) Društvo za upravljanje dužno je uspostaviti sveobuhvatan i učinkovit sustav upravljanja rizicima za društvo za upravljanje i UCITS fondove kojima upravlja, u skladu s vrstom, opsegom i složenosti svoga poslovanja, koji mora uključivati najmanje:
+1. relevantne dijelove organizacijske strukture društva za upravljanje s

@@ -1,0 +1,31 @@
+krajnjeg korisnika na pozive za instalaciju usluge ili dostavljanje opreme, krajnji korisnik za navedeno razdoblje nema pravo na naknadu iz stavka 1. ovog članka.
+(3) Zahtjev za isplatom naknade podnosi se pisanim ili elektroničkim putem novom operatoru, najkasnije u roku od sedamdesetpet (75) dana od dana potpisivanja jedinstvene izjave, a u slučaju sklapanja ugovora na daljinu rok od sedamdesetpet (75) dana se računa od dana sklapanja ugovora.
+(4) Isplata naknade će biti realizirana najkasnije u roku od trideset (30) dana od dana zaprimanja zahtjeva za isplatom naknade.
+(5) Novi operator će u roku od sedam (7) radnih dana od dana primitka valjanog zahtjeva za isplatom naknade obavijestiti podnositelja zahtjeva o načinu isplate naknade. U slučaju da je kašnjenje realizacije usluge ili prekid pružanja usluge prouzročio postojeći ili veleprodajni operator, novi operator proslijedit će zahtjev za isplatom naknade postojećem operatoru zajedno sa svim potrebnim podacima za isplatom naknade koje je dobio od krajnjeg korisnika u roku od tri (3) radna dana od dana primitka istog. Postojeći operator će u roku od sedam (7) radnih dana od dana primitka zahtjeva za isplatom naknade odgovoriti krajnjem korisniku.
+(6) U slučaju odbijanja zahtjeva za isplatom naknade ili ukoliko smatra da mu naknada nije ispravno obračunata, krajnji korisnik može u roku od trideset (30) dana od dana primitka obavijesti operatora ili od isteka roka iz članka 67. stavka 4. podnijeti prijavu inspektoru elektroničkih komunikacija.
+(7) Novi operator ima pravo na naknadu za svaki dan neispunjavanja obveza postojećeg operatora kod promjene operatora i to u iznosu od pedeset (50) kuna po danu za neispunjavanje obveza u prvih deset (10) dana, a od jedanaestog (11) dana pa sve do ispunjenja obveze sedamdesetpet (75) kuna po danu.
+(8) Neispunjavanje obveza kod promjene operatora smatra se dostavljanje jedinstvene izjave izvan roka, pogrešno ili nepotpuno ispunjavanje jedinstvene izjave iz Dodatka 7.
+(9) Naknadu iz stavka 7. ovog članka isplaćuje postojeći operator koji je prouzročio neispunjavanja obveza, na temelju zahtjeva novog operatora koji sadrži specifikaciju potraživanja naknada. Zahtjev se podnosi na mjesečnoj osnovi, najkasnije posljednji dan u tekućem mjesecu za neispunjavanja obveza koja su nastala u prethodnom mjesecu.
+Specifikacija koju novi operator dostavlja uz zahtjev za isplatu naknade mora osobito sadržavati:
+1. telefonski broj (ukoliko postoji),
+2. jedinstveni globalni identifikator (global unique identifier – GUID) (ukoliko je izjava dostavljena putem B2B servisa),
+3. ime i prezime ili naziv krajnjeg korisnika,
+4. adresa krajnjeg korisnika,
+5. datum slanja jedinstvene izjave,
+6. datum odgovora postojećeg operatora,
+7. podatak o roku u kojem je trebalo dostaviti supotpisanu jedinstvenu izjavu i
+8. broj dana kašnjenja.
+Postojeći operator obvezan je dostaviti novom operatoru očitovanje o dostavljenoj specifikaciji potraživanja naknada u roku od 30 dana od dana zaprimanja pojedine specifikacije.
+(10) U slučaju odbijanja zahtjeva za isplatom naknade, operator može podnijeti prijavu inspektoru elektroničkih komunikacija.
+Članak 12.
+Dosadašnji Dodatak 7. koji sadrži Obrazac jedinstvene izjave krajnjeg korisnika o raskidu ugovora s postojećim operatorom zamjenjuje se novim obrascem i sastavni je dio ovih izmjena i dopuna Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.
+Članak 13.
+Ovaj Pravilnik o izmjenama i dopunama Pravilnika stupa na snagu 1. svibnja 2015., osim izmjene u članku 8. stavku 4. točki 3. koja stupa na snagu šest (6) mjeseci od dana objave.
+Klasa: 011-02/14-02/10
+Urbroj: 376-04-14-16
+Zagreb, 24. veljače 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.
+DODATAK 7.
+JEDINSTVENA IZJAVA KRAJNJEG KORISNIKA O RASKIDU UGOVORA S POSTOJEĆIM OPERATOROM
+
+Novi operator će, najkasnije u roku od 25 dana od dana potpisivanja jedinstvene izjave, obavijestiti krajnjeg korisnika o prihvaćanju ili

@@ -1,0 +1,42 @@
+podnesaka unose se u sustav JCMS te se pritom unosi broj stranica svakoga pojedinog priloga i broj priloga.
+(4) Prilozi koji se zbog oblika ili vrste ne mogu ulagati u spis pohranit će se odvojeno, a u polje za napomene o podnesku u sustavu JCMS unijet će se bilješka o tome gdje se takvi prilozi nalaze na čuvanju.
+(5) Sustav JCMS automatski određuje podbroj podneska i priloga uz podnesak.
+Članak 31.
+U sustavu JCMS poslovni broj predmeta i broj vijeća odnosno rješavatelja kojem je predmet dodijeljen u rad automatski se određuje prilikom osnivanja spisa.
+Članak 32.
+Podbroj podneska automatski se određuje kod unosa podneska u sustav JCMS prema redoslijedu kojim je upisan.
+Članak 33.
+Podnesci i sva druga pismena unose se u sustav JCMS i ulažu u odgovarajući spis vremenskim redoslijedom kojim su primljeni ili nastali u sudu, o čemu su dužni brinuti svi sudski službenici koji rukuju spisima, a posebno oni koji su zaduženi za unos podataka.
+Članak 34.
+Početni i završni broj stranice svakog pismena unutar spisa prikazuje se automatski na popisu pismena.
+Početak procesa u sustavu JCMS
+Članak 35.
+Datum osnivanja spisa u sustavu JCMS je dan kada je prvi put primljen podnesak kojim se osniva spis na bilo kojem sudu.
+Zaprimanje podnesaka
+Članak 36.
+Ako je podnesak dostavljen na lokaciju različitu od lokacije predmeta, pisarnica će ga zaprimiti, evidentirati u sustavu JCMS i fizički dostaviti na lokaciju predmeta.
+Članak 37.
+Ako je stranka pogrešno podnijela podnesak sudu, isti se upisuje u odgovarajući upisnik za razne predmete sustava JCMS i nakon toga dostavlja nadležnom tijelu.
+VII. DODJELA SPISA NA PREKRŠAJNIM SUDOVIMA
+Opće odredbe
+Članak 38.
+Preduvjeti za dodjelu spisa su:
+1. u sustav JCMS unesen pravomoćan godišnji raspored poslova i matrica ovlaštenja sa zonom rješavanja predmeta,
+2. normirana opterećenja i broj dodijeljenih predmeta po vrsti predmeta 1. siječnja svake godine svim rješavateljima postavljena na nulu,
+3. određen upisnik i vrsta predmeta,
+4. za prekršajne sudove, naselja predmeta unutar zone rješavanja predmeta,
+5. poslovni broj predmeta i datum osnivanja.
+Članak 39.
+(1) Nakon što u sustavu JCMS budu upisani osnovni podaci o spisu, dodjela novih predmeta u rad rješavateljima obavlja se primjenom algoritma za dodjelu predmeta sustava JCMS. Pojedine vrste predmeta dodjeljuju se rješavateljima prema šifrarnicima vrsta sudskih predmeta iz godišnjeg rasporeda poslova.
+(2) Predsjednik suda može pisanom obrazloženom naredbom odrediti ponovljenu automatsku dodjelu predmeta samo u iznimnim slučajevima.
+Dodjela spisa u prekršajnim sudovima
+Članak 40.
+Prilikom automatskog određivanja rješavatelja, algoritam automatski odabire sve rješavatelje u sudu koji su godišnjim rasporedom poslova određeni za rješavanje određene vrste predmeta, koji ovisno o normiranom opterećenju i broju primljenih predmeta rješavatelja unutar tekuće godine, dobiva po jedan predmet u rad.
+Članak 41.
+(1) U sustavu JCMS automatska dodjela spisa u prekršajnim predmetima određuje se prema mjestu počinjenja prekršaja, a ako se mjesto počinjenja prekršaja ne može utvrditi, prema mjestu prebivališta odnosno boravišta počinitelja ili njegovog sjedišta.
+(2) Ako je počinitelj prekršaja maloljetnik, automatska dodjela predmeta određuje se prema prebivalištu odnosno boravištu maloljetnika unutar zone rješavanja predmeta.
+(3) U predmetima izvršenja prekršajnopravnih sankcija u kojima se izvršava rad za opće dobro ili kazna zatvora, automatska dodjela predmeta određuje se prema prebivalištu osuđenika.
+(4) U predmetima pružanja pravne pomoći, naselje premeta određuje se prema prebivalištu sjedištu odnosno boravištu, sudionika postupka.
+Članak 42.
+(1) Prilikom automatske dodjele spisa vodi se računa o ravnomjernoj opterećenosti svih rješavatelja unutar suda, pri čemu se uzima u obzir prometna povezanost sjedišta suda i stalnih službi unutar zone rješavanja predmeta.
+(2) Ukoliko rješavatelj rješava samo određenu vrstu predmeta, a tijekom automatske dodjele spisa se utvrdi

@@ -1,0 +1,30 @@
+ tehničkom opisu iz Priloga 2 ovoga Pravilnika
+– Sustav za pohranu i arhivu podataka s rokom čuvanja podataka u razdoblju od najmanje 3 (tri) godine od dana nastanka transakcije iz usluge EENC-a
+– Prateća oprema i infrastruktura koja mora osigurati odgovarajući stupanj zaštite opreme i aplikacija koje se koriste u sustavu pružanja usluge EENC-a.
+(2) Tehnički opis i specifikacija opreme iz stavka 1. ovoga članaka sadržan je u Prilogu 3, koji čini sastavni dio ovoga Pravilnika.
+V. POTVRDA O ISPUNJAVANJU TEHNIČKIH ZAHTJEVA I ELEMENATA INTEROPERABILNOSTI
+Članak 6.
+(1) Potvrdu o ispunjavanju tehničkih zahtjeva iz članka 4. i elemenata interoperabilnosti iz članka 5. ovoga Pravilnika za pružanje i prihvat usluge EENC-a izdaje Državni zavod za mjeriteljstvo.
+(2) Ispunjavanje tehničkih zahtjeva i elemenata interoperabilnosti potvrđuje se svakih tri godine.
+(3) Hrvatske autoceste d.o.o. i koncesionar te pružatelj usluge EENC-a koji ne posjeduju važeću potvrdu o ispunjavanju tehničkih zahtjeva i elemenata interoperabilnosti za prihvat i pružanje usluge EENC-a brisat će se iz upisnika pružatelja usluge EENC-a.
+Članak 7.
+Prije sklapanja ugovora iz članka 11. stavka 2. Zakona o cestama pružatelj usluge EENC-a i Hrvatske autoceste d.o.o., odnosno koncesionar moraju provesti probni rad informatičkih sustava za usluge EENC-a, radi provjere ispunjavanja tehničkih zahtjeva iz članak 3. i uvjeta interoperabilnosti iz članka 4. ovoga Pravilnika.
+VI. PRIJELAZNE I ZAVRŠENE ODREDBE
+Članak 8.
+Hrvatske autoceste d.o.o. i koncesionar obvezni su najkasnije 5 godina od dana pristupanja Republike Hrvatske Europskoj uniji u potpunosti ispuniti tehničke zahtjeve iz članka 4. i elemente interoperabilnosti iz članka 5. ovoga Pravilnika te osigurati uvjete da s ovlaštenim pružateljem usluge EENC-a u Europskoj uniji mogu sklapati ugovore i omogućiti plaćanje cestarine na način propisan Zakonom o cestama.
+Članak 9.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, broj 74/13) i Pravilnik o izmjenama i dopunama pravilnika o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, broj 17/16).
+Članak 10.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 340-03/16-10/08 Urbroj: 530-05-3-16-1 Zagreb, 15. lipnja 2016.
+Ministar Oleg Butković, v. r.
+PRILOG 1 – PRILOG 3
+PRILOG 4
+USKLAĐENOST S PROPISIMA I PRIKLADNOST ZA UPORABU KOMPONENATA INTEROPERABILNOSTI
+IZJAVA O SUKLADNOSTI
+1. Usklađenost sa specifikacijama
+Za ocjenjivanje usklađenosti komponenata interoperabilnosti (uključujući opremu na cesti te sučelja) s uvjetima navedenima u ovom pravilniku i svim relevantnim tehničkim specifikacijama, proizvođač komponenata interoperabilnosti koje će koristiti u pružanju usluga EENC ili njegov ovlašteni predstavnik, odabrat će postupke među modulima navedenim u Odluci 768/2008/EC. Slijedom toga, označiti će deklaracijom »EC« usklađenost specifikacija za komponente interoperabilnosti, prema potrebi, ovisno o dobivanju certifikata o pregledu od prijavljenoga tijela.
+Ovisno o izabranom modulu za ocjenjivanje usklađenosti Odluke br. 768/2008/EC, deklaracija »EC« o usklađenosti sa specifikacijama obuhvaća proizvođačevo samoocjenjivanje ili ocjenjivanje prijavljenog tijela ili prijavljenih tijela i to unutarnje usklađenosti komponenata interoperabilnosti, samih za sebe, u usporedbi sa specifikacijama kojim treba udovoljiti.
+2. Prikladnost za uporabu (interoperabilnost usluge)
+Prikladnost za uporabu komponenata interoperabilnosti ocjenjuje se kroz rad ili uporabu komponenata unutar usluge, reprezentativno integrirane u sustav naplate EENC Subjekta (subjekata) za naplatu cestarine u čijoj će domeni oprema instalirana u vozilu prometovati kroz određeno vrijeme rada.
+Za provođenje takvog pregleda pomoću iskustva tijekom

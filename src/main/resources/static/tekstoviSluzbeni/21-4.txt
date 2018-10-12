@@ -1,0 +1,36 @@
+ provoditi primjerene politike i postupke upravljanja kreditnim rizikom.
+(2) Kreditna institucija dužna je donositi odluke o odobravanju kredita na temelju primjerenih i jasno definiranih kriterija te definirati postupke odlučivanja o odobravanju, promjenama, obnavljanju i refinanciranju kredita.
+(3) Kreditna institucija dužna je uspostaviti primjeren i djelotvoran sustav upravljanja i stalnog praćenja portfelja i pojedinačnih izloženosti koje nose kreditni rizik te osigurati njegovo provođenje, što uključuje:
+1) upravljanje portfeljima i pojedinačnim izloženostima koje nose kreditni rizik, prepoznavanje i upravljanje problematičnim plasmanima te raspoređivanje izloženosti u skupine prema nadoknadivosti i
+2) provođenje ispravaka vrijednosti za bilančne stavke te rezerviranja za rizične izvanbilančne stavke.
+(4) Kreditna institucija dužna je osigurati da diversifikacija njezinih portfelja koji nose kreditni rizik bude u skladu s njezinom kreditnom strategijom i ciljanim tržištima.
+(5) Kreditna institucija dužna je utvrditi internu metodologiju koja omogućuje procjenu kreditnog rizika izloženosti prema pojedinim dužnicima, vrijednosnim papirima ili sekuritizacijskim pozicijama te kreditnog rizika na razini portfelja.
+(6) Interna metodologija iz stavka 5. ovog članka ne smije se isključivo temeljiti na rejtingu vanjske institucije za procjenu kreditnog rizika.
+Sekuritizacijski rizici
+Članak 9.
+(1) Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke za upravljanje rizicima koji proizlaze iz poslova sekuritizacije kod kojih je kreditna institucija ulagatelj, inicijator ili sponzor, uključujući i reputacijske rizike koji proizlaze iz složenih struktura ili proizvoda. Upravljanje rizicima koji proizlaze iz poslova sekuritizacije mora se zasnivati na ekonomskom sadržaju posla.
+(2) Kreditna institucija koja je inicijator obnovljivih sekuritizacijskih transakcija s ugovorenom odredbom o prijevremenoj isplati dužna je donijeti planove likvidnosti za rješavanje posljedica planiranih i prijevremenih isplata.
+Rezidualni rizik
+Članak 10.
+Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke upravljanja rezidualnim rizikom.
+Koncentracijski rizik
+Članak 11.
+Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke upravljanja koncentracijskim rizikom.
+Tržišni rizici
+Članak 12.
+(1) Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke za upravljanje svim značajnim izvorima i učincima tržišnih rizika.
+(2) Kreditna institucija dužna je politikama i postupcima iz stavka 1. ovog članka propisati najmanje:
+1) uključivanje pozicija u knjigu trgovanja i aktivno upravljanje njima te
+2) sustav vrednovanja pozicija u knjizi trgovanja.
+(3) Ako kratke pozicije dospijevaju prije dugih pozicija, kreditna institucija dužna je poduzeti mjere zaštite od rizika manjka likvidnosti.
+Kamatni rizik u knjizi pozicija kojima se ne trguje
+Članak 13.
+Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke za upravljanje kamatnim rizikom koji proizlazi iz knjige pozicija kojima se ne trguje.
+Operativni rizik
+Članak 14.
+(1) Kreditna institucija dužna je donijeti i provoditi primjerene politike i postupke upravljanja operativnim rizikom, uključujući rizik modela i događaje male učestalosti s velikim gubicima.
+(2) Kreditna institucija dužna je za potrebe upravljanja operativnim rizikom definirati operativni rizik tako da obuhvati sve što je za nju operativni rizik, i to pod uvjetom da definicija najmanje obuhvaća rizike gubitka iz članka 4. stavka 1. točke 52. Uredbe (EU) br. 575/2013.
+(3) Kreditna institucija dužna je donijeti planove postupanja u kriznim situacijama i planove kontinuiteta poslovanja kojima se osigurava kontinuitet poslovanja i ograničavaju gubici u slučajevima znatnijeg narušavanja ili prekida poslovanja.
+Rizik prekomjerne financijske poluge
+Članak 15.
+(1) Kreditna institucija dužna je donijeti i provoditi primjerene

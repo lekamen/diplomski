@@ -1,0 +1,21 @@
+plovila nasukana na plovnom putu ili blizu plovnog puta koja mogu predstavljati opasnost za druga plovila.
+Članak 6.32 – Plovidba pomoću radara
+(1) Kada plovilo plovi pomoću radara, u kormilarnici mora stalno biti jedna osoba koja posjeduje svjedodžbu koja je propisana za upravljanje tim tipom plovila na dijelu vodnog puta na kojem se nalazi i koje posjeduje svjedodžbu iz članka 4.06 stavka 1. točka b) ovoga Pravilnika i druga osoba koja je dovoljno upoznata s takvim načinom plovidbe. U slučaju da je kormilarnica opremljena za jednu osobu za plovidbu uz pomoć radara, dovoljno je da druga osoba može, ako zatreba, odmah doći u kormilarnicu.
+(2) Plovilo koje plovi uzvodno, čim na radarskom ekranu primijeti plovila koja se približavaju ili kada se približava dijelu plovnog puta gdje se mogu nalaziti plovila koja još nisu vidljiva na ekranu, mora putem radiotelefonskog uređaja priopćiti plovilima koja se približavaju svoju vrstu plovila, ime, pravac i poziciju i dogovoriti postupak mimoilaženja s tim plovilima.
+(3) Plovilo koje plovi nizvodno, čim na radarskom ekranu primijeti plovilo čija pozicija ili kretanje mogu prouzročiti opasnost i koje još nije uspostavilo kontakt preko radiotelefonskog uređaja, mora putem radiotelefonskog uređaja skrenuti pažnju navedenog plovila na opasnu situaciju i dogovoriti postupak mimoilaženja.
+(4) Kada nije moguće uspostaviti radiotelefonsku vezu s plovilima koja se približavaju, plovilo koje plovi nizvodno mora:
+a) odaslati tritonalni znak i ponavljati ga onoliko često koliko je to potrebno. Ova odredba ne primjenjuje se na čamce,
+b) smanjiti brzinu i, ako je potrebno, stati.
+Plovila koja plove uzvodno čim čuju znak naveden u stavku 4. točki a) ovoga članka ili primijete na ekranu plovila čija pozicija ili kretanje mogu prouzročiti opasnost ili kada se približava dijelu plovnog puta gdje se mogu nalaziti plovila koja još nisu vidljiva na ekranu moraju:
+a) odaslati jedan dugi zvučni znak i ponavljati ga onoliko često koliko je to potrebno,
+b) smanjiti brzinu i, ako je potrebno, stati.
+(5) Svako plovilo koje plovi pomoću radara i primi poziv putem radiotelefonskog uređaja, dužno je odgovoriti istim putem naznačujući svoju vrstu plovila, ime, pravac i poziciju. Jednako tako, ono je dužno usuglasiti postupak mimoilaženja s plovilima koja se približavaju. Međutim, čamac je dužan samo naznačiti stranu na kojoj daje prolaz.
+(6) U sastavima se odredbe stavka 1. do 5. ovoga članka primjenjuju samo na plovilo na kojem se nalazi zapovjednik sastava.
+Članak 6.33 – Odredbe koje se primjenjuju na plovila koja plove bez upotrebe radara
+(1) Pri ograničenoj vidljivosti, plovila i sastavi koji ne plove uz pomoć radara, moraju odmah doploviti do najbližeg sigurnog veza ili sidrišta. Za vrijeme plovidbe do tog mjesta primjenjuju se sljedeća pravila:
+a) koliko je to moguće, trebaju ploviti na strani plovnog puta na kojoj se odvija plovidba,
+b) svako plovilo koje plovi samostalno i plovilo na kojem se nalazi zapovjednik sastava dužno je davati jedan dugi zvučni znak; ovaj znak se treba ponavljati u intervalima ne dužim od jedne minute. Ta plovila dužna su na prednjem dijelu postaviti promatračku postaju; u slučaju sastava promatračka postaja potrebna je samo na vodećem plovilu u sastavu. Promatračka postaja mora biti u vizualnom ili slušnom dometu zapovjednika konvoja ili sastava ili se mora omogućiti govorna veza s istim.
+c) kada plovilo primi poziv putem radiotelefonskog uređaja od drugog plovila, dužno je na taj poziv odgovoriti naznačujući svoju vrstu plovila, ime, pravac i poziciju. Isto tako je dužno naznačiti da plovi bez upotrebe radara i da se nalazi na putu ka mjestu za stajanje. Isto tako dužno je usuglasiti postupak mimoilaženja s tim plovilom.
+d) čim plovilo čuje zvučni znak s drugog plovila s kojim nije bilo u mogućnosti uspostaviti kontakt putem radiotelefonskog uređaja, dužno je:
+– ako se nalazi u blizini obale, ostati uz tu obalu i ako je potrebno, stati dok plovilo ne prođe;
+– ako nije u blizini

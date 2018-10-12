@@ -1,0 +1,36 @@
+ okoliša i prirode, troškovi tehničke inspekcije i slično).
+(4) Opći troškovi iz stavka 3. ovoga članka prihvatljivi su u iznosu do 10% vrijednosti ukupno prihvatljivih troškova (bez općih troškova).
+(5) Aktivnost vezana uz projekt, vrijednosti ne veće od 10% vrijednosti prihvatljivog dijela projekta, može započeti prije podnošenja zahtjeva za potporu, ali ne prije 1. siječnja 2014. godine.
+Članak 7.
+Neprihvatljivi troškovi za sufinanciranje u okviru tipa operacije 4.3.1. su:
+1. porez na dodanu vrijednost (u daljnjem tekstu: PDV) u slučaju da je korisnik porezni obveznik upisan u registar obveznika PDV-a te ima pravo na odbitak PDV-a
+2. drugi porezi, naknade, doprinosi
+3. kamate
+4. rabljena poljoprivredna mehanizacija i oprema, rabljena gospodarska vozila, rabljeni radni strojevi
+5. svi troškovi održavanja, jednostavne gradnje/zamjene i amortizacije
+6. troškovi vezani uz ugovor o leasingu kao što su marža davatelja leasinga, troškovi refinanciranja kamata, režijski troškovi i troškovi osiguranja
+7. troškovi vlastitog rada
+8. plaćanje u gotovini
+9. troškovi nastali prije podnošenja zahtjeva za potporu, osim općih troškova, ali ne prije 1. siječnja 2014. godine i
+10. troškovi nastali aktivnostima iz članka 6. stavka 5. ovoga Pravilnika.
+Članak 8.
+(1) Potpora se dodjeljuje u obliku bespovratnih financijskih sredstava.
+(2) Sredstva potpore osiguravaju se iz proračuna EPFRR-a i državnog proračuna Republike Hrvatske, od čega EPFRR sudjeluje s 85% udjela, a Republika Hrvatska s 15% udjela, a intenzitet javne potpore po projektu iznosi do 100% od ukupnih prihvatljivih troškova.
+(3) Broj projekata odobrenih pojedinom korisniku u programskom razdoblju nije ograničen.
+(4) Isti korisnik može podnijeti više zahtjeva za potporu tijekom jednog natječaja.
+(5) Isplata potpore bit će u maksimalno šest rata.
+(6) Najniža vrijednost javne potpore po projektu može iznositi 150.000 eura u kunskoj protuvrijednosti prema tečaju iz članka 9. ovoga Pravilnika.
+(7) Najviša vrijednost javne potpore po projektu može iznositi 15.000.000 eura u kunskoj protuvrijednosti prema tečaju iz članka 9. ovoga Pravilnika.
+Članak 9.
+Preračun tečaja eura u kune obavlja se prema mjesečnom tečaju eura utvrđenom od Europske komisije za mjesec u kojem je podnesen zahtjev za potporu te objavljenom na mrežnoj stranici Europske komisije http://ec.europa.eu/budget/inforeuro/.
+DIO DRUGI
+POGLAVLJE I. UVJETI PRIHVATLJIVOSTI I KRITERIJI ODABIRA
+Članak 10.
+Zahtjev za potporu je prihvatljiv za sufinanciranje uz ispunjavanje sljedećih uvjeta:
+1. Stanje vodnog tijela nije identificirano kao manje od dobroga stanja u relevantnom planu upravljanja vodnim područjem iz razloga vezanih uz količinu vode, uz izuzeće od ovoga uvjeta u slučaju kada se investicija opskrbljuje vodom iz postojeće akumulacije uz odobrenje nadležnih vlasti prije 31. listopada 2013. godine, pod uvjetom da su ispunjeni sljedeći uvjeti:
+a) dotična akumulacija je identificirana u relevantnom planu upravljanja vodnim područjem i podliježe zahtjevima kontrole iz članka 11. stavka 3. točka e) Okvirne direktive o vodama (SL L 327, 22.12.2000.) (u daljnjem tekstu: Okvirna direktiva o vodama)
+b) do 31. listopada 2013. godine na snazi je bila maksimalna količina ukupnog zahvaćanja iz akumulacije ili minimalni zahtjevi za protokom u vodnim tijelima na koja utječe akumulacija
+c) maksimalna količina ili minimalni zahtjevi za protokom moraju biti u skladu s uvjetima iz članka 4. Okvirne direktive o vodama
+d) planirana investicija ne smije rezultirati zahvaćanjima iznad maksimalne količine zahvaćanja na snazi 31. listopada 2013. godine niti smanjenjem protoka u pogođenim vodnim tijelima ispod minimalno potrebne razine na snazi 31. listopada 2013. godine.
+2. Investicija mora biti vezana isključivo uz novu infrastrukturu za navodnjavanje, koja dovodi do povećanja neto navodnjavanog područja.
+3. Mjerenje zahvaćenih količina vode mora biti uspostavljeno ili se mora uspostaviti kao dio investicije na razini ulaganja za koje se

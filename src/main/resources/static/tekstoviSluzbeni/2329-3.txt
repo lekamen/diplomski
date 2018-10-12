@@ -1,0 +1,28 @@
+ postaje u skladu s Tablicom 2.
+Tablica 2.
+Br. Vrsta radijske postaje Godišnja naknada (u kunama) 1. Nepokretna radijska postaja kao repetitor u privatnoj pokretnoj mreži, za svaki par radijskih frekvencija (Tx/Rx) 650,00 2. Nepokretna radijska postaja kao repetitor u javnoj pokretnoj mreži za zatvorene grupe korisnika i u privatnoj telemetrijskoj mreži, za svaki par radijskih frekvencija (Tx/Rx) 650,00 3. Nepokretna radijska postaja kao osnovna postaja u javnoj pokretnoj mreži za zatvorene grupe korisnika, za svaki par radijskih frekvencija (Tx/Rx) 650,00 4. Nepokretna radijska postaja kao osnovna postaja u privatnoj pokretnoj mreži, za svaki par radijskih frekvencija (Tx/Rx) 650,00 5. Nepokretna radijska postaja kao krajnja postaja u javnoj pokretnoj mreži za zatvorene grupe korisnika 50,00 6. Nepokretna radijska postaja kao krajnja postaja u govornoj i telemetrijskoj mreži 50,00 7. Pokretna radijska postaja u javnoj pokretnoj mreži za zatvorene grupe korisnika 25,00 8. Pokretna radijska postaja u privatnoj pokretnoj telekomunikacijskoj mreži 25,00 9. Ostale nepokretne radijske postaje 2.000,00 10. Radijska postaja za posebne primjene, ukoliko je tako propisano odgovarajućim planom dodjele radiofrekvencijskog spektra 50,00
+(2) Naknada za uporabu radiofrekvencijskog spektra za mrežu u simpleks i dupleks načinu rada koje sadrže isključivo krajnje radijske postaje, utvrđuje se prema području pokrivenosti komunikacijske mreže uz uporabu radiofrekvencijskog spektra u skladu s Tablicom 3.
+Tablica 3.
+Br. Područje pokrivenosti komunikacijske mreže Godišnja naknada (u kunama) 1. Područje Republike Hrvatske 1.500,00 2. Područje od dviju do šest susjednih županija 750,00 3. Područje do jedne županije 250,00
+Iznos naknade za javnu pokretnu mrežu
+Članak 16.
+(1) Naknada za uporabu radiofrekvencijskog spektra za javnu pokretnu mrežu, osim mreža iz članka 17. ovog Pravilnika, utvrđuje se prema dodijeljenom radiofrekvencijskom spektru u skladu s Tablicom 4.
+Tablica 4.
+Br. Vrsta javne pokretne komunikacijske mreže Godišnja naknada (u kunama) 1. Javna pokretna komunikacijska mreža po dodijeljenom MHz 100.000,00
+(2) Ako je podnositelju zahtjeva ili nositelju dozvole dodijeljen radiofrekvencijski spektar druge širine pojasa od 1 MHz, naknada se razmjerno mijenja.
+Naknada za sustav za pozivanje osoba
+Članak 17.
+Za uporabu radiofrekvencijskog spektra u sustavu za pozivanje osoba naknada se utvrđuje prema vrsti radijske postaje u skladu s Tablicom 5.
+Tablica 5.
+Br. Vrsta radijske postaje Godišnja naknada (u kunama) 1. Osnovna postaja u jednosmjernom sustavu za pozivanje osoba (on site paging u RDS sustavu) i osnovna postaja u dvosmjernom sustavu za pozivanje osoba (paging) 500,00
+Naknada za mrežu točka – više točaka
+Članak 18.
+Naknada za mrežu točka – više točaka se utvrđuje prema dodijeljenom radiofrekvencijskom spektru i području za koje je dodijeljena dozvola u skladu s Tablicom 6.
+Tablica 6.
+Br. Godišnja naknada (u kunama), pri čemu je B, dodijeljeni neupareni radiofrekvencijski spektar, izražen u MHz Republika Hrvatska Regija s više od 1.000.000 stanovnika Grad Zagreb ili regija do 1.000.000 stanovnika Županija s više od 300.000 stanovnika Županija do 300.000 stanovnika 1. B x 3.600,00 B x 1.350,00 B x 800,00 B x 350,00 B x 150,00
+Naknada za zrakoplovne, pomorske, radiolokacijske, radionavigacijske službe te službe plovidbe unutarnjim vodama
+Članak 19.
+Naknada za uporabu radiofrekvencijskog spektra, koji je namijenjen isključivo zrakoplovnoj ili pomorskoj službi, radiolokacijskoj ili radionavigacijskoj službi te službi plovidbe unutarnjim vodama, iznosi 50,00 kuna, neovisno o vrsti radijske postaje.
+Naknada u zemaljskoj radiodifuziji
+Članak 20.
+(1) Za sve radijske postaje koje sukladno koncesijskom ugovoru i/ili dozvoli za uporabu radiofrekvencijskog spektra odašilju u istoj radiodifuzijskoj mreži, naknada se utvrđuje prema broju stanovnika na predviđenom području pokrivenosti svih odašiljača u toj radiodifuzijskoj mreži, frekvencijskom pojasu

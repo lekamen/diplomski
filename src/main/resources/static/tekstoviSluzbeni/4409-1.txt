@@ -1,0 +1,20 @@
+ dužnost u operativnoj snazi, završena osposobljavanja.
+Članak 6.
+Evidencija operativnih snaga Hrvatskog Crvenog križa (E-HCK) iz priloga 3., koji je sastavni dio ovog Pravilnika, sadrži sljedeće podatke: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte, naziv operativne snage i dužnost u operativnoj snazi, završena osposobljavanja.
+Članak 7.
+Evidencija operativnih snaga Hrvatske gorske službe spašavanja (E-HGSS) iz priloga 4., koji je sastavni dio ovog Pravilnika, sadrži sljedeće podatke: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte, naziv operativne snage i dužnost u operativnoj snazi, završena osposobljavanja.
+Članak 8.
+Evidencija ostalih udruga (EU) iz priloga 5., koji je sastavni dio ovog Pravilnika, sadrži:
+a) podatke o udruzi: puni i skraćeni naziv, datum upisa u Registar udruga Republike Hrvatske, registarski broj, osobni identifikacijski broj (OIB), ulica i kućni broj sjedišta, mjesto sjedišta, broj telefona, telefaksa i mobitela, adresu elektroničke pošte i razradu djelatnosti prema Klasifikaciji djelatnosti udruga, Pravilniku o sadržaju i načinu vođenja Registra udruga Republike Hrvatske i Registra stranih udruga u Republici Hrvatskoj (»Narodne novine«, broj 4/15)
+b) podatke o osobi ovlaštenoj za zastupanje udruge: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte i dužnost
+c) podatke o operativnim članovima udruge: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, broj telefona i mobitela, adresu elektroničke pošte i dužnost.
+Članak 9.
+Evidencija pripadnika postrojbi i povjerenika civilne zaštite (E-PPCZ) iz priloga 6., koji je sastavni dio ovog Pravilnika, sadrži:
+I. opće podatke: ime, prezime, ime jednog roditelja, spol (M, Ž), datum rođenja (dan, mjesec i godina), mjesto rođenja, država rođenja, osobni identifikacijski broj (OIB), ulica i kućni broj prebivališta, mjesto prebivališta, naziv banke i IBAN broj
+II. podatke o zvanju, zanimanju i zaposlenju: stupanj školske ili stručne spreme, zvanje (po diplomi ili svjedodžbi), zanimanje (posao koji obavlja), vozačka dozvola (kategorija), naziv poslodavca, naziv radnog mjesta, mjesto rada
+III. podatke o obiteljskom i zdravstvenom stanju: bračno stanje, broj djece, broj djece mlađe od 10 godina života, broj djece do 15 godina života, skrbnik osobe s invaliditetom, zdravstveno stanje (dobro, nije dobro), visina, težina, krvna grupa (A, B, AB, 0), Rh faktor (+,–)
+IV. podatke o kontaktima: broj telefona (u stanu, na radnom mjestu), broj mobitela (privatnog, službenog), adresu elektroničke pošte (privatnu, službenu)
+V. podatke o rasporedu u civilnu zaštitu i iskaznici civilne zaštite: naziv postrojbe civilne zaštite, povjerenik civilne zaštite za područje, datum rasporeda, datum ukidanja rasporeda, razlog ukidanja rasporeda, dužnost u postrojbi civilne zaštite, mobilizacijsko zborište (naziv, ulica i kućni broj i mjesto), iskaznica civilne zaštite (datum izdavanja, broj iskaznice i datum vraćanja)
+VI. podatke o smotrama, osposobljavanjima i vježbama: smotre (trajanje, ukupno sati) osposobljavanja (naziv programa, trajanje, ukupno sati), vježbe (naziv vježbe, trajanje, ukupno sati).
+Članak 10.
+Evidencija koordinatora na lokaciji (E-KL) iz priloga 7., koji je sastavni dio ovog Pravilnika, sadrži sljedeće podatke o koordinatorima na lokaciji: ime, prezime, ime jednog roditelja, datum rođenja (dan, mjesec i godina), osobni identifikacijski broj (OIB), ulica i kućni broj

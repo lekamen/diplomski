@@ -1,0 +1,50 @@
+strukture aerodroma,
+b) promjeni uprave operatora aerodroma,
+c) promjeni operatora aerodroma,
+d) promjeni granica aerodroma.
+DIO ČETVRTI AERODROMSKI PRIRUČNIK, NAPUTAK O UPORABI AERODROMA, AERODROMSKI PROGRAM ZAŠTITE I PLAN ALTERNATIVNIH MJERA ZAŠTITE
+Opće odredbe o aerodromskom priručniku
+Članak 14.
+(1) Aerodromski priručnik mora biti oblikom i formatom jednostavan za primjenu te ovjeren od odgovorne osobe operatora aerodroma.
+(2) U cilju omogućavanja jednostavnog dokumentiranja i praćenja svih izmjena i dopuna aerodromskog priručnika, operator aerodroma je obvezan definirati i primijeniti sustav za utvrđivanje aktualne verzije dokumenta (upisivanje revizija).
+(3) Aerodromski priručnik mora biti izrađen na način da omogući jednostavan postupak provjere u postupku odobravanja.
+(4) Operator aerodroma mora osigurati da aerodromski priručnik uvijek sadržava točne informacije na način da sve promjene bez odgađanja unese u aerodromski priručnik.
+(5) Operator aerodroma mora ishoditi suglasnost Agencije za sve izmjene i dopune aerodromskog priručnika, kako bi iste bile valjane.
+(6) Agencija odobrava aerodromski priručnik i sve njegove izmjene i dopune ukoliko udovoljava uvjetima propisanim ovim člankom i člankom 15. ovoga Pravilnika.
+(7) Operator aerodroma mora osigurati da najmanje jedna kopija aktualne verzije aerodromskog priručnika bude dostavljena:
+a) svakom pružatelju zemaljskih usluga na tom aerodromu,
+b) svakom korisniku usluga aerodroma koji samostalno obavlja zemaljske usluge, te
+c) nadležnom pružatelju usluga u zračnoj plovidbi.
+Sadržaj aerodromskog priručnika
+Članak 15.
+(1) Obvezni sadržaj aerodromskog priručnika je:
+1. Opće odredbe,
+2. Podaci o položaju aerodroma,
+3. Podaci o aerodromu koji se objavljuju u Zborniku zrakoplovnih informacija (AIP)
+4. Operativni postupci na aerodromu i sigurnosne mjere:
+4.1 Postupak objavljivanja promjena (NOTAM) svih pokazatelja bitnih za sigurnost zračnog prometa na aerodromu,
+4.2 Postupci za pristup operativnoj površini (Movement Area),
+4.3 Postupci za slučaj izvanrednog događaja na aerodromu (Emergency Plan),
+4.4 Postupci o radu spasilačko-vatrogasne službe na aerodromu,
+4.5 Postupci kontrole operativne površine i površina s ograničenjem prepreka od strane operatora aerodroma,
+4.6 Postupci za kontrolu oznaka i znakova te sustava prilaznih svjetala i sustava rasvjete operativne površine na aerodromu,
+4.7 Postupci za održavanje objekata, opreme i instalacija na aerodromu,
+4.8 Sigurnosni postupci tijekom izvođenja radova na i oko operativne površine,
+4.9 Upravljanje postupcima na stajanci (Apron Management),
+4.10 Upravljanje sigurnošću na stajanci (Apron Safety Management),
+4.11 Postupci za kretanje vozila na i oko operativne površine,
+4.12 Postupci zaštite zrakoplova od ptica i drugih životinja na području aerodroma te popis odgovarajuće opreme,
+4.13 Karta prepreka u prostoru s obzirom na kategoriju prilaza zrakoplova aerodromu te praćenje i evidentiranje svih promjena
+4.14 Načini uklanjanja onesposobljenog zrakoplova s operativne površine te popis odgovarajuće opreme,
+4.15 Načini za sigurno rukovanje, skladištenje i prijevoz opasnih roba,
+4.16 Postupci u slučaju smanjene vidljivosti,
+4.17 Postupci za zaštitu radara i drugih navigacijskih uređaja na aerodromu,
+5. Podaci o upravi aerodroma i sustavu upravljanja sigurnošću:
+5.1 Uprava aerodroma (shema organizacijske strukture, popis rukovodećeg osoblja),
+5.2 Sustav upravljanja sigurnošću (Safety Management System).
+(2) Objašnjenja uz svaku točku aerodromskog priručnika nalaze se u Dodatku 3 ovoga Pravilnika.
+Opće odredbe o naputku o uporabi aerodroma
+Članak 16.
+(1) Naputak o uporabi aerodroma mora biti oblikom i formatom jednostavan za primjenu te ovjeren od odgovorne osobe operatora aerodroma.
+(2) U cilju omogućavanja jednostavnog dokumentiranja i praćenja svih izmjena i dopuna naputka o uporabi aerodroma, operator aerodroma je obvezan definirati i primijeniti sustav za utvrđivanje aktualne verzije dokumenta (upisivanje revizija).
+(3)

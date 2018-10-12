@@ -1,0 +1,37 @@
+ plaće odnosno naknade plaće koji je isplaćen sukladno članku 20.b Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca, kao prilog nalogu.
+(3) Na temelju naloga iz stavka 1. ovoga članka, Financijska agencija izvršit će u Očevidniku redoslijeda osnova za plaćanje umanjenje iznosa iz osnove za plaćanje iz članka 3. ovoga Pravilnika za iznos isplaćenog dijela plaće odnosno naknade plaće. Za preostali nenaplaćeni dio, osnova za plaćanje ostaje evidentirana u Očevidniku redoslijeda osnova za plaćanje.
+Članak 6.
+(1) Obavijest središnjeg tijela državne uprave nadležnog za financije o činjenici neisplate plaće odnosno naknade plaće dostavlja se središnjem tijelu državne uprave nadležnom za nadzor primjene propisa o radu elektroničkim putem.
+(2) Obavijest Agencije o činjenici da je poslodavac kojem je blokiran račun podnio zahtjev za isplatu plaće odnosno naknade plaće dostavlja se središnjem tijelu državne uprave nadležnom za nadzor primjene propisa o radu elektroničkim putem.
+Članak 7.
+Detaljna pravila o razmjeni podataka središnjeg tijela državne uprave nadležnog za financije, Financijske agencije, Agencije i Agencije za podršku informacijskim sustavima i informacijskim tehnologijama (APIS IT d.o.o.) uredit će se protokolom.
+II. SADRŽAJ OBRAZACA
+Članak 8.
+(1) Zahtjev za prisilnu naplatu mora sadržavati:
+1) podatke o radniku/ovrhovoditelju (ime i prezime, adresa, OIB),
+2) podatke o poslodavcu/ovršeniku (ime i prezime/naziv, adresa/sjedište, OIB, ime i prezime/adresa/OIB punomoćnika),
+3) podatke o poslodavcu koji je izdao obračun neisplaćene plaće odnosno naknade plaće (ime i prezime/naziv, adresa/sjedište, OIB) s nadnevkom obračuna,
+4) podatke o računu ovrhovoditelja (broj računa, IBAN, poziv na broj odobrenja) i
+5) potpis poslodavca/punomoćnika, pečat, nadnevak i mjesto.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se na obrascu (ZPN-01) koji je sastavni dio ovoga Pravilnika.
+Članak 9.
+(1) Zahtjev za isplatu plaće odnosno naknade plaće u visini minimalne plaće mora sadržavati:
+1) podatke o poslodavcu (puni naziv/ime i prezime, oblik organiziranja, adresa sjedišta, matični broj i OIB),
+2) razdoblje za koje se zahtijeva isplata (mjesec i godina),
+3) broj radnika kojima za navedeno razdoblje nije isplaćena plaća/naknada plaće,
+4) broj radnika kojima je za navedeno razdoblje djelomično isplaćena plaća/naknada plaće u iznosu manjem od minimalne plaće,
+5) izjavu poslodavca da je za svakog radnika iz točaka 3. i 4. ovoga stavka podnio Financijskoj agenciji zahtjev za prisilnu naplatu uz obračun neisplaćene plaće/naknade plaće za navedeni mjesec, kojim zahtijeva provedbu ovrhe na svojim novčanim sredstvima u korist radnika,
+6) podatak o nadnevku blokade računa i
+7) ukupni iznos zahtijevane isplate.
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se na obrascu (ZMP-01) koji je sastavni dio ovoga Pravilnika, uz specifikaciju i raspored minimalne plaće odnosno specifikaciju i raspored razlike između minimalne plaće i djelomično isplaćene plaće/naknade plaće, kao prilog zahtjevu.
+Članak 10.
+(1) Nalog za povlačenje s naplate dijela zahtjeva za prisilnu naplatu mora sadržavati:
+1) broj zahtjeva za prisilnu naplatu iz Očevidnika redoslijeda osnova za plaćanje,
+2) podatke o poslodavcu/ovršeniku koji je podnio zahtjev za prisilnu naplatu (ime i prezime/tvrtka, adresa/sjedište, OIB),
+3) podatke o radniku/ovrhovoditelju u čiju korist se provodi ovrha na novčanim sredstvima (ime i prezime, adresa, OIB) i
+4) potpis, pečat, nadnevak i mjesto.
+(2) Specifikacija iznosa dijela plaće odnosno naknade plaće koji je isplaćen sukladno članku 20.b Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca je prilog nalogu iz stavka 1. ovoga članka i mora sadržavati:
+1) podatke o poslodavcu (ime prezime/tvrtka, adresa/sjedište, OIB, IBAN broj računa),
+2) podatke o radniku (ime i prezime, adresa, OIB, IBAN broj računa),
+3) razdoblje na koje se odnosi isplaćeni dio plaće odnosno naknade plaće,
+4) podatke o isplati dijela plaće odnosno

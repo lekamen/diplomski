@@ -1,0 +1,26 @@
+ administriranje novom depozitaru s kojim društvo za upravljanje zaključi ugovor o obavljanju poslova depozitara i za kojeg dobije odobrenje Agencije, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje UCITS fonda za koji je do tada obavljao poslove depozitara, i to bilo u pisanom bilo u elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.
+POGLAVLJE VI.
+Članak 235.
+(1) Depozitar mora na zahtjev svojih nadležnih tijela dostaviti sve podatke i dati sve informacije koje je dobio, prikupio i saznao obavljajući poslove određene ovim Zakonom, a koje su nadležnim tijelima depozitara, nadležnom tijelu UCITS fonda ili nadležnom tijelu društva za upravljanje UCITS fondom potrebne za obavljanje njihovih djelatnosti.
+(2) Ako je nadležno tijelo UCITS fonda ili društva za upravljanje različito od nadležnih tijela depozitara, nadležna tijela depozitara dužna su bez odgode proslijediti sve podatke i informacije iz stavka 1. ovoga članka nadležnim tijelima UCITS fonda i društva za upravljanje UCITS fondom.
+Članak 236.
+Na pisani ugovor iz članka 216. stavka 1. ovoga Zakona sklopljen između depozitara i društva za upravljanje primjenjuje se pravo matične države članice UCITS fonda.
+Članak 237.
+(1) Izdano odobrenje na izbor depozitara prestaje važiti:
+1. danom otvaranja stečajnog postupka nad depozitarom
+2. danom otvaranja postupka likvidacije depozitara ili
+3. danom oduzimanja odobrenja za rad kreditnoj instituciji ili podružnici kreditne institucije iz članka 216. stavka 3. ovoga Zakona, od strane nadležnog tijela koje mu je to odobrenje izdalo.
+(2) Agencija će ukinuti izdano odobrenje na izbor depozitara u sljedećim slučajevima:
+1. ako je odobrenje izdano na temelju neistinitih, netočnih podataka ili podataka koji dovode u zabludu, odnosno na koji drugi nepropisan način
+2. ako depozitar prestane ispunjavati uvjete pod kojima je odobrenje izdano
+3. ako Agencija utvrdi da depozitar ne ispunjava svoje dužnosti u skladu s preuzetim obvezama i/ili odredbama ovoga Zakona, osobito u odnosu na delegirane poslove
+4. ako postoje okolnosti koje dovode u sumnju sposobnost depozitara za uredno, pravovremeno i kvalitetno ispunjenje dužnosti u skladu s preuzetim obvezama i/ili odredbama ovoga Zakona
+5. ako depozitar sustavno i/ili teško krši odredbe ovoga Zakona ili prospekta UCITS fonda ili
+6. kada Agencija opravdano sumnja da društvo za upravljanje i depozitar djeluju u dosluhu na štetu interesa ulagatelja u UCITS fond.
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka društvo za upravljanje je dužno u roku od 30 dana od prestanka važenja odnosno ukidanja odobrenja na izbor depozitara zaključiti ugovor s drugim depozitarom i podnijeti zahtjev za izdavanje odgovarajućeg odobrenja Agencije u skladu s odredbama ovoga Zakona.
+(4) Agencija će o zahtjevu iz stavka 3. ovoga članka odlučiti u roku od 15 dana od dana zaprimanja urednog zahtjeva.
+(5) U slučaju da društvo za upravljanje ne postupi u skladu sa stavkom 3. ovoga članka ili ako Agencija odbije ili odbaci zahtjev iz stavka 4. ovoga članka, UCITS fondovi za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu s odredbama dijela trinaestoga ovoga Zakona.
+(6) Društvo za upravljanje dužno je obustaviti izdavanje i otkup udjela UCITS fonda dok novi depozitar ne počne obavljati poslove depozitara, pri čemu je dužno pridržavati se članka 177. ovoga Zakona.
+(7) Agencija će pravilnikom detaljnije propisati način postupanja društva za upravljanje i depozitara u slučajevima iz stavaka 1. i 2. ovoga članka.
+Članak 238.
+(1) Depozitar je dužan uspostaviti i provoditi te redovito ažurirati, procjenjivati i nadzirati učinkovite i primjerene politike i postupke u skladu s kojima njegovi radnici mogu preko posebnog, neovisnog i samostalnog internog kanala prijaviti svaku povredu odredaba ovoga Zakona i/ili na temelju njega donesenih propisa u poslovanju depozitara, odnosno sumnju na takvu povredu, osobi odgovornoj za funkciju

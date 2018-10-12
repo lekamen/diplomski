@@ -1,0 +1,33 @@
+ proizvoda: koliko je dostavljeno na mjesto provođenja ispitivanja, koliko podijeljeno ispitanicima, koliko vraćeno od ispitanika, koliko vraćeno naručitelju ispitivanja. X                    X 8.4.2. DOKUMENTACIJA O UNIŠTENJU ISPITIVANOG PROIZVODA Dokumentirati uništenje neuporabljenih ispitivanih proizvoda na mjestu ispitivanja ili u organizaciji naručitelja ispitivanja. X (ako je uništeno na mjestu provođenja ispitivanja) X 8.4.3. POTPUNI POPIS IDENTIFIKACIJSKIH OZNAKA ISPITANIKA Omogućiti identifikaciju svih ispitanika koji su sudjelovali u ispitivanju za potrebe njihova praćenja. Popis valja čuvati u tajnosti u dogovorenom trajanju. X   8.4.4. POTVRDA O NADZORU (gdje je dostupna) Dokumentirati da je obavljen nadzor.   X 8.4.5. KONAČNI IZVJEŠTAJ O MOTRENJU KOD ZATVARANJA ISPITIVANJA Dokumentirati da su sve djelatnosti za zatvaranje ispitivanja dovršene, a primjerci osnovnih dokumenata pohranjeni u odgovarajuće spise.   X 8.4.6. DOKUMENTACIJA O DODJELI TERAPIJE I DEŠIFRIRANJU Vraća se naručitelju ispitivanja radi dokumentiranja eventualnih postupaka dešifriranja.   X 8.4.7. KONAČNI IZVJEŠTAJ KOJI ISPITIVAČ DOSTAVLJA POVJERENSTVU I/ILI NADLEŽNIM TIJELIMA Dokumentirati dovršenje ispitivanja. X   8.4.8. IZVJEŠTAJ O KLINIČKOM ISPITIVANJU/STUDIJI Dokumentirati rezultate ispitivanja i njihovo tumačenje. X (gdje je potrebno) X
+PRILOG II.
+Europska agencija za lijekove
+Ocjena lijekova za ljudsku uporabu
+London, 27. srpnja 2000.
+CPMP/ICH/2711/99
+ICH tema E 11
+KLINIČKA ISPITIVANJA LIJEKOVA KOD DJECE
+4. korak ICH-ova postupka
+SMJERNICE ZA KLINIČKA ISPITIVANJA LIJEKOVA KOD DJECE (CPMP/ICH/2711/99)
+Stupanje na snagu: siječanj 2001.
+KLINIČKA ISPITIVANJA LIJEKOVA KOD DJECE
+1. UVOD
+1.1. Ciljevi smjernice
+Izbor lijekova registriranih za primjenu u djece zasada je ograničen. Cilj je ove smjernice potaknuti i olakšati pravodoban razvoj lijekova za djecu na međunarodnoj razini. Ova smjernica daje kratak pregled ključnih pitanja vezanih uz razvoj lijekova za djecu te različitih pristupa za postizanje sigurnih, uspješnih i etički opravdanih ispitivanja lijekova kod djece.
+1.2. Polazište
+ICH-ovi dokumenti važni za ispitivanja u djece obuhvaćaju:
+E2: Upravljanje podacima o neškodljivosti
+E3: Sastavljanje i sadržaj izvještaja o kliničkom ispitivanju
+E4: Podaci o ovisnosti učinkovitosti o dozi pri registraciji lijeka
+E5: Etnički čimbenici koji utječu na prihvaćanje kliničkih podataka iz drugih zemalja
+E6: Dobra klinička praksa: objedinjene smjernice
+E8: Opća razmatranja vezana uz klinička ispitivanja
+E9: Statistička načela koja se primjenjuju u kliničkim ispitivanjima
+E10: Izbor kontrolne skupine za kliničko ispitivanje
+M3: Pretklinička ispitivanja neškodljivosti farmaceutskih proizvoda za provedbu kliničkih ispitivanja u ljudi
+Q1: Testiranje stabilnosti
+Q2: Validacija analitičkih postupaka
+Q3: Testiranje nečistoće
+1.3. Opseg Smjernice
+Ova smjernica obuhvaća sljedeća pitanja vezana uz klinička ispitivanja kod djece: (1) razmatranja vezana uz uvođenje programa ispitivanja lijeka kod djece; (2) planiranje početka ispitivanja kod djece s obzirom na razvojnu fazu lijeka ; (3) vrste ispitivanja (farmakokinetike, farmakokinetike/farmakodinamike, učinkovitosti, neškodljivosti); (4) dobne skupine i (5) etičku opravdanost kliničkih ispitivanja kod djece. Namjera ovih smjernica nije dati detaljan pregled svih pitanja; ona su podrobnije razrađena u drugim ICH-ovim smjernicama i dokumentima regulacijskih tijela i pedijatrijskih udruženja pojedinih zemalja.
+1.4. Opća načela
+Djeca smiju dobivati samo one lijekove koji su primjereno provjereni i ocijenjeni prikladnima za primjenu u djece. Za sigurno i učinkovito liječenje djece potrebna su pravodobna saznanja o pravilnoj primjeni lijekova kod djece različite dobi, a često je potreban i razvoj formulacija koje su prikladne za primjenu kod djece. Napredak u kemiji formulacija te u izradi plana ispitivanja za djecu olakšat će razvoj lijekova za primjenu kod djece. Općenito kada se radi o lijekovima za bolesti ili

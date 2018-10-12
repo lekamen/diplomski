@@ -1,0 +1,21 @@
+107/14.), i ugovor o tržišnoj premiji iz članka 32. ovoga Zakona, nema pravo na poticaje zajamčenom otkupnom cijenom sukladno odredbama ovoga Zakona za proizvodna postrojenja, odnosno proizvodne jedinice za koje ostvaruje pravo na poticaje.
+Natječaj za poticanje zajamčenom otkupnom cijenom
+Članak 34.
+(1) Pravo na sklapanje ugovora o otkupu električne energije zajamčenom otkupnom cijenom iz članka 35. ovoga Zakona ostvaruju nositelji projekata koji su izabrani kao najpovoljniji ponuđači na javnom natječaju koji priprema i provodi operator tržišta električne energije najmanje jednom godišnje, javnim prikupljanjem ponuda u slučaju raspoloživosti kvota za poticanje.
+(2) Na temelju provedenog javnog natječaja operator tržišta električne energije donosi odluku o odabiru najpovoljnijih ponuđača.
+(3) Pravo sudjelovanja na natječaju iz stavka 1. ovoga članka, u skladu s uvjetima utvrđenim u javnom pozivu za javno prikupljanje ponuda, ima nositelj projekta za izgradnju novog proizvodnog postrojenja, odnosno proizvodne jedinice.
+(4) Javni poziv za javno prikupljanje ponuda iz stavka 1. ovog članka mora minimalno sadržavati:
+1. odredbu o klasifikaciji proizvodnih postrojenja
+2. odredbu o maksimalnim zajamčenim otkupnim cijenama, prema klasifikaciji proizvodnih postrojenja
+3. odredbu da se najpovoljnijim ponuđačima smatraju nositelji projekta koji ispunjavaju natječajne uvjete čija je ponuđena cijena električne energije manja ili jednaka maksimalnoj zajamčenoj otkupnoj cijeni iskazanoj u javnom pozivu, i koji su ponudili najnižu cijenu električne energije
+4. odredbu da se najpovoljniji ponuđač bira u granicama raspoložive kvote.
+(5) Uvjete natječaja, rokove, način provedbe natječaja i sadržaj javnog poziva za javno prikupljanje ponuda te klasifikaciju proizvodnih postrojenja ovisno o vrsti izvora, tehnologiji i instaliranoj snazi proizvodnog postrojenja za koja će se provoditi javni natječaji utvrdit će ministar pravilnikom iz članka 25. ovoga Zakona.
+Ugovor o otkupu električne energije zajamčenom otkupnom cijenom
+Članak 35.
+(1) Temeljem odluke o odabiru najpovoljnijih ponuđača iz članka 34. stavka 3. ovoga Zakona operator tržišta električne energije sklapa ugovor o otkupu električne energije zajamčenom otkupnom cijenom s nositeljem projekta po otkupnoj cijeni koju je nositelj projekta ostvario na natječaju iz članka 34. ovoga Zakona.
+(2) Otkupna cijena iz stavka 1. ovog članka nepromjenljiva je za vrijeme trajanja ugovora o otkupu električne energije zajamčenom otkupnom cijenom osim za iznos godišnje korekcije prema stavku 6. ovog članka.
+(3) Iznose maksimalne zajamčene otkupne cijene električne energije utvrđuje operator tržišta električne energije, na temelju metodologije za izračun maksimalnih zajamčenih otkupnih cijena propisane pravilnikom iz članka 25. ovoga Zakona, jednom godišnje i objavljuje na svojim mrežnim stranicama te koristi za potrebe provedbe natječaja iz članka 34. ovoga Zakona.
+(4) Ugovorom o otkupu električne energije zajamčenom otkupnom cijenom iz stavka 1. ovog članka utvrđuje se otkupna cijena za pojedino proizvodno postrojenje, odnosno proizvodnu jedinicu, koja proizlazi iz natječajnog postupka iz članka 34. ovoga Zakona.
+(5) Zajamčena otkupna cijena u obračunskom razdoblju isplaćuje se za neto isporučenu električnu energiju.
+(6) Visina otkupne cijene koja je utvrđena sklopljenim ugovorom o otkupu električne energije zajamčenom otkupnom cijenom korigira se svake godine u odnosu na utvrđenu korigiranu otkupnu cijenu iz prethodne godine primjenom Prosječnog godišnjeg indeksa potrošačkih cijena koji objavljuje Državni zavod za statistiku za prethodnu kalendarsku godinu za sve sklopljene valjane ugovore o otkupu električne energije zajamčenom otkupnom cijenom. Prva korekcija otkupne cijene primjenjuje se u kalendarskoj godini koja slijedi godinu u kojoj je sklopljen ugovor o otkupu električne energije zajamčenom otkupnom cijenom.
+(7) Zajamčena otkupna cijena počinje se isplaćivati nakon što nositelj projekta za

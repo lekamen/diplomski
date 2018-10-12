@@ -1,0 +1,34 @@
+ jedinstvenu primjenu Odluke o izvješćivanju o planovima financiranja, koja je sastavni dio ove Odluke.
+(2) Izvještaji iz članka 3. točaka od 1. do 12. ove Odluke dostavljaju se u skladu s informatičkim rješenjima iz Odluke o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013.
+(3) Izvještaj iz članka 3. točaka od 13. do 16. ove Odluke dostavlja se u obliku dokumenta u excelu na e-adresu bonitetno.izvjescivanje@hnb.hr.
+(4) Smatra se da je kreditna institucija Hrvatskoj narodnoj banci dostavila izvještaje iz članka 3. ove Odluke ako su ispunjeni svi sljedeći uvjeti:
+1) izvještaji su zaprimljeni u Hrvatskoj narodnoj banci u rokovima iz članka 5. ove Odluke,
+2) svi izvještaji koje je dostavila kreditna institucija ispunjavaju tehničke zahtjeve i kontrole propisane Uputom za jedinstvenu primjenu Odluke o izvješćivanju o planovima financiranja i Uputom za sastavljanje i dostavljanje izvještaja iz Uredbe koja je sastavni dio Odluke o provedbi Provedbene uredbe Komisije (EU) br. 680/2014 o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 i
+3) izvještaji su zadovoljili validacijska pravila koja objavljuje Europsko nadzorno tijelo za bankarstvo na svojoj internetskoj stranici i koja vrijede za određeni izvještajni datum.
+(5) Kreditna institucija dužna je, ako Hrvatska narodna banka utvrdi pogreške u obrascu, sastaviti i dostaviti novo, ispravljeno izvješće u roku koji odredi Hrvatska narodna banka, a koji ne može biti duži od pet radnih dana.
+(6) Zahtjev za naknadnu izmjenu izvještaja iz članka 3. nakon rokova iz članka 5. ove Odluke može uložiti samo uprava kreditne institucije ili osoba koju je ona za to u pismenom obliku ovlastila.
+Rokovi dostavljanja izvještaja
+Članak 5.
+Kreditna institucija dužna je izvještaje iz članka 3. ove Odluke dostavljati Hrvatskoj narodnoj banci najkasnije do 31. ožujka tekuće godine, a sa stanjem na dan 31. prosinca prethodne kalendarske godine.
+Kvalitativni zahtjevi za planove financiranja
+Članak 6.
+(1) Kreditna institucija dužna je uspostaviti internu politiku za transakcije koje smatra inovativnima.
+(2) Kreditna institucija dužna je donijeti interni dokument o procjeni cijena u kojemu će pojasniti makroekonomske faktore koji utječu na stope koje ulaze u obuhvat tablica 2B – Određivanje cijena.
+(3) Kreditna institucija dužna je odrediti specifične interne postupke koji materijalno utječu na cjenovnu strategiju pri provođenju poslovanja (npr. sužavanje/širenje marži, materijalno povećanje izvora sredstava pružajući kompetitivne cijene).
+Prijelazne i završne odredbe
+Članak 7.
+Iznimno od članka 5. ove Odluke, prve izvještaje iz članka 3. ove Odluke kreditna institucija dužna je dostaviti do 30. rujna 2015. prema stanju na dan 30. lipnja 2015.
+Stupanje na snagu
+Članak 8.
+Ova Odluka stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+O.br: 186-020/07-15/BV
+Zagreb, 2. srpnja 2015.
+Guverner prof. dr. sc. Boris Vujčić, v. r.
+UPUTA ZA JEDINSTVENU PRIMJENU ODLUKE O IZVJEŠĆIVANJU O PLANOVIMA FINANCIRANJA
+Ovom se Uputom pobliže propisuju sadržaj, oblik i način popunjavanja izvještaja u vezi s planovima financiranja, koje je kreditna institucija dužna dostavljati na temelju Odluke o izvješćivanju o planovima financiranja (u nastavku teksta: Odluka).
+1. OPĆE ODREDBE
+Obrasci su dani u prilogu ove Upute i njezin su sastavni dio. Kreditna institucija dostavlja Hrvatskoj narodnoj banci izvješća propisana ovom Odlukom u obliku dokumenta u excelu i telekomunikacijskim putem (ili na magnetnom mediju), pridržavajući se pritom u cjelini propisanog formata pojedinog izvješća.
+1. Struktura i pravila
+1.1. Struktura
+Općenito okvir izvješćivanja o planovima financiranja čine četiri skupine obrazaca:
+a) Bilanca – Prvi dio za cilj ima stjecanje ukupnog pregleda planiranih bilančnih kretanja, a obuhvaća projekcije pozicija o aktivi 

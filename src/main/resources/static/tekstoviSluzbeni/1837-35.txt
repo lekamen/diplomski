@@ -1,0 +1,47 @@
+to:
+.1 jedan sustav za drenažu za otvorene dvostrane samonapuhavajuće splavi kapaciteta do 30 osoba.
+.2 dva sustava za drenažu za otvorene dvostrane samonapuhavajuće splavi za spašavanje kapaciteta više od 30 osoba.
+6.11.3.8 Svaka otvorena dvostrana samonapuhavajuća splav za spašavanje mora imati sljedeću opremu:
+.1 jedan plutajući kolut za izbavljanje, pričvršćen za plutajuće uže za spašavanje duljine najmanje 30 m i prekidne sile najmanje 1 kN;
+.2 dva nesklopiva noža s ručicom od plutajućeg materijala moraju biti pričvršćena za splav konopcem. Noževi moraju biti smješteni u korice tako da, bez obzira na koju se stranu splav napuše, jedan nož mora biti dostupan na površini gornje uzgonske komore na prikladnom mjestu da omogući da se vezaljka prereže;
+.3 jedan plutajući ispolac;
+.4 dvije spužve;
+.5 jedno strujno sidro stalno pričvršćeno za otvorenu dvostranu splav na način da se oslobodi kada se splav napuše. Položaj strujnog sidra mora biti jasno označen na obje uzgonske komore;
+.6 dva plutajuća vesla;
+.7 pribor za prvu pomoć u vodonepropusnoj kutiji koja se nakon upotrebe može ponovno čvrsto zatvoriti;
+.8 jedna zviždaljka ili neko drugo jednakovrijedno sredstvo za zvučnu signalizaciju;
+.9 dvije ručne buktinje;
+.10 jednu nepromočivu električnu svjetiljku pogodnu za signaliziranje Morzeovim znacima, skupa s jednim slogom rezervnih baterija i jednom rezervnom žaruljom u vodootpornom spremniku;
+.11 jedan slog pribora za zatvaranje rupa na uzgonskim komorama;
+.12 jednu pumpu ili ručni mijeh za napuhavanje;
+.13 upute za preživljavanje
+6.11.3.9 Oprema mora biti smještena u spremniku koji, ukoliko nije sastavni dio ili stalno pričvršćen za otvorenu dvostranu splav, mora biti smješten i pričvršćen u otvorenu dvostranu splav i mora plutati u vodi najmanje 30 minuta bez oštećenja njegovog sadržaja. Neovisno da li je spremnik opreme sastavni dio ili je stalno učvršćen za otvorenu dvostranu splav, oprema mora biti uvijek lako pristupačna bez obzira na koju se stranu splav napuše.
+Vezica koja povezuje spremnik opreme za otvorenu dvostranu splav mora imati prekidnu silu od 2 kN, ili prekidnu silu od 3:1 u odnosu na masu ukupne opreme spremnika, što je veće.
+6.11.4 Kontejneri otvorenih dvostranih samonapuhavajućih splavi za spašavanje
+6.11.4.1 Otvorena dvostrana splav za spašavanje mora biti smještena u kontejneru, koji mora:
+.1 biti tako izveden da može izdržati sve uvjete korištenja na moru;
+.2 skupa sa smještenom splavi s opremom, imati vlastiti uzgon dovoljan za povlačenje vezaljke i uključivanje u rad sustava za napuhavanje splavi kada brod tone;
+.3 koliko je to praktički moguće, biti vodonepropustan, izuzev izljevnih otvora na dnu kontejnera.
+6.11.4.2 Na kontejneru moraju biti oznake:
+.1 naziv ili oznaka proizvođača;
+.2 serijski broj;
+.3 broj osoba koji se na splav može smjestiti;
+.4 nije SOLAS – otvorena dvostrana;
+.5 tip sloga opreme u nuždi;
+.6 datum posljednjeg pregleda;
+.7 duljina vezaljke;
+.8 dopuštena visina postavljanja iznad vodne linije (ovisno o visini s koje je obavljeno ispitivanje bacanjem i duljini vezaljke);
+.9 upute za korištenje.
+6.11.5 Oznake na otvorenim dvostranim samonapuhavajućim spravama za spašavanje
+Na otvorenoj dvostranoj splavi za spašavanje mora označiti:
+.1 naziv ili oznaku proizvođača;
+.2 serijski broj;
+.3 datum proizvodnje (mjesec i godina);
+.4 naziv i mjesto stanice gdje je splav posljednji put pregledana;
+.5 broj osoba koje se smiju smjestiti na gornjoj površini svake uzgonske komore slovima visine najmanje 100 mm i to bojom koja se ističe u odnosu na boju komore.
+6.11.6 Upute i obavijesti
+Upute i obavijesti koje se zahtijevaju kao prilog brodskom priručniku za vježbe i upute za održavanje na brodu moraju biti u obliku prikladnom za prilog u spomenutom priručniku za vježbe i uputama za održavanje na brodu.
+Upute i obavijesti moraju biti jasne i sažete i moraju sadržavati sljedeće:
+.1 opći opis otvorene dvostrane samonapuhavajuće splavi za spašavanje i njene opreme;
+.2 plan smještaja;
+.3 upute za

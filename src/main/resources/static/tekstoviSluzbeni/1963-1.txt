@@ -1,0 +1,35 @@
+
+III. Protustranke
+5. Izvještajne institucije podatke u skladu s ovom Uputom dostavljaju za sve protustranke (rezidente i nerezidente).
+Protustrankom u smislu ove Upute ne smatra se Hrvatska narodna banka (u nastavku teksta: HNB).
+IV. Obuhvat podataka
+6. Svi podaci koji se dostavljaju u skladu s ovom Uputom odnose se na pojedinačne transakcije instrumentima definiranima Skupinom obilježja B, obilježje 9. Instrument, koje su sklopljene s protustrankama iz točke 5. ove Upute.
+Iznimno, za protustranke fizičke osobe rezidente koji nisu obrtnici te za fizičke osobe nerezidente za instrumente SPT, PSP i EFK podaci se dostavljaju na skupnoj osnovi, odnosno transakcije se agregiraju ako su sklopljene po tečajevima s tečajne liste izvještajne institucije važeće na izvještajni datum.
+V. Minimalni standardi koje su izvještajne institucije dužne poštovati
+7. Minimalni standardi koji se odnose na prijenos podataka jesu sljedeći:
+a) podaci se moraju dostavljati pravodobno, tj. u roku koji je utvrdio HNB;
+b) podaci moraju biti u modalitetu i formatu koje je u skladu s tehničkim zahtjevima za izvješćivanje utvrdio HNB;
+c) potrebno je odrediti osobu (osobe) za kontakt unutar izvještajne institucije;
+d) potrebno je pridržavati se tehničkih specifikacija za prijenos podataka HNB-u.
+8. Minimalni standardi koji se odnose na točnost jesu sljedeći:
+a) dostavljene informacije moraju biti točne; treba poštovati formalna i logička ograničenja, npr. sva polja moraju sadržavati samo propisane vrijednosti obilježja, upisane vrijednosti obilježja moraju biti usklađene s propisanim kontrolama i sl.;
+b) izvještajne institucije moraju omogućiti pružanje informacija o kretanjima koja se odnose na iskazane podatke;
+c) podaci moraju biti potpuni; eventualne praznine moraju se naznačiti, objasniti HNB-u te, ako postoje, popuniti što je prije moguće;
+d) izvještajne institucije moraju se pri iskazivanju podataka pridržavati standarda tehničkog prijenosa podataka koje je utvrdio HNB;
+e) izvještajne institucije moraju se pridržavati pravila o zaokruživanju brojeva koja je utvrdio HNB.
+9. Minimalni standardi koji se odnose na konceptualnu usklađenost jesu sljedeći:
+a) dostavljeni podaci, u dijelu kojim se opisuju iznosi i tečajevi, moraju biti usklađeni s definicijama i klasifikacijama iz ove Upute;
+b) u slučaju odstupanja od tih definicija i klasifikacija izvještajne institucije dužne su redovito pratiti i kvantificirati razliku između upotrijebljene mjere i mjere propisane ovom Uputom.
+10. Minimalni standardi koji se odnose na ispravke dostavljenih podataka jesu sljedeći:
+a) izvještajne institucije moraju se pridržavati pravila i procedura ispravljanja podataka koje je utvrdio HNB;
+b) ispravci izvještajnih institucija koji odstupaju od uobičajenih razina ispravaka moraju biti popraćeni napomenama kojima se objašnjavaju ta odstupanja.
+VI. Izvještajni zahtjev
+11. Po svojoj koncepciji izvještajni zahtjev čini izvještajni slog. Konceptualno rješenje izvještajnog sloga konkretiziraju osnovni podaci koji su predmet izvješćivanja: iznosi i tečajevi, koje je potrebno jedinstveno opisati, a čija vrijednost ne može biti nula.
+12. Opis svakog iznosa i tečaja sadržava dvije skupine obilježja:
+a) prva skupina obilježja (skupina obilježja A) omogućuje identifikaciju izvještajnog datuma, izvještajne institucije i protustranke;
+b) druga skupina obilježja (skupina obilježja B) omogućuje identifikaciju instrumenata i njihovih značajka.
+13. Pri ispunjavanju obveza iz izvještajnog zahtjeva potrebno je voditi računa o pravilima povezivanja izvješća s instrumentima i njihovim obilježjima. Ta pravila obuhvaćena su cijelom Uputom i sažeta u Prilogu 1. Upisivanje vrijednosti obilježja.
+VII. Skupina obilježja A
+14. Skupinom obilježja A identificiraju se izvještajni datum, izvještajna institucija i protustranka.
+Obilježje 1. Izvještajni datum
+Ovo obilježje omogućuje jedinstvenu identifikaciju izvještajnog datuma za koji se dostavljaju podaci. Izvještajni datum označuje datum ugovaranja

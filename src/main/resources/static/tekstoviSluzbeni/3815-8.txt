@@ -1,0 +1,37 @@
+za detekciju mina potrebno je ručnom detekcijom mina pretražiti radne staze (sigurne hodne staze) širine najmanje 2 m vodoravno i okomito, a formirana polja maksimalne veličine 100 m2 potrebno je nakon pregleda pomoću pasa za detekciju mina pregledati i ručnom detekcijom mina.
+Članak 43.
+Voditelj radilišta dužan je zaustaviti poslove razminiranja ručnom detekcijom mina odnosno ne smije niti dozvoliti početak poslova metodom ručne detekcije mina ukoliko:
+– je temperatura zraka niža od 0 i viša od 35 stupnja Celzijusa;
+– pada kiša ili snijeg;
+– magla onemogućava voditelja pirotehničke skupine da rukovodi njenim radom;
+– na izuzetno blatnom, zamrznutom i snijegom prekrivenom terenu.
+Članak 44.
+Voditelj radilišta dužan je zaustaviti postupke pronalaženja MES-a, NUS-a i njihovih dijelova psima za detekciju mina odnosno ne smije niti dozvoliti početak poslova s psima za detekciju mina ukoliko:
+– je temperatura zraka niža od 0 i viša od 35 stupnja Celzijusa;
+– je tlo zamrznuto i prekriveno snježnim pokrivačem;
+– je brzina vjetra veća od 7 metara u sekundi;
+– ako je teren izuzetno blatan i vlažan i u uvjetima kiše magle i snijega;
+– vegetacija ne dozvoljava pretraživanje;
+– prostor polja nije formiran i pravilno obilježen;
+– se pojave neplanirane prilike koje bitno otežavaju rad (plinovi, dim, strani mirisi, buka, prašina).
+Uređaj za mjerenje brzine vjetra potrebno je održavati (umjeravati) sukladno uputi proizvođača.
+Članak 45.
+Voditelj radilišta dužan je zaustaviti postupke uporabe strojeva za pripremu površine ukoliko nisu ispunjeni propisani uvjeti za rad pirotehničara koji su u pratnji stroja, te ako je vlažnost tla tolika da stroj propada u tlo do najniže točke stroja.
+VI. OBILJEŽAVANJE MSP-a
+Članak 46.
+Poslove obilježavanja MSP-a obavlja HCR na način da:
+– postavlja znakove minske opasnosti,
+– postavlja minske ograde,
+– uklanja ili premješta znakove minske opasnosti i minske ograde nakon izvršenih poslova općeg izvida-analize MSP-a, dopunskog općeg izvida, tehničkog izvida ili razminiranja,
+– kontrolira prethodno postavljene oznake minske opasnosti i minske ograde, te ponovno obilježava pozicije na kojima table i ograde nedostaju.
+Uklanjanje ili premještanje znakova minske opasnosti i minskih ograda provodi se u roku od dva tjedna nakon izdavanje potvrde o isključenju područja i/ili građevine iz MSP-a.
+Obilježavanje područja i/ili građevine koja se uključuje u MSP provodi se žurno, čim se utvrdi njihova zagađenost MES-om, NUS-om i njihovim dijelovima.
+Na temelju sigurnosnih procjena minske opasnosti, tijekom godine provodi se i dodatno višekratno kontroliranje znakova minske opasnosti i minskih ograda koji obilježavaju područja i/ili građevinu.
+Članak 47.
+Tabla minske opasnosti predstavlja osnovni način obilježavanja MSP-a i moraju jasno i vizualno upozoriti na opasnost od mina, kao i zabranu ulaska stanovništva u MSP.
+Tabla minske opasnosti postavlja se na mjestima mogućeg pristupa MSP-u (putovi, staze i druge površine gdje se očekuje kretanje ljudi), na preglednim mjestima te mora biti vidljiva i jasno prepoznatljiva s udaljenosti od najmanje 50 metara.
+Članak 48.
+Tabla minske opasnosti izrađuje se od aluminijskog lima veličine 800 × 600 mm s nosivom željeznom konstrukcijom i stupnom vertikalom table visine 2500 mm. Natpisna podloga je bijele boje. Natpis sadrži tekst: »NE PRILAZITE, NA OVOM PODRUČJU JE VELIKA OPASNOST OD MINA«. Na sredini gornje trećine table je trokutasta crvena podloga na kojoj su bijelom bojom ucrtane mrtvačka glava, prekrižene kosti i upisane riječi »MINE – MINES«. U donjem desnom kutu table ucrtan je logo HCR-a.
+HCR je dužan područja zagađena kazetnim streljivom obilježiti tablama opasnosti od NUS-a.
+Tabla opasnosti od NUS-a postavlja se na mjestima mogućeg pristupa pretpostavljenom zagađenom području od kazetnog streljiva (putovi, staze i druge površine gdje se očekuje kretanje ljudi) i postavlja se na preglednim mjestima te mora biti vidljiva i prepoznatljiva s udaljenosti od najmanje 50 metara.
+Tabla

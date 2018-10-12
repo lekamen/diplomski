@@ -1,0 +1,34 @@
+ osigurati sustav sakupljanja odlagališnog plina koji se mora obraditi i koristiti.
+4.2. Ako se sakupljeni odlagališni plinovi ne mogu upotrijebiti za dobivanje energije, treba ih spaliti na području odlagališta ili spriječiti njihovu emisiju u zrak upotrebom drugih postupaka koji su jednakovrijedni spaljivanju odlagališnih plinova.
+5. Osnovna opremljenost odlagališta
+– Na ulazu u odlagalište mora biti postavljen natpis s navedenim imenom odlagatelja, vrste odlagališta i radnim vremenom odlagališta,
+– Na uočljivom mjestu na odlagalištu mora biti istaknut plan postupaka za slučaj izvanrednog događaja,
+– Odlagalište mora biti ograđeno najmanje dva metra visokom ogradom,
+– Stalnim nadzorom treba spriječiti nenadzirani unos otpada na odlagalište,
+– Na lokaciji odlagališta moraju se nalaziti dovoljno velike površine za izvođenje postupaka preuzimanja i provjere predanog otpada te za parkiranje i okretanje dostavnih vozila,
+– Odlagalište mora biti opremljeno uređajima za sprječavanje prenošenja prašine i nečistoća s transportnih vozila s odlagališta na kolnike javnih cesta,
+– Na lokaciji odlagališta mora biti uređen dovoljan skladišni prostor za privremeno skladištenje otpada prije odlaganja,
+– Odlagalište mora imati priključak na javnu cestu,
+– Vozilo kojim se dovozi otpad do odlagališta otpada mora biti opremljeno da se spriječi rasipanje otpada, širenje prašine, buke i mirisa,
+– Na lokaciji odlagališta mora biti uređen protupožarni pojas širine 4 – 6 m.
+6. Stabilnost
+Odlaganje otpada na odlagalište provodi se tako da se osigura stabilnost otpadne mase i popratnih struktura posebno u pogledu izbjegavanja klizišta. U slučaju postavljanja umjetnog brtvenog sloja treba ispitati da li je geološki supstrat, uzimajući u obzir morfologiju odlagališta, dovoljno stabilan da spriječi slijeganje koje bi moglo izazvati štetu na umjetnom brtvenom sloju.
+7. Privremeno skladištenje elementarne žive
+Za privremeno skladištenje elementarne žive duže od jedne godine primjenjuju se sljedeći osnovni uvjeti:
+– elementarna živa se mora skladištiti odvojeno od ostalog otpada,
+– spremnici u kojima se nalazi elementarna živa moraju biti u potpunosti nepropusni na sadržaj žive i vanjske utjecaje i biti smješteni u sabirnim posudama koje su premazane tako da nemaju pukotina i praznina, potpuno su nepropusne na sadržaj žive, i mogu prihvatiti ukupnu količinu žive iz samog spremnika,
+– prostor gdje se privremeno skladišti elementarna živa mora imati osigurane odgovarajuće prirodne ili izgrađene pregrade u cilju sprečavanja emisija žive u okoliš. Prostor mora imati odgovarajući kapacitet za skladištenje elementarne žive,
+– podovi u prostoru za privremeno skladištenje elementarne žive moraju biti izvedeni sa sredstvima koja su otporna na utjecaj žive i moraju imati odgovarajući nagib sa pripadajućom sabirnom posudom/taložnikom,
+– prostor za privremeno skladištenje elementarne žive mora biti opremljen sustavom za zaštitu od požara,
+– prostor za privremeno skladištenje elementarne žive mora biti uređen i izveden način da omogućava jednostavnu manipulaciju i jednostavan pristup svim spremnicima koji sadrže elementarnu živu i koji se nalaze uskladišteni u njemu.
+Posebni zahtjevi koji se odnose na elementarnu živu
+Za privremeno skladištenje elementarne žive duže od jedne godine primjenjuju se sljedeći posebni uvjeti:
+1. Sastav elementarne žive mora biti u skladu sa sljedećim specifikacijama:
+– sadržaj žive mora biti veći od 99,9% masenog udjela,
+– u elementarnoj živi ne smiju postojati nečistoće koje mogu korodirati ugljični ili nehrđajući čelik (npr. otopina dušične kiseline, otopine kloridnih soli).
+2. Spremnici za elementarnu živu
+– spremnici moraju biti u potpunosti otporni na djelovanje korozije i udaraca,
+– spremnici ne smiju biti vareni.
+spremnici moraju udovoljavati sljedećim osnovnim specifikacijama i uvjetima:
+– materijal od kojeg je izrađen spremnik mora biti ugljični čelik (ASTM A36 min.) ili nehrđajući čelik (AISI 304, 316L),
+– spremnici ne smiju

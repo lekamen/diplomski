@@ -1,0 +1,65 @@
+ korisnika smještaja sadrži:
+a) Opće podatke:
+1. redni broj iz matične knjige,
+2. osobno ime, ime oca/majke, osobni identifikacijski broj (OIB),
+3. spol,
+4. datum, mjesto i država rođenja, državljanstvo,
+5. prebivalište/boravište prije smještaja kod pružatelja usluge,
+6. školska sprema, zvanje,
+7. bračno stanje,
+8. rješenje centra za socijalnu skrb o skrbništvu (klasa, urudžbeni broj i datum),
+9. podaci o skrbniku (osobno ime, prebivalište/boravište, srodstvo),
+10. rješenje centra za socijalnu skrb o smještaju (klasa, urudžbeni broj i datum) odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+11. opis zdravstvenog stanja prilikom dolaska,
+12. vrsta smještaja (stambena jedinica (I. i II. stupanj) ili jedinica za pojačanu njegu (III. i IV. stupanj) na dan dolaska,
+13. datum dolaska na smještaj,
+14. datum odlaska i razlog,
+15. primjedba.
+b) Posebne podatke:
+1. Osobno ime, prebivalište/boravište, broj telefona i e-adresa osobe koju treba obavijestiti u slučaju bolesti ili smrti korisnika,
+2. posebne napomene za slučaj smrti korisnika u svezi s pogrebom (podaci o grobu i osiguranju),
+3. podaci o osobi koja će platiti troškove pogreba.
+c) Podatke o članovima obitelji korisnika:
+1. osobno ime članova obitelji,
+2. srodstvo s korisnikom, datum rođenja, zanimanje, prebivalište/boravište i radni odnos članova obitelji.
+d) Zapažanja o korisniku (promjene vezane uz stupanj usluge) i kontakti s članovima obitelji korisnika upisuju se uz datum bilješke.
+Članak 67.
+Osobni list korisnika boravka sadrži:
+a) Opće podatke:
+1. redni broj iz upisnika,
+2. osobno ime, osobni identifikacijski broj (OIB),
+3. datum, mjesto i država rođenja te državljanstvo,
+4. prebivalište/boravište,
+5. spol,
+6. školska sprema, zvanje,
+7. tip kućanstva (samac, dvočlano kućanstvo starijih osoba (65+), višečlano kućanstvo starijih osoba, višegeneracijsko kućanstvo),
+8. podaci o skrbniku za osobe koje su stavljene pod skrbništvo (osobno ime, prebivalište/boravište, srodstvo),
+9. rješenje centra za socijalnu skrb o skrbništvu (klasa, urudžbeni broj i datum),
+10. rješenje centra za socijalnu skrb o priznavanju prava na uslugu boravka (klasa, urudžbeni broj i datum) odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+11. opis zdravstvenog stanja,
+12. vrsta boravka po trajanju i stupnju (poludnevni I. ili II. stupanj, cjelodnevni I. ili II. stupanj),
+13. datum početka pružanja usluge,
+14. datum prestanka pružanja usluge i razlog,
+15. primjedbe.
+b) Posebne podatke: osobno ime, prebivalište/boravište, broj telefona i e-adresa osobe koju treba obavijestiti u slučaju bolesti ili drugih izvanrednih okolnosti.
+c) Podatke o članovima obitelji korisnika:
+1. osobno ime članova obitelji,
+2. srodstvo s korisnikom, datum rođenja, zanimanje, prebivalište/boravište i radni odnos članova obitelji.
+d) Zapažanja o korisniku (promjene vezane uz stupanj usluge) i kontakti s članovima obitelji korisnika upisuju se uz datum bilješke.
+Članak 68.
+Osobni list korisnika usluge pomoć u kući sadrži:
+1. redni broj iz upisnika,
+2. osobno ime korisnika, osobni identifikacijski broj (OIB),
+3. datum, mjesto i država rođenja, državljanstvo,
+4. spol,
+5. prebivalište/boravište,
+6. tip kućanstva (samac, dvočlano kućanstvo starijih osoba (65+), višečlano kućanstvo starijih osoba, višegeneracijsko kućanstvo),
+7. rješenje nadležnog centra za socijalnu skrb o priznavanju prava na uslugu (klasa, urudžbeni broj i datum) odnosno ugovor sklopljen između korisnika i pružatelja usluge,
+8. funkcionalna očuvanost osobe (pokretna, polupokretna, nepokretna),
+9. podatke o obiteljskom liječniku (osobno ime, broj telefona, naziv ustanove u kojoj ordinira te adresa ustanove),
+10. podatke o kontakt osobi (osobno ime, prebivalište/boravište broj telefona, e-adresa, srodstvo),
+11. vrstu pomoći u kući (organiziranje prehrane, obavljanje kućanskih poslova, održavanje osobne higijene, zadovoljavanje drugih potreba),
+12. datum početka pružanja usluge,
+13. datum završetka pružanja usluge,
+14. primjedbe.
+Članak 69.

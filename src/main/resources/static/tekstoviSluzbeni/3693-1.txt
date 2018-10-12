@@ -1,0 +1,29 @@
+ 8., podijeli sa prosječnom godišnjom neto imovinom UCITS fonda i pomnoži sa 100.
+(9) Pored izvještaja iz stavka 1. ovoga članka Agencija može od društva za upravljanje zatražiti dodatne podatke, informacije i objašnjenja pojedinih stavki u godišnjim i polugodišnjim izvještajima UCITS fonda.
+IZVJEŠTAVANJE O KLASAMA UDJELA UCITS FONDA
+Članak 4.
+(1) Ako udjeli u UCITS fondu daju različita prava njihovim imateljima (klase udjela) u skladu s člankom 93. Zakona, društvo za upravljanje dužno je za svaku klasu udjela UCITS fonda u bilješkama uz godišnje i polugodišnje izvještaje iskazati:
+– pojedinosti vezano uz prava koja daje svaka klasa udjela UCITS fonda,
+– broj izdanih udjela po pojedinim klasama udjela UCITS fonda za datum sastavljanja godišnjih i polugodišnjih izvještaja te za datum prethodne poslovne godine,
+– sve obveze UCITS fonda koje se odnose na pojedinu klasu udjela UCITS fonda za datum sastavljanja godišnjih i polugodišnjih izvještaja te za datum prethodne poslovne godine,
+– vrijednost neto imovine pojedine klase udjela UCITS fonda za datum sastavljanja godišnjih i polugodišnjih izvještaja te za datum prethodne poslovne godine,
+– cijenu udjela po pojedinoj klasi udjela UCITS fonda za datum sastavljanja godišnjih i polugodišnjih izvještaja te za datum prethodne poslovne godine u slučaju kada prava iz pojedine klase udjela rezultiraju različitom cijenom udjela,
+– prihode i rashode po pojedinoj klasi udjela UCITS fonda za izvještajno razdoblje te za prethodno izvještajno razdoblje,
+– novčani priljevi i odljevi po otkupu i izdavanju pojedinih klasa udjela UCITS fonda za izvještajno razdoblje te za prethodno izvještajno razdoblje,
+– isplaćenu dobit po pojedinim klasama udjela UCITS fonda za godišnje i polugodišnje izvještajno razdoblje te za prethodno godišnje i polugodišnje izvještajno razdoblje.
+(2) Ako prava iz pojedine klase udjela rezultiraju različitom cijenom udjela UCITS fonda društvo za upravljanje u Izvještaju o financijskom položaju UCITS fonda ne iskazuje podatke na pozicijama C Neto imovina fonda, D Broj izdanih udjela i E Cijena udjela UCITS fonda.
+(3) Dodatne izvještaje iz članka 5. stavka 1. alineje 3. ovog Pravilnika društvo za upravljanje dužno je sastaviti za svaku pojedinu klasu udjela UCITS fonda.
+DODATNI IZVJEŠTAJI UCITS FONDA
+Članak 5.
+(1) Dodatni izvještaji UCITS fonda su:
+– izvještaj o realiziranim dobicima (gubicima) od prodaje financijskih instrumenata UCITS fonda, čiji je sadržaj propisan Prilogom 3 ovoga Pravilnika,
+– izvještaj o nerealiziranim dobicima (gubicima) i umanjenju imovine UCITS fonda, čiji je sadržaj propisan Prilogom 4 ovoga Pravilnika,
+– izvješće o udjelničarima UCITS fonda, čiji je sadržaj propisan Prilogom 5 ovoga Pravilnika, te
+– statistička izvješća.
+(2) Društvo za upravljanje dužno je za UCITS fond kojim upravlja sastaviti dodatne izvještaje iz stavka 1. alineje 1. i 2. ovog članka za razdoblje poslovne godine i za razdoblje prvih šest mjeseci poslovne godine.
+(3) Društvo za upravljanje dužno je za UCITS fond kojim upravlja sastaviti dodatne izvještaje iz stavka 1. alineje 3. ovoga članka sa stanjem na 31. ožujka, 30. lipnja, 30. rujna i 31. prosinca.
+(4) Statistička izvješća iz stavka 1. alineje 4. ovoga članka su izvješća o radu UCITS fondova čiji sadržaj, oblik i rokove dostave, ovisno o potrebi istraživanja/analize sustava nebankarskih financijskih usluga, izvještavanja javnosti i korisnika usluga te razmjene informacija s drugim nadzornim tijelima i/ili institucijama nadležnim za statistiku ili javni nadzor, kreira Agencija.
+(5) Iznimno od stavka 4. ovoga članka, Agencija ne dovodeći u pitanje načela nadležnosti, tajnosti i zaštitite podataka, može prihvatiti statističke upitnike, odnosno način prikupljanja podataka kreirane od strane drugih nadzornih tijela i/ili institucija nadležnih za statistiku.
+(6) Izvješća iz stavka 4. ovoga članka društvo za upravljanje dužno je sastavljati i dostavljati na način i u rokovima prema zahtjevu Agencije.
+ROKOVI I NAČIN DOSTAVE
+Članak 

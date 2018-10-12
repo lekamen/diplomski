@@ -1,0 +1,31 @@
+ utemeljen na realiziranom projektu te sadrži navedeni predmet offset projekta i pripadajuće iznose.
+VI. PRE-OFFSET
+54. Prihvaćeni i realizirani pre-offset projekti deponiraju se u Ministarstvu gospodarstva.
+55. Potencijalni inozemni dobavljač koji nije odabran u postupku nabave NVO, deponiranu vrijednost pre-offset projekata u cjelini ili u određenom dijelu, može prenijeti na inozemnog dobavljača koji ima potpisan offset sporazum s Ministarstvom gospodarstva uz prethodnu suglasnost koju daje ministar gospodarstva na prijedlog Povjerenstva iz točke 16. ovoga Naputka.
+56. Deponirani pre-offset projekti mogu se koristiti tijekom razdoblja od pet godina. Ukoliko potencijalni inozemni dobavljač tijekom navedenog razdoblja nije potpisao odgovarajući offset sporazum, deponirani pre-offset projekti neće se više moći koristiti.
+57. Ukoliko potencijalni inozemni dobavljač ima prihvaćen ili realiziran pre-offset projekt, a ipak ne dobije ugovor o nabavi NVO-a za potrebe Ministarstva obrane, nema pravo ni na kakvu nadoknadu.
+58. Potpisivanje pre-offset sporazuma ni po čemu ne prejudicira budući izbor inozemnog dobavljača u proceduri nabave NVO za potrebe Ministarstva obrane.
+VII. RJEŠAVANJE SPOROVA
+59. Za sve eventualne sporove oko provođenja offset i pre-offset sporazuma stranke sporazuma ugovaraju nadležnost Trgovačkog suda u Zagrebu.
+VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+60. Registrirani offset projekti koji se nalaze u razdoblju realizacije i offset sporazumi potpisani prije stupanja na snagu ovoga Naputka, dovršit će se prema odredbama Naputka o načinu i uvjetima primjene »offset programa« (»Narodne novine«, br. 164/04).
+61. Danom stupanja na snagu ovoga Naputka prestaje važiti Naputak o načinu i uvjetima primjene »offset programa« (»Narodne novine«, br. 26/14).
+62. Ovaj Naputak stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+Klasa: 303-03/16-01/07 Urbroj: 526-03-01-01-01/2-16-01 Zagreb, 4. srpnja 2016. Klasa: 819-01/16-01/1 Urbroj: 512-01-16-10 Zagreb, 3. kolovoza 2016.
+Ministar gospodarstva Tomislav Panenić, v. r. Ministar obrane Josip Buljević, v. r.
+PRILOG 1.
+OFFSET KOEFICIJENTI
+OFFSET KOEFICIJENTI – KUMULATIVNO 1+2+3 1. Ovisno o složenosti proizvoda 2. Ovisno o broju otvorenih novih radnih mjesta 3. Ovisno o x% većoj županijskoj stopi nezaposlenosti u odnosu na prosjek RH* 50 – 149 150 – 249 250 i više 1 ≤ x < 10% 10 ≤ x <20% 20% ≤ x Inozemna izravna ulaganja 1,0 – 2,0 +0,1 +0,3 +0,5 +0,1 +0,3 +0,5 Istraživačko razvojni projekti 1,0 – 2,0 +0,1 +0,3 +0,5 Transfer tehnologije 1,0 – 2,0 +0,1 +0,3 +0,5 +0,1 +0,3 +0,5 Licencna proizvodnja 0,5 – 1,5 +0,1 +0,3 +0,5 +0,1 +0,3 +0,5 Otvaranje novih tržišta 0,5 – 1,0 +0,1 +0,3 +0,5 +0,1 +0,3 +0,5 Izvan područja prioriteta 0,5 +0,1 +0,2 +0,3 +0,1 +0,2 +0,3
+*Za projekte u županijama koje su imale veću stopu nezaposlenosti od prosjeka RH, Prema podacima Hrvatskog zavoda za zapošljavanje i Državnog zavoda za statistiku.
+Napomena: Koeficijenti se ne mogu zbrajati »vertikalno«, npr. za zajedničko ulaganje + licencu + otvaranje novih tržišta
+PRILOG 2.
+OBRAZAC REGISTRACIJE OFFSET PROJEKTA (OPP1)
+PRIJEDLOG OFFSET PROJEKTA
+1. Osnovne informacije
+Vrsta Offseta (predmet Offseta) [npr. izvoz, izravno strano ulaganje itd. sukladno Naputku o provedbi offset programa] Identifikacija Offset projekta [treba biti definirana od strane inozemnog dobavljača, obveznika offseta] Obveznik offseta Tvrtka i adresa Broj dokumenta Kontakt osoba Telefon/fax Email Primatelj offseta Tvrtka i adresa Kontakt osoba Telefon/fax E-mail Strani partner Tvrtka i adresa Opis Offset projekta Procjena vremena i trajanja Offset projekta Procjena ukupne nominalne vrijednosti Offset projekta Predloženi koeficijent
+2. Dodatne informacije o Offset projektu
+[detaljniji opis Offset projekta]
+Datum__/__/20xx                                                                                                                            Potpis i pečat: ____________________
+PRILOG 3.
+OBRAZAC OTPISA OFFSET OBVEZA (OOP2)
+ZAHTJEV ZA

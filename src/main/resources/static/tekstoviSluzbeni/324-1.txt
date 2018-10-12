@@ -1,0 +1,28 @@
+ zapisnik već je nadležno tijelo kontrolom stanja zaliha sukladno člancima 14. i 16. ove Uredbe utvrdilo zalihe i formiralo zapisnik iz članka 12. ove Uredbe te utvrdilo postojanje špekulativnih zaliha,
+– je podnio zapisnik iz članka 12. ove Uredbe izvan roka na temelju kojeg je utvrđeno postojanje špekulativnih zaliha,
+nadležno tijelo postupit će sukladno članku 17. ove Uredbe te će ti vlasnici zaliha biti uključeni na Preliminarnu listu.«.
+Članak 8.
+Prilog 8. Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera (»Narodne novine«, broj 77/2013) zamjenjuje se novim Prilogom 8. koji je tiskan uz ovu Uredbu i njezin je sastavni dio.
+Članak 9.
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+Klasa: 022-03/15-03/11
+Urbroj: 50301-05/25-15-3
+Zagreb, 11. veljače 2015.
+Predsjednik Zoran Milanović, v. r.
+PRILOG 8.
+NAČIN IZRAČUNA INDIVIDUALNIH KOLIČINA ŠPEKULATIVNIH ZALIHA NA KONAČNOJ LISTI U SKLADU S ČLANKOM 17. STAVKOM 4. OVE UREDBE
+U slučaju iz članka 17. stavka 4. ove Uredbe vrši se izračun u sljedećim koracima:
+1. Za pravne i fizičke osobe koje se nalaze na Preliminarnoj listi, a kod kojih su utvrđene špekulativne zalihe i u izračunu su veće od nule, utvrđuje se:
+1.1. zbroj prosjeka potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine;
+1.2. zbroj potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2012. do 30. lipnja 2013. godine.
+2. Od zbroja iz točke 1. podtočke 1.2. ovoga Priloga oduzima se količina zaliha koju je Europska komisija utvrdila da se moraju ukloniti s tržišta.
+3. Količina iz točke 2. ovoga Priloga dijeli se sa zbrojem iz točke 1. podtočke 1.1. ovoga Priloga čime se dobiva koeficijent korekcije.
+4. Za svaku pravnu i fizičku osobu koja se nalazi na Preliminarnoj listi, a kod koje su utvrđene špekulativne zalihe, utvrđuje se novi korigirani (povećani) trogodišnji prosjek potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine.
+a) Ako je izvorni trogodišnji prosjek u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine različit od nule, novi korigirani (povećani) trogodišnji prosjek potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine dobiva se tako da se izvorni trogodišnji prosjek u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine uveća za apsolutnu vrijednost umnoška izvornog trogodišnjeg prosjeka u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine i koeficijenta korekcije iz točke 3. ovoga Priloga umanjenog za jedan:
+ITP ≠ 0; NTP = ITP + (| ITPAP x (KOEFKOR-1) |)
+b) Ako je izvorni trogodišnji prosjek u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine jednak nuli, novi korigirani (povećani) trogodišnji prosjek potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine dobiva se umnoškom zbroja potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2012. do 30. lipnja 2013. godine i koeficijenta korekcije iz točke 3. ovoga Priloga umanjenog za jedan:
+ITP = 0; NTP = SUM12/13 x (KOEFKOR – 1)
+Kratice korištene u ovoj točki imaju sljedeće značenje:
+ITP – izvorni trogodišnji prosjek u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine pojedine pravne ili fizičke osobe koja se nalazi na Preliminarnoj listi za koju se utvrđuje novi trogodišnji prosjek potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine;
+ITPAP – apsolutna vrijednost ITP;
+NTP – novi korigirani (povećani) trogodišnji prosjek potrošnje i promjene zaliha proizvoda iz sektora šećera u razdoblju od 1. srpnja 2009. do 30. lipnja 2012. godine pojedine pravne ili fizičke osobe koja se nalazi na Preliminarnoj listi za koju se utvrđuje novi trogodišnji prosjek potrošnje i promjene zaliha 

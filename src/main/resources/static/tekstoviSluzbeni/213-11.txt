@@ -1,0 +1,22 @@
+ energije (»Narodne novine«, broj 22/13);
+3.2.7. Opći uvjeti za opskrbu električnom energijom (»Narodne novine«, broj 14/06);
+3.2.8. Mrežna pravila elektroenergetskog sustava (»Narodne novine«, broj 36/06),
+3.2.9. Pravilnik o električnoj opremi namijenjenoj za uporabu unutar određenih naponskih granica (»Narodne novine«, broj 41/10);
+3.2.10. Pravilnik o obliku, sadržaju i izgledu oznake sukladnosti proizvoda s propisanim tehničkim zahtjevima (»Narodne novine«, broj 46/08);
+3.2.11. Tehnički propis za niskonaponske električne instalacije (»Narodne novine«, broj 5/10);
+3.2.12. Pravilnik o tehničkim zahtjevima za elektroenergetska postrojenja nazivnih izmjeničnih napona iznad 1 kV (»Narodne novine«, broj 105/10);
+3.2.13. Pravilnik o normiranim naponima za distribucijske niskonaponske električne mreže i električnu opremu (»Narodne novine«, broj 28/20, članak 38. stavak 2. Zakona o energiji, »Narodne novine«, broj 120/12 i 14/14);
+3.2.14. Pravilnik o tehničkim normativima za zaštitu niskonaponskih mreža i pripadnih transformatorskih stanica (»Službeni list SFRJ«, broj 13/78, članak 39. stavak 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti, »Narodne novine«, broj 80/13 i 14/14);
+3.2.15. Pravilnik o tehničkim mjerama za pogon i održavanje elektroenergetskih postrojenja (»Službeni list SFRJ«, broj 19/68, članak 39. stavak 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti, »Narodne novine«, broj 80/13 i 14/14);
+3.2.16. Pravilnik o tehničkim normativima za izgradnju nadzemnih elektroenergetskih vodova nazivnih napona od 1 kV do 400 kV (Službeni list SFRJ, broj 65/88, »Narodne novine«, broj 24/97, članak 39. stavak 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti, »Narodne novine«, broj 20/10);
+3.2.17. Pravilnik o tehničkim normativima za izgradnju nadzemnih elektroenergetskih vodova (»Službeni list SFRJ«, broj 51/73, 69/73 – ispravak, 11/80 – izmjena, članak 10. Pravilnika o tehničkim normativima za postavljanje elektroenergetskih vodova i telekomunikacijskih kabelskih vodova – broj 36/86, članak 333. Pravilnika o tehničkim normativima za izgradnju nadzemnih elektroenergetskih vodova nazivnih napona od 1 kV do 400 kV – broj 65/88, na snazi su samo odredbe koje se odnose na niskonaponske elektroenergetske vodove i priključke nazivnog napona do 1 kV);
+3.2.18. Pravilnik o tehničkim normativima za postavljanje nadzemnih elektroenergetskih vodova i telekomunikacijskih kabelskih vodova (»Službeni list SFRJ«, broj 36/86);
+3.2.19. Pravilnik o najmanjim zahtjevima sigurnosti i zaštite zdravlja radnika te tehničkom nadgledanju postrojenja, opreme, instalacija i uređaja u prostorima ugroženim eksplozivnom atmosferom (»Narodne novine«, broj 39/06 i 106/07);
+3.2.20. Pravilnik o opremi i zaštitnim sustavima namijenjenim za uporabu u potencijalno eksplozivnim atmosferama (»Narodne novine«, broj 34/10);
+3.2.21. Pravilnik o tehničkim normativima za elektroenergetska postrojenja nazivnog napona 10 kV za rad pod naponom 20 kV (»Službeni list SFRJ«, broj 10/79);
+3.2.22. Tehnički propis za sustave zaštite od djelovanja munje na građevinama (»Narodne novine«, broj 87/08 i 33/10);
+3.2.23. Pravilnik o tehničkim mjerama za izgradnju, pogon i održavanje električnih generatora i sinhronih kompenzatora hlađenih vodikom (»Službeni list SFRJ«, broj 13/69 i 19/69 – ispravak);
+3.2.24. Pravilnik o tehničkim mjerama za pogon i održavanje elektroenergetskih postrojenja (»Službeni list SFRJ«, broj 19/68, članak 53., u dijelu u kojem se to ne odnosi na elektroenergetska postrojenja prema odredbama Pravilnika o tehničkim zahtjevima za elektroenergetska postrojenja nazivnih izmjeničnih napona iznad 1 kV (»Narodne novine«, broj 105/10);
+3.3. Pravni izvori uz predmet Poznavanje propisa kojima se uređuju opći uvjeti obavljanja djelatnosti:
+3.3.1. Zakon o trgovačkim društvima (»Narodne novine«, broj 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 152/11, 111/12 i 68/13);
+3.3.2. Zakon o trgovini

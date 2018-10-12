@@ -1,0 +1,36 @@
+ mm/s u standardnim uvjetima (izmjereno u obliku inhibiranog uzorka) pri tlaku od 6,89 MPa (68,9 bar) i 294 K (21 °C);
+5. elastomerom modificirano lijevano dvobazno »pogonsko gorivo« (EMCDB) čija je deformacija pri najvećem naprezanju veća od 5% na 233 K (-40 °C);
+6. bilo koje »pogonsko gorivo« koje sadrži supstancije navedene u ML8.a.
+7. »Pogonsko gorivo« koje nije navedeno nigdje drugdje u Zajedničkom popisu robe vojne namjene EU-a, a posebno je konstruirano za vojnu uporabu;
+c. »Pirotehnika«, goriva i pripadajuće supstancije, kako slijedi, te njihove smjese:
+1. avionska goriva posebno pripremljena za vojne svrhe;
+Napomena: Avionska goriva navedena u ML8.c1. gotovi su proizvodi, a ne njihovi sastojci.
+2. alan (aluminijski hidrid) (CAS 7784-21-6);
+3. karborani; dekaboran (CAS 17702-41-9); pentaborani (CAS 19624-22-7 i 18433-84-6) i njihovi derivati;
+4. hidrazin i derivati, kako slijedi (vidi također ML8.d.8. i d.9. za oksidiranje hidrazinskih derivata):
+a. hidrazin (CAS 302-01-2) koncentracije od 70% ili veće;
+b. monometil hidrazin (CAS 60-34-4);
+c. simetrični dimetil hidrazin (CAS 540-73-8);
+d. nesimetrični dimetil hidrazin (CAS 57-14-7);
+Napomena: ML8.c.4.a. ne odnosi se na hidrazinske »smjese« koje su posebno napravljene za zaštitu od korozije.
+5. metalna goriva, smjese goriva ili »pirotehničke« smjese u obliku čestica, bez obzira na to jesu li sferične, atomizirane, sferoidne, pločaste ili mljevene, proizvedene od materijala koji sadrži 99% ili više:
+a. metala i njihovih smjesa, kako slijedi:
+1. berilij (CAS 7440-41-7) veličine čestica manje od 60μm;
+2. željezni prah (CAS 7439-89-6) veličine čestica od 3 μm ili manje, proizveden redukcijom željeznog oksida vodikom;
+b. smjese koje sadržavaju bilo što od sljedećeg:
+1. cirkonij (CAS 7440-67-7), magnezij (CAS 7439-95-4) ili njihove legure čestica veličine manje od 60 μm; ili
+2. bor (CAS 7440-42-8) ili borov karbid (CAS 12069-32-8), čistoće 85% ili veće te veličine čestica manje od 60 μm;
+Napomena 1.: ML8.c.5. odnosi se na eksplozive i goriva, bez obzira na to jesu li metali ili legure sažeti u aluminiju, magneziju, cirkoniju ili beriliju.
+Napomena 2.: ML8.c.5.b. odnosi se samo na metalna goriva u obliku čestica ako su miješana s drugim supstancijama radi stvaranja smjese pripremljene za vojnu uporabu, kao što su sustavi za tekuća ili gusta goriva, krute pogonske tvari ili pirotehničke smjese.
+Napomena 3.: ML8.c.5.b.2. ne odnosi se na bor i borov karbid obogaćen borom-10 (20% ili više ukupnog sadržaja bora-10).
+6. vojni materijali koji sadrže zgušnjivače za ugljikovodična goriva posebno napravljena za uporabu u bacačima plamena ili zapaljivom streljivu kao što su metalni stearati (npr. oktal (CAS 637-12-7)) ili palmitati;
+7. perklorati, klorati i kromati spojeni s metalom u prahu ili drugim komponentama visokoenergetskog goriva;
+8. sferični ili sferoidni aluminijski prah (CAS 7429-90-5) veličine čestica 60 μm ili manje i proizveden od materijala koji sadržava 99% ili više aluminija;
+9. titanij subhidrid (TiHn) stehiometrijskog ekvivalenta n = 0,65 – 1,68;
+10. tekuća goriva s visokom gustoćom energije koja nisu navedena u ML8.c.1., kako slijedi:
+a. miješana goriva koja sadrže i kruta i tekuća goriva (npr. borova smjesa), čija je gustoća energije na bazi mase 40 MJ/kg ili veća;
+b. druga goriva visoke gustoće energije i dodaci za goriva (npr. kuban (C8H8), ionske otopine, JP-7, JP-10), čija je gustoća energije na bazi obujma 37,5 GJ po kubičnom metru ili veća, mjereno pri temperaturi od 293 K (20 °C) i tlaku od 1 atmosfere (101,325 kPa);
+Napomena: ML8.c.10.b. ne odnosi se na JP-4, JP-8, fosilna rafinirana goriva ili biogoriva ili goriva za motore certificirane za uporabu u civilnom zrakoplovstvu.
+11. »Pirotehnički« ili piroforni materijali kako slijedi:
+a. »Pirotehnički« ili piroforni materijali, napravljeni posebno za povećanje ili nadzor proizvodnje energije zračenja u bilo kojem dijelu IR spektra;
+b. smjese magnezija, politetrafluoretilena (PTFE) i viniliden difluorid

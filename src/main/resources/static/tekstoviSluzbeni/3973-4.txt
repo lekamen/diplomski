@@ -1,0 +1,20 @@
+ opreme, te podatke navodi na pakiranju radijske opreme ili u popratnom dokumentu. U adresi je obvezan navesti jedinstveno mjesto na kojem je proizvođač dostupan. Ti podaci moraju biti na jeziku koji bez poteškoća mogu razumjeti krajnji korisnici i nadležno inspekcijsko tijelo.
+(8) Proizvođač je obvezan osigurati da su uz radijsku opremu priložene čitljive, jasne i razumljive upute i podaci o sigurnosti na hrvatskom jeziku i latiničnom pismu. Upute sadržavaju podatke koji su nužni za uporabu radijske opreme u skladu s njezinom predviđenom namjenom te, prema potrebi, opis dodataka i sastavnica, uključujući softver, koji omogućuju da radijska oprema radi u skladu s predviđenom namjenom.
+(9) U slučaju radijske opreme, koja namjerno odašilje radijske valove, uključuju se i sljedeći podaci:
+a) frekvencijski pojas ili frekvencijski pojasi u kojima radi radijska oprema
+b) najveća radiofrekvencijska snaga koja se prenosi u frekvencijskom pojasu ili pojasima u kojima radi radijska oprema.
+(10) Proizvođač je obvezan osigurati da je uz svaki primjerak radijske opreme priložen primjerak EU izjave o sukladnosti ili pojednostavljena EU izjava o sukladnosti u kojoj je navedena točna internetska adresa na kojoj je dostupan cjeloviti tekst EU izjave o sukladnosti.
+(11) Proizvođač je obvezan osigurati da, u slučajevima kada postoje ograničenja u vezi sa stavljanjem u pogon ili obvezom pribavljanja dozvole za uporabu radiofrekvencijskog spektra, podaci na pakiranju omogućuju određivanje države članice ili zemljopisnog područja unutar države članice Europske unije na kojem postoje ograničenja u vezi sa stavljanjem u pogon ili obvezom pribavljanja dozvole za uporabu radiofrekvencijskog spektra. Ti podaci dopunjuju upute koje se prilažu radijskoj opremi.
+(12) Proizvođač koji smatra ili ima razloga vjerovati da radijska oprema koju je stavio na tržište nije u skladu s ovim Pravilnikom, bez odgode je obvezan poduzeti potrebne popravne radnje kako bi se ta radijska oprema uskladila ili povukla s tržišta, ili kako bi se osigurao njezin povrat od krajnjih korisnika. Ako radijska oprema predstavlja rizik, proizvođač je obvezan o tome bez odgode obavijestiti nadležno nacionalno tijelo, uz navođenje pojedinosti, osobito o nesukladnosti te o svim poduzetim popravnim radnjama i njihovu ishodu.
+(13) Na opravdani zahtjev nadležnog nacionalnog tijela proizvođač je obvezan dostaviti tom tijelu sve podatke i dokumente nužne za dokazivanje sukladnosti radijske opreme s ovim Pravilnikom, u papirnatom ili elektroničkom obliku, na jeziku lako razumljivom tom tijelu. Proizvođač je obvezan surađivati s tim tijelom, na njegov zahtjev, u svakoj radnji poduzetoj u svrhu uklanjanja rizika koje predstavlja radijska oprema koju je proizvođač stavio na tržište.
+Ovlašteni zastupnici
+Članak 13.
+(1) Proizvođač može na temelju pisanog ovlaštenja imenovati ovlaštenog zastupnika. Obveze iz članka 12. stavka 1. ovoga Pravilnika i obveza sastavljanja tehničke dokumentacije iz članka 12. stavka 3. ovoga Pravilnika nisu dio zadaća ovlaštenog zastupnika.
+(2) Ovlašteni zastupnik obavlja zadaće utvrđene u ovlaštenju koje mu je dao proizvođač, a osobito sljedeće:
+a) mora čuvati EU izjavu o sukladnosti i tehničku dokumentaciju u razdoblju od deset godina od dana stavljanja radijske opreme na tržište, te je dati na uvid nadležnom inspekcijskom tijelu u skladu s njegovim zahtjevom
+b) na temelju opravdanog zahtjeva nadležnog nacionalnog tijela, tom tijelu bez odgode mora dostaviti sve podatke i dokumentaciju nužnu za dokazivanje sukladnosti radijske opreme
+c) na zahtjev nadležnih nacionalnih tijela mora s njima surađivati u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavlja radijska oprema obuhvaćena njegovim ovlaštenjem.
+Obveze uvoznika
+Članak 14.
+(1) Uvoznik je obvezan stavljati na tržište samo sukladnu radijsku opremu.
+(2) Prije stavljanja radijske opreme na tržište uvoznik mora utvrditi da je proizvođač proveo odgovarajući postupak ocjenjivanja sukladnosti iz članka 19.

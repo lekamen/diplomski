@@ -1,0 +1,160 @@
+ manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Bakar;
+za srpsku nacionalnu manjinu
+Grad Crikvenica;
+za albansku nacionalnu manjinu
+Grad Kastav;
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Mali Lošinj;
+za srpsku nacionalnu manjinu
+Grad Opatija;
+za srpsku nacionalnu manjinu
+Grad Rijeka;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za crnogorsku nacionalnu manjinu
+za mađarsku nacionalnu manjinu
+za makedonsku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Vrbovsko;
+za srpsku nacionalnu manjinu
+Općina Čavle;
+za srpsku nacionalnu manjinu
+Općina Matulji;
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Viškovo;
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Ličko-senjska županija;
+za srpsku nacionalnu manjinu
+Općina Donji Lapac;
+za srpsku nacionalnu manjinu
+Općina Plitvička Jezera;
+za srpsku nacionalnu manjinu
+Općina Udbina;
+za srpsku nacionalnu manjinu
+Općina Vrhovine;
+za srpsku nacionalnu manjinu
+Virovitičko-podravska županija;
+za srpsku nacionalnu manjinu
+Grad Orahovica;
+za srpsku nacionalnu manjinu
+Grad Slatina;
+za srpsku nacionalnu manjinu
+Grad Virovitica;
+za srpsku nacionalnu manjinu
+Općina Čačinci;
+za srpsku nacionalnu manjinu
+Općina Gradina;
+za srpsku nacionalnu manjinu
+Općina Nova Bukovica;
+za srpsku nacionalnu manjinu
+Općina Suhopolje;
+za srpsku nacionalnu manjinu
+Općina Voćin;
+za srpsku nacionalnu manjinu
+Požeško-slavonska županija;
+za češku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Lipik;
+za srpsku nacionalnu manjinu
+Grad Pakrac;
+za češku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Požega;
+za srpsku nacionalnu manjinu
+Općina Brestovac;
+za srpsku nacionalnu manjinu
+Općina Čaglin;
+za srpsku nacionalnu manjinu
+Općina Velika;
+za srpsku nacionalnu manjinu
+Brodsko-posavska županija;
+za romsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Nova Gradiška;
+za srpsku nacionalnu manjinu
+Grad Slavonski Brod;
+za romsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Dragalić;
+za srpsku nacionalnu manjinu
+Općina Okučani;
+za srpsku nacionalnu manjinu
+Općina Stara Gradiška
+za srpsku nacionalnu manjinu
+Zadarska županija;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Benkovac;
+za srpsku nacionalnu manjinu
+Grad Obrovac;
+za srpsku nacionalnu manjinu
+Grad Zadar;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Gračac;
+za srpsku nacionalnu manjinu
+Osječko-baranjska županija;
+za albansku nacionalnu manjinu
+za mađarsku nacionalnu manjinu
+za njemačku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za slovačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Belišće;
+za romsku nacionalnu manjinu
+Grad Beli Manastir;
+za mađarsku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Našice;
+za slovačku nacionalnu manjinu
+Grad Osijek;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za mađarsku nacionalnu manjinu
+za njemačku nacionalnu manjinu
+za slovačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Bilje;
+za mađarsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Darda;
+za mađarsku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Draž;
+za mađarsku nacionalnu manjinu
+Općina Erdut;
+za mađarsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Ernestinovo;
+za mađarsku nacionalnu manjinu
+Općina Jagodnjak;
+za srpsku nacionalnu manjinu
+Općina Kneževi Vinogradi;
+za mađarsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Petlovac;
+za mađarsku nacionalnu manjinu
+Općina Podgorač;
+za srpsku nacionalnu manjinu
+Općina Popovac;
+za srpsku nacionalnu manjinu
+Općina Punitovci;
+za slovačku nacionalnu manjinu
+Općina Šodolovci;
+za srpsku nacionalnu manjinu
+Općina

@@ -1,0 +1,35 @@
+ odredbe s kojima je dizalo sukladno;
+6. izjavu da je sigurnosna komponenta za dizala u skladu s mjerodavnim zakonodavstvom Unije o usklađivanju;
+7. kad je to primjereno, upućivanja na primijenjene usklađene norme;
+8. kad je to primjereno, ime, adresu i identifikacijski broj prijavljenog tijela koje je provelo EU ispitivanje tipa dizala utvrđeno u Prilogu IV. dijelu B i upućivanje na potvrdu o EU ispitivanju tipa koju je izdalo dotično prijavljeno tijelo;
+9. kad je to primjereno, naziv, adresu i identifikacijski broj prijavljenog tijela koje je provelo postupak pojedinačne provjere za dizala utvrđen u Prilogu VIII.;
+10. kad je to primjereno, naziv, adresu i identifikacijski broj prijavljenog tijela koje je provelo završnu provjeru za dizala utvrđenu u Prilogu V.;
+11. kad je to primjereno, naziv, adresu i identifikacijski broj prijavljenog tijela koje je odobrilo sustav osiguranja kvalitete koji je ugraditelj primijenio u skladu s postupkom ocjenjivanja sukladnosti utvrđenim u Prilogu X., XI. ili XII.;
+12. ime i funkciju osobe opunomoćene za potpisivanje izjave u ime ugraditelja ili njegova ovlaštenog zastupnika;
+13. mjesto i dan potpisa;
+14. potpis.
+PRILOG III.
+POPIS SIGURNOSNIH KOMPONENTI ZA DIZALA
+1. Uređaji za zabravljivanje vrata voznog okna.
+2. Uređaji za sprječavanje padova iz Priloga I. točke 3.2. koji sprječavaju padanje kabine ili nekontrolirano kretanje.
+3. Uređaji za ograničavanje prekomjerne brzine.
+4.1. Odbojnici koji akumuliraju kinetičku energiju:
+– nelinearni ili
+– s povratnim prigušenjem.
+4.2. Odbojnici koji raspršuju energiju.
+5. Sigurnosni uređaji ugrađeni u mehanizme hidrauličkih pogonskih krugova kada se koriste kao uređaji za sprečavanje padova.
+6. Električni sigurnosni uređaji u obliku sigurnosnih sklopova koji sadrže elektroničke komponente.
+PRILOG IV.
+EU ISPITIVANJE TIPA ZA DIZALA I SIGURNOSNE KOMPONENTE ZA DIZALA (modul B)
+A. EU ispitivanje tipa sigurnosnih komponenti za dizala
+1. EU ispitivanje tipa dio je postupka ocjenjivanja sukladnosti pri kojem prijavljeno tijelo pregledava tehničko rješenje sigurnosne komponente za dizala i utvrđuje i potvrđuje da tehničko rješenje sigurnosne komponente za dizala zadovoljava primjenjive bitne zdravstvene i sigurnosne zahtjeve iz Priloga I. i da će omogućiti dizalu, na koje je pravilno ugrađena, da ispuni te uvjete.
+2. Zahtjev za EU ispitivanje tipa proizvođač ili njegov ovlašteni zastupnik podnosi jednom prijavljenom tijelu po svojem izboru.
+Zahtjev mora sadržavati:
+2.1. naziv i adresu proizvođača te naziv i adresu ovlaštenog zastupnika ako je on podnio zahtjev, te mjesto proizvodnje sigurnosnih komponenti za dizala;
+2.2. pisanu izjavu kojom izjavljuje da isti zahtjev nije podnesen ni jednom drugom prijavljenom tijelu;
+2.3. tehničku dokumentaciju;
+2.4. reprezentativni uzorak sigurnosne komponente za dizala ili pojedinosti o mjestu na kojem se može pregledati. Prijavljeno tijelo može zahtijevati i druge uzorke ako su oni potrebni za provođenje programa ispitivanja;
+2.5. dokaze o primjerenosti tehničkog rješenja. U tim dokazima navode se svi korišteni dokumenti, uključujući druge relevantne tehničke specifikacije, posebno ako relevantne usklađene norme nisu u potpunosti primijenjene. Ti dokazi prema potrebi uključuju rezultate ispitivanja koja su provedena u skladu s drugim relevantnim tehničkim specifikacijama u odgovarajućem laboratoriju proizvođača ili nekom drugom laboratoriju koji provodi ispitivanja u njegovo ime i pod njegovom odgovornošću.
+3. Tehnička dokumentacija mora omogućiti ocjenjivanje sukladnosti sigurnosne komponente za dizala s zahtjevima iz točke 1. i uključuje odgovarajuću analizu i procjenu rizika. Tehničkom dokumentacijom određuju se primjenjivi zahtjevi i ona obuhvaća, koliko je to potrebno za ocjenjivanje, rješenje, proizvodnju i rad sigurnosne komponente za dizala.
+Tehnička dokumentacija mora sadržavati, ako je moguće, sljedeće elemente:
+3.1. opis sigurnosne komponente za dizala, uključujući njezino područje primjene (naročito moguća

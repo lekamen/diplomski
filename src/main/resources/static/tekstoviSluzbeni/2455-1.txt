@@ -1,0 +1,24 @@
+ ugovoriti nadležnost Sudišta i arbitražnog suda pri Sudištu za rješavanje sporova o pravima kojima mogu slobodno raspolagati samo ako je barem jedna od njih fizička osoba s prebivalištem u inozemstvu odnosno pravna osoba koja je osnovana po stranom pravu, osim ako je posebnim zakonom propisano da takav spor može riješiti samo sud u Republici Hrvatskoj.
+(4) Smatrat će se da su stranke ugovarajući nadležnost Sudišta za rješavanje određenih njihovih sporova, ugovorile i nadležnost arbitražnog suda koji će biti osnovan prema ovom Pravilniku.
+(5) Ako u ugovoru o arbitraži nije drukčije izrijekom predviđeno, smatrat će se da su stranke ugovarajući nadležnost Sudišta, ugovorile i nadležnost tijela Sudišta:
+– za imenovanje arbitara i odlučivanje o njihovom izuzeću i opozivu,
+– za određivanje privremenih mjera i izdavanje platnih naloga,
+– za obavljanje drugih poslova predviđenih ovim Pravilima.
+(6) Iznimno od stavka 1, nadležnost Sudišta i arbitražnog suda pri Sudištu utemeljuje se i kad je to propisano posebnim zakonom.
+Otklanjanje nadležnosti
+Članak 4.
+(1) Predsjedništvo Sudišta zaključkom će, najkasnije do osnivanja arbitražnog suda, otkloniti nadležnost Sudišta za odlučivanje u određenom sporu i kad je ona ugovorena, ako se sklopljeni ugovor o arbitraži odnosi na prava kojima stranke ne mogu slobodno raspolagati ili ako postoje razlozi iz članka 3. Pravilnika zbog kojih se nadležnost arbitražnog suda pri Sudištu ne može ugovoriti.
+(2) Predsjedništvo Sudišta može otkloniti nadležnost i kad su stranke ugovorile takvo mjesto, jezik, sastav, način osnivanja arbitražnog suda ili pravila o arbitražnom postupku zbog kojih će se arbitraža pred arbitražnim sudom moći provesti samo uz nerazmjerne teškoće ili troškove ili ako se time bitno odstupa od načina rješavanja sporova prema Pravilniku.
+(3) Kad predsjedništvo Sudišta zaključkom otkloni nadležnost u skladu s odredbama stavaka 1. i 2. ovoga članka, smatrat će se da ne postoji valjano sklopljen ugovor o nadležnosti arbitražnog suda pri Sudištu.
+(4) Svoju odluku o nadležnosti prema odredbi stavka 1. ovoga članka predsjedništvo Sudišta može donijeti na prijedlog tajništva Sudišta i predsjednika Sudišta, a prema odredbi stavka 2. ovoga članka na prijedlog predsjednika, tajnika Sudišta i arbitražnog suda.
+Određivanje vrijednosti predmeta spora
+Članak 5.
+(1) Ako je u tužbi ili protutužbi istaknuto više glavnih tužbenih zahtjeva, vrijednost predmeta spora utvrđuje se posebno za svaki od tih zahtjeva. Kamate, troškovi postupka i ostala sporedna traženja ne uzimaju se u obzir ako ne čine glavni zahtjev.
+(2) Zahtjev za isplatu ugovorne kazne smatra se glavnim zahtjevom.
+(3) Ako se tužbenim zahtjevom traži isplata određenog novčanog iznosa, vrijednost predmeta spora određuje se prema visini tog iznosa.
+(4) Ako se tužbenim zahtjevom ne traži isplata određenog novčanog iznosa, mjerodavna je vrijednost predmeta spora koju su tužitelj i protutužitelj naznačili u tužbi odnosno protutužbi. Ako predsjednik Sudišta, na poticaj tajnika Sudišta, protivne stranke ili arbitražnog suda, ocijeni da je vrijednost predmeta spora očito suviše visoko ili suviše nisko naznačena, zaključkom će, nakon što o tome omogući strankama da se izjasne, utvrditi vrijednost predmeta spora na koji se tužbeni zahtjev odnosi.
+(5) Vrijednost predmeta kolektivnih radnih sporova te »prisilnih arbitraža« ne može biti niža od 3.000.000,00 kuna.
+Prekid arbitražnog postupka u povodu postupka pred sudom
+Članak 6.
+(1) Ako je u istoj stvari među istim strankama pokrenuta parnica ili neki drugi postupak pred sudom, arbitražni sud može, ako nađe da za to postoje naročito važni razlozi, odrediti da se arbitražni postupak prekine dok se ne okonča parnični postupak pred sudom.
+(2) Ako se tijekom arbitražnog postupka otvori postupak predstečajne nagodbe ili stečajni postupak nad kojom od stranaka, arbitražni će se postupak prekinuti ili će nastupiti koja druga pravna posljedica u skladu s mjerodavnim arbitražnim i stečajnim pravom. Prema tim

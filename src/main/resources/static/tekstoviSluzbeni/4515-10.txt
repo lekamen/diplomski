@@ -1,0 +1,25 @@
+ položaju na cesti s nagibom.
+(2) Uređaj za kočenje iz stavka 1. ovoga članka mora imati:
+1) sustav radnog kočenja
+2) sustav pomoćnog kočenja
+3) sustav parkirnog kočenja.
+(3) Sustav radnog kočenja mora omogućiti vozaču da vozilo zaustavi na siguran, brz i učinkovit način, bez obzira na brzinu kretanja vozila, opterećenje vozila i nagib ceste. Sustav radnog kočenja mora omogućiti podešavanje jakosti kočenja s vozačkog mjesta, a da pri tom vozač ne ispušta upravljač iz ruku i u statičkim uvjetima ispitivanja, mora podjednako djelovati na kotače koji se nalaze na istoj osovini.
+(4) Sustav pomoćnog kočenja mora omogućiti vozaču da vozilo koči, odnosno da ga zaustavi na odgovarajućoj udaljenosti, ako otkaže sustav radnog kočenja. Sustav pomoćnog kočenja mora biti postavljen tako da ga vozač može lako i brzo upotrijebiti s vozačkog mjesta, pri čemu mu jedna ruka mora biti slobodna radi upravljanja vozilom.
+(5) Sustav parkirnog kočenja na vozilima kategorije M, N i O, mora biti takav da se pomoću njega parkirano vozilo zadrži u zakočenom položaju odgovarajućim mehaničkim uređajem. Sustav parkirnog kočenja mora biti postavljen u motornom vozilu tako da ga vozač može upotrijebiti s vozačkog mjesta, a u priključnom vozilu, tako da se može aktivirati izvan vozila.
+(6) Sustavom protiv blokiranja kotača (ABS) moraju biti opremljeni:
+– autobusi kojima najveća dopuštena masa prelazi 12 tona, osim autobusa za gradski promet,
+– teretni automobili i tegljači kojima najveća dopuštena masa prelazi 16 t, a koji su predviđeni za vuču prikolica kojima najveća dopuštena masa prelazi 10 t ili poluprikolica kojima zbroj najvećih osovinskih opterećenja prelazi 10 t,
+– prikolice kojima najveća dopuštena masa prelazi 10 t i poluprikolice kojima zbroj najvećih osovinskih opterećenja prelazi 10 t,
+– vozila za prijevoz opasnih tvari za koja je to propisano ADR-om.
+(7) Odredbe ovoga članka, osim odredbe iz stavka 1. ovoga članka, ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 19.
+(1) Sustavi radnog, pomoćnog i parkirnog kočenja vozila kategorije M i N mogu biti kombinirani tako da:
+a) postoje najmanje dvije komande neovisne jedna o drugoj i da komanda sustava radnog kočenja bude neovisna i odvojena od komande sustava parkirnog kočenja;
+b) komanda sustava pomoćnog kočenja bude neovisna o komandi sustava parkirnog kočenja, ako je sustav parkirnog kočenja takve konstrukcije da se ne može staviti u djelovanje pri kretanju vozila.
+(2) Sustav radnog kočenja motornih i priključnih vozila mora djelovati na sve kotače.
+(3) Radna i parkirna kočnica moraju djelovati na površinu koja je s kotačima stalno povezana dovoljno čvrstim dijelovima.
+(4) U slučaju kvara na uređaju za kočenje na bilo kojoj osovini priključnog vozila spojenog s vučnim vozilom, mora biti osigurano nesmetano kočenje uređajima za kočenje postavljenim u vučnom vozilu.
+(5) Uređaji ili programi kojima se osigurava neprekidno podešavanje jakosti kočenja razmjerno promjeni opterećenja na motornim i priključnim vozilima, osim na autobusima za gradski promet, na priključnim vozilima najveće dopuštene mase do 1,50 t i na priključnim vozilima s naletnom kočnicom, moraju biti ugrađeni i izvedeni tako da osiguravaju neprekidno podešavanje jakosti kočenja razmjerno promjeni opterećenja.
+(6) Odredba stavka 5. ovoga članka primjenjuje se na teretna i priključna vozila iznad 10 t i na autobuse iznad 7 t najveće dopuštene mase.
+(7) Uređaj za dugotrajno usporavanje na vozilima kategorije M i N najveće dopuštene mase iznad 5 t, koja su predviđena za vuču prikolica najveće dopuštene mase iznad 7 t, odnosno poluprikolica sa sedlom kod koje dio najveće dopuštene mase po osovini prelazi 9 t, te na vozilima kategorije M i N najveće dopuštene mase iznad 9 t, mora biti ugrađen i izveden tako da osigurava dugotrajno usporavanje vozila.
+(8) Struktura prijenosnog mehanizma sustava radnog kočenja na motornim vozilima najveće dopuštene mase iznad 10 t mora biti takva da se kočnice na osovinama

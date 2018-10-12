@@ -1,0 +1,35 @@
+vagu;
+– svakog gospodarskog subjekta kojem je isporučena vaga.
+(2) Gospodarski subjekti su obvezni podatke iz stavka 1. ovoga članka predočiti, na zahtjev, središnjem tijelu državne uprave nadležnom za mjeriteljstvo u razdoblju od deset (10) godina nakon što im je vaga isporučena odnosno tijekom deset (10) godina nakon što su isporučili vagu.
+III. SUKLADNOST VAGA
+Pretpostavka o sukladnosti vaga
+Članak 14.
+Pretpostavlja se sukladnost vaga s temeljnim zahtjevima iz Dodatka I. ovoga Pravilnika, za one vage koje su proizvedene prema usklađenim normama ili njihovim dijelovima a čiji je popis oznaka objavljen u »Službenom listu Europske unije«.
+Postupci ocjenjivanja sukladnosti
+Članak 15.
+(1) Sukladnost vage s temeljnim zahtjevima iz Dodatka I. ovoga Pravilnika može se utvrditi jednim od sljedećih postupaka ocjenjivanja sukladnosti po izboru proizvođača:
+a) modul B iz točke 1. Dodatka II. ovoga Pravilnika, nakon kojeg može slijediti modul D iz točke 2. Dodatka II., ili modul F iz točke 4. Dodatka II. ovoga Pravilnika.
+Modul B nije obvezan za vage koje ne upotrebljavaju elektroničke uređaje i čiji uređaj za mjerenje tereta ne koristi oprugu za uravnoteženje tereta. Na vage na koje se ne primjenjuje modul B, primijenit će se modul D1 iz točke 3. Dodatka II. ili modul F1 iz točke 5. Dodatka II. ovoga Pravilnika.
+b) modul G iz točke 6. Dodatka II. ovoga Pravilnika.
+(2) Zapisi i prepiske koji se odnose na postupke ocjenjivanja sukladnosti navedene u stavku 1. ovoga članka mogu biti na hrvatskom jeziku ili na nekom drugom jeziku koji prijavljeno tijelo prihvati.
+EU izjava o sukladnosti
+Članak 16.
+(1) EU izjavom o sukladnosti potvrđuje se da je dokazano zadovoljavanje temeljnih zahtjeva iz Dodatka I. ovoga Pravilnika.
+(2) EU izjava o sukladnosti mora biti sastavljena prema uzorku iz Dodatka IV. ovoga Pravilnika i sadržavati elemente određene u odgovarajućim modulima iz Dodatka II. ovoga Pravilnika i redovito se ažurirati. EU izjava o sukladnosti mora biti sastavljena na hrvatskom jeziku ili na nekom drugom jeziku koji je razumljiv službenicima središnjeg tijela državne uprave nadležnog za mjeriteljstvo.
+(3) Kada se na vagu primjenjuje više akata Europske unije kojima se zahtjeva EU izjava o sukladnosti, sastavlja se samo jedna EU izjava o sukladnosti. Navedena izjava sadrži popis primijenjenih pravnih akata Europske unije, navodeći gdje su službeno objavljeni.
+(4) Sastavljanjem EU izjave o sukladnosti proizvođač preuzima odgovornost za sukladnost vage sa zahtjevima utvrđenim ovim Pravilnikom.
+Oznaka sukladnosti
+Članak 17.
+Sukladnost vage, namijenjene za uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f), s odredbama ovoga Pravilnika obilježava se stavljanjem na vagu oznake CE i dodatne mjeriteljske oznake, kako je navedeno u članku 18. ovoga Pravilnika.
+Opća načela za oznaku CE i dodatnu mjeriteljsku oznaku
+Članak 18.
+(1) Za oznaku CE vrijede opća načela utvrđena člankom 30. Uredbe (EZ) br. 765/2008.
+(2) Dodatna mjeriteljska oznaka sastoji se od velikog slova »M« i dviju posljednjih znamenki godine njezina stavljanja uokvirenih pravokutnikom. Visina pravokutnika mora biti jednaka visini oznake CE.
+(3) Opća načela utvrđena u članku 30. Uredbe (EZ) br. 765/2008 primjenjuju se na odgovarajući način i na dodatnu mjeriteljsku oznaku.
+Pravila i uvjeti za stavljanje oznake CE i dodatne mjeriteljske oznake
+Članak 19.
+(1) Oznaka CE i dodatna mjeriteljska oznaka moraju se staviti na vagu ili u njezinu natpisnu pločicu na vidljiv, čitljiv i neizbrisiv način.
+(2) Oznaka CE i dodatna mjeriteljska oznaka moraju se staviti prije stavljanja vage na tržište.
+(3) Dodatna mjeriteljska oznaka mora se nalaziti neposredno iza oznake CE.
+(4) Iza oznake CE i dodatne mjeriteljske oznake mora se nalaziti identifikacijski broj prijavljenog tijela, ako je to tijelo bilo uključeno u fazu kontrole proizvodnje, u skladu s Dodatkom II. ovoga Pravilnika.
+Identifikacijski broj prijavljenog tijela mora staviti sâmo tijelo ili proizvođač, odnosno njegov

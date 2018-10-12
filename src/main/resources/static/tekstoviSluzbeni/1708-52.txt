@@ -1,0 +1,25 @@
+ došlo do ukidanja.
+10.15. Neke zalihe se mogu rasporediti na drugu imovinu, primjerice, zalihe koje se koriste kao komponenta dugotrajne materijalne imovine izrađene u vlastitoj izvedbi. Zalihe, koje su na ovaj način raspoređene na neku drugu imovinu priznaju se kao rashod tijekom vijeka upotrebe te imovine.
+MJERENJE
+10.16. Mjerenje zaliha se obavlja po troškovima nabave ili po neto utrživoj vrijednosti, ovisno o tome što je niže.
+10.17. U trošak zaliha potrebno je uključiti sve troškove nabave, troškove konverzije i ostale troškove nastale dovođenjem zaliha na sadašnju lokaciju i sadašnje stanje.
+10.18. U troškove nabave zaliha obuhvaća se kupovna cijena, uvozne carine, porezi (osim onih koje poduzetnik kasnije može povratiti od poreznih vlasti), troškovi prijevoza, rukovanje zalihama i drugi troškovi koji se mogu izravno pripisati stjecanju trgovačke robe, materijala i usluga. Trgovački i količinski popusti, te druge slične stavke oduzimaju se kod određivanja troškova nabave.
+10.19. Troškovi konverzije zaliha uključuju troškove izravno povezane s proizvodima kao što je izravan rad i slično. Oni također uključuju i sustavno raspoređene fiksne i varijabilne opći troškovi proizvodnje koji su nastali konverzijom materijala u gotove proizvode. Fiksni opći troškovi proizvodnje su neizravni troškovi proizvodnje koji ostaju relativno konstantni bez obzira na obujam proizvodnje, kao što su npr. trošak amortizacije, održavanja građevinskih objekata, opći troškovi pogona i slično.
+Varijabilni opći troškovi proizvodnje su neizravni troškovi proizvodnje koji ovise o obujmu proizvodnje, kao npr. indirektni materijal i rad u pogonu.
+10.20. Raspoređivanje fiksnih općih troškova proizvodnje na troškove konverzije temelji se na normalnom kapacitetu proizvodnje. Normalni kapacitet proizvodnje se definira kao količina proizvodnje koja se očekuje ostvariti u prosjeku tijekom određenog broja razdoblja ili sezona u normalnim uvjetima uzimajući u obzir planirano održavanje.
+Neraspoređeni fiksni opći troškovi priznaju se kao rashod razdoblja u kojem su nastali.
+10.21. Kad se u proizvodnom procesu proizvodi više proizvoda, a troškovi konverzije svakog proizvoda se ne mogu izravno identificirati, potrebno ih je racionalno i dosljedno raspoređivati na proizvode. Osnovica raspoređivanja može biti relativna vrijednost prodaje svakog proizvoda u fazi proizvodnog procesa.
+10.22. Ostali troškovi se uključuju u trošak zaliha samo u mjeri u kojoj su stvarno nastali u svezi dovođenja zaliha na sadašnju lokaciju i u sadašnje stanje, kao npr. opći neproizvodni troškovi ili troškovi dizajniranja proizvoda za određene kupce.
+10.23. Troškovi koji se ne priznaju u troškove zaliha, a priznaju se kao rashod razdoblja u kojem su nastali su npr.:
+– neuobičajeni troškovi otpadnog materijala, rada ili drugih proizvodnih troškova,
+– troškovi skladištenja, osim ako nisu nužno sastavni dio proizvodnog procesa prije iduće proizvodne faze,
+– administrativni opći troškovi koji ne doprinose dovođenju zaliha na sadašnju lokaciju i sadašnje stanje,
+– troškovi prodaje.
+10.24. Troškovi posudbe obuhvaćaju kamate i druge troškove koji nastanu na teret poduzetnika u svezi posudbe izvora financiranja imovine. U pravilu ovi troškovi trebaju teretiti rashode u razdoblju u kojem su nastali.
+Međutim, ako se troškovi posudbe mogu izravno pripisati stjecanju, izgradnji ili proizvodnji kvalificirane imovine uključuju se u nabavu ove imovine. Takvi troškovi posudbe se kapitaliziraju kao dio troška nabave te imovine, kada je vjerojatno da će poduzetniku pritjecati od njih buduće ekonomske koristi i ti se troškovi mogu pouzdano izmjeriti.
+Troškovi posudbe mogu obuhvatiti:
+– kamate na kratkoročne i dugoročne posudbe, te na prekoračenje na bankovnom računu,
+– amortizaciju diskonta ili premije vezane uz posudbu,
+– amortizaciju pomoćnih troškova koji nastaju u svezi s aranžmanima posudbe,
+– financijske troškove financijskog najma priznate u skladu s HRS 13 – Obveze,
+– tečajne razlike nastale

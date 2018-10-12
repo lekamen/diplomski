@@ -1,0 +1,42 @@
+sječu, iznos naknade se (E) utvrđuje kao cijena koštanja III. klase ogrjeva koja bi se postigla prodajom na panju.
+4. Iznos naknade (E) za šikare, šibljake, makije i garige utvrđuje se tako da se visina naknade za mladu degradiranu panjaču, prikladnu za melioraciju, umanji s faktorom 0,35.
+Članak 6.
+1. Trošak podizanja sastojina (c), za sve šume, utvrđuje se na temelju kalkulacije stvarnih troškova, koju svake godine izrađuje Trgovačko društvo, za namjene propisane člankom 2. stavkom 1. ovoga Pravilnika. Kalkulacija se izrađuje do 31. prosinca za narednu godinu.
+2. Postotak prirasta vrijednosti (p) utvrđuje se na temelju vrijednosti sastojine zrele za sječu (Vn) (na panju) i troškova podizanja sastojina (c) prema formuli:
+
+gdje su:
+• Vn – vrijednost na panju sastojine zrele za sječu
+• c – trošak podizanja sastojine
+• p – postotak prirasta vrijednosti
+• n – ophodnja sastojine zrele za sječu.
+3. Vrijednost na panju sastojine zrele za sječu (Vn) utvrđuje se na temelju tzv. modelne sastojine iz šumskogospodarskih planova ili na temelju prirasno-prihodnih tablica, pri čemu se za određenu vrstu drveća, propisanu ophodnju, obrast i omjer smjese odredi količina drva, procijeni postotni udio sortimenata, obračuna količina sortimenata i njihova vrijednost te od nje odbiju troškovi iskorištavanja šuma (sječe i izrade, privlačenja odnosno izvoza na pomoćno stovarište te za utovar u prijevozno sredstvo).
+4. Modelna sastojina iz točke 3 stavka 1. ovoga članka odabire se tako da se iz šumskogospodarskih planova ili prirasno prihodnim tablicama (stvarna količina drva za tu godinu starosti) odabere takva sastojina kojoj bi predmetna sastojina sličila u vrijeme njezine zrelosti za koju se izračunava naknada. Svi ostali elementi i troškovi uzimaju se prema prosjeku redovnoga godišnjeg plana odnosno rebalansa plana.
+5. Postotak prirasta vrijednosti (p) utvrđuje se prema ophodnji modelne sastojine iz tablica za produljenje iz ove jednadžbe:
+
+6. Postotak prirasta vrijednosti (p) iznosi kako slijedi:
+a) za sastojine iz sjemena:
+• sve vrste hrastova – 2,50 %,
+• jasen – 2,25 %,
+• ostale vrste – 2,00 %,
+• plantaže euroameričkih topola – 6,00 %
+• intenzivne kulture brzorastućih vrsta (borovac, duglazija i dr.) i intenzivne kulture euroameričkih topola u šumskom uzgoju – 4,00%.
+b) za sastojine iz panja:
+• sve vrste tvrdih listača osim bagrema, kestena i listača na kršu – 1,50 %,
+• bagrem, kesten te listače na kršu – 1,75 %
+• meke listače – 2,00 %.
+Utvrđivanje naknada za šumska zemljišta
+Članak 7.
+Naknada za šumsko zemljište koje se izdvaja iz šumskogospodarskog područja Republike Hrvatske obračunava se u iznosu od 10.000,00 kn/ha
+Članak 8.
+(1) Naknada za šumsko zemljište, u svrhu osnivanja prava služnosti na šumi i šumskom zemljištu, osim u svrhu osnivanja prava služnosti na šumi i šumskom zemljištu u svrhu eksploatacije mineralnih sirovina, određuje se tako da se od Ministarstva financija, poreznih ureda zatraži prometna vrijednost šumskog zemljišta u katastarskoj općini.
+(2) Ukoliko nema prometa šumskog zemljišta u predmetnoj katastarskoj općini, naknada će se obračunati prema najnižoj vrijednosti prometa poljoprivrednog zemljišta u istoj ili susjednoj katastarskoj općini.
+(3) Kada porezni uredi dostave prometnu vrijednost zemljišta u rasponu cijena za cijelu katastarsku općinu ili područje, za utvrđivanje naknade za šumsko zemljište se koristi srednja vrijednost toga raspona.
+(4) Naknada za šumsko zemljište, u svrhu osnivanja prava služnosti na šumi i šumskom zemljištu, osim u svrhu osnivanja prava služnosti na šumi i šumskom zemljištu u svrhu eksploatacije mineralnih sirovina, obračunava se po formuli:
+
+gdje su:
+Nz – naknada za šumsko zemljište
+Pvz – prometna vrijednost šumskog zemljišta
+n – broj godina na koje se osniva pravo služnosti
+P – površina služnosti
+Ukoliko se osniva služnost koja nije vremenski ograničena, vrijednost n iznosi 100.
+(5) Naknada za šumsko zemljište u svrhu osnivanja prava služnosti na šumi i šumskom zemljištu u svrhu

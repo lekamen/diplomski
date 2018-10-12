@@ -1,0 +1,29 @@
+ Pružatelj usluge EENC ili ovlašteni predstavnik će:
+1. staviti u uporabu jedan (ili više) primjeraka koji predstavlja predviđeni proizvod;
+2. pratiti način rada komponenata interoperabilnosti pomoću postupka koji je Subjekt (subjekti) za naplatu cestarine dogovorio i pregledao;
+3. dati dokaz Subjektu (subjektima) za naplatu cestarine da komponente interoperabilnosti ispunjavaju sve uvjete interoperabilnosti ovog (ovih) Subjekta (subjekata) za naplatu cestarine;
+4. formulirati EZ izjavu o sukladnosti, koja uvjetuje dobivanje certifikata EZ-a o pregledu oblikovanja, a isporučuje ga Subjekt (subjekti) za naplatu cestarine. EZ izjava o sukladnosti obuhvaća ocjenjivanje koje provodi Subjekt (subjekti) za naplatu cestarine za prikladnost za uporabu komponenata interoperabilnosti usluge EENC.
+Subjekt (subjekti) za naplatu cestarine će:
+1. se složiti s programom za potvrdu valjanosti kroz iskustvo tijekom rada;
+2. odobriti postupke za praćenje načina rada unutar usluge u svojim domenama pod naplatom te će provoditi posebne provjere;
+3. ocijeniti interoperabilnost tijekom rada sa svojim sustavom;
+4. atestirati prikladnost za uporabu na svojim domenama pod naplatom u slučaju uspješnog načina rada komponenata interoperabilnosti;
+(b) ili podnijeti zahtjev prijavljenom tijelu. U tom slučaju,
+proizvođač, Pružatelj usluge EENC ili ovlašteni predstavnik će:
+1. staviti u uporabu jedan (ili više) primjeraka koje predstavlja predviđeni proizvod;
+2. pratiti način rada komponenata interoperabilnosti pomoću postupka koji je prijavljeno tijelo dogovorilo i pregledalo (usklađeno s pripadajućim Modulima Odluke br. 768/2008/EZ)
+3. dati dokaz prijavljenom tijelu da komponente interoperabilnosti ispunjavaju sve uvjete interoperabilnosti, uključujući rezultate iskustva stečenog tijekom rada;
+4. formulirati Izjavu o sukladnosti za uporabu, koja uvjetuje dobivanje certifikata EZ-a o pregledu oblikovanja, a isporučuje ga prijavljeno tijelo. Certifikat EZ o pregledu oblikovanja obuhvaća ocjenjivanje/procjenu za sukladnost s temeljnim zahtjevima koje provodi prijavljeno tijelo za uporabu komponenata interoperabilnosti usluge EENC unutar usluge EENC odabranog (odabranih) Subjekta (subjekata) za naplatu cestarine, a osobito u slučajevima kada su uključeni međusklopovi, koji se odnose na tehničke specifikacije, posebice one funkcionalne prirode, koje je potrebno provjeriti;
+i prijavljeno tijelo će:
+1. uzeti u obzir deklaraciju usklađenosti sa specifikacijama. Stoga pregled tijekom rada neće iznova vrednovati specifikacije koje su već obuhvaćene deklaracijom o usklađenosti, osim kada postoje dokazi da su problemi neinteroperabilnosti na koje se naišlo povezani s takvim specifikacijama;
+2. organizirati suradnju sa Subjektom (subjektima) za naplatu cestarine koje je odabrao proizvođač;
+3. provjeriti tehničku dokumentaciju i program za potvrdu valjanosti kroz iskustvo tijekom rada;
+4. odobriti postupke za praćenje načina rada i usluge i provoditi poseban nadzor;
+5. procijeniti način rada interoperabilnosti sa sustavom i operativnim procesima Subjekta (subjekata) za naplatu cestarine;
+6. izdati certifikat EZ-a o pregledu oblikovanja u slučaju uspješnog načina rada komponenata interoperabilnosti;
+7. izdati izvješće s objašnjenjem u slučaju neuspješnog načina rada komponenata interoperabilnosti. U izvješću će se također razmatrati problemi koji bi mogli proizaći kao rezultat neusklađenosti sustava i procesa Subjekta za naplatu sa relevantnim standardima i tehničkim specifikacijama. U izvješću će prema potrebi biti navedene preporuke u svrhu rješavanja problema.
+3. Sadržaj EZ Izjave o sukladnosti
+EZ Izjava o sukladnosti s temeljnim zahtjevima te popratni dokumenti moraju biti datirani i potpisani.
+Izjava o sukladnosti mora biti napisana na istom jeziku kao i upute, te mora sadržavati sljedeće:
+(a) reference Direktive;
+(b) ime i adresu proizvođača, Pružatelja usluge EENC ili ovlaštenog predstavnika sa sjedištem u Zajednici (trgovački naziv i punu adresu a u slučaju

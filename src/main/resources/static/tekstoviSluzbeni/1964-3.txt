@@ -1,0 +1,20 @@
+ točke 1. Zakona vrednuju se sukladno odredbama ovoga Pravilnika koji uređuje vrednovanje ulaganja u prenosive vrijednosne papire.
+Članak 8.
+(1) Prilikom inicijalnog ulaganja u pojedini prenosivi vrijednosni papir, instrument tržišta novca ili financijsku izvedenicu društvo za upravljanje dužno je internim aktom definirati na koji način će isti u imovini ili obvezama UCITS fonda vrednovati. Interni akt mora minimalno sadržavati:
+a) primarni izvor cijene za vrednovanje, odnosno primarno tržište na kojem se trguje prenosivim vrijednosnim papirom, instrumentom tržišta novca ili financijskom izvedenicom u koji UCITS fond ulaže te s kojeg se primjenjuje kotirana cijena za potrebe vrednovanja,
+b) sekundarni izvor cijene, ukoliko postoji i uvjete u kojima će se koristiti cijena iz sekundarnog izvora, u slučaju da ne postoji cijena iz članka 7. stavaka 1., 2., 3. i 5. i članka 9. stavka 1. ovoga Pravilnika na primarnom tržištu iz točke a) ovoga stavka,
+c) tehnike procjene koje će koristiti prilikom utvrđivanja fer vrijednost vrijednosnih papira, instrumenata tržišta novca ili financijske izvedenice u slučaju neispunjavanja uvjeta aktivnog tržišta (neaktivno tržište).
+(2) Ako za prenosivi vrijednosni papir, instrument tržišta novca ili financijsku izvedenicu ne postoji aktivno tržište, koje je definirano odredbama članka 10. ovoga Pravilnika, potrebno je primijeniti odredbe članka 11. ovoga Pravilnika.
+Financijske izvedenice
+Članak 9.
+(1) Financijske izvedenice kojima se trguje na uređenim tržištima iz članka 249. stavka 1. točka 5. Zakona vrednuju se po javno dostupnoj dnevnoj cijeni obračuna (settlement price) na tržištima iz članka 249. stavka 1. točke 1. Zakona ili službenim financijsko-informacijskim servisima.
+(2) Iznimno, financijske izvedenice za koje na tržištu nije dostupna cijena iz stavka 1. ovoga članka vrednuju se po fer vrijednosti za dan vrednovanja na način da se zadnja cijena ponude na kupnju, koja je dostupna na službenom financijsko-informacijskom servisu, primjenjuje za na taj način zauzete duge pozicije, dok se službeno dostupna cijena zadnje ponude za prodaju primjenjuje za na taj način zauzete kratke pozicije.
+(3) Devizne terminske transakcije vrednuju se po fer vrijednosti primjenom referentnih kamatnih stopa za određenu valutu (Zibor, Euribor, Libori sl.) koje su dostupne na službenom financijsko-informacijskom servisu te se pritom kao referentni tečaj uzima srednji tečaj Hrvatske narodne banke. Tako dobiveni forward tečaj netira se s ugovorenim forward tečajem za dan vrednovanja.
+(4) Društvo za upravljanje dužno je u računovodstvenim politikama UCITS fonda propisati vrednovanje OTC izvedenica, ako je prospektom UCITS fonda predviđeno ulaganje u OTC izvedenice.
+(5) Prilikom sastavljanja procjene fer vrijednosti OTC izvedenica društvo za upravljanje dužno je osigurati i odgovarajućom dokumentacijom potvrditi da se prilikom vrednovanja OTC izvedenica UCITS fonda koriste fer vrijednosti koje se ne temelje isključivo na tržišnim cijenama koje kotira druga ugovorna strana u transakcijama na neformalnom tržištu i koje ispunjavaju sljedeće uvjete:
+a) osnova za fer vrijednost je relevantna tržišna vrijednost preuzeta od odgovarajućeg izvora ili ako takva vrijednost nije dostupna, vrijednost izračunata odgovarajućom metodom procjene fer vrijednosti,
+b) potvrda vrednovanja provedena je od:
+– treće strane neovisne od druge ugovorne strane OTC izvedenice, redovito i na takav način da UCITS fond istu može provjeriti ili
+– primjerene organizacijske jedinice unutar društva za upravljanje neovisne od djelatnosti upravljanja imovinom UCITS fonda.
+(6) Društvo za upravljanje dužno je, u smislu stavka 5. ovoga članka te uzimajući u obzir vrstu i složenost OTC izvedenica uspostaviti, provoditi, redovito ažurirati i primjereno dokumentirati mjere i postupke koji osiguravaju primjereno, transparentno i fer vrednovanje ulaganja UCITS fonda u OTC izvedenice.
+(7) Iznimno od stavaka 1., 2. i 3. ovoga članka, društvo za upravljanje može 

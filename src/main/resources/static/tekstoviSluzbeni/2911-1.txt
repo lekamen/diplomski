@@ -1,0 +1,30 @@
+prava na:
+1. sudjelovanje u dobiti iz njihovih osiguranja, odnosno drugih prava na temelju ugovora o osiguranju (bonusi), osim ako se za ta osiguranja oblikuje matematička pričuva,
+2. buduće djelomično sniženje premije (popusti),
+3. povrat dijela premije za nepotrošeno vrijeme osiguranja zbog prijevremenog prestanka osiguranja (storno) osim ako za navedeno već nije formirana pričuva za prijenosnu premiju.
+Pričuve šteta
+Članak 6.
+(1) Pričuve šteta oblikuju se u visini procijenjenih obveza koje je Društvo dužno isplatiti na temelju onih ugovora o osiguranju kod kojih je osigurani slučaj nastupio prije kraja obračunskog razdoblja, uključujući sve troškove koji na temelju tih ugovora terete Društva.
+(2) Pričuve šteta moraju, pored procijenjenih obveza za nastale prijavljene ali još neriješene štete, obuhvaćati i procijenjene obveze za već nastale ali još neprijavljene štete.
+(3) Minimalni standardi, način obračuna i mjerila za izračun pričuva šteta prilog su ovog Pravilnika i čine njegov sastavni dio.
+Pričuve za kolebanje šteta
+Članak 7.
+(1) Pričuve za kolebanje šteta namijenjene su izravnanju neravnomjernog nastajanja štetnih događaja. Društvo može oblikovati pričuve za kolebanje šteta u onim vrstama osiguranja za koje se na temelju statističkih podataka mogu očekivati značajnija odstupanja godišnjeg iznosa šteta i to na temelju odstupanja kvote šteta obračunskog razdoblja od prosječne kvote šteta u promatranom razdoblju.
+(2) Minimalni standardi, način obračuna i mjerila za izračun pričuva za kolebanje šteta prilog su ovog Pravilnika i njegov sastavni dio.
+Druge tehničke pričuve prema računovodstvenim propisima
+Članak 8.
+Druge tehničke pričuve prema računovodstvenim propisima oblikuje Društvo s obzirom na predviđene buduće obveze i rizike od velikih šteta koji proizlaze iz ugovora o osiguranju odnosno ugovora o reosiguranju od odgovornosti za nuklearne štete ili odgovornosti proizvođača za farmaceutske proizvode, potresa, poplave te druge obveze i rizike u vezi kojih ne oblikuje: pričuve za prijenosne premije, pričuve za bonuse i popuste, pričuve šteta, posebne pričuve, pričuve za kolebanje šteta i matematičke pričuve.
+Matematičke pričuve
+Članak 9.
+(1) Matematičke pričuve oblikuju se u visini sadašnje vrijednosti procijenjenih budućih obveza Društva na temelju sklopljenih ugovora o osiguranju umanjenu za sadašnju procijenjenu vrijednost budućih premija koje će biti uplaćene na temelju ovih ugovora o osiguranju, a izračunavaju se primjenom odgovarajućeg aktuarskog vrednovanja koje uzima u obzir sve buduće obveze Društva na temelju pojedinog ugovora o osiguranju, uključujući:
+1. zajamčene isplate na koje osiguranik ima pravo,
+2. bonuse na koje osiguranik ima pravo, samostalno ili zajedno s drugim osiguranicima, bez obzira na to u kojem su obliku izraženi,
+3. druga prava koja osiguranik može imati na temelju ugovora o osiguranju,
+4. troškove, uključujući provizije.
+(2) Pri izboru metode aktuarskog vrednovanja Društvo mora na odgovarajući način uzimati u obzir i metode vrednovanja imovine koja služi za pokriće matematičke pričuve.
+(3) Društvo mora izračunavati matematičku pričuvu posebno za svaki ugovor o osiguranju.
+Primjena odgovarajućih približnih vrijednosti odnosno poopćavanja dopuštena je samo ako je vjerojatno da će njihova primjena dovesti do približno jednakog rezultata kao pojedinačni izračun.
+(4) Kada ugovaratelj osiguranja ima na temelju ugovora o osiguranju pravo na isplatu otkupne vrijednosti, matematička pričuva oblikovana u vezi s tim ugovorom ne smije biti manja od otkupne vrijednosti.
+(5) Društvo je dužno u dodatku uz godišnje izvješće navesti osnovice i metode kojima se služi pri izračunu matematičkih pričuva.
+(6) Minimalni standardi, način obračuna i mjerila za matematičku pričuvu životnih osiguranja i drugih osiguranja za koja se obračunava matematička pričuva te posebnu pričuvu životnih osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja prilog su ovog Pravilnika i čine njegov sastavni dio.
+Posebne 

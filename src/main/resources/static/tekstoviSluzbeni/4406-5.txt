@@ -1,0 +1,23 @@
+ otpada koja ne odgovara podacima iz prateće dokumentacije ili ako je prateća dokumentacija nepotpuna, odnosno ako manjkaju potrebni propisani podaci.
+(10) Izvješće o ispitivanju fizikalnih i kemijskih svojstava otpada sukladno akreditiranoj metodi mora minimalno sadržavati slijedeće parametre: točku paljenja, toplinsku vrijednost, udio halogena, vode, sumpora, pepela, polikloriranih bifenila PCB-a i teških metala: kroma (Cr), kadmija (Cd), žive (Hg), olova (Pb), nikla (Ni), vanadija (V), te sve ostale eventualno potrebne parametre prema zahtjevu obrađivača.
+(11) U slučaju opravdane sumnje na točnost podataka u pratećem listu i/ili deklaraciji o fizikalnim i kemijskim svojstvima otpada i/ili izvješću o ispitivanju fizikalnih i kemijskih svojstava otpada, obrađivač vraća pošiljku ili je u dogovoru s pošiljateljem privremeno skladišti, a pošiljatelj osigurava provjeru podataka i snosi troškove ponovnog ispitivanja i skladištenja otpada.
+IV. NAČIN ZAŠTITE ZRAKA, TLA I VODA U POSTROJENJU ZA SPALJIVANJE I SUSPALJIVANJE OTPADA
+Članak 12.
+(1) Postrojenja za spaljivanje ili suspaljivanje otpada moraju udovoljavati svim posebnim propisima o zaštiti zraka, voda i tla uključujući i sve obveze mjerenja, kontrole mjernih uređaja, zapisivanja, izvješćivanja i čuvanja zapisa kako bi se poštivali svi uvjeti rada postrojenja.
+(2) Granične emisije onečišćujućih tvari u zrak i vodu propisane su u posebnim propisima o zaštiti zraka i voda.
+(3) Praćenje i kontrola emisija provodi se sukladno posebnim propisima o zaštiti zraka i voda.
+V. NAČIN GOSPODARENJA OSTATNIM OTPADOM U POSTROJENJU ZA SPALJIVANJE I SUSPALJIVANJE OTPADA
+Članak 13.
+(1) Ostaci postrojenja za spaljivanje ili suspaljivanje otpada moraju se obraditi i/ili oporabiti u samom postrojenju kada za to postoje uvjeti ili izvan postrojenja prema propisima o gospodarenju otpadom. Količine i štetna svojstva ostataka moraju se smanjiti na minimum i oporabiti ili reciklirati u najvećoj mogućoj mjeri. Ostaci koji se ne mogu niti izbjeći niti iskoristiti moraju se odložiti ili konačno zbrinuti prema važećim propisima o gospodarenju otpadom.
+(2) Prije utvrđivanja postupaka za obradu, oporabu ili konačno zbrinjavanje moraju se propisanim postupcima odrediti fizikalna i kemijska svojstva ostataka, ukupni sadržaj onečišćujućih tvari i ukupan sadržaj vodotopivih tvari kao i vodotopivi sadržaj teških metala. Zapisi analitičkih izvještaja moraju se čuvati najmanje jednu godinu.
+(3) Tijekom rukovanja, otpremanja, prijevoza i među skladištenja (privremenog skladištenja) suhog praškastog ostataka od obrade otpadnih plinova mora se osigurati sprječavanje njihovog raspršivanja u zrak i okoliš.
+VI. INFORMIRANJE I SUDJELOVANJE JAVNOSTI
+Članak 14.
+(1) Nadležno tijelo za izdavanje dozvola za spaljivanje i suspaljivanje otpada uz propisani postupak informiranja i sudjelovanja javnosti o podnesenom zahtjevu za izdavanje dozvole iz Zakona, provodi i postupak informiranja javnosti o svim podnesenim zahtjevima za dozvole za spaljivanje i suspaljivanje otpada.
+(2) Informiranje javnosti o svim podnesenim zahtjevima iz stavka 1. ovoga članka provodi se na mrežnoj stranici Ministarstva u roku od 30 dana od podnošenja zahtjeva za izdavanje dozvole sukladno posebnom propisu.
+(3) Popis postrojenja za spaljivanje i suspaljivanje otpada na teritoriju Republike Hrvatske objavljuje se na internetskim stranicama Hrvatske agencije za okoliš i prirodu.
+VII. POSEBNI UVJETI ZA OSTALE POSTUPKE TERMIČKE OBRADE OTPADA
+Članak 15.
+(1) Osnovni načini i uvjeti rada, za postrojenja u kojima se primjenjuju i ostali postupci termičke obrade, određeni su NRT-om za djelatnost kojom se mogu prouzročiti emisije kojima se onečišćuju tlo, zrak i vode, a koje su propisane posebnim propisom.
+(2) Zahtjev za dozvolu za gospodarenje otpadom postupcima ostale termičke obrade otpada uz propisano Zakonom, mora obuhvaćati opis mjera koje su predviđene kako bi jamčile ispunjavanje sljedećih zahtjeva:
+– postrojenje je projektirano i opremljeno sukladno

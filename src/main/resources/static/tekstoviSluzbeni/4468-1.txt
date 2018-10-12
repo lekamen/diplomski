@@ -1,0 +1,64 @@
+ dispečiranje
+2. opisati značaj zvijezde života
+3. nabrojati osnovne zadatke medicinske prijavno-dojavne jedinice
+4. poznavati područja djelovanja medicinske prijavno-dojavne jedinice
+5. objasniti utjecaj medicinske prijavno-dojavne jedinice na preživljavanje
+6. objasniti ulogu MPDJ u upravljanju sustavom HMS i drugih zdravstvenih djelatnosti
+7. opisati nadzor stanja timova HMS.
+3. OSNOVNI RADNI PROCESI MEDICINSKE PRIJAVNO- -DOJAVNE JEDINICE
+Završetkom ove tematske cjeline polaznik će shvatiti pet osnovnih radnih procesa medicinske prijavno-dojavne jedinice.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. nabrojati osnovne radne procese MPDJ
+2. objasniti proces preuzimanja poziva
+3. definirati proces davanja osnovnih uputa
+4. objasniti proces davanja uputa za pružanje prve pomoći preko telefona
+5. opisati proces pružanja intervencija
+6. opisati proces nadziranja stanja timova.
+4. OSNOVE KOMUNIKACIJE U DISPEČERSTVU
+Završetkom ove tematske cjeline polaznik će cijeniti značaj dobre komunikacije s pozivateljem, poznavati načine sprječavanja najčešćih komunikacijskih pogrešaka i razlikovati osnovne tehnike savladavanja problematičnih poziva.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. nabrojati 4 komponente komunikacije
+2. opisati smetnje u komunikaciji kod pošiljatelja, medija i primatelja
+3. objasniti značaj brzog odgovora za bolje komuniciranje
+4. definirati loše komuniciranje i objasniti kako ga poboljšati
+5. objasniti kako poboljšati slušanje
+6. objasniti kako poboljšati govor
+7. nabrojati 5 pogrešnih izjava
+8. objasniti vodeću ulogu u komunikaciji
+9. objasniti problematične pozive
+10. opisati smirivanje uspaničene, agitirane i agresivne osobe.
+5. TEHNIČKA POTPORA I MODELI ODLUČIVANJA U MEDICINSKOJ PRIJAVNO-DOJAVNOJ JEDINICI
+Završetkom ove tematske cjeline polaznik će razlikovati svrhu, strukturu i način korištenja različitih modela odlučivanja u medicinskoj prijavno dojavnoj jedinici te raspraviti tehničku potporu medicinske prijavno-dojavne jedinice.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. definirati telekomunikacijski sustav
+2. opisati radio sustav i njegovu funkcionalnost
+3. opisati kompjutorski podržan dispečerski sustav
+4. objasniti dispečerske modele odlučivanja
+5. usporediti različite modele odlučivanja.
+6. POSTUPCI U SLUČAJU IZVANREDNIH SITUACIJA
+Završetkom ove tematske cjeline polaznik će shvatiti osnovne postupke medicinske prijavno-dojavne jedinice u izvanrednim situacijama.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. nabrojati vrste i utjecaj izvanrednih situacija na rad MPDJ
+2. definirati moguća rješenja u slučajevima unutarnjih izvanrednih događaja
+3. definirati moguća rješenja u slučajevima vanjskih izvanrednih događaja.
+7. DOKUMENTIRANJE U MEDICINSKOJ PRIJAVNO- -DOJAVNOJ JEDINICI
+Završetkom ove tematske cjeline polaznik će shvatiti značaj vođenja medicinske dokumentacije i način dokumentiranja u medicinskoj prijavno-dojavnoj jedinici.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. opisati značaj dokumentiranja u MPDJ
+2. objasniti osnove dokumentiranja
+3. definirati minimalan broj podataka za dokumentiranje
+4. definirati izvorne podatke o događaju, podatke o pacijentu i podatke o intervenciji.
+8. KVALITETA U MEDICINSKOJ PRIJAVNO-DOJAVNOJ JEDINICI
+Završetkom ove tematske cjeline polaznik će shvatiti značaj sustava cjelovitog upravljanja kvalitetom u medicinskoj prijavno- -dojavnoj jedinici.
+Znanja
+Na kraju ove tematske cjeline polaznik će:
+1. opisati sustav cjelovitog upravljanja kvalitetom
+2. objasniti pokazatelje kvalitete u MPDJ
+3. objasniti standarde kvalitete u MPDJ.
+9. UPOZNAVANJE SA STRUKTUROM HRVATSKOG INDEKSA PRIJEMA HITNOG POZIVA
+Završetkom ove tematske cjeline polaznik će shvatiti strukturu Indeksa i moći odabrati dispečersku karticu koja se odnosi na glavni problem, kriterij i odgovarajuće savjete pozivatelju. Također, polaznik će razumjeti da alternativne dispečerske kartice, ako je primjenljivo, u konačnici dovode do izbora istog prioriteta hitnosti.

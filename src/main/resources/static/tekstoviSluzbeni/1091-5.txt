@@ -1,0 +1,31 @@
+ protusabotažnom metalnom kućištu odgovarajuće klase protuprovalnosti s dojavom neovlaštenog pristupa snimaču ili se video signal može odaslati na izdvojenu lokaciju na kojoj se snima
+– interni i eksterni bankomati moraju imati neprekidni nadzor komunikacijske veze bankomata s dojavnim centrom, a sefovi bankomata moraju imati EN 1143-1 europski certifikat za protuprovalnost
+– dnevno-noćni trezori banaka štite se protuprovalnim sustavom koji registrira i dojavljuje nasilni pokušaj ulaza u trezor na centralni dojavni sustav zaštitarske tvrtke te obveznim neprekidnim video-nadzorom koji pokriva vanjski korisnički dio trezora, s pohranom video-zapisa. Konstrukcija depozitnog sefa za dnevno-noćne trezore mora imati EN 1143-2 europski certifikat za protuprovalnost
+– sigurnosni depozitni spremnici u koje se pohranjuje novac i vrijednosti štite se kombiniranom zaštitom (minimalno protuprovalni sustav s dojavom na centralni dojavni sustav zaštitarske tvrtke ili zvučnim alarmom te mehanička zaštita putem učvršćenja spremnika za čvrstu podlogu i načinom otvaranja vrata putem elektromehaničkih brava sa šiframa ili suključarstvom).
+5. Stambene štedionice štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene ili vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+– pohranom dnevnog manipulativnog novca u ladice s mehaničkim ili elektroničkim otvaranjem ili kase s mehaničkim ili elektroničkim otvaranjem.
+6. Poštanski uredi:
+6.1. Mali poštanski uredi koji imaju do tri uplatno-isplatna mjesta i/ili prosječni dnevni promet na godišnjoj razini do 30.000,00 kuna štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene ili vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video -zapisa u digitalnom obliku
+– pohranom dnevnog manipulativnog novca u ladice s mehaničkim ili elektroničkim otvaranjem odnosno kase s mehaničkim ili elektroničkim otvaranjem.
+6.2. Srednji poštanski uredi koji imaju od četiri do deset uplatno-isplatnih mjesta i/ili prosječni dnevni promet na godišnjoj razini od 30.000,01 do 150.000,00 kuna štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+– pohranom dnevnog manipulativnog novca u ladice s vremenskom odgodom otvaranja odnosno kase s vremenskom odgodom otvaranja.
+6.3. Veliki poštanski uredi koji imaju više od deset uplatno-isplatnih mjesta i/ili prosječni dnevni promet na godišnjoj razini veći od 150.000,00 kuna štite se:
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+– pohranom dnevnog manipulativnog novca u ladice s vremenskom odgodom otvaranja odnosno kase s vremenskom odgodom otvaranja
+– tjelesnom zaštitom.
+6.4. Pokretni poštanski uredi štite se:
+– sustavom video-nadzora unutar objekta koji se sastoji od minimalno dvije video-kamere odgovarajućih karakteristika i funkcionalnosti za vozila, s pohranom video-zapisa u digitalnom obliku
+– primjenom protuprovalnog i protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+– pohranom dnevnog manipulativnog novca u ladice s vremenskom odgodom otvaranja odnosno kase s vremenskom odgodom otvaranja
+– 

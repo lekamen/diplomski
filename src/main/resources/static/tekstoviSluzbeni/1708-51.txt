@@ -1,0 +1,30 @@
+ kratkotrajna materijalna imovina:
+– koja se drži zbog prodaje u redovnom toku poslovanja,
+– koja se drži u procesu proizvodnje za navedenu prodaju ili
+– u obliku materijala ili dijelova koji će biti utrošeni u procesu proizvodnje ili u postupku pružanja usluga.
+Zalihe slijedom reprodukcijskog ciklusa obuhvaćaju sljedeće oblike:
+– zalihe sirovina i drugog materijala koji ulazi u supstancu gotovog proizvoda,
+– zalihe rezervnih dijelova i drugog materijala koji ne ulazi u supstancu gotovih proizvoda,
+– zalihe nedovršene proizvodnje i poluproizvoda,
+– zalihe gotovih proizvoda,
+– zalihe trgovačke robe i drugo
+– kratkotrajnu biološku imovinu.
+10.4. Neto utrživa vrijednost je procijenjena prodajna cijena u toku redovnog poslovanja umanjena za procijenjene troškove dovršenja i procijenjene troškove koji su nužni za obavljanje prodaje. To je neto iznos kojeg poduzetnik očekuje realizirati prodajom zaliha u redovitom toku poslovanja. Neto utrživa vrijednost ne mora biti jednaka fer vrijednosti umanjenoj za troškove prodaje. Ona je specifična vrijednost za poduzetnika.
+10.5. Fer vrijednost je iznos koji bi trebalo primiti za prodanu imovinu ili platiti za podmirenje obveze u uobičajenoj transakciji između sudionika na tržištu na dan mjerenja vrijednosti.
+10.6. Trošak nabave je iznos novca ili novčanih ekvivalenata koji se plaća ili fer vrijednost ostalih naknada koje se daju za stjecanje neke imovine u vrijeme njezina stjecanja ili izgradnje, ili, ako je primjenjivo, iznos koji se može pripisati toj imovini kod početnog priznavanja u skladu sa zahtjevima drugih HSFI.
+10.7. Troškovi proizvodnje znače vrijednost utrošenih sirovina, potrošnog materijala i drugi troškovi koji su neizravno pripisivi predmetnom proizvodu. Uključuju razumni udjel fiksnih i varijabilnih općih troškova nastalih u razdoblju proizvodnje koji se neizravno pripisuju predmetnom proizvodu. Troškovi distribucije ne uključuju se.
+SADRŽAJ
+10.8. Ovaj standard sadrži načela, pravila i metode za utvrđivanje oblika zaliha, njihovo mjerenje, priznavanje i evidentiranje. Obuhvaća sve zalihe poduzetnika, osim:
+– nedovršenih radova temeljem ugovora o izgradnji uključivši izravno povezane ugovore o pružanju usluga,
+– financijskih instrumenata,
+– biološke imovine povezane s poljoprivrednom djelatnošću i poljoprivrednim proizvodima u trenutku žetve (HSFI 17 – Poljoprivreda).
+10.9. Ovaj standard se ne primjenjuje na mjerenje zaliha:
+– robe brokera – trgovaca koji svoje zalihe mjere po fer vrijednosti umanjenoj za troškove prodaje. Ako se ove zalihe mjere po fer vrijednosti umanjenoj za troškove prodaje, promjene fer vrijednosti umanjene za troškove prodaje priznaju se u okviru računa dobiti ili gubitka u razdoblju u kojem je promjena nastala.
+PRIZNAVANJE
+10.10. Priznavanje je proces uvrštavanja stavke u bilancu, te u račun dobiti i gubitka, koja udovoljava definiciji elemenata financijskih izvještaja za njeno priznavanje.
+10.11. Stavka koja udovoljava definiciji elemenata financijskih izvještaja treba se priznati ako:
+– je vjerojatno da će buduće ekonomske koristi povezane s tom stavkom ulaziti poduzetniku ili izlaziti iz njega i
+– stavka ima trošak ili vrijednost koja se može pouzdano izmjeriti.
+10.12. Zalihe se priznaju u bilanci kada je vjerojatno da će buduće ekonomske koristi pritjecati poduzetniku, i kada zalihe imaju troškove ili vrijednosti koja se pouzdano mogu izmjeriti.
+10.13. Prodaja zaliha priznaje se u prihode u računu dobiti i gubitka, jer se očekuje povećanje budućih ekonomskih koristi.
+10.14. Kad su zalihe prodane, knjigovodstvenu vrijednost tih zaliha treba priznati kao rashod razdoblja u kojem su priznati odnosni prihodi. Iznos bilo kojeg otpisa zaliha do neto utržive vrijednosti i svi gubici zaliha trebaju se priznati kao rashod u razdoblju otpisa, odnosno nastanka gubitka. Iznos bilo kojeg ukidanja otpisa zaliha, kao posljedica povećanja neto utržive vrijednosti, priznaje se kao prihod, do visine prethodno priznatog rashoda, u razdoblju u kojem je

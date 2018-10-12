@@ -1,0 +1,21 @@
+ objavljivanja.
+9.27. Na kraju svakog izvještajnog razdoblja poduzetnik mora za svaku pojedinačnu financijsku imovinu mjerenu po trošku stjecanja ili amortiziranom trošku procijeniti umanjenje vrijednosti. Ako postoji objektivni dokaz o umanjenju vrijednosti, poduzetnik mora gubitak od umanjenja vrijednosti priznati kao rashod u računu dobiti i gubitka.
+9.28. Dokazi o umanjenju vrijednosti financijske imovine (pojedinačno ili grupno) su primjerice sljedeće okolnosti:
+a) nepoštivanje ugovora u smislu kašnjenja s otplatom duga ili plaćanjem kamata,
+b) vjerojatno pokretanje stečaja ili započinjanje financijske reorganizacije,
+c) nestanak aktivnog tržišta za financijsku imovinu zbog financijskih poteškoća izdavatelja,
+d) značajne financijske poteškoće izdavatelja ili dužnika
+e) značajne promjene s negativnim učinkom koje su nastale u tehnološkom, ekonomskom ili pravnom okruženju u kojem posluje izdavatelj financijskog instrumenta.
+9.29. Kod financijske imovine koja se mjeri po amortiziranom trošku gubitak od umanjenja vrijednosti predstavlja razliku između knjigovodstvene vrijednosti i sadašnje vrijednosti procijenjenih novčanih tokova diskontiranih po izvornoj efektivnoj kamatnoj stopi financijske imovine.
+9.30. Ako se gubitak od umanjenja vrijednosti u budućim razdobljima smanji, a smanjenje se može objektivno povezati s događajem koji je nastao nakon priznavanja umanjenja vrijednosti, poduzetnik će ukinuti prethodno priznato umanjenje kroz račun dobiti i gubitka, s time da knjigovodstvena vrijednost nakon ukidanja ne smije biti veća od iznosa koji bi bio iskazan da umanjenje nije bilo prethodno priznano. Iznimno, gubitak od umanjenja vrijednosti vlasničkog instrumenta koji se mjeri po trošku stjecanja ne ispravlja se. Gubitak od umanjenja vlasničkog instrumenta koji se klasificira kao imovina raspoloživa za prodaju ne ispravlja se u računu dobiti i gubitka.
+9.31. Rezerva fer vrijednosti povezana sa stavkama financijske imovine raspoložive za prodaju prenosi se u račun dobiti i gubitka ili kada se odnosne stavke prestanu priznavati ili ako priznati gubici postanu značajni ili trajni, ovisno što od toga nastupi ranije.
+PRESTANAK PRIZNAVANJA
+9.32. Poduzetnik prestaje priznavati financijsku imovinu ako:
+a) ugovorna prava na primitak novca od financijske imovine isteknu ili su ispunjena, ili
+b) poduzetnik prenese drugoj osobi sve značajne rizike i koristi od financijske imovine ili
+c) poduzetnik unatoč zadržavanju nekih značajnih rizika i koristi vezanih uz financijsku imovinu, prenese kontrolu nad tom imovinom drugoj osobi na način da ta druga osoba temeljem vlastite odluke tu imovinu u cijelosti može prodati nepovezanoj osobi bez ikakvih ograničenja.
+U slučaju pod c) poduzetnik će prestati priznavati imovinu i priznati zasebno ona prava ili obveze koja su nastala ili su zadržana prilikom prijenosa.
+Knjigovodstvena vrijednost prenesene imovine će se raščlaniti na dio koji se odnosi na zadržane rizike i koristi i na dio koji otpada na prenesene rizike i koristi sukladno njihovim relativnim fer vrijednostima na dan prijenosa. Novostvorena prava i obveze mjerit će se po fer vrijednosti na dan stjecanja. Razlika između primljene naknade i iznosa koji su priznati odnosno prestali biti priznati sukladno ovoj točki priznat će se kao prihod ili rashod u razdoblju prijenosa.
+9.33. Ukoliko prijenos udovoljava uvjetima za prestanak priznavanja jer je poduzetnik zadržao značajne rizike i koristi od prenesene imovine, poduzetnik će nastaviti priznavati prenesenu imovinu u cijelosti, te će priznati financijsku obvezu za primljenu naknadu. Pri tome se imovina i obveza ne smiju saldirati. U sljedećim razdobljima poduzetnik će priznati prihod od prenesene imovine i rashod po osnovi financijske obveze.
+OBJAVLJIVANJE
+9.34. Poduzetnik treba u okviru prikaza značajnih računovodstvenih politika objaviti informaciju o načinu mjerenja financijske imovine i opis računovodstvenih politika koje su primijenjene na financijsku imovinu, a koje su značajne za

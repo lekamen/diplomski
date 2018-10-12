@@ -1,0 +1,32 @@
+ informacija.
+Dužnost prosljeđivanja informacija depozitaru
+Članak 305.
+(1) Društvo za upravljanje koje upravlja napajajućim UCITS fondom dužno je depozitaru napajajućeg UCITS fonda dostaviti sve informacije u vezi s glavnim UCITS fondom, koje su potrebne za ispunjavanje zahtjeva i obveza depozitara određene ovim Zakonom.
+(2) Ako depozitar glavnog UCITS fonda pri obavljanju poslova depozitara za glavni UCITS fond utvrdi nezakonitosti ili nepravilnosti koje bi mogle negativno utjecati na napajajući UCITS fond, o tome je bez odgode dužan obavijestiti Agenciju te društvo za upravljanje i depozitara napajajućeg UCITS fonda.
+(3) Nepravilnosti i nezakonitosti iz stavka 2. ovoga članka, među ostalim, uključuju:
+1. pogreške u izračunu neto vrijednosti imovine glavnog UCITS fonda
+2. pogreške u transakcijama izdavanja ili otkupa udjela glavnog UCITS fonda koje se odnose na napajajući UCITS fond
+3. pogreške u plaćanju ili kapitalizaciji dobiti glavnog UCITS fonda ili u izračunu mogućeg povezanog poreza po odbitku
+4. povrede ulagačkih ciljeva, politika ili strategija glavnog UCITS fonda, navedenih u njegovim pravilima, prospektu ili ključnim podacima za ulagatelje i
+5. povrede ograničenja ulaganja kako su propisana ovim Zakonom, pravilima, prospektom ili ključnim podacima za ulagatelje.
+Sporazum o razmjeni informacija između revizora glavnog i napajajućeg UCITS fonda
+Članak 306.
+(1) Ako glavni i napajajući UCITS fond imaju različite revizore, njihovi su revizori dužni sklopiti sporazum o razmjeni svih informacija potrebnih da oba revizora ispunjavaju zahtjeve i obveze određene ovim Zakonom.
+(2) Revizori napajajućeg UCITS fonda u svom revizorskom izvješću:
+1. uzimaju u obzir revizorsko izvješće glavnog UCITS fonda i
+2. izvještavaju o mogućim nepravilnostima otkrivenima u revizorskom izvješću glavnog UCITS fonda i njihovom utjecaju na napajajući UCITS fond.
+(3) Na razmjenu informacija, koja je potrebna u opsegu određenom stavkom 1. ovoga članka, ne primjenjuju se odredbe drugih zakona koje bi mogle ograničiti ovim Zakonom određen opseg razmjene informacija.
+(4) Ako glavni i napajajući UCITS fond imaju različite poslovne godine, glavni fond je dužan sastaviti izvještaje na isti datum na koji izvještaje sastavlja i napajajući fond te temeljem istih računovodstvenih politika koje je pri sastavljanju izvještaja primijenio napajajući fond, a revizori glavnog UCITS fonda moraju izraditi dodatno izvješće za glavni UCITS fond s istim datumom za koji se sastavlja revizorsko izvješće napajajućeg UCITS fonda.
+POGLAVLJE V. POSEBNA PRAVILA ZA GLAVNE I NAPAJAJUĆE UCITS FONDOVE I NJIHOVA DRUŠTVA ZA UPRAVLJANJE
+Ulaganja napajajućeg UCITS fonda
+Članak 307.
+(1) Napajajući UCITS fond može do 15% neto vrijednosti imovine uložiti u:
+1. financijske izvedenice koje se mogu koristiti samo u svrhu zaštite od rizika, u skladu s člankom 252. stavkom 1. točkom 5. i člankom 253. stavcima 5., 6., 7. i 8. ovoga Zakona i/ili
+2. likvidna sredstva u skladu s člankom 252. stavkom 1. točkama 3., 4. i 6. i stavkom 4. ovoga Zakona.
+(2) Imovina iz prethodnog stavka koja se ulaže u udjele iz članka 252. stavka 1. točke 3. ovoga Zakona može biti uložena samo u udjele UCITS fondova kojima je strategija ulaganje pretežito u instrumente tržišta novca.
+Izračun izloženosti napajajućeg UCITS fonda
+Članak 308.
+Radi usklađenosti s odredbama članka 253. stavaka 6., 7. i 8. ovoga Zakona, ukupna izloženost napajajućeg UCITS fonda prema financijskim izvedenicama izračunava se tako da se izravna izloženost napajajućeg UCITS fonda prema financijskim izvedenicama iz članka 307. stavka 1. točke 1. ovoga Zakona računa zajedno sa:
+1. stvarnom izloženošću glavnog UCITS fonda prema izvedenicama, proporcionalno s ulaganjem napajajućeg UCITS fonda u glavni UCITS fond ili
+2. najvećom mogućom ukupnom izloženošću glavnog UCITS fonda prema izvedenicama, kako je određeno prospektom glavnog UCITS fonda, proporcionalno s ulaganjem napajajućeg UCITS fonda u glavni UCITS fond.
+Izračun i objava neto vrijednosti 

@@ -1,0 +1,30 @@
+ navedenoga u Odluci o dodjeli sredstava.
+(3) Ako korisnik u Zahtjevu za isplatu navede iznos koji je viši od prihvatljivog iznosa potpore, Agencija za plaćanja može umanjiti iznos za isplatu.
+(4) Za nepotpun Zahtjev za isplatu Agencija za plaćanja će izdati Zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom ili osobno u Agenciju za plaćanja u roku od pet radnih dana od dana zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak. Ukoliko tražena dokumentacija ne bude poslana u zadanom roku, smatrat će se da je korisnik odustao od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(5) Vremenom zaprimanja Zahtjeva za dopunu/obrazloženje/ispravak smatra se datum kada korisnik zaprimi preporučenu pošiljku.
+(6) Ukoliko korisnik nije preuzeo Zahtjev za dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ukoliko korisnik ne preuzme Zahtjev za dopunu niti nakon ponovljene dostave, Zahtjev za dopunu će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja Zahtjeva za dopunu na oglasnu ploču.
+(7) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja Zahtjeva za isplatu obračunat će se:
+a) protuvrijednost u kunama po tečaju Europske komisije ECB u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest (6) decimala (navedeni tečaj se može dobiti na http://ec.europa.eu/budget/inforeuro/),
+b) u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest (6) decimala, obračun potpore temeljit će se na ostvarenom tečaju.
+(8) Ukoliko korisnik ne dostavi Zahtjev za isplatu u propisanom roku, izdat će mu se Izjava o poništenju obveze.
+(9) Ukoliko korisnik dostavi Zahtjev za isplatu nakon propisanog roka, Agencija za plaćanja će izdati Odluku o odbijanju Zahtjeva za isplatu.
+(10) Ukoliko se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, a koja ne prelazi iznos od 50 posto ukupne vrijednosti odobrenih sredstava javne potpore, Agencija za plaćanja će odbiti iznos nepravilnog troška od Zahtjeva za isplatu i izdati Odluku o isplati u kojoj će ukupan iznos biti umanjen za iznos nepravilnog troška.
+Članak 33.
+(1) Nakon provjere Zahtjeva za isplatu/Zahtjeva za isplatu predujma s pripadajućom dokumentacijom, Agencija za plaćanja će korisniku izdati:
+a) Odluku o isplati predujma, ili
+b) Odluku o odbijanju isplate predujma, ili
+c) Odluku o isplati, ili
+d) Odluku o odbijanju Zahtjeva za isplatu.
+(2) Odluka o odbijanju isplate predujma izdaje se zbog:
+a) nedostavljanja valjanoga bankovnog jamstva.
+(3) Odluka o odbijanju Zahtjeva za isplatu izdaje se zbog:
+a) neispunjavanja uvjeta propisanih ovim Pravilnikom, odnosno Natječajem,
+b) neprihvatljivosti ulaganja i/ili svih troškova utvrđenih u Listi prihvatljivih troškova,
+c) dostavljanja Zahtjeva za isplatu nakon propisanog roka,
+d) ukoliko se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, koja prelazi iznos od 50 posto ukupne vrijednosti odobrenih sredstava javne potpore,
+e) onemogućavanja obavljanja kontrole na terenu,
+f) nestavljanja ulaganja u uporabu ili spremnost za uporabu kod ulaganja čija je proizvodnja sezonskog karaktera,
+g) korištenja građevine i/ili opreme na način koji nije u skladu s njegovom namjenom,
+h) utvrđenih razlika između dokumenata priloženih uz Zahtjev za isplatu i dokumenata zatečenih u kontroli na terenu,
+i) nedostavljanja dokumentacije navedene u članku 32. stavku 4. ovoga Pravilnika u roku propisanom Pravilnikom ukoliko se dopuna/obrazloženje/ispravak odnosi na cjelokupno ulaganje,
+j) utvrđene nepravilnosti kod koje je utvrđena i sumnja na prijevaru, a sredstva potpore nisu isplaćena korisniku. Provedbeno tijelo će zbog sumnje na prijevaru izvijestiti Državno odvjetništvo Republike Hrvatske (DORH) kako bi

@@ -1,0 +1,29 @@
+duljinu plovila obvezni su voditi očevidnik u elektroničkom obliku.
+(2) Ovlaštenici povlastice odnosno odgovorne osobe za ribolov koji obavljaju ribolov plovilima kojima je izdano Odobrenje za gospodarski ribolov na moru bez obzira na duljinu plovila obvezni su voditi očevidnik u elektroničkom obliku samo za alat koji je naveden u Odobrenju za gospodarski ribolov na moru.
+(3) Iznimno od odredbe stavka 1. ovoga članka ovlaštenici povlastice koji obavljaju ribolov plovilima dužine 12 metara ili više, ali manje od 15 metara dužine preko svega nisu obvezni voditi očevidnik u elektroničkom obliku ukoliko:
+1. obavljaju ribolov isključivo unutar teritorijalnog mora Republike Hrvatske,
+2. nikad ne provedu više od 24 sata na moru od vremena polaska do povratka u luku.
+Članak 11.
+(1) Ovlaštenici povlastice, odnosno osobe odgovorne za ribolov iz članka 10. dužne su dostaviti podatke o ribolovu elektroničkim putem Ribarskom monitoring centru barem jednom na dan najkasnije do 24:00 sata i ukoliko nije ostvaren ulov. Navedeni podaci se šalju i u sljedećim slučajevima:
+a) Na zahtjev Ribarskog monitoring centra Ministarstva,
+b) Nakon što je završena posljednja ribolovna operacija,
+c) Prije ulaska u luku,
+d) Za vrijeme inspekcije na moru,
+e) Nakon prekrcaja ribe i
+f) Nakon obavljenog iskrcaja.
+(2) Osobe iz stavka 1. ovoga članka koji elektronički dostavljaju podatke o svojim ribolovnim aktivnostima izuzimaju se od obveze ispunjavanja i dostavljanja očevidnika, iskrcajne deklaracije i prekrcajne deklaracije u pisanom obliku.
+(3) Ukoliko se podaci iz stavka 1. ovoga članka ne dostave sukladno odredbama stavka 1. ovoga članka, odnosno ukoliko se ne dostave točni podaci smatra se da očevidnik nije ni vođen.
+(4) Ribarska plovila koja podliježu vođenju elektronskog očevidnika ne smiju isploviti u ribolov bez ispravnog operativnog sustava za slanje elektronskog očevidnika instaliranog na plovilu.
+(5) Iznimno od odredbe stavka 4. ovoga članka ribarska plovila mogu isploviti u ribolov ukoliko je operativni sustav za slanje elektronskog očevidnika neispravan i to samo u slučaju kada ga nije moguće popraviti prije ponovnog polaska u ribolov, samo uz pismeno odobrenje Ministarstva dostavljeno elektronskim putem preko Geoinformacijskog sustava ribarstva, a podatke o ribolovu će voditi i dostavljati sukladno članku 11. stavku 8. ovoga Pravilnika.
+(6) Ukoliko uređaje sustava za slanje elektronskog očevidnika nije moguće popraviti na plovilu i ukoliko se odmah ne mogu zamijeniti novim, neispravni uređaji mogu biti deinstalirani samo od ovlaštene tvrtke koja je instalirala uređaj na plovilo, a koja će popravljeni uređaj ponovno instalirati nazad na plovilo.
+(7) Prije deinstalacije i instalacije novoga ili popravljenog uređaja iz stavka 6. ovoga članka potrebno je zatražiti odobrenje Ministarstva elektronskim putem Geoinformacijskog sustava ribarstva.
+(8) U slučaju tehničkog kvara ili prestanka rada sustava za elektroničko bilježenje i slanje podataka instaliranog na ribarskom plovilu, zapovjednik plovila ili njegov predstavnik mora, od trenutka kad je događaj otkriven ili od trenutka kad je on o tome obaviješten, odgovarajućim telekomunikacijskim sredstvom poslati Upravi ribarstva podatke iz očevidnika o ribolovu, prekrcajne deklaracije i iskrcajne deklaracije, i to svaki dan najkasnije do 24:00 sata, čak i onda kada nije ostvaren nikakav ulov..
+U slučaju tehničkog kvara ili prestanka rada sustava za elektroničko bilježenje i slanje podataka instaliranog na ribarskom plovilu navedeni podaci se šalju i u sljedećim slučajevima:
+a) Na zahtjev Ribarskog monitoring centra Ministarstva,
+b) Nakon što je završena posljednja ribolovna operacija,
+c) Prije ulaska u luku,
+d) Za vrijeme inspekcije na moru,
+e) Nakon prekrcaja ribe i
+f) Nakon obavljenog iskrcaja
+Članak 12.
+(1) Troškove nabave uređaja s karticom za prenošenje podataka, njegovo instaliranje i održavanje te troškove prijenosa podataka do maksimalno 1 GB snosi Ministarstvo poljoprivrede (u daljnjem tekstu:

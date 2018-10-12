@@ -1,0 +1,27 @@
+ Europska komisija može, u skladu s posebnim postupkom, donijeti Odluku kojom povlači ili ukida status državi članici, dok se zahtjevi iz Odluke ne ispune.
+10. Za potrebe Poglavlja II. ovoga Dodatka serološki test jest: serum aglutinacijski test, puferirani bruceloza antigen test, test reakcije vezivanja komplementa, test krvne aglutinacije, krvni ring-test, test mikro aglutinacije ili ELISA test uzoraka krvi, kao što je opisano u Dodatku C ovoga Pravilnika. Svaki drugi dijagnostički test odobren u posebnom postupku Europske komisije i opisan u Dodatku C ovoga Pravilnika također će se prihvatiti za potrebe Poglavlja II. ovoga Dodatka. Mliječni test znači mliječno prstenaste probe ili ELISA test u mlijeku u skladu s Dodatkom C ovoga Pravilnika.
+DODATAK B
+1. Odredbe koje se odnose na identifikaciju uzročnika tuberkuloze goveda, tuberkulinski kožni test, dopunsko testiranje te zadaće i odgovornosti državnih instituta i nacionalnih referentnih laboratorija za tuberkulozu goveda propisane su Uredbom (EZ) br. 1226/2002.
+2. Popis državnih instituta i nacionalnih referentnih laboratorija za tuberkulozu goveda:
+Hrvatski veterinarski institut – Zagreb
+DODATAK C
+BRUCELOZA
+1. DOKAZIVANJE UZROČNIKA
+Dokazivanje modificiranim acid-fast ili imunospecifičnim bojenjem organizama koji imaju morfologiju uzročnika bruceloze (Brucella) u pobačenom materijalu, vaginalnom iscjetku ili mlijeku vrlo je vjerojatan dokaz bruceloze, osobito ako je potvrđen serološkim testovima. Primjena metode reakcije lanca polimeraze (PCR) otvara dodatne mogućnosti detekcije uzročnika.
+Ukoliko je moguće, Brucella spp. treba biti izolirana upotrebom selektivnog medija uzgojem kulture iz iscjetka maternice, pobačenog fetusa, sekreta vimena ili određenih organa (npr. limfni čvorovi muških i ženksih reprodukcijskih organa). Nakon izolacije, vrste i biovar treba identificirati lizom bakteriofaga i/ili testovima metabolizma oksidacije, uzgojem na kulturi, biokemijskim i serološkim kriterijima PCR može potvrditi komplementarnu ili biotipizaciju, baziranu na određivanju specifičnih isječaka genoma.
+Tehnike i mediji koji se koriste, njihovo normiranje i interpretacija rezultata moraju biti u skladu s onima navedenima u važećem Priručniku za norme dijagnostičkih testova i cjepiva OIE-a
+2. IMUNOLOŠKI TESTOVI
+2.1. Norme
+2.1.1. Uzročnik Brucella abortus biovar 1 Weybridge soj 99 ili USDA soj 1119-3 mora se koristiti za pripremu svih antigena koji se koriste u Rose Bengal Test (RBT), serum aglutinacijskim testovima (SAT), testu reakcije vezanja komplementa (RVK) i mliječno prstenastoj probi (MPP).
+2.1.2. Normiran referencijalni serum za testove RBT, SAT, RVK i MPP je OIE internacionalni normiran serum (OIEISS) pod prijašnjim nazivom WHO drugi internacionalni anti-Brucella abortus Serum (ISAbS). Ekvivalentni nacionalni referentni serum odobren od strane EURL-a za brucelozu može se također koristiti za potrebe validacije seroloških metoda za dijagnostiku bruceloze.
+2.1.3. Normirani referencijalni serumi za ELISA testove su:
+– OIEISS
+– slabo pozitivan OIE ELISA normiran serum (OIEELISAwpSS),
+– ekvivalentni nacionalni referentni serum odobren od strane EURL-a za brucelozu
+– jako pozitivan OIE ELISA normiran serum ( Normirani referencijalni serumi za – slabo pozitivan OIE ELISA normiran serum (OIEELISAwpSS),
+– jako pozitivan OIE ELISA normiran serum ( OIEELISAwpSS, OIEELISAspSS i OIEELISA nSS su internacionalne primarne norme prema kojima se moraju utvrditi referencijalne nacionalne norme (»radne norme«) za svaki test.
+2.2. Imunoenzimski test »Enzyme-Linked Immunosorbent Assays« (ELISA) ili drugi obvezujući testovi za otkrivanje bruceloze goveda u serumu ili mlijeku
+2.2.1. Materijal i reagensi
+Korištena tehnika i interpretacija rezultata mora se potvrditi u skladu s načelima predviđenim u važećem Priručniku za norme dijagnostičkih testova i cjepiva OIE– a i mora uključivati barem laboratorijska i dijagnostička ispitivanja.
+2.2.2. Normizacija testa
+2.2.2.1. Postupak normizacije testa za

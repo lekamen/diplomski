@@ -1,0 +1,26 @@
+Za promjene iz stavka 1. ovoga članka korisnik je dužan od dana stupanja na snagu Odluke o dodjeli sredstava do podnošenja Zahtjeva za isplatu Agenciji za plaćanja podnijeti Zahtjev za promjenu neposredno nakon njihovog nastanka. Zahtjev za promjenu popunjava se u AGRONET-u, a po popunjavanju potrebno je u Agenciju za plaćanja dostaviti potpisanu i potvrđenu pečatom korisnika potvrdu o podnošenju Zahtjeva za promjenu preporučenom poštom s povratnicom ili osobno.
+(3) Agencija za plaćanja će za zaprimljene Zahtjeve za promjenu provjeriti kriterije prihvatljivosti sukladno članku 12. ovoga Pravilnika te po potrebi donijeti izmjenu Odluke o dodjeli sredstava ili Pismo odobrenja u slučaju odobrenja Zahtjeva za promjenu ili Pismo odbijanja u slučaju odbijanja Zahtjeva za promjenu.
+(4) Izmjenom Odluke o dodjeli sredstava ne može se dodijeliti iznos potpore veći od iznosa javne potpore koji je već određen Odlukom o dodjeli sredstava.
+(5) Promjene iz stavka 1. ovoga članka korisnik može prijaviti podnošenjem Zahtjeva za promjenu putem AGRONET-a na način opisan u Vodiču za korisnike kojeg korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(6) U slučaju promjena odluke iniciranih od strane Agencije za plaćanja, Agencija za plaćanja će donijeti izmjenu Odluke o dodjeli sredstava.
+(7) U slučaju promjena navedenih u stavku 1. ovoga članka, a nakon podnošenja Zahtjeva za isplatu korisnik je obvezan o istome pisanim putem obavijestiti Agenciju za plaćanja do trenutka zaprimanja Odluke o dodjeli sredstava.
+Potvrda o odustajanju i Izjava o poništenju obveze
+Članak 24.
+(1) U slučaju da korisnik želi odustati od dodjele sredstava iz EPFRR dužan je podnijeti Zahtjev za odustajanje putem AGRONET-a na način opisan u Vodiču za korisnike.
+(2) Zahtjev za odustajanje popunjava se u AGRONET-u, a po popunjavanju potrebno je u Agenciju za plaćanja dostaviti potpisanu i potvrđenu štambiljem korisnika potvrdu o podnošenju Zahtjeva za odustajanje preporučenom poštom s povratnicom ili osobno.
+(3) Ukoliko korisnik podnese Zahtjev za odustajanje u fazi administrativne kontrole Zahtjeva za potporu odnosno prije izdavanja odluke, Agencija za plaćanja će prekinuti sve aktivnosti nad Zahtjevom za potporu te će korisniku izdati Potvrdu o odustajanju.
+(4) Ukoliko korisnik podnese Zahtjev za odustajanje nakon izdavanja Odluke o dodjeli sredstava, Agencija za plaćanja će korisniku izdati Izjavu o poništenju obveze.
+(5) Izjava o poništenju obveze se izdaje i u sljedećim slučajevima:
+a) kada korisnik prekrši odredbe ovoga Pravilnika, Natječaja ili nije ispunio obveze određene Odlukom o dodjeli sredstava ili ako je utvrđena nepravilnost ujedno i sumnja na prijevaru ili
+b) ukoliko korisnik ne dostavi Zahtjev za isplatu.
+IV. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE I DONOŠENJE ODLUKE
+Zahtjev za isplatu
+Članak 25.
+(1) Javna potpora se korisniku isplaćuje temeljem Zahtjeva za isplatu/Zahtjeva za isplatu predujma ovisno o tipu operacije.
+(2) Zahtjev za isplatu za tip operacije 3.1.1. podnosi se nakon zaprimanja Odluke o dodjeli potpore, jedanput godišnje kroz najduže pet kalendarskih godina.
+(3) Zahtjev za isplatu za tip operacije 3.1.1. u pojedinoj godinu korisnik može podnijeti po realizaciji prihvatljivih troškova, a najkasnije do 31. ožujka sljedeće godine.
+(4) Rokovi podnošenja Zahtjeva za isplatu po ratama za tip operacije 3.2.1. su:
+a) Zahtjev za isplatu prve rate može se podnijeti nakon zaprimanja Odluke o dodjeli potpore, a po realizaciji dijela aktivnosti prikazanih u Planu informiranja i promoviranja za pojedinu godinu i
+b) Zahtjev za isplatu druge rate podnosi se nakon provedenih aktivnosti prikazanih u Planu informiranja i promoviranja za pojedinu godinu po realizaciji istih najkasnije do 31. ožujka sljedeće godine.
+(5) Korisnik je dužan dostaviti Zahtjev za isplatu svake rate u elektronskom obliku putem AGRONET sustava koji se nalazi na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+(6) Korisnik može putem Zahtjeva za

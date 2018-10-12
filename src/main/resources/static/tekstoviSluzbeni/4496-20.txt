@@ -1,0 +1,36 @@
+ ograničen pomoću fiksnih, ali prilagodljivih graničnika, kao što su klinovi ili zubi. Slijed pokreta i odabir putanje ili kutova je promjenjiv u okviru fiksnog programiranog uzorka. Varijacije ili izmjene programiranog uzorka (npr. promjena klinova ili zamjena zuba) u jednoj ili više osi kretanja postižu se samo mehaničkim djelovanjem;
+4. Manipulacijski mehanizmi bez nadzora servo-uređaja koji su automatizirani pokretni uređaji s promjenjivom sekvencom (slijedom) koji rade sukladno mehanički utvrđenim programiranim pokretima. Program može biti varijabilan, ali sekvenca (slijed) se odvija samo na temelju binarnog signala od mehanički utvrđenih električnih binarnih uređaja ili podesivih graničnika;
+5. Skladišne dizalice (kranovi) definirane kao Kartezijanski koordinatni manipulacijski mehanizmi koji su proizvedeni kao integralni dio vertikalnog skladištenja na policama, i konstruirani su za dohvat sadržaja u pretincima na policama u svrhu pohrane ili vađenja.
+ML21. »Softver«
+Skupina jednog ili više »programa« ili »mikroprograma« fiksiranih na bilo kojem opipljivom mediju za zapisivanje.
+ML20. »Supervodljivi«
+Odnosi se na materijale (tj. metali, slitine ili spojevi) koji mogu izgubiti cjelokupni električni otpor (tj. koji mogu postići beskonačnu električnu vodljivost i provoditi vrlo jake električne struje bez Jouleovog zagrijavanja.)
+»Kritična temperatura« (ponekad se odnosi na temperaturu prijenosa) određenog »supervodljivog« materijala je temperatura pri kojoj materijal gubi sav otpor na tok izravne električne struje.
+Tehnička napomena
+»Supervodljivo« stanje materijala je individualno karakterizirano »kritičnom temperaturom«, kritičnim magnetskim poljem koje je funkcija temperature i kritičnom gustoćom struje koja je, međutim, funkcija i magnetskog polja i temperature.
+ML 11. »Svemirska letjelica«
+Aktivni i pasivni sateliti i svemirske sonde.
+ML22. »Tehnologija«
+Specifična informacija nužna za »razvoj«, »proizvodnju« ili »uporabu« određenog proizvoda. Informacija ima oblik ‚tehničkih podataka’ ili ‚tehničke ispomoći’. Kontrolirana »tehnologija« za Zajednički popis robe vojne namjene EU-a navedena je u ML22.
+Tehničke napomene
+1. ,Tehnički podaci’ mogu biti u oblicima kao što su nacrti, planovi, dijagrami, modeli, formule, tablice, inženjerski nacrti i specifikacije, priručnici i upute napisani ili snimljeni na drugim medijima ili uređajima kao što su disk, vrpca, memorije samo za čitanje.
+2. ,Tehnička ispomoć’ može biti u obliku instrukcija, vještina, obuke, radnih znanja i konzultantskih usluga.,Tehnička ispomoć’ može uključivati prijenos,tehničkih podataka’.
+ML22. »Temeljna znanstvena istraživanja«
+Eksperimentalna ili teoretska istraživanja koja se načelno koriste za usvajanje novih znanja o temeljnim načelima pojava ili uočenih činjenica, koja nisu izravno usmjerena ka nekom specifičnom cilju ili praktičnoj primjeni.
+ML22. »U javnoj domeni«
+Ovo znači »tehnologija« ili »softver« koji su dostupni za javnu uporabu bez ograničenja za njihovu daljnju distribuciju.
+Napomena: Ograničenja u vezi s autorskim pravima ne izdvajaju »tehnologiju« ili »softver« od toga da se nalaze »u javnoj domeni«.
+ML21., 22. »Upotreba«
+Korištenje, ugradnja (uključujući ugradnju na licu mjesta), održavanje (provjera), popravak, remont i obnavljanje.
+ML13. »Vlaknasti ili filamentni materijali«
+Uključuju:
+a. neprekinute monofilamente;
+b. neprekinute pređe i prediva;
+c. vrpce, tkanine, nasumične prostirke i pletenice;
+d. rezana vlakna, vlaknasta vlakna i koherentne vlaknaste prekrivače;
+e. niti, monokristalne ili polikristalne, bilo koje duljine;
+f. aromatsku poliamidnu kašu.
+ML10. »Vozila lakša od zraka«
+Baloni i zračni brodovi koji uzgon ostvaruju korištenjem toplog zraka ili plinova lakših od zraka kao što su helij ili vodik.
+ML8., 10., 14. »Zrakoplov«
+Zračno vozilo s fiksnim krilima, s krilima promjenjive geometrije, rotirajućim krilima (helikopteri), zakretnim rotorom (tilt-rotor) ili zakretnim krilom (tilt-wing).

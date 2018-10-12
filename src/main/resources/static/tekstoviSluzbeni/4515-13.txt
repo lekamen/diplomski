@@ -1,0 +1,43 @@
+ ne zadovoljava uvjet iz stavka 1. ovoga članka, smije vući priključno vozilo, samo ukoliko priključno vozilo ima svoj usporivač i ako ga vozač vučnog vozila može za vrijeme vožnje aktivirati.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+3. Uređaji za osvjetljavanje i svjetlosnu signalizaciju
+Članak 24.
+(1) Uređaji za osvjetljavanje i svjetlosnu signalizaciju na vozilima kategorija M, N i O moraju biti odobreni, te ugrađeni sukladno Direktivi 76/756/EEC.
+(2) Vozila čiji uređaji za osvjetljavanje i svjetlosnu signalizaciju nisu podlijegali odobravanju u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 25.
+(1) Uređaji za osvjetljavanje i svjetlosnu signalizaciju na motornim i priključnim vozilima, sukladno ovom Pravilniku su:
+1) dugo glavno svjetlo
+2) kratko glavno svjetlo
+3) prednje svjetla za maglu
+4) svjetlo za vožnju unatrag
+5) pokazivači smjera
+6) upozoravajući signal opasnosti (istodobno treptanje svih pokazivača smjera)
+7) kočno svjetlo
+8) svjetlo stražnje registracijske pločice
+9) prednje pozicijsko svjetlo
+10) stražnje pozicijsko svjetlo
+11) stražnje svjetlo za maglu
+12) parkirno svjetlo
+13) bočno svjetlo za označavanje
+14) gabaritno svjetlo
+15) svjetlo za vožnju po danu (dnevno svjetlo)
+16) stražnji netrokutasti katadiopter
+17) stražnji trokutasti katadiopter
+18) prednji netrokutasti katadiopter
+19) bočni netrokutasti katadiopter
+20) svjetlo za skretanje (svjetlo za osvjetljavanje u zavoju)
+21) označivanje visoke uočljivosti (retroreflektirajuće trake za označavanje konture vozila)
+22) svjetla za osvjetljavanje mjesta na kojem se izvode radovi
+23) pokretno svjetlo (reflektor)
+24) uređaji za davanje posebnih svjetlosnih znakova (rotacijska i treptava svjetla)
+25) dodatna svjetla za osvjetljavanje ceste
+26) ostale retroreflektirajuće ploče i odsjevni signali, koji se moraju upotrebljavati u ADR-u ili da bi se zadovoljili nacionalni propisi za uporabu s obzirom na određene kategorije vozila ili određene metode rada npr. prijevoz specifičnih tereta i sl.
+(2) Na motornim i priključnim vozilima ne smiju biti postavljeni drugi uređaji za osvjetljavanje i svjetlosnu signalizaciju, osim onih iz stavka 1. ovoga članka.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 26.
+(1) Uređaji za osvjetljavanje i svjetlosnu signalizaciju moraju biti ugrađeni sukladno uputama koje je propisao proizvođač uređaja tako da emitirano svjetlo ne ometa vozača i ostale sudionike u prometu te da u uobičajenim uvjetima uporabe i usprkos vibracijama kojima mogu biti izloženi zadrže propisane značajke.
+(2) Uređaji za osvjetljavanje i svjetlosnu signalizaciju postavljeni na prednjoj strani motornih ili priključnih vozila ne smiju davati svjetlost crvene boje vidljivu s prednje strane vozila ni svjetlost bijele boje od svjetala i reflektirajućih tvari postavljenih na stražnjoj strani vozila, odnosno vidljivih sa stražnje strane vozila.
+(3) Odredba stavka 2. ovoga članka ne odnosi se na svjetla za osvjetljavanje ceste pri vožnji unatrag, pokretno svjetlo za istraživanje (reflektor), svjetlo za osvjetljavanje mjesta na kojem se izvode radovi, svjetlo za osvjetljavanje stražnje registarske pločice i registarsku pločicu prevučenu bijelom reflektirajućom tvari, crveno treptavo svjetlo na vozilima pod pratnjom, te retroreflektirajuće ploče i odsjevni signali propisani ADR-om, ili da bi se zadovoljili nacionalni propisi za uporabu s obzirom na određene kategorije vozila ili određene metode rada npr. prijevoz specifičnih tereta i sl.
+(4) Unutar kutova geometrijske vidljivosti širenja svjetla, s bilo kojeg dijela površine svjetala, ne smije biti prepreka.
+(5) Uređaji za osvjetljavanje i svjetlosnu signalizaciju mogu biti djelomično zaklonjeni pomičnim elementima vozila ili dijelovima nadogradnje ili 

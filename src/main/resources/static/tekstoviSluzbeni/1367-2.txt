@@ -1,0 +1,27 @@
+ metodom odozdo prema gore u skladu sa Zakonom i ovim Pravilnikom.
+(4) Mjerenje ušteda energije u sustavu za praćenje, mjerenje i verifikaciju ušteda znači izračun uštede energije za vrijeme životnog vijeka mjere energetske učinkovitosti, a utvrđuju se:
+1. primjenom računskih metoda sadržanih u Prilogu II. ovoga Pravilnika ili
+2. mjerenjem fizikalnih veličina kao razlika između stvarne i referentne potrošnje.
+(5) Verifikacija ušteda je postupak potvrđivanja ostvarenih ušteda energije provedbom izvršnih mjera ušteda energije nositelja ušteda u promatranom razdoblju koje su praćene i mjerene u Sustavu iz stavka 1. ovoga članka.
+Obveza unosa podataka u sustav za praćenje, mjerenje i verifikaciju ušteda
+Članak 8.
+(1) Obveznici planiranja, davatelji subvencija i pružatelji energetskih usluga moraju imenovati osobu odgovornu za unos podataka i o tome elektroničkim/pismenim putem obavijestiti Nacionalno koordinacijsko tijelo u roku od mjesec dana stupanja na snagu ovog Pravilnika odnosno u roku od sedam dana od bilo kakve promjene.
+(2) Imenovana osoba mora završiti jednodnevni tečaj za korištenje Sustava iz članka 7. stavka 1. ovoga Pravilnika od strane Nacionalnog koordinacijskog tijela, kako bi stekla korisnička prava za pristup tom Sustavu.
+(3) Javni sektor dužan je Nacionalnom koordinacijskom tijelu dostaviti podatke o provedenim mjerama energetske učinkovitosti najmanje jednom godišnje, odnosno uvijek na zahtjev Nacionalnog koordinacijskog tijela.
+(4) Osoba imenovana u skladu sa stavkom 1. ovoga članka unosi podatke o:
+1. provedenim mjerama energetske učinkovitosti koje je proveo obveznik planiranja u skladu s planovima za povećanje energetske učinkovitosti,
+2. o provedenim mjerama energetske učinkovitosti kod korisnika subvencija,
+3. o provedenim mjerama energetske učinkovitosti koje pružatelj energetske usluge ostvaruje temeljem ugovora o energetskom učinku.
+(5) Osoba imenovana u skladu s stavkom 1. ovoga članka obvezna je u Sustav iz članka 7. stavka 1. ovoga Pravilnika unijeti podatke potrebne za identifikaciju mjere energetske učinkovitosti i ulazne podatke potrebne za izračun ušteda energije ako se uštede utvrđuju procjenom.
+Praćenje ušteda energije
+Članak 9.
+(1) Praćenje ušteda energije koje se utvrđuju metodom odozdo prema gore provodi Nacionalno koordinacijsko tijelo za energetsku učinkovitost kroz Sustav iz članka 7. stavka 1. ovoga Pravilnika temeljem odredbi Zakona i odredbama ovoga Pravilnika.
+(2) Ako se uštede utvrđuju procjenom, praćenje ušteda energije iz stavka 1. ovoga članka temelji se na ulaznim podatcima i/ili dokazima koje u Sustav iz članka 7. stavka 1. ovoga Pravilnika unosi nositelj ušteda odnosno ovlaštena osoba u skladu s odredbama Zakona i ovoga Pravilnika.
+(3) Ulazni podatci temeljem kojih se prate uštede energije sadržani su u Prilogu II. ovoga Pravilnika.
+(4) Dokaze iz stavka 2. ovoga članka nositelj uštede unosi u Sustav iz članka 7. stavka 1. ovoga Pravilnika za mjere kao preslika u elektroničkom obliku.
+(5) Dokazi iz stavka 2. ovoga članka su:
+1. za mjere koje se provode izvođenjem građevinskih radova prva strana ovjerenog projekta koji je izradila osoba ovlaštena za projektiranje s izračunom ušteda u skladu s metodologijom iz Priloga II. ovoga Pravilnika, karakteristike ugrađenog materijala i opreme i završno izvješće stručnog nadzora s potvrdom o izvedenom stanju u skladu s projektom,
+2. za mjere koje se provode ugradnjom strojarskih instalacija ovjerena potvrda izvedenog stanja i funkcionalnosti sustava koja sadrži karakteristike instalirane opreme/sustava, izvještaj izvođača o ugradnji opreme i navedene karakteristike instaliranog sustava prije i poslije provedene mjere, te izračun ušteda energije u skladu s metodologijom iz Priloga II. ovoga Pravilnika.
+Mjerenje ušteda u sustavu za praćenje, mjerenje i verifikaciju ušteda
+Članak 10.
+(1) Mjerenje ušteda energije u sustavu za praćenje, mjerenje i verifikaciju ušteda koje se utvrđuju procjenom u skladu sa Zakonom, provodi se primjenom metoda

@@ -1,0 +1,38 @@
+ primjenu. Upute valja ponovno razmotriti najmanje jednom godišnje te po potrebi promijeniti u skladu sa naručiteljevim pismenim postupcima. Mogu biti potrebne i češće promjene, ovisno o fazi razvoja i novim važnim saznanjima. Nova saznanja međutim mogu biti toliko važna da – držeći se dobre kliničke prakse – o tome valja obavijestiti ispitivače, Povjerenstvo i/ili nadležna tijela prije njihova uključivanja u Upute.
+Za ažurnost Uputa za ispitivače načelno je odgovoran naručitelj, a ispitivači su odgovorni za dostavljanje ažuriranih Uputa povjerenstvu. U slučaju da ispitivanje naručuje ispitivač, naručitelj-ispitivač treba utvrditi je li moguće Upute dobiti od proizvođača. Ako ispitivani proizvod dobavlja naručitelj-ispitivač, tada je on dužan osoblju koje sudjeluje u ispitivanju dostaviti potrebne podatke. U slučajevima gdje nije moguće izraditi službene Upute, naručitelj-ispitivač treba u zamjenu proširiti osnovne podatke u Planu ispitivanja koji sadržavaju minimum aktualnih podataka opisanih u ovim Smjernicama.
+7.2. Opća pitanja
+Upute trebaju sadržavati:
+7.2.1. Naslovnicu
+Na naslovnici se treba vidjeti naziv naručitelja, identifikacija svakog ispitivanog proizvoda (tj. broj istraživanja, kemijsko ili odobreno generičko ime te, ako tako želi naručitelj, zaštićeno ime tamo gdje je to zakonom dozvoljeno) te datum izdanja. Također se preporučuje da naslovnica sadržava i broj izdanja i poziv na prethodni broj i datum izdanja. Dodatak 1 donosi primjer naslovnice.
+7.2.2. Izjavu o povjerljivosti podataka
+Naručitelj ispitivanja može unijeti uputu kojom se od ispitivača traži da Upute smatra povjerljivim dokumentom koji može dati na uvid i korištenje isključivo svome osoblju i Povjerenstvu.
+7.3. Sadržaj Uputa za ispitivača
+Upute trebaju sadržavati sljedeće odjeljke popraćene literaturnim referencama gdje je to prikladno:
+7.3.1. Sadržaj
+Primjer sadržaja nalazi se u Dodatku 2.
+7.3.2. Sažetak
+Valja dati kratki sažetak (po mogućnosti ne dulji od dvije stranice) u kojemu su navedeni najvažniji dostupni podaci o fizičkim, kemijskim, farmaceutskim, farmakološkim, toksičnim, farmakokinetičkim, metaboličkim i kliničkim svojstvima ispitivanoga proizvoda za određenu fazu njegova kliničkoga razvoja.
+7.3.3. Uvod
+Valja ukratko navesti kemijski naziv ispitivanog proizvoda (te generičko i zaštićeno ime, gdje je to dopušteno), sve aktivne sastojke, farmakološku skupinu kojoj pripada te očekivane indikacije za profilaksu, liječenje i dijagnozu. Konačno, u uvodu valja definirati opći pristup ocjeni ispitivanog proizvoda.
+7.3.4. Fizička, kemijska i farmaceutska svojstva i formulacija proizvoda
+Treba opisati tvari od kojih se sastoji ispitivani proizvod (uključujući kemijske i/ili strukturne formule) te kratki pregled glavnih fizičkih, kemijskih i farmaceutskih svojstava.
+Kako bi se mogle poduzeti odgovarajuće mjere zaštite tijekom ispitivanja, potrebno je navesti formulacije, uključujući pomoćne tvari i obrazložiti njihovu primjenu tamo gdje je to klinički značajno. Također valja navesti upute za čuvanje i rukovanje.
+Svakako valja navesti svaku strukturnu sličnost s ostalim poznatim spojevima.
+7.3.5. Pretklinička istraživanja
+Uvod:
+Rezultate važnih pretkliničkih istraživanja farmakologije, toksikologije, farmakokinetike i metabolizma ispitivanog proizvoda valja navesti u sažetom obliku. Sažetak treba sadržavati metodologiju, rezultate i raspravu o važnosti rezultata za ispitane povoljne odnosno eventualne nepovoljne učinke u ljudi.
+Podaci mogu obuhvaćati sljedeće:
+• Vrstu eksperimentalnih životinja;
+• Broj i spol životinja u svakoj skupini;
+• Jedinične doze (npr. miligram/kilogram (mg/kg));
+• Razmak između doziranja;
+• Put primjene;
+• Trajanje doziranja;
+• Podatke o sistemskoj raspodjeli;
+• Trajanje praćenja nakon prestanka izloženosti;
+• Rezultate, uključujući sljedeće aspekte:
+– Narav i učestalost farmakoloških i toksičnih učinaka;
+– Ozbiljnost i intenzitet farmakoloških i toksičnih učinaka;
+– Vrijeme njihova početka;
+– Reverzibilnost učinaka;
+–

@@ -1,0 +1,31 @@
+ ugovor o obavljanju poslova nuđenja udjela.
+(3) Agencija će pravilnikom propisati uvjete koje moraju zadovoljavati osobe iz članka 164. ovoga Zakona, kao i fizičke osobe koje u tim pravnim osobama ili za njih s osnova radnopravnog ili kakvog drugog ugovornog odnosa (radnici) obavljaju nuđenje udjela UCITS fondova.
+(4) Agencija će pravilnikom propisati uvjete vezane uz način njihova poslovanja te uvjete vezane uz izvještavanje o nuđenju udjela UCITS fondova.
+Članak 167.
+Osobe iz članka 164. ovoga Zakona primaju naknadu za rad isključivo od društva za upravljanje, i to iz sredstava ulazne naknade ili naknade za upravljanje ili izlazne naknade koju ulagatelju, odnosno UCITS fondu naplaćuje društvo za upravljanje.
+DIO SEDMI UTVRĐIVANJE VRIJEDNOSTI IMOVINE I CIJENE UDJELA UCITS FONDA
+POGLAVLJE I.
+Utvrđivanje vrijednosti imovine UCITS fonda
+Članak 168.
+(1) Društvo za upravljanje dužno je za UCITS fond utvrditi vrijednost ukupne imovine UCITS fonda te ukupnih obveza UCITS fonda. Vrijednost ukupne imovine umanjena za vrijednost ukupnih obveza UCITS fonda predstavlja neto vrijednost imovine UCITS fonda.
+(2) Agencija će pravilnikom detaljnije propisati utvrđivanje neto vrijednosti imovine UCITS fonda i cijene udjela u UCITS fondu.
+Odgovornost za izračun neto vrijednosti imovine UCITS fonda, odnosno cijene udjela
+Članak 169.
+(1) Neto vrijednost imovine UCITS fonda te cijenu udjela u UCITS fondu izračunava društvo za upravljanje, prema usvojenim računovodstvenim politikama, odnosno metodologijama vrednovanja, koje su u skladu s važećim propisima i prospektom UCITS fonda.
+(2) Računovodstvene politike, odnosno metodologije vrednovanja društvo za upravljanje dužno je usvojiti za svaki UCITS fond kojim upravlja, prilikom njegova osnivanja, te ih bez odgode dostaviti depozitaru UCITS fonda.
+(3) Depozitar osigurava da društvo za upravljanje izračunava neto vrijednost imovine UCITS fonda te cijenu udjela UCITS fonda u skladu s usvojenim računovodstvenim politikama, odnosno metodologijama vrednovanja, važećim propisima i prospektom UCITS fonda.
+(4) Izračun vrijednosti iz stavka 1. ovoga članka kontrolira depozitar koji je odgovoran za kontrolu izračuna.
+(5) Depozitar je dužan voditi vlastitu evidenciju i na primjeren način pohraniti dokumente o kontroli izračuna vrijednosti iz stavka 1. ovoga članka.
+(6) Ako depozitar prilikom kontrole izračuna neto vrijednosti imovine UCITS fonda utvrdi netočnost i/ili nepravilnost, o tome će bez odgode pisanim putem obavijestiti društvo za upravljanje.
+(7) U slučaju da izračun neto vrijednosti imovine UCITS fonda traje dulje od dva radna dana, društvo za upravljanje dužno je o tome izvijestiti Agenciju i javnost, uz naznaku razloga zbog kojih nije moguće odrediti točnu neto vrijednost imovine UCITS fonda.
+(8) Revizor UCITS fonda je tijekom revizije godišnjih izvještaja dužan revidirati primjenu načela utvrđivanja vrijednosti sadržanih u propisima donesenim na temelju ovoga Zakona, kako bi se utvrdilo da su na temelju primjene naznačenih načela utvrđene vrijednosti neto imovine UCITS fonda i cijene udjela točne te da naknada za upravljanje i druge naknade i troškovi predviđeni ovim Zakonom, propisima donesenim na temelju ovoga Zakona i prospektom UCITS fonda ne prelaze dozvoljene iznose.
+Načela utvrđivanja neto vrijednosti imovine UCITS fonda
+Članak 170.
+Izračunom neto vrijednosti imovine svakog UCITS fonda mora se osigurati nepristrano postupanje prema svim ulagateljima u UCITS fondu.
+Članak 171.
+Osnova za utvrđivanje neto vrijednosti imovine navodi se u prospektu UCITS fonda i mora se dosljedno primjenjivati prilikom svakog izračuna neto vrijednosti imovine UCITS fonda.
+POGLAVLJE II.
+Utvrđivanje cijene udjela
+Članak 172.
+(1) Prilikom početne ponude udjela UCITS fonda cijenu izdanja određuje društvo za upravljanje i navodi je u prospektu UCITS fonda. Udjeli se dodjeljuju ulagateljima na dan uspješnog okončanja početne ponude udjela, prema cijeni izdanja.
+(2) Nakon početne ponude cijena udjela u UCITS fondu

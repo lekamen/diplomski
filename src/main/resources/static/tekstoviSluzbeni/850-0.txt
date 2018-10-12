@@ -1,0 +1,43 @@
+42 15.04.2015 Pravilnik o ustrojstvu i načinu vođenja zbirki s automatskom obradom podataka o utvrđivanju istovjetnosti osumnjičenika
+MINISTARSTVO UNUTARNJIH POSLOVA
+851
+Na temelju članka 211. stavaka 4. i 5. Zakona o kaznenom postupku (»Narodne novine« broj 152/2008, 76/2009, 80/2011, 91/2012, 143/2012, 56/2013, 145/2013 i 152/2014) ministar unutarnjih poslova uz suglasnost ministra zdravlja donosi
+PRAVILNIK
+O USTROJSTVU I NAČINU VOĐENJA ZBIRKI S AUTOMATSKOM OBRADOM PODATAKA O UTVRĐIVANJU ISTOVJETNOSTI OSUMNJIČENIKA
+Članak 1.
+Ovim Pravilnikom propisuje se ustrojstvo, sadržaj i način vođenja zbirki s automatskom obradom podataka o utvrđivanju istovjetnosti osumnjičenika te način korištenja podacima iz tih zbirki.
+Članak 2.
+U Ministarstvu unutarnjih poslova (u daljnjem tekstu: Ministarstvo) ustrojavaju se zbirke podataka o utvrđivanju istovjetnosti osumnjičenika (u daljnjem tekstu: zbirke).
+Zbirke iz stavka 1. ovoga članka su:
+1. Zbirka papilarnih linija,
+2. Zbirka podataka prikupljenih molekularno-genetskom analizom.
+Voditelj zbirki iz stavka 2. ovoga članka je Centar za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić«.
+Članak 3.
+Zbirka papilarnih linija sadrži:
+– naziv tijela nadležnog za unos podataka, mjesto i vrijeme uzimanja otisaka papilarnih linija (daktiloskopiranja),
+– otiske papilarnih linija osumnjičenih osoba,
+– tragove papilarnih linija izuzetih s mjesta događaja, podatke o mjestu njihovog pronalaska, načinu izazivanja i fiksiranja te ime, prezime i potpis policijskog službenika koji je pronašao, izazvao i fiksirao trag,
+– naziv kaznenog djela za koje je osoba osumnjičena,
+– podatke o daktiloskopiranoj osobi: ime i prezime, datum rođenja, mjesto rođenja, općina i država rođenja, državljanstvo, ime oca i majke, djevojačko prezime majke, prebivalište, ime partnera/bračnog druga, ime i godina rođenja djece, lažno ime, nadimak, posebne sklonosti, poznavanje stranih jezika, spol, osobiti osobni znaci, potpis daktiloskopirane osobe, isprava u koju je izvršen uvid radi provjere identiteta i njezin broj, matični broj, osobni identifikacijski broj, evidencijski broj (za stranca),
+– signaletičke fotografije osumnjičene osobe s osobnim opisom,
+– mjesto i vrijeme unosa podataka te AFIS (Automatic Fingerprint Indentification System) i ID broj.
+– ime i prezime policijskog službenika koji je daktiloskopirao osobu, ime i prezime policijskog službenika koji je unio podatke u zbirku te ime i prezime policijskog službenika koji je kontrolirao kvalitetu izuzetih otisaka.
+Članak 4.
+Zbirka papilarnih linija vodi se u kartoteci.
+Podaci iz zbirke papilarnih linija koji se vode u digitalnom obliku (Automatic Fingerprint Indentification System – AFIS) su:
+– otisci papilarnih linija osumnjičenih osoba,
+– podaci o daktiloskopiranoj osobi: ime i prezime, datum i mjesto rođenja, nacionalnost i spol,
+– naziv kaznenog djela za koje je osoba osumnjičena i vrijeme počinjenja kaznenog djela,
+– AFIS broj i ID broj,
+– tragovi papilarnih linija izuzetih s mjesta događaja.
+Članak 5.
+Zbirka podataka prikupljenih molekularno-genetskom analizom sadrži:
+– DNK profil osumnjičene osobe,
+– podatak o tipu nespornog biološkog uzorka (krv ili bris bukalne sluznice),
+– podatke o osobi kojoj je izuzet nesporni uzorak radi molekularno-genetske analize i to: ime i prezime, datum rođenja, matični broj i osobni identifikacijski broj.
+Zbirka iz stavka 1. ovog članka vodi se u digitalnom obliku na sustavu CODIS (Combined DNA Index System).
+Članak 6.
+Podaci se u zbirke iz članka 2. ovoga Pravilnika unose odmah nakon prikupljanja i obrade.
+Ovlaštenje za unos podataka u zbirke iz članka 2. ovog Pravilnika, njihovo brisanje i ažuriranje imaju policijski službenici koje odredi načelnik Centra za forenzična ispitivanja, istraživanja i vještačenja »Ivan Vučetić«.
+Članak 7.
+U cilju zaštite podataka sadržanih u zbirkama iz ovog Pravilnika, o svakom pristupu zbirci odnosno podacima vode se bilješke (logovi). Bilješke se koriste radi naknadnog utvrđivanja zakonite

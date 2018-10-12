@@ -1,0 +1,28 @@
+ središnjih poslužitelja, programskih sustava i lokalna mreža u sjedištu Državne uprave te internetski pristup sustavu za korisnike ZeOS-a.
+Članak 9.
+(1) Unutarnja ustrojstvena jedinica Državne uprave u sjedištu zadužena za uspostavu, održavanje i nadogradnju ZeOS-a dužna je urediti korištenje ZeOS-a po pitanjima poslova vezanih uz sigurnost, ispravan rad i pouzdanost te raspoloživost ZeOS-a, osobito poslove tehničkog održavanja, sigurnosnog održavanja i administriranja, te uspostaviti organizacijsku strukturu ZeOS-a iz svoje nadležnosti za potrebe prikupljanja, čuvanja, analiziranja i prikazivanja svih informacija značajnih za sustav civilne zaštite na području Republike Hrvatske.
+(2) Ostale unutarnje ustrojstvene jedinice u sjedištu i savjetnik za informacijsku sigurnost Državne uprave dužni su osigurati sigurnost aplikacija u području svoje nadležnosti.
+Članak 10.
+(1) Rukovodeći službenik unutarnje ustrojstvene jedinice Državne uprave u sjedištu zadužene za uspostavu, održavanje i nadogradnju ZeOS-a određuje administratora prostornih podataka i administratora administracijsko-komunikacijske infrastrukture ZeOS-a.
+(2) Rukovodeći službenici ostalih unutarnjih ustrojstvenih jedinica u sjedištu Državne uprave, u području nadležnosti, određuju administratore aplikacija.
+Članak 11.
+Koordinaciju i nadzor nad provedbom mjera organizacije i upravljanja područjem sigurnosti informacijskog sustava »ZEOS« provodi savjetnik za informacijsku sigurnost.
+Članak 12.
+(1) Za pravilno funkcioniranje, održavanje, razvoj i tehničku podršku korisnicima ZeOS-a brinu se ustrojstvene cjeline unutarnje ustrojstvene jedinice Državne uprave u sjedištu zadužene za uspostavu, održavanje i nadogradnju ZeOS-a u kojima se nalaze administratori računalnih sustava i mreža kao i ZeOS administratori i ZeOS analitičari.
+(2) Upravljanje u svezi pristupa datotekama operacijskog sustava provodi unutarnja ustrojstvena jedinica Državne uprave u sjedištu zadužena za uspostavu, održavanje i nadogradnju ZeOS-a sukladno tehničkim mogućnostima komunikacijsko-informacijskog sustava Državne uprave.
+Članak 13.
+Elektronička razmjena podataka može se odvijati putem razmjene elektroničkih poruka, slanjem datoteka od točke do točke ili razmjenom podataka na prijenosnim računalnim medijima za pohranu podataka (CD mediji, USB memorije i slično), prema pisanom naputku kojeg izrađuje i ažurira administratora sustava u suradnji sa savjetnikom za informacijsku sigurnost.
+Članak 14.
+Na informacijskom sustavu obvezno se vode i pohranjuju automatski dnevnički zapisi korisničkih aktivnosti, rada sustava, rada programa, rada mrežnih resursa sigurnosnih događaja te izuzetaka u radu, za što je odgovoran administrator sustava.
+IV. KORIŠTENJE ZeOS-a
+Članak 15.
+(1) Čelnici tijela vanjskih korisnika ZeOS-a, Državnoj upravi predlažu osobe za dodjelu korisničkih računa.
+(2) Prijedlogu iz stavka 1. ovog članka obvezno se prilaže obrazloženje za koji se razred zahtijeva izdavanje korisničkog računa.
+(3) Korisnički račun postaje aktivan po pisanom odobrenju unutarnje ustrojstvene jedinice Državne uprave u sjedištu zadužene za uspostavu, održavanje i nadogradnju ZeOS-a.
+(4) Korisniku se obavijest o otvorenom korisničkom računu, podacima o računu i uputama o korištenju dostavljaju teklićem ili preporučenom poštom.
+(5) Unutarnja ustrojstvena jedinica Državne uprave u sjedištu zadužena za uspostavu, održavanje i nadogradnju ZeOS-a može odbiti zahtjev ili ograničiti razinu pristupa prostornim podacima, prostornim servisima i aplikacijama, ukoliko ocijeni da priložena obrazloženja iz stavka 2. ovog članka nisu u skladu s potrebama vanjskog korisnika koji podnosi zahtjev.
+(6) Obavijest o odbijanju zahtjeva za dodjelu korisničkog računa podnositelju se dostavlja teklićem ili preporučenom poštom.
+Članak 16.
+(1) Korisnički račun omogućava korisniku pristup ZeOS-u.
+(2) Administrator aplikacije dodjeljuje korisničke račune korisnicima aplikacije te stvara, ažurira i analizira aplikacije.
+(3) Administrator

@@ -1,0 +1,40 @@
+moguće, kako bi se poboljšala njihova identifikacija i procjena njihovih posljedica.
+(3) Kada se procjenjuju posljedice elementarnih nepogoda uključenih u PPU analizu i identificiraju primjenjiva poboljšanja vezana uz te događaje analiza treba, koliko je to moguće, uključiti:
+a) određivanje težine događaja pri kojoj osnovne sigurnosne funkcije ne mogu biti osigurane;
+b) prikaz dostatnih margina za izbjegavanje »cliff edge učinka«, koji bi doveo do gubitka osnovne sigurnosne funkcije;
+c) utvrđivanje i procjenu najpouzdanijeg načina za osiguranje temeljnih sigurnosnih funkcija;
+d) mogućnost da događaji istovremeno mogu staviti pritisak na nekoliko redundantnih ili različitih dijelova sigurnosnog sustava, više SSK ili više jedinica na lokaciji, infrastrukturu na lokaciji i u regiji, vanjsku opskrbu i druge protumjere;
+e) potvrdu da će biti dovoljno resursa na raspolaganju na lokaciji sa više jedinica s obzirom na korištenje zajedničke opreme ili usluga;
+f) verifikaciju na lokaciji (tipično vizualno, metodom obilaska).
+PRILOG 2.
+PROJEKTNA OSNOVA ISTRAŽIVAČKIH REAKTORA
+1. Općenito
+(1) Projektiranje istraživačkog reaktora (dalje: reaktor) treba pokriti, osim reaktora i povezane objekte koji mogu utjecati na sigurnost.
+(2) Projekt sigurnosnih sustava treba voditi računa o načinu pogona reaktora i stabilnosti na različitoj pogonskoj snazi. Načini pogona reaktora uključuju npr. pogon prema potrebi korisnika (za razliku od neprekidnog pogona), pogon na različitim razinama pogonske snage, s različitom izvedbom jezgre, s različitim nuklearnim gorivom, itd.
+(3) Za posebne objekte kao što su:
+a) istraživački reaktori sa snagom većom od deset megavata;
+b) brzi reaktori;
+c) reaktori koji koriste eksperimentalne uređaje, kao što su petlje s visokim tlakom ili temperaturom;
+d) hladni neutronski izvori;
+e) vrući neutronski izvori,
+potrebno je primjenjivati projektne osnove nuklearne elektrane, navedene u Prilogu 1. ovog Pravilnika te dodatne sigurnosne mjere.
+2. Stupnjevit pristup
+Odluka da se odustane od bilo kojih zahtjeva za istraživački reaktor prema takvom pristupu temelji se na sljedećim čimbenicima:
+a) reaktorska snaga;
+b) izotopski sastav ispusta;
+c) količina i obogaćenje nuklearnih tvari;
+d) potrošeni gorivni elementi, visokotlačni sustavi, sustavi zagrijavanja i skladištenja zapaljivih tvari koji mogu utjecati na sigurnost reaktora;
+e) tip gorivnih elemenata;
+f) vrsta i masa moderatora, reflektora i rashladnog fluida;
+g) iznos reaktivnosti koja se može unijeti i brzina unosa reaktivnosti, kontrola reaktivnosti, pasivne i dodatne sigurnosne značajke;
+h) kvaliteta zgrade kontejnmenta ili drugih sredstva zadržavanja;
+i) korištenje reaktora (eksperimentalni uređaji, testovi i pokusi vezani na reaktorsku fiziku);
+j) lociranje;
+k) blizina stanovništva.
+3. Klasifikacija sigurnosti struktura, sustava i komponenti
+Sigurnosna klasifikacija SSK istraživačkih reaktora podliježe istim zahtjevima sigurnosne klasifikacije SSK kao u nuklearnim elektranama, propisanima u potpoglavlju 2.1 Priloga 1. ovog Pravilnika.
+4. Zaštita od unutarnjeg požara
+Projekt zaštite od požara treba biti usklađen sa zahtjevima za nuklearne elektrane, propisanima u poglavlju 3. Priloga 1. ovog Pravilnika, sukladno sličnosti istraživačkog reaktora sa nuklearnom elektranom.
+5. Pogonska ograničenja, zaštita i sigurnosni sustavi
+(1) Pogonska ograničenja za sve bitne parametre potrebno je odrediti za svako pogonsko stanje reaktora i za projektne kvarove. Usporedbom slijeda događaja, najkritičnije vrijednosti parametara potrebno je identificirati i te vrijednosti, s razumnim ograničenjima, treba koristiti pri projektiranju pojedinih SSK, uključujući i eksperimentalne uređaje.
+(2) Pogonska stanja pogona potrebno je identificirati. Projekt treba uzeti u obzir zahtjeve za očekivanu upotrebu reaktora i stabilnost njegove snage kako bi osigurao siguran pogon ili smanjenje snage bez potrebe da se pokrenu sigurnosni sustavi. Ti zahtjevi i ograničenja trebaju formirati osnovu za pogonska 

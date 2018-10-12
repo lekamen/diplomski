@@ -1,0 +1,30 @@
+ površina mora biti zaštićena od korozije slojem otpornim na habanje i udare.
+1.1.8. Na olovnoj pločici koja sprječava odvrtanje čepa, odnosno vađenje diska koji zatvara šupljinu za namještanje mase, mora biti predviđeno mjesto za utiskivanje ovjernog žiga.
+1.2. Paralelopipedni utezi
+1.2.1. Nazivne mase paralelopipednih utega su: 5 kg, 10 kg, 20 kg i 50 kg.
+1.2.2. Paralelopipedni utezi izrađuju se od jednog komada pravokutnog paralelopipednog oblika, sa zaobljenim rubovima i punom ručicom za dizanje, prema slikama u Dodacima IV. i V.
+1.2.3. Za izradu paralelopipednih utega upotrebljava se sivo lijevano željezo za cijeli uteg, prema slici u Dodatku IV. ili se ručica izrađuje od cijevi, prema slici u Dodatku V.
+1.2.4. Utezi s ručicom od lijevanog željeza moraju imati šupljinu za namještanje mase u obliku stošca kao što je prikazano na slici u Dodatku IV. Šupljina za namještanje mase zatvara se pločicom od mekog čelika, koja se osigurava olovnom pločicom na koju se utiskuje ovjerni žig kako bi se spriječilo odvajanje.
+1.2.5. Utezi s ručicom izrađenom od čelične bešavne cijevi moraju imati šupljinu za namještanje mase u unutrašnjosti cijevi, prema slici u Dodatku V.
+Šupljina za namještanje mase zatvara se mjedenim čepom s navojem ili mjedenim glatkim diskom. Mjedeni čep s navojem ima žlijeb za odvrtanje, a glatki mjedeni disk u sredini ima rupu za vađenje diska.
+Kako se mjedeni čep ne bi mogao odvrtati, a mjedeni glatki disk vaditi, u kružni žlijeb ili u unutarnji navoj utiskuje se olovna pločica.
+Utezi se namještaju stavljanjem metalnog gradiva u šupljine za namještanje mase.
+Pri prvom namještanju mase novih utega, približno 1/2 ukupnog obujma šupljine za namještanje mase mora ostati prazna.
+1.2.6. Uteg se označava oznakama urezivanjem ili lijevanjem na gornjoj površini utega i mora nositi oznaku razreda točnosti M2 zajedno s oznakom nazivne vrijednosti prema Dodacima IV. i V. Uteg na sebi može nositi i oznaku proizvođača.
+1.2.7. Izmjere utega prikazane su na slikama u Dodacima IV. i V., ovisno o postupku lijevanja, a unutarnje izmjere šupljina za namještanje mase prikazane su kao smjernica.
+1.2.8. Ako uteg nije izrađen od nehrđajućeg gradiva, njegova površina mora biti zaštićena od korozije slojem otpornim na habanje i udare.
+1.2.9. Na olovnoj pločici utega koja sprječava odvrtanje mjedenog čepa, odnosno vađenje mjedenog glatkog diska koji zatvara šupljinu za namještanje mase, mora biti predviđeno mjesto za utiskivanje ovjernog žiga.
+2. UTEZI RAZREDA TOČNOSTI M1
+2.1. Prema konstrukciji, utezi razreda točnosti M1, nazivne mase od 1 g do 50 kg, mogu biti cilindričnog ili paralelopipednog oblika, a upotrebljavaju se za vaganje plemenitih kovina, farmaceutskih proizvoda, ovjeravanje vaga i sl.
+2.2. Nazivna masa utega razreda točnosti M1 od 1 mg do 50 kg mora biti iskazana na način propisan člankom 3. ovoga Pravilnika.
+Oblik utega razreda točnosti M1 mora biti u skladu s oblikom prikazanim na slikama u Dodacima III. do V.
+Utezi izrađeni od pločica, razreda točnosti M1, nazivne mase od 1 mg do 1000 mg, moraju imati sljedeće oblike:
+1) utezi nazivne mase 1 mg, 10 mg, 100 mg i 1 000 mg – oblik trokuta
+2) utezi nazivne mase 2 mg, 20 mg i 200 mg – oblik četverokuta
+3) utezi nazivne mase 5 mg, 50 mg i 500 mg – oblik peterokuta.
+Utezi od žice, razreda točnosti M1, nazivne mase od 1 mg do 1 000 mg moraju biti izrađeni na sljedeći način:
+1) utezi nazivne mase 1 mg, 10 mg, 100 mg, 1 000 mg – od jednog segmenta
+2) utezi nazivne mase 2 mg, 20 mg i 200 mg – od dva segmenta
+3) utezi nazivne mase 5 mg, 50 mg i 500 mg – od pet segmenata.
+2.3. Utezi nazivne mase od 5 kg do 50 kg paralelopipednog oblika, razreda točnosti M1, moraju biti izrađeni od kovina ili legura čija je otpornost na koroziju i lomljivost podjednaka ili veća od otpornosti na koroziju i lomljivosti sivoga lijevanog željeza, lijevanog u finom pijesku.
+Utezi nazivne mase od 1 g do 20 kg cilindričnog oblika, razreda točnosti M1, moraju biti izrađeni od mjedi ili od gradiva sličnih

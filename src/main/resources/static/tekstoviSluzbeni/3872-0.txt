@@ -1,0 +1,28 @@
+47 20.05.2016 Pravilnik o metodologiji za izradu analize rizika poslovanja kritičnih infrastruktura
+DRŽAVNA UPRAVA ZA ZAŠTITU I SPAŠAVANJE
+1221
+Na temelju članka 11. stavka 3. Zakona o kritičnim infrastrukturama (»Narodne novine«, broj 56/13), ravnatelj Državne uprave za zaštitu i spašavanje donosi
+PRAVILNIK
+O METODOLOGIJI ZA IZRADU ANALIZE RIZIKA POSLOVANJA KRITIČNIH INFRASTRUKTURA
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim Pravilnikom utvrđuju se smjernice, kriteriji i mjerila za identifikaciju kritičnih infrastruktura i analizu rizika poslovanja kritičnih infrastruktura te nositelji i obveze nositelja izrade analize rizika poslovanja kritičnih infrastruktura koja je sastavni dio procesa procjene rizika.
+(2) Smjernice i kriteriji za analizu rizika iz stavka 1. ovog članka sukladni su ISO 31000:2009 standardu za upravljanje rizicima.
+Članak 2.
+Pojedini izrazi u smislu ovog Pravilnika imaju sljedeće značenje:
+1. Analiza kritičnosti je postupak identifikacije sustava, mreža i objekata od nacionalne važnosti čiji prekid djelovanja ili prekid isporuke roba ili usluga može imati ozbiljne posljedice na nacionalnu sigurnost, zdravlje i živote ljudi, imovinu i okoliš, sigurnost i ekonomsku stabilnost i neprekidno funkcioniranje vlasti.
+2. Analiza rizika je proces za razumijevanje prirode rizika i određivanje njegove razine što osigurava temelj za njegovo vrednovanje i odluku o obradi rizika, uključujući detaljnu razradu i gradaciju prijetnji, ranjivosti, vjerojatnosti i posljedica i utvrđivanje kriterija za dobivanje razine rizika.
+3. Događaj je pojava ili promjena određene skupine okolnosti. Događaj može biti jedna ili više pojava i može imati nekoliko uzroka, a može sadržavati i nešto što se ne događa. Događaj se ponekad može označiti kao »incident« ili »nesreća«. Događaj bez posljedica se može označiti kao »bliski promašaj, incident ili događaj koji je mogao biti koban.
+4. Elementi rizika su materijalna i nematerijalna imovina u okviru kritične infrastrukture koja može biti oštećena ili uništena, što može imati posljedica na funkciju kritične infrastrukture.
+5. Identifikacija rizika je proces pronalaženja, prepoznavanja i opisivanja rizika.
+6. Kaskadni događaj – kvar je poremećaj infrastrukture koji je uzrokovan drugim događajem u istoj ili drugoj infrastrukturi.
+7. Kriterij prihvatljivosti rizika je opis uvjeta prema kojem se odlučuje o prihvatljivosti rizika.
+8. Kriterij rizika je opis uvjeta prema kojima se vrednuje razina rizika, a temelji se na ciljevima kritične infrastrukture te vanjskom i unutarnjem kontekstu. Kriteriji rizika mogu proizlaziti iz propisa, politika ili drugih uvjeta.
+9. Međuovisnost kritičnih infrastruktura je dvosmjerna ovisnost između dviju ili više kritičnih infrastruktura, pri čemu stanje jedne utječe ili je u korelaciji sa stanjem drugih kritičnih infrastruktura i obratno.
+10. Operativne karakteristike su karakteristike koje ima kritična infrastruktura kada normalno radi.
+11. Ovisnost kritičnih infrastruktura je povezanost ili veza između dvije ili više kritičnih infrastruktura pri čemu stanje jedne utječe ili je u korelaciji sa stanjem druge kritične infrastrukture. Ovisnost može biti fizička, informacijska, logička, zemljopisna, itd.
+12. Posljedica je rezultat događaja koji utječe na ciljeve, a može biti određena ili neodređena i može imati pozitivne ili negativne učinke na ciljeve te može biti izražena kvalitativno ili kvantitativno. Jedan događaj može voditi nizu posljedica, a početna posljedica može eskalirati putem sekundarnih/naknadnih učinaka.
+13. Prijetnja je mogući uzrok neželjenog događaja koji može izazvati štetu kritičnoj infrastrukturi.
+14. Prijetnja antropogena je mogući uzrok neželjenog događaja izazvan djelovanjem ili ne djelovanjem ljudi što može izazvati štetu na kritičnoj infrastrukturi.
+15. Prijetnja prirodnih sila je uzrok neželjenog događaja izazvana djelovanjem prirodnih sila (potresi, poplave, itd.) što može izazvati štetu na kritičnoj infrastrukturi.
+16. Prijetnja tehničko-tehnološka 

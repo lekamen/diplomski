@@ -1,0 +1,36 @@
+ pregledom i razmatranjem objektivnih dokaza utvrđuje funkcioniraju li uspostavljene validirane metode, procedure, ispitivanja i drugi postupci u skladu sa specifikacijom metode ili postupaka utvrđenih tijekom validacije.
+II. USPOSTAVA SUSTAVA I POSTUPAKA TEMELJENIH NA NAČELIMA HACCP SUSTAVA
+Osnovna pravila
+Članak 4.
+(1) Subjekt u poslovanju s hranom je u svrhu provedbe članka 5. stavka 1. Uredbe (EZ) br. 852/2004 obavezan uspostaviti, provoditi i održavati sustave i postupke samokontrole temeljene na načelima HACCP sustava iz članka 5. stavka 2. Uredbe (EZ) br. 852/2004 i članka 7. stavka 1. Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu.
+(2) Sustav i postupci temeljeni na načelima HACCP sustava moraju omogućiti prepoznavanje svih bioloških, kemijskih i fizičkih opasnosti koje mogu predstavljati rizik za zdravlje ljudi.
+(3) Sustav i postupci temeljeni na načelima HACCP sustava moraju:
+1. biti proporcionalni riziku i temeljeni na riziku;
+2. se primijeniti na svaki pojedini procesni korak;
+3. se revidirati i ažurirati odnosno izmijeniti prilikom uvođenja novog ili promjene postojećeg proizvoda, procesa ili bilo kojeg procesnog koraka ili najmanje jednom godišnje.
+(4) Pri uspostavi i provedbi sustava i postupaka temeljenih na načelima HACCP sustava primjenjuju se pravila fleksibilnosti propisana ovim Pravilnikom.
+Načini uspostave sustava i postupaka temeljenih na načelima HACCP sustava
+Članak 5.
+(1) Uspostava sustava i postupaka temeljenih na načelima HACCP sustava, ovisno o rizicima, može se postići:
+1. uspostavom preduvjetnih programa iz članka 8. ovoga Pravilnika, ako se na taj način može osigurati učinkovita kontrola opasnosti;
+2. upotrebom pozitivno ocijenjenih vodiča za dobru higijensku praksu i primjenu načela HACCP sustava iz članaka 12. do 14. ovoga Pravilnika;
+3. uspostavom HACCP sustava primjenom načela iz članka 15. ovoga Pravilnika;
+4. kombiniranjem postupaka iz točaka 2. i 3. ovoga stavka.
+(2) Vodiči iz stavka 1. točke 2. ovoga članka su pozitivno ocijenjeni vodiči, sukladno članku 7. Uredbe (EZ) br. 852/2004 i članku 5. Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu, od strane ministarstva nadležnog za poljoprivredu odnosno ministarstva nadležnog za zdravlje (u daljnjem tekstu: nadležna tijela).
+Edukacija
+Članak 6.
+(1) Subjekt u poslovanju s hranom mora osigurati izobrazbu ili poduzeti druge radnje u svrhu osiguranja potrebne osposobljenosti djelatnika čije aktivnosti mogu utjecati na sigurnost hrane.
+(2) Subjekt u poslovanju s hranom mora osigurati da su djelatnici upoznati s identificiranim opasnostima, kritičnim kontrolnim točkama i kontrolnim točkama, preventivnim, kontrolnim i korektivnim mjerama te vođenjem dokumentacije i evidencija u svakoj fazi pripreme, proizvodnje, prerade, pakiranja, skladištenja, prijevoza i distribucije hrane, u dijelu za koji su odgovorni.
+(3) Djelatnici subjekta u poslovanju s hranom koji su odgovorni za uspostavu, provedbu i održavanje sustava i postupaka temeljenih na načelima HACCP sustava moraju biti odgovarajuće educirani o primjeni sustava i postupaka temeljenih na načelima HACCP sustava.
+(4) Članovi HACCP tima moraju biti educirani o sustavima i postupcima temeljenim na načelima HACCP sustava o čemu mora postojati evidencija.
+Provedba službenih kontrola
+Članak 7.
+Nadležna tijela prilikom provedbe službenih kontrola:
+1. uzimaju u obzir način na koji je subjekt u poslovanju s hranom uspostavio sustav i postupke temeljene na načelima HACCP sustava;
+2. provjeravaju jesu li uspostavljen sustav i postupci temeljeni na načelima HACCP sustava subjekata u poslovanju s hranom u skladu s procijenjenim rizikom te odredbama ovoga Pravilnika;
+3. provjeravaju educiranost djelatnika subjekta u poslovanju s hranom sukladno članku 6. ovoga Pravilnika;
+4. provjeravaju učinkovitost sustava i postupaka temeljenih na načelima HACCP sustava.
+III. PREDUVJETNI PROGRAMI I KONTROLA OPASNOSTI U POSLOVANJU S HRANOM
+Preduvjetni programi
+Članak 8.
+(1) Subjekt u poslovanju s

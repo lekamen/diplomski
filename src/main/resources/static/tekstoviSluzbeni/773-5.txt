@@ -1,0 +1,25 @@
+ ležaj/nosila, sustav za dobavu terapijskih plinova za udisanje i za evakuaciju izdahnutih plinova (BIBS), komplet regulatora za isporuku terapijske mješavine za disanje koji rade na zahtjev s otporom između 2 i 3 cm H2O, komplet crijeva i maski za bolesnika s dva nepovratna ventila i elastičnom trakom za fiksiranje, komplet crijeva s maskom za pratioca (bez elastične trake) sustav za nadzor parametara unutarnjeg okoliša u barokomori (obvezno: tlak, temperatura, postotak O2; preporučljivo: postotak CO, CO2, H2O – udvojeni mjerni instrumenti koji rade različitim mehanizmima) s mogućnosti očitanja u i izvan barokomore, sustav za nadzor dišnog medija u BIBS (obvezno: postotak O2, preporučljivo, CO2, CO, N2, NOX, He, H2O), sustav za upravljanje ventilima koji imaju mehanizme za rukovanje iznutra i izvana, sustav video-nadzora (preporučljivo s mogućnosti snimanja i trajne pohrane snimljenog materijala), sustavi za komuniciranje (glavni i pričuvni), medicinska oprema za nadzor i njegu bolesnika tijekom HBOT, kompleti opreme za ukazivanje prve medicinske pomoći bolesnicima tijekom HBOT u skladu s člankom 14. ovoga Pravilnika, medicinska komorica za dodavanje predmeta u i iz komore tijekom HBOT, sustav za gašenje požara vodom natlačenom na 8 bara koji se može aktivirati unutar i izvan komore, osvjetljenje izvana kroz transparencije na tijelu barokomore, glavni i pričuvni izvor napajanja, penetracije za priključivanje mjernih uređaja i elektroda za praćenje vitalnih funkcija bolesnika
+– sustav za skladištenje terapijskih plinova (obvezno: kisik, nitrox 60; preporučljivo: nitrox 40, heliox X, trimix XY), kapaciteta dostatnog za provedbu dva rekompresijska postupka po tablici 6A USN rekompresijskog protokola za dva bolesnika s jednim pratiocem
+– sustav za skladištenje ronilačkog zraka za tlačenje barokomore kapaciteta dostatnog za provedbu dva rekompresijska postupka po tablici 6A USN rekompresijskog protokola s po tri 4-minutna ventiliranja protokom 200 L/min za dva bolesnika s jednim pratiocem.
+(2) Medicinski i tehnički djelatnici za provedbu HBOT:
+– temeljni tim za provedbu postupka HBOT čine 1 doktor medicine specijalist ili 1 doktor medicine s edukacijom iz područja hiperbarične medicine kao vođa tima, 1 medicinska sestra/tehničar i 1 rukovatelj visokotlačnih sustava
+- prošireni tim za provedbu postupka HBOT čine 1 doktor medicine specijalist ili 1 doktor medicine s edukacijom iz područja hiperbarične medicine kao vođa tima, 2 medicinske sestre/tehničara i 1 rukovatelj visokotlačnih sustava
+– kadrovski optimum za operativno djelovanje višemjesne hiperbarične komore je tri temeljna tima za provedbu HBOT
+– kadrovski minimum za operativno djelovanje višemjesne hiperbarične komore je prošireni tim za provedbu HBOT.
+4. DJELATNOST HIGIJENSKO-EPIDEMIOLOŠKE ZDRAVSTVENE ZAŠTITE
+Članak 20.
+Za djelatnost higijensko-epidemiološke zaštite, pored prostora liječničke ordinacije, osigurava se:
+– prostorija za uzimanje i otpremu materijala
+– prostorija za čuvanje zaštitne opreme
+– prostorija za odlaganje medicinskog otpada.
+Članak 21.
+(1) Pored osnovne opreme liječničke ordinacije, za djelatnost higijensko-epidemiološke zaštite, potrebno je imati posuđe za uzimanje i transport materijala za laboratorijske i mikrobiološke pretrage, zdravstveno-promotivnu, radnu i zaštitnu opremu i klor komparator.
+(2) Za obavljanje higijensko-epidemiološke djelatnosti potrebno je imati vozilo na raspolaganju.
+(3) Djelatnici: 1 specijalist epidemiolog ili 1 specijalist javnozdravstvene medicine i 2 sanitarna tehničara ili 2 medicinske sestre-medicinska tehničara.
+(4) Za poslove dezinfekcije, dezinsekcije i deratizacije moraju biti ispunjeni uvjeti propisani posebnim propisima kojima se uređuje ovo područje.
+5. LJEKARNIČKA DJELATNOST
+Članak 22.
+(1) Za obavljanje ljekarničke djelatnosti u Vojno zdravstvenom središtu osigurava se:
+– prostor za izdavanje lijekova i medicinskih proizvoda od najmanje 40 m²
+– prostor za smještaj i čuvanje lijekova od najmanje 60 m²
+–

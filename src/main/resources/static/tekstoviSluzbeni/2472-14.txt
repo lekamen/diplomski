@@ -1,0 +1,27 @@
+ od ovlaštenog držatelja trošarinskog skladišta uvid u evidenciju te popis zaliha trošarinskih proizvoda u trošarinskom skladištu.
+Sadržaj i način vođenja evidencija registriranog primatelja, registriranog pošiljatelja i poreznog zastupnika za prodaju na daljinu
+Članak 39.
+(1) U evidencijama registriranog primatelja u skladu s člankom 40. stavkom 4. alinejom 2. Zakona moraju se voditi podaci o:
+1. primljenim količinama trošarinskih proizvoda u sustavu odgode plaćanja trošarine, i to prema kategoriji i vrsti trošarinskog proizvoda, trgovačkom nazivu i tarifnoj oznaci iz Kombinirane nomenklature carinske tarife, datumu primitka, pošiljatelju te jedinstvenoj referentnoj oznaci e-TD-a
+2. trošarinskim proizvodima korištenima za svrhu trošarinskog nadzora tijekom kretanja
+3. utvrđenim gubicima ili manjkovima trošarinskih proizvoda za koje se dokaže da se mogu pripisati nepredviđenim slučajevima ili višoj sili (osim krađe) ili su neodvojivo povezani s osobinama proizvoda nastalim tijekom prijevoza
+4. otpremljenim/primljenim količinama alkohola i alkoholnih pića te energente po svakoj adresi mjesta direktne isporuke u Republici Hrvatskoj te broj dokumenta i
+5. iznosima obračunate i plaćene trošarine.
+(2) U evidencijama registriranog pošiljatelja u skladu s člankom 42. stavkom 4. alinejom 2. Zakona moraju se voditi podaci o:
+1. uvezenim i otpremljenim količinama trošarinskih proizvoda u sustavu odgode plaćanja trošarine, i to prema kategoriji i vrsti trošarinskog proizvoda, trgovačkom nazivu, mjestu i datumu otpreme, primatelju te jedinstvenoj referentnoj oznaci e-TD-a
+2. carinskim dokumentima na temelju kojih su trošarinski proizvodi koje registrirani pošiljatelj otprema u sustavu odgode plaćanja trošarine pušteni u slobodan promet
+3. trošarinskim proizvodima korištenima za svrhu trošarinskog nadzora tijekom kretanja i
+4. utvrđenim gubitcima ili manjkovima trošarinskih proizvoda za koje se dokaže da se mogu pripisati nepredviđenim slučajevima ili višoj sili (osim krađe) ili su neodvojivo povezani s osobinama proizvoda nastalim tijekom prijevoza.
+(3) U evidencijama poreznog zastupnika za prodaju na daljinu u skladu s člankom 43. stavkom 4. alinejom 3. Zakona moraju se voditi podaci o:
+1. količinama trošarinskih proizvoda po kategoriji i vrsti trošarinskog proizvoda, trgovačkom nazivu te mjestu i datumu otpreme od strane inozemnog prodavatelja u Republiku Hrvatsku
+2. primateljima trošarinskih proizvoda u Republici Hrvatskoj
+3. kategoriji i vrsti te trgovačkom nazivu trošarinskih proizvoda puštenih u potrošnju na području Republike Hrvatske
+4. utvrđenim gubicima ili manjkovima trošarinskih proizvoda za koje se dokaže da se mogu pripisati nepredviđenim slučajevima ili višoj sili (osim krađe) ili su neodvojivo povezani s osobinama proizvoda nastalim tijekom prijevoza i
+5. iznosima obračunate i plaćene trošarine.
+(4) Registrirani primatelj, registrirani pošiljatelj i porezni zastupnik za prodaju na daljinu mogu sami izabrati oblik i način vođenja evidencije iz stavaka 1., 2. i 3. ovoga članka ukoliko takav oblik i način osigurava tražene podatke.
+(5) Nadležni carinski ured može u bilo kojem trenutku zatražiti od registriranog primatelja, registriranog pošiljatelja i poreznog zastupnika za prodaju na daljinu uvid u evidenciju koju isti vodi.
+XII. INSTRUMENT OSIGURANJA PLAĆANJA TROŠARINE
+Temeljne odredbe
+Članak 40.
+(1) Instrumentom osiguranja plaćanja trošarine garantira se namirenje nastalog trošarinskog duga ili trošarinskog duga koji bi mogao nastati za alkohol i alkoholna pića te energente (osim krutih goriva i prirodnog plina) koji se skladište i/ili proizvode u trošarinskom skladištu te koji se otpremaju i/ili primaju u sustavu odgode plaćanja trošarine, kao i plaćanje kamata koje su nastale ili bi mogle nastati, a za koje je instrument osiguranja plaćanja trošarinskog duga podnesen i prihvaćen.
+(2) Instrumentom osiguranja plaćanja trošarine garantira se namirenje nastalog trošarinskog duga ili trošarinskog duga koji bi mogao nastati za

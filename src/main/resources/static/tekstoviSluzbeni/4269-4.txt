@@ -1,0 +1,30 @@
+ raslinjem te se iskazuje standardnim odstupanjem interpoliranih visina od stvarnih propisanim odgovarajućom specifikacijom proizvoda za DMR.
+(5) Za potrebe izrade DMR-a za izradu ortofotoplana u mjerilu 1:2000 podaci se prikupljaju sukladno odgovarajućoj specifikaciji proizvoda i projektnom zadatku.
+Članak 16.
+(1) Dijelovi zemljišta koji nisu vidljivi u stereomodelima (raslinje, duboke sjene, oblaci i dr.) dopunjuju se na temelju dopunskih snimanja ili ostalim geodetskim metodama izmjere.
+(2) Provjera podataka kartiranja izvodi se terenskom usporedbom iscrtanog sadržaja topografske izmjere sa stanjem u stvarnosti, a istovremeno se dopunjuje sadržaj koji nije kartiran (vrste vodova i stupova, zgrade, ceste, toponimi i dr.).
+GLAVA II. OSTALE GEODETSKE METODE IZMJERE
+Članak 17.
+(1) Ostale geodetske metode izmjere su: ortogonal, tahimetrija, trigonometrijsko određivanje visina, nivelman i globalni sustavi za satelitsko pozicioniranje (GNSS). Ove metode izmjere izvode se mjerenjem detalja odnosno objekata pojedinačnim točkama, nejednoliko raspoređenim točkama u profilima, karakterističnim linijama i točkama reljefa.
+(2) Mjerenje iz stavka 1. ovoga članka izvodi se neposrednim određivanjem koordinata točaka u prostoru (GNSS-om) ili sa stalnih geodetskih točaka i poligonske mreže točaka razvijene tako da se s njih može snimiti predviđeni teren.
+(3) Točnost određivanja poligonske mreže i pojedinačnih točaka te njihova gustoća moraju zadovoljavati zahtjeve određene topografske karte.
+(4) Kartiranje se izvodi prema specifikaciji proizvoda za topografske podatke i modelu podataka CROTIS.
+(5) Na ostale metode izmjere primjenjuju se na odgovarajući način odredbe članaka 14., 15. i 16. ovoga Pravilnika.
+Članak 18.
+(1) U slučaju da ne postoji drugačija mogućnost i ukoliko topografski podaci zadovoljavaju propisanu točnost, isti se mogu prikupljati iz službenih planova i karata te digitalnih podataka samo uz prethodnu suglasnost Državne geodetske uprave. Podaci iz službenih planova i karata te digitalnih podataka Državne geodetske uprave usklađuju se prema specifikaciji proizvoda za topografske podatke i modelu podataka CROTIS.
+(2) Prije upotrebe podataka iz stavka 1. ovoga članka izvoditelj je dužan obavijestiti Državnu geodetsku upravu ako prilikom internih postupaka kontrole kvalitete u skladu s člankom 34. ovoga Pravilnika na preuzetim podacima uoči nepravilnosti, osim ako ugovorom nije drugačije definirano. Kod preuzimanja podataka primjenjuju se na odgovarajući način odredbe članaka 14., 15. i 16. ovoga Pravilnika.
+DIO TREĆI TOPOGRAFSKE I KARTOGRAFSKE BAZE PODATAKA
+Članak 19.
+(1) Temeljna topografska baza (TTB) podataka osnovna je objektno-orijentirana baza podataka organizirana sukladno modelu podataka CROTIS, primarno nastala topološkom obradom podataka fotogrametrijske restitucije aerofotogrametrijskog snimanja.
+(2) Način prikupljanja podataka TTB-a i procedure topološke obrade definirani su sukladno specifikaciji proizvoda za topografske podatke.
+Članak 20.
+Topografske baze podataka za određeno mjerilo (TB 25, TB 50, TB 100, TB 250 i dr.) uspostavljaju se iz TTB-a na način da se najprije uspostavi krupnije mjerilo i iz njega potom sitnije mjerilo metodama modelne generalizacije koje su definirane u odgovarajućim specifikacijama proizvoda za topografske i kartografske baze podataka.
+Članak 21.
+Kartografske baze podataka uspostavljaju se iz topografskih baza podataka za određeno mjerilo (KB 25, KB 50, KB 100, KB 250 i dr.) metodama kartografske generalizacije koje su definirane u odgovarajućim specifikacijama proizvoda za topografske i kartografske baze podataka.
+DIO ČETVRTI SLUŽBENE DRŽAVNE KARTE
+Članak 22.
+(1) Službene državne karte su:
+1. Hrvatska osnovna karta u mjerilu 1:5000, iznimno u mjerilu 1:10 000 za područja manjeg gospodarskog značaja (HOK 5 i HOK 10)
+2. detaljna topografska karta u mjerilu od 1:25 000 (DTK 25) do 1:250 000 (DTK 250)
+3. pregledna topografska karta (PTK) u mjerilu 1:300 000 i sitnijim
+4. ortofotoplan u

@@ -1,0 +1,27 @@
+ ovoga Zakona
+41. u slučaju da izračun i kontrola neto vrijednosti imovine UCITS fonda traju dulje od dva radna dana ne postupi u skladu s odredbama članka 169. stavka 7. ovoga Zakona
+42. otkup obavi in specie, a on nije predviđen prospektom UCITS fonda ili ga obavi na način koji nije u skladu s odredbama članka 175. ovoga Zakona
+43. ne postupi u skladu s odredbama pravilnika iz članka 181. ovoga Zakona
+44. više od dva puta u razdoblju od tri godine ne postupi u skladu s odredbama članka 182. ovoga Zakona
+45. ne postupi u skladu s odredbama članka 189. stavka 1. ovoga Zakona
+46. ne ažurira prospekt UCITS fonda u dijelu koji se odnosi na nebitne promjene prospekta u protekloj poslovnoj godini i ne objavi ga u skladu s odredbama članka 194. stavka 1. ovoga Zakona
+47. ne dostavi ažurirani prospekt UCITS fonda u skladu s odredbama članka 194. stavka 2. ovoga Zakona
+48. ne dostavi Agenciji sve promjene ključnih podataka za ulagatelje za svaki UCITS fond kojim upravlja u Republici Hrvatskoj, u skladu s odredbama članka 203. ovoga Zakona
+49. ne izrađuje ili ne dostavlja polugodišnje i revidirane godišnje izvještaje Agenciji u rokovima ili na način propisan odredbama članka 204. stavka 2., članka 206. ili članka 207. ovoga Zakona ili odredbama pravilnika iz članka 205. stavka 4. i članka 206. stavka 2. ovoga Zakona
+50. društvo za upravljanje iz druge države članice ne postupi u skladu s odredbama članka 209. ovoga Zakona
+51. ne omogući uvid u prospekt i posljednje polugodišnje i revidirane godišnje izvještaje UCITS fonda, u skladu s odredbama članka 210. stavaka 1. i 2. ovoga Zakona
+52. ne dostavi ulagatelju besplatno tiskani prospekt i ključne podatke za ulagatelje, u skladu s odredbama članka 211. stavka 3. ovoga Zakona
+53. ne dostavi ulagateljima posljednje revidirane godišnje izvještaje ili polugodišnje izvještaje UCITS fonda, u skladu s odredbama članka 211. stavka 4. ovoga Zakona
+54. ne izrađuje mjesečne izvještaje o poslovanju UCITS fonda ili ga ne objavljuje u skladu s odredbama članka 212. stavka 1. ovoga Zakona
+55. ne objavljuje i ne obavještava o svakom pravnom i poslovnom događaju u vezi s društvom za upravljanje i UCITS fondom kojim upravlja, u skladu s odredbama članka 213. stavka 1. ovoga Zakona
+56. više od dva puta u razdoblju od tri godine ne dostavi dodatne informacije ulagateljima na njihov zahtjev, u skladu s člankom 214. ovoga Zakona
+57. izda udjele protivno odredbama članka 246. ovoga Zakona
+58. ne iskaže pokazatelj ukupnih troškova UCITS fonda u skladu s odredbama članka 250. ovoga Zakona
+59. postupi protivno pravilniku iz članka 261. stavka 6. ovoga Zakona
+60. društvo za upravljanje fondom preuzimateljem ne obavijesti sve imatelje udjela u fondu preuzimatelju u skladu s odredbama članka 271. stavcima 1. i 2. ovoga Zakona, odnosno, društvo za upravljanje fondom prenositeljem ne obavijesti sve imatelje udjela u fondu prenositelju u skladu s odredbama članka 271. stavcima 3. i 4. ovoga Zakona
+61. imatelju udjela ne da kopiju revizorskog izvješća o pripajanju, u skladu s odredbama članka 277. stavka 2. ovoga Zakona
+62. ne uskladi imovinu fonda preuzimatelja s odredbama ovoga Zakona i prospektom fonda preuzimatelja u roku iz članka 279. stavka 7. ovoga Zakona
+63. društvo za upravljanje fondom preuzimateljem ne obavijestiti Agenciju i depozitara fonda preuzimatelja u skladu s odredbama članka 280. ovoga Zakona
+64. društvo za upravljanje fondom preuzimateljem na svojim mrežnim stranicama ne objavi informaciju o provedbi statusne promjene pripajanja, u skladu s odredbama članka 281. ovoga Zakona
+65. ne dostavi obavijest iz članka 301. stavka 1. ovoga Zakona u skladu s odredbama članka 301. stavka 2. ili članka 3. ovoga Zakona ili pravilnika iz članka 335. stavka 1. točke 1. ili točke 7. ovoga Zakona
+66. društvo za upravljanje glavnog UCITS fonda koje ne sklopi sporazum o razmjeni svih informacija i dokumentacije s društvom za upravljanje napajajućim UCITS fondom, u skladu s odredbama članka 303. stavka 1. ovoga Zakona 

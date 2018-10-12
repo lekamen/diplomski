@@ -1,0 +1,22 @@
+AIF-a propisati kriterije za razgraničavanje aktivnog i neaktivnog tržišta.
+(4) UAIF je dužan najmanje jednom tromjesečno, na kraju tromjesečnog razdoblja, koje je definirano računovodstvenim politikama, procijeniti zadovoljava li financijski instrument uvjete iz stavaka 1. i 2. i 3. ovoga članka.
+(5) UAIF je dužan u proceduri AIF-a propisati kriterije za određivanje transakcija čija cijena ne predstavlja fer vrijednost, odnosno transakcija koje se neće smatrati relevantnima prilikom izračuna broja dana trgovanja iz stavka 1. i 2. ovoga članka, a uzimajući u obzir primjerice volumen trgovanja, broj transakcija, promjenu cijene i sl.
+(6) UAIF može u proceduri AIF-a, osim kriterija iz stavaka 1. i 2. ovoga članka, propisati i dodatne kriterije za razgraničenje aktivnog i neaktivnog tržišta, uzimajući u obzir primjerice:
+a) volumen trgovanja u odnosu na prosječni volumen u tromjesečnom razdoblju,
+b) razliku između zadnje cijene ponude na kupnju i zadnje cijene ponude na prodaju i
+c) volumen trgovanja u odnosu na tržišnu kapitalizaciju u tromjesečnom razdoblju.
+(7) UAIF je dužan za financijske instrumente, koji su u trenutku procjene iz stavka 4. ovoga članka uvršteni na uređenim tržištima u razdoblju kraćem od tri mjeseca, proporcionalno razdoblju uvrštenja financijskog instrumenta, na odgovarajući način primijeniti odredbe iz ovoga članka.
+(8) Ako je pravilima AIF-a i prospektom kada je to primjenjivo predviđeno ulaganje AIF-a u robe, UAIF je dužan u računovodstvenim politikama AIF-a propisati kriterije za razgraničavanje aktivnog i neaktivnog tržišta na način kako je propisano za financijske instrumente u ovom članku.
+Tehnike procjene vrijednosti financijskih instrumenata i ostalih ulaganja koji se vrednuju po fer vrijednosti
+Članak 10.
+(1) Fer vrijednost financijskih instrumenata te ostalih ulaganja kojima se trguje na neaktivnom tržištu utvrđuje se tehnikama procjene, kojima je cilj procijeniti cijenu po kojoj bi imovina bila prodana odnosno obveza prenesena u urednoj transakciji među tržišnim sudionicima za datum vrednovanja.
+(2) UAIF je dužan u proceduri AIF-a opisati tehnike procjene iz stavka 1. ovoga članka, a koji uključuju najmanje:
+a) kriterije za izbor pojedine metode procjene fer vrijednosti,
+b) pretpostavke koje će se uzeti u obzir prilikom primjene pojedine metode procjene fer vrijednosti i obrazloženje za njihovo korištenje kao što su:
+– kod metode usporedivih poduzeća (peer group); kriteriji za odabir usporedivih poduzeća, referentan broj usporedivih poduzeća potrebnih za korištenje metode,
+– kod metode diskontiranih novčanih tokova (DCF); način izračuna diskontne stope, izvore inputa koji se koriste prilikom izračuna diskontne stope, način projiciranja budućih novčanih tokova izdavatelja i sl.
+c) opis ulaznih podataka te njihove izvore koji će se uzeti u obzir prilikom primjena pojedine metode procjene fer vrijednosti.
+(3) Prestankom ispunjenja uvjeta aktivnog tržišta iz članka 9. ovoga Pravilnika UAIF je dužan u pisanom obliku, sastaviti procjenu fer vrijednosti financijskih instrumenata te ostalih ulaganja, koja sadrži ulazne podatke korištene u izračunu kao i njihove izvore.
+(4) UAIF je dužan u procjeni fer vrijednosti iz stavka 3. ovoga članka obrazložiti i dokumentirati razloge i način odabira pojedine metode procjene fer vrijednosti, a ako koristi više metoda, način dodjeljivanja pondera za pojedinu metodu procjene fer vrijednosti, kao i razloge neuključivanja pojedine metode u izračun fer vrijednosti.
+(5) UAIF je dužan prilikom izrade procjene fer vrijednosti, u najvećoj mogućoj mjeri, koristiti ulazne podatke s tržišta, koji su javno dostupni i što manje se oslanjati na podatke koji nisu javno dostupni, a specifični su za pojedinog izdavatelja, odnosno moraju uključiti sve čimbenike koje bi sudionici tržišta razmatrali u određivanju fer vrijednosti.
+(6) UAIF je dužan procjenu fer vrijednosti financijskih instrumenata te ostalih ulaganja iz stavka 3. ovoga članka revidirati najmanje na datum sastavljanja

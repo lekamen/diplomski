@@ -1,0 +1,32 @@
+ isključen i zamijenjen drugim, pri čemu će Agencija voditi računa da je predloženi zamjenski pokazatelj najprimjereniji, te da osigurava da pokazatelj adekvatno odražava rizike koje kreditne institucije predstavljaju za sustav.
+Dodatni pokazatelji rizika
+Članak 7.
+(1) Pored temeljnih pokazatelja iz članka 6. ove Odluke, u izračun ARWi mogu se uključiti i dodatni pokazatelji rizika, ako su relevantni za utvrđivanje stupnja rizičnosti kreditnih institucija.
+(2) Dodatni pokazatelji rizika će se razvrstati u odgovarajuće kategorije iz članka 6. stavka 1. ove Odluke.
+(3) Iznimno od stavka 2. ove Odluke, ako dodatni pokazatelj ne odgovara opisu nijedne od navedenih kategorija, isti će biti uključen u kategoriju »Poslovni model i upravljanje rizicima«.
+(4) Dodatni pokazatelji rizika upotrijebljeni u metodi izračuna trebaju obuhvaćati dostatno širok spektar izvora rizika, a odabir pokazatelja rizika treba uskladiti s najboljim praksama upravljanja rizikom i s postojećim bonitetnim zahtjevima.
+Vrijednost pokazatelja
+Članak 8.
+(1) Vrijednosti pokazatelja rizika iskazuje se za svaku kreditnu instituciju na pojedinačnoj osnovi.
+(2) Iznimno od stavka 1. ovoga članka, vrijednost pokazatelja rizika iskazuje se na konsolidiranoj odnosno potkonsolidiranoj osnovi ako je kreditna institucija članica grupe sukladno člancima 7., 8. ili 21. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (SL L 176, 27. 6. 2013.), od Hrvatske narodne banke dobila izuzeće od ispunjavanja kapitalnih zahtjeva i/ili zahtjeva za likvidnost na pojedinačnoj osnovi.
+(3) Za izračun vrijednosti pokazatelja rizika koriste se podaci na temelju revizorskih izvješća.
+Ponderi za pokazatelje rizika
+Članak 9.
+(1) Zbroj pondera dodijeljenih svim pokazateljima rizika po svim kategorijama treba biti jednak 100%.
+(2) Ponder određenog pokazatelja rizika mora biti dodijeljen sukladno definiranim minimalnim ponderima odnosno rasponima navedenim u Prilogu 1. ove Odluke.
+(3) Zbroj minimalnih pondera navedenih u Prilogu 1 ove Odluke može biti u rasponu od 86,5% do 93,5%. Preostalih 6,5% do 13,5% fleksibilnih pondera (FP) potrebno je rasporediti na dodatne pokazatelje.
+(4) Iznimno od stavka 3. ovoga članka, u slučaju da nema dodatnih pokazatelja ili da raspoređeni fleksibilni ponderi iz stavka 3. ovoga članka nisu iscrpili maksimalnu zbirnu vrijednost fleksibilnih pondera, ostatak (neraspoređenih) pondera se raspoređuje na temeljne pokazatelje u jednakom omjeru raspoređivanja minimalnih pondera po temeljnim pokazateljima.
+3. POSTUPAK ODLUČIVANJA O ZAHTJEVU ZA ODOBRENJE METODOLOGIJE I DOKUMENTACIJA KOJU JE POTREBNO PRILOŽITI
+Zahtjev za izdavanje prethodnog odobrenja
+Članak 10.
+(1) Zahtjev za izdavanje prethodnog odobrenja za korištenje, odnosno izmjenu metodologije za izračun stupnja rizičnosti kreditne institucije Agencija podnosi Hrvatskoj narodnoj banci.
+(2) Uz zahtjev za izdavanje odobrenja Agencija je dužna priložiti:
+– opis načina izračuna stupnja rizičnosti za svaku pojedinu kreditnu instituciju, pokazatelje rizika, granične vrijednosti, pondere i transformacijsku funkciju koje pri tome koristi,
+– simulaciju izračuna stupnja rizičnosti za svaku pojedinu kreditnu instituciju za tekuću godinu sukladno dostavljenoj metodologiji i
+– datum planiranog početka primjene metodologije.
+(3) Hrvatska narodna banka može od Agencije zatražiti nadopunu zahtjeva i dostavu dodatnih dokumenata, podataka i informacija koje su potrebne za odlučivanje o zahtjevu za odobrenje metodologije.
+(4) Hrvatska narodna banka će u roku od 90 dana od dana dostave potpunog zahtjeva provest postupak izdavanja odobrenja.
+(5) Hrvatska narodna banka može zatražiti Agenciju da prezentira način izračuna stupnja rizičnosti i premija za kreditne institucije sukladno dostavljenoj metodologiji.
+Izdavanje odobrenja za korištenje metodologije
+Članak 11.
+(1) Hrvatska narodna banka izdat će odobrenje

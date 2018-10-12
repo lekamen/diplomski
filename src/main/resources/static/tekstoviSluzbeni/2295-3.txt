@@ -1,0 +1,38 @@
+ zavojnog kvačila vučnog uređaja koji se ne koristi.
+(3) Teretni vagon, pored elemenata navedenih u stavcima 1. i 2. ovoga članka, mora imati i najmanje jednu stubu i rukohvat za manevristu na svakom boku sanduka vagona.
+(4) Vozilo za prijevoz putnika i lokomotiva na čelu moraju, pored elemenata navedenih u stavcima 1. i 2. ovoga članka, imati i sljedeće elemente:
+a) sučelje za povezivanje pneumatskog sustava za napajanje ostalih pneumatskih uređaja (osim kočnih) s drugim jedinicama,
+b) čelnu slavinu pneumatskog sustava za napajanje ostalih pneumatskih uređaja s drugim jedinicama,
+c) energetsko i komunikacijsko sučelje za povezivanje s drugim jedinicama.
+(5) Odbojnici vozila moraju biti sukladni normi HRN EN 15551, a vučni uređaj sukladan normi HRN EN 15566.
+(6) Vodoravna simetrala vučne kuke vozila mora se nalaziti na visini između 920 mm i 1045 mm iznad gornjeg ruba tračnica (u daljnjem tekstu: GRT). Nijedan dio zavojnog kvačila teretnog vagona ne smije biti u prostoru koji obuhvaća 140 mm iznad GRT.
+(7) Odbojnici vozila moraju imati os u istoj vodoravnoj ravnini na visini od 940 mm do 1065 mm mjereno od GRT.
+(8) Vozilo mora na čelu imati slobodan prostor za sigurni rad manevarskog osoblja (Bernski prostor) sukladno WAG TSI.
+Članak 7.
+Vučno vozilo i drugo vozilo s upravljačnicom moraju biti opremljeni sljedećim uređajima:
+a) sirena – sukladno normi HRN EN 15153-2,
+b) brzinomjerni uređaj na svakom upravljačkom mjestu s točnošću pokazivanja ± 2%,
+c) registrirajući uređaj, s obveznim zapisom brzine i prijeđenog puta, čija točnost registriranja brzine u odnosu na brzinu prikazanu na brzinomjeru ne smije iznositi više od ± 3%, neovisno od promjera kotača,
+d) kontroler na svakom upravljačkom mjestu,
+e) kočnik neizravne kočnice na svakom upravljačkom mjestu,
+f) slavina za slučaj opasnosti na svakom upravljačkom mjestu,
+g) impulsni budnik koji je aktivan ako je brzina vožnje veća od 20 km/h ili je prevaljeni put dulji od 100 metara, a koji je zaštićen od nekontroliranog isključenja,
+h) uređaj za elektroničku komunikaciju, osim kod motornog vozila za posebne namjene,
+i) uređaj za pjeskarenje,
+j) dvije ručne zaustavne papuče; lokomotive koja se koristi za vuču vlaka i motorni vlakovi moraju imati 4 (četiri) ručne zaustavne papuče za tračnice tipa UIC 60,
+k) plug na vučnom vozilu namijenjenom za vožnju brzinom većom od 100 km/h,
+l) pomoćno kvačilo za vučna vozila bez zavojnog kvačila,
+m) uređaj za automatsku zaštitu vlaka (autostop uređaj),
+n) uređaj za vođenje vlaka i kabinsku signalizaciju ako je vozilo namijenjeno za vožnju brzinom većom od 160 km/h, kompatibilan s uređajem na pruzi.
+Članak 8.
+(1) Vučno vozilo mora biti opremljeno s tri čelne svjetiljke za osvjetljavanje voznog puta i za davanje propisanih signalnih znakova.
+(2) Dvije čelne svjetiljke moraju biti postavljene u istoj razini lijevo i desno od vertikalne simetrale vozila, na visini od 1500 mm do 1700 mm iznad GRT, a njihov međusobni razmak ne smije biti manji od 1300 mm, dok treća čelna svjetiljka mora biti smještena na vertikalnoj simetrali iznad horizontalno postavljenih svjetiljki.
+(3) Vučno vozilo i vozilo s upravljačnicom koje je građeno za brzinu vožnje veću od 100 km/h mora biti opremljeno reflektorom za osvjetljavanje kolosijeka.
+(4) Vučno vozilo mora imati dva crvena svjetla za označavanje kraja vlaka.
+(5) Boja i intenzitet svjetlosti svjetiljki moraju biti sukladni normi HRN EN 15153-1.
+(6) Čelne svjetiljke za osvjetljavanje kolosijeka moraju biti izvedene na način da se u dva stupnja može regulirati jakost svjetla (puno-prigušeno).
+(7) Upravljanje čelnim svjetiljkama i reflektorom mora biti izvedeno na način da je s upravljačkog mjesta moguće ostvariti sljedeće funkcije:
+a) istovremeno uključivanje čelnih svjetiljki za osvjetljavanje kolosijeka,
+b) regulacija jakosti svjetla čelnih svjetiljki za osvjetljavanje kolosijeka u dva stupnja,
+c) posebno uključivanje reflektora,
+d) pojedinačno uključivanje lijevog i desnog čelnog svjetla na lokomotivi namijenjenoj

@@ -1,0 +1,34 @@
+ izloženosti i kemijske opasnosti
+Profesionalna zaštita od ionizirajućeg zračenja
+(1) Za korištenje kutije digestora (npr., za izolaciju prerađenog uranija), specifikacije projekta trebaju biti razmjerne s posebnim opasnostima postrojenja za proizvodnju goriva.
+Zaštita okoliša
+(2) Potrebno je uzeti u obzir efikasnost filtera i njihovu otpornost na kemikalije (npr. HF), visoke temperature ispušnih plinova i požar.
+4.1.5 Pretpostavljeni inicijalni događaji
+Zaštita od unutarnjih požara i eksplozija
+(1) Potrebno je instalirati sustav za otkrivanje i/ili sprječavanje koji je razmjeran rizicima unutarnjih požara i eksplozija te treba biti u skladu s nacionalnim zahtjevima.
+(2) Potrebno je pažljivo procijeniti mogućnost ugradnje automatskih uređaja s vodenim raspršivačima u područjima u kojima može biti prisutan uranij, uzimajući u obzir rizik od kritičnosti.
+(3) U područjima s potencijalno eksplozivnom atmosferom, električne mreže i oprema trebaju biti zaštićeni u skladu sa sigurnosnim propisima.
+4.1.6 Instrumentacija i sustavi upravljanja
+Sigurnosna instrumentacija i kontrole sustava za uvjete tijeka nesreće
+Kontrola kritičnosti
+(1) Detektori ionizirajućeg zračenja (gama i/ili neutronski detektori), sa zvučnim i, gdje je to potrebno, vidljivim alarmima za pokretanje hitne evakuacije iz zahvaćenog područja, trebaju obuhvatiti sva područja u kojima je prisutna značajna količina fisibilnog materijala, osim ako se može pokazati da je vrlo malo vjerojatno da se dogodi kritična nesreća.
+Praćenje kemijskih ispuštanja
+(2) Potrebno je instalirati detektore u područjima gdje postoje značajne kemijske opasnosti (npr. zbog UF6, HF) i s ograničenim prisustvom ljudi, osim ako se može pokazati da je ispuštanje kemikalija vrlo malo vjerojatno.
+4.2 POSTROJENJE ZA IZRADU GORIVA S MIJEŠANIM OKSIDOM
+Sljedeći zahtjevi su specifični za postrojenje za izradu mješovitog oksida (MOX) goriva koje rukuje, obrađuje i skladišti:
+a) plutonijev oksid stupnja obogaćenja za civilnu upotrebu ili stupnja obogaćenja za izradu nuklearnog oružja;
+b) osiromašen, prirodan ili prerađen uranijev oksid;
+c) MOX izrađen iz a) i b) koji je predviđen za korištenje kao sirovina za izradu MOX goriva za korištenje u lakovodnim reaktorima ili brzim oplodnim reaktorima.
+Obuhvaćeni su suhi procesi, a zahtjevi se ne odnose na predobradu ili poliranje praha oksida.
+4.2.1 Sigurnosne funkcije
+Postrojenje je potrebno projektirati kako bi se spriječila nesreća s postizanjem kritičnosti i slučajno ispuštanje opasnih tvari. Projektom je potrebno osigurati da je izloženost radijaciji tijekom normalnog pogona svedena na najmanju moguću razumnu mjeru.
+4.2.2 Tehnički projekt
+Projektom je potrebno osigurati da je profesionalna izloženost ionizirajućem zračenju samo vanjska izloženosti i da nema mjerljive unutarnje doze radnika tijekom normalnog pogona. Kako bi se izbjegle unutarnje doze tijekom normalnog pogona, cilj projektiranja treba biti zadržavanje radioaktivnog materijala, njegovog širenje na radna područja na najmanju moguću mjeru te otkrivanje vrlo niskih razina kontaminacije u zraku.
+4.2.3 Sprječavanje kritičnosti
+(1) Tijekom normalnog pogona, predviđenih pogonskih događaja te uvjeta projektnih kvarova ili ekvivalenta, sigurnost s obzirom na kritičnost potrebno je postići zadržavanjem u potkritičnim granicama jednog ili više od sljedećih parametara sustava:
+a) PuO2 (ulaz):
+i. masa i geometrija u skladu sa sigurnosnom specifikacijom izotopskog sastava PuO2 i moderacijom;
+ii. prisutnost odgovarajućih apsorbera neutrona.
+b) C (ulazi): masa i geometrija u skladu sa sigurnosnom specifikacijom izotopskog sastava CU2 i moderacijom.;
+c) MOX prah: MOX prah je nastao u procesu izrade goriva, a povezanu opasnost kritičnosti potrebno je procijeniti u skladu s izotopskom specifikacijom i sadržaju PuO2 u svakoj fazi procesa. Potrebno je također uzeti u obzir masu, geometriju i moderaciju.
+(2) Za laboratorije i, ako je potrebno, čvrsti otpad plutonija, sigurnu masu i geometriju (za skladištenje)

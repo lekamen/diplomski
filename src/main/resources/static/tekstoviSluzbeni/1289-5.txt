@@ -1,0 +1,20 @@
+ Pokazatelji profila rizičnosti a) godišnja stopa rasta udjela loših plasmana b) pokrivenost loših plasmana ispravcima vrijednosti
+* Ako je kreditna institucija odredila više razina za različite opcije, upisuje se razina na kojoj se pokreće prva opcija.
+
+** Ako je kreditna institucija obrazložila zašto ne primjenjuje ovaj pokazatelj, u razine pokretanja opcija plana oporavka upisuje »nije primjenjivo«.
+
+*** Upisuju samo kreditne institucije kojima je na temelju članka 225. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013. i 19/2015.) naložen poseban zahtjev za likvidnost.
+
+**** Kreditna institucija dodaje retke za dodatne pokazatelje plana oporavka koje je utvrdila, a nisu navedeni u tablici.
+PRILOG 2.
+Ključne funkcije
+Funkcije Ima li prekid pružanja te usluge utjecaj na treće strane i financijski sustav u cjelini? Je li tržište predmetne usluge koncentrirano? Postoji li mogućnost da pružanje predmetne usluge adekvatno preuzme drugi pružatelj usluga? Je li funkcija ključna? Ključne usluge za pružanje ključnih funkcija
+PRILOG 3.
+Temeljne poslovne linije
+Temeljne poslovne linije Obrazloženje zašto se poslovna linija smatra temeljnom  
+PRILOG 4.
+Opcije oporavka
+Naziv opcije Područja opcija Primjenjuje li se u fazi rane intervencije? Kapital Likvidnost Financijska poluga Upravljanje rizicima Restrukturiranje obveza Ostalo                                                                                                                                                                                                
+PRILOG 5.
+Scenariji
+Naziv scenarija Vrsta scenarija Brzo/sporo razvijajući događaji Šokovi i njihovi parametri Primjena obratnog testiranja otpornosti na stres Razina pokazatelja nakon primijenjenog šoka Opcije primjenjive u scenariju Razina pokazatelja nakon primijenjene opcije Specifični Sistemski Kombinirani                                                                                

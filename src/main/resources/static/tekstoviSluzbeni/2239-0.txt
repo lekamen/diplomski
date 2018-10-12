@@ -1,0 +1,36 @@
+118 28.10.2015 Izmjene i dopune Metodologije utvrđivanja iznosa tarifnih stavki za transport plina
+HRVATSKA ENERGETSKA REGULATORNA AGENCIJA
+2240
+Na temelju članka 11. stavka 1. točke 9. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 26. listopada 2015. godine donijela
+IZMJENE I DOPUNE
+METODOLOGIJE UTVRĐIVANJA IZNOSA TARIFNIH STAVKI ZA TRANSPORT PLINA
+Članak 1.
+U Metodologiji utvrđivanja iznosa tarifnih stavki za transport plina (»Narodne novine«, broj 85/13 i 158/13), u članku 22. dodaje se stavak 2. koji glasi:
+»(2) Ukupno ostvareni prihodi iz stavka 1. ovoga članka uključuju i prihode od aukcijskih premija te prihode od prodaje dodatnog stalnog kapaciteta.«.
+Članak 2.
+U članku 29. stavku 1. točka a) mijenja se i glasi:
+»a) Tarifne stavke za ugovoreni stalni kapacitet na godišnjoj razini za ulaze u transportni sustav:
+TU,IN – tarifna stavka za ulaz u transportni sustav na međudržavnom spojnom plinovodu (u daljnjem tekstu: ulaz na interkonekciji) (kn/kWh/dan),
+TU,PR – tarifna stavka za ulaz u transportni sustav iz mreže proizvodnih plinovoda (u daljnjem tekstu: ulaz iz proizvodnje) (kn/kWh/dan),
+TU,SK – tarifna stavka za ulaz u transportni sustav iz sustava skladišta plina (u daljnjem tekstu: ulaz iz sustava skladišta plina) (kn/kWh/dan) i
+TU,UPP – tarifna stavka za ulaz u transportni sustav iz terminala za ukapljeni prirodni plin (u daljnjem tekstu: ulaz iz terminala za UPP) (kn/kWh/dan).«.
+Stavak 3. mijenja se i glasi:
+»(3) Tarifne stavke iskazuju se u Tablici tarifnih stavki, kako slijedi:
+Iznos tarifnih stavki Oznaka tarifne stavke Naziv tarifne stavke Mjerna jedinica Tarifne stavke za ugovoreni stalni kapacitet na godišnjoj razini za ulaze u transportni sustav TU,IN Tarifna stavka za ulaz na interkonekciji kn/kWh/dan TU,PR Tarifna stavka za ulaz iz proizvodnje kn/kWh/dan TU,SK Tarifna stavka za ulaz iz sustava skladišta plina kn/kWh/dan TU,UPP Tarifna stavka za ulaz iz terminala za UPP kn/kWh/dan Tarifne stavke za ugovoreni stalni kapacitet na godišnjoj razini za izlaze iz transportnog sustava TI,IN Tarifna stavka za izlaz na interkonekciji kn/kWh/dan TI,HR Tarifna stavka za izlaz u Hrvatskoj kn/kWh/dan TI,ZZ Tarifna stavka za izlaz u zasebnoj zoni kn/kWh/dan Tarifna stavka za količinu plina na izlazima iz transportnog sustava TK Tarifna stavka za količinu plina kn/kWh
+Članak 3.
+U članku 30. stavak 1. mijenja se i glasi:
+»(1) Iznos tarifne stavke za transport plina za ugovoreni stalni kapacitet na godišnjoj razini za ulaz na interkonekciji izračunava se za regulacijsku godinu t prema formuli:
+
+gdje je:
+TU,IN – tarifna stavka za ulaz na interkonekciji u regulacijskoj godini t (kn/kWh/dan),
+kPG,kap – koeficijent utjecaja planiranog prihoda od stalnog kapaciteta na godišnjoj razini na ukupni planirani prihod od kapaciteta u regulacijskoj godini t,
+DPU – dozvoljeni prihod na ulazima u transportni sustav u regulacijskoj godini t (kn),
+KAPU,IN – suma planiranih ugovorenih stalnih kapaciteta na godišnjoj razini svih korisnika na ulazima na interkonekcijama u regulacijskoj godini t (kWh/dan),
+kPR – koeficijent sigurnosti za ulaz iz proizvodnje,
+KAPU,PR – suma planiranih ugovorenih stalnih kapaciteta na godišnjoj razini svih korisnika na ulazima iz proizvodnje u regulacijskoj godini t (kWh/dan),
+kSK – koeficijent sigurnosti za ulaz iz sustava skladišta plina,
+KAPU,SK – suma planiranih ugovorenih stalnih kapaciteta na godišnjoj razini svih korisnika na ulazima iz sustava skladišta plina u regulacijskoj godini t (kWh/dan),
+kUPP – koeficijent sigurnosti za ulaz iz terminala za UPP,
+KAPU,UPP – suma planiranih ugovorenih stalnih kapaciteta na godišnjoj razini svih korisnika na ulazima iz terminala za UPP u regulacijskoj godini t (kWh/dan).«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Iznos tarifne stavke za transport plina za ugovoreni stalni kapacitet na godišnjoj razini za ulaz iz terminala za UPP izračunava se za

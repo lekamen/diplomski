@@ -1,0 +1,28 @@
+ ili drugih dogovora između tog imatelja PM računa i bilo kojeg subjekta iz stavka 1. ovog članka ili o bilo kakvom nepostupanju u skladu s tim sporazumima.
+3. Imatelj PM računa koji prihvaća da njegov PM račun bude određen kao glavni PM račun dužan je platiti fakture koje se odnose na otvaranje i funkcioniranje svakog DCA-a povezanog s tim PM računom, kako je navedeno u Dodatku VI. ove Odluke, neovisno o sadržaju, ili nepoštivanju ugovora ili drugih dogovora između tog imatelja PM računa i imatelja DCA-a.
+4. Imatelj glavnog PM računa dužan je platiti svaku fakturu za vezu sa svakim DCA-om s kojim je PM račun povezan, kako je navedeno u Dodatku VI. ove Odluke.
+Članak 9.
+Postupak prijave
+1. Radi pristupanja sustavu TARGET2-HR sudionici podnositelji prijave moraju udovoljavati mjerilima za pristup iz članka 5. ove Odluke (uključujući Dodatak VII. ove Odluke kojim se provodi članak 5. stavak 2. ove Odluke) i mora:
+(a) ispuniti sljedeće tehničke zahtjeve:
+i. postaviti, voditi, upravljati i pratiti te osigurati sigurnost potrebne informatičke infrastrukture radi povezivanja sa sustavom TARGET2-HR i dostavljanja naloga za plaćanje tom sustavu; pritom sudionici podnositelji prijave mogu uključiti treće strane, ali zadržavaju isključivu odgovornost; sudionici podnositelji prijave moraju sklopiti ugovor s pružateljem mrežnih usluga sustavu TARGET2 radi dobivanja potrebne veze i pristupa, u skladu s tehničkim specifikacijama iz Dodatka I. ove Odluke i
+ii. proći test koji zahtijeva Hrvatska narodna banka i
+(b) ispuniti sljedeće pravne zahtjeve:
+i. predočiti mišljenje o sposobnosti u obliku utvrđenom u Dodatku III. ove Odluke, osim ako je Hrvatska narodna banka informacije i izjave koje se moraju iznijeti u tom mišljenju o sposobnosti već dobila u drugom kontekstu i
+ii. za subjekte iz članka 5. stavka 1. točke (b) ove Odluke predočiti mišljenje o državi u obliku utvrđenom u Dodatku III. ove Odluke, osim ako je Hrvatska narodna banka informacije i izjave koje se moraju iznijeti u tom mišljenju o državi već dobila u drugom kontekstu.
+2. Podnositelji prijave podnose prijavu u pisanom obliku Hrvatskoj narodnoj banci i prilažu najmanje sljedeću dokumentaciju/informacije:
+(a) popunjene obrasce za prikupljanje statičnih podataka koje stavlja na raspolaganje Hrvatska narodna banka,
+(b) mišljenje o sposobnosti, ako ga traži Hrvatska narodna banka i
+(c) mišljenje o državi, ako ga traži Hrvatska narodna banka.
+3. Hrvatska narodna banka može također zahtijevati dodatne informacije koje smatra potrebnima za odluku o prijavi za sudjelovanje.
+4. Hrvatska narodna banka odbija prijavu za sudjelovanje ako:
+(a) mjerila za pristup iz članka 5. ove Odluke nisu ispunjena,
+(b) jedno ili više mjerila za sudjelovanje iz stavka 1. ovog članka nije ispunjeno i/ili
+(c) bi prema procjeni Hrvatske narodne banke takvo sudjelovanje ugrozilo opću stabilnost, solidnost i sigurnost sustava TARGET2-HR ili bilo koje druge komponente sustava TARGET2, ili bi ugrozilo obavljanje zadaća Hrvatske narodne banke utvrđenih Zakonom o Hrvatskoj narodnoj banci i Statutom Europskog sustava središnjih banaka i Europske središnje banke, ili je rizik s obzirom na načelo opreznosti.
+5. Hrvatska narodna banka dostavlja podnositelju prijave svoju odluku o prijavi za sudjelovanje u roku od mjesec dana od primitka prijave za sudjelovanje. Ako Hrvatska narodna banka zahtijeva dodatne informacije u skladu sa stavkom 3. ovog članka, odluka se dostavlja u roku od mjesec dana od dana kada je Hrvatska narodna banka primila te informacije od podnositelja prijave. Odluka o odbijanju mora sadržavati razloge za odbijanje.
+Članak 10.
+Imenik sustava TARGET2
+1. Imenik sustava TARGET2 jest baza podataka BIC-eva koji se upotrebljavaju za usmjeravanje naloga za plaćanje naslovljenih na:
+(a) imatelje PM računa u sustavu TARGET2 i njihove podružnice s pristupom za više adresata,
+(b) neizravne sudionike u sustavu TARGET2, uključujući one s pristupom za više adresata i
+(c) dostupne imatelje BIC-a sustava TARGET2.

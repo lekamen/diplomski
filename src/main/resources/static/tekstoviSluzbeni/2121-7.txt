@@ -1,0 +1,34 @@
+ školovanju na hrvatskom jeziku ili drugom odgovarajućom ispravom nadležne obrazovne ustanove.
+(4) Dokazi iz stavka 2. ovoga članka moraju biti izdani od strane nadležnih tijela, u ovjerenom prijevodu na hrvatski jezik ako su izdani na stranom jeziku te ovjereni sukladno posebnim propisima.
+Članak 19.
+(1) Ministarstvo će rješenjem ukinuti odobrenje za obavljanje poslova iz članaka 11., 12., 13. i 17. ovoga Zakona ako prestanu postojati uvjeti na temelju kojih je odobrenje izdano, odnosno poništiti ako je rješenje o odobrenju izdano na temelju lažnih ili krivotvorenih podataka.
+(2) Ministarstvo će ukinuti, odnosno poništiti odobrenje za obavljanje poslova iz članaka 11., 12., 13. i 17. ovoga Zakona i na temelju zahtjeva odgovorne osobe u pravnoj osobi, obrtnika ili odgovorne osobe podružnice ili izdvojenog pogona.
+(3) Ovlaštene pravne osobe, obrtnici i odgovorne osobe podružnice ili izdvojenog pogona dužni su, u roku od 15 dana od dana saznanja, izvijestiti Ministarstvo o promjeni uvjeta iz članaka 11., 12., 13. i 17. ovoga Zakona.
+(4) Protiv rješenja o ukidanju odobrenja ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+3. IZRADA DOKUMENTACIJE
+Članak 20.
+(1) HCR, ovlaštene pravne osobe i obrtnici dužni su izraditi i voditi tehničku dokumentaciju prije početka, tijekom i nakon obavljanja poslova općeg izvida – analize MSP-a, dopunskog općeg izvida, tehničkog izvida, razminiranja i kontrole kvalitete.
+(2) Osnovna tehnička dokumentacija prilikom obavljanja poslova iz stavka 1. ovoga članka sastoji se od:
+– Izvedbenog plana tehničkog izvida
+– Idejnog plana razminiranja
+– Izvedbenog plana razminiranja
+– Zapisnika o uvođenju u posao razminiranja
+– Djelovodnika voditelja skupine
+– Dnevnika radilišta tehničkog izvida
+– Dnevnika radilišta razminiranja s radnom kartom voditelja radilišta
+– Dnevnika kontrole kvalitete
+– Plana uništavanja MES-a, NUS-a i njihovih dijelova
+– Upisnika o uništavanju MES-a, NUS-a i njihovih dijelova
+– Izjave o očišćenosti od svih MES-a, NUS-a i njihovih dijelova
+– Zapisnika o završnoj kontroli kvalitete
+– Potvrde o isključenju područja i/ili građevina iz MSP-a.
+(3) Osnovnu tehničku dokumentaciju i popratnu dokumentaciju izrađenu tijekom obavljanja poslova iz stavka 1. ovoga članka HCR, ovlaštene pravne osobe i obrtnici moraju izraditi i voditi sukladno odredbama ovoga Zakona i propisa kojim se propisuje izrada, sadržaj i vođenje dokumentacije u protuminskom djelovanju.
+Članak 21.
+(1) Idejnim planom razminiranja definira se opisno, kartografski i fotografski površina i/ili građevina koju je potrebno razminirati od MES-a, NUS-a i njihovih dijelova, dubina razminiranja, propisane metode rada, mjere sigurnosti te posebna ograničenja i zabrane za izvoditelje radova. Idejnim planom također se opisuje MSP uključujući podatke o zagađenosti MES-om, NUS-om i njihovim dijelovima, daju se karakteristike područja i podaci dobiveni prethodno obavljenim poslovima općeg izvida – analize MSP-a, dopunskog općeg izvida, razminiranja ili tehničkog izvida unutar projektnog zadatka ili u neposrednoj okolici.
+(2) Idejni plan razminiranja sastavni je dio dokumentacije za nadmetanje.
+Članak 22.
+(1) Na temelju Idejnog plana razminiranja, koji je sastavni dio dokumentacije za nadmetanje, ovlaštene pravne osobe i/ili obrtnik izrađuju Izvedbeni plan razminiranja koji je sastavni dio njihove ponude.
+(2) Izvedbeni plan razminiranja je skup međusobno usklađenih nacrta i dokumenata kojima se daje tehničko rješenje na temelju zadatka iz Idejnog plana i utvrđuje način obavljanja poslova razminiranja određenog područja i/ili građevine te utvrđuju mjere sigurnosti i zaštite na radu kojih se potrebno pridržavati tijekom izvođenja radova.
+Članak 23.
+(1) Prije pristupanja poslovima tehničkog izvida u MSP-u HCR je dužan izraditi Izvedbeni plan tehničkog izvida.
+(2) Obavljanje poslova ručne detekcije mina, strojne pripreme površine i/ili pregleda površine psima za detekciju mina na pojedinim površinama i/ili građevinama utvrđenim

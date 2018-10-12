@@ -1,0 +1,50 @@
+na obrascu koji je sastavni dio sustava.
+Članak 63.
+Službena bilješka i njen sadržaj unosi se u sustav JCMS.
+Članak 64.
+Kod izrade odluka ili drugih akata u sustavu JCMS mogu se koristiti obrasci.
+Članak 65.
+U sustav JCMS rješavatelj je obvezan unijeti točan datum pravomoćnosti odluke.
+Članak 66.
+Predmet se iskazuje u statističkim izvješćima koja se generiraju iz sustava JCMS kao riješen s datumom koji sustav automatski generira označavanjem predmeta riješenim.
+XIV. TROŠKOVI POSTUPKA
+Članak 67.
+(1) Podaci o troškovima unose se u sustav JCMS.
+(2) Troškovi postupka koji su isplaćeni na teret proračunskih sredstava, unose se redom u popis troškova u sustav JCMS.
+XV. STATISTIKA I IZVJEŠĆA
+Članak 68.
+(1) Statistička izvješća koja se nalaze u sustavu JCMS definira ministarstvo nadležno za poslove pravosuđa u suradnji sa sudovima.
+(2) Ministarstvo nadležno za poslove pravosuđa na kraju svakoga statističkog razdoblja, a najkasnije do desetog dana u mjesecu dostavlja sudovima sumarna statistička izvješća o njihovom radu. Izvješća se temelje na podacima unesenim u sustav JCMS.
+(3) Standardna statistička izvješća ministarstvo nadležno za poslove pravosuđa dostavlja sudovima putem elektroničke pošte.
+(4) Ako ima primjedbu na statističko izvješće, predsjednik suda može, u roku pet dana od dana primitka izvješća, dostaviti primjedbe ustrojstvenoj jedinici ministarstva nadležnog za poslove pravosuđa čiji djelokrug rada obuhvaća poslove statistike, putem elektroničke pošte na adresu: »statistikaMP@pravosudje.hr«.
+Članak 69.
+(1) Standardna statistička izvješća su:
+1. Neriješeni predmeti po godinama – za datum osnivanja – po vrsti predmeta,
+2. Neriješeni predmeti po godinama – za datum osnivanja – po vrsti predmeta po rješavatelju,
+3. Neriješeni predmeti po godinama – za datum dodjele – po vrsti predmeta po rješavatelju,
+4. Riješeni predmeti po godinama za datum osnivanja – po vrsti predmeta,
+5. Riješeni predmeti po godinama za datum osnivanja – po vrsti predmeta po rješavatelju,
+6. Riješeni predmeti po godinama za datum dodjele – po vrsti predmeta po rješavatelju,
+7. PSRP – Izvješće o prosječnoj starosti riješenih predmeta,
+8. Izvješće o broju i trajanju ročišta po rješavatelju,
+9. SSI – Sumarno statističko izvješće o broju primljenih riješenih i neriješenih predmeta,
+10. SSI – skraćen – za ispis po sudu,
+11. PSI – Pojedinačno statističko izvješće o radu rješavatelja,
+12. PSI – Pojedinačno statističko izvješće o radu rješavatelja s radnim danima,
+13. PSI – skraćen – za ispis – Pojedinačno statističko izvješće o radu rješavatelja,
+14. PSI – Pojedinačno statističko izvješće o radu rješavatelja po vrsti predmeta u periodu,
+15. OPT – Izvješće o opterećenju rješavatelja dodijeljenim predmetima,
+16. Izvještaji prekršajnih sudova po Zakonu o zaštiti od nasilja u obitelji,
+17. Izvještaj Visokog prekršajnog suda Republike Hrvatske po Zakonu o zaštiti intelektualnog vlasništva,
+18. Podaci o prekršajnopravnoj zaštiti intelektualnog vlasništva,
+19. Statistički izvještaj suca vezani uz diskriminaciju i osnove diskriminacije,
+20. Statistički izvještaji prekršajnog suda vezani uz diskriminaciju i osnove diskriminacije,
+21. Izvještaj »Prekršajna djela – motiv mržnja«,
+22. Izvještaj »Manjinski jezik« – izvještaj o predmetima koji su vođeni ili koji su mogli biti vođeni na manjinskom jeziku.
+(2) Kada se ocijeni potrebnim mogu se kreirati i druga Standardna statistička izvješća, sukladno Katalogu propisanih statističkih izvještaja i obrazaca za prekršajne sudove koje je verificirano od Stalnog verifikacijskog tijela.
+Članak 70.
+Za potrebu izrade statističkih izvješća koriste se sljedeći izrazi:
+1. datum osnivanja predmeta – datum kada je podnesak kojim se pokreće postupak pred sudom prvi put zaprimljen u sudu,
+2. trajanje rješavanja predmeta pred sudom – broj dana od datuma zaprimanja u sud do datuma rješavanja predmeta,
+3. starost neriješenog predmeta – broj dana od datuma pokretanja postupka do datuma izrade izvješća,
+4. vrijeme rješavanja predmeta u sudu –

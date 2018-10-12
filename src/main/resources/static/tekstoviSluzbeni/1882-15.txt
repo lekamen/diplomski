@@ -1,0 +1,44 @@
+ na drugi. ESSU mora imati mogućnost postavljanja složenog manevarskog voznog puta jednom naredbom.
+(5) Obilazni manevarski vozni put je takav manevarski vozni put kad se osigurava alternativna trasa između »starta« i »cilja« manevarskog voznog puta, što se definira tablicama u glavnom projektu.
+(6) Manevarski vozni put manevarskog sastava tehnički je osiguran ako su ostvareni:
+– osiguranje od nesukladnih (nekompatibilnih) voznih puteva ili manevarskih voznih puteva,
+– nezauzeto stanje kontroliranih odsjeka u području bočne zaštite,
+– bočna zaštita,
+– pravilan položaj skretnica,
+– čelna zaštita
+– zaštita od sustizanja,
+– blokiranje elemenata manevarskog voznog puta,
+– zaštitno stanje uređaja za osiguranje ŽCP-a.
+Osiguranje od nesukladnih (nekompatibilnih) voznih puteva ili manevarskih voznih puteva
+Članak 42.
+(1) Nesukladni (nekompatibilni) manevarski vozni put i vlakovni vozni put je onaj koji u bilo kojoj točki siječe, dodiruje ili preklapa postavljeni manevarski vozni put.
+(2) Manevarski vozni putevi međusobno se ne smiju sjeći i dodirivati.
+(3) Suprotni istovremeni manevarski vozni putevi na isti kolosijek dopušteni su, osim ako to projektnim tablicama nije zabranjeno.
+Slobodnost kontroliranih odsjeka
+Članak 43.
+(1) U manevarskom voznom putu ne provjerava se zauzeto ili slobodno stanje kontroliranih odsjeka koji su prevoženi od strane manevarskog sastava.
+(2) Kontrolirani odsjeci u području bočne zaštite moraju biti slobodni.
+(3) Od ovog zahtjeva može se odustati ako skretnice i križišta u manevarskom voznom putu imaju kontrolu međnika, što se definira projektnim tablicama.
+(4) Zauzimanje kontroliranog odsjeka u području bočne zaštite, ako mora biti kontroliran na slobodnost, mora odmah postaviti SZ »Vožnja zabranjena«, odnosno »Manevriranje zabranjeno« na pripadajućem graničnom kolosiječnom signalu ili manevarskom signalu za zaštitu voznog puta. Po nestanku kvara gore navedeni signali ne smiju signalizirati signalni znak dopuštene vožnje.
+Pravilan položaj skretnica
+Članak 44.
+(1) Skretnice u manevarskom voznom putu moraju biti u pravilnom položaju i blokirane.
+(2) Gubitak kontrole pravilnog položaja skretnice u manevarskom voznom putu mora odmah postaviti u položaj »Vožnja zabranjena«, odnosno »Manevriranje zabranjeno« pripadni granični kolosiječni signal ili manevarski signal za zaštitu voznog puta, koji se nalazi ispred skretnice s gubitkom kontrole. Po nestanku kvara gore navedeni signali ne smiju signalizirati signalni znak dopuštene vožnje.
+Bočna zaštita
+Članak 45.
+Za bočnu zaštitu manevarskog voznog puta vrijede isti uvjeti kao i za vozni put vlaka.
+Čelna zaštita
+Članak 46.
+Manevarski vozni put zaštićen je od istovremenih suprotnih manevarskih voznih puteva. Izuzetci su dopušteni, ali moraju biti definirani projektnim tablicama.
+Zaštita od sustizanja
+Članak 47.
+(1) Zaštita od sustizanja je osigurana prelaskom graničnih kolosiječnih signala i manevarskih signala za zaštitu voznog puta u SZ »Vožnja zabranjena« odnosno »Manevriranje zabranjeno«.
+Granični kolosiječni signali i manevarski signali za zaštitu voznog puta prelaze u redovni SZ:
+– nakon oslobađanja kontroliranog odsjeka ispred početnog signala manevarskog voznog puta ili
+– nakon oslobađanja bilo kojeg kontroliranog odsjeka manevarskog voznog puta.
+(2) Ako iza graničnog kolosiječnog signala ili manevarskog signala za zaštitu voznog puta nema kontroliranih odsjeka ili postoji samo jedan kontrolirani odsjek, ili je takav tehnološki zahtjev, onda navedeni signali mogu preći u redovni položaj automatski uz vremensku odgodu od 60 ili 90 sekundi nakon postavljanja. Ovo mora biti definirano projektnim tablicama uz naznačenu vremensku odgodu.
+Signaliziranje
+Članak 48.
+Primjenjuju se općeniti uvjeti za signaliziranje voznog puta uz sljedeća ograničenja:
+(1) Pri postavljanju SZ »Manevriranje slobodno« ne provjerava se zauzeto ili slobodno stanje kontroliranih odsjeka koji su prevoženi od strane manevarskog sastava.
+(2) Signali u manevarskom voznom putu signaliziraju SZ 

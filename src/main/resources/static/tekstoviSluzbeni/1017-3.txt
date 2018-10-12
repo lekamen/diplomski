@@ -1,0 +1,36 @@
+ članka 14. stavka 1. ovoga Pravilnika izdaje se Otočna iskaznica za pomorski prijevoz vozila (u daljnjem tekstu: Otočna iskaznica za vozila) i pripadajuća vinjeta, uz koju je korisnik dužan posjedovati odgovarajuću putnu kartu u fizičkom ili u elektroničkom obliku.
+(2) Za svako ostvareno putovanje korisnika iz stavka 1. ovoga članka brodar je dužan izdati odnosno evidentirati izdanu putnu kartu s navedenom relacijom, datumom putovanja, cijenom te brojem Otočne iskaznice za vozilo.
+(3) Pri putovanju na liniji korisnici će se evidentirati očitanjem putne karte odnosno očitanjem Otočne iskaznice za vozila prilikom ukrcaja u trajekt, a kada se za to stvore tehnički uvjeti i prilikom ulaska u putnički terminal, ako postoji u luci ukrcaja.«
+Članak 16.
+Članak 17. mijenja se i glasi:
+»(1) Otočnu iskaznicu za vozila i vinjetu izdaje Agencija i u njezinom su vlasništvu.
+(2) Na temelju Otočne iskaznice za vozila izdaje se putna karta koja može biti izdana u fizičkom ili elektroničkom obliku.
+(3) Na izdavanje Otočne iskaznice za vozilo i vinjete odgovarajuće se primjenjuje odredba članka 12. stavak 2. ovoga Pravilnika.
+(4) Otočna iskaznica za vozilo i vinjeta izdaju se na zahtjev korisnika i uvidom u važeću prometnu dozvolu.
+(5) Sadržaj zahtjeva za izdavanje Otočne iskaznice za vozilo i vinjete propisan je u Prilogu 5. ovoga Pravilnika.
+(6) Visinu troškova izdavanja Otočne iskaznice za vozila kao i vinjete na prijedlog ravnatelja odlukom utvrđuje Upravno vijeće Agencije.
+(7) Troškove izdavanja Otočne iskaznice za vozila kao i vinjete uvijek podmiruje korisnik.
+(8) U slučaju gubitka Otočne iskaznice za vozila ili vinjete odgovarajuće se primjenjuje odredba članka 13. stavka 4. ovoga Pravilnika.
+(9) Na prikupljanje potrebnih podataka za utvrđivanje statusa korisnika vozila iz članka 14. stavka 1. ovoga Pravilnika na odgovarajući način primjenjuje se odredba članka 12. stavka 8. ovoga Pravilnika.
+(10) Na provjeru podataka korisnika Otočne iskaznice za vozila odgovarajuće se primjenjuje odredba članka 13. stavka 3. ovoga Pravilnika.«
+Članak 17.
+Iza članka 17. dodaje se članak 17.a koji glasi:
+»Članak 17.a
+(1) Otočna iskaznica za vozilo sadrži podatke o korisniku koji su navedeni na njezinoj površini i u beskontaktnom čipu, a izdaje se u ID1 formatu i omogućuje elektroničku obradu podataka.
+(2) Uz Otočnu iskaznicu za vozilo izdaje se i vinjeta te čine neodvojivu cjelinu, Otočna iskaznica za vozilo i vinjeta izdaje se za vozila iz članka 14. stavka 1. ovoga Pravilnika.
+(3) Otočna iskaznica za vozila i vinjeta izdaje se na rok od 5 godina.
+(4) Sadržaj i izgled Otočne iskaznice za vozilo i vinjete propisan je u Prilogu 6. ovoga Pravilnika.«
+Članak 18.
+Ispred članka 18. dodaje se naslov: »ZAJEDNIČKE ODREDBE O OTOČNIM ISKAZNICAMA.«
+Članak 18. mijenja se i glasi:
+»(1) Otočna iskaznica za putnika izdaje se u četiri boje, ovisno o statusu korisnika, kako je propisano u Prilogu 7. ovoga Pravilnika.
+(2) Na temelju zahtjeva korisnika za izdavanje Otočne iskaznice za putnika ili vozilo provjeravaju se podaci korisnika i utvrđuje njegov status.
+(3) Provjera podataka i utvrđivanje statusa korisnika provodi se kroz Sustav evidencije otočnih prava (u daljnjem tekstu: SEOP).
+(4) O otočnim iskaznicama vodi se evidencija o SEOP-u.
+(5) Za potrebe izrade Otočne iskaznice za putnika ili vozilo, utvrđivanje statusa korisnika u SEOP-u se evidentiraju podaci iz javnih registara koje vode tijela iz članka 12. stavka 8. ovoga Pravilnika i to:
+– Registar prebivališta i Registar vozila – voditelj Registra Ministarstvo unutarnjih poslova
+– Registar umirovljenika – voditelj Registra Hrvatski zavod za mirovinsko osiguranje
+– Registar studenata – voditelj Registra Ministarstvo znanosti, obrazovanja i sporta – Sveučilišni računalni centar (SRCE)
+– Registar učenika – voditelj Registra Ministarstvo znanosti, obrazovanja i sporta – Hrvatska akademska i istraživačka mreža (CARNET).
+(6) Voditelj evidencije korisnika prava na povlašteni prijevoz je Agencija.
+(7) Na SEOP se mogu

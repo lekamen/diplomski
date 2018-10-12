@@ -1,0 +1,45 @@
+
+b) ugovor koji će se podmirivati ili se može podmiriti vlastitim vlasničkim instrumentima poduzetnika
+13.13. Rezerviranje je obveza čija je priroda jasno određena i za koju je na datum bilance vjerojatno ili sigurno da će nastati ali postoji neizvjesnost u pogledu iznosa ili datuma kada će nastati. Rezerviranje se ne koristi za usklađivanje vrijednosti imovine.
+13.14. Zakonska obveza je obveza koja proizlazi iz:
+– ugovora,
+– zakona,
+– drugog djelovanja zakona.
+13.15. Izvedena obveza je obveza koja proizlazi iz djelovanja poduzetnika gdje:
+– putem prakse, publiciranih politika ili dovoljno određenih izjava, poduzetnik pokazuje drugim stranama da će prihvatiti odgovornosti i
+– kao rezultat toga, poduzetnik je stvorio opravdana očekivanja drugih stranaka da će odgovornost biti realizirana.
+13.16. Nepredviđena obveza je:
+– moguća obveza proizašla iz prošlih događanja čije će ostvarenje biti potvrđeno nastankom ili ne nastankom budućih poslovnih događanja koji nisu pod kontrolom poduzetnika,
+– sadašnja obveza koja proizlazi iz prošlih događanja koja nije priznata s obvezom da nije vjerojatno da će podmirivanje ove obveze zahtijevati odljev resursa.
+SADRŽAJ
+13.17. Ovaj Standard sadrži načela, pravila, postupke i metode mjerenja i evidentiranja, priznavanja i objavljivanja obveza. U ovom Standardu obuhvaćene su obveze koje nastaju iz transakcija i poslovnih događanja a klasificiraju se kao kratkoročne i dugoročne. Obveze obuhvaćaju:
+– Obveze prema dobavljačima
+– Obveze prema zaposlenima
+– Obveze za predujmove
+– Tekuće porezne obveze
+– Obveze u svezi financijskog najma
+– Obveze u svezi zajednički kontrolirane djelatnosti
+– Obveze u svezi zajedničke kontrolirane imovine
+– Financijske obveze (obveze za kredite, zajmove i dužničke vrijednosne papire)
+– Rezerviranja
+– Nepredviđenu obvezu
+– Ostale obveze.
+PRIZNAVANJE
+13.18. Obveza se priznaje kada je vjerojatno da će zbog podmirenja sadašnje obveze, doći do odljeva resursa iz poduzetnika i kada se iznos kojim će se ona podmiriti može pouzdano izmjeriti.
+13.19. Tekući porez za tekuće i prethodno razdoblje priznaje se kao obveza, u visini kojoj nije plaćen.
+13.20. Na početku razdoblja najma financijski najam priznaje se kod najmoprimca kao imovina i obveze po fer vrijednosti iznajmljene nekretnine odnosno, ako je niže po sadašnjoj vrijednosti minimalnih plaćanja najma.
+13.21. Pothvatnikov udjel u zajedničkoj djelatnosti priznaje se kao imovina i obveza u njegovom financijskom izvještaju.
+13.22. U vezi svoga udjela u zajednički kontroliranoj imovini poduzetnik priznaje u vlastitim financijskim izvještajima svoj dio u nastalim obvezama u svezi s zajedničkim pothvatom.
+13.23. Poduzetnik će priznati financijske obveze kada postane jedna od ugovorenih strana na koji se primjenjuju ugovoreni uvjeti.
+13.24. Izdavatelj financijskih instrumenata kod početnog priznanja klasificira instrument kao financijsku obvezu, financijsku imovinu ili vlasnički instrument.
+13.25. Rezerviranje se priznaje kada:
+– poduzetnik ima sadašnju obvezu (pravna ili izvedena) kao rezultat prošlog događanja,
+– je vjerojatno da će podmirivanje obveze zahtijevati odljev resursa i
+– se iznos obveze može pouzdano procijeniti.
+13.26. Nepredviđena obveza ne priznaje se nego se samo objavljuje u bilješkama.
+13.27. Ako poduzetnik ima štetni ugovor, sadašnja obveza prema tom ugovoru treba se priznati i kao rezerviranje u visini gubitka.
+MJERENJE
+Početno
+13.28. Tekuće porezne obveze za tekuća i ranija razdoblja treba mjeriti iznosom za koji se očekuje da će se platiti ili povratiti od porezne vlasti, primjenjujući porezne stope i porezne zakone koji su na snazi na datum bilance.
+13.29. Iznos priznat kao rezerviranje treba biti najbolja procjena izdataka potrebnih za podmirivanje sadašnje obveze na datum bilance.
+13.30. Kod početnog priznanja financijske obveze mjere se po sadašnjoj vrijednosti plaćanja kojima se će se obveza podmiriti. Ako poduzetnik naknadno ne mjeri financijske obveza po fer vrijednosti čija se promjena ne priznaje u

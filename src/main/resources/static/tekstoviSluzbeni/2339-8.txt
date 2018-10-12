@@ -1,0 +1,41 @@
+ identifikacijski broj,
+3. datum i mjesto rođenja,
+4. datum polaganja Programa osposobljavanja,
+5. naziv nositelja Programa osposobljavanja,
+6. naziv Pravilnika te broj i datum Narodnih novina u kojima je objavljen temeljem kojega se Program osposobljavanja provodi,
+7. broj uvjerenja, datum i mjesto izdavanja Uvjerenja,
+8. ime i prezime, potpis odgovorne osobe Nositelja Programa osposobljavanja i njegov pečat.
+Članak 31.
+(1) Ako nositelj Programa osposobljavanja prestane ispunjavati neki od propisanih uvjeta Ministarstvo će mu rješenjem ukinuti suglasnost.
+(2) Ako se utvrdi nepravilnost u provođenju Programa osposobljavanja, Ministarstvo će nositelju Programa osposobljavanja rješenjem odrediti primjereni rok za otklanjanje nepravilnosti.
+(3) Ako Nositelj Programa osposobljavanja u danom roku nepravilnosti iz stavka 2. ovoga članka ne otkloni, Ministarstvo će mu rješenjem oduzeti suglasnost.
+Članak 32.
+(1) Registar nositelja Programa izobrazbe ustrojava i vodi Ministarstvo u elektroničkom i u pisanom obliku.
+(2) Registar iz stavka 1. ovoga članka sadrži: klasifikacijski broj, urudžbeni broj, datum izdavanja suglasnosti, naziv pravne osobe i osobni identifikacijski broj, adresu sjedišta, e-mail adresu i broj telefona, ime i prezime odgovorne osobe i njezin osobni identifikacijski broj, imena i prezimena osoba koje provode Program izobrazbe i njihove osobne identifikacijske brojeve i odjeljak za napomene.
+(3) Izvadak iz Registra iz stavaka 1. i 2. ovoga članka objavljuje se na službenim internetskim stranicama Ministarstva.
+Članak 33.
+(1) Registar izvješća o provedenim energetskim pregledima ustrojava i vodi Ministarstvo u elektroničkom i u pisanom obliku.
+(2) Ovlaštena osoba dužna je dostavljati Izvješća o provedenim energetskim pregledima velikih poduzeća u Registar iz stavka 1. ovoga članka u roku od 15 dana od izrade.
+(3) Izvješća o provedenim energetskim pregledima velikih poduzeća koji se ne nalaze u Registrima iz stavka 1. i 2. ovoga članka ne priznaju se.
+Članak 34.
+(1) Velika poduzeća koja su provela pojedine radnje koje su sadržane u člancima 6. i 7. ovoga Pravilnika dužna su provesti obvezu iz članka 4. stavka 1. ovoga Pravilnika do 1. siječnja 2017. godine.
+(2) Radnje iz stavka 1. ovoga članka uključuju i uvođenje norme ISO 9001:2008, ISO 14001:2004, ISO 22000:2005 te započeti energetski pregled do stupanja na snagu ovoga Pravilnika.
+Članak 35.
+Stupanjem na snagu ovoga Pravilnika prestaju se primjenjivati odredbe Pravilnika o energetskim pregledima građevina i energetskom certificiranju zgrada (»Narodne novine«, br. 81/12, 29/13 i 78/13) u dijelu koji se odnosi na energetske preglede građevina i Pravilnika o uvjetima i mjerilima za osobe koje provode energetske preglede građevina i energetsko certificiranje zgrada (»Narodne novine«, br. 81/12 i 64/13).
+Članak 36.
+Ovaj Pravilnik stupa na snagu prvog dana od dana objave u »Narodnim novinama«.
+Klasa: 406-01/15-04/22
+Urbroj: 526-04-01-02/1-15-10
+Zagreb, 4. studenoga 2015.
+Ministar Ivan Vrdoljak, v. r.
+PRILOG I.
+PROGRAM IZOBRAZBE ZA ENERGETSKE PREGLEDE VELIKIH PODUZEĆA
+Osposobljavanje polaznika za provođenje energetskih pregleda velikih poduzeća sadrži obrazovanje polaznika o osnovama:
+• tehničke opreme i uređaja uobičajenim za velika poduzeća;
+• provedbe i izvještavanja energetskog pregleda;
+• izrade jednostavne tehno-ekonomske analize predloženih mjera uštede;
+• optimizacije sustava izmjenjivača topline;
+• energetskih mjerenja te mjerne opreme.
+Osposobljavanje se sastoji od 44 sata predavanja te pismenog ispita
+Sadržaj Programa izobrazbe
+R.br. Naziv teme Trajanje 1 Uvod u energetski audit u industriji, zakoni HR i EU za velika poduzeća – energetika i zaštita okoliša, Pravilnik 0,5 2 Opći koncept energetske učinkovitosti Strateški pristup gospodarenju energijom i okolišem, gospodarenje energetskim resursima 0,5 3 Priprema za energetski audit • Uvod: o pregledu lokacije i kratki upitnik • Priprema za mjerenje, mjerenje, nadzor i postavljanje ciljeva • Sustav prikupljanja

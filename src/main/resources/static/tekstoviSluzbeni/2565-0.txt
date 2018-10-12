@@ -1,0 +1,28 @@
+136 18.12.2015 Odluka o postupcima namire za sporedne sustave
+HRVATSKA NARODNA BANKA
+2566
+Na temelju članka 120. stavka 1. Zakona o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) Savjet Hrvatske narodne banke donosi
+ODLUKU
+O POSTUPCIMA NAMIRE ZA SPOREDNE SUSTAVE
+Članak 1.
+Pravna podloga i predmet
+(1) Hrvatska narodna banka je ugovorna strana u Sporazumu o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) te je prema tom sporazumu prihvatila Smjernicu Europske središnje banke ESB/2012/27 od 5. prosinca 2012. o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) kako je posljednji put mijenjana Smjernicom Europske središnje banke ESB/2015/15 od 2. travnja 2015.
+(2) U skladu sa Smjernicom iz stavka 1. ovog članka ovom se Odlukom uređuju postupci namire za sporedne sustave.
+(3) Ova Odluka predstavlja opće uvjete za postupke namire za sporedne sustave.
+(4) Ova Odluka zajedno s Odlukom o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR i njezinim dodacima, Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i njezinim dodacima i Odlukom o uvjetima za otvaranje i funkcioniranje namjenskog gotovinskog računa u sustavu TARGET2-HR i njezinim dodacima predstavlja Pravila rada sustava TARGET2-HR.
+Članak 2.
+Definicije
+Za potrebe ove Odluke, osim onih iz članka 3. Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR, primjenjuju se i sljedeće definicije:
+(1) »banka namire« znači sudionik čiji se PM račun ili podračun upotrebljava za namiru instrukcija za plaćanje sporednog sustava;
+(2) »duga pozicija« znači imati potraživanje za vrijeme namire instrukcija za plaćanje sporednog sustava;
+(3) »gotovinska namira« znači namira novčanica i kovanica;
+(4) »ICM poruka« znači informacije koje su istodobno dostupne svim skupinama ili izabranoj skupini imatelja PM računa u sustavu TARGET2 preko ICM-a;
+(5) »informacijski i kontrolni modul (ICM)« znači modul SSP-a koji omogućuje imateljima PM računa dobivanje online informacija, dostavljanje naloga za prijenos likvidnosti, upravljanje likvidnošću i iniciranje naloga za plaćanje u izvanrednim situacijama;
+(6) »instrukcija za odobrenje« znači instrukcija za plaćanje koju je dostavio sporedni sustav i koja je naslovljena na ASCB radi terećenja jednog od računa koji sporedni sustav ima i/ili vodi u PM-u i radi odobrenja PM računa ili podračuna banke namire za iznos određen u instrukciji;
+(7) »instrukcija za plaćanje« ili »instrukcija za plaćanje sporednog sustava« znači instrukcija za odobrenje ili instrukcija za terećenje;
+(8) »instrukcija za terećenje« znači instrukcija za plaćanje koja je naslovljena na SCB i koju je dostavio sporedni sustav radi terećenja PM računa ili podračuna banke namire za iznos naveden u instrukciji, na temelju ovlaštenja za terećenje, i radi odobrenja bilo kojeg računa sporednog sustava u PM-u ili PM računa ili podračuna druge banke namire;
+(9) »internetski pristup« znači da se sudionik odlučio za PM račun kojemu se može pristupiti samo preko interneta i da sudionik dostavlja platne poruke ili kontrolne poruke sustavu TARGET2 preko interneta;
+(10) »kratka pozicija« znači biti dužan novac za vrijeme namire instrukcija za plaćanje sporednog sustava;
+(11) »međusistemska namira« znači namira instrukcija za terećenje u realnom vremenu na temelju koje se izvršavaju plaćanja od jedne banke namire jednog sporednog sustava, upotrebljavajući postupak namire 6, prema banci namire drugog sporednog sustava upotrebljavajući postupak namire 6;
+(12) »modul (upravljanja) statičkim podacima« znači modul SSP-a u kojemu se prikupljaju i snimaju statički podaci;
+(13) »ovlaštenje za terećenje« znači odobrenje

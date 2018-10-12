@@ -1,0 +1,22 @@
+prihoda 6319 koji sada glasi:
+-6319 Županijske novčane kazne i oduzeta imovinska korist po rješenjima sudaca za prekršaje.
+U istoj glavi u točki 3. PRIHODI GRADSKIH I OPĆINSKIH PRORAČUNA, u podtočki 3.3. Gradske i općinske novčane kazne, mijenja se naziv brojčane oznake vrste prihoda 6742 koji sada glasi:
+-6742 Gradske i općinske novčane kazne i oduzeta imovinska korist temeljem odluka prekršajnih sudova i drugih prekršajnih tijela.
+II.
+U glavi III. ZAJEDNIČKI PRIHODI u točki 3. ZAJEDNIČKI PRIHOD DRŽAVNOGA, ŽUPANIJSKIH, GRADSKIH I OPĆINSKIH PRORAČUNA, u podtočki 3.4. Prihod od zakupa i privremenog korištenja poljoprivrednog zemljišta u vlasništvu države te zakupa za ribnjake, iza DRENJA dodaje se DUBROVAČKO PRIMORJE, iza LUDBREGA dodaje se LUKA, iza LUPOGLAVA dodaje se LJUBEŠĆICA, iza MIKLEUŠA dodaje se MILNA, iza NUŠTRA dodaje se OBROVAC, iza POJEZERJA dodaje se POLAČA, iza STARE GRADIŠKE dodaje se STARI GRAD i iza TROGIRA dodaje se TRPANJ:
+IBAN Grad/Općina HR2910010051759864410 DUBROVAČKO PRIMORJE HR2010010051754864416 LUKA HR1610010051724764418 LJUBEŠĆICA HR6710010051726764416 MILNA HR8910010051729664417 OBROVAC HR1110010051734464411 POLAČA HR5910010051741364418 STARI GRAD HR5710010051760164412 TRPANJ
+U istoj glavi i istoj točki iza podtočke 3.22.1 »Upisivanje podataka u polje »poziv na broj primatelja« dodaju se nove podtočke:
+»3.23. Prihodi od prodaje mineralnih sirovina iz viška iskopa
+Prihodi od prodaje mineralnih sirovina iz viška iskopa uplaćuju se u korist računa grada/općine na čijem području se nalazi građevina kod koje je prilikom gradnje nastao višak iskopa:
+IBAN Naziv računa HR0810010051700029756 Prihod od prodaje mineralnih sirovina iz viška iskopa
+3.23.1. Upisivanje podataka u polje »poziv na broj primatelja«
+Obveznici uplate na račun prihoda od prodaje mineralnih sirovina iz viška iskopa na nalozima za plaćanje u polje »model« upisuju broj modela »HR05«, a u polje »poziv na broj primatelja« kao podatak prvi šifru grada/općine s kontrolnim brojem, kao podatak drugi OIB dodijeljen od Ministarstva financija – Porezne uprave a kao podatak treći broj ugovora sklopljenog s Državnim uredom za upravljanje državnom imovinom (najviše do 5 znamenki).«
+III.
+U glavi IV. SREDSTVA DOPRINOSA ZA MIROVINSKO OSIGURANJE ZA STAROST NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE u točki 1. DOPRINOS ZA MIROVINSKO OSIGURANJE ZA STAROST NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE, u podtočki 1.1. Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje temeljem JOPPD izvješća – od 1. 1. 2014. godine, iza brojčane oznake vrste doprinosa 2321 dodaje se brojčana oznaka koja je u primjeni od 1. siječnja 2016. godine:
+-2330 Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje po osnovi obavljanja samostalne djelatnosti za osobe koje su same za sebe obvezne obračunati doprinose.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.1.1. Upisivanje podataka u polje »poziv na broj primatelja« dio teksta »do 2321« mijenja se i glasi »do 2330«.
+U istoj glavi i istoj točki, u podtočki 1.2. Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje, iza brojčane oznake vrste doprinosa 2275 dodaju se sljedeće brojčane oznake koje su u primjeni od 1. siječnja 2016. godine.
+-2348 Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje – pomorci – članovi posade broda u međunarodnoj plovidbi, -2356 Doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje za staž s povećanim trajanjem – pomorci – članovi posade broda u međunarodnoj plovidbi.
+U istoj glavi, istoj točki i istoj podtočki, u podtočki 1.2.1. Upisivanje podataka u polje »poziv na broj primatelja« u tekstu iza brojčane oznake vrste doprinosa 2267 stavlja se zarez a iza brojčane oznake 2275 dodaju se 2348 i 2356.
+IV.
+U glavi V. PRIHODI HRVATSKOG ZAVODA ZA ZDRAVSTVENO OSIGURANJE u točki 1. OBVEZNO ZDRAVSTVENO OSIGURANJE, u podtočki 1.1.

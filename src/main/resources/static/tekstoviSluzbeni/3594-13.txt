@@ -1,0 +1,48 @@
+
+BITNI ZDRAVSTVENI I SIGURNOSNI ZAHTJEVI PRI PROJEKTIRANJU I IZRADI OPREME I ZAŠTITNIH SUSTAVA NAMIJENJENIH UPORABI U POTENCIJALNO EKSPLOZIVNIM ATMOSFERAMA
+Preliminarna zapažanja
+A. Tehnološka saznanja, koja se mogu brzo mijenjati, moraju se uzimati u obzir što je moguće brže i odmah upotrijebiti.
+B. Za opremu navedenu u članku 1. stavku 1. točki (b) ovoga Pravilnika bitni zdravstveni i sigurnosni zahtjevi moraju se primijeniti samo toliko koliko je potrebno za sigurno i pouzdano funkcioniranje i rad te opreme u odnosu na opasnost od eksplozije.
+1. Opći zahtjevi za opremu i zaštitne sustave
+1.0. Opći zahtjevi
+1.0.1. Načela cjelokupne sigurnosti od eksplozije
+Oprema i zaštitni sustavi namijenjeni uporabi u potencijalno eksplozivnim atmosferama moraju biti projektirani s gledišta ugrađene sigurnosti od eksplozije
+U vezi s time proizvođač mora poduzeti mjere:
+– prije svega, ako je moguće, spriječiti formiranje eksplozivne atmosfere, koja može nastati ili može biti ispuštena iz same opreme ili zaštitnih sustava,
+– spriječiti paljenje eksplozivne atmosfere, uzimajući u obzir vrstu svakog električnog i neelektričnog uzročnika paljenja,
+– ako dođe do eksplozije koja bi mogla posredno ili neposredno ugroziti osoblje i eventualno domaće životinje ili dobra, treba je trenutno zadržati i/ili ograničiti područje učinka plamena i tlaka eksplozije na dovoljnu razinu sigurnosti.
+1.0.2. Oprema i zaštitni sustavi moraju biti projektirani i proizvedeni tako da se uzmu u obzir mogući kvarovi u radu kako bi se što je moguće više spriječile opasne situacije.
+Mora biti uzeta u obzir i razumno predvidiva pogrešna uporaba.
+1.0.3. Posebni uvjeti provjere i održavanja
+Oprema i zaštitni sustavi podvrgnuti posebnim uvjetima ispitivanja i održavanja moraju biti projektirani i izrađeni za te uvjete.
+1.0.4. Uvjeti okoliša
+Oprema i zaštitni sustavi moraju biti tako projektirani i izrađeni da odgovaraju stvarnim predvidivim uvjetima okoliša.
+1.0.5. Označivanje
+Sva oprema i zaštitni sustavi moraju biti označeni čitljivo i pouzdano s najmanje sljedećim pokazateljima:
+– imenom, registriranim trgovačkim imenom ili registriranim trgovačkom oznakom te adresom proizvođača,
+– oznakom CE (vidjeti Prilog II. Uredbi (EZ) br. 765/2008),
+– oznakom serije i tipa,
+– brojem šarže ili serije, ako postoji,
+– godinom proizvodnje,
+– posebnom oznakom protueksplozijske zaštite popraćenom oznakom skupine i kategorije,
+– uređaji skupine II označuju se slovom »G« (koje se odnosi na eksplozivnu atmosferu uzrokovanu plinovima, parama ili maglicama),
+i/ili
+– slovom »D« (koje se odnosi na eksplozivnu atmosferu koja može nastati zbog prašine).
+Osim navedenog, ako je potrebno, moraju biti označeni sa svim informacijama bitnim za njihovu sigurnu uporabu.
+1.0.6. Upute
+a) Uz opremu i zaštitne sustave moraju biti priložene upute uključujući najmanje sljedeće pojedinosti:
+– obrazloženje svih oznaka s kojima su označeni oprema i zaštitni sustavi, osim za broj šarže ili serije (vidjeti točku 1.0.5.), zajedno s bilo kojim odgovarajućim dodatnim uputama koje pomažu u održavanju (npr. adresa popravljača itd.),
+– upute za sigurno:
+– stavljanje u rad,
+– korištenje,
+– sastavljanje i rastavljanje,
+– održavanje (servisiranje i hitan popravak),
+– instaliranje,
+– podešavanje,
+– ako je potrebno, upozorenje na opasan prostor ispred opreme za otpust tlaka,
+– ako je potrebno, upute za uvježbavanje,
+– informacije koje omogućuju donošenje odluke bez ikakve sumnje može li neka jedinica opreme navedene kategorije ili zaštitnog sustava biti sigurno uporabljena u namijenjenom prostoru za očekivane radne uvjete,
+– električne parametre i parametre tlaka, maksimalne temperature površine i druge granične vrijednosti,
+– eventualne posebne uvjete upotrebe, uključujući pojedinosti s obzirom na pogrešnu upotrebu za koju je iskustvo pokazalo da se može dogoditi,
+– ako je potrebno, bitne osobitosti alata koji može biti priložen opremi ili zaštitnom sustavu.
+b) Upute moraju sadržavati crteže i sheme potrebne za stavljanje u

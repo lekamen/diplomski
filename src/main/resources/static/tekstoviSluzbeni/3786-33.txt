@@ -1,0 +1,29 @@
+u tu svrhu.
+ODJELJAK 2. PRISILNI PRIJENOS UPRAVLJANJA UCITS FONDOM NA DRUGO DRUŠTVO ZA UPRAVLJANJE
+Razlozi za prisilni prijenos upravljanja UCITS fondom
+Članak 90.
+Prisilni prijenos upravljanja UCITS fondom provodi se ako je:
+1. Agencija društvu za upravljanje oduzela odobrenje za rad, i to za obavljanje djelatnosti iz članka 13. stavka 1. točke 1. podtočke a) ovoga Zakona
+2. Agencija društvu za upravljanje oduzela odobrenje za upravljanje UCITS fondom
+3. nad društvom za upravljanje otvoren stečajni postupak ili pokrenut postupak likvidacije ili
+4. društvo za upravljanje u situaciji da više nije u mogućnosti obavljati poslove upravljanja UCITS fondom.
+Prava i obveze depozitara kod prisilnog prijenosa upravljanja UCITS fondom
+Članak 91.
+(1) Od trenutka nastupanja razloga za prisilni prijenos upravljanja UCITS fondom do prijenosa upravljanja na drugo društvo za upravljanje (društvo preuzimatelj) depozitar je dužan obavljati one poslove upravljanja UCITS fondom koje nije moguće odgađati.
+(2) Poslovima upravljanja UCITS fondom iz stavka 1. ovoga članka, koji se ne mogu odgađati, smatraju se, primjerice:
+a) poslovi zbog kojih bi, da ih depozitar ne obavi, za UCITS fond nastala šteta i
+b) administrativni poslovi iz članka 13. stavka 3. točaka 2., 7., 8. i 10. ovoga Zakona.
+(3) Od trenutka nastupa razloga za prisilni prijenos upravljanja UCITS fondom do prijenosa upravljanja na društvo preuzimatelja depozitar će obustaviti izdavanje i otkup udjela UCITS fonda.
+(4) Informaciju o nastupu razloga za prisilni prijenos upravljanja UCITS fondom te obustavi izdavanja i otkupa udjela, kao i svim postupcima i radnjama koje će poduzeti u svrhu izbora drugog društva za upravljanje i prijenosa upravljanja, depozitar će bez odgode objaviti na svojoj mrežnoj stranici.
+(5) Od nastupanja razloga za prisilni prijenos upravljanja do nastupanja pravnih posljedica prijenosa upravljanja na društvo preuzimatelja depozitar ima pravo na naknadu koja u skladu s prospektom UCITS fonda pripada društvu za upravljanje. Depozitar ima pravo i na pokriće opravdanih troškova koje je imao u svrhu provedbe postupka izbora društva za upravljanje.
+Izbor drugog društva za upravljanje i prijenos upravljanja UCITS fondom
+Članak 92.
+(1) Depozitar će u roku od 60 dana od dana nastupanja razloga za prisilni prijenos upravljanja UCITS fondom iz članka 90. ovoga Zakona provesti odgovarajući postupak prikupljanja ponuda od društava za upravljanje, koja ispunjavaju uvjete za upravljanje UCITS fondom i zainteresirani su preuzeti upravljanje UCITS fondom te izbora novog društva za upravljanje.
+(2) Ako se na poziv iz stavka 1. ovoga članka depozitaru javi više društava za upravljanje koja ispunjavaju uvjete za preuzimanje upravljanja UCITS fondom, depozitar je dužan, prilikom izbora društva za upravljanje, isključivo voditi računa o interesima ulagatelja UCITS fonda.
+(3) Po provedenom postupku iz stavka 1. ovoga članka depozitar i društvo preuzimatelj će bez odgode sklopiti ugovor o prijenosu upravljanja, koji ugovor mora sadržavati opis svih postupaka i radnji koje će se poduzeti u vezi s prijenosom upravljanja.
+Zahtjev za izdavanje odobrenja za preuzimanje upravljanja UCITS fondom
+Članak 93.
+(1) Nakon zaključenja ugovora iz članka 92. stavka 3. ovoga Zakona društvo preuzimatelj će najkasnije u roku od tri dana Agenciji podnijeti zahtjev za izdavanje odobrenja za preuzimanje upravljanja UCITS fondom.
+(2) Na izdavanje odobrenja za preuzimanje upravljanja na odgovarajući se način primjenjuju odredbe članaka 86. i 87. ovoga Zakona, pri čemu će Agencija o zahtjevu odlučiti u roku od 20 dana od dana zaprimanja urednog zahtjeva, u protivnom će se smatrati da je zahtjev odobren.
+(3) Prijenos upravljanja mora se izvršiti najkasnije u roku od 15 dana od dana izdavanja odobrenja Agencije, odnosno od isteka roka za izdavanje odobrenja Agencije u skladu sa stavkom 2. ovoga članka.
+(4) Ulagatelji UCITS fonda čije je upravljanje preneseno imaju pravo na otkup udjela bez plaćanja izlazne naknade 

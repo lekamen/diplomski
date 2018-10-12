@@ -1,0 +1,27 @@
+48 25.05.2016 Izmjene i dopune Pravila organiziranja tržišta električne energije
+HRVATSKI OPERATOR TRŽIŠTA ENERGIJE d.o.o.
+1271
+Na temelju članka 78. stavka 1. Pravila organiziranja tržišta električne energije (»Narodne novine«, broj 121/15) i Odluke Hrvatske energetske regulatorne agencije o suglasnosti klasa: 310-02/16-01/249, urbroj: 371-01/16-04 od 17. svibnja 2016. godine, Hrvatski operator tržišta energije d.o.o., 18. svibnja 2016. godine, donio je
+IZMJENE I DOPUNE PRAVILA
+ORGANIZIRANJA TRŽIŠTA ELEKTRIČNE ENERGIJE
+Članak 1.
+U Pravilima organiziranja tržišta električne energije Hrvatskog operatora tržišta energije d.o.o. od 30. listopada 2015. (u daljnjem tekstu: Pravila), članak 3. stavak 1. alineja 1. mijenja se i glasi:
+»– bilateralni raspored je raspored prodaje i kupnje električne energije te plan prekogranične razmjene električne energije za dan isporuke temeljem sklopljenih ugovora između dva tržišna sudionika na veleprodajnom tržištu električne energije u intervalu od 15 minuta ili višekratnika od 15 minuta«.
+U alineji 6. iza riječi: »kompenzaciju«, dodaju se riječi »nenamjernih odstupanja«.
+Alineja 9. mijenja se i glasi: »– prekogranična razmjena električne energije je raspored uvoza ili izvoza električne energije za dan isporuke po tržišnom sudioniku na granicama regulacijskog područja Republike Hrvatske u intervalu od 15 minuta ili višekratnika od 15 minuta,«
+Dosadašnja alineja 9. postaje alineja 10. te se mijenja i glasi:
+»– tržišni plan je zbirni plan kupoprodaje električne energije i prekogranične razmjene tržišnih sudionika za dan isporuke utvrđen temeljem ugovornih rasporeda u intervalu od 15 minuta ili višekratnika od 15 minuta,«
+Alineja 10. postaje alineja 11. te se mijenja i glasi:
+»– ugovorni raspored je raspored kupoprodaje tržišnog sudionika i/ili prekogranične razmjene električne energije za dan isporuke koji sadrži jedan ili više bilateralnih rasporeda tržišnog sudionika u intervalu od 15 minuta ili višekratnika od 15 minuta«.
+Dosadašnja alineja 11. briše se.
+Članak 2.
+Članak 20. stavak 2. mijenja se i glasi:
+»(2) Nakon potpisivanja ugovora iz članka 19. stavka 2. ovih Pravila opskrbljivač je u obvezi u roku od 10 dana s Operatorom tržišta sklopiti ugovor kojim se reguliraju odnosi između opskrbljivača i Operatora tržišta vezano uz obveze opskrbljivača koje proizlaze iz sustava poticanja proizvodnje električne energije iz obnovljivih izvora energije i visokoučinkovite kogeneracije«.
+Članak 3.
+Članak 25. stavak 1. mijenja se i glasi:
+»(1) Opskrbljivač koji izlazi s tržišta električne energije planirano, dužan je o namjeri izlaska s tržišta obavijestiti pisanim putem Operatora tržišta, operatora prijenosnog sustava, operatora distribucijskog sustava, opskrbljivača u okviru javne usluge opskrbe električne energije, Agenciju i ostale tržišne sudionike s kojima ima sklopljene ugovore o kupoprodaji te sve krajnje kupce s kojima ima sklopljen ugovor o opskrbi krajnjeg kupca, u roku od najmanje 60 dana prije dana planiranog izlaska«.
+Iza stavka 3. dodaju se stavci 4., 5., 6., 7. i 8., koji glase:
+»(4) U slučaju neuspjele naplate potraživanja od opskrbljivača, Operator tržišta će o tome, u najkraćem mogućem roku, obavijestiti operatora prijenosnog sustava, operatora distribucijskog sustava i opskrbljivača u okviru javne usluge opskrbe električne energije.
+(5) Nakon zaprimanja obavijesti iz stavka 4. ovog članka operator sustava dužan je obavijestiti opskrbljivača u okviru javne usluge opskrbe električne energije o potrošnji električne energije na obračunskim mjernim mjestima krajnjeg kupca opskrbljivača iz stavka 4. ovog članka, za prethodni mjesec.
+(6) U slučaju neplaniranog izlaska opskrbljivača s tržišta Operator tržišta će u najkraćem mogućem roku obavijestiti operatora prijenosnog sustava, operatora distribucijskog sustava, opskrbljivača u okviru javne usluge opskrbe električne energije i Agenciju.
+(7) Operator sustava dužan je, opskrbljivaču koji je nositelj obveze javne usluge opskrbe, dostaviti

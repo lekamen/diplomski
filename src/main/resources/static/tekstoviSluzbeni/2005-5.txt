@@ -1,0 +1,44 @@
+ informacijskoj infrastrukturi.
+(2) Voditelj Metaregistra je središnje tijelo državne uprave nadležno za poslove e-Hrvatske.
+(3) Metaregistar je javni registar koji čini dio državne informacijske infrastrukture, a sadrži podatke o svim javnim registrima.
+(4) Sva tijela javnog sektora obvezna su, prije uspostave javnog registra, upisati podatke u Metaregistar te označiti podatke javno dostupnim, ukoliko nema pravne prepreke.
+Sadržaj Metaregistra
+Članak 21.
+(1) Javni registar Metaregistar vodi se u elektroničkom obliku te sadrži sljedeće vrste podataka:
+1. podatke o javnim registrima;
+2. podatke o institucijama;
+3. klasifikacije;
+4. podatke semantičkih pojmova;
+5. podatke internih šifarnika;
+6. podatke tehničkih standarda;
+7. podatke o državnoj informacijskoj infrastrukturi;
+8. podatke o osobama;
+9. podatke o odobrenjima;
+10. podatke o prijavama;
+11. podatke o obavijestima;
+12. podatke o uslugama;
+13. podatke o plaćanju i
+14. podatke o šifarničkim pojmovima.
+(2) Na sve osobne podatke primjenjuju se propisi iz područja zaštite osobnih podataka.
+(3) Sadržaj podataka iz stavka 1. ovoga članka utvrđuje se u Prilogu 1., koji je sastavni dio ove Uredbe.
+Način korištenja i pristup podacima Metaregistra
+Članak 22.
+(1) Pristup podacima Metaregistra je anoniman ili identificiran putem državnog identifikacijskog sustava.
+(2) Anonimni korisnik ima pravo uvida u sve javno objavljene podatke u Metaregistru.
+(3) Identificirani korisnici imaju, ovisno o njihovom ovlaštenju, pravo uvida u podatke koje su upisali, u podatke institucije u kojoj su zaposleni ili sve podatke u Metaregistru.
+Način upravljanja i vođenja Metaregistra i obveza unosa podataka
+Članak 23.
+Tijela javnog sektoru dužna su kontinuirano unositi podatke o javnim registrima, a naročito prije uspostave novog registra te promjene registra.
+Unos podataka u Metaregistar
+Članak 24.
+(1) Tijela javnog sektora obvezna su kontinuirano unositi podatke o registrima, a najkasnije prije uspostave novog registra.
+(2) Voditelji javnih registara dužni su kontinuirano upisivati sve vrste podataka koje prikuplja javni registar, sve postojeće načine povezivanja s drugim registrima te kontakt osobe zadužene za pojedini registar.
+(3) Voditelji registara koji koriste podatke iz drugih registara dužni su preuzimanje podataka registrirati u javnom registru iz kojeg preuzimaju podatke.
+(4) Promjene vezane uz registar, smještaj, brisanje, promjena voditelja, promjena strukture, promjena načina povezivanja s drugim registrima, voditelji registra dužni su odmah po saznanju, najaviti putem podsustava obavijesti Metaregistra. Voditelji registara koji koriste podatke iz drugih registara dužni su, po zaprimanju obavijesti, izraziti svoje potrebe ukoliko bi objavljena promjena utjecala na njihov posao.
+(5) Promjene vezane uz registar, smještaj, brisanje, promjena voditelja, promjena strukture, promjena načina povezivanja s drugim registrima, voditelji registra dužni su odmah po izvršenju unijeti u Metaregistar.
+VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 25.
+(1) Godišnji plan iz članka 5. stavka 1. ove Uredbe CDU će pripremiti i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske do kraja prosinca za iduću godinu, koje će Godišnji plan uz suglasnost Vijeća uputiti Povjerenstvu radi donošenja u daljnjem roku od 30 dana.
+(2) Katalog iz članka 6. stavka 7. ove Uredbe CDU će pripremiti i prezentirati Vijeću i središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od stupanja na snagu ove Uredbe, koje će Katalog uputiti Povjerenstvu radi usvajanja u daljnjem roku od 30 dana.
+(3) Plan integracije iz članka 7. stavak 1. ove Uredbe CDU će pripremiti i dostaviti središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske u roku od 3 mjeseca od stupanja na snagu ove Uredbe, koje će Plan integracije uz suglasnost Vijeća uputiti Povjerenstvu radi donošenja u daljnjem roku od 30 dana.
+(4) Tehničke standarde iz članka 15. ove Uredbe CDU će u roku od 3 mjeseca od stupanja

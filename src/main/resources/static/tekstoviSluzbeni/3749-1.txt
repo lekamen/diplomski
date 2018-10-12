@@ -1,0 +1,51 @@
+ priključka i
+– druge poslove na pripremno-završnim radovima.
+Članak 6.
+Pripremno-završne radove obavlja distributer toplinske energije ili ovlašteni izvođač priključka.
+IV. TROŠKOVI ZA IZVANREDNO STVARANJE TEHNIČKIH UVJETA U DISTRIBUCIJSKOJ MREŽI
+Članak 7.
+(1) U slučaju da je za priključenje zgrade/građevine potrebno izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži, distributer toplinske energije dužan je na zahtjev naručitelja priključka izraditi elaborat izvanrednog stvaranja tehničkih uvjeta u distribucijskoj mreži (u daljnjem tekstu: elaborat) koji se izrađuje sukladno odredbama Mrežnih pravila za distribuciju toplinske energije.
+(2) Troškove izrade elaborata iz stavka 1. ovoga članka snosi naručitelj priključka.
+Članak 8.
+(1) Distributer toplinske energije je investitor izvanrednog stvaranja tehničkih uvjeta u distribucijskoj mreži.
+(2) Građenje i izvođenje radova za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži obavlja distributer toplinske energije ili ovlašteni izvođač priključka.
+Članak 9.
+Troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži (TISTU) sastoje se od:
+– troškova rješavanja imovinsko-pravnih odnosa,
+– troškova izrade projektne dokumentacije,
+– troškova ishođenja potrebnih dozvola prema odredbama posebnih zakona,
+– troškova nabave potrebnog materijala i opreme, te izvođenja građevinskih, strojarskih, elektrotehničkih, geodetskih i drugih radova,
+– troškova stručnog nadzora građenja i
+– ostalih troškova za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži.
+Članak 10.
+Način raspodjele troškova za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži utvrđuje se elaboratom iz članka 7. stavka 1. ove Metodologije.
+Članak 11.
+(1) Troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži odgovaraju stvarnim troškovima za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži.
+(2) Troškove iz stavka 1. ovoga članka plaća naručitelj priključka, a dio troškova može snositi distributer toplinske energije.
+Članak 12.
+Jedinična cijena za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži obračunava se prema sljedećoj formuli:
+
+gdje je:
+JC – jedinična cijena za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži [kn/kW],
+TISTU – troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži [kn] i
+PS – ukupna priključna snaga utvrđena elaboratom iz članka 7. stavka 1. ove Metodologije koja nastaje izvanrednim stvaranjem tehničkih uvjeta u distribucijskoj mreži [kW].
+Članak 13.
+Troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži koje plaća pojedini naručitelj priključka obračunavaju se prema sljedećoj formuli:
+
+gdje je:
+TNP – troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži pojedinog naručitelja priključka [kn],
+PSNP – priključna snaga pojedinog naručitelja priključka utvrđena elaboratom iz članka 7. stavka 1. ove Metodologije [kW] i
+JC – jedinična cijena za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži [kn/kW].
+Članak 14.
+Troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži koje snosi distributer toplinske energije obračunavaju se prema sljedećoj formuli:
+
+gdje je:
+TD – troškovi za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži koje snosi distributer toplinske energije [kn],
+PS – ukupna priključna snaga utvrđena elaboratom iz članka 7. stavka 1. ove Metodologije koja nastaje izvanrednim stvaranjem tehničkih uvjeta u distribucijskoj mreži [kW],
+PSNP – priključna snaga pojedinog naručitelja priključka utvrđena elaboratom iz članka 7. stavka 1. ove Metodologije [kW] i
+JC – jedinična cijena za izvanredno stvaranje tehničkih uvjeta u distribucijskoj mreži [kn/kW].
+Članak 15.
+Distributer toplinske energije može troškove iz članka 14. ove Metodologije naplatiti budućim naručiteljima priključka.
+V. NAKNADA ZA PRIKLJUČENJE NA DISTRIBUCIJSKU MREŽU I ZA POVEĆANJE PRIKLJUČNE SNAGE
+Članak 16.
+Naknada za

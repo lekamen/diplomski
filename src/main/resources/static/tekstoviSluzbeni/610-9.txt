@@ -1,0 +1,31 @@
+ Djelatnost pružanja pomoći ne obuhvaća servisiranje, održavanje, usluge nakon prodaje ili puku naznaku ili pružanje pomoći u svojstvu posrednika.
+(3) Životna osiguranja dijele se na sljedeće vrste osiguranja:
+1. životna osiguranja:
+a) osiguranje života koje pokriva sljedeće rizike:
+– osiguranje života za slučaj doživljenja
+– osiguranje života za slučaj smrti
+– mješovito osiguranje života za slučaj smrti i doživljenja
+– osiguranje života s povratom premija
+– osiguranja kritičnih bolesti
+– doživotno osiguranje za slučaj smrti
+– i ostala osiguranja života
+b) rentno osiguranje je osiguranje periodičnih isplata tijekom određenog razdoblja ili doživotno
+c) dopunska osiguranja uz osiguranje života su osiguranja koja se ugovaraju uz životno osiguranje i pokrivaju primjerice rizike: ozljede uključujući nesposobnost za rad, smrti zbog nezgode i invaliditeta zbog nezgode ili bolesti
+2. osiguranje za slučaj vjenčanja ili sklapanja životnog partnerstva ili rođenja je osiguranje koje pokriva rizik vjenčanja ili sklapanja životnog partnerstva ili doživljenja unaprijed određene dobi ili rođenja
+3. osiguranje života i rentno osiguranje kod kojih ugovaratelj osiguranja snosi rizik ulaganja je osiguranje vezano uz vrijednost udjela UCITS fonda kako je definiran zakonom kojim se uređuje osnivanje i poslovanje otvorenih investicijskih fondova s javnom ponudom, uz vrijednost imovine unutarnjeg fonda ili uz dionički indeks, odnosno drugu referentnu vrijednost
+4. tontine su osiguranja u kojima se osnivaju udruženja članova kako bi zajednički kapitalizirali svoje doprinose i potom raspodijelili tako prikupljena sredstva preživjelim članovima ili korisnicima umrlih članova
+5. osiguranje s kapitalizacijom isplate je osiguranje temeljeno na aktuarskim izračunima kod kojeg se u zamjenu za jednokratno, odnosno višekratno plaćanje unaprijed ugovorenog iznosa premije preuzimaju obveze isplate iznosa u određenoj visini kroz određeno razdoblje
+6. upravljanje sredstvima zajedničkih mirovinskih fondova koji uključuju očuvanje kapitala ili plaćanje minimalnih kamata.
+(4) Agencija će pravilnikom detaljnije propisati raspored vrsta rizika po skupinama i vrstama osiguranja.
+Osobne okolnosti spola kod izračuna premije osiguranja
+Članak 8.
+(1) Društvo za osiguranje ne smije pri sklapanju novog ugovora o osiguranju prilikom izračuna premija i određivanja osiguranog iznosa uzeti u obzir osobne okolnosti spola. Iznimno, društvo za osiguranje može kod ugovora o osiguranju na grupnoj osnovi uzeti u obzir osobne okolnosti spola kod izračuna premije i određivanja osiguranog iznosa, ako to ne dovodi do razlikovanja na pojedinačnoj osnovi. Društvo za osiguranje može uzeti u obzir faktor spola za izračun tehničkih pričuva i unutarnje određivanje cijene, za određivanje cijena reosiguranja, za promidžbu, kao i za procjenu rizika iz skupine životnih osiguranja i vrste osiguranja iz članka 7. stavka 2. točka 1. i 2. ovoga Zakona, odnosno osiguranja od nezgode i zdravstvenog osiguranja.
+(2) Za ugovore o osiguranju sklopljene prije 1. srpnja 2013. dopušteno je razlikovanje na pojedinačnoj osnovi na temelju osobnih okolnosti spola, ako je društvo za osiguranje kod određivanja premije i osiguranog iznosa uzelo u obzir osobne okolnosti spola.
+(3) Agencija će detaljnije pravilnikom propisati način primjene stavaka 1. i 2. ovoga članka.
+Poslovi reosiguranja
+Članak 9.
+(1) Poslovi reosiguranja su sklapanje i ispunjavanje ugovora o reosiguranju kojim se prenosi višak rizika iznad samopridržaja društva za osiguranje društvu za reosiguranje, odnosno društvu za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja.
+(2) Odredba stavka 1. ovoga članka na odgovarajući se način primjenjuje na društvo za reosiguranje i društvo za osiguranje koje ima odobrenje za obavljanje poslova reosiguranja kada obavlja poslove reosiguranja za društvo iz stavka 1. ovoga članka.
+Obveza reosiguranja
+Članak 10.
+(1) Društvo za osiguranje mora kod ugovora o reosiguranju pokriti samo onaj dio preuzetih

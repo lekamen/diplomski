@@ -1,0 +1,59 @@
+ statističke klasifikacije institucionalnih sektora« sastavni je dio ove Odluke (Dodatak II).
+Članak 9.
+DZS će usklađivati SKIS 2010. s relevantnim međunarodnim standardima ESA i SNA.
+DZS će sve promjene pojedinih postavki SKIS-a 2010. uvoditi dopunama priloga iz članka 8. ove klasifikacije.
+Članak 10.
+Podaci o sektorskoj pripadnosti rezidentnih poslovnih subjekta utvrđuju se i vode u Statističkom poslovnom registru Državnog zavoda za statistiku (u daljnjem tekstu: SPR).
+SPR predstavlja okvir iz kojega se institucionalne jedinice razvrstavaju po institucionalnim sektorima, podsektorima i skupinama jedinica.
+U svrhu određenja sektorske pripadnosti poslovnog subjekta, koriste se pored podataka SPR-a te podataka drugih registara i evidencija državnih institucija također i svi podaci dobiveni iz istraživanja koja se provode na temelju Programa statističkih aktivnosti Republike Hrvatske odnosno Godišnjeg provedbenog plana statističkih aktivnosti Republike Hrvatske.
+Poslovni subjekti dužni su za potrebe sektorske klasifikacije, a na zahtjev DZS-a, pružiti dodatne podatke relevantne za sektorsku klasifikaciju jedinice kako je utvrđeno u članku 8. ove Odluke.
+Članak 11.
+Podaci o klasifikaciji institucionalnih jedinica po SKIS-u 2010. su javni.
+Članak 12.
+Ova Odluka zajedno sa dodacima I. i II. objavljuje se u »Narodnim novinama«.
+Članak 13.
+Stupanjem na snagu ove Odluke prestaje važiti Odluka o statističkoj klasifikaciji institucionalnih sektora klasa: 950-03/10-01-01/17, urbroj: 555-10-04-10-1 od 21. studenoga 2011.
+Članak 14.
+Ova Odluka stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 950-01/14-01/50
+Urbroj: 555-13-02-14-1
+Zagreb, 12. prosinca 2014.
+Ravnatelj Marko Krištof, v. r.
+DODATAK I.
+STATISTIČKA KLASIFIKACIJA INSTITUCIONALNIH SEKTORA
+Institucionalne jedinice u Republici Hrvatskoj klasificiraju se u sektore i podsektore, sukladno europskoj regulativi – Europski sustav nacionalnih računa 2010 (ESA 2010), u svrhu izrade službene statistike.
+S.1 Gospodarstvo Republike Hrvatske
+S.11 Nefinancijska društva
+S.11001 Javna nefinancijska društva
+S.11002 Nacionalna privatna nefinancijska društva
+S.11003 Inozemno kontrolirana nefinancijska društva
+S.12 Financijska društva
+S.121 Središnja banka
+S.122 Društva koja primaju depozite osim središnje banke
+S.12201 Javna društva koja primaju depozite osim središnje banke
+S.12202 Nacionalna privatna društva koja primaju depozite osim središnje banke
+S.12203 Inozemno kontrolirana društva koja primaju depozite osim središnje banke
+S.123 Novčani fondovi
+S.12301 Javni novčani fondovi
+S.12302 Nacionalni privatni novčani fondovi
+S.12303 Inozemno kontrolirani novčani fondovi
+S.124 Nenovčani investicijski fondovi
+S.12401 Javni nenovčani investicijski fondovi
+S.12402 Nacionalni privatni nenovčani investicijski fondovi
+S.12403 Inozemno kontrolirani nenovčani investicijski fondovi
+S.125 Ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova
+S.12501 Javni ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova
+S.12502 Nacionalni privatni ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova
+S.12503 Inozemno kontrolirani ostali financijski posrednici, osim osiguravajućih društava i mirovinskih fondova
+S.126 Pomoćne financijske institucije
+S.12601 Javne pomoćne financijske institucije
+S.12602 Nacionalne privatne pomoćne financijske institucije
+S.12603 Inozemno kontrolirane pomoćne financijske institucije
+S.127 Društva koja se bave prijenosom financijskih sredstava i zajmodavci
+S.12701 Javna društva koja se bave prijenosom financijskih sredstava i zajmodavci
+S.12702 Nacionalna privatna društva koja se bave prijenosom financijskih sredstava i zajmodavci
+S.12703 Inozemno kontrolirana društva koja se bave prijenosom financijskih sredstava i zajmodavci
+S.128 Osiguravajuća društva
+S.12801 Javna osiguravajuća društva
+S.12802 Nacionalna privatna osiguravajuća društva
+S.12803 Inozemno kontrolirana osiguravajuća društva

@@ -1,0 +1,26 @@
+ izuzeće,
+– popis ugovornih strana u unutargrupnim transakcijama na koje bi se primjenjivalo izuzeće ili odgoda obveze poravnanja,
+– identifikacijsku oznaku Obrasca (OIB subjekta nadzora i datum prijave, u formatu: OIB_gggg-mm-dd),
+– ime, prezime, funkciju i potpis ovlaštene osobe,
+– u slučaju kada se podnosi skupna obavijest, ime, prezime, funkciju i supotpis ovlaštenih osoba drugih ugovornih strana za koje se podnosi obavijest.
+b) popunjeni obrazac iz Priloga ove Odluke.
+(2) Ovlaštena osoba koja potpisuje sažetu obavijest iz stavka 1. točke a) ovog članka mora biti jednaka potpisniku izjave o odgovornosti iz Dijela F Obrasca.
+Članak 6.
+(1) Rokovi određeni u članku 4. stavku 2. točkama a) i b) Uredbe (EU) br. 648/2012, kao i rok određen u članku 3. stavku 2. Uredbe (EU) 2015/2205 počinju teći od dana kada kreditna institucija dostavi potpunu obavijest ili zahtjev iz članka 2. točke a) ove Odluke.
+(2) Obavijest ili zahtjev iz članka 2. točke a) ove Odluke smatrat će se potpunima kada kreditna institucija HNB-u dostavi podatke propisane člankom 5. ove Odluke.
+(3) HNB će u roku od 5 radnih dana od dana zaprimanja obavijesti ili zahtjeva iz članka 2. točke a) ove Odluke utvrditi njihovu potpunost te o tome obavijestiti kreditnu instituciju koja je dostavila predmetnu obavijest ili zahtjev. Ako HNB utvrdi da su obavijest ili zahtjev iz članka 2. točke a) ove Odluke nepotpuni, o istome će obavijestiti kreditnu instituciju te je pozvati na dopunu obavijesti ili zahtjeva, u roku od 10 radnih dana od dana dostave poziva za o dopunu dokumentacije.
+(4) O zahtjevu iz članka 2. točke a) alinieje 2. ove Odluke, HNB odlučuje rješenjem, u smislu zakona kojim je uređen opći upravni postupak.
+(5) U slučaju obavijesti iz članka 2. točke a) ove Odluke, HNB će u propisanom roku kreditnu instituciju obavijestiti o tome je li primjena unutargrupnog izuzeća dopuštena. Pri tome će se smatrati da je primjena dopuštena ako HNB ne obavijesti kreditnu instituciju unutar tih rokova.
+(6) Ako HNB pregledom dostavljene dokumentacije utvrdi da primjena unutargrupnog izuzeća nije dopuštena, unutar roka iz stavka 5. ovog članka, kreditnoj instituciji se izdaje rješenje o prigovoru na primjenu izuzeća o čemu se šalje obavijest nadležnom tijelu druge ugovorne strane na koju se odnosi unutargrupno izuzeće.
+Članak 7.
+Istinitost, točnost i potpunost podataka
+(1) Potpisnik izjave o odgovornosti iz Dijela F Obrasca u potpunosti odgovara za istinitost, točnost i potpunost dostavljenih podataka.
+(2) HNB je ovlaštena od kreditne institucije zatražiti dodatne podatke koji potvrđuju istinitost, točnost i potpunost dostavljenih podataka, uključujući i potvrde i uvjerenja drugih nadležnih domaćih ili inozemnih tijela.
+Članak 8.
+Ova Odluka objavljuje se u »Narodnim novinama« i stupa na snagu osmog dana od dana objave.
+O. br.: 212-020/07-16/BV
+Zagreb, 5. srpnja 2016.
+Guverner prof. dr. sc. Boris Vujčić, v. r.
+PRILOG
+OBAVIJEST O NAMJERI PRIMJENE IZUZEĆA IZ ČLANKA 4. STAVKA 2. TOČKE A. UREDBE (EU) br. 648/2012, ODNOSNO ZAHTJEV IZ ČLANKA 4. STAVKA 2. TOČKE B. UREDBE (EU) br. 648/2012
+

@@ -1,0 +1,23 @@
+ potpore,
+2. ako je cilj potpore očuvanje ili obnavljanje financijske stabilnosti grupe kreditnih institucija u cjelini ili bilo koje potpisnice sporazuma te ako je davanje potpore u interesu davatelja potpore,
+3. ako se potpora daje u skladu s uvjetima, uključujući kamate i druge naknade, iz članka 216.a stavka 11. Zakona o kreditnim institucijama,
+4. ako je, na temelju informacija dostupnih upravi davatelja potpore u vrijeme kada je donesena odluka o potpori, razumno očekivati da će korisnik potpore platiti kamate i naknadu za potporu i ako je potpora dana u obliku zajma ili kredita, vratiti zajam ili kredit; ako je potpora dana u obliku jamstva ili garancije ili u bilo kojem drugom obliku, isti uvjeti moraju se primjenjivati na obvezu koja proizlazi za korisnika potpore ako je izvršeno plaćanje na temelju jamstva, garancije ili provedbom drugog oblika potpore,
+5. ako davanje potpore ne bi ugrozilo likvidnost ili solventnost davatelja potpore,
+6. ako davanje potpore ne bi bilo prijetnja financijskoj stabilnosti Republike Hrvatske ili financijskoj stabilnosti druge države članice u kojoj je sjedište druge potpisnice sporazuma,
+7. ako davatelj potpore, u vrijeme davanja potpore, ispunjava zahtjeve vezane uz kapital i likvidnost iz Uredbe (EU) br. 575/2013 i glave VII. Zakona o kreditnim institucijama te sve zahtjeve naložene u skladu s člancima 220., 224., 225., 228. i 285. Zakona o kreditnim institucijama te ako davanje potpore ne uzrokuje kršenje tih zahtjeva,
+8. ako davatelj potpore u vrijeme davanja potpore ispunjava zahtjeve o velikoj izloženosti u skladu s odredbama Uredbe (EU) br. 575/2013 i Zakona o kreditnim institucijama te ako davanje potpore ne uzrokuje kršenje tih zahtjeva i
+9. ako davanje potpore ne bi ugrozilo mogućnost sanacije davatelja potpore.
+(2) Iznimno od stavka 1. ovog članka, u skladu s odredbom članka 216.h stavka 7. Zakona o kreditnim institucijama, ako uvjeti iz stavka 1. točke 7. ili 8. ovog članka nisu ispunjeni, Hrvatska narodna banka može prihvatiti ili djelomično prihvatiti zahtjev za izdavanje odobrenja.
+Očuvanje ili obnavljanje financijske stabilnosti grupe kreditnih institucija u cjelini ili bilo koje potpisnice sporazuma te interes davatelja potpore
+Procjena očuvanja ili obnavljanja financijske stabilnosti grupe kreditnih institucija u cjelini ili bilo koje potpisnice sporazuma
+Članak 7.
+Kreditna institucija koja namjerava dati potporu i Hrvatska narodna banka pri procjeni je li cilj pružanja financijske potpore za očuvanje ili obnavljanje financijske stabilnosti grupe kreditnih institucija u cjelini uzimaju u obzir i uspoređuju sljedeće:
+– izravne i neizravne koristi za grupu kreditnih institucija u cjelini, odnosno zbroj svih koristi za pojedine članice grupe kreditnih institucija u slučaju obnavljanja financijskog stanja korisnika potpore,
+– rizike za grupu kreditnih institucija u slučaju nepružanja financijske potpore i rizik nastanka statusa neispunjavanja obveza korisnika potpore ako potpora ne bude pružena i
+– rizike za grupu kreditnih institucija u slučaju pružanja financijske potpore, uključujući rizik nastanka statusa neispunjavanja obveza korisnika potpore i gubitak za grupu kreditnih institucija u slučaju nastanka statusa neispunjavanja obveza nakon primanja potpore.
+Procjena interesa davatelja potpore
+Članak 8.
+Kreditna institucija koja namjerava dati potporu i Hrvatska narodna banka pri procjeni je li pružanje financijske potpore u interesu davatelja potpore uzimaju u obzir i uspoređuju sljedeće:
+– izravne i neizravne koristi za davatelja potpore u slučaju obnavljanja financijskog stanja korisnika potpore,
+– rizike za davatelja potpore u slučaju nepružanja financijske potpore i rizik nastanka statusa neispunjavanja obveza korisnika potpore ako potpora ne bude pružena i
+– rizike za davatelja potpore u slučaju pružanja financijske potpore, uključujući rizik nastanka statusa neispunjavanja obveza korisnika potpore i gubitak za davatelja potpore u slučaju nastanka statusa

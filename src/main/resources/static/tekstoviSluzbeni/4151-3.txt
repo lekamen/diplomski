@@ -1,0 +1,20 @@
+vodiču o dobroj praksi za provedbu Direktive 2013/35/EU, za područje elektromagnetskih polja za mala i srednja poduzeća (u daljnjem tekstu: praktične smjernice) i druge odgovarajuće nacionalne norme ili nacionalne smjernice, uključujući baze podataka izloženosti. Poslodavac je također obvezan, kad je to primjereno, uzeti u obzir vrijednosti razina elektromagnetskih polja i druge odgovarajuće sigurnosne podatke proizvođača ili distributera za opremu sukladno odredbama posebnih propisa, uključujući prema potrebi procjenu rizika za uvjete izloženosti na radnom mjestu ili mjestu postavljanja opreme.
+(3) Ako se sukladnost s graničnim vrijednostima izloženosti ne može pouzdano odrediti na temelju već dostupnih informacija, procjena izloženosti izvodi se na temelju mjerenja i proračuna. U tom slučaju, procjena uzima u obzir odstupanja u pogledu mjerenja ili proračuna kao što su numeričke metode, modeliranje izvora, geometrija modela i električna svojstva tkiva i materijala, utvrđena u skladu s dobrom praksom.
+(4) Procjena rizika izrađuje se sukladno odredbama posebnih propisa kojim se uređuje područje zaštite na radu i propisa o izradi procjene rizika. Podaci o izloženosti dobiveni procjenom, mjerenjem ili izračunom čuvaju se u odgovarajućem obliku koji se može slijediti, kako bi se omogućilo njihovo naknadno korištenje sukladno odredbama posebnih propisa i praksi.
+(5) Sukladno posebnim propisima o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu, u procjeni rizika posebna pozornost mora se usmjeriti na:
+(a) granične vrijednosti izloženosti za učinke na zdravlje i vrijednosti upozorenja iz članka 4. ovoga Pravilnika i Priloga II. i III. ovoga Pravilnika;
+(b) frekvenciju, vrijednosti, trajanje i vrstu izloženosti, uključujući distribuciju po tijelu radnika i prostoru mjesta rada;
+(c) sve izravne bio fizikalne učinke;
+(d) sve učinke na zdravlje i sigurnost radnika koji su izloženi posebnom riziku, poput trudnica, posebno radnika koji nose ugrađene aktivne ili pasivne medicinske proizvode kao što su elektronički srčani stimulatori (pacemakeri), radnika s medicinskim proizvodima koji se nose na tijelu, kao što su inzulinske pumpe;
+(e) sve izravne učinke;
+(f) postojanje zamjenske opreme namijenjene smanjenju razina izloženosti elektromagnetskim poljima;
+(g) odgovarajuće informacije zdravstvenog nadzora iz članka 9. ovoga Pravilnika;
+(h) informacije koje osigurava proizvođač opreme;
+(i) ostale zdravstvene i sigurnosne informacije;
+(j) istovremenu izloženost zračenjima raznim izvorima elektromagnetskih polja;
+(k) istovremenu izloženost poljima različite frekvencije.
+(6) Na mjestima rada dostupnima javnosti nije potrebno provesti procjenu izloženosti zračenja elektromagnetskih polja, ako je već poduzeto ocjenjivanje sukladno posebnim propisima koji uređuju ograničenja izloženosti opće javnosti elektromagnetskim poljima, ako se ograničenja iz tih posebnih propisa poštuju te ako su zdravstveni i sigurnosni rizici isključeni. Smatra se da su ovi uvjeti ispunjeni kada se oprema namijenjena javnoj uporabi koristi sukladno svojoj namijeni te je sukladna odredbama posebnih propisa o proizvodima koje utvrđuju strože razine sigurnosti od razina iz ovoga Pravilnika te kada se ne koristi druga oprema.
+(7) Poslodavac mora posjedovati procjenu rizika u skladu s posebnim propisima o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu te utvrditi mjere koje je potrebno primijeniti u skladu s člancima 6. i 7. ovoga Pravilnika. Procjena rizika može sadržavati obrazloženje poslodavca prema kojem, zbog prirode i raspona rizika koji se odnose na elektromagnetska polja, nije potrebna daljnja detaljnija procjena rizika. Procjena rizika se redovito ažurira, posebno ako je došlo do značajnih promjena zbog kojih postojeća procjena rizika može zastarjeti ili ako rezultati zdravstvenog nadzora iz članka 9. ovoga Pravilnika pokažu da je to potrebno.
+Izbjegavanje ili smanjenje rizika
+Članak 6.
+(1) Uzimajući u obzir 

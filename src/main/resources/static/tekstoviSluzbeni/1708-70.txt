@@ -1,0 +1,28 @@
+koje čine dio neto ulaganja izvještajnog društva u inozemno poslovanje priznaje se u računu dobiti i gubitka u odvojenim ili posebnim financijskim izvještajima inozemnog poduzetnika.
+15.59. Kod prodaje inozemnog poslovanja, tečajne razlike koje su bile priznate u kapitalu i koje se odnose na to inozemno poslovanje, priznaju se u računu dobiti i gubitka u razdoblju kada je izvršena prodaja.
+15.60. Financijski prihod od financijskog najma priznaje se na osnovici koja odražava periodičnu stopu povrata na neto ulaganja najmodavca. Najmodavac raspoređuje prihod od financijskog najma tijekom razdoblja najma na sustavnoj i racionalnoj osnovi.
+15.61. Prestankom priznavanja financijske imovine razlika između knjigovodstvene vrijednosti i primljene naknade priznaje se u račune dobiti i gubitka.
+15.62. Ako se iznos gubitka od umanjenja vrijednosti financijske imovine koja se vodi po amortiziranom trošku smanji i smanjenje se može objektivno povezati s događajem koji je nastao nakon priznavanja umanjenja vrijednosti, prethodno priznati gubitak od umanjenja (rashod) ispravlja se direktno na kontu financijske imovine ili upotrebom konta ispravak vrijednosti. Iznos koji se ispravlja priznaje se u računu dobiti i gubitka.
+15.63. Ako u sljedećem razdoblju, fer vrijednost dužničkog instrumenta klasificiranog kao raspoloživ za prodaju poraste gubitak od umanjenja vrijednosti ove financijske imovine ispravit će se, a ispravljeni iznos priznaje se u računu dobiti i gubitka.
+15.64. Kod financijske imovine ili financijskih obveza klasificiranih po fer vrijednosti, promjena fer vrijednosti priznaje se u računu dobiti i gubitka, osim financijske imovine raspoložive za prodaju čija se promjena priznaje u kapitalu.
+15.65. Ako u sljedećem razdoblju, nadoknadivi iznos ulaganja u ovisna društva, u odvojenim financijskim izvještajima matičnog društva poraste gubitak od umanjenja vrijednosti ove financijske imovine ispravit će se, a ispravljeni iznos priznaje se u računu dobiti i gubitka kao prihod. Isto se na prikladan način primjenjuje i na ulaganja u društva povezana sudjelujućim interesom.
+MJERENJE
+15.66. Prihod treba mjeriti po fer vrijednosti primljene naknade ili potraživanja.
+15.67. Naknada je u većini slučajeva u obliku novca ili novčanih ekvivalenata.
+15.68. Iznos prihoda koji proizlazi iz neke transakcije i poslovnog događaja obično se određuje sporazumno između poduzetnika i kupca ili korisnika imovine.
+15.69. Prihodi od ugovora o izgradnji mjere se po fer vrijednosti primljene naknade ili potraživanja za naknadu.
+OBJAVLJIVANJE
+15.70. Poduzetnik treba objaviti:
+– računovodstvene politike u svezi priznavanja prihoda,
+– iznos svake značajne vrste prihoda priznate tijekom obračunskog razdoblja,
+– iznos tečajnih razlika priznatih u računu dobiti i gubitka,
+– iznos prihoda koji proizlazi iz razmjene proizvoda ili usluge uključenih u svaku značajnu vrstu prihoda,
+– iznos, strukturu i vrstu ostalih prihoda ili ostalih rashoda koji se priznaju na neto osnovi
+– bruto iznos nastalih prihoda i rashoda povezanih s otuđenjem dugotrajne imovine (alternativa: bruto iznos prihoda i rashoda za stavke uključene u račun dobiti i gubitka na neto osnovi), i
+– iznos, strukturu i vrstu ostalih prihoda.
+15.71. Prihod ugovora o izgradnji treba obuhvatiti:
+– početni iznos prihoda dogovorenih ugovorom,
+– izmjene u ugovorenim radovima.
+DATUM STUPANJA NA SNAGU
+15.72. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+15.73. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije 

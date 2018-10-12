@@ -1,0 +1,32 @@
+ privremeno oduzeti subjektu nadzora, ali samo do pokretanja tih postupaka, kada ih predaju tijelu nadležnom za vođenje postupka.
+(5) Relevantne osobe subjekta nadzora dužne su s ovlaštenom osobom Agencije provesti razgovor i dati informacije bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora.
+Uvjeti za obavljanje neposrednog nadzora
+Članak 353.
+(1) Subjekt nadzora dužan je ovlaštenoj osobi Agencije osigurati prikladne prostorije u kojima je moguće neometano i bez prisutnosti drugih osoba obavljati nadzor poslovanja.
+(2) Na zahtjev ovlaštene osobe Agencije subjekt nadzora dužan je osigurati stručnu i tehničku pomoć, potrebna pojašnjenja i druge uvjete potrebne za obavljanje nadzora.
+(3) Nadzor poslovanja iz stavaka 1. i 2. ovoga članka obavlja ovlaštena osoba Agencije tijekom radnog vremena subjekta nadzora. Ako je zbog opsega ili prirode posla nužno, subjekt nadzora dužan je omogućiti ovlaštenoj osobi Agencije obavljanje nadzora poslovanja i izvan radnog vremena.
+Kontrola informacijskog sustava
+Članak 354.
+(1) Subjekt nadzora koji u svom poslovanju koristi informacijski sustav dužan je na zahtjev ovlaštene osobe Agencije osigurati uvjete za pregled informacijskog sustava te mogućnost ispitivanja jesu li podaci obrađeni korištenjem informacijske tehnologije obrađeni na primjeren način.
+(2) Subjekt nadzora dužan je na zahtjev ovlaštene osobe Agencije predati dokumentaciju iz koje je razvidan potpuni opis rada informacijskog sustava. Iz dokumentacije moraju biti razvidne komponente informacijskog sustava. Dokumentacija mora omogućiti ovlaštenoj osobi uvid u:
+1. programska rješenja
+2. postupke obrade podataka korištenjem informacijske tehnologije
+3. kontrole koje osiguravaju pravilnu obradu podataka i
+4. kontrole koje osiguravaju čuvanje povjerljivosti, integriteta i raspoloživosti podataka.
+Završetak postupka neposrednog nadzora
+Članak 355.
+(1) Nakon obavljenog neposrednog nadzora sastavlja se zapisnik o obavljenom nadzoru koji se uručuje subjektu nadzora, s detaljnim opisom utvrđenih činjenica, odnosno opisom nedostataka, nezakonitosti i nepravilnosti u poslovanju subjekta nadzora ako su oni utvrđeni u postupku nadzora. Uprava subjekta nadzora je dužna bez odgode zapisnik o obavljenom nadzoru dostaviti nadzornom odboru.
+(2) Na dostavljeni zapisnik subjekt nadzora ima pravo uložiti prigovor u roku koji ne može biti kraći od osam dana od dana njegova primitka.
+(3) Iznimno od odredbe stavka 2. ovoga članka, Agencija može odrediti rok koji je kraći od roka iz stavka 2. ovoga članka, kad je to potrebno u svrhu sprječavanja mogućih bitnih štetnih posljedica za društvo za upravljanje, UCITS fond, depozitara, imatelja udjela ili treće osobe.
+(4) Ako su u postupku nadzora utvrđene nezakonitosti i/ili nepravilnosti za koje bi se donosila odgovarajuća nadzorna mjera, ali su one otklonjene do izrade zapisnika, to će se unijeti u zapisnik.
+(5) Ako nezakonitosti i/ili nepravilnosti utvrđene zapisnikom iz stavka 1. ovoga članka, za koje bi se donosila odgovarajuća nadzorna mjera, budu otklonjene prije donošenja rješenja kojim se izriče odgovarajuća nadzorna mjera, Agencija će o tome sastaviti dopunu zapisnika.
+(6) U slučaju da subjekt nadzora, u skladu sa stavcima 4. i/ili 5. ovoga članka, otkloni sve nezakonitosti i/ili nepravilnosti, Agencija će donijeti rješenje kojim se utvrđuje da je postupak nadzora okončan.
+(7) Prije donošenja rješenja iz stavka 6. ovoga članka Agencija može provjeriti postupanje subjekta nadzora te zatražiti dostavu dokumentacije ili drugih dokaza, kako bi se utvrdilo jesu li utvrđene nezakonitosti i/ili nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.
+Razlozi prigovora
+Članak 356.
+Prigovor protiv zapisnika o obavljenom nadzoru dopušten je iz ovih razloga:
+1. ako je zapisnik o obavljenom nadzoru sastavljen u nadzoru nad osobom nad kojom Agencija nije nadležna provoditi nadzor ili
+2. ako je u zapisniku pogrešno ili nepotpuno utvrđeno činjenično stanje.
+Sadržaj prigovora
+Članak 357.
+(1)

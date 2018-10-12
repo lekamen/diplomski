@@ -1,0 +1,16 @@
+ norma
+oznaka za norme koje propisuju europske normizacijske organizacije European Committee for Standardization (CEN) i European Committee for Electrotechnical Standardization (CENELEC)
+HRN oznaka za izvorno hrvatske norme koje donosi Hrvatski zavod za norme, nacionalno normirno tijelo u Republici Hrvatskoj
+HRN EN oznaka za norme koje je Republika Hrvatska preuzela iz normizacijskog sustava CEN/CENELEC-a
+HSE engl. Health and Safety Executive
+neovisna javna ustanova Velike Britanije, zadužena za poticanje, reguliranje i unaprjeđenje sigurnosti i zaštite na radu te istraživanja u području rizika na radnim mjestima
+IEC engl. International Electrotechnical Commission,
+hrv. Međunarodno elektrotehničko povjerenstvo
+oznaka za norme koje donosi Međunarodno elektrotehničko povjerenstvo, međunarodna normirna organizacija za područje elektrotehnike
+ISO skraćenica izvedena iz grčke riječi isos – jednak
+engl. International Organisation for Standardisation
+hrv. Međunarodna organizacija za normizaciju
+oznaka za standarde koje je donijela Međunarodna organizacija za normizaciju, međunarodna normirna organizacija koja između ostalog donosi standarde za poljoprivredu, inženjering, medicinski inženjering, proizvodnju distribuciju, i transport medicinskih sredstava, informacija i informacijskih tehnologija kao i standarda za dobru praksu u proizvodnji i pružanju usluga
+NF M1 fran. Non inflammables, eng. Non-flammable
+hrv. negorljivost
+oznaka za otpornost na test negorljivosti razreda M1

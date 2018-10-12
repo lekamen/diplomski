@@ -1,0 +1,25 @@
+ obveze na temelju ove Odluke;
+18) »modul za izvanredne mjere« znači modul SSP-a koji omogućava obradu kritičnih i vrlo kritičnih plaćanja u izvanrednim situacijama;
+19) »mogućnost granične posudbe od središnje banke« znači stalno raspoloživa mogućnost Eurosustava kojom se druge ugovorne strane mogu koristiti za dobivanje prekonoćnoga kredita od SB-a Eurosustava po unaprijed utvrđenoj kamatnoj stopi na mogućnost granične posudbe od središnje banke;
+20) »nacionalne središnje banke pružatelji SSP-a« znači Deutsche Bundesbank, Banque de France i Banca d’Italia u njihovu svojstvu središnjih banaka, koje oblikuju SSP i upravljaju njime u korist Eurosustava;
+21) »način CAI« znači pružanje konsolidiranih informacija o računima u vezi s PM računima preko ICM-a;
+22) »nalog za kreditni transfer« znači instrukcija platitelja o davanju na raspolaganje sredstava primatelju plaćanja putem knjiženja na PM računu;
+23) »nalog za plaćanje« znači nalog za kreditni transfer, nalog za prijenos likvidnosti, instrukcija za izravno terećenje ili nalog za prijenos likvidnosti s PM-a na DCA;
+24) »nalog za prijenos likvidnosti« znači nalog za plaćanje čija je glavna svrha prijenos likvidnosti između različitih računa istog sudionika ili unutar grupe CAI;
+25) »nalog za prijenos likvidnosti s PM-a na DCA« znači instrukcija za prijenos određenog iznosa novca s PM računa na DCA;
+26) »namjenski novčani račun (DCA)« znači račun koji drži imatelj DCA-a, koji je otvoren u sustavu TARGET2-HR, a koji se upotrebljava za plaćanja u vezi s namirom vrijednosnih papira u sustavu T2S;
+27) »neizravni sudionik« znači kreditna institucija osnovana u EGP-u koja je sklopila sporazum s imateljem PM računa o dostavljanju naloga za plaćanje i primanju plaćanja preko PM računa tog imatelja PM računa i koju je komponenta sustava TARGET2 prepoznala kao neizravnog sudionika;
+28) »nenamireni nalog za plaćanje« znači nalog za plaćanje koji nije namiren istog radnog dana kojeg je primljen;
+29) »novčani depozit kod Eurosustava« znači stalno raspoloživa mogućnost Eurosustava kojom se ugovorne strane mogu koristiti radi prekonoćnog deponiranja kod NSB-a europodručja po prethodno utvrđenim kamatnim stopama na depozite;
+30) »NSB iz europodručja« znači nacionalna središnja banka (NSB) države članice čija je valuta euro;
+31) »obrazac za prikupljanje statičnih podataka« znači obrazac koji je stavila na raspolaganje Hrvatska narodna banka za potrebe registriranja podnositelja prijave za usluge TARGET2-HR i registriranja svih promjena u vezi s pružanjem tih usluga;
+32) »odobrenje za izravno terećenje« znači opća instrukcija platitelja njegovu SB-u kojom se ovlašćuje i obvezuje taj SB da tereti platiteljev račun prema instrukciji za izravno terećenje primatelja plaćanja;
+33) »platitelj«, osim kada je izraz upotrijebljen u članku 39. ove Odluke, znači sudionik u sustavu TARGET2 čiji će PM račun biti terećen zbog namire naloga za plaćanje;
+34) »platni modul (PM)« znači modul SSP-a u kojemu se plaćanja imatelja PM računa u sustavu TARGET2 namiruju na PM računima;
+35) »PM račun« znači račun koji sudionik u sustavu TARGET2 ima u PM-u kod SB-a i koji je potreban tom sudioniku u sustavu TARGET2 za:
+(a) podnošenje naloga za plaćanje ili primanje plaćanja preko sustava TARGET2 i
+(b) namiru tih plaćanja kod tog SB-a;
+36) »podružnica« znači podružnica u smislu članka 4. stavka 1. točke 17. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) 648/2012;
+37) »poslovni identifikacijski kôd (BIC)« znači kôd utvrđen ISO standardom br. 9362;
+38) »postupak zbog insolventnosti« znači postupak zbog insolventnosti u smislu članka 2. točke (j) Direktive 98/26/EZ Europskog parlamenta i Vijeća od 19. svibnja 1998. o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira;
+39) »povezani NSB« (ili »povezana nacionalna središnja banka«) znači nacionalna središnja banka (NSB), osim

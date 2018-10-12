@@ -1,0 +1,28 @@
+ iz točke a) konzistentni s informacijama iz točke a) ovoga stavka te s informacijama iz revidiranih financijskih izvještaja iz članka 194. Zakona o osiguranju.
+(3) Izvještaj iz stavka 1. ovoga članka mora sadržavati najmanje:
+– nalaz uključujući i moguće nepravilnosti i nedostatke u vezi sadržaja iz stavka 2. točke b) ovoga članka
+– konstatacije o postupcima društva za osiguranje s obzirom na preporuke revizora iz prethodnih godina,
+– preporuke revizora s navođenjem uočenih slabosti, nedostataka i rizika,
+– ocjenu iz članka 2. stavka 5. ovoga Pravilnika.
+(4) Izvještaj iz stavka 1. ovoga članka mora sadržavati također podatke i informacije o vrednovanju imovine i obveza za potrebe solventnosti:
+– mišljenje o primjernosti metoda koje društvo za osiguranje upotrebljava za vrednovanje tehničkih pričuva za potrebe solventnosti zajedno s obrazloženjem jesu li glavne pretpostavke za izbor primijenjenih metoda odgovarajuće s obzirom na prirodu, opseg i složenost poslova društva za osiguranje, te jesu li parametri primijenjeni za vrednovanje tehničkih pričuva za potrebe solventnosti dobiveni na temelju podataka kojima raspolaže društvo za osiguranje i ima li društvo za osiguranje primjerene unutarnje procese i postupke koji osiguravaju da su podaci relevantni, potpuni i točni
+– vrijednosni prikaz oblikovanih tehničkih pričuva za potrebe solventnosti bez dodatka za rizik utvrđenih primjenom metoda iz prethodne alineje
+– mišljenje o vrednovanju ulaganja za potrebe solventnosti s posebnim osvrtom na vrednovanja povezanih društava za potrebe solventnosti
+– prikaz bilance stanja uključene u Izvješće o solventnosti i financijskom stanju (obrazac S.02.01.02) i objašnjenje glavnih razlika između iznosa stavki bilance stanja sastavljene u skladu s vrednovanjem za potrebe solventnosti društva za osiguranja i izvještaja o financijskom položaju (bilance) sastavljenog u skladu s Međunarodnim standardima financijskog izvještavanja koji je sastavni dio financijskih izvještaja društva za osiguranje
+– mišljenje o točnosti kvantitativnih informacija iz članka 4. točaka a) do g) Provedbene Uredbe Komisije 2015/2452.
+(5) Agencija može donijeti smjernice za postupak provjere i ocjene točnosti i potpunosti Izvješća o solventnosti i financijskom stanju od strane revizorskog društva.
+Rokovi dostave izvještaja
+Članak 9.
+Revizorsko društvo dužno je dostaviti Agenciji revizorsko izvješće iz članka 2. stavka 3. ovoga Pravilnika najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvještaj sastavlja.
+Način dostave izvještaja
+Članak 10.
+(1) Revizorsko izvješće o obavljenoj reviziji za potrebe Agencije iz članka 2. stavka 3. ovoga Pravilnika sastavlja i potpisuje ovlašteni revizor u svoje ime, kao i odgovorna osoba revizorskog društva u ime revizorskog društva.
+(2) Revizorsko izvješće o obavljenoj reviziji za potrebe Agencije iz članka 2. stavka 3. ovoga Pravilnika revizorsko društvo dužno je dostaviti Agenciji u pisanom obliku, neposredno ili poštom.
+ODBIJANJE REVIZORSKOG IZVJEŠĆA I OCJENE REVIZORA
+Članak 11.
+(1) Agencija može odbiti revizorsko izvješće o obavljenoj reviziji financijskih izvještaja u slučajevima iz članka 199. stavka 2. Zakona o osiguranju ako bi takvo izvješće moglo korisnika navesti na pogrešnu poslovnu odluku ili ako postoje značajna odstupanja između revidiranih financijskih izvještaja i stanja koje je Agencija utvrdila neposrednim i/ili posrednim nadzorom.
+(2) Ukoliko revizorsko društvo ne ispravi ili dopuni ocjenu ili isto ne učini na adekvatan način, Agencija će odbiti ocjenu revizorskog društva.
+(3) Agencija će rješenjem o odbijanju revizorskog izvješća odnosno rješenjem o odbijanju ocjene utvrditi rok za dostavu novog revizorskog izvješća odnosno nove ocjene revizora.
+OBVEZA IZVJEŠĆIVANJA
+Članak 12.
+Pri dostavljanju odluke o imenovanju revizorskog društva, a u vezi s odredbom članka 195. stavka 2. Zakona o osiguranju, društvo za osiguranje dužno je izvijestiti Agenciju o visini ukupnih prihoda revizorskog društva

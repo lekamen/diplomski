@@ -1,0 +1,28 @@
+ Certifikata Nositelju Programa osposobljavanja u roku od godine dana nakon isteka važećeg Certifikata. Zahtjev za ponovnim izdavanjem Certifikata certificirani instalater može podnijeti najranije 30 dana prije isteka roka važenja Certifikata.
+(4) Za ponovo izdavanje Certifikata nakon isteka roka važenja certificirani instalater mora ispunjavati i uvjete iz članka 7. stavka 3. ovoga Pravilnika.
+(5) Nositelj Programa osposobljavanja izdat će Certifikat fizičkoj osobi koja zadovoljava uvjete propisane ovim Pravilnikom najkasnije četrnaest dana nakon podnesenog zahtjeva za ponovnim izdavanjem Certifikata.
+IV. REGISTAR CERTIFICIRANIH INSTALATERA SUSTAVA OBNOVLJIVIH IZVORA ENERGIJE
+Vođenje Registra
+Članak 15.
+Registar certificiranih instalatera sustava obnovljivih izvora energije u dijelu koji se odnosi na certificirane instalatere manjih kotlova i peći na biomasu ustrojava i vodi Ministarstvo u elektroničkom obliku.
+Sadržaj Registra
+Članak 16.
+(1) Registar certificiranih instalatera sustava obnovljivih izvora energije iz članka 15. ovog Pravilnika sadrži:
+1. osnovne podatke o certificiranom instalateru: ime i prezime, spol, datum rođenja, osobni identifikacijski broj, registarski broj certificiranog instalatera iz Registra certificiranih instalatera sustava obnovljivih izvora energije;
+2. ostale podatke o certificiranom instalateru: adresa, e-mail adresa, broj telefona, mjesto rođenja, država rođenja, završena škola, stručna sprema, broj godina radnog iskustva u struci prije izdavanja Certifikata, datum izdavanja prvog Certifikata;
+3. podatke o Certifikatu: naziv Certifikata, datum i mjesto izdavanja Certifikata, rok važenja Certifikata, naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji je izdao Certifikat, adresu središta Nositelja Programa osposobljavanja koji je izdao Certifikat, ime i prezime odgovorne osobe Nositelja Programa osposobljavanja, naziv, broj i datum »Narodnih novina« u kojima je objavljen pravilnik temeljem kojega se izdaje Certifikat;
+4. podatke o završenom Programu izobrazbe: naziv Programa izobrazbe, naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji ga je proveo, adresu središta Nositelja Programa osposobljavanja, ime i prezime odgovorne osobe Nositelja Programa osposobljavanja, datum pohađanja Programa;
+5. podatke o provjeri znanja: naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji ju je proveo, datum polaganja provjere znanja;
+6. podatke o stručnom usavršavanju: naziv seminara za stručno usavršavanje, naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji ga je proveo, datum pohađanja stručnog usavršavanja, broj odslušanih sati stručnog usavršavanja.
+(2) Izvadak iz Registra iz stavka 1. ovoga članka objavljuje se na službenim internetskim stranicama Ministarstva.
+V. EVIDENCIJA FIZIČKIH OSOBA KOJE U REPUBLICI HRVATSKOJ MOGU OBAVLJATI RADOVE UGRADNJE MANJIH KOTLOVA I PEĆI NA BIOMASU TEMELJEM CERTIFIKATA IZDANOG U DRUGOJ DRŽAVI ČLANICI
+Vođenje Evidencije
+Članak 17.
+(1) Evidenciju fizičkih osoba koje u Republici Hrvatskoj mogu obavljati radove ugradnje manjih kotlova i peći na biomasu temeljem certifikata izdanog u drugoj državi članici (u daljnjem tekstu: Evidencija) ustrojava i vodi Ministarstvo u elektroničkom obliku.
+(2) Izvadak iz Evidencije iz stavka 1. ovoga članka objavljuje se na službenim internetskim stranicama Ministarstva.
+Sadržaj Evidencije
+Članak 18.
+Evidencija iz članka 17. ovog Pravilnika sadrži:
+1. osnovne podatke o fizičkoj osobi: ime i prezime, spol, datum rođenja, državljanstvo, broj osobne iskaznice ili putovnice;
+2. ostale podatke o certificiranom instalateru: adresa stanovanja, e-mail adresa, broj telefona, mjesto i država rođenja, mjesto i država izdavanja osobne iskaznice ili putovnice, naziv tijela koje je izdalo osobnu iskaznicu ili putovnicu, datum izdavanja osobne iskaznice ili putovnice, rok važenja osobne iskaznice ili putovnice, stručna sprema i zvanje;
+3. podatke o certifikatu:

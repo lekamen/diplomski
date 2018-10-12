@@ -1,0 +1,27 @@
+ uključujući i dokumentaciju koju je dostavio proizvođač, sve do isteka valjanosti te potvrde.
+9. Proizvođač je obvezan primjerak potvrde o EU ispitivanju tipa, njezinih priloga i dodataka, zajedno s tehničkom dokumentacijom, dati na uvid nadležnom inspektoru na njegov zahtjev, u razdoblju od deset godina od dana stavljanja uređaja na tržište.
+10. Ovlašteni zastupnik proizvođača može podnijeti zahtjev iz točke 3. ovoga Dodatka te ispuniti obveze iz točaka 7. i 9. ovoga Dodatka, ako su te obveze navedene u ovlaštenju.
+DODATAK 3.
+MODUL C: SUKLADNOST S TIPOM NA TEMELJU UNUTARNJE KONTROLE PROIZVODNJE
+1. Sukladnost s tipom na temelju unutarnje kontrole proizvodnje dio je postupka ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2. i 3. ovoga Dodatka i osigurava i izjavljuje da je proizvedeni uređaj u skladu s tipom za koji je izdana potvrda o EU ispitivanju tipa, te da ispunjava mjerodavne zahtjeve iz ovoga Pravilnika koji se odnose na taj uređaj.
+2. Proizvodnja
+Proizvođač je obvezan poduzeti sve potrebne mjere kako bi se postupkom proizvodnje i njegovim praćenjem osigurala sukladnost proizvedenog uređaja s odobrenim tipom, za koji je izdana potvrda o EU ispitivanju tipa, i sa zahtjevima iz ovoga Pravilnika koji se odnose na taj uređaj.
+3. Oznaka CE i EU izjava o sukladnosti
+3.1. Proizvođač je obvezan staviti oznaku CE na svaki pojedinačni uređaj koji je u skladu s tipom za koji je izdana potvrda o EU ispitivanju tipa i koji ispunjava mjerodavne zahtjeve iz ovoga Pravilnika.
+3.2. Proizvođač je obvezan sastaviti pisanu EU izjavu o sukladnosti za svaki model uređaja i dati na uvid nadležnom inspektoru u skladu s njegovim zahtjevom, u razdoblju od deset godina od dana stavljanja uređaja na tržište. U EU izjavi o sukladnosti navodi se model uređaja za koji je ta izjava sastavljena.
+Na zahtjev nadležnih tijela proizvođač je obvezan dostaviti presliku EU izjave o sukladnosti.
+4. Ovlašteni zastupnik
+Obveze proizvođača iz točke 3. ovoga Dodatka u njegovo ime i na njegovu odgovornost može ispuniti njegov ovlašteni zastupnik, ako su te obveze navedene u ovlaštenju.
+DODATAK 4.
+EU IZJAVA O SUKLADNOSTI
+1. Model uređaja / proizvoda (broj proizvoda, tipa ili šarže ili serijski broj):
+2. Naziv i adresa proizvođača ili njegovog ovlaštenog zastupnika:
+3. Za točnost podataka u EU izjavi o sukladnosti odgovoran je isključivo proizvođač.
+4. Predmet izjave (identifikacijska oznaka uređaja koja omogućuje sljedivost, a može sadržavati dostatnu jasnu sliku u boji, ako je potrebno za identifikaciju uređaja):
+5. Predmet izjave u skladu je s mjerodavnim zakonodavstvom Europske unije o usklađivanju:
+6. Upućivanja na mjerodavne primijenjene usklađene norme, uključujući nadnevak norme, ili upućivanja na druge tehničke specifikacije, uključujući nadnevak specifikacije, u vezi s kojima se izjavljuje sukladnost:
+7. Ako je potrebno, prijavljeno tijelo ... (naziv, broj) provelo je … (opis radnje) i izdalo potvrdu:
+8. Dodatni podaci:
+Potpisano za i u ime:
+(mjesto i nadnevak izdavanja):
+(ime, dužnost) (potpis):

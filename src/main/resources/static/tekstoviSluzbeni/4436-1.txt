@@ -1,0 +1,31 @@
+ se osposobljava za stjecanje ovlaštenja za tip ili obavlja preobuku za pojedini tip unutar ovlaštenja za klasu aviona sukladno odredbama ovoga Pravilnika.
+(4) Osoba smije upravljati Aneks II balonom ukoliko posjeduje valjanu Part-FCL dozvolu pilota balona za odgovarajuću grupu i klasu balona u skladu s ograničenjima i privilegijama Part-FCL dozvole i ovlaštenja.
+(5) Iznimno od stavka 4. ovoga članka, a najkasnije do datuma propisanog člankom 12. stavak 2(a) Uredbe Komisije (EU) br. 1178/2011, osoba smije upravljati Aneks II balonom ukoliko posjeduje valjanu dozvolu pilota balona izdanu ili priznatu od strane Hrvatske agencije za civilno zrakoplovstvo (u daljnjem tekstu: Agencija) u skladu s primjenjivim propisom.
+(6) Osoba smije upravljati Aneks II jedrilicom ukoliko posjeduje valjanu Part-FCL dozvolu pilota jedrilice u skladu s ograničenjima i privilegijama Part-FCL dozvole i ovlaštenja.
+(7) Iznimno od stavka 6. ovoga članka, a najkasnije do datuma propisanog člankom 12. stavak 2(a) Uredbe Komisije (EU) br. 1178/2011 osoba smije upravljati Aneks II jedrilicom ukoliko posjeduje valjanu dozvolu pilota jedrilice izdanu ili priznatu od strane Agencije u skladu s primjenjivim propisom.
+Vođenje zapisa o letenju
+Članak 4.
+Imatelj dozvole izdane u skladu s odredbama ovoga Pravilnika mora u knjižicu letenja upisivati ostvareni nalet i zapise o detaljima sa svih letova na Aneks II zrakoplovima.
+Uvjeti i način obavljanja preobuke za razlike ili upoznavanje za pojedini tip unutar ovlaštenja za klasu
+Članak 5.
+(1) Kako bi osoba mogla upravljati pojedinim tipom unutar ovlaštenja za klasu Aneks II aviona, mora prethodno obaviti preobuku za razlike ili upoznavanje.
+(2) Ukoliko osoba nije upravljala pojedinim tipom aviona unutar ovlaštenja za klasu u periodu dužem od dvije godine, prije upravljanja mora ponovno obaviti preobuku, osim kada se radi o klasi jednomotornoga klipnog aviona.
+(3) Obavljena preobuka mora biti upisana u knjižicu letenja i potpisana od instruktora koji ima privilegije provoditi preobuku za taj tip unutar ovlaštenja za klasu.
+DIO TREĆI NACIONALNE DOZVOLE I OVLAŠTENJA ZA TIP ANEKS II AVIONA I HELIKOPTERA
+Vrste nacionalnih dozvola
+Članak 6.
+Vrste nacionalnih dozvola koje Agencija izdaje u skladu s ovim Pravilnikom su:
+(a) Dozvola pilota za tip Aneks II aviona za izvođenje nekomercijalnih operacija – NPPL(A),
+(b) Dozvola pilota za tip Aneks II aviona za izvođenje komercijalnih operacija – NCPL(A),
+(c) Dozvola pilota za tip Aneks II helikoptera za izvođenje nekomercijalnih operacija – NPPL(H),
+(d) Dozvola pilota za tip Aneks II helikoptera za izvođenje komercijalnih operacija – NCPL(H).
+Privilegije nacionalne dozvole
+Članak 7.
+(1) Imatelj NPPL(A) i NPPL(H) dozvole smije upravljati Aneks II avionom ili helikopterom registriranim u Republici Hrvatskoj za koji posjeduje valjano ovlaštenje za tip na letovima koji se izvode u hrvatskom zračnom prostoru i za koje se ne prima naknada.
+(2) Imatelj NCPL(A) i NCPL(H) dozvole smije upravljati Aneks II avionom ili helikopterom registriranim u Republici Hrvatskoj za koji posjeduje valjano ovlaštenje za tip na letovima koji se izvode u hrvatskom zračnom prostoru i za koje se prima naknada.
+Uvjeti za stjecanje nacionalne dozvole
+Članak 8.
+(1) Agencija će izdati nacionalnu dozvolu na zahtjev kandidata koji obavi osposobljavanje za ovlaštenje za tip u skladu sa zahtjevima ovoga Pravilnika i dokaže ispunjavanje sljedećih uvjeta:
+(a) za stjecanje NPPL(A) dozvole kandidat mora posjedovati valjanu Part-FCL dozvolu privatnog pilota aviona PPL(A), profesionalnog pilota aviona CPL(A), ili prometnog pilota aviona ATPL(A) i valjan certifikat o zdravstvenoj sposobnosti kategorije 2 ili 1 izdan u skladu s Part-MED.
+(b) za stjecanje NCPL(A) dozvole kandidat mora posjedovati valjanu Part-FCL dozvolu profesionalnog pilota aviona CPL(A), ili prometnog pilota aviona ATPL(A) i valjan certifikat o zdravstvenoj sposobnosti kategorije 1 izdan u skladu s Part MED.
+(c) za stjecanje NPPL(H) dozvole kandidat mora 

@@ -1,0 +1,30 @@
+oblikovati ili proizvesti vagu u cilju stavljanja vage na tržište pod svojim imenom ili trgovačkom oznakom;
+12. »stavljanje na raspolaganje na tržištu« – je svaka isporuka vage za distribuciju ili uporabu na tržištu Unije u okviru trgovačke djelatnosti s plaćanjem ili bez plaćanja;
+13. »stavljanje na tržište« – je prvo stavljanje na raspolaganje vage na tržištu Unije;
+14. »tehnička specifikacija« – je dokument kojim su propisani tehnički zahtjevi koje vaga mora ispunjavati;
+15. »tijelo za ocjenjivanje sukladnosti« – je tijelo koje obavlja poslove ocjenjivanja sukladnosti uključujući umjeravanje, ispitivanje, potvrđivanje i pregled;
+16. »usklađena norma« – je usklađena norma kako je definirano člankom 2. točkom 1. podtočkom c) Uredbe (EU) br. 1025/2012;
+17. »uvoznik« – je svaka fizička ili pravna osoba s poslovnim nastanom na području Unije koja vagu iz treće zemlje stavlja na tržište Unije;
+18. »vaga« – je mjerilo koje služi za određivanje mase tijela koristeći djelovanje sile teže na to tijelo. Vaga također može služiti za određivanje drugih s masom povezanih veličina, parametara i značajki;
+19. »zakonodavstvo Unije o usklađivanju« – je svako zakonodavstvo Europske unije kojim se usklađuju uvjeti za stavljanje proizvoda na tržište.
+Stavljanje na raspolaganje na tržištu i stavljanje u uporabu
+Članak 5.
+(1) Vage koje ispunjavaju odredbe ovoga Pravilnika smiju se stavljati na raspolaganje na tržištu.
+(2) Vage koje ne zadovoljavaju zahtjeve propisane odredbama ovoga Pravilnika ne smiju se stavljati u uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f).
+(3) Vage koje su stavljene u uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f) moraju zadovoljavati zahtjeve propisane odredbama ovoga Pravilnika.
+Temeljni zahtjevi
+Članak 6.
+(1) Vage koje se upotrebljavaju ili su namijenjene za uporabu u smislu odredbe članka 3. stavka 2. točaka a) do f) ovoga Pravilnika moraju zadovoljavati temeljne zahtjeve utvrđene u Dodatku I. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(2) Ako vaga sadrži, ili je povezana s uređajima koji se ne koriste u svrhe navedene u članku 3. stavku 2. točkama a) do f) ovoga Pravilnika, na takve uređaje se ne primjenjuju temeljni zahtjevi iz ovoga Pravilnika.
+Slobodno kretanje vaga
+Članak 7.
+(1) Ne smije se sprječavati stavljanje na raspolaganje na tržištu vaga koje zadovoljavaju odredbe ovoga Pravilnika.
+(2) Ne smije se sprječavati stavljanje u uporabu vaga za namjene iz članka 3. stavka 2. točaka a) do f) ovoga Pravilnika, koje zadovoljavaju odredbe ovoga Pravilnika.
+II. OBVEZE GOSPODARSKIH SUBJEKATA
+Obveze proizvođača
+Članak 8.
+(1) Kada stavlja svoje vage na tržište i/ili ih stavlja u uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f) proizvođač je obvezan osigurati da su vage oblikovane i proizvedene u skladu s temeljnim zahtjevima utvrđenim u Dodatku I. ovoga Pravilnika.
+(2) Za vage koje su namijenjene za uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f) proizvođač je obvezan pripremiti tehničku dokumentaciju iz Dodatka II. ovoga Pravilnika i provesti ili osigurati provođenje primjenjivog postupka ocjenjivanja sukladnosti iz članka 15. ovoga Pravilnika.
+(3) Kada je postupkom ocjenjivanja sukladnosti iz stavka 2. ovoga članka dokazana sukladnost vage namijenjene za uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f) s propisanim zahtjevima, proizvođač je obvezan sastaviti pismenu EU izjavu o sukladnosti i staviti oznaku CE i dodatnu mjeriteljsku oznaku.
+(4) Za vage namijenjene za uporabu u svrhe navedene u članku 3. stavku 2. točkama a) do f) proizvođač je obvezan čuvati tehničku dokumentaciju i EU izjavu o sukladnosti najmanje deset (10) godina od dana stavljanja vage na tržište.
+(5) Proizvođač je obvezan osigurati provođenje postupaka za održavanje sukladnosti serijske proizvodnje s odredbama ovoga Pravilnika. Pri tome moraju na primjeren način biti uzete u obzir promjene u oblikovanju ili značajkama vage te promjene u usklađenim

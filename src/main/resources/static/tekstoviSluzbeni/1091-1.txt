@@ -1,0 +1,20 @@
+ komodama i ormarima, oblika kliznog pretinca u koji se smješta dnevni manipulativni novac korišten pri uplatno-isplatnim transakcijama
+12. neprobojne protubalističke pregrade – građevne konstrukcije koje se sastoje od pregrada izrađenih od ispitanih protubalističkih materijala (protubalističkog stakla ili materijala sličnih staklu, nosive i pregradne konstrukcije od čelika ili materijala sličnih čeliku ili zidanih pregrada koji moraju biti od pune opeke ožbukane cementnom žbukom, betona, kamena i drugih građevinskih materijala debljine najmanje 12 cm) i protuprovalnih vrata odgovarajuće klase otpornosti na provalu koja imaju i dodatnu plošnu protubalističku zaštitu
+13. novčarske institucije – pravne osobe i obrti u čijim poslovnim prostorima su gotov novac i vrijednosti osnovni predmet rada ili kojima je osnovna djelatnost poslovanje s gotovim novcem i vrijednostima ili koji u obavljanju svoje osnovne djelatnosti koriste veće iznose gotova novca i vrijednosti
+14. objekt – građevina u kojoj se nalazi poslovnica novčarske institucije
+15. osobe – djelatnici novčarskih institucija, klijenti, posjetioci, ugovorni partneri i vanjski suradnici novčarskih institucija
+16. osobni podaci – svaka informacija koja se odnosi na identificiranu fizičku osobu ili fizičku osobu koja se može identificirati
+17. pokretni poštanski ured – teretno furgonsko ili kombi vozilo tehnički prilagođeno za obavljanje poštanskih usluga i novčarskog poslovanja
+18. poštanski ured – prostorno-organizacijska jedinica u kojoj se pružaju poštanske usluge i obavlja novčarsko poslovanje, sukladno posebnim propisima o poštanskim uslugama
+19. poslovnica – samostalna poslovna jedinica novčarske institucije u kojoj se posluje sa strankama gotovim novcem i vrijednostima i koja je predmet štićenja tjelesnom i/ili tehničkom zaštitom
+20. protuprovalna vrata – masivna vrata visoke čvrstoće s jednostrukim ili višestrukim zaključavanjem, sigurnosnim i vezivnim vijcima, ispitana na otpore prema provali, normativno klasificirana
+21. registar-kasa – naprava s brojčanikom za novčani obračun i ladicom za pohranu, čuvanje i korištenje manipulativnog novca tijekom radnog vremena koji se nalazi na uplatno-isplatnom mjestu
+22. sef – specijalni metalni ormar ili kutija s mehaničkim ili elektroničkim otvaranjem za trajniju pohranu i čuvanje novca, vrijednosnih papira, poslovne i druge dokumentacije te ostalih dragocjenosti, normativno klasificiran
+23. sigurnosni depozitni spremnici – uređaji za pohranu i zaštitu novca i vrijednosti opremljeni mehaničkim, elektroničkim ili kombiniranim sustavima zaštite
+24. skimming – ilegalno kopiranje magnetskih zapisa i zaštite s kreditnih kartica na bankomatima i drugim uređajima
+25. službeni podaci novčarske institucije – informacije i podaci o sigurnosti objekta pohranjeni na papirnatom ili informatičkom mediju s odgovarajućom oznakom tajnosti sukladno posebnim propisima, audio i video-zapisi sa sustava video-nadzora i drugi dokumenti čijom objavom ili zloporabom se ugrožava sigurnost osoba ili objekta
+26. suključarstvo – mogućnost otvaranja vrata isključivo putem istodobne uporabe dvaju ili više mehaničkih ključeva ili elektroničkih šifri
+27. sustav cijevne ili pneumatske pošte – zatvoreni transportni pneumatski sustav transfera prijenosnih kapsula kroz mrežu cijevi kojim se unutar poslovnice novac s uplatno-isplatnog mjesta dostavlja u centralni trezor, trezor ili čvrsti neprobojni (zidani ili protubalistički) prostor ili prostoriju, ili se iz navedenih prostora novac dostavlja na uplatno-isplatno mjesto radi isplate strankama
+28. teklić – radnik, prodavač ili druga ovlaštena osoba zadužena za distribuciju novca i vrijednosti temeljem sigurnosnih procedura
+29. tjelesna i tehnička zaštita – mjere zaštite čiji su uvjeti i načini obavljanja uređeni posebnim propisima o privatnoj zaštiti
+30. trezor – zidani ili montažni prostor unutar novčarske institucije u kojem se pohranjuje gotov novac i vrijednosti, izgrađen od čvrstog neprobojnog i

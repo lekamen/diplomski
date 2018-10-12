@@ -1,0 +1,27 @@
+ nepromjenljiva intenziteta.
+(2) Osim uređaja za davanje zvučnih znakova iz stavka 1. ovoga članka, na određenim motornim vozilima medicinske službe, vatrogasne službe, ministarstva nadležnog za unutarnje poslove, oružanih snaga Republike Hrvatske, odnosno na vozila pod pratnjom i vozila s pravom prednosti prolaza utvrđena zakonom kojim se uređuje sigurnost prometa na cestama, može biti ugrađen i izveden i poseban uređaj za davanje znakova od niza izmjeničnih zvukova dviju različitih frekvencija.
+(3) Komanda uređaja za davanje zvučnih znakova mora biti postavljena tako da je pristupačna vozaču za vrijeme vožnje.
+(4) Uređaj za davanje zvučnih znakova iz stavka 2. ovoga članka mora biti konstruiran tako da se njegovim uključenjem istodobno uključuje rotacijska ili treptava svjetla na vozilima iz članka 42. ovoga Pravilnika.
+Članak 80.
+(1) Ostali kontrolni uređaji na vozilima sukladno ovom Pravilniku su:
+a) pokazivač raspoloživog tlaka pneumatičkog uređaja radne kočnice, ako je taj uređaj stalno pod tlakom kojim moraju biti opremljena vozila kategorija M2, M3, N2 i N3
+b) standardiziran priključak za kontrolu tlaka kočne instalacije, odnosno na spremniku energije, kočnim cilindrima kao i na svim uređajima na kojima se tlak unutar kočne instalacije transformira sukladno Direktivi 71/320/EEC, na svim vozilima opremljenim zračnom ili zračno hidrauličnom kočnom instalacijom, a koja su prvi put registrirana u Republici Hrvatskoj nakon 1. siječnja 1984. godine
+c) svjetlosni znak za kontrolu zatvorenosti vrata i uređaj za davanje i primanje znakova od putnika kojima moraju biti opremljeni autobusi za gradski promet.
+(2) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+10. Ispušni plinovi na motornim vozilima i utjecaj na okoliš
+Članak 81.
+(1) Sustavi za naknadnu obradu ispušnih tvari na vozilima kategorije M i N moraju biti odobreni, te ugrađeni sukladno Direktivi 70/220/EEC.
+(2) Vozila za čije uređaje za naknadnu obradu ispušnih plinova nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+(3) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 82.
+(1) Svaka preinaka na vozilu koja u pogledu emisije ispušnih tvari ima za posljedicu smanjivanje emisijske razine vozila nije dopuštena.
+(2) Ako preinake na vozilu uzrokuju promjenu razine emisija ispušnih tvari vozilo se mora podvrgnuti postupku ispitivanja.
+(3) Za slučaj promjene pogonskog motora na vozilu motorom drugog tipa, potrebno je ugraditi i sve komponente usisnog i ispušnog sustava s kojima je zamjenski motor odobren i kojemu je temeljem toga određena odgovarajuća emisijska razina.
+(4) Ispušni sustavi moraju biti takve izvedbe da ne proizvode emisije buke i ispušnih plinova veće od propisanih.
+(5) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 83.
+(1) Motori s unutarnjim izgaranjem na vozilima kategorija M i N, ne smiju ispuštati u atmosferu:
+1) Benzinski motori bez katalizatora i lambda sonde odnosno benzinski motorima s katalizatorom, ali bez lambda sonde – koncentracija ugljičnog monoksida (CO), pri brzini vrtnje motora na praznom hodu, ne smije prelaziti:
+a) 4,5% volumnih udjela (za vozila proizvedena 1986. godine i starija) pri temperaturi ulja u motoru od najmanje 80°C
+b) 3,5% volumnih udjela (za vozila proizvedena 1987. godine i kasnije) pri temperaturi ulja u motoru od najmanje 80°C.
+2) Benzinski motori s reguliranim katalizatorom trostrukog djelovanja – koncentracija ugljičnog monoksida (CO), nakon što je motor postigao radnu temperaturu pri brzini vrtnje na praznom hodu, ne smije prelaziti vrijednost propisanu od strane proizvođača vozila. Radna temperatura motora i brzina vrtnje na praznom hodu trebaju biti propisane od strane proizvođača vozila. Koncentracija ugljičnog monoksida (CO) i vrijednost faktora zraka (λ) pri povećanoj

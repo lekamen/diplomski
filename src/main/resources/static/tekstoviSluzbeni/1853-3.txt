@@ -1,0 +1,29 @@
+ zaprimljenog zahtjeva obavezan je izaći na adresu navedenu u zahtjevu i prikupiti sve podatke u skladu sa člankom 5. stavcima 2. i 3. ovoga Pravilnika.
+(2) Posjednik je dužan dati djelatniku HPA sve tražene podatke.
+(3) Djelatnik HPA i posjednik dužni su se potpisati na ispunjene obrasce iz članka 5. stavaka 2. i 3. ovoga Pravilnika.
+Članak 11.
+Djelatnik HPA dužan je, najkasnije u roku 7 dana od dana prikupljanja podataka iz članka 10. ovoga Pravilnika, unijeti u računalnu bazu Registra farmi podatke i obrasce iz članka 10. stavka 3. ovoga Pravilnika.
+Promjena podataka o farmi
+Članak 12.
+(1) Posjednik je dužan svaku promjenu podataka o farmi i posjedniku propisanu člankom 5. stavkom 6. točkom 1. ovoga Pravilnika prijaviti HPA-u najkasnije 7 dana od dana nastale promjene na obrascu »Zahtjev za promjenu podataka o farmi« čiji se primjer nalazi na službenim web stranicama Ministarstva i HPA.
+(2) Promjene u odnosu na dodatne podatke iz članka 5. stavka 6. točke 2. podtočke (a) ovoga Pravilnika posjednik je dužan prijaviti u HPA najkasnije 7 dana od nastale promjene na obrascu »Promjena dodatnih podataka o farmi« čiji se primjer nalazi na službenim web stranicama Ministarstva i HPA.
+(3) Promjene u odnosu na dodatne podatke iz članka 5. stavka 6. točke 2. podtočke (c) ovoga Pravilnika evidentiraju se na temelju godišnje prijave za životinje u skladu s posebnim propisima o označavanju i registraciji svinja te ovaca i koza, a koju posjednik dostavlja HPA.
+(4) Promjene u odnosu na dodatne podatke iz članka 5. stavka 6. točke 3. podtočke (a) ovoga Pravilnika evidentiraju se ažurno preko nadležnog veterinarskog inspektora odnosno tijekom obavljanja pregleda na mjestu otpreme kako je to propisano Pravilnikom o veterinarskim pregledima živih životinja u unutarnjem prometu i svjedodžbi o zdravstvenom stanju i mjestu podrijetla životinje (»Narodne novine«, 87/08, 80/12).
+(5) Promjene u odnosu na dodatne podatke iz članka 5. stavka 6. točke 3. podtočke (b) ovoga Pravilnika evidentira ovlaštena veterinarska organizacija, nadležni veterinarski inspektor ili nadležno tijelo u skladu sa Zakonom o veterinarstvu.
+(6) Promjene u odnosu na dodatne podatke iz članka 5. stavka 6. točke 3. podtočke (c) ovoga Pravilnika evidentira nadležni veterinarski inspektor ili se preuzima iz drugih aplikacija JRDŽ-a ili baza SVIS-a.
+Deaktivacija farme i posjednika iz registra farmi
+Članak 13.
+(1) Farma koja se nalazi u Registru farmi ili u ostalim dijelovima JRDŽ-a može se deaktivirati:
+(a) temeljem podnošenja zahtjeva od strane posjednika u HPA u roku 14 dana od odlaska ili izlučenja zadnje životinje iz članka 3. stavka 1. ovoga Pravilnika;
+(b) temeljem zapisnika nadležne veterinarske inspekcije;
+(c) temeljem zahtjeva ovlaštene veterinarske organizacije;
+(d) temeljem zahtjeva djelatnika HPA;
+(e) u slučaju kada to odredi nadležno tijelo.
+(2) Farma ili pojedini posjednik unutar farme može se deaktivirati isključivo ako u odgovarajućim registrima životinja koji su sastavni dijelovi JRDŽ-a ne postoji niti jedna registrirana ovca/koza, govedo, kopitar, svinja odnosno životinje iz članka 3. stavka 1. ovoga Pravilnika i posjednik više ne namjerava držati životinje iz članka 3. ovoga Pravilnika osim u slučajevima iz članka 14. stavka 2. ovoga Pravilnika.
+Deaktivacija farme – posjednik
+Članak 14.
+(1) Posjednik iz članka 13. stavka 1. točke (a) ovoga Pravilnika može podnijeti prijavu za deaktivaciju farme na obrascima iz članka 12. stavaka 1. i 2. ovoga Pravilnika u HPA isključivo pod uvjetima navedenima u članka 13. stavku 2. ovoga Pravilnika.
+(2) Ako na jednoj farmi postoji više registriranih posjednika, svi moraju biti potpisani na prijavi iz stavka 1. ovoga članka kako bi se farma mogla deaktivirati.
+(3) Uz prijavu iz stavka 1. ovoga članka posjednik ili svi registrirani posjednici moraju priložiti IKG.
+(4) Ako su svi uvjeti navedeni u stavcima 1., 2. i 3. ovoga članka zadovoljeni, HPA će deaktivirati podatke o farmi u Registru farmi.
+(5) Ako pojedini posjednik u

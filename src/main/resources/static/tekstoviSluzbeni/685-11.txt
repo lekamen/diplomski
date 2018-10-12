@@ -1,0 +1,65 @@
+kolektora i tipovi strujanja, paralelno spajanje, serijsko spajanje,
+– usporedba, utjecaj na efikasnost kolektorskog polja, preporuke za protok, pad tlaka, problem neravnomjerne distribucije, preporuke za broj kolektora u spoju
+– dimenzije cjevovoda, brzine strujanja
+1.4. Solarni sustavi – 6 sati
+– vrste, karakteristike, primjena
+– usporedba troškova i profitabilnost
+– sustavi s jednim spremnikom
+– sustavi s dva spremnika
+– pomoćno grijanje, izmjenjivači
+– regulacija, način rada, postavke parametara (razlika temp. spremnik-kolektor kod uključivanja i isključivanja, temperatura uključivanja pomoćnog grijanja)
+– komponente (spremnik, kolektor, pomoćni grijač), način povezivanja
+– recirkulacija, miješajući ventili, nepovratni ventili, ekspanzijske posude, omekšivači, filteri, odzračni ventili, armatura
+– montaža kolektora, spojni cjevovodi
+– solarni sustavi za plivačke bazene, vrste, apsorberi
+– dimenzioniranje solarnih sustava
+– preporuke veličine sustava u ovisnosti o broju osoba i podneblja
+– određivanje potrebne energije za grijanje
+– dimenzioniranje te odabir pumpe i ekspanzijske posude
+– određivanje optimalnog protoka solarnog sustava
+– dimenzije i izolacija cjevovoda
+– odabir odgovarajućeg sustava
+1.5. Održavanje solarnih sustava – 1 sat
+– najčešći problemi u radu
+– otkrivanje kvarova
+– sadržaj redovnih servisa
+– servisni intervali
+– ekološki aspekt
+1.6. Dokumentacija – 1 sat
+– sadržaj dokumentacije sustava prema normi za ispitivanje solarnih kolektora i sustava
+– sadržaj uputa za montažu
+1.7. Zaštita na radu i zaštita od požara – 1 sat
+– propisi o zaštiti na radu
+– rad na visini i povezane opasnosti
+– siguran rad i mjere zaštite na radu – potencijalne opasnosti i načini ublaživanja i
+– izbjegavanja opasnosti
+– izvori opasnosti
+2. Praktična nastava – 20 sati
+2.1. Komponente sustava (pokazne vježbe) – 12 sati
+– pričvršćivanje kolektora na krov i nosače
+– međusobno spajanje kolektora
+– smještaj i spajanje odzračne posude
+– način spajanja spremnika na kolektorski krug i krug pomoćnog grijanja
+– mjesto ugradnje nepovratnih ventila
+– mjesta ugradnje osjetnika i miješajućeg ventila
+– način spajanja ekspanzijskih posuda
+– regulacija (namještanje parametara)
+2.2. Zaštita na radu – 3 sata
+– rad na visini i povezane opasnosti (ravni i kosi krov)
+– korištenje sigurnosnih pojasa pri montaži sustava
+– sredstva osobne zaštite na radu
+2.3. Puštanje u pogon – 3 sata
+– punjenje sustava
+– odzračivanje
+– provedba tlačne probe
+2.4. Održavanje toplinskih sustava – 2 sata
+– nadzor rada sustava
+– plan održavanja – redovita održavanja, točke ispitivanja i provjere sustava
+– pronalaženje i ispravak kvarova
+PRILOG 2.
+IZGLED I SADRŽAJ CERTIFIKATA ZA RADOVE POSTAVLJANJA SOLARNIH TOPLINSKIH SUSTAVA
+
+PRILOG 3.
+OBRAZAC ZAHTJEVA ZA IZDAVANJE POTVRDE ZA OBAVLJANJE RADOVA POSTAVLJANJA SOLARNIH TOPLINSKIH SUSTAVA U REPUBLICI HRVATSKOJ TEMELJEM CERTIFIKATA IZDANOG U DRUGOJ DRŽAVI ČLANICI
+MINISTARSTVO GRADITELJSTVA I PROSTORNOGA UREĐENJA 10000 Zagreb, Ulica Republike Austrije 20 ZAHTJEV ZA IZDAVANJE POTVRDE ZA OBAVLJANJE RADOVA POSTAVLJANJA SOLARNIH TOPLINSKIH SUSTAVA U REPUBLICI HRVATSKOJ (popuniti tiskanim slovima, po mogućnosti u elektroničkoj formi) I. Podaci o fizičkoj osobi Ime: Prezime: Spol: Stručna sprema i zvanje: Državljanstvo: Datum rođenja: Mjesto i država rođenja: Adresa stanovanja (ulica i kućni broj): Grad i država stanovanja: Broj telefona / mobilnog telefona: E-pošta: II. Podaci o putovnici ili osobnoj iskaznici: (zaokružiti naziv dokumenta)                                                              Broj osobne iskaznice ili putovnice: Naziv tijela koje je izdalo osobnu iskaznicu ili putovnicu: Mjesto i država izdavanja: Datum izdavanja: Rok važenja: III. Podaci o certifikatu: Naziv certifikata: Naziv i adresa tijela koje je izdalo certifikat: Mjesto i država izdavanja: Datum izdavanja: Rok važenja:
+IV. Izjava podnositelja zahtjeva Da su podaci navedeni u ovom zahtjevu točni potvrđujem potpisom te sam suglasan da se javno objave moji

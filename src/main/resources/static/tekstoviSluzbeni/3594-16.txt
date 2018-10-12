@@ -1,0 +1,33 @@
+ moraju biti projektirani i izvedeni tako da mogu zadovoljiti predvidive radne zahtjeve i posebne uvjete uporabe.
+1.5.6. Ako je potrebno, mora biti moguće provjeriti točnost očitanja i upotrebljivost uređaja s mjernom funkcijom.
+1.5.7. Konstrukcija uređaja s mjernom funkcijom mora sadržavati faktor sigurnosti koji osigurava da razina aktiviranja alarma leži dovoljno daleko od granica eksplozivnosti i/ili granica paljenja atmosfere kojoj je namijenjen, posebno uzimajući u obzir radne uvjete instalacije i moguća odstupanja mjernog sustava.
+1.5.8. Rizik koji proizlazi iz programske podrške
+U projektiranju opreme, zaštitnih sustava i sigurnosnih uređaja za upravljane programskom podrškom mora se voditi briga posebno o riziku zbog pogreške u programu.
+1.6. Uklapanje sigurnosnih zahtjeva u sustave
+1.6.1. Ručni zahvat mora biti moguć za potpuni isklop opreme i zaštitnih sustava automatski upravljanog procesa kada odstupaju od predviđenih radnih uvjeta, ako time nije ugrožena sigurnost.
+1.6.2. Nakon isklopa sklopke za nužni potpuni isklop akumulirana energija u isklopljenom dijelu mora biti što je moguće brže i sigurnije odvedena ili odvojena tako da je daljnja opasnost isključena.
+To se ne odnosi na akumuliranu elektrokemijsku energiju.
+1.6.3. Opasnost koja proizlazi iz prekida napajanja
+Oprema i zaštitni sustavi koji mogu doprinijeti širenju dodatnih rizika u slučaju izostanka napajanja moraju se moći održavati u uvjetima sigurne uporabe neovisno o ostaloj instalaciji.
+1.6.4. Opasnost koja proizlazi iz priključka
+Oprema i zaštitni sustavi moraju biti opremljeni odgovarajućim uvodima za kabele i cijevi.
+Kada su oprema i zaštitni sustavi namijenjeni uporabi u kombinaciji s drugom opremom i zaštitnim sustavima, njihovo međusobno povezivanje mora biti sigurno.
+1.6.5. Ugradnja uređaja za upozorenje kao dio opreme
+Kada su oprema i zaštitni sustavi opremljeni detektorima ili alarmnim uređajima za nadziranje pojave eksplozivne atmosfere, moraju biti dane potrebne upute koje će omogućiti da se oni postave na odgovarajuća mjesta.
+2. Dodatni zahtjevi za opremu
+2.0. Zahtjevi primjenjivi na opremu skupine opreme I
+2.0.1. Zahtjevi primjenjivi na opremu kategorije M1 skupine opreme I
+2.0.1.1. Oprema mora biti konstruirana i izvedena tako da uzročnik paljenja ne postane aktivan i u slučaju izuzetno rijetke pojave kvara.
+Oprema mora biti opremljena sredstvima zaštite na način:
+– da u slučaju kvara jednog sredstva zaštite barem jedno drugo nezavisno sredstvo osigurava traženu razinu zaštite,
+– ili da je tražena razina zaštite osigurana i u slučaju dvaju kvarova nastalih neovisno jedan o drugome.
+Ako je potrebno, oprema mora biti opremljena dodatnim posebnim sredstvima zaštite.
+Ona mora ostati u funkciji uz prisutnu eksplozivnu atmosferu.
+2.0.1.2. Ako je potrebno, oprema mora biti tako izrađena da je onemogućen ulaz prašine.
+2.0.1.3. Temperatura površine dijelova opreme mora se održavati nedvojbeno ispod temperature paljenja predvidive smjese prašine i zraka radi sprečavanja paljenja raspršene prašine u zraku.
+2.0.1.4. Oprema mora biti konstruirana tako da je otvaranje dijelova opreme, koji mogu biti uzročnik paljenja, moguće samo u beznaponskom stanju ili u potpuno sigurnim uvjetima. Ako nije moguće osigurati da se otvara samo u beznaponskom stanju, proizvođač je dužan postaviti upozorenje za otvaranje dijelova pod naponom.
+Ako je potrebno, ova oprema mora imati dodatnu blokadu otvaranja pod naponom.
+2.0.2. Zahtjevi primjenjivi na opremu kategorije M2 skupine opreme I
+2.0.2.1. Oprema mora biti opremljena sredstvima zaštite osiguravajući da se uzročnik paljenja ne aktivira za vrijeme normalnog rada u teškim radnim uvjetima, posebno onih koji proizlaze iz grubog rukovanja i promjene uvjeta okoliša.
+Pri pojavi eksplozivne atmosfere, ovoj opremi mora biti moguće isklopiti napajanje električnom energijom.
+2.0.2.2. Oprema mora biti konstruirana tako da je otvaranje dijela opreme, koji može biti uzročnik paljenja, moguće samo u beznaponskom stanju ili da su

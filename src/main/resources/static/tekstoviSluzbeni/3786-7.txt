@@ -1,0 +1,29 @@
+ odbitne stavke i ograničenja regulatornog kapitala iz stavka 1. ovoga članka.
+Dodatni iznos kapitala društva za upravljanje
+Članak 20.
+(1) Kada neto vrijednost imovine investicijskih fondova kojima upravlja društvo za upravljanje prelazi dvije milijarde kuna, društvo za upravljanje je dužno osigurati dodatni iznos kapitala jednak 0,02% iznosa za koji neto vrijednost imovine investicijskih fondova kojima upravlja društvo za upravljanje prelazi dvije milijarde kuna, no zahtijevani ukupni iznos temeljnog kapitala i dodatni iznos kapitala ne smiju prelaziti 80.000.000,00 kuna.
+(2) U smislu stavka 1. ovoga članka sljedeća neto vrijednost imovine smatra se neto vrijednošću imovine investicijskih fondova kojima upravlja društvo za upravljanje:
+1. neto vrijednost imovine UCITS fondova kojima upravlja društvo za upravljanje, uključujući neto vrijednost imovine za koju je delegiralo poslove upravljanja drugom društvu za upravljanje, no isključujući neto vrijednost imovine kojom upravlja na temelju delegiranja poslova i
+2. neto vrijednost imovine alternativnih investicijskih fondova kojima upravlja društvo za upravljanje, uključujući neto vrijednost imovine za koju je delegiralo poslove upravljanja drugom društvu za upravljanje, no isključujući neto vrijednost imovine kojom upravlja na temelju delegiranja poslova.
+(3) Društvo za upravljanje koje obavlja djelatnosti upravljanja portfeljem, upravljanja alternativnim investicijskim fondovima i upravljanja dobrovoljnim mirovinskim fondovima dužno je, uz odredbe ovoga Zakona, poštivati i kapitalne zahtjeve propisane odredbama zakona koji uređuje tržište kapitala, odnosno propisima koji uređuju osnivanje i poslovanje alternativnih investicijskih fondova i dobrovoljnih mirovinskih fondova.
+(4) Agencija će pravilnikom propisati dodatne kapitalne zahtjeve za društva za upravljanje koja osim djelatnosti upravljanja UCITS fondovima obavljaju djelatnosti upravljanja alternativnim investicijskim fondovima, upravljanja dobrovoljnim mirovinskim fondovima ili upravljanja portfeljem.
+Minimalni iznos regulatornog kapitala društva za upravljanje
+Članak 21.
+(1) Regulatorni kapital društva za upravljanje mora u svakom trenutku biti veći ili jednak većem od sljedeća dva iznosa:
+1. iznosa temeljnog kapitala iz članka 18. ovoga Zakona, odnosno ukupnog iznosa temeljnog kapitala i dodatnog iznosa kapitala iz članka 20. stavka 1. ovoga Zakona ili
+2. jedne četvrtine općih troškova društva za upravljanje iz prethodne poslovne godine.
+(2) U slučaju da regulatorni kapital društva za upravljanje padne ispod razine minimalnog iznosa regulatornog kapitala iz stavka 1. ovoga članka, Agencija može tom društvu za upravljanje omogućiti da u određenom razdoblju otkloni odstupanja, odnosno naložiti neku od nadzornih mjera propisanih odredbama ovoga Zakona.
+(3) Kada je od početka poslovanja društva za upravljanje prošlo manje od godinu dana, regulatorni kapital društva za upravljanje mora biti veći ili jednak većem od sljedeća dva iznosa:
+a) iznosu iz stavka 1. točke 1. ovoga članka ili
+b) jedne četvrtine općih troškova predviđenih poslovnim planom društva za upravljanje, osim ako Agencija ne zahtijeva prilagodbu tog plana.
+(4) Agencija će pravilnikom propisati stavke općih troškova iz stavka 1. točke 2. ovoga članka.
+Izvještavanje o ispunjenju kapitalnih zahtjeva
+Članak 22.
+(1) Društvo za upravljanje dužno je o ispunjenju kapitalnih zahtjeva iz članka 21. ovoga Zakona izvještavati Agenciju najmanje jednom u šest mjeseci.
+(2) Agencija će pravilnikom propisati vrste i sadržaj izvještaja o izračunu regulatornog kapitala te način i rokove njihove dostave.
+POGLAVLJE III.
+Uvjeti i postupci za izdavanje odobrenja za rad društvu za upravljanje sa sjedištem u Republici Hrvatskoj
+Članak 23.
+(1) Agencija društvu za upravljanje izdaje odobrenje za rad.
+(2) Odobrenje za rad izdaje se na neodređeno vrijeme, ne može se prenijeti na drugu osobu i ne vrijedi za pravnog sljednika.
+(3) Zahtjev za izdavanje odobrenja za rad podnose osnivači

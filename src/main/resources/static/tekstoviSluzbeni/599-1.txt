@@ -1,0 +1,5 @@
+ Datum sklapanja ugovora Datum dospijeća ugovora Naziv druge ugovorne strane Ugovoreni iznos glavnice u valuti Oznaka valute Ugovorena repo stopa Vrijednost u HRK Vrijednost kolaterala u HRK
+Kolateral repo ugovora (obrnuti repo ugovor)
+Broj ugovora ISIN Cijena Količina/nominalna vrijednost Oznaka valute Vrijednost kolaterala u HRK
+Ostala imovina
+Opis Datum sklapanja Datum dospijeća Naziv druge ugovorne strane/izdavatelja Ugovoreni iznos glavnice u valuti Oznaka valute Ugovorena kamata Vrijednost u HRK

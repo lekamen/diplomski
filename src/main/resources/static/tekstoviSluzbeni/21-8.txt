@@ -1,0 +1,26 @@
+ kreditnog rizika. Kreditna institucija dužna je odrediti pravila za donošenje odluke o odobravanju plasmana ako se ovlaštene osobe koje obavljaju ugovaranje transakcija i ovlaštene osobe zadužene za procjenu kreditnog rizika ne mogu usuglasiti o odluci o odobrenju plasmana.
+(4) Iznimno, ako kreditna institucija odobrava plasmane koji nisu materijalno značajni u odnosu na kreditni rizik, radi pojednostavnjenja postupka odobravanja, odluke o odobrenju plasmana mogu se donositi u sklopu funkcije ugovaranja transakcija. U tom slučaju kreditna institucija dužna je propisati kriterije utvrđivanja plasmana koji nisu materijalno značajni, pravila odobravanja tih plasmana koja uključuju njihovo grupiranje prema srodnim obilježjima i pravila njihova praćenja na skupnoj osnovi koje se mora obavljati u sklopu funkcije kontrole rizika.
+(5) Ako kreditna institucija odobrava plasman prema uvjetima različitima od općih uvjeta poslovanja, dužna je odrediti pravila postupanja, kojima će propisati proces odobravanja i praćenja takvih plasmana te poduzimanje odgovarajućih mjera radi smanjenja kreditnog rizika povezanog s tim plasmanima.
+(6) Kreditna institucija ne smije u sklopu funkcije ugovaranja transakcija provoditi ispravke vrijednosti za bilančne stavke te rezerviranja za rizične izvanbilančne stavke.
+Kreditni proces
+Članak 27.
+Kreditni proces najmanje uključuje:
+1) proces odobravanja plasmana,
+2) proces praćenja plasmana,
+3) analizu kreditnog portfelja,
+4) postupanje s problematičnim plasmanima,
+5) sustav ranog otkrivanja povećanoga kreditnog rizika i
+6) proces klasifikacije plasmana prema stupnjevima rizičnosti.
+Proces odobravanja plasmana
+Članak 28.
+(1) Prije odobravanja plasmana kreditna institucija dužna je procijeniti dužnikovu kreditnu sposobnost. Kreditnu sposobnost dužnika mora procijeniti uzimajući u obzir vlastite kriterije koje je propisala internim aktom, kao i minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija.
+(2) Pri analizi nadoknadivosti plasmana kreditna institucija dužna je ponajprije uzeti u obzir kreditnu sposobnost dužnika, a primljeni instrumenti osiguranja za pojedini plasman bit će u pravilu sekundarni izvor naplate.
+(3) Prije odobravanja plasmana kreditna institucija dužna je procijeniti kvalitetu, utrživost, raspoloživost i vrijednost te pravnu valjanost instrumenta osiguranja potraživanja. Ako vrijednost instrumenta osiguranja potraživanja u velikoj mjeri ovisi o kreditnoj sposobnosti davatelja instrumenta osiguranja koji je treća strana, kreditna institucija dužna je procijeniti njegovu kreditnu sposobnost.
+(4) Kreditna institucija dužna je donijeti politiku prihvatljivih instrumenata osiguranja i metodologiju procjene vrijednosti instrumenta osiguranja uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija.
+Proces praćenja plasmana
+Članak 29.
+(1) Proces praćenja pojedinačnog plasmana uključuje procjenjivanje kreditne sposobnosti dužnika, grupe povezanih osoba s dužnikom i kvalitete instrumenta osiguranja potraživanja tijekom trajanja pravnog odnosa koji čini izloženost.
+(2) Kreditna institucija dužna je tijekom trajanja pravnog odnosa koji čini izloženost kreditnom riziku pratiti poslovanje dužnika, kao i kvalitetu, utrživost, raspoloživost, vrijednost i pravnu valjanost instrumenata osiguranja svojih potraživanja uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija.
+(3) Kreditna institucija dužna je osigurati praćenje dužnikova ispunjavanja uvjeta iz ugovora i, u slučaju odobrenih namjenskih plasmana, praćenje namjenskoga korištenja plasiranih sredstava.
+(4) Praćenje pojedinačnih plasmana mora biti uspostavljeno tako da omogućuje pravodobno poduzimanje odgovarajućih mjera radi smanjenja kreditnog rizika u slučaju pogoršanja kreditne sposobnosti dužnika ili pružatelja instrumenta osiguranja potraživanja.
+(5) Kreditna institucija dužna 

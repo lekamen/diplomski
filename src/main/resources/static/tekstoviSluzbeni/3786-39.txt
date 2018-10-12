@@ -1,0 +1,32 @@
+ odgovara prema kriteriju pretpostavljene krivnje.
+(4) Društvo za upravljanje ne odgovara za štetu koja je nastala kao posljedica više sile.
+(5) Društvo za upravljanje dužno je pravilima UCITS fonda, u slučaju pogrešnog izračuna vrijednosti udjela i u slučaju povrede ograničenja ulaganja u smislu članka 259. stavka 4. ovoga Zakona, predvidjeti odgovarajuće postupke naknade štete koji moraju posebno obuhvatiti izradu i provjeru plana naknade štete, kao i mjere naknade štete.
+(6) Postupci naknade štete iz stavka 5. ovoga članka moraju biti revidirani od strane revizora u okviru revizije godišnjih izvještaja UCITS fonda.
+(7) Agencija će pravilnikom detaljnije razraditi okolnosti i postupak naknade štete i njegovo provođenje, a posebno:
+1. pojedinosti postupka naknade štete, minimalnu visinu pogrešnog izračuna vrijednosti udjela, nakon koje se provodi postupak naknade štete, kao i pojedinosti pojednostavljenog postupka naknade štete kod nedostatka određene visine za ukupnu štetu
+2. mjere naknade štete koje se treba poduzeti prema ulagateljima i/ili UCITS fondu te bagatelne granice u kojima bi takve mjere naknade štete prouzrokovale nerazmjeran trošak
+3. obveze obavještavanja prema Agenciji, a ako UCITS fondom upravlja društvo za upravljanje iz druge države članice, onda i prema nadležnim tijelima matične države članice društva za upravljanje
+4. obveze informiranja ulagatelja
+5. sadržaj i izradu plana naknade štete koji se treba izraditi te pojedinosti mjera naknade štete i
+6. sadržaj i opseg revizije plana naknade štete i mjera naknade štete od strane revizora.
+Ostvarivanje zahtjeva i prava od strane društva za upravljanje
+Članak 111.
+(1) Društvo za upravljanje ovlašteno je i dužno u svoje ime ostvarivati pravo ulagatelja prema depozitaru.
+(2) Društvo za upravljanje ovlašteno je i dužno u svoje ime podnijeti pravni lijek, ako je pokrenut postupak ovrhe nad imovinom UCITS fonda u odnosu na zahtjeve i potraživanja za koja ne jamči i ne odgovara UCITS fond. U tom slučaju ulagatelji nemaju mogućnost podnošenja takvog pravnog lijeka.
+Dostava podataka ulagateljima
+Članak 112.
+Kada je ovim Zakonom i propisima donesenima na temelju ovoga Zakona propisano da je društvo za upravljanje dužno ulagateljima dostaviti podatke na trajnom mediju, društvo za upravljanje može dostaviti podatke i putem elektroničke pošte, ako su zadovoljeni sljedeći uvjeti:
+1. ulagatelj je dostavio društvu za upravljanje valjanu adresu elektroničke pošte i
+2. ulagatelj je odabrao takav način dostave podataka.
+DIO ČETVRTI REGISTAR UDJELA UCITS FONDA
+Članak 113.
+(1) Udjeli u UCITS fondu vode se u elektroničkom obliku, a mogu se voditi u:
+a) registru udjela koji vodi društvo za upravljanje
+b) registru udjela koji vodi operater središnjeg registra nematerijaliziranih financijskih instrumenata u skladu s odredbama zakona koji uređuje tržište kapitala ili
+c) registru udjela koji vodi treća osoba kojoj je društvo za upravljanje delegiralo taj administrativni posao.
+(2) Udjel u UCITS fondu može glasiti na investicijsko društvo ili kreditnu instituciju koja pruža usluge poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući poslove skrbništva i s tim povezane usluge i poslove upravljanja portfeljem ili društvo za upravljanje koje obavlja poslove upravljanja portfeljem, pri čemu će se u registru udjela zabilježiti da investicijsko društvo, društvo za upravljanje ili kreditna institucija udjel drži za račun treće osobe.
+(3) Kada se udjeli u UCITS fondu vode u registru udjela koji vodi društvo za upravljanje ili druga osoba na koju je društvo za upravljanje delegiralo taj administrativni posao, društvo za upravljanje je odgovorno za vođenje toga registra.
+Tajnost podataka iz registra udjela
+Članak 114.
+(1) Osoba koja vodi registar udjela UCITS fonda dužna je kao poslovnu tajnu čuvati podatke o ulagateljima, stanju udjela te uplatama i isplatama. Navedene podatke osoba koja vodi registar udjela može priopćavati:
+1. na temelju zahtjeva

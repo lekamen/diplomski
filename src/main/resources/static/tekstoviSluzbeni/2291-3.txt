@@ -1,0 +1,28 @@
+ subjekti
+c) financiranje projekta
+d) posebni podaci
+e) javna nabava
+f) dokumenti
+Za projekte-kandidate za sufinanciranje, postoje i dodatne grupe:
+a) opći podaci kandidata za sufinanciranje
+b) financijski podaci o potencijalnim izvorima i iznosima sufinanciranja.
+(2) Podaci za razvojne pokazatelje iz članka 19. u Bazi svrstavaju se u sljedeću grupu:
+a) naziv i opis razvojnog pokazatelja
+(3) Svaka grupa podataka iz stavka 1. i stavka 2. ovog članka može sadržavati nekoliko podgrupa.
+(4) Opis svake grupe i podgrupe podataka detaljno će se razraditi u Priručniku za korištenje Baze.
+IX. KLASIFIKACIJA PODATAKA PREMA DOSTUPNOSTI
+Članak 24.
+(1) Za potrebe ovog Pravilnika, podaci u Bazi klasificiraju se kao javni ili povjerljivi.
+(2) Javnim podacima smatraju se: naziv korisnika, lokacija projekta, teritorijalni obuhvat i značaj (razina), sektor, procijenjena vrijednost i status projekta.
+(3) Povjerljivim podacima smatraju se svi ostali podaci.
+(4) Javni podaci iz Baze se objavljuju kvartalno, putem internet stranica Ministarstva.
+(5) U slučaju zahtjeva za objavom povjerljivih podataka, pri donošenju odluke o njihovoj objavi primjenjivat će se važeći propisi o postupanju s povjerljivim podacima.
+X. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 25.
+Priručnik za korištenje Baze iz članka 8. stavka 1. ovoga Pravilnika donijet će ministar nadležan za poslove regionalnog razvoja u roku šest mjeseci od stupanja na snagu ovog Pravilnika.
+Članak 26.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«, a primjenjuje se od 30. lipnja 2016.
+Klasa: 011-01/15-02/5
+Urbroj: 538-06-1-2/011-15-4
+Zagreb, 22. listopada 2015.
+Potpredsjednik Vlade Republike Hrvatske i ministar regionalnoga razvoja i fondova Europske unije prof. dr. sc. Branko Grčić, v. r.

@@ -1,0 +1,25 @@
+do isteka roka od 30 dana od dana prijenosa poslova upravljanja.
+Objava informacije i obavještavanje ulagatelja o prijenosu upravljanja UCITS fondom
+Članak 94.
+(1) Depozitar i društvo preuzimatelj su dužni sljedeći radni dan od dana objave rješenja Agencije kojim izdaje odobrenje za preuzimanje poslova upravljanja, a u svakom slučaju prije samog prijenosa upravljanja, na svojoj mrežnoj stranici, na vidljivom mjestu, objaviti informaciju o namjeravanom prijenosu poslova upravljanja, koja će informacija sadržavati:
+a) kratko obrazloženje razloga za prisilni prijenos upravljanja u skladu s člankom 90. ovoga Zakona
+b) osnovne podatke o izabranom društvu preuzimatelju te kriterijima kojima se depozitar vodio prilikom takvog izbora
+c) informaciju o svim postupcima i radnjama koje će se poduzeti u vezi s prijenosom upravljanja, uz naznaku datuma kada će se upravljanje prenijeti na drugo društvo za upravljanje u skladu s člankom 93. stavkom 3. ovoga Zakona i
+d) podatak o pravu ulagatelja UCITS fonda koji se prenosi u skladu s člankom 93. stavku 4. ovoga Zakona, uz naznaku datuma do kojeg mogu podnijeti zahtjeve za otkup udjela bez plaćanja izlazne naknade.
+(2) Depozitar je dužan u roku od osam dana od dana objave rješenja Agencije kojim izdaje odobrenje za preuzimanje upravljanja UCITS fondom, a u svakom slučaju prije samog prijenosa upravljanja, o tome obavijestiti ulagatelje UCITS fonda koji se prenosi, a koja obavijest sadržava sve podatke iz stavka 1. ovoga članka. Ova obavijest će se ulagateljima dostaviti u pisanom obliku putem pošte ili na drugom odgovarajućem trajnom mediju u skladu s člankom 112. ovoga Zakona.
+(3) Depozitar će bez odgode obavijestiti Agenciju o ispunjenju dužnosti iz stavka 2. ovoga članka, uz koju će obavijest dostaviti tekst obavijesti upućene ulagateljima UCITS fonda koji se prenosi.
+(4) Na prisilni prijenos upravljanja se na odgovarajući način primjenjuju odredbe članka 85. stavka 4. i članka 89. stavka 1. ovoga Zakona.
+(5) Agencija će pravilnikom detaljnije propisati postupak, uvjete i način prisilnog prijenosa upravljanja UCITS fondom te prava i obveze depozitara kod prisilnog prijenosa upravljanja UCITS fondom.
+Likvidacija UCITS fonda u slučajevima kada nije moguć prisilni prijenos upravljanja
+Članak 95.
+(1) Depozitar je dužan, umjesto prisilnog prijenosa upravljanja UCITS fondom, provesti likvidaciju UCITS fonda:
+1. ako se na postupak prikupljanja ponuda iz članka 92. stavka 1. ovoga Zakona ne javi ni jedno društvo za upravljanje koje ispunjava uvjete za upravljanje UCITS fondom
+2. ako društvo preuzimatelj najkasnije u roku od tri dana od sklapanja ugovora s depozitarom ne podnese zahtjev za izdavanje odobrenja za preuzimanje upravljanja UCITS fondom ili
+3. ako Agencija odbaci ili odbije zahtjev društva preuzimatelja za izdavanje odobrenja za preuzimanje upravljanja UCITS fondom.
+(2) U slučajevima iz stavka 1. ovoga članka na likvidaciju UCITS fonda se na odgovarajući način primjenjuju odredbe dijela trinaestoga ovoga Zakona.
+POGLAVLJE X. DOBROVOLJNI PRESTANAK OBAVLJANJA DJELATNOSTI DRUŠTVA ZA UPRAVLJANJE
+Članak 96.
+Društvo za upravljanje može prestati obavljati svoju registriranu djelatnost tako da donese odluku o prestanku obavljanja djelatnosti te najkasnije u roku od pet dana od donošenja takve odluke, o tome obavijesti depozitara UCITS fondova kojima upravlja te Agenciju.
+Članak 97.
+(1) Društvo za upravljanje dužno je u roku od 60 dana od upućivanja obavijesti iz članka 96. ovoga Zakona sa drugim društvom za upravljanje sklopiti ugovor o dobrovoljnom prijenosu upravljanja UCITS fondovima, pri čemu je društvo preuzimatelj dužno u istom roku Agenciji podnijeti zahtjev za izdavanje odobrenja za preuzimanje upravljanja, sve u skladu s odredbama dijela drugoga poglavlja 9. odjeljka 1. ovoga Zakona.
+(2) Ako društvo za upravljanje ne pronađe novo društvo za upravljanje i na njega ne prenese upravljanje UCITS fondovima u skladu s odredbama stavka 1. ovoga članka, dužno je pokrenuti postupak likvidacije

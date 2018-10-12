@@ -1,0 +1,27 @@
+ za osiguranje, odnosno društvo za osiguranje iz druge države članice, društvo za osiguranje iz treće države ili drugo društvo za reosiguranje, odnosno društvo za reosiguranje iz druge države članice ili iz treće države ili
+– u slučaju Lloydova udruženja individualnih osiguratelja, djelatnost koja se sastoji od prihvaćanja rizika koje je ustupio bilo koji član Lloydova udruženja individualnih osiguratelja od strane društva za osiguranje, odnosno društva za reosiguranje koje nije Lloydovo udruženje individualnih osiguratelja
+12. »reosiguranje ograničenog rizika« je reosiguranje u okviru kojega izričita najveća moguća šteta, izražena kao najveći preneseni ekonomski rizik koji proizlazi iz prijenosa značajnog osigurateljnog rizika i vremenskog rizika, prelazi premiju tijekom trajanja tog ugovora za ograničen, ali značajan iznos i ima barem jedno od sljedećih dvaju obilježja:
+– da izričito i značajno uzima u obzir vremensku vrijednost novca
+– da ugovorne odredbe omogućavaju izjednačavanje ekonomskih rezultata između ugovornih strana tijekom vremena kako bi se postigao ciljani prijenos rizika
+13. »država članica« je država koja je članica Europske unije i država potpisnica Ugovora o Europskom gospodarskom prostoru
+14. »treća država« je država koja nije Republika Hrvatska, odnosno druga država članica
+15. »matična država članica« je:
+– za neživotna osiguranja, država članica u kojoj je sjedište društva za osiguranje koje pokriva rizik
+– za životno osiguranje, država članica u kojoj je sjedište društva za osiguranje koje pokriva obvezu
+– za reosiguranje, država članica u kojoj je sjedište društva za reosiguranje
+16. »država članica domaćin« je država članica koja nije matična država članica, a u kojoj društvo za osiguranje ili društvo za reosiguranje ima podružnicu ili u kojoj pruža usluge
+17. »država članica u kojoj se pružaju usluge« je država članica obveze, odnosno država članica u kojoj se nalazi rizik, ako tu obvezu ili taj rizik pokriva društvo za osiguranje, odnosno podružnica koja se nalazi u drugoj državi članici
+18. »država članica u kojoj se nalazi rizik« je:
+a) država članica u kojoj se nalazi imovina, kad se osiguranje odnosi na zgrade ili na zgrade i njihov sadržaj, pod uvjetom da je sadržaj pokriven istom policom osiguranja
+b) kada se osiguranje odnosi na bilo koju vrstu prijevoznog sredstva (vozilo, zrakoplov, brodica, odnosno jahta), država članica u kojoj je prijevozno sredstvo registrirano
+c) kada se osiguranje odnosi na bilo koju vrstu rizika povezanih s putovanjem ili godišnjim odmorom u slučaju polica koje traju četiri mjeseca ili kraće, država članica u kojoj je ugovaratelj sklopio ugovor o osiguranju
+d) u svim slučajevima koji nisu izričito navedeni u točkama a), b) ili c) ove točke, država članica u kojoj se nalazi:
+– prebivalište ili uobičajeno boravište ugovaratelja osiguranja ako je ugovaratelj osiguranja fizička osoba ili
+– poslovni nastan ugovaratelja osiguranja na koji se ugovor odnosi ako je ugovaratelj osiguranja pravna osoba
+19. »država članica preuzimanja obveze« je država članica u kojoj se nalazi:
+– prebivalište ili uobičajeno boravište ugovaratelja osiguranja ili
+– ako je ugovaratelj osiguranja pravna osoba, onaj poslovni nastan ugovaratelja osiguranja na koji se ugovor odnosi
+20. »Agencija« je Hrvatska agencija za nadzor financijskih usluga osnovana na temelju Zakona o Hrvatskoj agenciji za nadzor financijskih usluga i koja je nadzorno tijelo ovlašteno obavljati nadzor na temelju ovoga Zakona
+21. »nadležno nadzorno tijelo« je tijelo iz druge države članice, treće države i Švicarske Konfederacije ovlašteno na temelju zakona ili propisa za nadzor nad obavljanjem poslova osiguranja i poslova reosiguranja, odnosno poslova posredovanja u osiguranju i reosiguranju i zastupanja u osiguranju
+22. »podružnica« je pravno ovisni dio društva za osiguranje ili društva za reosiguranje koja se nalazi na području države članice koja nije matična država članica
+23. »poslovni nastan« društva za osiguranje ili

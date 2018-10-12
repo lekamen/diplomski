@@ -1,0 +1,25 @@
+ pravilnika kojim se propisuje način čuvanja dokumentacije i podataka državne izmjere i katastra nekretnina.
+(3) Podaci iz članka 1. ovoga Pravilnika izdaju se uz naplatu naknade koja je propisana pravilnikom kojim se određuju stvarni troškovi uporabe podataka.
+DIO SEDMI PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 42.
+Izvoditelji pri obavljanju poslova vezanih uz topografsku izmjeru, topografske i kartografske baze podataka te izradu službenih državnih karata koriste specifikacije proizvoda navedene u ovom Pravilniku, a ukoliko za pojedini proizvod specifikacija nije donijeta, koriste se upute definirane projektnim zadatkom.
+Članak 43.
+Ukoliko topografske i kartografske baze podataka različitih mjerila nisu formirane, do njihova formiranja izrada službenih državnih karata obuhvaća:
+1. topološku obradu podataka izvorne fotogrametrijske restitucije sukladno specifikaciji proizvoda za topografske podatke
+2. modelnu i kartografsku generalizaciju podataka Temeljne topografske baze sukladno projektnom zadatku
+3. tehničko izvješće
+4. postupke kontrole kvalitete
+5. pripremu za tisak
+6. službenu ovjeru karata
+7. prema potrebi tisak karata i
+8. pohranu i održavanje karata u digitalnom i analognom obliku.
+Članak 44.
+Upute i objašnjenja za primjenu ovoga Pravilnika daje Središnji ured Državne geodetske uprave.
+Članak 45.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o topografskoj izmjeri i izradbi državnih karata (»Narodne novine«, broj 109/08).
+Članak 46.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 930-01/14-01/10
+Urbroj: 541-02-02/1-16-27
+Zagreb, 5. srpnja 2016.
+Ravnatelj dr. sc. Danko Markovinović, v. r.

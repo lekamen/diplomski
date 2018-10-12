@@ -1,0 +1,35 @@
+i kontrolni svjetlosni signal.
+(14) Pomoćni kontrolni svjetlosni signal je za željeznička vozila koja se ne zaustavljaju ugašen i ne vrijedi.
+1.2.6 Uređaji s djelovanjem na vlak
+Autostop (AS)
+Članak 57.
+(1) Na željezničkim prugama u RH primjenjuje se induktivni AS I 60 uređaj s frekvencijama 2000, 1000 i 500 Hz. Pružni dio uređaja (AS baliza) mora djelovati na lokomotivski dio autostopa u sljedećim slučajevima:
+– 2000 Hz uvodi brzo kočenje vlaka. Aktivna je kada glavni signal zabranjuje daljnju vožnju ili je neosvjetljen ili signalizira »Oprezna vožnja brzinom do 20 km/h«
+– 1000 Hz zahtjeva od strojovođe određeno djelovanje: potvrdu budnosti i smanjenje brzine vlaka u određenom vremenu na unaprijed zadanu vrijednost prema kategoriji vlaka. Aktivna je kada glavni signali ili predsignali signaliziraju dopuštenu vožnju ograničenom brzinom odnosno predisignaliziraju signalni znak »stoj« na narednom glavnom signalu, predsignaliziraju dopuštenu vožnju ograničenom brzinom, te kada kontrolni signala signalizira »uređaj na željezničko-cestovnom prijelazu neispravan«
+– 500 Hz namijenjena je provjeri brzine vlaka na određenoj udaljenosti ispred glavnog signala kod kojeg je aktivna baliza 2000 Hz. Aktivna je također ako pokazivač brzine na glavnom signalu signalizira ograničenje od 10, 20 ili 30 km/h.
+(2) Pružni dio uređaja iz prethodne točke povezuje se s kolodvorskim ili pružnim SSU putem sklopa na glavnom signalu ili predsignalu. Neispravnost sklopa ne smije dovesti do isključenja djelovanja AS balize. Dopušteno je i direktno povezivanje s unutarnjim dijelom SSU pri čemu vrijede isti sigurnosni kriteriji.
+(3) Trajno aktivne balize koriste se i za osiguranje mjesta stalnih ili privremenih laganih vožnji, bilo samostalno ili u sastavu uređaja za kontrolu brzine te.
+(4) Pružne balize trebaju biti otporne na udare i vibracije prema normi HRN EN 50125-3 te trebaju udovoljavati zahtjevima za elektromagnetsku kompatibilnost sukladno normi HRN EN 50121-4. Izvještaji i certifikati koji dokazuju sukladnost trebaju biti izdani od neovisnih akreditiranih laboratorija.
+(5) Pružni dio autostop uređaja I 60 mora udovoljavati najmanje za sigurnosnu razinu SIL 0.
+1.2.7 Upravljačko sučelje prometnika (MMI)
+Članak 58.
+(1) ESSU šalje na upravljačko sučelje prometnika sve potrebne informacije o svom radu i trenutnom statusu. Informacije mogu biti predstavljene korištenjem vizualnih indikatora i zvučnih signala.
+(2) Ergonomija upravljačkog sučelja prometnika mora udovoljavati zahtjevima norme HRN EN ISO 9241.
+(3) Naredbe i javljanja na upravljačkom sučelju prometnika definira upravitelj infrastrukture u internim tehničkim specifikacijama.
+(4) Upravljačko sučelje prometnika mora udovoljavati zahtjevima sigurnosne razine najmanje 2 (SIL 2). Funkcije upravljačkog sučelja prometnika bitne za sigurnost, izdavanje naredbi koje imaju utjecaja na sigurnost i prikazivanje informacije bitnih za sigurnost moraju udovoljavati zahtjevima za SIL 4.
+(5) Prikaz informacija koje nisu bitne za sigurnost može biti izveden u sigurnosnoj razini SIL0.
+(6) Naredbe s utjecajem na sigurnost se moraju izvoditi u najmanje dva koraka.
+(7) Upravljačko sučelje prometnika mora biti osigurano od neovlaštenog pristupa.
+1.2.8 Dijagnostika i bilježenje ESSU
+Članak 59.
+(1) ESSU moraju sadržavati dijagnostički sustav i sustav za bilježenje (registrator događaja).
+(2) Dijagnostički sustav treba zadovoljavati sljedeće uvjete:
+– ne utječe na središnjih logičkih sklopova i podesiv za specifičnu namjenu
+– mora omogućiti korisniku efikasno praćenje stanja bilo kojeg elementa,
+– mora identificirati i bilježiti sve dijagnostičke događaje. Svi podaci moraju biti zaštićeni od brisanja i u slučaju ispada napajanja.
+– ne smije imati utjecaj na SSU, osim pri izvođenju naredbi koje su predviđene procedurama.
+(3) Sustav za bilježenje treba zadovoljavati sljedeće uvjete:
+– omogućavati naknadnu analizu događaja
+– omogućiti preuzimanje bilježenja,
+– ne smije imati utjecaj na SSU.
+(4) Dijagnostički sustav i

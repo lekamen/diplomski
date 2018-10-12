@@ -1,0 +1,42 @@
+ uređaje i opremu te njihov utjecaj na poslove održavanja.
+Organizacije i osobe za održavanje
+Članak 47.
+(1) Poslove održavanja istraživačkog, eksperimentalnog i znanstvenog zrakoplova može obavljati organizacija koja ga je izgradila, u opsegu radova za koji posjeduje stručnu osposobljenost, alat i opremu.
+(2) Specifične poslove održavanja istraživačkog, eksperimentalnog i znanstvenog zrakoplova (obnova motora ili propelera, kalibriranje instrumenata, ispitivanje bez razaranja i sl.) može obavljati odgovarajuće osposobljena pravna ili fizička osoba, koja posjeduje potreban alat i opremu i koju je odobrila ili prihvatila Agencija.
+(3) U slučaju potrebe da redovito održavanje istraživačkog, eksperimentalnog i znanstvenog zrakoplova obavlja organizacija koja ga nije izgradila ili fizička osoba, opseg tog održavanja podložan je odobrenju kroz odobrenje programa održavanja.
+Glava 7 IZMJENE ISTRAŽIVAČKIH, EKSPERIMENTALNIH I ZNANSTVENIH ZRAKOPLOVA
+Odobrenje izmjene istraživačkih, eksperimentalnih i znanstvenih zrakoplova
+Članak 48.
+(1) Za odobrenje izmjene istraživačkih, eksperimentalnih i znanstvenih zrakoplova operator podnosi zahtjev Agenciji.
+(2) Uz zahtjev je potrebno priložiti prijedlog projekta, program obavljanja radova, prijedlog specijalista ili organizacije koji će obaviti izmjenu te po potrebi program ispitivanja.
+(3) Dokumente u prilogu mora izraditi ili ovjeriti odobrena organizacija ili zrakoplovni stručnjak.
+Obavljanje izmjena zrakoplova
+Članak 49.
+Izmjene istraživačkih, eksperimentalnih i znanstvenih zrakoplova se moraju biti zabilježene u tehničkom dnevniku zrakoplova i koje su ovjerili zrakoplovni stručnjak i zrakoplovni kontrolor.
+Ispitivanje prema programu
+Članak 50.
+Nakon obavljanja izmjene, obavlja se ispitivanje, a po završetku ispitivanja Agenciji se podnosi izvješće sastavljeno na temelju ishoda ispitivanja. Ispitivanje mora biti obavljeno prema programu ispitivanja priloženom uz zahtjev za odobrenje izmjene.
+DIO ČETVRTI AMATERSKI GRAĐENI ZRAKOPLOVI
+Glava 1 OPĆE ODREDBE
+Primjena
+Članak 51.
+Ovim Dijelom propisuje se projektiranje, prihvaćanje, gradnja, izmjene, kontinuirana plovidbenost te održavanje i popravci amaterski građenih zrakoplova.
+Graditelj
+Članak 52.
+(1) Amaterski graditi zrakoplov mogu fizičke osobe ili neprofitna udruga amatera (u daljnjem tekstu: graditelj).
+(2) Ako je graditelj neprofitna udruga amatera, ona u odnosu prema Agenciji mora biti zastupana od strane ovlaštenog predstavnika koji mora biti prihvatljiv Agenciji.
+Glava 2 PROJEKTIRANJE AMATERSKI GRAĐENOG ZRAKOPLOVA
+Projekt
+Članak 53.
+(1) Amaterski se mogu graditi sve vrste zrakoplova najveće mase pri uzlijetanju manje od 2730 kg koji osim pilota mogu ponijeti još najviše 5 (pet) osoba.
+(2) Za amaterski građeni zrakoplov može se osim certificiranih i necertificiranih zrakoplovnih motora i opreme koristiti prilagođene ne-zrakoplovne motore i opremu. Iznimno od toga, Agencija može prihvatiti gradnju motora i opreme za upotrebu na zrakoplovu.
+Zahtjevi za plovidbenost
+Članak 54.
+(1) Popis prihvatljivih zahtjeva za plovidbenost sastavlja i na svojoj internetskoj stranici objavljuje Agencija.
+(2) Amaterski građen zrakoplov mora biti zadovoljavajuće čvrst, stabilan i upravljiv, u skladu sa zahtjevima za plovidbenost iz stavka 1. ovog članka, koji će omogućiti letenje bez ugrožavanja sigurnosti osoba i imovine u zraku i na zemlji.
+(3) Podnositelj zahtjeva Agenciji mora predložiti s kojima od zahtjeva za plovidbenost iz stavka 1. ovog članka će dokazati sukladnost.
+(4) U tijeku amaterske gradnje zrakoplova može se u taj zrakoplov ugraditi certificirani dio, uređaj i oprema bez obzira na to da li su oni novi ili već korišteni, te da li imaju propisanu potvrdu o otpuštanju u uporabu.
+(5) Osim certificiranih mogu se ugraditi i necertificirani zrakoplovni dijelovi, uređaji i oprema te druga oprema po potrebi prilagođena uporabi na zrakoplovu.
+Pretprojekt amaterski građenog zrakoplova
+Članak 55.
+(1) Pretprojekt za amatersku gradnju zrakoplova mora se 

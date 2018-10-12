@@ -1,0 +1,42 @@
+67 20.07.2016 Pravilnik o uvjetima i načinu pružanja aerodromskih letnih informacija
+MINISTARSTVO POMORSTVA, PROMETA I INFRASTRUKTURE
+1624
+Na temelju članka 142. točka 6. Zakona o zračnom prometu (»Narodne novine«, broj 69/09, 84/11, 54/13, 127/13 i 92/14) ministar pomorstva, prometa i infrastrukture donosi
+PRAVILNIK
+O UVJETIMA I NAČINU PRUŽANJA AERODROMSKIH LETNIH INFORMACIJA
+DIO PRVI OPĆE ODREDBE
+Područje primjene
+Članak 1.
+Ovim Pravilnikom propisuju se:
+a) uvjeti i način pružanja usluga aerodromskih letnih informacija
+b) kriteriji za određivanje aerodroma i pridruženog zračnog prostora u kojem se pružaju usluge aerodromskih letnih informacija
+c) uvjeti za izdavanje svjedodžbe pružatelja usluga aerodromskih letnih informacija
+d) uvjeti kojima mora udovoljavati osoblje koje pruža usluge aerodromskih letnih informacija i
+e) naknade za pružanje aerodromskih letnih informacija.
+Nadležno tijelo
+Članak 2.
+Tijelo nadležno za nadzor provedbe ovoga Pravilnika je Hrvatska agencija za civilno zrakoplovstvo (u daljnjem tekstu: Agencija) u okviru ovlasti propisanih Zakonom o zračnom prometu i ovim Pravilnikom.
+Pojmovi i kratice
+Članak 3.
+Pojmovi i kratice koji se upotrebljavaju u ovom Pravilniku imaju sljedeće značenje:
+1) AFIS aerodrom (AFIS aerodrome): nekontrolirani aerodrom na kojem je osigurano pružanje aerodromskih letnih informacija, te kontrolirani aerodrom na kojem je osigurano pružanje aerodromskih letnih informacija izvan radnog vremena nadležne aerodromske kontrole zračnog prometa
+2) usluga aerodromskih letnih informacija (Aerodrome flight information service; AFIS): pružanje letnih informacija koje su korisne za sigurno i učinkovito odvijanje aerodromskog prometa na AFIS aerodromima
+3) AFIS osoblje (AFISO): ovlašteno osoblje za pružanje aerodromskih letnih informacija
+4) zona aerodromskog prometa (aerodrome traffic zone; ATZ): zračni prostor određenih dimenzija utvrđen oko aerodroma radi zaštite aerodromskog prometa
+5) broj operacija: sve komercijalne operacije zrakoplova i nekomercijalne operacije generalne avijacije. Isključeni su letovi državnih zrakoplova, slijetanja sa produžavanjem (touch and goes), prelijetanje pri slijetanju (overshoots) i neuspjeli prilazi. Za potrebe aerodromskog prometa jedno polijetanje i jedno slijetanje broje se kao dvije operacije.
+DIO DRUGI UVJETI PRUŽANJA USLUGE
+Kriteriji za uvođenje usluge aerodromskih letnih informacija na nekontroliranom aerodromu
+Članak 4.
+(1) Operator nekontroliranog aerodroma može odlučiti uvesti uslugu pružanja aerodromskih letnih informacija (AFIS) na način utvrđen ovim Pravilnikom.
+(2) Ako broj operacija na određenom nekontroliranom aerodromu u najprometnijem mjesecu prethodne godine prelazi 1500 operacija, operator aerodroma dužan je uvesti uslugu pružanja aerodromskih letnih informacija (AFIS) ili napraviti sigurnosnu analizu kojom se utvrđuje osnovanost odstupanja od navedene obaveze.
+(3) O osnovanosti odstupanja iz stavka 2. ovoga članka odlučuje ministarstvo nadležno za civilni zračni promet (u daljnjem tekstu: Ministarstvo), uz prethodno mišljenje Agencije.
+Kriteriji za uvođenje usluge aerodromskih letnih informacija na kontroliranom aerodromu
+Članak 5.
+(1) Pružatelj usluga u zračnoj plovidbi koji na kontroliranom aerodromu umjesto operativnih usluga u zračnom prometu želi uvesti uslugu pružanja aerodromskih letnih informacija (AFIS) dužan je izraditi sigurnosnu analizu kojom se utvrđuje opravdanost uvođenja takve usluge.
+(2) O osnovanosti uvođenja usluge pružanja aerodromskih letnih informacija (AFIS) iz stavka 1. ovoga članka odlučuje Ministarstvo, uz prethodno mišljenje Agencije.
+Sigurnosna analiza
+Članak 6.
+U slučaju potrebe izrade sigurnosne analize sukladno člancima 4. i 5. ovoga Pravilnika, analiza mora biti izrađena u skladu sa zahtjevima EU propisa koji se odnosi na utvrđivanje zajedničkih zahtjeva za pružanje usluga u zračnoj plovidbi te minimalno sadržavati:
+a) identifikaciju opasnosti
+b) dosljednost dodjeljivanja klasa ozbiljnosti
+c) identifikaciju

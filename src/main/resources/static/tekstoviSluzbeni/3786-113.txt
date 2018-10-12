@@ -1,0 +1,25 @@
+ odgađanja obavijestiti nadležno tijelo matične države članice UCITS fonda.
+(8) Kada Agencija u postupku nadzora nad UCITS fondom iz Republike Hrvatske kojim upravlja društvo za upravljanje iz druge države članice utvrdi činjenice koje mogu bitno utjecati na sposobnost društva za upravljanje za uredno izvršavanje djelatnosti upravljanja UCITS fondom ili usklađenost s odredbama ovoga Zakona, o utvrđenom će bez odgađanja obavijestiti nadležno tijelo matične države članice društva za upravljanje.
+Prikupljanje i obrada informacija
+Članak 388.
+(1) Agencija je ovlaštena i odgovorna za prikupljanje i obradu informacija o činjenicama i okolnostima koje su važne za izvršavanje njezinih obveza i dužnosti određenih ovim Zakonom i Zakonom o Hrvatskoj agenciji za nadzor financijskih usluga.
+(2) Informacijama iz stavka 1. ovoga članka smatraju se osobito informacije o:
+1. odobrenjima za obavljanje poslova upravljanja UCITS fondovima i drugim odobrenjima koje Agencija izdaje na temelju odredaba ovoga Zakona
+2. članovima uprave i nadzornog odbora društva za upravljanje, njihovoj organizaciji i radu interne revizije
+3. podružnicama, odnosno izravnom obavljanju djelatnosti društva za upravljanje u drugim državama članicama i podružnicama, odnosno izravnom obavljanju djelatnosti društva za upravljanje iz druge države članice u Republici Hrvatskoj
+4. podružnicama društva za upravljanje u trećim državama
+5. podružnicama društava za upravljanje iz treće države u Republici Hrvatskoj
+6. financijskom položaju i poslovanju društva za upravljanje i drugih osoba nad kojima je Agencija ovlaštena obavljati nadzor
+7. imateljima kvalificiranog udjela
+8. nadzornim mjerama koje je Agencija izrekla na temelju odredaba ovoga Zakona i
+9. informacijama koje je saznala, u okviru razmjene informacija, od drugih nadzornih tijela Republike Hrvatske, druge države članice ili treće države.
+(3) Za dobivanje informacija iz registara i evidencija koje vode sudovi i drugi državni organi i tijela Agencija je oslobođena plaćanja pristojbi i naknada.
+Obveza čuvanja povjerljivih podataka
+Članak 389.
+(1) Radnici Agencije, revizori i druge stručne osobe koje rade ili su radile po ovlaštenju Agencije dužni su sve informacije u vezi sa subjektima nadzora koje su saznali tijekom rada za Agenciju čuvati kao povjerljive.
+(2) Obveza čuvanja povjerljivih podataka iz stavka 1. ovoga članka ne odnosi se na:
+1. dostavljanje povjerljivih podataka koji se priopćavaju za potrebe provođenja kaznenog postupka ili postupka koji mu prethodi, a to pisanim putem zatraži ili naloži nadležni sud, Ured za suzbijanje korupcije i organiziranog kriminaliteta, Državno odvjetništvo Republike Hrvatske, Ministarstvo unutarnjih poslova ako mu je to pisanim putem naložilo Državno odvjetništvo Republike Hrvatske, ili to pisanim putem zatraži ovlašteno tijelo iz druge države članice i
+2. dostavljanje povjerljivih podataka u slučajevima kad je nad subjektom nadzora pokrenut stečajni postupak ili je u tijeku postupak prisilne likvidacije.
+(3) Razmjena i dostavljanje podataka između Agencije i nadležnih tijela drugih država članica, ESMA-e i ESRB-a ne smatra se odavanjem povjerljivih podataka, a Agencija, nadležna tijela drugih država članica, ESMA i ESRB dužni su čuvati primljene podatke kao povjerljive te ih mogu upotrijebiti isključivo u svrhu za koju su dani. U obavijesti kojom se razmjenjuju ili dostavljaju podaci može se naznačiti da se podaci ne smiju objaviti bez izričitog odobrenja tijela koje daje podatke.
+(4) Agencija može dostavljati i razmjenjivati podatke s nadležnim tijelima trećih država radi obavljanja nadzora nad subjektima nadzora, na temelju sporazuma o suradnji, samo ako postoji obveza da se dostavljeni podaci čuvaju kao povjerljivi, koja obveza je najmanje ekvivalentna obvezi čuvanja povjerljivih podataka na način predviđen ovim člankom.
+(5) U slučaju dostave podatka koji potječe iz druge države članice Agencija ga može proslijediti samo uz izričitu suglasnost nadležnog tijela te države

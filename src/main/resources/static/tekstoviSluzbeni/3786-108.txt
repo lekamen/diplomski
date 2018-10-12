@@ -1,0 +1,25 @@
+dobrovoljnih mirovinskih fondova, pri čemu se odobrenje oduzima samo u odnosu na tu djelatnost
+6. ako Agencija ocijeni da se poslovanje društva za upravljanje ne vodi pažnjom dobrog stručnjaka i u skladu s dobrom poslovnom praksom
+7. ako je društvo za upravljanje teže i/ili sustavno kršilo odredbe ovoga Zakona, propise donesene na temelju ovoga Zakona ili druge propise kojih se dužno pridržavati
+8. ako društvo za upravljanje ne postupi u skladu s rješenjem kojim Agencija nalaže mjere za otklanjanje nezakonitosti i nepravilnosti iz članka 365. ovoga Zakona ili posebne nadzorne mjere iz članka 369. ovoga Zakona
+9. ako društvo za upravljanje ne postupi u skladu s rješenjem iz članka 377. stavka 5. ovoga Zakona
+10. ako društvo za upravljanje krši odredbe o pravovremenom i točnom izvješćivanju Agencije, više od dva puta u razdoblju od tri godine, ili ako na drugi način onemogućava nadzor Agencije nad svojim poslovanjem
+11. ako društvo za upravljanje obavlja poslove na način koji može pogoršati ili ugroziti njegovu likvidnost ili solventnost ili likvidnost fondova kojima upravlja
+12. ako društvo za upravljanje nije organiziralo poslovanje ili ne vodi svoje poslovne knjige ili poslovne knjige UCITS fondova kojima upravlja, ili administrativnu i drugu poslovnu dokumentaciju, na način koji u svakom trenutku omogućuje provjeru posluje li društvo za upravljanje u skladu s propisima i pravilima o upravljanju rizicima, upravlja li društvo za upravljanje UCITS fondovima u skladu s odredbama ovoga Zakona, zakona koji uređuje tržište kapitala i propisa koji su na temelju njih doneseni i drugih propisa kojih se dužno pridržavati
+13. ako društvo za upravljanje sustavno i/ili teško krši organizacijske, tehničke, kadrovske ili druge uvjete za poslovanje propisane člancima 48. do 66. ovoga Zakona ili pravilnicima koji te uvjete pobliže uređuju ili
+14. ako društvo za upravljanje učestalo ne postupa u skladu s odredbama ovoga Zakona kojima se propisuje obveza pružanja informacija ulagateljima.
+(2) U slučajevima iz stavka 1. točaka 6. do 14. ovoga članka Agencija može društvu za upravljanje oduzeti odobrenje za osnivanje i upravljanje svim ili pojedinim UCITS fondovima.
+(3) O oduzimanju odobrenja za rad Agencija će odmah obavijestiti depozitara UCITS fondova kojima društvo za upravljanje upravlja.
+(4) O tužbama protiv akata Agencije iz stavaka 1. i 2. ovoga članka nadležni upravni sud odlučit će hitno, a najkasnije u roku od šest mjeseci od dana podnošenje tužbe.
+POGLAVLJE IV. NADZOR DRUŠTAVA ZA UPRAVLJANJE IZ REPUBLIKE HRVATSKE KOJE OBAVLJA DJELATNOST U DRUGOJ DRŽAVI ČLANICI
+Članak 372.
+Ako društvo za upravljanje iz Republike Hrvatske obavlja djelatnosti na području druge države članice putem podružnice, Agencija može samostalno provesti izravnu provjeru podataka iz članka 387. ovoga Zakona ili za to ovlastiti treću osobu, nakon što prethodno obavijesti nadležno tijelo države članice domaćina društva za upravljanje.
+Mjere nad podružnicom u državi članici domaćinu društva za upravljanje
+Članak 373.
+Ako društvo za upravljanje iz Republike Hrvatske koje putem podružnice obavlja djelatnosti u drugoj državi članici, unatoč upozorenju nadležnog tijela države članice domaćina, njemu ne dostavi izvještaje ili informacije koje odgovaraju onima iz članka 381. stavaka 1. i 2. ovoga Zakona ili ne postupi po upozorenju nadležnog tijela države članice domaćina, Agencija će naložiti nadzorne mjere u skladu s odredbama ovoga Zakona i o poduzetim mjerama obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.
+Obavještavanje nadležnih tijela države članice domaćina društva za upravljanje
+Članak 374.
+Ako Agencija društvu za upravljanje iz Republike Hrvatske oduzme odobrenje za rad, odnosno izrekne nadzornu mjeru zabrane obavljanja pojedinih djelatnosti, dužna je o tome bez odgađanja obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.
+POGLAVLJE V. NADLEŽNOST AGENCIJE ZA NADZOR NAD DEPOZITAROM
+Članak 375.
+(1) Agencija je

@@ -1,0 +1,28 @@
+ korištenjem jedne od funkcionalosti unutar sustava eSpis.
+Funkcionalnosti iz stavka 1. ovoga članka su:
+1. slučajni odabir;
+2. slučajni odabir uz iznimku;
+3. odabir promjenom uloge.
+Članak 7.
+Slučajni odabir je način izbora obnašatelja dužnosti prilikom otvaranja predstečajnog postupka, prethodnog postupka i stečajnog postupka na način u kojem sud kroz algoritam sustava eSpis određuje obnašatelja dužnosti pokretanjem algoritma slučajnog odabira s liste A stečajnih upravitelja za područje nadležnog trgovačkog suda.
+Iznimno od stavka 1. ovoga članka u skraćenom stečajnom postupku i u slučajevima u kojima se otvoreni stečajni postupak ne provodi izbor se obavlja s liste A i liste B stečajnih upravitelja za područje nadležnog trgovačkog suda.
+Članak 8.
+Slučajni odabir uz iznimku je način izbora obnašatelja dužnosti prilikom otvaranja predstečajnog postupka, prethodnog postupka i stečajnog postupka na način u kojem sud kroz algoritam sustava eSpis određuje obnašatelja dužnosti pokretanjem algoritma slučajnog odabira s liste A stečajnih upravitelja za područje nadležnog trgovačkog suda izuzećem jedne ili više osoba s liste, odabirom određenih osoba s liste ili odabirom određene osobe s liste.
+U slučaju iz stavka 1. ovog članka obavezno će se unijeti u sustav eSpis razlog korištenja iznimke, a podaci o rješavatelju koji je koristio iznimku, broju obnašatelja dužnosti koji nisu izuzeti i razlozima korištenja iznimke bit će vidljivi na mrežnoj stranici e-Oglasna ploča sudova.
+Članak 9.
+Odabir promjenom uloge je izbor stečajnog upravitelja prilikom otvaranja stečajnog postupka na način u kojem sud u algoritmu sustava eSpis mijenja ulogu povjerenika iz predstečajnog postupka ili privremenog stečajnog upravitelja iz prethodnog postupka u ulogu stečajnog upravitelja.
+Članak 10.
+Dodjela predmeta obnašatelju dužnosti s liste A stečajnih upravitelja s područje nadležnog trgovačkog suda:
+1. algoritam automatski odabire sve osobe upisane na list A,
+2. između osoba iz točke 1. ovog stavka odabire se pet osoba s najmanjom radnom opterećenošću u trenutku izbora,
+3. svakoj od osoba iz točke 2. ovog stavka sustav automatski određuje konačnu vjerojatnost dodjele na temelju ukupne radne opterećenosti,
+4. osobi izabranoj s liste povećava se opterećenje u skladu s dodijeljenom težinom postupka.
+Članak 11.
+U skraćenom stečajnom postupku i u slučajevima u kojima se otvoreni stečajni postupak ne provodi dodjela postupka vrši se osobama s liste A i liste B stečajnih upravitelja za područje nadležnog trgovačkog suda.
+V. ZAVRŠNE ODREDBE
+Članak 12.
+Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu osmog dana od dana objave.
+Klasa: 011-01/15-01/122
+Urbroj: 514-01-15-01
+Zagreb, 23. rujna 2015.
+Ministar Orsat Miljenić, v. r.

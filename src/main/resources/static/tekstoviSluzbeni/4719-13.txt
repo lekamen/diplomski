@@ -1,0 +1,41 @@
+ udaljenosti i tvore nevidljivi krug čije je središte sjecište dijagonala pravokutnika. Polumjer kruga jednak je trećini visine stranice pravokutnika. Svaka zvijezda ima pet krakova koji su na obodu nevidljiva kruga čiji je polumjer jednak jednoj osamnaestini visine stranice pravokutnika. Sve su zvijezde uspravne, tj. jedan je krak okomit, a dva su kraka u vodoravnoj liniji pod pravim kutom na okomiti rub pravokutnika. Krug je uređen tako da su zvijezde raspoređene kao brojčanik na satu. Njihov je broj nepromjenljiv.
+PROPISANE BOJE
+Amblem je u sljedećim bojama:
+– PANTONE REFLEX BLUE za površinu pravokutnika,
+– PANTONE YELLOW za zvijezde.
+ČETVEROBOJNI POSTUPAK
+Ako se upotrebljava četverobojni postupak, napravite dvije standardne boje uporabom četiriju boja četverobojnog postupka.
+PANTONE YELLOW postiže se uporabom 100 % »Process Yellow«.
+PANTONE REFLEX BLUE postiže se miješanjem 100 % »Process Cyan« i 80 % »Process Magenta«.
+INTERNET
+PANTONE REFLEX BLUE na mrežnoj paleti odgovara boji RGB:0/51/153 (heksadecimalni zapis: 003399), a PANTONE YELLOW na mrežnoj paleti odgovara boji RGB: 255/204/0 (heksadecimalni zapis: FFCC00).
+JEDNOBOJNI REPRODUKCIJSKI POSTUPAK
+Ako upotrebljavate crnu boju, nacrtajte crni pravokutnik i otisnite crne zvijezde na bijeloj podlozi.
+
+Ako upotrebljavate plavu boju (Reflex Blue), za podlogu upotrijebite 100 % Reflex Blue, a zvijezde neka budu u negativ – bijeloj boji.
+
+REPRODUKCIJA NA PODLOZI U BOJI
+Ako ne postoji druga mogućnost osim pozadine u boji, pravokutnik neka ima bijeli obrub čija širina mora biti jednaka 1/25 visine pravokutnika.
+
+Za više informacija i upute vidjeti:
+http://ec.europa.eu/dgs/communication/services/visual_identity/pdf/use-emblem_en.pdf
+II.2. Upućivanje na Europsku uniju
+1. Naziv Europska unija uvijek je ispisan u svojem punom obliku. Tipografski oblici koji se mogu upotrebljavati uz amblem Unije jesu sljedeći: Arial, Auto, Calibri, Garamond, Trebuchet, Tahoma i Verdana. Upotreba kurziva, podcrtavanja i tematskih fontova nije dopuštena.
+2. Položaj teksta u odnosu na amblem Unije nije propisan, ali tekst se ne smije ni na koji način preklapati s amblemom Unije.
+3. Veličina fonta razmjerna je veličini amblema. Boja fonta jest plava »reflex blue«, crna ili bijela, ovisno o pozadini.
+II.3. Zastava Republike Hrvatske
+
+Upute za izradu amblema Unije i definicije standardnih boja zastave Republike Hrvatske mogu se pronaći u Zakonu o grbu, zastavi i himni Republike Hrvatske te zastavi i lenti predsjednika Republike Hrvatske (»Narodne novine«, broj 55/1990), a digitalni zapis na sljedećoj poveznici:
+http://www.sabor.hr/Default.aspx?art=41593&sec=4317
+II.4. Upućivanje na Europski fond za pomorstvo i ribarstvo
+Ako se na web-mjestu upućuje na Europski fond za pomorstvo i ribarstvo, upućivanje mora biti vidljivo unutar područja prikaza digitalnog uređaja bez potrebe pomicanja prozora prema dolje.
+II.5. Logotip Operativnog programa
+
+Detaljne smjernice za upotrebu vizualnih identiteta Operativnog programa za pomorstvo i ribarstvo republike Hrvatske za programsko razdoblje 2014. – 2020. Te grafičke norme i definicije standardnih boja nalaze se u Knjizi grafičkih standarda OP za pomorstvo i ribarstvo koja se može preuzeti na sljedećoj poveznici:
+http://www.mps.hr/ribarstvo/default.aspx?id=1687
+III. SMJERNICE ZA OZNAČAVANJE PREMA TIPU OPERACIJE
+III.1. Oprema
+Neovisno o iznosu javne potpore, korisnik je dužan opremu označiti naljepnicom i to na sljedeći način:
+Naljepnica treba biti istaknuta na vidljivom mjestu predmeta koje je nabavljeno u okviru sufinancirane operacije. Kako bi sadržaj naljepnice bio jasno vidljiv, veličina naljepnice ovisit će o veličini predmeta koje se označava. Također, naljepnica treba biti odgovarajuće kvalitete, po mogućnosti plastificirana, kako bi se osigurala njezina dugotrajnost.
+Prostorije koje su opremljene također trebaju biti adekvatno označene, pomoću naljepnice ili ploče/panoa.
+Navedene naljepnice/ploče/panoi moraju sadržavati osnovne elemente vidljivosti, tj.

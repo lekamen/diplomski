@@ -1,0 +1,33 @@
+91 21.08.2015 Pravilnik o sigurnosnim znakovima
+MINISTARSTVO RADA I MIROVINSKOGA SUSTAVA
+1765
+Na temelju članka 42. stavka 2. Zakona o zaštiti na radu (»Narodne novine«, broj 71/14, 118/14 i 154/14), ministar nadležan za rad donosi
+PRAVILNIK
+O SIGURNOSNIM ZNAKOVIMA
+DIO PRVI OPĆE ODREDBE
+Članak 1.
+(1) Ovim se Pravilnikom propisuju minimalni zahtjevi u vezi s uporabom sigurnosnih znakova (znakova sigurnosti).
+(2) U provedbi odredbi ovoga Pravilnika primjenjuje se hrvatska norma HRN EN ISO 7010 : 2013 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti (ISO 7010:2011; EN ISO 7010:2012) skupa sa sljedećim amandmanima:
+– HRN EN ISO 7010:2013/A1:2014 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti (ISO 7010:2011/Amd 1:2012; EN ISO 7010:2012/A1:2014)
+– HRN EN ISO 7010:2013/A2:2014 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti (ISO 7010:2011/Amd 2:2012; EN ISO 7010:2012/A2:2014)
+– HRN EN ISO 7010:2013/A3:2014 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti (ISO 7010:2011/Amd 3:2012; EN ISO 7010:2012/A3:2014)
+– HRN EN ISO 7010:2013/A4:2014 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti (ISO 7010:2011/Amd 4:2013; EN ISO 7010:2012/A4:2014)
+– HRN EN ISO 7010:2013/A5:2015 – Grafički simboli – Boje i znakovi sigurnosti – Registrirani znakovi sigurnosti – Amandman 5 (ISO 7010:2011/Amd 5:2014; EN ISO 7010:2012/A5:2015,
+te sigurnosni znakovi prikazani u Prilogu II. točka 3. odnosno Prilogu V. točka 1.3. ovoga Pravilnika
+(3) Odredbe ovoga Pravilnika se ne primjenjuju na znakove za stavljanje opasnih tvari i smjesa, proizvoda odnosno opreme na tržište, osim u slučajevima kada to nije uređeno posebnim propisom.
+(4) Odredbe ovoga Pravilnika se ne odnose na znakove za reguliranje cestovnog, željezničkog, morskog ili zračnog prijevoza.
+Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+Direktiva Vijeća 92/58/EEZ od 24. lipnja 1992. o minimalnim zahtjevima za postavljanje sigurnosnih znakova i/ili znakova za zaštitu zdravlja na radu (deveta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 245, 26. 8. 1992., p.23), kako je posljednji put izmijenjena Direktivom Europskog parlamenta i Vijeća 2014/27/EU od 26. veljače 2014. o izmjeni direktiva Vijeća 92/58/EEZ, 92/85/EEZ, 94/33/EZ, 98/24/EZ i Direktive 2004/37/EZ Europskog parlamenta i Vijeća kako bi se uskladile s Uredbom (EZ) br. 1272/2008 o razvrstavanju, označivanju i pakiranju tvari i smjesa (SL L 65, 5. 3. 2014). CELEX br. 31992L0058.
+Članak 3.
+Pojmovi koji se koriste u ovom Pravilniku imaju sljedeće značenje:
+a) »sigurnosni znak« je znak koji se odnosi na određeni objekt, djelatnost ili stanje, i daje informacije ili upute u vezi sigurnosti i zaštite zdravlja na radu putem natpisa, boje, svjetlosnog znaka, zvučnog signala, govorne komunikacije ili ručnog signala;
+b) »znak za zabranu« je znak koji zabranjuje postupanje (aktivnosti) koje bi moglo izazvati ili prouzročiti rizik;
+c) »znak upozorenja« je znak koji upozorava na opasnost;
+d) »znak za obvezno postupanje« je znak koji propisuje određeno postupanje;
+e) »znak za izlaz u slučaju nužde ili za prvu pomoć« je znak koji daje informacije o izlazima u slučaju nužde ili sredstvima i opremi za pružanje prve pomoći odnosno spašavanje;
+f) »znak obavijesti« je znak koji daje informacije različite od onih navedenih u točkama a) do e) ovoga članka;
+g) »natpis« je znak koji daje specifične informacije kombinacijom geometrijskog oblika, boja, simbola ili piktograma i koji je vidljiv ako ga se osvijetli svjetlošću određene jakosti;
+h) »dopunski natpis« je znak koji se upotrebljava u kombinaciji s jednim od znakova opisanim pod točkom g) ovoga članka i daje dopunske informacije;
+i) »sigurnosna boja« je boja koja ima točno određeno značenje;
+j) »simbol ili piktogram« je lik koji opisuje stanje ili propisuje određeno

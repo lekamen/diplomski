@@ -1,0 +1,21 @@
+ diverzifikacijskih učinaka, društvo za osiguranje može u svojem unutarnjem modelu uzeti u obzir ovisnosti unutar kategorija rizika i između njih, pod uvjetom da Agenciji dokaže primjerenost sustava koji se upotrebljava za mjerenje tih diverzifikacijskih učinaka.
+(7) Društvo za osiguranje može u svojem unutarnjem modelu u potpunosti uzeti u obzir učinak tehnika smanjenja rizika pod uvjetom da unutarnji model primjereno odražava kreditni rizik i druge rizike koji proizlaze iz uporabe tehnika smanjenja rizika.
+(8) Društvo za osiguranje dužno je u svojem unutarnjem modelu točno procijeniti posebne rizike povezane s financijskim garancijama i bilo kojim ugovornim opcijama ako su navedeni rizici značajni. Društvo za osiguranje dužno je u svojem unutarnjem modelu procijeniti rizike povezane s opcijama iz ugovora o osiguranju te ugovornim opcijama društva za osiguranje. U tu svrhu predmetno društvo uzima u obzir učinak koji buduće promjene financijskih i nefinancijskih uvjeta mogu imati na provedbu tih opcija.
+(9) Društvo za osiguranje može u svojem unutarnjem modelu uzeti u obzir buduće mjere uprave za koje je realno očekivati da će se provesti u posebnim okolnostima. U tom slučaju društvo za osiguranje uzima u obzir vrijeme koje je potrebno za provedbu takvih mjera.
+(10) Društvo za osiguranje u svojem unutarnjem modelu uzima u obzir sve isplate ugovarateljima i korisnicima osiguranja koje očekuje da će izvršiti bez obzira na to jesu li te isplate zajamčene ugovorom o osiguranju.
+Standardi kalibracije
+Članak 152.
+(1) Društvo za osiguranje može za potrebe oblikovanja unutarnjeg modela upotrijebiti drukčije razdoblje ili mjeru rizika od onih iz članka 131. stavka 3. ovoga Zakona pod uvjetom da potrebni solventni kapital izračunat upotrebom unutarnjeg modela ugovarateljima i korisnicima osiguranja pruža istovjetnu razinu zaštite onoj iz članka 131. ovoga Zakona.
+(2) Ako je moguće, društvo za osiguranje izračunava potrebni solventni kapital izravno iz prognoze distribucije vjerojatnosti koja je dobivena unutarnjim modelom predmetnog društva, pri čemu se upotrebljava mjera rizične vrijednosti iz članka 131. stavka 3. ovoga Zakona.
+(3) Kad društvo za osiguranje ne može izračunati potrebni solventni kapital izravno iz prognoze distribucije vjerojatnosti koja je dobivena unutarnjim modelom, Agencija može dopustiti da se u postupku izračuna potrebnog solventnog kapitala upotrijebe približne vrijednosti pod uvjetom da predmetno društvo može Agenciji dokazati da je ugovarateljima i korisnicima osiguranja osigurana razina zaštite istovjetna s onom iz članka 131. ovoga Zakona.
+(4) Agencija može zahtijevati da društvo za osiguranje primijeni svoj unutarnji model na relevantne referentne portfelje, pri čemu upotrebljava pretpostavke koje se ponajprije temelje na vanjskim a ne na unutarnjim podacima, kako bi provjerila kalibraciju unutarnjeg modela i jesu li njegove specifikacije u skladu s općeprihvaćenom tržišnom praksom.
+Raspodjela dobiti i gubitka
+Članak 153.
+(1) Društvo za osiguranje dužno je najmanje jedanput godišnje preispitati uzroke i izvore dobiti i gubitaka za svaku veću poslovnu jedinicu.
+(2) Društvo za osiguranje dužno je Agenciji predočiti kako kategorizacija rizika koja je odabrana u unutarnjem modelu objašnjava uzroke i izvore dobiti i gubitaka. Kategorizacija rizika i raspodjela dobiti i gubitaka moraju odražavati profil rizičnosti društva za osiguranje.
+Standardi validacije
+Članak 154.
+(1) Društvo za osiguranje dužno je redovito provoditi proces validacije modela koji uključuje praćenje učinkovitosti unutarnjeg modela, preispitivanje kontinuirane primjerenosti njegovih specifikacija i testiranje njegovih rezultata u odnosu na iskustvo.
+(2) Statističke metode koje se primjenjuju testiraju primjerenost prognoze distribucije vjerojatnosti ne samo u usporedbi s iskustvom gubitaka, već i s obzirom na sve značajne nove podatke i informacije koje su s njom povezane.
+(3) Postupak validacije modela mora uključivati:
+– analizu stabilnosti 

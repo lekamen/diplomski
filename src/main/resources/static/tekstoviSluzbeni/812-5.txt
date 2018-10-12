@@ -1,0 +1,22 @@
+ (baccalaureus) inženjer tehničke struke: strojarske ili elektrotehničke struke ako su tijekom cijelog studija stekle najmanje 180 ECTS bodova ili koje su prema ranijim obrazovnim programima stekle akademski ili stručni naziv inženjer tehničke struke: strojarske ili elektrotehničke struke, ili nastavnik praktične nastave odgovarajućeg smjera, a koje imaju položen stručni ispit iz zaštite na radu sukladno propisima iz područja osposobljavanja iz zaštite na radu, odnosno završile su odgovarajuće specijalističko usavršavanje iz područja zaštite na radu kod pravnih osoba registriranih za poslove obrazovanja odraslih na temelju odobrenja ministarstva nadležnog za obrazovanje, a koje imaju najmanje pet godina radnog iskustva u struci.
+(5) Tehnički opremljenim prostorom iz stavka 1. podstavka 2. ovog članka smatra se specijalizirana učionica za termotehničke sustave sa sljedećom opremom:
+1. ploča, računala, LCD projektor;
+2. kotao na kruto gorivo nazivnog toplinskog učina do 100 kW sa sigurnosno-odzračnom grupom, termičkom zaštitom, pumpom, termometrom, ručnim četveroputnim miješajućim ventilom, ekspanzijskom posudom, ventilima, cijevima, izolacijom, dimovodnom cijevi, izolacijom dimovodne cijevi;
+3. pirolitički kotao nazivnog toplinskog učina do 100 kW na cijepano drvo s akumulacijskim spremnikom, troputni termostatski ventil za zaštitu povratnog voda kotla s pumpom, sigurnosno-odzračnom grupom, termičkom zaštitom, ekspanzijskom posudom, odzračnim lončićem, ventilima, cijevima, izolacijom, dimovodnom cijevi, izolacijom dimovodne cijevi;
+4. kotao na drvene pelete nazivnog toplinskog učina do 100 kW sa spremnikom peleta, sa sigurnosno-odzračnom grupom, pumpom, termometrom, ekspanzijskom posudom, ventilima, cijevima, izolacijom, dimovodnom cijevi, izolacijom dimovodne cijevi;
+5. bakrene i čelične bešavne cijevi s toplinskom izolacijom, koljena, T-komadi, ventili, spojni materijal, set alata za rezanje i spajanje cijevi.
+Dodatna oprema, koja se preporučuje, ali nije uvjet: kotao na drvenu sječku nazivnog toplinskog učina do 100 kW sa spremnikom i sistemom dobave drvene sječke (mješač sječke, pužni transporter, sigurnosna klapna za sprječavanje povrata plamena, termički ventil), sigurnosno odzračnom grupom, ručnim četveroputnim miješajućim ventilom, pumpom, termometrom, ekspanzijskom posudom, ventilima, cijevima, izolacijom, dimovodnom cijevi, izolacijom dimovodne cijevi.
+Zahtjev za izdavanje suglasnosti
+Članak 23.
+(1) Zahtjev za izdavanje suglasnosti za provođenje Programa osposobljavanja podnosi se Ministarstvu na temelju javno objavljenog poziva.
+(2) Zahtjevu iz stavka 1. ovoga članka prilažu se:
+1. Izvadak iz sudskog registra u izvorniku ili javnobilježnički ovjerena preslika izvoda iz sudskog registra, ne starije od 6 mjeseci;
+2. preslike diploma odnosno svjedodžbi stručnih osoba koje će provoditi Program izobrazbe i stručno usavršavanje;
+3. životopisi stručnih osoba koje će provoditi Program izobrazbe i stručno usavršavanje;
+4. preslika potvrde Hrvatskog zavoda za mirovinsko osiguranje o radno-pravnom statusu i stažu ili elektronski zapis o radno-pravnom statusu (elektronički zapis o podacima evidentiranim u matičnoj evidenciji HZMO) stručnih osoba koje će provoditi Program izobrazbe;
+5. detaljno razrađeni Program izobrazbe s planiranom satnicom prema Prilogu 1. ovoga Pravilnika;
+6. sadržaj i način provođenja provjere znanja polaznika Programa osposobljavanja;
+7. dokaz o vlasništvu, najmu ili pravu korištenja potrebnog prostora za provođenje Programa osposobljavanja;
+8. javnobilježnički ovjerena izjava o stručnim i administrativnim osobama zaposlenim u punom radnom vremenu na neodređeno vrijeme;
+9. javnobilježnički ovjerena izjava da pravna osoba raspolaže tehnički opremljenim prostorom za provođenje Programa osposobljavanja u skladu s člankom 22. stavkom 5. ovoga Pravilnika;
+10. javnobilježnički ovjerena izjava da se protiv pravne osobe i odgovorne osobe u pravnoj osobi ne vodi kazneni postupak zbog kaznenog djela koje se progoni 

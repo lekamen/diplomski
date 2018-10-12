@@ -1,0 +1,20 @@
+ uvjetom da je imatelj DCA-a povezan s platformom sustava T2S preko pružatelja mrežnih usluga sustavu T2S.
+Članak 10.
+Suradnja i razmjena informacija
+1. U ispunjavanju svojih obveza i ostvarivanju svojih prava iz ove Odluke Hrvatska narodna banka i imatelji DCA-a blisko surađuju radi osiguravanja stabilnosti, solidnosti i sigurnosti sustava TARGET2-HR. Hrvatska narodna banka i imatelji DCA-a međusobno razmjenjuju sve informacije i dokumente relevantne za ispunjavanje njihovih obveza i ostvarivanje njihovih prava iz ove Odluke ne dovodeći u pitanje obvezu čuvanja bankovne tajne.
+2. Hrvatska narodna banka uspostavlja i održava podršku sustava radi pomoći imateljima DCA-a u vezi s poteškoćama koje proizlaze iz rada sustava.
+3. Najnovije informacije o operativnom stanju platforme sustava TARGET2 i platforme sustava T2S dostupne su u informacijskom sustavu TARGET2 (T2IS) odnosno informacijskom sustavu TARGET2-Securities. T2IS i informacijski sustav TARGET2-Securities mogu se koristiti za dobivanja informacija o svakom događaju koji utječe na redovan rad odnosne platforme.
+4. Hrvatska narodna banka može dostaviti poruke imateljima DCA-a ili preko poruke dostupne svim sudionicima ili preko bilo kojeg drugog komunikacijskog sredstva. Imatelji DCA- a mogu prikupljati informacije preko ICM-a, ako imaju i PM račun, a inače preko T2S GUI.
+5. Imatelji DCA-a odgovorni su za pravodobno ažuriranje postojećih obrazaca za prikupljanje statičnih podataka i dostavljanje novih obrazaca za prikupljanje statičnih podataka Hrvatskoj narodnoj banci. Imatelji DCA-a odgovorni su za provjeru točnosti informacija u vezi s njima koje je u sustav TARGET2-HR unijela Hrvatska narodna banka.
+6. Hrvatska narodna banka je ovlaštena dostaviti nacionalnim središnjim bankama pružateljima SSP-a ili četirima središnjim bankama sve informacije u vezi s imateljima DCA-a koje im mogu zatrebati kao administratorima usluga, u skladu s ugovorom sklopljenim s pružateljem mrežnih usluga sustavu TARGET2 i/ili pružateljem mrežnih usluga sustavu T2S.
+7. Imatelji DCA-a obavješćuju Hrvatsku narodnu banku o svim promjenama svoje sposobnosti i relevantnim zakonodavnim promjenama koje utječu na pitanja obuhvaćena mišljenjem o državi koja se odnose na njih.
+8. Imatelji DCA-a obavješćuju Hrvatsku narodnu banku o:
+(a) svakom novom imatelju računa vrijednosnih papira povezanog s DCA-om iz članka 8. stavka 1. ove Odluke kojeg su prihvatili i
+(b) svakoj promjeni povezanoj s imateljima računa vrijednosnih papira navedenima u točki (a) ovog stavka.
+9. Imatelji DCA-a odmah obavješćuju Hrvatsku narodnu banku ako nastupi slučaj neispunjavanja obveza koji se odnosi na njih.
+Članak 11.
+Određivanje glavnog PM računa, privremeno i trajno isključenje imatelja glavnog PM računa
+1. Imatelj DCA-a određuje glavni PM račun s kojim je DCA povezan. Glavni PM račun može se držati u komponenti sustava TARGET2 različitoj od TARGET2-HR i može pripadati pravnom subjektu različitom od imatelja DCA-a.
+2. Sudionik koji se koristi internetskim pristupom ne može biti određen kao imatelj glavnog PM računa.
+3. Ako su imatelj glavnog PM računa i imatelj DCA-a različiti pravni subjekti, a imatelj određenog glavnog PM računa privremeno je ili trajno isključen iz sudjelovanja, Hrvatska narodna banka i imatelj DCA-a poduzimaju sve razumne i provedive mjere radi ublažavanja štete. Imatelj DCA-a, bez nepotrebnog odgađanja, poduzima sve potrebne mjere radi određivanja novog glavnog PM računa koji će biti terećen za sve nepodmirene fakture. Počevši od dana privremenog ili trajnog isključenja imatelja glavnog PM računa sve dok novi imatelj glavnog PM računa nije određen, sva sredstva preostala na DCA-u na kraju dana prenose se na račun Hrvatske narodne banke. Na ova sredstva primjenjivat će se remuneracija po stopi iz članka 13. stavka 3. Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR.
+4. Hrvatska narodna banka nije odgovorna za bilo koju štetu imatelja DCA-a koja nastane kao posljedica

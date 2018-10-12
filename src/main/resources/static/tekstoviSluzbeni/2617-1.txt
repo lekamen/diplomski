@@ -1,0 +1,34 @@
+ osnovice za obračun obvezne pričuve sastoji se od izvora sredstava u stranim valutama, i to:
+– redovnih deviznih računa,
+– posebnih deviznih računa pravnih osoba, deviznih računa i deviznih štednih uloga po viđenju stanovništva,
+– obveza po izdanim vrijednosnim papirima u devizama,
+– primljenih oročenih deviznih depozita,
+– primljenih deviznih kredita,
+– financijskih obveza u devizama koje se drže radi trgovanja (obveze isporuke vrijednosnih papira),
+– hibridnih i podređenih instrumenata u devizama i
+– obveza po ostalim osnovama u devizama.
+16. Banke ne obračunavaju obveznu pričuvu:
+– na sredstva primljena od Hrvatske narodne banke,
+– na sredstva primljena od banaka koje obračunavaju obveznu pričuvu u smislu Odluke,
+– na sredstva depozita primljena na ime pomoći područjima stradalima od elementarnih nepogoda, uključujući i sredstva solidarnosti za otklanjanje posljedica ratnih razaranja,
+– na sredstva primljena od Hrvatske banke za obnovu i razvitak ni
+– na sredstva primljena od sljedećih multilateralnih razvojnih banaka:
+– Međunarodne banke za obnovu i razvoj,
+– Međunarodne financijske korporacije,
+– Razvojne banke Vijeća Europe,
+– Europske banke za obnovu i razvoj i
+– Europske investicijske banke.
+Obračun obvezne pričuve
+17. Kunski odnosno devizni dio osnovice za obračun obvezne pričuve izračunava se zasebno, a čini ga prosječno dnevno stanje kunskih odnosno deviznih izvora sredstava u smislu točaka 14. i 15. ove Upute u jednom obračunskom razdoblju.
+18. Tražene podatke o stanjima sredstava koja ulaze u kunski dio osnovice za obračun obvezne pričuve banke izračunavaju na osnovi vlastitih knjigovodstvenih podataka o dnevnom stanju izvora sredstava u kunama i u kunama s valutnom klauzulom definiranih u točki 14. ove Upute.
+Dnevna stanja izvora sredstava u kunama s valutnom klauzulom iskazuju se u kunama primjenom srednjih tečajeva Hrvatske narodne banke koji vrijede za pojedini dan.
+19. Tražene podatke o stanjima sredstava koja ulaze u devizni dio osnovice za obračun obvezne pričuve banke izračunavaju na osnovi vlastitih knjigovodstvenih podataka o dnevnom stanju izvora sredstava u stranim valutama definiranih u točki 15. ove Upute, u originalnim valutama. Tako izračunata dnevna stanja deviznog dijela obračunske osnovice iskazuju se u kunama primjenom srednjih tečajeva Hrvatske narodne banke koji vrijede za pojedini dan.
+20. Kunski dio obvezne pričuve izračunava se tako da se iznos obračunat primjenom propisane stope iz točke VI. Odluke na kunski dio osnovice uveća za iznos deviznog dijela obvezne pričuve koji se izvršava u kunama, a koji se izračunava primjenom propisanog postotka iz točke VII. stavka 2. Odluke na obračunati devizni dio obvezne pričuve.
+21. Devizni dio obvezne pričuve izračunava se tako da se iznos obračunat primjenom propisane stope iz točke VI. Odluke na devizni dio osnovice umanji za iznos izračunat primjenom propisanog postotka iz točke VII. stavka 2. Odluke na obračunati devizni dio obvezne pričuve.
+Izdvajanje obvezne pričuve
+22. Od obvezne pričuve, obračunate u smislu Odluke, banke su obvezne određeni postotak izdvojiti na račune Hrvatske narodne banke, u skladu s točkama IX. i X. Odluke.
+Izdvajanje kunskog dijela obvezne pričuve
+23. Postotak izdvajanja kunskog dijela obvezne pričuve određen je točkom X. stavkom 1. Odluke.
+24. Kunski dio obvezne pričuve izdvaja se kod Hrvatske narodne banke prenošenjem tih sredstava na račun izdvojene obvezne pričuve što ga vodi Hrvatska narodna banka.
+25. Valuta namire kunskog dijela obvezne pričuve jednaka je danu obračuna obvezne pričuve.
+26. Ako je kunski dio obvezne pričuve izdvojen u prethodnom obračunskom razdoblju veći od kunskog dijela obvezne pričuve obračunate za izdvajanje u tekućem razdoblju, Hrvatska narodna banka vratit će banci razliku između tih dvaju iznosa. U protivnom banka će na račun izdvojene obvezne pričuve uplatiti razliku između kunskog dijela obvezne pričuve izdvojenog u prethodnom razdoblju i obračunatoga kunskog dijela obvezne pričuve za

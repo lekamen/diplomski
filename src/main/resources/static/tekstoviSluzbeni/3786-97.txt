@@ -1,0 +1,29 @@
+
+Članak 325.
+(1) U skladu s člankom 322. stavkom 2. točkom 1. ovoga Zakona smatra se da je napajajući UCITS fond ostao napajajući fond istog glavnog UCITS fonda kada:
+a) je u predloženoj statusnoj promjeni glavni UCITS fond istodobno i fond preuzimatelj ili
+b) glavni UCITS fond i dalje postoji bez bitnih izmjena kao jedan od fondova koji su nastali statusnom promjenom.
+(2) U skladu s člankom 322. stavkom 2. točkom 2. ovoga Zakona smatra se da je napajajući UCITS fond postao napajajući UCITS fond novog glavnog UCITS fonda koji nastaje statusnom promjenom kada:
+a) je glavni UCITS fond istodobno i fond prenositelj, a napajajući UCITS fond, zbog statusne promjene, postaje ulagatelj fonda preuzimatelja ili
+b) napajajući UCITS fond postane ulagatelj u fondu koji je nastao statusnom promjenom, a koji se bitno razlikuje od glavnog UCITS fonda.
+Članak 326.
+(1) Statusna promjena glavnog UCITS fonda ne smije se provesti prije isteka roka od 60 dana od dana kada je društvo za upravljanje glavnim UCITS fondom, u skladu s člankom 271. ovoga Zakona, obavijestilo ulagatelje glavnog UCITS fonda i nadležna tijela matičnih država članica napajajućih UCITS fondova o namjeri provođenja statusne promjene.
+(2) Osim u slučaju kada Agencija izda odobrenje u skladu s člankom 322. stavkom 2. točkama 1. i 2. ovoga Zakona, glavni UCITS fond je dužan, sve do provođenja statusne promjene, na zahtjev napajajućeg UCITS fonda otkupiti svoje udjele.
+Podjela glavnog UCITS fonda iz druge države članice
+Članak 327.
+Pri podjeli glavnog UCITS fonda iz druge države članice na dva ili više UCITS fondova, na napajajući UCITS fond primjenjuju se odredbe članaka 322. do 326. ovoga Zakona.
+Članak 328.
+(1) Ako glavni UCITS fond privremeno obustavi izdavanje i/ili otkup svojih udjela, bilo na vlastitu inicijativu bilo na zahtjev nadležnih tijela, svaki od njegovih napajajućih UCITS fondova ima pravo privremeno obustaviti izdavanje i/ili otkup svojih udjela na isto vremensko razdoblje kao i glavni UCITS fond.
+(2) Na obustavu izdavanja i/ili otkupa udjela u napajajućem UCITS fondu na odgovarajući način se primjenjuju odredbe dijela sedmoga poglavlja 3. ovoga Zakona.
+POGLAVLJE VIII. ULAGANJE IMOVINE NAPAJAJUĆEG UCITS FONDA U GLAVNI UCITS FOND IZ DRUGE DRŽAVE ČLANICE
+Primjena odredaba ovoga Zakona o ulaganju imovine napajajućeg UCITS fonda u glavni UCITS fond iz druge države članice
+Članak 329.
+(1) Ako ovim poglavljem Zakona nije određeno drugačije, na ulaganje imovine napajajućeg UCITS fonda u glavni UCITS fond iz druge države članice na odgovarajući se način primjenjuju odredbe ovoga Zakona koje uređuju ulaganje imovine napajajućeg UCITS fonda u glavni UCITS fond osnovan na temelju odredaba ovoga Zakona.
+(2) Društvo za upravljanje napajajućim UCITS fondom iz stavka 1. ovoga članka dužno je Agenciji dostaviti prospekt, ključne podatke za ulagatelje te godišnje i polugodišnje izvještaje glavnog UCITS fonda, kao i sve izmjene predmetnih dokumenata.
+Dostava obavijesti o nadzornim mjerama
+Članak 330.
+Agencija je dužna obavijestiti društvo za upravljanje napajajućim UCITS fondom o svakoj obavijesti koju je zaprimila od nadležnog tijela matične države članice glavnog UCITS fonda koja se odnosi na uočene nepravilnosti u poslovanju glavnog UCITS fonda, izricanje nadzornih mjera glavnom UCITS fondu ili informacije koje je to tijelo zaprimilo u skladu s člankom 106. stavkom 1. Direktive 2009/65/EZ vezane za glavni UCITS fond, ili kada je primjenjivo za njegovo društvo za upravljanje, depozitara ili revizora.
+POGLAVLJE IX. ULAGANJE IMOVINE NAPAJAJUĆEG UCITS FONDA IZ DRUGE DRŽAVE ČLANICE U GLAVNI UCITS FOND OSNOVAN NA TEMELJU ODREDABA OVOGA ZAKONA
+Primjena odredaba ovoga Zakona o ulaganju imovine napajajućeg UCITS fonda iz druge države članice u glavni UCITS fond
+Članak 331.
+Na glavni UCITS fond u koji je uložena imovina napajajućeg UCITS fonda iz druge države članice, na odgovarajući se način, primjenjuju odredbe ovoga Zakona koje uređuju poslovanje glavnog UCITS fonda u koji je uložena 

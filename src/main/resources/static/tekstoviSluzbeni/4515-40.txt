@@ -1,0 +1,56 @@
+ najviše dvije prikolice uz uvjet da su na prikolicama kočeni svi kotači.
+(6) Prikolica ne mora imati radnu kočnicu, pod uvjetom da joj:
+– najveća brzina ne prelazi 40 km/h
+– najveća dopuštena masa ne prelazi 3,50 t
+– masa vučnog traktora je dva puta veća od zbroja mase prikolice i mase tereta koji trenutno prevozi.
+3. Uređaji za osvjetljavanje i svjetlosnu signalizaciju
+Članak 145.
+(1) Uređaji za osvjetljavanje i svjetlosnu signalizaciju na vozilima kategorije T i R moraju biti odobreni, te ugrađeni sukladno Direktivi 78/933/EEC.
+(2) Vozila za čije uređaje za osvjetljavanje i svjetlosnu signalizaciju nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 146.
+(1) Uređaji za osvjetljavanje i svjetlosnu signalizaciju na traktorima i prikolicama, sukladno ovom Pravilniku su:
+1) dugo glavno svjetlo
+2) kratko glavno svjetlo
+3) prednje svjetla za maglu
+4) svjetlo za vožnju unatrag
+5) pokazivači smjera
+6) upozoravajući signal opasnosti
+7) kočno svjetlo
+8) svjetlo stražnje registracijske pločice
+9) prednje pozicijsko svjetlo
+10) stražnje pozicijsko svjetlo
+11) stražnje svjetlo za maglu
+12) parkirno svjetlo
+13) gabaritno svjetlo
+14) stražnji netrokutasti katadiopter
+15) stražnji trokutasti katadiopter
+16) prednji netrokutasti katadiopter
+17) svjetla za osvjetljavanje mjesta na kojem se izvode radovi
+18) pokretno svjetlo
+19) uređaji za davanje posebnih svjetlosnih znakova
+20) dodatna svjetla za osvjetljavanje ceste
+21) ostale retroreflektirajuće ploče i odsjevni signali i sl.
+(2) Na traktorima i prikolicama, osim uređaja iz stavka 1. ovoga članka, iznimno se mogu postaviti bočni netrokutasti katadiopteri, bočna svjetla za označavanje, dnevno svjetlo, svjetlo za skretanje, retroreflektirajuće trake za označavanje konture vozila i ostali uređaji za osvjetljavanje i svjetlosnu signalizaciju u skladu sa homologacijskim zahtjevima za ugradnju pojedinih uređaja.
+Članak 147.
+Uređaji za osvjetljavanje ceste smiju emitirati sljedeće boje svjetlosti:
+Grupa uređaja Naziv sklopa Boja svjetla Uređaji za osvjetljavanje ceste Dugo svjetlo bijela Kratko svjetlo bijela Prednja svjetla za maglu bijela ili žuta Svjetlo za vožnju unatrag bijela Svjetla za osvjetljavanje mjesta na kojem se izvode radovi bijela ili žuta Pokretno svjetlo (reflektor) bijela ili žuta Dodatna svjetla za osvjetljavanje ceste bijela ili žuta Uređaji za označivanje vozila Prednja pozicijska svjetla bijela Stražnja pozicijska svjetla crvena Stražnje svjetlo za maglu crvena Parkirna svjetla bijela sprijeda, crvena straga, jantarna ako su povezana sa pokazivačima smjera Svjetlo registracijske pločice bijela Rotacijska i treptava svjetla jantarna Gabaritna svjetla bijela sprijeda, crvena straga Prednji netrokutasti katadiopter – bijela bijela Stražnji netrokutasti katadiopter crvena Stražnji trokutasti katadiopter crvena Uređaji za davanje svjetlosnih znakova Kočna svjetla crvena Pokazivači smjera jantarna Uređaji za istodobno uključivanje svih pokazivača smjera jantarna
+Članak 148.
+(1) Vozila kategorije T moraju biti opremljena sljedećim uređajima za osvjetljavanje i svjetlosnu signalizaciju:
+1) kratkim glavnim svjetlima
+2) prednjim pozicijskim svjetlima
+3) stražnjim pozicijskim svjetlima
+4) svjetlom stražnje registracijske pločice
+5) kočnim svjetlima
+6) pokazivačima smjera
+7) stražnjim netrokutastim katadiopterima
+(2) Vozila kategorije R moraju biti opremljena sljedećim uređajima za osvjetljavanje i svjetlosnu signalizaciju:
+1) prednjim pozicijskim svjetlima
+2) stražnjim pozicijskim svjetlima
+3) svjetlom stražnje registracijske pločice
+4) kočnim svjetlima
+5) pokazivačima smjera
+6) stražnjim trokutastim katadiopterima
+Članak 149.
+Na uređaje za osvjetljavanje i svjetlosnu signalizaciju na vozilima kategorije T i R, odgovarajuće se primjenjuju odredbe za uređaje za osvjetljavanje i svjetlosnu signalizaciju vozila kategorije M, N i O propisane ovim Pravilnikom.
+Članak 150.
+(1) 

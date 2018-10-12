@@ -1,0 +1,34 @@
+
+Broj: 511-01-152-691/6-2016.
+Zagreb, 7. travnja 2016.
+Ministar Vlaho Orepić, v. r.
+PRILOG I
+KRITERIJI ODREĐIVANJA KLASIFIKACIJE SKUPINA OPREME U KATEGORIJE
+1. OPREMA SKUPINE I
+a) Opremu kategorije M1 čini oprema izrađena i po potrebi opremljena dodatnim posebnim sredstvima zaštite, sposobna funkcionirati prema radnim parametrima što ih je utvrdio proizvođač, osiguravajući vrlo visoku razinu zaštite.
+Oprema ove kategorije namijenjena je uporabi u podzemnim dijelovima rudnika, kao i onim dijelovima vanjskih instalacija tih rudnika ugroženih metanom i/ili zapaljivom prašinom.
+Za opremu u ovoj kategoriji zahtijeva se da ostane upotrebljiva i u slučaju izuzetnih kvarova opreme, uz prisutnost eksplozivne atmosfere i da su joj svojstvena sredstva zaštite kao što su:
+– da u slučaju kvara jednog sredstva zaštite barem jedno drugo nezavisno sredstvo osigurava traženu razinu zaštite,
+– ili je osigurana tražena razina zaštite i u slučaju dvaju kvarova nastalih nezavisno jedan o drugome.
+Oprema u ovoj kategoriji mora udovoljavati dodatnim zahtjevima navedenim u točki 2.0.1. Priloga II.
+b) Opremu kategorije M2 čini oprema izrađena tako da može funkcionirati prema radnim parametrima što ih je utvrdio proizvođač osiguravajući visoku razinu zaštite.
+Oprema u ovoj kategoriji je namijenjena za uporabu u podzemnim dijelovima rudnika kao i onim dijelovima površinskih instalacija tih rudnika koji bi mogli biti ugroženi metanom i/ili zapaljivom prašinom.
+U slučaju pojave eksplozivne atmosfere ovoj opremi mora biti moguće isklopiti napajanje.
+Sredstva zaštite koja se odnose na opremu ove kategorije osiguravaju potrebnu razinu zaštite za vrijeme normalnog rada, a također i u slučaju otežanih radnih uvjeta, a posebno pri grubom rukovanju i promjeni uvjeta rada.
+Oprema u ovoj kategoriji mora udovoljavati dodatnim zahtjevima navedenim u točki 2.0.2. Priloga II.
+2. OPREMA SKUPINE II
+a) Opremu kategorije 1 čini oprema izrađena tako da može funkcionirati u skladu s radnim parametrima što ih je utvrdio proizvođač osiguravajući vrlo visoku razinu zaštite.
+Oprema ove kategorije namijenjena je uporabi u prostorima u kojima je eksplozivna atmosfera, uzrokovana smjesom zraka i plinova, para ili maglica, ili smjesom zraka i prašine, trajno prisutna ili je prisutna duže vrijeme ili se često pojavljuje.
+Oprema ove kategorije mora osiguravati traženu razinu zaštite i za slučaj izuzetnih kvarova i pritom su joj svojstvena sredstva zaštite kao što su:
+– da u slučaju kvara jednog sredstva zaštite barem jedno drugo nezavisno sredstvo osigurava traženu razinu zaštite,
+– ili je osigurana tražena razina zaštite i u slučaju dvaju kvarova nastalih nezavisno jedan o drugome.
+Oprema ove kategorije mora udovoljavati dodatnim zahtjevima navedenim u točki 2.1. Priloga II.
+b) Opremu kategorije 2 čini oprema izrađena tako da može funkcionirati prema radnim parametrima što ih je utvrdio proizvođač osiguravajući visoku razinu zaštite.
+Oprema ove kategorije je namijenjena uporabi u prostorima u kojima se povremeno može pojaviti eksplozivna atmosfera uzrokovana plinovima, parama, maglicama ili smjesama zraka i prašine.
+Zaštitna sredstva koja se odnose na ovu opremu, ove kategorije osiguravaju traženu razinu zaštite i uz pojavu često nastale smetnje ili kvara opreme koji normalno moraju biti uzeti u obzir.
+Oprema ove kategorije mora udovoljavati dodatnim zahtjevima navedenim u točki 2.2. Priloga II.
+c) Opremu kategorije 3 čini oprema izrađena tako da može funkcionirati prema radnim parametrima što ih je utvrdio proizvođač osiguravajući normalnu razinu zaštite.
+Oprema ove kategorije namijenjena je uporabi u prostorima u kojima se ne očekuje pojava eksplozivne atmosfere, uzrokovane plinovima, parama, maglicama ili smjesama zraka i prašine, ili se može pojaviti rijetko, a kada se pojavi, kratko traje.
+Oprema ove kategorije osigurava traženu razinu zaštite za vrijeme normalnog rada.
+Oprema ove kategorije mora udovoljavati dodatnim zahtjevima navedenim u točki 2.3. Priloga II.
+PRILOG II

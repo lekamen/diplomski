@@ -1,0 +1,21 @@
+ zatražen prijenos, smanjenje, pretvaranje ili je poduzeta druga radnja, isto će se obustaviti.
+Isključenje određenih ugovornih uvjeta pri sanaciji
+Članak 89.
+(1) U odnosu na ugovorne obveze institucije nad kojom je primijenjena mjera za sprečavanje krize ili mjera za upravljanje krizom u skladu s ovim Zakonom, primjena tih mjera uključujući i nastup svakog događaja izravno povezanog s primjenom tih mjera, ne smatra se samo po sebi pretpostavkom za ostvarenje instrumenta financijskog osiguranja u skladu s propisima kojima se uređuje financijsko osiguranje ili stečajnim razlogom u skladu s propisima kojima se uređuje stečajni postupak, pod uvjetom da se te ugovorne obveze i nadalje u značajnoj mjeri izvršavaju, uključujući plaćanja odnosno isporuku, stjecanje, korištenje i raspolaganje instrumentom financijskog osiguranja.
+(2) Stavak 1. ovoga članka primjenjuje se i na ugovore koje je zaključilo:
+a) društvo kćer institucije iz stavka 1. ovoga članka, ako za ugovorne obveze jamči ili ih na drugi način osigurava ta institucija ili bilo koja članica grupe
+b) bilo koja članica grupe kojoj pripada institucija iz stavka 1. ovoga članka, ako ugovor uključuje odredbe o unakrsnom statusu neispunjenja obveza (engl. cross-default provisions).
+(3) Ako se sanacijski postupci trećih zemalja priznaju u skladu s člankom 101. ovoga Zakona odnosno kada sanacijsko tijelo u Republici Hrvatskoj donese takvu odluku, taj postupak smatrat će se mjerom za upravljanje krizom u skladu s ovim člankom.
+(4) Ako se i nadalje u značajnoj mjeri izvršavaju ugovorne obveze, odnosno isporuka, stjecanje, korištenje i raspolaganje instrumentom financijskog osiguranja, primjena mjere za sprječavanje krize ili mjere za upravljanje krizom, uključujući nastup događaja izravno povezanog s primjenom tih mjera, onemogućuje bilo kome:
+a) raskid ugovora, odgodu, izmjenu, netiranje ili prijeboj uključujući:
+– ugovorne obveze društva kćeri institucije iz stavka 1. ovoga članka, ako za ugovorne obveze jamči ili ih na drugi način osigurava ta institucija ili bilo koja članica grupe
+– ugovorne obveze bilo koje članice grupe kojoj pripada institucija iz stavka 1. ovoga članka, ako ugovor uključuje odredbe o unakrsnom statusu neispunjenja obveza (engl. cross-default provisions)
+b) stjecanje posjeda, kontrolu ili prisilnu naplatu bilo kojeg založnog prava nad bilo kojom imovinom institucije iz stavka 1. ovoga članka uključujući i ugovorne obveze bilo koje članice grupe kojoj pripada institucija iz stavka 1. ovoga članka, ako ugovor uključuje odredbe o unakrsnom statusu neispunjenja obveza (engl. cross-default provisions)
+c) utjecaj na prava iz ugovora institucije iz stavka 1. ovoga članka uključujući ugovorne obveze bilo koje članice grupe kojoj pripada institucija iz stavka 1. ovoga članka, ako ugovor uključuje odredbe o unakrsnom statusu neispunjenja obveza (engl. cross-default provisions).
+(5) Odredbe ovoga članka ne utječu na pravo pojedine osobe da poduzme radnje iz stavka 4. ovoga članka ako to pravo nastaje na temelju događaja koji nije posljedica primjene mjere za sprječavanje krize ili mjere za upravljanje krizom uključujući nastup događaja izravno povezanog s primjenom tih mjera.
+(6) Odgoda ili ograničenje iz članka 90., 91. ili 92. ovoga Zakona ne predstavlja neizvršenje ugovorne obveze u smislu stavaka 1., 2. i 3. ovoga članka.
+(7) Odredbe ovoga članka smatraju se prevladavajućim obveznim odredbama u smislu članka 9. Uredbe (EZ) br. 593/2008 Europskog parlamenta i Vijeća od 17. lipnja 2008. o pravu koje se primjenjuje na ugovorne obveze (Rim I).
+Ovlast odgode plaćanja ili ispunjenja obveza
+Članak 90.
+(1) Državna agencija za osiguranje štednih uloga i sanaciju banaka može donijeti odluku o odgodi bilo koje obveze plaćanja ili ispunjenja obveza iz bilo kojeg ugovora u kojemu je institucija u sanaciji jedna od ugovornih strana i istu odmah objaviti na način iz članka 32. ovoga Zakona.
+(2) Državna agencija za osiguranje štednih uloga i sanaciju banaka dužna je u izrijeci

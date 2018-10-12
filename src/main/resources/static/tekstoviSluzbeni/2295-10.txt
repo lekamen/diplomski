@@ -1,0 +1,55 @@
+ stanje vozila zadovoljava ili
+– najveći prijeđeni put između dva uzastopna obavljanja održavanja najviše razine može biti 2.000.000 km za dizel električnu lokomotivu, 800.000 km za dizel hidrauličnu lokomotivu, 1.500.000 km za dizel motorni vlak, 2.000.000 km za električnu lokomotivu, 3.000.000 km za električnu lokomotivu koja nije starija od 8 godina, 2.000.000 km za vlakove s nagibnom tehnikom i 2.200.000 km za elektromotorne vlakove,
+b) putnički vagoni:
+– najmanje 3 razine održavanja za svaki tip vozila,
+– najveći vremenski razmak između uzastopnih obavljanja dvaju najviših razina održavanja može biti 6 godina, uz mogućnost produljenja istog do dva puta po šest mjeseci ukoliko stanje vozila zadovoljava, ili
+– najveći prijeđeni put između dva uzastopna obavljanja dvaju najviših razina održavanja može biti 200.000 km za vagon najveće brzine vožnje 100 km/h, 750.000 km za vagon najveće brzine vožnje 120 km/h, 800.000 km za vagon najveće brzine vožnje 120 do 160 km/h i 1.000.000 km za vagon najveće brzine vožnje 200 km/h,
+c) teretni vagoni:
+– najmanje 1 razina održavanja za svaki tip vozila,
+– najveći vremenski razmak između uzastopnih obavljanja najviše razine održavanja može biti 6 godina, uz mogućnost produljenja istog do dva puta po 6 mjeseci ukoliko stanje vozila zadovoljava,
+d) motorna vozila za posebne namjene:
+– najmanje 3 razine održavanja za svaki tip vozila,
+– najveći vremenski razmak između uzastopnih obavljanja dvaju najviših razina održavanja može biti 6 godina, uz mogućnost produljenja istog do dva puta po 1 godinu, ili
+– najveći vremenski razmak nakon puštanja u uporabu novog vozila može biti 10 godina, uz mogućnost produljenja istog za 1 godinu,
+e) vagoni i pružne prikolice za posebne namjene:
+– najmanje 1 razina održavanja za svaki tip vozila,
+– najveći vremenski razmak između uzastopnih obavljanja najviše razine održavanja može biti 6 godina, uz mogućnost produljenja istog do dva puta po 1 godinu ukoliko stanje vozila zadovoljava.
+Članak 29.
+Subjekt nadležan za održavanje mora posebnu pažnju posvetiti održavanju uređaja od posebnog značaja za vozila:
+a) kočni sustav,
+b) osovinski sklopovi s ležajevima,
+c) vučni i odbojni uređaji,
+d) okretna postolja,
+e) sanduk i okvir sanduka,
+f) elementi ovješenja i ogibljenja,
+g) čelne i završne svjetiljke i sirene,
+h) uređaj za kontrolu budnosti,
+i) uređaj za elektroničku komunikaciju,
+j) ETCS i autostop uređaj,
+k) brzinomjerni i registrirajući uređaj,
+l) sustavi vatrodojave i zaštite od požara,
+m) posude pod tlakom,
+n) uređaji automatskog zatvaranja vrata motornih vlakova i putničkih vagona.
+Članak 30.
+(1) Glavni kočni uređaji moraju se održavati od strane pravne i fizičke osobe ovlaštene za održavanje vozila (u daljnjem tekstu: održavatelj).
+(2) Glavni kočni uređaji jesu:
+a) kočnici izravne i neizravne kočnice,
+b) rasporednici,
+c) brzači pražnjenja glavnog zračnog voda,
+d) protuklizni uređaji s davačem (mehanički, elektronički i mikroprocesorski),
+e) sklopovi cilindar–regulator,
+f) mjerni ventili,
+g) prijenosnici tlaka,
+h) zadržni kočni ventili,
+i) sigurnosni ventili,
+j) regulacijski ventili,
+k) manometri.
+(3) Preventivno i korektivno održavanje kočnog sustava treba provoditi u sklopu preventivnog ili korektivnog održavanja vozila.
+(4) Preventivno održavanje kočnog sustava koje utvrđuje subjekt nadležan za održavanje mora zadovoljiti uvjete:
+a) najmanje 4 razine održavanja,
+b) obavljanje najviše razine održavanja treba provoditi tijekom obavljanja najviše razine održavanja za svaku vrstu i tip vozila.
+(5) Najviša razina održavanja kočnog sustava mora obuhvaćati demontiranje svih uređaja i drugih dijelova kočnog sustava s vozila, provjeru i popravak ili zamjenu neispravnih uređaja ili dijelova ispravnima te montažu i završnu funkcionalnu provjeru kočnog sustava na vozilu.
+Članak 31.
+Kod održavanja osovinskog sklopa tijekom preventivnog održavanja vozila najviše razine potrebno je obaviti najmanje sljedeće:
+a) demontaža osovinskog sklopa s vozila,
+b) odstranjivanje

@@ -1,0 +1,23 @@
+ tijela sukladno članku 90. stavku 1. Zakona, Ministarstvo obavlja sljedeće poslove:
+1. putem Povjerenstva utvrđuje sva postrojenja za besplatnu dodjelu sukladno članku 5. stavku 1. Odluke Komisije 2011/278/EU;
+2. putem Povjerenstva utvrđuje sve proizvođače električne energije koji proizvode toplinu i mala postrojenja koja se mogu isključiti iz sustava trgovanja emisijskim jedinicama sukladno članku 5. stavku 2. Odluke Komisije 2011/278/EU;
+3. putem Povjerenstva provodi podjelu postrojenja na podpostrojenja za besplatnu dodjelu sukladno članku 6. stavku 1. Odluke Komisije 2011/278/EU;
+4. zaprima zahtjev operatera postrojenja za besplatnu dodjelu emisijskih jedinica s podacima o djelatnostima sukladno članku 7. stavku 5. Odluke Komisije 2011/278/EU, koji sadrži:
+– zahtjev za besplatnu dodjelu emisijskih jedinca,
+– podatke o djelatnostima,
+– metodološko izvješće i
+– verificirano izvješće.
+5. objavljuje Obrazac zahtjeva za besplatnu dodjelu emisijskih jedinca, Obrazac o podacima o djelatnostima, Obrazac o metodološkom izvješću i Obrazac za verificirano izvješće na svojim internetskim stranicama sukladno članku 7. stavku 5. Odluke Komisije 2011/278/EU;
+6. putem Povjerenstva, prema potrebi, zahtjeva od operatera i dodatne podatke sukladno članku 5. i članku 7. stavku 2. Odluke Komisije 2011/278/EU;
+7. zahtijeva da operater dostavi odgovarajuće obrazloženje ukoliko nedostaju podaci te da nadomjesti sve nedostajuće podatke konzervativnim procjenama sukladno članku 7. stavku 8. Odluke Komisije 2011/278/EU;
+8. dostavlja prikupljene podatke Komisiji na raspolaganje sukladno članku 7. stavku 9. Odluke Komisije 2011/278/EU;
+9. prihvaća samo one podatke koji su ocjenjeni zadovoljavajućim i koje je provjerio verifikator sukladno članku 8. stavku 1. Odluke Komisije 2011/278/EU;
+10. osigurava da verifikator bude neovisan o operateru postrojenja, te da poznaje odredbe iz članka 8. stavka 2. Odluke Komisije 2011/278/EU;
+11. traži da verifikator uz zahtjeve utvrđene u Uredbi (EU) br. 600/2012 ispuni i minimalne zahtjeve sukladno članku 8. stavku 3. Odluke Komisije 2011/278/EU;
+12. ne dodjeljuje besplatne emisijske jedinice postrojenju čiji podaci, temeljem mišljenja Povjerenstva, nisu ocijenjeni kao zadovoljavajući sukladno članku 8. stavku 4. Odluke Komisije 2011/278/EU;
+13. iznimno donosi odluku o besplatnoj dodjeli emisijskih kvota postrojenju čiji podaci nisu ocijenjeni kao zadovoljavajući, ako se putem Povjerenstva utvrdi da je verifikator utvrdio da su nedostajući podaci posljedica iznimnih i nepredvidivih okolnosti sukladno članku 8. stavku 4. Odluke Komisije 2011/278/EU;
+14. putem Povjerenstva vodi računa da se pri verifikaciji pravilno postupa sukladno članku 8. stavku 5. Odluke Komisije 2011/278/EU;
+15. putem Povjerenstva određuje za sva postojeća postrojenja povijesne razine aktivnosti za bazno razdoblje od 1. siječnja 2005. do 31. prosinca 2008. godine, odnosno, ako su te vrijednosti više, za bazno razdoblje od 1. siječnja 2009. do 31. prosinca 2010. godine sukladno članku 9. Odluke Komisije 2011/278/EU, a na temelju podataka prikupljenih u skladu sa člankom 7.;
+16. putem rada Povjerenstva izračunava preliminarni broj emisijskih jedinica koje se dodjeljuju besplatno svakom postojećem postrojenju za svaku godinu razdoblja trgovanja od 2013. do 2020. godine sukladno odredbama članka 10. Odluke Komisije 2011/278/EU;
+17. putem Povjerenstva izračunava broj emisijskih jedinica koje se dodjeljuju besplatno svakom postojećem postrojenju za svaku godinu razdoblja trgovanja od 2013. do 2020. godine sukladno odredbama članka 10. Odluke Komisije 2011/278/EU;
+18. kod izračuna broja emisijskih jedinica, putem Povjerenstva, utvrđuje ispravnost primjene odredbi Odluke Komisije 2011/278/EU i važećih uputa Komisije vezano za unos podataka u Obrazac o podacima o djelatnostima i Obrazac o metodološkom izvješću, a osobito u odnosu na podjelu postrojenja na podpostrojenja i pripisivanje proizvodnih ulaza i izlaza, pripadajućih emisija odgovarajućim

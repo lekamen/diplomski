@@ -1,0 +1,30 @@
+ kočenja najmanje 105% te u vlakove s teretnim vagonima čija djelotvornost kočnice omogućuje brzine do 120 km/h.
+(2) Kod vlakova s P i R kočnicama broj vagona s R kočnicama u jednom vlaku mora iznositi najmanje trećinu ukupnog broja vagona s kočnicama. Ako taj uvjet ne može biti ispunjen iz tehničkih razloga, mjenjači za vrstu kočnice kod vagona s kočnicom velikog učinka moraju biti postavljeni u položaj P.
+(3) Za vozne brzine do 120 km/h na vagonima s kočnicama P i na vagonima s kočnicama velikog učinka, mjenjači vrste kočnice postavljaju se u položaj najjačeg djelovanja, brzači pražnjenja glavnog zračnog voda moraju biti uključeni ako je zadovoljen uvjet iz stavka 2. ovog članka, a na vagonima s Mg kočnicom mjenjač vrste kočnice ne postavlja se u položaj R+Mg.
+(4) Kod vlaka brzine veće od 120 km/h svi mjenjači vrste kočnica, na vagonima i na lokomotivi, postavljaju se u položaj najjačeg djelovanja, brzači pražnjenja glavnog zračnog voda moraju biti uključeni, a na vagonima s Mg kočnicom mjenjač se postavlja u položaj R+Mg.
+(5) Kod vlaka s više od 80 osovina koji je sastavljen od praznih putničkih vagona i vagona za prijevoz automobila, mjenjač vrste kočnice vagona postavlja se u položaj P.
+(6) Mjenjač vrste kočnice lokomotive postavlja se u sljedeći položaj:
+– položaj G u vlakovima sastavljenima od praznih putničkih vagona i vagona za prijevoz automobila s ukupno više od 80 osovina.
+– položaj P odnosno R/P na lokomotivama koje nemaju posebnu oznaku za P (za uračunavanje u SKM uzima se kočna masa za P kočnicu):
+a) u vlakovima sastavljenima od praznih putničkih vagona i vagona za prijevoz automobila koji nemaju više od 80 osovina i
+b) u vlakovima za prijevoz putnika koji voze brzinama manjima od 100 km/h.
+– položaj R odnosno R/P na lokomotivama koje nemaju posebnu oznaku za R (za uračunavanje u SKM uzima se kočna masa za R kočnicu) u vlakovima za prijevoz putnika koji voze brzinama od 100 do 160 km/h.
+(7) Putnički vagon s neispravnom zračnom kočnicom se u domovnom kolodvoru ne smije uvrstiti u vlak za prijevoz putnika.
+Uvrštavanje vagona i izbor vrste kočnice u teretnim vlakovima
+Članak 58.
+(1) Teretni vlakovi koče se kočnicama brzog djelovanja.
+(2) U teretni vlak brzine do 100 km/h kočen kočnicama P, mogu se iznimno dodavati vagoni s kočnicama G, i to do trećine broja vagona s kočnicama P.
+(3) U teretni vlak mogu se dodati vagoni bez kočnica koji imaju samo glavni zračni vod, ali ukupno do najviše 8 osovina.
+(4) Kao kočna masa teretnih vagona sposobnih za brzine do 120 km/h s automatskom kontinuiranom promjenom kočne sile uzima se njihova ukupna masa, ali ne više od napisane vrijednosti kočne mase na vagonima.
+(5) Mjenjač vrste kočnice lokomotive postavlja se u sljedeći položaj:
+– položaj G u teretnim vlakovima kočenima P kočnicama koji voze brzinama manjima od 100 km/h, a ukupna masa im je veća od 500 tona
+– položaj P odnosno R/P na lokomotivama koje nemaju posebnu oznaku za R (za uračunavanje u SKM uzima se kočna masa za P kočnicu):
+a) u teretnim vlakovima ukupne mase do najviše 500 tona koji su kočeni P kočnicama, bez obzira na brzinu
+b) u teretnim vlakovima koji voze brzinom od 100 do 120 km/h i
+c) na potiskivalici.
+Kočenje lokomotivskog vlaka
+Članak 59.
+(1) Mjenjač vrste kočnice na lokomotivskom vlaku mora biti u položaju najjačeg djelovanja na svim vučnim vozilima koja se nalaze u vlaku.
+(2) Kod vučnih vozila s mjenjačem vrste kočnice u položaju R/P smatra se da je mjenjač vrste kočnice u položaju R.
+(3) Na lokomotivskim vlakovima sastavljenima od više vučnih vozila svaki strojovođa odgovara za ispravnost kočnica na vučnom vozilu na kojem se nalazi. Nakon svake promjene položaja mjenjača vrste kočnice strojovođa provjerava ispravnost kočnica na vučnom vozilu preko manometara i to evidentira u primopredajnoj knjizi vučnog vozila.
+(4) Ako se utvrdi da su kočnice na vučnom vozilu neispravne, takvo vučno vozilo ne može se otpremiti u sastavu lokomotivskog vlaka, nego se otprema u skladu s odredbama iz članka 82. ovog

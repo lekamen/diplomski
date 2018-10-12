@@ -1,0 +1,33 @@
+ mora staviti oznaku CE i, pod odgovornošću prijavljenog tijela iz točke 3.1., njegov identifikacijski broj na svaku pojedinu sigurnosnu komponentu za dizala koja zadovoljava uvjete iz točke 1.
+5.2. Proizvođač mora sastaviti pisanu EU izjavu o sukladnosti za svaku sigurnosnu komponentu za dizala i njezin primjerak čuvati na raspolaganju nacionalnim tijelima tijekom 10 godina od stavljanja sigurnosne komponente za dizala na tržište. U EU izjavi o sukladnosti mora se navesti sigurnosna komponenta za dizala za koju je ta izjava sastavljena.
+6. Proizvođač tijekom razdoblja koje istječe 10 godina nakon što je sigurnosna komponenta za dizala stavljena na tržište na raspolaganju nacionalnim tijelima mora čuvati:
+– dokumentaciju iz točke 3.1. alineja 5.;
+– tehničku dokumentaciju iz točke 3.1. alineja 4.;
+– podatke o promjeni iz točke 3.5. prvog stavka;
+– odluke i izvješća prijavljenog tijela iz točke 3.5. trećeg stavka i točaka 4.3. i 4.4.
+7. Svako prijavljeno tijelo mora obavještavati ministarstvo nadležno za gospodarstvoo izdanim ili povučenim odlukama o odobrenju potpunog sustava kvalitete povremeno ili na zahtjev ministarstvu nadležnom za gospodarstvo dostavljati listu odbijenih, suspendiranih ili na neki drugi način ograničenih odluka o odobrenju.
+Svako prijavljeno tijelo mora obavještavati druga prijavljena tijela o odlukama o odobrenju sustava kvalitete koje je odbilo, suspendiralo ili povuklo te, na zahtjev, o odlukama o odobrenju koje je izdalo.
+Prijavljeno tijelo Komisiji i državama članicama na zahtjev mora dostaviti primjerak izdane odluke (izdanih odluka) o odobrenju sustava kvalitete.
+Prijavljeno tijelo mora čuvati primjerak izdane odluke o odobrenju, njezinih priloga i dodataka te tehničku dokumentaciju tijekom razdoblja od 15 godina od datuma izdavanja.
+8. Ovlašteni zastupnik
+Obveze proizvođača navedene u točkama 3.1., 3,5., 5. i 6. može u njegovo ime i na njegovu odgovornost ispuniti njegov ovlašteni zastupnik ako su navedene u ovlaštenju.
+PRILOG VIII.
+SUKLADNOST NA TEMELJU POJEDINAČNE PROVJERE ZA DIZALA (modul G)
+1. Sukladnost na temelju pojedinačne provjere je postupak ocjenjivanja sukladnosti pri kojemu prijavljeno tijelo ocjenjuje udovoljava li dizalo primjenjivim bitnim zdravstvenim i sigurnosnim zahtjevima utvrđenima u Prilogu I.
+2. Obveze ugraditelja
+2.1. Ugraditelj mora poduzeti sve potrebne mjere kako bi postupak proizvodnje i njegovo praćenje osigurali sukladnost dizala s primjenjivim bitnim zdravstvenim i sigurnosnim zahtjevima iz Priloga I.
+2.2. Ugraditelj dizala mora podnijeti zahtjev za pojedinačnu ovjeru prijavljenom tijelu po svojem izboru.
+Zahtjev mora sadržavati:
+– naziv i adresu proizvođača te naziv i adresu ovlaštenog zastupnika ako je on podnio zahtjev;
+– mjesto na kojem je dizalo ugrađeno;
+– pisanu izjavu kojom izjavljuje da isti zahtjev nije podnesen niti jednom drugom prijavljenom tijelu;
+– tehničku dokumentaciju;
+3. Tehnička dokumentacija mora omogućiti ocjenjivanje sukladnosti dizala s primjenjivim bitnim zdravstvenim i sigurnosnim zahtjevima utvrđenima u Prilogu I. ovoga Pravilnika.
+Tehnička dokumentacija mora sadržavati barem sljedeće elemente:
+3.1. opis dizala;
+3.2. konstrukciju te tehničke crteže i dijagrame proizvoda;
+3.3. opise i objašnjenja potrebne za razumijevanje tih crteža i dijagrama te rada proizvoda;
+3.4. popis bitnih zdravstvenih i sigurnosnih zahtjeva koji su uzeti u obzir;
+3.5. popis u cijelosti ili djelomično primijenjenih usklađenih normi objavljenih u Službenom listu Europske unije, te opise rješenja usvojenih kako bi se udovoljilo osnovnim sigurnosnim zahtjevima ovoga Pravilnika uključujući i popis drugih odgovarajućih primijenjenih tehničkih specifikacija, u slučaju kad te usklađene norme nisu bile primijenjene. U slučaju djelomično primijenjenih usklađenih normi, u tehničkoj dokumentaciji navode se dijelovi koji su bili primijenjeni;
+3.6. primjerak potvrda o EU ispitivanju tipa sigurnosnih komponenti za dizala ugrađenih u dizalo;
+3.7. rezultate izračuna tehničkog

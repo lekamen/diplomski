@@ -1,0 +1,41 @@
+ kod izdvojenog (novog) spisa.
+7. Postupak s ustupljenim spisima
+Članak 123.
+(1) Ustupanje spisa evidentira se u sustavu eSpis uz navođenje suda kojem je spis ustupljen i razloga ustupanja.
+(2) Ako spis ustupa drugostupanjski sud, taj sud će o tome obavijestiti stvarno i mjesno nadležan sud prvog stupnja, koji će to unijeti u napomenu uz osnovne podatke o spisu u sustavu eSpis.
+(3) Sud kojem su spisi ustupljeni upisat će ustupljene spise u odgovarajuće upisnike sustava eSpis i s njima postupati kao s ostalim spisima u tom sudu.
+(4) Kod prijema spisa s drugog suda sudska pisarnica otvara novi spis i u sustav eSpis unosi osnovne podatke, kopira stranke, sudionike i dodaje podneske.
+8. Zaključivanje upisnika
+Članak 124.
+(1) Upisnici se u sustavu eSpis zaključuju korištenjem posebne administrativne funkcije. U zaključen upisnik nije moguće unijeti novi spis, ali je moguće pregledavati i mijenjati podatke o postojećim spisima.
+(2) Sud u upisnik sustava eSpis iz prethodne godine može upisati spise tokom prvih pet radnih dana tekuće godine za spise predane pošti ili neposredno sudu do 31. prosinca prethodne godine. U tom slučaju, spis će se unijeti u upisnik sustava eSpis iz prethodne godine, a kao datum osnivanja spisa iznimno se upisuje datum kada je predmet predan pošti ili neposredno sudu.
+9. Upisivanje spisa koji su bili označeni kao dovršeni
+Članak 125.
+(1) Kad se u spisu koji je u sustavu eSpis označen kao dovršen nastavi postupak zbog ukidanja, djelomičnog ukidanja odluke ili drugih razloga, spis će se upisati pod novim poslovnim brojem s potrebnim ranijim upisima, koristeći funkciju kopiranja spisa.
+(2) Zahtjev odnosno prijedlog za ponavljanje postupka i zahtjevi za primjenu drugih izvanrednih pravnih lijekova, kao i ostali podnesci kojima se traži izmjena pravomoćne odluke, upisat će se u sustav eSpis u spis na koji se odnosi.
+10. Ovrhe povjerene sudskom ovršitelju
+Članak 126.
+(1) Ovrha povjerena sudskom ovršitelju unosi se kao posebna sudska radnja u sustav eSpis, s podacima o sudskom ovršitelju, roku do kojeg službena osoba treba obaviti radnju i podnijeti izvješće o tome.
+(2) Na temelju popisa ovrha povjerenih sudskom ovršitelju u sustavu eSpis nadzire se njegov rad na predmetima ovrhe.
+11. Izvješće o reviziji (Rev)
+Članak 127.
+(1) U izvješću revizija (Rev) nalaze se predmeti u kojima je izjavljena revizija.
+(2) U prvostupanjskim sudovima se povodom izjavljene revizije u sustav eSpis unosi naredba za dostavu spisa Vrhovnom sudu Republike Hrvatske.
+XXIV. ODREDBE O DOSTAVI
+Članak 128.
+Unutarnja dostava u sudu obavlja se putem sustava eSpis.
+Članak 129.
+(1) Sustav eSpis omogućava ispis dostavne liste za poštu i dostavne knjige za mjesto. Ova lista sadrži podatke o primatelju, vrsti otpravka i datumu otpravka.
+(2) Dostavna knjiga za mjesto sadrži otpravke koji se dostavljaju primateljima neposredno putem sudskih dostavljača.
+XXV. UPISNIK SUDSKE UPRAVE
+Članak 130.
+(1) Upisnici sudske uprave vode se u sustavu eSpis.
+(2) Iznimno od stavka 1. ovoga članka u sustavu eSpis ne vodi se upisnik za povjerljive i strogo povjerljive predmete Su-pov i Su-StrPov.
+XXVI. POSEBNE ODREDBE ZA POJEDINE VRSTE POSTUPAKA
+1. Postupak u kaznenim predmetima
+Članak 131.
+U spisima u kojima je određen pritvor ili istražni zatvor, u sustav eSpis upisat će se činjenica pritvora, odnosno istražnog zatvora, osnovni podaci o pritvoru odnosno istražnom zatvoru, podaci o rješenju, podaci o produljenju pritvora odnosno istražnog zatvora i podaci o ukidanju pritvora odnosno istražnog zatvora.
+Članak 132.
+Ako se rješenje o produljenju istražnog zatvora nije moglo dostaviti upravi zatvora prije isteka roka za puštanje na slobodu, činjenica da je predsjednik vijeća odnosno sudac istrage o donesenom rješenju obavijestio upravu zatvora brzojavom, telefaksom, telefonom ili elektroničkom poštom, evidentirat će se u sustav eSpis.
+Članak 133.
+(1) U spisu koji se odnosi na kazneni predmet za koji se kazneni postupak pokreće po službenoj dužnosti svi troškovi koji se

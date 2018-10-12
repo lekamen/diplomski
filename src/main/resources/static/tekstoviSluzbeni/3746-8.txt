@@ -1,0 +1,167 @@
+ (jaružanje)
+2.2.3. dubine
+2.2.4. granica jaružanog područja
+2.2.5. izobata
+2.2.6. izobata – približna
+2.2.7. jaružano područje, kanal
+2.2.8. kanal
+2.2.9. održavani kanal
+2.2.10. područje s neodgovarajućom izmjerom
+2.2.11. prijavljena dubina
+2.2.12. suha visina
+2.2.13. sumnjiva dubina
+2.2.14. sumnjivo postojanje dubine
+2.3. SVOJSTVA MORSKOG DNA
+2.3.1. alge
+2.3.2. dagnje
+2.3.3. dno
+2.3.4. glina
+2.3.5. greben
+2.3.6. izvor
+2.3.7. kamenice
+2.3.8. kamenje
+2.3.9. koralj
+2.3.10. koraljni greben
+2.3.11. lapor
+2.3.12. litoral
+2.3.13. morska trava
+2.3.14. morsko dno, svojstva
+2.3.15. mulj
+2.3.16. pijesak
+2.3.17. pješčani valovi
+2.3.18. pod utjecajem plime i oseke
+2.3.19. prah
+2.3.20. silt
+2.3.21. slojevi morskog dna
+2.3.22. spužva
+2.3.23. stijena
+2.3.24. stjenovito područje
+2.3.25. školjke
+2.3.26. šljunak
+2.3.27. tuf
+2.3.28. valutice
+2.4. HRIDI, GREBENI, PODRTINE I ZAPREKE
+2.4.1. deblo, potopljeno
+2.4.2. granica kamenitog područja
+2.4.3. granica opasnosti
+2.4.4. hrid
+2.4.5. izvor
+2.4.6. greben
+2.4.7. jarbol
+2.4.8. kolac
+2.4.9. koralj
+2.4.10. koraljni greben
+2.4.11. lomni valovi
+2.4.12. motka
+2.4.13. nečisto dno
+2.4.14. neopasna podrtina
+2.4.15. neopasni greben
+2.4.16. opasna podrtina
+2.4.17. panj, potopljeni
+2.4.18. podrtina
+2.4.19. podvodni greben
+2.4.20. potopljena podrtina
+2.4.21. potopljeni stupovi
+2.4.22. ribogojilište
+2.4.23. ribolovna klopka
+2.4.24. stalni ribolovni alat
+2.4.25. stijena
+2.4.26. stup – potopljeni
+2.4.27. tunara
+2.4.28. umjetno stanište ribe
+2.4.29. uzgajalište školjki
+2.4.30. voda
+2.4.31. stalna vrša
+2.4.32. vulkan, podmorski
+2.4.33. zapreka
+2.5. ODOBALNI UREĐAJI
+2.5.1. bušotina, podmorska
+2.5.2. cijev
+2.5.3. cisterna
+2.5.4. difuzor
+2.5.5. dovodni cjevovod
+2.5.6. elektroenergetski kabel
+2.5.7. glava bušotine
+2.5.8. granica sigurnosne zone
+2.5.9. granica zone istraživanja
+2.5.10. ispust
+2.5.11. istraživačka platforma
+2.5.12. kemikalije
+2.5.13. nafta
+2.5.14. naftna platforma
+2.5.15. naftni terminal
+2.5.16. naftno polje, naziv
+2.5.17. naftovod
+2.5.18. napuštena bušotina
+2.5.19. odvodni cjevovod
+2.5.20. otpadne vode
+2.5.21. plamenik
+2.5.22. platforma
+2.5.23. plin
+2.5.24. plinovod
+2.5.25. plinsko polje, naziv
+2.5.26. plutača za ukrcaj/iskrcaj nafte, plina
+2.5.27. plutačni vez
+2.5.28. podmorska bušotina napuštena
+2.5.29. podmorska bušotina proizvodna
+2.5.30. podmorske instalacije
+2.5.31. podmorski cjevovod
+2.5.32. podmorski kabel
+2.5.33. područje ispusta
+2.5.34. područje naftovoda
+2.5.35. područje plinovoda
+2.5.36. područje podmorskih cjevovoda
+2.5.37. područje podmorskih kabela
+2.5.38. proizvodna bušotina
+2.5.39. proizvodna platforma
+2.5.40. superplutača
+2.5.41. tanker
+2.5.42. tankerski vez
+2.5.43. ukopani cjevovod
+2.5.44. umjetni otok
+2.5.45. usidrena cisterna
+2.5.46. usis
+2.5.47. vez
+2.5.48. voda
+2.5.49. zona istraživanja
+2.5.50. zona sigurnosna
+3. PROMETNO-PLOVIDBENI SUSTAVI, TIJEKOVI, PODRUČJA I GRANICE
+3.1. crta odvajanja
+3.2. crta slobodnog prolaza
+3.3. demagnetizacija
+3.4. domet radara
+3.5. državna granica
+3.6. dvosmjerna ruta
+3.7. epikontinentski pojas
+3.8. gliboderina, odlagalište
+3.9. granica carinska
+3.10. granica državna
+3.11. granica epikontinentskog pojasa
+3.12. granica isključive gospodarske zone
+3.13. granica morskog leda
+3.14. granica obalnog leda
+3.15. granica plutajućih trupaca
+3.16. granica područja s ograničenjem
+3.17. granica pomorska
+3.18. granica prirodnog rezervata
+3.19. granica ribolovne zone
+3.20. granica sustava odvojene plovidbe
+3.21. granica teritorijalnog mora
+3.22. granica vanjskog morskog pojasa
+3.23. granica zabranjenog područja
+3.24. hidroavion – sidrište
+3.25. hidroavion – površina za slijetanje i uzlijetanje
+3.26. hidroavion – pristanište
+3.27. isključiva gospodarska zona
+3.28. jednosmjerna ruta
+3.29. karantensko sidrište
+3.30. kružna zona odvajanja
+3.31. kurs
+3.32. minsko polje
+3.33. obvezni smjer plovidbenog toka
+3.34. odlagalište eksplozivnog materijala
+3.35. odlagalište gliboderine
+3.36. odlagalište kemijskog otpada
+3.37. opasna zona (vježbe gađanja)
+3.38. oznaka veza
+3.39.

@@ -1,0 +1,33 @@
+ horizontalni kontinuirani pojas širine najmanje 30 cm oko cijele zgrade na svakoj drugoj etaži, najviše 50 cm iznad gornjeg ruba otvora. Negorive barijere se lijepe i mehanički sidre na zid pročelja na način da se u slučaju požara spriječi otpadanje dijelova toplinske izolacije.
+(5) Kod zgrada iz stavka 3. ovog članka, kod izvedbe ovješenih ventiliranih elemenata pročelja potrebno je kod gorivih i negorivih toplinskih izolacija spriječiti prijenos požara kroz ventilirajući sloj preko otvora na pročelju ili najmanje na svakoj drugoj etaži duž cijelog opsega zgrade. Izvedba ove barijere kod klasificiranih sustava pročelja osigurava se prema uputi proizvođača, a kod sustava s pojedinačnim komponentama prema priznatim pravilima tehničke prakse.«.
+Članak 13.
+U članku 16. stavku 4. riječ: »zakretna« zamjenjuje se riječju: »zaokretna«.
+Članak 14.
+U članku 18. stavku 1. podstavku 1. u zagradi iza riječi: »obujmica« dodaju se riječi: »i drugo«, a riječi: »E 30« zamjenjuju se riječima: »EI 15«.
+Članak 15.
+U članku 22. iza riječi: »malim požarnim opterećenjem« dodaju se riječi: »(manjim od 1000 MJ/m2)«.
+Članak 16.
+(1) U članku 23. stavak 1. mijenja se i glasi:
+»(1) Kada je jedna od susjednih građevina sa požarnim opterećenjem od 1000 MJ/m2 i većim, međusobna sigurnosna udaljenost određuje se proračunom (NFPA 80A – Recommended Practice for of Bildings from Exterior Fire Exposures ili nekim drugim jednako vrijednim proračunom).«.
+(2) U stavku 4. riječi: »s višim požarnim opterećenjem« zamjenjuju se riječima: »s požarnim opterećenjem većim od 1000 MJ/m2«
+Članak 17.
+U članku 24. stavku 3. riječi: »za 30 minuta« zamjenjuju se riječima: »za jedan stupanj«.
+Članak 18.
+Iznad članka 25. naziv glave: »SUSTAVI ZA ODVODNJU DIMA I/ILI TOPLINE I SUSTAVI NADTLAKA« mijenja se i glasi: »VI. SUSTAVI ZA ODVODNJU DIMA I TOPLINE TE SUSTAVI NADTLAKA«.
+Članak 19.
+U članku 25. iza riječi: »Pravilnika« briše se točka i dodaje zarez te se dodaju riječi: »ako posebnim propisom nije drugačije određeno.«.
+Članak 20.
+U članku 26. stavak 1. mijenja se i glasi:
+»(1) Sustave za odvodnju dima i topline potrebno je predvidjeti u sljedećim slučajevima:
+– sigurnosnim stubištima sukladno Tablici 3. u Prilogu 1 ovog Pravilnika;
+– podrumskim prostorima bez podrumskih prozora ili drugih otvora koji vode prema vanjskom prostoru (otvori atrija, pokretne stepenice, stubišta i slično) kad je:
+a) kapacitet tog prostora veći od 100 osoba, ili
+b) etaža koju koriste ljudi na više od 9,10 metara ispod najnižeg nivoa prostora za udaljavanje (izlazna razina vanjskog prostora) ili kad ima više od jednog nivoa za boravak smještenog ispod najnižeg nivoa prostora za udaljavanje;
+– zatvorenim atrijskim prostorima;
+– požarnim odjeljcima bez prozora ili vrata na pročelju građevine koji se daju otvoriti s požarnim opterećenjem od 600 MJ/m2 do 999 MJ/m2 te površinom požarnog odjeljka većom od 200,00 m2, odnosno površinom požarnog odjeljka većom od 400,00 m2 kod požarnih odjeljaka u kojima je ugrađen sustav za automatsku dojavu i gašenje požara;
+– požarnim odjeljcima bez prozora ili vrata na pročelju građevine koji se daju otvoriti s požarnim opterećenjem od 1000 MJ/m2 do 1999 MJ/m2 te površinom požarnog odjeljka većom od 100,00 m2, odnosno površinom požarnog odjeljka većom od 200,00 m2 ako je u njega ugrađen sustav za automatsku dojavu i gašenje požara;
+– u drugim slučajevima požarnih odjeljaka bez prozora ili vrata na pročelju građevine koji se daju otvoriti, te s požarnim opterećenjem iznad 2000 MJ/m2 i površinom odjeljka većom od 50,00 m2, odnosno 100,00 m2 ako je ugrađen sustav za automatsku dojavu i gašenje požara.«.
+Članak 21.
+Članak 31. mijenja se i glasi:
+»(1) U građevini moraju postojati najmanje dva evakuacijska puta, odnosno puta za spašavanje, koji vode u različitim smjerovima do vanjskog prostora, ili sigurnog mjesta u građevini i koji ne završavaju u istom požarnom i/ili dimnom odjeljku.
+(2) Broj evakuacijskih putova, odnosno putova za spašavanje, ovisno o broju korisnika prostora

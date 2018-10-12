@@ -1,0 +1,25 @@
+ i/ili nije prihvatljiva za odobrenje, uvažavajući odredbe ovoga Pravilnika kao i odredbe posebnih propisa koji uređuju postupak javne nabave, korisniku se dostavlja obavijest iz stavka 1. ovoga članka ili odluka o odbijanju uzimajući u obzir odobrenu odnosno neodobrenu dokumentaciju iz provedenog postupka javne nabave.
+POGLAVLJE III. PRIJAVA PROMJENA PODATAKA O KORISNIKU, PROMJENA ZAHTJEVA ZA POTPORU I ODUSTAJANJE
+Članak 20.
+(1) Promjene podataka o korisniku podrazumijevaju promjene podataka koji se vode u Evidenciji korisnika.
+(2) Promjene iz stavka 1. ovoga članka korisnik podnosi putem AGRONET-a sukladno uputi za upis u Evidenciju korisnika kojeg korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(3) Korisnik mora obavijestiti Agenciju za plaćanja o promjenama navedenim u stavku 1. ovoga članka nakon pojave događaja koji ih je izazvao.
+(4) Po odobrenju/odbijanju zahtjeva za promjenu podataka u Evidenciji korisnika, Agencija za plaćanja će korisniku poslati putem elektronske pošte obavijest da su promjene izvršene/nisu izvršene.
+Članak 21.
+(1) U slučaju da korisnik želi odustati od dodjele sredstava iz EPFRR-a dužan je poslati zahtjev za odustajanje.
+(2) Ukoliko korisnik podnese zahtjev za odustajanje tijekom administrativne kontrole zahtjeva za potporu odnosno prije donošenja odluke o prihvatljivosti, Agencija za plaćanja će prekinuti sve aktivnosti nad zahtjevom za potporu te će korisniku izdati potvrdu o odustajanju.
+(3) Ukoliko korisnik podnese zahtjev za odustajanje nakon donošenja odluke o prihvatljivosti i sklapanja ugovora o financiranju a prije podnošenja zahtjeva za isplatu predujma/prvog zahtjeva za isplatu, Agencija za plaćanja će korisniku izdati odluku o poništenju te raskinuti ugovor o financiranju.
+(4) U slučaju da je Agencija za plaćanja donijela korisniku odluku o prihvatljivosti, a korisnik nije propisanom roku vratio potpisani ugovor o financiranju, Agencija za plaćanja će donijeti odluku o poništenju.
+(5) Ukoliko je korisniku izdana odluka o prihvatljivosti i sklopljen ugovor o financiranju, a nakon toga mu izdana odluka o odbijanju nakon provedbe procesa nabave, Agencija za plaćanja će izdati odluku o poništenju i izjavu o raskidu ugovora.
+(6) Agencija za plaćanja će izdati odluku o poništenju u sljedećim slučajevima:
+a) kada korisnik prekrši odredbe ovoga Pravilnika ili natječaja i/ili
+b) ako korisnik ne dostavi zahtjev za isplatu/zahtjev za isplatu predujma u za to predviđenom roku.
+POGLAVLJE IV. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE I DONOŠENJE ODLUKE
+Članak 22.
+(1) Potpora se korisniku isplaćuje temeljem zahtjeva za isplatu i/ili zahtjeva za isplatu predujma.
+(2) Korisnik može podnijeti zahtjev za isplatu jednokratno ili u najviše 6 rata. Maksimalni iznos prve rate iznosi do 50 posto odobrenih sredstava javne potpore.
+(3) Korisnik može putem zahtjeva za isplatu predujma tražiti predujam za ulaganje i to do 50 posto odobrenih sredstava javne potpore. Ako nema mogućnosti plaćanja predujma, isplata se može vršiti u ratama. Plaćanje predujma ne isključuje plaćanje u ratama, a maksimalan broj isplata u ratama kod plaćanja predujma iznosi maksimalno pet rata.
+(4) Zahtjev za isplatu/zahtjev za isplatu predujma korisnik može podnijeti nakon što zaprimi Obavijest od Agencije za plaćanja.
+(5) Uvjet za isplatu predujma jest dostava bankarske garancije ili istovjetne vrste jamstva plative »na prvi poziv« i »bez prigovora« ili zadužnice u stopostotnoj vrijednosti iznosa predujma. Bankarska garancija ili zadužnica mora vrijediti od trenutka podnošenja zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje zahtjeva za isplatu.
+(6) Isplaćeni predujam iz stavka 3. ovoga članka opravdava se plaćenim računima za ulaganja za koja je sklopljen ugovor o financiranju pri podnošenju zahtjeva za isplatu.
+(7) Garancija/zadužnica iz stavka 5. ovoga članka vraća se korisniku sukladno stavku 6. ovoga članka temeljem Odluke o jamstvu ako korisnik dokaže

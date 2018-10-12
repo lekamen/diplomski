@@ -1,0 +1,44 @@
+proceduri utvrdila organizacija za osposobljavanje.
+(5) Osoba koja je završila osposobljavanje smije letjeti do datuma polaganja ispita za stjecanje dozvole ili ovlaštenja:
+a) samo pod nadzorom organizacije za osposobljavanje u kojoj je obavila osposobljavanje, i
+b) ne duže od 12 mjeseci od datuma završetka osposobljavanja.
+Izvješćivanje Agencije
+Članak 54.
+Organizacija za osposobljavanje mora najkasnije do 1. ožujka svake kalendarske godine izvijestiti Agenciju o:
+a) broju učenika koji su započeli osposobljavanje tijekom prethodne kalendarske godine,
+b) ukupnom broju učenika koji nisu završili osposobljavanje,
+c) ukupnom broju učenika koji su započeli osposobljavanje,
+d) broju učenika koji su završili osposobljavanje tijekom prethodne kalendarske godine,
+e) nalet i broj letova koje su učenici ostvarili tijekom prethodne kalendarske godine, i
+f) ukupan nalet i broj letova koje su ostvarili učenici.
+Čuvanje dokumentacije
+Članak 55.
+(1) Organizacija za osposobljavanje mora osigurati prikladan sustav čuvanja dokumentacije koji omogućuje dostupnost podataka u razumnom vremenu, zaštitu od oštećenja, neovlaštene izmjene i krađe.
+(2) Organizacija za osposobljavanje mora osigurati sigurnosni sustav zapisa (backup) za dokumentaciju u elektroničkom obliku.
+(3) Sva dokumentacija organizacije za osposobljavanje mora se čuvati najmanje 5 godina.
+GLAVA VI. NADZOR ORGANIZACIJE
+Nadzor organizacije
+Članak 56.
+Organizacija za osposobljavanje mora Agenciji omogućiti pristup infrastrukturi, zrakoplovima, opremi, učilima, dokumentima, zapisima i drugim podacima relevantnim za osposobljavanja koje organizacija provodi, a u svrhu utvrđivanja kontinuirane usklađenosti sa zahtjevima ovoga Pravilnika.
+Nalazi
+Članak 57.
+(1) Agencija će organizaciji za osposobljavanje izdati nalaz razine 1 ako:
+a) utvrdi značajnu nesukladnost koja ugrožava sigurnost ili može dovesti do ugrožavanja sigurnosti,
+b) utvrdi da su za stjecanje ili održavanje valjanosti Potvrde o odobrenju podneseni netočni, neistiniti ili krivotvoreni dokazi, ili
+c) nije omogućeno obavljanje inspekcijskog nadzora tijekom normalnih radnih sati nakon dvije uzastopne pisane obavijesti o namjeravanoj inspekciji dostavljene organizaciji.
+(2) Agencija će organizaciji za osposobljavanje izdati nalaz razine 2 za sve ostale utvrđene nesukladnosti.
+(3) Ako je organizaciji za osposobljavanje izdan nalaz razine 1, Agencija će oduzeti ili privremeno oduzeti Potvrdu o odobrenju.
+(4) Nakon zaprimanja nalaza razine 2, a u svrhu kontinuiranog održavanja valjanosti Potvrde o odobrenju, organizacija za osposobljavanje mora u roku definiranom od strane Agencije:
+a) izvršiti analizu uzroka nalaza,
+b) predložiti odgovarajuće korektivne aktivnosti za otklanjanje i sprečavanje ponovnog pojavljivanja predmetnog nalaza,
+c) ishoditi odobrenje predloženih korektivnih aktivnosti, i
+d) provesti odobrene korektivne aktivnosti.
+(5) Rok za otklanjanje nalaza razine 2 ne smije biti duži od 3 mjeseca.
+(6) Iznimno od stavka 5. ovoga članka Agencija može, na zahtjev i uz prihvatljivo obrazloženje organizacije za osposobljavanje, jednom produžiti rok za otklanjanje nalaza za najduže 3 mjeseca.
+(7) Nalaz razine 2 postaje nalaz razine 1 ako organizacija za osposobljavanje u definiranom roku ne provede korektivne aktivnosti.
+DIO PETI PRIJELAZNE I ZAVRŠNE ODREDBE
+Prijelazne odredbe
+Članak 58.
+(1) Imatelj dozvole izdane u skladu s Pravilnikom o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice (»Narodne novine«, broj 58/11) smije koristiti prava iz dozvole kategorije B u skladu s ovim Pravilnikom.
+(2) Ovlaštenja izdana u skladu s Pravilnikom o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice (»Narodne novine«, broj 58/11) valjana su do datuma isteka.
+(3) Dozvola pilota izdana u skladu s Pravilnikom o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice (»Narodne novine«, broj 58/11) i Pravilnikom o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice (»Narodne novine«, broj 52/01) bit će zamijenjena

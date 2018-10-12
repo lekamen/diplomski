@@ -1,0 +1,24 @@
+ priznata u bilanci nakon umanjenja za ispravak vrijednosti i akumulirane gubitke od umanjenja vrijednosti.
+5.11. Korisni vijek upotrebe je:
+a) razdoblje u kojem se očekuje da će poduzetnik upotrebljavati imovinu, tj. da će mu ista biti dostupna za upotrebu ili
+b) broj proizvoda ili sličnih jedinica koje poduzetnik očekuje ostvariti od te imovine.
+5.12. Nematerijalna imovina je nemonetarna imovina bez fizičkih obilježja koja se može identificirati.
+Imovina se može identificirati ako:
+(a) je odvojiva, odnosno ako se može odvojiti ili razlučiti od poduzetnika i prodati, prenijeti, licencirati, iznajmiti ili razmijeniti, bilo pojedinačno ili zajedno s povezanim ugovorom, imovinom ili obvezom, ili
+(b) proizlazi iz ugovornih ili drugih zakonskih prava, bez obzira na to mogu li se ta prava mogu prenijeti ili odvojiti od poduzetnika ili od drugih prava i obveza.
+Nematerijalna imovina obuhvaća sljedeće vrste imovine: izdaci za razvoj, patenti, licencije, koncesije, zaštitni znaci, software, dozvola za ribarenje, franšize i ostala prava, goodwill, predujmovi za nematerijalnu imovinu i ostalu nematerijalnu imovinu.
+5.13. Ostatak vrijednosti nematerijalne imovine je procijenjeni iznos koji bi poduzetnik u ovome trenutku dobio otuđenjem imovine nakon odbitka procijenjenih troškova otuđenja, ali uz uvjet da je imovina već sada one starosti i u onom stanju kakvo se očekuje na kraju njenog korisnog vijeka upotrebe.
+5.14. Razvoj je primjena rezultata istraživanja ili drugih znanja na plan ili projekt proizvodnje novih ili bitno (značajno) poboljšanih (unaprijeđenih) materijala, uređaja, proizvoda, postupaka (procesa), sustava ili usluga prije početka komercijalne proizvodnje ili upotrebe.
+5.15. Trošak nabave je iznos novca ili novčanih ekvivalenata koji se plaća ili fer vrijednost ostalih naknada koje se daju za stjecanje neke imovine u vrijeme njezina stjecanja ili izgradnje, ili, ako je primjenjivo, iznos koji se može pripisati toj imovini kod početnog priznavanja u skladu sa zahtjevima drugih HSFI.
+5.16. Vrijednost u upotrebi je sadašnja vrijednost procijenjenih budućih novčanih tokova, za koji se očekuje da će proizaći iz neprestane upotrebe nekog oblika imovine i njegovog otuđenja na kraju njegovog korisnog vijeka trajanja.
+SADRŽAJ
+5.17. Ovaj Standard sadržava načela, pravila i metode mjerenja, priznavanja, evidentiranja i objavljivanja dugotrajne nematerijalne imovine.
+PRIZNAVANJE
+5.18. Neku se nematerijalnu imovinu treba priznati samo ako i isključivo ako:
+a) je vjerojatno da će očekivane buduće ekonomske koristi koje se mogu pripisati imovini pritjecati poduzetniku, i
+b) trošak nabave te imovine se može pouzdano izmjeriti.
+5.19. Poduzetnik treba procijeniti vjerojatnost očekivanih budućih ekonomskih koristi koristeći razumne i utemeljene pretpostavke koje predstavljaju najbolju procjenu menadžmenta o nizu ekonomskih uvjeta koji će postojati tijekom korisnog vijeka upotrebe te imovine.
+5.20. Poduzetnik koristi prosudbu za procjenu stupnja izvjesnosti priljeva budućih ekonomskih koristi koji se mogu pripisati upotrebi neke imovine na temelju dokaza raspoloživih u vrijeme početnog priznavanja, s tim da se veće značenje pridaje vanjskim dokazima.
+5.21. Poduzetnik će nematerijalnu imovinu početno mjeriti po trošku nabave.
+5.22. Zasebno stjecanje – U normalnim okolnostima, cijena koju poduzetnik plaća prilikom zasebnog stjecanja nematerijalne imovine odražava očekivanja o vjerojatnosti da će očekivane ekonomske koristi iz te imovine pritjecati poduzetniku. Prema tome, kriterij vjerojatnosti priznavanja se uvijek smatra zadovoljavajućim za zasebno stečenu nematerijalnu imovinu.
+5.23. U slučaju stjecanja nematerijalne imovine pomoću državne potpore nematerijalna imovina može biti stečena bez naknade, ili uz minimalnu (neznatnu) naknadu. Poduzetnik u početku može odlučiti priznati nematerijalnu imovinu i potporu po fer vrijednosti. Ako poduzetnik odluči da u početku neće priznati imovinu po fer vrijednosti, poduzetnik početno priznaje imovinu 

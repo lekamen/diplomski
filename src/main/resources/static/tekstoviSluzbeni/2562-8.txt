@@ -1,0 +1,37 @@
+ TARGET2-HR jedan ili više podračuna koji se upotrebljavaju za namjenjivanje likvidnosti.
+2. Nije dopušteno negativno stanje na PM računima.
+3. Sredstva na PM računima i njihovim podračunima remuneriraju se po kamatnoj stopi na depozit kod Eurosustava, osim ako je drugačije predviđeno Ugovorom o otvaranju i funkcioniranju PM računa u sustavu TARGET2-HR sklopljenom između Hrvatske narodne banke i imatelja PM računa.
+4. Sudionici upotrebljavaju ICM radi dobivanja informacija o svojoj likvidnosnoj poziciji. Hrvatska narodna banka daje dnevni izvadak iz računa svim sudionicima koji su se odlučili za tu uslugu.
+Članak 14.
+Vrste naloga za plaćanje
+Za potrebe sustava TARGET2 sljedeće se utvrđuje kao nalozi za plaćanje:
+(a) nalozi za kreditni transfer,
+(b) instrukcije za izravno terećenje koje se provode na temelju odobrenja za izravno terećenje,
+(c) nalozi za prijenos likvidnosti i
+(d) nalozi za prijenos likvidnosti s PM računa na DCA.
+Članak 15.
+Primanje i odbijanje naloga za plaćanje
+1. Nalozi za plaćanje koje su podnijeli sudionici primljeni su od strane Hrvatske narodne banke ako je:
+(a) platna poruka u skladu s pravilima koje je utvrdio pružatelj mrežnih usluga sustavu TARGET2,
+(b) platna poruka u skladu s pravilima i uvjetima formatiranja sustava TARGET2-HR i ako je prošla provjeru dvostrukog unosa kako je opisano u Dodatku I. ove Odluke i
+(c) SB privremeno isključenog sudionika dao izričiti pristanak u slučaju kada je platitelj ili primatelj plaćanja privremeno isključen iz sudjelovanja.
+2. Hrvatska narodna banka odmah odbija svaki nalog za plaćanje koji ne ispunjava uvjete utvrđene u stavku 1. ovog članka. Hrvatska narodna banka obavješćuje sudionika o svakom odbijanju naloga za plaćanje kako je utvrđeno u Dodatku I. ove Odluke.
+3. SSP određuje vremensku oznaku za obradu naloga za plaćanje na temelju vremena podnošenja i primanja naloga za plaćanje.
+Članak 16.
+Pravila o prioritetima
+1. Sudionici nalogodavci određuju svaki nalog za plaćanje kao jedno od sljedećeg:
+(a) redovan nalog za plaćanje (prioritetni razred 2),
+(b) hitan nalog za plaćanje (prioritetni razred 1) i
+(c) vrlo hitan nalog za plaćanje (prioritetni razred 0).
+Ako nalog za plaćanje ne sadrži prioritet, s njime se postupa kao s redovnim nalogom za plaćanje.
+2. Vrlo hitne naloge za plaćanje mogu odrediti samo:
+(a) središnje banke i
+(b) sudionici u slučajevima plaćanja u korist ili na teret CLS International Bank i prijenosa likvidnosti u vezi s namirom sporednih sustava koji upotrebljavaju ASI.
+Sve instrukcije za plaćanje koje je dostavio sporedni sustav preko ASI-ja radi terećenja ili odobrenja PM računa sudionika i svi dostavljeni nalozi za prijenos s PM računa na DCA jesu vrlo hitni nalozi za plaćanje.
+3. Nalozi za prijenos likvidnosti inicirani preko ICM-a hitni su nalozi za plaćanje.
+4. U slučaju hitnih i redovnih naloga za plaćanje platitelj može promijeniti prioritet preko ICM-a s trenutnim učinkom. Nije moguće promijeniti prioritet vrlo hitnog naloga za plaćanje.
+Članak 17.
+Ograničenja likvidnosti
+1. Sudionik može ograničiti upotrebu dostupne likvidnosti za naloge za plaćanje ostalim sudionicima sustava TARGET2, osim bilo kojoj središnjoj banci, određujući dvostrana ili višestrana ograničenja. Ta ograničenja mogu biti određena samo u vezi s redovnim nalozima za plaćanje.
+2. Određujući dvostrano ograničenje, sudionik daje instrukciju Hrvatskoj narodnoj banci da primljeni nalog za plaćanje ne smije biti namiren ako zbroj svih njegovih izlaznih redovnih naloga za plaćanje u korist PM računa drugog sudionika sustava TARGET2, umanjen za zbroj svih ulaznih hitnih i redovnih plaćanja s PM računa tog sudionika sustava TARGET2, iznosi više nego to dvostrano ograničenje.
+3. Sudionik može odrediti višestrano ograničenje za bilo koji odnos koji ne podliježe dvostranom ograničenju. Višestrano ograničenje može se odrediti samo ako je sudionik odredio najmanje jedno dvostrano ograničenje. Ako sudionik odredi višestrano ograničenje, daje instrukciju Hrvatskoj narodnoj

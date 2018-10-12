@@ -1,0 +1,27 @@
+64.
+(1) Mjesečno obračunsko razdoblje vezano je na kalendarski mjesec i odnosi se na:
+– krajnjeg kupca iz kategorije kućanstvo s priključnom snagom do uključivo 20 kW s daljinskim očitanjem,
+– krajnjeg kupca iz kategorije kućanstvo s priključnom snagom iznad 20 kW,
+– krajnjeg kupca iz kategorije poduzetništvo,
+– krajnjeg kupca s pravom na samoočitanje stanja brojila,
+– proizvođača i
+– krajnjeg kupca s vlastitom proizvodnjom.
+(2) Polugodišnje obračunsko razdoblje odnosi se na krajnjeg kupca iz kategorije kućanstvo s priključnom snagom do uključivo 20 kW bez daljinskog očitanja.
+Članak 65.
+(1) Za krajnjeg kupca s mjesečnim obračunskim razdobljem potrošnja određena u prethodnom mjesečnom obračunskom razdoblju predstavlja procijenjenu potrošnju mjesečnog obračunskog razdoblja.
+(2) Za krajnjeg kupca s pravom na samoočitanje stanja brojila, potrošnja određena na temelju zadnje dostavljenih podataka o stanju brojila predstavlja procijenjenu potrošnju mjesečnog obračunskog razdoblja.
+Članak 66.
+(1) Za krajnjeg kupca s polugodišnjim obračunskim razdobljem predviđena potrošnja u obračunskom razdoblju određuje se na temelju potrošnje u odgovarajućem prethodnom obračunskom razdoblju.
+(2) Za krajnjeg kupca s polugodišnjim obračunskim razdobljem za kojeg ne postoje povijesni podaci, predviđena potrošnja u obračunskom razdoblju procjenjuje se u dogovoru s krajnjim kupcem.
+(3) Za krajnjeg kupca s polugodišnjim obračunskim razdobljem iznos predviđene mjesečne potrošnje jednak je za svaki mjesec unutar obračunskog razdoblja.
+(4) Operator sustava dužan je na zahtjev krajnjeg kupca promijeniti predviđenu polugodišnju potrošnju iz stavaka 1. i 2. ovoga članka te predviđenu mjesečnu potrošnju iz stavka 3. ovoga članka, o čemu je dužan bez odgađanja obavijestiti opskrbljivača krajnjeg kupca.
+(5) Zahtjev za promjenu predviđene polugodišnje potrošnje i zahtjev za promjenu predviđene mjesečne potrošnje iz stavka 4. ovoga članka podnosi se operatoru sustava.
+(6) Na temelju promijenjene predviđene mjesečne potrošnje krajnjeg kupca iz stavka 4. ovoga članka, operator sustava je dužan prilagoditi iznos mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za korištenje prijenosne i/ili distribucijske mreže, a opskrbljivač iznos mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za opskrbu električnom energijom.
+(7) Krajnji kupac iz stavka 4. ovoga članka gubi mogućnost podnošenja zahtjeva iz stavka 4. ovoga članka u sljedeće dvije kalendarske godine ukoliko se predviđena polugodišnja potrošnja razlikuje za više od 50% od polugodišnje potrošnje određene na temelju članka 60. ovih Općih uvjeta.
+Članak 67.
+(1) Na temelju predviđene mjesečne potrošnje iz članka 66. stavaka 3., 4. i 6. ovih Općih uvjeta određuje se iznos mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za korištenje prijenosne i distribucijske mreže te iznos mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za opskrbu električnom energijom.
+(2) Na temelju iznosa mjesečnih novčanih obveza iz stavka 1. ovoga članka, u slučaju izdavanja odvojenih računa, operator sustava krajnjem kupcu ispostavlja mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za korištenje prijenosne i/ili distribucijske mreže, a opskrbljivač krajnjem kupcu ispostavlja mjesečne novčane obveze krajnjeg kupca iz kategorije kućanstvo za opskrbu električnom energijom.
+(3) Na temelju iznosa mjesečnih novčanih obveza iz stavka 1. ovoga članka, u slučaju izdavanja jedinstvenog računa, opskrbljivač ispostavlja krajnjem kupcu mjesečnu novčanu obvezu krajnjeg kupca iz kategorije kućanstvo za korištenje prijenosne i distribucijske mreže te za opskrbu električnom energijom.
+Članak 68.
+(1) Krajnjem kupcu s mjesečnim obračunskim razdobljem operator sustava izrađuje mjesečni obračun na temelju očitanja stanja brojila u skladu s člankom 59. ovih Općih uvjeta ili na temelju procijenjene potrošnje u slučajevima iz članka 63. ovih Općih uvjeta.
+(2) Na temelju obračuna iz stavka 1.

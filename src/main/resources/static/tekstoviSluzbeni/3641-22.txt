@@ -1,0 +1,30 @@
+s odabranim scenarijima te izvedivost akcija predviđenih za upravljanje nesrećom;
+f) pokazati, gdje je primjenjivo, da postoje dovoljne margine da se izbjegne »Cliff-edge” učinak koji bi mogao rezultirati neprihvatljivim posljedicama tj. za PPU A teškim oštećenjem goriva i za PPU B velikim ili ranim radioaktivnim ispuštanjima;
+g) odražavati saznanja stečena vjerojatnosnim sigurnosnim procjenama razine 1 i razine 2;
+h) uzeti u obzir, prema potrebi, pojave u teškim nesrećama;
+i) definirati krajnje stanje, koje bi, gdje je to moguće, trebalo biti sigurno stanje te, gdje je to primjenjivo, povezana vremena aktivacije SSK.
+4.4 Osiguranje sigurnosnih funkcija i upravljanja nesrećom u pooštrenim projektnim uvjetima
+Općenito
+(1) U PPU A cilj je da nuklearna elektrana bude u mogućnosti ispuniti temeljne sigurnosne funkcije:
+– kontrolu reaktivnosti,
+– uklanjanje topline iz jezgre reaktora i iz istrošenog goriva i
+– zadržavanje radioaktivnog materijala.
+U PPU B cilj je da nuklearna elektrana bude u mogućnosti zadržati radioaktivni materijal. U tu svrhu potrebno je osigurati uklanjanje topline iz oštećenog goriva.
+(2) Potrebno je pokazati da SSK (uključujući mobilnu opremu i njihove spojne točke, ako je primjenjivo) za sprječavanje teškog oštećenja goriva ili ublažavanje posljedica u PPU imaju kapacitet i mogućnost te da su odgovarajuće kvalificirani za obavljanje svojih bitnih funkcija za odgovarajuće razdoblje.
+(3) Ako upravljanje nesrećom ovisi o korištenju mobilne opreme, potrebno je instalirati stalne spojne točke dostupne (iz fizičke i radiološke točke gledišta) tijekom PPU, kako bi se omogućilo korištenje ove opreme. Mobilna oprema, spojne točke i linije trebaju biti održavane, pregledane i provjerene.
+(4) Potrebno je koristiti sustavni proces za pregled svih jedinica koje se oslanjaju na zajedničke servise i sredstva (ako ih ima), da su zajednički resursi (osoblje, oprema i materijali) za koje se očekuje da će biti korišteni u uvjetima tijekom nesreće dovoljni i djelotvorni za svaku jedinicu u svakm trenutku. Posebice, ako je međusobna potpora između jedinica na istoj lokaciji uključena u PPU, potrebno je pokazati kako to nije štetno za sigurnost bilo koje jedinice.
+(5) Lokacija nuklearne elektrane treba biti autonomna u vezi sredstava koja podržavaju sigurnosne funkcije u vremenskom periodu dok se ne može pouzdano dokazatii da se odgovarajuća opskrba može osigurati izvana.
+Dugoročna podkritičnost
+Prilikom pooštrenih projektnih uvjeta, podkritičnost jezgre reaktora treba biti dugoročno osigurana, a u skladištu goriva cijelo vrijeme.
+Funkcije odvođenja topline
+Potrebno je osigurati dovoljno nezavisnih i različitih načina odvođenja ostatne topline iz jezgre i istrošenog goriva, uključujući i dovoljno napajanje. Najmanje jedan od tih načina mora moći funkcionirati i nakon događaja koji uključuju vanjske nesreće teže od projektnih događaja.
+Funkcije zadržavanja
+(1) Izolacija kontejnmenta mora biti moguća tijekom PPU. Za stanja obustave gdje to nije moguće pravodobno postići, teško oštećenje jezgre potrebno je spriječiti s visokim stupnjem pouzdanosti. Ako događaj dovodi do zaobilaženja kontejnmenta, teško oštećenje jezgre potrebno je spriječiti s visokim stupnjem pouzdanosti.
+(2) Potrebno je kontrolirati tlak i temperaturu u kontejnmentu.
+(3) Potrebno je kontrolirati opasnost od zapaljivih plinova u kontejnmentu.
+(4) Potrebno je zaštititi kontejnment od previsokog tlaka. Ako se za kontrolu tlaka kontejnmenta koristi ispuštanje, potrebno je osigurati odgovarajuće filtriranje.
+(5) Nužno je spriječiti scenarije taljenja jezgre pod visokim tlakom.
+(6) Potrebno je spriječiti ili ublažiti degradaciju kontejnmenta zbog rastaljenog goriva koliko god je to razumno izvedivo.
+(7) U PPU A radioaktivna ispuštanja potrebno je smanjiti koliko god je to razumno izvedivo.
+(8) U PPU B radioaktivno ispuštanje u okoliš potrebno je ograničiti vremenom i količinom koliko je to razumno izvedivo kako bi se:
+a) osiguralo dovoljno vrijeme za provođenje

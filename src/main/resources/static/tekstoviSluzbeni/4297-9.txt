@@ -1,0 +1,21 @@
+ koji nije financijska institucija ili financijska institucija osim investicijskog subjekta iz članka 52. stavka 4. točke 2. Pravilnika koja nije financijska institucija države članice i druge jurisdikcije,
+2. radi utvrđivanja osoba koje imaju kontrolu nad imateljem računa, izvještajne financijske institucije mogu se osloniti na informacije koje se prikupljaju i čuvaju u skladu s postupcima za sprječavanje pranja novca i financiranja terorizma,
+3. radi utvrđivanja je li osoba koja ima kontrolu nad pasivnim subjektom koji nije financijska institucija osoba o kojoj se izvješćuje, izvještajne financijske institucije mogu se osloniti na:
+a. informacije koje se čuvaju u skladu s postupcima za sprječavanje pranja novca i financiranja terorizma u slučaju postojećeg računa subjekta koji vode jedan ili više subjekata koji nisu financijska institucija s agregiranim stanjem računa ili vrijednošću koja ne prelazi kunski iznos koji odgovara iznosu od 1.000.000 USD ili
+b. izjavu o rezidentnosti imatelja računa ili osobe koja ima kontrolu iz države(-a) članice(-a) ili druge(-ih) jurisdikcije(-a), u kojoj(-ima) je osoba koja ima kontrolu rezident u svrhu oporezivanja.
+4.1.6. Rokovi za provjeru računa s obzirom na iznos računa
+Članak 38.
+(1) Provjera postojećih računa subjekata s agregiranim stanjem ili vrijednošću, koje (-a) na dan 31. prosinca 2015. prelaze kunski iznos koji odgovara iznosu od 250.000 USD, mora biti dovršena do 31. prosinca 2017.
+(2) Provjera postojećih računa subjekata s agregiranim stanjem ili vrijednošću koje (-a) na dan 31. prosinca 2015. ne prelazi kunski iznos koji odgovara iznosu od 250.000 USD, ali na dan 31. prosinca naredne godine prelazi taj iznos, mora biti dovršena u kalendarskoj godini nakon godine u kojoj agregirano stanje računa ili vrijednosti prelazi taj iznos.
+4.1.7. Promjena okolnosti
+Članak 39.
+Ako promjene okolnosti u vezi s postojećim računom subjekta na temelju kojih izvještajne financijske institucije saznaju ili imaju razloga vjerovati da je izjava o rezidentnosti ili druga dokumentacija u svezi s računom netočna ili nepouzdana, izvještajne financijske institucije obvezne su ponovo utvrditi status računa u skladu s postupcima iz članka 35. ovoga Pravilnika.
+5. Dubinska analiza novih računa subjekata
+5.1. Utvrđivanje računa subjekata i osoba o kojima se izvješćuje
+5.1.1. Postupci za provjeru novih računa subjekta
+Članak 40.
+Izvještajne financijske institucije obvezne su primjenjivati postupke provjere iz članaka 41. i 42. ovoga Pravilnika u odnosu na nove račune subjekata, kako bi utvrdile je li račun u vlasništvu jedne ili više osoba o kojima se izvješćuje ili pasivnih subjekata koji nisu financijska institucija s jednom ili više osoba koje nad tim subjektom imaju kontrolu, a koje su osobe o kojima se izvješćuje.
+5.1.2. Utvrđivanje je li subjekt osoba o kojoj se izvješćuje
+Članak 41.
+(1) Pri utvrđivanju je li subjekt osoba o kojoj se izvješćuje, izvještajne financijske institucije pribavljaju izjavu o rezidentnosti imatelja računa koja može biti dio dokumentacije vezane uz otvaranje računa, a na temelju koje izvještajne financijske institucije mogu utvrditi rezidentnost imatelja računa u svrhu oporezivanja, te potvrđuju opravdanost te izjave o rezidentnosti na temelju informacija koje su izvještajne financijske institucije pribavile u vezi s otvaranjem računa, uključujući svu dokumentaciju prikupljenu u skladu s postupcima iz područja sprječavanja pranja novca i financiranja terorizma. Ako subjekt potvrdi da nema prebivalište u svrhu oporezivanja, izvještajne financijske institucije mogu se osloniti na adresu sjedišta subjekta radi utvrđivanja rezidentnosti imatelja računa.
+(2) Ako izjava o rezidentnosti upućuje na to da je imatelj računa rezident u državi članici i drugoj jurisdikciji, izvještajne financijske institucije obvezne su smatrati račun računom o kojem se izvješćuje, osim ako na temelju informacija koje posjeduju ili koje su javno dostupne utvrde da imatelj računa nije osoba o kojoj se

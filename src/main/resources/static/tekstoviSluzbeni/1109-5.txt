@@ -1,0 +1,36 @@
+ navesti razloge obustave postupka promjene opskrbljivača.
+Članak 15.
+(1) Nakon što novi opskrbljivač zaprimi potvrdu i podatke iz članka 14. stavka 6. ovih Pravila, dužan je u daljnjem roku od dva radna dana dostaviti krajnjem kupcu potvrdu o prihvaćanju zahtjeva za sklapanje novog ugovora o opskrbi te obavijestiti operatora sustava o danu sklapanja novog ugovora o opskrbi te danu početka njegove primjene.
+(2) Novi ugovor o opskrbi iz stavka 1. ovoga članka smatra se sklopljenim danom slanja potvrde novog opskrbljivača o prihvaćanju zahtjeva za sklapanje novog ugovora o opskrbi krajnjem kupcu, čime završava postupak promjene opskrbljivača.
+VII. OBVEZE NAKON ZAVRŠETKA POSTUPKA PROMJENE OPSKRBLJIVAČA
+Članak 16.
+(1) Dan početka primjene novoga ugovora o opskrbi je prvi dan u mjesecu.
+(2) Razgraničenje potrošnje primjenjuje se s danom početka primjene novog ugovora o opskrbi.
+(3) Nakon završetka postupka promjene opskrbljivača iz članaka 10. i 15. ovih Pravila, operator sustava dužan je do uključivo 24. u mjesecu koji prethodi mjesecu promjene opskrbljivača obavijestiti postojećeg opskrbljivača da je izvršena promjena opskrbljivača i raskinuti ugovor o opskrbi krajnjeg kupca, po ovlaštenju krajnjeg kupca, s postojećim opskrbljivačem sa zadnjim danom u mjesecu koji prethodi mjesecu primjene novog ugovora o opskrbi.
+Članak 17.
+Postojeći opskrbljivač dužan je u roku od šest tjedana od dana stupanja na snagu novog ugovora o opskrbi izdati krajnjem kupcu konačni obračun električne energije.
+VIII. OPSKRBA U OKVIRU JAVNE USLUGE
+Članak 18.
+(1) Krajnji kupac kojemu je istekao ugovor o opskrbi električnom energijom, odnosno koji nije započeo postupak promjene opskrbljivača ili nije produžio rok važenja ugovora o opskrbi električnom energijom, ima pravo na opskrbu električnom energijom u okviru javne usluge.
+(2) Operator sustava će krajnjeg kupca iz stavka 1. ovoga članka automatizmom prebaciti kod opskrbljivača u okviru javne usluge.
+IX. PRISTUP AGENCIJE PODACIMA O PROMJENI OPSKRBLJIVAČA
+Članak 19.
+Operator sustava dužan je osigurati Agenciji pristup podacima o promjeni opskrbljivača.
+X. NADZOR
+Članak 20.
+Nadzor nad primjenom ovih Pravila obavlja Agencija.
+XI. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 21.
+(1) Operator sustava i opskrbljivači dužni su prilagoditi uvjete poslovanja sukladno odredbama ovih Pravila u roku od šest mjeseci od dana stupanja na snagu ovih Pravila.
+(2) Operator distribucijskog sustava dužan je u roku iz stavka 1. ovoga članka donijeti Pravila za razgraničenje potrošnje i očitanje brojila u postupku promjene opskrbljivača iz članka 9. stavka 13. ovih Pravila.
+(3) Operator distribucijskog sustava dužan je u roku od tri mjeseca od dana stupanja na snagu ovih Pravila propisati strukturu sučelja za razmjenu podataka i pripadajuće formate razmjene podataka te ih javno objaviti na svojoj internetskoj stranici.
+(4) Sučelje iz stavka 3. ovoga članka treba postati funkcionirajuće u roku iz stavka 1. ovoga članka.
+(5) Operator sustava i opskrbljivači dužni su u roku iz stavka 1. ovoga članka uskladiti izgled računa za električnu energiju i računa za korištenje mreže, odnosno jedinstvenog računa za energiju i korištenje mreže, s odredbama ovih Pravila na način da su na istome jasno i izdvojeno od ostalih dijelova računa istaknuti svi podaci potrebni krajnjem kupcu za pokretanje postupka promjene opskrbljivača.
+Članak 22.
+Danom stupanja na snagu ovih Pravila prestaju važiti Opći uvjeti za opskrbu električnom energijom (»Narodne novine«, broj 14/06) u dijelu koji se odnosi na provedbu postupka promjene opskrbljivača.
+Članak 23.
+Ova Pravila stupaju na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/08
+Urbroj: 371-01/15-01
+Zagreb, 18. svibnja 2015.
+Predsjednik Upravnog vijeća Tomislav Jureković, dipl. ing., v. r.

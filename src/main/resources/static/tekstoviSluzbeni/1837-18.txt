@@ -1,0 +1,34 @@
+ tome se mora izvijestiti zapovjednik prije isplovljenja broda.
+3.5.3 Dodatno, u svrhu traganja i spašavanja, moraju se navesti imena i spol svih osoba na brodu, razlikujući odrasle, djecu i dojenčad.
+3.5.4 Podaci zahtijevani u 3.5.1, 3.5.2 i 3.5.3, moraju se čuvati na kopnu i moraju biti uvijek dostupni u svrhe traganja i spašavanja.
+3.5.5 Administracija može u cijelosti osloboditi putničke brodove od zahtjeva navedenih u točki 3.5, ako je zbog učestalosti putovanja i područja plovidbe takvih brodova, priprema ovih podataka nepraktična.
+3.6 POVRŠINE ZA SPUŠTANJE I PRIHVAĆANJE HELIKOPTEROM
+3.6.1 Svi ro-ro putnički brodovi moraju imati površinu za prihvaćanje helikopterom u skladu s IMO Rezolucijom A.229(VII) s izmjenama (MERSAR), koju je odobrila RO.
+3.6.2 Ro-ro putnički brodovi duljine 130 m i više, moraju imati površine za spuštanje helikoptera koje moraju biti odobrene od RO.
+3.7 SUSTAV POTPORE ZA ODLUKE ZAPOVJEDNIKA PUTNIČKOG BRODA
+3.7.1 Zahtjevi ovog odjeljka odnose se na sve putničke brodove.
+3.7.2 Svi putnički brodovi moraju imati sustav potpore za odluke za postupanje u nuždi koji se mora nalaziti na zapovjedničkom mostu.
+3.7.3 Sustav se, najmanje, mora sastojati od, pisanog plana ili planova. U planu ili planovima u nuždi moraju biti naznačena sva predvidljiva događanja u nuždi, uključivo, ali ne ograničeno na, slijedeće:
+.1 požar;
+.2 oštećenje broda;
+.3 zagađenje;
+.4 nezakonite radnje koje ugrožavaju sigurnost broda, putnika i posade;
+.5 nezgode osoblja;
+.6 nezgode u svezi tereta; i
+.7 pomoć u nuždi drugim brodovima.
+3.7.4 Postupci u nuždi predviđeni planom ili planovima, moraju osigurati potporu za odluke zapovjedniku za postupanje u bilo kojoj kombinaciji događanja u nuždi.
+3.7.5 Plan ili planovi u nuždi moraju imati ujednačen sadržaj i biti jednostavni za korištenje. Gdje je to primjenjivo, mora se koristiti stvarno stanje krcanja kako je to navedeno u proračunu stabiliteta putničkog broda za svrhe upravljanja u svezi oštećenja broda.
+3.7.6 Dodatno pisanom planu ili planova u nuždi, RO može također odobriti korištenje sustava potpore za odluke na računalu na zapovjedničkom mostu, koji daje sve obavijesti sadržane u planu ili planovima u nuždi, postupke, liste za provjeru, itd., i koji može dati popis preporučenih postupaka koji se moraju obaviti u predvidivim događajima u nuždi.
+3.8 VJEŽBE
+3.8.1 Zahtjevi ovog odjeljka odnose se na sve putničke brodove.
+3.8.2 Vježba napuštanja broda i vježba protupožarne zaštite mora se održavati svakog tjedna. Cijela posada ne mora sudjelovati u svakoj vježbi, ali svaki član posade mora sudjelovati u vježbi napuštanja broda i vježbi protupožarne zaštite svakoga mjeseca, u skladu s 2.13. Putnici se moraju snažno poticati da prisustvuju ovim vježbama.
+PRILOG IV.
+ZAHTJEVI ZA TERETNE BRODOVE
+4.1 PLOVILA ZA PREŽIVLJAVANJE I BRODICE ZA PRIKUPLJANJE
+4.1.1 Plovila za preživljavanje
+4.1.1.1 Teretni brodovi moraju imati:
+.1 na svakom boku broda, jednu ili više potpuno zatvorenih brodica za spašavanje u skladu sa 6.15, ukupnog kapaciteta dovoljnog za smještaj ukupnog broja osoba na brodu;
+.2 dodatno, splav ili splavi za spašavanje, u skladu sa 6.9 ili 6.10, mase manje od 185 kg i smještene tako da se mogu lako prebaciti s boka na bok broda na razini jedne otkrivene palube, ukupnog kapaciteta dovoljnog za smještaj ukupnog broja osoba na brodu. Ako splav ili splavi za spašavanje nisu mase manje od 185 kg i ako su smještene tako da se ne mogu lako prebaciti s boka na bok broda na razini jedne otkrivene palube, ukupni kapacitet splavi za spašavanje na svakom boku broda mora biti dovoljan za smještaj ukupnog broja osoba na brodu.
+4.1.1.2 Umjesto udovoljavanja zahtjevima navedenim u 4.1.1.1, teretni brodovi mogu imati:
+.1 jednu ili više brodica za spašavanje, u skladu sa 6.16, koje se spuštaju slobodnim padom s krme broda, ukupnog kapaciteta dovoljnog za smještaj ukupnog broja osoba na brodu;
+.2 dodatno, splav ili splavi za spašavanje u skladu sa 6.9 ili 6.10, na svakom boku broda, ukupnog

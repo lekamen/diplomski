@@ -1,0 +1,25 @@
+ krute, napuhavajuće ili kombinirane izvedbe duljine ne manje od 3,8 m i moraju biti odobrene od RO. Brodice za prikupljanje moraju imati vlastiti uzgon ili uzgonske materijale, otporne na djelovanje morske vode, nafte ili naftnih proizvoda, koji održavaju brodicu u plutajućem stanju i kada je potpuno naplavljena. Dodatno, moraju se predvidjeti uzgonski materijali, koji za svaku osobu za koju je predviđen smještaj u brodicu za prikupljanje, koji osiguravaju uzgon od 280 N. Uzgonski materijal se ne smije postaviti s vanjske strane trupa brodice za prikupljanje. Brodica za prikupljanje mora imati izvanbrodski ili ugrađen pogonski motor.
+6.19.4.2 Brodice za prikupljanje moraju imati:
+– najmanje dva plutajuća vesla s pripadajućim rašljama,
+– plutajući ispolac
+– plutajući konopac duljine 30 m, dovoljne čvrstoće za tegalj splavi za spašavanje,
+– vodonepropusna svjetiljka s rezervnim slogom baterija i žaruljom, s mogućnošću davanja Morzeovih znakova,
+– zviždaljka,
+– prva pomoć u vodonepropusnoj kutiji,
+– čaklja,
+– nož s plutajućom drškom.
+6.19.4.3 Uređaj za spuštanje/podizanje brodice za prikupljanje mora biti, najmanje, mehaničke izvedbe, ručni pogon, i mora omogućiti spuštanje/podizanje opremljene brodice za prikupljanje zajedno s ukupno odobrenim brojem osoba.
+6.20 UREĐAJI ZA SPUŠTANJE I UKRCAJ
+6.20.1 Osnovni zahtjevi
+6.20.1.1 Osim pomoćnih uređaja za spuštanje brodica za spašavanje koje se spuštaju slobodnim padom, svaki uređaj za spuštanje mora omogućiti sigurno spuštanje potpuno opremljenog plovila za preživljavanje ili brodice za prikupljanje u nepovoljnim uvjetima trima do 10° i nagiba do 20° na bilo koju stranu broda:
+.1 kad je u njih ukrcan predviđeni broj osoba u skladu s 3.3 ili 4.3; i
+.2 kad je ukrcana samo posada.
+6.20.1.2 Bez obzira na zahtjeve 6.20.1.1, uređaji za spuštanje brodica za spašavanje na tankerima, tankerima za kemikalije i brodovima za ukapljeni plin, koji imaju konačni kut nagiba veći od 20° izračunat prema Međunarodnoj konvenciji o sprečavanju zagađivanja s brodova, 1973., s izmjenama 1978., (MARPOL 73/78) i u skladu s preporukama IMO Rezolucije MSC.4(48), prema potrebi, moraju ostati u funkciji kod konačnog kuta nagiba na nižoj strani broda, uzimajući u obzir konačnu vodnu liniju oštećenog broda.
+6.20.1.3 Uređaj za spuštanje ne smije ovisiti ni o kojim sredstvima, osim o gravitaciji ili spremljenoj mehaničkoj energiji neovisnoj o brodskom napajanju potrebnom za spuštanje plovila za preživljavanje ili brodica za prikupljanje, kada su opterećene ukupnim brojem osoba i opremom ili prazne s opremom.
+6.20.1.4 Konstrukcija uređaja za spuštanje mora omogućiti njegovo lako održavanje. Svi dijelovi koji zahtijevaju redovito održavanje od strane posade, moraju biti lako dostupni i moraju biti pogodni za lako održavanje.
+6.20.1.5 Uređaj za spuštanje i pripadajuća oprema, osim kočnica vitla, moraju biti dovoljne čvrstoće da izdrže ispitivanje proizvodnim pokusnim statičkim opterećenjem ne manjim od 2.2 puta najveće radno opterećenje.
+6.20.1.6 Konstrukcijski elementi i svi koloturnici, užad za zavješenje, konzole, karike, pričvršćenja i svi ostali elementi koji se koriste kod uređaja za spuštanje, moraju biti projektirani za koeficijent sigurnosti izračunat na osnovi najvećeg radnog opterećenja i prekidnu čvrstoću upotrijebljenog konstrukcijskog materijala. Koeficijent sigurnosti ne manji od 4,5 mora se koristiti za konstrukcijske elemente sohe i vitla, a koeficijent sigurnosti ne manji od 6 mora se koristiti za užad za zavješenje, lance, karike i koloturnike.
+6.20.1.7 Svaki uređaj za spuštanje, koliko je to praktički moguće, mora ostati sposoban za rad u uvjetima zaleđivanja.
+6.20.1.8 Uređaj za spuštanje brodice za spašavanje mora moći podignuti brodicu i njezinu posadu.
+6.20.1.9 Uređaj za spuštanje brodice za prikupljanje mora omogućiti podizanje brodice s dopuštenim brojem osoba i opremom brzinom ne manjom od 0,3 m/s.
+6.20.1.10 Uređaji za spuštanje moraju omogućavati siguran ukrcaj u plovila za preživljavanje, u 

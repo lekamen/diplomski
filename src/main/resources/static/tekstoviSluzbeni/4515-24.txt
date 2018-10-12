@@ -1,0 +1,34 @@
+ normalnu vidljivost na vozilima kategorije M, N i O moraju biti odobreni i ugrađeni sukladno odredbama Direktive 92/22/EEC (vjetrobran i sva stakla), Direktive 94/68/EZ (brisači vjetrobrana) i Direktive 2003/97/EEC (vozačka zrcala).
+(2) Vozila čiji uređaji koji omogućuju normalnu vidljivost nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju ispunjavati uvjete propisane ovim Pravilnikom.
+Članak 55.
+Uređaji koji omogućuju normalnu vidljivost u prometu na cesti, sukladno ovom Pravilniku su:
+1) vjetrobran i vanjska prozorska stakla kabine i karoserije
+2) uređaj za brisanje vjetrobrana
+3) uređaj za pranje vanjske strane vjetrobrana
+4) zrcalo koje vozaču omogućuje promatranje ceste i prometa (u daljnjem tekstu: »vozačko zrcalo«).
+Članak 56.
+(1) Vjetrobran i bočna stakla u ravnini vozača ne smiju se dodatno zatamnjivati.
+(2) Odredba stavka 1. ovoga članka ne primjenjuje se na vozila policije.
+Članak 57.
+(1) Uređaj za brisanje vjetrobrana na vozilima kategorije M i N moraju biti ugrađeni i izvedeni tako da omoguće brisanje što veće površine vjetrobrana u svim vremenskim uvjetima.
+(2) Vozila kategorije M i N koja imaju ugrađene uređaje za brisanje vjetrobrana, moraju imati i perače vjetrobrana.
+Članak 58.
+(1) Vozila moraju biti opremljena najmanje slijedećim zrcalima:
+1) dva vozačka zrcala na osobnom automobilu, od kojeg je jedno zrcalo smješteno unutar karoserije, a drugo izvan karoserije na lijevoj strani vozila
+2) dva vozačka zrcala na autobusu i osobnom automobilu koji vuče kamp prikolicu s obje vanjske strane prednjeg dijela vozila i jedno vozačko zrcalo unutar karoserije, a vozila koja vuku šire vozilo odnosno teret od svoje širine, moraju imati postavljene dodatne retrovizore izvan širine priključnog vozila odnosno tereta.
+3) dva vozačka zrcala na teretnim vozilima s obje vanjske strane prednjeg dijela vozila.
+(2) Vozačko zrcalo mora se postaviti tako da vozaču omogućuje promatranje ceste i prometa iza vozila i kad se u vozilu nalazi najveći dopušteni broj osoba, odnosno kad je vozilo natovareno.
+(3) Vozačko zrcalo mora biti zglobno spojeno za ležište nosača tako da se može postaviti u bilo koji položaj radi promatranja ceste i prometa iza vozila te da u istom položaju ostane za vrijeme kretanja vozila.
+(4) Vozačko zrcalo postavljeno unutar karoserije osobnog automobila, mora se nalaziti na mjestu s kojeg se može podešavati sa vozačkog sjedišta.
+(5) Površina vozačkog zrcala mora imati takve optičke značajke da ne uzrokuje znatnije iskrivljenje slike i boje predmeta te da nije podložna štetnom djelovanju atmosferskih prilika.
+(6) Površina vozačkog zrcala koja reflektira sliku može biti ravna, konveksna ili kombinirana. Polumjer konveksne površine vozačkog zrcala ne smije biti manji od 80 cm.
+(7) Površina vozačkog zrcala iznosi:
+1) najmanje 60 cm² za zrcala smještena unutar karoserije i izvan karoserije osobnog automobila
+2) najmanje 150 cm² ako im je površina konveksna, odnosno najmanje 300 cm² ako im je površina ravna ako su zrcala smještena izvan karoserije ostalih motornih vozila.
+(8) Ako vozačko zrcalo koje je smješteno izvan karoserije vozila premašuje najveću dopuštenu širinu motornog vozila, zrcalo mora biti postavljeno na nosač sa zglobom koji omogućuje da se pritiskom na nosač zrcala zrcalo vrati u dopuštenu širinu vozila.
+(9) Teretni automobili kategorije N2 i N3, moraju biti naknadno opremljeni dodatnim zrcalima, sukladno Direktivi 2007/38/EZ.
+(10) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+6. Samonosiva karoserija, šasija i ostali dijelovi
+Članak 59.
+(1) Samonosiva karoserija, odnosno šasija motornog i priključnog vozila, mora biti ugrađena i izvedena da po konstrukciji, kakvoći, čvrstoći, vrsti materijala i opremljenosti odgovara namjeni vozila i osigurava sigurnost putnika i vozača za vrijeme vožnje.
+(2) Samonosiva karoserija, odnosno šasija mora biti cjelovita i mora zadovoljavati propisane tehničke najveće dopuštene

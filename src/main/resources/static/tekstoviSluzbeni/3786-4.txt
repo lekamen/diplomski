@@ -1,0 +1,32 @@
+ Sjedinjenih Američkih Država radi unaprjeđenja izvršenja poreznih obveza na međunarodnoj razini i provedbe FATCA-e, koji propisuje pravila za prepoznavanje i razmjenu informacija o računima rezidenata dviju država koji se nalaze u financijskim institucijama tih država, u svrhu prepoznavanja financijskih računa, prijave oporezivih prihoda u državi rezidentnosti, odnosno izbjegavanja porezne utaje.
+42. ukupan godišnji prihod ostvaren u poslovnoj godini obuhvaća prihod kojeg je društvo za upravljanje, odnosno trgovačko društvo depozitar, za koje je Agencija utvrdila da je prekršilo odredbe ovoga Zakona i/ili propisa donesenih na temelju ovoga Zakona, ostvarilo u godini počinjenja prekršaja, utvrđen službenim godišnjim financijskim izvještajima za tu godinu koji su odobreni od strane upravljačkog tijela društva, a po odbitku poreza na dodanu vrijednost i drugih poreza izravno vezanih za obavljanje djelatnosti.
+43. službeni godišnji financijski izvještaji su revidirani godišnji financijski izvještaji sukladno zakonu kojim se uređuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja.
+(2) Kada UCITS fond iz druge države članice ili otvoreni investicijski fond s javnom ponudom iz treće države nema društvo za upravljanje koje njime upravlja, odredbe ovoga Zakona koje se odnose na društvo za upravljanje iz druge države članice ili društvo za upravljanje iz treće države primjenjuju se izravno na taj investicijski fond.
+Članak 5.
+Ovaj Zakon ne primjenjuje se na sljedeće subjekte:
+1. investicijske fondove zatvorenog tipa
+2. investicijske fondove koji prikupljaju sredstva ne promičući prodaju svojih udjela javnosti
+3. investicijske fondove čiji se udjeli, u skladu s prospektom i pravilima, mogu nuditi samo javnosti u trećim državama i
+4. kategorije investicijskih fondova određene propisima država članica u kojima su takvi investicijski fondovi osnovani, za koje su pravila propisana u članku 108. stavcima 1., 2. i 5. te člancima 252. do 260. ovoga Zakona neprikladna s obzirom na njihovu politiku ulaganja i zaduživanja.
+UCITS fondovi u Republici Hrvatskoj
+Članak 6.
+(1) U Republici Hrvatskoj UCITS fond moguće je osnovati samo kao otvoreni investicijski fond s javnom ponudom.
+(2) UCITS fondovi ne mogu se preoblikovati u alternativne investicijske fondove.
+Zabrana ponude, upravljanja i nuđenja udjela bez odobrenja nadležnog tijela
+Članak 7.
+(1) Niti jedna osoba, bilo pravna ili fizička, ne može osnovati niti upravljati UCITS fondom, osim ako za to nije dobila odobrenje Agencije ili nadležnog tijela.
+(2) Samo osobe iz članka 164. ovoga Zakona mogu obavljati poslove nuđenja udjela UCITS fondova.
+Porezni status UCITS fonda
+Članak 8.
+Porezni status UCITS fonda određuje se prema posebnim propisima i međunarodnim ugovorima koji su u primjeni u Republici Hrvatskoj.
+Primjena propisa Europske unije i podredna primjena propisa
+Članak 9.
+Na poslovanje društava za upravljanje na odgovarajući način se primjenjuju odredbe zakona koji uređuje osnivanje i poslovanje trgovačkih društava, ako ovim Zakonom nije određeno drugačije, te odredbe uredbi Europske unije.
+Registar društava za upravljanje i UCITS fondova
+Članak 10.
+(1) Društva za upravljanje kojima je Agencija izdala odobrenje za rad i UCITS fondovi za koje je Agencija izdala odobrenje za osnivanje i upravljanje upisuju se u registar društava za upravljanje i UCITS fondova Republike Hrvatske koji vodi Agencija.
+(2) U registar društva za upravljanje i UCITS fondova upisuju se društva za upravljanje i UCITS fondovi te svi podaci određeni ovim Zakonom i pravilnikom iz stavka 4. ovoga članka, kao i promjene tih podataka.
+(3) Pojedine podatke iz registra društva za upravljanje i UCITS fondova Agencija će objaviti na svojoj mrežnoj stranici.
+(4) Agencija će pravilnikom propisati sadržaj i način vođenja registra društava za upravljanje i UCITS fondova, kao i objavu podataka iz navedenog registra.
+Članak 11.
+Agencija će na svojim mrežnim stranicama objaviti i popis svih društava za

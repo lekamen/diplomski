@@ -1,0 +1,23 @@
+ jednosatne serije proizvodnje boca. Ako se ispituje na mjestu uvoza, onda se jednom serijom smatraju sve boce iste isporuke. U slučaju kada se ne može utvrditi koje boce pripadaju istoj isporuci, ispitivanje se može vršiti i na način da se jednom serijom smatraju sve boce iste veličine i istog proizvođača na skladištu.
+Ako rezultat provjere serije, koja odgovara satnoj proizvodnji, nije zadovoljavajući, može se provesti drugo ispitivanje, bilo na temelju drugog uzorka iz serije koja odgovara duljem razdoblju proizvodnje ili, tamo gdje proizvodnja podliježe provjeri priznatoj od strane mjerodavnih tijela države članice, na temelju zapisa rezultata provjernih kartica proizvođača.
+2. Mjerenje obujma boca kao mjernih spremnika koji čine uzorak
+Prvo se odredi masa praznih boca. Zatim ih se napuni do vrha ili do označene visine vodom poznate gustoće, čija je temperatura 20 °C, a potom se pristupa određivanju mase punih boca.
+Provjera se mora provoditi s pomoću zakonskog mjerila prikladnog za obavljanje potrebnih radnji.
+Mjerna pogreška određivanja obujma ne smije biti veća od 1/5 najvećeg dopuštenog odstupanja utvrđenog u Dodatku I točka 3. ovoga Pravilnika za određeni nazivni obujam boce kao mjernog spremnika.
+3. Vrednovanje rezultata
+Broj boca kao mjernih spremnika u uzorku jednak je 35.
+3.1. Treba izračunati ove vrijednosti (vidi podtočku 3.4.):
+3.1.1. srednju vrijednost izmjerenih obujma xi boca u uzorku
+3.1.2. procijenjeno standardno odstupanje s izmjerenih obujma xi boca u seriji.
+3.2. Treba izračunati ove granične vrijednosti:
+3.2.1. Gornju granicu Ts: kao zbroj označenog obujma (vidi Dodatak I. točku 8.) i najveće dopušteno odstupanje koje odgovara tom obujmu.
+3.2.2. Donju granica Ti: kao razliku između označenog obujma (vidi Dodatak I. točku 8.) i dopušteno odstupanje koje odgovara tom obujmu.
+3.3. Kriterij prihvaćanja
+Serija se prihvaća kada vrijednosti i s istovremeno zadovoljavaju ove tri nejednadžbe:
+
+gdje je k = 1,57
+za F = 0,266
+3.4. Izračun srednje vrijednosti i procijenjenog standardnog odstupanja s.
+Izračunajte na sljedeći način:
+
+Prema tome procijenjeno standardno odstupanje jednako je

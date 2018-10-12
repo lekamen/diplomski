@@ -1,0 +1,22 @@
+ stavku 2. ovoga članka.
+Za površinske vode, u slučaju kada se na temelju izmjerenih ili procijenjenih koncentracija ili emisija tvari utvrdi mogući rizik zbog akutne izloženosti za vodni okoliš ili takav rizik koji se prenosi putem vodnog okoliša i gdje se primjenjuju SKVO za biotu ili sediment, osigurava se monitoring medija voda primjenom maksimalne godišnje koncentracije (MGK) SKVO iz Priloga 5.B ove Uredbe ako su takvi SKVO utvrđeni.
+Ako se, sukladno propisu iz članka 221. Zakona o vodama, izračunati godišnji prosjek izmjerenih koncentracija tvari, dobivenih korištenjem najboljih raspoloživih tehnika bez stvaranja prekomjernih troškova, kategorizira kao manji od granice kvantifikacije, a granica kvantifikacije za tu tehniku veća je od SKVO, rezultat mjerenja za tu tvar ne uzima se u obzir za potrebe procjene kemijskog stanja tog vodnog tijela.
+Tvari za koje se primjenjuju SKVO za sediment i/ili biotu potrebno je pratiti u relevantnom mediju barem jednom godišnje, osim ako je na temelju tehničkih znanja i stručne procjene rezultata monitoringa, sadržanom u godišnjem izvješću iz članka 44. Zakona o vodama, opravdano neko drugo vremensko razdoblje.
+Plan upravljanja vodnim područjima koji se mijenja i dopunjuje sukladno članku 36. stavku 5. Zakona o vodama mora sadržavati sljedeće podatke:
+1. tablicu koja prikazuje granice kvantifikacije za upotrijebljene metode analize i informacije o učinkovitosti tih metoda u odnosu na kriterije minimalne učinkovitosti sukladno propisu iz članka 221. Zakona o vodama;
+2. za tvari za koje je iskorištena mogućnost iz stavka 4. ovoga članka:
+– razloge i osnovu za korištenje te mogućnosti,
+– prema potrebi, utvrđene alternativne SKVO, dokaz da ti SKVO omogućuju barem jednaku razinu zaštite kao i SKVO utvrđeni u Prilogu 5.B ove Uredbe, uključujući podatke i metodologiju koji su korišteni za utvrđivanje tih SKVO te kategorije površinskih voda za koje bi se oni primjenjivali,
+– za usporedbu s informacijama iz točke 1. ovoga stavka, granice kvantifikacije za metode analize za medije utvrđene u Prilogu 5.B ove Uredbe, uključujući informacije o učinkovitosti tih metoda u odnosu na kriterije minimalne učinkovitosti sukladno propisu iz članka 221. Zakona o vodama;
+3. obrazloženje za učestalost monitoringa koji se obavlja sukladno stavku 9. ovoga članka, ako su razdoblja monitoringa dulja od jedne godine.
+Plan upravljanja vodnim područjima iz stavka 10. ovoga članka koji sadrži rezultate i učinke mjera poduzetih u svrhu sprječavanja kemijskog onečišćenja površinskih voda te privremeno izvješće u kojemu se opisuje napredak u provedbi planiranog programa mjera sukladno članku 36.c stavku 3. Zakona o vodama, dostupan je javnosti sukladno članku 36. stavku 1. Zakona o vodama.«.
+Članak 5.
+U članku 24. stavku 4. znak: »<« na oba mjesta zamjenjuje se znakom: »≤«.
+Članak 6.
+Iza članka 31. dodaje se članak 31.a koji glasi:
+»Članak 31.a
+Monitoring tvari s Popisa praćenja provodi se na odabranim reprezentativnim postajama za monitoring tijekom razdoblja od najmanje 12 mjeseci. Trajanje razdoblja kontinuiranog monitoringa za bilo koju pojedinačnu tvar s Popisa praćenja ne prelazi četiri godine.
+Za prvi Popis praćenja utvrđenog Provedbenom Odlukom Komisije (EU) 2015/495 od 20. ožujka 2015. o utvrđivanju popisa praćenja za tvari za koje je potrebno praćenje diljem Unije u području vodne politike u skladu s Direktivom 2008/105/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 78, 24. 3. 2015.), razdoblje monitoringa započinje unutar razdoblja od šest mjeseci od 20. listopada 2015. godine. Za svaku novu tvar dodanu na Popis praćenja započinje se s monitoringom unutar šest mjeseci nakon njezina dodavanja na Popis praćenja.
+Monitoring se provodi na najmanje jednoj mjernoj postaji, a u sljedećim slučajevima dodatno se uvećava za:
+– jednu mjernu postaju ako ima više od milijun stanovnika,
+– broj mjernih postaja jednak broju njezinog zemljopisnog područja u km2 podijeljenog sa 60 000 (zaokruženo na najbliži

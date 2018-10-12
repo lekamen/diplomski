@@ -1,0 +1,29 @@
+ provedeno.
+(5) Spis predmeta može se arhivirati tek nakon što se od ovlaštenog službenika financijsko-materijalnog poslovanja pribavi kartica predmeta iz koje proizlazi da u sudskom predmetu nema neraspoređenih sredstava.
+(6) Novčana sredstva koja nisu u cijelosti utrošena u pojedinom sudskom postupku, a čiji bi povrat iziskivao veće troškove od iznosa koji se treba vratiti uplatitelju, na temelju naloga suca odnosno sudskog savjetnika uplatit će se u korist državnog proračuna prije arhiviranja spisa predmeta na koji se odnose.
+Članak 25.
+(1) Za svaki sudski predmet sud u elektronskom obliku vodi knjigovodstvenu karticu, u koju se evidentiraju sve uplate i isplate (Kartica predmeta, obrazac broj 1).
+(2) Uz karticu predmeta vodi se i Dnevnik knjiženja, koji sadrži sve podatke kao i Kartica predmeta.
+(3) Po proteku poslovne godine Dnevnik knjiženja i saldo kartica predmeta se ispisuju te ih ovjeravaju predsjednik suda i ovlašteni službenik.
+Članak 26.
+(1) Za evidenciju primanja i izdavanja vrijednosti i drugih stvari vodi se Evidencija negotovinskih pologa (obrazac broj 2).
+(2) Primanja i izdavanja negotovinskih pologa upisuju se na temelju zapisnika o primanju i naredbe suca odnosno sudskog savjetnika o izdavanju te se knjiže u Evidenciju negotovinskih pologa.
+(3) Po proteku poslovne godine Evidenciju negotovinskih pologa ovjeravaju predsjednik suda i ovlašteni službenik.
+Članak 27.
+(1) Primitak pologa na čuvanje kod čuvara upisuje se u Evidenciju pologa na čuvanju kod drugih osoba (obrazac broj 3).
+(2) Po proteku poslovne godine Evidenciju pologa na čuvanju kod drugih osoba ovjeravaju predsjednik suda i ovlašteni službenik.
+IV. Evidencija naplate novčane kazne, troškova kaznenog postupka i oduzete imovinske koristi
+Članak 28.
+(1) Novčane kazne, troškovi kaznenog postupka i oduzeta imovinska korist uplaćuju se na račun državnog proračuna Republike Hrvatske.
+(2) Pravomoćna sudska odluka kojom je pojedinim osobama naloženo plaćanje novčane kazne, troškova kaznenog postupka ili određenog iznosa na ime oduzimanja imovinske koristi evidentira se u Evidenciji novčanih kazni, troškova kaznenog postupka i oduzete imovinske koristi (dalje u tekstu: Evidencija) (obrazac broj 4) odnosno u informacijskom sustavu koji se koristi u poslovanju suda.
+(3) Nakon upisa zaduženja i roka do kojeg treba izvršiti uplatu, ispod odluke suca kojom se naređuje zaduženje i na omotu spisa predmeta službenik sudske pisarnice bilježi redni broj Evidencije pod kojim je zaduženje upisano. U odgovarajuću rubriku kaznenog upisnika također se upisuje broj Evidencije pod kojim je zaduženje upisano.
+Članak 29.
+(1) Neposredno nakon upisivanja potrebnih podataka u Evidenciju službenik sudske pisarnice ispisuje nalog za plaćanje novčane kazne, troškova kaznenog postupka i iznosa na ime oduzete imovinske koristi te ga dostavlja obvezniku.
+(2) Nakon izvršene dostave naloga iz stavka 1. ovog članka službenik sudske pisarnice u Evidenciju upisuje datum uručenja naloga za plaćanje.
+Članak 30.
+Nakon izvršene uplate novčane kazne, troškova kaznenog postupka ili oduzete imovinske koristi ovlašteni službenik sudske pisarnice u spis predmeta dostavlja Obavijest o naplati novčane kazne, troškova kaznenog postupka i oduzete imovinske koristi (obrazac broj 5).
+Članak 31.
+(1) Ovlašteni službenik sudske pisarnice dužan je svakodnevno provjeravati naplatu i poduzimati druge radnje radi provjere rokova za plaćanje.
+(2) Na kraju svakog tjedna ovlašteni službenik sudske pisarnice dužan je pregledati sve otvorene stavke i o proteku roka uplate obavijestiti suca koji postupa u predmetu da je rok za naplatu bezuspješno protekao.
+(3) Ako novčana kazna nije u cijelosti ili djelomično plaćena u roku koji je određen sudskom odlukom, naplatit će se prisilno, sukladno posebnom zakonu.
+(4) Ako trošak kaznenog postupka ili iznos oduzete imovinske koristi ne bude plaćen, sud koji je izrekao prvostupanjsku presudu s nalogom za plaćanje troškova postupka ili isplatu iznosa oduzete imovinske koristi,

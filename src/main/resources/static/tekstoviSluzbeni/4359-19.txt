@@ -1,0 +1,38 @@
+ postavljanja koda na SSR transponderu iz stavka 6. ovoga članka i identifikacije od nadležne kontrole zračnog prometa, za svaki zrakoplov iz grupe primijenit će se pojedinačno razdvajanje.
+Vizualni signali u letu
+Članak 127.
+Vizualni signali za sporazumijevanje u letu nalaze su u Prilogu 2. ovoga Pravilnika i njegov su sastavni dio.
+Uzlijetanje i slijetanje u grupi
+Članak 128.
+(1) Ovisno o kategoriji uzletno-sletne staze, kategoriji aviona i osposobljenosti posade, istodobno uzlijetanje provodi se u grupi do četiri aviona danju ili do dva aviona noću, a slijetanje u grupi do dva aviona danju odnosno svakog aviona pojedinačno noću.
+(2) Danju je dopušteno istodobno uzlijetanje u grupi do dvanaest, a slijetanje u grupi do osam helikoptera. Noću je dopušteno istodobno uzlijetanje grupe do osam, a slijetanje grupe do četiri helikoptera.
+(3) Grupni let na kontroliranom aerodromu zapovjednik postrojbe koja organizira letenje dužan je koordinirati s nadležnom kontrolom zračnog prometa prije predaje plana leta.
+(4) Nadležna kontrola zračnog prometa osigurava dovoljno razdvajanje od ostalog prometa za sigurnu provedbu formiranja i razlaza grupe.
+(5) Iznimno od odredbi iz stavka 1. ovoga članka, dopušteno je uzlijetanje u grupi više od četiri vojna zrakoplova za grupu uvježbanu za izvođenje akrobatskih letova.
+Nadvišenje i sniženje u grupi
+Članak 129.
+(1) Zrakoplovi u grupi održavaju sniženje ili nadvišenje u skladu s Programom letačke obuke i Priručnikom za uporabu određenog tipa vojnog zrakoplova.
+(2) Održavanje nadvišenja i sniženja za grupu uvježbanu za izvođenje akrobatskih letova provodi se u skladu s Uputom za izvođenje akrobatskog letenja.
+Formiranje grupe
+Članak 130.
+(1) Zapovjednici vojnih zrakoplova u grupi odgovorni su za razmak u vožnji, izlazak na uzletno-sletnu stazu i vremenski razmak u uzlijetanju u odnosu na prethodni vojni zrakoplov.
+(2) Nadležna kontrola zračnog prometa izdaje odobrenje za voženje i uzlijetanje vođi grupe, bez obzira na broj zrakoplova, način uzlijetanja i postroj grupe koji će zrakoplovi formirati.
+Radiokomunikacija u grupnom letenju
+Članak 131.
+Tijekom vožnje i grupnog leta radiokomunikaciju s nadležnom kontrolom zračnog prometa održava vođa grupe, a posade u grupi moraju biti na slušanju (stalnom prijmu) na istoj frekvenciji. Vođa grupe obvezan je postaviti mod i kod na SSR transponderu prema uputi nadležne kontrole zračnog prometa. Pratitelji su obvezni imati postavljen dodijeljeni kod i SSR transponder u pripremi (STDBY).
+Razlaz grupe zrakoplova
+Članak 132.
+(1) Nadležna kontrola zračnog prometa, na zahtjev vođe grupe, odobrava razlaz vojnih zrakoplova iz sastava grupe.
+(2) Tijekom prilaženja za slijetanje grupe vojnih zrakoplova, od ulaznih vrata zone aerodromskog prometa (»Entry Point«) do točke razlaza (»Break Point«) nije dopuštena promjena postroja.
+(3) Ako razlaz grupe nije moguće provesti u odgovarajuću stranu, grupi se daje uputa za prelet aerodroma bez razilaženja i ponovni dolazak na točku razlaza u odgovarajućem postroju.
+(4) Iznimno od stavka 3. ovoga članka, razlaz grupe vojnih zrakoplova s količinom goriva koja ne osigurava siguran ponovni dolazak na točku razlaza provodi se po zapovijedi vođe grupe.
+(5) Nakon razlaza grupe, posade vojnih zrakoplova odgovorne su za postizanje i održavanje međusobnog razmaka na zadanoj putanji i visini u aerodromskom krugu.
+(6) Posade iz grupe pojedinačno traže odobrenje nadležne kontrole zračnog prometa za slijetanje.
+Dužnosti vođe grupe
+Članak 133.
+(1) Vođu grupe određuje zapovjednik postrojbe koja organizira letenje.
+(2) Vođa grupe zapovijeda tijekom pripreme i provedbe letačke zadaće, organizira i nadzire pripremu posada iz sastava grupe, te organizira i nadzire provedbu zadaće.
+(3) Vođa grupe tijekom leta dužan je:
+– pratiti položaj i razdvajanje vojnih zrakoplova u grupi i nadzirati postupke pratitelja tijekom leta
+– upravljati vojnim zrakoplovom na način koji omogućuje pratiteljima održavanje zadanog postroja
+– pravodobno informirati

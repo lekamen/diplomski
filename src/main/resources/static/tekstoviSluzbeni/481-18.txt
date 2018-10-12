@@ -1,0 +1,40 @@
+ resursa između borbenih skupina ili elemenata borbenog poretka ili bojnog rasporeda u skladu s misijom ili stanjem operacije; priprema podataka za ocjenu situacije i donošenje odluka u bilo kom trenutku tijekom operacije ili borbe; računalne simulacije operacija.
+ML10. »Bespilotna letjelica« (»UAV«)
+Bilo koji »zrakoplov« koji može pokrenuti let i održavati kontrolirani let i navigaciju bez ikakve ljudske posade.
+ML7., 22. »Biokatalizatori«
+Enzimi za specifične kemijske ili biokemijske reakcije ili druge biološke spojeve koji se spajaju s agensima za kemijsko ratovanje i ubrzavaju njihovo raspadanje.
+Tehnička napomena
+»Enzimi« označavaju »biokatalizatore« za specifične kemijske ili biokemijske reakcije.
+ML7., 22. »Biopolimeri«
+Biološke makromolekule kako slijedi:
+a. Enzimi za specifične kemijske ili biokemijske reakcije;
+b. Antitijela, monoklonalna, poliklonalna ili antiidiotipska;
+c. Posebno kreirani ili posebno obrađeni receptori;
+Tehničke napomene:
+1. »Antiidiotipska antitijela« znači antitijela koja se vežu za specifična antigenska vezna mjesta drugih antitijela;
+2. »Monoklonalna antitijela« znači proteini koji se vežu na jedno antigensko mjesto, a proizvodi ih jedna kultura (skupina) stanica;
+3. »Poliklonalna antitijela« znači mješavina proteina koji se vežu na specifične antigene, a koje proizvodi više od jedne kulture (skupine) stanica;
+4. »Receptori« znači biološke makromolekularne strukture koje su sposobne vezati ligande čije vezivanje utječe na fiziološke funkcije.
+ML15. »Cijevni pojačivači svjetlosti prve generacije«
+Elektrostatički fokusirane cijevi koje koriste ulazna i izlazna optička vlakna ili staklenu čeonu ploču, multialkalne fotokatode (S-20 ili S-25), ali ne koriste mikrokanalne pojačivače.
+ML4., 10. »Civilni zrakoplov«
+»Zrakoplovi«, navedeni po oznaci na popisu objavljenih certifikata o plovidbenosti od strane civilnih tijela, koji lete na komercijalnim domaćim ili međunarodnim rutama ili su namijenjeni legitimnoj civilnoj, privatnoj ili poslovnoj uporabi.
+ML8., 18. »Eksplozivi«
+Krute, tekuće i plinovite tvari ili smjese tvari koje moraju eksplodirati kada se koriste kao primarna, startna ili glavna punjenja u bojevim glavama, prilikom rušenja i drugim primjenama.
+ML7. »Ekspresijski vektori«
+Nositelji (npr. plazmidi ili virusi) korišteni za ubacivanje genetskog materijala u stanicu domaćina.
+ML8. »Energetski materijali« Tvari ili smjese koje kemijskom reakcijom oslobađaju energiju potrebnu za predviđenu namjenu. »Eksplozivi«, »pirotehnička sredstva« i »pogonske smjese« podrazredi su energetskih materijala.
+ML17. »Gorive ćelije«
+Elektrokemijski uređaj koji korištenjem goriva iz vanjskog izvora izravno pretvara kemijsku energiju u istosmjernu električnu struju.
+ML17. »Krajnje jedinice«
+Hvataljke, aktivne alatne jedinice i svaki drugi alat koji je pričvršćen na osnovnu ploču na kraju radne ruke »robota« manipulatora.
+Tehnička napomena:
+»Aktivne alatne jedinice« uređaji su za primjenu dodatne snage, obradne ili senzorske energije na povratu.
+ML9., 19. »Laser«
+Sklop komponenti koje proizvode prostorno i vremenski koherentno svjetlo pojačano stimuliranom emisijom zračenja.
+ML17. »Nuklearni reaktor«
+Uključuje dijelove i komponente koji se nalaze u ili se priključuju izravno na reaktorsku posudu, opremu koja kontrolira razinu snage u jezgri i komponente koje normalno sadrže ili dolaze u izravni kontakt sa ili nadziru primarno rashladno sredstvo reaktorske jezgre.
+ML4., 8. »Pirotehničke tvari«
+Smjese krutih ili tekućih goriva ili oksidatora koji, kad se zapale, prolaze kroz energetsku kemijsku reakciju kontroliranom brzinom radi dobivanja određene vremenske odgode ili količine topline, buke, dima, vidljive svjetlosti ili infracrvenog zračenja. Piroforne tvari su podgrupa pirotehničkih tvari koje ne sadrže oksidatore, ali se spontano zapale u dodiru sa zrakom.
+ML8. »Pogonsko gorivo«
+Tvari ili smjese koje kemijskom reakcijom proizvode velike količine vrelih plinova kontroliranom brzinom radi dobivanja mehaničkog

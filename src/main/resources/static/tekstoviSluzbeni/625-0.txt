@@ -1,0 +1,33 @@
+31 18.03.2015 Pravilnik o izvještavanju u neprofitnom računovodstvu i Registru neprofitnih organizacija
+MINISTARSTVO FINANCIJA
+626
+Na temelju članka 6. stavka 3., članka 30. stavka 3., članka 34. stavka 7., članka 35. stavka 3. i članka 36. stavka 3. Zakona o financijskom poslovanju i računovodstvu neprofitnih organizacija (»Narodne novine«, br. 121/14) ministar financija donosi
+PRAVILNIK
+O IZVJEŠTAVANJU U NEPROFITNOM RAČUNOVODSTVU I REGISTRU NEPROFITNIH ORGANIZACIJA
+I. OPĆE ODREDBE
+Članak 1.
+(1) Ovim se Pravilnikom propisuje oblik i sadržaj financijskih izvještaja i izjave o neaktivnosti, razdoblja za koja se financijski izvještaji sastavljaju te obveza i rokovi njihovog podnošenja.
+(2) Ovim se Pravilnikom uređuje i minimalni sadržaj i rokovi dostave izvještaja o potrošnji proračunskih sredstava te način vođenja, upis, brisanje i promjena podataka u Registru neprofitnih organizacija (u daljnjem tekstu: Registar).
+Članak 2.
+(1) Odredbe ovoga Pravilnika odnose se na neprofitne organizacije definirane u članku 2. stavku 1. Zakona o financijskom poslovanju i računovodstvu neprofitnih organizacija (u daljnjem tekstu: Zakon) i utvrđene u Registru.
+(2) Odredbe ovoga Pravilnika koje se odnose na upis u Registar primjenjuju se i na političke stranke.
+(3) Odredbe ovoga Pravilnika koje se odnose na dostavu izvještaja o potrošnji proračunskih sredstava primjenjuju se i na vjerske zajednice.
+Članak 3.
+(1) Za sastavljanje financijskih izvještaja odgovorna je osoba koja rukovodi službom računovodstva, odnosno koja vodi računovodstvene poslove neprofitne organizacije ili druga stručna pravna ili fizička osoba kojoj je povjereno vođenje računovodstva.
+(2) Zakonski zastupnik potpisuje financijske izvještaje, izvještaj o potrošnji proračunskih sredstava, izjavu o neaktivnosti i odgovoran je za njihovu vjerodostojnost i predaju.
+Članak 4.
+Financijski izvještaji sastavljaju se na hrvatskom jeziku, a podaci koji se odnose na novčane iznose upisuju se u valutnoj jedinici koja se primjenjuje u Republici Hrvatskoj.
+II. FINANCIJSKO IZVJEŠTAVANJE U SUSTAVU DVOJNOG KNJIGOVODSTVA
+Članak 5.
+(1) Neprofitna organizacija obveznik vođenja dvojnog knjigovodstva i neprofitna organizacija koja udovoljava uvjetima iz članka 9. stavka 2. Zakona za vođenje jednostavnog knjigovodstva, a nije donijela Odluku o vođenju jednostavnog knjigovodstva i primjeni novčanog računovodstvenog načela, sastavlja financijske izvještaje za razdoblja: od 1. siječnja do 31. ožujka, od 1. siječnja do 30. lipnja, od 1. siječnja do 30. rujna i za poslovnu godinu.
+(2) Financijski izvještaji za razdoblja u tijeku poslovne godine čuvaju se do predaje financijskih izvještaja za isto razdoblje sljedeće godine, a godišnji financijski izvještaji čuvaju se trajno i u izvorniku.
+Članak 6.
+(1) Financijski izvještaji sastavljaju se na sljedećim obrascima:
+– Bilanca na Obrascu: BIL-NPF
+– Izvještaj o prihodima i rashodima na Obrascu: PR-RAS-NPF
+– Skraćeni izvještaj o prihodima i rashodima na Obrascu: S-PR-RAS-NPF.
+(2) Obrasci iz stavka 1. ovoga članka nalaze se u prilogu ovoga Pravilnika i njegov su sastavni dio.
+Članak 7.
+(1) Zaglavlje i podnožje obrazaca financijskih izvještaja jedinstveno su definirana za obrasce: BIL-NPF, PR-RAS-NPF i S-PR-RAS-NPF.
+(2) Zaglavlje obrazaca popunjava se na sljedeći način:
+naziv obveznika – upisuje se naziv neprofitne organizacije iz propisa, rješenja ili drugoga odgovarajućeg akta poštanski broj – upisuje se poštanski broj sjedišta neprofitne organizacije iz popisa poštanskih brojeva mjesto – upisuje se naziv mjesta/grada prema sjedištu neprofitne organizacije adresa sjedišta – upisuje se adresa sjedišta neprofitne organizacije: ulica i broj RNO broj – upisuje se broj iz Registra neprofitnih organizacija matični broj – upisuje se matični broj iz Obavijesti o razvrstavanju poslovnog subjekta prema NKD-u 2007. Državnog zavoda za statistiku OIB – upisuje se osobni identifikacijski broj kojeg je neprofitnoj organizaciji dodijelilo Ministarstvo financija – Porezna uprava

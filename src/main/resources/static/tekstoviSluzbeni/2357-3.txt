@@ -1,0 +1,49 @@
+ promjenu podatka o brodaru, kompaniji ili korisniku jahte iz stavka 2. ovog članka koji se ne smatraju upisom iz članka 257. Pomorskog zakonika, nadležna lučka kapetanija može obaviti po službenoj dužnosti, korištenjem podataka iz Evidencije o osobnim identifikacijskim brojevima koju vodi Ministarstvo financija, Porezna uprava.
+Članak 16.
+(1) Upisnici iz članka 6. ovog Pravilnika sastoje se od glavne knjige i zbirke isprava.
+(2) Kada se u ovom Pravilniku koristi pojam EOP-upisnik, on se odnosi na glavne knjige i zbirke isprava vođene elektroničkom obradom podataka o pravnom stanju upisanih pomorskih objekata mjerodavnom za pravni promet, pohranjenih u jedinstvenu bazu podataka.
+(3) Upisnička mjesta u lučkim kapetanijama su povezana u jedinstvenu bazu podataka.
+Članak 17.
+(1) Glavna knjiga označava se s naznakom »Glavna knjiga«, a ulošci su označeni rednim brojem.
+(2) Glavna knjiga sastoji se od uložaka. Uložak ima list A (opisni), list B (vlasnički) i list C (teretni).
+(3) Svaki pomorski objekt upisuje se u poseban uložak odgovarajućeg upisnika.
+(4) U uložak brisanog pomorskog objekta ne može se upisati drugi pomorski objekt.
+Članak 18.
+(1) Glavna knjiga sastoji se od popisa upisa i popisa izbrisanih upisa pripadajućih uložaka, koji su pravno izjednačeni.
+(2) Glavna knjiga, kao dio EOP-upisnika, vodi se isključivo pohranjivanjem upisa u jedinstvenu bazu podataka koja ima značenje provedbe upisa.
+(3) Svaki upis pohranjen u glavnu knjigu označava se datumom upisa i brojem dnevnika upisnika.
+Članak 19.
+(1) Popis upisa dio je glavne knjige koji se sastoji od upisa postojećeg pravnog stanja upisanog pomorskog objekta.
+(2) Popis upisa ne sadrži izbrisane upise, osim onih koji su potrebni radi potpunog prikaza postojećeg pravnog stanja pomorskog objekta.
+Članak 20.
+(1) Popis izbrisanih upisa dio je glavne knjige u koji se prenose izbrisani upisi, koji više nisu nužni za prikaz postojećeg pravnog stanja pomorskog objekta.
+(2) Upis brisanja provest će se prijenosom izbrisanog upisa u popis izbrisanih upisa, osim ako bi to štetilo potpunom prikazu postojećeg pravnog stanja pomorskog objekta.
+(3) Promjena nositelja knjižnog prava provest će upisom novog nositelja u popis upisa, te istodobnim prijenosom upisa u korist dotadašnjeg nositelja u popis izbrisanih upisa.
+(4) Upis djelomičnog brisanja provest će se tako da se dotadašnji upis prenese u popis izbrisanih upisa, a u popisu upisa ga se istodobno nadomjesti novim upisom kojemu je sadržaj onaj dio prenesenog upisa koji nije bio izbrisan.
+Članak 21.
+(1) Zbirka isprava u EOP-upisnicima vodi se ručno i elektronski.
+(2) Zbirka isprava nastaje ulaganjem isprava i rješenja na temelju kojih je izvršen upis u EOP-upisnik.
+(3) Zbirka isprava vodi se i čuva po pojedinim ulošcima za svaki upisani pomorski objekt.
+Članak 22.
+(1) Dnevnik upisnika pomorskih objekata i drugi pomoćni popisi vode se samo putem elektroničke obrade podataka kao dio jedinstvene baze podataka.
+(2) Pomoćni popisi iz stavka 1. ovog članka su:
+1. Imenik brodova
+2. Imenik jahti
+3. Popis oznaka plutajućih objekata
+4. Popis oznaka nepomičnih odobalnih objekata
+5. Imenik vlasnika brodova
+6. Imenik vlasnika brodova u gradnji
+7. Imenik vlasnika jahti
+8. Imenik vlasnika jahti u gradnji
+9. Imenik vlasnika plutajućih objekata
+10. Imenik vlasnika nepomičnih odobalnih objekata
+11. Imenik vlasnika plutajućih objekata u gradnji
+12. Imenik vlasnika nepomičnih odobalnih objekata u gradnji
+13. Imenik brodara i kompanija
+14. Popis izdanih rješenja o imenu broda ili jahte, imenu i oznaci ribarskog broda, te oznaci plutajućeg objekta i oznaci nepomičnog odobalnog objekta
+15. Popis trajnih zapisa broda
+16. Popis nacionalnih identifikacijskih brojeva i
+17. Popis izdanih privremenih upisnih listova.
+(3) Promjene podataka u pomoćnim popisima provode se istodobno s provedbom upisa u glavnoj knjizi.
+Članak 23.
+(1) Uvid u glavnu knjigu, dnevnik upisnika i pomoćne popise ostvaruje se izdavanjem ispisa iz jedinstvene baze podataka, odnosno neposrednim 

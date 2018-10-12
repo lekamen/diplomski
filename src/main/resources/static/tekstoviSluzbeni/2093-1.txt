@@ -1,0 +1,39 @@
+ ostaju stabilne.
+Kućište mora biti konstruirano tako da su glavne komponente mjerila zaštićene od prašine i vlage.
+Kada proces mjerenja zahtjeva upotrebu mlina, mlin se smatra sastavnim dijelom mjernog procesa. Mlin mora biti konstruiran od strane istog proizvođača kao i mjerilo. Mlin mora biti ispitan kao dio mjernog procesa i naveden u odobrenju tipa mjerila.
+Infracrveni analizator mora biti postavljen na ravnu površinu i s mogućnošću namještanja položaja ukoliko položaj mjerila utječe na točnost mjerenja.
+1.5. Označavanje mjerila
+Infracrveni analizator mora imati vidljivu natpisnu pločicu sa sljedećim podacima:
+1. ime proizvođača
+2. model mjerila
+3. oznaka odobrenja tipa mjerila
+4. taksativno nabrojane vrste poljoprivrednih vrsta za koje je mjerilo ovjereno
+5. serijski broj mjerila.
+1.6. Klimatski uvjeti
+Klimatski uvjeti su okolišni uvjeti u kojima se mjerilo može upotrebljavati i definira ih proizvođač.
+1.7. Temperatura uzoraka
+Radna temperatura uzoraka je definirana kao temperaturni raspon (minimalna i maksimalna temperatura) u kojem je moguće mjeriti sadržaj proteina u uzorku. Proizvođač mjerila navodi u tehničkoj dokumentaciji mjerila temperaturni raspon uzoraka. Ukoliko je temperatura uzorka izvan raspona mjerila, na zaslonu se mora pokazati poruka o pogrešci (npr. error).
+Mjerilo mora imati mogućnost izmjeriti sadržaj proteina u uzorku koji nije iste temperature kao okoliš i mjerilo. Maksimalna moguća razlika između temperature uzorka i mjerila mora biti navedena u tipnom odobrenju mjerila.
+1.8. Period postizanja radne temperature mjerila
+Kada je uključen, infracrveni analizator ne mjeri i ne pokazuje na zaslonu rezultate mjerenja dok ne postigne radnu temperaturu, osim ako se radi o mjerilu koje nema period zagrijavanja.
+1.9. Poljoprivredne vrste kojima se mjeri sadržaj proteina
+Proizvođač mjerila navodi za pojedini tip mjerila poljoprivredne vrste koje su pogodne za mjerenje sadržaja proteina na tom mjerilu te definira mjerni raspon mjerila.
+1.10. Mogućnosti odabira kalibracija na mjerilu
+Na mjerilu koje ima više različitih kalibracija za svaku poljoprivrednu vrstu, mora biti moguće odabrati odgovarajuću i odobrenu kalibraciju na korisničkom sučelju.
+Odabrana kalibracija mora biti nedvosmislena i vidljiva svim prisutnim stranama, tj. ime kalibracije mora odgovarati imenu poljoprivredne vrste kojoj se mjeri udio proteina.
+1.11. Uzorci i minimalna količina uzorka
+Minimalna prihvatljiva količina zrna za mjerenje sadržaja proteina ne smije biti manja od 100 g.
+Korištenje uzoraka za ovjeru mjerila opisano je u Dodatku II (Naputak za ovjeravanje infracrvenih analizatora za mjerenje sadržaja proteina u zrnju poljoprivrednih vrsta).
+1.12. Dojava o pogrešci
+Mjerilo mora jasno signalizirati svaku dojavu o pogrešci koja se pojavi tijekom mjerenja uočljivo na zaslonu te spriječiti daljnja mjerenja dok se pogreška ne otkloni.
+1.13. Uputstvo proizvođača
+Proizvođač mjerila mora osigurati za svako mjerilo priručnik (uputstvo) koje sadrži upute o rukovanju, instalaciji, održavanju mjerila i načinu rada mjerila. Osim toga, priručnik mora sadržavati sljedeće podatke:
+1. naziv i adresu proizvođača
+2. poljoprivredne vrste na kojima je moguće mjerenje
+3. ograničenja uporabe: temperatura okoliša, maksimalna dopuštena temperaturna razlika između uzorka zrna i mjerila, raspon radnog napona i frekvencije, elektromagnetske smetnje i elektromagnetska kompatibilnost.
+Uputa značajna za rukovanje operatera mora biti na hrvatskom jeziku.
+1.14. Software
+Proizvođač je obavezan definirati na koji način je software implementiran u mjerilo ili modul mjerila, tj. je li ugrađen u hardware ili instaliran na računalu.
+Verzija softwarea mora imati mogućnost identifikacije i mora biti legalna.
+Gdje postoji potreba za prijenosom rezultata mjerenja na nezaštićenom mediju u komercijalne svrhe, moraju biti ispunjeni sljedeći uvjeti:
+1. mjerni rezultat mora biti popraćen svim informacijama bitnim za daljnju uporabu: identifikacija uzorka, datum i vrijeme

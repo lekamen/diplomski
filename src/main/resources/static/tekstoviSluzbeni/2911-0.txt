@@ -1,0 +1,41 @@
+10 29.01.2016 Pravilnik o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima
+HRVATSKA AGENCIJA ZA NADZOR FINANCIJSKIH USLUGA
+260
+Na temelju članka 173. stavka 6. Zakona o osiguranju (»Narodne novine« broj 30/15), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. siječnja 2016. godine donosi
+PRAVILNIK
+O MINIMALNIM STANDARDIMA, NAČINU OBRAČUNA I MJERILIMA ZA IZRAČUN TEHNIČKIH PRIČUVA PREMA RAČUNOVODSTVENIM PROPISIMA
+Definicije pojmova
+Članak 1.
+Za potrebe ovog Pravilnika koriste se sljedeći pojmovi:
+Zakon – Zakon o osiguranju (»Narodne novine« br. 30/15),
+Agencija – Hrvatska agencija za nadzor financijskih usluga
+Društvo – društvo za osiguranje koje je dobilo odobrenje Agencije za obavljanje poslova osiguranja ili osiguranja i reosiguranja,
+Ovlašteni aktuar – osoba koja ima ovlaštenje Agencije za obavljanje poslova ovlaštenog aktuara
+Imenovani ovlašteni aktuar – ovlašteni aktuar kojeg je imenovalo Društvo da obavlja poslove propisane člankom 188. Zakona
+Priznati aktuarski postupci – opće poznati aktuarski postupci koji su u skladu sa Zakonom i ovim Pravilnikom.
+Uvodne odredbe
+Članak 2.
+(1) Pravilnikom o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja prema računovodstvenim propisima propisuju se: minimalni standardi, način obračuna i mjerila za izračun tehničkih pričuva prema računovodstvenim propisima.
+(2) Odredbe ovog Pravilnika koje se odnose na upravu na odgovarajući način se primjenjuju na upravni odbor i izvršne direktore Društva.
+(3) Odredbe ovog Pravilnika koje se odnose na Društvo, na odgovarajući način se primjenjuju na društvo za reosiguranje.
+Tehničke pričuve prema računovodstvenim propisima
+Članak 3.
+(1) Društvo mora u vezi sa svim poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja oblikovati odgovarajuće tehničke pričuve prema računovodstvenim propisima namijenjene pokriću obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju i eventualnih gubitaka zbog rizika koji proizlaze iz poslova osiguranja, odnosno poslova reosiguranja koje obavlja.
+(2) Društvo je dužno oblikovati sljedeće vrste tehničkih pričuva prema računovodstvenim propisima u skladu s poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja:
+1. pričuve za prijenosne premije,
+2. pričuve za bonuse i popuste,
+3. pričuve šteta,
+4. matematičke pričuve
+5. posebne pričuve
+6. pričuve za kolebanje šteta
+7. druge tehničke pričuve prema računovodstvenim propisima.
+(3) Društvo je dužno oblikovati tehničke pričuve za kolebanje šteta ako obavlja poslove osiguranja kredita, osim ako ugovorima o osiguranju ne pokriva samo rizik smrtnosti, nezgode ili nesposobnosti za rad zbog zdravstvenog stanja.
+(4) Matematičke pričuve dužno je oblikovati Društvo koje obavlja poslove životnih osiguranja, odnosno osiguranja kod kojih se kumuliraju sredstva štednje ili sredstva za pokriće rizika u kasnijim godinama osiguranja, s višegodišnjim trajanjem na koja se primjenjuju tablice vjerojatnosti i izračuni kao i na životna osiguranja.
+(5) Društvo koje obavlja poslove životnih osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja dužno je oblikovati i posebne pričuve za pokriće obveza iz ugovora o osiguranju kod kojih ugovaratelj osiguranja snosi rizik ulaganja koje su direktno vezane za vrijednost ulaganja.
+Pričuve za prijenosne premije
+Članak 4.
+(1) Pričuva za prijenosne premije kod pojedinog osiguranja oblikuje se u visini onog dijela obračunate premije koji se odnosi na osigurateljno pokriće za razdoblje osiguranja nakon obračunskog razdoblja za koje se izračunava pričuva.
+(2) Minimalni standardi, način obračuna i mjerila za izračun pričuva prijenosnih premija prilog su ovog Pravilnika i čine njegov sastavni dio.
+Pričuve za bonuse i popuste
+Članak 5.
+Pričuve za bonuse i popuste oblikuju se u visini iznosa na čiju isplatu imaju pravo osiguranici, ugovaratelji odnosno korisnici osiguranja s osnove 

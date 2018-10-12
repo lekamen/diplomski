@@ -1,0 +1,34 @@
+vlakova za prijevoz putnika
+b) kod međusobno zakvačenih dizelskih i električnih lokomotiva i
+c) kod lokomotive koja je zakvačena za vagon, osim lokomotive koja potiskuje vlak (u daljnjem tekstu: potiskivalica).
+(5) Kod teretnih vlakova i kod potiskivalice vijčano kvačilo priteže se toliko da kvačilo bude lagano zategnuto odnosno da se odbojnici samo dodiruju.
+(6) Kada se prijelaznice ne rabe za prelazak iz vagona u vagon, ogradu treba podići iz ležišta i skloniti je. Mjehovi se moraju sklopiti i pričvrstiti kukama s obje strane uz čelnu stranu vagona, a zatim prijelaznice treba podići i pričvrstiti. Zabranjeno je pri otkvačivanju vagona ostaviti da ograde i mjehovi vise ili da budu nedostatno i nesigurno pričvršćeni.
+(7) Željeznički prijevoznik mora osigurati da se krajnja čelna vrata prvog i posljednjeg vagona u vlaku ne mogu otvoriti.
+Članak 28.
+(1) Izvršni radnik koji obavlja kvačenje i otkvačivanje smije ući među vagone da bi obavio otkvačivanje samo dok vagoni miruju.
+(2) Postupak pri otkvačivanju obavlja se sljedećim redoslijedom:
+– nakon što strojovođa isključi električno napajanje predaje ručicu za prekid strujnog kruga za napajanje električnom energijom izvršnom radniku koji obavlja otkvačivanje vozila
+– razdvojiti sve električne vodove između vozila koja se razdvajaju
+– izvući i objesiti kabel za grijanje na njegov držač
+– izvući i objesiti kabel daljinske kontrole i razglasa putničkih vagona na njegov držač
+– otkopčati i razdvojiti mjehove
+– otvoriti, podići i pričvrstiti prijelaznice
+– zatvoriti čelne slavine glavnog i napojnog zračnog voda onih vozila koja se razdvajaju
+– razdvojiti spojnice glavnog i napojnog zračnog voda
+– zakvačiti kočničke spojnice za njihove držače
+– otvoriti čelnu slavinu glavnog zračnog voda vagona odnosno skupine vagona koja ostaje u mjestu te nakon ispuštanja zraka čelnu slavinu glavnog zračnog voda zatvoriti i
+– skinuti kvačilo s vlačne kuke susjednog vozila i zakvačiti ga za njegov držač.
+(3) Kod kvačenja redoslijed radnji je obrnut od redoslijeda pri otkvačivanju, s time što se najprije zakvači kvačilo, zatim spojnice i tek nakon toga smiju se otvoriti zračne slavine. Prije spajanja spojnica vučnog vozila izvršni radnik koji obavlja kvačenje otvaranjem čelne slavine mora ispustiti kondenzat iz glavnog zračnog voda vučnog vozila i ukloniti nečistoće iz glava kočničkih spojnica.
+(4) Prije spajanja kabela za napajanje električnom energijom izvršni radnik koji obavlja spajanje mora od strojovođe preuzeti ručicu za prekid strujnog kruga. Preuzimanjem ručice za prekid strujnog kruga potvrđuje se da je isključeno napajanje električnom energijom.
+(5) Otkvačivanje vagona za vrijeme guranja dopušteno je samo pri spuštanju i odbacivanju vagona kada se obavezno rabe motke ili vilice za otkvačivanje kojima se rukuje sa zemlje izvan kolosijeka.
+(6) Zabranjeno je otkvačivanje s vagonskih stuba za vrijeme guranja.
+Članak 29.
+Izvršni radnici koji obavljaju kvačenje i otkvačivanje vozila i tom prilikom spajaju ili razdvajaju priključne vodove za opskrbu vagona električnom energijom moraju biti osposobljeni u skladu s odredbama općeg akta o grijanju/klimatiziranju putničkih vagona kojeg je dužan donijeti željeznički prijevoznik.
+Članak 30.
+Za postupke koji se odnose na kvačenje i otkvačivanje vučnih vozila kod vlakova odgovoran je željeznički prijevoznik i upravitelj infrastrukture, svaki za svoje vlakove.
+Uvjeti za manevriranje
+Članak 31.
+(1) Za vrijeme manevriranja u službenim mjestima i na industrijskim kolosijecima koji se odvajaju s otvorene pruge, ako za vrijeme manevriranja nije dopušten ulazak vlaku odnosno prijelaz vlaka preko odvojne skretnice, glavni signali moraju signalizirati signalni znak »Stoj«.
+(2) U kolodvoru zaštićenom prilaznim signalima ne smije se dati dopuštenje za prijem vlaka sve dok se ne završi manevriranje kojim se zadire u vozni put vlaka.
+Članak 32.
+Manevriranje na ulaznim kolosijecima jednokolosiječne i dvokolosiječne pruge dopušteno je redovno do signala granice

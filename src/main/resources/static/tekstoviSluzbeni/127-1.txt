@@ -1,0 +1,28 @@
+ tijelo odgovorno za provedbu i funkcioniranje programa informiranja potrošača o ekonomičnosti potrošnje goriva i emisijama CO2 novih osobnih vozila i o tome obavještava Europsku komisiju.
+II. OZNAKA EKONOMIČNOSTI POTROŠNJE GORIVA I EMISIJE CO2
+Članak 5.
+(1) Dobavljač je dužan za svaki model novog osobnog vozila koji stavlja na hrvatsko tržište radi prodaje ili davanja u leasing izraditi oznaku ekonomičnosti potrošnje goriva i emisije CO2.
+(2) Oznaka iz stavka 1. ovog članka sadrži:
+– model osobnog vozila: marku, tip, varijantu ili izvedbu modela i vrstu motornog goriva (motorni benzin ili dizelsko gorivo);
+– brojčanu vrijednost potrošnje goriva izraženu u litrama na 100 kilometara (l/100 km) ili u m3 na 100 kilometara (m3/100 km) i zaokruženu na jedno decimalno mjesto;
+– brojčanu vrijednost emisije CO2 izraženu u gramima po kilometru (g/km) i zaokruženu na najbliži cijeli broj;
+– tekst koji glasi:
+»Vodič o ekonomičnosti potrošnje goriva i emisiji CO2 koji sadržava podatke za sve modele novih osobnih vozila dostupan je bez naknade na svim prodajnim mjestima.«
+i
+»Pored učinkovitosti goriva vozila, način vožnje i drugi čimbenici netehničke prirode utječu na potrošnju goriva i emisiju CO2 osobnog vozila. CO2 je glavni staklenički plin odgovoran za globalno zatopljenje.«
+(3) Oznaka iz stavka 1. ovoga članka mora biti izrađena u veličini 297 x 210 mm (A4) na podlozi bijele boje. Tekstualni dio mora biti jasan, pregledan i crne boje.
+(4) Grafički prikaz oznake iz stavka 1. ovog članka propisan je Dodatkom I. ovoga Pravilnika.
+Članak 6.
+(1) Oznaku iz članka 5. stavka 1. ovoga Pravilnika prodavač je dužan vidljivo istaknuti na prodajnom mjestu na svaki model, odnosno u neposrednoj blizini svakog modela novog osobnog vozila koji je izložen radi prodaje ili davanja u leasing.
+(2) Ukoliko prodavač nije dobavljač, dužan je oznaku iz članka 5. stavka 1. ovoga Pravilnika pribaviti od dobavljača.
+III. VODIČ O EKONOMIČNOSTI POTROŠNJE GORIVA I EMISIJE CO2
+Članak 7.
+(1) Vodič o ekonomičnosti potrošnje goriva i emisije CO2sadrži:
+– popis svih modela novih osobnih vozila koji su u tekućoj godini dostupni za kupovinu na hrvatskom tržištu, sastavljen abecednim redoslijedom marki vozila;
+– za svaki model naveden u vodiču navodi se: vrsta motornog goriva, brojčana vrijednost potrošnje goriva izražena u litrama na 100 kilometara (l/100 km) ili u m3 na 100 kilometara (m3/100 km) i zaokružena na jedno decimalno mjesto te brojčana vrijednost emisije CO2 izražena u gramima po kilometru (g/km) i zaokružena na najbliži cijeli broj;
+– istaknut popis deset modela novih osobnih vozila koji se odlikuju najekonomičnijom potrošnjom goriva, poredanih po rastućim vrijednostima emisije CO2 za svaku vrstu motornog goriva posebno; ovaj popis sadržava najmanje model, brojčanu vrijednost potrošnje goriva i emisije CO2; ako u popisu deset modela vozila s najekonomičnijom potrošnjom, iza desetog vozila na popisu postoji više modela vozila koji imaju iste karakteristike kao deseto vozilo, treba ih uvrstiti na popis;
+– savjet vozačima o tome da pravilno korištenje i redovito održavanje osobnog vozila te vozačke navike, primjerice: izbjegavanje agresivne vožnje, vožnja pri manjoj brzini, anticipirano kočenje, odgovarajući tlak u gumama, skraćivanje vremena rada motora u praznom hodu, izbjegavanje opterećivanja prekomjernim teretom, poboljšavaju potrošnju goriva i smanjuju emisiju CO2 njihovih osobnih vozila;
+– pojašnjenje učinaka emisija stakleničkih plinova i doprinosa emisija iz motornih vozila na moguće klimatske promjene, kao i upućivanja potrošača na mogućnost odabira korištenja drugačijih vrsta motornih goriva, s opisom njihova utjecaja na okoliš na osnovi najnovijih znanstvenih spoznaja i zahtjeva zakonodavstva;
+– na razini Europske unije utvrđeni cilj prosječne emisije CO2 iz novih osobnih vozila i datum do kojega taj cilj treba postići;
+– uputu o dostupnosti vodiča o ekonomičnosti potrošnje goriva i emisiji CO2 Europske komisije na internetu.
+(2) Ministarstvo

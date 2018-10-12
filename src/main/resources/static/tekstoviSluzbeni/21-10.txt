@@ -1,0 +1,28 @@
+ prikladan je ako se temelji na kvantitativnim i, gdje je moguće, kvalitativnim kriterijima, pri čemu treba uzeti u obzir obilježja određenog plasmana. Spomenuti kriteriji trebaju omogućiti jasnu klasifikaciju plasmana u odgovarajuće skupine prema nadoknadivosti.
+(2) Kreditna institucija dužna je osigurati kontinuirano praćenje i preispitivanje primjerenosti procesa klasifikacije plasmana u skupine prema nadoknadivosti.
+(3) Kreditna institucija dužna je provoditi ispravke vrijednosti za bilančne stavke i rezerviranja za rizične izvanbilančne stavke u skladu s Međunarodnim računovodstvenim standardima odnosno Međunarodnim standardima financijskog izvještavanja, uzimajući u obzir minimalne zahtjeve iz Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija.
+Tretman koncentracijskog rizika
+Članak 35.
+(1) Kreditna institucija dužna je donijeti odgovarajuća pravila za identificiranje i mjerenje koncentracijskog rizika koja najmanje uključuju:
+1) identificiranje i mjerenje koncentracije koja se odnosi na pojedine osobe i grupe povezanih osoba,
+2) identificiranje i mjerenje koncentracije koja se odnosi na skup izloženosti koje povezuju zajednički činitelji rizika kao što su isti gospodarski sektor, odnosno geografsko područje, istovrsni poslovi, odnosno primjena tehnika smanjenja kreditnog rizika i
+3) identificiranje i mjerenje koncentracije koja se odnosi na cijeli kreditni portfelj.
+(2) Kreditna institucija dužna je donijeti odgovarajuće metodologije za praćenje i umanjenje koncentracijskog rizika. Te metodologije moraju uključivati najmanje:
+1) aktivno upravljanje diversifikacijom kreditnog portfelja,
+2) određivanje limita koncentracije i
+3) prijenos odnosno smanjenje kreditnog rizika, što uključuje izravnu prodaju plasmana, prijenos plasmana ili kreditnog rizika sekuritizacijom te upotrebu kreditnih izvedenica i instrumenata osiguranja potraživanja.
+Tretman rizika države
+Članak 36.
+(1) Kreditna institucija koja odobrava plasmane dužnicima sa sjedištem ili prebivalištem izvan Republike Hrvatske dužna je imati primjerene politike i procedure za identifikaciju, mjerenje, praćenje i kontrolu rizika države u kojoj dužnik ima sjedište odnosno prebivalište.
+(2) Praćenje rizika države treba uključivati procjenu vjerojatnosti neispunjavanja obveza druge ugovorne strane sa sjedištem ili prebivalištem izvan Republike Hrvatske koja proizlazi iz gospodarskih i političkih činitelja koji su specifični za određenu državu te procjenu provedivosti ugovora na temelju kojeg je nastao pojedini plasman i mogućnosti unovčenja instrumenta osiguranja potraživanja prema zakonodavstvu pojedine države u određenom razdoblju.
+PRAVILA O UPRAVLJANJU TRŽIŠNIM RIZICIMA
+Organizacijski zahtjevi
+Članak 37.
+(1) Kreditna institucija dužna je osigurati jasnu operativnu i organizacijsku razdvojenost funkcije ugovaranja transakcija od funkcije kontrole rizika te funkcije ugovaranja transakcija od funkcije pozadinskih poslova riznice, do razine uprave.
+(2) Operativno razdvajanje funkcije ugovaranja transakcija od funkcije pozadinskih poslova riznice uključuje uspostavljanje odgovarajućih sigurnosnih i radnih procedura, prava pristupa informacijskim tehnologijama i fizičku razdvojenost navedenih funkcija.
+Ugovaranje transakcija
+Članak 38.
+(1) Kreditna institucija dužna je osigurati da svi bitni elementi transakcije budu usuglašeni između ugovornih strana prije zaključenja svake pojedine transakcije.
+(2) Kreditna institucija dužna je osigurati da se transakcije dogovaraju u skladu s tržišnim uvjetima. Iznimno, kreditna institucija može ugovoriti transakcije koje nisu u skladu s tržišnim uvjetima, ako su ispunjeni svi sljedeći uvjeti:
+1) transakcija je ugovorena na temelju jasnog i razumnog zahtjeva klijenta pri čemu će dogovoreno odstupanje od tržišnih uvjeta biti jasno vidljivo iz dokumentacije navedene transakcije i
+2) uz svaku transakciju koja nije ugovorena po tržišnim uvjetima mora postojati jasno vidljiv opis odstupanja od tržišnih uvjeta te

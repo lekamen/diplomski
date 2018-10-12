@@ -1,0 +1,32 @@
+ relevantnu dokumentaciju, nedostatke i oštećenje broda te stupnja onečišćenja pomorskog okoliša na temelju kojih će odlučiti o pokretanju sigurnosne istrage, uzimajući u obzir težinu pomorske nesreće, vrstu broda i/ili tereta, stupanj onečišćenja pomorskog okoliša, utjecaj rezultata sigurnosne istrage na sprječavanje pomorskih nesreća i nezgoda u budućnosti ili na sprječavanje i smanjivanje opasnosti od onečišćenja s brodova, postupajući pritom sukladno standardima zajedničke metodologije iz članka 8. ove Uredbe.
+(2) Ako glavni istražitelj, na temelju provedenog postupka prethodne procjene, odluči o nepokretanju sigurnosne istrage ozbiljne nesreće, dužan je takvu odluku dokumentirati i evidentirati u nacionalnoj bazi podataka (CMCIP) te izvijestiti EMSA-u na propisanom obrascu te evidentirati podatke o nesreći sukladno sustavu izvješćivanja i unosa podataka o pomorskim nesrećama i nezgodama u europsku bazu podataka (EMCIP).
+METODOLOGIJA POKRETANJA I VOĐENJA SIGURNOSNIH ISTRAGA
+Članak 8.
+(1) Na pokretanje i vođenje sigurnosnih istraga iz područja primjene ove Uredbe, primjenjuje se zajednička metodologija kako je utvrđeno Uredbom Komisije (EU) br. 1286/2011 od 9. prosinca 2011. o donošenju opće metodologije za istraživanje pomorskih nesreća i nezgoda, razvijene u skladu s člankom 5. stavkom 4. Direktive 2009/18/EZ Europskog parlamenta i Vijeća (SL L 328, 10. 12. 2011., str. 36.), uključujući korištenje smjernica i metodologija razvijenih od strane Međunarodne pomorske organizacije.
+(2) Bez obzira na odredbu stavka 1. ovoga članka, glavni istražitelj i istražitelji koji vode ili sudjeluju u sigurnosnoj istrazi, mogu odstupiti od primjene zajedničke metodologije, ako je to prema njihovom stručnom mišljenju opravdano i ako je potrebno za postizanje ciljeva sigurnosne istrage.
+(3) Istražno tijelo obvezno je, u slučajevima u kojima je prethodno odlučilo o nepokretanju istraživanja, poništiti svoju prethodnu odluku i pokrenuti istraživanje ukoliko sazna ili procijeni da okolnosti nekog drugog istraživanja ukazuju da bi ozbiljna nesreća, nesreća ili nezgoda, mogla biti dio niza pomorskih nesreća i nezgoda.
+OBVEZA OBAVJEŠĆIVANJA O POMORSKIM NESREĆAMA I NEZGODAMA
+Članak 9.
+(1) Policija, centar 112, lučke kapetanije, lučke uprave, pomorski prijevoznici i drugi subjekti pomorskog prometa, a osobito strane uključene u pomorsku nesreću ili nezgodu te druga tijela i osobe koji imaju saznanje da se dogodila pomorska nesreća ili nezgoda iz područja primjene ove Uredbe ili je iz okolnosti pojedinog slučaja izvjesno da se ona dogodila, dužni su odmah, bez odgađanja, izvijestiti MRCC koji će bez odgode zaprimljene informacije proslijediti u obliku obavijesti Agenciji i ministarstvu nadležnom za pomorstvo.
+(2) Agencija će, na temelju zaprimljene obavijesti o pomorskoj nesreći ili nezgodi, čim je prije moguće, izvijestiti istražno tijelo druge bitno zainteresirane države.
+Članak 10.
+(1) Obavijest o događaju pomorske nesreće ili nezgode iz područja primjene ove Uredbe podnosi se Agenciji telefonom, elektroničkom poštom ili na drugi prikladan način.
+(2) Obavijest iz stavka 1. ovoga članka treba sadržavati najmanje ove podatke:
+1. podnositelj obavijesti
+2. podaci za kontakt
+3. datum obavijesti
+4. vrijeme obavijesti
+5. ime i zastava broda
+6. IMO broj broda
+7. vrijeme i datum nesreće
+8. vrstu pomorske nesreće
+9. poziciju nesreće, odnosno geografsku širinu i dužinu
+10. podatke o trenutnoj poziciji broda i smjeru plovidbe i/ili luke uplovljenja
+11. podatke o brojčanom stanju posade
+12. podatke o teretu i/ili podatke o brojčanom stanju putnika
+13. podatke o broju ozbiljno ozlijeđenih, poginulih i/ili nestalih
+14. podatke o nedostacima i/ili oštećenju broda ili njihova procjena
+15. podatke o stupnju onečišćenja mora ili njihova procjena
+16. procjena opasnosti od posljedica nesreće ili nezgoda po ljude, imovinu i okoliš
+17. podatke o ostalim brodovima ako su sudjelovali u nesreći, kako je navedeno u točkama 5., 6., 10., 11. i 12. ovoga stavka.
+(3) Agencija 

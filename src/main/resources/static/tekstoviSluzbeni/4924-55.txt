@@ -1,0 +1,41 @@
+ vlaka (npr. pošiljke s opasnim tvarima, izvanredne pošiljke, ostali posebni uvjeti kod vlaka)
+c) zapovijedi i obavijesti i
+d) prilozi naloga za vožnju.
+(2) Obrazac naloga za vožnju vlaka propisanog je oblika i nalazi se u Prilogu ovog Pravilnika.
+Izvješće o sastavu i kočenju vlaka, SE-2
+Članak 170.
+(1) Izvješće o sastavu i kočenju vlaka, kojeg popunjavaju željeznički prijevoznici i upravitelj infrastrukture (svaki za svoje vlakove), mora sadržavati:
+a) broj i voznu relaciju vlaka
+b) mjesto i vrijeme sastavljanja izvješća
+c) podatke o radnim lokomotivama u vlaku
+d) podatke o vučenim vozilima u vlaku (individualni broj vozila, broj osovina na svakom vozilu, dužina vozila, podaci o nekočenim vozilima, bruto masa vozila, relacija vožnje vozila) s naznakom da li se podaci upisuju po redu počevši od posljednjeg ili prvog vozila u vlaku
+e) ukupnu masu vlaka
+f) duljinu vlaka
+g) ukupan broj osovina vlaka
+h) potreban postotak kočenja
+i) stvarnu i potrebnu kočnu masu i
+j) podatke o obavljenoj probi kočenja (vrsta i vrijeme).
+(2) Podaci u Izvješću o sastavu i kočenju vlaka obavezno se popunjavaju prije polaska vlaka iz polaznog kolodvora i kod svake promjene sastava i kočenja vlaka.
+(3) Za lokomotivske vlakove nije potrebno ispostavljati Izvješće o sastavu i kočenju vlaka.
+Pisani nalog, SE-3
+Članak 171.
+(1) Pisani nalog je popratna isprava kojom prometnik vlakova obavještava strojovođu o posebnostima koje su se dogodile po izdavanju naloga za vožnju vlaka ili o posebnostima o kojima strojovođu nije bilo moguće obavijestiti nalogom za vožnju vlaka.
+(2) Tekst zapovijedi može se unaprijed ispisati i nalijepiti na oba primjerka pisanog naloga s time što se prometnik vlakova mora potpisati preko ruba naloga i nalijepljenog dijela i na isti način ovjeriti kolodvorskim pečatom.
+(3) Kada tekst obavijesti odnosno zapovijedi ne stane na jedan pisani nalog, koristi se više pisanih naloga s time da se u prvi nalog mora upisati ukupan broj ispostavljenih pisanih naloga.
+(4) Obrazac pisanog naloga propisanog je oblika i nalazi se u Prilogu ovog Pravilnika.
+Izvješće o primopredaji vlaka, SE-4
+Članak 172.
+(1) Izvješće o primopredaji vlaka je dokument kojim željeznički prijevoznik u polaznom kolodvoru odnosno u kolodvoru promjene sastava ili kočenja vlaka upravitelju infrastrukture potvrđuje da je vlak spreman za otpremu.
+(2) Izvješće o primopredaji vlaka osoblje željezničkog prijevoznika, uz međusobno potpisivanje i evidentiranje vremena primopredaje, uručuje izvršnom radniku upravitelja infrastrukture.
+(3) Izvršni radnik upravitelja infrastrukture tek po dobivenom Izvješću o primopredaji vlaka smije ispostaviti nalog za vožnju željezničkom prijevozniku.
+(4) Obrazac Izvješća o primopredaji vlaka propisanog je oblika i nalazi se u Prilogu ovog Pravilnika.
+Raspored manevriranja, SE-5
+Članak 173.
+(1) Izvršni radnici željezničkog prijevoznika potrebu za obavljanjem manevriranja prenose prometniku vlakova ispostavljanjem rasporeda manevriranja. Potpisom rasporeda manevriranja prometnik vlakova izdaje zapovijed za manevriranje izvršnim radnicima koji obavljaju manevarski rad.
+(2) Prometnik vlakova raspored manevriranja ispostavlja strojovođi kod lokomotivskih vožnji bez pratnje u kolodvorima u kojima se zapovijedi za pojedina manevarska kretanja ne signaliziraju manevarskim signalima za zaštitu voznog puta odnosno graničnim kolosiječnim signalima.
+(3) Tiskanice »Raspored manevriranja« povezane su u blokove i popunjavaju se u tri primjerka. Matica ostaje u bloku i na njoj prometnik vlakova potvrđuje prijem. Prvu kopiju prometnik vlakova uručuje izvršnim radnicima koji obavljaju manevarski rad, a preko druge kontrolira provedbu.
+(4) Obrazac rasporeda manevriranja propisanog je oblika i nalazi se u Prilogu ovog Pravilnika.
+XVII. OPERATIVNO REGULIRANJE PROMETA
+Članak 174.
+(1) Za osiguranje učinkovitosti željezničkog prometa u slučaju odstupanja od voznog reda upravitelj infrastrukture mora organizirati operativno reguliranje prometa.
+(2) Operativno reguliranje

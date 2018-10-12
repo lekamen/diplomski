@@ -1,0 +1,28 @@
+reda zaposlenika koji imaju dužnost, pravo i odgovornost za unos podataka u evidencije iz članka 3., 4. i 5. ovog pravilnika iz nadležnosti te ustanove.
+Za točnost podataka odgovoran je ravnatelj ustanove.
+ZAŠTITA 1 TAJNOST PODATAKA
+Članak 10.
+Podaci iz e-Matice moraju biti zaštićeni od zloupotrebe, uništenja, gubitka, neovlaštenih promjena ili pristupa, u skladu s odredbama propisa kojim se uređuje zaštita osobnih podataka.
+Članak 11.
+Pristup podacima, unos podataka i razine uvida u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika i Upisniku djelatnika dopušten je samo ovlaštenim djelatnicima ustanove, ovlaštenim djelatnicima Ministarstva te ovlaštenim osobama zaduženima za održavanje i razvoj sustava te korisničku potporu.
+Ovlaštene osobe koje pristupaju ili izmjenjuju podatke pohranjene u e-Matici obvezuju se rukovati tim podacima sukladno zakonskim propisima te ih ne zloupotrebljavati. Podaci se mogu davati trećim stranama samo na način opisan u članku 12.
+Uz osobe iz stavka 1. ovog članka Ministarstvo može za uvid u podatke pohranjene u Upisniku ustanova, Evidenciji odgojno-obrazovnoga rada, Upisniku učenika te Upisniku radnika ovlastiti i druge stručne osobe Ministarstva kada je to potrebno radi nesmetanog rješavanja određenih pitanja i zadataka iz njihova djelokruga.
+RAZMJENA PODATAKA
+Članak 12.
+Ministarstvo može drugim javnim i državnim institucijama omogućiti pristup podacima za njihove potrebe na temelju pisanoga zahtjeva uz dokazivanje svrhe i pravnoga temelja za korištenje podataka koji se traže, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+Ministarstvo može za potrebe obavljanja poslova iz svoje nadležnosti preuzimati podatke u e-Maticu iz baza podataka koje su u vlasništvu drugih institucija.
+Ministarstvo s institucijama iz stavka 1. i 2. ovoga članka sklapa sporazum kojim se utvrđuje sadržaj i način dostave podataka te obveza osiguranja cjelovitosti, povjerljivosti i dostupnosti podataka.
+Ministarstvo može za potrebe znanstvenih istraživanja pojedincima i znanstvenim institucijama, na njihov pisani zahtjev, omogućiti ograničen pristup podatcima iz e-Matice, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+Ministarstvo može prije omogućavanja pristupa podacima na temelju zahtjeva iz stavka 1. i 4. ovog članka zatražiti i stručno mišljenje agencije u čijoj je nadležnosti zaštita osobnih podataka.
+Školska ustanova može davati podatke iz e-Matice trećim osobama samo na temelju pisanoga zahtjeva uz dokazivanje svrhe i pravnoga temelja za korištenje podataka te koji se traže, a u skladu sa zakonom koji regulira zaštitu osobnih podataka.
+Školska ustanova može prije davanja podataka na temelju zahtjeva iz stavka 6. ovog članka zatražiti i stručno mišljenje agencije u čijoj je nadležnosti zaštita osobnih podataka.
+Ministarstvo, školske ustanove, pojedinci i institucije iz ovoga članka dužni su poduzeti potrebne tehničke, kadrovske i organizacijske mjere zaštite osobnih podataka kako bi se osobni podaci zaštitili od gubitka ili uništenja i od nedopuštenoga pristupa, promjene, objavljivanja i svake druge zlouporabe te utvrditi obvezu osoba ovlaštenih za unos i obradu podataka na potpisivanje izjave o povjerljivosti.
+PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 13.
+Stupanjem na snagu ovog pravilnika prestaje vrijediti Odluka o zajedničkom elektroničkom upisniku ustanova osnovnog školstva (ZEUS), (klasa: 602-02/08-09/00007, urbroj: 533-04-08-0001) i Pravilnik o evidencijama u srednjim školama, učeničkim domovima i drugim srednjoškolskim ustanovama (»Narodne naovine« br. 16/08. i 29/08.).
+Članak 14.
+Ovaj pravilnik stupa na snagu osmog dana nakon objave u »Narodnim novinama«.
+Klasa: 602-03/15-06/00317
+Urbroj: 533-25-15-0001
+Zagreb, 29. srpnja 2015.
+Ministar prof. dr. sc. Vedran Mornar, v. r.

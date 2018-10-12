@@ -1,0 +1,30 @@
+ Ako na ponavljaču predsignaliziranja nije moguće postaviti signalni znak »Glavni signal signalizira Slobodno« ili »Glavni signal signalizira ograničenje brzine«, onda na prethodnom glavnom signalu nije moguće postaviti signalni znak predsignaliziranja dopuštene vožnje. Isto se odnosi na predsignal glavnog signala koji prethodi ponavljaču predsignaliziranja.
+(10) Međusobne ovisnosti glavnih signala, graničnih kolosiječnih signala i manevarskih signala za zaštitu voznog puta u postavljenom voznom putu:
+– granični kolosiječni signal mora signalizirati signalni znak »Vožnja dopuštena«,
+– manevarski signal za zaštitu voznog puta mora signalizirati signalni znak »Manevriranje slobodno«,
+– ako granični kolosiječni signal signalizira SZ »Stoj« ili signalizira nejasni signalni znak ili je neosvijetljen, pripadajući glavni signal mora signalizirati SZ »Stoj«,
+– ako manevarski signal za zaštitu voznog puta signalizira SZ »Stoj« ili signalizira nejasni signalni znak ili je neosvijetljen, pripadajući glavni signal mora signalizirati SZ »Stoj«.
+(11) Pokazivač brzine dopunski je signal glavnog signala. Pokazivač brzine signalizira kojom se brzinom smije voziti preko pripadajućega skretničkog područja kada glavni signal signalizira daljnju vožnju ograničenom brzinom.
+(12) Pokazivač brzine mora se ugraditi u skladu s Pravilnikom o značenju i uporabi signala, signalnih znakova i signalnih oznaka u željezničkom prometu. Može se ugrađivati i ako je brzina preko skretničkog područja za pojedine vozne puteve veća od ograničene brzine određene voznim redom.
+(13) Neispravnost signalne svjetiljke mora biti signalizirana na upravljačkom sučelju prometnika. U slučaju neispravnosti SZ s pokazivačem brzine bit će signalizirani SZ zabranjene vožnje.
+Blokiranje elemenata voznog puta i voznog puta
+Članak 35.
+(1) Blokiranje elemenata voznog puta znači da se nikakvim djelovanjem, osim razrješenjem voznog puta, ne može promijeniti stanje elemenata voznog puta.
+(2) Blokiranje voznog puta znači da se stanje voznog puta može promijeniti samo vožnjom vlaka ili prisilnim djelovanjem s upravljačkog sučelja prometnika.
+(3) Kontrolirane odsjeke u voznom putu mora SSU blokirati kako bi se onemogućilo postavljanje nesukladnog vlakovnog ili manevarskog voznog puta.
+(4) Skretnica mora biti blokirana u pravilnom položaju u voznom putu (prevožena skretnica), u bočnoj zaštiti, čelnoj zaštiti i putu proklizavanja na način koji je opisan u ovom Pravilniku.
+(5) Glavne signale, granične kolosiječne signale i manevarske signale za zaštitu voznog puta u bočnoj i čelnoj zaštiti SSU mora blokirati kako bi se onemogućilo postavljanje nesukladnog voznog puta ili manevarskog voznog puta.
+Razrješenje voznog puta i deblokiranje elemenata voznog puta
+Članak 36.
+(1) Razrješenje je djelovanje na blokirani vozni put kako bi se vozni put poništio tako da SSU može ponovno raspolagati elementima razriješenog voznog puta.
+(2) Postoje dvije vrste razrješenja voznog puta:
+– razrješenje vožnjom vlaka,
+– prinudno razrješenje izdavanjem naredbe na upravljačkom sučelju prometnika.
+(3) U slučaju razrješenja vožnjom vlaka, elementi voznog puta (skretnice i kontrolirani odsjeci) u voznom putu između startnog i ciljnog signala deblokiraju se pojedinačno nakon prevoženja. Elementi bočne zaštite deblokiraju se nakon razrješenja skretnice (križišta) kojoj pružaju bočnu zaštitu, uz izuzetke navedene u ovom Pravilniku.
+(4) Elementi čelne zaštite deblokiraju se istovremeno s razrješenjem voznog puta.
+(5) Elementi puta proklizavanja deblokiraju se istovremeno s razrješenjem puta proklizavanja.
+Razrješenje vožnjom vlaka
+Članak 37.
+(1) Kontrolirani odsjeci moraju biti zauzimani i oslobađani vlakom tako da prethodni kontrolirani odsjek ne može biti oslobođen prije zauzimanja narednog kontroliranog odsjeka.
+(2) Za uvjete razrješenja ulaznog voznog puta vlak mora zauzeti kolosiječni kontrolirani odsjek, ako su prethodno oslobođeni svi kontrolirani odsjeci ulaznog voznog puta i ulazni signal signalizira SZ »Stoj«.
+(3)

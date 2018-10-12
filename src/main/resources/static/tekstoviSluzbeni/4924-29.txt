@@ -1,0 +1,29 @@
+ili
+zz) o ulasku vlaka u kolodvor zaletom i spuštenim oduzimačem struje.
+(3) Pisani nalog ispostavlja se najkasnije u kolodvoru u kojem vlak posljednji put ima zadržavanje prije nailaska na pružnu dionicu na koju se odnosi sadržaj naloga. Ako pisani nalog nije bilo moguće ispostaviti u tome kolodvoru, vlak se radi ispostavljanja naloga mora zaustaviti u kolodvoru iza kojeg počinje pružna dionica na koju se odnosi sadržaj naloga.
+Organizacija prometa u zimskim uvjetima
+Članak 101.
+(1) Prije početka zimskog razdoblja moraju se propisati sve mjere za obavljanje prometa u zimskim uvjetima.
+(2) Zimsko razdoblje započinje 15. studenog, a završava 15. ožujka.
+(3) Upravitelj infrastrukture dužan je općim aktom propisati mjere za čišćenje snijega i leda u kolodvorima i na otvorenoj pruzi najkasnije do 15. listopada za sljedeće zimsko razdoblje.
+IX. REGULIRANJE PROMETA VLAKOVA
+Temeljni uvjeti za kretanje vlakova
+Članak 102.
+(1) Na dvokolosiječnim prugama vlakovi moraju redovno voziti kolosijekom koji se nalazi s desne strane u voznom smjeru.
+(2) Vožnja vlakova kolosijekom koji se nalazi s lijeve strane u voznom smjeru na dvokolosiječnim prugama smatra se jednokolosiječnim prometom.
+Članak 103.
+Ako u kolodvorima ili na stajalištima dvokolosiječnih pruga odnosno na zajedničkim stajalištima usporednih pruga putnici moraju radi ulaska u vlak odnosno izlaska iz vlaka prelaziti preko kolosijeka, po tim kolosijecima se prilikom dolaska, zadržavanja i odlaska vlaka za prijevoz putnika ne smiju obavljati nikakve vožnje, osim ako se sigurnost putnika osigura posebnim tehničkim rješenjima.
+Članak 104.
+(1) Ako je od predsignala dopuštena vožnja brzinom većom od 50 km/h, a vožnja ograničenom brzinom preko skretnica nije predsignalizirana ili nije propisana voznim redom odnosno posebnim nalogom, glavnim signalom smije se dopustiti vožnja ograničenom brzinom samo nakon što se vlak ispred tog signala zaustavio.
+(2) Ako se vlak u kolodvoru mora zaustaviti, a zaustavljanje nije određeno voznim redom ili posebnim nalogom, vlak se prethodno mora zaustaviti ulaznim signalom, osim u slučaju kada je predsignaliziran izlazni signal koji signalizira signalni znak za zabranjenu vožnju.
+Članak 105.
+(1) Za reguliranje slijeđenja vlakova u prostornom razmaku, pruge mogu biti podijeljene na:
+a) kolodvorske prostorne odsjeke kada dva susjedna kolodvora reguliraju slijeđenje vlakova u kolodvorskom razmaku
+b) odjavne prostorne odsjeke u kojima kolodvor i susjedna odjavnica reguliraju slijeđenje vlakova u odjavnom razmaku; kod automatskih odjavnica davanje odjave ostvaruje se automatski kada vlak oslobodi odjavni prostorni odsjek ili
+c) blokovne prostorne odsjeke kod kojih se promet uzastopnih vlakova regulira automatskim postavljanjem prostornih signala u položaje koji signaliziraju signalne znakove za zabranjenu odnosno dopuštenu vožnju od strane vlaka.
+(2) Ako vlakovi voze slijeđenjem u razmaku prostornih odsjeka u istom prostornom odsjeku i na istom kolosijeku smije se istodobno nalaziti samo jedan vlak.
+(3) Vlakovi koji voze na pruzi odnosno pružnoj dionici na kojoj se promet vlakova regulira uređajem za vođenje vlakova slijede jedni druge u razmacima određenim tim uređajem, osim ako tehničko rješenje SS uređaja ili organizacija prometa nisu takvi da se slijeđenje vlakova odvija u razmacima prostornih odsjeka.
+(4) Promet suprotnih i uzastopnih vlakova regulira se traženjem i davanjem dopuštenja odnosno privole i davanjem odjave. Davanje privole može biti automatsko, ako je takvo tehničko rješenje SS uređaja.
+(5) Dopuštenja, najave i odjave daje i prima osobno prometnik vlakova.
+(6) Uzastopni vlakovi po istom kolosijeku mogu slijediti jedni druge u razmacima prostornih odsjeka ili u razmacima koje određuje uređaj za vođenje vlaka.
+(7) Osim prostornog razmaka, kod slijeđenja vlakova u odjavnom i blokovnom razmaku voznim redom mora se osigurati i razmak u vremenu slijeđenja vlakova kako bi se izbjeglo njihovo zaustavljanje ispred prostornih signala zbog nejednakog

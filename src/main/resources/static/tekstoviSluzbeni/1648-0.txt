@@ -1,0 +1,33 @@
+85 01.08.2015 Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama
+HRVATSKI SABOR
+1649
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+ODLUKU
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRAVU NA PRISTUP INFORMACIJAMA
+Proglašavam Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama, koji je Hrvatski sabor donio na sjednici 15. srpnja 2015. godine,
+Klasa: 011-01/15-01/87
+Urbroj: 71-05-03/1-15-2
+Zagreb, 20. srpnja 2015.
+Predsjednica Republike Hrvatske Kolinda Grabar-Kitarović, v. r.
+ZAKON
+O IZMJENAMA I DOPUNAMA ZAKONA O PRAVU NA PRISTUP INFORMACIJAMA
+Članak 1.
+U Zakonu o pravu na pristup informacijama (»Narodne novine«, br. 25/13.) u članku 1. stavak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom uređuje pravo na pristup informacijama i ponovnu uporabu informacija koje posjeduju tijela javne vlasti, propisuju se načela, ograničenja, postupak i način ostvarivanja i olakšavanja pristupa i ponovne uporabe informacija, djelokrug, način rada i uvjeti za imenovanje i razrješenje Povjerenika za informiranje te inspekcijski nadzor nad provedbom ovoga Zakona.«.
+Članak 2.
+Članak 2. mijenja se i glasi:
+»Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+– Direktiva 2003/98/EZ Europskog parlamenta i Vijeća od 17. studenog 2003. o ponovnoj uporabi informacija javnog sektora (SL L 345, 17. 11. 2003.),
+– Uredba 1049/2001 Europskog parlamenta i Vijeća od 30. svibnja 2001. o javnom pristupu dokumentima Europskog parlamenta, Vijeća i Komisije (SL L 145, 31. 5. 2001.),
+– Direktiva 2013/37/EU Europskog parlamenta i Vijeća od 26. lipnja 2013. o izmjeni Direktive 2003/98/EZ o ponovnoj uporabi informacija javnog sektora (SL L 175, 27. 6. 2013.).«.
+Članak 3.
+U članku 5. točka 2. mijenja se i glasi:
+»2) »Tijela javne vlasti«, u smislu ovoga Zakona, su tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave, pravne osobe i druga tijela koja imaju javne ovlasti, pravne osobe čiji je osnivač Republika Hrvatska ili jedinica lokalne ili područne (regionalne) samouprave, pravne osobe koje obavljaju javnu službu, pravne osobe koje se temeljem posebnog propisa financiraju pretežito ili u cijelosti iz državnog proračuna ili iz proračuna jedinica lokalne i područne (regionalne) samouprave odnosno iz javnih sredstava (nameta, davanja, i sl.), kao i trgovačka društva u kojima Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave imaju zasebno ili zajedno većinsko vlasništvo;«.
+Točka 3. mijenja se i glasi:
+»3) »Informacija« je svaki podatak koji posjeduje tijelo javne vlasti u obliku dokumenta, zapisa, dosjea, registra, neovisno o načinu na koji je prikazan (napisani, nacrtani, tiskani, snimljeni, magnetni, optički, elektronički ili neki drugi zapis), koji je tijelo izradilo samo ili u suradnji s drugim tijelima ili dobilo od druge osobe, a nastao je u okviru djelokruga ili u vezi s organizacijom i radom tijela javne vlasti;«.
+Točka 6. mijenja se i glasi:
+»6) »Ponovna uporaba« znači uporabu informacija tijela javne vlasti od strane fizičkih ili pravnih osoba, u komercijalnu ili nekomercijalnu svrhu različitu od izvorne svrhe za koju su informacije nastale, a koja se ostvaruje u okviru zakonom ili drugim propisom određenog djelokruga ili posla koji se uobičajeno smatra javnim poslom. Razmjena informacija između tijela javne vlasti radi obavljanja poslova iz njihova djelokruga ne predstavlja ponovnu uporabu;«.
+Točka 8. mijenja se i glasi:
+»8) »Vlasnik informacije« je tijelo javne vlasti u okviru čijeg djelokruga je nastala informacija klasificirana stupnjem tajnosti odnosno tijelo druge države ili međunarodna organizacija u okviru čijeg djelokruga je nastala međunarodna informacija;«.
+Iza točke 9. dodaju se nove točke 10., 11.,12., 13. i 14. koje glase:
+»10) »Strojno čitljiv oblik« je oblik datoteke strukturiran tako da ga programska aplikacija može lako identificirati, prepoznati i iz njega izdvojiti određene podatke, uključujući

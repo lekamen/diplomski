@@ -1,0 +1,43 @@
+u 24-satnom formatu »hhmm«.
+Ovo obilježje obvezno se popunjava od izvještajnog datuma 1. travnja 2016.
+Obilježje 17. Inicijator transakcije
+Ovim obilježjem označuje se inicijator ugovorene transakcije.
+Vrijednost obilježja upisuje se za sve instrumente, za transakcije kod kojih je varijabilna valuta HRK, za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Vrijednost obilježja iskazuje se jednim od sljedećih modaliteta:
+1. »DA« – izvještajna institucija je inicijator transakcije;
+2. »NE« – izvještajna institucija nije inicijator transakcije.
+Ovo obilježje obvezno se popunjava od izvještajnog datuma 1. travnja 2016.
+Obilježje 18. Izvor referentnog tečaja
+Ovim obilježjem označuje se izvor referentnog tečaja koji vrijedi na datum dospijeća (fixinga) NDF transakcije.
+Vrijednost obilježja upisuje se samo za instrument NDF.
+Vrijednost obilježja iskazuje se jednim od sljedećih modaliteta:
+1. »HNB« – srednji tečaj HNB-a,
+2. »ECB« – referentni tečaj Europske središnje banke,
+3. »WMR« – referentni tečaj WM-a/Reutersa,
+4. »OST« – referentni tečaj nekoga drugog izvora.
+IX. Iznosi i tečajevi
+17. Iznosi i tečajevi koji su opisani obilježjima skupina A i B upisuju se za sve protustranke, pri čemu se zasebno navode iznosi i tečajevi opisani u nastavku.
+Iznos transakcije
+Iznos transakcije iskazuje se u baznoj valuti s dva decimalna mjesta, a upisuje se za sve instrumente. Za instrumente SWP i SWM upisuje se iznos inicijalne transakcije, a za instrument NDF zamišljeni (notional) iznos.
+Iznos povratne transakcije
+Iznos povratne transakcije iskazuje se u baznoj valuti s dva decimalna mjesta, a upisuje se samo za instrument SWM.
+Spot tečaj
+Spot tečaj iskazuje se u obliku decimalnog broja zaokruženog na šest decimalnih mjesta, a upisuje se za sve instrumente, za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Kod instrumenata PSP, FWD i NDF upisuje se početni spot tečaj na temelju kojeg se izračunava pre-spot, odnosno forward tečaj.
+Pre-spot/Forward tečaj
+Pre-spot tečaj iskazuje se u obliku decimalnog broja zaokruženog na šest decimalnih mjesta, a upisuje se za instrument PSP, za protustranke za koje se podaci dostavljaju na pojedinačnoj osnovi.
+Forward tečaj iskazuje se u obliku decimalnog broja zaokruženog na šest decimalnih mjesta, a upisuje se za instrumente FWD, NDF, SWP i SWM.
+Retail tečaj
+Retail tečaj iskazuje se u obliku decimalnog broja zaokruženog na šest decimalnih mjesta, a upisuje se za instrumente SPT, PSP i EFK, za protustranke za koje se podaci dostavljaju na skupnoj osnovi, odnosno za koje se transakcije agregiraju.
+Retail tečaj izračunava se dijeljenjem ukupnog iznosa transakcija iskazanih u varijabilnoj valuti s ukupnim iznosom pripadajućih transakcija iskazanih u baznoj valuti.
+X. Izvještajni slog i datoteka
+18. Sadržaj datoteke
+a) Polja slogova popunjavaju se onako kako je to prikazano u Uputi za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja.
+b) Osnovni izvještajni slog iz Upute za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja opisuje osnovne slogove podataka. Slogovi u datoteci nisu fiksne duljine.
+c) Izvještajni slog zaglavlja iz Upute za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja uključuje osnovne podatke o izvještajnoj instituciji i datoteci.
+d) Slog zaglavlja nalazi se na početku datoteke.
+e) Napomene za datoteku i pripadajuće slogove upisuju se u polje predviđeno za to, onako kako je opisano Uputom za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja.
+f) Formati slogova zaglavlja i izvještajnih slogova propisani su Uputom za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja.
+19. Kontrola sadržaja slogova
+a) Radi osiguravanja kvalitete dostavljenih podataka, izvještajne institucije moraju kontrolirati sadržaj slogova prije dostavljanja datoteke HNB-u.
+b) Svako polje osnovnoga izvještajnog sloga ima ugrađenu kontrolu na obveznost

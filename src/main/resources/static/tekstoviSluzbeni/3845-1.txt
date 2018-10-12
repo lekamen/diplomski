@@ -1,0 +1,34 @@
+platnih transakcija na teret i u korist odnosno na teret posrednog sudionika u skladu s obaviješću HNB-a iz članka 10. stavka 5. ove Odluke odmah nakon primitka te obavijesti,
+5. izvijestiti sudionike u slučaju otvaranja postupka zbog insolventnosti u skladu sa zakonom kojim se uređuje konačnost namire u platnim sustavima,
+6. izvijestiti HNB i neposredne sudionike u slučaju poteškoća u obračunu platnih transakcija u NKS-u i
+7. omogućiti sudionicima testiranje sudjelovanja u obračunu u NKS-u.
+Ugovorni odnosi
+Članak 7.
+(1) Neposredni sudionik i Fina sklapaju ugovor kojim uređuju međusobna prava i obveze koje proizlaze iz sudjelovanja u NKS-u te vrste platnih transakcija iz članka 3. stavka 2. ove Odluke koje se za tog sudionika obračunavaju u NKS-u.
+(2) Posredni sudionik uređuje uvjete pod kojima preko neposrednog sudionika sudjeluje u obračunu u NKS-u sklapanjem ugovora s tim neposrednim sudionikom.
+(3) Neposredni sudionik koji sklopi ugovor iz stavka 2. ovog članka dužan je o tome odmah poslati pisanu obavijest Fini.
+(4) Neposredni sudionik dužan je o prestanku važenja ugovora iz stavka 2. ovog članka poslati pisanu obavijest Fini najmanje trideset dana prije prestanka ugovora.
+(5) Otkazni rok ugovora iz stavka 1. i stavka 2. ovog članka ne može biti kraći od trideset dana.
+Uključenje sudionika u NKS
+Članak 8.
+(1) Fina je dužna odmah obavijestiti HNB o svakom potpisanom ugovoru iz članka 7. stavaka 1. i 2. ove Odluke.
+(2) Fina je dužna prije uključenja ili promjene statusa svakoga pojedinog sudionika provesti testiranje sudjelovanja tog sudionika. Testiranje obuhvaća provjeru svih funkcionalnosti povezanih sa sudjelovanjem tog sudionika u obračunu u NKS-u.
+(3) Nakon uspješno provedenog testiranja Fina je dužna HNB-u dostaviti obavijest o provedenom testiranju sudjelovanja sudionika u obračunu u NKS-u.
+(4) HNB će na osnovi dostavljene obavijesti iz stavka 3. ovog članka odrediti datum uključenja sudionika u NKS.
+(5) Fina je dužna obavijestiti ostale sudionike o nazivu i datumu uključenja novog sudionika u obračun u NKS-u te o vrsti platnih transakcija koje će se za tog sudionika obračunavati u NKS-u najmanje petnaest dana prije datuma iz stavka 4. ovog članka.
+Isključenje sudionika iz NKS-a
+Članak 9.
+(1) Fina će isključiti iz NKS-a:
+1. sudionika iz članka 2. točaka 2., 3. i 4. ove Odluke nakon primitka obavijesti HNB-a da je nad tim sudionikom otvoren stečajni postupak, postupak zbog insolventnosti s posljedicom trajne zabrane plaćanja ili postupak likvidacije,
+2. sudionika iz članka 2. točke 5. u skladu sa zakonom kojim je reguliran taj sudionik i
+3. sudionika kojem je prestao ugovor iz članka 7. stavka 1. ili 2. ove Odluke, osim u slučaju promjene statusa.
+(2) Obavijest iz stavka 1. točke 1. ovog članka HNB šalje Fini odmah nakon saznanja o tim događajima, osim u slučaju pokretanja postupka redovne likvidacije, kad obavijest šalje na dan isključenja sudionika iz Hrvatskog sustava velikih plaćanja (u nastavku teksta: HSVP).
+(3) Fina isključuje iz NKS-a sudionika na kraju obračunskog dana u NKS-u u kojem je primila obavijest iz stavka 1. točke 1. ovog članka odnosno saznala za razlog isključenja iz stavka 1. točaka 2. i 3. ovog članka.
+(4) O prestanku ugovora iz članka 7. stavaka 1. ili 2. ove Odluke Fina je dužna obavijestiti HNB najmanje trideset dana prije prestanka ugovora, a ako to nije moguće, odmah nakon saznanja.
+(5) O prestanku ugovora iz članka 7. stavka 1. ove Odluke Fina je dužna obavijestiti posrednog sudionika koji sudjeluje u NKS-u preko toga neposrednog sudionika najmanje trideset dana prije prestanka ugovora, a ako to nije moguće, odmah nakon saznanja.
+(6) U slučaju isključenja neposrednog sudionika preko kojega u NKS-u sudjeluje posredni sudionik iz NKS-a se isključuje i taj posredni sudionik.
+(7) U slučaju isključenja neposrednog sudionika Fina zatvara obračunski račun toga neposrednog sudionika.
+(8) O provedenom isključenju sudionika iz NKS-a Fina izvješćuje HNB.
+Posebna uloga HNB-a u NKS-u
+Članak 10.
+(1)

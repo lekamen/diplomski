@@ -1,0 +1,33 @@
+ zahtjevom.
+2. Obilježja A upisuju se u svim slogovima.
+3. Instrumenti su navedeni u redcima, dok su obilježja B navedena u stupcima. Ako je obilježje obvezno popunjavati za određeni instrument, navedena je vrijednost »OBV«. Ako se neko obilježje ne popunjava za određeni instrument, navedena je vrijednost »NP«. Ako se neko obilježje popunjava uvjetno, odnosno ako se popunjava samo ako postoji ili je moguće popuniti ga, navedena je oznaka »UVJ«, a način popunjavanja objašnjen je u Uputi. Ako se u određenom slučaju smije upotrijebiti samo jedan modalitet, naveden je taj modalitet.
+4. Sadržaj ovog priloga mijenjat će se u skladu s dopunom i (ili) promjenom popisa instrumenata, odnosno u skladu s potrebom identificiranja obilježja po instrumentima.
+5. Izvještajne institucije dužne su u potpunosti se pridržavati pravila iz ovog priloga u razdoblju njegove primjene.
+
+
+PRILOG 2.
+POPIS NEREZIDENTNIH MFI-ja I OSTALIH INSTITUCIJA
+1. Identifikacija nerezidentnih MFI-ja obavlja se na osnovi popisa koji objavljuje ESB na svojoj internetskoj stranici
+http://www.ecb.europa.eu/stats/money/mfi/general/html/daily_list.en.html.
+2. Izvještajna institucija mora se koristiti popisom nerezidentnih MFI-ja koji vrijedi na izvještajni datum.
+3. Pri identifikaciji nerezidentnih MFI-ja, prema popisu koji objavljuje ESB, potrebno je koristiti se odgovarajućim sadržajem slovnobrojčanog polja MFI_ID.
+4. Sadržaj ovog priloga mijenjat će se u skladu s nacionalnom definicijom sektora MFI-ja i ostalih institucija koje se moraju identificirati na pojedinačnoj osnovi, a koja ovisi o propisima zemlje u kojoj se nalazi sjedište takve institucije.
+5. Izvještajne institucije dužne su u potpunosti se pridržavati ovog popisa u razdoblju njegove primjene.
+UPUTA za izradu i dostavljanje datoteka s podacima o tržištu stranih sredstava plaćanja
+1. Uvod
+Ovom Uputom definiraju se obilježja i sadržaj datoteka kojima se dostavljaju podaci propisani Uputom za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja.
+2. Standardne karakteristike datoteka
+Postoje dvije vrste datoteka:
+o redovna datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja za izvještajni datum koji je jednak prethodnom radnom danu (RED);
+o datoteka sa slogovima koji se odnose na kupnje i prodaje valuta na tržištu stranih sredstava plaćanja između izvještajnih institucija za izvještajni datum koji je jednak tekućem radnom danu (MBT);
+• format XML (prema XSD datotekama TSSP_RED.xsd i TSSP_MBT.xsd, koje su objavljene na internetskoj stranici HNB-a);
+• primjeri XML datoteka mogu se preuzeti s internetske stranice HNB-a: Ulazni_podaci–TSSP–RED.xml i Ulazni_podaci–TSSP–MBT.xml (prikaz tehničke logike, a ne logički ispravni podaci) i Ulazni_podaci–TSSP–RED–Prazno.xml i Ulazni_podaci–TSSP–MBT–Prazno.xml (prikaz datoteke bez podataka);
+• kodna stranica 8859–2 (CE);
+• sadržaj slogova prema Uputi za provedbu Odluke o izvješćivanju o tržištu stranih sredstava plaćanja;
+• naziv je datoteke TSSP_OIB_YYYYMMDD_xxx_OZN.XML (TSSP_Porezni Broj_IzvještajniDatum_VrstaDatoteke_OznakaDatoteke + XML) (primjer naziva datoteke: TSSP_03269817911_20150227_MBT_R.XML).
+3. Sadržaj datoteka
+Prvi slog u datoteci je zaglavlje, u koje se upisuju podaci o datoteci: OIB izvještajne institucije, izvještajni datum, ukupan broj slogova u datoteci, oznaka datoteke te po potrebi osnovni podaci o odgovornim osobama (ime i prezime, e-pošta, telefon, datum početka ili datum prestanka odgovornosti).
+Sljedeći slogovi jesu slogovi koji čine retke izvještaja o kupnjama i prodajama valuta na tržištu stranih sredstava plaćanja propisanih ovom Uputom.
+4. Opće napomene
+Kad izvještajna institucija nema podataka za neki izvještajni datum za koji je dužna dostaviti izvješće, dovoljno je poslati slog zaglavlja. Primjer XML datoteke »Ulazni podaci–TSSP–RED–Prazno.xml« sadržava uzorak »prazne datoteke« za određeni izvještajni datum.
+Ako izvještajna institucija nema podataka za datoteku MBT, dovoljno je

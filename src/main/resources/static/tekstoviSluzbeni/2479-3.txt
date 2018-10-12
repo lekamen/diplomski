@@ -1,0 +1,8 @@
+ (državnog, županijskih i gradskih/općinskih proračuna i Hrvatskog zavoda za zdravstveno osiguranje)
+Brojčana oznaka vrste prihoda Model HR23 HR24 HR26 HR27 HR28 HR29 HR62 HR63 HR64 HR65 HR68 A. Vlastiti prihodi Državnoga proračuna 8230 P3 – oznaka izvješća JOPPD HR68 8257 – – – – – – – – – – HR68 8265 – – – – – – – – – – HR68 8796 P3 – oznaka izvješća JOPPD HR68 8281 – – – – – – – – – HR65 HR68 B. Vlastiti prihodi županijskih proračuna 6319 HR23 – – – – – – HR63 – – – E. Prihodi Hrvatskog zavoda za zdravstveno osiguranje 8133 P3 – oznaka izvješća JOPPD HR68 8460 – – – – – – – – – – HR68 8583 – – – – – – – – – – HR68 8605 P3 – oznaka izvješća JOPPD HR68
+PRILOG 4
+POPIS DOPUŠTENIH MODELA ZA ZAJEDNIČKE PRIHODE PRORAČUNA I DRUGE PRIHODE ZA FINANCIRANJE JAVNIH POTREBA A. ZAJEDNIČKI PRIHODI PRORAČUNA
+3. ZAJEDNIČKI PRIHOD DRŽAVNOG, ŽUPANIJSKIH I GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun/naziv računa Brojčana oznaka vrste prihoda (iz polja »poziv na broj«) Model HR05 HR67 HR68 HR0810010051700029756 – HR05 – – Prihod od prodaje mineralnih sirovina iz viška iskopa
+D. SREDSTVA DOPRINOSA ZA MIROVINSKO OSIGURANJE ZA STAROST NA TEMELJU INDIVIDUALNE KAPITALIZIRANE ŠTEDNJE (od 1. siječnja 2016. godine)
+Račun/naziv računa Brojčana oznaka vrste prihoda (iz polja »poziv na broj«) Model HR05 HR68 HR7610010051700036001 2330 P3 – oznaka izvješća JOPPD HR68 Doprinos za mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje 2348 – HR68 2356 – HR68

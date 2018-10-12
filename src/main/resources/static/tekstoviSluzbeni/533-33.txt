@@ -1,0 +1,28 @@
+ proizvodom i srodnim lijekovima. Također, potrebno je navesti mjere opreza i posebnoga motrenja kao sastavnog dijela primjene ispitivanog proizvoda.
+(c) Iskustva nakon stavljanja ispitivanoga proizvoda u promet
+U Uputama potrebno je navesti zemlje u kojima je ispitivani proizvod odobren ili stavljen u promet. Potrebno je dati sažetak svih važnih podataka proizišlih iz njegove tržišne primjene (npr. formulacije, doze, putovi primjene, nuspojave). U Uputama je također potrebno navesti zemlje u kojima ispitivani proizvod nije dobio odobrenje za stavljanje u promet ili je povučen s tržišta, odnosno poništena mu je registracija.
+7.3.7. Sažetak rezultata i smjernice za ispitivača
+Ovaj odjeljak treba sadržavati jednu sveobuhvatnu raspravu pretkliničkih i kliničkih podataka i dati sažetak različitih aspekata ispitivanog proizvoda na temelju podataka iz različitih izvora. Time se ispitivaču daje opsežno tumačenje dostupnih podataka i ocjena njihova značenja za buduća klinička ispitivanja.
+Gdje je to prikladno, valja raspraviti objavljene izvještaje o srodnim proizvodima. To ispitivaču može pomoći u predviđanju nuspojava lijeka ili drugih poteškoća vezanih uz kliničko ispitivanje.
+Konačni je cilj ovoga odjeljka Uputa pružiti ispitivaču jasan uvid u moguće rizike i nuspojave, u specifične testove, opažanja i mjere opreza koje mogu biti potrebne u provedbi kliničkoga ispitivanja. Uvid se treba temeljiti na dostupnim fizičkim, kemijskim, farmaceutskim, farmakološkim, toksikološkim i kliničkim podacima o ispitivanom proizvodu. Ispitivaču također treba dati smjernice za prepoznavane i liječenje kod predoziranja i nuspojava koje se zasnivaju na ranijim iskustvima s ljudima i farmakološkom profilu ispitivanog proizvoda.
+Konačni je cilj ovoga odjeljka Uputa pružiti ispitivaču jasan uvid u moguće rizike i nuspojave, u specifične testove, opažanja i mjere opreza koje mogu biti potrebne u provedbi kliničkoga ispitivanja. Uvid se treba temeljiti na dostupnim fizičkim, kemijskim, farmaceutskim, farmakološkim, toksikološkim i kliničkim podacima o ispitivanom proizvodu. Ispitivaču također treba dati smjernice za prepoznavanje i liječenje kod predoziranja i nuspojava koje se zasnivaju na ranijim iskustvima s ljudima i farmakološkom profilu ispitivanog proizvoda.
+____________________________ 7.4. DODATAK 1:
+NASLOVNICA (Primjer)
+NAZIV NARUČITELJA ISPITIVANJA
+Proizvod:
+Broj istraživanja:
+Naziv(i) proizvoda: Kemijsko ime, (odobreno) generičko ime, zaštićeno ime (ako ga naručitelj želi navesti i ako je to zakonom dopušteno):
+UPUTE ZA ISPITIVAČA
+Broj izdanja:
+Datum izdanja:
+Broj prethodnog izdanja:
+Datum prethodnog izdanja:
+____________________________ 7.5. DODATAK 2:
+SADRŽAJ UPUTA ZA ISPITIVAČA (Primjer)
+8. OSNOVNI DOKUMENTI ZA PROVOĐENJE KLINIČKOG ISPITIVANJA
+8.1. Uvod
+Osnovni dokumenti su oni dokumenti koji zasebno ili zajedno omogućuju ocjenu provedbe ispitivanja i kakvoće dobivenih podataka. Ti dokumenti služe kao dokaz da su se ispitivač, naručitelj i motritelj pridržavali normi Dobre kliničke prakse i svih važećih zakonskih propisa.
+Uz to, osnovni dokumenti imaju široku i važnu namjenu. Pravodobno pohranjivanje osnovnih dokumenata kod ispitivača/ustanove i naručitelja može značajno pridonijeti uspješnoj provedbi ispitivanja od strane ispitivača, naručitelja i motritelja.
+Osim toga, upravo su ti dokumenti najčešći predmet nadzora i inspekcije kao dijela postupka potvrde valjanosti provedbe ispitivanja i cjelovitosti prikupljenih podataka.
+Slijedi popis najnužnijih osnovnih dokumenata. Različiti su dokumenti podijeljeni u tri skupine prema fazi ispitivanja u kojem obično nastaju. 1) prije početka kliničke faze ispitivanja, 2) za vrijeme kliničke faze ispitivanja te 3) nakon svršetka, odnosno prestanka provođenja ispitivanja. Navedena je svrha svakog dokumenta, te treba li ga pohraniti ispitivač/ustanova, naručitelj ili obje strane. Neke je dokumente moguće spojiti pod uvjetom da se odmah mogu prepoznati zasebni dijelovi.
+Na početku ispitivanja valja

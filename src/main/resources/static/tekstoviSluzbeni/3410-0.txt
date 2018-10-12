@@ -1,0 +1,29 @@
+25 23.03.2016 Pravilnik o obvezama kreditne institucije i Državne agencije za osiguranje štednih uloga i sanaciju banaka u svezi osiguranja depozita i postupak isplate obeštećenja
+MINISTARSTVO FINANCIJA
+759
+Na temelju članka 6. stavka 7., članka 18. stavaka 6. i 7., članka 19. stavka 6. i članka 20. stavka 11. Zakona o osiguranju depozita (»Narodne novine«, broj 82/15), ministar financija donosi
+PRAVILNIK
+O OBVEZAMA KREDITNE INSTITUCIJE I DRŽAVNE AGENCIJE ZA OSIGURANJE ŠTEDNIH ULOGA I SANACIJU BANAKA U SVEZI OSIGURANJA DEPOZITA I POSTUPAK ISPLATE OBEŠTEĆENJA
+I. ZAJEDNIČKE ODREDBE
+Članak 1.
+(1) Ovim Pravilnikom detaljnije se propisuje sljedeće:
+1) način vođenja evidencija u svrhu utvrđivanja identiteta stvarnog vlasnika i iznosa sredstava stvarnog vlasnika ako je ugovoreno da deponent račun vodi u svoje ime, a za račun drugoga (povjerenički račun) iz članka 6. stavka 3. Zakona o osiguranju depozita (u daljnjem tekstu: Zakon),
+2) opseg, oblik i sadržaj dokumentacije koju je kreditna institucija dužna staviti na raspolaganje Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (u daljnjem tekstu: Agencija) sukladno članku 18. stavku 6. Zakona,
+3) sadržaj zahtjeva koji je deponent dužan dostaviti Agenciji u slučaju iz članka 18. stavka 3. Zakona, kao i što se smatra osnovnim životnim troškovima te prikladnom iznosu sredstava potrebnih radi pokrivanja osnovnih životnih troškova,
+4) oblik, sadržaj i rok za dostavu izvješća iz članka 19. stavka 3. Zakona i
+5) postupak isplate obeštećenja za osigurane depozite sukladno članku 20. Zakona.
+(2) Odredbe ovoga Pravilnika primjenjuju se na sve kreditne institucije i podružnice tih kreditnih institucija koje su uključene u sustav osiguranja depozita u Republici Hrvatskoj sukladno članku 9. Zakona i Agenciju kao imenovano tijelo sukladno članku 3. stavku 1. točki 6. Zakona.
+II. POSEBNOSTI POVJERENIČKOG RAČUNA
+Članak 2.
+U svrhu dostave Agenciji Izvješća o stanju ukupnih i osiguranih depozita za obračun premije, a u svezi evidencije i obračuna obeštećenja po povjereničkom računu, kreditna institucija je dužna u svom registru računa, utvrditi i ažurno voditi podatke i evidencije o:
+1) identitetu svakog pojedinog stvarnog vlasnika povjereničkog računa, odnosno osobe za čiji račun se vodi povjerenički račun i
+2) pripadajućem iznosu depozita svakog pojedinog stvarnog vlasnika povjereničkog računa, odnosno osobe za čiji račun se vodi povjerenički račun.
+Članak 3.
+(1) Ako kreditna institucija nije u mogućnosti utvrditi identitet stvarnog vlasnika i pripadajući iznos depozita stvarnog vlasnika povjereničkog računa iz članka 2. ovoga Pravilnika smatrat će se kako nisu ispunjeni uvjeti za isplatu obeštećenja temeljem članka 6. stavka 3. Zakona.
+(2) U slučaju iz stavka 1. ovoga članka sredstva na povjereničkom računu smatrat će se kao sredstva računa društava bez pravne osobnosti sukladno članku 6. stavku 2. Zakona.
+Članak 4.
+(1) Kreditna institucija dužna je za svakog stvarnog vlasnika depozita, odnosno osobe za čiji račun se vodi povjerenički račun, otvoriti i voditi zasebno podatke i evidencije o svakoj pojedinoj partiji depozita, a sukladno strukturi i sadržaju određenim u Prilogu 1. koji je sastavni dio ovoga Pravilnika.
+(2) Podatke potrebne za utvrđivanje identiteta stvarnog vlasnika, odnosno osobe za čiji račun se vodi povjerenički račun, i njegovog pripadajućeg iznosa depozita, kreditna institucija pribavlja neposredno od povjerenika, odnosno imatelja povjereničkog računa prilikom podnošenja zahtjeva za otvaranje povjereničkog računa.
+III. OPSEG, OBLIK I SADRŽAJ DOKUMENTACIJE KOJU JE KREDITNA INSTITUCIJA DUŽNA STAVITI NA RASPOLAGANJE AGENCIJI RADI OBEŠTEĆENJA DEPONENATA
+Članak 5.
+(1) Sukladno članku 18. Zakona, a u svrhu obračuna obeštećenja, kreditna institucija dužna je Agenciji staviti na raspolaganje svu dokumentaciju koja je potrebna za obeštećenje deponenta kreditne institucije sukladno strukturi i sadržaju te na način određen u Prilogu 1. koji je sastavni dio ovoga Pravilnika.

@@ -1,0 +1,25 @@
+ dostaviti potpisanu i potvrđenu štambiljem korisnika potvrdu o podnošenju zahtjeva za promjenu preporučenom poštom s povratnicom ili osobno.
+(3) Agencija za plaćanja će za zaprimljene zahtjeve za promjenu provjeriti kriterije prihvatljivosti sukladno članku 8. ovoga Pravilnika te po potrebi donijeti izmjenu odluke o dodjeli sredstava ili pismo odobrenja u slučaju odobrenja zahtjeva za promjenu ili pismo odbijanja u slučaju odbijanja zahtjeva za promjenu.
+(4) Izmjenom odluke o dodjeli sredstava ne može se dodjeliti iznos potpore veći od iznosa potpore koji je već određen odlukom o dodjeli sredstava.
+(5) Promjene iz stavka 1. ovoga članka korisnik može prijaviti podnošenjem zahtjeva za promjenu putem AGRONET-a na način opisan u Vodiču za korisnike kojeg korisnik može preuzeti sa službene mrežne stranice Agencije za plaćanja (www.apprrr.hr).
+(6) U slučaju promjena odluke iniciranih od strane Agencije za plaćanja, Agencija za plaćanja će donijeti izmjenu odluke o dodjeli sredstava.
+(7) U slučaju promjena navedenih u stavku 1. ovoga članka, a nakon podnošenja zahtjeva za isplatu korisnik je obvezan o istome pisanim putem obavijestiti Agenciju za plaćanja do trenutka zaprimanja odluke o dodjeli sredstava u Podmjeri 19.2 unutar Mjere 19 LEADER – CLLD, odnosno, u slučaju LAG-ova koji nisu odabrani unutar Podmjere 19.2, do isteka pet godina od dana konačne isplate potpore.
+Potvrda o odustajanju i izjava o poništenju obveze
+Članak 18.
+(1) U slučaju da korisnik želi odustati od dodjele sredstava iz EPFRR programa, dužan je podnijeti zahtjev za odustajanje putem AGRONET-a na način opisan u Vodiču za korisnike.
+(2) Zahtjev za odustajanje popunjava se u AGRONET-u, a po popunjavanju potrebno je u Agenciju za plaćanja dostaviti potpisanu i potvrđenu štambiljem korisnika potvrdu o podnošenju Zahtjeva za odustajanje preporučenom poštom s povratnicom ili osobno.
+(3) Ukoliko korisnik podnese zahtjev za odustajanje u fazi administrativne kontrole zahtjeva za potporu odnosno prije donošenja odluke, Agencija za plaćanja će prekinuti sve aktivnosti nad zahtjevom za potporu te će donijeti potvrdu o odustajanju.
+(4) Ukoliko korisnik podnese zahtjev za odustajanje nakon donošenja odluke o dodjeli sredstava, Agencija za plaćanja će donijeti izjavu o poništenju obveze.
+(5) Agencija za plaćanja će za zahtjev za odustajanje podnesen od strane korisnika sukladno stavku 4. ovoga članka donijeti izjavu o poništenju obveze putem AGRONET-a.
+(6) Izjava o poništenju obveze se donosi i u slučaju kada korisnik prekrši odredbe propisane ovim Pravilnikom, Natječajem ili nije ispunio obveze određene odlukom o dodjeli sredstava ili ako je utvrđena nepravilnost ujedno i sumnja na prijevaru.
+IV. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE I DONOŠENJE ODLUKA
+Zahtjev za isplatu
+Članak 19.
+(1) Potpora se odabranom korisniku isplaćuje temeljem zahtjeva za isplatu.
+(2) Odabrani korisnik može svaka tri mjeseca dostaviti Agenciji za plaćanja zahtjev za isplatu u elektronskom obliku putem AGRONET-a koji se nalazi na mrežnim stranicama Agencije za plaćanja ((www.apprrr.hr).
+(3) Rokovi navedeni u stavku 2. ovoga članka ne odnose se na:
+1. Zahtjev za isplatu za prvo obračunsko razdoblje i
+2. Zahtjev za isplatu za zadnje obračunsko razdoblje (odnosno kada odabranom korisniku prestane mogućnost ostvarivanja potpore iz članka 7., točke 2. ovoga Pravilnika, a sukladno članku 5. stavku 11. ovoga Pravilnika).
+(4) Obavezni zahtjev za isplatu, kojega odabrani korisnik mora podnijeti, je konačni zahtjev za isplatu, odnosno kada odabranom korisniku prestane mogućnost ostvarivanja potpore iz članka 7., točke 2. ovoga Pravilnika, a sukladno članku 5. stavku 11. ovoga Pravilnika.
+(5) Prvo obračunsko razdoblje za isplatu sredstava počinje teći od dana podnošenja zahtjeva za potporu i traje do dana zaprimanja odluke o odabiru. Svako sljedeće obračunsko razdoblje, osim kod konačnog zahtjeva za isplatu, počinje teći istekom prethodnog i traje tri mjeseca.
+(6) Odabrani korisnik podnosi zahtjev za isplatu u 

@@ -1,0 +1,23 @@
+ podaci iz takve isprave stalno dostupni.
+Sastavljanje knjigovodstvenih isprava
+Članak 9.
+(1) Knjigovodstvena isprava mora biti vjerodostojna, uredna i sastavljena na način da osigurava pravodobni nadzor. Osoba ovlaštena za zastupanje poduzetnika ili osoba na koju je prenesena ovlast jamči potpisom na knjigovodstvenoj ispravi da je ona vjerodostojna i uredna i ima potreban sadržaj.
+(2) Vjerodostojna knjigovodstvena isprava pisana je isprava ili elektronički zapis čiji sadržaj samostalno ili povezan sa sadržajem drugih vjerodostojnih knjigovodstvenih isprava navedenih u toj ispravi, točno, jasno i potpuno odražava činjenično stanje relevantno za određeni poslovni događaj koji ima za posljedicu knjigovodstvene promjene, te ako je potpisana od osobe koja jamči za njezinu vjerodostojnost.
+(3) Iznimno od stavka 1. ovoga članka, račun koji služi kao knjigovodstvena isprava a izdan je od strane poduzetnika ne mora biti potpisan ako je sastavljen na način koji uređuju porezni propisi te sadržava ime i prezime osobe koja je odgovorna za njegovo izdavanje.
+(4) Knjigovodstvena isprava mora biti takva da stručna osoba može iz nje nedvojbeno spoznati poslovni događaj.
+(5) Poduzetnik je dužan odrediti odgovornu osobu za kontrolu vjerodostojnosti isprava koja će prije unosa podataka iz knjigovodstvene isprave u poslovne knjige, provjeriti ispravnost i potpunost knjigovodstvene isprave te istu potpisati odnosno odobriti na način iz kojeg se može jednoznačno utvrditi njezin identitet.
+Čuvanje knjigovodstvenih isprava
+Članak 10.
+(1) Knjigovodstvene isprave čuvaju se kao izvorni pisani dokument, na nositelju elektroničkog zapisa.
+(2) Knjigovodstvene isprave čuvaju se, i to:
+1. isplatne liste, analitička evidencija o plaćama za koje se plaćaju obvezni doprinosi – trajno
+2. isprave na temelju kojih su podaci uneseni u dnevnik i glavnu knjigu – najmanje jedanaest godina
+3. isprave na temelju kojih su podaci uneseni u pomoćne knjige – najmanje jedanaest godina.
+(3) Poduzetnik može odlučiti čuvati knjigovodstvene isprave izvan područja Republike Hrvatske, ali samo u drugoj državi članici. U tom slučaju poduzetnik je u svakom trenutku odgovoran za knjigovodstvene isprave te mora tijelima nadležnim za nadzor na njihov zahtjev bez odgađanja omogućiti korištenje istih za potrebe nadzora. Ako je drugim zakonskim propisima za druge potrebe propisano čuvanje ili odlaganje knjigovodstvenih isprava u pojedine registre ili baze, poduzetnik je dužan osigurati povrat knjigovodstvenih isprava u Republiku Hrvatsku i njihovo odlaganje, sukladno takvim propisima.
+(4) Poduzetnik koji knjigovodstvene isprave pohranjuje pomoću elektroničkih uređaja kojima se jamči online pristup podacima mora na zahtjev omogućiti tijelu koje obavlja nadzor pravo pristupa, preuzimanja i korištenja tih knjigovodstvenih isprava.
+(5) Rok za čuvanje knjigovodstvenih isprava iz stavka 2. točaka 2. i 3. ovoga članka počinje teći zadnjeg dana poslovne godine na koju se odnose poslovne knjige u koje su isprave unesene.
+III. KONTNI PLAN I POSLOVNE KNJIGE
+Kontni plan
+Članak 11.
+(1) Jedinstveni okvirni kontni plan obuhvaća razrede i skupine konta te sintetička konta koja se primjenjuju u svrhu bilježenja knjigovodstvenih promjena, uključujući i njihove numeričke i slovne oznake i izvanbilančnih računa, od kojih svi moraju biti raspoređeni u skladu sa zahtjevima koji se primjenjuju za pripremu financijskih izvještaja. Jedinstveni okvirni kontni plan donosi i mijenja Odbor za standarde financijskog izvještavanja svojom odlukom te ga objavljuje u »Narodnim novinama«.
+(2) Kontni plan poduzetnika mora biti sastavljen tako da osigurava podatke za odvojene i konsolidirane financijske izvještaje te mora biti u skladu s propisanim okvirnim kontnim planom. Poduzetnik može, ako je to potrebno, proširiti kontni plan tijekom poslovne godine. Ako se popis konta ne mijenja s prvim danom novog izvještajnog razdoblja, poduzetnik može nastaviti koristiti se kontnim planom koji je primjenjivao i u prethodnom

@@ -1,0 +1,42 @@
+ osnivanja spisa iznimno se upisuje datum kada je predmet predan pošti ili neposredno sudu.
+Upisivanje spisa koji su bili označeni kao dovršeni
+Članak 112.
+(1) Kad se u spisu koji je u sustavu JCMS označen kao dovršen nastavi postupak zbog ukidanja, djelomičnog ukidanja odluke ili drugih razloga, spis će se upisati pod novim poslovnim brojem s potrebnim ranijim upisima, koristeći funkciju kopiranja spisa.
+(2) Podnesci s izvanrednim pravnim lijekovima, kao i ostali podnesci kojima se traži izmjena pravomoćne odluke, upisat će se u sustav JCMS u spis na koji se odnosi.
+Izvješće o Zahtjevu za zaštitu zakonitosti (Zzz)
+Članak 113.
+(1) U izvješću Zahtjeva za zaštitu zakonitosti (Zzz) nalaze se predmeti u kojima je izjavljen Zahtjev za zaštitu zakonitosti.
+(2) U prvostupanjskim sudovima se povodom izjavljenog Zahtjeva za zaštitu zakonitosti u sustav JCMS unosi naredba za dostavu spisa Vrhovnom sudu Republike Hrvatske i o tome se obavještava Visoki prekršajni sud RH.
+XXIII. ODREDBE O DOSTAVI
+Članak 114.
+Unutarnja dostava u sudu obavlja se putem sustava JCMS.
+Članak 115.
+(1) Sustav JCMS omogućava ispis dostavne liste za poštu i dostavne knjige za mjesto. Ova lista sadrži podatke o primatelju, vrsti otpravka i datumu otpravka.
+(2) Dostavna knjiga za mjesto sadrži otpravke koji se dostavljaju primateljima neposredno putem sudskih dostavljača.
+XXIV. UPISNIK SUDSKE UPRAVE
+Članak 116.
+(1) Upisnici sudske uprave vode se u sustavu JCMS.
+(2) Iznimno od stavka 1. ovoga članka u sustavu Zahtjev za zaštitu zakonitosti ne vodi se upisnik za povjerljive i strogo povjerljive predmete Su-pov i Su-StrPov.
+XXV. POSEBNE ODREDBE ZA POSTUPKE VEZANE UZ ROK
+Članak 117.
+U spisima u kojima je okrivljenik lišen slobode, određeno zadržavanje, mjere opreza, kada se odlučuje o prijedlogu povodom hitnog izvođenja dokaza ili samostalnog izricanja zaštitnih mjera prije pokretanja prekršajnog postupka, u sustav JCMS upisat će se navedene činjenice, osnovni podaci o radnji, podaci o odluci i drugi potrebni podaci.
+Članak 118.
+Ako se rješenje o produljenju zadržavanja nije moglo dostaviti upravi zatvora prije isteka roka za puštanje na slobodu, činjenica da je rješavatelj o donesenom rješenju obavijestio upravu zatvora brzojavom, telefaksom, telefonom ili elektroničkom poštom, evidentirat će se u sustav JCMS.
+Članak 119.
+Zapisnik i potvrda o privremeno oduzetim predmetima unosi se u sustav JCMS kao podnesak.
+Članak 120.
+(1) Rješavatelj predmeta iz članka 117. ovog Pravilnika dužan je tri dana prije planiranog početka korištenja godišnjeg odmora ili planirane odsutnosti obavijestiti ured predsjednika suda o navedenim činjenicama.
+(2) Rješavatelj iz stavka 1. ovog članka iznimkom u automatskoj dodjeli isključuje se iz dodjele hitnih spisa za vrijeme odsutnosti.
+(3) Ured predsjednika suda dužan je obavijesti ovlaštenu osobu u sudu o predvidivoj odsutnosti rješavatelja.
+(4) Ovlaštena osoba u sudu je dužna isključiti iz automatske dodjele hitnih predmeta rješavatelja za kojega mu je ured predsjednika suda dostavio obavijest o odsutnosti.
+XXVI. PRESTANAK RADA SUDSKE REFERADE
+Članak 121.
+(1) Rješavatelj koji prestaje s radom u sudu dužan je bez odgode pisanim putem obavijestiti ured predsjednika suda o datumu prestanka rada.
+(2) Kada rješavatelj prestane raditi u sudu, njegova referada u sustavu JCMS se gasi, a u odnosu na sve predmete dodijeljene tom rješavatelju određuje se ponovljena automatska dodjela.
+(3) Nakon primitka obavijesti iz stavka 1. ovog članka, predsjednik suda ili druga ovlaštena osoba u sudu dat će nalog administratoru sustava JCMS u sudu da razduži ovlasti rješavatelja za rad u sustavu JCMS te da pokrene automatsku dodjelu spisa na kojima je potrebno nastaviti rad.
+XXVII. POSLOVANJE S POŠTOM
+Članak 122.
+Predaja pošiljaka generira se iz sustava JCMS.
+XXVIII. e-OGLASNA PLOČA
+Članak 123.
+(1) Pismena i odluke koje je potrebno objaviti na e-Oglasnoj ploči dostavljaju se putem sustava JCMS, a nakon što za to budu ispunjeni tehnički uvjeti što odlukom potvrđuje 

@@ -1,0 +1,27 @@
+ izmjera i katastar nekretnina.
+(3) Nakon obavljenih radnji iz stavaka 1. i 2. ovoga članka izvođač stručnih geodetskih poslova ucrtava granice razreda na digitalni katastarski plan iz članka 4. stavka 1. ovoga Pravilnika.
+(4) Računanje površina razreda kao i dijelova katastarskih čestica u određenim razredima obavlja se na digitalnom katastarskom planu na kojem su ucrtane granice razreda. Površine dijelova katastarskih čestica unutar razreda za procjenu, izjednačavaju se s površinama katastarskih čestica utvrđenim u popisima zemljišta sudionika komasacije.
+(5) Izračunate površine iz stavka 4. ovoga članka, kao i rezultati procjene, upisuju se u iskaz zemljišta o stanju prije komasacije.
+(6) Zemljišta na komasacijskom području i izvan komasacijske gromade procjenjuju se u slučajevima kad projektirana putna ili kanalska mreža prolazi takvim zemljištima.
+Izrada i izlaganje projekta mreže poljoprivrednih putova
+Članak 10.
+(1) Osobe iz članka 41. Zakona surađuju na izradi projekta mreže poljoprivrednih putova i projekta kanalske mreže. Projekti se prikazuju na odgovarajućoj podlozi za projektiranje na kojoj su prikazane postojeće katastarske čestice, visinski prikaz terena te zemljišta u komasacijskom području koja su zbog svoje namjene i načina korištenja vezana za postojeći položaj (prometnice, željezničke pruge, kanali, zemljišta pod stalnim nasadima i slično).
+(2) Prilikom izrade projekta mreže poljoprivrednih putova uzima se u obzir postojeći način obrađivanja zemljišta, pristup svakoj katastarskoj čestici, ekonomičnost prijevoza i potreba stvaranja pravilnijih katastarskih čestica te zaštita najkvalitetnijeg zemljišta.
+(3) Nakon izrade projekta putne i kanalske mreže izvođač stručnih geodetskih radova obavlja numeraciju komasacijskih tabli na podlozi za projektiranje.
+(4) Osobe iz stavka 1. ovoga članka sudjeluju u postupku izlaganja na javni uvid i rješavanja prigovora.
+(5) Usvojeni projekt putne i kanalske mreže prenosi se na digitalni katastarski plan iz članka 4. stavka 1. ovoga Pravilnika i temelj je za izradu komasacijske osnove.
+Sastavljanje iskaza zemljišta o stanju prije komasacije i izlaganje na javni uvid
+Članak 11.
+(1) Iskazu zemljišta o stanju prije komasacije dodjeljuje se redni broj.
+(2) Iskaz zemljišta, osim podataka iskazanih u popisu zemljišta iz članka 8. ovoga Pravilnika, sadrži:
+– za svaku katastarsku česticu: razred za procjenu, jedinicu za procjenu, vrijednost za procjenu, površine i vrijednosti za procjenu dijelova katastarske čestice u pojedinim razredima za procjenu
+– ukupnu površinu i vrijednost za procjenu svih katastarskih čestica
+– ukupnu površinu i vrijednost za procjenu svih katastarskih čestica u razredima za procjenu
+– druge podatke važne za komasaciju (odbitak za opće i zajedničke potrebe).
+(3) Iskaz zemljišta o stanju prije komasacije sadrži i prostor za upis rezultata nadiobe zemljišta (oznaka komasacijske table, vrijednost, broj raspravnog zapisnika nadiobe).
+(4) Za zemljište sudionika komasacije na komasacijskom području i izvan komasacijske gromade u iskaz zemljišta upisuju se podaci iz stavka 2. ovoga članka, osim podataka o procjeni.
+(5) Izvođač stručnih geodetskih poslova sudjeluje u postupku izlaganja na javni uvid iskaza zemljišta o stanju prije komasacije na način da sudioniku komasacije izlaže rezultate procjene zemljišta i podatke sadržane u iskazu zemljišta o stanju prije komasacije, te evidentira njegov prijedlog za smještaj novog posjeda u predviđeno mjesto u iskazu zemljišta o stanju prije komasacije.
+(6) U slučaju kada županijsko komasacijsko povjerenstvo usvoji prigovor sudionika komasacije koji utječe na podatke iskazane u iskazu zemljišta o stanju prije komasacije izvođač stručnih geodetskih radova evidentira promjene u iskazu zemljišta o stanju prije komasacije.
+Izrada prijedloga nadiobe komasacijske gromade
+Članak 12.
+(1) Izrada prijedloga nadiobe komasacijske gromade vrši se u skladu s načelima za diobu komasacijske gromade i na temelju komasacijske osnove, koju

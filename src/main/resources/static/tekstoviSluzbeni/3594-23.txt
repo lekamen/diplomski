@@ -1,0 +1,27 @@
+ potvrdu o sukladnosti za svaki uzorak komponente i čuva je na raspolaganju državnim tijelima deset godina nakon što je komponenta stavljena na tržište. U potvrdi o sukladnosti navodi se model komponente za koji je ta potvrda sastavljena. Uz svaku komponentu nalazi se primjerak potvrde o sukladnosti.
+6. Ako se prijavljeno tijelo slaže, proizvođač također može, pod odgovornošću prijavljenog tijela, stavljati identifikacijski broj prijavljenoga tijela na proizvode tijekom postupka proizvodnje.
+7. Ovlašteni zastupnik
+Obveze proizvođača može, u njegovo ime i na njegovu odgovornost, ispuniti njegov ovlašteni zastupnik ako su one navedene u ovlaštenju. Ovlašteni predstavnik ne može ispuniti obveze proizvođača iz točke 2.
+PRILOG VI
+MODUL C1: SUKLADNOST S TIPOM NA TEMELJU UNUTARNJE KONTROLE PROIZVODNJE I NADZIRANOG ISPITIVANJA PROIZVODA
+1. Sukladnost s tipom na temelju unutarnje kontrole proizvodnje i nadziranog ispitivanja proizvoda dio je postupka ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2., 3. i 4. te jamči i izjavljuje na vlastitu odgovornost da su dotični proizvodi u skladu s tipom opisanim u certifikatu o EU ispitivanju tipa i da ispunjavaju zahtjeve ovoga Pravilnika koji se na njih odnose.
+2. Proizvodnja
+Proizvođač poduzima sve potrebne mjere kako bi se postupkom proizvodnje i njegovim praćenjem zajamčila sukladnost proizvedenih proizvoda s tipom opisanim u certifikatu o EU ispitivanju tipa i sa zahtjevima ovoga Pravilnika koji se na njih odnose.
+3. Provjere proizvoda
+Proizvođač će za svaki pojedinačni proizvedeni proizvod provesti, ili će dati da se u njegovo ime provede, jedno ili više ispitivanja o jednom ili više posebnih aspekata proizvoda kako bi se provjerila sukladnost s tipom opisanim u certifikatu o EU ispitivanju tipa i s odgovarajućim zahtjevima ovoga Pravilnika. Ova se ispitivanja moraju provoditi pod odgovornošću prijavljenog tijela koje je izabrao proizvođač.
+Na odgovornost tijela za ocjenu sukladnosti proizvođač tijekom proizvodnje stavlja identifikacijski broj tog tijela.
+4. Oznaka CE, EU izjava o sukladnosti i potvrda o sukladnosti
+4.1. Proizvođač stavlja oznaku CE na svaki pojedini proizvod koji nije komponenta koji je u skladu s tipom opisanim u certifikatu o EU ispitivanju tipa i koji ispunjava primjenjive zahtjeve iz ovog Pravilnika.
+4.2. Proizvođač sastavlja pisanu EU izjavu o sukladnosti za svaki model proizvoda koji nije komponenta i stavlja je na raspolaganje državnim tijelima tijekom deset godina od stavljanja proizvoda koji nije komponenta na tržište. U EU izjavi o sukladnosti navodi se takav model proizvoda za koji je ta izjava sastavljena.
+Uz svaki proizvod koji nije komponenta nalazi se primjerak EU izjave o sukladnosti.
+4.3. Proizvođač sastavlja pisanu potvrdu o sukladnosti za svaki uzorak komponente i čuva je na raspolaganju državnim tijelima deset godina nakon što je komponenta stavljena na tržište. U potvrdi o sukladnosti navodi se model komponente za koji je ta potvrda sastavljena.
+Uz svaku komponentu nalazi se primjerak potvrde o sukladnosti
+5. Ovlašteni zastupnik
+Obveze proizvođača iz točke 4. u njegovo ime i na njegovu odgovornost može ispuniti njegov ovlašteni zastupnik ako su one navedene u ovlaštenju.
+PRILOG VII
+MODUL E: SUKLADNOST S TIPOM NA TEMELJU OSIGURANJA KVALITETE PROIZVODA
+1. Sukladnost s tipom na temelju osiguranja kvalitete proizvoda dio je postupka ocjenjivanja sukladnosti u kojem proizvođač ispunjava obveze iz točaka 2. i 5. te jamči i izjavljuje na vlastitu odgovornost da su dotični proizvodi u skladu s tipom opisanim u certifikatu o EU ispitivanju tipa i da ispunjavaju zahtjeve ovoga Pravilnika koji se na njih odnose.
+2. Proizvodnja
+Proizvođač mora provoditi odobreni sustav kvalitete za završnu provjeru proizvoda i ispitivanje dotičnih proizvoda u skladu s točkom 3. te podliježe nadzoru kako je navedeno u točki 4.
+3. Sustav kvalitete
+3.1. Proizvođač podnosi zahtjev za ocjenjivanje svog sustava kvalitete za dotične predmete prijavljenom tijelu 

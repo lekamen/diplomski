@@ -1,0 +1,27 @@
+ podnesu učinke štetnog događaja do određenog stupnja i da ne budu određeno vrijeme pogođeni negativnim djelovanjem
+– transparentnost – mora biti jasno vidljivo i razumljivo kako se elementi rizika spajaju i kako funkcioniraju, da bi se u slučaju štetnog događaja brzo popravili ili zamijenili
+– ovisnost o posebnim uvjetima okoliša – infrastruktura radi pod okolnim uvjetima koji prevladavaju na lokaciji i ako ovisi o tim specifičnim okolnim uvjetima ranjiva je u odnosu na potencijalne promjene tih uvjeta.
+5. Međusektorska mjerila
+Članak 11.
+(1) U postupku analize rizika poslovanja kritičnih infrastruktura koriste se međusektorska mjerila, definirana u odnosu na posljedice negativnog događaja:
+1. posljedice po ljudske živote i ljudsko zdravlje – procjenjuje se broj smrtno stradalih osoba, ozlijeđenih osoba, oboljelih osoba, osoba sa trajnim tjelesnim invaliditetom, broj premještenih i/ili raseljenih osoba
+2. posljedice u gospodarstvu, okolišu i financijama – procjenjuju se i iskazuju kvantitativno kao troškovi prekida gospodarskih aktivnosti, vrijednosti isplaćenih premija osiguranja, troškovi liječenja i medicinskih postupaka, troškovi neposrednih i/ili dugoročnih hitnih mjera, troškovi obnove i/ili izgradnje građevina, prometne i druge infrastrukture, javnog prijevoza, poštanskog i bankarskog prometa i usluga, troškovi ekološke obnove i drugi ekološki troškovi koji uključuju i nenadoknadive (trajne) ekološke štete, troškovi obnove kulturne baštine koji uključuju štete nastale uništenjem nenadoknadive kulturne baštine, druge specifične izravne i neizravne štete i troškove
+3. socio-političke posljedice i utjecaj na javnost – procjena uključuje kategorije kao što su gubitak povjerenja javnosti, javni red i mir te sigurnost građana, socio-psihološki utjecaj, narušavanje svakodnevnog života koje uključuje osnovne i/ili javne usluge te političke posljedice.
+(2) Pored mjerila iz stavka 1. ovog članka, u pojedinim sektorima u postupku analize rizika poslovanja kritičnih infrastruktura koriste se posebna sektorska mjerila i elementi rizika koja utvrđuju nadležna tijela državne uprave u suradnji s nadležnim regulatornim agencijama.
+6. Metode za izračun rizika
+Članak 12.
+(1) Metode za izračun rizika mogu biti:
+– kvalitativne – koje daju grube procjene rizika u obliku teksta, bez izrade i mogućnosti numeričke usporedivosti (Prilog 1.)
+– polu – kvantitativne – koje koriste klasifikaciju sustava za procjenu vrijednosti pojedinačnih faktora rizika tako da se oni mogu uspoređivati u numeričkom obliku
+– kvantitativne – kojima se matematički izračunavaju faktori rizika.
+(2) Odabir metode za izračun rizika ovisan je o specifičnostima sektora i svojstvima kritičnih infrastruktura.
+7. Analiza jednostrukog i višestrukog rizika
+Članak 13.
+(1) Analizom jednostrukog rizika utvrđuje se mogućnost i posljedice određenog štetnog događaja/prijetnje koji se pojavljuje u nekom zemljopisnom području u određenom vremenskom razdoblju odvojeno od drugih štetnih događaja. Nakon utvrđivanja svih značajnih pojedinačnih rizika može se provesti ukupna evaluacija rizika.
+(2) Analizom višestrukih rizika utvrđuje se ukupni učinak svih rizika na objekte, mreže i sustave, uzimajući u obzir međusobno djelovanje mogućih opasnosti i osjetljivosti.
+(3) U analizi višestrukih rizika, kada jedan štetni događaj uzrokuje jedan ili više naknadnih štetnih događaja, uzimaju se u obzir naknadni učinci štetnih događaja (sekundarni učinak, domino učinak, kaskadno djelovanje).
+8. Vrednovanje rizika
+Članak 14.
+(1) Vrednovanje rizika je proces usporedbe rezultata analize rizika s kriterijima rizika da bi se utvrdilo da li je rizik prihvatljiv, odnosno da li je prihvatljiva njegova veličina.
+(2) U slučaju da je rizik veći od predviđenog, vlasnik/upravitelj kritične infrastrukture utvrđuje mjere za smanjenje rizika.
+(3) Vrednovanje rizika treba pokazati može li biti postignuta unaprijed definirana i planirana razina zaštite kritičnih infrastruktura i/ili njezinih dijelova u odnosu na

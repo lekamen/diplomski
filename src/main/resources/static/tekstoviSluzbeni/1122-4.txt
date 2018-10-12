@@ -1,0 +1,38 @@
+ Navigation and Lighthouse Authorities – Međunarodno udruženje pomorske signalizacije
+– IALA preporuke V-103 – sadrže smjernice koje se odnose na standarde za osposobljavanje i stjecanje svjedodžbi djelatnika VTS službe, iz prosinca 2009. (Standards for Training and Certification of VTS Personnel)
+– Uprava je ustrojstvena jedinica Ministarstva nadležna za sigurnost plovidbe
+Poglavlje 2. DJELATNOST I POSLOVI VTS SLUŽBE
+Članak 75.c
+(1) Poslovi nadzora i upravljanja pomorskim prometom obavljaju se na radnoj i upravljačkoj razini odgovornosti.
+(2) Nadzor i upravljanje pomorskim prometom na radnoj razini odgovornosti uključuje:
+a. prikupljanje i analizu podataka o pomorskim objektima i pomorskom prometu,
+b. pružanje informacijske podrške pomorskim objektima (IS),
+c. davanje plovidbenih savjeta i podrške u plovidbi pomorskim objektima (NAS),
+d. organizaciju plovidbe i upravljanje pomorskim prometom (TOS),
+e. inspekcijski nadzor sigurnosti plovidbe, u skladu s posebnim propisima,
+f. suradnju s nadležnim službama Ministarstva i lučkih kapetanija,
+g. suradnju s drugim tijelima operativnog nadzora,
+h. druge poslove iz djelokruga VTS službe.
+(3) Nadzor i upravljanje pomorskim prometom na upravljačkoj razini odgovornosti uključuje:
+a. koordinaciju, usklađivanje i nadzor rada VTS operatera i osiguranje učinkovitosti rada pojedinog VTS centra,
+b. planiranje i provedbu stručnog osposobljavanja i usavršavanja djelatnika VTS službe,
+c. provedbu godišnje procjene kakvoće stečenih znanja i vještina i njihove praktične primjene u radu VTS operatera,
+d. inspekcijski nadzor sigurnosti plovidbe, u skladu s posebnim propisima,
+e. suradnju s nadležnim službama Ministarstva i lučkih kapetanija,
+f. suradnju s drugim tijelima operativnog nadzora,
+g. obavljanje posebnih poslova prema odlukama Uprave
+h. druge poslove iz djelokruga VTS službe.
+Članak 75.č
+(1) VTS operater (VTS Operator – oznaka VTSO) je službenik VTS službe osposobljen za obavljanje poslova nadzora i upravljanja pomorskim prometom na radnoj razini odgovornosti u određenim VTS sektorima ako posjeduje valjanu Svjedodžbu o stručnoj osposobljenosti i valjanu Ovjeru osposobljenosti za VTS sektor, izdanu u skladu s odredbama ovog Pravilnika.
+(2) VTS nadzornik (VTS Supervisor – oznaka VTSS) je službenik VTS službe osposobljen za obavljanje poslova nadzora i upravljanja pomorskim prometom na upravljačkoj razini odgovornosti u određenim VTS sektorima ako posjeduje valjanu Svjedodžbu o stručnoj osposobljenosti i valjanu Ovjeru osposobljenosti za VTS sektor, izdanu u skladu s odredbama ovog Pravilnika.
+Poglavlje 3. SVJEDODŽBE O STRUČNOJ OSPOSOBLJENOSTI I OVJERE OSPOSOBLJENOSTI DJELATNIKA VTS SLUŽBE
+Članak 75.ć
+(1) Svjedodžbu o stručnoj osposobljenosti VTS operatera (VTS Operator Certificate of Competency) stječe osoba koja:
+a. – posjeduje Svjedodžbu o osposobljenosti za časnika plovidbene straže na brodovima od 500 BT ili većima (STCW II/1) s najmanje 24 mjeseci potvrđene plovidbene službe u istom zvanju, ili
+– posjeduje najmanje 2 godine radnog iskustva na odgovarajućim poslovima i/ili plovidbe, ili
+– ima najmanje 2 godine radnog iskustva u VTS službi,
+b. završi poseban program izobrazbe za VTS Operatera iz Priloga A. koji je sastavni dio ovog Pravilnika,
+c. posjeduje Svjedodžbu o osposobljenosti za GMDSS radiooperatera (STCW IV/2),
+d. posjeduje Potvrdu o osposobljenosti za motrenje i ucrtavanje radarskim uređajem i korištenje ARPA uređaja na radnoj ili upravljačkoj razini,
+e. posjeduje Potvrdu o osposobljenosti za korištenje elektroničkog prikazivača pomorskih karata s informacijskim sustavom (ECDIS),
+(2) Svjedodžba iz stavka 1. ovog članka izdaje uz ograničenje obavljanja poslova nadzora i upravljanja pomorskim prometom na radnoj razini koja ne uključuje davanje plovidbenih savjeta i podrške u plovidbi (NAS) i organizaciju plovidbe i upravljanje pomorskim prometom (TOS), ukoliko osoba ne posjeduje odgovarajuće zvanje u službi palube s pripadajućom plovidbenom službom u istom zvanju iz stavka 1.

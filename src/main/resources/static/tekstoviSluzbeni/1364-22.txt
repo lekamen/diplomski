@@ -1,0 +1,34 @@
+ koju je prijavio u stečajnom postupku kao stečajni vjerovnik, iako je ta njegova tražbina osporena, ako je osigurana razlučnim pravom upisanim u javnoj knjizi, osim ako dužnik javnom ili javno ovjerovljenom ispravom ne dokaže prestanak postojanja tražbine.
+(4) Vjerovnicima osporenih tražbina, i ako nisu ispunjene pretpostavke iz stavaka 2. i 3. ovoga članka, priznat će se pravo glasa ako se na skupštini vjerovnika stečajni upravitelj i nazočni vjerovnici s pravom glasa tako sporazumiju. Ako se sporazum ne može postići, o tome odlučuje sud na skupštini rješenjem protiv kojeg nije dopuštena posebna žalba.
+(5) Vjerovnici nižih isplatnih redova nemaju pravo glasa, osim ako su njihove tražbine utvrđene.
+(6) Sud može tijekom glasovanja na sljedećim skupštinama vjerovnika na prijedlog stečajnoga upravitelja ili kojega od nazočnih vjerovnika s pravom glasa izmijeniti svoju odluku o pravu glasa vjerovnika osporenih tražbina.
+(7) Odredba stavka 2. ovoga članka na odgovarajući se način primjenjuje i na vjerovnike čije su tražbine vezane za odgodni uvjet.
+(8) Pravo glasa imaju vjerovnici do potpunoga namirenja svoje tražbine.
+Ovlaštenja skupštine vjerovnika
+Članak 107.
+(1) Skupština vjerovnika ovlaštena je na izvještajnom ročištu ili kojem kasnijem ročištu:
+1. osnovati odbor vjerovnika, ako on nije osnovan, odnosno izmijeniti njegov sastav ili ga ukinuti
+2. imenovati novoga stečajnog upravitelja
+3. odlučiti o poslovanju dužnika iz članka 217. stavka 2. ovoga Zakona i o načinu i uvjetima unovčenja njegove imovine
+4. naložiti stečajnom upravitelju izradu stečajnoga plana
+5. donijeti sve odluke iz nadležnosti odbora vjerovnika
+6. odlučiti o drugim pitanjima važnim za provedbu i završetak stečajnoga postupka u skladu s ovim Zakonom.
+(2) Skupština vjerovnika ima pravo zatražiti od stečajnoga upravitelja obavijesti i izvještaje o stanju stvari i vođenju poslova. Ako odbor vjerovnika nije osnovan, skupština vjerovnika može naložiti provjeru prometa i iznosa gotova novca kojom upravlja stečajni upravitelj.
+(3) Vjerovnici svoje odluke mogu izmijeniti na kasnijim ročištima skupštine vjerovnika.
+Ukidanje odluke skupštine vjerovnika
+Članak 108.
+(1) Sud će na zahtjev razlučnoga vjerovnika, stečajnoga vjerovnika koji nije nižega isplatnog reda, stečajnoga upravitelja ili iznimno po službenoj dužnosti ukinuti odluku skupštine vjerovnika ako je protivna zajedničkom interesu stečajnih vjerovnika.
+(2) O zahtjevu iz stavka 1. ovoga članka sud je dužan odlučiti odmah na toj skupštini, a u složenijim slučajevima može odgoditi donošenje odluke za osam dana od dana održavanja skupštine.
+(3) Rješenje kojim se ukida odluka skupštine vjerovnika objavit će se na mrežnoj stranici e-Oglasna ploča sudova. Protiv te odluke pravo na posebnu žalbu ima svaki razlučni vjerovnik i svaki stečajni vjerovnik koji nije nižega isplatnog reda.
+2. POKRETANJE STEČAJNOGA POSTUPKA
+Podnositelji prijedloga za otvaranje stečajnoga postupka
+Članak 109.
+(1) Prijedlog za otvaranje stečajnoga postupka ovlašten je podnijeti vjerovnik ili dužnik, ako zakonom nije drukčije određeno.
+(2) Vjerovnik je ovlašten podnijeti prijedlog za otvaranje stečajnoga postupka ako učini vjerojatnim postojanje svoje tražbine i stečajnoga razloga. Smatrat će se da je vjerovnik učinio vjerojatnim postojanje svoje tražbine ako njezino postojanje temelji na ovršnoj ispravi ili nepravomoćnoj sudskoj ili upravnoj odluci.
+(3) Razlučni vjerovnik ovlašten je podnijeti prijedlog za otvaranje stečajnoga postupka ako učini vjerojatnim da tražbinu neće moći potpuno namiriti iz predmeta na koji se odnosi njegovo razlučno pravo.
+(4) Prijedlog za otvaranje stečajnoga postupka pravne osobe u ime dužnika ovlaštene su podnijeti:
+− osoba ovlaštena za zastupanje dužnika po zakonu
+− član upravnoga odbora dioničkoga društva
+− likvidator dužnika
+− član nadzornoga odbora dužnika, ako nema osoba ovlaštenih za zastupanje dužnika po zakonu
+− član društva s ograničenom odgovornošću ako dužnik nema nadzorni odbor, a nema osoba ovlaštenih

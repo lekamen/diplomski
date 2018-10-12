@@ -1,0 +1,48 @@
+ prometa organizirano je kroz prometnu operativu. Sjedište, broj i poslove prometnih operativa određuje upravitelj infrastrukture.
+(3) Upravitelj infrastrukture dužan je donijeti opći akt kojim se detaljnije propisuju poslovi prometnih operativa.
+(4) Željeznički prijevoznici mogu organizirati svoje operative za planiranje i praćenje izvršenja prijevoza.
+(5) Željeznički prijevoznici dužni su prometnim operativama dostavljati sljedeće podatke:
+a) o predviđenim vožnjama izvanrednih vlakova
+b) o otkazivanju redovnih vlakova
+c) o povećanju ili smanjenju planirane količine tereta u vlaku
+d) o potrebi uvrštavanja izvanrednih pošiljaka u vlak
+e) o prijevozu opasnih tvari
+f) o potrebi vožnje vlaka s prekoračenom duljinom
+g) o prednosti vlaka manjeg ranga pred vlakom većeg ranga (za vlastite vlakove)
+h) o promjeni u sastavu vlaka za prijevoz putnika i
+i) o svim drugim odstupanjima u prijevozu.
+(6) Željeznički prijevoznici podatke iz stavka 5. ovog članka dostavljaju prometnim operativama izravno putem svojih operativa ili upravitelju infrastrukture dostavljaju popis odgovornih osoba za međusobnu komunikaciju i dostavu podataka.
+XVIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 175.
+(1) Danom stupanja na snagu ovog Pravilnika prestaje važiti Pravilnik o načinu i uvjetima za obavljanje sigurnog tijeka željezničkog prometa (»Narodne novine«, br. 133/09., 14/10. i 56/12.), osim članaka 216., 217., 218., 219. i 220. koji prestaju važiti 10. prosinca 2017.
+(2) Do potrošnje zaliha evidencija propisanih u Prilogu 8 Pravilnika o načinu i uvjetima za obavljanje sigurnog tijeka željezničkog prometa (»Narodne novine«, br. 133/09., 14/10. i 56/12.), a najdulje 12 mjeseci od dana stupanja na snagu ovog Pravilnika, upravitelj infrastrukture i željeznički prijevoznik primjenjuju sljedeće evidencije:
+a) umjesto SE-3 može se koristiti EPS-5
+b) umjesto SE-5 može se koristiti EPS-7.
+(3) Upravitelj infrastrukture i željeznički prijevoznici dužni su svoje opće akte uskladiti sa odredbama ovog Pravilnika u roku od 12 mjeseci od dana stupanja na snagu ovog Pravilnika.
+Članak 176.
+Prilog je tiskan uz ovaj Pravilnik i čini njegov sastavni dio.
+Članak 177.
+Ovaj Pravilnik stupa na snagu 11. prosinca 2016., osim članaka 168., 169., 170. i 172. koji stupaju na snagu 10. prosinca 2017.
+Klasa: 011-01/16-02/103
+Urbroj: 530-05-2-2-1-16-2
+Zagreb, 11. studenoga 2016.
+Ministar Oleg Butković, v. r.
+PRILOG
+OBRASCI EVIDENCIJA
+Oznaka sigurnosne evidencije (SE) Naziv evidencije Jedinična mjera Format Rok čuvanja u godinama SE–1 Nalog za vožnju arak A–4 1 SE–3 Pisani nalog blok A–5 1 SE–4 Izvješće o primopredaji vlaka arak A–4 1 SE–5 Raspored manevriranja blok A–5 1
+SE–1
+(Naziv upravitelja infrastrukture)
+Nalog za vožnju vlaka broj……………
+Od kolodvora ............................. do kolodvora ....................................
+U vlak je uvrštena izvanredna pošiljka IP ..................................................................................................................................................................
+U vlaku su pošiljke s opasnim tvarima (broj opasnih tvari) .........................................................................................................................................
+Ostali posebni uvjeti kod vlaka .................................................................................................................................................................................
+Kolodvor koji ispostavlja nalog ......................................... Nadnevak ispostavljanja naloga .....................................................................................
+Obavijesti strojovođi:
+.................................................................................................................................................................................................................................
+Pečat
+(potpis prometnika vlakova)
+................................................
+
+SE–3
+(Naziv upravitelja infrastrukture)

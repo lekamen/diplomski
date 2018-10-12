@@ -1,0 +1,32 @@
+ sporazumijevanje uz nazočnost svjedoka.
+(3) Pod svjedokom podrazumijeva se izvršni radnik prisutan prijenosu priopćenja između dvaju službenih mjesta odnosno dvaju izvršnih radnika. Svjedok može biti izvršni radnik službenog mjesta iz kojeg se daje priopćenje ili iz drugog službenog odnosno radnog mjesta.
+(4) Sljedeća priopćenja moraju se davati dokazno i upisati u predviđene evidencije:
+a) davanje dopuštenja i odbijanje primitka vlakova i pružnih vozila
+b) davanje odjava
+c) davanje prednajave izvršnom radniku za osiguranje prometa na ŽCP-ima za osiguranje ŽCP-a i
+d) nalozi koji se daju sredstvima sporazumijevanja umjesto pisanim nalozima.
+IV. ODREDBE O MANEVRIRANJU
+Članak 18.
+(1) Pod manevriranjem podrazumijeva se svako pokretanje vozila koje nije vožnja vlaka, a koje se obavlja radi njihova premještanja s jednog mjesta na drugo, rad oko kvačenja, otkvačivanja, usporavanja i zaustavljanja tog kretanja te osiguranje vozila od samopokretanja.
+(2) Svako pokretanje vlaka nakon zaustavljanja, ako nije nastavak vožnje vlaka, smatra se manevriranjem.
+(3) Kretanje pojedinačnih ili zakvačenih vozila koje nije vožnja vlaka naziva se manevarskim kretanjem.
+(4) Manevarsko kretanje može biti:
+a) manevarska vožnja – vuča ili guranje vozila vučnim vozilom
+b) odbacivanje – ubrzavanje guranih vozila koja nisu zakvačena za manevarski sastav do određene brzine i naglo zaustavljanje manevarske vožnje pri čemu nezakvačena vozila nastavljaju kretanje
+c) spuštanje – manevarsko kretanje kod kojeg se vozila na kolosijeku koji leži u padu ili pomoću posebnog postrojenja za spuštanje ubrzavaju odnosno spuštaju
+d) lokomotivska vožnja – kretanje samog vučnog vozila ili vučnog vozila s najviše 12 osovina vučenih vozila koja su automatski kočena
+e) kretanje prijenosnicom ili okretnicom i
+f) premještanje vozila pomoću odgovarajućeg sredstva ili postrojenja.
+(5) Manevarskim kretanjem ne smije se ugroziti vožnja vlaka ili drugo manevarsko kretanje.
+(6) Kod manevarskih kretanja samog vučnog vozila strojovođa se mora nalaziti u prvoj upravljačnici, osim ako je vozilo praćeno pratiteljem koji se nalazi na prednjem dijelu vučnog vozila u smjeru kretanja. Kod manevarskih kretanja motornog vlaka, strojovođa se obavezno mora nalaziti u prvoj upravljačnici u smjeru kretanja.
+(7) Lokomotivska vožnja bez pratnje može se obavljati onda ako je zadovoljen jedan od sljedećih uvjeta:
+a) ako je kolodvor opremljen graničnim kolosiječnim signalima odnosno manevarskim signalima za zaštitu voznog puta
+b) ako je vidljivost takva da strojovođa može vidjeti ručne signalne znakove kolodvorskog osoblja ili
+c) ako razglas ili mobilna sredstva sporazumijevanja omogućuju davanje zapovijedi za pojedine dijelove manevarskog kretanja.
+(8) U kolodvorima opremljenima graničnim kolosiječnim signalima odnosno manevarskim signalima za zaštitu voznog puta područje kretanja za lokomotivsku vožnju bez pratnje određuje se usmeno. U drugim kolodvorima područje kretanja određuje se usmeno i pismeno rasporedom manevriranja.
+(9) Raspored manevriranja ne smije biti uručen strojovođi prije nego što je osiguran manevarski vozni put za početak odnosne vožnje, tako da uručenje rasporeda manevriranja strojovođi znači istodobno i zapovijed za početak lokomotivske vožnje.
+(10) Nakon početka lokomotivske vožnje daljnje zapovijedi za manevarsko kretanje daju se na jedan od sljedećih načina:
+a) signalnim znakovima graničnih kolosiječnih signala ili manevarskih signala za zaštitu voznog puta
+b) ručnim signalnim znakovima ili
+c) neposredno usmeno, razglasom ili mobilnim sredstvima za sporazumijevanje.
+(11) Zapovijed izvršnog radnika koji postavlja skretnice za lokomotivsku vožnju vrijedi samo za njegovo skretničko područje. Ako se lokomotivska vožnja obavlja preko više skretničkih područja, zapovijed se daje od jednog do drugog skretničkog područja. Ako strojovođa ne primi zapovijed za vožnju, mora stati ispred međnika prve skretnice sljedećeg skretničkog područja i čekati na zapovijed. Ako se dvije ili više

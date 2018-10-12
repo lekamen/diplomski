@@ -1,0 +1,42 @@
+ isplaćuju unaprijed iz proračunskih sredstava suda upisuju se u sustav eSpis.
+(2) Ako privatni tužitelj u kaznenom predmetu u kojem se kazneni postupak pokreće po privatnoj tužbi prethodno položi predujam za isplatu troškova postupka, podaci o položenom predujmu za isplatu troškova postupka, isplate troškova iz položenog predujma, obračun troškova postupka i vraćanje viška polagatelju upisuju se u sustav eSpis.
+(3) Ako je privatni tužitelj iz stavka 2. ovog članka oslobođen od plaćanja troškova kaznenog postupka, u sustav eSpis upisat će se navedena činjenica.
+Članak 134.
+Zapisnik i potvrda o oduzetim predmetima unosi se u sustav eSpis kao podnesak.
+Članak 135.
+Predsjednik vijeća naredbu za pozivanje sudaca porotnika evidentira u sustavu eSpis, a provodi je ovlašteni sudski službenik odabirom iz kartice »Imenovani sudionici – suci porotnici«.
+Članak 136.
+(1) Predsjednik suda će odluku o imenovanju sudaca porotnika dostaviti administratoru sustava eSpis u sudu radi unosa u sustav eSpis.
+(2) Sudac porotnik se dodjeljuje predmetu pomoću sustava eSpis izborom s liste sudaca porotnika.
+2. Postupak u stečajnim predmetima
+Članak 137.
+(1) Rješavatelj predmeta pokreće algoritam sustava eSpis za izbor stečajnog upravitelja, privremenog stečajnog upravitelja i povjerenika sa liste stečajnih upravitelja, metodom slučajnog odabira kroz sustav eSpis.
+(2) Iznimno od stavka 1. ovog članka, kada je posebnim zakonom tako propisano, rješavatelj predmeta upisuje u sustav eSpis imenovanog stečajnog upravitelja, privremenoga stečajnog upravitelja i povjerenika s liste stečajnih upravitelja.
+XXVII. POSEBNE ODREDBE ZA DODJELU U RAD HITNIH PREDMETA
+Članak 138.
+(1) Za dodjelu u rad spisa kroz sustav eSpis u kojima je propisani rok za rješavanje kraći od 30 dana primjenjuju se posebna pravila.
+(2) Rješavatelj predmeta iz stavka 1. ovog članka je dužan tri dana prije planiranog početka korištenja godišnjeg odmora ili planirane odsutnosti obavijestiti ured predsjednika o navedenim činjenicama.
+(3) Rješavatelj iz stavka 2. ovog članka iznimkom u automatskoj dodjeli isključuje se iz dodjele hitnih spisa za vrijeme odsutnosti.
+(4) Ured predsjednika suda dužan je obavijesti ovlaštenu osobu u sudu o predvidivoj odsutnosti rješavatelja.
+(5) Ovlaštena osoba u sudu je dužna isključiti iz automatske dodjele hitnih predmeta rješavatelja za kojega mu je ured predsjednika dostavio obavijest o odsutnosti.
+XXVIII. PRESTANAK RADA SUDSKE REFERADE
+Članak 139.
+(1) Rješavatelj koji prestaje s radom u sudu dužan je bez odgode pisanim putem obavijestiti ured predsjednika suda o datumu prestanka rada.
+(2) Kada rješavatelj prestane raditi u sudu, njegova referada u sustavu eSpis se gasi, a u odnosu na sve predmete dodijeljene tom rješavatelju određuje se ponovljena automatska dodjela.
+(3) Nakon primitka obavijesti iz stavka 1. ovog članka, predsjednik suda ili druga ovlaštena osoba u sudu dat će nalog administratoru sustava eSpis u sudu da razduži ovlasti rješavatelja za rad u sustavu eSpis te da pokrene automatsku dodjelu spisa na kojima je potrebno nastaviti rad.
+XXIX. POSLOVANJE S POŠTOM
+Članak 140.
+Predaja pošiljaka generira se iz sustava eSpis.
+XXX. e-OGLASNA PLOČA
+Članak 141.
+(1) Pismena i odluke koje je potrebno objaviti na e-Oglasnoj ploči dostavljaju se putem sustava eSpis.
+(2) Naredba za dostavu na e-Oglasnu ploču evidentira se u sustavu eSpis.
+XXXI. RAD SA STRANKAMA I DRUGIM OSOBAMA
+Članak 142.
+(1) Stranke, njihovi punomoćnici i zastupnici te druge osobe kojima je odobren uvid u spis u papirnatom obliku mogu izvršiti uvid u spis i putem sustava eSpis. Uvid mogu izvršiti u pisarnici suda ili pisarnici stalne službe, uz prisutnost ovlaštenoga sudskog službenika.
+(2) Dozvolu za uvid u spis u sustavu eSpis daje predsjednik suda u obliku naredbe evidentirane u sustavu eSpis i upućene sudskoj pisarnici.
+Članak 143.
+Sve potvrde i naredbe koje se odnose na pojedini spis evidentirat će se u sustavu eSpis.
+XXXII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 144.
+Ovaj Pravilnik objavit

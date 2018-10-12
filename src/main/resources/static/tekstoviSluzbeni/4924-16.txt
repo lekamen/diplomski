@@ -1,0 +1,40 @@
+ Pravilnika.
+(5) Lokomotivski vlak može se otpremati kao:
+a) redovni lokomotivski vlak
+b) vlak po potrebi
+c) posebni vlak ili
+d) kontingentni vlak.
+(6) Teretni vlak koji u usputnom kolodvoru ostavi sva vučena vozila nastavlja vožnju po istoj trasi, ali kao lokomotivski vlak, u skladu s odredbama iz stavka 1. ovog članka.
+(7) Lokomotivski vlakovi predviđeni voznim redom otpremaju se u skladu s elementima određenima tim voznim redom.
+Raspored vagona s kočnicama u vlaku
+Članak 60.
+(1) Kod vlakova za prijevoz putnika, sve kočnice moraju biti ispravne i uključene. Iznimno je dopušteno da vlak za prijevoz putnika najveće dopuštene brzine do 120 km/h može iz polaznog kolodvora imati jedan vagon s neispravnim kočnicama.
+(2) Iznimno od odredaba iz stavka 1. ovog članka, kod vlakova za prijevoz putnika koji voze brzinom do 120 km/h, ako se tijekom vožnje iz bilo kojeg razloga isključi kočnica, tada između vagona s ispravnim kočnicama ne smije biti više od dva vagona na kojima su kočnice isključene.
+(3) U teretnim vlakovima između dviju ispravnih automatskih kočnica ne smije biti više od 8 nekočenih osovina. Na nagibima većima od 15‰ među posljednjih 10 vagona na kraju teretnog vlaka najmanje 5 vagona mora imati ispravnu automatsku kočnicu.
+(4) U teretnim vlakovima brzine veće od 100 km/h ne smije biti više od 50% nekočenih osovina.
+(5) Vagoni s kočnicama G i vagoni bez kočnica koji imaju samo glavni zračni vod uvrštavaju se u prednji dio vlaka.
+Proračun učinka kočnica vlaka
+Članak 61.
+Da bi se osigurao potreban učinak kočnica u vlaku, važni su sljedeći elementi:
+– ukupna masa vlaka (Q+L) – zbroj mase svih vučenih vozila u vlaku (Q) i mase radnih lokomotiva (L)
+– kočna masa (KM) – učinak kočnice praznog ili natovarenog vozila, koji se na vozilu označava u tonama
+– SKM vlaka – zbroj kočnih masa svih vučnih i vučenih vozila u vlaku s ispravnim i uključenim kočnicama te ispravno postavljenim mjenjačima za vrstu kočnice i kočnu silu
+– PKM vlaka – kočna masa koja se mora osigurati s obzirom na:
+a) zaustavni put
+b) brzinu
+c) mjerodavni nagib i
+d) vrstu kočnice
+– postotak kočenja vlaka (p) – postotni odnos kočne mase i ukupne mase vlaka, a to je onaj faktor kočnog učinka koji se mora osigurati kod vlaka s obzirom na duljinu zaustavnog puta, najveću brzinu vlaka, vrstu kočnice i mjerodavni nagib pruge i
+– mjerodavni nagib pruge – to je najveći uspon odnosno najveći pad u promilima (‰) na određenom dijelu pruge, koji se objavljuje u Izvješću o mreži.
+Članak 62.
+(1) Postotak kočenja određuje upravitelj infrastrukture i za njegov izračun dužan je izraditi tablice za zaustavne putove od 700, 1000 i 1500 metara i objaviti u Izvješću o mreži.
+(2) Za svaki vlak u voznom redu treba biti upisan potrebni postotak kočenja.
+(3) Potrebni postotak kočenja određuje se na sljedeći način:
+– ako je pruga odnosno dio pruge na horizontali – uzima se postotak kočenja za horizontalu i najveću dopuštenu brzinu vlaka
+– ako je pruga odnosno dio pruge na padu – uzima se postotak kočenja za mjerodavni pad i najveću dopuštenu brzinu vlaka
+– ako je pruga odnosno dio pruge na usponu – uzima se veći postotak kočenja koji se dobiva uspoređivanjem sljedećih veličina:
+a) postotka kočenja koji se dobije za mjerodavni uspon – uzima se postotak kočenja za pad čija je veličina jednaka mjerodavnom usponu i brzini od 20 km/h i
+b) postotka kočenja koji se dobije za horizontalu i za najveću dopuštenu brzinu vlaka na tome dijelu pruge
+– ako pruga odnosno dio pruge ima promjenjiv nagib (horizontala, pad, uspon), tada je mjerodavan najveći postotak kočenja određen u skladu s odredbama iz točaka a) i b) ovog stavka.
+(4) Ako se najveća dopuštena brzina vlaka ili nagib nalaze između njihovih veličina navedenih u tablicama iz stavka 1. ovog članka, onda se uzima postotak za najbližu veću brzinu odnosno za najbliži veći nagib pruge koji se nalazi u tablici odnosnog zaustavnog puta. Za brzine manje od 20 km/h mjerodavan je postotak kočenja koji je propisan za brzinu od 20 km/h.
+(5) Upravitelj

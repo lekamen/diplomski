@@ -1,0 +1,23 @@
+ Matično društvo je također dužno sastavljati konsolidirane financijske izvještaje ako:
+(a) matično društvo može ostvarivati ili ostvaruje prevladavajući utjecaj ili kontrolu nad ovisnim društvom, ili
+(b) matičnim društvom i ovisnim društvom njihovo matično društvo upravlja na jedinstvenoj osnovi u skladu s:
+i. ugovorom sklopljenim s tim poduzetnikom, ili
+ii. osnivačkim aktom ili statutom tih drugih poduzetnika, ili
+(c) se tim poduzetnikom i jednim ili više drugih poduzetnika s kojima isti nije povezan upravlja na jedinstvenoj osnovi, ili se administrativna, upravljačka ili nadzorna tijela predmetnog poduzetnika i jednog ili više drugih poduzetnika s kojima isti nije povezan sastoje uglavnom od istih osoba koje su na dužnosti u financijskoj godini dok se ne sastave konsolidirani financijski izvještaji.
+2.48. Matično društvo nije dužno sastavljati konsolidirane godišnje financijske izvještaje ako se u grupi osim matičnog društva nalaze samo ovisna društva koji pojedinačno ili skupno nisu značajni za konsolidirane godišnje izvještaje grupe, osim ako grupa uključuje poduzetnike od javnog interesa ili ako Hrvatski standardi financijskog izvještavanja ili Zakon o računovodstvu ne propisuju drukčije.
+2.49. Matično društvo u Republici Hrvatskoj, uključujući i poduzetnika od javnog interesa nije dužno sastavljati konsolidirane godišnje financijske izvještaje ako su ispunjeni svi sljedeći uvjeti:
+1. matično društvo nije izdavatelj financijskih instrumenata uvrštenih na uređenom tržištu države članice u smislu kako je definirano zakonom kojim se uređuje tržište kapitala
+2. matično društvo je pod kontrolom matičnog društva koje podliježe zakonima druge države članice
+3. matično društvo je u 100-postotnom vlasništvu drugog matičnog društva pri čemu se ne uzima u obzir vlasništvo koje drže članovi njegovih upravljačkih ili nadzornih tijela izuzetog matičnog društva u skladu sa zakonskom obvezom ili obvezom u osnivačkom aktu ili statutu društva. Ako je matično društvo u 90-postotnom i većem vlasništvu, izuzeće od sastavljanja konsolidiranih financijskih izvještaja podliježe odobrenju svih preostalih članova društva
+4. matično društvo će zajedno sa svim svojim društvima kćerima, osim onih društava koja sukladno propisima ne ulaze u konsolidaciju, biti konsolidirano u konsolidiranim financijskim izvještajima drugog matičnog društva koje podliježe zakonima druge države članice
+5. matično društvo sastavlja konsolidirani godišnji financijski izvještaj iz točke 4. i konsolidirano izvješće poslovodstva u skladu s propisima države članice u kojoj se nalazi ili Međunarodnim standardima financijskog izvještavanja
+6. matično društvo će objaviti konsolidirane godišnje financijske izvještaje, konsolidirano izvješće poslovodstva drugog matičnog društva i pripadajuće revizorsko izvješće sukladno odredbama ovoga Zakona o javnoj objavi u izvorniku
+7. bilješke uz financijske izvještaje matičnog društva sadržavaju:
+a) naziv i sjedište matičnog društva koje sastavlja konsolidirane godišnje financijske izvještaje iz točke 4. i
+b) navod o izuzeću od obveze sastavljanja konsolidiranih godišnjih financijskih izvještaja, odnosno konsolidiranog izvješća poslovodstva.
+2.50. Poduzetnika, uključujući i poduzetnika od javnog interesa, nije potrebno uključiti u konsolidirane financijske izvještaje ako je ispunjen najmanje jedan od sljedećih uvjeta:
+(a) u iznimno rijetkim slučajevima u slučaju kada informacije potrebne za sastavljanje konsolidiranih financijskih izvještaja nisu dostupne bez pretjeranih troškova ili pretjeranog kašnjenja,
+(b) dionice ili udjeli tog poduzetnika drže se isključivo s ciljem njihove naknadne prodaje, ili
+(c) snažna dugoročna ograničenja bitno ometaju:
+i. matično društvo u ostvarenju svojih prava nad imovinom ili upravljanjem tim poduzetnikom, ili
+ii. provođenje jedinstvenog upravljanja tim poduzetnikom koje se nalazi u jednom od odnosa definiranih na jedinstvenoj osnovi u skladu s ugovorom sklopljenim s tim poduzetnikom, ili osnivačkim aktom

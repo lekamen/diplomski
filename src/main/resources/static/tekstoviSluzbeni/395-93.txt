@@ -1,0 +1,21 @@
+ grupe u skladu s člankom 18. stavkom 3. točkom 5. i člankom 18. stavcima 4. i 5. ovoga Zakona, osim ako nije dogovoreno drugačije.
+(5) Osim ako u planu financiranja nije dogovoreno drugačije, kod utvrđivanja kriterija za izračun udjela sanacijskog fonda i drugih sustav financiranja država članica uključenih u sanaciju grupe uzima se u obzir:
+a) udio ponderirane rizične aktive institucije i subjekata iz članka 3. točke 2., 3. ili 4. ovoga Zakona sa sjedištem u državi članici tog sustava financiranja u odnosu na iznos ponderirane rizične aktive grupe kojoj isti pripadaju
+b) udio imovine institucije i subjekata iz članka 3. točke 2., 3. ili 4. ovoga Zakona sa sjedištem u državi članici tog sustava financiranja u odnosu na imovinu grupe kojoj isti pripadaju
+c) udio gubitaka svih članica grupe pod nadzorom istih nadležnih tijela države članice, a koji su doveli do sanacije grupe
+d) procijenjeni udio sredstava sanacijskog fonda i svakog drugog sustava financiranja uključenog u sanaciju grupe čija upotreba bi izravno donijela korist članicama grupe u sanaciji sa sjedištem u državi članici tog sustava financiranja.
+(6) Temeljem donesenih pravila i postupka sanacijski fond bez odlaganja te ne dovodeći u pitanje odredbe stavka 2. ovoga članka uplaćuje svoj doprinos financiranju sanacije grupe.
+(7) U slučaju sanacije grupe, a svrhu uzajamne potpore sanacijskog fonda i drugih sustava financiranja država članica, sanacijski fond može ugovoriti zajam i druge oblike potpore pod uvjetima utvrđenima u članku 121. ovoga Zakona.
+(8) Sanacijski fond može jamčiti za zajmove koji su ugovorili drugi sustavi financiranja država članica uključeni u sanaciju grupe.
+(9) Svi prihodi i druge koristi ostvarene korištenjem sanacijskog fonda i drugih sustava financiranja država članica uključenih u sanaciju grupe pripadaju istima u skladu s njihovim doprinosima u skladu s planom financiranja iz stavka 2. ovoga članka.
+Korištenje sustava osiguranja depozita u provedbi postupka sanacije
+Članak 123.
+(1) U slučaju primjene sanacijske mjere, a koja i dalje omogućava pristup deponenata svojim depozitima, sustav osiguranja depozita nadoknadit će:
+a) onaj iznos osiguranih depozita koji bi se otpisao radi pokrića gubitaka u skladu s člankom 69. stavkom 1. točkom a) ovoga Zakona da su osigurani depoziti bili uključeni u opseg primjene instrumenta unutarnje sanacije i bili otpisani razmjerno tražbinama vjerovnika istog isplatnog reda u skladu s propisima koji uređuju stečajni postupak u slučaju primjene instrumenta unutarnje sanacije
+b) iznos gubitaka koje bi osigurani deponenti pretrpjeli ako je njihov gubitak razmjeran gubicima vjerovnika istog isplatnog reda u skladu s propisima koji uređuju stečajni postupak u slučaju primjene jednog ili više sanacijskih instrumenata, izuzev instrumenta unutarnje sanacije.
+(2) U provedbi postupaka sanacije iznos nadoknade sustava osiguranja depozita ne može biti veći od iznosa gubitka u slučaju stečajnog postupka.
+(3) Ako se primjenjuje instrument unutarnje sanacije, sustav osiguranja depozita nema obvezu dokapitalizacije institucije ili prijelazne institucije u skladu s člankom 69. stavkom 1. točkom b) ovoga Zakona.
+(4) Ako je procjenom iz članka 107. ovoga Zakona utvrđeno da je doprinos sustava osiguranja depozita bio veći od neto gubitaka koji bi nastali u stečajnom postupku, sustav osiguranja depozita ima pravo na isplatu razlike od strane sanacijskog fonda u skladu s člankom 108. ovoga Zakona.
+(5) Iznos do kojeg sustav osiguranja depozita nadoknađuje u skladu sa stavkom 1. i 2. ovoga članka određuje se primjenom odredaba članka 35. ovoga Zakona.
+(6) Naknadu iz stavka 1. i 2. ovoga članka sustav osiguranja depozita isplaćuje na račun institucije u sanaciji ili prijelazne institucije.
+(7) U slučaju da se podložni depoziti institucije u sanaciji prenesu na drugi subjekt primjenom instrumenta prodaje ili prijelazne institucije, deponent nema pravo obeštećenja od sustava osiguranja depozita za onaj dio depozita koji nije prenesen 

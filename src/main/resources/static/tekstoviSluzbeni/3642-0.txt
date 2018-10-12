@@ -1,0 +1,30 @@
+36 20.04.2016 Pravilnik o načinu i uvjetima pristupa i zajedničkog korištenja elektroničke komunikacijske infrastrukture i druge povezane opreme
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+991
+Na temelju članka 12. stavka 1. točke 1. i članka 30. stavka 9. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 13. travnja 2016. donosi
+PRAVILNIK
+O NAČINU I UVJETIMA PRISTUPA I ZAJEDNIČKOG KORIŠTENJA ELEKTRONIČKE KOMUNIKACIJSKE INFRASTRUKTURE I DRUGE POVEZANE OPREME
+GLAVA I. UVODNE ODREDBE
+Predmet
+Članak 1.
+Ovim pravilnikom propisuju se način i uvjeti pristupa i zajedničkog korištenja kabelske kanalizacije i antenskih stupova, zgrada i drugih pripadajućih građevina i opreme, uključujući i svjetlovodne instalacije unutar zgrade ili do prve sabirne točke, razina raspoloživosti slobodnog prostora u toj infrastrukturi i temeljne sastavnice ugovora o pristupu i zajedničkom korištenju.
+Pojmovi i značenja
+Članak 2.
+U smislu ovoga pravilnika, pojedini pojmovi imaju sljedeće značenje:
+1. cijev malog promjera: cijev izrađena od polietilena visoke gustoće, vanjskog promjera od 20 do 40 mm, s takvom unutrašnjom stijenkom koja osigurava vrlo mali koeficijent trenja
+2. cijev promjera 50 mm: cijev izrađena od polietilena visoke gustoće, vanjskog promjera od 50 mm, s takvom unutrašnjom stijenkom koja osigurava vrlo mali koeficijent trenja
+3. cijev velikog promjera: cijev izrađena od polivinil klorida, polietilena ili betona vanjskog promjera od 63 do 110 mm
+4. HAKOM: Hrvatska regulatorna agencija za mrežne djelatnosti
+5. kabelska kanalizacija: dio elektroničke komunikacijske infrastrukture koji se sastoji od mreže podzemnih cijevi od pogodnog materijala, kabelskih zdenaca i kabelskih galerija, koja služi za postavljanje i zaštitu elektroničkih komunikacijskih kabela
+6. kabelski zdenci: podzemne prostorije višestruke namjene, koje se postavljaju na mjestima nastavljanja, križanja i promjene smjerova kabelske kanalizacije, te ispred kabelskih razdjelnika i centrala
+7. mikrocijev: cijev vanjskog promjera od 3 do 16 mm, s takvom unutrašnjom stijenkom koja osigurava vrlo mali koeficijent trenja
+8. operator zgrade: pravna ili fizička osoba koja je odgovorna za održavanje i upravljanje svjetlovodnim instalacijama u zgradi temeljem prava vlasništva, ugovora s vlasnicima ili upraviteljem zgrade
+9. sabirna točka: točka razdvajanja između mreže operatora zgrade i drugih operatora, odnosno točka u kojoj operator zgrade drugim operatorima omogućuje pristup elektroničkoj komunikacijskoj mreži radi pružanja elektroničkih komunikacijskih usluga krajnjim korisnicima koji su spojeni na tu mrežu
+10. trasa kabelske kanalizacije: projektirani ili već izgrađeni pravac i geodetski pozicionirana linija kabelske kanalizacije unutar koridora elektroničke komunikacijske infrastrukture
+11. zakon: Zakon o elektroničkim komunikacijama
+GLAVA II. PRISTUP I ZAJEDNIČKO KORIŠTENJE ELEKTRONIČKE KOMUNIKACIJSKE INFRASTRUKTURE I DRUGE POVEZANE OPREME
+Pravo na pristup i zajedničko korištenje elektroničke komunikacijske infrastrukture i druge povezane opreme
+Članak 3.
+(1) Infrastrukturni operator mora omogućiti operatoru korisniku, uz naknadu i na temelju sklopljenog ugovora, pristup i zajedničko korištenje svoje elektroničke komunikacijske infrastrukture i druge povezane opreme, ako su ispunjeni uvjeti pristupa i zajedničkog korištenja propisani ovim pravilnikom.
+(2) Pristup i zajedničko korištenje elektroničke komunikacijske infrastrukture i druge povezane opreme, infrastrukturni operator obvezan je omogućiti rukovodeći se načelom nediskriminacije i jednakih uvjeta pristupa za sve operatore.
+(3) Ako je pristup i zajedničko korištenje onemogućeno od strane infrastrukturnog operatora ili ako postoji spor između infrastrukturnog operatora i operatora korisnika u vezi ugovaranja pristupa i zajedničkog korištenja elektroničke komunikacijske infrastrukture i

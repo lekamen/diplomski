@@ -1,0 +1,34 @@
+ čine:
+− odbitak za opće i zajedničke potrebe
+− iskazi zemljišta o stanju prije komasacije
+− evidentirani prijedlozi o smještaju novog posjeda sudionika komasacije
+− digitalni katastarski plan iz članka 4. stavka 1. ovoga Pravilnika s prikazom: granice komasacijskog područja, zemljišta iz članka 6. stavka 1. ovoga Pravilnika, granice razreda za procjenu zemljišta i putne i kanalske mreže, bez prikaza sadržaja digitalnog katastarskog plana unutar granice komasacijske gromade (granice postojećih katastarskih čestica, granice načina uporabe i dr.).
+(2) Na digitalnom katastarskom planu izrađuje se privremena parcelacija po komasacijskim tablama. Za svaku komasacijsku tablu izrađuje se poseban obračun površina i vrijednosti.
+Obilježavanje granica projektirane putne i kanalske mreže na terenu
+Članak 13.
+Iskolčenje granica putne i kanalske mreže obavlja se na način da se lomne točke projektiranih putova i kanala prenose na teren geodetskim metodama propisanim propisima kojima se uređuje državna izmjera i katastar nekretnina i obilježavaju se vidljivim trajnim oznakama.
+Sudjelovanje u javnoj raspravi za dodjelu zemljišta, obilježavanje granica komasiranih čestica i uvođenje sudionika komasacije u posjed nadijeljenog zemljišta
+Članak 14.
+(1) Izvođač stručnih geodetskih poslova sudjeluje na usmenoj raspravi o dodjeli zemljišta na način da pozvanom sudioniku komasacije i županijskom komasacijskom povjerenstvu izlaže prijedlog nadiobe zemljišta iz članka 12. ovoga Pravilnika.
+(2) Na temelju rezultata usmene rasprave o dodjeli zemljišta izvođač stručnih geodetskih poslova obavlja navedene radnje:
+− ucrtava granice nadijeljenog zemljišta u digitalni katastarski plan koji nastaje na temelju komasacijske osnove iz članka 12. stavka 1. ovoga Pravilnika
+− izrađuje skice izmjere nadijeljenog zemljišta
+− iskolčava i obilježava granice nadijeljenog zemljišta na terenu vidljivim trajnim oznakama
+− sudjeluje u uvođenju sudionika komasacije u posjed nadijeljenog zemljišta na način da na terenu identificira granice nadijeljenog zemljišta
+− izrađuje pregledni plan komasiranih čestica
+− obrojčava katastarske čestice nastale komasacijom.
+(3) Obrojčavanje komasiranih čestica vrši se na preglednom planu komasiranih čestica, nastavno na postojeće brojeve katastarskih čestica u katastarskoj općini na čijem području se nalazi komasacijska gromada. Katastarske čestice izvan komasacijske gromade a unutar komasacijskog područja zadržavaju postojeće osnovne brojeve.
+Sastavljanje iskaza zemljišta o stanju nakon komasacije i sudjelovanje u izlaganju i rješavanju prigovora na sadržaj iskaza
+Članak 15.
+(1) Iskaz zemljišta o stanju nakon komasacije sadrži podatke o:
+− imenu, prezimenu, prebivalištu, OIB-u i udjelu vlasnika, odnosno nazivu, sjedištu i OIB-u pravne osobe
+− broju, površini, načinu uporabe, adresi, razredu za procjenu, vrijednosti za procjenu, površinama i vrijednostima za procjenu dijelova komasirane katastarske čestice u različitim razredima za procjenu, za svaku komasiranu česticu
+− ukupnoj površini i vrijednosti za procjenu nadijeljenog zemljišta
+− ukupnoj površini i vrijednosti za procjenu nadijeljenog zemljišta po razredima za procjenu
+− iznosu odbitka za opće i zajedničke potrebe
+− služnostima, teretima i ograničenjima raspolaganja pravom vlasništva
+− broju raspravnog zapisnika iz postupka po prigovoru iz članka 57. stavka 3. Zakona.
+(2) Broj iskaza zemljišta o stanju nakon komasacije identičan je broju iskaza zemljišta o stanju prije komasacije.
+(3) Uz podatke iz stavka 1. ovoga članka za zemljište koje je dodijeljeno iz komasacijske gromade, iskazuju se i podaci zemljišta koje nije ušlo u komasacijsku gromadu ali je obuhvaćeno komasacijskim područjem.
+(4) Izvođač stručnih geodetskih poslova koji sudjeluje u postupku izlaganja na javni uvid iskaza zemljišta iz stavka 1. ovoga članka zainteresiranom sudioniku komasacije, zajedno s preglednim planom komasiranih čestica, izlaže i objašnjava podatke sadržane u iskazu zemljišta.
+(5) U slučaju kad

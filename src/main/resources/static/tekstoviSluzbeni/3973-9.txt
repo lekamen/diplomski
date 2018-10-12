@@ -1,0 +1,25 @@
+ izvanrednoj provjeri osposobljenosti prijavljenog tijela za ocjenjivanje sukladnosti utvrdi da to tijelo ne ispunjava uvjete propisane ovim Pravilnikom, o tome će bez odgode izvijestiti Ministarstvo.
+(13) U slučaju iz stavka 12. ovoga članka ministar će ukinuti rješenje o ovlaštenju iz stavka 1. ovoga članka, i to u cijelosti ili u dijelu u kojem je ovlašteno tijelo za ocjenjivanje sukladnosti prestalo ispunjavati propisane uvjete.
+(14) Popis prijavljenih tijela za obavljanje postupka ocjenjivanja sukladnosti radijske opreme vodi Ministarstvo, koje ga redovito dopunjuje i objavljuje na svojim internetskim stranicama.
+(15) Prijavljena tijela osiguravaju dostupnost žalbenog postupka na svoje odluke.
+Naknade
+Članak 25.
+(1) Za izdavanje rješenja o ovlaštenju iz članka 24. stavka 1. ovoga Pravilnika plaća se upravna pristojba u skladu s posebnim propisom.
+(2) Podnositelj zahtjeva za izdavanje rješenja iz stavka 1. ovoga članka plaća troškove provedbe postupka utvrđivanja osposobljenosti tijela za ocjenjivanje sukladnosti u korist hrvatskog nacionalnog akreditacijskog tijela.
+(3) Troškove provedbe postupka ocjenjivanja sukladnosti radijske opreme snosi podnositelj zahtjeva prema cjeniku prijavljenog tijela za ocjenjivanje sukladnosti.
+(4) Prijavljeno tijelo za ocjenjivanje sukladnosti objavljuje i redovito obnavlja cjenik svojih usluga na svojim internetskim stranicama.
+V. NADZOR TRŽIŠTA, KONTROLA RADIJSKE OPREME KOJA SE STAVLJA NA TRŽIŠTE I MJERE ZAŠTITE
+Primjena Uredbe (EZ) br. 765/2008
+Članak 26.
+Članak 15. stavak 3. i članci 16. do 29. Uredbe (EZ) br. 765/2008 primjenjuju se na radijsku opremu.
+Nadzor i mjere zaštite
+Članak 27.
+(1) Poslove inspekcijskog nadzora nad primjenom odredaba ovoga Pravilnika, koje se odnose na nadzor radijske opreme na tržištu, provodi nadležni inspektor u skladu sa Zakonom i posebnim zakonom kojim je uređeno područje elektroničkih komunikacija.
+(2) O obavljenom nadzoru radijske opreme na tržištu nadležni inspektor vodi zapisnik.
+(3) Ako u obavljanju inspekcijskog nadzora utvrdi postojanje osnovane sumnje da radijska oprema predstavlja rizik za zdravlje i sigurnost ljudi, životinja i biljaka, okoliša i imovine, nadležni inspektor ocjenjuje ispunjava li radijska oprema sve zahtjeve iz ovoga Pravilnika. Gospodarski subjekti obvezni su surađivati s nadležnim inspektorom.
+(4) Ako tijekom ocjenjivanja iz stavka 3. ovoga članka nadležni inspektor utvrdi da radijska oprema nije u skladu sa zahtjevima iz ovoga Pravilnika, bez odgode će zahtijevati da gospodarski subjekt provede sve odgovarajuće popravne radnje kako bi radijsku opremu uskladio s tim zahtjevima, povukao radijsku opremu s tržišta ili izvršio njezin povrat u primjerenom roku, određenom s obzirom na vrstu rizika.
+(5) Nadležni inspektor može, u okviru mjera koje je ovlašten poduzimati, narediti gospodarskom subjektu ispitivanje radijske opreme.
+(6) Ako utvrdi da radijska oprema stavljena na tržište i/ili u pogon ima formalni nedostatak iz članka 29. ovoga Pravilnika, nadležni inspektor naredit će gospodarskom subjektu uklanjanje utvrđenih nepravilnosti i odrediti primjereni rok u kojem se nepravilnosti moraju ukloniti.
+(7) Ako se ispitivanjem iz stavka 5. ovoga članka utvrdi da radijska oprema ne udovoljava bitnim zahtjevima iz članka 5. ovoga Pravilnika, nadležni inspektor odredit će mjere gospodarskom subjektu radi uklanjanja utvrđene nesukladnosti, povlačenja radijske opreme s tržišta ili povrata od krajnjih korisnika u primjerenom roku, određenom s obzirom na vrstu rizika.
+(8) Ako se ispitivanjem iz stavka 5. ovoga članka utvrdi da radijska oprema, za koju je utvrđena sukladnost, predstavlja rizik za zdravlje i sigurnost ljudi ili za druge vidove zaštite javnog interesa, nadležni inspektor odredit će mjere gospodarskom subjektu radi uklanjanja utvrđenog rizika, povlačenja radijske opreme s tržišta ili povrata od krajnjih korisnika u primjerenom roku, određenom s obzirom na vrstu rizika.
+(9) Nadležni inspektor obvezan je o poduzetim mjerama iz

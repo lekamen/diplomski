@@ -1,0 +1,43 @@
+ najveću vlačnu čvrstoću Rm,max manju od 350 N/mm2,
+• produljenje nakon loma iznosi:
+■ A ≥ 16 % ako je ispitni uzorak uzet usporedno sa smjerom valjanja,
+■ A ≥ 14 % ako je ispitni uzorak uzet okomito na smjer valjanja.
+1.2. Materijali za zavarivanje
+Materijali za zavarivanje koji se upotrebljavaju za izradu varova na posudi ili u njoj primjereni su i kompatibilni s materijalima koje će se zavarivati.
+1.3. Dodatna oprema koja pridonosi čvrstoći posude
+Dodatna oprema (na primjer vijci i matice) moraju biti izrađeni od materijala navedenog u točki 1.1. ili od drugih vrsta čelika, aluminija ili odgovarajuće aluminijske legure, koji su kompatibilni s materijalima od kojih se izrađuju dijelovi pod tlakom.
+Ti materijali na najnižoj radnoj temperaturi moraju imati odgovarajuće istezanje nakon loma i udarni rad loma.
+1.4. Dijelovi koji nisu pod tlakom
+Svi dijelovi zavarenih posuda koji nisu pod tlakom izrađuju se od materijala kompatibilnih s materijalom sastavnih dijelova za koje su zavareni.
+2. KONSTRUKCIJA POSUDE
+Prilikom konstruiranja posude proizvođač mora definirati njezinu namjenu i izabrati:
+– najnižu radnu temperaturu Tmin,
+– najvišu radnu temperaturu Tmax,
+– najveći radni tlak PS.
+Kad je najniža radna temperatura niža od –10 °C tražena svojstva materijala moraju zadovoljavati za temperaturu od –10 °C.
+Proizvođač mora osigurati:
+– mogućnost pregleda unutrašnjosti posude,
+– mogućnost drenaže posude
+– postojana mehanička svojstva posude u predviđenom vijeku trajanja posude kad se ona koristi u namijenjene svrhe
+– odgovarajuću zaštitu od korozije ovisno o namjeni posude i uvjetima rada
+Proizvođač u obzir uzima činjenicu da u skladu s predviđenim uvjetima uporabe:
+– posuda ne bude izložena naprezanjima koja bi umanjila njezinu sigurnost,
+– radni tlak ne može trajno biti veći od najvećeg radnog tlaka PS uz mogućnost kratkotrajnog prekoračenja do 10%.
+Kružni i uzdužni zavari moraju biti potpuno provareni zavari ili zavari istovjetne kvalitete. Ispupčene podnice, ukoliko nisu polukuglaste, moraju imati cilindrične krajeve.
+2.1. Debljine stijenki
+Kad umnožak PS i V nije veći od 3000 bar×L, proizvođač mora izabrati jednu od metoda opisanih u točkama 2.1.1. i 2.1.2. ovoga Dodatka za određivanje debljina stijenki posude.
+Kad je umnožak PS i V veći od 3000 bar×L ili kad je najviša radna temperatura veća od 100 °C debljine stijenki se određuju prema metodi danoj u točki 2.1.1. ovoga Dodatka.
+Izvedena debljina stijenke cilindričnog dijela i podnica ne smije biti manja od 2 mm za čelične posude, odnosno 3 mm za posude iz aluminija ili aluminijskih legura.
+2.1.1. Proračunska metoda
+Minimalna debljina dijelova pod tlakom mora se računati prema veličini dozvoljenog naprezanja uz sljedeće uvjete:
+– proračunski tlak ne smije biti manji od izabranog najvećeg radnog tlaka
+– dozvoljeno glavno membransko naprezanje ne smije biti veće od 0,6 ReT ili 0,3 Rm. Proizvođač posude mora uzeti najmanje vrijednosti ReT i Rm za izabrani materijal, garantirane od strane proizvođača materijala, kad određuje dozvoljena naprezanja.
+Kad cilindrični dio posude ima jedan ili više uzdužnih zavara koji se ne izvode automatskim postupcima zavarivanja, proračunski određena debljina stijenke mora se pomnožiti s koeficijentom 1,15.
+2.1.2. Eksperimentalna metoda
+Debljina stijenki može se odrediti na osnovi tlačne probe na temperaturi okoline, kod koje se posuda izvrgava tlaku koji je najmanje pet puta veći od najvećeg radnog tlaka. Ostatna deformacija kružnosti cilindričnog dijela posude ne smije biti veća od 1%.
+3. PROCES PROIZVODNJE
+Posude se moraju izrađivati i kontrolirati u proizvodnji prema točkama 2., 3. ili 4. Dodatka II. ovoga Pravilnika.
+3.1. Priprema sastavnih dijelova
+Priprema sastavnih dijelova (oblikovanje, skošenje) ne smije uzrokovati greške na površini, pukotine ili promjenu mehaničkih svojstava koje bi mogle utjecati na sigurnost posude.
+3.2. Zavari na dijelovima pod tlakom
+Karakteristike zavara i zona oko njih moraju biti identične onima koje ima materijal

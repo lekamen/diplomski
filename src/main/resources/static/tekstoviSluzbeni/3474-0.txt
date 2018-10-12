@@ -1,0 +1,16 @@
+30 06.04.2016 Pravilnik o izmjeni i dopuni Pravilnika o obrascima i evidenciji osobnih iskaznica te organizacijskim, tehničkim i sigurnosnim mjerama u postupku izdavanja osobnih iskaznica
+MINISTARSTVO UNUTARNJIH POSLOVA
+823
+Na temelju članka 7. stavka 4., članka 20. stavka 2. i članka 23. stavka 5. Zakona o osobnoj iskaznici (»Narodne novine«, broj 62/2015), ministar unutarnjih poslova donosi
+PRAVILNIK
+O IZMJENI I DOPUNI PRAVILNIKA O OBRASCIMA I EVIDENCIJI OSOBNIH ISKAZNICA TE ORGANIZACIJSKIM, TEHNIČKIM I SIGURNOSNIM MJERAMA U POSTUPKU IZDAVANJA OSOBNIH ISKAZNICA
+Članak 1.
+U Pravilniku o obrascima i evidenciji osobnih iskaznica te organizacijskim, tehničkim i sigurnosnim mjerama u postupku izdavanja osobnih iskaznica (»Narodne novine«, broj 63/2015) u članku 2. stavak 4. mijenja se i glasi:
+»(4) Elektronički čip sadrži podatke iz stavka 2. i 3. ovoga članka, osim slike vlastoručnog potpisa i podataka za strojno čitanje, jedan ili dva privatna ključa i certifikata, CA certifikat, aktivacijske podatke i podatke aplikacije.«.
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Iznimno, ako je osobna iskaznica izdana djetetu do navršenih pet godina ili ako je osobna iskaznica izdana osobi s navršenih 65 godina bez certifikata, elektronički čip ne sadrži jedan ili dva privatna ključa i certifikata, CA certifikat i aktivacijske podatke.«.
+Članak 2.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Broj: 511-01-152-21725/1-2016.
+Zagreb, 1. travnja 2016.
+Ministar Vlaho Orepić, v. r.

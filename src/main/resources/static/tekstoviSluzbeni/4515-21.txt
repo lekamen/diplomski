@@ -1,0 +1,28 @@
+ automatski isključiti kad se uključe glavna svjetla, osim kad se glavna svjetla koriste za davanje isprekidanih svjetlosnih upozorenja u kratkim razmacima.
+(7) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 46.
+(1) Označavanje visoke uočljivosti (retroreflektirajuće trake za označavanje konture vozila) mogu se postavljati na sva vozila osim na vozila kategorija M1 i O1.
+(2) Označavanje visoke uočljivosti (retroreflektirajuće trake za označavanje konture vozila) postavlja se kao:
+– straga cjelovito rubno označavanje na vozilima širine veće od 2100 mm sljedećih kategorija:
+a) N2 mase veće od 7,5 t i N3 (s iznimkom šasije s kabinom, nepotpunih vozila i tegljača za poluprikolice)
+b) O3 i O4
+– bočno djelomično rubno označavanje na vozilima duljine veće od 6000 mm (uključujući i rudo kod prikolica) sljedećih kategorija:
+a) N2 mase veće od 7,5 t i N3 (s iznimkom šasije s kabinom, nepotpunih vozila i tegljača za poluprikolice)
+b) O3 i O4
+(3) Ako oblik, struktura, konstrukcija ili radni zahtjevi onemogućuju postavljanje obveznog rubnog označavanja, može se postaviti označavanje u obliku crte.
+(4) Djelomično ili cjelovito rubno označavanje može se primijeniti umjesto obveznog označavanja u obliku crte, a cjelovito rubno označavanje može se primijeniti umjesto obveznog djelomičnog rubnog označavanja u obliku crte.
+(4) Označavanje visoke uočljivosti mora biti što je moguće više vodoravno i vertikalno, usklađeno s oblikom, strukturom, konstrukcijom i radnim zahtjevima vozila.
+(5) Označavanje visoke uočljivosti mora biti što je moguće bliže rubu vozila. Ukupna vodoravna duljina elemenata za označavanje visoke uočljivosti, postavljenih na vozilo, najmanje mora iznositi 80% sveukupne duljine vozila, izuzimajući sva vodoravna prekrivanja pojedinačnih elemenata. Ako nije moguće postići navedenu vrijednost, ukupna duljina se može smanjiti na 60%.
+(6) Označavanje visoke uočljivosti mora biti što je moguće bliže krajevima vozila i dosegnuti do 600 mm od svakog kraja vozila, (isključujući rudo za prikolice). Ukupna vodoravna duljina elemenata za označavanje visoke uočljivosti, postavljenih na vozilo, mora iznositi najmanje 80% sveukupne duljine vozila, izuzimajući sva vodoravna prekrivanja pojedinačnih elemenata. Ako nije moguće postići propisanu vrijednost, ukupna duljina se može smanjiti na 60%.
+(7) Oznake moraju biti postavljene ne manje od 250 mm i ne više od 1500 mm iznad tla. Najveća visina postavljanja od 2100 mm može se prihvatiti kada tehnički uvjeti ne omogućavaju postavljenje na visinu do 1500 mm. Označavanje gornjih elemenata treba biti što je moguće više, ali unutar 400 mm u gornjem kraju vozila.
+(8) Označavanje visoke uočljivosti smatra se vidljivim ako je 80% osvjetljavajuće površine vidljivo pod kutem od 15° promatraču udaljenom 25 m od ruba vozila.
+(9) Označavanje visoke uočljivosti smatra se neprekinutim ako je udaljenost između susjednih elemenata što je moguće manja i ne prelazi 50% duljine najkraćeg susjednog elementa.
+(10) U slučaju djelomičnog rubnog označavanja, svaki gornji ugao mora biti opisan s dvjema crtama međusobno pod pravim kutom od koji je svaka najmanje duljine 250 mm.
+(11) Udaljenost između označavanja visoke uočljivosti postavljena straga na vozilo i obveznih kočnih svjetala mora biti veća od 200 mm.
+(12) Kad su ugrađene stražnje ploče za označavanje u skladu odredbama Pravilnika ECE-R70, mogu se smatrati dijelom stražnjeg označavanja visoke uočljivosti za potrebe izračunavanja duljine označavanja visoke uočljivosti i njegove blizine boku vozila.
+(13) Prostori na vozilu koji su konstrukcijski predviđeni označavanju visoke uočljivosti moraju omogućiti postavljanje oznaka najmanje širine 60 mm.
+(14) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+4. Uređaji za davanje svjetlosnih znakova
+Članak 47.
+(1) Uređaji za davanje svjetlosnih znakova smiju emitirati slijedeće boje svjetlosti:
+Naziv sklopa Boja svjetla kočna svjetla 

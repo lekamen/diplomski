@@ -1,0 +1,21 @@
+ (generalna avijacija)
+
+U skladu s gore navedenim podacima definiran je prvi nacionalni pokazatelj sigurnosti – oznaka GEN, naveden u Planu sigurnosti iz Dodatka 4. ovoga Programa.
+Podaci o nesrećama i ozbiljnim nezgodama nisu dovoljni da bi se postiglo značajno poboljšanje. Stoga se u postupku analize sigurnosti u zračnom prometu isti nadopunjuju podacima prikupljenim putem reaktivnog i proaktivnog procesa upravljanja sigurnošću, tj. podacima o događajima povezanim sa sigurnošću prijavljenima putem programa obaveznog i dobrovoljnog izvješćivanja.
+Kroz sustav upravljanja sigurnošću svaki se prijavljeni događaj koji se dogodio na teritoriju Republike Hrvatske analizira, kako je opisano u točki 3.5.4 i 3.5.6 ovoga Programa, u cilju identifikacije opasnosti, procjene rizika, definiranja mjera za ublažavanje rizika te praćenja poboljšanja. Događaji koji su se dogodili hrvatskom zrakoplovu izvan teritorija Republike Hrvatske, odnosno inozemnom zrakoplovu kojega je u vrijeme događaja na temelju ugovora o zakupu koristio hrvatski operator, također su uključeni u ovaj sustav. Rizici procijenjeni putem uspostavljenih mehanizama periodički se prate te čine osnovu za definiranje nacionalnih pokazatelja sigurnosti.
+Sustav upravljanja sigurnošću Hrvatske agencije za civilno zrakoplovstvo statistički prati usvojene regionalne (EASp) i nacionalne pokazatelje iz Dodatka 4. ovoga Programa.
+Prema statističkim podacima u razdoblju 2008. – 2014. godine prikupljena su izvješća o 1911 događaja. Ovaj podatak ne treba navoditi na zaključak da je razina sigurnosti ozbiljno narušena s obzirom na značajan porast broja prijavljenih događaja povezanih sa sigurnošću. Veći broj prijavljenih događaja ukazuje na činjenicu da je sustav izvješćivanja dobro prihvaćen i prepoznat kao važan čimbenik u procesu poboljšanja razine sigurnosti u zračnom prometu.
+Prikaz rasta broja prijavljenih događaja povezanih sa sigurnošću u proteklom razdoblju
+
+Ono što još uvijek zabrinjava i čemu u idućem razdoblju treba posvetiti veću pažnju je ograničen broj podnositelja izvješća. U tom će pogledu biti potrebne dodatne aktivnosti u cilju promocije i jačanja kulture izvješćivanja, posebice među sudionicima generalne avijacije.
+Pregled podnositelja izvješća o događaju povezanim sa sigurnošću
+
+Organizacijska kultura u području upravljanja sigurnošću oblikuje procedure prijavljivanja događaja povezanih sa sigurnošću i primjenu tih procedura od strane operativnog osoblja. Identifikacija opasnosti temeljna je aktivnost sustava upravljanja sigurnošću. Nitko nije u boljoj poziciji da izvijesti o potencijalnim opasnostima nego osoba koja se svakodnevno suočava s tim opasnostima. Stoga je operativno okruženje u kojem je operativno osoblje odgovarajuće osposobljeno, informirano o važnosti prijavljivanja i potaknuto da prijavljuje događaje povezane sa sigurnošću preduvjet učinkovitog sustava upravljanja sigurnošću.
+Analizom prikupljenih podataka o događajima povezanima sa sigurnošću uočene su potencijalne opasnosti s razinama rizika koji su u stalnom porastu. Zbog velike učestalosti javljanja u proteklom razdoblju događaji povezani s ometanjem rada posade laserom i sudari s pticama uvršteni su u nacionalne pokazatelje sigurnosti detaljnije razrađene u Dodatku 4. ovoga Programa.
+Broj prijavljenih događaja ometanja rada posada laserom
+
+Broj prijavljenih događaja sudara zrakoplova s pticama
+
+4.3 Zahtjevi za uspostavu sustava upravljanja sigurnošću kod pružatelja usluga
+4.3.1 Stupanjem na snagu novog ICAO SARPs Aneksa 19 ojačava se uloga države u upravljanju sigurnošću na državnoj razini u suradnji s pružateljima usluga. Prvo izdanje Aneksa 19 usmjereno je uglavnom na prijenos odredbi i preporuka vezanih za sustav upravljanja sigurnošću iz ICAO Aneksa 1, 6, 8, 11, 13 i 14 s nekim manjim dopunama kao npr. primjena SMS okvira na organizacije odgovorne za dizajn tipa i proizvodnju zrakoplova, zahtjevi vezani uz prikupljanje, razmjenu i zaštitu podataka o sigurnosti itd.
+Hrvatski zakonodavni sustav

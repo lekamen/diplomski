@@ -1,0 +1,26 @@
+ (u nastavku teksta: neto pozicija iz NKS-a) na temelju podataka zaprimljenih od NKS-a.
+(3) Novčanim sredstvima koja su sudionici izdvojili na račun HNB-a u HSVP-u HNB se može koristiti samo za provedbu namire neto pozicija iz NKS-a u skladu s postupkom iz stavka 5. ovog članka.
+(4) HNB provodi u HSVP-u namiru neto pozicija iz NKS-a preko računa sudionika i obračunskog računa za NKS za svaki obračunski dan NKS-a prema Terminskom planu HSVP-a.
+(5) HNB provodi u HSVP-u namiru neto pozicija iz NKS-a sljedećim postupkom:
+– HNB odobrava obračunski račun za NKS u HSVP-u za ukupni iznos novčanih sredstava sudionika prenesenih na račun HNB-a u HSVP-u;
+– u slučaju pozitivne neto pozicije iz NKS-a pojedinog sudionika HNB tereti obračunski račun za NKS u HSVP-u i odobrava račun tog sudionika u HSVP-u u iznosu ukupno izdvojenih novčanih sredstava koja je taj sudionik prenio na račun HNB-a u HSVP-u u svrhu osiguranja pokrića obračuna u NKS-u uvećanom za iznos pozitivne neto pozicije iz NKS-a tog sudionika, ili
+– u slučaju negativne neto pozicije iz NKS-a pojedinog sudionika HNB tereti obračunski račun za NKS u HSVP-u i odobrava račun tog sudionika u HSVP-u u iznosu ukupno izdvojenih novčanih sredstava koja je taj sudionik prenio na račun HNB-a u HSVP-u u svrhu osiguranja pokrića obračuna u NKS-u umanjenom za iznos negativne neto pozicije iz NKS-a tog sudionika.
+(6) Na namiru neto pozicija iz NKS-a primjenjuje se članak 8. stavak 4. Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata.
+(7) Stanje na obračunskom računu za NKS na kraju obračunskog dana u HSVP-u jest nula.
+Prioriteti platnih transakcija
+Članak 12.
+Pri zadavanju platne transakcije sudionik može odrediti prioritet njezina izvršenja u HSVP-u upisom odgovarajuće oznake prioriteta.
+Datum valute
+Članak 13.
+(1) Datum valute u smislu ove Odluke jest datum obračunskog dana na koji zadana platna transakcija treba biti namirena u HSVP-u. Datum valute određuje sudionik pri zadavanju platne transakcije, upisom datuma na koji platna transakcija treba biti namirena.
+(2) Platne se transakcije namiruju na obračunski dan koji odgovara datumu valute koji je odredio sudionik pri zadavanju platne transakcije.
+(3) Tijekom obračunskog dana u HSVP-u namiruju se samo one platne transakcije koje kao oznaku datuma valute imaju upisan datum toga obračunskog dana.
+(4) Sudionik može zadavati platne transakcije s upisanim budućim datumom valute. Platne transakcije s budućim datumom valute bit će namirene u skladu s upisanim prioritetom izvršenja na početku obračunskog dana koji odgovara upisanom datumu valute te u skladu s ostalim odredbama ove Odluke.
+(5) Sudionik koji je zadao platnu transakciju može otkazati platnu transakciju s budućim datumom valute i promijeniti joj zadani prioritet izvršenja do početka obračunskog dana koji odgovara upisanom datumu valute.
+(6) HNB može po nalogu sudionika otkazati platnu transakciju s budućim datumom valute i promijeniti joj zadani prioritet izvršenja do početka obračunskog dana koji odgovara upisanom datumu valute.
+Platne transakcije u redu čekanja
+Članak 14.
+(1) Platna transakcija zadana na teret računa sudionika za čiju namiru nema pokrića na računu ili čiji račun je blokiran ili suspendiran evidentira se tijekom obračunskog dana u redu čekanja.
+(2) Platne transakcije evidentirane u redu čekanja na teret računa sudionika namiruju se nakon osiguranog pokrića za njihovo izvršenje ili nakon ukidanja blokade ili suspenzije računa sudionika, i to redoslijedom prema upisanom prioritetu, pri čemu se platne transakcije s jednakim prioritetima izvršenja namiruju redoslijedom prema vremenu njihova evidentiranja u redu čekanja.
+(3) Sudionik koji je zadao platnu transakciju može otkazati platnu transakciju evidentiranu u redu čekanja na teret sudionika i promijeniti joj zadani prioritet izvršenja.
+(4) HNB može po nalogu sudionika otkazati platnu transakciju evidentiranu u redu čekanja na teret tog sudionika i promijeniti joj zadani

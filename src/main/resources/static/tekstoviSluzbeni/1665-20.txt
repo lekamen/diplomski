@@ -1,0 +1,22 @@
+ mreže dužan je bez odgađanja obavijestiti operatora sustava o uočenoj neispravnosti priključka ili obračunskog mjernog mjesta.
+(2) Operator sustava dužan je otkloniti neispravnost priključka ili obračunskog mjernog mjesta u najkraćem mogućem roku.
+(3) U slučaju neispravnosti priključka ili obračunskog mjernog mjesta koja utječe na obračun, operator sustava dužan je u roku od tri radna dana od dana zaprimanja obavijesti iz stavka 1. ovoga članka obavijestiti korisnike mjernih podataka.
+(4) Troškove otklanjanja neispravnosti iz stavka 2. ovoga članka snosi operator sustava, osim u slučaju kada je neispravnost prouzročio sam korisnik mreže.
+Članak 81.
+(1) Operator sustava dužan je na pisani zahtjev korisnika mreže organizirati provedbu postupka provjere brojila i pripadajuće mjerne opreme u roku propisanom uvjetima kvalitete opskrbe električnom energijom.
+(2) Provjeru brojila i pripadajuće mjerne opreme, u ovisnosti o zahtjevu korisnika mreže, provodi operator sustava ili tijelo ovlašteno posebnim propisom.
+(3) U slučaju podnošenja zahtjeva iz stavka 1. ovoga članka, operator sustava dužan je pisanim putem upozoriti korisnika mreže da će u slučaju utvrđene ispravnosti brojila i/ili pripadajuće mjerne opreme biti dužan snositi troškove provjere brojila i pripadajuće mjerne opreme.
+(4) Ako se provjerom utvrdi da brojilo i/ili pripadajuća mjerna oprema ima odstupanja od klase točnosti veća od dopuštenih važećim propisima, operator sustava dužan je o svom trošku zamijeniti brojilo i/ili pripadajuće dijelove mjerne opreme te snositi troškove provjere brojila i pripadajuće mjerne opreme.
+Članak 82.
+(1) U slučaju utvrđene pogreške obračunskih mjernih podataka korisnika mreže, operator sustava dužan je odrediti mjerne podatke za obračun sukladno odredbama ovoga članka te izvršiti ponovni obračun za obračunska razdoblja na koja se utvrđena pogreška odnosi, ali najduže za razdoblje do godine dana od dana utvrđene pogreške, te o tome u roku od osam dana od dana ponovnog obračuna obavijestiti korisnike mjernih podataka koji su dužni korisniku mreže ispostaviti ispravljene račune.
+(2) U slučaju neispravnog registriranja električne energije vrijednost isporučene električne energije i snage određuje se prema prethodnom odgovarajućem obračunskom razdoblju kada je registriranje bilo ispravno.
+(3) U slučaju neispravnog rada uređaja za upravljanje tarifama vrijednost isporučene električne energije za višu i nižu dnevnu tarifu određuje se iz omjera vrijednosti stanja više i niže dnevne tarife iz prethodnog odgovarajućeg obračunskog razdoblja u kojem je uređaj za upravljanje tarifama ispravno radio.
+(4) Iznimno od stavaka 2. i 3. ovoga članka, ako vrijednost isporučene električne energije i snage nije moguće odrediti na temelju podataka iz prethodnog odgovarajućeg obračunskog razdoblja, vrijednost mjernih podataka za obračun određuje se na temelju podataka iz prvog obračunskog razdoblja koje slijedi nakon otklanjanja pogreške.
+(5) U slučaju pogrešno utvrđene obračunske konstante mjernih transformatora, vrijednost isporučene električne energije i snage određuje se prema ispravnoj obračunskoj konstanti mjernih transformatora.
+(6) U slučaju pogrešnog očitanja stanja brojila vrijednost isporučene električne energije i snage određuje se na temelju ponovnog očitanja stanja brojila koje provodi operator sustava.
+XIV. POSTUPCI UTVRĐIVANJA I OBRAČUNA NEOVLAŠTENE POTROŠNJE ELEKTRIČNE ENERGIJE
+Članak 83.
+Pod neovlaštenom potrošnjom električne energije smatraju se slučajevi kada:
+– krajnji kupac troši električnu energiju bez mjerne opreme operatora sustava ili mimo postojeće mjerne opreme ili kada je mjerna oprema onesposobljena za ispravan rad,
+– krajnji kupac troši električnu energiju na način da je neovlašteno utjecao na rad uređaja za upravljanje tarifama,
+– krajnji kupac troši električnu energiju preko brojila ili ostale mjerne opreme s kojih je skinuta ili oštećena plomba, osim ako je smještaj mjerne opreme takav da krajnji kupac to nije mogao nadzirati

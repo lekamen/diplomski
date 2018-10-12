@@ -1,0 +1,34 @@
+ zaprimi zahtjev Agencije iz stavka 1. ovoga članka, dužno je:
+a) provesti provjeru poslovanja ili obaviti druge istražne radnje
+b) omogućiti Agenciji provođenje provjere poslovanja ili obavljanje drugih istražnih radnji ili
+c) omogućiti trećoj osobi koju Agencija ovlasti (revizor ili drugi stručnjak) provođenje provjere poslovanja ili obavljanje drugih istražnih radnji.
+(3) Ako nadležno tijelo druge države članice na svom teritoriju obavlja radnje iz stavka 1. ovoga članka, Agencija od nadležnog tijela druge države članice može zatražiti da radnici Agencije sudjeluju u njihovu obavljanju, u suradnji s radnicima tog nadležnog tijela.
+(4) Agencija će na zahtjev nadležnog tijela druge države članice za suradnjom:
+a) provesti provjeru poslovanja određenog subjekta ili obaviti druge istražne radnje koje treba provesti u Republici Hrvatskoj
+b) omogućiti nadležnom tijelu druge države članice ili trećoj osobi koju ono ovlasti provođenje provjere poslovanja ili obavljanje drugih istražnih radnji u Republici Hrvatskoj ili
+c) omogućiti trećoj osobi (revizoru ili drugom stručnjaku) koju ono ovlasti provođenje provjere poslovanja ili obavljanje drugih istražnih radnji u Republici Hrvatskoj.
+(5) Agencija će na zahtjev nadležnog tijela druge države članice omogućiti njegovim radnicima sudjelovanje u obavljanju radnji iz stavka 4. ovoga članka, u suradnji s radnicima Agencije.
+(6) Ako nadležno tijelo druge države članice u Republici Hrvatskoj obavlja radnje iz stavka 4. ovoga članka, Agencija od nadležnog tijela druge države članice može zatražiti da radnici Agencije sudjeluju u njihovu obavljanju, u suradnji s radnicima tog nadležnog tijela.
+Odbijanje suradnje
+Članak 393.
+(1) Agencija može odbiti zahtjev za dostavom informacija iz članka 387. stavka 1. ovoga Zakona ili zahtjev za suradnjom iz članka 392. stavka 4. ovoga Zakona samo ako:
+1. istraga, provjera na licu mjesta ili razmjena podataka mogu imati negativan utjecaj na suverenitet, sigurnost ili javni red u Republici Hrvatskoj
+2. je pokrenut postupak za ista djela i za iste osobe pred nadležnim sudom Republike Hrvatske ili
+3. je već donesena pravomoćna odluka nadležnog suda Republike Hrvatske za iste osobe i iste radnje pred nadležnim tijelima.
+(2) U slučaju odbijanja suradnje Agencija je dužna o tome obavijestiti nadležno tijelo koje je zatražilo pomoć i dostaviti sve dostupne podatke o razlozima odbijanja suradnje.
+Obavještavanje Europske komisije i ESMA-e
+Članak 394.
+(1) Agencija će obavijestiti Europsku komisiju i ESMA-u o:
+1. broju i vrsti slučajeva iz članka 124. stavaka 3. i 4. te članka 132. stavka 5. ovoga Zakona i u kojima je odbila izdati odobrenje za osnivanje i upravljanje UCITS fondom društvu za upravljanje iz članka 133. ovoga Zakona i
+2. izrečenim mjerama iz članka 381. ovoga Zakona.
+(2) Agencija se može obratiti ESMA-i u slučajevima kada:
+1. nadležno tijelo druge države članice odbije zahtjev za razmjenom informacija ili ne postupi po njemu u razumnom roku
+2. nadležno tijelo druge države članice odbije zahtjev Agencije iz članka 392. stavka 1. ovoga Zakona ili ne postupi po njemu u razumnom roku ili
+3. nadležno tijelo druge države članice odbije zahtjev Agencije iz članka 392. stavaka 3. i 6. ovoga Zakona ili ne postupi po njemu u razumnom roku.
+(3) Agencija će obavijestiti ESMA-u i o svim odobrenjima koje Agencija izda društvima za upravljanje za obavljanje poslova upravljanja UCITS fondovima na temelju članka 15. stavka 1. ovoga Zakona.
+Odnos s tijelima Europske unije
+Članak 395.
+(1) Agencija obavještava Europsku komisiju o izdavanju svakog odobrenja društvu za upravljanje:
+1. kojem je neizravno ili izravno nadređena pravna osoba sa sjedištem u trećoj državi i
+2. na temelju kojeg osoba iz treće države postaje nadređena osoba društvu za upravljanje.
+(2) Agencija obavještava Europsku komisiju i ESMA-u o svim bitnim preprekama na koje su naišla društva za upravljanje pri obavljanju poslova upravljanja otvorenim investicijskim fondovima s javnom ponudom u trećim

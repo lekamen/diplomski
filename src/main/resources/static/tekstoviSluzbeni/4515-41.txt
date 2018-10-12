@@ -1,0 +1,37 @@
+Vozila kategorije T i R koja se ne mogu kretati brzinom većom od 30 km/h, ili se na cesti kreću brzinom manjom od 30 km/h kada obavljaju pojedine radove u prometu, moraju biti obilježena znakom »sporo vozilo«, sukladno Pravilniku ECE-R69.
+(2) Na vozilu iz stavka 1. ovoga članka postavlja se jedan znak »sporo vozilo«, na stražnjem lijevom dijelu vozila.
+(3) Znak »sporo vozilo« postavlja se na visini ne manjoj od 250 mm do donjeg ruba znaka i ne višoj od 1500 mm do gornjeg ruba znaka, mjereći od tla do ruba znaka.
+(4) Kad se vozila iz stavka 1. ovoga članka kreću kao skup vozila, znakom se može označiti samo priključno vozilo.
+(5) Ako je vozilo kategorije T opremljeno rotacijskim i/ili treptavim svjetlom, ne mora biti opremljeno znakom iz stavka 1. ovoga članka.
+(6) Na vozilu kategorije T može se postaviti i više rotacijskih i/ili treptavih svjetala raspoređenih tako da se s bilo koje strane vozila vidi najmanje jedno svjetlo.
+4. Uređaji koji omogućuju normalnu vidljivost
+Članak 151.
+(1) Uređaji koji omogućuju normalnu vidljivost na vozilima kategorije T i R moraju biti odobreni, te ugrađeni sukladno Direktivama 89/173/EEC, 74/346/EEC i 74/347/EEC.
+(2) Vozila za čije uređaje koji omogućuju normalnu vidljivost nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 152.
+(1) Traktor koji ima zatvorenu kabinu na lijevoj strani kabine mora imati ugrađeno jedno vozačko zrcalo.
+(2) Vozačko zrcalo na traktoru postavlja se tako da uobičajeni uvjeti rada traktora ne utječu na njegovu funkcionalnost.
+Članak 153.
+(1) Vjetrobran i sva stakla na traktoru i prikolici moraju biti sukladni Direktivi 92/22/EEC.
+(2) Vjetrobran i bočna stakla ne smiju se dodatno zatamnjivati.
+Članak 154.
+Brisači vjetrobrana na traktoru moraju biti ugrađeni i izvedeni tako da omoguće brisanje što veće površine vjetrobrana.
+5. Samonosiva karoserija, šasija i ostali dijelovi
+Članak 155.
+(1) Karoserija na traktoru i prikolici mora biti ugrađena i izvedena tako da osigurava sigurnost putnika, vozača i ostalih sudionika u prometu za vrijeme vožnje.
+(2) Natpisi na karoseriji traktora i prikolice ne smiju po svom sadržaju biti provokativni, neetični ili protivni pravnom poretku.
+(3) Stepenice na traktorima i prikolicama moraju biti ugrađene i izvedene tako da osiguravaju siguran ulaz i izlaz vozača i putnika.
+(4) Rubovi izbočenih dijelova i ukrasnih predmeta na traktorima i prikolicama ne smiju biti oštri odnosno svojim oblikom, dimenzijama, usmjerenjem ili tvrdoćom povećavati opasnost od ozljede u slučaju naleta vozila na pješaka. Ako postoji ukrasna figura na gornjoj površini prednjeg dijela vozila, ona mora biti elastično pričvršćena na vozilo.
+(5) Unutarnji prostor kabine za vozača i prostor za putnike mora biti opremljen tako da se u vožnji ili mirovanju vozila, vozač i putnici u vozilu ne mogu ozlijediti.
+(6) Pribor, alat, uređaji i oprema u traktorima mora biti dobro pričvršćen.
+Članak 156.
+Na traktorima koji su proizvedeni nakon 1983. godine, mora biti ugrađena sigurnosna kabina ili okvir koji štiti vozača od ozljede u slučaju prevrtanja traktora.
+6. Pneumatici
+Članak 157.
+(1) Pneumatici moraju biti primjereni za uporabu na vozilima ovisno o dimenzijama, brzini i nosivosti vozila.
+(2) Pneumatici na vozilima moraju odgovarati i dimenzijama što ih je odobrio proizvođač, namijenjeni za vožnju brzinom koja je jednaka ili veća od najveće brzine kojom se vozilo može kretati, te moraju biti dimenzionirani da izdrže najveće dopušteno osovinsko opterećenja vozila.
+(3) Pneumatici na istoj osovini vozila moraju biti jednaki po dimenzijama, obliku šara gazne površine, nosivosti, brzinskoj karakteristici, konstrukciji (radijalne, dijagonalne itd.) i marki/tipu.
+7. Kontrolni i signalni uređaji
+Članak 158.
+(1) Kontrolni i signalni uređaji na vozilima kategorije T i R moraju biti odobreni, te ugrađeni sukladno Direktivi 78/933/EEC.
+(2) Vozila za čije kontrolne i signalne 

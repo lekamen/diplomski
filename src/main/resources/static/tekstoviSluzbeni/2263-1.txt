@@ -1,0 +1,28 @@
+ »Z1207«, »Z1208«, »Z1209«, »Z1210«, »Z1211«, »Z1212«, »Z3000«, »O1101«, »O1102«, »O1103«, »O1104«, »O1105«, »O1106«, »O1107«, »O1108«, »O1109«, »O1201«, »O1202«, »O1203«, »O1204«, »O1205«, »O1206«, »O1207«, »O1208«, »O1209«, »O1210«, »O1211« i »O1212«.
+U tablici »Stavke ostalih informacija« u opisu instrumenta »D0014« iza riječi »točki (71)« dodaju se riječi »podtočki (a)«, a iza riječi »D0015« dodaje se oznaka »*«.
+Iza instrumenta »D0015« dodaje se novi instrument i njegov opis, koji glase:
+D0016 Priznati kapital II Ova stavka odnosi se na priznati kapital definiran u članku 4. stavku 1. točki (71) podtočki (b) Uredbe (EU) br. 575/2013.
+Članak 15.
+U točki 194. Upute brišu se podtočke od 14. do 37.
+Članak 16.
+Točka 194a. Upute briše se.
+Članak 17.
+U točki 195. Upute briše se zarez i riječi »odnosno broj kalendarskih dana koji je protekao od dana prekračenja ograničenja velike izloženosti zbog pozicija knjige trgovanja do izvještajnog datuma«.
+Članak 18.
+Točka 200. Upute briše se.
+Iza točke 200., koja se briše, u tablici »Primjer« briše se redak pod rednim brojem 2.
+Članak 19.
+Poglavlje Upute »Obilježje 38. »Djelatnost nerezidenta«« i naslov iznad njega brišu se.
+Članak 20.
+U točki 220. Upute brišu se podtočke 23., 31., 32., 33. i 54.
+Članak 21.
+U točki 244. podtočki 3. Upute na kraju podtočke dodaje se rečenica »Ova se vrsta iznosa dostavlja samo na nekonsolidiranoj osnovi.«
+Članak 22.
+Točka 245. Upute briše se.
+Članak 23.
+U točki 252. podtočki 4. podtočka 4.5. Upute briše se.
+Članak 24.
+Točke 253b. i 253c. Upute brišu se.
+Članak 25.
+U Prilogu 6. Upute mijenjaju se redci 240., od 349. do 395. i 397. te glase:
+Redni broj Šifra Instrument ISIN Valuta Izvorno dospijeće Otkazni rok Indeksacija Portfelj Utrživost kredita Značajka kapitala Rizična skupina Ugrađeni derivat Odnosna varijabla Vremenski razred Dani stjecanja ili dani prekoračenja izloženosti Stjecanje vrijednosnih papira Vrsta kamatne stope Korištenje imovine Razred iznosa kredita Razdoblje početnog fiksiranja kamatne stope Kolateral/jamstva Novi posao Primjena od izvještajnog datuma Primjena do izvještajnog datuma 1 Obilježje   1 2 3 4 5 6 7 8 9 10 11 28 29 32 33 34 35 36 37 39     240 Z0000 Prekoračenje ograničenja izloženosti zbog knjige trgovanja   HRK       XXX             OBV               31. 3. 2010. 31. 12. 2015. 349 Z2001 Izloženost na temelju viška duge pozicije u dužničkim financijskim instrumentima   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 350 Z2002 Izloženost na temelju pokroviteljstva dužničkih financijskih instrumenata   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 351 Z2003 Izloženost na temelju izvedenica i transakcija financiranih dužničkim vrijednosnicama   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 352 Z2004 Izloženost na temelju viška duge pozicije u vlasničkim financijskim instrumentima   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 353 Z2005 Izloženost na temelju pokroviteljstva vlasničkih financijskih instrumenata   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 354 Z2006 Izloženost na temelju izvedenica i transakcija financiranih vlasničkim vrijednosnicama   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 355 Z2007 Izloženost na temelju izvedenica   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 356 Z2008 Odnosna izloženost koja je pojedinačno utvrđena   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 357 Z2009 Odnosna izloženost koja nije pojedinačno utvrđena   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 358 Z2010 Odnosna izloženost po posebnim kriterijima   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 359 Z2011 Odnosna izloženost do 0,25 posto   HRK       XXX                             31. 3. 2014. 31. 12. 2015. 360 Z2012 Odnosna izloženost iznad 0,25 posto   HRK       XXX                             31. 3.

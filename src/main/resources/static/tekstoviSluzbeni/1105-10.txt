@@ -1,0 +1,76 @@
+ izmjenjivača u tlu
+– Izvedba bunara
+– Tehnologije spajanja cijevi
+– Razvod prijenosnika energije od izvora topline do isparivača
+– Razvod sustava grijanja/hlađenja, niskotemperaturni sustavi grijanja, akumulacija toplinske energije
+9. Instalacija dizalice topline i puštanje u rad – 2 sata
+– Izvedbe dizalica topline u režimu grijanja i hlađenja
+– Odzračivanje sustava
+– Tlačna proba
+– Načini rada dizalice topline
+– Pasivni sustavi hlađenja
+10. Upravljanje i regulacija rada – 2,5 sati
+– Osnove upravljanja
+– Optimalni sustav regulacije
+– Praćenje svih relevantnih veličina: temperatura, tlak, protok, potrošnja električne energije, toplinski i rashladni učinak
+11. Uobičajene pogreške u radu i praktična iskustva – 2 sata
+– Pogreške u projektiranju i izvedbi sustava
+– Pogreške u radu sustava
+– Načini otkrivanja pogrešaka u radu dizalica topline
+– Sadržaj redovitih servisa
+– Sadržaj dokumentacije sustava prema normi za ispitivanje dizalica topline
+12. Hibridni sustavi za grijanje s dizalicama topline – 1 sat
+13. Ekonomski pokazatelji primjene dizalica topline – 1 sat
+14. Zaštita na radu i zaštita od požara – 1 sat
+– propisi o zaštiti na radu
+– siguran rad i mjere zaštite na radu
+– potencijalne opasnosti i načini ublažavanja i izbjegavanja opasnosti
+– izvori opasnosti (električni, toplinski)
+15. Zakonodavna regulativa
+– Zakon o energetskoj učinkovitosti
+– Zakonski okvir za obnovljive izvore energije i kogeneraciju, te postupak stjecanja statusa povlaštenog proizvođača električne energije
+– Zakonski okvir za proizvodnju toplinske energije iz obnovljivih izvora
+– Strategija energetskog razvoja Republike Hrvatske (NN 130/09)
+– Pravilnik o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje ovlaštenih instalatera OIE – dizalica topline
+– Pravni okvir za korištenje energije u EU i RH strateški dokumenti
+– Norma HRN EN 14511 za dizalice topline
+– Norma HRN EN 15450 – Sustavi grijanja u zgradama – Projektiranje dizalica topline
+– Toplinsko iskorištavanje tla – Geotermalne dizalice topline (VDI 4640 Thermal use of the underground – Ground source heat pumps systems)
+– Pravilnik o izobrazbi osoba koje obavljaju djelatnost prikupljanja, provjere propuštanja, ugradnje i održavanja ili servisiranja opreme i uređaja koji sadrže tvari koje oštećuju ozonski sloj ili fluorirane stakleničke plinove ili o njima ovise (NN 03/13)
+– Izvori financiranja – bespovratna sredstva za općine i gradove
+– EU programi i fondovi
+– Nacionali programi energetske obnove + subvencije u HR
+– Uredba 517/2014 (Ministarstva zaštite okoliša Republike Hrvatske)
+2. Praktična nastava – 15 sati
+1. Prepoznavanje osnovnih komponenti sustava s dizalicom topline i način kako ih povezati u cjelinu – 1 sat
+– krug radne tvari
+– krug izvora topline
+– krug ponora topline
+2. Tehnologije spajanja cijevi – 2 sata
+– spajanje i zavarivanje PE, PP i PVC cijevi
+– spajanje i lemljenje bakrenih cijevi
+– spajanje čeličnih cijevi
+3. Ugradnja pomoćnih komponenti u krug izvora i ponora topline – 1,5 sati
+– ventili (zatvarajući, nepovratni, odzračni, sigurnosni)
+– balansirajući ventili
+– ekspanzijska posuda
+4. Polaganje izmjenjivača u tlu – 2 sata
+– izvedba horizontalnog/vertikalnog izmjenjivača u tlu
+– pripremne radnje za zahvat vode iz podzemlja
+– polaganje isparivača u tlu (DX sustavi)
+– izvedba ulaza cijevi izmjenjivača u tlu u prostor s dizalicom topline
+5. Razvod sustava grijanja/hlađenja – 2,5 sati
+– izvedba razdjelne grupe s cirkulacijskom pumpom
+– spajanje akumulacijskog spremnika i hidraulične skretnice s dizalicom topline
+– spajanje spremnika PTV-a s dizalicom topline
+– ugradnja troputnog ventila
+– ugradnja balansirajućih ventila
+– ugradnja razdjelnog ormara
+– izolacija razvoda
+6. Sigurnosne provjere i odzračivanje sustava – 2 sata
+– provedba hidraulične i tlačne probe
+– priprema i punjenje kruga izvora/ponora topline glikolnom smjesom/vodom
+– odzračivanje sustava
+– provjera propusnosti pojedinog kruga
+– punjenje sustava radnom tvari
+7. Upravljanje i

@@ -1,0 +1,65 @@
+ fizičku osobu obvezno sadrži:
+1. ime i prezime;
+2. osobni identifikacijski broj;
+3. datum i mjesto rođenja;
+4. datum pohađanja stručnog usavršavanja;
+5. naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja koji ga je proveo;
+6. broj potvrde, datum i mjesto izdavanja potvrde;
+7. ime i prezime, potpis odgovorne osobe Nositelja Programa osposobljavanja i njegov pečat.
+VII. NADZOR NAD RADOM NOSITELJA PROGRAMA OSPOSOBLJAVANJA
+Nadzor
+Članak 34.
+Nadzor nad ispunjavanjem uvjeta za provođenje Programa osposobljavanja nad Nositeljima Programa osposobljavanja provodi Ministarstvo i po potrebi poduzima propisane mjere.
+Oduzimanje suglasnosti
+Članak 35.
+(1) Ako Nositelj Programa osposobljavanja prestane ispunjavati neki od uvjeta propisanih ovim Pravilnikom Ministarstvo će mu rješenjem oduzeti suglasnost.
+(2) Ako se utvrdi nepravilnost u provođenju Programa osposobljavanja odnosno nepravilnosti u provođenju drugih obaveza Nositelja Programa osposobljavanja propisanih ovim Pravilnikom Ministarstvo će Nositelju Programa osposobljavanja rješenjem odrediti primjereni rok za otklanjanje nepravilnosti.
+(3) Ako Nositelj Programa osposobljavanja ne otkloni nepravilnosti iz stavka 2. ovoga članka u danom roku, Ministarstvo će mu rješenjem oduzeti suglasnost za provođenje Programa osposobljavanja.
+VIII. REGISTAR NOSITELJA PROGRAMA OSPOSOBLJAVANJA
+Vođenje Registra
+Članak 36.
+(1) Registar Nositelja Programa osposobljavanja za certificirane instalatere plitkih geotermalnih sustava i dizalica topline ustrojava i vodi Ministarstvo u elektroničkom obliku.
+(2) Izvadak iz Registra Nositelja Programa osposobljavanja za certificirane instalatere plitkih geotermalnih sustava i dizalica topline objavljuje se na službenim internetskim stranicama Ministarstva.
+Sadržaj Registra
+Članak 37.
+Registar Nositelja Programa osposobljavanja za certificirane instalatere plitkih geotermalnih sustava i dizalica topline sadrži:
+1. naziv i osobni identifikacijski broj Nositelja Programa osposobljavanja;
+2. klasifikacijski broj, urudžbeni broj te datum izdavanja suglasnosti za provođenje Programa osposobljavanja;
+3. adresu sjedišta, e-mail adresu, broj telefona Nositelja Programa osposobljavanja;
+4. ime i prezime odgovorne osobe Nositelja Programa osposobljavanja i njezin osobni identifikacijski broj;
+5. imena i prezimena stručnih osoba koje provode Program izobrazbe i njihove osobne identifikacijske brojeve;
+6. odjeljak za napomene.
+IX. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 38.
+Ovaj Pravilnik stupa na snagu osmog dana od dana objave u »Narodnim novinama«, osim članka 5. stavka 1. koji stupa na snagu dana 1. siječnja 2017. godine.
+Klasa: 360-01/14-12/12
+Urbroj: 531-04-2-15-41
+Zagreb, 8. svibnja 2015.
+Ministrica Anka Mrak-Taritaš, dipl. ing. arh., v. r.
+PRILOG 1.
+PROGRAM IZOBRAZBE
+Za Program izobrazbe utvrđen je sljedeći sadržaj u trajanju od 40 sati¸ od čega 25 sati teorijskog dijela nastave i 15 sati praktičnog dijela nastave:
+Teorijska nastava – 25 sati
+1. Uvod – Promocija i tržište dizalica topline – 1 sat
+2. Zakonska regulativa i zaštita okoliša – 2 sata
+3. Osnovne i pomoćne komponente, te princip rada dizalice topline – 2,5 sati
+– Kompresijske dizalice topline
+– Sorpcijske dizalice topline
+4. Učinkovitost dizalica topline – 1 sat
+– Toplinski množitelj i faktor hlađenja
+– Sezonski faktor grijanja – SPF
+5. Radne tvari kompresijskih dizalica topline – 1,5 sati
+6. Izvori topline – 2 sata
+– Okolišni zrak kao izvor topline
+– Direktno sunčevo zračenje kao izvor topline – solarna dizalica topline
+– Morska voda kao izvor topline, vode potoka, rijeka, jezera
+– Podzemne vode kao izvor topline
+– Tlo kao izvor topline
+7. Geologija tla i toplinska svojstva tla – 2,5 sati
+– Geologija Zemlje i geotermalna energija
+– Klasifikacija geotermalnih izvora
+– Geotermalni potencijal Republike Hrvatske
+– Temperaturni izvori tla različitih regija
+– Toplinska svojstva tla
+8. Sustav distribucije toplinske i rashladne energije i hidrauličko uravnoteženje – 3 sata
+– Polaganje

@@ -1,0 +1,32 @@
+ 2.000.000 kg 15 > 1.500.000 ≤ 2.000.000 kg 13 ≥ 750.000 ≤ 1.500.000 kg 11 < 750.000 kg 9
+PRILOG III.
+IZRAČUN JAVNE POTPORE
+Tablica 1. Iznos potpore prema bruto tonaži plovila
+Kategorija plovila prema bruto tonaži (GT) EUR <10 (11.000,00 x GT) + 2.000,00         ≥10 < 25 (5.000,00 x GT) + 62.000,00           ≥25 < 100 (4.200,00 x GT) + 82.000,00           ≥100 <300 (2.700,00 x GT) + 232.000,00           ≥300 <500 (2.200,00 x GT) + 382.000,00 ≥500 (1.200,00 x GT) + 882.000,00
+Tablica 2. Umanjenje iznosa potpore prema starosti plovila
+Kategorija plovila prema starosti (godine) Umanjenje        ≥15≤30 1% po godini       >30≤50 20% fiksno >50 25% fiksno
+Tablica 3. Maksimalni iznosi prema bruto tonaži plovila
+Kategorija plovila prema bruto tonaži (GT) Maksimalni iznosi (eura) <10 90.000         ≥10 < 25 180.000           ≥25 < 100 300.000            ≥100 <300 480.000            ≥300 <500 500.000 ≥500 600.000
+Osnovni iznos potpore obračunava se sukladno Tablici 1. na način da se broj bruto tona plovila pomnoži s iznosom u eurima određenim za pojedinu kategoriju plovila po bruto tonaži te se nadodaje fiksni iznos koji je određen unutar pojedine kategorije.
+Nakon izračuna osnovnog iznosa potpore, primjenjuje se umanjenje prema starosti plovila sukladno Tablici 2.
+Iznos potpore izračunat nakon primjene umanjenja iz Tablice 2. predstavlja iznos potpore za trajnu obustavu uništavanjem plovila.
+Kod trajne obustave prenamjenom plovila, iznos potpore izračunat za uništavanje plovila se dodatno umanjuje sukladno članku 6. stavku 3. ovoga Pravilnika.
+Nakon izračuna osnovnoga iznosa potpore (Tablica 1.), izračuna umanjenja (Tablica 2.), te u slučaju prenamjene plovila umanjenja sukladno članku 6. stavku 3. ovoga Pravilnika, od tog iznosa se, ako je primjenjivo, oduzima iznos potpore dodijeljen plovilu u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« temeljem članka 33. Uredbe (EU) br. 508/2014.
+Nakon navedenih izračuna se primjenjuje konačni izračun sukladno Tablici 3. ovoga Priloga, ako je primjenjivo.
+PRILOG IV.
+PRAVILA I UPUTE ZA PROVEDBU MJERA INFORMIRANJA I PROMIDŽBE I.10. »TRAJNI PRESTANAK RIBOLOVNIH AKTIVNOSTI«
+I. Odgovornost korisnika
+Kod provedbe operacija koje se financiraju se iz Europskog fonda za pomorstvo i ribarstvo (EFPR), potrebno je provoditi odgovarajuće mjere informiranja i promidžbe, a, kako bi se javnost informiralo o ciljevima operacije i potpori Europske unije operaciji.
+Dakle, korisnik je obvezan aktivnosti za koje je ostvario potporu označiti tako što će prikazati sljedeće elemente vidljivosti
+1. Amblem Europske unije i upućivanje na Europsku uniju: Europska unija
+2. Zastavu Republike Hrvatske
+3. Upućivanje na Europski fond za pomorstvo i ribarstvo: Europski fond za pomorstvo i ribarstvo
+4. Logotip Operativnog programa za pomorstvo i ribarstvo Republike Hrvatske za programsko razdoblje 2014. – 2020.
+Troškove provedbe mjera informiranja i promidžbe snosi korisnik.
+II. Smjernice vezane uz ispravnu uporabu i reprodukciju amblema Europske unije, zastave Republike Hrvatske, upućivanja na Europsku uniju i Europski fond za pomorstvo i ribarstvo te logotipa Operativnog programa
+II.1. Amblem Unije
+1. Amblem Unije treba izraditi u skladu s grafičkim normama i definicijom standardnih boja iz Priloga Uredbe (EU) br. 763/2014, a koje se mogu pronaći u točki IV. ovih uputa.
+2. Amblem Unije na web-mjestima prikazuje se u boji. U svim drugim medijima boja se upotrebljava kad god je to moguće. Jednobojna verzija može se upotrijebiti samo u opravdanim slučajevima.
+3. Amblem Unije uvijek je jasno vidljiv i na istaknutom mjestu. Mjesto amblema i njegova veličina primjereni su veličini predmetnog materijala ili dokumenta. Amblem Unije visok je najmanje 1 cm. U manjim promocijskim materijalima amblem Unije visok je najmanje 5 mm.
+4. Kada je amblem Unije prikazan na web-mjestu, vidljiv je unutar područja prikaza digitalnog uređaja bez potrebe pomicanja prozora prema dolje.
+5. Ako su uz amblem Unije prikazani drugi logotipi, 

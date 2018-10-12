@@ -1,0 +1,20 @@
+71 03.08.2016 Pravilnik o izmjenama i dopunama Pravilnika o prenosivosti broja
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+1704
+Na temelju članka 12. stavka 1. točka 1. i članka 76. stavka 6. Zakona o elektroničkim komunikacijama (»Narodne novine« broj 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 27. srpnja 2016. donosi
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O PRENOSIVOSTI BROJA
+Članak 1.
+U Pravilniku o prenosivosti broja (»Narodne novine« broj 24/15), članak 23. mijenja se i glasi:
+»(1) U slučaju nepravovremenog prijenosa broja, podnositelj Zahtjeva za prijenos broja ima pravo na naknadu za nepravovremeni prijenos broja.
+(2) U slučaju nepravovremenog prijenosa jednog broja, naknada iz stavka 1. ovog članka iznosi 10 kuna za svaki započeti sat nepravovremenog prijenosa broja. U slučaju nepravovremenog prijenosa više od jednog broja, za koje je podnesen jedan Zahtjev za prijenos broja, naknada ne može biti veća od 100 kuna satu.
+(3) Naknada iz stavka 2. ovog članka se obračunava za razdoblje od najviše petnaest (15) dana nepravovremenog prijenosa broja.
+(4) Podnositelj Zahtjeva za prijenos broja nema pravo na naknadu za nepravovremeni prijenos broja za razdoblje u kojem je nepravovremeni prijenos uzrokovan nedostupnošću ili neodazivom podnositelja Zahtjeva za prijenos broja na pozive za instalaciju usluge ili dostavljanje opreme.
+(5) Zahtjev za isplatom naknade iz stavka 2. ovog članka podnosi se pisanim ili elektroničkim putem primatelju broja, najkasnije u roku od trideset (30) dana od datuma realizacije prijenosa broja ili isteka roka iz članka 11. stavka 11. ovog Pravilnika.
+(6) Primatelj broja će u roku od sedam (7) radnih dana od dana primitka zahtjeva za isplatom naknade obavijestiti podnositelja navedenog zahtjeva o načinu isplate naknade za nepravovremeni prijenos broja. U slučaju da je nepravovremeni prijenos broja prouzročio davatelj broja, primatelj broja proslijedit će davatelju broja u roku od tri (3) radna dana zahtjev za isplatom naknade zajedno sa svim potrebnim podacima za isplatom naknade koje je dobio od podnositelja zahtjeva. Davatelj broja će u roku od sedam (7) radnih dana od dana primitka zahtjeva za isplatom naknade odgovoriti podnositelju zahtjeva.
+(7) Obveza isplate naknade za nepravovremeni prijenos broja utvrđuje se na temelju evidencije datuma prijenosa broja u CABP-u i na temelju podataka o mogućnosti korištenja usluge na prenesenom broju. Isplata naknade mora biti realizirana najkasnije u roku od trideset (30) dana od dana podnošenja zahtjeva.
+(8) U slučaju odbijanja zahtjeva za isplatom naknade ili neispravnog obračuna naknade za nepravovremeni prijenos broja, podnositelj Zahtjeva za prijenos broja, kao i primatelj broja u slučaju naknade za nepravovremeni prijenos broja iz stavka 9. ovog članka, može u roku od trideset (30) dana podnijeti prijavu inspektoru elektroničkih komunikacija.
+(9) U slučaju nepravovremenog prijenosa broja, primatelj broja ima pravo na naknadu za nepravovremeni prijenos broja od davatelja broja, neovisno o zahtjevu podnositelja Zahtjeva za prijenos broja.
+(10) U slučaju nepravovremenog prijenosa jednog broja, naknada iz stavka 9. ovog članka, za svaki započeti dan nepravovremenog prijenosa broja, iznosi 50 kuna po danu za prvih deset (10) dana nepravovremenog prijenosa, a nakon desetog dana 75 kuna po danu. U slučaju nepravovremenog prijenosa više od jednog broja, za koje je podnesen jedan Zahtjev za prijenos broja, naknada ne može biti veća od 500 kuna po danu, za prvih deset (10) dana nepravovremenog prijenosa broja, odnosno 750 kuna po danu, nakon desetog dana nepravovremenog prijenosa.
+(11) Naknada iz stavka 10. ovog članka obračunava se za razdoblje od najviše petnaest (15) dana nepravovremenog prijenosa broja. Primatelj broja nema pravo na naknadu iz stavka 10. ovog članka, ukoliko je Zahtjev za prijenos broja podnesen istovremeno sa zahtjevom za veleprodajnu uslugu.
+(12) Naknada 

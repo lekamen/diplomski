@@ -1,0 +1,26 @@
+63 06.06.2015 Pravilnik o obrascima i evidenciji osobnih iskaznica te organizacijskim, tehničkim i sigurnosnim mjerama u postupku izdavanja osobnih iskaznica
+MINISTARSTVO UNUTARNJIH POSLOVA
+1213
+Na temelju članka 7. stavka 4., članka 20. stavka 2. i članka 23. stavka 5. Zakona o osobnoj iskaznici (»Narodne novine« broj 62/2015), ministar unutarnjih poslova donosi
+PRAVILNIK
+O OBRASCIMA I EVIDENCIJI OSOBNIH ISKAZNICA TE ORGANIZACIJSKIM, TEHNIČKIM I SIGURNOSNIM MJERAMA U POSTUPKU IZDAVANJA OSOBNIH ISKAZNICA
+Članak 1.
+Ovim Pravilnikom propisuje se izgled i sadržaj obrasca osobne iskaznice, obrasca zahtjeva za izdavanje osobne iskaznice, način popunjavanja obrazaca, način vođenja evidencije izdanih osobnih iskaznica te organizacijske, tehničke i sigurnosne mjere u postupku izdavanja osobnih iskaznica.
+Članak 2.
+(1) Obrazac osobne iskaznice (u daljnjem tekstu: Obrazac 1) je pravokutnog oblika veličine 85,6 x 53,98 mm, izrađen je od polikarbonatnog materijala te na sebi sadrži čip za pohranu elektroničkih podataka.
+(2) Prednja strana Obrasca 1 sadrži: grb Republike Hrvatske, naziv: »Republika Hrvatska«, naziv: »osobna iskaznica«, broj osobne iskaznice, prostor za upis prezimena, imena, spola, državljanstva, datuma rođenja, roka važenja osobne iskaznice te prostor za fotografiju i potpis osobe.
+(3) Poleđina Obrasca 1 sadrži: prostor za upis prebivališta, naziva policijske uprave, odnosno policijske postaje Ministarstva unutarnjih poslova koja osobnu iskaznicu izdaje (u daljnjem tekstu: nadležno tijelo), datuma izdavanja, osobnoga identifikacijskoga broja te podataka za strojno čitanje.
+(4) Elektronički čip sadrži: podatke iz stavka 2. ovog članka, jedan ili dva privatna ključa i certifikata, CA certifikat, aktivacijske podatke te podatke aplikacije.
+Članak 3.
+(1) U Obrazac 1 podatak o spolu upisuje se oznakom: »Ž« za ženski spol, a oznakom: »M« za muški spol.
+(2) U Obrazac 1 podatak o državljanstvu upisuje se oznakom: »HRV«.
+(3) Upis podataka u Obrazac 1 upisuje se sukladno međunarodnim standardima za strojno čitanje isprava.
+Članak 4.
+(1) Obrazac zahtjeva za izdavanje osobne iskaznice (u daljnjem tekstu: Obrazac 2) bijele je boje, veličine 218 mm x 100 mm.
+(2) Prednja strana Obrasca 2 sadrži: prostor za upis matičnog broja građana, osobnoga identifikacijskoga broja, prezimena, imena, datuma rođenja, spola, mjesta i adrese prebivališta, datuma izdavanja i roka važenja osobne iskaznice, prostor za upis naziva nadležnog tijela, serijskog broja i vrste osobne iskaznice te prostor za fotografiju i potpis podnositelja zahtjeva.
+(3) Poleđina Obrasca 2 sadrži: prostor za upis podataka o utvrđenom identitetu, potpis podnositelja zahtjeva, potpis osobe koja je zahtjev rješavala, datum uručenja osobne iskaznice, potpis primatelja osobne iskaznice, potpis osobe koja je uručila osobnu iskaznicu te prostor za napomene.
+(4) Nakon utvrđivanja identiteta podnositelja zahtjeva za izdavanje osobne iskaznice, podaci se u Obrazac 2 ispisuju iz središnjeg informacijskog sustava Ministarstva unutarnjih poslova (u daljnjem tekstu: IS Ministarstva), a podnositelj zahtjeva svojim potpisom na Obrascu 2 potvrđuje točnost ispisanih podataka.
+(5) Obrazac zahtjeva za izdavanje osobne iskaznice za osobu – pripadnika nacionalne manjine ispisuje se iz IS Ministarstva na hrvatskom jeziku i latiničnom pismu i na jeziku i pismu nacionalne manjine, a popunjava na jeziku i pismu pripadnika nacionalne manjine.
+(6) Nadležno tijelo podnositelju zahtjeva za izdavanje osobne iskaznice izdaje potvrdu o podnijetom zahtjevu, koja je sastavni dio Obrasca 2 i od njega se odvaja perforacijom.
+(7) Potvrda o podnesenom zahtjevu za izdavanje osobne iskaznice vrijedi 30 dana od dana podnošenja zahtjeva za izdavanje osobne iskaznice, a osoba ju je prilikom uručenja osobne iskaznice dužna vratiti nadležnom tijelu.
+(8) Potvrda o podnesenom zahtjevu za izdavanje osobne iskaznice sadrži: podatke o prezimenu i imenu podnositelja zahtjeva, mjestu i adresi prebivališta, nazivu nadležnog tijela,

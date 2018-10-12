@@ -1,0 +1,25 @@
+ definira točnost snimanja iz zraka i
+9. potrebno je osigurati jednoličnost digitalnih snimki, vertikalne snimke u centralnoj projekciji, traženi GSD, tonsku ujednačenost bez utjecaja refleksije sunca, zadovoljavajuću oštrinu snimki i vidljivost detalja terena, odsutnost dubokih sjena, oblaka, magle, snijega, ispravnost numeracije snimki, preslikane rubne markice i stereoskopsko prekrivanje područja.
+(2) Ukoliko snimke izvedenog snimanja zbog konfiguracije terena, naseljenosti, vegetacije, mjerila ili drugih razloga ne odgovaraju traženim zahtjevima, snimanje se mora ponoviti.
+POGLAVLJE IV. AEROTRIANGULACIJA
+Članak 13.
+(1) Radni proces aerotriangulacije izvodi se fotogrametrijskim postupcima koji rezultiraju izjednačenim koordinatama osnovnih zadanih i veznih točaka te elementima vanjske orijentacije za svaku pojedinu snimku na osnovi kojih se mogu formirati stereoparovi za fotogrametrijsku izmjeru ili izraditi ortofotokarte.
+(2) Manualni postupak aerotriangulacije u slučaju digitalne snimke snimljene digitalnom fotogrametrijskom kamerom izvodi se na način da se orijentacijske točke (stalne geodetske i kontrolne točke) progušćuju s veznim točkama iz susjednih stereoparova i nizova osiguravajući zahtijevani raspored orijentacijskih točaka u svakom stereoparu. Vezne točke numeriraju se od 1 do 9999 i šifrom vrste unutar zadatka (bloka, katastarske općine i dr.). Za vezne točke biraju se prirodne točke ili detalji koje je moguće dobro identificirati i mjeriti.
+(3) Kod digitalnih kamera unutarnja orijentacija definirana je kalibracijom kamere.
+(4) Za relativnu orijentaciju treba mjeriti najmanje šest paralaktičkih točaka, a preostala paralaksa nakon izjednačenja ne smije biti veća od vrijednosti propisanih specifikacijom proizvoda za aerotriangulaciju.
+(5) Slikovne ili modelne koordinate izjednačavaju se zajedno s osnovnim zadanim točkama bloka. Srednje pogreške izjednačenja bloka i odstupanja na zadanim i veznim točkama ne smiju biti veći od vrijednosti propisanih specifikacijom proizvoda za aerotriangulaciju.
+(6) U slučaju poluautomatskog ili automatskog opažanja veznih točaka radovi se provode prema specifikaciji proizvoda za aerotriangulaciju.
+(7) Aerotriangulacija i rezultati rada definirani su u specifikaciji proizvoda za aerotriangulaciju.
+POGLAVLJE V. PRIKUPLJANJE PODATAKA
+Članak 14.
+(1) Topografski objekti kartiraju se iz orijentiranih stereoparova (stereomodela) na stereoinstrumentima, pridruživanjem objektnim cjelinama.
+(2) Vektorski prikaz podataka kartiranja podrazumijeva trodimenzionalne (3D) podatke.
+(3) Kartiraju se odvojeno podaci planimetrije i DMR-a s izravnim vektorskim zapisom u službenoj kartografskoj projekciji.
+(4) Kod ažuriranja prethodno kartiranih topografskih objekata nužno je pridržavati se kataloga kartiranja iz specifikacije proizvoda za topografske podatke.
+(5) Točnost topografskih podataka iskazuje se standardnim odstupanjem koje je definirano specifikacijom proizvoda za topografske podatke.
+(6) Prikupljanje, obrada, prikazivanje i digitalni zapis izmjerenih topografskih podataka izvodi se prema specifikaciji proizvoda za topografske podatke i sukladno modelu podataka CROTIS.
+Članak 15.
+(1) Podaci digitalnog modela reljefa prikupljaju se primarno fotogrametrijskim kartiranjem sukladno specifikaciji proizvoda za digitalni model reljefa.
+(2) Podaci iz stavka 1. ovoga članka koriste se za izradu ortofotokarata i visinske predstave topografskih karata. Za potrebe izrade visinske predstave za Hrvatsku osnovnu kartu, digitalni model reljefa treba dopuniti sukladno projektnom zadatku.
+(3) Visinska izmjera stereomodela za digitalni model reljefa obuhvaća prikupljanje rastera visinskih točaka, prijelomnica, linija oblika, karakterističnih točaka terena, područja nepouzdanog DMR-a i podataka o uzdignutim izgrađenim objektima (mostovima, vijaduktima, kanalima i sl. neophodnim za izradu DOF-a).
+(4) Točnost digitalnog modela reljefa ovisi o obliku (ravničarski, brežuljkast ili brdovit) i pokrivenosti terena

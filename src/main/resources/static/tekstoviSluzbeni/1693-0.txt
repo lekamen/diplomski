@@ -1,0 +1,47 @@
+86 04.08.2015 Pravilnik o zajedničkome upisniku školskih ustanova u elektroničnome obliku - e-Matici
+MINISTARSTVO ZNANOSTI, OBRAZOVANJA I SPORTA
+1694
+Na temelju članka 140. stavka 4. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/2008.. 86/2009., 92/2010., 105/2010., 90/2011., 16/2012., 86/2012., 94/2013. i 152/14.), ministar znanosti, obrazovanja i sporta donosi
+PRAVILNIK
+O ZAJEDNIČKOME UPISNIKU ŠKOLSKIH USTANOVA U ELEKTRONIČKOME OBLIKU – e-MATICI
+OPĆE ODREDBE
+Članak 1.
+Ovim pravilnikom uređuju se obveze i načini te rokovi unošenja podatka u zajednički upisnik školskih ustanova u elektroničkome obliku – e-Maticu (u daljnjem tekstu: e-Matica), ovlaštenja za pristup i korištenje podataka te sigurnost i način razmjene podataka.
+E-Matica ministarstva nadležnog za obrazovanje (u daljnjem tekstu: Ministarstvo) sadrži sljedeće evidencije:
+– Upisnik ustanova,
+– Evidenciju odgojno-obrazovnoga rada u ustanovama za svaku školsku godinu,
+– Upisnik učenika u ustanovama,
+– Upisnik radnika ustanova.
+UPISNIK USTANOVA
+Članak 2.
+Ministarstvo upisuje školsku ustanovu u Upisnik ustanova. Upisom školske ustanove u Upisnik ustanova dodjeljuje joj se jedinstvena šifra ustanove.
+Svaku promjenu podataka ustanove u Upisniku ustanova ustanove su dužne dostaviti Ministarstvu bez odgode, a najkasnije u roku od sedam dana od dana nastanka promjene podataka.
+Ministarstvo u e-Matici vodi i evidenciju o nastavnim planovima i programima te kurikulumima koje ustanova provodi i za koje ima odobrenje Ministarstva.
+EVIDENCIJA ODGOJNO-OBRAZOVNOGA RADA
+Članak 3.
+Školske ustanove u Republici Hrvatskoj dužne su za svaku školsku godinu u e-Matici evidentirati sve podatke o odgojno-obrazovnome radu za to odgojno-obrazovno razdoblje.
+Evidencija odgojno-obrazovnoga rada ustanove obuhvaća podatke o učenicima, razrednim odjelima i organizaciji odgojno-obrazovnoga rada u jednoj školskoj godini.
+UPISNIK UČENIKA
+Članak 4.
+Školske ustanove u Republici Hrvatskoj dužne su voditi upisnik učenika u e-Matici.
+Upisnik učenika je poimenična evidencija učenika u ustanovama na temelju školske evidencije iz Matične knjige učenika.
+Upisnik učenika treba omogućiti uvid u pedagoške i druge podatke značajne za praćenje učenika tijekom cijeloga njegova školovanja.
+UPISNIK RADNIKA
+Članak 5.
+Školske ustanove u Republici Hrvatskoj dužne su voditi upisnik radnika u e-Matici.
+Upisnik radnika poimenična je evidencija svih osoba koje u ustanovama imaju zasnovan radni odnos na neodređeno ili određeno vrijeme, s punim, nepunim te skraćenim radnim vremenom, koje rade u dopunskome radu ili su vanjski suradnici te ostale podatke značajne za rad ustanove.
+OBVEZE MINISTARSTVA
+Članak 6.
+Podatke iz članka 2. stavka 1. ovog pravilnika Ministarstvo unosi danom izdavanja rješenja o ispunjenju uvjeta za početak rada ustanove koje izdaje Ministarstvo.
+Podatke iz članka 2. stavka 3. ovog pravilnika Ministarstvo unosi danom izdavanja rješenja o izvođenju programa obrazovanja/strukovnog kurikuluma školskoj ustanovi.
+Članak 7.
+Ministarstvo je odgovorno za osiguranje redovitoga rada e-Matice uključujući poslove računalne i komunikacijske infrastrukture te tehničku potporu sustavu, sigurnost sustava te pohranu podataka i korisničku potporu, a sve u skladu s važećim zakonskim propisima i pravilima struke.
+Ministarstvo može, na temelju posebne odluke za obavljanje poslova redovitoga funkcioniranja koji uključuju tehničku potporu sustavu, sigurnost sustava, raspoloživost sustava te pohranu podataka, a sve u skladu s važećim zakonskim propisima i pravilima struke, ovlastiti drugu ustanovu iz sustava obrazovanja i znanosti.
+OBVEZE USTANOVA
+Članak 8.
+Podatke u upisnike iz članaka 3., 4. i 5. ovoga pravilnika ustanove unose:
+– za početak školske godine najkasnije do 30. rujna za tekuću školsku godinu,
+– tijekom školske godine u roku od sedam dana od nastale promjene podataka,
+– za kraj školske godine najkasnije do 7. rujna za prethodnu školsku godinu.
+Članak 9.
+Ustanove imenuju osobe iz 

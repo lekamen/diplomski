@@ -1,0 +1,25 @@
+ promjene u projektu bez kojih se projekt ne može provesti ili koje imaju utjecaj na poboljšanje projekta moraju biti obrazložene prilikom dostavljanja Zahtjeva za isplatu.
+(9) U slučaju promjene Odluke o dodjeli sredstava inicirane od strane Agencije za plaćanja, korisniku će biti izdana Izmjena Odluke o dodjeli sredstava.
+(10) Ukoliko je korisnik u obvezi provesti postupak javne nabave, uz Zahtjev za promjenu ponuditelja u obvezi je dostaviti i dokumentaciju iz provedenog postupka javne nabave.
+POTVRDA O ODUSTAJANJU I IZJAVA O PONIŠTENJU OBVEZE
+Članak 37.
+(1) U slučaju da korisnik želi odustati od dodjele sredstava iz EPFRR programa, dužan je podnijeti Zahtjev za odustajanje putem AGRONET-a na način opisan u Vodiču za korisnike.
+(2) Ukoliko korisnik podnese Zahtjev za odustajanje u fazi administrativne kontrole Zahtjeva za potporu odnosno prije izdavanja Odluke, Agencija za plaćanja će prekinuti sve aktivnosti nad Zahtjevom za potporu te će korisniku izdati Potvrdu o odustajanju.
+(3) Ukoliko korisnik podnese Zahtjev za odustajanje nakon izdavanja Odluke o dodjeli sredstava Agencija za plaćanja će korisniku izdati Izjavu o poništenju obveze.
+(4) Izjava o poništenju obveze se izdaje i u sljedećim slučajevima:
+a) kada je utvrđena nepravilnost koja prelazi 50% ukupne vrijednosti javne potpore odnosno kada korisnik prekrši odredbe ovoga Pravilnika, Natječaja ili nije ispunio obveze određene Odlukom o dodjeli sredstava ili ako je utvrđena nepravilnost ujedno i sumnja na prijevaru,
+b) ukoliko korisnik ne dostavi Zahtjev za isplatu.
+IV. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE I DONOŠENJE ODLUKE
+Članak 38.
+(1) Potpora se korisniku isplaćuje temeljem Zahtjeva za isplatu/Zahtjeva za isplatu predujma.
+(2) Korisnik može podnijeti Zahtjev za isplatu jednokratno ili u ratama do najviše 3 rate. Maksimalni iznos prve rate iznosi do 50 posto odobrenih sredstava javne potpore.
+(3) Korisnik može putem Zahtjeva za isplatu predujma tražiti predujam za ulaganje i to do 50 posto odobrenih sredstava javne potpore. Uvjet za isplatu predujma jest bankarska garancija plativa »na prvi poziv« i »bez prigovora« u stopostotnoj vrijednosti iznosa predujma. Bankarska garancija mora vrijediti od trenutka podnošenja Zahtjeva za isplatu predujma do isteka šest mjeseci nakon krajnjeg roka za podnošenje Zahtjeva za isplatu Ako nema mogućnosti plaćanja predujma, isplata se može vršiti i u ratama. Plaćanje predujma ne isključuje plaćanje u ratama, a maksimalan broj isplata u ratama kod plaćanja predujma iznosi maksimalno dvije rate.
+(4) Isplaćeni predujam iz stavka 3. ovoga članka opravdava se plaćenim računima/situacijama za odobrena ulaganja pri podnošenju Zahtjeva za isplatu sljedeće rate.
+(5) Garancija iz stavka 3. će biti vraćena korisniku po prihvaćanju opravdanosti odobrenih ulaganja temeljem Odluke o jamstvu.
+(6) Garancija iz stavka 3. ovog članka bit će aktivirana radi povrata sredstava isplaćenog predujma u slučaju neispunjavanja uvjeta iz stavka 4. ovog članka temeljem Odluke o jamstvu.
+(7) Korisnik je dužan dostaviti Izvještaj o napretku projekta svakih šest mjeseci, računajući od dana izdavanja Odluke o dodjeli sredstava.
+(8) Prije podnošenja zadnjeg Zahtjeva za isplatu za Podmjeru 7.1. gradsko/općinsko vijeće mora usvojiti dokument iz članka 8. ovoga Pravilnika, za koji se traži potpora.
+(9) Prije podnošenja zadnjeg Zahtjeva za isplatu za Operaciju 7.2.2. Ulaganja u građenje nerazvrstanih cesta, predmet ulaganja mora biti naznačen u općem aktu – Odluci o nerazvrstanim cestama.
+(10) Korisnik prije podnošenja Zahtjeva za isplatu mora imati podmirene financijske obveze prema državnom proračunu.
+(11) Korisnik je nakon završenog projekta dužan dostaviti Zahtjev za isplatu u elektronskom obliku putem AGRONET sustava koji se nalazi na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr). Način podnošenja Zahtjeva za isplatu opisan je u Vodiču za korisnike.
+(12) Prilikom podnošenja Zahtjeva za isplatu/Zahtjeva za isplatu predujma korisnici su obvezni učitati u

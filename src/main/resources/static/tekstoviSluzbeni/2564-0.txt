@@ -1,0 +1,35 @@
+136 18.12.2015 Odluka o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa
+HRVATSKA NARODNA BANKA
+2565
+Na temelju članka 120. stavka 1. Zakona o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) Savjet Hrvatske narodne banke donosi
+ODLUKU
+O DODATNIM I IZMIJENJENIM UVJETIMA ZA OTVARANJE I FUNKCIONIRANJE PM RAČUNA U SUSTAVU TARGET2-HR UPOTREBOM INTERNETSKOG PRISTUPA
+Članak 1.
+Predmet
+Ovom Odlukom uređuju se dodatni uvjeti za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa kao i iznimke od primjene Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR.
+Članak 2.
+Dodaci
+1. Sastavni dio ove Odluke čine:
+Dodatak I.A.: Tehničke specifikacije za obradu naloga za plaćanje za internetski pristup i
+Dodatak II.A.: Popis naknada i izdavanje računa za internetski pristup.
+2. Ovlašćuje se guverner Hrvatske narodne banke za donošenje dodataka iz stavka 1. ovog članka.
+3. Dodaci iz stavka 1. ovog članka objavljuju se na internetskim stranicama Hrvatske narodne banke.
+Članak 3.
+Primjena
+Na sudionike koji se koriste internetskim pristupom za pristup jednom ili više PM računa primjenjuje se Odluka o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR na način predviđen ovom Odlukom.
+Članak 4.
+Definicije
+1. Za potrebe ove Odluke primjenjuju se sljedeće definicije:
+1) »tijelo za certificiranje« znači jedna ili više nacionalnih središnjih banaka koje je odredilo Upravno vijeće da kao takve u ime Eurosustava izdaju, upravljaju, opozivaju i obnavljaju elektroničke certifikate;
+2) »elektronički certifikati« ili »certifikati« znači elektronička datoteka koju je izdalo tijelo za certificiranje, koja povezuje javni ključ s identitetom i koja se upotrebljava za sljedeće svrhe: provjeru pripada li javni ključ pojedincu, provjeru imatelja, provjeru potpisa tog pojedinca ili enkripciju poruke naslovljene na tog pojedinca. Certifikati se drže na fizičkom uređaju kao što je pametna kartica ili USB ključ te upućivanja na certifikate uključuju te fizičke uređaje. Certifikati su bitni za postupak provjere autentičnosti sudionika koji pristupaju sustavu TARGET2 preko interneta i dostavljaju platne poruke ili kontrolne poruke;
+3) »imatelj certifikata« znači imenovana, pojedinačna osoba koju je sudionik u sustavu TARGET2 identificirao i odredio kao ovlaštenu za internetski pristup računu sudionika u sustav TARGET2. Zahtjev za certifikate provjerit će matični NSB sudionika i proslijediti tijelu za certificiranje, koje će potom dostaviti certifikate koji povezuju javni ključ s podacima za provjeru koji identificiraju sudionika;
+4) »internetski pristup« znači da se sudionik odlučio za PM račun kojemu se može pristupiti samo preko interneta i da sudionik dostavlja platne poruke ili kontrolne poruke sustavu TARGET2 preko interneta;
+5) »pružatelj internetskih usluga« znači društvo ili organizacija, tj. ulaz koji sudionik sustava TARGET2 upotrebljava da bi koristeći se internetskim pristupom pristupio svojem računu u sustavu TARGET2.
+2. Za potrebe ove Odluke definicija iz članka 3. točke 23. Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR mijenja se i glasi:
+»23) 'nalog za plaćanje' znači nalog za kreditni transfer, nalog za prijenos likvidnosti ili instrukcija za izravno terećenje.«
+Članak 5.
+Odredbe koje se ne primjenjuju
+Sljedeće odredbe Odluke o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR ne primjenjuju se kod upotrebe internetskog pristupa:
+Članak 5. stavak 1. točka (c) i stavak 2. točka (d), članak 6. stavci 2., 3. i 4., članci 7. i 8, članak 12. stavak 8., članak 15. stavak 1. točka (a), članci 25., 26. i 41. i dodaci I. (Tehničke specifikacije za obradu naloga za plaćanje) i VI. (Popis naknada i izdavanje računa).
+Članak 6.
+Dodatne 

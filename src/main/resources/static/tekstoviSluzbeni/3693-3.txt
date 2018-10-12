@@ -1,0 +1,58 @@
+ upravljanje
+24 – Obveze prema depozitaru
+25 – Obveze s osnove dozvoljenih troškova UCITS fonda
+26 – Obveze prema imateljima udjela
+27 – Ostale obveze UCITS fonda
+28 – Obveze po obračunatoj kamati
+3 – Financijska imovina po fer vrijednosti kroz račun dobiti i gubitka
+30 – Prenosivi vrijednosni papiri i usklađenje vrijednosti
+34 – Izvedenice i usklađenje vrijednosti
+35 – Instrumenti tržišta novca i usklađenje vrijednosti
+36 – Udjeli UCITS fondova i usklađenje vrijednosti
+4 – Financijska imovina raspoloživa za prodaju
+40 – Prenosivi vrijednosni papiri i usklađenje vrijednosti
+41 – Udjeli UCITS fondova i usklađenje vrijednosti
+5 – Ulaganja koja se drže do dospijeća
+50 – Prenosivi vrijednosni papiri koji se drže do dospijeća i usklađenje vrijednosti
+51 – Instrumenti tržišta novca koji se drže do dospijeća i usklađenje vrijednosti
+6 – Rashodi
+60 – Negativne tečajne razlike
+60x – Ostale negativne tečajne razlike (osim po financijskim instrumentima po fer vrijednosti)
+60y – Negativne tečajne razlike financijskih instrumenata po fer vrijednosti
+61 – Rashodi s osnove odnosa s društvom za upravljanje
+62 – Nerealizirani gubici – svođenje na fer vrijednost
+62x – Nerealizirani gubici od ulaganja u financijske instrumente (osim izvedenica)
+62y – Nerealizirani gubici od izvedenica
+63 – Realizirani gubici od prodaje financijskih instrumenata
+64 – Umanjenje imovine
+65 – Naknada depozitaru
+66 – Transakcijski troškovi
+67 – Rashodi od kamata
+69 – Ostali dozvoljeni troškovi UCITS fonda
+7 – Prihodi
+70 – Prihodi od kamata
+71 – Pozitivne tečajne razlike
+71x – Ostale pozitivne tečajne razlike (osim po financijskim instrumentima po fer vrijednosti)
+71y – Pozitivne tečajne razlike financijskih instrumenata po fer vrijednosti
+72 – Nerealizirani dobici – svođenje na fer vrijednost
+72x – Nerealizirani dobici od ulaganja u financijske instrumente (osim izvedenica)
+72y – Nerealizirani dobici od izvedenica
+73 – Realizirani dobici od prodaje financijskih instrumenata
+74 – Prihodi od dividendi
+75 – Ostali prihodi
+79 – Razlika prihoda i rashoda
+8 – Zajmovi i potraživanja
+80 – Prenosivi neuvršteni vrijednosni papiri i usklađenje vrijednosti
+81 – Ulaganja temeljem repo ugovora o kupnji i ponovnoj prodaji te usklađenje vrijednosti
+83 – Ulaganja u depozite i usklađenje vrijednosti
+84 – Ugovori o kupnji i ponovnoj prodaji i usklađenje vrijednosti
+85 – Ostala financijska imovina koja pripada portfelju zajmovi i potraživanja i usklađenje vrijednosti
+9 – Obveze prema izvorima imovine (udjela) i revalorizacijske rezerve UCITS fonda
+90 – Izdani/otkupljeni udjeli UCITS fonda
+94 – Dobit/gubitak tekuće poslovne godine
+95 – Zadržana dobit/gubitak iz prethodnih razdoblja
+96 – Revalorizacija financijske imovine raspoložive za prodaju
+97 – Revalorizacijske rezerve instrumenata zaštite
+990-994 – Aktivna izvanbilančna evidencija
+995-999 – Pasivna izvanbilančna evidencija
+PRILOG 2 – PRILOG 5

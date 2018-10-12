@@ -1,0 +1,35 @@
+ neusklađenost nije riješena šest mjeseci nakon što je utvrđeno njezino postojanje, tu neusklađenost objavi na kraju tog razdoblja, zajedno s objašnjenjem njezinih uzroka i posljedica, uključujući bilo kakve poduzete mjere za poboljšanje stanja, kao i daljnje planirane mjere za poboljšanje stanja.
+(4) Društvo za osiguranje može dobrovoljno objaviti bilo koju informaciju ili objašnjenje o svojoj solventnosti i financijskom stanju, čija objava nije obvezna prema stavcima 1. – 3. ovoga članka i člancima 168. i 169. ovoga Zakona.
+Odgovarajući sustav u svrhu javne objave
+Članak 171.
+(1) Društvo za osiguranje dužno je uspostaviti odgovarajuće sustave i strukture u svrhu ispunjavanja zahtjeva iz članaka 168. i 169. te članka 170. stavaka 1. – 3. ovoga Zakona, kao i pisana pravila koja osiguravaju kontinuiranu prikladnost svih informacija koje se objavljuju u skladu s odredbama članaka 168. – 170. ovoga Zakona.
+(2) Izvješće o solventnosti i financijskom stanju podliježe odobrenju uprave uz suglasnost nadzornog odbora društva za osiguranje i objavljuje se nakon tog odobrenja.
+GLAVA XII. TEHNIČKE PRIČUVE PREMA RAČUNOVODSTVENIM PROPISIMA, IMOVINA ZA POKRIĆE TEHNIČKIH PRIČUVA PREMA RAČUNOVODSTVENIM PROPISIMA I OVLAŠTENI AKTUAR
+POGLAVLJE I. TEHNIČKE PRIČUVE PREMA RAČUNOVODSTVENIM PROPISIMA
+Pojam
+Članak 172.
+Tehničke pričuve prema računovodstvenim propisima predstavljaju tehničke pričuve oblikovane za potrebe financijskog izvještavanja u skladu s ovim Zakonom i drugim propisima.
+Opće odredbe
+Članak 173.
+(1) Društvo za osiguranje mora u vezi sa svim poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja oblikovati odgovarajuće tehničke pričuve prema računovodstvenim propisima namijenjene pokriću obveza iz ugovora o osiguranju, odnosno ugovora o reosiguranju i eventualnih gubitaka zbog rizika koji proizlaze iz poslova osiguranja, odnosno poslova reosiguranja koje obavlja.
+(2) Društvo za osiguranje dužno je oblikovati sljedeće vrste tehničkih pričuva prema računovodstvenim propisima u skladu s poslovima osiguranja, odnosno poslovima reosiguranja koje obavlja:
+1. pričuve za prijenosne premije
+2. pričuve za bonuse i popuste
+3. pričuve šteta
+4. matematičke pričuve
+5. posebne pričuve
+6. pričuve za kolebanje šteta
+7. druge tehničke pričuve prema računovodstvenim propisima.
+(3) Društvo za osiguranje dužno je oblikovati tehničke pričuve za kolebanje šteta ako obavlja poslove osiguranja iz članka 7. stavka 2. točke 14. ovoga Zakona.
+(4) Matematičke pričuve osiguranja dužno je oblikovati društvo za osiguranje koje obavlja poslove životnih osiguranja, odnosno osiguranja kod kojih se kumuliraju sredstva štednje ili sredstva za pokriće rizika u kasnijim godinama osiguranja s višegodišnjim trajanjem za koja se primjenjuju tablice vjerojatnosti i izračuni kao i za životna osiguranja.
+(5) Društvo za osiguranje koje obavlja poslove životnih osiguranja kod kojih ugovaratelj osiguranja snosi rizik ulaganja dužno je oblikovati i posebne pričuve za pokriće obveza iz ugovora o osiguranju kod kojih ugovaratelj osiguranja snosi rizik ulaganja koje su direktno vezane za vrijednost ulaganja.
+(6) Agencija će pravilnikom propisati mjerila i način obračuna tehničkih pričuva prema računovodstvenim propisima.
+Pričuve za prijenosne premije
+Članak 174.
+Pričuva za prijenosne premije kod pojedinog ugovora o osiguranju oblikuje se u visini onog dijela obračunate premije koji se odnosi na osigurateljno pokriće za razdoblje osiguranja nakon obračunskog razdoblja za koje se izračunava pričuva.
+Pričuve za bonuse i popuste
+Članak 175.
+Pričuve za bonuse i popuste oblikuju se u visini iznosa na čiju isplatu imaju pravo osiguranici, ugovaratelji, odnosno korisnici osiguranja s osnove prava na:
+1. sudjelovanje u dobiti iz njihovih osiguranja, odnosno drugih prava na temelju ugovora o osiguranju (bonusi), osim ako se za ta osiguranja oblikuje matematička pričuva
+2. buduće djelomično sniženje premije (popusti)
+3. povrat dijela premije za nepotrošeno vrijeme osiguranja zbog

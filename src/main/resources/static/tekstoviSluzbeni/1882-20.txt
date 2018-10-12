@@ -1,0 +1,31 @@
+ svim vrstama potrebnih napona. Napajanje se redovno osigurava putem pružnog energetskog kabela ili iz distributivne mreže, a baterijom treba osigurati osmosatni rad u slučaju nestanka redovnog napajanja.
+(7) Potrebno je predvidjeti opremu lokalnog (mjesnog) rada koja omogućuje uključivanje, kontrolu rada i isključivanje uređaja od strane ovlaštene osobe.
+Zahtjevi za vanjsku opremu ŽCP-a i PP-a
+Članak 56.
+(1) Cestovnom svjetlosno-zvučnom signalizacijom (CSZS) najavljuje se približavanje vlaka,
+– optički (svjetlosnim znakom za označivanje prijelaza ceste preko željezničke pruge) – naizmjeničnim paljenjem dvaju crvenih treptećih svjetala koja su u obliku kruga, te
+– akustički (zvučnom signalizacijom) – isprekidanim zvučnim signalima u ritmu treptanja crvenih svjetala, a generiranim od strane izvora zvuka ugrađenog na CSZS.
+(2) Pravilnikom o prometnim znakovima, signalizaciji i opremi na cestama (»Narodne novine« 33/05, 64/05, 155/05 i 14/11) i normom HRN 1127:2002 određena je izvedba, dimenzije i način postavljanja:
+– svjetlosnog znaka za označivanje prijelaza ceste preko željezničke pruge (znak G23), te
+– znaka »Andrijin križ« (A47 ili A48) koji se postavlja na ŽCP-ima koji su osigurani samo cestovnom svjetlosno-zvučnom signalizacijom (bez polubranika).
+(3) Prometni znakovi na cesti postavljaju se prema izvedbenom projektu.
+(4) Zvučna signalizacija mora:
+– davati isprekidan zvuk s ritmom prekida usklađenim s ritmom treptanja svjetiljke svjetlosnog signala,
+– emitirati akustične signale čija je razina zvuka za 30 dB veća od razine zvuka okoline, a mora biti najmanje 70 dB mjereno s udaljenosti od 5 m, ali ne smije prijeći razinu od 105 dB mjereno na udaljenosti 1 m od izvora zvuka, te mora imati mogućnost prilagođavanja razine emitiranog akustičnog signala ovisno o razini zvuka okoline u dnevnim ili noćnim uvjetima.
+– u kombinaciji s polubranicima zvučna signalizacija prestaje kada je motka polubranika u krajnjem donjem položaju.
+(5) Polubranici zatvaraju promet po desnoj kolničkoj traci ispred ŽCP-a, a ugrađuju se u kombinaciji sa svjetlosno-zvučnom signalizacijom u skladu s Pravilnikom o načinu osiguravanja prometa na željezničko-cestovnim prijelazima i pješačkim prijelazima preko pruge i Pravilnikom o prometnim znakovima, signalizaciji i opremi na cestama.
+(6) Potrebno je ostvariti kontrolu stanja polubranika:
+– lom prerezivog mjesta motke
+– gornji otvoreni položaj
+– donji zatvoreni položaj
+– vrijeme spuštanja i podizanja motki.
+(7) Kvar postavljača javlja se u sljedećim slučajevima:
+– motka nije u krajnjem položaju 3 sekunde nakon isteka vremena postavljanja
+– gubitak kontrole krajnjeg položaja
+– lom motke.
+(8) U slučaju da uređaj ŽCP-a nije uključen i nema uvjet za uključenje s pruge, lom motke u gornjem položaju ne smije dovesti do uključenja cestovnih svjetlosnih signala. Uređaj ŽCP-a treba javiti kvar.
+(9) U slučaju da uređaj ŽCP-a nije uključen i nema uvjet za uključenje s pruge, nepravilan položaj motke, odnosno gubitak kontrole krajnjeg položaja treba dovesti do uključenja cestovnih svjetlosnih signala. Uređaj ŽCP-a treba javiti kvar.
+(10) U slučaju da uređaj ŽCP-a opremljen kontrolnim signalima, kontrolni svjetlosni signali ugrađuju se na udaljenosti zaustavnog puta ispred željezničko-cestovnog prijelaza i moraju se vidjeti s mjesta gdje je ugrađen signal uključne točke.
+(11) Ako se na uređaju ŽCP-a s kontrolnim signalima pojavi bilo kakav kvar koji bi mogao ugroziti sigurnost željezničkog i cestovnog prometa, bijela svjetlost na kontrolnom svjetlosnom signalu ne smije se paliti. Na taj način se strojovođa upozorava da željezničko-cestovni prijelaz nije osiguran.
+(12) Pomoćni kontrolni svjetlosni signal ugrađuje se između kontrolnoga svjetlosnog signala i prijelaza na pružnoj dionici na kojoj vlak ima zadržavanje između kontrolnoga svjetlosnog signala i prijelaza. Prije polaska vlaka pomoćni kontrolni svjetlosni signal mora biti uključen.
+(13) Pomoćni kontrolni svjetlosni signal signalizira iste signalne znakove kao 

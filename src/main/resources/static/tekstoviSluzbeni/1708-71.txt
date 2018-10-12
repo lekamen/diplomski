@@ -1,0 +1,40 @@
+u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+16. RASHODI
+UVOD
+16.1. Cilj ovog standarda je propisati kriterije primjenjive za priznavanje, mjerenje i objavljivanje rashoda u financijskim izvještajima subjekata koji primjenjuju ove standarde.
+16.2. Ovaj standard je u skladu s Direktivom 2013/34/EU.
+DEFINICIJE
+16.3. Rashodi – su smanjenja ekonomskih koristi kroz obračunsko razdoblje u obliku odljeva ili iscrpljenja imovine ili stvaranja obveza što za posljedicu ima smanjenje kapitala, osim onog u svezi s raspodjelom sudionicima u kapitalu.
+16.4. Tečajna razlika – je razlika koja proizlazi iz svođenja jednakog broja jedinica jedne valute u drugu po različitim tečajevima.
+16.5. Troškovi posudbe – su kamate i drugi troškovi koji nastanu kod poduzetnika u svezi s posudbom izvora imovine.
+16.6. Rezerviranje je obveza čija je priroda jasno određena i za koju je na datum bilance vjerojatno ili sigurno da će nastati ali postoji neizvjesnost u pogledu iznosa ili datuma kada će nastati. Rezerviranje se ne koristi za usklađivanje vrijednosti imovine.
+16.7. Štetni ugovor – jest ugovor u kojem neizbježni troškovi ispunjenja obveze prema tom ugovoru prelaze ekonomske koristi koje se od njega očekuju.
+16.8. Ugovor o izgradnji – je ugovor posebno sklopljen za izgradnju neke imovine ili skupine imovine koja su međusobno usko povezana ili međuovisna po nacrtu, tehnologiji i funkciji ili konačnoj namjeni ili upotrebi.
+16.9. Troškovi popravaka i održavanja – dugotrajne materijalne imovine su troškovi redovnog održavanja koji se priznaju kao rashod u računu dobiti i gubitka u razdoblju u kojem su nastali.
+16.10. Vrijednosno usklađivanje – znači usklađivanja kojima je namjera uzeti u obzir promjenu vrijednosti pojedine imovine utvrđene s datumom bilance, neovisno o tome je li promjena konačna ili ne.
+SADRŽAJ
+16.11. Ovaj standard se treba primijeniti pri objavljivanju i prezentiranju rashoda u financijskim izvještajima poduzetnika koji primjenjuju Hrvatske standarde financijskog izvještavanja. U ovom standardu obuhvaćeni su rashodi koji nastaju iz transakcija i poslovnih događaja, a svrstani su u:
+          • poslovne rashode
+          • financijske rashode.
+PRIZNAVANJE
+16.12. Rashodi se priznaju u računu dobiti i gubitka kada smanjenje budućih ekonomskih koristi proizlazi iz smanjenja imovine ili povećanja obveza i koje se može pouzdano izmjeriti. To znači da se priznavanje rashoda pojavljuje istodobno s priznavanjem povećanja obveza ili smanjenja imovine.
+16.13. Rashodi se priznaju u računu dobiti i gubitka na temelju izravne povezanosti između nastalih troškova i određene stavke prihoda. Ovaj proces se obično naziva sučeljavanje rashoda s prihodima, uključuje istodobno ili kombinirano priznavanje prihoda i rashoda koji proizlazi izravno ili zajednički iz istih transakcija ili drugih događaja, primjerice, razni elementi rashoda koji čine trošak prodanih proizvoda priznaju se istodobno kad i prihod od prodaje proizvoda.
+16.14. Rashod se odmah priznaje u računu dobiti i gubitka kada neki izdatak ne stvara buduće ekonomske koristi, ili u razmjeru u kojem buduće ekonomske koristi nisu takve, ili su prestale biti takve, da se kvalificiraju za priznavanje u bilanci kao imovina.
+16.15. Rashod se također priznaje u računu dobiti i gubitka u onim slučajevima kada je obveza nastala bez priznavanja imovine, primjerice kada se pojavi obveza po garanciji za proizvod.
+MJERENJE
+Poslovni rashodi
+16.16. Poduzetnik će u Računu dobiti i gubitka u okviru poslovnih rashoda iskazati najmanje sljedeće pozicije:
+a) materijalni i ostali vanjski troškovi
+i. troškovi sirovina i materijala
+ii. troškovi prodane robe
+iii. ostali vanjski troškovi
+b) troškovi osoblja
+i. nadnice i plaće
+ii. troškovi poreza, socijalnog i mirovinskog osiguranja i drugo
+c) amortizacija
+d) ostali troškovi
+e) vrijednosno usklađivanje dugotrajne imovine
+f) vrijednosno usklađivanje kratkotrajne imovine
+g) rezerviranja
+h) ostali poslovni rashodi.
+16.17.

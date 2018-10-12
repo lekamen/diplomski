@@ -1,0 +1,21 @@
+ propisano je da u slučaju kada operator javnih komunikacijskih usluga nije u mogućnosti ispuniti ugovornu obvezu u skladu s općim uvjetima poslovanja, pretplatnik ima pravo na raskid pretplatničkog ugovora bez podmirivanja ugovornih obveza iz stavka 5. ovoga članka, osim dospjelog dugovanja za pružene usluge.
+Odredbom članka 42. stavka 1. navedenog Zakona propisano je da su operatori javnih komunikacijskih usluga obvezni izraditi jasne, čitljive i sveobuhvatne opće uvjete poslovanja, kojima se osobito utvrđuje sljedeće:
+1. naziv i sjedište operatora,
+2. usluge koje se pružaju, što osobito obuhvaća sljedeće:
+– vrste i opis usluga koje pružaju, uključujući i temeljne tehničke značajke te vrijeme uspostave priključka,
+– podatke o mogućnosti besplatnog biranja jedinstvenog europskog broja za hitne službe 112 i drugih pozivnih brojeva za pristup hitnim službama, o mogućnostima osiguravanja podataka o lokaciji s koje je upućen poziv prema tim brojevima te o ograničenjima poziva na te brojeve,
+– odredbe o svim drugim uvjetima ograničavanja pristupa i uporabe usluga i aplikacija,
+– odredbe o najmanjoj razini kakvoće ponuđenih usluga, u skladu s pokazateljima kakvoće usluga propisanima pravilnikom iz članka 34. ovoga Zakona,
+– podatke o postupcima mjerenja i oblikovanja elektroničkog komunikacijskog prometa, kojima se izbjegavaju zagušenja u mreži operatora,
+– odredbe o službi održavanja i službi za korisnike usluga te o načinima kontaktiranja tih služba, što uključuje najmanje jedan besplatan broj službe za korisnike usluga, za potrebe vlastitih krajnjih korisnika usluga,
+– podatke o svim ograničenjima u uporabi terminalne opreme u mreži operatora,
+– podatke o mjerama operatora u slučaju incidenata vezanih uz sigurnost ili cjelovitost mreže i usluga operatora, ili u slučaju ugroženosti i osjetljivosti mreže operatora,
+– odredbe o postupanju u slučaju zlouporabe mreže operatora s obzirom na nezakonito postupanje i širenje štetnog sadržaja,
+– odredbe o zaštiti od rizika za osobnu sigurnost te o zaštiti u slučaju zlouporabe privatnosti i/ili osobnih podataka,
+3. način i uvjeti zasnivanja, trajanja, prijenosa, obnavljanja, raskidanja i prestanka pretplatničkog odnosa, uključujući i naknade za raskid ugovora prije isteka obveznog trajanja ugovora,
+4. odredbe o naknadama i povratu sredstava koje se primjenjuju u slučajevima kada nisu zadovoljene ugovorene razine kakvoće usluge, ili kada je operator svojom pogreškom onemogućio korištenje usluga,
+5. odredbe o načinu pokretanja postupaka za rješavanje prigovora krajnjih korisnika usluga, uključujući i postupke za rješavanje sporova, iz članka 50. i 51. ovoga Zakona,
+6. odredbe o postupku u slučaju nepodmirenja dugovanja za pružene usluge.
+Odredbom članka 16. stavka 1. točke 5. Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga (»Narodne novine«, broj: 154/11. i 149/13.) propisano je da operator javnih komunikacijskih usluga može privremeno isključiti pretplatničku telekomunikacijsku terminalnu opremu iz javne elektroničke komunikacijske mreže ako utvrdi da je ispunjen bilo koji od sljedećih uvjeta, i to da pretplatnik nije podmirio dospjelo dugovanje za obavljene elektroničke komunikacijske usluge u roku od 30 dana od dana dostavljanja opomene s naznakom privremenog isključenja u slučaju nepodmirivanja dugovanja u određenom roku, a nije podnio prigovor na iznos kojim je zadužen, u skladu s odredbama Zakona i propisa donesenih na temelju Zakona.
+Stavkom 2. navedenog članka Pravilnika propisano je da je operator javnih komunikacijskih usluga, u slučaju kada su ispunjeni uvjeti iz stavka 1. ovog članka, obvezan u najkraćem mogućem roku obavijestiti krajnjeg korisnika o razlozima koji su doveli do privremenog isključenja.
+Stavkom 3. navedenog članka Pravilnika propisano je da operator javnih komunikacijskih usluga ima pravo u svojim općim uvjetima poslovanja utvrditi i druge razloge, osim razloga navedenih u stavku 1. ovog članka, zbog kojih se može

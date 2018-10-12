@@ -1,0 +1,30 @@
+ rad, održavanje, preglede, provjeru ispravnog rada, a ako je potrebno i popravak opreme ili zaštitnog sustava, zajedno sa svim korisnim uputama posebno s obzirom na sigurnost.
+c) Dokumentacija opreme ili zaštitnih sustava ne smije biti u suprotnosti s uputama za upotrebu kada se radi o sigurnosti.
+1.1. Izbor materijala
+1.1.1. Uzimajući u obzir predvidiva radna opterećenja, materijali upotrijebljeni za izradu opreme i zaštitnih sustava ne smiju izazvati eksploziju.
+1.1.2. Unutar ograničenih radnih uvjeta što ih je utvrdio proizvođač ne smije biti moguća reakcija između upotrijebljenog materijala i sastojaka potencijalno eksplozivne atmosfere koja bi mogla smanjiti zaštitu od eksplozije.
+1.1.3. Materijal mora biti tako odabran da promjena svojstava koja se mogu predvidjeti i njihov utjecaj u kombinaciji s drugim materijalima neće prouzročiti smanjenje zahtijevane zaštite; posebno treba uzeti u obzir koroziju i otpornost presvlake, električnu vodljivost, mehaničku čvrstoću, otpornost na starenje i učinak temperaturnih promjena.
+1.2. Projektiranje i izrada
+1.2.1. Oprema i zaštitni sustavi moraju biti projektirani i izrađeni u skladu s tehnološkim saznanjima protueksplozijske zaštite tako da mogu sigurno raditi za vrijeme predviđenog vremena uporabe.
+1.2.2. Komponente upotrijebljene u opremi ili zaštitnim sustavima, ili koje će se upotrijebiti za zamjenu, moraju biti tako projektirane i izrađene da instalirane u skladu s uputama proizvođača sigurno funkcioniraju prema svojoj namjeni s obzirom na protueksplozijsku zaštitu.
+1.2.3. Zatvorene strukture i sprečavanje ispuštanja
+Za opremu koja može ispuštati zapaljive plinove ili prašine moraju se, gdje god je to moguće, primijeniti samo zatvorene strukture.
+Ako ta oprema sadrži otvore ili propusne spojeve, oni moraju, koliko je to moguće, biti projektirani tako da ispušteni plinovi ili prašina izvan nje ne može formirati eksplozivnu atmosferu.
+Mjesta kroz koja se materijal unosi ili iznosi moraju biti, koliko je to moguće, izvedena i opremljena tako da za vrijeme punjenja ili pražnjenja ograničavaju ispuštanje zapaljivih materijala.
+1.2.4. Taloženje prašine
+Oprema i zaštitni sustavi namijenjeni uporabi u prostorima izloženim prašini moraju biti projektirani tako da nataložena prašina na njihovoj površini ne može biti zapaljena.
+Općenito, taloženje prašine po mogućnosti mora biti ograničeno. Oprema i zaštitni sustavi se moraju lako čistiti.
+Površinska temperatura dijelova opreme mora biti održavana ispod temperature tinjanja nataložene prašine.
+Debljina sloja nataložene prašine mora biti uzeta u obzir i ako je potrebno moraju se koristiti sredstva za ograničenje temperature u smislu sprečavanja povećanog zagrijavanja.
+1.2.5. Dodatna sredstva zaštite
+Oprema i zaštitni sustavi koji mogu biti izloženi određenim vrstama opterećenja izvana moraju biti opremljeni dodatnim sredstvima zaštite.
+Oprema i zaštitni sustavi moraju izdržati odgovarajuća opterećenja kojima su izloženi bez utjecaja na protueksplozijsku zaštitu.
+1.2.6. Otvaranje bez opasnosti
+Ako su oprema i zaštitni sustavi u kućištu ili u zaključanom kontejneru koji čine dio protueksplozijske zaštite, otvaranje takvih kućišta ili kontejnera mora biti omogućeno samo pomoću posebnog alata ili sredstvima odgovarajućih zaštitnih mjera.
+1.2.7. Zaštita od drugih opasnosti
+Oprema i zaštitni sustavi moraju biti tako projektirani i proizvedeni da se:
+a) izbjegnu fizičke ozljede ili druga oštećenja koja mogu biti izazvana posrednim ili neposrednim dodirom,
+b) osigura da ne dođe do površinske temperature dostupnih dijelova ili zračenja koji bi mogli prouzročiti opasnost;
+c) odstrane neelektrične opasnosti uočene iskustveno;
+d) osigura da predvidivi uvjeti preopterećenja ne dovedu do opasnih situacija.
+Ako su opasnosti navedene u ovoj točki za opremu i zaštitne sustave u cijelosti ili djelomično obuhvaćene drugim zakonodavstvom Europske unije ovaj se Pravilnik ne primjenjuje ili se prestaje primjenjivati, u slučaju takvih opasnosti i takve opreme

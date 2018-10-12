@@ -1,0 +1,14 @@
+ nalaze na ulazu/izlazu koje kontrolira pristup i/ili osiguravaju točno plaćanje
+– usluge distribucije elektroničkih trajnih medija ili računalnih programa na tim medijima
+– usluge koje se ne pružaju putem sustava elektroničke obrade/pohranjivanja:
+(a) usluge glasovne telefonije
+(b) usluge telefaksa
+(c) usluge koje se pružaju glasovnom telefonijom ili telefaksom
+(d) liječničke konzultacije telefonom/telefaksom
+(e) konzultacije odvjetnika telefonom/telefaksom
+(f) izravno kupovanje telefonom/telefaksom.
+3. Usluge koje se ne pružaju »na osobni zahtjev primatelja usluga«
+Usluge koje se pružaju prijenosom podataka bez da simultani primitak osobno traži neograničeni broj individualnih primatelja (transmisija s jedne točke na više točaka):
+(a) usluge televizijskog emitiranja (uključujući video usluge na zahtjev)
+(b) usluge radijskog emitiranja
+(c) teletekst (televizijski emitiran).

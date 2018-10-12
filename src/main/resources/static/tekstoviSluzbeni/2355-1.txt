@@ -1,0 +1,40 @@
+ Republike/predsjednika Vlade);
+– stručne podloge/analize (stručna uputa, stručna studija, istraživanje, priručnik, projektni dokument, elaborat, procjena);
+– promotivne dokumente (vodič, tekst u obliku letka i/ili brošure, katalog);
+– prijevode službenih dokumenata Europske unije i međunarodnih organizacija.
+(2) Dokumente iz stavka 1. ovog članka tijela javne vlasti dužna su bez odgađanja dostaviti u Središnji katalog, a najkasnije u roku od 5 dana od dana izrade dokumenta odnosno njegove objave na internetu.
+(3) Iznimno od odredbe stavka 1. ovog članka, dokumenti objavljeni u službenom glasilu Republike Hrvatske odnosno službenom glasilu jedinice lokalne i područne (regionalne) samouprave, smatraju se uredno dostavljenima u Središnji katalog. Dostava službenih glasila obveza je tijela javne vlasti koje je izdavač službenog glasila.
+Članak 9.
+Dokumente iz članka 8. ovog Pravilnika tijela javne vlasti dužna su dostavljati u Središnji katalog u elektroničkom obliku.
+Članak 10.
+Za dostavu dokumenata nadležan je službenik za informiranje u tijelu javne vlasti imenovan u skladu s člankom 13. Zakona.
+V. NAČIN VOĐENJA SREDIŠNJEGA KATALOGA
+Članak 11.
+(1) Ured vodi Središnji katalog u elektroničkom obliku u skladu s međunarodnim preporukama i normama te nacionalnim pravilnicima za opis dokumenata i publikacija.
+(2) Ured dostavljene dokumente pohranjuje u digitalni arhiv (elektronička zbirka) i/ili fizičke zbirke i formalno i sadržajno ih obrađuje. Dinamika obrade dokumenata određuje se sukladno njihovoj vrsti odnosno ulozi u odnosu na zainteresiranu javnost.
+(3) Ured razvija normativne baze podataka (pojmovnik, osobna imena, klasifikacije) za potrebe formalne i sadržajne obrade kako bi se strukturiranjem i standardizacijom podataka omogućila njihova semantička organizacija i prezentacija.
+(4) Korištenje hrvatskoga izdanja Pojmovnika Eurovoc izravna je primjena standarda Europske unije za sadržajnu obradu službene dokumentacije čime se ostvaruje povezanost hrvatske i europske službene dokumentacije na sadržajnoj razini.
+Članak 12.
+Ured vodi i održava baze podataka i trajno razvija programsku podršku s ciljem ostvarivanja što većeg stupnja automatizacije u stvaranju elektroničkih zbirki i njihove obrade.
+Članak 13.
+Ured putem svoje internetske stranice, u svrhu komuniciranja s tijelima javne vlasti i javnošću, objavljuje informacije, upute i preporuke vezane za izradu i dostavu službenih dokumenata u Središnji katalog, načine njegovog pretraživanja te odabir skupova podataka iz Središnjeg kataloga za njihovu ponovnu uporabu.
+VI. DOSTUPNOST I KORIŠTENJE SREDIŠNJEGA KATALOGA
+Članak 14.
+(1) Središnji katalog se objavljuje na internetskim stranicama Ureda.
+(2) Dostupnost se ostvaruje otvorenim, elektroničkim sučeljem koje zadovoljava zahtjeve osoba s posebnim potrebama sukladno preporukama World Wide Web Consortium (W3C).
+Članak 15.
+Dokumente dostupne putem Središnjeg kataloga moguće je pregledavati, ispisivati i preuzimati.
+Članak 16.
+Kompatibilnost i razmjena podataka Središnjeg kataloga sa srodnim sustavima na nacionalnoj i međunarodnoj razini osigurava se primjenom međunarodnih standarda.
+VII. ČUVANJE I ZAŠTITA DOKUMENATA I PODATAKA
+Članak 17.
+Dostavljeni dokumenti čuvaju se na način koji ih osigurava od neovlaštenog pristupa, brisanja, mijenjanja, oštećenja ili gubitka u skladu s važećim propisima o mjerama informacijske sigurnosti i važećim međunarodnim standardima
+VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 18.
+Stupanjem na snagu ovog Pravilnika, prestaje važiti Pravilnik o Središnjem katalogu službenih dokumenata Republike Hrvatske (»Narodne novine« broj 83/14).
+Članak 19.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/15-01/136
+Urbroj: 515-03-02/1-15-3
+Zagreb, 6. studenoga 2015.
+Ministar Arsen Bauk, v. r.

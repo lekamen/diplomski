@@ -1,0 +1,44 @@
+ regulacijsku godinu t prema formuli:
+
+gdje je:
+TU,UPP – tarifna stavka za ulaz iz terminala za UPP u regulacijskoj godini t (kn/kWh/dan),
+TU,IN – tarifna stavka za ulaz na interkonekciji u regulacijskoj godini t (kn/kWh/dan),
+kUPP – koeficijent sigurnosti za ulaz iz terminala za UPP.«.
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+Dosadašnji stavak 7. koji postaje stavak 8. mijenja se i glasi:
+»(8) Koeficijent sigurnosti za ulaz iz proizvodnje (kPR) iz stavaka 1. i 2. ovoga članka iznosi 0,90, koeficijent sigurnosti za ulaz iz sustava skladišta plina (kSK) iz stavaka 1. i 3. ovoga članka 0,10, koeficijent sigurnosti za ulaz iz terminala za UPP (kUPP) iz stavaka 1. i 4. ovoga članka 0,90, a koeficijent sigurnosti za izlaz u Hrvatskoj (kHR) iz stavaka 5. i 6. ovoga članka 0,15.«.
+Članak 4.
+Iza članka 31. dodaje se naslov i članak 31.a koji glase:
+»Koeficijenti za korištenje stalnog kapaciteta na tromjesečnoj razini
+Članak 31a.
+Koeficijenti za korištenje stalnog kapaciteta transportnog sustava na tromjesečnoj razini (KTM) (u daljnjem tekstu: koeficijenti za tromjesečni kapacitet) za svaki mjesec u pojedinom tromjesečju prikazani su u sljedećoj tablici:
+Tromjesečje Koeficijenti za tromjesečni kapacitet (KTM) Siječanj, veljača, ožujak 0,16 Travanj, svibanj, lipanj 0,10 Srpanj, kolovoz, rujan 0,09 Listopad, studeni, prosinac 0,15
+Članak 5.
+Naslov iznad članka 33. mijenja se i glasi:
+»Koeficijenti za korištenje stalnog kapaciteta na dnevnoj i unutardnevnoj razini«
+Članak 33. mijenja se i glasi:
+»(1) Koeficijenti za korištenje stalnog kapaciteta transportnog sustava na dnevnoj razini (KD) (u daljnjem tekstu: koeficijenti za dnevni kapacitet) jednaki su za sve dane tijekom pojedinog mjeseca i prikazani su u sljedećoj tablici:
+Mjesec u kojem se koristi stalni kapacitet transportnog sustava na dnevnoj razini Koeficijent za dnevni kapacitet (KD) Siječanj 0,0167 Veljača 0,0167 Ožujak 0,0167 Travanj 0,0100 Svibanj 0,0100 Lipanj 0,0067 Srpanj 0,0067 Kolovoz 0,0067 Rujan 0,0100 Listopad 0,0100 Studeni 0,0167 Prosinac 0,0167
+(2) Koeficijenti za korištenje stalnog kapaciteta transportnog sustava na unutardnevnoj razini (KUN) jednaki su koeficijentima za korištenje stalnog kapaciteta transportnog sustava na dnevnoj razini (KD) iz stavka 1. ovoga članka.«.
+Članak 6.
+Članak 34. mijenja se i glasi:
+»(1) Koeficijenti za korištenje prekidivog kapaciteta transportnog sustava na godišnjoj, tromjesečnoj i mjesečnoj razini (Kpr) (u daljnjem tekstu: koeficijenti za prekidivi kapacitet) vezani su uz utvrđeno trajanje prekida ugovorenog prekidivog kapaciteta u mjesecu, a prikazani su u sljedećoj tablici:
+Trajanje prekida (dana u mjesecu) Koeficijent za prekidivi kapacitet (Kpr) ≤3 0,80 >3 i ≤10 0,40 >10 i ≤25 0,10 > 25 0
+(2) Koeficijent za korištenje prekidivog kapaciteta na dnevnoj razini (Kpr,d) (u daljnjem tekstu: koeficijent za prekidivi dnevni kapacitet) i koeficijent za korištenje prekidivog kapaciteta na unutardnevnoj razini (Kpr,un) (u daljnjem tekstu: koeficijent za prekidivi unutardnevni kapacitet) iznosi:
+– 0,80 za plinski dan za koji nije utvrđen prekid ugovorenog dnevnog ili unutardnevnog prekidivog kapaciteta i
+– 0,10 za plinski dan za koji je utvrđen prekid ugovorenog dnevnog ili unutardnevnog prekidivog kapaciteta.«.
+Članak 7.
+Članak 35. briše se.
+Članak 8.
+U članku 36. stavci 3. i 4. mijenjaju se i glase:
+»(3) Iznos naknade za korištenje ugovorenog kapaciteta na ulazima u transportni sustav u mjesecu za pojedinog korisnika izračunava se prema formuli:
+
+gdje je:
+NU,kap – iznos naknade za korištenje ugovorenog kapaciteta na ulazima u transportni sustav u mjesecu (kn),
+Ω – vrsta ulaza u transportni sustav,
+IN – ulazi na interkonekcijama,
+PR – ulazi iz proizvodnje,
+SK – ulazi iz sustava skladišta plina,
+UPP – ulazi iz terminala za UPP,
+TU,Ω – iznos tarifne stavke za pojedinu vrstu ulaza u transportni sustav (kn/kWh/dan),
+kapΩ,g – suma ugovorenih stalnih kapaciteta za pojedinu vrstu ulaza u transportni sustav, na godišnjoj razini, za

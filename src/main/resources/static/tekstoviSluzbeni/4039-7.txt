@@ -1,0 +1,28 @@
+ prilaženja nastaje kad zrakoplov tijekom međufaze dostigne apsolutnu visinu ili visinu nadvisivanja prepreka od 164 stope. U toj fazi mora biti zadovoljen gradijent penjanja od najmanje 2.5%, uz odgovarajuće nadvisivanje prepreka, do točke s koje se može započeti ponovno prilaženje, postupak čekanja ili rutni let.
+Apsolutna visina ili visina nadvisivanja prepreka
+Članak 16.
+(1) Apsolutna visina odnosno visina nadvisivanja prepreka proračunava se na temelju prepreke u prilazu ili prepreke koja najviše zadire u površine neuspjelog prilaženja. U kartama za instrumentalno prilaženje apsolutna visina nadvisivanja prepreka utvrđena je u odnosu na srednju razinu mora (OCA), a visina nadvisivanja prepreka u odnosu na nadmorsku visinu aerodroma (OCH).
+(2) Za potrebe izvođenja postupaka preciznog prilaženja visine iz stavka 1. ovoga članka utvrđuju se u odnosu na nadmorsku visinu praga.
+(3) Ovisno o osobinama postupka nepreciznog prilaženja (npr. VOR, NDB, SRA, ILS s GP izvan uporabe), odnosno postupka preciznog prilaženja (npr. ILS, PAR, MLS), apsolutne visine odnosno visine nadvisivanja prepreka utvrđuju se za:
+1. neprecizno prilaženje s utvrđenim preletištem završnog prilaženja (FAF); na najmanje 246 stopa (75 m) iznad najviše prepreke
+2. neprecizno prilaženje bez utvrđenog preletišta završnog prilaženja (FAF); na najmanje 295 stopa (90 m) iznad najviše prepreke i za
+3. precizno prilaženje; na najmanje visinu najviše prepreke u području završnog prilaženja ili najviše ekvivalentne prepreke, u području neuspjelog prilaženja plus vrijednost gubitka visine prema sljedećoj tablici:
+Tablica 2. Gubitak visine izmjeren radio ili barometarskim visinomjerom
+Kategorija zrakoplova          Vrijednost gubitka visine izmjerena radio visinomjerom Vrijednost gubitka visine izmjerena barometarskim visinomjerom Vat m ft m ft A-169 km/h (90 kt) 13 42 40 130 B-223 km/h (120 kt) 18 59 43 142 C-260 km/h (140 kt) 22 71 46 150 D-306 km/h (165 kt) 26 85 49 161 H-167 km/h (90 kt) 8 25 35 115
+(4) Vrijednosti navedene u tablici iz stavka 3. ovoga članka, temelje se na sljedećim normiranim uvjetima:
+1. uporaba barometarskog visinomjera kod ILS Cat I prilaženja
+2. uporaba radiovisinomjera i sustava za upravljanje letom (flight director system) ili autopilota kod ILS Cat II prilaženja
+3. raspon krila zrakoplova ne smije biti veći od 65 m, a vertikalna udaljenost između putanje podvozja zrakoplova u sletnoj konfiguraciji i antene putanje poniranja ne smije biti veća od 7 m i
+4. gradijent penjanja u neuspjelom prilaženju iznosi 2.5%.
+(5) Na temelju apsolutne visine ili visine nadvisivanja prepreka (OCA/H) operatori zrakoplova dužni su proračunavati minimume za slijetanje na način kako je prikazano u shemama u Dodacima 4 i 5 ovoga Pravilnika, i to:
+1. apsolutnu visinu ili visinu odluke (DA/H) za precizna prilaženja, odnosno
+2. minimalnu apsolutnu visinu snižavanja ili visinu snižavanja (Minimum Descent Altitude/Height-MDA/H), za neprecizna prilaženja.
+(6) Apsolutna visina ili visina nadvisivanja prepreka (OCA/H) za ILP na neinstrumentalnoj uzletno-sletnoj stazi (non-instrument runway), mora se odrediti na sljedeći način:
+1. Na OCA/H koji je određen sukladno PANS OPS standardima dodaje se minimalno vrijednost od 500 ft;
+2. OCA/H ne smije biti viši od visine vizualnog manevriranja-kruženja;
+3. Da između preletišta završnog prilaženja (final approach fix – FAF) i točke neuspjelog prilaženja (missed approach point – MAPt) ne postoji niti jedna putna točka (waypoint).
+(7) Kriteriji iz stavka 6. ovoga članka moraju se poštovati kako bi pilot mogao završiti ILP na određenoj visini po IFR pravilima i prebaciti se na letenje po VFR pravilima, te na taj način nastaviti vizualan prilaz za slijetanje.
+Vizualno manevriranje (kruženje)
+Članak 17.
+(1) Vizualno manevriranje (kruženje) je nastavak postupka instrumentalnog prilaženja koji omogućuje slijetanje zrakoplova na uzletno-sletnu stazu koja je neprikladno smještena za izravno prilaženje.
+(2) Područje vizualnog manevriranja

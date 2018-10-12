@@ -1,0 +1,37 @@
+136 18.12.2015 Odluka o uvjetima za otvaranje i funkcioniranje namjenskog novčanog računa (DCA) u sustavu TARGET-HR
+HRVATSKA NARODNA BANKA
+2564
+Na temelju članka 120. stavka 1. Zakona o platnom prometu (»Narodne novine«, br. 133/2009. i 136/2012.) i članka 42. stavka 3. točke 13. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.), Savjet Hrvatske narodne banke donosi
+ODLUKU
+O UVJETIMA ZA OTVARANJE I FUNKCIONIRANJE NAMJENSKOG NOVČANOG RAČUNA (DCA) U SUSTAVU TARGET2-HR
+GLAVA I. OPĆE ODREDBE
+Članak 1.
+Pravna podloga i predmet
+1. Hrvatska narodna banka je ugovorna strana u Sporazumu o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) te je prema tom sporazumu prihvatila Smjernicu Europske središnje banke ESB/2012/27 od 5. prosinca 2012. o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) kako je posljednji put mijenjana Smjernicom Europske središnje banke ESB/2015/15 od 2. travnja 2015.
+2. U skladu sa Smjernicom iz stavka 1. ovog članka ovom se Odlukom uređuje odnos između Hrvatske narodne banke i imatelja DCA-a glede otvaranja i funkcioniranja DCA-a.
+Članak 2.
+Dodaci
+1. Sastavni dio ove Odluke čine sljedeći dodaci:
+Dodatak I.: Parametri namjenskih novčanih računa (DCA) – tehničke specifikacije
+Dodatak II.: Program za naknadu štete u sustavu TARGET2 u vezi s otvaranjem i funkcioniranjem DCA-a
+Dodatak III.: Referentni okvir za mišljenja o sposobnosti i o državi
+Dodatak IV.: Postupak neprekinutog poslovanja i postupak pri nepredvidivim događajima
+Dodatak V.: Raspored rada
+Dodatak VI.: Popis naknada
+Dodatak VII.: Mjerila za pristup.
+2. Ovlašćuje se guverner Hrvatske narodne banke za donošenje dodataka iz stavka 1. ovog članka.
+3. Dodaci iz stavka 1. ovog članka objavljuju se na internetskim stranicama Hrvatske narodne banke.
+4. U slučaju bilo koje proturječnosti ili nedosljednosti između sadržaja bilo kojeg dodatka i sadržaja bilo koje odredbe ove Odluke, ova Odluka ima prednost.
+5. Ova Odluka zajedno s dodacima iz stavka 1. ovog članka predstavlja opće uvjete za otvaranje i funkcioniranje namjenskog novčanog računa (DCA) u sustavu TARGET2-HR.
+6. Ova Odluka i njezini dodaci zajedno s Odlukom o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR i njezinim dodacima, Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR korištenjem internetskog pristupa i njezinim dodacima i Odlukom o postupcima namire za sporedne sustave čine Pravila rada sustava TARGET2-HR.
+Članak 3.
+Definicije
+Za potrebe ove Odluke primjenjuju se sljedeće definicije:
+1) »četiri središnje banke« znači Deutsche Bundesbank, Banque de France, Banca d’Italia i Banco de España u njihovu svojstvu središnjih banaka, koje oblikuju platformu sustava T2S i upravljaju njome u korist Eurosustava;
+2) »A2A« ili »aplikacija-do-aplikacije« znači način povezivanja koji omogućuje imatelju DCA-a razmjenu informacija s programskom aplikacijom platforme sustava T2S;
+3) »dostupna likvidnost« znači potražni saldo na DCA-u umanjen za iznos provedenih rezervacija likvidnosti ili provedene blokade sredstava;
+4) »glavni PM račun« znači PM račun s kojim je DCA povezan i na koji se na kraju dana automatski vraća svaki preostali saldo;
+5) »ISO kôd zemlje« znači kôd utvrđen ISO standardom br. 3166-1;
+6) »jedinstvena zajednička platforma (SSP)« znači infrastruktura jedinstvene tehničke platforme koju pružaju nacionalne središnje banke pružatelji SSP-a;
+7) »komponenta sustava TARGET2« znači svaki sustav namire u realnom vremenu na bruto načelu (sustav RTGS) središnjih banaka koji čini dio sustava TARGET2;
+8) »kreditna institucija« znači: (a) kreditna institucija u smislu članka 4. stavka 1. točke 1. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe

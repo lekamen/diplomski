@@ -1,0 +1,52 @@
+ (od 20 do 27 °C) u zatvorenoj vlažnoj komori.
+9. Test se može očitati nakon 24 i nakon 48 sati, ali konačni se rezultat ne dobiva prije isteka 72 sata:
+a) test serum je pozitivan ako stvara specifičnu precipitinsku liniju s antigenom virusa enzootske leukoze goveda (BLV), a cjelovitu identifikacijsku liniju s kontrolnim serumom,
+b) serum je testa negativan ako ne stvara specifičnu precipitinsku liniju s antigenom BLV i ako ne iskrivljuje liniju kontrolnog seruma,
+c) reakcija se ne može smatrati relevantnom (konačnom) ako:
+– liniju kontrolnog seruma iskrivljuje prema antigenu BLV bez stvaranja vidljive precipitinske linije s antigenom
+ili
+– ako se ne može očitati ni kao pozitivna ni kao negativna.
+U sumnjivim reakcijama test se može ponoviti i koristiti koncentrirani serum.
+10. Može se koristiti i svaka druga dobra konfiguracija ili obrazac koja osigurava da se E05 serum razrijeđen 1:10 u negativnom serumu prepoznaje kao pozitivan.
+B. Metoda za normizaciju antigena
+Potrebne otopine i materijal
+1. 40 ml 1,6% agarose u puferiranom 0,05 M Tris/HCl, pH 7,2 sa 8,5% NaCl;
+2. 15 ml seruma leukoze goveda, koji ima antitijela samo za virus glikoproteina leukoze goveda, razrijeđen 1:10 u puferiranom 0,05 M Tris/HCl, pH 7,2 s 8,5% NaCl;
+3. 15 ml seruma leukoze goveda, koji ima antitijela samo na virus glikoproteina leukoze goveda, razrijeđen 1:5 u puferiranom 0,05 M Tris/HCl, pH 7,2 s 8,5% NaCl;
+4. četiri plastične Petrijeve posudice promjera 85 mm;
+5. punch promjera od 4 do 6 mm;
+6. referentni antigen;
+7. antigen koji se mora normirati;
+8. vodena kupka (56 °C).
+Postupak
+Razrijediti agarosu (1,6%) u puferiranom Tris/HCl pažljivo zagrijavajući do 100 °C. Staviti u vodenu kupku 56 °C na otprilike sat vremena. Također staviti razrijeđeni serum leukoze goveda u vodenu kupku 56 °C. Zatim izmiješati 15 ml otopine agarose na 56 °C agarose s 15 ml seruma leukoze goveda (1:10), brzo protresti i uliti 15 ml u svaku od dvije Petrijeve posudice. Ponovite postupak sa serumom leukoze goveda razrijeđen 1:5. Kad se agarosa stvrdne u njoj se naprave rupice kako slijedi:
+
+Dodatak antigena
+(i) Petrijeve posudice 1 i 3:
+bunarčić A – nerazrijeđen reference antigen
+bunarčić B – 1:2 razrijeđen reference antigen
+bunarčići C i E – referentni antigen
+bunarčić D – nerazrijeđen test antigen.
+(ii) Petrijeve posudice 2 i 4:
+bunarčić A – nerazrijeđen test antigen
+bunarčić B – 1:2 razrijeđen test antigen
+bunarčić C – 1:4 razrijeđen test antigen
+bunarčić D – 1:8 razrijeđen test antigen.
+Dodatni naputci
+1. Pokus se provodi s dva razrjeđenja seruma (1:5 i 1:10), kako bi se postigla optimalna precipitacija.
+2. Ako je promjer precipitacije premalen u slučaju oba razrjeđenja, tada se serum mora dodatno razrijediti.
+3. Ako je promjer precipitacije u oba razrjeđenja prevelik i slabo vidljiv, odabire se serum nižeg razrjeđenja
+4. Konačna koncentracija agarose mora biti 0,8%; odnosno 5 i 10% seruma.
+5. Unesite izmjerene promjere u ovaj koordinatni sustav. Razrjeđenje antigena kojeg treba testirati s istim promjerom kao i referentni antigen je radno razrjeđenje.
+
+C. Imunoenzimski test »Enzyme-Linked Immunosorbent Assay« (ELISA) za otkrivanje enzootske leukoze goveda
+1. Materijal i reagensi koje treba koristiti:
+a) mikropločice čvrste faze, cjevčice ili neka druga čvrsta faza,
+b) antigen se fiksira na čvrstu fazu sa ili bez poliklonalnih ili monoklonalnih »catching« antitijela. Ako antigen čvrstu fazu izravno obloži, svi uzorci testa koji imaju pozitivnu reakciju moraju se ponovno testirati na kontrolni antigen.. Kontrolni antigen treba biti istovjetan antigenu, osim u slučaju kada nema prisutnosti BLV antigena. Ako »catching« antitijela oblože čvrstu fazu, antitijela ne smiju reagirati na antigene osim BLV antigena,
+c) biološka tekućina koju treba testirati,
+d) odgovarajuća pozitivna i negativna kontrola,
+e) konjugat,
+f) supstrat prilagođen korištenom enzimu,
+g) stopping otopina, ako je potrebna,
+h) otopine za razrjeđivanje uzoraka testa za pripremu reagensa i za ispiranje
+i)

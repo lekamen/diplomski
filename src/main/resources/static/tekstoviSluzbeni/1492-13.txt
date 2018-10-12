@@ -1,0 +1,24 @@
+ financijske izvještaje ako se u grupi osim matičnog društva nalaze samo društva kćeri iz stavka 6. ovoga članka ili ako su ispunjeni uvjeti propisani Hrvatskim standardima financijskog izvještavanja za matična društva koja su obveznici primjene Hrvatskih standarda financijskog izvještavanja.
+(9) Detaljniji uvjeti i pravila konsolidacije godišnjih financijskih izvještaja uređeni su Hrvatskim standardima financijskog izvještavanja.
+(10) Iznimno od stavka 9. ovoga članka, detaljni uvjeti i pravila konsolidacije godišnjih financijskih izvještaja poduzetnika koji su dužni sastavljati i prezentirati godišnje financijske izvještaje sukladno članku 17. stavku 3. ovoga Zakona uređeni su Međunarodnim standardima financijskog izvještavanja.
+Konsolidirano godišnje izvješće
+Članak 24.
+Na konsolidirano godišnje izvješće na odgovarajući se način primjenjuju odredbe članka 21. ovoga Zakona koje se odnose na godišnje izvješće s time da konsolidirano izvješće poslovodstva mora sadržavati i sljedeće:
+1. u dijelu koji se odnosi na podatke o vlastitim dionicama, broj i nominalni iznos ili, ako nominalni iznos ne postoji, knjigovodstvenu vrijednost svih dionica matičnog društva koje drži matično društvo, njegova društva kćeri ili osoba koja ih drži u svoje ime i za račun tih poduzetnika
+2. u dijelu koji se odnosi na sustave unutarnjih kontrola i upravljanja rizicima, izjava o primjeni kodeksa korporativnog upravljanja mora sadržavati glavne elemente sustava unutarnjih kontrola i upravljanja rizicima poduzetnika koji su obuhvaćeni konsolidacijom, promatranog kao cjelina.
+Izuzeća od konsolidacije
+Članak 25.
+(1) Matična društva nisu dužna sastavljati konsolidirane godišnje financijske izvještaje za male grupe osim onih matičnih društava čije male grupe uključuju subjekte od javnog interesa.
+(2) Obvezi sastavljanja konsolidiranih godišnjih financijskih izvještaja i konsolidiranoga godišnjeg izvješća ne podliježe matično društvo u Republici Hrvatskoj, uključujući i subjekta od javnog interesa ako su ispunjeni svi sljedeći uvjeti:
+1. matično društvo nije izdavatelj financijskih instrumenata uvrštenih na uređenom tržištu države članice u smislu kako je definirano zakonom kojim se uređuje tržište kapitala
+2. matično društvo je pod kontrolom matičnog društva koje podliježe zakonima druge države članice
+3. matično društvo je u 100-postotnom vlasništvu drugog matičnog društva pri čemu se ne uzima u obzir vlasništvo koje drže članovi njegovih upravljačkih ili nadzornih tijela izuzetog matičnog društva u skladu sa zakonskom obvezom ili obvezom u osnivačkom aktu ili statutu društva. Ako je matično društvo u 90-postotnom i većem vlasništvu, izuzeće od sastavljanja konsolidiranih financijskih izvještaja podliježe odobrenju svih preostalih članova društva
+4. matično društvo će zajedno sa svim svojim društvima kćerima, osim onih društava koja sukladno propisima ne ulaze u konsolidaciju, biti konsolidirano u konsolidiranim financijskim izvještajima drugog matičnog društva koje podliježe zakonima druge države članice
+5. matično društvo sastavlja konsolidirani godišnji financijski izvještaj iz točke 4. ovoga stavka i konsolidirano izvješće poslovodstva u skladu s propisima države članice u kojoj se nalazi ili Međunarodnim standardima financijskog izvještavanja
+6. matično društvo će objaviti konsolidirane godišnje financijske izvještaje, konsolidirano izvješće poslovodstva drugog matičnog društva i pripadajuće revizorsko izvješće sukladno odredbama ovoga Zakona o javnoj objavi u izvorniku
+7. bilješke uz financijske izvještaje matičnog društva sadržavaju:
+a) naziv i sjedište matičnog društva koje sastavlja konsolidirane godišnje financijske izvještaje iz točke 4. ovoga stavka i
+b) navod o izuzeću od obveze sastavljanja konsolidiranih godišnjih financijskih izvještaja, odnosno konsolidiranog izvješća poslovodstva.
+Jezik i valutna jedinica
+Članak 26.
+(1) Poslovne knjige, godišnji financijski izvještaji, konsolidirani godišnji financijski izvještaji, godišnja izvješća,

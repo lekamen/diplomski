@@ -1,0 +1,24 @@
+poduzetim popravnim radnjama.
+(8) Uvoznik je obvezan u razdoblju od deset godina od dana stavljanja uređaja na tržište čuvati presliku EU izjave o sukladnosti kako bi bila na raspolaganju nadležnom inspekcijskom tijelu, te osigurati da tehnička dokumentacija bude raspoloživa tom tijelu na njegov zahtjev.
+(9) Na obrazloženi zahtjev nadležnog nacionalnog tijela uvoznik je obvezan dostaviti tom tijelu sve podatke i dokumente nužne za dokazivanje sukladnosti uređaja s ovim Pravilnikom, u papirnatom ili elektroničkom obliku, na jeziku lako razumljivom tom tijelu. Uvoznik je obvezan surađivati s tim tijelom, na njegov zahtjev, u svakoj radnji poduzetoj u svrhu uklanjanja rizika koje predstavlja uređaj što ga je uvoznik stavio na tržište.
+Obveze distributera
+Članak 10.
+(1) Distributer je obvezan, prigodom stavljanja uređaja na raspolaganje na tržištu, voditi računa o zahtjevima iz ovoga Pravilnika.
+(2) Distributer je obvezan, prije stavljanja uređaja na raspolaganje na tržištu, provjeriti nosi li uređaj propisanu oznaku CE, je li uz njega priložena potrebna dokumentacija, upute i drugi podaci iz članka 18. ovoga Pravilnika na hrvatskom jeziku i latiničnom pismu, te jesu li proizvođač i uvoznik zadovoljili zahtjeve iz članka 7. stavaka 5. i 6. i članka 9. stavka 4. ovoga Pravilnika.
+(3) Kad distributer smatra ili ima razloga vjerovati da uređaj nije u skladu s bitnim zahtjevima iz članka 6. ovoga Pravilnika, uređaj ne smije staviti na raspolaganje na tržištu sve dok se ne provede njegovo usklađivanje. Ako uređaj predstavlja rizik, distributer o tome obavješćuje proizvođača ili uvoznika te nadležno inspekcijsko tijelo.
+(4) Distributer je obvezan osigurati, dok je uređaj pod njegovom odgovornošću, da uvjeti skladištenja ili prijevoza uređaja ne ugrožavaju njegovu sukladnost s bitnim zahtjevima iz članka 6. ovoga Pravilnika.
+(5) Kad distributer smatra ili ima razloga vjerovati da uređaj, koji je stavio na raspolaganje na tržištu, nije u skladu s ovim Pravilnikom, obvezan je bez odgode poduzeti potrebne popravne radnje kako bi se taj uređaj uskladio, ili po potrebi povukao s tržišta, ili osigurao povrat od krajnjih korisnika. Ako uređaj predstavlja rizik, distributer je obvezan o tome bez odgode obavijestiti nadležna nacionalna tijela, uz navođenje pojedinosti, osobito o nesukladnosti i o svim poduzetim popravnim radnjama.
+(6) Na opravdani zahtjev nadležnog nacionalnog tijela distributer je obvezan dostaviti tom tijelu sve podatke i dokumente nužne za dokazivanje sukladnosti uređaja s ovim Pravilnikom, u papirnatom ili elektroničkom obliku, na jeziku lako razumljivom tom tijelu. Distributer je obvezan surađivati s tim tijelom, na njegov zahtjev, u svakoj radnji poduzetoj u svrhu uklanjanja rizika koje predstavlja uređaj što ga je distributer stavio na raspolaganje na tržištu.
+Slučajevi u kojima se obveze proizvođača primjenjuju na uvoznike i distributere
+Članak 11.
+Ako uvoznik ili distributer stavlja uređaj na tržište pod svojim imenom ili trgovačkim znakom, ili preinačuje uređaj koji je već stavljen na tržište, na takav način da to može utjecati na njegovu sukladnost s ovim Pravilnikom, smatrat će se proizvođačem u smislu ovoga Pravilnika te podliježe obvezama proizvođača iz članka 7. ovoga Pravilnika.
+Identifikacija gospodarskih subjekata
+Članak 12.
+(1) Gospodarski subjekti obvezni su, na zahtjev nadležnog inspekcijskog tijela, dostaviti podatke o identitetu:
+a) svakog gospodarskog subjekta koji im je isporučio uređaj
+b) svakog gospodarskog subjekta kojem su isporučili uređaj.
+(2) Gospodarski subjekti moraju biti u mogućnosti dostaviti podatke iz stavka 1. ovoga članka u razdoblju od deset godina od dana kada im je uređaj isporučen ili kada su uređaj isporučili.
+IV. SUKLADNOST OPREME
+Pretpostavke sukladnosti opreme
+Članak 13.
+(1) Ako oprema ili uređaj udovoljava odgovarajućim hrvatskim normama kojima su prihvaćene usklađene europske norme, smatra se da je sukladan odgovarajućim bitnim zahtjevima iz članka 6. ovoga Pravilnika.

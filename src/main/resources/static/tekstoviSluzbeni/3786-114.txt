@@ -1,0 +1,24 @@
+ članice te se podaci mogu upotrijebiti isključivo u svrhu za koju su dani.
+(6) Kada Agencija zaprimi povjerljive podatke u skladu sa stavkom 3. ovoga članka, oni se mogu koristiti samo:
+1. pri provjeri ispunjavanja uvjeta za izdavanje suglasnosti o kojima odlučuje na temelju ovoga Zakona
+2. pri obavljanju nadzora, osobito u smislu provjere poslovanja, administrativnih i računovodstvenih procedura i mehanizama unutarnjih kontrola, i pri izricanju nadzornih mjera i
+3. u prekršajnim postupcima i u postupcima pred upravnim sudom koji se vode protiv rješenja Agencije.
+Obavještavanje nadležnog tijela o sumnji na kršenje propisa
+Članak 390.
+(1) Ako Agencija ima osnove sumnje da je osoba, koja nije subjekt nadzora Agencije, u drugoj državi članici počinila djelo koje predstavlja kršenje propisa kojima se u pravni poredak te države članice prenose odredbe Direktive 2009/65/EZ, o tome će obavijestiti nadležno tijelo te države članice i u toj obavijesti navesti sve pojedinosti koje su joj poznate.
+(2) Ako Agencija zaprimi obavijest nadležnog tijela druge države članice sa sadržajem iz stavka 1. ovoga članka, poduzet će odgovarajuće mjere i obavijestiti nadležno tijelo te države članice o ishodu tih mjera i, u mjeri u kojoj je to moguće, bitnim događajima u međuvremenu.
+(3) Stavci 1. i 2. ovoga članka ne isključuju i ne ograničavaju ovlasti Agencije za nadzor prema drugim odredbama ovoga Zakona.
+Članak 391.
+(1) Agencija je nadležna za izricanje mjera društvu za upravljanje koje upravlja UCITS fondom iz Republike Hrvatske, u odnosu na taj UCITS fond, u slučaju kršenja odredbi ovoga Zakona, propisa donesenih na temelju njega i prospekta UCITS fonda.
+(2) Iznimno od stavka 1. ovoga članka, nadležno tijelo države članice domaćina UCITS fonda može izreći mjere društvu za upravljanje koje upravlja UCITS fondom iz Republike Hrvatske u slučaju kršenja odredbi drugih propisa koji su na snazi u toj državi članici ili zahtjeva iz članaka 92. i 94. Direktive 2009/65/EC.
+(3) U slučaju kada Agencija društvu za upravljanje koje upravlja UCITS fondom iz Republike Hrvatske naloži obustavu izdavanja ili otkupa udjela UCITS fonda ili izrekne drugu bitnu nadzornu mjeru, o navedenom će bez odgode obavijestiti države članice domaćine UCITS fonda.
+(4) Ako UCITS fondom iz Republike Hrvatske upravlja društvo za upravljanje iz druge države članice, Agencija će o mjeri iz stavka 3. ovoga članka bez odgode obavijestiti i nadležno tijelo matične države članice društva za upravljanje.
+(5) Kada društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona u Republici Hrvatskoj trguje udjelima UCITS fonda iz druge države članice, a Agencija ima osnove sumnje da društvo za upravljanje krši odredbe ovoga Zakona u dijelu u kojem Agencija nije ovlaštena za nadzor, o tome će obavijestiti nadležno tijelo matične države članice UCITS fonda.
+(6) Ako društvo za upravljanje, unatoč mjerama koje je poduzelo nadležno tijelo matične države članice UCITS fonda ili zbog toga što su te mjere bile neodgovarajuće ili nisu poduzete u razumnom roku, i dalje nastavi postupati na način koji evidentno šteti interesima ulagatelja iz Republike Hrvatske, Agencija može:
+a) nakon dostave obavijesti nadležnom tijelu matične države članice UCITS fonda, naložiti društvu za upravljanje iz stavka 5. ovoga članka odgovarajuće nadzorne mjere u okviru svojih ovlasti uključujući i mogućnost zabrane trgovanja udjelima UCITS fonda iz druge države članice u Republici Hrvatskoj ili
+b) obratiti se ESMA-i.
+(7) Agencija će što je prije moguće o izrečenim mjerama iz stavka 6. točke a) ovoga članka obavijestiti Europsku komisiju, ESMA-u i nadležna tijela država članica kojih se to tiče.
+Suradnja prilikom provjere poslovanja
+Članak 392.
+(1) Ako je radi ispunjavanja obveza iz ovoga Zakona potrebno provesti provjeru poslovanja određenog subjekta ili obaviti druge istražne radnje u drugoj državi članici, Agencija može zatražiti suradnju nadležnog tijela te države članice.
+(2) Kada nadležno tijelo druge države članice

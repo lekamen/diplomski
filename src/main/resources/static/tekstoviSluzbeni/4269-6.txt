@@ -1,0 +1,32 @@
+ sukladno specifikacijama proizvoda za pojedino mjerilo karte.
+(2) Izrada detaljnih topografskih karata obuhvaća:
+1. vizualizaciju podataka odgovarajuće kartografske baze podataka za određeno mjerilo sukladno specifikaciji proizvoda koja se odnose na izradu karata za svako pojedino mjerilo karte
+2. tehničko izvješće
+3. postupke kontrole kvalitete
+4. pripremu za tisak
+5. službenu ovjeru
+6. prema potrebi tisak karata i
+7. pohranu i održavanje karata u digitalnom i analognom obliku.
+Članak 31.
+Topografske karte u mjerilima sitnijima od 1:300 000 spadaju u grupu preglednih topografskih karata i izrađuju se iz odgovarajućih topografskih baza podataka i/ili drugih izvornika, sukladno specifikacijama proizvoda za pregledne topografske karte.
+GLAVA IV. IZRADA SLUŽBENIH TEMATSKIH I DRUGIH KARATA
+Članak 32.
+Tematske karte za posebne potrebe izrađuje Državna geodetska uprava na temelju službenih državnih karata odnosno na osnovi topografskih, kartografskih i ostalih baza podataka Državne geodetske uprave.
+DIO PETI PROCES IZRADE DRŽAVNIH KARATA
+Članak 33.
+(1) Tijekom izrade državnih karata Državna geodetska uprava prati radove sukladno vremenskom tijeku izvođenja radova i dostave podataka definiranom ugovorom o izradi državnih karata.
+(2) U slučaju potrebe za dodatnim objašnjenjem specifikacija proizvoda i projektnog zadatka u odnosu na primjenu odredbi ovoga Pravilnika, izvoditelj upućuje pisani upit Državnoj geodetskoj upravi, na koji Državna geodetska uprava izdaje pisani odgovor.
+GLAVA I. KONTROLA KVALITETE
+Članak 34.
+(1) Državna geodetska uprava obavlja kontrolu kvalitete i nadzor kakvoće prikupljenih prostornih podataka i proizvoda, pripadajućih metapodataka i dokumentacije proizašlih iz topografske izmjere.
+(2) Po potrebi kontrolu kvalitete provode druge fizičke i pravne osobe koje obavljaju stručne geodetske poslove u tijeku topografske izmjere i izrade državnih karata.
+(3) Državna geodetska uprava o obavljenim kontrolama vodi posebnu evidenciju.
+(4) Na temelju rezultata kontrole kvalitete daje se ocjena uporabljivosti prostornih podataka i proizvoda za daljnju proizvodnju (ocjena kvalitete) i prijedlozi za stavljanje podataka i proizvoda u službenu upotrebu.
+(5) Sustav kontrole kvalitete sastavnih dijelova elaborata topografske izmjere zasniva se na međunarodnim standardima koji definiraju sustav upravljanja kontrolom kvalitete, načela i procedure kontrole kvalitete, metapodatke i postupke uzimanja uzoraka.
+(6) Postupak kontrole kvalitete provodi se izradom plana kontrole kvalitete, koji je sastavni dio ponude izvoditelja, te samom provedbom kontrole kvalitete.
+(7) Kvaliteta se mjeri u odnosu na specifikacije proizvoda, a dozvoljena odstupanja su kriteriji kojima Državna geodetska uprava prihvaća ili odbija proizvod.
+(8) Svaki proizvod definiran je elementima i podelementima kvalitete s dopuštenim odstupanjima (tolerancijama).
+(9) Fizičke i pravne osobe posebno ovlaštene za obavljanje stručnih geodetskih poslova dužne su u okviru obavljanja poslova vezanih za topografsku izmjeru, izraditi plan kontrole kvalitete proizvoda, te uspostaviti interne mehanizme osiguranja kontrole kvalitete procesa prikupljanja, izrade i kontrole kvalitete proizvoda.
+(10) Svi rezultati interne kontrole, iskazivanje točnosti i kvalitete iz stavka 9. ovoga članka, sastavni su dio isporuke proizvoda, a uočena odstupanja, razlike, utjecaji i posljedice moraju biti dokumentirani u izvješćima o izvršenim radovima.
+(11) Izvješća o izvršenim radovima koja su na temelju ovoga Pravilnika, važećih specifikacija proizvoda ili projektnog zadatka izvoditelji dužni izraditi i dostaviti Državnoj geodetskoj upravi, moraju sadržavati pregled svih postupaka izvođenja radova s mogućnošću neovisnog ponavljanja radova, obrade podataka, analize, kontrole i korištenje podataka i naznačenu osobu koja ih je izradila, datum izrade, ime i potpis te pečat ovlaštenog inženjera geodezije zaposlenog kod izvoditelja.
+(12) Državna geodetska uprava provodi završni postupak kontrole

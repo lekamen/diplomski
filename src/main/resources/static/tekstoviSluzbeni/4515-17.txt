@@ -1,0 +1,26 @@
+ mm i ne više od 1500 mm iznad tla, odnosno ne više od 2100 mm za vozila kategorije O1 i O2, a za vozila ostalih kategorija do 1500 mm iznad tla, ako oblik nadogradnje onemogućuje smještaj prednjih pozicijskih svjetala.
+(6) Električne veze moraju biti takve da se prednja i stražnja pozicijska svjetla, gabaritna svjetla, bočna svjetla za označavanje i svjetlo stražnje registracijske pločice, mogu uključivati ili isključivati samo istodobno.
+(7) Uvjet iz stavka 6. ovoga članka se ne primjenjuje kod uporabe prednjih i stražnjih pozicijskih svjetala kao ni bočnih svjetala za označivanje kad su ona spojena ili uzajamno povezana sa spomenutim svjetlima, kao parkirna svjetla.
+(8) Obvezatna je pokazna svjetiljka pozicijskih svjetala u vidnom polju vozača, a ne smije se zahtijevati ako se osvjetljenje ploče s instrumentima (kontrolne ploče) može uključiti samo istodobno s prednjim pozicijskim svjetlima.
+(9) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 37.
+(1) Na motornim i priključnim vozilima moraju biti ugrađena dva stražnja pozicijska svjetla. U slučaju kad su ugrađena gabaritna svjetla, dva dodatna svjetla mogu se ugraditi na svim vozilima kategorija M2, M3, N2, N3, O2, O3, i O4.
+(2) Vanjski rub prividne površine ne smije biti udaljen više od 400 mm od krajnjega vanjskog ruba vozila. Taj se zahtjev ne primjenjuje na dodatna svjetla.
+(3) Udaljenost između unutarnjih rubova prividnih površina ne smije biti manja od 600 mm, osim za vozila kategorije M1 i N1. Udaljenost se može smanjiti na 400 mm ako je sveukupna širina vozila manja od 1300 mm.
+(4) Rubovi prividne površine ne smiju biti udaljeni manje od 350 mm i ne više od 1500 mm iznad tla, odnosno 2100 mm ako oblik nadogradnje onemogućuje smještaj unutar 1500 mm.
+(5) Ako su ugrađena dodatna svjetla, ona moraju biti smještena na visini koja je u skladu sa zahtjevima za simetriju svjetala, vertikalno udaljena najviše što dopušta oblik nadogradnje, ali ne manje od 600 mm iznad obveznih svjetala.
+(6) Električne veze moraju biti takve da se prednja i stražnja pozicijska svjetla, gabaritna svjetla, bočna svjetla za označavanje i svjetlo stražnje registarske pločice, mogu uključivati ili isključivati samo istodobno.
+(7) Odredba iz stavka 6. ovoga članka ne primjenjuje se kod uporabe prednjih i stražnjih pozicijskih svjetala odnosno bočnih svjetala za označavanje, kada su ona spojena sa istima, kao parkirna svjetla.
+(8) Za stražnja pozicijska svjetla obvezatna je pokazna svjetiljka u vidnom polju vozača i mora biti spojena s pokaznom svjetiljkom prednjih pozicijskih svjetala.
+(9) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 38.
+(1) Na motornim i priključnim vozilima mora biti ugrađeno jedno ili dva stražnja svjetla za maglu.
+(2) Ako postoji samo jedno stražnje svjetlo za maglu, ono se mora nalaziti na uzdužnoj vertikalnoj ravnini simetrije vozila ili lijevo od nje.
+(3) Rubovi prividne površine ne smiju biti udaljeni manje od 250 mm i ne više od 1000 mm iznad tla. Za vozila kategorije N3G (terenska) najveća visina može se povećati do 1 200 mm.
+(4) Stražnje svjetlo za maglu ne smije se uključiti ako nisu uključena duga glavna svjetla, kratka glava svjetla ili prednja svjetla za maglu. Stražnje svjetlo za maglu smije se isključiti neovisno o bilo kojem drugom svjetlu.
+(5) Za stražnje svjetlo za maglu obvezna je pokazna svjetiljka u vidnom polju vozača.
+(6) Udaljenost između stražnjeg svjetla za maglu i svakog kočnog svjetla mora biti veća od 100 mm.
+(7) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 39.
+(1) Parkirna svjetla na motornim vozilima čija duljina ne prelazi 6 m, odnosno 2 m po širini, ugrađuju se na način da se dva postavljaju sprijeda a dva straga ili jedno parkirno svjetlo sa svake strane.
+(2) Vanjski rub prividne površine ne smije biti udaljen više od 400 mm od krajnjeg vanjskog ruba vozila, a ako postoje dva svjetla, ona moraju

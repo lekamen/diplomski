@@ -1,0 +1,32 @@
+ klasifikacije SSK u nuklearnim elektranama, propisanima u poglavlju 2. Priloga 1. ovog Pravilnika.
+6. Zaštita od unutarnjeg požara
+Projekt zaštite od požara potrebno je uskladiti sa zahtjevima za nuklearne elektrane, propisanima u poglavlju 3. Priloga 1. ovog Pravilnika, sukladno sličnosti postrojenja za skladištenje s nuklearnom elektranom.
+PRILOG 4.
+PROJEKTNE OSNOVE POGONA ZA PROIZVODNJU NUKLEARNOG GORIVA, POGONA ZA PRERADU ISTROŠENOG NUKLEARNOG GORIVA TE POGONA ZA OBOGAĆIVANJE NUKLEARNOG GORIVA
+4.1 POGON ZA PROIZVODNJU NUKLEARNOG GORIVA
+Zahtjevi navedeni u ovom poglavlju su specifični za pogon za proizvodnju goriva od uranija u kojem su gorivni elementi proizvedeni od UF6 s nisko obogaćenim uranijem koji ima koncentraciju 235U ne višu od 6%, dobiveni od prirodnog, visoko obogaćenog ili prerađenog uranija. Zahtjevi se ne odnose na postrojenja koja koriste prirodni uranij ili metalna uranijeva goriva.
+4.1.1 Sigurnosne funkcije
+Postrojenje je potrebno projektirati kako bi se spriječila nesreća s postizanjem kritičnosti i slučajno ispuštanje opasnih tvari. Projekt treba osigurati da je izloženost radijaciji tijekom normalnog pogona svedena na najmanju moguću razumnu mjeru.
+4.1.2 Tehnički projekt
+Kontejnment radioaktivnog materijala kao i kemijskih opasnosti treba uključivati kontrolu bilo kakvog puta prema radim mjestima ili prema okolišu.
+4.1.3 Sprječavanje kritičnosti
+(1) Preventivnim mjerama potrebno je osigurati sigurnost s obzirom na kritičnost.
+(2) Potrebno je dati prednost postizanju sigurnosti s obzirom na kritičnosti projektiranim mjerama umjesto administrativnim mjerama, koliko je to izvedivo.
+(3) Za predviđene pogonske događaje (npr. prepunjavanje posude) te za projektirane uvjete tijeka nesreće ili njihov ekvivalent (npr. požar, poplava ili gubitak hlađenja), sigurnost s obzirom na kritičnost treba biti postignuta zadržavanjem u potkritičnim granicama normalnog pogona jednog ili više sljedećih parametara sustava:
+a) masu i obogaćenje fisibilnog materijala koji se nalazi u procesu;
+b) geometriju (ograničavanje dimenzija i oblika) procesne opreme;
+c) koncentraciju fisibilnog materijala u otopinama;
+d) stupanj moderacije;
+e) kontrolu reflektora;
+f) prisutnost odgovarajućih apsorbera neutrona.
+(4) Sigurnost projekta postrojenja za proizvodnju uranijevog goriva potrebno je dokazati pomoću specifične analize kritičnosti u kojoj su u obzir, pojedinačno i u kombinaciji, uzeti sljedeći važni čimbenici:
+a) Obogaćenje: u svim procjenama potrebno je koristiti maksimalno dozvoljeno obogaćenje u bilo kojem dijelu postrojenja, osim ako je načelom dvostrukog nepredviđenog događaja dokazana nemogućnost postizanja te razine obogaćenja.
+b) Masa: sigurnost s obzirom na kritičnost treba biti procijenjena uz značajne margine.
+c) Geometrija: analiza treba sadržavati izgled postrojenja i dimenzije cijevi, spremnika i drugih procesnih jedinica.
+d) Koncentracija i gustoća: potrebno je primijeniti konzervativan pristup.
+e) Moderiranje: analiza treba uzeti u obzir niz stupnjeva moderacije za određivanje najreaktivnijih uvjeta koji bi mogli nastati.
+f) Refleksija: za refleksiju je potrebno koristiti konzervativne pretpostavke.
+g) Neutronska interakcija: treba uzeti u obzir neutronsku interakciju između svih objekata koji mogu biti uključeni.
+h) Apsorberi neutrona: kada se razmatraju u analizi sigurnosti i ako postoji opasnost od degradacije, prisutnost i integritet apsorbera neutrona potrebno je verificirati periodičkim provjerama. Nesigurnosti u parametrima apsorbera (npr. masa i gustoća) potrebno je uzeti u obzir u proračunima kritičnosti.
+(5) U skladu s nacionalnim propisima, potrebno je demonstrirati sigurnost s obzirom na kritičnost za postrojenja za proizvodnju uranijevog goriva u područjima u kojima masa fisibilnog materijala prelazi prag. Iz takve analize potrebno je odrediti sigurnosne SSK te pogonska ograničenja te uvjete koji se odnose na sigurnost s obzirom na kritičnost.
+4.1.4 Sustavi zadržavanja kao zaštita protiv unutarnje

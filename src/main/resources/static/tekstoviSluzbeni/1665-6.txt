@@ -1,0 +1,31 @@
+ odnosno otkaznog roka,
+– način utvrđivanja naknade u slučaju nepoštivanja ugovorene razine kvalitete usluga, uključujući netočan i zakašnjeli obračun,
+– način promjene ugovorenih uvjeta opskrbe,
+– način rješavanja sporova kada Hrvatska energetska regulatorna agencija (u daljnjem tekstu: Agencija) odlučuje o prigovorima krajnjih kupaca u slučaju obustave isporuke električne energije,
+– ostale međusobne obveze i
+– način rješavanja sporova.
+(2) Ugovor iz stavka 1. ovoga članka sklapa se za svako obračunsko mjerno mjesto, a može se sklopiti za dva ili više odnosno za sva obračunska mjerna mjesta krajnjeg kupca.
+(3) Za krajnje kupce iz kategorije poduzetništvo izvan okvira zajamčene opskrbe ugovor iz stavka 1. ovoga članka sklapa se na određeno vrijeme, sukladno uvjetima opskrbljivača za opskrbu električnom energijom.
+(4) Za krajnje kupce s pravom na opskrbu električnom energijom koja se obavlja kao javna usluga, ugovor iz stavka 1. ovoga članka sklapa se na neodređeno vrijeme, uz pravo krajnjeg kupca na jednostrani raskid ugovora bez ugovorne kazne.
+(5) Za krajnje kupce iz kategorije kućanstvo izvan okvira univerzalne usluge, ugovor iz stavka 1. ovoga članka sklapa se na neodređeno vrijeme, uz pravo krajnjeg kupca na jednostrani raskid ugovora bez ugovorne kazne.
+(6) Opskrbljivač je dužan obavijestiti krajnjeg kupca o promjeni cijene i drugih uvjeta opskrbe najkasnije 15 dana prije primjene nove cijene ili uvjeta opskrbe, uključujući i davanje obavijesti o pravu krajnjeg kupca na raskid ugovora, osim u slučaju snižavanja cijene ili pružanja povoljnijih uvjeta opskrbe krajnjem kupcu.
+(7) Opskrbljivač je dužan osigurati da krajnji kupac može slobodno i bez naknade raskinuti ugovor u slučaju neprihvaćanja novih uvjeta opskrbe iz stavka 6. ovoga članka.
+(8) Opskrbljivač je dužan najkasnije 30 dana prije isteka ugovorenog roka iz stavka 3. ovoga članka pisanim putem obavijestiti krajnjeg kupca o prestanku ugovora te o posljedicama nesklapanja novog ugovora o opskrbi krajnjeg kupca.
+Članak 13.
+(1) Opskrbljivač može krajnjem kupcu na njegov zahtjev omogućiti prijenos ugovora o opskrbi krajnjeg kupca trećoj osobi.
+(2) Opskrbljivač je dužan o prijenosu ugovora iz stavka 1. ovoga članka bez odgađanja obavijestiti operatora sustava.
+(3) U slučaju prijenosa ugovora iz stavka 1. ovoga članka krajnji kupac je dužan operatoru sustava podnijeti zahtjev za prijenos ugovora o korištenju mreže.
+IV. OBVEZE I ODGOVORNOSTI ENERGETSKIH SUBJEKATA I KORISNIKA MREŽE
+Kvaliteta opskrbe električnom energijom
+Članak 14.
+(1) Kvaliteta opskrbe električnom energijom sastoji se od kvalitete napona, pouzdanosti napajanja i kvalitete usluga.
+(2) Operator sustava dužan je trajno održavati i poboljšavati razinu kvalitete opskrbe električnom energijom na mjestu preuzimanja i/ili predaje električne energije, u skladu s propisima kojima se uređuje kvaliteta opskrbe električnom energijom.
+(3) Korisnik mreže koji zahtijeva razinu kvalitete opskrbe električnom energijom višu od one određene propisima kojima se uređuje kvaliteta opskrbe električnom energijom dužan je podmiriti stvarne troškove povećanja razine kvalitete opskrbe električnom energijom.
+Kvaliteta napona
+Članak 15.
+(1) Operator sustava dužan je u roku propisanom uvjetima kvalitete opskrbe električnom energijom korisniku mreže na pisani zahtjev dostaviti izvješće o kvaliteti napona na mjestu preuzimanja i/ili predaje električne energije u skladu s propisima kojima se uređuje kvaliteta opskrbe električnom energijom.
+(2) U slučaju da je kvaliteta napona iz stavka 1. ovoga članka u skladu s propisima kojima se uređuje kvaliteta opskrbe električnom energijom, troškove izrade izvješća iz stavka 1. ovoga članka snosi korisnik mreže u skladu s pravilima i cjenikom nestandardnih usluga, u protivnom troškove snosi operator sustava.
+Pouzdanost napajanja
+Članak 16.
+(1) Pouzdanost napajanja odnosi se na stalnost isporuke električne energije korisniku mreže.
+(2) Korisnik mreže dužan je poduzeti odgovarajuće mjere kako bi

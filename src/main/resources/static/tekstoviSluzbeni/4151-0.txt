@@ -1,0 +1,36 @@
+59 29.06.2016 Pravilnik o zdravstvenim uvjetima kojima moraju udovoljavati radnici koji obavljaju poslove s izvorima neionizirajućeg zračenja
+MINISTARSTVO ZDRAVLJA
+1500
+Na temelju članka 13. stavka 3. Zakona o zaštiti od neionizirajućeg zračenja (»Narodne novine«, broj 91/10), ministar zdravlja donosi
+PRAVILNIK
+O ZDRAVSTVENIM UVJETIMA KOJIMA MORAJU UDOVOLJAVATI RADNICI KOJI OBAVLJAJU POSLOVE S IZVORIMA NEIONIZIRAJUĆEG ZRAČENJA
+POGLAVLJE I. I. OPĆE ODREDBE
+Predmet i područje primjene
+Članak 1.
+(1) Ovim se Pravilnikom utvrđuju zdravstveni uvjeti kojima moraju udovoljavati rukovatelji koji obavljaju poslove s izvorima neionizirajućeg zračenja, učestalost zdravstvenih pregleda te sadržaj, način i rokovi čuvanja podataka o tim pregledima. Ovim pravilnikom propisuju se minimalni zahtjevi za zaštitu radnika od rizika za njihovo zdravlje i sigurnost, koji su posljedica ili bi mogli biti posljedica izloženosti elektromagnetskim poljima tijekom rada.
+(2) Odredbama ovoga Pravilnika obuhvaćeni su svi poznati izravni biofizikalni učinci i neizravni učinci uzrokovani elektromagnetskim poljima.
+(3) Odredbe ovoga Pravilnika ne obuhvaćaju moguće dugoročne učinke.
+(4) Odredbe ovoga Pravilnika ne obuhvaćaju rizike uzrokovane kontaktom s aktivnim vodičima.
+(5) Na mjere za poticanje poboljšanja sigurnosti i zdravlja radnika, uz odredbe ovoga Pravilnika, primjenjuju se i posebni propisi o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja radnika na radu.
+(6) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, odnose se jednako na muški i ženski rod.
+Članak 2.
+Ovaj Pravilnik sadrži odredbe koje su u skladu s Direktivom 2013/35/EU Europskoga parlamenta i Vijeća od 26. lipnja 2013. o minimalnim zdravstvenim i sigurnosnim zahtjevima u odnosu na izloženost radnika rizicima uzrokovanim fizikalnim čimbenicima (elektromagnetska polja) (dvadeseta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ)) te stavljaju izvan snage Direktive 2004/40/EZ (SL L 179, 29. 6. 2013.).
+Pojmovi
+Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. »elektromagnetska polja« su statička električna, statička magnetska i periodički izmjenična električna, magnetska i elektromagnetska polja s frekvencijama od 0 do 300 GHz;
+2. »izravni bio fizikalni učinci« su učinci na ljudsko tijelo koji su izravna posljedica izloženosti elektromagnetskom polju uključujući:
+a) vrtoglavicu ili fotopsiju (bljeskanje pred očima) i mučninu zbog statičkih magnetskih polja (koja se povezuju s kretanjem, no mogu se javiti i pri mirovanju). Ti učinci mogu predstavljati privremenu smetnju ili utjecati na kogniciju ili druge funkcije mozga ili mišića te stoga mogu utjecati na sposobnost radnika da radi sigurno (što predstavlja sigurnosne rizike);
+b) učinci na osjetilne organe, živce i mišiće zbog nisko frekvencijskih polja (do 100 kHz);
+c) grijanje cijelog tijela ili dijelova zbog visokofrekvencijskih polja (10 MHz i više) iznad nekoliko GHz grijanje je u sve većoj mjeri ograničeno na površinu tijela;
+d) učinci na živce, mišiće i grijanje zbog srednjih frekvencija (100 kHz – 10 MHz).
+– toplinski učinci nastali apsorpcijom energije iz elektromagnetskih polja u tkivo
+– netoplinski učinci, kao stimulacija mišića, živaca ili osjetilnih organa struje u ekstremitetima
+– inducirane struje;
+3. »neizravni učinci« su učinci prouzročeni izloženošću predmeta elektromagnetskom polju, koji mogu postati uzrokom štetnog učinka na sigurnost ili zdravlje;
+a) neizravni učinci su:
+– interferencija s medicinskim elektroničkim uređajima i drugih proizvodima;
+– interferencija s aktivnim ugrađenim medicinskim proizvodima ili uređajima, kao što su elektronički srčani stimulatori (pacemakeri) ili defibrilatori;
+– interferencija s medicinskim proizvodima koji se nose na tijelu, kao što su inzulinske pumpe;
+– interferencija s pasivnim implantatima (umjetni zglobovi, klinovi, žice ili ploče izrađene od metala);
+– učinci na šrapnel, piercing, tetovaže i

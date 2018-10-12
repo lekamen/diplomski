@@ -1,0 +1,27 @@
+ 9. rujna 2016.
+Zamjenik ravnatelja mr. sc. Božidar Ljubić, dipl. ing., v. r.
+DODATAK I.
+1. CILJEVI
+Pretpakovine obuhvaćene ovim Pravilnikom moraju u završnom pakiranju zadovoljiti sljedeće zahtjeve:
+1.1. Stvarni sadržaj, u prosjeku, ne smije biti manji od nazivne količine.
+1.2. Udio pretpakovina koje imaju negativnu pogrešku veću od dopuštene negativne pogreške utvrđene u točki 2.4. ovoga Dodatka mora biti dovoljno mali, da bi serija pretpakovine, mogla zadovoljiti zahtjeve ispitivanja navedeni u Dodatku II.
+1.3. Pretpakovina čija je negativna pogreška dvostruko veća od dopuštene negativne pogreške, prikazane u tablici u točki 2.4. ovoga Dodatka ne smije se označiti EZ oznakom sukladnosti navedenoj u točki 3.3. ovoga Dodatka.
+2. DEFINICIJE I TEMELJNE ODREDBE
+2.1. Nazivna količina (nazivna masa ili nazivni obujam) sadržaja pretpakovine je masa ili obujam označen na pretpakovini, tj. ona količina proizvoda koju bi pretpakovina trebala sadržavati.
+2.2. Stvarni sadržaj pretpakovine je količina proizvoda (nazivna masa ili nazivni obujam) koju ona doista sadrži. Tijekom provedbe svih postupaka provjere proizvoda, čija je količina izražena u obujamskim jedinicama, treba uzeti u obzir onu vrijednost stvarnog sadržaja, koja odgovara obujmu izmjerenom pri temperaturi od 20 °C, neovisno o tome pri kojoj se temperaturi provodi punjenje ili provjera. Međutim, to pravilo se neće primjenjivati na duboko zamrznute ili zamrznute proizvode čija se količina izražava u obujamskim jedinicama.
+2.3. Negativna pogreška pretpakovine je ona količina za koju je stvarni sadržaj pretpakovine manji od nazivnoga sadržaja pretpakovine.
+2.4. Dopuštena negativna pogreška sadržaja pretpakovine utvrđuje se u skladu s niže navedenom tablicom:
+Nazivna količina Qn u gramima ili mililitrima Dopuštena negativna pogreška u % Qn u g ili ml od       5       do       50 9 - od     50       do     100 - 4,5 od   100       do     200 4,5 - od   200       do     300 - 9 od   300       do     500 3 - od   500       do   1000 - 15 od 1000       do 10000 1,5 -
+Prilikom korištenja navedene tablice, vrijednosti dopuštenih negativnih pogrešaka, iskazani u postocima u tablici, prilikom preračunavanja u jedinice mase ili obujma, moraju se zaokruživati na najbližu desetinku grama ili mililitre.
+3. NATPISI I OZNAKE
+Sve pretpakovine proizvedene sukladno odredbama ovoga Pravilnika na ambalaži trebaju imati istaknute sljedeće oznake, postavljene na način da su neizbrisive, lako čitljive i vidljive na pretpakovini u normalnim uvjetima izlaganja:
+3.1. nazivnu količinu (nazivna masa ili nazivni obujam) izražena u kilogramima, gramima, litrama, centilitrima ili mililitrima, označena brojkama čija visina odgovara najmanjoj veličini propisanoj u tablici – Veličina oznaka, iza koje se nalazi mjerna jedinica ili znak mjerne jedinice koja se upotrebljava, sukladno odredbama važećeg propisa o mjernim jedinicama.
+Tablica – Veličina oznaka
+Nazivna količina punjenja Qn u g ili ml Veličina oznaka u mm manja od 50 2 od 51 do 200 3 od 201 do 1000 4 veća od 1000 6
+3.2. oznaku ili natpis koji omogućuje da nadzorno tijelo, iz točke 5. stavka 1. ovoga Dodatka, utvrdi pakiratelja, njegovog ovlaštenog zastupnika ili uvoznika.
+3.3. malo slovo »e« čija je visina barem 3 mm, a postavljeno je u istom vidnom polju kao i oznaka nazivne mase ili nazivnog obujma kojom pakiratelj, njegov ovlašteni zastupnik ili uvoznik jamči da pretpakovina zadovoljava zahtjeve ovoga Pravilnika.
+Uporaba i izgled znaka »e« uređeni su posebnim pravilnikom o zajedničkim odredbama za mjerila i metode mjeriteljskog nadzora.
+Zabranjena je uporaba oznaka ili natpisa na mjerilima koji bi pogreškom mogli biti zamijenjeni sa znakom »e« iz navedenog pravilnika.
+4. ODGOVORNOST PAKIRATELJA, OVLAŠTENOG ZASTUPNIKA ILI UVOZNIKA
+Pakiratelj, ovlašteni zastupnik ili uvoznik dužan je osigurati da pretpakovine zadovoljavaju zahtjeve ovoga Pravilnika.
+Količina proizvoda sadržana u pretpakovini, odnosno »stvarni sadržaj«, mora se mjeriti ili ispitivati s 

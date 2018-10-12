@@ -1,0 +1,26 @@
+ odobrenjima sustava kvalitete koje je odbilo, obustavilo, ili povuklo i, na zahtjev, o odobrenjima sustava kvalitete koje je izdalo.
+10. Ovlašteni zastupnik
+Obveze proizvođača navedene u točkama 3., 5.1., 5.5., 7. i 8. može u njegovo ime i na njegovu odgovornost ispuniti njegov ovlašteni zastupnik ako su te obveze navedene u mandatu.
+9. MODUL F: SUKLADNOST S TIPOM NA TEMELJU PROVJERE TLAČNE OPREME
+1. Sukladnost s tipom na temelju provjere tlačne opreme dio je postupka ocjenjivanja sukladnosti kojim proizvođač ispunjava obveze iz točaka 2. i 5. te jamči i izjavljuje na vlastitu odgovornost da je dotična tlačna oprema, koja podliježe odredbama točke 3., sukladno tipu opisanom u certifikatu o EU-pregledu tipa te da ispunjava zahtjeve ovoga Pravilnika koji se na nju odnose.
+2. Proizvodnja
+Proizvođač poduzima sve potrebne mjere kako bi postupak proizvodnje i njegovo praćenje osigurali sukladnost proizvedenih proizvoda s odobrenim tipom opisanim u certifikatu o EU-pregledu tipa i sa zahtjevima ovoga Pravilnika koji se na njih primjenjuju.
+3. Provjera
+Prijavljeno tijelo koje je izabrao proizvođač provodi odgovarajuće preglede i ispitivanja kako bi provjerilo sukladnost tlačne opreme s odobrenim tipom opisanim u certifikatu o EU-pregledu tipa i odgovarajućim zahtjevima ovoga Pravilnika.
+Pregledi i ispitivanja za provjeru sukladnosti proizvoda s odgovarajućim zahtjevima provode se pregledom i ispitivanjem svakog proizvoda iz točke 4.
+4. Provjera sukladnosti pregledom i ispitivanjem svakog pojedinog elementa tlačne opreme
+4.1. Sva tlačna oprema pojedinačno se pregledava i provode se odgovarajuća ispitivanja predviđena relevantnim usklađenim normama ili se provode slična ispitivanja radi provjere sukladnosti s odobrenim tipom opisanim u certifikatu o EU-pregledu tipa te s odgovarajućim zahtjevima ovoga Pravilnika. Ako ne postoji takva usklađena norma, dotično prijavljeno tijelo odlučuje o provođenju odgovarajućih ispitivanja.
+Prijavljeno tijelo posebno:
+– provjerava da su djelatnici zaduženi za nerastavljive spojeve i ispitivanja bez razaranja kvalificirani ili odobreni u skladu s točkama 3.1.2. i 3.1.3. Dodatka I.;
+– provjerava certifikat koji je izdao proizvođač materijala u skladu s točkom 4.3. Dodatka I.;
+– provodi ili daje provesti završnu inspekciju i probno ispitivanje iz točke 3.2. Dodatka I. te, ako je primjenjivo, pregledava sigurnosne uređaje.
+4.2. Prijavljeno tijelo izdaje certifikat o sukladnosti u pogledu provedenih pregleda i ispitivanja te stavlja ili na vlastitu odgovornost daje staviti svoj identifikacijski broj na svaki pojedini element odobrene tlačne opreme.
+Proizvođač certifikate o sukladnosti drži na raspolaganju, za inspekcije, državnim tijelima tijekom 10 godina od stavljanja tlačne opreme na tržište.
+5. Oznaka CE i EU izjava o sukladnosti
+5.1. Proizvođač stavlja oznaku CE i pod odgovornošću prijavljenog tijela iz točke 3., njegov identifikacijski broj na svaki pojedini komad tlačne opreme koja je sukladna odobrenom tipu opisanom u certifikatu o EU-pregledu tipa i koji zadovoljava primjenjive zahtjeve ovoga Pravilnika.
+5.2. Proizvođač sastavlja pisanu EU izjavu o sukladnosti za svaki model tlačne opreme i drži ga na raspolaganju državnim tijelima tijekom 10 godina od stavljanja tlačne opreme na tržište. EU izjava o sukladnosti potvrđuje model tlačne opreme za koji je ta izjava bila sastavljena.
+Primjerak EU izjave o sukladnosti stavlja se na raspolaganje relevantnim tijelima koji je zahtijevaju.
+Ako se prijavljeno tijelo iz točke 3. slaže, proizvođač također može, pod odgovornošću prijavljenog tijela, stavljati identifikacijski broj prijavljenoga tijela na tlačnu opremu.
+6. Ako se prijavljeno tijelo slaže i preuzme odgovornost, proizvođač može na tlačnu opremu staviti identifikacijski broj prijavljenog tijela tijekom postupka proizvodnje.
+7. Ovlašteni zastupnik
+Obveze proizvođača može, u njegovo ime i na njegovu odgovornost, ispuniti njegov ovlašteni zastupnik ako su te obveze navedene u mandatu. Ovlašteni

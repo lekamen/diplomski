@@ -1,0 +1,31 @@
+ prosinca prethodne godine, a sve radi utvrđivanja ravnomjernosti radne opterećenosti rješavatelja.
+(11) U cilju utvrđivanja ravnomjerne radne opterećenosti, predsjednik suda će izmijeniti godišnji raspored poslova ili donijeti pisanu obrazloženu naredbu kojom za pojedine predmete određuje ponovljenu automatsku dodjelu, ako neravnomjerna radna opterećenost pojedinih rješavatelja nije posljedica nepostizanja očekivanih prosječnih rezultata rada. Nakon provedene preraspodjele, radna opterećenost rješavatelja ujednačiti će se s radnom opterećenošću ostalih rješavatelja koji rješavaju slične vrste predmeta u sudu.
+(12) Rješavatelju koji prvi puta stupa na dužnost na pojedini sud, rješavatelju koji se vraća na rad u pojedini sud, kao i rješavatelju koji je raspoređen u drugi sudski odjel, pisanom obrazloženom naredbom predsjednika suda u rad će se dodijeliti predmeti drugih sudaca vodeći računa o starosti, složenosti i broju predmeta do prosječne radne opterećenosti rješavatelja u sudu, odnosno odjelu.
+(13) Ujednačavanje opterećenosti iz stavaka 11. i 12. ovog članka provest će administrator središnjeg sustava eSpis na zahtjev administratora sustava eSpis u sudu.
+(14) Izviješća sudskog administratora sustava eSpis u sudu iz stavka 10. ovog članka i pisane naredbe predsjednika suda iz stavka 6., 7., 8. i 11. ovog članka ulažu se kronološkim redom u za to posebno osnovani predmet sudske uprave, time da je obrazloženu pisanu naredbu predsjednik suda dužan unijeti i u sustav eSpis u spis na koji se naredba odnosi.
+(15) Za žalbe pristigle na trgovački sud zadnjih 15 dana u godini, rezervirat će se novi poslovni brojevi iz upisnika Visokog trgovačkog suda Republike Hrvatske u narednoj godini. Takvi predmeti će se u Visokom trgovačkom sudu Republike Hrvatske osnivati od 1. siječnja iduće godine.
+2. Dodjela spisa
+Članak 58.
+(1) Postupak automatskog određivanja rješavatelja u algoritmu za dodjelu spisa sustava eSpis je sljedeći:
+1. algoritam automatski odabire sve rješavatelje u sudu koji su godišnjim rasporedom poslova određeni za rješavanje određene vrste predmeta,
+2. između rješavatelja iz točke 1. ovog stavka odabire se pet rješavatelja s najmanjim normiranim opterećenjem u trenutku dodjele predmeta. Ako je broj rješavatelja u sudu manji od pet odabire se taj broj rješavatelja.
+3. svakom od rješavatelja iz točke 2. ovog stavka sustav automatski određuje konačnu vjerojatnost dodjele na temelju ukupnog normiranog opterećenja i broja predmeta iste vrste spora,
+4. rješavatelju kojem je predmet dodijeljen u rad povećava se opterećenje u skladu s težinom predmeta.
+(2) Ako je u istom predmetu izjavljeno više žalbi, o svim žalbama odlučuje isti rješavatelj.
+2.1. Automatska kružna dodjela
+Članak 59.
+Automatskom kružnom dodjelom dodjeljuju se u rad rješavateljima sljedeće vrste predmeta:
+1. predmeti čije je rješavanje vezano uz rok kraći od 30 dana,
+2. predmeti u kojima je postupak započeo prije deset i više godina.
+XI. OSNIVANJE I DODJELA SPISA U VRHOVNOM SUDU REPUBLIKE HRVATSKE
+Članak 60.
+Spisi se u Vrhovnom sudu Republike Hrvatske osnivaju i dodjeljuju u rad rješavateljima odgovarajućom primjenom odredaba ovog Pravilnika i odredaba Sudskog poslovnika.
+XII. POSTUPANJE S PODNESCIMA
+Članak 61.
+(1) Unos podataka o podnesku u sustav eSpis obavlja u pravilu sudski službenik određen za prijem određene vrste podneska.
+(2) Ako je podnesak zaprimljen u vrijeme kad sustav eSpis nije dostupan, sudski službenik će na podnesak staviti odgovarajuću bilješku koju će bez odgode unijeti u sustav eSpis onoga trenutka kad sustav postane dostupan.
+(3) Sve informacije o prilozima podnesku, pošiljci u kojoj je podnesak zaprimljen, kao i napomene o nedostatku podneska ili pošiljke, sadržaju i posebnom postupanju unose se u sustav eSpis.
+(4) Podnesci u obliku elektroničke isprave mogu se u sudu zaprimati uz pomoć sustava za zaprimanje elektroničkih podnesaka.
+Članak 62.
+(1) Zaprimanje podnesaka, kao i podatak o uručenju podneska, unosi se u sustav eSpis.
+(2) Podaci o 

@@ -1,0 +1,153 @@
+ Viljevo;
+za srpsku nacionalnu manjinu
+Šibensko-kninska županija;
+za srpsku nacionalnu manjinu
+Grad Drniš;
+za srpsku nacionalnu manjinu
+Grad Knin;
+za srpsku nacionalnu manjinu
+Grad Skradin;
+za srpsku nacionalnu manjinu
+Grad Šibenik;
+za srpsku nacionalnu manjinu
+Grad Vodice;
+za srpsku nacionalnu manjinu
+Općina Biskupija;
+za srpsku nacionalnu manjinu
+Općina Ervenik;
+za srpsku nacionalnu manjinu
+Općina Kistanje;
+za srpsku nacionalnu manjinu
+Vukovarsko-srijemska županija;
+za bošnjačku nacionalnu manjinu
+za mađarsku nacionalnu manjinu
+za rusinsku nacionalnu manjinu
+za slovačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Ilok;
+za slovačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Vinkovci;
+za srpsku nacionalnu manjinu
+Grad Vukovar;
+za mađarsku nacionalnu manjinu
+za rusinsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za ukrajinsku nacionalnu manjinu
+Općina Bogdanovci;
+za rusinsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Borovo;
+za srpsku nacionalnu manjinu
+Općina Drenovci;
+za bošnjačku nacionalnu manjinu
+Općina Gunja;
+za bošnjačku nacionalnu manjinu
+Općina Markušica;
+za srpsku nacionalnu manjinu
+Općina Negoslavci;
+za srpsku nacionalnu manjinu
+Općina Nijemci;
+za srpsku nacionalnu manjinu
+Općina Stari Jankovci;
+za mađarsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Općina Tompojevci;
+za rusinsku nacionalnu manjinu
+Općina Tordinci;
+za mađarsku nacionalnu manjinu
+Općina Trpinja;
+za srpsku nacionalnu manjinu
+Splitsko-dalmatinska županija;
+za bošnjačku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Imotski;
+za srpsku nacionalnu manjinu
+Grad Split;
+za bošnjačku nacionalnu manjinu
+za crnogorsku nacionalnu manjinu
+za makedonsku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Istarska županija;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za crnogorsku nacionalnu manjinu
+za makedonsku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Buje – Buie;
+za talijansku nacionalnu manjinu
+Grad Buzet;
+za bošnjačku nacionalnu manjinu
+Grad Labin;
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Novigrad – Cittanova;
+za talijansku nacionalnu manjinu
+Grad Poreč – Parenzo;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Pula – Pola;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za crnogorsku nacionalnu manjinu
+za makedonsku nacionalnu manjinu
+za romsku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Rovinj – Rovigno;
+za albansku nacionalnu manjinu
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Umag – Umago;
+za bošnjačku nacionalnu manjinu
+za slovensku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Grad Vodnjan – Dignano;
+za romsku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+za talijansku nacionalnu manjinu
+Općina Fažana – Fasana;
+za srpsku nacionalnu manjinu
+Općina Kršan;
+za bošnjačku nacionalnu manjinu
+Općina Raša;
+za bošnjačku nacionalnu manjinu
+Dubrovačko-neretvanska županija;
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Dubrovnik;
+za bošnjačku nacionalnu manjinu
+za srpsku nacionalnu manjinu
+Grad Metković;
+za srpsku nacionalnu manjinu
+Općina Župa Dubrovačka;
+za bošnjačku nacionalnu manjinu
+Međimurska županija;
+za romsku nacionalnu manjinu
+Grad Čakovec;
+za romsku nacionalnu manjinu
+Grad Mursko Središće;
+za romsku nacionalnu manjinu
+Općina Kotoriba;
+za romsku nacionalnu manjinu
+Općina Mala Subotica;
+za romsku nacionalnu manjinu
+Općina Nedelišće;
+za romsku nacionalnu manjinu
+Općina Orehovica;
+za romsku nacionalnu manjinu
+Općina Podturen;
+za romsku nacionalnu manjinu
+Općina Pribislavec;
+za romsku nacionalnu

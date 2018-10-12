@@ -1,0 +1,26 @@
+ s propisanim zahtjevima, proizvođač je obvezan sastaviti izjavu o sukladnosti.
+(8) Tehnička dokumentacija mora omogućiti ocjenu sukladnosti ploča s odgovarajućim zahtjevima te mora uključivati odgovarajuću analizu ocjene rizika. Tehnička dokumentacija mora sadržavati barem sljedeće elemente:
+– opći opis ploča,
+– rezultate provedenih ispitivanja,
+– ispitne izvještaje.
+(9) Proizvođač ploča obvezan je čuvati tehničku dokumentaciju, potvrdu o sukladnosti i izjavu o sukladnosti barem deset godina od stavljanja ploča na tržište.
+(10) Proizvođač je obvezan osigurati postupke u cilju održanja sukladnosti proizvodne serije.
+(11) Proizvođač je obvezan, s obzirom na rizike koje predstavljaju ploče, provoditi ispitivanje uzoraka ploča koje se stavljaju na tržište.
+(12) Proizvođač je obvezan osigurati mogućnost identifikacije proizvoda (broj tipa, šarže ili serije i sl.), te na pločama ili ako to nije moguće, na ambalaži ili dokumentima koji prate proizvod, navesti identifikacijske podatke.
+(13) Proizvođač je obvezan na proizvodu ili, kad to nije moguće, na njegovoj ambalaži ili u dokumentu koji prati proizvod, navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i adresu na kojoj je proizvođač dostupan.
+(14) Proizvođač mora osigurati da ploče prate upute i podaci o sigurnosti na hrvatskom jeziku ili na jeziku koji mogu lako razumjeti potrošači i drugi korisnici.
+(15) Kad proizvođač smatra ili ima razloga vjerovati da ploče koje je stavio na tržište nisu sukladne s odredbama ovog Pravilnika treba bez odgode poduzeti potrebne radnje kako bi se te ploče uskladile ili povukle s tržišta, odnosno spriječilo njihovo distribuiranje. Ako ploče predstavljaju rizik proizvođač mora o tome bez odgode obavijestiti nadležna inspekcijska tijela navodeći podatke, posebno o nesukladnosti proizvoda i svim poduzetim popravnim radnjama.
+(16) Proizvođač je obvezan na opravdan zahtjev inspektora osigurati sve podatke i dokumente neophodne za dokazivanje sukladnosti ploča na na jeziku lako razumljivom nadležnom inspektoru. Proizvođač mora na zahtjev nadležnog inspekcijskog tijela surađivati u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavljaju ploče koje je stavio na tržište.
+Ovlašteni zastupnici
+Članak 11.
+(1) Proizvođač može na temelju pisanog ovlaštenja ovlastiti fizičku ili pravnu osobu osnovanu u Europskoj uniji za svog ovlaštenog zastupnika.
+(2) Ovlašteni zastupnik je obvezan provoditi zadaće koje su specificirane u ovlaštenju danom od strane proizvođača. Tim se ovlaštenjem mora omogućiti ovlaštenom zastupniku najmanje sljedeće:
+– da drži izjavu o sukladnosti i tehničku dokumentaciju na raspolaganju nadležnim inspektorima u razdoblju koje je navedeno u propisu koji se odnosi na te ploče,
+– da na opravdan zahtjev nadležnog inspektora osigura sve podatke i dokumente nužne za dokazivanje sukladnosti proizvoda,
+– da surađuje s nadležnim inspektorom na njihov zahtjev u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavljaju ploče obuhvaćene njegovim ovlaštenjem.
+Obveze uvoznika
+Članak 12.
+(1) Uvoznik je obvezan na tržište Europske unije stavljati samo ploče sukladne s odredbama ovog Pravilnika.
+(2) Prije stavljanja ploča na tržište uvoznik je obvezan osigurati da je proizvođač proveo odgovarajući postupak ocjenjivanja sukladnosti, sastavio tehničku dokumentaciju, da su praćene propisanim dokumentima te da su ispunile zahtjeve utvrđene u članku 10. stavcima 12., 13. i 14. ovog Pravilnika.
+(3) Kad uvoznik smatra ili ima razloga vjerovati da ploče nisu u skladu s odredbama ovog Pravilnika ne smije staviti ploče na tržište sve dok se ne provede njihovo usklađivanje. U slučaju kad ploče predstavljaju rizik, uvoznik je obvezan o tome obavijestiti proizvođača i nadležna inspekcijska tijela.
+(4) Uvoznik je obvezan na proizvodu ili, kad to nije moguće, na njegovoj ambalaži ili u dokumentu koji prati ploče navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i adresu na kojoj je dostupan.

@@ -1,0 +1,35 @@
+ kriteriji priznavanja potraživanja ili obveza već se ispunjenje ovih kriterija očekuje u budućim razdobljima.
+14.7. Državne potpore – jesu pomoći države u obliku transfera resursa poduzetniku u zamjenu za prošlo ili buduće zadovoljavanje određenih uvjeta koji se tiču poslovanja poduzetnika. Državne pomoći isključuju one oblike državne pomoći kojima nije moguće na razborit način utvrditi vrijednost i transakcije s državom koje se ne mogu razlikovati od normalnih poslovnih transakcija poduzetnika.
+14.8. Bruto ulaganje u najam – je zbroj:
+a) potraživanja najmodavca po financijskom najmu za minimalna plaćanja najamnine, i
+b) svakog nezajamčenog ostatka vrijednosti pripisivog najmodavcu.
+14.9. Neto ulaganje u najam – je bruto ulaganje u najam diskontirano za kamatnu stopu sadržanu u najmu.
+14.10. Nezarađeni financijski prihod – je razlika između:
+a) bruto ulaganja u najam, i
+b) neto ulaganja u najam.
+14.11. Odgođene porezne obveze – jesu iznosi poreza na dobit plativi u budućim razdobljima koji se odnose na oporezive privremene razlike.
+14.12. Odgođena porezna imovina – je iznos poreza na dobit za povrat u budućim razdobljima, a odnose se na:
+a) privremene razlike koje se mogu odbiti,
+b) prenesene neiskorištene porezne gubitke, i
+c) prenesene neiskorištene porezne olakšice.
+14.13. Privremene razlike – jesu razlike između knjigovodstvene vrijednosti imovine ili obveze u bilanci i njihove porezne osnovice. Privremene razlike mogu biti:
+a) oporezive privremene razlike – imaju za posljedicu oporezive iznose pri određivanju oporezive dobiti (poreznog gubitka) u budućim razdobljima kada će knjigovodstvena vrijednost imovine biti nadoknađena ili obveza podmirena, ili
+b) odbitne privremene razlike – imaju za posljedicu iznose koji se mogu odbiti pri određivanju oporezive dobiti (poreznog gubitka) budućeg razdoblja u kojemu će knjigovodstvena vrijednost imovine biti nadoknađena ili obveza podmirena.
+SADRŽAJ
+14.14. Ovaj standard se treba primijeniti pri priznavanju i vrednovanju vremenskih razlika u financijskim izvještajima poduzetnika. Vremenske razlike uključuju:
+a) aktivna vremenska razgraničenja:
+i. unaprijed plaćeni troškovi, i
+ii. nedospjela naplata prihoda,
+b) pasivna vremenska razgraničenja:
+i. odgođeno plaćanje troškova, i
+ii. prihod budućeg razdoblja.
+14.15. Ovaj standard se ne odnosi na nerealizirane dobitke koji se odnose na vrednovanje financijske imovine raspoložive za prodaju, a koji su evidentirani izravno u kapitalu.
+PRIZNAVANJE
+14.16. Vremenska razgraničenja priznaju se u financijskim izvještajima poduzetnika u skladu s točkama 14.17 do 14.20.
+14.17. Unaprijed plaćeni troškovi priznaju se kao imovina kada se odnose na iznose plaćene u tekućem razdoblju, a koji se odnose na buduća razdoblja (npr. plaćena premija osiguranja).
+14.18. Nedospjela naplata prihoda priznaje se kao imovina kada se odnose na prihode koji se odnose na tekuće razdoblje, ali još nisu zadovoljeni kriteriji priznavanja kao potraživanja).
+14.19. Odgođeno plaćanje troškova priznaje se kao obveza kada se odnosi na troškove nastale u tekućem razdoblju, a za koje nisu ispunjeni uvjeti za priznavanje kao obveza (npr. troškovi koji su nastali, ali postoji neizvjesnost u pogledu iznosa te se zbog toga procjenjuju).
+14.20. Prihod budućeg razdoblja priznaje se kada nisu zadovoljeni uvjeti za njihovo priznavanje u računu dobiti i gubitka tekućeg razdoblja.
+14.21. Državne potpore povezane s imovinom, uključujući nenovčane potpore po fer vrijednosti, trebaju se prezentirati u bilanci ili iskazivanjem odgođenog prihoda ili tretiranjem kao odbitne stavke pri izračunavanju knjigovodstvene vrijednosti te imovine, osim državnih potpora za biološku imovinu koja se naknadno mjeri po fer vrijednosti u skladu s HSFI 17.
+14.22. Kad je riječ o potporama (ili odgovarajućim dijelovima potpora) povezanih s imovinom, osim biološke imovine u skladu s HSFI 17 – Poljoprivreda, dvije se metode prikazivanja u financijskim izvještajima smatraju prihvatljivim alternativama:
+a) jedna

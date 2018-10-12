@@ -1,0 +1,36 @@
+
+(1) Hrvatski zračni prostor je prostor iznad kopna i teritorijalnog mora Republike Hrvatske.
+(2) Radi sigurnog odvijanja zračnog prometa, dijelovi zračnog prostora Republike Hrvatske mogu biti određeni kao zabranjena područja ili područja s ograničenjem letenja.
+(3) Vojni zrakoplovi imaju pravo pristupa cjelokupnom zračnom prostoru Republike Hrvatske uz prethodno utvrđena ograničenja.
+Članak 9.
+Zabranjeno područje (Prohibited Area – P) je zračni prostor smješten iznad kopnenih područja ili teritorijalnih voda Republike Hrvatske unutar kojeg je letenje zrakoplova zabranjeno.
+Članak 10.
+(1) Uvjetno zabranjeno područje (Restricted Area – R) je zračni prostor smješten iznad kopnenih područja ili teritorijalnih voda Republike Hrvatske unutar kojeg je letenje zrakoplova ograničeno u skladu s unaprijed utvrđenim uvjetima.
+(2) Privremeno izdvojeno područje (Temporary Segregated Area – TSA) je dio zračnog prostora utvrđenih dimenzija koji je pod nadležnosti korisnika kojeg ovlasti Nacionalno povjerenstvo za upravljanje zračnim prostorom i koji se privremeno izdvaja za ekskluzivnu uporabu od određenog subjekta ili korisnika i kroz koji drugom zračnom prometu neće biti dopušten prolazak.
+(3) Privremeno rezervirano područje (Temporary Reserved Area – TRA) je dio zračnog prostora utvrđenih dimenzija koji je pod nadležnosti korisnika kojeg ovlasti Nacionalno povjerenstvo za upravljanje zračnim prostorom i koji je privremeno rezerviran za specifičnu uporabu od određenog subjekta ili korisnika i kroz koji se može dopustiti prolazak ostalom zračnom prometu, pod uvjetima iz odobrenja kontrole zračnog prometa.
+(4) Dinamičko područje je dio zračnog prostora s uspostavljenom privremenom zabranom ili ograničenjem letenja radijusa 46 km (25 NM) oko zrakoplova, s vertikalnom separacijom od 1500 m (5000 ft) od ostalog zračnog prometa. Nadležna KZP osigurava dinamičko područje primjenom propisanih normi, a zrakoplove unutar dinamičkog područja vodi časnik za navođenje.
+(5) Opasno područje (Danger Area – D) je zračni prostor smješten iznad kopnenih područja ili teritorijalnih voda Republike Hrvatske unutar kojeg se, ovisno o slučaju, u određenom vremenu mogu odvijati aktivnosti opasne za letenje zrakoplova.
+(6) Posebno korištenje kontroliranoga zračnog prostora je način uporabe zračnog prostora čiji su uvjeti korištenja utvrđeni propisom koji reguliraju civilni zračni promet. Uvjeti za izdavanje odobrenja za posebno korištenje kontroliranog zračnog prostora utvrđeni su zrakoplovnom publikacijom AIC koju objavljuje pružatelj usluga u zračnoj plovidbi.
+Područja za obuku
+Članak 11.
+(1) Područje za obuku je dio zračnog prostora iz članka 10. ovoga Pravilnika u kojem se provodi osposobljavanje i usavršavanje vojnih letača iz elemenata upravljanja vojnim zrakoplovom ili druge letačke zadaće.
+(2) Područja za obuku iz stavka 1. ovoga članka objavljuju se u vojnim zrakoplovnim publikacijama na način uobičajen u zračnom prometu, a mogu biti:
+– VFR pilotažna zona
+– IFR pilotažna zona
+– pilotažna zona grupnog letenja
+– OAT koridor
+– uvjetno zabranjeno područje
+– privremeno izdvojeno područje
+– privremeno rezervirano područje
+– prekogranično područje
+– prekogranični zračni prostor.
+OAT koridori
+Članak 12.
+(1) OAT koridori su rezervacije zračnog prostora radi sigurnosti letenja vojnih zrakoplova po koridorima brišućeg leta ili zahtjeva vojnog letenja u kontroliranom zračnom prostoru.
+(2) Koridor brišućeg leta određuje se središnjom crtom između prekretnih orijentira rute, izraženih u WGS 84 zemljopisnim koordinatama. Širina koridora je 3 NM (5,5 km) i to po 1,5 NM (2,25 km) lijevo i desno od crte rute i visinom od površine zemlje do 1000 ft (300 m) iznad tla.
+(3) OAT koridori objavljuju se na način uobičajen u zračnom prometu.
+Članak 13.
+Procedura rezervacije zračnog prostora za potrebe vojnog zračnog prometa uređuje se Uputom za podnošenje zahtjeva za objavu i poništenje NOTAM-a.
+Uporaba zračnog prostora
+Članak 14.
+(1) Vojni zrakoplovi će letjeti, kada je to

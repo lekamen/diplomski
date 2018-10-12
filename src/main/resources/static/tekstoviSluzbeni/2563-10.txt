@@ -1,0 +1,26 @@
+ili ispisana inačica izvorne poruke pružatelja mrežnih usluga sustavu T2S dokazno je sredstvo neovisno o obliku izvorne poruke.
+3. Ako se veza imatelja DCA-a s pružateljem mrežnih usluga sustavu T2S prekine, imatelj DCA-a upotrebljava drugo sredstvo prijenosa poruka dogovoreno s Hrvatskom narodnom bankom. U tim slučajevima inačica poruke koju je snimila ili ispisala Hrvatska narodna banka ima istu dokaznu snagu kao i izvorna poruka, neovisno o njezinu obliku.
+4. Hrvatska narodna banka čuva cjelokupnu evidenciju naloga za plaćanje podnesenih i plaćanja primljenih od imatelja DCA-a 11 godina od kada su ti nalozi za plaćanje podneseni i plaćanja primljena osim ako posebnim propisima nije određen duži rok.
+5. Vlastite poslovne knjige i evidencije Hrvatske narodne banke (pohranjene na papiru, mikrofilmu, mikrofišu, elektroničkoj ili magnetskoj snimci, u drugom obliku koji je moguće mehanički reproducirati ili bilo kojem drugom obliku) dokazna su sredstva za sve obveze imatelja DCA-a i za sve činjenice i događaje na koje se stranke pozivaju.
+GLAVA VII. OTKAZ, ISKLJUČENJE I ZATVARANJE NAMJENSKIH NOVČANIH RAČUNA
+Članak 23.
+Trajanje i otkaz namjenskih novčanih računa
+1. Ne dovodeći u pitanje članak 24. ove Odluke, DCA u sustavu TARGET2-HR otvara se na neodređeno vrijeme.
+2. Imatelj DCA-a može otkazati svoj DCA u sustavu TARGET2-HR u svako doba uz otkazni rok od 14 radnih dana, osim ako s Hrvatskom narodnom bankom ugovori kraći otkazni rok.
+3. Hrvatska narodna banka može otkazati DCA imatelja DCA-a u sustavu TARGET2-HR u svako doba uz tromjesečni otkazni rok, osim ako s tim imateljem DCA-a ugovori drukčiji otkazni rok.
+4. Nakon otkaza DCA-a dužnost čuvanja povjerljivih podataka utvrđena u članku 27. ove Odluke ostaje na snazi za razdoblje od pet godina od dana otkaza.
+5. Nakon otkaza DCA-a, DCA se zatvara u skladu s člankom 25. ove Odluke.
+Članak 24.
+Privremeno i trajno isključenje iz sudjelovanja
+1. Imatelj DCA-a bit će odmah, bez prethodne obavijesti, trajno ili privremeno isključen iz sudjelovanja u sustavu TARGET2-HR ako nastupi jedan od sljedećih slučajeva neispunjavanja obveza:
+(a) otvaranje postupka zbog insolventnosti ili
+(b) imatelj DCA-a više ne ispunjava mjerila za pristup utvrđena u članku 5. ove Odluke.
+2. Hrvatska narodna banka može bez prethodne obavijesti trajno ili privremeno isključiti imatelja DCA-a iz sudjelovanja u sustavu TARGET2-HR ako:
+(a) nastupi jedan ili više slučajeva neispunjavanja obveza (osim onih iz stavka 1. ovog članka),
+(b) imatelj DCA-a počini bitnu povredu ove Odluke,
+(c) imatelj DCA-a propusti ispuniti bilo koju bitnu obvezu prema Hrvatskoj narodnoj banci,
+(d) imatelj DCA-a isključen je iz, ili na drugi način prestaje biti član, zatvorene korisničke grupe (CGU) sustava T2S i/ili
+(e) nastupi bilo koji događaj povezan s imateljem DCA-a koji bi prema ocjeni Hrvatske narodne banke ugrozio opću stabilnost, solidnost i sigurnost sustava TARGET2-HR ili bilo koje druge komponente sustava TARGET2, ili koji bi ugrozio ispunjavanje zadaća Hrvatske narodne banke utvrđenih Zakonom o Hrvatskoj narodnoj banci i Statutom Europskog sustava središnjih banaka i Europske središnje banke, ili predstavlja rizik s obzirom na načelo opreznosti.
+3. Pri korištenju diskrecijske ocjene prema stavku 2. ovog članka Hrvatska narodna banka uzima u obzir, između ostalog, ozbiljnost slučaja neispunjavanja obveza ili događaja iz točaka od (a) do (c) tog stavka.
+4. (a) U slučaju da Hrvatska narodna banka privremeno ili trajno isključi imatelja DCA-a iz sudjelovanja u sustavu TARGET2-HR prema stavcima 1. ili 2. ovog članka, Hrvatska narodna banka odmah obavješćuje tog imatelja DCA-a, druge središnje banke i druge sudionike o tom privremenom ili trajnom isključenju preko ICM poruke ili T2S poruke, ovisno o tome kojom se tehničkom opcijom propisanom u članku 19. ove Odluke koristi imatelj DCA-a.
+(b) U slučaju da je drugi SB obavijestio Hrvatsku narodnu banku o privremenom ili trajnom isključenju sudionika iz druge komponente sustava

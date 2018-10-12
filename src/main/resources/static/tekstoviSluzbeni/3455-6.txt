@@ -1,0 +1,28 @@
+ njegovom namjenom, moraju biti sastavni dio popratne upute.
+Nepokretne instalacije
+Članak 19.
+(1) Mjerodavne odredbe ovoga Pravilnika primjenjuju se na sve uređaje koji su stavljeni na raspolaganje na tržištu i koji se mogu ugraditi u nepokretnu instalaciju.
+(2) Primjena odredaba članaka 6. do 12. i članaka 14. do 18. ovoga Pravilnika nije obvezna za uređaj namijenjen ugradnji u određenu nepokretnu instalaciju, a koji inače nije stavljen na raspolaganje na tržištu.
+(3) Uređaj iz stavaka 1. i 2. ovoga članka mora biti popraćen dokumentacijom koja opisuje nepokretnu instalaciju i značajke elektromagnetske kompatibilnosti te ukazuje na zaštitne mjere koje se moraju poduzeti prigodom ugradnje uređaja u tu nepokretnu instalaciju, kako se ne bi ugrozila usklađenost te instalacije sa zahtjevima iz članka 6. ovoga Pravilnika. Dokumentacija uključuje i podatke iz članka 7. stavaka 5. i 6. i članka 9. stavka 4. ovoga Pravilnika. Odgovorna osoba mora čuvati dokumentaciju sve dok je nepokretna instalacija u uporabi, te je dati na uvid nadležnom inspektoru iz članka 23. stavka 1. ovoga Pravilnika (u daljnjem tekstu: nadležni inspektor), na njegov zahtjev.
+(4) U slučaju postojanja naznaka o neusklađenosti nepokretne instalacije sa zahtjevima elektromagnetske kompatibilnosti ili prigovora na smetnje uzrokovane nepokretnom instalacijom, nadležni inspektor može zatražiti dokaz o sukladnosti nepokretne instalacije i prema potrebi narediti pokretanje postupka ocjenjivanja sukladnosti nepokretne instalacije sa zahtjevima iz članka 6. ovoga Pravilnika.
+(5) Ako nadležni inspektor utvrdi da nepokretna instalacija nije usklađena sa zahtjevima iz članka 6. ovoga Pravilnika, rješenjem će narediti uklanjanje utvrđenih nedostataka u za to primjerenom roku.
+(6) U slučaju nepostupanja po rješenju nadležnog inspektora iz stavka 5. ovoga članka u za to određenom roku, nadležni inspektor će rješenjem zabraniti rad nepokretne instalacije, do uklanjanja utvrđenih nedostataka.
+V. PRIJAVLJIVANJE TIJELA ZA OCJENJIVANJE SUKLADNOSTI
+Tijelo za ocjenjivanje sukladnosti
+Članak 20.
+(1) Tijelo za ocjenjivanje sukladnosti može obavljati poslove ocjenjivanja sukladnosti električne i druge tehničke opreme na temelju rješenja o ovlaštenju koje donosi ministar, uz uvjet da to tijelo ima potvrdu hrvatskog nacionalnog akreditacijskog tijela o ispunjavanju uvjeta iz posebnog propisa o prijavljivanju tijela za ocjenjivanje sukladnosti.
+(2) Postupak utvrđivanja osposobljenosti tijela za ocjenjivanje sukladnosti u ime Ministarstva provodi hrvatsko nacionalno akreditacijsko tijelo u skladu sa stavkom 1. ovoga članka.
+(3) Potvrda iz stavka 1. ovoga članka mora osobito sadržavati:
+– nadnevak izdavanja potvrde
+– popis opreme za ispitivanje s nadnevcima umjeravanja
+– module za ocjenjivanje sukladnosti za koje se ovlaštenje izdaje
+– ime osobe osposobljene i odgovorne za nadzor i procjenu ishoda ispitivanja
+– opis poslova za ocjenjivanje sukladnosti
+– vrste uređaja.
+(4) Zahtjev za izdavanje rješenja o ovlaštenju iz stavka 1. ovoga članka, koji tijelo za ocjenjivanje sukladnosti podnosi Ministarstvu, mora sadržavati sljedeće:
+– podatke o podnositelju zahtjeva
+– presliku potvrde iz stavka 1. ovoga članka ili presliku potvrde o akreditaciji iz stavka 7. ovoga članka.
+(5) Rješenje o ovlaštenju iz stavka 1. ovoga članka može se vremenski ograničiti ili vrijediti do ukidanja.
+(6) Prijavljeno tijelo za ocjenjivanje sukladnosti mora ispunjavati uvjete propisane posebnim propisom o prijavljivanju tijela za ocjenjivanje sukladnosti tijekom cijelog razdoblja važenja rješenja o ovlaštenju iz stavka 1. ovoga članka.
+(7) Smatra se da tijelo za ocjenjivanje sukladnosti, koje ima potvrdu o akreditaciji hrvatskog nacionalnog akreditacijskog tijela, udovoljava uvjetima iz posebnog propisa o prijavljivanju tijela za ocjenjivanje sukladnosti s obzirom na opseg aktivnosti i proizvoda obuhvaćenih tom akreditacijom.
+(8) Hrvatsko nacionalno akreditacijsko tijelo će za potrebe Ministarstva najmanje jedanput

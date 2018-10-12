@@ -1,0 +1,68 @@
+ elektroničkih i mehaničkih brojčanika na automatima za igre na sreću.
+(2) Priređivač je dužan obrazac Popis stanja elektroničkih brojčanika po pojedinom automatu za igre na sreću (obrazac br. 14) izraditi na način da isti sadržava sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. adresu prostora u kojemu se priređuju igre na sreću
+4. oznaku lokacije
+5. inventurni broj automata za igre na sreću
+6. serijski broj automata za igre na sreću
+7. vrstu programa
+8. koeficijent
+9. podatke o ulogu (bet)
+10. podatke o dobitku (win)
+11. podatke o ulazu (in)
+12. podatke o izlazu (out)
+13. jack-pot
+14. potpis ovlaštene osobe priređivača.
+(3) Uz obrazac propisan stavkom 2. ovoga članaka priređivač je dužan izraditi i obrazac Popis stanja elektroničkih brojčanika po bet i win brojčanicima (obrazac br. 15 – Prilog 2) koji sadržava sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. oznaku lokacije
+4. datum
+5. inventurni broj automata za igre na sreću
+6. serijski broj automata za igre na sreću
+7. koeficijent
+8. početno stanje brojčanika za mjesec za koji se radi obračun po brojčaniku uloga (bet)
+9. početno stanje brojčanika za mjesec za koji se radi obračun po brojčaniku dobitka (win)
+10. završno stanje brojčanika za mjesec za koji se radi obračun po brojčaniku uloga (bet)
+11. završno stanje brojčanika za mjesec za koji se radi obračun po brojčaniku dobitka (win)
+12. razliku uloga (bet)
+13. razlika dobitka (win)
+14. ukupan rezultat
+15. odgovorna osoba.
+(4) Priređivač je dužan obrazac Popis stanja elektroničkih brojčanika po bet i win brojčanicima (obrazac br. 15. – Prilog 2) dostaviti Ministarstvu financija elektroničkim putem, korištenjem sustava elektroničkog servisa Porezne uprave ePorezna zaključno dvadesetoga dana u tekućem mjesecu za prethodni mjesec. Obrazac se dostavlja u PDF formatu, kao prilog obrascima broj 19, broj 23 i broj 24.
+(5) Priređivač je dužan obrazac Popis stanja mehaničkih brojčanika po pojedinom automatu za igre na sreću (obrazac br. 16) izraditi na način da isti sadržava sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. adresa prostora u kojemu se priređuju igre na sreću
+4. oznaka lokacije
+5. datum
+6. inventurni broj automata za igre na sreću
+7. serijski broj automata za igre na sreću
+8. vrstu programa
+9. koeficijent
+10. podatke o ulogu (bet)
+11. podatke o dobitku (win)
+12. podatke o ulazu (in)
+13. podatke o izlazu (out)
+14. jack-pot
+15. potpis ovlaštene osobe priređivača.
+(6) Priređivač iznimno može izraditi popis stanja mehaničkih brojčanika po pojedinom automatu za igre na sreću samo po bet i win brojčanicima ili po in i out brojčanicima, ukoliko brojčanici na pojedinom automatu za igre na sreću ne bilježe sve podatke propisane stavkom 5. točke 10., 11., 12. i 13. ovog članka.
+(7) Obrasci obračuna stanja elektroničkih i mehaničkih brojčanika po pojedinom automatu za igre na sreću moraju biti numerirani i potpisuje ih ovlaštena osoba priređivača.
+(8) Koeficijent u smislu ovoga Pravilnika podrazumijeva broj okretaja brojčanika za uplatu od jedne (1) kune.
+Obrazac br. 14 – Popis stanja elektroničkih brojčanika po pojedinom automatu za igre na sreću
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+ADRESA:
+OZNAKA LOKACIJE:
+STANJE ELEKTRONIČKIH BROJČANIKA NA DAN ______ N°__
+R. br. INVENTURNI BROJ AUTOMATA SERIJSKI BROJ AUTOMATA VRSTA PROGRAMA KOEFICIJENT ULOG BET DOBITAK WIN ULAZ IN IZLAZ OUT JACK-POT UKUPNO
+_____________________
+Ovlaštena osoba priređivača
+Obrazac br. 15 – Prilog 2
+Popis stanja elektroničkih brojčanika po bet i win brojčanicima
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA:
+OIB PRIREĐIVAČA:
+OZNAKA LOKACIJE*:
+STANJE ELEKTRONIČKIH BROJČANIKA NA DAN __________N°___
+R. br.  OZNAKA LOKACIJE** INVENTARNI BROJ AUTOMAT SERIJSKI BROJ AUTOMATA KOEFICIJENT POČETNA STANJA BROJČANIKA ZA MJESEC ZA KOJI SE RADI OBRAČUN ZAVRŠNA STANJA BROJČANIKA ZA MJESEC ZA KOJI SE RADI

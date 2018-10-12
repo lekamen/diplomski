@@ -1,0 +1,23 @@
+ Pravilnika.
+(6) Ukoliko inspektor elektroničkih komunikacija utvrdi da je došlo do kršenja odredbi ovog Pravilnika, odredit će davatelju broja provedbu prijenosa zatraženog broja u najkraćem mogućem roku, ukoliko korisnik nije otkazao Zahtjev za prijenos broja.
+(7) U slučaju da inspektor utvrdi neopravdanu odgodu ili odbijanje prijenosa broja i kršenje odredbi Pravilnika, a istovremeno je došlo do nepravovremenog prijenosa broja ili otkaza iz članka 13. stavka 4. točke a. ovog Pravilnika, operator za kojeg se utvrdi da je neopravdano odbio ili odgodio prijenos broja, isplatit će korisniku naknadu iz članka 23. ovog Pravilnika.
+Realizacija prenosivosti broja
+Članak 20.
+(1) Davatelj broja i primatelj broja će provesti postupak prijenosa broja na dan i u vremenskom okviru određenom u CABP-u.
+(2) Davatelj broja će nakon isključenja broja iz svoje elektroničke komunikacijske mreže o tome bez odgode obavijestiti CABP.
+(3) Primatelj broja će nakon uključenja broja u svoju elektroničku komunikacijsku mrežu o tome bez odgode obavijestiti CABP.
+(4) Po primitku obavijesti iz stavaka 2. i 3. ovog članka, smatra se da je broj prenesen i da je raskinut pretplatnički odnos ili korisnički zapis između davatelja broja i podnositelja Zahtjeva za prijenos broja i CABP će bez odgode ažurirati LBPB svih operatora.
+(5) Ukoliko je preneseni broj prenesen pogreškom, neopravdano odbijen ili usluga na istome nije uspješno realizirana, operatori su obvezni koristiti funkcionalnosti CABP-a kako bi se pogreška otklonila. Po dojavi pogreške operatori su obvezni utvrditi dolazi li do pogreške na njihovoj strani te o tome obavijestiti sve uključene strane te Agenciju. Prijavljena pogreška mora se otkloniti u roku od 48 sati od prijave.
+Članak 21.
+(1) Davatelj broja će podnositelju Zahtjeva za prijenos broja ispostaviti račun za obavljene elektroničke komunikacijske usluge za mjesec u kojem je izvršen prijenos broja.
+(2) Neiskorišteni iznos na korisničkom računu za unaprijed plaćene usluge (eng: »pre-paid«) davatelja broja se ne može prenositi i koristiti za plaćanje elektroničkih komunikacijskih usluga primatelja broja. Davatelj broja će korisniku unaprijed plaćene usluge (eng: »pre-paid«) usluge izvršiti povrat neiskorištenog iznosa na korisničkom računu u skladu s odredbama Pravilnika o načinu i uvjetima obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.
+Vremenski okvir prijenosa broja
+Članak 22.
+(1) Vremenski okvir prijenosa broja je razdoblje od isključenja broja iz elektroničke komunikacijske mreže davatelja broja do uključenja broja u elektroničku komunikacijsku mrežu primatelja broja.
+(2) Vremenski okvir prijenosa broja ne smije trajati duže od 3 sata i to samo u sljedećim razdobljima: radnim danom od 08.00 do 11.00 sati ili od 12.00 do 15.00 sati.
+(3) Podnositelju Zahtjeva za prijenos broja neće biti omogućeno korištenje usluga najduže za vrijeme trajanja vremenskog okvira prijenosa broja.
+Naknada u slučaju nepravovremenog prijenosa broja
+Članak 23.
+(1) Podnositelj Zahtjeva za prijenos broja ima pravo, u slučaju nepravovremenog prijenosa broja, na naknadu u iznosu od 10 kn za svaki započeti sat nepravovremenog prijenosa broja, za jedan broj. Iznos naknade se obračunava za najviše petnaest (15) dana nepravovremenog prijenosa broja. Iznos naknade u slučaju nepravovremenog prijenosa za više brojeva na jednom Zahtjevu za prijenos broja može biti najviše deseterostruko veći od maksimalnog iznosa naknade za nepravovremeni prijenos jednog broja.
+(2) Ukoliko je nepravovremeni prijenos uzrokovan nedostupnošću ili neodazivom podnositelja Zahtjeva za prijenos broja na pozive za instalaciju usluge ili dostavljanje opreme, podnositelj Zahtjeva za prijenos broja za navedeni period nema pravo na naknadu za nepravovremeni prijenos broja.
+(3) Zahtjev za isplatom naknade podnosi se pisanim ili elektroničkim putem primatelju broja, najkasnije u roku od trideset (30) dana od datuma realizacije prijenosa broja ili isteka roka iz članka 11. stavka 11.

@@ -1,0 +1,31 @@
+ Padobrani, paraglajderi i pripadajuća oprema, kao i posebno konstruirane komponente za njih, kako slijedi:
+1. Padobrani koji nisu navedeni bilo gdje drugdje u Zajedničkom popisu robe vojne namjene EU-a;
+2. Paraglajderi;
+3. Oprema posebno osmišljena za padobrance na velikim visinama (npr. odijela, posebne kacige, sustavi za disanje, oprema za navigaciju);
+i. Oprema za kontrolirano otvaranje ili sustavi automatskog pilotiranja osmišljeni za teret koji se izbacuje padobranom.
+Napomena 1. ML10.a. ne odnosi se na »zrakoplov« i »vozila lakša od zraka« ili varijante tih »zrakoplova« posebno izrađenih za vojnu uporabu i koji imaju sve sljedeće značajke:
+a. Nisu bojni zrakoplovi;
+b. Nisu konfigurirani za vojnu uporabu ni opremljeni opremom ili dodacima posebno izrađenim ili prilagođenim za vojnu uporabu; i
+c. Kojima su tijela nadležna za civilno zrakoplovstvo iz jedne ili više država članica EU-a ili država sudionica u Sporazumu iz Wassenaara izdala potvrdu za civilnu uporabu.
+Napomena 2. ML10.d. ne odnosi se na:
+a. Zrakoplovne motore izrađene ili prilagođene za vojnu uporabu kojima su tijela nadležna za civilno zrakoplovstvo iz jedne ili više država članica EU-a ili država sudionica u Sporazumu iz Wassenaara izdala potvrdu za civilnu uporabu za upotrebu u »civilnom zrakoplovstvu«, ili njihove posebno izrađene komponente;
+b. Klipne motore ili za njih posebno konstruirane komponente, osim onih posebno konstruiranih za bespilotne letjelice.
+Napomena 3. Za potrebe ML10.a. i ML10.d., posebno konstruirane komponente i pripadajuća oprema za nevojne »zrakoplove« ili zrakoplovni motori prilagođeni za vojnu uporabu, odnose se samo na one vojne komponente i pripadajuću vojnu opremu koju je potrebno izmijeniti za vojnu uporabu.
+Napomena 4. Za potrebe ML10.a., vojna uporaba uključuje: borbu, vojno izviđanje, napad, vojnu obuku, logističku potporu, prijevoz i spuštanje vojnika ili vojne opreme iz zraka.
+Napomena 5. ML10.a. ne odnosi se na »zrakoplove« koji ispunjavaju sve sljedeće uvjete:
+a. Izrađeni su prvi put prije 1946.;
+b. Ne uključuju robu navedenu u Zajedničkom popisu robe vojne namjene EU-a, osim ako roba mora zadovoljavati sigurnosne standarde ili standarde sposobnosti za zračni promet tijelâ nadležnih za civilno zrakoplovstvo iz jedne ili više država članica EU-a ili država sudionica u Sporazumu iz Wassenaara; i
+c. Ne uključuju oružje navedeno u Zajedničkom popisu robe vojne namjene EU-a, osim ako je neuporabljivo i ne može se popraviti.
+ML11. Elektronička oprema, »svemirska letjelica« i komponente koji nisu navedeni drugdje u Zajedničkom popisu robe vojne namjene EU-a, kako slijedi:
+a. Elektronička oprema posebno izrađena ili prilagođena za vojnu uporabu te za nju posebno konstruirane komponente;
+Napomena ML11.a. uključuje:
+a. Elektroničku opremu za protumjere i elektroničku opremu za protu-protumjere (npr. oprema namijenjena za ubacivanje vanjskih ili pogrešnih signala na radar ili prijamnike za radio komunikaciju ili drukčije ometanje prijema, rada ili učinkovitosti protivničkih elektroničkih prijamnika, uključujući i njihovu opremu za protumjere), uključujući opremu za ometanje i protu-ometanje;
+b. Cijevi s podesivom frekvencijom;
+c. Elektroničke sustave ili opremu konstruiranu za nadzor i praćenje elektromagnetskog spektra za vojne obavještajne ili sigurnosne svrhe ili za mjere protiv takvog nadzora i praćenja;
+d. Podvodne protumjere, uključujući akustično i magnetsko ometanje i zavaravanje, opremu namijenjenu za ubacivanje vanjskog ili lažnog signala na sonarne prijamnike;
+e. Opremu za obradu sigurnosnih podataka, opremu za sigurnost podataka i opremu za prijenos te sigurnost linija veze uz korištenje postupaka šifriranja;
+f. Opremu za identifikaciju, provjeravanje i unos šifri te opremu za upravljanje, izradu i distribuciju šifri;
+g. Opremu za navođenje i navigaciju;
+h. Digitalnu radijsku opremu za prijenos informacija;
+i. Digitalne demodulatore posebno konstruirane za praćenje signala;
+j. »Automatizirane sustave za zapovijedanje 

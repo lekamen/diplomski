@@ -1,0 +1,11 @@
+da se za očekivano smanjenje upisuje predznak »-« minus.
+8. IZJAVA O NEPOSTOJANJU FISKALNOG UČINKA PRIJEDLOGA PROPISA/AKTA PLANIRANJA
+Ako prijedlog propisa/akta planiranja nema nikakav fiskalni učinak jer se primjerice radi o nomotehničkim izmjenama i dopunama postojećeg propisa/akta planiranja ili se prihvaća izvješće o provedbi, predlagatelj u ovom dijelu jasno i nedvosmisleno navodi da prihvaćanje, odnosno provedba nema i neće rezultirati fiskalnim učinkom. U ovom slučaju predlagatelj popunjava samo točke 1., 2. i 8. Obrasca. Prilikom ispisa Obrasca iz web aplikacije ispisat će se samo ove točke Obrasca. Izjavu potpisuje ministar ili zamjenik ministra, predstojnik državnog ureda ili njegov zamjenik odnosno ravnatelj državne upravne organizacije ili njegov zamjenik. Izjava se ovjerava pečatom, uz naznaku mjesta i datuma ovjeravanja.
+9. OBRAZLOŽENJE PREDLAGATELJA
+Daje se sažeto obrazloženje predloženog propisa/akta planiranja i njegovih posljedica za državni proračun, proračune županija, općina/gradova i financijske planove izvanproračunskih korisnika.
+Obrazac potpisuje ministar ili zamjenik ministra, predstojnik državnog ureda ili njegov zamjenik odnosno ravnatelj državne upravne organizacije ili njegov zamjenik. Obrazac se ovjerava pečatom, uz naznaku mjesta i datuma ovjeravanja.
+10. KONTAKT OSOBA PREDLAGATELJA
+U ovom dijelu se upisuju osnovi podaci o osobi koja je izradila procjenu i ispunila Obrazac.
+11. SUGLASNOST/MIŠLJENJE MINISTARSTVA FINANCIJA
+Ministarstvo financija očituje se o danoj procjeni fiskalnog učinka. Ako prijedlog propisa/akata planiranja ima fiskalni učinak na proračun Ministarstvo financija daje suglasnost, a ako nema fiskalni učinak Ministarstva financija daje mišljenje na Izjavu o nepostojanju fiskalnog učinka prijedloga propisa/akta planiranja danu u točki 8. Odgovorna osoba Ministarstva financija (ministar financija ili zamjenik ministra) ovjerava Obrazac.
+Obrazac ovjeren od strane Ministarstva financija predlagatelj dostavlja Vladi uz prijedlog propisa/akta planiranja, budući da, sukladno Poslovniku Vlade Republike Hrvatske, Vlada odnosno njezina stalna radna tijela neće razmatrati prijedloge propisa i akata poslovanja uz koje nije priložen Iskaz o procjeni fiskalnog učinka.

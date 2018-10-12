@@ -1,0 +1,28 @@
+ Broj uzoraka godišnje (Napomene 3. i 4.) volumen ≤ 100 1 u pet godina 100 < volumen ≤ 1 000 1 1 000 < volumen ≤ 10 000 1 + 1 za svakih 3 300 m3/d i njihov dio ukupnog volumena 10 000 < volumen ≤ 100 000 3 + 1 za svakih 10 000 m3/d i njihov dio ukupnog volumena volumen > 100 000 10 + 1 za svakih 25 000 m3/d i njihov dio ukupnog volumena
+Napomena 1. – Zona opskrbe je zemljopisno definirano područje unutar kojeg voda namijenjena za ljudsku potrošnju dolazi iz jednog ili više izvora te unutar kojega se kvaliteta vode može smatrati otprilike ujednačenom.
+Napomena 2. – Količine se računaju kao prosječne vrijednosti tijekom jedne kalendarske godine. Umjesto količine vode za ljudsku potrošnju, za dobivanje minimalne učestalosti, može se upotrijebiti broj stanovnika, uz pretpostavku da potrošnja iznosi 200 l/dan po stanovniku.
+Napomena 3. – Broj dobivenih uzoraka prema Tablici 1. ovoga Priloga mora biti vremenski i prostorno ravnomjerno raspoređen u skladu s odredbom članka 8a. stavka 2. ovoga Pravilnika.
+Napomena 4. – U slučaju kratkotrajnog prekida opskrbe vodom, Stručno povjerenstvo će u suradnji s Državnim zavodom za radiološku i nuklearnu sigurnost u skladu sa Zakonom o vodi za ljudsku potrošnju odrediti učestalost praćenja vode koja se distribuira u cisternama.
+PRILOG VI.
+PRAĆENJE U POGLEDU INDIKATIVNE DOZE I KARAKTERISTKE ANALITIČKIH METODA
+1. Utvrđivanje usklađenosti s ID-om
+Kako bi se ukazalo na prisutnost radioaktivnosti u vodi namijenjenoj za ljudsku potrošnju mogu se koristiti različite pouzdane strategije provjere koje mogu uključivati provjeru prisutnosti određenih radionuklida ili pojedinačnog radionuklida ili provjeru ukupne alfa aktivnosti ili ukupne beta aktivnosti.
+(a) Provjera prisutnosti određenih radionuklida ili pojedinačnog radionuklida
+Ako jedna od koncentracija aktivnosti premašuje 20% odgovarajuće izvedene vrijednosti ili koncentracija tricija premašuje svoju vrijednost parametara navedenu u Prilogu IV. Tablica 1., potrebna je analiza dodatnih radionuklida.
+Radionuklide koji se mjere određuje Državni zavod za radiološku i nuklearnu sigurnost uzimajući u obzir sve relevantne podatke o vjerojatnim izvorima radioaktivnosti.
+(b) Strategije provjere ukupne alfa aktivnosti i ukupne beta aktivnosti
+Za praćenje u pogledu indikatorske vrijednosti parametara za ID mogu se koristiti strategije provjere ukupne alfa aktivnosti i ukupne beta aktivnosti (Napomena 1).
+U navedenu svrhu utvrđena razina provjere ukupne alfa aktivnosti iznosi 0,1 Bq/l, a ukupne beta aktivnosti 1,0 Bq/l.
+Ako su ukupna alfa aktivnost i ukupna beta aktivnost niže od 0,1 Bq/l odnosno 1,0 Bq/l, pretpostavlja se da je ID niži od vrijednosti parametara od 0,1 mSv i u tom slučaju nije potrebno radiološko ispitivanje osim ako je iz drugih izvora podataka poznato da su u vodi prisutni pojedini radionuklidi koji mogu uzrokovati da ID premaši vrijednost od 0,1 mSv.
+Ako ukupna alfa aktivnost premašuje 0,1 Bq/l ili ukupna beta aktivnost premašuje 1,0 Bq/l, potrebna je analiza pojedinih radionuklida.
+Moguće je utvrditi i alternativne razine provjere ukupne alfa aktivnosti i ukupne beta aktivnosti kada se može dokazati da su te alternativne razine usklađene s ID-om od 0,1 mSv.
+S obzirom da povišene razine tricija mogu ukazivati na prisutnost drugih umjetnih radionuklida i tricija, na istom uzorku potrebno je izmjeriti ukupnu alfa aktivnost i ukupnu beta aktivnost.
+Strategiju provjere praćenja u pogledu indikativne doze prijedlogom plana monitoringa predlaže Državni zavod za radiološku i nuklearnu sigurnost.
+2. Izračun ID-a
+ID se izračunava iz izmjerenih koncentracija radionuklida i koeficijenata doze utvrđenih u posebnom propisu kojim se propisuju granice ozračenja.
+Kada je zadovoljena sljedeća formula, pretpostavlja se da je ID niži od vrijednosti parametara od 0,1 mSv i u tom slučaju nije potrebno daljnje ispitivanje:
+
+pri čemu je
+Ci (obs) = zabilježena koncentracija radionuklida i
+Ci (der) = izvedena koncentracija radionuklida i
+n = broj otkrivenih

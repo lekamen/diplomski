@@ -1,0 +1,26 @@
+ čeličnih, željeznih i neželjeznih metala
+– kućišta za električnu opremu visokog napona poput sklopki, upravljačkih uređaja, transformatora i rotacionih strojeva
+– cijevi pod tlakom za sustave prijenosa, tj. za električne energetske i telefonske kabele
+– brodove, rakete, avione te pokretne izvanobalne jedinice kao i opremu posebno namijenjenu za ugradnju na njih ili za njihov pogon
+– tlačnu opremu koja se sastoji od elastičnih ovojnica, poput pneumatika, zračnih jastuka, lopti za igranje, plovila za napuhavanje te ostalu sličnu tlačnu opremu
+– ispušne i usisne prigušivače zvuka
+– boce ili limenke za krajnju potrošnju gaziranih pića
+– posude konstruirane za prijevoz i distribuciju pića čiji PS × V nije veći od 500 bar × L i čiji najveći dopušteni tlak ne prelazi 7 bar
+– opremu obuhvaćenu posebnim propisom o kopnenom prijevozu opasnih tvari (ADR, RID) i Pravilnikom o pokretnoj tlačnoj opremi i opremu koju obuhvaćaju Međunarodni pomorski kodeks o opasnim tvarima (IMDG) i Konvencija o Međunarodnoj organizaciji civilnog zrakoplovstva (ICAO)
+– radijatore i cijevi u sustavima toplovodnog grijanja
+– posude konstruirane za tekućine pod tlakom plina iznad tekućine koji nije veći od 0,5 bar
+(3) Ovim Pravilnikom se u pravni poredak Republike Hrvatske prenosi Direktiva 2014/68/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o usklađivanju zakonodavstava država članica o stavljanju na raspolaganje na tržištu tlačne opreme (preinačena) (Tekst značajan za EPG (SL L 96/251, 29. 3. 2014.).
+Definicije
+Članak 2.
+Za potrebe ovog Pravilnika primjenjuju se sljedeće definicije:
+– »tlačna oprema« znači posude, cjevovodi, sigurnosni pribor i tlačni pribor, uključujući, prema potrebi, elemente koji su pripojeni dijelovima pod tlakom kao što su prirubnice, spojnice, potpornji, nosive uške;
+– »posuda« znači zatvoren prostor konstruiran i izrađen s namjenom da sadržava fluide pod tlakom uključujući i priključke za povezivanje s drugom opremom; posuda se može sastojati od više zatvorenih prostora (komora);
+– »cjevovod« znači cijevne komponente namijenjene za distribuciju fluida spojene međusobno tako da čine tlačni sustav; cjevovod posebno uključuje cijev ili sustav cijevi, fitinge, dilatacijske spojnice, crijeva ili druge potrebne dijelove pod tlakom; izmjenjivači topline koji se sastoje od cijevi, a čija je svrha hlađenje ili zagrijavanje zraka smatraju se cjevovodima;
+– »sigurnosni pribor« znači uređaje konstruirane sa svrhom zaštite tlačne opreme od prekoračenja dopuštenih graničnih vrijednosti, uključujući uređaje za izravno ograničavanje tlaka poput sigurnosnih ventila, uređaje sa sigurnosnim rasprsnim diskom, zaštitne šipke, uređaje za kontrolirano rasterećenje od tlaka (CSPRS) te uređaje za ograničavanje koji služe za pokretanje uređaja za korigiranje veličina ili omogućuju isključivanje ili isključivanje i blokadu kao što su presostati, termostati ili regulatori razine te mjerni i regulacijski uređaji sa sigurnosnom funkcijom (SRMCR);
+– »tlačni pribor« znači uređaje s radnom funkcijom čija su kućišta pod tlakom;
+– »sklopovi« znači nekoliko dijelova tlačne opreme koje sklapa proizvođač kako bi stvorio objedinjenu i funkcionalnu cjelinu;
+– »tlak« znači relativni tlak u odnosu na atmosferski tlak, odnosno pretlak. Slijedom toga, vakuum ima negativnu vrijednost;
+– »najveći dopušteni tlak PS« znači najveći tlak za koji je oprema konstruirana, a utvrđuje ga proizvođač i definiran je na mjestu koje je on utvrdio, a to mjesto mora biti ili priključak zaštitnog uređaja i/ili uređaja za ograničavanje ili najviše mjesto na opremi ili, ako to nije prikladno, bilo koje drugo utvrđeno mjesto;
+– »najviša/najniža dopuštena temperatura TS« znači najvišu/najnižu temperaturu za konstruiranu opremu, a utvrđuje ju proizvođač;
+– »volumen (V)« znači unutarnji volumen komore, uključujući volumen priključaka do prvog spoja ili zavara te isključujući volumen trajno ugrađenih unutarnjih dijelova;
+– »nazivni promjer (DN)« znači brojčanu oznaku veličine koja je

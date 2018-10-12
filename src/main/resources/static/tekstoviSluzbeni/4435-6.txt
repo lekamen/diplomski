@@ -1,0 +1,41 @@
+ praktički izvodive mjere na način propisan u Dijelu M, Prilogu I i Dijelu 145, Prilogu II Uredbe Komisije (EU) br. 1321/2014.
+Ispitivanje prema programu
+Članak 30.
+U slučaju potrebe za ispitivanjem povijesnog zrakoplova nakon obavljanja izmjene, po završetku ispitivanja Agenciji se podnosi izvješće sastavljeno na temelju ishoda ispitivanja. Ispitivanje mora biti obavljeno prema programu ispitivanja priloženom uz zahtjev za odobrenje izmjene.
+DIO TREĆI ISTRAŽIVAČKI, EKSPERIMENTALNI I ZNANSTVENI ZRAKOPLOVI
+Glava 1 OPĆE ODREDBE
+Primjena
+Članak 31.
+Ovim Dijelom propisuje se projektiranje, prihvaćanje, gradnja, izmjene, kontinuirana plovidbenost te održavanje i popravci istraživačkih, eksperimentalnih i znanstvenih zrakoplova.
+Glava 2 PROJEKTIRANJE ISTRAŽIVAČKIH, EKSPERIMENTALNIH I ZNANSTVENIH ZRAKOPLOVA
+Projekt
+Članak 32.
+(1) Istraživački, eksperimentalni i znanstveni zrakoplovi mogu se graditi:
+a) prema vlastitom projektu, crtežima i proračunima, uz korištenje sirovog materijala, poluproizvoda, uređaja i opreme te dijelova postojećih zrakoplova;
+b) izmjenom postojećih zrakoplova prema vlastitom projektu, crtežima i proračunima.
+(2) Ako je za gradnju istraživačkog, eksperimentalnog i znanstvenog zrakoplova korišten postojeći certificirani zrakoplov on se više neće smatrati pripadajućim postojećem certificiranom tipu.
+(3) Ako se obavi certifikacija modifikacije zrakoplova i zatim se dokaže da zrakoplov odgovara projektu postojećeg certificiranog tipa i projektu certificirane modifikacije, zrakoplov će se smatrati pripadajućim certificiranom tipu i tada više neće morati biti u skladu s odredbama ovoga Pravilnika.
+Komponente
+Članak 33.
+(1) U tijeku gradnje istraživačkog, eksperimentalnog i znanstvenog zrakoplova može se u taj zrakoplov ugraditi certificirani dio zrakoplova, uređaj i oprema bez obzira na to da li su oni novi ili već korišteni, te da li imaju propisanu potvrdu o otpuštanju u uporabu.
+(2) Osim certificiranih, u zrakoplov se mogu ugraditi i necertificirani zrakoplovni dijelovi, uređaji i oprema te druga oprema po potrebi prilagođena uporabi na zrakoplovu.
+(3) Pri izradi projekta i u gradnji zrakoplova potrebno je za komponente koje nisu certificirani zrakoplovni dijelovi dokazati prikladnost za namjeravanu uporabu.
+Zahtjevi za plovidbenost
+Članak 34.
+(1) Popis prihvatljivih zahtjeva za plovidbenost sastavlja i na svojoj internetskoj stranici objavljuje Agencija.
+(2) Istraživački, eksperimentalni i znanstveni zrakoplov mora biti zadovoljavajuće čvrst, stabilan i upravljiv, u skladu sa zahtjevima za plovidbenost iz stavka 1. ovoga članka, koji će omogućiti letenje bez ugrožavanja sigurnosti osoba i imovine u zraku i na zemlji.
+(3) Podnositelj zahtjeva Agenciji mora predložiti s kojima od zahtjeva za plovidbenost iz stavka 1. ovog članka će dokazati sukladnost.
+(4) Projekt, te za njega razvijene crteže i proračune mora izraditi ili ovjeriti ovlaštena organizacija ili zrakoplovni stručnjak. Ukoliko pojedine proračune, analize (npr. primjenom računala) i ispitivanja (npr. ispitivanje materijala bez razaranja, tehnološke probe i ispitivanja epruveta) obavljaju druge ovlaštene ili stručne organizacije odnosno osobe, one moraju ovjeriti zapise o poslu koji su obavile.
+Glava 3 GRADNJA ISTRAŽIVAČKIH, EKSPERIMENTALNIH I ZNANSTVENIH ZRAKOPLOVA
+Odobrenje za gradnju zrakoplova
+Članak 35.
+Prije početka gradnje istraživačkog, eksperimentalnog i znanstvenog zrakoplova voditelj gradnje je dužan od Agencije pribaviti Odobrenje za gradnju zrakoplova.
+Program gradnje zrakoplova
+Članak 36.
+Odobrenje za gradnju istraživačkog, eksperimentalnog i znanstvenog zrakoplova izdaje se na temelju Programa gradnje zrakoplova koji mora sadržavati:
+1) predstavljanje zrakoplova:
+a) crtež zrakoplova u tri projekcije,
+b) osnovne podatke o zrakoplovu, opis namjene za koju se zrakoplov gradi,
+c) opis zrakoplova: strukture, pogonskih grupa i opreme,
+d) približne proračune performansi,
+e) podatke o najvećoj dozvoljenoj masi pri uzlijetanju i položaju težišta,

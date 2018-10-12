@@ -1,0 +1,35 @@
+ voznog reda tijekom njegova trajanja.
+(2) Upravitelj infrastrukture dužan je općim aktom propisati način i postupke objavljivanja prometa vlakova.
+Obavještavanje osoblja vlaka o prometu vlakova i sigurnosnim mjerama
+Članak 99.
+(1) O prometu vlakova osoblje vlaka obavještava se voznim redom i rasporedom rada.
+(2) O promjenama u vezi sa sigurnošću i urednošću prometa osoblje vlaka obavještava se pisanim nalogom ili sredstvima dokaznog sporazumijevanja.
+(3) Pisani nalog kojim se u službenom mjestu dopušta prolazak vlaka pokraj glavnog signala koji ne vrijedi, u odnosnom službenom mjestu ne smije se predati strojovođi prije nego što su uvjeti za prolazak pokraj signala ispunjeni.
+(4) Zapovijedi ili izvješća o mjerama stalnog značenja daju se osoblju vlaka pisanim nalogom samo do roka koji je u zapovijedi propisan, ali ne manje od 10 dana.
+(5) Kod predaje pisanog naloga izvršni radnik koji ga predaje osoblju vlaka dužan je i usmeno priopćiti njegov sadržaj.
+(6) Ako vlak vozi sa zapregom, strojovođi vozne lokomotive i strojovođi zaprežne lokomotive predaje se po jedan primjerak pisanih naloga ispostavljenih za pružnu dionicu na kojoj vlak vozi sa zapregom. Kod vožnje u sprezi pisani nalog predaje se samo strojovođi prve lokomotive.
+Članak 100.
+(1) Pisani nalozi istog sadržaja ispostavljaju se u onoliko primjeraka koliko je izvršnih radnika potrebno obavijestiti tim nalogom.
+(2) Pisanim nalogom ili sredstvima dokaznog sporazumijevanja obavezno se obavještava i izdaju zapovijedi strojovođi:
+a) o tome da stalni odnosno glavni signali ne vrijede, uz obavezno navođenje vrste i oznake signala
+b) o iznimnom zaustavljanju u službenom mjestu
+c) o iznimnom ulasku, izlasku te ulasku i izlasku u skretanje u kolodvoru u kojem nije predsignalizirana ograničena brzina koju signalizira glavni signal. Ako je najveća dopuštena brzina u pravac jednaka najvećoj dopuštenoj brzini u skretanje, strojovođu nije potrebno obavještavati pisanim nalogom
+d) o vožnji nepravilnim kolosijekom i o najvećoj dopuštenoj brzini vlaka pri toj vožnji
+e) o laganoj vožnji
+f) o najvećoj dopuštenoj brzini vlaka onda kada je ona manja od one propisane voznim redom ili signalizirane signalima
+g) o tome da je u službenom mjestu s ograničenim radnim vremenom nastao prekid službe ili da je služba započela u slučaju odstupanja od voznog reda, ako voznim redom nije predviđen prekid odnosno trajanje službe
+h) o manevriranju iza signala granice manevriranja odnosno ulaznog signala
+i) o zabrani manevriranja iza signalne oznake za početak izoliranog preklopa
+j) o neispravnom uređaju za osiguranje ŽCP-a, o iznimno nezaposjednutom ŽCP-u i u slučaju kada se ne može dati prednajava odnosno kada prednajava nije potvrđena; u svim tim slučajevima strojovođa se obavještava da je odnosni ŽCP neosiguran
+k) o tome da izvršni radnik za osiguranje prometa na ŽCP-ima osobno osigurava ŽCP s neispravnim uređajem za osiguranje ŽCP-a; u tom slučaju brzina vlaka ne smije biti veća od 20 km/h do prolaska čela vlaka preko takva ŽCP-a
+l) o potrebnim sigurnosnim mjerama pri prijevozu izvanredne pošiljke
+m) o tome da se u vlaku na kraju nalazi vagon s neispravnim zračnim vodom
+n) o privremeno postavljenim prijenosnim signalima za električnu vuču
+o) o vožnji vlaka sa spuštenim oduzimačem struje onda kada to nije signalizirano
+p) o zaustavljanju vlaka ispred prilaznog signala zbog čekanja na zapovijed za ulazak u kolodvor
+r) o kilometarskom položaju čela odnosno kraja vlaka kojem se pruža pomoć
+s) o smetnjama na pružnim i lokomotivskim AS uređajima i određivanju brzine vlaka ako je potrebno
+t) o neispravnosti TK-uređaja, uređaja APB i MO, o nevaženju prostornih signala i uvođenju kolodvorskog razmaka
+u) o prometu vlakova preko kolodvora koji su iznimno nezaposjednuti
+v) o brzini vlaka s neispravnom nagibnom tehnikom i vlaka bez nagibne tehnike koji vozi umjesto voznim redom predviđenog vlaka s nagibnom tehnikom odnosno po trasi vlaka s nagibnom tehnikom
+z) o vožnji vlaka po elementima voznog reda drugog vlaka 

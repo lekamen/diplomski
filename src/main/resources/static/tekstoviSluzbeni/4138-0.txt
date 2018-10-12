@@ -1,0 +1,24 @@
+58 24.06.2016 Pravilnik o sustavu unutarnjih kontrola u javnom sektoru
+MINISTARSTVO FINANCIJA
+1487
+Na temelju članka 18. Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15), ministar financija donosi
+PRAVILNIK
+O SUSTAVU UNUTARNJIH KONTROLA U JAVNOM SEKTORU
+I. UVODNE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuje se sadržaj okvira za razvoj sustava unutarnjih kontrola u javnom sektoru, svrha njegove primjene i odgovorne osobe za primjenu, smjernice za rad ustrojstvenih jedinica nadležnih za financije korisnika proračuna u dijelu aktivnosti vezanih uz koordinaciju razvoja sustava unutarnjih kontrola te provjera primjene okvira za razvoj sustava unutarnjih kontrola.
+Članak 2.
+(1) Odredbe ovoga Pravilnika odnose se na proračunske i izvanproračunske korisnike državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru proračunskih i izvanproračunskih korisnika i na jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: korisnici proračuna).
+(2) Odredbe ovoga Pravilnika u dijelu koji uređuje okvir za razvoj sustava unutarnjih kontrola, svrhu njegove primjene i odgovornost za primjenu, odnose se i na trgovačka društva u vlasništvu Republike Hrvatske, odnosno jedne ili više jedinica lokalne i područne (regionalne) samouprave i druge pravne osobe kojima je osnivač Republika Hrvatska, odnosno jedna ili više jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti (u daljnjem tekstu: trgovačka društva i druge pravne osobe).
+Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeća značenja:
+1. Institucija predstavlja zajednički naziv za korisnike proračuna i trgovačka društva te druge pravne osobe.
+2. Jedinica za financije je najviši ustrojstveni oblik jedinice kod korisnika proračuna u čijoj su nadležnosti poslovi financija (uprava ili glavno tajništvo u ministarstvima, odnosno upravno tijelo nadležno za financije u županijama, gradovima i općinama ili ustrojstvena jedinica nadležna za financije drugog naziva u ostalim korisnicima proračuna).
+3. Interni akti su podzakonski akti koje donosi odgovorna osoba institucije, a kojima se na temelju zakona i drugih propisa, uvažavajući posebnosti u poslovanju institucije, detaljnije uređuju ključni procesi za financijsko upravljanje na način da se razrađuju postupci, definiraju sudionici, njihove ovlasti i odgovornosti, razrađuju kontrolne aktivnosti za smanjenje rizika radi osiguranja zakonitosti i pravilnosti, ekonomičnosti, učinkovitosti i djelotvornosti u upravljanju sredstvima.
+4. Ključni procesi za financijsko upravljanje su procesi planiranja, programiranja, izrade i izvršavanja proračuna odnosno financijskog plana, nabave i ugovaranja, računovodstva i izvještavanja.
+5. Troškovno računovodstvo je dio internog računovodstva koje se uspostavlja i razvija u svrhu utvrđivanja, klasificiranja, alociranja i praćenja troškova usluga, procesa, aktivnosti, projekata, programa i slično za potrebe poboljšanja ekonomičnosti, učinkovitosti i djelotvornosti u poslovanju.
+6. Upravljačko računovodstvo je dio internog računovodstva koje se uspostavlja i razvija u obliku detaljnijih evidencija, baza podataka i izvještaja o prihodima, rashodima, imovini, obvezama, pokazateljima uspješnosti te drugim financijskim i nefinancijskim informacijama namijenjenim odgovornim osobama institucije i rukovoditeljima unutarnjih ustrojstvenih jedinica za potrebe upravljanja poslovanjem i poboljšanja ekonomičnosti, učinkovitosti i djelotvornosti u poslovanju.
+(2) Ostali pojmovi koji se koriste u ovom Pravilniku imaju značenje utvrđeno u Zakonu o sustavu unutarnjih kontrola u javnom sektoru.
+II. OKVIR ZA RAZVOJ SUSTAVA UNUTARNJIH KONTROLA
+Članak 4.
+(1) Okvir za razvoj sustava unutarnjih kontrola (u daljnjem tekstu: Okvir) sadrži razradu pet međusobno povezanih komponenti unutarnjih kontrola koje se temelje se na

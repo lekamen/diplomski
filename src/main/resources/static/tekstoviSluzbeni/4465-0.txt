@@ -1,0 +1,39 @@
+80 07.09.2016 Standard vozila i vanjskog izgleda vozila za obavljanje djelatnosti izvanbolničke hitne medicine
+HRVATSKI ZAVOD ZA HITNU MEDICINU
+1814
+Na temelju članka 10. Pravilnika o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje djelatnosti hitne medicine (»Narodne novine«, broj 71/2016) Hrvatski zavod za hitnu medicinu utvrđuje
+STANDARD
+VOZILA I VANJSKOG IZGLEDA VOZILA ZA OBAVLJANJE DJELATNOSTI IZVANBOLNIČKE HITNE MEDICINE
+Članak 1.
+Ovaj standard opisuje uvjete koje trebaju zadovoljavati medicinska vozila izvanbolničke hitne medicinske službe u Republici Hrvatskoj.
+I. STANDARD VOZILA
+Članak 2.
+Standard vozila opisuje uvjete koje trebaju zadovoljavati medicinska vozila izvanbolničke hitne medicinske službe u Republici Hrvatskoj u pogledu općih svojstava, opremanja i vanjskog uređenja, pregradne stijene između odjeljka za pacijente i odjeljka za vozača, otvora na medicinskom vozilu (vrata i prozora na odjeljku za pacijente), područja za unošenje/iznošenje pacijenta, odjeljka za pacijente, odjeljka za vozača, opremanja i unutrašnjeg uređenja vozila.
+Opća svojstva medicinskog vozila
+Članak 3.
+Opća svojstva medicinskog vozila odnose se na ona svojstva koja medicinsko vozilo mora zadovoljavati nakon preuređenja osnovnog vozila.
+Sva medicinska vozila izvanbolničke hitne medicinske službe u Republici Hrvatskoj moraju zadovoljavati normu HRN EN 1789:2011 za tip B medicinsko vozilo, odnosno slijednicu navedene norme.
+Tip B medicinsko vozilo izvanbolničke hitne medicinske službe je medicinsko vozilo dizajnirano i opremljeno za prijevoz, liječenje i nadzor pacijenata.
+Članak 4.
+Medicinsko vozilo mora zadovoljavati sljedeća opća svojstva:
+1. mora biti usklađeno sa zahtjevima Smjernice Vijeća Europe 70/156 EEC
+2. mora biti homologirano u Republici Hrvatskoj
+3. razmak između kotača i blatobrana mora biti minimalno onaj koji je odredio proizvođač
+4. mora imati najmanje ubrzanje od 0 km/h do 80 km/h za 35 sekundi kada je natovareno do dopuštene bruto mase vozila
+5. ovjes mora biti prilagođen prijevozu pacijenata koji leže na nosilima i medicinskog osoblja u odjeljku za pacijente
+6. unutrašnjost mora ispunjavati zahtjeve HRN EN 1789:2011 – Tip B
+7. razina buke u odjeljku pacijenta mora ispunjavati zahtjeve HRN EN 1789:2011 – 4.5.7. odnosno slijednicu navedene norme
+8. unutrašnje osvjetljenje mora ispunjavati zahtjeve HRN EN 1789:2011 – 4.5.6. odnosno slijednicu navedene norme
+9. električni/elektronski sustavi koji se ugrađuju u vozilo moraju ispunjavati zahtjeve iz sljedećih normi:
+• IEC 60364 – 7 – 708 koji se odnosi na medicinsko vozilo –zahtjevi za specijalne instalacije/lokacije
+• EN 60601-1 i EN 60601 – 2 dodatno za električne sustave koji opskrbljuju medicinsku opremu
+• EN 60601-2-4, Medicinska električna oprema – dio 2-4: posebni uvjeti za sigurnost defibrilatora (IEC 60601-2-4:2002)
+• EN ISO 9919, Medicinska električna oprema – posebni uvjeti za osnovnu sigurnost i nužne značajke opreme za pulsnu oksimetriju u medicinske svrhe (ISO 9919:2005) ukoliko je pulsni oksimetar samostalan uređaj koji koristi napajanje iz električnog sustava ugrađenog u vozilo
+• EN ISO 10079-1:1999, Medicinska usisna oprema – 1. dio: električno pogonjena usisna oprema – sigurnosni zahtjevi
+• EN 794-3, ventilatori pluća dio 3: Posebni zahtjevi za prijenosne ventilatore i transportne ventilatore
+Osim zadovoljavanja gore navedenih normi električni/elektronski sustavi koji se ugrađuju u cestovno medicinsko vozilo moraju ispunjavati i sljedeće zahtjeve:
+• električni/elektronski sustavi, dijelovi i podsustavi vozila te sva trajno ugrađena oprema trebaju biti označeni oznakom »e« u skladu s izmijenjenom Smjernicom Vijeća Europe 72/245 EEC
+• akumulatori moraju biti postavljeni tako da rukovanje njima ne zahtjeva pomicanje iz sigurnih ležišta
+• električni sustav mora biti u mogućnosti osigurati zalihu struje za ponovno pokretanje motora
+• osnovni akumulator mora imati kapacitet najmanje 80 Ah
+• dodatni akumulator mora imati 

@@ -1,0 +1,5 @@
+ zadnjem razdoblju
+B = (A /3) + A
+6. utvrdit će se maksimalna količina potencijalnog viška zaliha za umanjenje špekulativnih zaliha (UMANJENJE)
+UMANJENJE = UVukup x B
+7. utvrditi špekulativne zalihe nakon umanjenja: od špekulativnih zaliha oduzima se maksimalna količina potencijalnog viška zaliha za umanjenje špekulativnih zaliha (UMANJENJE).

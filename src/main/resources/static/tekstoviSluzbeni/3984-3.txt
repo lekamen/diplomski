@@ -1,0 +1,29 @@
+ 3. ili stavku 4. ovoga Zakona i da je time počinio prekršaj, pokrenut će protiv njega prekršajni postupak.
+(7) Hrvatska narodna banka obavijestit će podnositelja pritužbe o svom nalazu.
+(8) Ako je podnositelj pritužbe potrošač, Hrvatska narodna banka uputit će ga u obavijesti iz stavka 7. ovoga članka na mogućnost provođenja postupka mirenja pred tijelom iz članka 7. ovoga Zakona.
+Postupak mirenja
+Članak 7.
+(1) U sporovima između:
+1. korisnika platnih usluga koji su potrošači i njihovih pružatelja platnih usluga koji se odnose na prava i obveze iz Uredbe (EZ) br. 924/2009, Uredbe (EU) br. 260/2012, Uredbe (EU) 2015/751 i/ili ovoga Zakona i
+2. korisnika platnih usluga koji su primatelji plaćanja i njihovih pružatelja platnih usluga koji se odnose na prava i obveze iz Uredbe (EU) 2015/751 i/ili ovoga Zakona, može se podnijeti prijedlog za provođenje mirenja Centru za mirenje pri Hrvatskoj gospodarskoj komori (u daljnjem tekstu: Centar za mirenje).
+(2) Mirenje iz stavka 1. ovoga članka provodi se u skladu s odredbama zakona kojim se uređuje mirenje i pravilnikom o mirenju Centra za mirenje.
+(3) Hrvatska gospodarska komora donijet će:
+1. uz suglasnost ministra financija, odluku o troškovima mirenja u sporovima iz stavka 1. točke 1. ovoga članka, kojom će odrediti visinu naknada i nagrada te ostalih troškova postupka mirenja iz stavka 1. točke 1. ovoga članka i
+2. odluku o troškovima mirenja u sporovima iz stavka 1. točke 2. ovoga članka, kojom će odrediti visinu naknada i nagrada te ostalih troškova postupka mirenja iz stavka 1. točke 2. ovoga članka.
+(4) Nagodba koja se sklopi u postupku mirenja pred Centrom za mirenje iz stavka 1. ovoga članka je ovršna isprava ako je u njoj utvrđena određena obveza na činidbu o kojoj se stranke mogu nagoditi te ako sadrži izjavu obveznika o neposrednom dopuštanju ovrhe (klauzulu ovršnosti).
+(5) Dio sredstva za troškove mirenja pred Centrom za mirenje u sporovima iz stavka 1. točke 1. ovoga članka osigurava se u državnom proračunu Republike Hrvatske.
+(6) Odredbe ovoga članka ne utječu na pravo korisnika platnih usluga i pružatelja platnih usluga na pokretanje postupka mirenja pred drugim nadležnim tijelom ili na pokretanje sudskog ili arbitražnog postupka.
+IV. PREKRŠAJNE ODREDBE
+Prekršaji pružatelja platnih usluga
+Članak 8.
+(1) Za prekršaj kaznit će se pružatelj platnih usluga novčanom kaznom od 20.000,00 do 500.000,00 kuna:
+1. ako zaračuna korisniku platnih usluga naknadu za prekogranično plaćanje protivno članku 3. Uredbe (EZ) br. 924/2009 kako je izmijenjen Uredbom (EU) br. 260/2012
+2. ako korisnika platnih usluga ne obavijesti o njegovu IBAN-u i o svom BIC-u u skladu s člankom 4. stavkom 1. Uredbe (EZ) br. 924/2009 ili ako tu obavijest naplati
+3. ako naplati korisniku platnih usluga dodatne naknade protivno članku 4. stavku 3. Uredbe (EZ) br. 924/2009 kako je izmijenjen Uredbom (EU) br. 260/2012
+4. ako njegova dostupnost za kreditne transfere koje zadaje platitelj iz bilo koje države članice ili za izravna terećenja koja zadaje primatelj plaćanja iz bilo koje države članice nije u skladu s člankom 3. Uredbe (EU) br. 260/2012
+5. ako se koristi platnim shemama koje ne ispunjavaju uvjete iz članka 4. stavka 1. Uredbe (EU) br. 260/2012
+6. ako ne izvršava kreditne transfere u skladu s člankom 5. stavcima 1. i 2. Uredbe (EU) br. 260/2012
+7. ako ne izvršava izravna terećenja u skladu s člankom 5. stavcima 1., 3. i 6. Uredbe (EU) br. 260/2012
+8. ako od korisnika platnih usluga traži da za izvršenje prekogranične platne transakcije u eurima navede BIC pružatelja platnih usluga u skladu s člankom 5. stavkom 7. Uredbe (EU) br. 260/2012
+9. ako od korisnika platnih usluga traži da za izvršenje nacionalne platne transakcije u eurima navede BIC pružatelja platnih usluga u skladu s člankom 5. stavkom 7. (EU) br. 260/2012
+10. ako na prekogranične platne transakcije izravnog terećenja u eurima primijeni višestranu međubankovnu naknadu ili drugu ugovorenu naknadu s istom svrhom ili učinkom, uključujući onu

@@ -1,0 +1,28 @@
+ mehanizmima unutarnjih kontrola Društva.
+(4) Društvo je dužno za svaki pojedini delegirani posao definirati uloge i odgovornosti organizacijskih jedinica ili osoba zaduženih za nadzor i upravljanje delegiranim poslom kao i izlaznu strategiju Društva u slučaju prijevremenog prestanka ugovornog odnosa i/ili nemogućnosti ispunjenja ugovornih obveza.
+Analiza rizika i procjena utjecaja izdvajanja poslovnih procesa na Društvo
+Članak 7.
+(1) Društvo je dužno prije donošenja odluke o delegiranju poslova analizirati rizike i procijeniti utjecaj delegiranja, među ostalim i na:
+1. ispunjenje uvjeta iz članka 70. točke a) i f) Zakona,
+2. financijske rezultate i kontinuitet poslovanja Društva,
+3. troškove i solventnost Društva,
+4. rizike poslovanja i upravljanje rizicima Društva,
+5. kvalitetu obavljanja poslova Društva,
+6. stupanj poteškoća i vremena potrebnog za odabir alternativne treće osobe ili vraćanje obavljanja tih poslova u Društvo, ako je potrebno.
+(2) Društvo je dužno, osim analize iz stavka 1. ovoga članka, izraditi i analizu pružatelja usluga koja najmanje obuhvaća analizu uvjeta iz članka 70. točke b), c), d) i g) Zakona.
+(3) Kada Društvo sklapa ugovor o delegiranju poslova s trećom osobom koja nije subjekt nadzora ovlaštenog nadzornog tijela države članice ili je riječ o trećoj osobi iz države s čijim nadzornim tijelom Agencija nema sklopljen ugovor o međusobnoj suradnji, tada je Društvo dužno, prije donošenja odluke o delegiranju poslova, utvrditi omogućuju li propisi države, odnosno država, u kojima treća osoba posluje Agenciji da, u svrhu postizanja ciljeva nadzora, obavi nadzor dijela poslovanja treće osobe koji ima veze ili se može dovesti u vezu s delegiranim poslovima, kao i nadzor obavljanja aktivnosti koje će biti predmet ugovora zaključenog s Društvom.
+Ograničenje delegiranja poslova (»Poštanski sandučić« i sukob interesa)
+Članak 8.
+Društvo se uvijek smatra »poštanskim sandučićem« iz članka 70. točke f) Zakona u sljedećim situacijama:
+1. Društvo nije u mogućnosti učinkovito kontrolirati i nadzirati obavljanje poslova koje delegira, kao i rizike povezane s takvim poslovima, ili
+2. Društvo nije u mogućnosti donositi odluke u ključnim područjima svoje djelatnosti, posebice u provedbi investicijske politike i investicijskih strategija, ili
+3. Društvo je delegiralo obavljanje poslova upravljanja imovinom i upravljanja rizicima na treću osobu do te mjere da delegirani poslovi po svom opsegu značajno premašuju poslove koje obavlja samo Društvo.
+Članak 9.
+(1) Prilikom delegiranja poslova na treće osobe Društvo dužno je izbjegavati sukobe interesa, a kada to nije moguće, osigurati postupanje u najboljem interesu UCITS fonda i njegovih ulagatelja.
+(2) Prilikom procjene sukoba interesa iz stavka 1. ovoga članka osobito se uzimaju u obzir sljedeći kriteriji:
+1. kada su Društvo i treća osoba na koju se delegira posao članovi iste grupe ili su na drugi način povezane, mjera do koje treća osoba na koju se delegira posao ima kontrolu nad Društvom odnosno mogućnost utjecaja na donošenje njegovih odluka,
+2. kada su treća osoba na koju se delegira posao i imatelj udjela UCITS fonda dio iste grupe ili su na drugi način povezani, mjera do koje imatelj udjela UCITS fonda ima kontrolu nad trećom osobom na koju se delegira posao odnosno mogućnost utjecaja na donošenje njenih odluka,
+3. vjerojatnost da će treća osoba na koju se delegiraju poslovi ostvariti financijsku korist ili izbjeći snošenje gubitka na teret UCITS fonda odnosno njegovih ulagatelja,
+4. vjerojatnost da će treća osoba na koju se delegiraju poslovi imati financijski ili neki drugi poticaj staviti interese drugih klijenata ispred interesa UCITS fonda odnosno ulagatelja UCITS fonda,
+5. vjerojatnost da će treća osoba na koju se delegiraju poslovi od osoba koje nisu Društvo primati bilo kakve dodatne poticaje ili koristi za obavljanje delegiranih poslova, osim naknade koju prima od društva za upravljanje.
+(3) Društvo dužno je osigurati da treća osoba na koju je delegiran posao 

@@ -1,0 +1,36 @@
+ značajnoj mjeri pogrešni, odnosno odluče ih promijeniti, dužni su o tome dostaviti obavijest radi javne objave iste i to bez odgode, te su dužni u razumnom roku dostaviti promijenjene izvještaje zajedno s revizorskim izvješćem, ako su poduzetnici obveznici revizije.
+(9) Poduzetnik koji tijekom poslovne godine nije imao poslovnih događaja, niti u poslovnim knjigama ima podatke o imovini i obvezama, dužan je do 30. travnja tekuće godine Financijskoj agenciji dostaviti Izjavu o neaktivnosti za prethodnu poslovnu godinu.
+Odgovornost za sastavljanje i javnu objavu
+Članak 31.
+(1) Godišnji financijski izvještaji, odnosno godišnje izvješće koji podliježu reviziji moraju biti objavljeni u obliku i sadržaju na temelju kojeg je revizor formirao svoje mišljenje zajedno s punim tekstom revizorskog izvješća sukladno članku 30. ovoga Zakona. Poduzetnik ne smije objavljivati nerevidirane podatke na način koji bi korisnika objavljenih podataka mogao dovesti u zabludu, odnosno do zaključka kako je riječ o revidiranim podacima.
+(2) Članovi uprave poduzetnika i njegova nadzornog odbora, ako postoji, odnosno izvršni direktori i upravni odbor, odgovorni su da godišnji financijski izvještaji odnosno godišnje izvješće te, ako se sastavljaju, konsolidirani godišnji financijski izvještaji, odnosno konsolidirano godišnje izvješće budu sastavljeni i objavljeni sukladno odredbama ovoga Zakona te su odgovorni za ispravnost pohranjenih isprava.
+Financijski podaci za statističke i druge potrebe
+Članak 32.
+(1) Poduzetnici i pravne i fizičke osobe iz članka 4. stavka 3. ovoga Zakona dužni su za statističke i druge potrebe Financijskoj agenciji do 30. travnja tekuće godine dostaviti bilancu, račun dobiti i gubitka i dodatne podatke za prethodnu kalendarsku godinu.
+(2) Poduzetnici koji su obveznici javne objave sukladno članku 30. stavku 1. ovoga Zakona kojima je poslovna godina jednaka kalendarskoj godini, ako su ispunili obvezu predaje propisanu člankom 30. ovoga Zakona, mogu istodobno dostavom dodatnih podataka ispuniti i obvezu predaje propisanu stavkom 1. ovoga članka.
+(3) Oblik i sadržaj dodatnih podataka iz stavaka 1. i 2. ovoga članka pravilnikom detaljnije propisuje ministar financija na prijedlog Državnog zavoda za statistiku kao središnjeg tijela službene statistike u koordinaciji s ostalim nositeljima službene statistike.
+XI. REGISTAR GODIŠNJIH FINANCIJSKIH IZVJEŠTAJA
+Sadržaj Registra godišnjih financijskih izvještaja
+Članak 33.
+(1) Registar godišnjih financijskih izvještaja središnji je izvor informacija o financijskom položaju i uspješnosti poslovanja poduzetnika na pojedinačnoj i konsolidiranoj osnovi.
+(2) Registar godišnjih financijskih izvještaja sadržava podatke o financijskom položaju i uspješnosti poslovanja i dodatne podatke iz članka 32. stavka 1. ovoga Zakona.
+(3) Registar godišnjih financijskih izvještaja vodi se u elektroničkom obliku i dostupan je na mrežnim stranicama.
+(4) U Registar godišnjih financijskih izvještaja pohranjuju se sljedeći podaci:
+1. godišnji financijski izvještaji
+2. konsolidirani financijski izvještaji
+3. izvješće revizora zajedno s izvještajima koji su bili predmet revizije
+4. godišnje izvješće
+5. konsolidirano godišnje izvješće
+6. odluka o utvrđivanju godišnjeg financijskog izvještaja
+7. odluka o prijedlogu raspodjele dobiti ili pokriću gubitka
+8. izjava o neaktivnosti
+9. dodatni podaci za statističke i druge potrebe
+10. izvještaji iz članka 20. stavka 5. ovoga Zakona
+11. obavijesti iz članka 30. stavka 6. ovoga Zakona
+12. naknadno promijenjeni dokumenti iz članka 30. stavka 6. ovoga Zakona.
+(5) Registar godišnjih financijskih izvještaja sastoji se od javnog i povjerljivog dijela. Javni dio registra koji se objavljuje na mrežnim stranicama Registra godišnjih financijskih izvještaja sadržava sljedeće:
+1. godišnje financijske izvještaje
+2. konsolidirane godišnje financijske izvještaje
+3. godišnja izvješća
+4. konsolidirana godišnja izvješća
+5. revizorska izvješća zajedno s izvještajima koji su bili predmet revizije

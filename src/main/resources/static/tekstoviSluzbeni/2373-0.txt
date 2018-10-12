@@ -1,0 +1,27 @@
+124 13.11.2015 Ispravak Odluke o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje
+HRVATSKI ZAVOD ZA ZDRAVSTVENO OSIGURANJE
+2374
+Nakon usporedbe s izvornim tekstom utvrđena je pogreška u Odluci o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje koja je objavljena u »Narodnim novinama«, broj 120 od 2. studenoga 2015. godine te se daje
+ISPRAVAK
+ODLUKE O IZMJENAMA I DOPUNAMA ODLUKE O UTVRĐIVANJU OSNOVNE LISTE LIJEKOVA HRVATSKOG ZAVODA ZA ZDRAVSTVENO OSIGURANJE
+U Odluci o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 120/15), u Osnovnoj listi lijekova u Tabeli
+– umjesto redaka:
+»
+Šifra ATK Oznaka Nezaštićeno ime lijeka DDD i jed. mj. Cijena za DDD Cijena za DDD (s PDV-om) Način primjene Nsitelj odobrenja Proizvođač Zaštićeno ime lijeka Oblik, jačina i pakiranje lijeka Cijena jed. oblika Cijena jed. oblika (s PDV-om) Cijena orig. pakiranja Cijena orig. pakiranja (s PDV-om) R/RS 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. J01FA10 141 azitromicin 0,3 g 2,97 3,12 O Sandoz d.o.o. Sandoz Azitromicin Sandoz tbl. film obl. 6x250 mg 2,48 2,60 14,87 15,61 RRJ12 J01FA10 141 azitromicin 0,3 g 2,85 2,99 O Sandoz d.o.o. Sandoz Azitromicin Sandoz tbl. film obl. 6x250 mg 2,38 2,49 14,25 14,96 RRJ12
+«
+treba stajati redak:
+»
+Šifra ATK Oznaka Nezaštićeno ime lijeka DDD i jed. mj. Cijena za DDD Cijena za DDD (s PDV-om) Način primjene Nsitelj odobrenja Proizvođač Zaštićeno ime lijeka Oblik, jačina i pakiranje lijeka Cijena jed. oblika Cijena jed. oblika (s PDV-om) Cijena orig. pakiranja Cijena orig. pakiranja (s PDV-om) R/RS 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. J01FA10 141 azitromicin 0,3 g 2,85 2,99 O Sandoz d.o.o. Sandoz Azitromicin Sandoz tbl. film obl. 6x250 mg 2,38 2,49 14,25 14,96 RRJ12
+«
+– umjesto redaka:
+»
+Šifra ATK Oznaka Nezaštićeno ime lijeka DDD i jed. mj. Cijena za DDD Cijena za DDD (s PDV-om) Način primjene Nsitelj odobrenja Proizvođač Zaštićeno ime lijeka Oblik, jačina i pakiranje lijeka Cijena jed. oblika Cijena jed. oblika (s PDV-om) Cijena orig. pakiranja Cijena orig. pakiranja (s PDV-om) R/RS 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. L01XE16 161 DS krizotinibNL444 0,00 0,00 O Pfizer Ltd. Pfizer Xalkori caps. tvrda 60x200 mg 559,35 587,31 33.560,80 35.238,84 L01XE16 162 DS krizotinibNL444 0,00 0,00 O Pfizer Ltd. Pfizer Xalkori caps. tvrda 60x250 mg 559,35 587,31 33.560,80 35.238,84
+«
+trebaju stajati retci:
+»
+Šifra ATK Oznaka Nezaštićeno ime lijeka DDD i jed. mj. Cijena za DDD Cijena za DDD (s PDV-om) Način primjene Nsitelj odobrenja Proizvođač Zaštićeno ime lijeka Oblik, jačina i pakiranje lijeka Cijena jed. oblika Cijena jed. oblika (s PDV-om) Cijena orig. pakiranja Cijena orig. pakiranja (s PDV-om) R/RS 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. L01XE16 161 DS krizotinibNL444 0,00 0,00 O Pfizer Ltd. Pfizer Xalkori caps. tvrda 60x200 mg 546,49 573,81 32.789,29 34.428,75 L01XE16 162 DS krizotinibNL444 0,00 0,00 O Pfizer Ltd. Pfizer Xalkori caps. tvrda 60x250 mg 546,49 573,81 32.789,29 34.428,75
+«
+Klasa: 025-04/15-01/284
+Urbroj: 338-01-01-15-01
+Zagreb, 9. studenoga 2015.
+Predsjednik Upravnog vijeća Hrvatskog zavoda za zdravstveno osiguranje prof. dr. sc. Marko Duvnjak, dr. med., v. r.

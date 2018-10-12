@@ -1,0 +1,21 @@
+obzirom na masu ili obujam uz odgovornost pakiratelja, ovlaštenog zastupnika ili uvoznika.
+Za provedbu mjerenja ili ispitivanja trebaju se koristiti zakonita mjerila prikladna za provedbu potrebnih radnja.
+Provjera se može provoditi i uzorkovanjem.
+Kada se ne mjeri stvarni sadržaj, tada pakiratelj mora provesti ispitivanje na način da se djelotvorno zajamči količina sadržaja.
+Radi ispunjavanja navedenog zahtjeva, pakiratelj tijekom proizvodnje treba provoditi provjere u skladu s postupcima propisanim Dodatkom II. ovoga Pravilnika, te mjerodavnim tijelima, iz točke 5. ovoga Dodatka, omogućiti uvid u dokumente koji sadrže rezultate takvih provjera kojima dokazuje da su odgovarajuće provjere, uz moguće ispravke i podešavanja, koji su se pokazali nužnima, provedeni na odgovarajući i ispravan način.
+Prilikom uvoza pretpakovina iz država koje nisu članice Europske unije, uvoznik može umjesto mjerenja ili provjera osigurati dokaz da raspolaže s potrebnim jamstvom, koje mu omogućuju preuzimanje odgovornosti.
+Kod proizvoda čije se količine izražavaju u obujamskim jedinicama, smatrat će se da su zadovoljili zahtjeve koji se odnose na mjerenje i provjeravanje, ukoliko se prilikom proizvodnje takvih pretpakovina koristio mjerni spremnik, u skladu sa zahtjevima propisanim posebnim pravilnikom kojim se uređuju mjeriteljski zahtjevi za boce koje se upotrebljavaju kao mjerni spremnici i pod uvjetima punjenja propisanim navedenim pravilnikom i ovim Pravilnikom.
+5. PROVJERE KOJE TREBAJU PROVODITI MJERODAVNA TIJELA U PROSTORIJAMA PAKIRATELJA ILI UVOZNIKA ILI NJEGOVA OVLAŠTENOG ZASTUPNIKA S POSLOVNIM NASTANOM U EUROPSKOJ UNIJI
+Provjere sukladnosti pretpakovina s odredbama ovoga Pravilnika provodi Državni zavod za mjeriteljstvo (u daljnjem tekstu: Zavod).
+Provjere sukladnosti provode se uzorkovanjem u prostorijama pakiratelja ili, ako iz određenih razloga to nije moguće provesti, u prostorijama uvoznika ili njegova zastupnika s poslovnim nastanom u Europskoj uniji.
+Provjera statističkim uzorkovanjem provodi se u skladu s prihvaćenim metodama ispitivanja kvalitete. Njezina djelotvornost mora biti usporediva s referentnom metodom specificiranom u Dodatku II. ovoga Pravilnika.
+Što se tiče kriterija za najmanje sadržaje, plan uzorkovanja kojim se koristi mjerodavno tijelo treba se smatrati usporedivim s preporučenim planom iz Dodatka II. ako apscisa u točki u kojoj ordinata krivulje radne značajke prvoga plana ima vrijednost 0,10 (vjerojatnost prihvaćanja serije = 0,10) odstupa za manje od 15 % od apscise odgovarajuće točke krivulje radne značajke plana uzorkovanja koji se preporučuje u Dodatku II.
+Što se tiče kriterija za srednju vrijednost izračunatu metodom standardnog odstupanja, plan uzorkovanja kojim se koristi mjerodavno tijelo treba se smatrati usporedivim s preporučenim iz Dodatka II. ukoliko, uzimajući u obzir krivulje radne značajke obaju planova koji kao os apscisu imaju , apscisa koja odgovara ordinati od 0,10 krivulje prvoga plana (vjerojatnost prihvaćanja serije = 0,10) odstupa za manje od 0,05 od apscise koja odgovara točki krivulje plana uzorkovanja koji se preporučuje u Dodatku II.
+(1) m = stvarna srednja vrijednost serije
+6. DRUGE PROVJERE KOJE PROVODE MJERODAVNA TIJELA
+Ovaj Pravilnik unaprijed ne isključuje bilo kakve provjere koje mjerodavna tijela mogu provoditi u bilo kojoj fazi prodajnog procesa, a osobito one u svrhu dokazivanja da pretpakovina zadovoljava zahtjeve ovoga Pravilnika.
+DODATAK II.
+Ovim Dodatkom utvrđuju se referentni postupci za statističku provjeru serija pretpakovina radi zadovoljavanja zahtjeva propisanih u članku 4. ovoga Pravilnika i točke 5. Dodatka I. ovoga Pravilnika.
+1. ZAHTJEVI ZA MJERENJE STVARNOGA SADRŽAJA PRETPAKOVINA
+Stvarni sadržaj pretpakovina može se mjeriti izravno s pomoću vaga ili obujamskih mjerila, ili u slučaju tekućina, neizravno vaganjem pretpakirana proizvoda i mjerenjem njegove gustoće.
+Bez obzira na metodu koja se koristi, pogreška pri mjerenju stvarnog sadržaja pretpakovine ne smije

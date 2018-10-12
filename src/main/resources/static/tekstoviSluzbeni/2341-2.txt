@@ -1,0 +1,23 @@
+nadležno tijelo bez odlaganja prosljeđuje zahtjev nadležnom tijelu države domaćina i o tome obavještava podnositelja zahtjeva.
+b. Zaprimanje zahtjeva/IMI dosjea iz matične države
+Članak 12.
+(1) U slučaju profesija koje podliježu automatskom sustavu priznavanja inozemnih stručnih kvalifikacija u skladu s Glavom IV. Zakona, nadležno tijelo će u roku od 30 dana od dana primitka urednog zahtjeva odlučiti o izdavanju EPC kartice u svrhu poslovnog nastana u Republici Hrvatskoj.
+(2) U slučaju profesija koje podliježu općem sustavu priznavanja inozemnih stručnih kvalifikacija u skladu s Glavom III. Zakona, nadležno tijelo će u roku od 60 dana od dana primitka urednog zahtjeva odlučiti o izdavanju EPC kartice ili će zatražiti provedbu dopunske mjere u skladu s člankom 18. Zakona, a u svrhu poslovnog nastana u Republici Hrvatskoj.
+(3) U slučaju privremenog i povremenog pružanja usluga u Republici Hrvatskoj u profesiji u kojoj se zahtijeva prethodna provjera stručnih kvalifikacija, nadležno tijelo će u roku od 60 dana od dana primitka urednog zahtjeva odlučiti o izdavanju EPC kartice ili će zatražiti provedbu provjere kompetentnosti u skladu s člankom 10. stavkom 7. Zakona.
+Članak 13.
+(1) U slučaju opravdane sumnje, nadležno tijelo može od nadležnog tijela matične države zatražiti da mu u roku od najviše dva tjedna dostavi dodatne podatke ili ovjerenu presliku nekog dokumenta, pridržavajući se rokova za donošenje odluke o izdavanju EPC kartice iz članka 12. ovoga Pravilnika.
+(2) Nadležno tijelo može, uz obrazloženje, odbiti zahtjev za izdavanje EPC kartice ako ne zaprimi tražene podatke ili dokumente od nadležnog tijela matične države odnosno od podnositelja zahtjeva.
+Članak 14.
+(1) Ako nadležno tijelo ne odluči o izdavanju EPC kartice u rokovima iz članka 12. ovoga Pravilnika ili ne provede provjeru kompetentnosti u skladu s člankom 10. Zakona, smatrat će se da je EPC kartica izdana te će se automatski poslati podnositelju zahtjeva putem IMI sustava.
+(2) Rokovi iz članka 12. ovoga Pravilnika mogu se, iznimno, produljiti za najviše dva tjedna ako je to nužno radi zaštite javnog zdravlja i sigurnosti primatelja usluga, o čemu će nadležno tijelo donijeti zaključak u kojem je dužno obrazložiti razloge produljenja te će o tome obavijestiti podnositelja zahtjeva.
+(3) Protiv odluke iz članka 12. ovoga Pravilnika ili u slučaju da odluka ne bude donesena u roku, ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+III. OBRADA I PRISTUP PODACIMA
+Članak 15.
+(1) Nadležno tijelo, u svojstvu države domaćina ili matične države, pravodobno ažurira odgovarajući IMI dosje s podacima o disciplinskim mjerama ili kaznenim sankcijama povezanima sa zabranom ili ograničenjem obavljanja profesije ili pružanja usluga koje su izrečene nositelju stručne kvalifikacije te briše podatke koji više nisu ažurni i potrebni, a u skladu s propisima kojima se regulira zaštita osobnih podataka.
+(2) Nadležno tijelo obavještava nositelja EPC kartice i drugo nadležno tijelo koje ima pristup IMI dosjeu o svakom ažuriranju IMI dosjea.
+(3) Ažuriranje podataka iz stavka 1. ovoga članka ograničava se na podatke o identitetu nositelja EPC kartice, dotičnoj profesiji, informacijama o nacionalnom tijelu ili sudu koji donosi odluku o ograničenju ili zabrani te opseg i razdoblje zabrane obavljanja profesije ili pružanja usluga.
+(4) Svi podaci o zabrani ili ograničenju obavljanja profesije ili pružanja usluga brišu se iz IMI dosjea istekom razdoblja tijekom kojeg se primjenjuje zabrana ili ograničenje.
+(5) Nadležno tijelo je dužno, na zahtjev nositelja EPC kartice, pružiti sve podatke sadržane u IMI dosjeu koji se odnose na njega.
+Članak 16.
+(1) Nadležno tijelo ima pravo pristupa podacima sadržanima u IMI dosjeu.
+(2) EPC kartica sadrži podatke koji su potrebni za utvrđivanje prava na obavljanje profesije, a to su: ime i prezime, datum i mjesto rođenja, profesija i sustav priznavanja inozemnih stručnih kvalifikacija, nadležno tijelo, broj EPC

@@ -1,0 +1,66 @@
+ plovila s povlasticom u cijelosti,
+– ovjereni ugovor o kupoprodaji povlastice ukoliko se radi o prijenosu povlastice putem javnog poziva,
+– pravomoćno rješenje o nasljeđivanju plovila ukoliko se radi o nasljeđivanju ili
+– ovjereni ugovor o darovanju plovila s povlasticom u cijelosti ukoliko se radi o darovanju plovila s povlasticom bračnom drugu, djeci, roditeljima ili unucima.
+(3) Ukoliko su vlasnik plovila i ovlaštenik povlastice različite osobe Zahtjev supotpisuje ovlaštenik povlastice i ovjerava ga svojim pečatom.
+(4) Zahtjev će se odbiti ukoliko se u postupku utvrdi da vlasnik plovila ili ovlaštenik povlastice ima izrečenu mjeru trajne zabrane obavljanja gospodarskog ribolova.
+Izgled obrasca povlastice
+Članak 5.
+Obrazac povlastice je formata A5 (148x210 mm), a ispisuje se elektronički na propisanom obrascu računalnim ispisom, a potom se plastificira.
+Članak 6.
+(1) Obrazac povlastice sadrži sljedeće podatke:
+1. OPĆI PODACI
+– grb Republike Hrvatske,
+– naziv Ministarstva,
+– KLASA i URBROJ,
+– datum izdavanja,
+– naziv: POVLASTICA ZA GOSPODARSKI RIBOLOV NA MORU,
+– serijski broj povlastice
+– razdoblje obavljanja djelatnosti gospodarskog ribolova za sezonske obrte,
+– pečat i potpis ovlaštene osobe.
+2. PODACI O RIBARSKOM PLOVILU:
+– CFR broj plovila,
+– država upisa,
+– ime broda ili nacionalna (registarska) oznaka brodice,
+– luka upisa,
+– vanjska oznaka plovila,
+– IRCS broj,
+– snaga motora (kW),
+– tonaža (GT),
+– duljina plovila preko svega
+– serijski broj povlastice.
+3. PODACI O OVLAŠTENIKU POVLASTICE
+– naziv obrta te ime i prezime vlasnika obrta odnosno naziv pravne osobe i ime i prezime odgovorne osobe u pravnoj osobi ovlaštenika povlastice,
+– adresa sjedišta obrta odnosno adresa sjedišta pravne osobe,
+–OIB/MBO ovlaštenika povlastice.
+4. PODACI O VLASNIKU PLOVILA
+– ime i prezime vlasnika plovila ukoliko je vlasnik fizička osoba građanin odnosno naziv obrta ukoliko je vlasnik fizička osoba obrtnik odnosno naziv pravne osobe ukoliko je vlasnik pravna osoba,
+– adresa fizičke osobe ukoliko je vlasnik fizička osoba građanin, odnosno adresa sjedišta obrta ukoliko je vlasnik fizička osoba obrtnik, odnosno adresa sjedišta pravne osobe ukoliko je vlasnik pravna osoba,
+– ime i prezime vlasnika obrta ukoliko je vlasnik fizička osoba obrtnik odnosno ime i prezime odgovorne osobe u pravnoj osobi ukoliko je vlasnik pravna osoba,
+– OIB/MBO vlasnika plovila.
+5. PODACI O RIBOLOVNIM ALATIMA, OPREMI I RIBOLOVNIM ZONAMA
+– ribolovni alati i zone u kojima je dopuštena upotreba navedenih alata,
+– pomoćna plovila.
+(2) Obrazac povlastice tiskan je uz ovaj Pravilnik i njegov je sastavni dio (Prilog 1.).
+Registar povlastica
+Članak 7.
+(1) Registar povlastica vodi se u elektroničkom obliku u bazi podataka Ministarstva pod nazivom »Registar povlastica«.
+(2) U Registar povlastica upisuju se sljedeći podaci:
+1. tijelo koje je izdalo povlasticu, klasifikacijsku oznaku, urudžbenu oznaku, mjesto i datum te serijski broj povlastice,
+2. podaci o plovilu za koje je izdana povlastica,
+3. podaci o vlasniku i ovlašteniku povlastice izdane za navedeno plovilo,
+4. podaci o odgovornoj osobi u obavljanju gospodarskog ribolova na moru i sve promjene koje je ovlaštenik povlastice dužan dostaviti ministarstvu telefaksom, mailom ili elektroničkim putem prije isplovljavanja plovila u ribolov.
+5. vrste ribolovnih alata,
+6. ribolovne zone u kojima se smije obavljati gospodarski ribolov,
+7. pomoćna plovila,
+8. promjene podataka upisanih u povlastici,
+9. prestanak važenja povlastice i obrazloženje prestanka važenja,
+10. oduzimanje povlastice za ribolov i obrazloženje o oduzimanju,
+11. datum pokretanja upravnog spora,
+12. odluka Upravnog suda, broj i datum iste,
+13. napomene.
+Prijenos povlastice u cijelosti
+Članak 8.
+(1) Prijenos povlastice u cijelosti dopušten je u slučaju:
+1. promjene vlasnika plovila upisanog u povlasticu radi kupoprodaje, darovanja ili nasljeđivanja plovila s povlasticom,
+2. prijenosa povlastice na novog vlasnika i za drugo plovilo putem Javnog poziva sukladno

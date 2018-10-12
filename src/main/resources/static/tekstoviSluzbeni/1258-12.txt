@@ -1,0 +1,47 @@
+ svaka lista (biračka masa liste) dijeli se brojevima od 1 do zaključno 3, pri čemu se uvažavaju i decimalni ostaci. Od svih dobivenih rezultata, treći rezultat po redu jest zajednički djelitelj kojim se dijeli ukupan broj važećih glasova svake kandidacijske liste (biračka masa liste). Svaka kandidacijska lista dobit će onoliko od tri zastupnička mjesta koliko puta ukupni broj njezinih važećih glasova (biračka masa liste) sadrži zajednički djelitelj, uključujući i decimalne ostatke,
+– preferirani glasovi za pojedine kandidate se uvažavaju ako broj preferiranih glasova pojedinog kandidata iznosi najmanje 10% glasova koje je osvojila pojedina lista,
+– izabrani su oni kandidati sa svake liste koji su dobili najveći broj preferiranih glasova. Kada dva ili više kandidata dobije isti broj preferiranih glasova, odlučujući je poredak na listi kandidata,
+– ako na temelju podstavaka 2. i 3. ovoga članka nije izabrano onoliko zastupnika koliko mandata pripada pojedinoj listi, na preostala mjesta na toj listi određuju se zastupnici po redoslijedu na listi.
+Odredbom članka 12. ZIDZIZHS »Narodne novine»; br. 145/10., koji je stupio na snagu 1. siječnja 2011., članak 44. je izmijenjen.
+Odredbom članka 26. Zakona o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor »Narodne novine«, br. 19/15., stupio na snagu 25. veljače 2015., izmijenjen članak 44.
+Članak 45.
+Brisan.
+Odredbom članka 13. ZIDZIZHS »Narodne novine«, br. 145/10., koji je stupio na snagu 1. siječnja 2011., članak 45. je brisan.
+Članak 46.
+Pripadnici nacionalnih manjina iz članka 17. ovoga Zakona biraju zastupnike u Sabor pojedinačnim izborom tako da je za zastupnika izabran kandidat koji je dobio najveći broj glasova birača koji su glasovali. Ako dva ili više kandidata dobiju isti broj glasova, izbori se ponavljaju.
+Odredbom članka 40. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., u članku 46. riječi: »Zastupnički dom Sabora« zamijenjene su riječju: »Sabor«.
+Članak 47.
+Brisan.
+Odredbom članka 41. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., naslov iznad članka 47. i članak 47. su brisani.
+Članak 48.
+Brisan.
+Odredbom članka 41. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., članak 48. je brisan.
+Članak 49.
+Brisan.
+Odredbom članka 41. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., članak 49. je brisan.
+Članak 50.
+Brisan.
+Odredbom članka 41. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., članak 50. je brisan.
+TIJELA ZA PROVEDBU IZBORA ZASTUPNIKA U SABOR
+Odredbom članka 42. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., u naslovu iznad članka 51. riječi: »Zastupnički i Županijski dom Hrvatskoga državnog sabora« zamijenjene su riječju: »Sabor«.
+Članak 51.
+Tijela za provedbu izbora zastupnika u Sabor su: Državno izborno povjerenstvo, izborna povjerenstva izbornih jedinica, općinska i gradska izborna povjerenstva i birački odbori.
+Odredbom članka 43. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., u članku 51. riječi: »Zastupnički dom Sabora« zamijenjene su riječju: »Sabor«.
+Članak 52.
+Brisan.
+Odredbom članka 44. ZIDZIZHDS »Narodne novine«, br. 53/03., koji je stupio na snagu 2. travnja 2003., članak 52. je brisan.
+DRŽAVNO IZBORNO POVJERENSTVO
+Članak 53.
+Brisan.
+Odredbom članka 3. ZIDZIZHS »Narodne novine«, br. 19/07., koji je stupio na snagu 16. veljače 2007., članak 53. je brisan.
+Članak 54.
+Brisan.
+Odredbom članka 3.. ZIDZIZHS »Narodne novine«, br. 19/07., koji je stupio na snagu 16. veljače 2007., članak 54. je brisan.
+Članak 55.
+Brisan.
+Člankom 3. ZIDZIZHS »Narodne novine«, br. 19/07., koji je stupio na snagu 16. veljače 2007., članak 55. je brisan.
+Članak 56.
+Državno izborno povjerenstvo:
+1. brine o zakonitoj pripremi i provedbi izbora za zastupnike Sabora,
+2. imenuje članove izbornih povjerenstava izbornih jedinica,
+3.

@@ -1,0 +1,28 @@
+za odbijanje i upute o pravnom lijeku.
+6. Podnosilac mora obavijestiti tijelo za ocjenjivanje sukladnosti kod kojeg se nalazi tehnička dokumentacija koja se odnosi na EU certifikat o pregledu tipa o svim izmjenama na odobrenoj tlačnoj opremi. U slučaju kada one mogu utjecati na sukladnost s bitnim zahtjevima ovoga Pravilnika ili propisanim uvjetima rada potrebno je provesti dodatno potvrđivanje. Ova se dodatna potvrda izdaje u obliku dodatka izvornom EU certifikatu o pregledu tipa.
+7. Tijelo za ocjenjivanje sukladnosti mora dostaviti ministarstvu nadležnom za gospodarstvo i nadležnim inspekcijskim tijelima i državama članicama odgovarajuće informacije o povučenim EU certifikatima o pregledu tipa, te na zahtjev, i o izdanim EU certifikatima o pregledu tipa.
+8. Tijelo za ocjenjivanje sukladnosti mora također dostaviti drugim tijelima za ocjenjivanje sukladnosti odgovarajuće informacije o povučenim ili odbijenim EU certifikatima o pregledu tipa, te na zahtjev kopije izdanih EU certifikata o pregledu tipa i/ili njihove dodatke.
+9. Proizvođač ili njegov ovlašteni zastupnik s nastanom u Europskoj uniji mora, uz tehničku dokumentaciju, čuvati primjerke EU certifikata o pregledu tipa te njihove dodatke deset godina nakon proizvodnje posljednjeg komada predmetne tlačne opreme.
+Kada ni proizvođač, a niti njegov ovlašteni zastupnik nemaju nastan u Europskoj uniji, osoba koja stavlja proizvod na tržište dužna je osigurati tehničku dokumentaciju.
+Modul B1 (EU pregled konstrukcije)
+1. Ovim se modulom opisuje postupak kojim tijelo za ocjenjivanje sukladnosti provjerava i potvrđuje da konstrukcija tlačne opreme zadovoljava bitnim zahtjevima ovoga Pravilnika.
+Nije obavezna primjena eksperimentalne metode za konstrukciju utvrđene u točki 2.2.4. Dodatka I ovoga Pravilnika.
+2. Proizvođač ili njegov ovlašteni zastupnik s nastanom u Europskoj uniji moraju podnijeti zahtjev za EU pregled konstrukcije samo jednom tijelu za ocjenjivanje sukladnosti.
+Zahtjev mora sadržavati:
+– ime i adresu proizvođača te ime i adresu ovlaštenog zastupnika ako on podnosi zahtjev,
+– pisanu izjavu kojom se potvrđuje da zahtjev nije upućen niti jednom drugom tijelu za ocjenjivanje sukladnosti,
+– tehničku dokumentaciju opisanu u točki 3.
+Zahtjevom može obuhvatiti različite izvedbe tlačne opreme pod uvjetom da razlike među njima ne utječu na razinu sigurnosti.
+3. Tehnička dokumentacija treba, u mjeri koliko je to potrebno za ocjenjivanje, obuhvaćati konstrukciju, proizvodnju, način rada tlačne opreme te sadržavati sljedeće:
+– opis općih karakteristika tlačne opreme,
+– sklopne crteže, radioničke crteže i sheme dijelova, podsklopova, načine spajanja, itd.
+– opise i objašnjenja potrebna za razumijevanje navedenih crteža i shema te način rada tlačne opreme,
+– popis norma iz članka 5. ovoga Pravilnika koje su primijenjene u cijelosti ili samo djelomično te opise primijenjenih rješenja kojima se zadovoljavaju bitni zahtjevi ovoga Pravilnika kada norme iz članka 5. nisu primijenjene,
+– potrebne dodatne dokaze o prikladnosti konstrukcije, a posebno kada se norme iz članka 5. ovoga Pravilnika ne primjenjuju u potpunosti; ovaj dodatni dokaz mora sadržavati rezultate pregleda izvršenih u odgovarajućim laboratorijima proizvođača ili u njegovo ime,
+– rezultate proračuna konstrukcije, izvršenih provjera, itd.,
+– podatke koji se odnose na potrebne kvalifikacije ili odobrenja u skladu s točkama 3.1.2. i 3.1.3. Dodatka I ovoga Pravilnika.
+4. Tijelo za ocjenjivanje sukladnosti mora:
+4.1. Provjeriti tehničku dokumentaciju i identificirati sastavne dijelove konstrukcije u skladu s odgovarajućim zahtjevima normi iz članka 5. ovoga Pravilnika, kao i one na koje zahtjevi tih norma nisu primijenjeni.
+Tijelo za ocjenjivanje sukladnosti mora također:
+– ocijeniti korištene gradbene materijale kada oni nisu u skladu s odgovarajućim usklađenim normama ili s europskim odobrenjem za materijale za tlačnu opremu,
+– odobriti postupke za nerastavljive spojeve tlačne opreme ili provjeriti jesu li oni prethodno

@@ -1,0 +1,24 @@
+(1) Sud će uskratiti oslobođenje dužnika od preostalih obveza, na prijedlog stečajnoga vjerovnika, ako dužnik tijekom trajanja ustupa povrijedi svoju dužnost i time onemogući namirenje stečajnih vjerovnika. Prijedlog se može staviti samo u roku od godinu dana od dana kada je vjerovnik saznao za povredu dužnosti. Prijedlog je dopušten samo ako vjerovnik svoj prijedlog učini vjerojatnim.
+(2) Prije odluke o prijedlogu sud će saslušati povjerenika, dužnika i stečajne vjerovnike. Dužnik je dužan dati obavijesti o ispunjavanju svojih dužnosti. Ako dužnik bez valjanoga razloga ne pruži tražene obavijesti ili ako neopravdano izostane s ročišta koje je sud zakazao radi davanja obavijesti, uskratit će se oslobođenje od preostalih obveza.
+(3) Protiv odluke suda podnositelj prijedloga i dužnik imaju pravo na žalbu. Uskrata oslobođenja od preostalih obveza objavit će se na mrežnoj stranici e-Oglasna ploča sudova.
+Uskrata oslobođenja od preostalih obveza
+Članak 383.
+(1) Sud će, na prijedlog stečajnoga vjerovnika, uskratiti oslobođenje od preostalih obveza ako je dužnik u razdoblju između završnoga ročišta i zaključenja stečajnoga postupka ili za vrijeme trajanja ustupa pravomoćno osuđen zbog kaznenih djela iz članka 376. stavka 1. točke 1. ovoga Zakona.
+(2) Prijedlog iz stavka 1. ovoga članka može se staviti u roku od godine dana od dana kada je vjerovnik saznao za pravomoćnu presudu kojom je dužnik osuđen za kaznena djela iz članka 376. stavka 1. točke 1. ovoga Zakona. Prijedlog je dopušten samo ako vjerovnik svoj prijedlog učini vjerojatnim.
+Minimalna nagrada za povjerenika
+Članak 384.
+(1) Sud će, na prijedlog povjerenika, uskratiti oslobođenje dužnika od preostalih obveza ako iznosi koji su mu uplaćeni za prethodnu godinu njegova djelovanja nisu dovoljni za namirenje njegove minimalne nagrade, a dužnik ne doplati iznos koji nedostaje iako ga je povjerenik pismeno pozvao da u roku ne kraćem od 15 dana to učini i pritom ga upozorio na mogućnost uskraćivanja njegova oslobođenja od preostalih obveza.
+(2) Prije donošenja odluke sud će saslušati dužnika. Ako dužnik u roku od 15 dana po pozivu suda uplati nedostajući iznos, sud neće uskratiti oslobođenje.
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka na odgovarajući se način primjenjuje odredba članka 382. stavka 3. ovoga Zakona.
+Prijevremeni završetak
+Članak 385.
+Pravomoćnošću odluke o uskrati oslobođenja od preostalih obveza u skladu s odredbama članaka 382., 383. i 384. ovoga Zakona prestaju važiti izjave o ustupu, služba povjerenika i ograničenja prava dužnika.
+Odluka o oslobođenju od preostalih obveza
+Članak 386.
+(1) Nakon što istekne vrijeme trajanja ustupa, ako nije bilo završeno prije toga, sud će, nakon saslušanja stečajnih vjerovnika, povjerenika i dužnika, rješenjem odlučiti o oslobođenju dužnika od preostalih obveza.
+(2) Sud će, na prijedlog kojega od stečajnih vjerovnika, ako utvrdi da postoji koji od razloga za to iz članka 382. stavaka 1. ili 2., ili iz članka 383., ili na prijedlog povjerenika, ako utvrdi da postoji razlog iz članka 384. ovoga Zakona, uskratiti oslobođenje dužnika od preostalih obveza.
+(3) Rješenje iz stavka 1. ovoga članka će se objaviti. Ako sud odredi oslobođenje od preostalih obveza, rješenje će se u izvodu objaviti na mrežnoj stranici e-Oglasna ploča sudova. Protiv toga rješenja dužnik i svaki stečajni vjerovnik koji je tijekom saslušanja iz stavka 1. ovoga članka predložio da sud dužniku uskrati oslobođenje od preostalih obveza imaju pravo na žalbu.
+Učinak oslobođenja od preostalih obveza
+Članak 387.
+(1) Oslobođenje dužnika od preostalih obveza djeluje prema svim stečajnim vjerovnicima, i onima koji svoje tražbine nisu prijavili.
+(2) Oslobođenje dužnika od preostalih obveza ne utječe na prava stečajnih vjerovnika prema sudužnicima i jamcima dužnika, na prava tih vjerovnika koja se temelje na predbilježbi upisanoj radi njihova osiguranja te prava koja u stečajnom postupku ovlašćuju vjerovnike na odvojeno namirenje. Dužnik se, međutim, oslobađa od svojih

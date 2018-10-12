@@ -1,0 +1,23 @@
+po trošku nabave.
+5.24. Interno dobiveni goodwill ne priznaje se kao imovina. Interno dobiveni goodwill nije imovina koja se može identificirati (nije odvojiv niti proistječe iz ugovornih ili drugih prava) i kojega kontrolira poduzetnik te čiji se trošak nabave može pouzdano utvrditi.
+5.25. Trošak nabave dugotrajne nematerijalne imovine prilikom kupnje obuhvaća: nabavnu nakon odbitka trgovačkih popusta i rabata, uvozne carine, nepovratne poreze na nabavu, te troškove koji se izravno mogu pripisati pripremi ove imovine za predviđenu upotrebu.
+5.26. Nematerijalna imovina nastala razvojem (ili u fazi razvoja internog projekta) treba se priznati kao imovina, ako i samo ako (isključivo), poduzetnik može dokazati sve navedeno:
+a) tehničku provedivost dovršenja nematerijalne imovine tako da bude raspoloživa za upotrebu ili prodaju,
+b) vlastitu namjeru dovršenja nematerijalne imovine i njene upotrebu ili prodaje,
+c) vlastitu mogućnost upotrebe ili prodaje nematerijalne imovine,
+d) način na koji će nematerijalna imovina stvarati vjerojatne buduće ekonomske koristi. Poduzetnik između ostalog može dokazati i postojanje tržišta za proizvode nematerijalne imovine ili za samu nematerijalnu imovinu, ili pak korisnost nematerijalne imovine u slučaju da se ona koristi interno,
+e) raspoloživost odgovarajućih tehničkih, financijskih i drugih resursa za završetak razvoja i korištenje ili prodaju nematerijalne imovine,
+f) vlastitu mogućnost pouzdanog mjerenja troška koji se može pripisati razvoju nematerijalne imovine.
+5.27. Troškovi koji proizlaze iz istraživanja (ili faze istraživanja unutarnjeg projekta) ne priznaje se kao imovina. Izdaci za istraživanje (ili za fazu istraživanja unutarnjeg projekta) priznaju se kao rashod u trenutku njihova nastanka.
+5.28. Izdatak za nematerijalnu stavku treba se priznati kao rashod kada nastane, osim ako:
+a) predstavlja dio troška nabave (kupovne cijene) nematerijalne imovine koji ispunjavaju mjerila priznavanja, ili
+b) je stavka stečena u okviru poslovnog spajanja i ne može se priznati kao nematerijalna imovina. U tom slučaju taj izdatak (uključen u trošak poslovnog spajanja) se pripisuje goodwillu na datum stjecanja.
+5.29. Izdaci za nematerijalnu stavku koji su početno priznati kao rashod ne trebaju se kasnije priznati kao dio troška nabave nematerijalne imovine.
+5.30. Interno razvijena robna imena (brandovi), impresumi, izdavački naslovi, popisi klijenata i stavke sličnoga sadržaja ne priznaju se kao nematerijalna imovina.
+MJERENJE
+5.31. U svojoj računovodstvenoj politici poduzetnik treba izabrati ili model troška ili model revalorizacije. Ako se nematerijalna imovina obračunava primjenom revalorizacijskog modela, sva ostala nematerijalna imovina iz iste skupine mora se obračunavati korištenjem istog modela, osim u slučaju ako za navedenu imovinu ne postoji aktivno tržište.
+5.32. Model troška – nematerijalna imovina se nakon početnog priznavanja mjeri po njezinom trošku nabave umanjenom za akumuliranu amortizaciju i akumulirane gubitke od umanjenja vrijednosti.
+5.33. Model revalorizacije – alternativno, nematerijalna imovina se nakon početnog priznavanja može mjeriti u revaloriziranom iznosu iskazuje po njezinoj revaloriziranoj vrijednosti, odnosno njenoj fer vrijednosti na datum revalorizacije troška nabave umanjenom za naknadno akumuliranu amortizaciju i za naknadno akumulirane gubitke od umanjenja vrijednosti. Za potrebe revalorizacije prema ovome Standardu, fer vrijednost se treba odrediti prema aktivnom tržištu. Revalorizacija se treba obavljati redovito tako da se knjigovodstvena vrijednost značajno ne razlikuje od iznosa koji bi se odredio primjenom fer vrijednosti na datum bilance.
+5.34. Ako se nematerijalna imovina revalorizira, akumulirana amortizacija na datum revalorizacije:
+a) se prepravlja razmjerno promjeni bruto knjigovodstvene vrijednosti imovine tako da je knjigovodstvena vrijednost imovine nakon revalorizacije jednaka njezinoj revaloriziranoj vrijednosti, ili
+b) se isključuje iz bruto

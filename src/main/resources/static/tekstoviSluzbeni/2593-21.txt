@@ -1,0 +1,42 @@
+ plovilo na kojem se nalazi zapovjednik sastava.
+(3) Brzi brodovi moraju za vrijeme plovidbe koristiti radar.
+Članak 4.07 – Oprema za Automatski identifikacijski sustav za unutarnju plovidbu
+(1) Plovila moraju biti opremljena AIS uređajem koji odgovara odredbama međunarodnih Standarda za nadzor i praćenje plovila za plovidbu unutarnjim plovnim putovima (VTT) i ITU Radio pravila. AIS uređaj mora biti ispravan, odobren i ugrađen sukladno zahtjevima nadležnih tijela.
+Sljedeća plovila ne podliježu obvezi opremanja AIS uređajem:
+(a) plovila u sastavima, osim plovila koja osiguravaju glavni pogon sastava;
+(b) čamci;
+(c) plovila bez vlastitog pogona;
+(d) skele koje ne plove samostalno.
+(2) AIS uređaj mora neprekidno biti uključen i podatci uneseni u uređaj moraju neprekidno odgovarati trenutnim podatcima koji se odnose na plovilo ili sastav. Od ove obveze izuzeta su plovila koja stoje na mjestima za stajanje određenim od nadležnih tijela. Plovila iz točke (a) stavka 1. ovoga članka moraju isključiti bilo koji AIS uređaj koji se nalazi na plovilima tako dugo dok su ta plovila dio sastava.
+(3) ITU Radio pravila primjenjuju se na slanje poruka putem AIS uređaja.
+(4) Sukladno Standardima za nadzor i praćenje plovila za plovidbu unutarnjim plovnim putovima i odgovarajućoj ITU Preporuci najmanje sljedeći podatci moraju se odašiljati:
+a) Identifikacija korisnika (Maritime Mobile Service Identity, MMSI);
+b) Ime plovila
+c) Vrsta plovila ili sastava
+d) Jedinstveni europski identifikacijski broj plovila (ENI) ili IMO broj
+e) Duljina preko svega za plovilo ili sastav (točnost u decimetrima)
+f) Širina preko svega za plovilo ili sastav (točnost u decimetrima)
+g) Pozicija (WGS-84)
+h) Brzina preko dna (SOG)
+i) Kurs preko dna (COG)
+j) Vrijeme uređaja za elektronsko pozicioniranje
+k) Navigacijski status (npr. Plovi uz upotrebu pogonskog stroja, na sidru, vezan)
+l) Točka za određivanje pozicije na plovilu uz točnost u metrima (npr. GNSS antena)
+m) Točnost pozicije (GNSS/DGNSS)
+n) Vrsta uređaja za elektronsko pozicioniranje (npr. GPS, Galileo, Gionass)
+(5) Zapovjednik mora odmah ažurirati sljedeće podatke ako se promijene:
+a) Duljina preko svega
+b) Širina preko svega
+c) Vrsta sastava
+d) Navigacijski status
+e) Točka za određivanje pozicije na plovilu.
+(6) Čamci se mogu opremiti AIS uređajem (AIS klasa A ili klasa B). AIS uređaj mora biti u skladu s odredbama međunarodnih Standarda za nadzor i praćenje plovila za plovidbu unutarnjim plovnim putovima (VTT) i pravila za radiotelefoniju. AIS uređaj klase A treba biti u skladu s IMO pravilima. AIS uređaj klase B treba biti u skladu s međunarodnim telekomunikacijskim i elektrotehničkim pravilima.
+(7) Čamci kojima nije dodijeljen ENI broj ne moraju odašiljati podatak naveden u stavku 4. točki d) ovoga članka.
+(8) Čamci koji upotrebljavaju AIS moraju biti opremljeni ispravnim radiotelefonskim uređajem za komunikaciju u kategoriji službe »brod–brod«.
+Glava 5 OBILJEŽAVANJE VODNOG PUTA
+Članak 5.01 – Znakovi za reguliranje plovidbe
+(1) Prilog 7 ovoga Pravilnika sadrži znakove zabrane, znakove obveze, znakove ograničenja, znakove preporuke, znakove obavještavanja i pomoćne znakove za unutarnje vodne putove koji su postavljeni od strane nadležnih tijela radi osiguranja sigurnosti i reda u plovidbi. Isto tako, u njemu su određena i značenja pojedinih znakova.
+(2) Bez povrede drugih odredbi ovoga Pravilnika kao i drugih važećih propisa, uključujući posebne upute navedene u članku 1.19 ovoga Pravilnika, posade se moraju pridržavati pravila i voditi računa o preporukama i obavijestima koja im se stavljaju na znanje znakovima navedenim u stavku 1. ovoga članka i postavljenima na vodnom putu ili na njegovim obalama.
+(3) Ako su znakovi za reguliranje plovidbe postavljeni tako da su vidljivi samo u jednom smjeru kretanja prometa, ono što propisuju vrijedi samo za kretanje u tom smjeru.
+Članak 5.02 – Oznake vodnog puta
+(1) Prilog 8 ovoga Pravilnika određuje oznake koje se mogu upotrijebiti za olakšavanje plovidbe i istodobno

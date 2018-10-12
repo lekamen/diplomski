@@ -1,0 +1,39 @@
+27 25.03.2016 Pravilnik o jednostavnim tlačnim posudama
+MINISTARSTVO GOSPODARSTVA
+791
+Na temelju članka 4. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, br. 80/13 i 14/14) ministar gospodarstva donosi
+PRAVILNIK
+O JEDNOSTAVNIM TLAČNIM POSUDAMA
+POGLAVLJE I. OPĆE ODREDBE
+Članak 1.
+Područje primjene
+(1) Ovaj se Pravilnik odnosi na jednostavne tlačne posude dalje (»posude«) koje su proizvedene u serijama i imaju sljedeće značajke:
+1. posude su u zavarenoj izvedbi, a namijenjene su za zrak i dušik pod unutarnjim predtlakom većem od 0,5 bar, i nisu namijenjene loženju;
+2. dijelovi i sklopovi koji pridonose čvrstoći posude pod tlakom izrađeni su od nelegiranog kvalitetnog čelika i nelegiranog aluminija ili aluminijevih legura, koje s vremenom ne stvrdnjuju;
+3. posuda se sastoji od sljedećih elemenata: cilindričnog dijela kružnog presjeka zatvorenog vanjskim ispupčenim i/ili ravnim podnicama koje su postavljene oko iste osi kao i cilindrični dio, ili dvije ispupčene podnice koje su postavljene oko iste osi;
+4. najveći radni tlak posude ne smije prelaziti 30 bar, a umnožak tlaka i volumena (PSxV) ne smije biti veći od 10 000 bar×L;
+5. najniža radna temperatura ne smije biti niža od minus 50 °C, a najviša viša od 300 °C za čelične posude, odnosno 100 °C za aluminijske ili posude od aluminijskih legura.
+(2) Ovaj se Pravilnik ne primjenjuje na:
+1. posude koje su posebno konstruirane za nuklearna postrojenja, čije oštećenje može prouzročiti radioaktivno zračenje;
+2. posude posebno namijenjene za brodove i zrakoplove i njihov pogon;
+3. protupožarne aparate.
+(3) Ovim Pravilnikom se u pravni poredak Republike Hrvatske prenosi Direktiva 2014/29/EU Europskog parlamenta i Vijeća od 26. veljače 2014. o usklađivanju zakonodavstava država članica u odnosu na stavljanje na raspolaganje na tržištu jednostavnih tlačnih posuda (SL L 96, 29. 3. 2014.).
+Članak 2.
+Definicije
+Za potrebe ovog Pravilnika primjenjuju se sljedeće definicije:
+1. »stavljanje na raspolaganje na tržištu« je svaka isporuka posuda za distribuciju ili uporabu na tržištu Unije u okviru trgovačke djelatnosti s plaćanjem ili bez plaćanja;
+2. »stavljanje na tržište« je prvo stavljanje na raspolaganje posude na tržištu Unije;
+3. »proizvođač« je fizička ili pravna osoba koja proizvodi posudu ili koja je konstruirala ili proizvela posudu i stavlja je na tržište pod svojim imenom ili trgovačkim znakom;
+4. »ovlašteni zastupnik« je svaka fizička ili pravna osoba s poslovnim nastanom u Uniji koju je proizvođač pismeno ovlastio da određene zadaće obavlja u njegovo ime;
+5. »uvoznik« je svaka fizička ili pravna osoba s poslovnim nastanom u Uniji koja posudu iz treće zemlje stavlja na tržište Unije;
+6. »distributer« je svaka fizička ili pravna osoba u opskrbnom lancu, različita od proizvođača ili uvoznika, koja stavlja posudu na raspolaganje na tržištu;
+7. »gospodarski subjekti« su proizvođač, ovlašteni zastupnik, uvoznik i distributer;
+8. »tehnička specifikacija« je dokument kojim su propisani tehnički zahtjevi koje posuda mora ispuniti;
+9. »usklađena norma« je usklađena norma kako je definirano člankom 2. točkom 1. podtočkom (c) Uredbe (EU) br. 1025/2012;
+10. »akreditacija« je akreditacija kako je definirano člankom 2. točkom 10. Uredbe (EZ) br. 765/2008;
+11. »nacionalno akreditacijsko tijelo« je nacionalno akreditacijsko tijelo kako je definirano člankom 2. točkom 11. Uredbe (EZ) br. 765/2008;
+12. »ocjenjivanje sukladnosti« je postupak kojim se utvrđuje jesu li ispunjeni bitni sigurnosni zahtjevi ovog Pravilnika koji se odnose na posudu;
+13. »tijelo za ocjenjivanje sukladnosti« je tijelo koje obavlja poslove ocjenjivanja sukladnosti uključujući umjeravanje, ispitivanje, potvrđivanje i pregled;
+14. »povrat« je svaka mjera usmjerena na povratak posude koja je već dostupna krajnjem korisniku;
+15. »povlačenje« je svaka mjera usmjerena na sprečavanje da posuda u opskrbnom lancu bude dostupna na tržištu;
+16. »zakonodavstvo Unije o usklađivanju« je svako

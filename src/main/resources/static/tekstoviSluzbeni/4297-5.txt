@@ -1,0 +1,31 @@
+druge jurisdikcije ako:
+1. podaci o imatelju računa sadrže podatak o sadašnjoj adresi ili adresi prebivališta u toj državi članici i drugoj jurisdikciji, jedan ili više telefonskih brojeva u toj državi članici i drugoj jurisdikciji (a ne sadrže telefonski broj u Republici Hrvatskoj) ili trajni nalog (s obzirom na financijske račune osim depozitnih računa) za prijenos sredstava koji se vodi u državi članici i drugoj jurisdikciji, a izvještajna financijska institucija ishodila je ili prethodno provjerila i u evidenciji raspolaže s:
+(a) izjavom o rezidentnosti imatelja računa u državi (-ama) članici (-ama) i drugoj jurisdikciji (-ma) koja (-e) ne uključuje (-u) tu državu članicu i drugu jurisdikciju i
+(b) dokumentiranom dokazu na osnovi kojeg se utvrđuje da imatelj računa ima status osobe o kojoj se ne izvješćuje,
+2. podaci o imatelju računa sadrže važeću punomoć ili ovlaštenje za potpisivanje dodijeljeno osobi koja ima adresu u toj državi članici i drugoj jurisdikciji, a izvještajna financijska institucija ishodila je ili prethodno provjerila i u evidenciji raspolaže s:
+(a) izjavom o rezidentnosti imatelja računa u državi (-ama) članici (-ama) ili drugoj jurisdikciji (-ma) koja (-e) ne uključuje (-u) tu državu članicu i drugu jurisdikciju ili
+(b) dokumentiranim dokazom na osnovi kojeg se utvrđuje da imatelj računa ima status osobe o kojoj se ne izvješćuje.
+2.2. Napredni postupci utvrđivanja računa velike vrijednosti
+2.2.1. Pretraživanje elektroničkih baza podataka
+Članak 20.
+U slučaju računa velike vrijednosti, iz članka 74. stavka 2. ovoga Pravilnika, izvještajne financijske institucije obvezne su elektroničkim putem provjeravati svoje podatke, za svaku od indicija iz članka 16. ovoga Pravilnika.
+2.2.2. Pretraživanje evidencija koje se vode na papiru
+Članak 21.
+(1) Pretraživanje evidencija koje se vode na papiru nije potrebno daljnje provoditi ako podaci izvještajnih financijskih institucija, koje je moguće elektronički pretražiti, sadrže polja i obuhvaćaju sve informacije iz članka 22. ovoga Pravilnika.
+(2) Ako elektroničke baze podataka ne obuhvaćaju sve informacije iz članka 22. ovoga Pravilnika, izvještajne financijske institucije obvezne su za račune velike vrijednosti izvršiti provjeru i trenutne glavne datoteke stranaka, a ako podaci u tim datotekama nisu obuhvaćeni, tada su obvezne za svaku indiciju iz članka 16. ovoga Pravilnika, provjeriti sljedeće isprave povezane s računom, a koje su izvještajne financijske institucije prikupile u posljednjih pet godina:
+1. najnoviji prikupljeni dokumentirani dokaz o računu,
+2. najnoviji ugovor ili isprave o otvaranju računa,
+3. najnoviju dokumentaciju koju je izvještajna financijska institucija prikupila na temelju propisa koji uređuju područje sprječavanja pranja novca i financiranja terorizma ili na temelju drugih propisa,
+4. važeću punomoć ili ovlaštenje za potpisivanje i
+5. važeći trajni nalog za prijenos sredstava (osim s obzirom na depozitni račun).
+2.2.3. Izuzeci od pretraživanja evidencija koje se vode na papiru
+Članak 22.
+Izvještajne financijske institucije nisu obvezne pretraživati evidencije koje se vode na papiru iz članka 21. ovoga Pravilnika ako informacije izvještajnih financijskih institucija koje se mogu elektronički pretraživati obuhvaćaju sljedeće:
+1. status rezidentnosti imatelja računa,
+2. trenutačno pohranjenu adresu prebivališta i adresu za zaprimanje pismena imatelja računa,
+3. trenutačno pohranjeni telefonski broj imatelja računa, ako postoji,
+4. u slučaju financijskih računa koji nisu depozitni računi, informaciju o tome postoje li trajni nalozi za prijenos sredstava s računa na račun (uključujući račun u drugoj podružnici izvještajne financijske institucije ili u drugoj financijskoj instituciji),
+5. informaciju o tome postoji li trenutačno važeća adresa iz usluge ili nalog za zadržavanje pošte za imatelja računa i
+6. informacije o tome postoji li punomoć ili ovlaštenje za potpisivanje u odnosu na račun.
+2.2.4. Dodatna saznanja o imatelju računa
+Članak 23.

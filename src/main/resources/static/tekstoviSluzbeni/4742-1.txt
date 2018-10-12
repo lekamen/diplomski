@@ -1,0 +1,26 @@
+ Stožeri civilne zaštite imaju pristup bazi podataka operativnih snaga s područja njihove nadležnosti.
+2. Operativne snage vatrogastva
+Članak 4.
+(1) Baza podataka u segmentu operativnih snaga vatrogastva podijeljena je u tri entiteta:
+– javne vatrogasne postrojbe
+– postrojbe dobrovoljnih vatrogasnih društava
+– državne vatrogasne intervencijske postrojbe.
+(2) Baza podataka u entitetu javnih vatrogasnih postrojbi sadrži sljedeće podatke: naziv, osnivač, adresa postaje/a s GPS koordinatama, ime i prezime zapovjednika i zamjenika zapovjednika s kontakt podacima, kontakt podaci operativno komunikacijskog centra, ukupan broj djelatnika, broj operativnih vatrogasaca, broj vozila, broj plovila i potražnih pasa s pripadajućim certifikatima.
+(3) Baza podataka u entitetu postrojbi dobrovoljnih vatrogasnih društava sadrži sljedeće podatke: naziv, osnivač, kategorija društva, adresa postaje/a s GPS koordinatama, ime i prezime zapovjednika i zamjenika zapovjednika s kontakt podacima, kontakt podaci operativno komunikacijskog centra, broj članova, broj operativnih vatrogasaca, broj vozila, broj plovila i broj potražnih pasa s pripadajućim certifikatima.
+(4) Baza podataka u entitetu državne vatrogasne intervencijske postrojbe sadrži sljedeće podatke: naziv, osnivač, adresa odjela s GPS koordinatama, ime i prezime zapovjednika i zamjenika zapovjednika s kontakt podacima, kontakt podaci operativno komunikacijskog centra, broj operativnih vatrogasaca, broj vozila i broj plovila.
+(5) Baze podataka operativnih snaga vatrogastva iz stavaka 2., 3. i 4. ovog članka, sadrže i sposobnosti za operativno djelovanje za svaku postrojbu za tri vrste intervencija sukladno njihovoj tipizaciji koju utvrđuje Hrvatska vatrogasna zajednica:
+– požarne intervencije
+– tehničke intervencije
+– ostale intervencije.
+(6) Za svaku vatrogasnu postrojbu u bazi podatka vodi se kartica s podacima iz stavaka 2., 3. i 4. ovog članka.
+(7) Članovi dobrovoljnih vatrogasnih društava koji su raspoređeni u drugu operativnu snagu ne navode se u bazi podataka kao kapaciteti dobrovoljnog vatrogasnog društva.
+Članak 5.
+Baze podataka u segmentu operativnih snaga vatrogastva iz članka 4. stavaka 2., 3. i 4. sadrže i raspoloživa materijalna sredstva i opremu za provođenje mjera i aktivnosti sustava civilne zaštite u skladu s Prilogom 1. ovog Pravilnika.
+3. Postrojbe civilne zaštite
+Članak 6.
+(1) Baza podataka u segmentu postrojbi civilne zaštite podijeljena je u tri entiteta:
+– državne intervencijske postrojbe
+– specijalističke postrojbe
+– postrojbe opće namjene.
+(2) Baza podataka u entitetu državnih intervencijskih postrojbi sadrži sljedeće podatke: osnivač i datum osnivanja, adrese skladišta/odjela/postrojbe s GPS koordinatama, specijalnost (traganje i spašavanje iz ruševina, traganje i spašavanje u poplavama, RKBN zaštita, zbrinjavanje, tehničko-taktička potpora), datum i mjesto provedenih osposobljavanja, datum i mjesto provedenih vježbi, ime i prezime zapovjednika i zamjenika zapovjednika s kontakt podacima, broj pripadnika – djelatnih i pričuvnih, broj kompleta osobne opreme, broj kompleta skupne specijalističke opreme, broj kompleta skupne komunikacijske opreme, broj kompleta skupne logističke opreme, broj kompleta skupne medicinske opreme, broj vozila, broj plovila i broj potražnih pasa s pripadajućim certifikatima.
+(3) Baza podataka u entitetu specijalističkih postrojbi sadrži sljedeće podatke: osnivač i datum osnivanja, adresa mobilizacijskog zborišta s GPS koordinatama, specijalnost (traganje i spašavanje iz ruševina, traganje i spašavanje u poplavama, RKBN zaštita, zbrinjavanje, tehničko-taktička potpora), datum i mjesto provedenih osposobljavanja, datum i mjesto provedenih vježbi, ime i prezime zapovjednika i zamjenika zapovjednika s kontakt podacima, ukupan broj pripadnika, broj kompleta osobne opreme, broj kompleta skupne specijalističke opreme, broj kompleta skupne komunikacijske opreme, broj kompleta skupne logističke opreme, broj kompleta skupne medicinske opreme, broj

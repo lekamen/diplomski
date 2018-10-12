@@ -1,0 +1,24 @@
+ identificiranja 16 (n,1)) mora biti K ili G, inače 0. 487(W)
+Na kraju tablice dodaje se sljedeća kontrola:
+Ako je Oznaka retka = ‘PO’, tada Banka MBR ne smije biti jednak kao Komitent MBR 138
+Članak 13.
+U tablici u točki 3.5.3. dodaju se sljedeće kontrole:
+Dopunski slogovi Šifra pogreške Za sve instrumente koji se dostavljaju u izvješću KS, osim instrumenata A0235, A0236, A0237, A0238 i A0239, vrijedi pravilo: za svaku Vrstu iznosa = 41 mora postojati Vrsta iznosa = 42 i obratno, za svaku Vrstu iznosa =42 mora postojati Vrsta iznosa = 41. 534 Za instrumente A0235, A0236, A0237, A0238 i A0239 vrijedi pravilo: za svaku Vrstu iznosa = 41 moraju postojati Vrste iznosa = 44 i 45 i obratno, za svaku Vrstu iznosa = 44 moraju postojati Vrste iznosa = 41 i 45 i za svaku Vrstu iznosa = 45 moraju postojati Vrste iznosa = 41 i 44. 536 Za instrumente A0209 do A0217, A0222 do A0230, A0232, A0233, A0305 i A0306 vrijedi pravilo: za svaku Vrstu iznosa = 41 mora postojati Vrsta iznosa = 43 i obratno, za svaku Vrstu iznosa = 43 mora postojati Vrsta iznosa = 41. 538 Ako je Instrument = A0209 do A0217, A0222 do A0230, A0232, A0233, A0305 ili A0306, tada Vrsta iznosa (42) =< Vrsta iznosa (43). 540 Ako je Instrument = A0207, A0218 do A0221 ili A0701, tada Vrsta iznosa (44) =< Vrsta iznosa (45). 541 Za sve instrumente koji se dostavljaju u izvješću KS, osim instrumenata A0235, A0236, A0237, A0238 i A0239, vrijedi pravilo: ako u izvješću KS postoji Vrsta iznosa = 44, u izvješću AA mora postojati ista kombinacija obilježja (prema pravilima izvješća KS) s barem jednom od Vrsta iznosa = 1, 2, 7, 10 ili 12. 542 Za sve instrumente koji se dostavljaju u izvješću KS, osim instrumenata A0235, A0236, A0237, A0238 i A0239, vrijedi pravilo: ako u izvješću AA postoji barem jedna od Vrsta iznosa = 1, 2, 7, 10 i/ili 12, u izvješću KS mora postojati ista kombinacija obilježja (prema pravilima izvješća KS) s vrstom iznosa 44. 544 Za instrumente A0207, A0218 do A0221 i A0701 vrijedi pravilo: ako u izvješću KS postoji Vrsta iznosa = 45, u izvješću AA mora postojati ista kombinacija obilježja (prema pravilima izvješća KS) s barem jednom od Vrsta iznosa = 1, 2, 7, 10 i/ili 12. 546 Za instrumente A0207, A0218 do A0221 i A0701 vrijedi pravilo: ako u izvješću AA postoji barem jedna od Vrsta iznosa = 1, 2, 7, 10 i/ili 12, u izvješću KS mora postojati ista kombinacija obilježja (prema pravilima izvješća KS) s vrstom iznosa 45. 548 Ako je Oznaka retka = KS & (Instrument = A0206 & (Izvorno dospijeće = 0)), tada postoji samo Vrsta iznosa = 44. 617
+Članak 14.
+U tablici 5. mijenjaju se redci 15., 18., 19. i 25. i glase:
+15. Osnova ID3 AN 2 88 – 89 00, P1, P2, P3, P6, PB, PC, PD (posebni odnos) 18. Osnova ID6 AN 2 94 – 95 00, P4, P7, PE (posebni odnos) 19. Osnova ID7 AN 2 96 – 97 00, P5, P8, P9, PF (posebni odnos) 25. Osnova ID13 AN 2 108 – 109 00, U1, U2, PA
+Članak 15.
+U Prilogu 6. Upisivanje vrijednosti obilježja instrumenata mijenjaju se redci 170., 398., 445., 446., 447. i 448. te glase:
+
+U tablici se dodaje redak 449. i glasi:
+
+Članak 16.
+U Prilogu 7. Upisivanje vrijednosti obilježja »Vrsta iznosa« po instrumentima i Prilogu 8. Povezanost obilježja »Portfelj« i »Vrsta iznosa« mijenjaju se redci 12010. i 12011. i glase:
+
+Članak 17.
+Obveznici izvješćivanja dužni su započeti s dostavljanjem izvješća u skladu s ovom Odlukom za izvještajno razdoblje koje završava 30. lipnja 2015.
+Članak 18.
+Ova Odluka stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+O. br. 157-020/06-15/BV
+Zagreb, 8. lipnja 2015.
+Guverner Hrvatske narodne banke prof. dr. sc. Boris Vujčić, v. r.

@@ -1,0 +1,33 @@
+100 02.11.2016 Odluka o izmjenama Odluke o izvješćivanju o novčanom tržištu
+HRVATSKA NARODNA BANKA
+2151
+Na temelju članka 30. i članka 43. stavka 2. točke 9. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) guverner Hrvatske narodne banke donio je 26. listopada 2016.
+ODLUKU
+O IZMJENAMA ODLUKE O IZVJEŠĆIVANJU O NOVČANOM TRŽIŠTU
+I.
+U Uputi za provedbu Odluke o izvješćivanju o novčanom tržištu, koja je sastavni dio Odluke o izvješćivanju o novčanom tržištu (»Narodne novine«, br. 147/2011., 155/2013., 133/2014., 140/2014. i 27/2015.), u poglavlju VIII. Skupina obilježja B, Obilježju 9. Instrument, točki 1. »A1« – Depozit, briše se dio rečenice koji glasi »s izvornim rokom dospijeća do jedne godine«.
+U bilješci 2 briše se dio rečenice koji glasi »s izvornim rokom dospijeća do jedne godine«.
+U točki 2. »B1« – Repo posao brišu se dijelovi rečenice koji glase »s izvornim rokom dospijeća do jedne godine« i »ali najdulje s izvornim rokom dospijeća do godine dana«.
+U točki 3. »B2« – Buy-sell back brišu se dijelovi rečenice koji glase »s izvornim rokom dospijeća do jedne godine« i »ali najdulje s izvornim rokom dospijeća do godine dana«.
+II.
+U Uputi za izradu i dostavljanje datoteka s podacima o novčanom tržištu, koja je sastavni dio Odluke o izvješćivanju o novčanom tržištu, Poglavlje 7. XSD datoteke za dostavu podataka mijenja se i glasi:
+»7. XSD datoteke za dostavu podataka
+7.1. Redovna datoteka prometa i stanja (NOVT_RED.xsd)
+7.2. Datoteka s podacima o prekonoćnom kunskom trgovanju (NOVT_PNT.xsd)
+Navedene datoteke HNB će objaviti na svojim internetskim stranicama (www.hnb.hr), a obveznici izvješćivanja dužni su osigurati primjenu datoteka.«
+III.
+U Uputi za izradu i dostavljanje datoteka s podacima o novčanom tržištu, koja je sastavni dio Odluke o izvješćivanju o novčanom tržištu, Poglavlje 8. Primjeri XML datoteka mijenja se i glasi:
+»8. Primjeri XML datoteka
+8.1. Redovna datoteka prometa i stanja (Ulazni_podaci–NOVT–RED.xml)
+8.2. Prazna redovna datoteka prometa i stanja (Ulazni_podaci–NOVT–RED-Prazno.xml)
+8.3. Datoteka s podacima o prekonoćnom kunskom trgovanju (Ulazni_podaci–NOVT–PNT.xml)
+8.4. Povratna datoteka s greškama redovne datoteke prometa i stanja (Ulazni_podaci–NOVT–RED-Povrat_Greske.xml)
+8.5. Povratna datoteka s greškama datoteke s podacima o prekonoćnom kunskom trgovanju (Ulazni_podaci–NOVT–PNT-Povrat_Greske.xml)
+Primjere XML datoteka HNB će objaviti na svojim internetskim stranicama (www.hnb.hr).«
+IV.
+Prve podatke u skladu s ovom Odlukom banke i HBOR dužni su dostaviti HNB-u 3. siječnja 2017. za izvještajni datum 2. siječnja 2017.
+V.
+Ova Odluka objavljuje se u »Narodnim novinama«, a stupa na snagu 2. siječnja 2017.
+O.br.: 321-020/10-16/BV
+Zagreb, 26. listopada 2016.
+Guverner Hrvatske narodne banke prof. dr. sc. Boris Vujčić, v. r.

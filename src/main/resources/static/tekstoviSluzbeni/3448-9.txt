@@ -1,0 +1,21 @@
+ Ustavni sud zaključio je da mora preispitati svoju dosadašnju ocjenu o ustavnopravnoj prihvatljivosti pravnog shvaćanja VUSRH-a (koje su prihvatili upravni sudovi i nadležna upravna tijela) prema kojem je rok iz članka 7. ZID-a ZoNak-a/02 materijalnopravne prirode, kao i svoju dosadašnju ocjenu da u tom pitanju mjerodavno pravo nije proizvoljno protumačeno i samovoljno primijenjeno.
+1) Pravna priroda rokova u upravnom pravu
+32. S obzirom na to da je pravna priroda roka propisanog člankom 7. stavkom 1. ZID-a ZoNak-a/02 bila temeljni predmet provedenog upravnog postupka i upravnog spora u podnositeljičinoj upravnoj stvari, Ustavni sud podsjeća da morfologija rokova u upravnom pravu nije identična onoj koju poznaju građansko i neke druge grane prava (v. Ivančević, Velimir: Institucije upravnog prava, PFZ, Zagreb, 1983., str. 324. – 326.).
+33. U relevantno vrijeme (2003.) rokovi u upravnom procesnom pravu (procesnopravni rokovi) bili su uređeni u Glavi VI. (u člancima od 99. do 102.) Zakona o općem upravnom postupku (»Narodne novine« broj 53/91. i 103/96.; u daljnjem tekstu: ZUP/91). Navode se dijelovi odredaba ZUP-a/91 koji su mjerodavni za predmet koji se razmatra u ovom ustavnosudskom postupku:
+»Članak 99.
+(1) Za poduzimanje pojedinih radnji u postupku mogu biti određeni rokovi.
+(...)
+Članak 100.
+(1) Rokovi se računaju na dane, mjesece i godine.
+(2) ... Rok koji je određen po mjesecima ... završava se istekom onog dana, mjeseca ... koji po svojem broju odgovara ... danu u koji pada događaj od kojega se računa trajanje roka. ...
+(...)
+Članak 101.
+(1) Početak i tok rokova ne sprečavaju nedjeljni dani i dani državnih praznika.
+(2) Ako posljednji dan roka pada u nedjelju ili na dan državnog praznika, ili u neki drugi dan kad organ kod kojega se radnja postupka ima poduzeti ne radi, rok istječe istekom prvoga idućeg radnog dana.«
+Slične odredbe sadržane su i u Glavi V. (u člancima od 79. do 82.) Zakona o općem upravnom postupku (»Narodne novine« broj 47/09.; u daljnjem tekstu: ZUP/09) koji je danas na snazi.
+34. Pravilo o isteku roka kada posljednji dan pada na državni praznik, nedjelju ili dan u koji tijelo ne radi, propisano člankom 101. stavkom 2. ZUP-a/91, primjenjuje se onda kada je riječ o poduzimanju pojedinih radnji u postupku. S druge strane, to pravilo po prirodi stvari ne vrijedi za materijalnopravne rokove u upravnom pravu.
+35. Kod materijalnopravnih rokova u upravnom pravu uglavnom je riječ o djelovanju vremena na nastanak subjektivnog prava, prestanak subjektivnog prava i vršenje (ostvarivanje) tog prava.
+Tako istek materijalnopravnog roka može na četiri načina utjecati na stjecanje (nastanak) materijalnog prava: zasnovati stjecanje prava, stvoriti situaciju dužnog čekanja (dilatorni rok), omogućiti stjecanje prava primjenom presumpcije, te dokazati da je pravo već stečeno. S druge strane, istek materijalnopravnog roka može na četiri načina djelovati i na prestanak materijalnog prava: zasnovati prestanak prava, odrediti prestanak prava, omogućiti prestanak prava, a istekom roka može se i dokazati prestanak prava (Ivančević, Institucije upravnog prava, str. 325.).
+2) Preispitivanje pravnog shvaćanja VUSRH-a o materijalnopravnoj prirodi roka za podnošenje zahtjeva za priznavanje prava na naknadu za oduzetu imovinu
+36. Ustavni sud je u provedenom ustavnosudskom postupku utvrdio da su rokovi iz članka 65. ZoNak-a/96 i članka 7. ZID-a ZoNak-a/02 klasični procesnopravni prekluzivni rokovi u smislu članka 99. stavka 1. ZUP-a/91 na koje se primjenjuje pravilo iz članka 100. stavka 2. ZUP-a/91. Te su procesne norme usmjerene prema djelovanju vremena na vršenje procesnih ovlaštenja odnosno obveza time što ih rok ukida odnosno zaustavlja.
+Sukladno tome, u nastavku se obrazlažu razlozi zbog kojih je Ustavni sud, vodeći se razlozima pravne sigurnosti, ocijenio nužnim promijeniti svoj ocjenu da je ustavnopravno prihvatljivo pravno shvaćanje VUSRH-a prema kojem je rok za podnošenje zahtjeva za priznavanje prava na naknadu za oduzetu

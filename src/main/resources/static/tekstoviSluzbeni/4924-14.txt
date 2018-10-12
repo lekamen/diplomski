@@ -1,0 +1,31 @@
+ potiskivalica mora biti uključena u glavni zračni vod vlaka.
+(2) Automatskim kočnicama rukuje se s čela vlaka. Ručica kočnika potiskivalice postavlja se u isključni (zaprežni) položaj.
+(3) Strojovođa potiskivalice održava radni tlak u glavnim spremnicima kako bi u slučaju potrebe mogao rukovati automatskim kočnicama vlaka iz svog vučnog vozila.
+(4) U slučaju opasnosti strojovođa potiskivalice mora uvesti brzo kočenje i zaustaviti vlak.
+Članak 52.
+(1) U slučaju opasnosti strojovođa treba primijeniti brzo kočenje, aktivirati direktnu kočnicu i uređaj za pjeskarenje (ako postoji), pri čemu treba signalizirati »Opasnost, koči«.
+(2) Brzo kočenje uvodi se i u slučajevima opasnosti kojima su prethodili postupno kočenje i otkočivanje.
+(3) Ako se brzo kočenje ne može provesti kočnikom, brzo kočenje treba provesti kočnicom za slučaj opasnosti ili drugim uređajima koji aktiviraju brzo kočenje.
+(4) Ako tijekom kočenja opasnost prestane te vlak nije potrebno zaustavljati, brzo kočenje može biti prekinuto.
+(5) Ako strojovođa zamijeti neočekivano opadanje brzine vlaka i tlaka zraka u glavnom zračnom vodu koje nije on uzrokovao, treba aktivirati brzo kočenje.
+(6) Ako ne postoje uvjeti za zaustavljanje vlaka na tom dijelu pruge strojovođa mora nastojati odgoditi zaustavljanje do odsjeka gdje je zaustavljanje vlaka sigurnije.
+(7) Ako zavedeno brzo kočenje nema dostatan učinak, strojovođa treba aktivirati dopunske kočnice koje su mu na raspolaganju.
+Članak 53.
+(1) Lokomotiva s automatskom kočnicom u kvaru čiji je direktni kočnik ispravan može vući vlak najvećom brzinom do 30 km/h do prvog kolodvora u kojem se utvrđuje SKM vlaka i dalje može nastaviti vožnju brzinom koja odgovara stvarnom postotku kočenja.
+(2) Ako dođe do kvara automatske kočnice lokomotive uslijed čega se ne može rukovati direktnim kočnikom, vlak mora biti zaustavljen i odmah mora biti zatražena pomoćna lokomotiva.
+Dužnosti izvršnog radnika osposobljenog za probu kočenja
+Članak 54.
+(1) Izvršni radnik stručno osposobljen za probu kočenja utvrđuje stanje zakočenosti i otkočenosti kočnice izravno ili putem pokazivača stanja kočnice vozila (na vozilima opremljenim istima) te obavlja ostale provjere iz postupka za probu kočenja koje nije u mogućnosti provesti strojovođa, a tiču se neposrednog uvida u stanje kočnice u vlaku. U tu svrhu navedeni izvršni radnik komunicira sa strojovođom tijekom obavljanja probe kočenja, izuzev u slučajevima kada probu kočenja obavlja samostalno (potpuna proba kočenja stabilnim postrojenjem).
+(2) Ako se kod teretnih vagona s automatskim mjenjačima kočne sile »prazno – tovareno« utvrdi da ne koče u jednom od položaja, to je potrebno upisati u Izvješće o sastavu i kočenju vlaka.
+Dužnosti ostalih izvršnih radnika
+Članak 55.
+(1) U polaznom ili usputnim kolodvorima gdje nastanu izmjene u sastavu i kočenju vlaka potrebno je odrediti vrstu kočnice i postaviti mjenjače kočne sile u pravilan položaj.
+(2) Ako dođe do kvara na glavnom zračnom vodu i do ispuštanja zraka tako da to ugrožava nastavak vožnje, a smetnje nije moguće otkloniti na mjestu kvara, neispravan dio vlaka treba biti isključen iz glavnog zračnog voda zatvaranjem čelnih slavina ispred tog dijela vlaka. Vožnja se nastavlja brzinom koju omogućuje preostali SKM vlaka.
+(3) Na vlaku zakočenom u službenim mjestima ili na otvorenoj pruzi s nagibom 15‰ i više potrebno je svakih 30 minuta provjeravati zakočenost.
+Otpremanje neradnih lokomotiva
+Članak 56.
+(1) Strojovođa koji prati neradnu lokomotivu o ispravnosti njezinih kočnica obavještava izvršnog radnika koji obavlja probu kočenja za vrijeme obavljanja probe kočenja.
+(2) Ako je kočni uređaj neradne lokomotive ispravan, on mora biti podešen tako da lokomotiva može biti kočena kao vučeno vozilo u položaju vrste kočnice za vlak kojim se otprema.
+Uvrštavanje vagona i izbor vrste kočnice u vlakovima za prijevoz putnika
+Članak 57.
+(1) Vagoni s kočnicom R velikog učinka mogu se uvrštavati u vlakove s vagonima koji imaju kočnicu brzog djelovanja i postotak

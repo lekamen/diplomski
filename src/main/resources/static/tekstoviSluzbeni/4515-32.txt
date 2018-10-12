@@ -1,0 +1,38 @@
+ koja su opremljena svjetlosnim tijelima bez žarne niti (ksenon, neon, LED i sl.), ne moraju imati rezervne žarulje.
+Članak 100.
+Vozila kategorije M i N moraju biti opremljena reflektirajućim prslukom, koji je vozač dužan koristiti na cesti kada obavlja neke radnje uz vozilo.
+Članak 101.
+(1) Broj šasije vozila mora biti utisnut na karoseriji ili šasiji vozila odnosno na bilo kojem dijelu vozila koji se ne može jednostavno skinuti. Ako se na vozilu ne nalazi čvrsto utisnut broj šasije isti mora biti postavljen na vozilo na način da se skidanjem trajno uništava. Broj šasije može se nalaziti samo na identifikacijskoj naljepnici ili pločici.
+(2) Ako je na vozilu utisnuto ili postavljeno više različitih brojeva šasije, kao mjerodavan se utvrđuje onaj koji je čvrsto utisnut na karoseriji ili šasiji vozila. Ako su oba broja šasije čvrsto utisnuta na karoseriji ili šasiji vozila, jedan mora biti trajno poništen, ali na način da ostaje čitljiv.
+(3) Ako vozilo mijenja broj šasije, novi broj šasije mora biti postavljen što bliže poziciji starog broja. Stari broj šasije treba biti trajno poništen, ali na način da ostaje čitljiv.
+Članak 102.
+(1) Vozila kategorije M2, M3, N2, N3, O, O3 i O4, koja su u Republici Hrvatskoj prvi put registrirana nakon 1. srpnja 2013., moraju biti sukladna s Direktivom 96/53/EC.
+(2) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 103.
+(1) Vozila namijenjena za prijevoz opasnih tvari moraju imati opremu u skladu s ADR propisima.
+(2) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+Članak 104.
+(1) Zimskom opremom motornih vozila kategorije M i N čija najveća dopuštena masa nije veća od 3,5 t sukladno ovom Pravilniku, smatraju se zimski pneumatici (M+S) na svim kotačima ili ljetni pneumatici s najmanjom dubinom profila od 4 mm i s lancima za snijeg koji se postavljaju na pogonske kotače.
+(2) Zimskom opremom autobusa sukladno ovom Pravilniku, smatraju se lanci ili zimski pneumatici (M+S) postavljeni na pogonske kotače, a autobusi i teretna vozila koja ne mogu postaviti lance na pogonske kotače moraju imati zimske pneumatike (M+S) na pogonskim kotačima.
+(3) Pneumatici s čavlima ne smiju se postavljati na motorna vozila.
+(4) Odredbe ovoga članka ne primjenjuju se na vojna vozila oružanih snaga Republike Hrvatske.
+14. Uređaji za pogon plinom
+Članak 105.
+Uređaji, oprema i sustavi za pogon motornih vozila plinom, uređuju se propisom kojim se uređuju uređaji, oprema i sustavi za pogon motornih vozila plinom.
+IV. UREĐAJI NA VOZILIMA KATEGORIJE L
+1. Uređaj za upravljanje
+Članak 106.
+(1) Uređaj za upravljanje na vozilima kategorije L mora biti odobren, te ugrađen sukladno Uredbi (EU) br. 168/2013.
+(2) Vozila za čiji uređaj za upravljanje nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 107.
+(1) Uređaj za upravljanje mora osigurati jednostavno i sigurno upravljanje vozilom.
+(2) Uređaj za upravljanje mora bit opremljen graničnicima upravljača.
+(3) Uređaj za upravljanje mora biti izveden tako da omogućava vozaču neometano zakretanje upravljača u oba smjera do graničnika upravljača
+(4) Vanjski radijus kruga prilikom najvećeg zakretnog kuta upravljača, ne smije biti veći od 12,5 m.
+2. Uređaj za kočenje
+Članak 108.
+(1) Uređaj za kočenje na vozilima kategorije L mora biti odobren, te ugrađen sukladno Direktivi 93/14/EEC.
+(2) Vozila za čiji uređaj za kočenje nisu bili propisani uvjeti za odobravanje u vrijeme njihovog puštanja u promet ili proizvodnje, moraju udovoljiti uvjetima koji su propisani ovim Pravilnikom.
+Članak 109.
+(1) Uređaj za kočenje na vozilima L kategorije je kombinacija dijelova, osim dijelova motora, čija je funkcija progresivno smanjenje brzine vozila u vožnji, zaustavljanje vozila ili zadržavanje u stanju mirovanja ukoliko je vozilo zaustavljeno.
+(2) Uređaj za kočenje mora biti ugrađen i izveden tako da vozač

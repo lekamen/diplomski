@@ -1,0 +1,31 @@
+ objaviti sljedeće:
+a) povezanost između ukupnih bruto ulaganja u najam na datum bilance i sadašnje vrijednosti potraživanja za minimalna plaćanja najma na datum bilance. Pored toga treba se objaviti ukupna bruto ulaganja u najam i sadašnju vrijednost potraživanja za minimalna plaćanja najma na datum bilance za svako od sljedećih razdoblja:
+i. kraće od jedne godine,
+ii. duže od jedne godine, ali ne duže od pet godina,
+iii. duže od pet godina.
+b) akumulirana naknada za nenaplaćena potraživanja minimalnih najamnina,
+c) opći opis najmodavčevih značajnih ugovora o najmu.
+11.44. ako se potraživanja mjere po fer vrijednosti:
+a) značajne pretpostavke koje su služile kao podloga za načine i tehnike vrednovanja
+b) za svaku kategoriju potraživanja, fer vrijednost, promjene vrijednosti koje su izravno uključene u račun dobiti i gubitka kao i promjene uključene u rezerve fer vrijednosti
+c) za svaku kategoriju izvedenih financijskih instrumenata, podatak o visini i prirodi instrumenata, uključujući
+d) značajne rokove i uvjete koji mogu utjecati na iznos, ročnost i sigurnost budućih novčanih tokova, i
+e) tablicu koja prikazuje kretanja rezervi fer vrijednosti tijekom izvještajnog razdoblja.
+DATUM STUPANJA NA SNAGU
+11.45. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+11.46. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+12. KAPITAL
+UVOD
+Cilj ovoga Standarda je propisati vrste kapitala te kriterije za priznavanje i mjerenje kapitala.
+12.2. Hrvatski standard financijskog izvještavanja 12 – Kapital u skladu je s Direktivom 2013/34/EU.
+12.3. Ovaj Standard treba primjenjivati u sastavljanju, prezentiranju i objavljivanju financijskih izvještaja.  
+DEFINICIJE
+12.4. Kapital je vlastiti izvor financiranja imovine izračunava se kao ostatak imovine poduzetnika nakon odbitka svih njegovih obveza.  
+Kapital se sastoji od: upisanog kapitala, kapitalnih rezervi, revalorizacijskih rezervi, rezervi fer vrijednosti, rezervi iz dobiti, zadržane dobiti ili prenesenog gubitka te dobiti ili gubitka tekuće godine.
+12.5. Prema financijskom konceptu kapitala, kao uloženog novca ili uložene kupovne moći, kapital je sinonim za neto imovinu ili kapital poduzetnika. Prema fizičkom konceptu kapitala, kao poslovne sposobnosti, kapital se smatra sposobnost poduzetnika za proizvodnju temeljenu primjerice na broju jedinica proizvoda na dan.
+12.6. Upisani ili temeljni kapital je novčano izražena vrijednost onoga što ulagatelj unosi u trgovačko društvo, a registrirano je na sudu. 
+12.7. Kapitalne rezerve su dio kapitala kojeg poduzetnik ostvaruje: realizacijom dionica, odnosno udjela iznad nominalne vrijednosti upisanog kapitala odnosno iznad troška stjecanja trezorskih dionica (udjela), kao i dodatno uplaćen kapital i sve ostalo prema odredbama Zakona o trgovačkim društvima.  
+12.8. Rezerve iz dobiti su dio kapitala koje se formiraju iz dobiti poduzetnika, a sastoje se od: zakonskih rezervi, statutarnih rezervi, rezervi za otkup vlastitih dionica (udjela) i ostalih rezervi.  
+12.9. Revalorizacijske rezerve su dio kapitala koje nastaju ponovnom procjenom imovine iznad troškova nabave (dugotrajne materijalne i nematerijalne imovine).
+12.10. Rezerve fer vrijednosti su dio promjene fer vrijednosti financijske imovine raspoložive za prodaju, učinkoviti dio zaštite novčanog toka i zaštita s osnove ulaganja u inozemno poslovanje.  
+12.11. Zadržana dobit ili preneseni

@@ -1,0 +1,30 @@
+ koji se zavaruje, a zavar mora biti bez površinskih ili unutrašnjih grešaka koje bi utjecale na sigurnost posude.
+Zavarivanje, u skladu s odobrenim postupcima zavarivanja, izvode kvalificirani zavarivači ili radnici s potrebnom razinom stručnosti. Ova odobrenja i ispitivanja osposobljenosti provode prijavljena tijela.
+Proizvođač mora, za vrijeme proizvodnje, osigurati stalnu kvalitetu zavarivanja provodeći odgovarajuća ispitivanja i procedure. Za sva ispitivanja moraju se dati izvještaji.
+4. STAVLJANJE POSUDE U UPORABU
+Proizvođač mora uz posudu priložiti upute propisane u točki 2. Dodatka III. ovoga Pravilnika.
+DODATAK II.
+POSTUPCI OCJENJIVANJA SUKLADNOSTI
+1. EU ISPITIVANJE TIPA (MODUL B)
+1.1. EU ispitivanje tipa dio je postupak ocjenjivanja sukladnosti u kojem prijavljeno tijelo pregledava konstrukciju posude te provjerava i potvrđuje da konstrukcija ispunjava zahtjeve ovoga Pravilnika koji se na njega odnose.
+1.2. EU ispitivanje tipa izvršava se na jedan od sljedećih načina u skladu s člankom 13. ovoga Pravilnika:
+– ocjenjivanjem primjerenosti konstrukcije posude pregledom tehničke dokumentacije i dodatnih dokaza iz točke 1.3. ovoga Dodatka te ispitivanjem prototipa koji predstavlja buduću proizvodnju cijele posude (proizvodni tip),
+– ocjenjivanjem primjerenosti konstrukcije posude pregledom tehničke dokumentacije i dodatnih dokaza iz točke 1.3. ovoga Dodatka bez ispitivanja prototipa posude (konstrukcijski tip).
+1.3. Proizvođač podnosi zahtjev za EU ispitivanje tipa jednom prijavljenom tijelu prema svom izboru.
+Zahtjev mora sadržavati:
+– naziv i adresu proizvođača te naziv i adresu ovlaštenog zastupnika ako je on podnio zahtjev;
+– pisanu izjavu kojom izjavljuje da isti zahtjev nije podnesen ni jednom drugom prijavljenom tijelu;
+– tehničku dokumentaciju. Tehnička dokumentacija omogućuje ocjenjivanje sukladnosti posude s primjenjivim zahtjevima ovoga Pravilnika te uključuje odgovarajuću analizu i procjenu rizika. Tehničkom dokumentacijom određuju se primjenjivi zahtjevi i ona obuhvaća, u mjeri u kojoj je to bitno za ocjenjivanje, konstrukciju, proizvodnju i rad posude. Tehnička dokumentacija po potrebi sadržava barem sljedeće elemente:
+• opći opis posude;
+• konstrukciju i crteže za proizvodnju i sheme komponenata itd.;
+• opise i objašnjenja potrebna za razumijevanje tih crteža, shema i rada posude;
+• popis u cijelosti ili djelomično primijenjenih usklađenih norma čiji su referencijski podaci objavljeni u Službenom listu Europske unije, te opise rješenja usvojenih kako bi se udovoljilo osnovnim sigurnosnim zahtjevima ovoga Pravilnika uključujući i popis drugih odgovarajućih primijenjenih tehničkih specifikacija, u slučaju kad te usklađene norme nisu bile primijenjene. U slučaju djelomično primijenjenih usklađenih normi u tehničkoj se dokumentaciji navode dijelovi koji su bili primijenjeni;
+• rezultate provedenih proračuna, ispitivanja itd.;
+• izvješća o ispitivanjima;
+• upute i podaci o sigurnosti iz točke 2. Dodatka III. ovoga Pravilnika;
+• dokument koji opisuje: izabrane materijale, izabrane postupke zavarivanja,izabrane kontrole,sve bitne pojedinosti koje se tiču konstrukcije posude;
+– po potrebi, prototipe posuda koji predstavljaju buduću proizvodnju. Prijavljeno tijelo može zahtijevati i druge prototipe ako su oni potrebni za provođenje programa ispitivanja;
+– dokaze o primjerenosti tehničkog rješenja. U tim dokazima navode se svi korišteni dokumenti, posebno ako relevantne usklađene norme nisu u potpunosti primijenjene. Ti dokazi po potrebi uključuju rezultate ispitivanja koja su provedena u skladu s drugim relevantnim tehničkim specifikacijama u odgovarajućem laboratoriju proizvođača ili nekom drugom laboratoriju koji vrši ispitivanja u njegovo ime i pod njegovom odgovornošću.
+U slučaju ispitivanja prototipa posude tehnička dokumentacija također sadrži:
+– potvrde o primjerenosti postupaka zavarivanja i primjerenoj kvalifikaciji zavarivača ili operatera za zavarivanje,
+– zapisnik o kontroli materijala korištenih u

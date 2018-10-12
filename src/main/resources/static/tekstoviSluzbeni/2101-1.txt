@@ -1,0 +1,45 @@
+ i svakodnevnu podršku/pomoć druge osobe M: medicinska dokumentacija S: liječnik specijalist Osobama koje su u terminalnoj fazi ili dekompenzaciji kronične bolesti čije liječenje nužno zahtijeva transplantaciju organa, kemo ili nadomjesnu terapiju, dijalizu, parenteralnu i enteralnu prehranu, aspiraciju usne šupljine i gornjih dišnih puteva, oksigenator, mehanički respirator, ugrađivanje stome, trahealne kanile, svakodnevnu mehaničku zaštitu kože i sl. M: medicinska dokumentacija S: liječnik specijalist Kronične bolesti kod djece Kod djece s kroničnim bolestima, genetskim i rijetkim bolestima kod kojih je postavljena samo dijagnoza – a kod kojih još nije potrebna posebna prehrana, stalna terapija i pojačana skrb druge osobe M: medicinska dokumentacija S: liječnik specijalist Kod djece s kroničnim bolestima, genetskim i rijetkim bolestima – kod kojih je potrebna posebna prehrana i/ili stalna terapija i pojačana skrb druge osobe M: medicinska dokumentacija S: liječnik specijalist Za djecu s teškim kroničnim, genetskim i rijetkim bolestima kod kojih je potrebna stalna terapija, i/ili specijalna prehrana, i/ili terapijski zahvati uz pojačanu skrb druge osobe M: medicinska dokumentacija S: liječnik specijalist Za djecu kod komplikacija i terminalnih stanja teških kroničnih, genetskih i rijetkih bolesti koje zahtijevaju specifičnu i stalnu pojačanu skrb druge osobe M: medicinska dokumentacija S: liječnik specijalist
+Članak 5.
+U Prilogu 6 OBRAZAC »NALAZ I MIŠLJENJA ZAVODA ZA VJEŠTAČENJE«, Točka »NALAZ I MIŠLJENJE O TEŽINI I VRSTI INVALIDITETA – OŠTEĆENJU FUNKCIONALNIH SPOSOBNOSTI« i točka »NALAZ I MIŠLJENJE O TEŽINI I VRSTI INVALIDITETA – OŠTEĆENJU FUNKCIONALNIH SPOSOBNOSTI KOD PONOVNOG PREGLEDA« mijenjaju se i glase:
+Točka »NALAZ I MIŠLJENJE O TEŽINI I VRSTI INVALIDITETA – OŠTEĆENJU FUNKCIONALNIH SPOSOBNOSTI«
+1. Utvrđena vrsta i % oštećenja organizma iz Liste oštećenja organizma
+1.1. ________________________________________________________
+1.2. ________________________________________________________
+1.3. ________________________________________________________
+1.4. ________________________________________________________
+2. Vrsta i težina invaliditeta – oštećenja funkcionalne sposobnosti prema Listi težine i vrste invaliditeta – oštećenja funkcionalne sposobnosti
+2.1. ________________________________________________________
+2.2. ________________________________________________________
+2.3. ________________________________________________________
+2.4. ________________________________________________________
+3. vrsta oštećenja:
+1.1. postojanje tjelesnog oštećenja                     DA     NE
+1.2. postojanje osjetilnog oštećenja                    DA     NE
+1.3. postojanje intelektualnog oštećenj                DA     NE
+1.4. postojanje mentalnog oštećenja                    DA     NE
+1.5. postojanje poremećaja autističnog spektra    DA     NE
+4. postojanje više vrsta oštećenja
+DA, navesti kojih
+NE
+5. postojanje više vrsta teških oštećenja
+DA, navesti kojih
+NE
+6. postojanje teškog invaliditeta (IV. stupanj)                        DA     NE
+7. postojanje težeg invaliditeta (III. stupanj)                          DA     NE
+8. postojanje trajne promjene u zdravstvenom stanju            DA     NE
+9. postojanje privremene promjene u zdravstvenom stanju   DA     NE
+10. postojanje sposobnosti za osposobljavanje za samozbrinjavanje
+DA (I. i II. stupanj, III. stupanj uz podršku druge osobe)
+NE (III. i IV. stupanj)
+11. postojanje sposobnosti za osposobljavanje za samostalan rad
+DA (I. i II. stupanj, III. stupanj uz podršku druge osobe)
+NE (III. i IV. stupanj)
+12. postojanje potpune nesposobnosti za rad
+DA (III. i IV. stupanj)
+NE (I. i II. stupanj, III. stupanj uz podršku druge osobe)
+13. postojanje potrebe individualnoga rada u provođenju psihosocijalne rehabilitacije
+DA
+NE
+14. postojanje prijeke potrebe trajne ili privremene pomoći i njege i njezin opseg
+– trajna potreba u punom opsegu (IV. stupanj, a moguće i III. stupanj)
+– trajna potreba u

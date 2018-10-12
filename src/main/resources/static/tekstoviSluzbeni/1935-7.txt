@@ -1,0 +1,37 @@
+ mogućnosti predujmiti troškove postupka, a nema imovine, može se osloboditi obveze uplate predujma na način i uz pretpostavke propisane posebnim propisom kojim se uređuje besplatna pravna pomoć.
+(4) Svaki vjerovnik snosi svoje troškove postupka.
+Zastoj postupka
+Članak 46.
+(1) Potrošač i vjerovnici mogu suglasno prije donošenja rješenja o otvaranju postupka stečaja potrošača, zatražiti od suda zastoj postupka radi pokušaja sklapanja sporazuma.
+(2) Zastoj iz stavka 1. ovoga članka može trajati najdulje tri mjeseca.
+(3) Nakon isteka roka iz stavka 2. ovoga članka sud će nastaviti postupak po službenoj dužnosti.
+Pripremno ročište
+Članak 47.
+(1) Prije donošenja odluke o otvaranju postupka stečaja potrošača sud će zakazati pripremno ročište na kojem će se raspravljati i glasovati o planu ispunjenja obveza.
+(2) Sud može odgoditi pripremno ročište samo jednom, ako ocijeni da je to potrebno radi zaštite interesa stranaka ili u slučaju iz članka 50. stavka 3. ovoga Zakona.
+Poziv za pripremno ročište
+Članak 48.
+(1) Poziv za pripremno ročište objavljuje se na mrežnoj stranici e-oglasna ploča sudova zajedno s popisom imovine i obveza i planom ispunjenja obveza. U objavi će biti istaknuto da svatko može obaviti uvid u popis imovine i obveza i plan ispunjenja obveza u pisarnici nadležnog suda.
+(2) Vrijeme između objave poziva za pripremno ročište i pripremnog ročišta ne može biti kraće od 60 dana.
+(3) Poziv za pripremno ročište sadržava poziv vjerovnicima da se očituju na plan ispunjenja obveza u roku od 30 dana od objave poziva za pripremno ročište na mrežnoj stranici e-oglasna ploča sudova.
+(4) Vjerovnici čije tražbine nisu sadržane u popisu imovine i obveza niti su pri izradi plana ispunjenja obveza uzete u obzir mogu zahtijevati njihovo namirenje samo ako su u roku od 30 dana od objave poziva za pripremno ročište podnijele zahtjev za dopunu ili izmjenu popisa. U pozivu za pripremno ročište sud će upozoriti na pravne posljedice koje će nastupiti zbog propuštanja roka za podnošenje zahtjeva za dopunu ili izmjenu popisa.
+Tijek ročišta
+Članak 49.
+(1) Pripremno ročište započinje razmatranjem plana ispunjenja obveza.
+(2) Plan ispunjenja obveza može se na prijedlog pojedinih vjerovnika ili potrošača dopuniti ili izmijeniti.
+(3) Svaki vjerovnik ima pravo zahtijevati provjeru i dopunu svih tražbina sadržanih u popisu imovine i obveza, pri čemu potrošač ima pravo zahtijevati provjeru svih tražbina koje se naknadno unose u plan na prijedlog vjerovnika.
+(4) Ako potrošač ili koji od vjerovnika ospori tražbinu vjerovnika, smatrat će se da plan ispunjenja obveza nije prihvaćen.
+Prihvaćanje plana
+Članak 50.
+(1) Ako se vjerovnik u roku od 30 dana od objave poziva za pripremno ročište nije izjasnio o planu ispunjenja obveza, smatra se da je dao svoj pristanak na plan.
+(2) Ako nijedan vjerovnik nije uskratio pristanak na plan ispunjenja obveza, smatra se da je plan prihvaćen.
+(3) Ako je koji od vjerovnika uskratio pristanak na plan ispunjenja obveza, potrošač može izmijeniti plan ispunjenja obveza u roku koji odredi sud. U tom slučaju sud će odgoditi pripremno ročište i ponoviti poziv za pripremno ročište u skladu s člankom 47. ovoga Zakona.
+(4) Prihvaćeni plan unosi se u zapisnik i ima učinak sudske nagodbe.
+Zabrana opstrukcije plana
+Članak 51.
+(1) Ako svi vjerovnici ne daju svoj pristanak na plan ispunjenja obveza, sud svojom odlukom može nadomjestiti nedostajući pristanak vjerovnika:
+– ako je većina svih vjerovnika prihvatila plan ispunjenja obveza
+– ako zbroj tražbina vjerovnika koji su dali svoj pristanak prelazi polovinu ukupnih tražbina i
+– ako se vjerovnik koji je uskratio pristanak planom ispunjenja obveza ne dovodi u (ekonomski) lošiji položaj od onoga u kojem bi bio u slučaju otvaranja postupka stečaja potrošača i oslobođenja od preostalih obveza.
+(2) Sud će odluku iz stavka 1. ovoga članaka donijeti nakon što omogući očitovanje vjerovnicima koji su uskratili pristanak na plan ispunjenja obveza.
+(3) Ako je u planu sadržan i pravni položaj

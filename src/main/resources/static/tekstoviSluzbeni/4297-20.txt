@@ -1,0 +1,35 @@
+izvješćuje podrazumijeva osobu države članice i druge jurisdikcije osim:
+1. trgovačkog društva čijim se dionicama redovito trguje na jednom ili više organiziranih tržišta vrijednosnim papirima,
+2. bilo kojeg trgovačkog društva koje je povezani subjekt trgovačkog društva iz točke 1. ovoga članka,
+3. tijela javne vlasti,
+4. međunarodne organizacije,
+5. središnje banke ili
+6. financijske institucije.
+7.29. Osoba države članice i druge jurisdikcije
+Članak 78.
+Osoba države članice i druge jurisdikcije, u odnosu na svaku državu članicu i drugu jurisdikciju podrazumijeva fizičku osobu ili subjekt koji je rezident u bilo kojoj drugoj državi članici i drugoj jurisdikciji, u skladu s poreznim zakonima te druge države članice i druge jurisdikcije, ili ostavština preminule osobe koja je bila rezident bilo koje druge države članice i druge jurisdikcije. U tu svrhu, subjekt kao što je partnerstvo, partnerstvo s ograničenom odgovornošću ili slični pravni aranžman koji nema rezidentnost u svrhu oporezivanja smatra se rezidentom u jurisdikciji u kojoj se nalazi mjesto njegove stvarne uprave.
+7.30. Druga jurisdikcija
+Članak 79.
+Druga jurisdikcija je:
+1. druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen Mnogostrani sporazum između nadležnih tijela o automatskoj razmjeni informacija o financijskim računima na temelju Konvencije o uzajamnoj administrativnoj pomoći u poreznim stvarima i koja na temelju sporazuma razmjenjuje informacija iz članka 177.a stavka 1. Zakona i članka 11. ovoga Pravilnika te je navedena na popisu objavljenom na službenim internetskim stranicama Porezne uprave,
+2. druga jurisdikcija s kojom je Europska unija sklopila sporazum na temelju kojega ta država dostavlja informacije iz članka 177.a stavka 1. Zakona i članka 11. ovoga Pravilnika i koja je navedena na popisu koji je objavila Europska komisija.
+7.31. Osobe koje imaju kontrolu
+Članak 80.
+(1) Osobe koje imaju kontrolu podrazumijevaju fizičke osobe koje imaju kontrolu nad subjektom.
+(2) U slučaju trusta pojam iz stavka 1. ovoga članka odnosi se na vlasnika imovine, skrbnike i upravitelja trusta (ako ga ima), korisnika/korisnike ili vrstu/vrste korisnika te na svaku drugu fizičku osobu ili fizičke osobe koja ima/koje imaju stvarnu kontrolu nad trustom,
+(3) U slučaju pravnog aranžmana koji nije trust, pojam iz stavka 1. ovoga članka znači osobe na istovjetnim ili sličnim položajima.
+(4) Pojam osobe koje imaju kontrolu mora se tumačiti na način koji je u skladu sa sličnim tekstom utvrđenim u definiciji pojma financijska institucija u preporukama radne skupine za financijske aktivnosti.
+7.32. Subjekt koji nije financijska institucija
+Članak 81.
+Subjekt koji nije financijska institucija podrazumijeva svaki subjekt koji nije financijska institucija iz članka 52. ovoga Pravilnika.
+7.33. Pasivni subjekt koji nije financijska institucija
+Članak 82.
+Pasivni subjekt koji nije financijska institucija podrazumijeva sljedeće:
+1. svaki subjekt koji nije financijska institucija i koji nije aktivni subjekt koji nije financijska institucija ili
+2. investicijski subjekt iz članka 52. stavka 4. točke 2. ovoga Pravilnika koji nije financijska institucija države članice i druge jurisdikcije.
+7.34. Aktivni subjekt koji nije financijska institucija
+Članak 83.
+Aktivni subjekt koji nije financijska institucija podrazumijeva svaki subjekt koji nije financijska institucija koji ispunjava bilo koji od sljedećih kriterija:
+1. manje od 50% brutodobiti subjekta koji nije financijska institucija ostvarene u prethodnoj kalendarskoj godini je pasivna dobit te je manje od 50% imovine subjekta koji nije financijska institucija u prethodnoj kalendarskoj godini imovina koja se ostvaruje ili drži radi ostvarenja pasivne dobiti,
+2. dionicama subjekta koji nije financijska institucija redovito se trguje na organiziranim tržištima vrijednosnih papira ili je subjekt koji nije financijska institucija povezani subjekt subjekta čijim se dionicama trguje na organiziranim tržištima vrijednosnih papira,
+3.

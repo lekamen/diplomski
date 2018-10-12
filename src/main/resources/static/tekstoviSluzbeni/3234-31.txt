@@ -1,0 +1,27 @@
+o ocjeni.
+Prijavljeno tijelo stavlja ili daje staviti svoj identifikacijski broj pored oznake CE u skladu s člancima 18. i 19. ovoga Pravilnika.
+4. Nadzor pod odgovornošću prijavljenog tijela
+4.1. Svrha nadzora je utvrditi ispunjava li ugraditelj u potpunosti obveze koje proizlaze iz odobrenog sustava kvalitete.
+4.2. Ugraditelj u svrhu pregleda prijavljenom tijelu mora omogućiti pristup objektima za projektiranje, proizvodnju, sastavljanje, ugrađivanje, provjeru, ispitivanje i skladištenje i pri tom dati sve potrebne informacije, a posebno:
+– dokumentaciju o sustavu kvalitete;
+– zapise o kvaliteti iz dijela sustava kvalitete koji se odnosi na projektiranje, kao što su rezultati analiza, proračuna, ispitivanja;
+– zapise o kvaliteti iz dijela sustava kvalitete koji se odnosi na prihvatljivost nabave i ugradnje, kao što su izvješće o provjeri, podaci o ispitivanju i umjeravanju, izvješća o stručnoj osposobljenosti uključenih zaposlenika.
+4.3. Prijavljeno tijelo mora provoditi periodične revizije kako bi osiguralo da ugraditelj održava i primjenjuje sustav kvalitete te ugraditelju mora dostaviti izvješće o reviziji.
+4.4. Prijavljeno tijelo k tomu može doći u nenajavljeni obilazak radnih prostora ugraditelja ili mjesta ugradnje dizala. Prilikom takvih obilazaka, prijavljeno tijelo prema potrebi može provesti ili dati provesti ispitivanja, s ciljem provjere propisne primjene sustava kvalitete. Ugraditelju mora predati izvješće o obilasku, a ako je provedeno ispitivanje, i izvješće o ispitivanju.
+5. Ugraditelj tijekom razdoblja koje istječe 10 godina nakon što je dizalo stavljeno na tržište, na raspolaganju nacionalnim tijelima mora čuvati:
+– dokumentaciju iz točke 3.1. alineja 3.;
+– tehničku dokumentaciju iz točke 3.1. alineja 4.;
+– podatke o promjenama iz drugog stavka točke 3.5.;
+– odluke i izvješća prijavljenih tijela navedenih u točki 3.5. četvrtom stavku i u točkama 4.3. i 4.4.
+6. Svako prijavljeno tijelo mora obavještavati ministarstvo nadležno za gospodarstvoo izdanim ili povučenim odlukama o odobrenju potpunog sustava kvalitete te povremeno ili na zahtjev ministarstvu nadležnom za gospodarstvo mora dostaviti popis odbijenih, suspendiranih ili na neki drugi način ograničenih odluka o odobrenju.
+Svako prijavljeno tijelo mora obavještavati druga prijavljena tijela o odlukama o odobrenju sustava kvalitete koje je odbilo, suspendiralo ili povuklo te, na zahtjev, o odlukama o odobrenju koje je izdalo.
+Prijavljeno tijelo mora čuvati primjerak izdane odluke o odobrenju, njezinih priloga i dodataka te tehničku dokumentaciju tijekom razdoblja od 15 godina od datuma izdavanja.
+Prijavljeno tijelo Komisiji i državama članicama na zahtjev mora dostaviti primjerak izdane odluke (izdanih odluka) o odobrenju sustava kvalitete.
+7. Oznaka CE i EU izjava o sukladnosti
+7.1. Ugraditelj mora staviti oznaku CE u kabinu svakog dizala koje zadovoljava bitne zdravstvene i sigurnosne zahtjeve iz ovoga Pravilnika te, pod odgovornošću prijavljenog tijela iz točke 3.1., njegov identifikacijski broj uz oznaku CE u kabini svakog dizala.
+7.2. Ugraditelj mora sastaviti pisanu EU izjavu o sukladnosti za svako dizalo i čuvati primjerak EU izjave o sukladnosti na raspolaganju nacionalnim tijelima 10 godina nakon stavljanja dizala na tržište. Primjerak EU izjave o sukladnosti na zahtjev se mora staviti na raspolaganje relevantnim tijelima.
+8. Ovlašteni zastupnik
+Obveze ugraditelja navedene u točkama 3.1., 3.3.3., 3.3.5., 5. i 7. može u njegovo ime i na njegovu odgovornost ispuniti njegov ovlašteni zastupnik ako su navedene u ovlaštenju.
+PRILOG XII.
+SUKLADNOST S TIPOM NA TEMELJU OSIGURANJA KVALITETE PROIZVODNJE ZA DIZALA (modul D)
+1. Sukladnost s tipom na temelju osiguranja kvalitete proizvodnje za dizala dio je postupka ocjenjivanja sukladnosti pri kojemu prijavljeno tijelo ocjenjuje sustav kvalitete proizvoda ugraditelja kako bi osiguralo da su ugrađena dizala sukladna s odobrenim tipom opisanim u potvrdi o EU ispitivanju tipa ili s dizalom koje je projektirano 

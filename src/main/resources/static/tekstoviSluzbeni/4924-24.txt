@@ -1,0 +1,27 @@
+ kolodvora II. dio koje se odnose na izvršne radnike željezničkog prijevoznika, upravitelj infrastrukture dostavlja željezničkom prijevozniku na kojeg se to odnosi. Te odredbe dostavljaju se u obliku izvatka iz Poslovnog reda kolodvora II. dio.
+(4) Tehnološki proces rada kolodvora je opći akt kojim se propisuje organizacija rada u kolodvoru u odnosu na vozni red, a njegov izgled i sadržaj dužan je propisati upravitelj infrastrukture.
+(5) Upravitelj infrastrukture dužan je općim aktom propisati kolodvore za koje se mora izraditi Tehnološki proces rada i objaviti popis kolodvora u Izvješću o mreži.
+(6) Upravitelj infrastrukture izrađuje Tehnološki proces rada kolodvora za kolodvore u kojima pruža potpunu uslugu manevriranja, a u kolodvorima u kojima manevarski rad obavljaju i izvršni radnici željezničkog prijevoznika, Tehnološki proces rada kolodvora izrađuju željeznički prijevoznici u suradnji s upraviteljem infrastrukture.
+(7) Upravitelj infrastrukture dostavlja željezničkom prijevozniku podatke o kolosijecima i vremenu u kojem će željeznički prijevoznik obavljati manevarski rad, na temelju kojih željeznički prijevoznik izrađuje Tehnološki proces rada kolodvora.
+(8) Upravitelj infrastrukture usklađuje vrijeme za sastavljanje i rastavljanje vlakova svakog pojedinog željezničkog prijevoznika te odobrava vrijeme i kolosijeke za provedbu tehnološkog procesa rada svakom prijevozniku, a tako usklađeni tehnološki procesi željezničkih prijevoznika predstavljaju Tehnološki proces rada kolodvora.
+(9) Upravitelj infrastrukture dostavlja željezničkom prijevozniku svoj Tehnološki proces rada kolodvora.
+(10) Osoblje upravitelja infrastrukture i željezničkog prijevoznika koje sudjeluje u provedbi Tehnološkog procesa rada kolodvora odnosno Poslovnog reda kolodvora II. dio mora se dokazno upoznati s njihovim odredbama.
+Signaliziranje kraja vlaka završnim signalnim pločama
+Članak 87.
+(1) Svaka lokomotiva, osim manevarske, i svako vozilo za posebne namjene s vlastitim pogonom kao svoju opremu mora imati završne signalne ploče u skladu s odredbama propisa kojim se propisuju signali, signalni znakovi i signalne oznake u željezničkom prometu.
+(2) Završne signalne ploče postavljaju se na odgovarajuće držače ili na druga prikladna mjesta na stražnjem dijelu posljednjeg vozila u vlaku, vodeći računa o njihovoj stabilnosti i vidljivom signaliziranju kraja vlaka.
+(3) Prometnik vlakova smije otpremiti vlak tek nakon propisnog signaliziranja kraja vlaka.
+(4) Svaki željeznički prijevoznik mora propisati postupak stavljanja, preuzimanja i čuvanja završnih signalnih ploča te osoblje zaduženo za postupanje s istima.
+Osoblje vlaka
+Članak 88.
+Minimalno zaposjedanje vlaka osobljem vlaka propisuje se voznim redom ovisno o svojstvima pruge, konstrukcijskim i eksploatacijskim svojstvima vučnog vozila te o prometnim i prijevoznim potrebama kod vlaka.
+Članak 89.
+(1) Radna vučna vozila moraju za vrijeme vožnje biti zaposjednuta osobljem vučnog vozila, osim onih vozila kojima se izravno upravlja kod vožnje u sprezi. Neradna vučna vozila u vlaku moraju biti zaposjednuta strojovođom.
+(2) Kod vučnih vozila s dvije upravljačnice strojovođa se mora za vrijeme vožnje vlaka nalaziti u prvoj upravljačnici u smjeru vožnje.
+Članak 90.
+(1) Vlak mora biti zaposjednut najmanje jednim izvršnim radnikom koji obavlja poslove praćenja vlaka.
+(2) Bez izvršnog radnika koji obavlja poslove praćenja vlaka, ako je vodeće vozilo zaposjednuto dvojicom strojovođa mogu voziti:
+a) vlakovi za prijevoz putnika pod uvjetom da je otvaranje i zatvaranje vrata usklađeno s izmjenom putnika i da strojovođa vodećeg vozila može prije polaska vlaka putem odgovarajućih pokazivača utvrditi da su vrata za ulazak odnosno za izlazak putnika zatvorena i
+b) teretni vlakovi.
+(3) Ako su pruga i vodeće vozilo opremljeni djelatnim radio–dispečerskim uređajima (u daljnjem tekstu: RDU) i AS uređajem ili djelatnim uređajem za vođenje vlaka, vlak može voziti samo sa strojovođom (u daljnjem tekstu: SV-bez).
+(4) Ako na

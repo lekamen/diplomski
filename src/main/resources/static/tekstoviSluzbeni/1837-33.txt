@@ -1,0 +1,39 @@
+ se nalazi nasuprot užadima za zatezanje i sredstvima za ukrcaj.
+6.10.4.2 Ulazi koji nemaju rampu za ukrcaj moraju imati ljestve za ukrcaj, kojih se najviša prečka mora nalaziti najmanje 0,4 m ispod vodne linije prazne splavi za spašavanje.
+6.10.4.3 Unutar splavi za spašavanje mora predvidjeti sredstva da bi se osobama olakšalo uvlačenje na splav s ljestava za ukrcaj.
+6.10.5 Stabilitet krutih splavi za spašavanje
+6.10.5.1 Ako se splav za spašavanje može sigurno koristiti bez obzira koja joj je strana gornja, čvrstoća i stabilitet splavi moraju biti takvi da se splav može ili sama postaviti u uspravan položaj ili da je lako može postaviti u uspravan položaj jedna osoba i po uzburkanom i po mirnom moru.
+6.10.5.2 Stabilitet splavi za spašavanje kad je opterećena punim brojem osoba i opremom mora biti takav da se može vući brzinom od 3 čvora po mirnom moru.
+6.10.6 Označavanje krutih splavi za spašavanje
+Na splavi za spašavanje moraju biti označeni:
+.1 naziv i luka upisa broda kojemu pripada;
+.2 naziv ili oznaka proizvođača;
+.3 serijski broj;
+.4 naziv organa koji je odobrio splav;
+.5 broj osoba koje se mogu smjestiti, iznad svakog ulaza, slovima visine najmanje 100 mm i bojom suprotnom od boje splavi;
+.6 SOLAS konvencija;
+.7 tip sloga opreme za nužnost;
+.8 duljina vezaljke;
+.9 najveća dopuštena visina smještaja iznad vodne linije (visina ispitivanja bacanjem);
+.10 upute za spuštanje.
+6.10.7 Krute splavi za spašavanje koje se spuštaju sohom
+Dodatno navedenim zahtjevima, kruta splav za spašavanje koja se spušta sohom, kada je obješena o kuku ili hvataljku mora moći izdržati opterećenje četiri puta veće od mase punog broja osoba i opreme.
+6.11 OTVORENE DVOSTRANE SAMONAPUHAVAJUĆE SPLAVI ZA SPAŠAVANJE
+6.11.1 Opći zahtjevi
+6.11.1.1 Otvorene dvostrane samonapuhavajuće splavi za spašavanje moraju biti:
+.1 dobro građene i od dobrih materijala;
+.2 ne smiju se oštetiti na mjestu smještaja pri temperaturi od -18 °C do +65 °C;
+.3 u stanju da se upotrebe pri temperaturi zraka od -18 °C do +65 °C i temperaturi morske vode od -1 °C do +30 °C;
+.4 otporne na truljenje, otporne na koroziju i ne smiju im štetiti morska voda, ulja ili gljivica;
+.5 stabilne i zadržati svoj oblik kada su napuhane i potpuno opterećene; i
+.6 opremljene retroreflektirajućim materijalima u skladu s IMO Rezolucijom A.658(16).
+6.11.2 Konstrukcija
+6.11.2.1 Otvorena dvostrana splav za spašavanje mora biti tako izvedena da nakon pada u vodu s visine od 10 m, splav i oprema zadrže svoju funkcionalnost. Ako se splav za spašavanje smješta na visini većoj od 10 m iznad vodne linije pri najmanjem gazu broda, ona mora biti tipa koji je s pozitivnim rezultatima izdržao ispitivanje bacanjem s visine najmanje jednake visini na kojoj će biti smještena.
+6.11.2.2 Otvorena dvostrana splav za spašavanje kad pluta mora izdržati više uzastopnih skokova na nju s visine ne manje od 4,5 m, mjereći od njezina dna.
+6.11.2.3 Otvorena dvostrana splav za spašavanje i njena oprema moraju biti tako izvedeni da se može tegliti brzinom od 3 čvora po mirnom moru, opterećena dopuštenim brojem osoba i cjelokupnom opremom i s jednim zavlačnim sidrom spuštenim u vodu.
+6.11.2.4 Otvorena dvostrana splav, kada je potpuno napuhana mora omogućiti da se u nju ukrcava iz vode bez obzira na koju se stranu okrenula.
+6.11.2.5 Glavne uzgonske komore moraju biti podijeljene:
+.1 najmanje na dva posebna pregratka od kojih se svaki puni kroz svoj nepovratni ventil.
+.2 uzgonske komore moraju biti tako raspoređene da u slučaju oštećenja bilo kojeg pregratka ili u slučaju da bilo koji pregradak ne bude napuhan, neoštećeni pregradci mogu održavati na vodi broj osoba koji se može smjestiti na otvorenoj dvostranoj splavi za spašavanje, prosječne mase 75 kg, u sjedećem položaju, s pozitivnim nadvođem po čitavom obodu splavi za spašavanje.
+6.11.2.6 Dno otvorene dvostrane splavi za spašavanje mora biti vodonepropusno.
+6.11.2.7 Otvorena dvostrana splav za spašavanje mora se napuhavati neotrovnim plinom. Napuhavanje se mora završiti za 1

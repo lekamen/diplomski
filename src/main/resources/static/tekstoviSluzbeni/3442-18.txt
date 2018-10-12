@@ -1,0 +1,19 @@
+crtežu svake varijante.
+3.1.7. Šarža posuda sastoji se od najviše 3 000 posuda istog tipa uzorka.
+3.1.8. Serijska proizvodnja, u smislu ovoga Pravilnika, postoji ako se tijekom određenog vremenskog razdoblja proizvede više od jedne posude istog tipa u okviru neprekinutog postupka proizvodnje u skladu sa istom konstrukcijom i korištenjem istih postupaka proizvodnje.
+3.1.9. Zapisnik o kontroli: dokument kojim proizvođač materijala potvrđuje da isporučeni proizvodi ispunjavaju zahtjeve narudžbe, pogotovo kemijskog sastava i mehaničkih svojstava, i u kojem utvrđuje rezultate rutinskog kontrolnog testa u tvornici, provedenog na proizvodima kod kojih je korišten isti postupak proizvodnje kao i za nabavu, ali ne nužno i na isporučenim proizvodima.
+3.2. Simboli
+A Istezljivost (L o = 5,65√S o) %              A80 mm Istezljivost (L o = 80 mm) % KCV Udarni rad loma po površini poprečnog presjeka J/cm2 P proračunski tlak bar PS najveći radni tlak bar Ph hidrostatski ili pneumatski ispitni tlak bar Rp0,2 konvencionalna granica razvlačenja za 0,2 % plastične deformacije MPa ReT granica razvlačenja pri najvišoj radnoj temperaturi MPa ReH gornja granica razvlačenja MPa Rm vlačna čvrstoća MPa Rm, max najveća vlačna čvrstoća MPa Rp1,0 konvencionalna granica razvlačenja za 1,0 % plastične deformacije MPa Tmax najviša radna temperatura °C Tmin najniža radna temperatura °C V volumen posude L
+DODATAK IV.
+EU IZJAVA O SUKLADNOSTI (br. XXXX) (1)
+1. Model posude/posuda (broj proizvoda, vrste, šarže ili serijski broj):
+2. Naziv i adresa proizvođača i po potrebi njegovog ovlaštenog zastupnika:
+3. Za izdavanje EU izjave o sukladnosti odgovoran je isključivo proizvođač.
+4. Predmet izjave (identifikacija posude koja omogućuje sljedivost; može, ako je potrebno za identifikaciju posude, uključivati i sliku):
+5. Predmet navedene izjave u skladu je s mjerodavnim zakonodavstvom Unije o usklađivanju:
+6. Pozivanja na relevantne primijenjene usklađene norme ili pozivanja na druge tehničke specifikacije u vezi s kojima se izjavljuje sukladnost:
+7. Prijavljeno tijelo … (naziv, broj) provelo je … (opis intervencije) i izdalo potvrdu:
+8. Dodatne informacije:
+Potpisano za i u ime:
+(mjesto i dan izdavanja):
+(ime, funkcija) (potpis):

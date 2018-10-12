@@ -1,0 +1,27 @@
+ otpada i ostataka od tereta te druge isprave, dokumenti i podaci u skladu s posebnim propisima
+b) isprave, dokumenti i podaci o teretu: IMO FAL Obrazac 2 (izjava o teretu), IMO FAL Obrazac 7 (Manifest opasnih ili onečišćujućih tvari), ulazna skraćena deklaracija, izlazna skraćena deklaracija, te druge isprave, dokumenti i podaci u skladu s posebnim propisima
+c) isprave, dokumenti i podaci o osobama: IMO FAL Obrazac 4 (izjava o osobnim stvarima članova posade), IMO FAL Obrazac 5 (popis posade), IMO FAL Obrazac 6 (popis putnika), Međunarodna izjava o zdravstvenom stanju osoba na brodu te druge isprave, dokumenti i podaci u skladu s posebnim propisima
+d) isprave, dokumenti i podaci o sigurnosnoj zaštiti brodova i luka
+e) isprave, dokumenti i podaci iz područja obrane
+f) isprave, dokumenti i podaci iz područja ribarstva, veterinarske i fitosanitarne inspekcije
+g) isprave, dokumenti i podaci iz područja znanosti, zaštite morskog okoliša i prirode te kulture
+h) isprave, dokumenti i podaci o pomorskim objektima i njihovom kretanju.
+(4) Definicije i detaljan popis isprava, dokumenata i podataka iz stavka 3. ovoga članka, kao i nadležni subjekti jedinstvenog sučelja koji su iste u skladu s odredbama posebnih propisa ovlašteni zaprimati, dostavljati i razmjenjivati, utvrđuju se Katalogom isprava, dokumenata i podataka.
+Članak 6.
+(1) Kako bi se osigurala učinkovita provedba odredbi ove Uredbe subjekti jedinstvenog sučelja sklapaju međuresorne sporazume o razmjeni podataka i suradnji na uspostavi, održavanju i razvoju jedinstvenog sučelja.
+(2) Isprave, dokumente i podatke utvrđene Katalogom isprava, dokumenata i podataka iz članka 5. stavka 4. ove Uredbe nadležni subjekti jedinstvenog sučelja dužni su učiniti dostupnima kroz jedinstveno sučelje za potrebe drugih subjekata jedinstvenog sučelja u skladu s odredbama međuresornih sporazuma iz stavka 1. ovoga članka.
+Članak 7.
+(1) Jedinstveno sučelje čine interoperabilne i kompatibilne informacijske i tehničke platforme, odnosno rješenja u vlasništvu subjekata jedinstvenog sučelja iz članka 4. stavka 2. ove Uredbe.
+(2) Informacijske i tehničke platforme odnosno rješenja iz stavka 1. ovoga članka koja sadrže isprave, dokumente i podatke utvrđene Katalogom isprava, dokumenata i podataka iz članka 5. stavka 4. ove Uredbe moraju udovoljavati tehničkim standardima jedinstvenog sučelja.
+(3) Tehnički standardi iz stavka 2. ovoga članka utvrđuju se Temeljnom funkcionalnom specifikacijom jedinstvenog sučelja koja se objavljuje na službenim mrežnim stranicama središnjeg tijela državne uprave nadležnog za pomorstvo.
+(4) Temeljna funkcionalna specifikacija jedinstvenog sučelja iz stavka 3. ovoga članka definira:
+a) temeljne tehničke funkcionalnosti jedinstvenog sučelja
+b) uvjete i način elektroničke razmjene podataka utvrđenih Katalogom isprava, dokumenata i podataka iz članka 5. stavka 4. ove Uredbe
+c) smjernice za povezivanje SafeSeaNet, e-Carina i drugih informacijskih sustava s jedinstvenim sučeljem
+d) smjernice za osiguravanje kvalitete podataka koji se zaprimaju, dostavljaju i razmjenjuju jedinstvenim sučeljem
+e) upravljanje pravima na pristup ispravama, dokumentima i podacima dostupnim u jedinstvenom sučelju
+f) korisničku autentifikaciju
+g) korisničke tehničke radne upute.
+Članak 8.
+(1) Informacijske i tehničke platforme, odnosno rješenja koja čine jedinstveno sučelje moraju biti interoperabilna, dostupna i kompatibilna sa SafeSeaNet sustavom te, prema potrebi, s računalnim sustavima propisanima u Odluci br. 70/2008/EZ Europskog parlamenta i Vijeća od 15. siječnja 2008. o kompjutoriziranom okružju za carinu i trgovinu.
+(2) Isprave, dokumenti i podaci zaprimljeni službenim postupkom prijave dostupni su u nacionalnom SafeSeaNet sustavu u skladu s posebnim propisom te se stavljaju na raspolaganje drugim državama članicama na zahtjev putem SafeSeaNet sustava, uključujući, prema potrebi, i podatke zaprimljene u skladu s posebnim pravnim aktima Europske unije koji uređuju područje carine i granične

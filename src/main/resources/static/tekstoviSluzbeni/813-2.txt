@@ -1,0 +1,37 @@
+ nastanka pismena ili datum nastanka priloga te datum primitka pismena (priloga);
+7. datum upisa pismena (priloga): upisuje se datum upisa pismena (priloga) u upisnik;
+8. kratak sadržaj pismena (priloga): pobliže se upisuje što je u pismenu (prilogu) sadržano, (npr. u pismenu – predmet nadzora, rješenje, optužni prijedlog za pokretanje prekršajnog postupka, obavezni prekršajni nalog, nadzor izvršenja rješenja, u prilogu – slika mjerila, izvješće o ispitivanju i sl.);
+U stupcima 9. do 14. upisuje se naziv pismena i rad upravnog suda po tužbi i datum odluke i to:
+9. tužba odbačena: upisuje se naziv i datum nastanka pismena kojim se tužba odbacuje;
+10. tužba odbijena: upisuje se naziv i datum nastanka pismena kojim se tužba odbija;
+11. tužba usvojena: upisuje se naziv i datum nastanka pismena kojim se tužba usvaja;
+12. tužba povučena: upisuje se naziv i datum nastanka pismena kojim se tužba povlači;
+13. spor obustavljen: upisuje se naziv i datum nastanka pismena kojim se spor obustavlja;
+14. ostalo: upisuje se naziv i datum nastanka pismena kojim se donosi neka druga odluka upravnog suda po tužbi;
+15. napomena: upisuje se podatak značajan za ovaj pismena (prilog).
+TABLICA 6. INTERNA KNJIGA PRIMOPREDAJE POŠTE INSPEKTORA (ime i prezime) ZA TEKUĆU GODINU
+Interna knjiga primopredaje pošte u kojoj, u svom očevidniku, inspektor vodi evidenciju o poštanskim pošiljkama koje je primio (poslao) u tekućoj godini.
+Tablica se sastoji iz dva dijela: PRIMLJENA POŠTA i POSLANA POŠTA.
+Stupci tablice se ispunjavaju na sljedeći načun:
+1. i 7. datum primitka (otpreme): upisuje se datum primitka (otpreme) poštanske pošiljke;
+2. i 8. osnovni broj spisa: upisuje se klasifikacijska oznaka spisa u primljenoj (otpremljenoj) poštanskoj pošiljci;
+3. i 9. broj pismena (priloga): upisuje se urudžbeni broj pismena ili broj priloga;
+4. i 10. ime i prezime (naziv) stranke i adresa: upisuje se naziv subjekta i adresa na koju mu se pošta dostavlja. Za pravnu osobu upisuje se naziv pravne osobe a za fizičku osobu obrtnika ime i prezime fizičke osobe – vlasnika obrta;
+5. i 11. kratak sadržaj pismena (priloga): pobliže se upisuje što je u pismenu (prilogu) sadržano, (npr. u pismenu – presuda prekršajnog suda, rješenje prekršajnog suda, dostava rješenja stranci, dostava optužnog prijedloga sudu, u prilogu – slika mjerila, izvješće o ispitivanju i sl.);
+6. i 12. napomena: upisuje se podatak značajan za ovaj pismena (prilog).
+TABLICA 7. ZASTUPLJENOST PODRUČJA POJEDINIH PJ U NADZORIMA U TEKUĆOJ GODINI – INSPEKTOR (ime i prezime)
+U Tablicu 7. mjeriteljski inspektor unosi podatke o broju i vrsti poslova koje je, u okviru inspekcijskih nadzora, obavio na području PJ Zagreb, Rijeka, Split i Osijek.
+Način upisivanja podataka u pojedine rubrike i stupce tablice:
+1. inspekcijski nadzori: upisuje se ukupni broj zapisnika o inspekcijskom nadzoru;
+2. neupravni postupci: upisuje se ukupni broj neupravnih postupaka;
+3. upravni postupci: upisuje se ukupni broj upravnih postupaka;
+4. rješenja: upisuje se ukupni broj izdanih rješenja;
+5. i 6. nadzori izvršenja rješenja: upisuje se ukupni broj zapisnika o nadzoru izvršenja rješenja za rješenja donesena u tekućoj i rješenja donesena u prethodnoj godini;
+7. optužni prijedlozi i obavezni prekršajni nalozi: upisuje se ukupni broj podnesenih optužnih prijedloga te izdanih obaveznih prekršajnih naloga u tekućoj godini;
+8. i 9. odluke suda: upisuje se ukupni broj odluka prekršajnih sudova za predmete iz tekuće godine i predmete iz prethodnih godina.
+Nakon ispunjavanja TABLICE 7. u donjem dijelu se automatski (excel) pojavljuju tri podatka važna za pripravu izvješća o radu inspektora a to su:
+– broj upravnih postupaka / ukupni broj nadzora
+– broj nadzora izvršenja / broj izdanih rješenja
+– broj optužnih prijedloga i obaveznih prekršajnih naloga / broj upravnih rješenja.
+TABLICA 8 . REALIZACIJA U TEKUĆOJ GODINI (po broju i predmetu nadzora) – INSPEKTOR (ime i prezime)
+U Tablicu 8. mjeriteljski inspektor unosi podatke o realizaciji plana rada

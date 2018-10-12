@@ -1,0 +1,21 @@
+ usluga. Savjet Hrvatske narodne banke odnosno Upravno vijeće Hrvatske agencije za nadzor financijskih usluga donijet će odluku u skladu s tom odlukom.
+(9) Iznimno od stavaka 6. i 7. ovoga članka, ako zajednička odluka o poduzimanju mjera iz članka 21. stavka 4. točaka 7., 8. ili 11. ovoga Zakona nije donesena, Europsko nadzorno tijelo za bankarstvo na zahtjev sanacijskog tijela može pomoći sanacijskim tijelima u postizanju zajedničke odluke u skladu s člankom 19. stavkom 3. Uredbe br. (EU) br. 1093/2010.
+Minimalni zahtjev za regulatorni kapital i podložne obveze
+Članak 24.
+(1) Minimalni zahtjev za regulatorni kapital i podložne obveze (u daljnjem tekstu: minimalni zahtjev) izračunava se kao odnos između zbroja regulatornog kapitala i podložnih obveza i zbroja regulatornog kapitala institucije i ostalih ukupnih obveza koje nisu uključene u regulatorni kapital, izražen kao postotak.
+(2) U izračun minimalnog zahtjeva uključuju se samo podložne obveze koje ispunjavaju sve sljedeće uvjete:
+a) instrument je izdan i uplaćen u cijelosti
+b) vjerovnik obveze nije sama institucija, obveza nije osigurana od strane same institucije i nije pokrivena jamstvom te institucije
+c) ta institucija nije izravno ili neizravno financirala kupnju instrumenta
+d) preostali rok do dospijeća obveze je najmanje godina dana, a ako je ugovoreno pravo na prijevremeno ispunjenje, preostali rok do dospijeća te obveze izračunava se kao preostali rok do dana kada bi vjerovnik mogao ostvariti pravo na prijevremeno ispunjenje obveze
+e) obveza ne proizlazi iz izvedenice i
+f) obveza ne ulazi u treći ili četvrti viši isplatni red.
+(3) Pri izračunu ostalih ukupnih obveza iz stavka 1. ovoga članka, obveze s osnove izvedenica uključuju se na način da se ugovoreno pravo druge ugovorne strane na netiranje u potpunosti priznaje te se obveza po izvedenicama utvrđuje u neto iznosu.
+(4) Institucija ne smije pri izračunu minimalnog zahtjeva u podložne obveze uključiti obveze koje proizlaze iz obveznih odnosa na koje se primjenjuje pravo treće zemlje ako prema pravu te treće zemlje odluka sanacijskog tijela u Republici Hrvatskoj o smanjenju vrijednosti ili pretvaranju te obveze nije izvršiva, uzimajući u obzir uvjete ugovora kojim je obveza uređena, međunarodne sporazume o priznavanju sanacije i druga relevantna pitanja. Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga može zatražiti od institucije da dokaže izvršivost odluka iz ovoga stavka prema pravu te treće zemlje.
+Minimalni zahtjev za instituciju koja nije dio grupe i za grupu institucija u Europskoj uniji koja nije prekogranična
+Članak 25.
+(1) Savjet Hrvatske narodne banke odnosno Upravno vijeće Hrvatske agencije za nadzor financijskih usluga određuje minimalni zahtjev za instituciju koja nije dio grupe odnosno grupu institucija u Europskoj uniji za koju je Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga sanacijsko tijelo za grupu, a koja nije prekogranična.
+(2) Minimalni zahtjev određuje se na temelju sljedećih kriterija:
+a) potrebe da se osigura provedba sanacije institucije primjenom instrumenata sanacije uključujući, prema potrebi, instrument unutarnje sanacije, kako bi se postigli ciljevi sanacije
+b) potrebe da se osigura, u odgovarajućim slučajevima, da institucija ima dovoljne podložne obveze kako bi se u slučaju primjene instrumenta unutarnje sanacije osigurala mogućnost pokrivanja gubitaka i ponovna uspostava stope redovnog osnovnog kapitala institucije na razini kojom bi joj se omogućio nastavak ispunjavanja zahtjeva iz propisa kojim se uređuje poslovanje kreditnih institucija odnosno investicijskih društava i održanje dovoljnog povjerenja tržišta u instituciju ili subjekt
+c) ako je sanacijskim planom predviđena mogućnost da se na određene vrste podložnih obveza ne primijeni instrument unutarnje sanacije na temelju članka 67. stavka 1. točke a) ovoga Zakona ili da se određene vrste podložnih obveza u potpunosti prenesu na primatelja na temelju

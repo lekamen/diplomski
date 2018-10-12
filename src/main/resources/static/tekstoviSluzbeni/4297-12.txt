@@ -1,0 +1,28 @@
+ no isključuje podružnicu te financijske institucije koja se nalazi izvan Republike Hrvatske i podružnicu financijske institucije koja se nalazi u Republici Hrvatskoj, a nije rezident Republike Hrvatske.
+7.2. Financijska institucija države članice i druge jurisdikcije
+Članak 51.
+Financijska institucija države članice i druge jurisdikcije podrazumijeva svaku financijsku instituciju koja je rezident u državi članici i drugoj jurisdikciji, no isključuje svaku podružnicu te financijske institucije koja se nalazi izvan države članice i druge jurisdikcije i svaku podružnicu financijske institucije koja nije rezident u državi članici i drugoj jurisdikciji ako se ta podružnica nalazi u toj državi i drugoj jurisdikciji.
+7.3. Financijska institucija
+Članak 52.
+(1) Financijska institucija podrazumijeva skrbničku instituciju, depozitnu instituciju, investicijski subjekt ili određeno društvo za osiguranje.
+(2) Skrbnička institucija podrazumijeva svaki subjekt čiji se značajan dio poslovanja odnosi na držanje financijske imovine za tuđi račun. Subjekt drži financijsku imovinu za tuđi račun kao značajan dio svog poslovanja ako je brutodobit subjekta koja proizlazi iz držanja financijske imovine i povezanih financijskih usluga jednaka ili veća od 20% brutodobiti subjekta tijekom kraćeg od sljedeća dva razdoblja:
+1. trogodišnje razdoblje koje završava 31. prosinca (ili posljednjeg dana računovodstvenog razdoblja) koje prethodi godini u kojoj je određivanje provedeno ili
+2. razdoblje tijekom kojeg subjekt postoji.
+(3) Depozitna institucija podrazumijeva svaki subjekt koji prihvaća depozit u sklopu svog redovnog bankarskog ili sličnog poslovanja.
+(4) Investicijski subjekt podrazumijeva:
+1. svaki subjekt čije se poslovanje odnosi na jednu ili više sljedećih aktivnosti ili operacija za stranku ili u njeno ime:
+(a) trgovanje instrumentima tržišta novca (čekovi, mjenice, certifikati o depozitu, izvedenice i dr.), mjenjački poslovi, devizni, kamatni i indeksirani instrumenti, prenosivi vrijednosni papiri ili
+(b) trgovanje robnim ročnicama,
+(c) upravljanje pojedinačnim i zajedničkim portfeljem ili
+(d) ulaganje na neki drugi način, praćenje ili upravljanje financijskom imovinom ili novčanim sredstvima za tuđi račun ili
+2. svaki subjekt čija brutodobit prvenstveno proizlazi iz investiranja, reinvestiranja ili trgovanja financijskom imovinom, ako subjektom upravlja drugi subjekt koji je depozitna institucija, skrbnička institucija, određeno društvo za osiguranje ili investicijski subjekt iz točke 1. ovoga stavka.
+(5) Za subjekta se smatra da njegovo poslovanje prvenstveno obuhvaća jednu ili više aktivnosti iz stavka 4. točke 1. ovoga članka ili brutodobit subjekta proizlazi iz investiranja, reinvestiranja ili trgovanja financijskom imovinom za potrebe iz stavka 4. točke 2. ovoga članka, ako brutodobit subjekta koja proizlazi iz relevantnih aktivnosti iznosi ili prelazi 50% brutodobiti subjekta tijekom kraćeg od sljedećih razdoblja:
+1. trogodišnje razdoblje koje završava 31. prosinca godine koja prethodi godini u kojoj je određivanje provedeno ili
+2. razdoblje u kojem subjekt postoji.
+(6) Investicijski subjekt ne podrazumijeva subjekt koji je aktivni subjekt koji nije financijska institucija jer taj subjekt ispunjava jedan od kriterija iz članka 83. točaka 4. do 7. ovoga Pravilnika.
+(7) Investicijski subjekt iz stavaka 4. i 5. ovoga članka tumači se na način koji je u skladu sa sličnim tekstom utvrđenim u definiciji pojma financijska institucija u preporukama radne skupine za financijske aktivnosti.
+7.4. Financijska imovina
+Članak 53.
+(1) Financijska imovina podrazumijeva:
+1. vrijednosni papir (osobito, dionički udio u trgovačkom društvu, partnerstvo ili stvarni vlasnički udjel u partnerstvu ili trustu u koje su udruženi brojni partneri ili se njihovim vlasničkim udjelima trguje na burzi, mjenicu, obveznicu, zadužnicu ili drugi dokaz o zaduživanju),
+2. partnerski udjel, robu, ugovor o razmjeni (osobito, kamatni ugovori o razmjeni, valutni ugovori o

@@ -1,0 +1,44 @@
+122 06.11.2015 Pravilnik o državnom planu prostornog razvoja
+MINISTARSTVO GRADITELJSTVA I PROSTORNOGA UREĐENJA
+2327
+Na temelju članka 56. stavka 3. Zakona o prostornom uređenju (»Narodne novine«, broj 153/13) ministrica graditeljstva i prostornoga uređenja, donosi
+PRAVILNIK
+O DRŽAVNOM PLANU PROSTORNOG RAZVOJA
+DIO PRVI UVODNE ODREDBE
+Predmet Pravilnika
+Članak 1.
+Ovim se Pravilnikom propisuje, odnosno određuje način propisivanja uvjeta provedbe zahvata u prostoru, sadržaj namjena pojedinih zona i koridora koji se planiraju Državnim planom prostornog razvoja i namjena građevina koje se u njima mogu graditi, prostorni standardi za određivanje određenih zemljišta tim planom, te pobliži sadržaj, mjerila kartografskih prikaza, standard elaborata, elektronički standard i sadržaj obrazloženja tog plana.
+Primjena Pravilnika
+Članak 2.
+Ovaj se Pravilnik primjenjuju u postupku izrade i donošenja Državnog plana prostornog razvoja (u daljnjem tekstu: Plan) te u postupku izrade i donošenja izmjena i dopuna tog Plana.
+Sastavni dijelovi i prilozi Pravilnika
+Članak 3.
+(1) Sastavni dijelovi i prilozi ovoga Pravilnika su:
+− Prilog I. – »Pregled prostornih tema«
+− Prilog II. – »Sadržaj namjena prostora«
+− Prilog III. – »Atributna tablica i model podataka«
+− Prilog IV. – »Obrazac za ovjeru Plana (sastavnica)« i
+− Prilog V. – »Način označavanja kartografskih prikaza Plana«.
+(2) Elektronički oblik priloga iz stavka 1. ovoga članka ugrađen je u modul ePlanovi koji je uređen uredbom kojom se uređuje informacijski sustav prostornog uređenja.
+Pojmovi
+Članak 4.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika i Plana imaju sljedeće značenje:
+− koridor je planirani prostor koji obuhvaća površinu unutar koje se formira građevna čestica ili smješta građevina za koju se ne određuje građevna čestica
+− trasa je planirani pravac, pravac određen lokacijskom dozvolom ili pravac određen građevinskom dozvolom, na kojemu se smješta uzdužna os građevine
+− zaštitni prostor je prostor uz ili oko planirane ili postojeće građevine u kojemu su u svrhu zaštite građevine ili okolnih građevina, Planom ili posebnim propisom propisana ograničenja ili je posebnim propisom propisana obveza utvrđivanja posebnih uvjeta u provedbi prostornog plana
+− osnovna namjena prostora/površina je planirano korištenje prostora/površina podređeno jednoj funkciji, odnosno namjeni, unutar koje se mogu planirati i druge namjene ili sadržaji, koji proizlaze iz potrebe osnovne namjene
+− Zakon je Zakon o prostornom uređenju.
+(2) Pojmovi uporabljeni u ovom Pravilniku imaju značenje određeno propisima kojima se uređuju upravna područja prostornog uređenja i gradnje, te posebnim propisima koji su od utjecaja na prostorno uređenje i gradnju, ako ovim Pravilnikom nije propisano drukčije.
+DIO DRUGI NAČIN PROPISIVANJA UVJETA PROVEDBE ZAHVATA U PROSTORU
+Uvjeti provedbe zahvata u prostoru
+Članak 5.
+(1) Uvjeti provedbe zahvata u prostoru propisuju se Planom, ovisno o zahvatu u prostoru:
+− određivanjem u grafičkom dijelu tog plana namjene prostora i područja posebnih uvjeta (režima), određenih u Prilogu I. ovoga Pravilnika – »Pregled prostornih tema«, primjenom planskog znakovlja prikazanog u tom Prilogu
+− preuzimanjem u odredbe za provedbu Plana opisa namjena prostora propisanih u Prilogu II. ovoga Pravilnika – »Sadržaj namjena prostora«
+− propisivanjem u odredbama za provedbu Plana pravila za provedbu zahvata u prostoru (u daljnjem tekstu: pravila provedbe zahvata) i
+− propisivanjem u odredbama za provedbu Plana posebnih mjera u slučajevima propisanim ovim Pravilnikom.
+(2) Uvjeti provedbe zahvata u prostoru propisuju se Planom za zahvate u prostoru čije je plansko znakovlje prikazano u Prilogu I. ovoga Pravilnika – »Pregled prostornih tema«.
+(3) Odredbe za provedbu Plana povezuju se s grafičkim dijelom Plana upisivanjem u atributnu tablicu iz Priloga III. ovoga Pravilnika – »Atributna tablica i model podataka«.
+Namjena prostora
+Članak 6.
+(1) Namjena prostora određuje se u grafičkom dijelu Plana određivanjem

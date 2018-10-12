@@ -1,0 +1,26 @@
+ imaju koristi od ograničenja redovitog nadzornog izvješćivanja i broj grupa koje imaju koristi od izuzeća od izvještavanja po stavkama iz članka 334. stavaka 3. i 4. ovoga Zakona, zajedno sa svojim opsegom potrebnog kapitala, premija, tehničkih pričuva i imovine koji se iskazuje kao postotak ukupnog opsega potrebnog kapitala, premija, tehničkih pričuva i imovine svih grupa.
+Postupanje Agencije
+Članak 392.
+Kada se Agencija ne slaže s postupkom, sadržajem djelovanja ili nečinjenjem nadležnog nadzornog tijela druge države članice, u slučajevima navedenim u aktima iz članka 1. stavka 2. Uredbe (EU) br. 1094/2010 može postupiti u skladu s člankom 19. Uredbe (EU) br. 1094/2010, odnosno u skladu s člankom 20. Uredbe (EU) br. 1094/2010.
+Preispitivanje mjera dugoročnih garancija i mjera za rizik vlasničkih vrijednosnih papira
+Članak 393.
+Agencija je dužna u razdoblju do 1. siječnja 2021. jedanput godišnje EIOPA-i dostaviti sljedeće informacije:
+1. dostupnost dugoročnih garancija u osigurateljnim proizvodima i ponašanje društava za osiguranje kao dugoročnih ulagatelja
+2. broj društava za osiguranje koja primjenjuju prilagodbu za uravnoteženje, prilagodbu za volatilnost, produljenje razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona i prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona
+3. utjecaj prilagodbe za uravnoteženje, prilagodbe za volatilnost, mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire i prijelaznih mjera na financijski položaj društava za osiguranje u skladu s člancima 455. i 456. ovoga Zakona, anonimno za svako pojedino društvo
+4. učinak prilagodbe za uravnoteženje, prilagodbe za volatilnost i mehanizam simetrične prilagodbe za izračun kapitalnog zahtjeva za vlasničke vrijednosne papire na investicijsko ponašanje društava za osiguranje te je li učinak navedenih prilagodbi na smanjenje kapitalnih zahtjeva pretjeran
+5. učinak svakog produljenja razdoblja oporavka u skladu s člankom 165. stavcima 7. – 11. ovoga Zakona na napore društava za osiguranje da ponovno dosegnu razinu prihvatljivih vlastitih sredstava za pokriće potrebnog solventnog kapitala ili da smanje profil rizičnosti radi postizanja usklađenosti s potrebnim solventnim kapitalom
+6. kada društvo za osiguranje primijeni prijelazne mjere utvrđene člancima 455. i 456. ovoga Zakona, jesu li one usklađene s planovima postupnog uvođenja iz članka 457. ovoga Zakona i očekivanjima za smanjenu ovisnost o tim prijelaznim mjerama, uključujući mjere koje su društvo i Agencija poduzeli ili se očekuje da će poduzeti.
+Obavještavanje Europske komisije o odbijanju zahtjeva za dostavljanje obavijesti
+Članak 394.
+(1) Agencija je dužna obavijestiti Europsku komisiju i EIOPA-u o odbijanju zahtjeva za dostavljanjem obavijesti iz članka 62. stavka 4. ovoga Zakona.
+(2) Agencija je dužna obavijestiti Europsku komisiju ako želi biti obaviještena na temelju članka 435. stavka 3. ovoga Zakona.
+Obavještavanje Europske komisije o odnosima s trećim državama
+Članak 395.
+(1) Agencija je dužna Europsku komisiju obavijestiti o:
+1. izdavanju svakog odobrenja društvu za osiguranje ili društvu za reosiguranje čije je posredno ili neposredno nadređeno društvo pravna osoba sa sjedištem u trećoj državi. Te informacije također sadržavaju navod o strukturi predmetne grupe
+2. izdavanju svakog odobrenja za stjecanje kvalificiranog udjela na temelju kojeg osoba iz treće države postaje nadređeno društvo društva za osiguranje ili društva za reosiguranje
+3. svim značajnijim poteškoćama koje društva za osiguranje ili društva za reosiguranje imaju pri obavljanju poslova osiguranja u trećim državama.
+(2) O okolnostima iz stavka 1. točaka 1. i 2. ovoga članka Agencija je dužna izvijestiti i nadzorna tijela drugih država članica.
+(3) O okolnostima iz stavka 1. točke 3. ovoga članka Agencija je dužna izvijestiti i EIOPA-u.
+(4) Agencija je dužna na zahtjev Europske komisije prekinuti postupke odlučivanja o zahtjevima osoba iz pojedine treće 

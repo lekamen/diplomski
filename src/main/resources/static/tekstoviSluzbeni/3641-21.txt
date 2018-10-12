@@ -1,0 +1,29 @@
+ tvari.
+(3) Pisane procedure za izvanredne događaje trebaju jasno odrediti dužnosti i djelovanje osoblja u svakom požaru u nuklearnoj elektrani i potrebno ih je redovito ažurirati, najmanje svake dvije godine.
+(4) Ako sustav predviđa angažiranje vanjskih organizacija pri suzbijanje požara, osoblje tih organizacija treba biti obaviješteno o relevantnim rizicima u nuklearnoj elektrani. U takvom sustavu, suradnju s vanjskim organizacijama potrebno je adekvatno organizirati te njome adekvatno upravljati, ona treba biti uključena u akcijski plan zaštite od požara.
+(5) Ako sustav predviđa angažman osoblja nuklearne elektrane u suzbijanju požara potrebno je dokumentirati protupožarne organizacijske aranžmane, minimalni broj uključenog osoblja te potrebe za opremom, kvalifikacijama i osposobljavanjem.
+4. POOŠTRENI PROJEKTNI UVJETI
+4.1 Cilj
+(1) Kao dio obrane po dubini potrebno je analizirati pooštrene projektne uvjete (PPU) s ciljem daljnjeg unaprjeđenja sigurnosti nuklearne elektrane pomoću:
+– jačanja sposobnosti nuklearne elektrane da izdrži više problematičnih događaja ili uvjeta od onih koji su razmatrani u projektnim osnovama i
+– smanjenja radioaktivnih ispuštanja štetnih za stanovništvo i okoliš koliko je to razumno izvedivo u takvim događajima ili uvjetima.
+(2) Postoje dvije kategorije PPU:
+– PPU A za koji se može postići sprječavanje teškog oštećenja goriva u jezgri ili u skladištu istrošenog goriva i
+– PPU B s pretpostavkom teškog oštećenja goriva.
+Analiza treba utvrditi razumno izvedive odredbe koje mogu biti provedene za sprječavanje teških nesreća. Dodatni napori u tom pogledu trebaju se provoditi za skladištenje istrošenog goriva s ciljem da vjerojatnost nastanka teške nesreće u takvom skladištu postane ekstremno mala uz visok stupanj pouzdanosti.
+Osim ovih odredbi potrebno je pretpostaviti teške nesreće za gorivo u jezgri i, ako njihova vjerojatnost nije ekstremno mala, za istrošeno gorivo u skladištu, a analiza treba utvrditi razumno izvedive odredbe kako bi se ublažile njihove posljedice.
+4.2 Izbor pooštrenih projektnih uvjeta
+(1) Skup PPU-a je potrebno izvesti i opravdati kao reprezentativan temeljem kombinacije determinističke i vjerojatnosne procjene kao i tehničke procjene.
+(2) U procesu odabira za PPU A potrebno je započeti s razmatranjem onih događaja i kombinacija događaja čija se vjerojatnost nastanka ne može smatrati ekstremno malom uz visoku razinu pouzdanosti, a koji mogu dovesti do teškog oštećenja goriva u jezgri ili u skladištu istrošenog goriva. Potrebno je obuhvatiti:
+– događaje koji se mogu dogoditi tijekom definiranih pogonskih stanja nuklearne elektrane,
+– događaje koji mogu nastati zbog unutarnjih i vanjskih opasnosti i
+– kvarove s zajedničkim uzrokom.
+Gdje je moguće, potrebno je uzeti u obzir sve reaktore i skladišta istrošenog goriva na lokaciji. Događaji koji mogu utjecati na sve jedinice na lokaciji, moguće interakcije između jedinica kao i interakcije s drugim lokacijama u blizini trebaju biti pokrivene.
+(3) Skup kategorija PPU B događaja treba biti pretpostavljen i opravdan kako bi pokrio situacije u kojima nuklearna elektrana više nije sposobna spriječiti teško oštećenje goriva ili u kojima se pretpostavlja da predviđene mjere neće funkcionirati kako je predviđeno što dovodi do teškog oštećenja goriva u jezgri.
+4.3 Sigurnosna analiza pooštrenih projektnih uvjeta
+(1) PPU treba:
+a) oslanjati se na metode, pretpostavke i argumente koji su opravdani i nisu pretjerano konzervativni;
+b) omogućiti da se može pregledati i kontrolirati posebno u područjima gdje je korišteno ekspertno mišljenje, uzimajući u obzir nesigurnosti i njihov utjecaj;
+c) utvrditi razumno izvedive odredbe kako bi se spriječilo teško oštećenje goriva (PPU A) i ublažile teške nesreće (PPU B);
+d) procijeniti moguće radiološke posljedice na lokaciji i izvan nje koje proizlaze iz PPU (uz uspješno primijenjene mjere za upravljanje nesrećom);
+e) uzeti u obzir raspored nuklearne elektrane i lokaciju, mogućnosti opreme, uvjete povezane 

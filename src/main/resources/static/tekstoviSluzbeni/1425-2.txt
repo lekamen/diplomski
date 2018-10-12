@@ -1,0 +1,23 @@
+ načela operativne komunikacije
+(a) poznavanje važnosti komunikacije te načina i postupaka komunikacije;
+(b) utvrđivanje osoba koje strojovođa mora kontaktirati te njihove uloge i odgovornosti (osoblje upravitelja infrastrukture, zadaci ostalog osoblja vlaka itd.);
+(c) utvrđivanje situacija/uzroka koji zahtijevaju započinjanje komunikacije;
+(d) razumijevanje komunikacijskih metoda.
+5. Vlakovi i njihov sastav, tehnički zahtjevi za vučna vozila, teretne vagone, putničke vagone i ostala vozila
+(a) poznavanje općenitih vrsta pogona (električni, dizelski, parni itd.);
+(b) opisivanje konstrukcije vozila (okretna postolja, sanduk, upravljačnica, zaštitni sustavi itd.);
+(c) poznavanje sadržaja oznaka i sustava za označavanje;
+(d) poznavanje dokumentacije o sastavu vlaka;
+(e) razumijevanje kočionih sustava i izračuna učinkovitosti kočenja;
+(f) utvrđivanje brzine vlaka;
+(g) utvrđivanje najvećeg dopuštenog opterećenja i sila na kvačilu;
+(h) poznavanje djelovanja i svrhe sustava za upravljanje vlakom.
+6. Opasnosti koje su općenito povezane sa željezničkim prometom
+(a) razumijevanje načela prometne sigurnosti;
+(b) poznavanje rizika povezanih sa željezničkim prometom i različitih načina njihova sprečavanja;
+(c) poznavanje sigurnosno relevantnih incidenata i razumijevanje potrebnog ponašanja/reakcije;
+(d) poznavanje postupaka koji se primjenjuju u slučaju nesreća u kojima su sudjelovale osobe (npr. evakuacija).
+7. Osnovna načela fizike
+(a) razumijevanje sila koje djeluju na kotače;
+(b) utvrđivanje čimbenika koji utječu na učinkovitost ubrzanja i kočenja (vremenski uvjeti, oprema za kočenje, smanjeno prianjanje, posipanje pijeskom itd.);
+(c) razumijevanje osnova elektriciteta (strujni krugovi, mjerenje napona itd.).«

@@ -1,0 +1,53 @@
+ koristiti jezik HTML za izradu web-stranica • ovladati i primijeniti osnovne strukture HTML dokumenta • primijeniti HTML jezik za oblikovanje stranice • primijeniti jezik HTML za tablice • primijeniti HTML jezik za liste • primijeniti jezik HTML za slike • primijeniti jezik HTML za linkove – Osnovne karakteristike HTML jezika – Primjena osnovnih HTML naredbi – Oblikovanje web-stranica 4. Baze podataka • definirati osnovne pojmove u radu sa bazom podataka • kreirati objekte u bazi podataka • primijeniti pravila vezana uz izradu baze podataka • kreirati jednostavnu bazu podataka – Osnovni pojmovi u radu s bazama podataka – Kreiranje osnovnih objekata u bazi podataka – Kreiranje jednostavnih baza podataka
+Metodičke napomene
+Program treba realizirati tako da primjeri prate konkretne i aktualne okolnosti u kojima učenici obrađuju teme i u korelaciji s ostalim predmetima.
+Obveze učenika
+Obvezan je redovit dolazak na nastavu, a učenici će biti ocjenjivani tijekom nastave kroz konkretne zadatke s naglaskom na individualan i grupni rad učenika.
+3. Didaktičke upute
+Metode rada:
+a) nastavne metode
+usmeno izlaganje, razgovor s učenicima, metoda demonstracija, rad na tekstu, suradničko učenje, rad na računalu
+b) metode učenja – kombinirana metoda
+Metodički organizacijski oblici rada:
+Frontalni oblik rada, individualni oblik rada, grupni oblik rada – u paru i timski
+Vrednovanje ishoda:
+Praćenje i vrednovanje rada učenika treba što više usmjeriti na nastavni proces bez dodatne pripreme u slobodno vrijeme kako bi učenici imali više vremena za ostale obveze. To podrazumijeva konkretne zadatke za vrijeme nastavnog sata, u obliku individualnog i grupnog rada.
+4. Literatura
+Za učenike:
+Učenici će se koristiti bilješkama s predavanja te određenom i odabranom literaturom:
+Gvozdanović, Ikica, Kos, Kudumija, Kuzminski, Milijaš, Sekulić Štivčević, Zvonarek: Elektronički udžbenik informatike za 1. i 2. razred općih, jezičnih, klasičnih, pirodoslovnih i prirodoslovno-matematičkih gimnazija, Promil, Varaždin, 2014.
+Za nastavnike:
+Gvozdanović, Ikica, Kos, Kudumija, Kuzminski, Milijaš, Sekulić Štivčević, Zvonarek: Elektronički udžbenik informatike za 1. i 2. razred općih, jezičnih, klasičnih, pirodoslovnih i prirodoslovno-matematičkih gimnazija, Promil, Varaždin, 2014.
+5. Materijalni uvjeti
+Umrežena računalna učionica opremljena odgovarajućim brojem računala i odgovarajućom programskom podrškom, računalni projektor, ploča i pribor za pisanje po ploči.
+6. Kadrovski uvjeti
+Profesor informatike ili odgovarajuća stručna sprema, VSS.
+* * *
+NASTAVNI PLAN I PROGRAM IZBORNE NASTAVE IZ NASTAVNOG PREDMETA »INFORMATIKA« ZA OPĆU GIMNAZIJU 3. RAZRED
+Nastavni predmet: Informatika – izborni predmet
+Razred: 3. razred opće gimnazije
+Tjedni (ukupni) fond sati: 2 sata tjedno (70 sati godišnje)
+1. Uvod
+Cilj
+Usvojiti osnovna znanja i vještine o informatici i njenom razvoju radi stjecanja opće računalne pismenosti i kulture te razumijevanja civilizacijskog razvoja.
+Usvojiti i osposobiti učenike za samostalnu izradu jednostavnih programa u programskom jeziku Python.
+Zadatci
+Nastavom informatike treba omogućiti učeniku:
+• razumijevanje obveza za postizanje uspjeha
+• definiranje pojmova u programiranju
+• nabrajanje i objašnjavanje faza programiranja
+• objašnjavanje razvoja programskih jezika
+• definiranje pojma algoritma
+• izrada algoritama
+• definiranje pojma i osnovne strukture programa
+• nabrajanja i objašnjavanje osnovnih tipova podataka
+• objašnjavanje i primjena naredbi za unos i ispis podataka
+• objašnjavanje i primjena osnovnih aritmetičkih i logičkih operacija
+• objašnjavanje i primjena naredbe pridruživanja
+• definiranje pojma grananja
+• objašnjavanje razlike između jednostrukog i višestrukog grananja
+• primjena grananja u rješavanju programskih zadataka
+• upotreba složenih naredbi ponavljanja i njihova primjena u jednostavnim programskim zadacima
+• objašnjavanje potrebe za korištenjem programskih petlji
+• definiranje pojma znakovni niz
+• primjena znakovnih nizova u

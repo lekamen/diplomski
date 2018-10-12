@@ -1,0 +1,21 @@
+ tehničkim specifikacijama radijskih sučelja
+Članak 10.
+(1) Agencija utvrđuje i javno objavljuje podatke o radijskim sučeljima koja su regulirana u Republici Hrvatskoj.
+(2) Agencija će u skladu s posebnim propisom, kojim su uređeni postupci službenog obavješćivanja u području tehničkih propisa i propisa o uslugama informacijskog društva, izvješćivati Europsku komisiju o radijskim sučeljima koja su regulirana u Republici Hrvatskoj, osim o:
+a) radijskim sučeljima koja su u skladu s odlukama Europske komisije o usklađenoj uporabi radiofrekvencijskog spektra, donesenima u skladu s Odlukom br. 676/2002/EZ Europskog parlamenta i Vijeća od 7. ožujka 2002. o regulatornom okviru za politiku radiofrekvencijskog spektra u Europskoj zajednici
+b) radijskim sučeljima koja, u skladu s provedbenim propisima Europske komisije iz stavka 3. ovoga članka, odgovaraju radijskoj opremi koja se može staviti u pogon i upotrebljavati bez ograničenja unutar Europske unije.
+(3) Europska komisija donosi provedbene propise kojima se utvrđuje jednakovrijednost prijavljenih radijskih sučelja i dodjeljuju razredi radijske opreme.
+Slobodno kretanje radijske opreme
+Članak 11.
+(1) Radijska oprema, koja nije u skladu s odredbama ovoga Pravilnika, može biti javno izlagana i predstavljena u Republici Hrvatskoj samo uz jasno i razvidno istaknutu oznaku da stavljanje na raspolaganje na tržištu ili stavljanje u pogon takve opreme nije dopušteno u Republici Hrvatskoj.
+(2) Javno izlaganje i predstavljanje opreme iz stavka 1. ovoga članka dopušteno je ako su prethodno poduzete odgovarajuće mjere u svrhu izbjegavanja štetnih smetnja, elektromagnetskih smetnja i rizika za zdravlje i sigurnost ljudi i životinja, te zaštite imovine.
+II. OBVEZE GOSPODARSKIH SUBJEKATA
+Obveze proizvođača
+Članak 12.
+(1) Kada stavlja svoju radijsku opremu na tržište, proizvođač je obvezan osigurati da je ta oprema oblikovana i proizvedena u skladu s bitnim zahtjevima iz članka 5. ovoga Pravilnika.
+(2) Proizvođač je obvezan osigurati da je radijska oprema izrađena tako da se njome može rukovati u najmanje jednoj državi članici Europske unije, a da se ne prekrše primjenjivi zahtjevi o uporabi radiofrekvencijskog spektra.
+(3) Proizvođač je obvezan sastaviti tehničku dokumentaciju iz članka 23. ovoga Pravilnika i provesti ili osigurati provedbu primjenjivog postupka ocjenjivanja sukladnosti iz članka 19. ovoga Pravilnika. Ako je tim postupkom dokazana sukladnost radijske opreme s propisanim zahtjevima, proizvođač sastavlja EU izjavu o sukladnosti i stavlja oznaku CE.
+(4) Proizvođač je obvezan čuvati tehničku dokumentaciju i EU izjavu o sukladnosti u razdoblju od deset godina od dana stavljanja radijske opreme na tržište.
+(5) Proizvođač je obvezan osigurati provedbu postupaka za očuvanje sukladnosti serijske proizvodnje u skladu s ovim Pravilnikom. Na odgovarajući način uzimaju se u obzir promjene u oblikovanju ili značajkama radijske opreme te promjene u usklađenim normama ili drugim tehničkim specifikacijama, koje su navedene u EU izjavi o sukladnosti, a na temelju kojih je utvrđena sukladnost radijske opreme. Kada to smatra prikladnim s obzirom na rizik koji predstavlja radijska oprema, proizvođač ispituje uzorke radijske opreme koja je stavljena na raspolaganje na tržištu u svrhu zaštite zdravlja i sigurnosti krajnjih korisnika, istražuje i, prema potrebi, vodi knjigu pritužbi i registar nesukladne radijske opreme i njezina povrata, o čemu mora obavješćivati distributere.
+(6) Proizvođač je obvezan osigurati da radijska oprema, koju je stavio na tržište, nosi broj tipa, šarže ili serije, ili bilo koji drugi podatak koji omogućuje njezinu identifikaciju ili, ako to ne dopušta veličina ili priroda radijske opreme, da se traženi podaci navedu na pakiranju radijske opreme ili u popratnom dokumentu.
+(7) Proizvođač na radijskoj opremi navodi svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i poštansku adresu na kojoj je dostupan ili, ako to ne dopušta veličina ili priroda radijske

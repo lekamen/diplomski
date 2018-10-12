@@ -1,0 +1,32 @@
+ vrste i identificira slabosti i prednosti sigurnosnih sustava i procedura kako bi se izbjegle takve štete.
+Razina dva vjerojatnosne sigurnosne procjene utvrđuje načine na koje radioaktivno ispuštanje zbog zračenja ili iz nuklearnog postrojenja može utjecati na okoliš, procjenjuje opseg tih ispuštanja i njihovu očekivanu frekvenciju, te procjenjuje relativnu važnost mjera za sprječavanje i ublažavanje takvih ispuštanja.
+Razina tri vjerojatnosne sigurnosne procjene utvrđuje i ocjenjuje posljedice radioaktivnog ispuštanja na okoliš i zdravlje ljudi.
+Zaštitni sustav označava sustav koji prati rad nuklearnog postrojenja i koji na očitanje nenormalnog stanja automatski pokreće postupke kako bi se spriječili opasni ili potencijalno opasni uvjeti.
+Ostali pojmovi koji se pojavljuju u ovom Pravilniku imaju značenja definirana u Zakonu o radiološkoj i nuklearnoj sigurnosti.
+II. OPĆI PROJEKT
+Opća načela projektiranja i sigurnosni zahtjevi
+Članak 5.
+Projekt nuklearnog postrojenja potrebno je izraditi sukladno sljedećim načelima:
+1. načelo obrane po dubini;
+2. načelo dodatnog kvara;
+3. načelo neovisnosti;
+4. načelo različitosti;
+5. načelo redundancije;
+6. siguran smjer greške;
+7. načelo dokazanih komponenti;
+8. načelo stupnjevanog pristupa.
+Članak 6.
+(1) Projekt nuklearnog postrojenja treba uzeti u obzir karakteristike lokacije uključujući utjecaje na postrojenje iz područja utjecaja.
+(2) Unutarnji događaji kao što su nesreće povezane s gubitkom rashladnog fluida, kvarovi na opremi, nefunkcioniranje i unutarnje opasnosti, te njihovi posljedični događaji, trebaju se uzeti u obzir prilikom projektiranja postrojenja. Popis događaja je specifičan za postrojenje te je potrebno uzeti u obzir relevantno iskustvo i analize iz drugih postrojenja.
+(3) U projektiranju postrojenja potrebno je uzeti u obzir vanjske opasnosti. Osim elementarnih nepogoda pri projektiranju postrojenja potrebno je uzeti u obzir, u skladu s posebnim uvjetima na lokaciji i ljudski izazvane vanjske opasnosti, uključujući nesreće aviona i drugih prijevoznih sredstava u blizini nuklearnog postrojenja, industrijske djelatnosti i uvjeti na lokaciji postrojenja za koje se može razumno pretpostaviti da mogu izazvati požare, eksplozije ili druge opasnosti za sigurnost nuklearnog postrojenja.
+(4) Potrebno je dovoljno dobro poznavati meteorološke karakteristike okolnog područja kako bi se prilikom projektiranja uzeo u obzir utjecaj ekstremnih vremenskih uvjeta.
+Članak 7.
+Potrebno je provoditi opsežne determinističke sigurnosne analize i vjerojatnosne sigurnosne procjene tijekom projektiranja nuklearnog postrojenja kako bi se osiguralo da su svi sigurnosni zahtjevi na projekt postrojenja ispunjeni u svim fazama životnog vijeka postrojenja i potvrdilo da projekt zadovoljava uvjete za proizvodnju i gradnju u svim fazama (izrađen projekt, izgrađeno postrojenje u pogonu prema projektu te sve modifikacije projekta).
+Članak 8.
+Stavke važne za sigurnost nuklearnog postrojenja potrebno je oblikovati u skladu s odgovarajućim nacionalnim i međunarodnim propisima i standardima.
+Članak 9.
+Sigurnosni SSK za nuklearno postrojenje trebaju biti projektirani tako da se mogu proizvesti, graditi, sastaviti, instalirati i postaviti u skladu s utvrđenim postupcima koji osiguravaju postizanje projektnih specifikacija i potrebnu razinu sigurnosti.
+Članak 10.
+U fazi projektiranja nuklearnog postrojenja posebnu pozornost potrebno je usmjeriti na uključivanje značajki za olakšavanje upravljanja radioaktivnim otpadom te budućom razgradnjom i rastavljanjem postrojenja s minimalnim opterećenjima ozračenja kako bi se osiguralo minimalno ozračenje osoblja i stanovništva te kako bi se izbjegla bespotrebna kontaminacija okoliša tijekom razgradnje.
+Članak 11.
+Sigurnosne mjere, mjere fizičke sigurnosti nuklearnog postrojenja i program državnog sustava za evidenciju i kontrolu, nuklearnog materijala za nuklearno postrojenje potrebno je projektirati i provesti na integrirani način. Također je potrebno je pronaći sinergiju

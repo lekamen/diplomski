@@ -1,0 +1,28 @@
+ odbijanja, potrebno je provjeriti drugi uzorak, za koji je broj jedinica naznačen u planu.
+Neispravne jedinice pronađene u prvom i drugom uzorku se zbrajaju te:
+– ako je ukupan broj neispravnih jedinica manji ili jednak drugom kriteriju prihvaćanja, serija se smatra prihvatljivom za tu provjeru;
+– ako je ukupan broj neispravnih jedinica veći ili jednak drugom kriteriju odbijanja, serija se odbija.
+Broj u seriji Uzorci Broj neispravnih jedinica Red    Broj    Skupni broj Kriterij prihvaćanja Kriterij odbijanja 100 do 500 1. 2. 30 30 30 60 1 4 3 5 501 do 3200 1. 2. 50 50 50 100 2 6 5 7 3201 i više 1. 2. 80 80 80 160 3 8 7 9
+2.2.2. Razarajuće ispitivanje
+Razarajuće ispitivanje se provodi u skladu s niže prikazanim planom jednostrukog uzrokovanja i smije se upotrebljavati samo za serije od 100 ili više jedinica.Broj provjeravanih pretpakovina mora biti jednak 20.
+– Ako je broj pronađenih neispravnih jedinica u uzorku manji ili jednak kriteriju prihvaćanja, serija pretpakovina smatra se prihvatljivom za tu provjeru.
+– Ako je broj pronađenih neispravnih jedinica u uzorku jednak ili veći kriteriju odbijanja, serija pretpakovina se odbija.
+Broj u seriji Broj uzorka Broj neispravnih jedinica Kriterij prihvaćanja Kriterij odbijanja Bilo koji broj (≥ 100) 20 1 2
+2.3. Provjera prosječne vrijednosti stvarnog sadržaja pojedinačnih pretpakovina koje čine seriju
+2.3.1. Serija pretpakovina smatra se prihvatljivom u svrhu te provjere ako je srednja vrijednost = Σxi/n stvarnog sadržaja xi od n pretpakovina u uzorku veća od vrijednosti:
+Qn – (s/√n)·t(1 – α)
+U toj je formuli:
+Qn = nazivna količina sadržaja pretpakovine
+n = broj pretpakovina u uzorku za tu provjeru
+s = procijenjeno standardno odstupanje stvarnog sadržaja serije
+t(1 – α) = razina povjerenja od 0,995 Studentove razdiobe s ν = n – 1 stupnjem slobode.
+2.3.2. Ako je xi izmjerena vrijednost stvarnog sadržaja i-tog uzorka koji sadrži n jedinica, tada se:
+2.3.2.1. srednja vrijednost izmjerenih vrijednosti uzorka dobiva sljedećim izračunom:
+
+2.3.2.2. a procijenjena vrijednost standardnih odstupanja s sljedećim izračunima:
+
+2.3.3. Kriteriji za prihvaćanje ili odbijanje serija pretpakovina koje se ispituju pri toj provjeri:
+2.3.3.1. Kriteriji za nerazarajuće ispitivanje
+
+2.3.3.2. Kriteriji za razarajuće ispitivanje
+

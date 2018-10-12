@@ -1,0 +1,43 @@
+tijela javnog sektora osigurati sljedeće:
+– preduvjete da sva tijela javnog sektora mogu koristiti zajedničku, pouzdanu i skalabilnu IKT infrastrukturu prema paradigmi »oblaka« tj. usluge putem CDU-a kao osnove za razvoj i implementaciju e-usluga;
+– korištenje pouzdanog smještaja njihove IKT opreme u CDU;
+– konzultantske usluge putem CDU-a kao pomoć za razvoj i implementaciju novih tehnologija;
+– usluge središnjeg sustava interoperabilnosti i razmjene podataka i
+– usluge za istovrsne poslove tijela javnog sektora.
+(2) Za pružanje dijeljenih usluga iz ovog članka stavka 1., podstavaka 1. i 2., CDU će uspostaviti okolinu koja će se temeljiti na TIER 3 međunarodnom standardu okoline podatkovnog centra, a koja će osigurati:
+– sva računalna oprema koja se koristi u CDU imati će najmanje dvostruko napajanje pojedinačnih komponenti kao i najmanje dvostruke rashladne sustave;
+– ukupna okolina temeljena na ovakvoj arhitekturi posjedovati će višestruke mrežne veze koje osiguravaju dostupnost resursa i
+– ukupna okolina temeljena na ovakvoj arhitekturi garantirat će pojedinačnoj usluzi dostupnost od 99,982%, odnosno ne više od 94 minuta godišnje nedostupnosti usluge.
+(3) Temeljni operativni sustavi, baze podataka te specifične usluge bit će definirani u Katalogu usluga (u daljnjem tekstu: Katalog).
+(4) Okruženja definirana u Katalogu iz stavka 7. ovoga članka razvijat će se prema zahtjevima krajnjih korisnika i mogućnostima CDU-a.
+(5) CDU će uspostaviti središnji sustav interoperabilnosti te razmjene podataka i pristupa dostupnim uslugama putem programskih sučelja, a koji podržava okvire interoperabilnosti.
+(6) CDU će za istovrsne poslove tijela javnog sektora pružati usluge u oblaku (»Cloudu«).
+(7) Detaljan opis sustava visoko dostupne okoline te nivoi dostupnosti usluga bit će opisani u posebnom poglavlju Kataloga. Katalog priprema CDU te ga prezentira Vijeću i središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske. Povjerenstvo usvaja Katalog na temelju prijedloga središnjeg tijela državne uprave nadležnog za poslove e-Hrvatske.
+(8) Usvojeni Katalog središnje tijelo državne uprave nadležno za poslove e-Hrvatske i CDU objavljuju na svojim web-stranicama.
+Korisnici usluga CDU-a
+Članak 7.
+(1) Korisnici usluga CDU-a su tijela javnog sektora. Povjerenstvo donosi Plan integracije informacijskih sustava tijela javnog sektora, a kojeg priprema CDU te ga dostavlja središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske, koje uz suglasnost Vijeća predlaže Plan integracije Povjerenstvu.
+(2) Sve usluge CDU-a bit će dostupne pod istim uvjetima i tijelima lokalne i područne (regionalne) samouprave za obavljanje poslova vezanih uz vlastito poslovanje i pružanje javnih usluga.
+II. TEHNIČKI STANDARDI
+Infrastruktura
+Članak 8.
+CDU podržava različita infrastrukturna rješenja (operativni sustav i bazu podataka) od kojih je barem jedno bazirano na otvorenom kodu. Sva infrastrukturna rješenja koju CDU podržava navode se u Katalogu.
+Tehničke usluge
+Članak 9.
+Za pružanje tehničkih usluga, CDU će osigurati minimalno sljedeće resurse:
+– središnji sustav interoperabilnosti;
+– zajedničku uslugu imeničkog direktorija za sve objekte/osobe tijela javnog sektora;
+– zajedničku uslugu sustava elektroničke pošte za organizacije koje se nalaze u zajedničkom imeničkom direktoriju;
+– zajedničku uslugu platforme za suradnju i komunikaciju djelatnika javnog sektora;
+– zajedničku uslugu platforme za e-učenje i ispitna platforma za tijela javnog sektora;
+– zajedničku uslugu platforme za uredsko poslovanje;
+– zajedničku uslugu upravljanja slučajevima i problemima (ICT podrška i rješavanje) i
+– zajedničku uslugu upravljanja podacima (podacima, metapodacima, registrima i otvorenim podacima) na razini tijela javnog sektora.
+Poslovne usluge
+Članak 10.
+CDU će osigurati minimalno usluge za praćenje sljedećih poslovnih procesa:
+– uredskog poslovanja;
+– javne nabave;
+– zaprimanja e-računa;
+– upravljanja ljudskim potencijalima;
+– komunikaciju službenika prema upravnim 

@@ -1,0 +1,27 @@
+73 10.08.2016 Program mjerenja razine onečišćenosti zraka u državnoj mreži za trajno praćenje kvalitete zraka
+MINISTARSTVO ZAŠTITE OKOLIŠA I PRIRODE
+1746
+Na temelju članka 29. stavka 2. Zakona o zaštiti zraka (»Narodne novine«, br. 130/2011, 47/2014), ministar zaštite okoliša i prirode donosi
+PROGRAM
+MJERENJA RAZINE ONEČIŠĆENOSTI U DRŽAVNOJ MREŽI ZA TRAJNO PRAĆENJE KVALITETE ZRAKA
+I.
+Program mjerenja razine onečišćenosti zraka (kvalitete zraka) u postajama državne mreže za trajno praćenje kvalitete zraka koje su određene člankom 5. Uredbe o utvrđivanju popisa mjernih mjesta za praćenje koncentracija pojedinih onečišćujućih tvari u zraku i lokacija mjernih postaja u državnoj mreži za trajno praćenje kvalitete zraka (»Narodne novine«, broj 65/16), (u daljnjem tekstu: Uredba) sadrži:
+Program A MJERENJE KVALITETE ZRAKA U POSTAJAMA USPOSTAVLJENIM U AGLOMERACIJAMA Program B MJERENJE KVALITETE ZRAKA U POSTAJAMA USPOSTAVLJENIM U ZONAMA
+II.
+(1) Pojmovi koji se koriste u ovom Programu imaju sljedeće značenje:
+1. Razina onečišćenosti zraka: koncentracija onečišćujuće tvari u zraku ili njeno taloženje na površine u određenom vremenu;
+2. Mjerenje: skup postupaka kojima se određuje vrijednost pokazatelja kvalitete zraka i/ili posrednih pokazatelja kvalitete zraka;
+3. Pokazatelj kvalitete zraka: mjerljiva veličina nekog kemijskog elementa i/ili spoja, odnosno fizikalnog stanja i/ili pojave, što uzrokuje promjenu kvalitete zraka;
+4. Posredni pokazatelj kvalitete zraka: mjerljiva veličina kojom se opaža promjena na biljkama, građevinama i u biološkim nalazima koja ukazuje na učinak onečišćenja zraka;
+5. Gustoća mjerenja: broj mjernih/uzorkovanih rezultata pojedinog pokazatelja kvalitete zraka i/ili posrednog pokazatelja kvalitete zraka u jedinici vremena;
+6. Mjerno razdoblje: vremenski razmak između dva uzastopna mjerenja.
+(2) Osim pojmova iz stavka 1. ove točke, pojedini pojmovi koji se koriste u ovom Programu sukladni su pojmovima utvrđenim u Zakonu o zaštiti zraka.
+III.
+PROGRAM A.
+MJERENJE KVALITETE ZRAKA U POSTAJAMA USPOSTAVLJENIM U AGLOMERACIJAMA
+HR ZG – POSTAJA ZAGREB-1
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno  razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Ugljikov monoksid (CO) 1 sat kontinuirano Benzen 1 sat kontinuirano Ukupna plinovita živa 1 sat kontinuirano Lebdeće čestice PM10– analizator 1 sat kontinuirano PM2,5– analizator 1 sat kontinuirano PM10 gravimetrijsko određivanje masenih koncentracija 24 sata dnevno Određivanje kemijskog sastava uzoraka PM10 : – benzo(a) piren i ostali PAU, uključujući barem benzo(a)antracen, benzo(b)fluoranten, benzo(j)fluoranten, benzo(k)fluoranten, indeno(1,2,3– cd)piren i dibenz(a,h)antracen – teški metali (As, Cd, Ni, Pb) 24 sata dnevno Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+HR ZG – POSTAJA ZAGREB-2
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Sumporov dioksid (SO2) 1 sat kontinuirano Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Lebdeće čestice PM10 – analizator 1 sat kontinuirano PM2,5 – analizator 1 sat kontinuirano Fizikalno stanje Smjer i brzina vjetra, temperatura zraka, relativna vlažnost zraka 1 sat kontinuirano
+HR ZG – POSTAJA ZAGREB-3
+Medij – zrak Pokazatelj kvalitete zraka Gustoća mjerenja Mjerno razdoblje Plinoviti sastojci Dušikovi oksidi izraženi kao NO2 1 sat kontinuirano Prizemni ozon (O3) 1 sat kontinuirano Lebdeće čestice PM10 gravimetrijsko određivanje masenih koncentracija 24 sata dnevno Određivanje kemijskog sastava uzoraka PM10: – benzo(a) piren i ostali PAU, uključujući barem benzo(a)antracen, benzo(b)fluoranten, benzo(j)fluoranten, benzo(k)fluoranten, indeno(1,2,3– cd)piren i dibenz(a,h)antracen – teški metali (As, Cd, Ni, Pb) 24 sata dnevno PM10 – analizator 1 sat kontinuirano PM2,5– analizator 1 sat kontinuirano Plinoviti sastojci Hlapivi organski spojevi 1 

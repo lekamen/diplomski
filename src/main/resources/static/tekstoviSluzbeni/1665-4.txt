@@ -1,0 +1,36 @@
+ stavka 1. ovoga članka korisnik mreže je dužan podnijeti zahtjev opskrbljivaču za prijenos ugovora o opskrbi krajnjeg kupca i/ili otkupljivaču za prijenos ugovora o otkupu električne energije.
+Članak 7.
+(1) U slučaju privremene obustave isporuke električne energije iz članaka 95., 96. i 103. ovih Općih uvjeta, koja traje dulje od pet godina, korisnik mreže gubi pravo na korištenje mreže.
+(2) U razdoblju privremene obustave isporuke električne energije iz članaka 95., 96. i 103. ovih Općih uvjeta, koja traje dulje od tri mjeseca, korisnik mreže ne plaća naknadu za obračunsko mjerno mjesto.
+(3) Operator sustava dužan je najkasnije 60 dana prije isteka razdoblja iz stavka 1. ovoga članka pisanim putem upozoriti korisnika mreže na mogućnost otkaza ugovora o korištenju mreže i gubitka prava na korištenje mreže.
+(4) Priključak obračunskog mjernog mjesta na kojem je izgubljeno pravo na korištenje mreže može se demontirati, a ponovno priključenje na mrežu provodi se u skladu s propisom kojim se utvrđuju pojedinačni uvjeti priključenja novog korisnika mreže na mrežu operatora sustava.
+Ugovor o otkupu električne energije
+Članak 8.
+(1) Proizvođač ili kupac s vlastitom proizvodnjom ne smije isporučivati električnu energiju u mrežu bez sklopljenog ugovora o otkupu električne energije.
+(2) Ukoliko proizvođač ili kupac s vlastitom proizvodnjom nema sklopljen ugovor o otkupu električne energije tijekom pokusnog rada ili redovnog pogona postrojenja za proizvodnju električne energije, operator sustava nema financijskih obveza vezanih za proizvedenu i u mrežu isporučenu električnu energiju.
+(3) U slučaju raskida ili prestanka važenja ugovora o otkupu električne energije, proizvođač ili kupac s vlastitom proizvodnjom dužan je o tome obavijestiti operatora sustava najkasnije osam dana prije dana raskida odnosno prestanka važenja ugovora o otkupu električne energije.
+(4) U slučaju raskida ili prestanka važenja ugovora o otkupu električne energije, proizvođač ili kupac s vlastitom proizvodnjom dužan je operatoru sustava dostaviti novi ugovor o otkupu električne energije u roku od osam dana od dana sklapanja ugovora, u protivnom će operator sustava proizvođaču ili kupcu s vlastitom proizvodnjom privremeno obustaviti isporuku proizvedene električne energije u mrežu.
+Ugovor o opskrbi krajnjeg kupca
+Članak 9.
+Uvjetima opskrbljivača za opskrbu električnom energijom osobito se uređuju:
+– načini ugovaranja,
+– sklapanje i sadržaj ugovora o opskrbi krajnjeg kupca,
+– modeli isporuke i jedinične cijene električne energije za krajnje kupce iz kategorije kućanstvo,
+– izbor načina plaćanja i uvjeti plaćanja,
+– način informiranja o potrošnji električne energije i troškovima te davanju obavijesti o svim pravima koja se odnose na javne usluge,
+– rokovi na koje se sklapa ugovor o opskrbi krajnjeg kupca te uvjeti obnove, promjene i raskida ugovora,
+– uvjeti prekida usluge opskrbe električnom energijom,
+– pravo korištenja podataka krajnjeg kupca i o krajnjem kupcu,
+– prava i obveze opskrbljivača,
+– prava i obveze krajnjeg kupca,
+– način obračuna i naplate električne energije,
+– ugovorna kazna,
+– način podnošenja prigovora,
+– način rješavanja sporova,
+– način donošenja izmjena i dopuna uvjeta opskrbljivača za opskrbu električnom energijom.
+Članak 10.
+(1) Prava i obveze između opskrbljivača i krajnjeg kupca uređuju se ugovorom o opskrbi krajnjeg kupca.
+(2) Sklapanje ugovora o opskrbi krajnjeg kupca mora biti utemeljeno na pravičnim i unaprijed poznatim uvjetima.
+(3) Odredbe ugovora o opskrbi krajnjeg kupca moraju biti poštene te na jasan, jednostavan i nedvojben način obuhvaćati prava i obveze opskrbljivača i krajnjeg kupca, a opskrbljivač mora osigurati da su njegovom krajnjem kupcu uvjeti ugovora poznati unaprijed.
+(4) Obavijesti o uvjetima ugovora o opskrbi krajnjeg kupca trebaju biti pružene prije njegovog sklapanja, a o svakoj promjeni uvjeta ugovora opskrbljivač je dužan obavijestiti krajnjeg kupca najkasnije 15 dana prije primjene.
+(5) Ugovor o opskrbi krajnjeg

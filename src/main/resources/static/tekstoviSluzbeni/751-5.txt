@@ -1,0 +1,49 @@
+ provodi se u skladu s pravilima propisa Republike Hrvatske koji su bili na snazi u vrijeme odlučivanja o zahtjevu za dodjelu potpore kojima se uređuje pravni odnos nastao dodjelom državne potpore, odnosno u skladu s pravilima samog pravnog akta na temelju kojeg je državna potpora dodijeljena korisniku.
+(4) Davatelj državne potpore odgovoran je za povrat državne potpore koji je naložila Europska komisija.
+VI. EVIDENCIJA, IZVJEŠTAVANJE, DOSTAVA PODATAKA O DRŽAVNIM POTPORAMA I REGISTAR DRŽAVNIH POTPORA
+a) Izvještavanje i evidencija o dodijeljenim državnim potporama
+Članak 10.
+(1) Davatelj državne potpore dužan je voditi evidenciju dodijeljenih državnih potpora.
+(2) Davatelj državne potpore dužan je Ministarstvu dostavljati godišnje izvješće o svim dodijeljenim državnim potporama, u pisanom i elektroničkom obliku na Obrascu izvješća o dodijeljenim potporama koji se preuzima u elektroničkom obliku na internetskoj stranici Ministarstva, Uprave ribarstva – www.mps.hr/ribarstvo, a dostavlja Ministarstvu u pisanom obliku i elektroničkom obliku na adresu elektroničke pošte: ribarstvo.potpore@mps.hr najkasnije do 30. ožujka tekuće godine, za prethodnu godinu na koju se izvješće odnosi.
+(3) Davatelj državne potpore koji u prethodnoj godini nije dodjeljivao državne potpore, dužan je o tome dostaviti Ministarstvu izjavu najkasnije do 30. ožujka tekuće godine.
+(4) Podaci iz Obrasca izvješća iz stavka 2. ovog članka jesu:
+– naziv davatelja državne potpore
+– matični broj/OIB davatelja državne potpore
+– naziv državne potpore
+– vrsta državne potpore
+– naziv i trajanje programa ili pojedinačne državne potpore
+– datum izdavanja mišljenja o usklađenosti potpore
+– naziv pravnog akta za dodjelu državne potpore
+– naziv instrumenta državne potpore
+– namjena/cilj državne potpore i kratki opis mjere
+– naziv/ime i prezime korisnika državne potpore (matični broj/OIB)
+– datum dodjele državne potpore, naziv i datum akta temeljem kojeg je državna potpora odobrena korisniku
+– datum doznake državne potpore korisniku
+– ukupna vrijednost investicije u kunama (bruto iznos) u slučaju potpore za ulaganja
+– iznos dodijeljene državne potpore u HRK (neto iznos)
+– protuvrijednost potpore u EUR.
+(5) Davatelj državne potpore dužan je voditi zasebnu evidenciju dodijeljenih potpora male vrijednosti.
+(6) Izuzev obveze dostave godišnjeg izvješća iz stavka 2. ovog članka davatelj državne potpore dostavlja Ministarstvu izvješće o dodijeljenim potporama male vrijednosti najkasnije u roku od 15 dana od dodjele potpore male vrijednosti na Obrascu izvješća o dodijeljenim potporama male vrijednosti koji preuzima u elektroničkom obliku na internetskoj stranici Ministarstva, Uprave ribarstva – www.mps.hr/ribarstvo, a dostavlja Ministarstvu u pisanom obliku i elektroničkom obliku na adresu elektroničke pošte: ribarstvo.potpore@mps.hr.
+b) Komunikacija s Europskom komisijom
+Članak 11.
+Komunikacija između davatelja državne potpore i Europske komisije obavlja se putem Ministarstva.
+c) Registar državnih potpora u ribarstvu i akvakulturi
+Članak 12.
+(1) Ministarstvo vodi registar svih državnih potpora dodijeljenih u sektoru ribarstva i akvakulture u elektroničkom obliku koji sadrži sljedeće podatke:
+– naziv davatelja državne potpore
+– naziv programa ili pojedinačne državne potpore
+– temelj dodjele potpore
+– naziv korisnika potpore
+– pravni oblik korisnika potpore
+– OIB korisnika potpore
+– vrsta potpore (program/pojedinačna potpora)
+– datum dodjele potpore
+– trajanje programa potpore (razdoblje provedbe državne potpore)
+– kategorija potpore
+– iznos državne potpore po pojedinom instrumentu (u HRK)
+– protuvrijednost potpore u EUR
+– broj državne potpore
+– datum odobrenja i broj državne potpore odobrene od Europske komisije.
+(2) Registar državnih potpora osim podataka iz stavka 1. ovoga članka sadrži i sljedeće podatke koji se odnose na izuzete državne potpore:
+– identifikacijski broj odobrene izuzete državne potpore dodijeljen od Europske komisije
+– datum objave zbirnih podatka o izuzetoj

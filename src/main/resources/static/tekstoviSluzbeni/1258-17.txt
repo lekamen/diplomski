@@ -1,0 +1,27 @@
+obzira na to je li redni broj ispred te liste zaokružen ili nije, dok se preferirani glasovi za kandidate neće uvažiti.
+Ako je birač dao preferirani glas kandidatu s određene liste, a nije zaokružio redni broj ispred te liste, glasački listić je važeći kako u odnosu na glas za listu tako i u odnosu na preferirani glas za kandidata s te liste.
+Ako je birač dao preferirani glas za kandidate s različitih lista i zaokružio je redni broj ispred jedne od tih lista, glasački listić je važeći u odnosu na glas za listu, kao i za preferirani glas s te liste ako je toj listi dao samo jedan preferirani glas.
+Odredbom članka 38. Zakona o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor »Narodne novine«, br. 19/15., stupio na snagu 25. veljače 2015., dodan članak 79.a.
+Članak 80.
+Glasovanje traje neprekidno od sedam do devetnaest sati.
+U sjedištima diplomatsko-konzularnih predstavništava glasovanje traje dva dana, s tim da završava na dan kada završava glasovanje u Republici Hrvatskoj.
+Odredbom članka 39. Zakona o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor »Narodne novine«, br. 19/15., stupio na snagu 25. veljače 2015., izmijenjen stavak 2.
+Birališta se zatvaraju u devetnaest sati, ali će se biračima koji su se zatekli na biralištu omogućiti glasovanje.
+Na biračkom mjestu moraju neprekidno biti nazočna najmanje tri člana biračkog odbora ili njihovi zamjenici.
+Članak 81.
+Predsjednik biračkog odbora dužan je i ovlašten osigurati red i mir na biračkom mjestu za vrijeme glasovanja, kao i nakon zatvaranja birališta.
+Ako je to nužno radi očuvanja reda i mira, te radi nesmetanog odvijanja glasovanja, predsjednik biračkog odbora može zatražiti pomoć policije koja je na biračkom mjestu dužna postupati po njegovim uputama, a u okviru zakonskih ovlasti.
+Nitko, osim pripadnika policije na poziv predsjednika biračkog odbora, ne smije doći na biralište naoružan.
+Članak 82.
+Predsjednik biračkog odbora ili od njega ovlašteni član dužan je za svakog birača koji pristupi glasovanju utvrditi identitet i provjeriti da li je upisan u izvadak iz popisa birača za to biračko mjesto.
+Identitet birača utvrđuje se identifikacijskom ispravom, sukladno posebnim zakonima.
+Ako birač nije upisan u izvadak iz popisa birača, predsjednik biračkog odbora ili od njega ovlašteni član neće mu dozvoliti glasovanje, osim ako birač svoje biračko pravo na tom biračkom mjestu ne dokaže potvrdom nadležnog državnog tijela.
+Potvrdu iz stavka 3. ovog članka birač je dužan predati biračkom odboru i ona je sastavni dio izvatka iz popisa birača za to biračko mjesto.
+Odredbom članka 40. Zakona o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor »Narodne novine«, br. 19/15., stupio na snagu 25. veljače 2015., izmijenjen članak 82.
+Članak 83.
+Birač koji zbog kakve tjelesne mane ili zbog toga što je nepismen ne bi mogao glasovati na način predviđen ovim Zakonom, može doći na biračko mjesto s drugom osobom koja je pismena i koja će po njegovoj ovlasti i uputi zaokružiti odgovor.
+Birač koji zbog teže bolesti, tjelesnog oštećenja ili nemoći nije u mogućnosti pristupiti na biračko mjesto, može o tome obavijestiti nadležno izborno povjerenstvo najranije tri dana prije dana održavanja izbora ili birački odbor na dan održavanja izbora.
+Nadležna izborna povjerenstva zaprimljene zahtjeve birača za glasovanje izvan biračkog mjesta predaju nadležnim biračkim odborima uz cjelokupan izborni materijal.
+Predsjednik biračkog odbora određuje najmanje dva člana biračkog odbora koji će birača iz stavka 2. ovoga članka posjetiti u mjestu u kojem se nalazi i omogućiti mu glasovanje.
+Birač iz stavka 2. ovoga članka dužan je najmanje jedanput presaviti glasački listić na kojem je glasovao, staviti ga u posebnu omotnicu i zatvoriti je. Član biračkog odbora dužan je nakon povratka na biračko mjesto predati omotnicu predsjedniku biračkog odbora.
+Predsjednik biračkog odbora presavijen glasački listić iz omotnice odmah ubacuje u glasačku kutiju na biračkom mjestu.

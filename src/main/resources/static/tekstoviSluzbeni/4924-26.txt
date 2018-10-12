@@ -1,0 +1,42 @@
+ vlaka. Upisivanje obavlja strojovođa.
+VII. BRZINE VLAKOVA
+Najveća dopuštena brzina vlaka
+Članak 93.
+(1) Vlakovima kojima se mora odrediti najveća dopuštena brzina i vlakovima kojima je najveća dopuštena brzina već propisana u voznom redu iz bilo kojeg razloga mora smanjiti, najveća dopuštena brzina propisuje se pisanim nalogom.
+(2) Ako je signalima signalizirana dopuštena infrastrukturna brzina manja od brzine propisane voznim redom ili pisanim nalogom, tada strojovođa mora odmah po uočavanju signalizirane dopuštene infrastrukturne brzine zavesti kočenje i voziti brzinom koja je signalizirana.
+(3) Kod propisivanja najveće dopuštene brzine ograničavajući elementi su:
+a) dopuštena infrastrukturna brzina na pruzi
+b) vozilo u vlaku koje ima najmanju dopuštenu brzinu
+c) uvjeti kočenja
+d) raspored vozila u vlaku i
+e) prometni i prijevozni uvjeti.
+(4) Kod pokusnih vožnji može se odstupiti od najvećih dopuštenih brzina propisanih u skladu s odredbama iz članka 94. ovog Pravilnika, a sigurnosne mjere i organizaciju prometa upravitelj infrastrukture propisuje za odnosnu pokusnu vožnju. Vlakovima kojima se obavljaju pokusne vožnje ne smiju se prevoziti putnici i opasne tvari.
+(5) Upravitelj infrastrukture i željeznički prijevoznik dužni su na zahtjev jedan drugom staviti na raspolaganje podatke o brzini i druge podatke o stvarnom kretanju vlaka.
+(6) Upravitelj infrastrukture i željeznički prijevoznik dužni su na zahtjev inspekcije sigurnosti željezničkog prometa ili drugog mjerodavnog tijela dostaviti podatke o brzini i druge podatke o stvarnom kretanju vlaka.
+Članak 94.
+Najveća dopuštena brzina vlaka može biti:
+– do 250 km/h – za vlak za prijevoz putnika, ako su pruga i vodeće vozilo opremljeni djelatnim uređajem za vođenje vlaka
+– do 160 km/h – za vlak za prijevoz putnika, ako su pruga i vodeće vozilo opremljeni djelatnim AS uređajima ili uređajima za vođenje vlaka te ako je pruga opremljena uređajem MO ili APB
+– do 120 km/h – za teretni vlak, ako su pruga i vodeće vozilo opremljeni djelatnim AS uređajima ili uređajima za vođenje vlaka te ako je pruga opremljena uređajem MO ili APB
+– do 100 km/h:
+a) za svaki vlak, ako pruga ili vozilo nema AS uređaj ili uređaj za vođenje vlaka te ako pruga nije opremljena uređajem MO ili APB
+b) za vlak kod kojeg se pogonskim uređajima vučnog vozila upravlja iz zadnje upravljačnice, a prednja upravljačnica je zaposjednuta strojovođom koji može upravljati kočenjem vlaka te ako između upravljačnica postoji stalna govorna komunikacija
+– do 80 km/h – za vlak koji se potiskuje
+– do 60 km/h:
+a) za vlak kojem je na čelu uvrštena lokomotiva s učvršćenim plugom za čišćenje snijega, ali samo za vrijeme dok se lokomotiva koristi za čišćenje snijega
+b) za vlak koji se potiskuje kada je potiskivalica uključena u zračni vod vlaka i između strojovođe čelne (vozne odnosno zaprežne) lokomotive i potiskivalice ne postoji radijska veza
+– do 50 km/h:
+a) za vlak kod kojeg se pogonskim uređajima vučnog vozila upravlja iz zadnje upravljačnice, a prednja upravljačnica je zaposjednuta strojovođom koji može upravljati kočenjem vlaka
+b) za vlak koji prolazi službeno mjesto u kojem je prekinuta služba, a čiji glavni signali za vrijeme prekida službe ne vrijede ili službeno mjesto nema glavnih signala
+– do 30 km/h:
+a) za gurani vlak
+b) za vlak koji ulazi na glavni krnji kolosijek
+c) za vlak koji ulazi na prvi odsjek glavnog kolosijeka podijeljenog na ograničene odsjeke voznog puta kada je osiguran put proklizavanja
+d) za materijalni vlak koji se kreće zatvorenom pružnom dionicom
+– do 20 km/h:
+a) za vlak koji ulazi na prvi odsjek glavnog kolosijeka podijeljenog na ograničene odsjeke voznog puta kada nije osiguran put proklizavanja
+b) za teretni vlak koji ulazi na kolosijek koji na izlaznoj strani nema osiguran put proklizavanja
+c) za vlak koji ulazi na zauzeti kolosijek
+d) za vlak koji ulazi u kolodvor s iznimnom opreznošću
+– do 10 km/h – za gurani vlak dok prelazi preko ŽCP-a koji nije osiguran uređajem za osiguranje ŽCP-a.
+Članak

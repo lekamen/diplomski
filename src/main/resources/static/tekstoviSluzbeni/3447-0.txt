@@ -1,0 +1,28 @@
+27 25.03.2016 Uputa za izradu zaštićenog programa za obavljanje mjenjačkih poslova ovlaštenih mjenjača
+HRVATSKA NARODNA BANKA
+796
+Na temelju članka 43. stavka 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008. i 54/2013.) i članka 14. stavka 1. Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove (»Narodne novine«, br. 22/2016.) guverner Hrvatske narodne banke 21. ožujka 2016. donio je
+UPUTU
+ZA IZRADU ZAŠTIĆENOG PROGRAMA ZA OBAVLJANJE MJENJAČKIH POSLOVA OVLAŠTENIH MJENJAČA
+I. OPĆE ODREDBE
+(1) Uputom za izradu zaštićenog programa za obavljanje mjenjačkih poslova ovlaštenih mjenjača (u nastavku teksta: Uputa) propisuju se obvezne funkcije te tehnički uvjeti koji moraju biti ispunjeni pri izradi zaštićenog programa za obavljanje mjenjačkih poslova ovlaštenih mjenjača (u nastavku teksta: zaštićeni program), način obavještavanja javnosti o uvjetima i načinu prikupljanja ponuda zaštićenih programa, način obavještavanja javnosti o proizvođačima zaštićenih programa za koje je Hrvatska narodna banka izdala certifikate te sadržaj izvješća »Promet ovlaštenih mjenjača – zbirno izvješće o kupnji i prodaji strane gotovine i otkupljenim čekovima koji glase na stranu valutu« koje su ugovorne banke dužne dostavljati Hrvatskoj narodnoj banci u skladu s člankom 13. stavkom 18. Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove (»Narodne novine«, br. xx/2016.; u nastavku teksta: Odluka).
+(2) Za potrebe ove Upute pojmovi »blagajničko mjesto«, »mjenjačka provizija«, »mjenjačko mjesto«, »ovlašteni mjenjač«, »povoljni kupovni tečaj«, »povoljni prodajni tečaj«, »temeljni kupovni tečaj«, »temeljni prodajni tečaj«, »ugovor o obavljanju mjenjačkih poslova«, »ugovorna banka« i »zaštićeni program« imaju značenje kako je definirano člankom 2. Odluke.
+(3) Tehnički uvjeti koji moraju biti ispunjeni pri izradi zaštićenog programa za ovlaštene mjenjače propisani su u »Tehničkoj specifikaciji zaštićenog programa«, koja je sastavni dio ove Upute.
+(4) Prilozi 1, 2, 3, 3A, 4A, 4B i 5 sastavni su dio ove Upute.
+(5) Tehničkom specifikacijom zaštićenog programa propisan je minimalni model podataka, operativni sustavi i programski jezici prihvatljivi za izradu zaštićenog programa za koji Hrvatska narodna banka izdaje certifikat te XSD shema za dostavu izvješća »Izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu za razdoblje _______«, koje ovlašteni mjenjači dostavljaju ugovornim bankama i izvješća »Promet ovlaštenih mjenjača – zbirno izvješće o kupnji i prodaji strane gotovine i otkupljenim čekovima koji glase na stranu valutu« u XML formatu.
+II. OBVEZNE FUNKCIJE ZAŠTIĆENOG PROGRAMA
+(1) Zaštićeni program mora imati sljedeće funkcije:
+1. izrada, pohranjivanje, kodiranje podataka i ispisivanje tečajnih lista,
+2. izrada, pohranjivanje, kodiranje podataka i ispisivanje Potvrda o otkupu i Potvrda o prodaji,
+3. izrada, pohranjivanje, kodiranje podataka i ispisivanje potvrda o uplatama i isplatama gotovine u kunama i strane gotovine te o isplatama čekova koji glase na stranu valutu iz blagajne,
+4. izrada, pohranjivanje i ispisivanje sljedećih obveznih izvješća:
+– »Blagajnički dnevnik za evidentiranje transakcija« – Prilog br. 1
+– »Obračun dnevne blagajne – stanje blagajničkog dnevnika« – Prilog br. 2
+– »Izvješće o kupnji odnosno prodaji strane gotovine i otkupu čekova koji glase na stranu valutu za razdoblje _______« – Prilog br. 3
+– »Dnevnik otkupa strane gotovine i čekova koji glase na stranu valutu« – Prilog br. 4A
+– »Dnevnik prodaje strane gotovine« – Prilog br. 4B
+– »Specifikacija strane gotovine i čekova koji glase na stranu valutu« – Prilog br. 5
+– »Pregled radnih dana tijekom kojih je ovlašteni mjenjač primjenjivao dvije tečajne liste«
+– »Pregled tečajnih lista na kojima je istovrsni tečaj bilo koje valute odstupao od tečaja iste valute na prethodnoj tečajnoj listi za više od 1%«
+– »Izvješće o broju ispisivanja potvrda o otkupu odnosno prodaji«,
+5. 

@@ -1,0 +1,33 @@
+ signalu, vlak mora zauzeti kontrolirani odsjek koji prethodi signalu.
+(2) Naredba za signalni znak »Oprezna vožnja brzinom do 20 km/h« koristi se, ako postoji kvar na elementu u voznom putu. Postupak korištenja naredbe počinje izdavanjem naredbe za postavljanje voznog puta pri čemu se blokiraju svi elementi koji nisu u stanju kvara. Nakon toga slijedi izdavanje naredbe za signaliziranje signalnog znaka »Oprezna vožnja brzinom do 20 km/h« na startnom signalu blokiranog voznog puta.
+(3) Granični kolosiječni odnosno manevarski signali za zaštitu voznog puta koji se nalaze u blokiranom voznom putu moraju signalizirati »Vožnja dopuštena« odnosno »Manevriranje dopušteno«, ako postoje uvjeti za manevarski vozni put, ali to nije uvjet za signaliziranje SZ »Oprezna vožnja brzinom do 20 km/h«.
+(4) Po isteku 90 sekundi glavni signal sa signalnim znakom »Oprezna vožnja brzinom do 20 km/h« signalizira SZ »Stoj«. Mora postojati mogućnost ponovnog izdavanja ove naredbe, bez prethodnog razrješenja blokiranog voznog puta.
+(5) Kada startni signal postavljenog voznog puta zbog kvara nekog od elemenata voznog puta prijeđe iz signalnog znaka dopuštene vožnje u signalni znak »Stoj« potrebno je razriješiti vlakovni vozni put naredbom za prinudno razrješenje voznog puta. Nakon toga potrebno je izvršiti postupak iz stavka (2) ovog članka.
+(6) Projektnim tablicama u glavnom projektu može biti predviđeno postavljanje navedenog signalnog znaka na kolosijeke koji nisu u voznim putevima.
+Uvjeti za automatske prolazne vožnje (APV)
+Članak 40.
+(1) ESSU mora omogućiti automatsko postavljanje prolaznih voznih puteva nailaskom vlaka.
+(2) Projektnim tablicama moraju se definirati polazni parametri za APV:
+– glavni signali uključeni u APV kao start voznog puta,
+– cilj voznog puta,
+– lokacija uključnog elementa (kontrolirani odsjek ili kontakt).
+(3) Ako se kao uključni element APV-a koriste kontrolirani odsjeci APB-a, onda u procesu automatskog izdavanja naredbe voznog puta mora se provjeravati sekvenca zauzimanja odsjeka kako u slučaju kvara kontroliranog odsjeka koji služi za automatsko postavljanje prolaznog voznog puta ne bi došlo do postavljanja prolaznog voznog puta.
+(4) Uključni element mora biti lociran tako da najbrži vlak kod najdužeg vremena formiranja voznog puta bude izvan propisane daljine vidljivosti glavnog signala koji predsignalizira signalne znakove signala koji su dio prolaznog voznog puta ili predsignala koji predsignalizira glavni signal prolaznog voznog puta.
+(5) Ako zbog malenog međukolodvorskog razmaka nije moguće koristiti uključni element na otvorenoj pruzi, kao uključni element može se koristiti informacija iz prethodnog kolodvora o blokiranju izlaznog voznog puta i zauzetom stanju kolosiječnog kontroliranog odsjeka blokiranog izlaznog voznog puta.
+(6) Ako prilikom prevoženja uključnog elementa ne postoje uvjeti za postavljanje voznog puta (npr. prethodni vlak još nije razriješio vozni put) ESSU mora memorirati prevoženje uključnog elementa, a nakon ispunjenja uvjeta za novi vozni put izdati naredbu za postavljanje prolaznog voznog puta.
+1.2.3 Manevarski vozni put
+Članak 41.
+(1) Tehnički osiguran manevarski vozni put može biti:
+– redovni
+– složeni,
+– obilazni.
+(2) Manevarski vozni put započinje (»start« manevarskog voznog puta):
+– kod graničnog kolosiječnog signala,
+– kod manevarskog signala za zaštitu voznog puta.
+(3) Manevarski vozni put završava (»cilj« manevarskog voznog puta):
+– kod sljedećeg manevarskog ili graničnog kolosiječnog signala,
+– kod graničnog kolosiječnog signala na kraju kolosijeka podijeljenog na ograničene odsjeke voznog puta,
+– kod SZ granica manevriranja
+– na kraju krnjeg kolosijeka,
+– na kolosijecima koji nisu uključeni u ESSU.
+(4) Složeni manevarski vozni put sastoji se od dva ili više istovremeno postavljena uzastopna manevarska vozna puta preko više manevarskih signala za zaštitu voznog puta ili graničnih kolosiječnih signala za isti manevarski sastav. Pojedinačni manevarski vozni putevi nastavljaju se jedan

@@ -1,0 +1,43 @@
+ broj dana od datuma pokretanja postupka do datuma rješavanja predmeta.
+Članak 71.
+(1) U sustavu JCMS korisnicima sustava su u svakom trenutku dostupna upravljačka izvješća koja mogu kreirati u skladu s potrebama suda.
+(2) Odabirom željenih parametara sustav JCMS generira sljedeća izvješća:
+1. Stanje predmeta na razini mjeseca – prikazuje stanje riješenosti predmeta te njihov broj na mjesečnoj razini
+2. Trajanje postupaka – prikazuje broj postupaka u ovisnosti o njihovom vremenskom trajanju
+3. Kretanje riješenosti – linijski graf prikazuje kretanje riješenosti predmeta u posljednjih godinu dana
+4. Vrste postupka – prikaz zastupljenosti postupaka prema njihovoj vrsti
+5. Stanje žalbenih postupaka – prikaz broja žalbenih postupaka u ovisnosti o njihovom stanju
+6. Kretanje broja podnesaka – prikazuje broj podnesaka po mjesecima
+7. Raspored predmeta po sucima – prikazuje broj predmeta po sucima
+8. Predmeti kojima prijeti zastara – prikazuje broj predmeta kojima prijeti zastara; tako se mogu postaviti prioriteti i definirati redoslijed rješavanja predmeta
+9. Predmeti u kojima nije poduzeta niti jedna radnja u posljednjih tri mjeseca – prikazuje broj predmeta u kojima nije poduzeta niti jedna radnja u posljednjih tri mjeseca.
+XVI. PROMJENA OZNAKE, SPAJANJE, PRILAGANJE I RAZDVAJANJE SPISA
+Članak 72.
+(1) Promjena upisnika unosi se u sustav JCMS. Prilikom unosa promjene po potrebi se mijenjaju podaci o ulogama stranaka u predmetu, te o hitnosti i tajnosti postupka. Od tog trenutka, novi podnesci i sudske odluke dobivaju novu oznaku spisa, a podbrojevi na podnescima nastavljaju redoslijed.
+(2) Ustupanje spisa drugom sudu unosi se u sustav JCMS uz obvezno navođenje razloga ustupanja spisa.
+(3) Ustupanje spisa iz članka 11. Zakona o sudovima provodi se kroz sustav JCMS unosom pripadajuće odluke te pokretanjem funkcije ustupanja.
+(4) Zaprimanje spisa iz članka 11. Zakona o sudovima provodi se kroz sustav JCMS unosom pripadajućeg podneska te pokretanjem funkcije zaprimanja.
+Članak 73.
+(1) Slanje spisa na viši sud evidentira se u sustavu JCMS uz obvezno navođenje razloga slanja spisa.
+(2) Vraćanje spisa s višeg suda na niži sud evidentira se u sustavu JCMS.
+Članak 74.
+(1) Spajanje spisa evidentira se u sustavu JCMS.
+(2) Spajanje spisa u sustavu JCMS provodi se nakon što rješavatelj u sustav JCMS unese dostavnu naredbu za spajanje spisa.
+(3) Nakon spajanja spisa, podnesci, podaci o kretanju spisa i podaci o odluci upisuju se u sustav JCMS u spojeni jedinstveni spis.
+Članak 75.
+Prilaganje spisa evidentira se u sustavu JCMS. Spisu se mogu priložiti samo oni spisi u kojima postoji dostavna naredba rješavatelja za prilaganje.
+Članak 76.
+Razdvajanje spisa provodi se u sustavu JCMS nakon što je rješavatelj u sustav unio odgovarajuću dostavnu naredbu. Ovlašteni sudski službenik provodi razdvajanje na način da iz spisa koji se razdvaja ili iz kojeg se dio izdvaja podatke o strankama i drugim sudionicima te podneske i odluke navedene u dostavnoj naredbi prenese ili preslika u spis koji se osniva razdvajanjem ili izdvajanjem.
+XVII. RAD U REFERADAMA
+Članak 77.
+(1) Za naredbe i rješenja o određivanju rasprave i ročišta odnosno o provođenju neke druge sudske radnje koristit će se odgovarajuće funkcije sustava JCMS te će se unijeti podaci o osobama koje treba pozvati, vremenu sudske radnje, dostavi poziva i druge odgovarajuće radnje.
+(2) Upisivanje sudske radnje, dodavanje sudionika te priprema poziva obavlja se u referadi unosom podataka u sustav JCMS.
+Članak 78.
+Podaci o pozivanju stranaka i ostalih sudionika postupka unose se u sustav JCMS u referadi rješavatelja.
+Članak 79.
+Spisi u kojima su određene rasprave ili ročišta automatski su upisani u ročišniku sustava JCMS.
+Članak 80.
+(1) Sve naredbe i ostale upute za rad izdane sudskoj pisarnici unose se u sustav JCMS.
+(2) Naredbe moraju biti jasne i potpune te sadržavati potrebne podatke na temelju kojih sudska pisarnica može postupati.
+Članak 81.
+U sustavu JCMS obvezno je ažurno i točno evidentirati

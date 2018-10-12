@@ -1,0 +1,46 @@
+ terenu ili uciljavanje posebno namijenjena sredstvima navedenima u ML5.a., ML5.b. ili ML5.c.
+ML6. Kopnena vozila i komponente kako slijedi:
+POZOR: Za opremu za navođenje i navigaciju vidi ML11.
+a. kopnena vozila i njihove komponente posebno konstruirani ili modificirani za vojnu uporabu;
+Tehnička napomena:
+Za potrebe ML6.a. izraz kopnena vozila uključuje i prikolice.
+b. ostala kopnena vozila i komponente kako slijedi:
+1. vozila koja imaju sve od navedenog:
+a. proizvedena ili opremljena materijalima koji pružaju balističku zaštitu razine III. (sukladno normi NIJ 0108.01 iz rujna 1985. godine ili usporedivoj nacionalnoj normi) ili veću;
+b. transmisija koja omogućava istovremeni pogon i na prednjim i stražnjim kotačima, uključujući vozila koja radi veće nosivosti imaju dodatne kotače, bez obzira na to jesu li oni s pogonom ili ne;
+c. bruto masu vozila (GVWR) veću od 4 500 kg; i
+d. konstruirana ili modificirana za uporabu na neravnom terenu;
+2. komponente koje imaju sve od navedenog:
+a. posebno konstruirane za vozila navedena u ML6.b.1.; i
+b. pružaju balističku zaštitu razine III. (sukladno normi NIJ 0108.01 iz rujna 1985. godine ili usporedivoj nacionalnoj normi) ili veću.
+POZOR: Vidi također ML13.a.
+Napomena 1.: ML6.a. uključuje:
+a. tenkove i ostala vojna naoružana vozila te vojna vozila koja su opremljena nosačima za naoružanje ili opremom za postavljanje mina ili lansiranje projektila navedena u ML4.;
+b. oklopna vozila;
+c. amfibijska vozila i vozila za prelaženje dubokih vodenih površina;
+d. vozila za izvlačenje i vozila za vuču ili prijevoz streljiva ili sustava oružja, kao i s tim povezanu opremu za rukovanje teretom.
+Napomena 2.: Modifikacija kopnenog vozila za vojnu uporabu navedenog u ML6.a. podrazumijeva strukturnu, električnu ili mehaničku promjenu koja uključuje jednu ili više komponenti posebno konstruiranih za vojnu uporabu. Te komponente uključuju:
+a. zaštitu pneumatika izvedenu tako da pneumatici budu neprobojni za metke;
+b. oklopnu zaštitu vitalnih dijelova (npr. spremnika goriva ili kabine vozila);
+c. posebna pojačanja ili nosače oružja;
+d. svjetla za noćnu vožnju.
+Napomena 3.: ML6. ne odnosi se na civilna vozila konstruirana ili modificirana za prijevoz novca ili vrijednosti.
+Napomena 4.: ML6. ne odnosi se na vozila koja ispunjavaju sve navedeno:
+a. proizvedena su prije 1946. godine;
+b. nemaju stavke navedene u Zajedničkom popisu robe vojne namjene EU-a i proizvedene nakon 1945. godine, osim reprodukcija originalnih komponenti ili pribora za vozilo; i
+c. ne uključuju oružje navedeno u ML1., ML2. ili ML4., osim ako je neupotrebljivo i ako iz njega nije moguće ispaljivati projektile.
+ML7. Kemijski ili biološki toksični agensi, »agensi za suzbijanje nereda«, radioaktivni materijali, pripadajuća oprema, komponente i materijali kako slijedi:
+a. biološki agensi i radioaktivni materijali »prilagođeni uporabi u ratu« s namjenom stvaranja žrtava među ljudima i životinjama, degradiranja opreme ili oštećenja usjeva ili okoliša;
+b. agensi za kemijsko ratovanje, uključujući:
+1. nervne agense za kemijsko ratovanje:
+a. O-alkil (jednak ili manji od C10, uključujući cikloalkil), alkil (metil, etil, n-propil ili izopropil)-fosfonofluoridati, kao što su:
+Sarin (GB):O-izopropil metilfosfonofluoridat (CAS 107-44-8); i
+Soman (GD):O-pinakolil metilfosfonofluoridat (CAS 96-64-0);
+b. O-alkil (jednak ili manji od C10, uključujući cikloalkil) N,N-dialkil (metil, etil, n-propil ili izopropil) fosforamidocijanidati, kao što su:
+Tabun (GA):O-etil N,N-dimetilfosforamidocijanidat (CAS 77-81-6);
+c. O-alkil (H ili jednak ili manji od C10, uključujući cikloalkil) S-2-dialkil (metil, etil, n-propil ili izopropil)-aminoetil alkil (metil, etil, n-propil ili izopropil) fosfonotiolati i odgovarajuće alkalirane i protonirane soli, kao što su:
+VX: O-etil S-2-diizopropilaminoetil metil fosfonotiolat (CAS 50782-69-9);
+2. kožni agensi za kemijsko ratovanje:
+a. sumporni otrovi, kao što su:
+1. 2-kloroetilklorometilsulfid (CAS 2625-76-5);
+2. bis(2-kloroetil)

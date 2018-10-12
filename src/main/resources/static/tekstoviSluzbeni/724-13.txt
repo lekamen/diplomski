@@ -1,0 +1,45 @@
+ statistike, putem elektroničke pošte na adresu: »statistikaMP@pravosudje.hr«.
+Članak 80.
+Standardna statistička izvješća su:
+1. S1.1.1. Neriješeni predmeti po godinama – za datum početka procesa – po vrsti postupka.
+2. S1.1.2 Neriješeni predmeti po godinama – za datum zaprimanja – po vrsti postupka.
+3. S1.1.3. Neriješeni predmeti po godinama – za datum osnivanja – po vrsti postupka.
+4. S1.3.1. Neriješeni predmeti po godinama – za datum početka procesa – po upisnicima.
+5. S1.3.2. Neriješeni predmeti po godinama – za datum zaprimanja – po upisnicima.
+6. S1.3.3. Neriješeni predmeti po godinama – za datum osnivanja – po upisnicima.
+7. S1.4.1. Neriješeni predmeti po godinama – za datum početka procesa – po upisnicima po sucu.
+8. S1.4.2. Neriješeni predmeti po godinama – za datum zaprimanja – po upisnicima po sucu.
+9. S1.4.3. Neriješeni predmeti po godinama – za datum osnivanja – po upisnicima po sucu.
+10. S1.4.4. Neriješeni predmeti po godinama – za datum dodjele – po upisnicima po sucu.
+11. S1.5.1. Riješeni predmeti po godinama za datum početka procesa – po vrsti postupka.
+12. S1.5.2. Riješeni predmeti po godinama za datum zaprimanja – po vrsti postupka.
+13. S1.5.3. Riješeni predmeti po godinama za datum osnivanja – po vrsti postupka.
+14. S1.7.1. Riješeni predmeti po godinama za datum početka procesa – po upisnicima.
+15. S1.7.2. Riješeni predmeti po godinama za datum zaprimanja – po upisnicima.
+16. S1.7.3. Riješeni predmeti po godinama za datum osnivanja – po upisnicima.
+17. S1.8.1. Riješeni predmeti po godinama za datum početka procesa – po upisnicima po sucu.
+18. S1.8.2. Riješeni predmeti po godinama za datum zaprimanja – po upisnicima po sucu.
+19. S1.8.3. Riješeni predmeti po godinama za datum osnivanja – po upisnicima po sucu.
+20. S1.8.4. Riješeni predmeti po godinama za datum dodjele – po upisnicima po sucu.
+21. S10 – PSRP – Izvješće o prosječnoj starosti riješenih predmeta.
+22. S11.1. Izvješće o broju i trajanju ročišta po sucu i sudskom savjetniku.
+23. S11.2. Izvješće o broju i trajanju ročišta po sucu i sudskom savjetniku izraženo u satima i minutama.
+24. S2.1. – SSI – Sumarno statističko izvješće o broju primljenih riješenih i neriješenih predmeta.
+25. S2.2.– SSI – skraćen – za ispis.
+26. S2.5.– SSI – skraćen stari predmeti – Sumarno statističko izvješće o broju primljenih riješenih i neriješenih predmeta po datumu početka procesa.
+27. S2.6. – SSI – skraćen stari predmeti – Sumarno statističko izvješće o broju primljenih riješenih i neriješenih predmeta – po datumu osnivanja.
+28. S3.1. – PSI – Pojedinačno statističko izvješće o radu sudskog osoblja (u periodu).
+29. S3.2.– PSI – Pojedinačno statističko izvješće o radu sudskog osoblja (u periodu) s radnim danima.
+30. S4.2. – PSI – skraćen – za ispis – Pojedinačno statističko izvješće o radu sudskog osoblja (u periodu).
+31. S4.5. – PSI – skraćen stari predmeti – Pojedinačno statističko izvješće o radu. sudskog osoblja po upisnicima (u periodu) – starost predmeta po datumu osnivanja.
+32. S4.6. – PSI – skraćen stari predmeti – Pojedinačno statističko izvješće o radu sudskog osoblja po upisnicima (u periodu) – starost predmeta po datumu početka procesa.
+33. S5.1. – PSI – Pojedinačno statističko izvješće o radu sudskog osoblja po vrsti spora u periodu.
+34. S6.3. – OPT – Izvješće o opterećenju sudaca i sudskih savjetnika dodijeljenim predmetima.
+35. S9.1. – Izvješće o predmetima ostavina (primljeno, riješeno, neriješeno) – sud i javni bilježnici.
+Članak 81.
+Za potrebu izrade statističkih izvješća koriste se sljedeći izrazi:
+1. datum zaprimanja u sud – datum zaprimanja prvog podneska u sud,
+2. datum pokretanja postupka – datum kada je podnesak kojim se pokreće postupak pred sudom prvi puta zaprimljen u sudu,
+3. trajanje rješavanja predmeta pred sudom – broj dana od datuma zaprimanja u sud do datuma rješavanja predmeta,
+4. starost neriješenog predmeta – broj dana od datuma pokretanja postupka do datuma izrade izvješća,
+5. vrijeme rješavanja predmeta u sudu – broj dana od datuma

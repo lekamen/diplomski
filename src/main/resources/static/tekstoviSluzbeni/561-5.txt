@@ -1,0 +1,24 @@
+ kriterije:
+– postupak objavljivanja bazira se na razboritim procedurama za prikupljanje cijena te računanje i objavljivanje vrijednosti indeksa, uključujući procedure za određivanje cijena komponenti kada tržišne cijene nisu dostupne,
+– bitne informacije o pitanjima kao što su način izračuna indeksa, metodologija za rebalans, izmjene indeksa ili bilo koje operativne poteškoće u pružanju točnih informacija, pružaju se ažurno i na široko dostupan način.
+(2) Ako sastav temeljne imovine financijske izvedenice ne zadovoljava kriterije iz stavka 1. ovoga članka, takva se financijska izvedenica, ako zadovoljava kriterije iz članka 10. stavka 1. ovoga pravilnika, smatra financijskom izvedenicom na kombinaciju imovine iz članka 10. stavka 1. točke 1. podtočaka a), b) i c) ovoga pravilnika.
+Prenosivi vrijednosni papiri i instrumenti tržišta novca s ugrađenim izvedenicama
+Članak 12.
+(1) Prenosivi vrijednosni papiri s ugrađenim izvedenicama u smislu Zakona su financijski instrumenti koji zadovoljavaju kriterije iz članka 4. stavka 1. ovoga pravilnika i sadrže komponentu koja zadovoljava sljedeće kriterije:
+1. temeljem te komponente, neki ili svi novčani tijekovi koji inače proizlaze iz prenosivog vrijednosnog papira koji je temeljni ugovor, se mogu mijenjati prema određenoj kamatnoj stopi, cijeni financijskog instrumenta, valutnom tečaju, cjenovnom indeksu ili indeksu stopa, kreditnom rejtingu ili kreditnom indeksu, ili nekoj drugoj varijabli, i stoga se kretati na način na koji se kreće samostalna izvedenica,
+2. ekonomske karakteristike i rizici te komponente nisu blisko povezani s ekonomskim karakteristikama i rizicima vrijednosnog papira koji je temeljni ugovor,
+3. ima značajan učinak na profil rizičnosti i određivanje cijene prenosivog vrijednosnog papira.
+(2) Instrumenti tržišta novca koji ispunjavaju jedan od kriterija iz članka 5. stavka 1. ovoga pravilnika i kriterije iz članka 6. stavka 2. ovoga pravilnika i koji sadrže komponentu koja ispunjava kriterije iz stavka 1. ovoga članka smatraju se instrumentima tržišta novca s ugrađenim izvedenicama iz Zakona.
+(3) Neće se smatrati da prenosivi vrijednosni papir ili instrument tržišta novca ima ugrađenu izvedenicu ako sadrži komponentu koja je ugovorno prenosiva neovisno o prenosivom vrijednosnom papiru ili instrumentu tržišta novca. Takva komponenta smatrat će se zasebnim financijskim instrumentom.
+Tehnike i instrumenti koji se koriste u svrhu učinkovitog upravljanja portfeljem i ostali financijski instrumenti i poslovi na tržištu kapitala u koje se može ulagati imovina UCITS fonda
+Članak 13.
+(1) Društvo za upravljanje može koristiti tehnike i instrumente vezane uz prenosive vrijednosne papire i instrumente tržišta novca ako se takve tehnike i instrumenti koriste u svrhu učinkovitog upravljanja portfeljem, pod uvjetima i ograničenjima navedenim u prospektu i/ili pravilima UCITS fonda.
+(2) Tehnike i instrumenti iz stavka 1. ovoga članka koji se koriste u svrhu učinkovitog upravljanja portfeljem fonda uključuju, ali nisu ograničeni na, repo ugovore i posuđivanje vrijednosnih papira.
+(3) Tehnike i instrumenti iz stavka 1. ovoga članka moraju zadovoljavati sljedeće uvjete:
+1. ekonomski su prihvatljivi na način da se realiziraju na troškovno učinkovit način,
+2. upotrebljavaju se u svrhu ostvarivanja jednog ili više sljedećih ciljeva:
+– smanjenja rizika,
+– smanjenja troškova,
+– stvaranja dodatnog kapitala ili prihoda za UCITS fond uz razinu rizika koja je u skladu s profilom rizičnosti UCITS fonda, kao i pravilima za diverzifikaciju rizika i ograničenjima ulaganja UCITS fonda koja su definirana u članku 250. stavku 1. Zakona,
+3. njihovi rizici su primjereno obuhvaćeni sustavom upravljanja rizicima UCITS fonda.
+(4) Kada društvo za upravljanje koristi tehnike i instrumente iz stavka 1. ovoga članka primljeni kolateral mogu biti samo prenosivi vrijednosni papiri i instrumenti tržišta novca, koji su uvršteni na jedno od tržišta iz članka 3. ovoga pravilnika, i u koje je dozvoljeno ulagati

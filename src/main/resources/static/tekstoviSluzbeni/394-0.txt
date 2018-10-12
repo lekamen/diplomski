@@ -1,0 +1,24 @@
+18 18.02.2015 Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+395
+Na temelju članka 12. stavka 1. točke 1. i članka 95. stavka 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 73/08, 90/11, 133/12, 80/13 i 71/14) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSEBNIM UVJETIMA POSTAVLJANJA I UPORABE RADIJSKIH POSTAJA
+Članak 1.
+U Pravilniku o posebnim uvjetima postavljanja i uporabe radijskih postaja (»Narodne novine« br. 45/12), u članku 3. stavak 2. mijenja se i glasi:
+»Za potrebe ovog Pravilnika pojmovi područje povećane osjetljivosti i javno područje primjenjuju se u značenju kako je propisano pravilnikom ministra nadležnog za zdravlje vezano uz zaštitu od neionizirajućeg zračenja.«
+Članak 2.
+U članku 3. stavak 3. riječ »zdravstvo« zamjenjuje se riječju »zdravlje«.
+U članku 4. stavku 3. točka d) mijenja se i glasi:
+»udaljenost od geometrijskog središta odašiljačke antene do javnog područja (izražena u m) s najvišom vrijednosti elektromagnetskog polja,«
+U članku 4. stavak 4. mijenja se i glasi:
+»Prije upisivanja potvrde o usklađenosti iz stavka 1. ovoga članka Agencija može, prema potrebi, provesti dodatni izračun i/ili mjerenja veličina elektromagnetskih polja koja radijska postaja stvara na mjestu postavljanja, odnosno na području povećane osjetljivosti i javnom području.«
+Članak 3.
+U članku 5. stavak 3. mijenja se i glasi:
+»Agencija može, na temelju prijavljenih podataka iz stavka 2. ovoga članka, prema potrebi odrediti i provesti dodatni izračun i/ili mjerenja veličina elektromagnetskih polja koja radijska postaja stvara na mjestu postavljanja, odnosno na području povećane osjetljivosti i javnom području.«
+Članak 4.
+Ovaj Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja stupa na snagu osmog dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/15-02/03
+Urbroj: 376-03-15-1
+Zagreb, 11. veljače 2015.
+Predsjednik Vijeća dr. sc. Dražen Lučić, v. r.

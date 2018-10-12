@@ -1,0 +1,37 @@
+ istom ili nekom drugom razdoblju.
+12.41. Kada je neka imovina revalorizirana, a ta revalorizacija se uključuje u poreznu osnovicu u nekom idućem razdoblju, poduzetnik treba iskazati odgođenu poreznu obvezu primjenjujući na tu revalorizacijsku rezervu propisanu stopu poreza na dobit. Ova odgođena porezna obveza iskazuje se kao smanjenje revalorizacijske rezerve.  Isto se primjenjuje i za rezerve fer vrijednosti.
+12.42. U financijskim izvještajima koji uključuju inozemno poslovanje, tečajna razlika proizašla iz monetarnih stavki koje čine neto ulaganje u inozemno poslovanje priznaje se u kapital (rezerve fer vrijednosti) kada inozemno poslovanje predstavlja podružnicu, a sastavljaju se konsolidirani financijski izvještaji. U ostalim slučajevima ova tečajna razlika priznaje se u računu dobiti i gubitka.
+MJERENJE
+12.43. Kapital se mjeri u financijskim izvještajima ovisno o mjerenju pojedinih vrsta imovine i obveza koje utječu na promjenu kapitala.
+PRESTANAK PRIZNAVANJA
+12.44. Kapital se prestaje priznavati kada nisu ispunjeni uvjeti iz točke 12.25. ovog Standarda.
+OBJAVLJIVANJE
+12.45. Treba objaviti povećanje ili smanjenje revalorizacijske rezerve, rezerve fer vrijednosti te gubitke od umanjenja priznati ili ukinuti izravno u kapital kada:
+– su neto tečajne razlike klasificirane kao kapital te njihovo usklađivanje na  početku i na kraju razdoblja,
+– je zbroj tekućeg i odgođenog poreza za stavke kojima je terećen ili odobren  kapital,
+– za financijsku imovinu raspoloživu za prodaju iznos dobiti ili gubitka priznat  u kapital te iznos isključen iz kapitala i priznat u račun dobiti i gubitka.
+DATUM STUPANJA NA SNAGU
+12.46. Poduzetnik je dužan primjenjivati ovaj Hrvatski standard financijskog izvještavanja za razdoblje započeto 1. siječnja 2016. i kasnije, uz prepravljanja početnih stanja u bilanci na dan 1. siječnja 2016. ili kasnije, ako je potrebno, bez prepravljanja informacija za usporedna razdoblja u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku, te treba objaviti tu činjenicu.
+12.47. U bilješkama se obavezno objavljuje opis razloga i iznosa prepravaka te naziva pozicija u kojima su prepravci iskazani te iskazuju učinci odredbi Standarda da su se primjenjivale na usporedne informacije u računu dobiti i gubitka, izvještaju o promjenama kapitala i izvještaju o novčanom toku.
+13. OBVEZE
+UVOD
+13.1. Cilj ovog Standarda je propisati računovodstveni postupak za mjerenje, priznavanje prezentiranja i objavljivanja obveza.
+13.2. Ovaj Standard u skladu je s Direktivom 2013/34/EU.
+DEFINICIJE
+13.3. Obveza je sadašnja obveza poduzetnika, proizašla iz prošlih događanja i za čije se podmirenje očekuje odljev resursa.
+13.4. Obveza je dužnost ili odgovornost da se postupi ili nešto izvrši na određeni način.
+13.5. Obveze proizlaze iz prošlih transakcija ili drugih prošlih poslovnih događanja.
+13.6. Obveze se klasificiraju kao kratkoročne i dugoročne.
+13.7. Kratkoročna obveza je sadašnja obveza koja ispunjava bilo koji od sljedeća četiri kriterija:
+– očekuje se da će se podmiriti u redovnom tijeku poslovnog ciklusa,
+– dospijeva za podmirenje u roku unutar dvanaest mjeseci poslije datuma bilance,
+– primarno se drži radi trgovanja,
+– poduzetnik nema bezuvjetno pravo odgađati podmirenje obveze za najmanje dvanaest mjeseci poslije datuma bilance.
+13.8. Obveze koje ne udovoljavaju bilo kojem od kriterija iz točke 13.7. ovog Standarda klasificiraju se kao dugoročne obveze.
+13.9. Pothvatnik je strana u zajedničkom pothvatu i ima zajedničku kontrolu nad tim zajedničkim pothvatom.
+13.10. Kod zajedničke kontrolirane djelatnosti pothvatnik koristi svoju imovinu i obveze.
+13.11. Pojedinačno kontrolirana imovina predstavlja zajedničku kontrolu pa i zajedničko vlasništvo nad imovinom koja se koristi u zajedničkom pothvatu.
+13.12. Financijska obveza je svaka obveza koja je:
+a) ugovorna obveza da se:
+– isporuči novac ili druga financijska imovina drugom poduzetniku,
+– razmjeni financijska imovina ili financijska obveze

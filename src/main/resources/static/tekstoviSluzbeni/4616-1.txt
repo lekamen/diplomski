@@ -1,0 +1,36 @@
+ razreda točnosti F1, F2 i M1 koje u svojem radu upotrebljava Državni zavod za mjeriteljstvo i ovlaštena tijela koja obavljaju poslove ovjeravanja zakonitih mjerila i/ili poslove pripreme zakonitih mjerila za ovjeravanje mogu se upotrebljavati kao kontrolni uređaji za ovjeravanje vaga i utega, ako je njihova NDP u skladu s tablicom iz Dodatka II.
+Kontrolni uređaji iz stavka 1. ovoga članka smatraju se etalonima i mogu biti umjereni ili ovjereni.
+Pogreška utega koji se upotrebljava za ovjeravanje vage (ili utega) ne smije biti veća od 1/3 NDP propisane za tu vagu (ili uteg).
+Utezi razreda točnosti E1 i E2 koji se upotrebljavaju za namjenu iz stavka 1. ovoga članka moraju biti umjereni i imati valjanu umjernicu.
+V. UZAJAMNO PRIZNAVANJE
+Članak 14.
+Postupak uzajamnog priznavanja provodi se u skladu s odredbama članka 33. Zakona o mjeriteljstvu (»Narodne novine« broj 74/2014).
+VI. NOTIFIKACIJA
+Članak 15.
+Ovaj se Pravilnik donosi uzimajući u obzir postupak obavješćivanja na temelju Direktive (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17. 9. 2015.).
+VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 16.
+Utezi koji su na dan stupanja na snagu ovoga Pravilnika u uporabi i imaju valjanu prvu ovjeru ili potvrdu o umjeravanju (umjernicu), mogu se podnositi na redovnu ili izvanrednu ovjeru sve dok zadovoljavaju propisane zahtjeve na temelju kojih su stavljeni u uporabu.
+Članak 17.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-02/16-02/05
+Urbroj: 558-01/2-16-5
+Zagreb, 7. listopada 2016.
+Zamjenik ravnatelja mr. sc. Božidar Ljubić, dipl. ing., v. r.
+DODATAK I.
+1. UTEZI RAZREDA TOČNOSTI M2
+Prema obliku utezi razreda točnosti M2 dijele se na cilindrične i paralelopipedne, a upotrebljavaju se za vaganje roba, proizvoda i sl.
+1.1. Cilindrični utezi
+1.1.1. Nazivne mase cilindričnih utega su: 1 g, 2 g, 5 g, 10 g, 20 g, 50 g, 100 g, 200 g, 500 g, 1 kg, 2 kg, 5 kg, 10 kg i 20 kg.
+1.1.2. Cilindrični utezi izrađuju se od jednog komada u obliku cilindra, a u gornjem dijelu imaju ravnu glavu za dizanje, kao što je prikazano na slikama u Dodatku III.
+1.1.3. Za izradu cilindričnih utega dozvoljena je uporaba svih vrsta gradiva gustoće 7 000 kg/m3 do 9 500 kg/m3 i čvrstoće koja je jednaka ili veća od čvrstoće lijevane mjedi, s otpornošću na koroziju i lomljivošću koja je podjednaka ili veća od otpornosti na koroziju i lomljivosti sivog lijevanog željeza. Površina cilindričnog utega kvalitetom treba odgovarati kvaliteti površine sivog lijevanog željeza, lijevanog u finom pijesku. Za utege mase manje od 100 g nije dozvoljena uporaba sivog lijevanog željeza.
+1.1.4. Cilindrični utezi nazivne mase od 100 g do 20 kg moraju imati šupljinu za namještanje mase.
+Cilindrični utezi nazivne mase od 20 g do 50 g mogu imati šupljinu za namještanje mase.
+Cilindrični utezi nazivne mase od 1 g do 10 g ne smiju imati šupljinu za namještanje mase.
+Pri prvom namještanju mase novih utega približno 1/2 ukupnog obujma šupljine za namještanje mase mora ostati prazna.
+Šupljina za namještanje mase zatvara se mjedenim čepom s navojem ili mjedenim glatkim diskom.
+Mjedeni čep s navojem ima žlijeb za odvrtanje, a mjedeni glatki disk u sredini ima rupu koja služi za vađenje diska.
+Odvrtanje mjedenog čepa i vađenje diska sprječava se olovnom pločicom koja se utiskuje u gornji dio šupljine za namještanje mase, tako da prekrije cijeli čep, odnosno disk.
+1.1.5. Uteg se označuje urezivanjem ili lijevanjem na gornjoj površini utega i mora nositi oznaku razreda točnosti M2 zajedno s oznakom nazivne vrijednosti, prema Dodatku III. Uteg na sebi može nositi i oznaku proizvođača.
+1.1.6. Izmjere i oblik cilindričnih utega prikazane su slikama u Dodatku III. ovisno o postupku lijevanja, a unutarnje izmjere šupljina za namještanje mase prikazane su kao smjernica.
+1.1.7. Ako uteg nije izrađen od nehrđajućeg gradiva, njegova

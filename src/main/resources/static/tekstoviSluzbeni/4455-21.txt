@@ -1,0 +1,41 @@
+ odgovarajuće mjere kako bi se:
+– taj učinak smanjio odgovarajućom konstrukcijom, npr. dodatnom debljinom materijala ili uporabom prevlaka ili platiranjem;
+– omogućila zamjena dijelova koji su najviše oštećeni;
+– u uputama iz točke 3.4. skrenula pozornost na mjere potrebne za stalnu sigurnu uporabu.
+2.8. Sklopovi
+Sklopovi se projektiraju tako da:
+– dijelovi koji se moraju međusobno sastaviti budu pogodni i pouzdani za svoju namjenu;
+– svi dijelovi budu ispravno povezani i sklopljeni na odgovarajući način.
+2.9. Mjere za punjenje i pražnjenje
+Tamo gdje je to primjereno, tlačna oprema konstruirana je i opremljena armaturom ili priključcima za armaturu tako da se osigura sigurno punjenje i pražnjenje, posebno vezano za rizike kao što su:
+(a) prilikom punjenja:
+– prekomjerno punjenje ili prekomjerni tlak, uzimajući posebno u obzir faktor punjenja i tlak pare na referentnoj temperaturi;
+– nestabilnost tlačne opreme;
+(b) prilikom pražnjenja: nekontrolirano pražnjenje fluida pod tlakom;
+(c) prilikom punjenja ili pražnjenja: nesigurno priključivanje ili odvajanje.
+2.10. Zaštita od prekoračenja dopuštenih graničnih vrijednosti za tlačnu opremu
+Kada bi se u predvidljivim uvjetima dopuštene granične vrijednosti mogle prekoračiti, tlačna oprema se opskrbljuje ili ima priključke za odgovarajuće zaštitne uređaje, osim ako je se ne namjerava zaštititi drugim zaštitnim uređajima u okviru sklopa.
+Odgovarajući uređaj ili kombinacija takvih uređaja utvrđena je na temelju karakteristika opreme ili sklopa.
+Odgovarajući zaštitni uređaji ili kombinacije uključuju:
+(a) sigurnosni pribor kao što je opisano u točki 4. članka 2.,
+(b) prema potrebi, odgovarajuće uređaje za praćenje kao što su indikatori i/ili alarmi koji omogućuju automatsko ili ručno aktiviranje kako bi se tlačna oprema zadržala u okviru dopuštenih granica.
+2.11. Sigurnosni pribor
+2.11.1. Sigurnosni pribor je:
+– konstruiran i izrađen tako da bude pouzdan i prikladan za svoju namjenu te da se, prema potrebi, vodi računa o održavanju i zahtjevima za ispitivanje uređaja;
+– neovisan o drugim funkcijama, osim ako na njegovu sigurnosnu funkciju te druge funkcije nemaju utjecaja;
+– u skladu s odgovarajućim načelima konstruiranja kako bi se postigla prikladna i pouzdana zaštita. Ta načela posebno uključuju sigurnosne sustave zaštićene od zakazivanja, zalihost, raznolikost i samodijagnostiku.
+2.11.2. Uređaji za ograničavanje tlaka
+Ovi uređaji konstruiraju se tako da tlak ne može trajno prekoračiti najveći dopušteni tlak PS; međutim, po potrebi je dopušteno kratkotrajno prekoračenje tlaka koje je u skladu sa specifikacijama predviđenim u točki 7.3.
+2.11.3. Uređaji za praćenje temperature
+Ovi uređaji imaju odgovarajuće vrijeme odziva na sigurnosnoj osnovi u skladu s funkcijom mjerenja.
+2.12. Vanjski požar
+Prema potrebi, tlačna se oprema konstruira i primjereno oprema odgovarajućim priborom ili priključcima za taj pribor kako bi udovoljila zahtjevima glede ograničenja štete u slučaju vanjskog požara, posebno uzimajući u obzir njezinu namjenu.
+3. PROIZVODNJA
+3.1. Proizvodni postupci
+Proizvođač se brine za stručnu provedbu mjera utvrđenih u fazi konstruiranja primjenom odgovarajućih tehnika i određenih postupaka, a posebno u pogledu dolje navedenih aspekata.
+3.1.1. Priprema sastavnih dijelova
+Priprema sastavnih dijelova (npr. oblikovanje i skošenje) ne smije uzrokovati oštećenja, pukotine ili promjene u mehaničkim svojstvima koje bi mogle štetiti sigurnosti tlačne opreme.
+3.1.2. Nerastavljivi spojevi
+Nerastavljivi spojevi i područja oko njih ne smiju imati nikakva oštećenja na površini ili unutrašnjosti koja bi štetila sigurnosti opreme.
+Svojstva nerastavljivih spojeva moraju odgovarati minimalnim svojstvima utvrđenima za materijale koji se spajaju osim ako u proračunu nisu posebno uzete u obzir druge odgovarajuće vrijednosti tih svojstava.
+Kod tlačne opreme, nerastavljive spojeve sastavnih dijelova opreme koji pridonose otpornosti opreme na tlak i sastavne spojeve elemenata koji su izravno na nju

@@ -1,0 +1,35 @@
+ Pravilnika i Pravilnika o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.) provodi Agencija na temelju zaprimljenog urednog zahtjeva za brisanje poljoprivrednika koji posluje s hranom za životinje iz Priloga II. ovoga Pravilnika, (u daljnjem tekstu: zahtjev za brisanje).
+(2) Za provedbu postupka brisanja iz stavka 1. ovoga članka poljoprivrednici su obvezni dostaviti u regionalni ured/podružnicu Agencije vlastoručno potpisan i ovjeren od nositelja/odgovorne osobe poljoprivrednika zahtjev za brisanje iz jednog ili više registara u slučaju prestanka obavljanja svih djelatnosti temeljem kojih su upisani u određeni Registar u roku od 30 dana od dana prestanka obavljanja djelatnosti.
+(3) Poljoprivrednici za koje se na temelju rezultata inspekcijskog nadzora i službene kontrole utvrdi da ne ispunjavaju uvjete za upis u jedan ili više registara uspostavljenih temeljem odredbi ovoga Pravilnika i Pravilnika o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.) brišu se po službenoj dužnosti iz odgovarajućeg Registra.
+(4) Poljoprivrednici koji više ne ispunjavaju uvjete za upis u Upisnik poljoprivrednika brišu se po službenoj dužnosti iz svih registara uspostavljenih temeljem odredbi ovoga Pravilnika i Pravilnika o registraciji primarnih proizvođača hrane za životinje (»Narodne novine«, br. 153/11.).
+Članak 12.
+Obrasci zahtjeva iz članka 9. stavaka 1. i 2., članka 10. stavka 3. i članka 11. stavka 1. dostupni su na mrežnoj stranici Agencije na adresi: http://www.apprrr.hr/obrasci-229.aspx.
+VI. REGISTRI
+Članak 13.
+(1) Registar primarnih proizvođača sadrži sljedeće podatke o poljoprivredniku:
+– naziv poljoprivrednika,
+– osobni identifikacijski broj (OIB) poljoprivrednika,
+– ime i prezime nositelja/odgovorne osobe,
+– adresa sjedišta poljoprivrednika (ulica, kućni broj, mjesto i poštanski broj, županija),
+– osobni identifikacijski broj (OIB) nositelja/odgovorne osobe poljoprivrednika,
+– matični identifikacijski broj poljoprivrednika (MIBPG),
+– jedinstveni identifikacijski broj gospodarstva (JIBG),
+– identifikacijska kartica gospodarstva (IKG),
+– adresa gospodarstva (ulica, kućni broj, mjesto i poštanski broj, županija),
+– jedna ili više djelatnosti iz članka 6. ovoga Pravilnika,
+– podatke o načinu stavljanja na tržište poljoprivrednih proizvoda,
+– zabilješka o obavljanju djelatnosti iz članka 8. ovoga Pravilnika u slučaju kada se na gospodarstvu obavlja jedna ili više djelatnosti iz tog članka i dodijeljeni broj ovlaštenja sukladno stavku 3. ovoga članka.
+(2) Upisom u Registar iz stavka 1. ovoga članka primarnom proizvođaču se dodjeljuje identifikacijski broj koji je istovjetan s MIBPG-om iz Upisnika poljoprivrednika.
+(3) Primarnom proizvođaču koji na gospodarstvu obavlja jednu ili više djelatnosti iz članka 8. ovoga Pravilnika i koji podliježu obvezi upisa u Registar ovlaštenih poljoprivrednika dodjeljuje se broj ovlaštenja koji se sastoji od sljedećih elemenata: MIBPG_JIBG_P_O_ redni broj u Registru primarnih proizvođača, pri čemu veliko tiskano slovo »P« označava skraćenicu za Registar primarnih proizvođača, a veliko tiskano slovo »O« je oznaka za ovlaštenje.
+(4) Na temelju dodijeljenog broja ovlaštenja primarni proizvođač upisuje se i u Registar ovlaštenih poljoprivrednika.
+Članak 14.
+(1) Registar sušara sadrži sljedeće podatke o poljoprivredniku:
+– naziv poljoprivrednika,
+– osobni identifikacijski broj (OIB) poljoprivrednika,
+– ime i prezime nositelja/odgovorne osobe,
+– adresa sjedišta poljoprivrednika (ulica, kućni broj, mjesto i poštanski broj, županija),
+– osobni identifikacijski broj (OIB) nositelja/odgovorne osobe poljoprivrednika,
+– matični identifikacijski broj poljoprivrednika (MIBPG),
+– jedinstveni identifikacijski broj gospodarstva (JIBG),
+– identifikacijska kartica gospodarstva (IKG),
+– adresa gospodarstva na kojem se nalazi sušara (ulica, kućni broj, mjesto i poštanski broj, županija) ili u slučaju pokretnih sušara adresa vlasnika sušare i njegov MIBPG,

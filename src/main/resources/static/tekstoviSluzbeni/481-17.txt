@@ -1,0 +1,27 @@
+ vojnu uporabu i posebno izrađen za zapovjedne, komunikacijske, nadzorne i obavještajne (C3I) ili za zapovjedne, komunikacijske, nadzorne, računalne i obavještajne aplikacije (C4I);
+c. »Softver« koji nije naveden u ML21.a. ili b., posebno izrađen ili modificiran za osposobljavanje opreme koja nije navedena u Zajedničkom popisu robe vojne namjene za izvršenje vojnih funkcija opreme navedene u Zajedničkom popisu robe vojne namjene EU-a.
+ML22. »Tehnologija« kako slijedi:
+a. »Tehnologija«, osim one navedene u ML22.b., koja je »potrebna« za »razvoj«, »proizvodnju«, uporabu, ugradnju, održavanje (provjeru), popravak, remont ili obnovu proizvoda navedenih u Zajedničkom popisu robe vojne namjene EU-a.
+b. »Tehnologija« kako slijedi:
+1. »Tehnologija«»potrebna« za projektiranje, održavanje i popravak kompletnih proizvodnih postrojenja za stavke navedene u Zajedničkom popisu robe vojne namjene EU-a, uklapanje komponenti u proizvodna postrojenja i upravljanje njima, čak i ako njihove komponente nisu navedene;
+2. »Tehnologija«»potrebna« za »razvoj« i »proizvodnju« lakog oružja čak i kad se koristi za proizvodnju reprodukcija antikvitetnog lakog oružja;
+3. Ne upotrebljava se od 2013.
+POZOR: Vidi ML22.a. za »tehnologiju« koja je prethodno navedena u ML22.b.3.
+4. Ne upotrebljava se od 2013.
+POZOR: Vidi ML22.a. za »tehnologiju« koja je prethodno navedena u ML22.b.4.
+5. »Tehnologija«»potrebna« isključivo za ugradnju »biokatalizatora« navedenih u ML7.i.1. u vojne noseće supstancije ili vojne materijale.
+Napomena 1.: »Tehnologija«»potrebna« za »razvoj«, »proizvodnju«, uporabu, ugradnju, održavanje (provjeru), popravak, remont ili obnovu proizvoda navedenih u Zajedničkom popisu robe vojne namjene EU-a ostaje pod nadzorom čak i ako se primjenjuje za stavke koje nisu navedene u Zajedničkom popisu robe EU-a vojne namjene.
+Napomena 2.: ML22. ne primjenjuje se na:
+a. »Tehnologiju« koja je minimalno potrebna za ugradnju, uporabu, održavanje (provjeru) ili popravak onih stavki koje nisu kontrolirane ili čiji je izvoz odobren;
+b. »Tehnologiju« koja je »u javnoj domeni«, »temeljnim znanstvenim istraživanjima« ili minimalnim informacijama nužnim za primjenu patenata;
+c. »Tehnologiju« za magnetsku indukciju radi kontinuiranog pogona civilnih transportnih uređaja.
+DEFINICIJE POJMOVA KORIŠTENIH U OVOM POPISU
+Slijede definicije pojmova korištenih u ovom Popisu, po abecednom redu.
+Napomena 1.: Definicije se primjenjuju u cijelom Popisu. Reference su savjetodavne i nemaju učinka na opću primjenu definiranih pojmova u cjelokupnom popisu.
+Napomena 2.: Riječi i pojmovi koje sadrži ovaj popis definicija dobivaju definirano značenje samo ondje gdje se nalaze u »dvostrukim« navodnicima. Definicije izraza u ‚jednostrukim navodnicima’ navedene su u tehničkoj napomeni uz taj izraz. Na svim ostalim mjestima, riječi i pojmovi imaju svoje uobičajeno (rječničko) značenje.
+ML8. »Aditivi«
+Supstancije koje se koriste u eksplozivima za poboljšanje njihovih svojstava.
+ML7. »Agensi za suzbijanje nereda«
+Tvari koje, u očekivanim uvjetima uporabe u svrhu suzbijanja nereda, kod ljudi velikom brzinom proizvode iritaciju osjetila ili onesposobljavajuće fizičke učinke koji nestaju nakon kratkog vremena nakon prestanka izloženosti. (Suzavci su podskupina »agensa za suzbijanje nereda«).
+ML11. »Automatizirani sustavi za zapovijedanje i upravljanje«
+Elektronički sustavi s pomoću kojih se unose, obrađuju i prenose informacije, bitne za učinkovito djelovanje skupine, veće formacije, taktične formacije, postrojbe, broda, podređene postrojbe ili raspoloživih oružnih sustava. To se postiže uporabom računalne i druge specijalizirane opreme namijenjene potpori funkcijama vojnog zapovijedanja ili upravljanja organizacijom. Glavne funkcije automatiziranih sustava za zapovijedanje i upravljanje su: učinkovito automatizirano prikupljanje, čuvanje i obrada podataka; prikaz situacije i okolnosti koje utječu na pripremu i izvođenje borbenih operacija; operativni i taktički proračuni za raspoređivanje

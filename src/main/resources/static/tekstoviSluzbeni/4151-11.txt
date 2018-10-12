@@ -1,0 +1,23 @@
+Napomena A1 – 1: Masa za uprosječenje lokalnog SAR-a iznosi 10 g okolnog tkiva, na ovaj način dobivene najviše SAR vrijednosti koriste se za procjenu izloženosti. Ovih 10 g tkiva predstavlja masu okolnog tkiva s otprilike homogenim električnim svojstvima. Kod utvrđivanja okolne mase tkiva, smatra se da se ovaj koncept može koristiti u računalnoj dozimetriji dok može prouzročiti poteškoće kod izravnih fizikalnih mjerenja. Može se koristiti i jednostavna geometrija poput mase tkiva u obliku kocke ili kugle.
+Granične vrijednosti izloženosti za učinke na osjetila od 0,3 GHz do 6 GHz
+Ove granične vrijednosti za učinke na osjetila (tablica A2.) odnose se na izbjegavanje učinaka na sluh prouzročenih izloženosti glave pulsirajućem mikrovalnom zračenju.
+Tablica A2. Granične vrijednosti izloženosti za učinke na zdravlje za elektromagnetska polja od 0,3 do 6 GHz
+Raspon frekvencije Lokalizirana specifična apsorbirana energija (SA) 0,3 ≤ f ≤ 6 GHz 10 mJkg–1
+Napomena A2-1: Masa za uprosječivanje lokalizirane specifične apsorbirane energije je 10 g tkiva.
+Tablica A3. Granične vrijednosti izloženosti za učinke na zdravlje za elektromagnetska polja od 6 do 300 GHz
+Raspon frekvencije Granične vrijednosti izloženosti za učinke na zdravlje povezane s gustoćom toka snage 6 ≤ f ≤ 300 GHz 50 Wm–2
+Napomena A3-1: Gustoća toka snage uprosječuje se preko bilo kojih 20 cm2 izloženog područja. Najviše prostorne gustoće toka snage uprosječene preko 1 cm2 ne bi trebale prekoračiti vrijednosti 20 puta veće od vrijednosti 50 Wm-2. Gustoće toka snage od 6 do 10 GHz moraju se uprosječiti kroz 6 – minutni interval. Iznad 10 GHz, gustoća toka snage mora se uprosječiti preko 68/f 1,05-minutnog intervala (kod čega je f frekvencija u GHz) kako bi se kompenzirala progresivno kraća dubina prodiranja povećanjem frekvencije.
+A. VRIJEDNOSTI UPOZORENJA (ALs)
+Sljedeće su fizikalne veličine i vrijednosti koriste za utvrđivanje vrijednosti upozorenja (ALs), čije su magnitude utvrđene s ciljem pojednostavnjivanja procesa dokazivanja sukladnosti s odgovarajućim graničnim vrijednostima izloženosti ili poduzimanja odgovarajućih zaštitnih ili preventivnih mjera navedenih u članku 5. ovoga Pravilnika:
+– Vrijednosti upozorenja (ALs(E)) za jakost električnih polja E periodično promjenljivih/izmjeničnih električnih polja kako su utvrđene u tablici B1.,
+– Vrijednosti upozorenja (ALs(B)) za gustoću magnetskog toka B periodično promjenljivih/izmjeničnih električnih polja kako su utvrđene u tablici B1.,
+– Vrijednosti upozorenja (ALs(S)) za gustoću elektromagnetskih valova polja kako su utvrđene u tablici B1.,
+– Vrijednosti upozorenja (AL(IC)) za dodirnu struju kako su utvrđene u tablici B2.,
+– Vrijednosti upozorenja (AL(IL)) za struju u ekstremitetima, kako su utvrđene u tablici B2.
+Vrijednosti upozorenja odgovaraju proračunatimili izmjerenim vrijednostima polja na mjestu rada u odsutnosti radnika, kao najviše vrijednosti s obzirom na položaj tijela ili pojedini dio tijela.
+Vrijednosti upozorena (ALs) za izloženost električnim i magnetskim poljima
+Vrijednosti upozorenja (ALs(E)) i vrijednosti upozorenja (ALs(B)) izvedene su iz specifične apsorbirane snage (SAR) ili graničnih vrijednosti izloženosti za gustoću toka snage (tablice A1. i A3.) na temelju pragova koji se odnose na unutarnje toplinske učinke koji su posljedica (vanjskih) električnih i magnetskih polja.
+Tablica B1. Vrijednosti upozorenja izloženosti električnim i magnetskim poljima od 100 kHz do 300 GHz
+Raspon frekvencije Vrijednosti upozorenja (ALs(E)) za jakost električnog polja [Vm–1] (RMS) Vrijednosti upozorenja (ALs(B)) za gustoću magnetskog toka [μΤ] (RMS) Vrijednosti upozorenja (ALs(S)) za gustoću toka snage [Vm–1] (RMS) 100 kHz ≤ f < 1 MHz 6,1 × 102 2,0 × 106/f – 1 ≤ f < 10 MHz 6,1 × 108/f 2,0 × 106/f – 10 ≤ f < 400 MHz 61 0,2 – 400 MHz ≤ f < 2 GHz 3 × 10–3 f½ 1,0 × 10–5 f½ – 2 ≤ f < 6 GHz 1,4 × 102 4,5 × 10–1 – 6 ≤ f ≤ 300 GHz 1,4 × 102 4,5 × 10–1 50
+Napomena B1 – 1: f je frekvencija izražena u hercima (Hz).
+Napomena

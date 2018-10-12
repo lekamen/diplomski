@@ -1,0 +1,21 @@
+ugrađenim VHF primoodašiljaćem i antenom koja se posebno ugrađuje, mora imati uređaj za pričvršćenje antene u njenom radnom položaju.
+6.13.7.9 Brodica za spašavanje koja se spušta preko boka, mora imati vodilice za spuštanje i bokoštitnike koji olakšavaju spuštanje i ne dopuštaju oštećenje brodice.
+6.13.7.10 Brodica se mora opremiti svjetlom s ručnim prekidačem. Svjetlo mora biti bijele boje i mora raditi neprekidno najmanje 12 sati uz jačinu svjetlosti ne manju od 4.3 cd u svim smjerovima gornje polukugle. Međutim, ako je svjetlo bljeskajuće, mora bljeskati ne manje od 50 i ne više od 70 puta u minuti tijekom 12 sati, uz odgovarajuću jačinu svjetlosti.
+6.13.7.11 Unutar brodice za spašavanje mora biti smješteno vanjsko svjetlo koje se ručno uključuje i isključuje ili drugi izvor svjetlosti za osvjetljavanje noću tijekom najmanje 12 sati, tako da se mogu čitati upute za očuvanje života i obavijest o razmještaju opreme. Za tu namjenu ne smiju se koristiti svjetiljke na ulje.
+6.13.7.12 Brodica za spašavanje mora biti tako izrađena da s mjesta upravljanja brodicom i njezinim kormilom postoji dobra preglednost prema pramcu, krmi i oba boka, da se omogući sigurno spuštanje i manevriranje brodice za spašavanje.
+6.13.8 Oprema brodice za spašavanje
+6.13.8.1 Svi dijelovi opreme brodice za spašavanje moraju biti na pogodan način pričvršćeni na odgovarajućim mjestima, čuvani u kutijama, ili u određenim prostorima. Međutim, ako se brodica za spašavanje spušta s pomoću užadi, čaklje za otiskivanje moraju biti slobodne.
+Oprema se mora tako pričvrstiti da ne ometa osobe pri napuštanju broda. Sva oprema brodice za spašavanje mora biti kompaktna i malih dimenzija zapakirana u prikladnu i čvrstu ambalažu. Ako nije drukčije određeno, brodica za spašavanje mora imati:
+.1 dovoljan broj plutajućih vesala za plovidbu prema naprijed po mirnom moru. Potrebno je predvidjeti palce, rašlje ili neke druge pouzdane uređaje za svako veslo.
+Palci ili rašlje se moraju pričvrstiti uz brodicu uzicom ili lancem;
+.2 dvije čaklje;
+.3 plutajući ispolac i dva kablića;
+.4 upute za očuvanje života (prema IMO Rezoluciji A.657(16));
+.5 kompas s kućištem, svijetleći ili opremljen sredstvom za osvjetljenje. Na potpuno zatvorenoj brodici za spašavanje kompas mora biti ugrađen pored mjesta upravljanja kormilom, a na svim drugim brodicama za spašavanje mora imati kućište, ako je potrebno da ga zaštiti od djelovanja vremenskih nepogoda, kao i odgovarajuća sredstva za pričvršćenje;
+.6 zavlačno sidro sa sidrenim užetom izdržljivim na dinamički otpor, trostruko duljim od brodice i užetom za vraćanje sidra. Čvrstoća zavlačenog sidra, sidrenog užeta i užeta za vraćanje sidra mora odgovarati svim uvjetima na moru;
+.7 dvije privezaljke duljine dvostruke udaljenosti između mjesta smještanja brodice za spašavanje i vodne linije kod stanja najmanjeg operativnog gaza broda, ili 15 m (prema tome što je veće). Na brodicama za spašavanje koje se spuštaju slobodnim padom obje vezaljke moraju se nalaziti blizu pramca spremne za upotrebu. Na drugim brodicama za spašavanje jedna vezaljka pričvršćena za napravu za otpuštanje koja se zahtijeva u 6.13.7.7 mora se postaviti na pramčanom dijelu brodice za spašavanje, a druga mora biti pričvršćena za pramac brodice za spašavanje ili blizu njega, spremna za upotrebu;
+.8 dvije sjekirice, i to po jedna na svakom kraju brodice;
+.9 po 3 l pitke vode kako je opisano u 6.8.5.1.19 po osobi u nepropusnim posudama, ili po 1 l pitke vode po osobi, ako na brodici postoji aparat za pretvaranje morske vode u pitku vodu, koji može osigurati jednaku količinu pitke vode za dva dana ili se 2 l po osobi mogu nadomjestiti sa desalinizatorom na ručni pogon, koji radi na principu osmoze kako je opisano u 6.13.7.5, i koji može proizvesti jednaku količinu pitke vode u dva dana;
+.10 nehrđajuću posudu za grabljenje, s uzicom;
+.11 nehrđajuću graduiranu posudu za pitku vodu;
+.12 količinu hrane opisanu u 6.8.5.1.18 koja ne prelazi 10.000 kJ, upakirane tako da ne propušta zrak,

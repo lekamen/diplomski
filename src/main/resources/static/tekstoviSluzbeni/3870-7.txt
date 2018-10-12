@@ -1,0 +1,41 @@
+ ptice moraju biti pretražene na klamidiozu i neškodljivo uklonjene na način propisan od strane nadležnog veterinarskog inspektora.
+Ovlaštena veterinarska organizacija kojoj se prijavi sumnja na klamidiozu, dužna je obaviti popis jata i opisati jato u kojem se bolest pojavila (vrstu ptica, dob, spol i broj životinja) te poslati na laboratorijsku pretragu cijele svježe lešine, a od živih ptica obrisak konjunktive, ždrijela i kloake (tzv. trojni obrisak) te izmet od 30% ptica iz svakog sumnjivog jata.
+Potvrda bolesti
+Pozitivnim na klamidiozu smatra se jato u kojem je pretragom dostavljenih materijala utvrđena Chlamydophila psittaci, Real Time PCR ili konvencionalnom PCR metodom.
+Kada se utvrdi klamidioza, nadležni veterinarski inspektor mora:
+– zabraniti promet ptica iz zaraženog jata;
+– narediti liječenje cijelog jata;
+– najranije sedam dana po završetku liječenja narediti uzorkovanje i laboratorijsku pretragu jata kako bi se potvrdila učinkovitost provedenog liječenja. Na pretragu po završetku liječenja dostavlja se skupni uzorak izmeta čija količina mora obuhvatiti najmanje 30% jedinki u jatu;
+– narediti neškodljivo uklanjanje uginulih ptica.
+Nakon provedenog liječenja i izlječenja jata:
+– potrebno je provesti čišćenje i završnu dezinfekciju;
+– unošenje novih ptica u uzgoj dozvoljeno je tek nakon provedenog čišćenja i završne dezinfekcije.
+Liječenje klamidioze
+Iako je provedivo, liječenje ptica oboljelih od klamidioze s klinički izraženim znakovima bolesti je teško i ne preporuča se.
+Prije provedbe samog liječenja potrebno se pridržavati sljedećih općih uputa:
+– zaštititi ptice od stresa (premještanje, hladnoća, loši uvjeti držanja i prehrane) zbog umanjujućeg učinka lijekova i moguće pojave sekundarnih bakterijskih infekcija;
+– redovito promatrati i vagati ptice ako se lijek daje u hrani;
+– izbjegavati visoku koncentraciju kalcija (sipina kost, mineralni dodaci u obliku kamena ili drobljenih školjčica) i ostalih kationa u hrani (inhibira resorpciju oralno primijenjenih tetraciklina);
+– po mogućnosti premjestiti ptice u novu, čistu nastambu te svakodnevno provoditi čišćenje;
+– svakodnevno osigurati čistu vodu i vitaminske pripravke;
+– provesti terapiju u cijelosti (ptice mogu izgledati klinički zdravo i smanjiti izlučivanje uzročnika već nakon prvog tjedna terapije);
+– ako je odabran način liječenja putem vode za piće ili hrane potrebno je strogo kontrolirati prohtjev za istima te po potrebi promijeniti način liječenja.
+Lijekovi izbora i način davanja lijeka
+TETRACIKLINI
+U liječenju klamidioze najčešće se koristi doksiciklin (bolje se apsorbira i sporije izlučuje iz organizma nego drugi tetraciklini, što omogućuje da se lijek daje u manjim dozama) te klortetraciklin i oksitetraciklin.
+Moguće nuspojave primjene lijeka su: depresija, smanjena aktivnost, smanjen apetit te urin žutozelene boje. Ako se pojavi bilo koji od ovih simptoma, liječenje treba odmah prekinuti.
+Primjena lijeka provodi se na jedan od sljedećih načina:
+a. Per os
+– Davanje lijeka u hrani
+Potrošnju hrane treba svakodnevno pratiti, a ako se daje nova hrana u koju će se umiješati lijek, moramo biti sigurni da ju je ptica prihvatila (npr. pokušati hranu davati nekoliko dana prije nego li se lijek umiješa). U velikim uzgojima najčešće se daje klortetraciklin u dozi 2500 do 5000 ppm umiješan u hranu tijekom 45 dana.
+– Davanje lijeka u vodi
+U liječenju se najčešće koristi doksiciklin hiklat.
+Doze preporučene prema vrstama ptica su:
+Tigrice: ovaj način liječenja najčešće je neučinkovit;
+Nimfe: 200 – 400 mg doksiciklin hiklata na 1 l vode;
+Kakadui, amazone: 400 – 600 mg doksiciklin hiklata na 1 l vode;
+Afričke sive papige: 800 mg doksiciklin hiklata na 1 l vode;
+Ostale vrste: srednja doza 400 mg doksiciklin hiklata na 1 l vode;
+Golubovi: 500 mg na 1 l vode.
+– Davanje lijeka direktno u kljun (sondiranjem ili kapaljkom)
+Doksiciklin je lijek izbora kada se može primijeniti pojedinačna per os terapija, bilo u obliku monohidrata ili sirupa. Zato je potrebno dati sadržaj

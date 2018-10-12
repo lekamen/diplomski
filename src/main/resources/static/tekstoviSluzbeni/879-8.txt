@@ -1,0 +1,25 @@
+ dodjeli sredstava, obvezan je u roku od 30 dana osobno ili putem preporučene pošiljke s povratnicom dostaviti izrađenu LRS na CD-u/DVD-u, kao i odluku upravnog (izvršnog) tijela o usvajanju LRS, sukladno članku 9. stavku 3. ovoga Pravilnika.
+(14) Odabrani korisnik obvezan je podnijeti konačni zahtjev za isplatu u roku do 30 dana nakon što odabranom korisniku prestane mogućnost ostvarivanja potpore iz članka 7., točke 2. ovoga Pravilnika i to za troškove nastale od datuma isteka tromjesečja nakon kojeg je podnesen prethodni zahtjev za isplatu do datuma isteka mogućnosti ostvarivanja potpore iz članka 7., točke 2. ovoga Pravilnika, a sukladno članku 5. stavku 11. ovoga Pravilnika.
+(15) Za nepotpuni zahtjev za isplatu Agencija za plaćanja će donijeti zahtjev za dopunu/obrazloženje/ispravak kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom pošiljkom ili osobno u Agenciju za plaćanja u roku od pet radnih dana od dana zaprimanja zahtjeva za dopunu/obrazloženje/ispravak. Ukoliko tražena dokumentacija ne bude poslana u zadanom roku smatrat će se da je korisnik odustao od dijela iznosa potpore za koji dokumentacija nije dostavljena.
+(16) Vremenom zaprimanja zahtjeva za dopunu/obrazloženje/ispravak smatra se dan kada korisnik zaprimi preporučenu pošiljku.
+(17) Ukoliko korisnik nije preuzeo zahtjev za dopunu/obrazloženje/ispravak prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ukoliko korisnik ne preuzme zahtjev za dopunu niti nakon ponovljene dostave, zahtjev za dopunu će se objaviti na oglasnoj ploči u sjedištu Agencije za plaćanja te će se dostava smatrati obavljenom istekom osmoga dana od dana stavljanja Zahtjeva za dopunu na oglasnu ploču.
+(18) Za plaćanja izvršena u stranoj valuti u svrhu odobrenja zahtjeva za isplatu obračunat će se:
+– protuvrijednost u kunama po tečaju Europske komisije (ECB), u mjesecu zaprimanja Zahtjeva za isplatu iskazanom na šest decimala (navedeni tečaj se može dobiti na http://ec.europa.eu/budget/inforeuro/),
+– u slučaju da je odabrani korisnik kupio strana sredstva plaćanja po nižem tečaju od ECB u mjesecu zaprimanja zahtjeva za isplatu iskazanom na šest decimala, isplata potpore temeljit će se na ostvarenom tečaju.
+(19) Ukoliko se tijekom obrade zahtjeva za isplatu utvrdi ukupna nepravilnost, uzimajući u obzir i nepravilnosti utvrđene u prethodnim zahtjevima za isplatu, koja ne prelazi iznos od 50 % ukupne vrijednosti odobrenih sredstava javne potpore, Agencija za plaćanja će odbiti iznos nepravilnog troška od zahtjeva za isplatu i donijeti odluku o isplati u kojoj će ukupan iznos biti umanjen za iznos nepravilnog troška utvrđen u tom zahtjevu za isplatu.
+Donošenje odluka
+Članak 21.
+(1) Nakon provjere zahtjeva za isplatu s pripadajućom dokumentacijom Agencija za plaćanja će donijeti:
+1. Odluku o isplati ili
+2. Odluku o odbijanju zahtjeva za isplatu.
+(2) Odluka o odbijanju zahtjeva za isplatu donosi se zbog:
+1. neispunjavanja uvjeta propisanih ovim Pravilnikom, odnosno Natječajem,
+2. neprihvatljivosti aktivnosti i/ili svih troškova navedenih u listi prihvatljivih troškova propisanoj Natječajem za koje se traži potpora u obveznim zahtjevima za isplatu,
+3. nedostavljanja obveznih zahtjeva za isplatu u roku propisanim ovim Pravilnikom,
+4. onemogućavanja obavljanja kontrole na terenu,
+5. nedostavljanja izrađene LRS i odluke o prihvaćanju iste sukladno članku 9. stavku 3. ovoga Pravilnika,
+6. korištenja opreme na način koji nije u skladu s njegovom namjenom,
+7. utvrđenih razlika između dokumenata priloženih uz zahtjev za isplatu i dokumenata zatečenih u kontroli na terenu,
+8. ukoliko su troškovi za koje je podnesen zahtjev za isplatu financirani drugim sredstvima proračuna EU,
+9. nedostavljanja dokumentacije navedene u članku 20. stavku 15. ovoga Pravilnika u roku propisanom Pravilnikom ukoliko se dopuna/obrazloženje/ispravak odnosi na obvezne zahtjeve za isplatu u cijelosti,
+10. korištenja 

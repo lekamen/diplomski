@@ -1,0 +1,27 @@
+ požara i evakuacijske putove za svo osoblje nuklearne elektrane.
+3.4 Analiza opasnosti od požara
+(1) Zaštita od požara u nuklearnoj elektrani treba se dokazati analizom opasnosti od požara, koja treba biti ažurirana pri bilo kojoj većoj modifikaciji ili najmanje svake dvije godine.
+(2) Analiza opasnosti od požara treba potvrditi:
+a) ostvarivanje svih ciljeva zaštite od požara,
+b) poštivanje projektnih načela zaštite od požara,
+c) pravilno projektiranje mjera zaštite od požara i
+d) prikladnu provedbu svih potrebnih administrativnih mjera.
+(3) Deterministički dio analize zaštite od požara treba uključivati, kao minimum:
+a) pojedinačne požare kao i njihovo širenje na svim lokacijama gdje se zapaljivi materijali čuvaju privremeno ili trajno u svim stanjima postrojenja, uključujući i stanje obustave reaktora;
+b) moguće kombinacije požara i drugih pretpostavljenih inicijalnih događaja koji se mogu dogoditi neovisno o požaru.
+(4) Analiza opasnosti od požara treba pokazati način sagledavanja svih posljedica požara ili suzbijanje požara.
+(5) Analiza opasnosti od požara treba također sadržavati vjerojatnosnu sigurnosnu analizu opasnosti od požara; ova analiza treba biti dio razine jedan vjerojatnosne sigurnosne analize. Ova analiza treba verificirati prikladnost aranžmana i mjera zaštite od požara te procijeniti rizike od požara.
+3.5 Sustavi zaštite od požara
+Projektom je potrebno osigurati sukladnost sustava zaštite od požara sa sljedećim zahtjevima:
+a) Svaki protupožarni sektor ili protupožarni odjeljak treba biti opremljen vatrodojavnim detektorima i alarmnim uređajima; kontrolna soba treba biti opremljena alarmnim sustavima koji će ukazati na prisutnost i mjesto požara. Sustav treba biti priključen na izvor neprekidnog napajanja kablovima otpornim na požar.
+b) Nuklearna elektrana treba biti opremljena stacionarnim ili prijenosnim, automatskim ili ručnim protupožarnim aparatima. Trebaju biti projektirani tako da se spriječi njihovo nepoželjno djelovanje, i u slučaju djelovanja i u slučaju kvara, na ostvarivanje funkcija sigurnosnih SSK.
+c) U vododistribucijskoj petlji vanjskih protupožarnih hidranata i protupožarne slavine unutar zgrada potrebno je osigurati odgovarajuću pokrivenost sigurnosnih područja postrojenja. Pokrivenost treba biti potkrijepljena u analizi opasnosti od požara.
+d) Ventilacijski sustav treba biti izveden na način da se održi odvajanje između protupožarnih sektora u slučaju požara.
+e) Vanjski dijelovi ventilacijskih sustava trebaju imati protupožarna svojstva jednaka dijelovima unutar protupožarnih sektora, ili kao alternativa, vanjski dijelovi trebaju biti osigurani s protupožarnim prigušivačima kako bi osigurali svoju izolaciju.
+3.6 Nadzor i održavanje protupožarnog sustava
+(1) Za potrebe zaštite od požara zaštite nositelj odobrenja treba provesti odgovarajuće procedure za praćenje količine zapaljivih materijala te njihovo smanjivanje na najmanju moguću mjeru te za smanjivanje potencijalnih izvora požara koji bi mogli utjecati na sigurnosne SSK na najmanju moguću mjeru.
+(2) Nositelj odobrenja dužan je donijeti i provoditi procedure kako bi se osigurala provodivost mjera zaštite od požara.
+(3) Nositelj odobrenja dužan je provesti procedure za inspekciju, održavanje i provjeru protupožarnih prepreka, sustava za otkrivanje požara i sustava za gašenje.
+3.7 Protupožarna organizacijska struktura
+(1) Nositelj odobrenja dužan je provesti mjere nadzora i osiguravanja zaštite od požara u skladu s nalazima analize opasnosti od požara. Mjere trebaju uključivati imenovanje osobe odgovorne za sigurnost od požara i postavljanje uvjeta za kontrolu svih procesa koji bi mogli utjecati na zaštitu od požara.
+(2) Nositelj odobrenja dužan je izraditi planove djelovanja u slučaju požara i ažurirati ih najmanje svake dvije godine, te osigurati redovnu obuku za njihovo provođenje. Tim planovima potrebno je predvidjeti mjere u svim područjima gdje požar može utjecati na sigurnosnu opremu nuklearne elektrane ili zaštitu radioaktivnih

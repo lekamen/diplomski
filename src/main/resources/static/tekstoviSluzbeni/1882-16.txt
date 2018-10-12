@@ -1,0 +1,24 @@
+»Manevriranje zabranjeno«:
+– ako dođe do oslobađanja kontroliranog odsjeka ispred promatranog signala,
+– ako se zauzme pa oslobodi kontrolirani odsjek iza promatranog signala.
+(3) U specijalnom slučaju kada se manevarski vozni put sastoji od samo jednog kontroliranog odsjeka onda startni signal signalizira SZ »Manevriranje zabranjeno« nakon zauzimanja tog kontroliranog odsjeka i isteka vremena za automatsko razrješenje tog voznog puta definiranog projektom. Primjenjuje se isti uvjeti kao i za vozni put vlaka.
+Blokiranje manevarskog voznog puta
+Članak 49.
+(1) Blokiranje elemenata manevarskog voznog puta znači da se nikakvim djelovanjem, osim razrješenjem manevarskog voznog puta, ne može promijeniti stanje istih. Moguć je samo prinudni prelazak u redovni SZ graničnih kolosiječnih signala i manevarskih signala za zaštitu voznog puta koji signaliziraju dopuštenu vožnju.
+(2) Blokiranje manevarskog voznog puta znači da se stanje manevarskog voznog puta može promijeniti samo manevarskom vožnjom ili prisilnim djelovanjem s upravljačkog sučelja. Ovo se zove razrješenje ili prinudno razrješenje.
+(3) Skretnica mora biti blokirana u pravilnom položaju u manevarskom voznom putu (prevožena skretnica) i u bočnoj zaštiti. U bočnoj zaštiti blokirana je uz izuzetke navedene u ovom Pravilniku.
+(4) Glavne signale, granične kolosiječne signale i manevarske signale za zaštitu voznog puta unutar manevarskog voznog puta i područja bočne zaštite ESSU mora blokirati kako bi se onemogućilo postavljanje nesukladnog voznog puta ili manevarskog voznog puta.
+Razrješenje manevarskog voznog puta
+Članak 50.
+(1) Elementi voznog puta (skretnice i kontrolirani odsjeci) u voznom putu između startnog i ciljnog signala deblokiraju se pojedinačno, nakon prevoženja. Vrijede isti uvjeti kao kod voznog puta.
+(2) Elementi bočne zaštite deblokiraju se nakon deblokade skretnice (križišta) kojoj pružaju bočnu zaštitu, uz izuzetke navedene u ovom pravilniku.
+(3) Kontrolirani odsjeci moraju biti zauzimani i oslobađani manevarskim sastavom tako da prethodni kontrolirani odsjek ne može biti oslobođen, ako naredni nije zauzet.
+(4) Prinudno razrješenje manevarskog voznog puta može se napraviti bez ikakvih uvjeta. Prinudno razrješenje mora biti registrirano u zapisu događaja ESSU.
+1.2.4 SSU za osiguranje prometa u međukolodvorskom području
+Automatski pružni blok
+Članak 51.
+(1) Uređaj automatskog pružnoga bloka (APB) mora omogućavati siguran promet uzastopnih vlakova između dvaju susjednih kolodvora po istom kolosijeku, te onemogućavati postavljanje voznih putova istodobnih vožnji vlakova suprotnoga smjera po istom kolosijeku između dvaju susjednih kolodvora. Signalni znak svakoga prostornog signala mora biti u ovisnosti s kontrolom slobodnosti i zauzetosti pripadajućeg prostornog odsjeka te sa signalnim znakovima sljedećega prostornog signala. Signalni znakovi mijenjaju se automatski kada vlak naiđe na određene elemente na pruzi.
+(2) Među izlaznim signalima susjednih kolodvora mora postojati takva tehnička ovisnost da je izlazni vozni put moguće postaviti samo iz kolodvora koji ima privolu te da se privola ne može dobiti dok je postavljen izlazni vozni put iz suprotnoga smjera.
+(3) Međukolodvorski odsjek mora biti podijeljen na potreban broj prostornih odsjeka kako bi se na jednom međukolodvorskom odsjeku omogućilo sigurno kretanje dvaju ili više uzastopnih vlakova. Broj i raspored prostornih odsjeka za svaku pružnu dionicu određuje se projektnom dokumentacijom.
+(4) Na jednokolosiječnim prugama uređaj APB-a mora biti izveden tako da omogućava promet vlakova u oba smjera. Na dvokolosiječnim prugama uređaj APB-a omogućava promet vlakova u jednom smjeru po pravilnom kolosijeku. Kada je to potrebno, na određenim međukolodvorskim odsjecima dvokolosiječnih pruga uređaj APB-a može biti izveden tako da omogućava promet vlakova po pravilnom i nepravilnom kolosijeku (obostrani promet).
+(5) Na jednokolosiječnim i dvokolosiječnim prugama s obostranim prometom mora biti omogućena promjena

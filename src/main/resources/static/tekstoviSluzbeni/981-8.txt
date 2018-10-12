@@ -1,0 +1,27 @@
+ troška životnog ciklusa za krajnje korisnike za reprezentativne modele proizvoda, uzimajući u obzir posljedice na druge ekološke aspekte. Metoda troška analize životnog ciklusa koristi stvarnu diskontnu stopu na temelju podataka dobivenih od Europske središnje banke i stvarni životni vijek proizvoda; temelji se na zbroju varijacija nabavne cijene (koja je posljedica varijacija u industrijskim troškovima) i u pogonskim troškovima, koji su posljedica različitih razina mogućnosti tehničkih poboljšanja, diskontiranih tijekom životnog vijeka razmatranih reprezentativnih modela proizvoda. Pogonski troškovi obuhvaćaju prvenstveno potrošnju energije i dodatne troškove u drugim resursima (npr. vodu ili deterdžent).
+Mora se provesti analiza osjetljivosti koja obuhvaća relevantne faktore kao što su cijena energije ili drugog resursa, trošak sirovina ili proizvodni troškovi, i prema potrebi vanjske ekološke troškove, uključujući izbjegavane emisije stakleničkih plinova, da se provjeri postoje li znatne promjene i jesu li sveukupni zaključci pouzdani. Zahtjev će se shodno tome prilagoditi.
+Slična metodologija mogla bi se primijeniti na druge resurse, npr. na vodu.
+2. Za razvoj tehničkih, ekoloških i ekonomskih analiza, mogu se koristiti informacije koje su na raspolaganju u okviru drugih aktivnosti Europske unije.
+Isto se odnosi na informacije koje su na raspolaganju u drugim krajevima svijeta u okviru postojećih programa za utvrđivanje posebnih zahtjeva za eko-dizajn proizvoda s kojima trguju gospodarski partneri Europske unije.
+3. Datum stupanja zahtjeva na snagu mora uzeti u obzir ciklus redizajna proizvoda.
+PRILOG III.
+OZNAKA »CE« (iz članka 5. stavka 2.)
+
+Oznaka »CE« mora biti visine od najmanje 5 mm. Ako se oznaka »CE« smanjuje ili povećava moraju se poštovati omjeri iz gornjeg mrežastog crteža.
+Oznaka »CE« mora biti pričvršćena na proizvod povezan s energijom. Ako to nije moguće, mora biti pričvršćena na ambalažu i popratne dokumente.
+PRILOG IV.
+UNUTARNJA KONTROLA DIZAJNA (iz članka 8. stavka 2.)
+1. Ovaj Prilog opisuje postupak kojim proizvođač ili njegov ovlašteni zastupnik, koji izvršava obveze utvrđene u točki 2. ovog Priloga jamči i izjavljuje da proizvod povezan s energijom zadovoljava odgovarajuće zahtjeve primjenjive provedbene mjere. EU Izjava o sukladnosti može obuhvatiti jedan ili više proizvoda i dužan ju je čuvati proizvođač.
+2. Proizvođač će sastaviti tehničku dokumentaciju koja omogućava ocjenjivanje sukladnosti proizvoda povezanog s energijom sa zahtjevima primjenjive provedbene mjere.
+Tehnička dokumentacija mora sadržavati:
+(a) opći opis proizvoda povezanog s energijom i njegovu namjeravanu uporabu;
+(b) rezultate relevantnog ekološkog ocjenjivanja koje je izvršio proizvođač i/ili upute na literaturu o ekološkim ocjenama ili analize slučaja, koje proizvođač koristi pri ocjeni, dokumentiranju i određivanju rješenja u dizajnu proizvoda;
+(c) ekološki profil, ako ga zahtijeva provedbena mjera;
+(d) elemente specifikacija dizajna proizvoda u vezi s aspektima ekološkog dizajna proizvoda;
+(e) popis odgovarajućih normi iz članka 10. koje se primjenjuju u potpunosti ili djelomično, i opis rješenja donesenih da se zadovolje zahtjevi primjenjive provedbene mjere kad nisu primijenjene norme iz članka 10. ili kad te norme ne obuhvaćaju u potpunosti zahtjeve primjenjive provedbene mjere;
+(f) kopiju informacija u vezi s ekološkim aspektima dizajna proizvoda koje se osiguravaju u skladu sa zahtjevima navedenima u dijelu 2. Priloga I.; i
+(g) rezultate izvršenih mjerenja u skladu sa zahtjevima za eko-dizajn, uključujući pojedinosti o sukladnosti tih mjera u usporedbi sa zahtjevima za eko-dizajn koji su navedeni u primjenjivoj provedbenoj mjeri.
+3. Proizvođač mora poduzeti sve potrebne mjere da osigura proizvodnju proizvoda u skladu sa specifikacijama dizajna iz točke 2. i sa zahtjevima mjere koja se primjenjuje.
+PRILOG V.
+SUSTAV UPRAVLJANJA ZA OCJENJIVANJE SUKLADNOSTI (iz članka 8. stavka 2.)
+1. Ovaj Prilog opisuje postupak pomoću

@@ -1,0 +1,35 @@
+ odabira ne raspolaže potrebnom stručnošću ili poslovnim iskustvom potrebnim za vođenje stečajnoga postupka, za stečajnoga upravitelja može izabrati drugu osobu s liste A stečajnih upravitelja za područje nadležnoga suda.
+(3) Ministar nadležan za poslove pravosuđa propisat će pravilnikom pretpostavke i način izbora stečajnoga upravitelja metodom slučajnoga odabira.
+Imenovanje stečajnoga upravitelja
+Članak 85.
+(1) Na temelju izbora stečajnoga upravitelja u skladu s člankom 84. ovoga Zakona sud imenuje stečajnoga upravitelja rješenjem o otvaranju stečajnoga postupka.
+(2) Iznimno od stavka 1. ovoga članka, ako je u predstečajnom postupku koji je prethodio stečajnom postupku imenovan povjerenik ili je u stečajnom postupku imenovan privremeni stečajni upravitelj, sud će povjerenika odnosno privremenoga stečajnog upravitelja imenovati stečajnim upraviteljem.
+(3) Obrazloženje odluke o imenovanju mora sadržavati način izbora stečajnoga upravitelja i razloge ako je izabran na temelju odredbe članka 84. stavka 2. ovoga Zakona.
+(4) Odluka o imenovanju stečajnoga upravitelja može se pobijati žalbom protiv rješenja o otvaranju stečajnoga postupka.
+(5) Ako se žalbom protiv rješenja o otvaranju stečajnoga postupka pobija odluka o imenovanju stečajnoga upravitelja, prvostupanjski sud može povodom žalbe donijeti odluku o imenovanju novoga stečajnog upravitelja u roku od tri dana.
+(6) Protiv rješenja suda o imenovanju novoga stečajnog upravitelja dopuštena je žalba.
+Izjava stečajnoga upravitelja i potvrda o imenovanju
+Članak 86.
+(1) Prije prihvaćanja dužnosti stečajni upravitelj će pred sudom dati izjavu da će savjesno, držeći se Ustava, zakona i pravnoga poretka Republike Hrvatske, obavljati svoju dužnost.
+(2) Nakon davanja izjave iz stavka 1. ovoga članka sud će stečajnom upravitelju predati potvrdu o imenovanju u kojoj je navedeno da je rješenjem o otvaranju stečajnoga postupka imenovan za stečajnoga upravitelja određenoga stečajnog dužnika.
+(3) Stečajni upravitelj dužan je odmah nakon prestanka obavljanja dužnosti vratiti sudu potvrdu o imenovanju.
+Imenovanje drugoga stečajnog upravitelja
+Članak 87.
+(1) Na prvom ili kojem kasnijem ročištu nakon imenovanja stečajnoga upravitelja skupština vjerovnika može umjesto stečajnoga upravitelja kojeg je imenovao sud izabrati drugoga stečajnog upravitelja.
+(2) Smatrat će se da je na skupštini vjerovnika odluka iz stavka 1. ovoga članka donesena ako je za izbor drugoga stečajnog upravitelja glasovala većina iz članka 105. stavka 2. ovoga Zakona.
+(3) Sud donosi rješenje kojim potvrđuje imenovanje drugoga stečajnog upravitelja. Ako sud ne donese rješenje u roku od tri dana, smatrat će se da je potvrdio imenovanje stečajnoga upravitelja.
+(4) Sud ne može odbiti potvrditi imenovanje stečajnoga upravitelja kojeg je izabrala skupština vjerovnika.
+(5) Novoimenovanom stečajnom upravitelju sud će predati potvrdu o imenovanju nakon davanja izjave iz članka 86. stavka 1. ovoga Zakona.
+(6) Predajom potvrde o imenovanju prestaju ovlaštenja prijašnjem stečajnom upravitelju.
+(7) Prijašnji stečajni upravitelj dužan je predati svoje dužnosti novom stečajnom upravitelju u roku od tri dana.
+(8) Sud će zaključkom odrediti potrebne mjere radi ostvarenja primopredaje dužnosti između stečajnih upravitelja.
+Ovlaštenja stečajnoga upravitelja
+Članak 88.
+(1) Stečajni upravitelj ima prava i obveze tijela dužnika pravne osobe, ako ovim Zakonom nije drukčije određeno.
+(2) Ako stečajni dužnik nastavlja poslovati tijekom stečajnoga postupka u skladu s člankom 217. stavkom 2. ovoga Zakona, poslovanje vodi stečajni upravitelj.
+(3) Stečajni upravitelj zastupa dužnika.
+(4) Stečajni upravitelj vodi samo one poslove dužnika pojedinca koji se odnose na stečajnu masu i zastupa ga kao stečajnoga dužnika s ovlaštenjima zakonskoga zastupnika.
+Dužnosti stečajnoga upravitelja
+Članak 89.
+(1) Stečajni upravitelj dužan je postupati savjesno i uredno, a osobito:
+1. dovesti u red očevidnik knjigovodstvenih podataka do dana otvaranja stečajnoga postupka

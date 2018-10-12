@@ -1,0 +1,36 @@
+ Ždrelac jest morski prostor omeđen spojnicama točaka:
+Točka                 Bessel-LAT(φ)                     Bessel-LONG(λ)
+1                         44˚00’46,7836”N                  15˚15’18,1140”E
+2                         44˚00’46,2241”N                  15˚15’20,6292”E
+3                         44˚00’55,4474”N                  15˚15’24,3344”E
+4                         44˚00’59,8230”N                  15˚15’23,5847”E
+5                         44˚00’59,3525”N                  15˚15’26,9420”E
+Točka                 WGS 84-LAT(φ)                 WGS 84-LONG(λ)
+1                         44˚00’46,5966”N                 15˚15’01,1573”E
+2                         44˚00’46,0373”N                 15˚15’03,6723”E
+3                         44˚00’55,2597”N                 15˚15’07,3764”E
+4                         44˚00’59,6347”N                 15˚15’06,6266”E
+5                         44˚00’59,1643”N                 15˚15’09,9835”E
+(2) Prednost u plovidbi prolazom Mali Ždrelac imaju brod, jahta i brodice koji uplovljavaju sa sjeveroistočne strane.
+(3) Iznimno od stavka 3. ovoga članka, putnički brod u redovnoj liniji s objavljenim redom plovidbe ima prednost u odnosu na sve druge plovne objekte.
+(4) Brod i jahta dok plovi prolazom ne smije, osim u slučaju nužde ili sigurnog manevriranja, pretjecati drugi brod odnosno jahtu ili ploviti brzinom koja može izazvati valove koji mogu nanijeti štetu brodovima i drugim objektima u prolazu Mali Ždrelac, te ne smije ploviti brzinom većom od 8 čvorova, i koliko god je to sigurno i izvedivo, mora se držati uz vanjski rub kanala odnosno plovnog puta koji se nalazi s njegove desne strane.
+(5) Brodice te jahte do 30 BT, bez obzira na smjer plovidbe, ne smiju ometati plovidbu broda.
+(6) Brod i jahta dužni su prije uplovljavanja u prolaz Mali Ždrelac dati dugi zvučni signal i najaviti prolazak na VHF radijskom kanalu VTS sektora.
+(7) Zabranjeno je sidrenje, jedrenje, zadržavanje i ribolov u prolazu Mali Ždrelac, te neposredno pred ulazom i izlazom iz prolaza.
+Članak 50.d
+(1) Zaljev Mali Lošinj jest morski prostor koji obuhvaća područje čija je morska granica spojnica pomorskih svjetala rt Tornuza i rt Križ, otočić Koludarc.
+(2) Prilaz području iz stavka 1. ovog članka obuhvaća područje omeđeno spojnicama točaka: pomorsko svjetlo rt Tornuza – pomorsko svjetlo rt Križ – pomorsko svjetlo otočić Murtar – pomorsko svjetlo otočić Zabodaski – rt Salzina – pomorsko svjetlo rt Tornuza.
+(3) Na udaljenosti 300 metara od prilaza području iz stavka 2. ovog članka sva plovila dužna su ploviti brzinom ne većom od 12 čvorova.
+(4) U prilazu zaljeva Mali Lošinj iz stavka 2. ovog članka svi plovni objekti dužni su ploviti brzinom ne većom od 10 čvorova.
+(5) U području iz stavka 1. ovoga članka od ulaza u zaljev Mali Lošinj (rt Tornuza – rt Križ) do prolaza subočice pomorskom svjetlu Poljana svi plovni objekti dužni su ploviti brzinom ne većom od 8 čvorova.
+(6) U području iz stavka 1. ovoga članka od prolaza subočice pomorskom svjetlu Poljana do prolaza subočice prolazu Privlaka svi plovni objekti dužni su ploviti brzinom ne većom od 6 čvorova.
+(7) U području luke Mali Lošinj, prolaskom subočice prolazu Privlaka svi plovni objekti dužni su ploviti najmanjom sigurnosnom manevarskom brzinom ne većom od 5 čvorova.
+(8) Iznimno, lučka kapetanija može rješenjem za određene vrste brodova odrediti i drugačiji režim plovidbe.
+(9) Režim plovidbe iz stavka 8. ovog članka utvrđuje nadležna lučka kapetanija neposrednim opažanjem, te objavljuje u službenim pomorskim navigacijskim kartama i publikacijama.«
+Članak 5.
+Iznad članka 58. naziv glave II. dijela četvrtog mijenja se i glasi: »Glava II. Sustav VTS usluga« ispod koje se dodaje »Poglavlje 1. VTS usluge«.
+Članak 6.
+U članku 58. stavku 3. riječi: »navigacijskim kartama i priručnicima Hrvatskog hidrografskog instituta« zamjenjuju se riječima »pomorskim navigacijskim kartama i publikacijama«.
+Članak 7.
+U članku 61. iza stavka 6. dodaju se novi stavci 7. i 8. koji glase:
+»(7) Brodovi 

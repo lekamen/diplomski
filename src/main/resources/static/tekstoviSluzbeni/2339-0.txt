@@ -1,0 +1,31 @@
+123 11.11.2015 Pravilnik o energetskom pregledu za velika poduzeća
+MINISTARSTVO GOSPODARSTVA
+2340
+Na temelju članka 19. stavka 1. Zakona o energetskoj učinkovitosti (»Narodne novine«, broj 127/2014), ministar gospodarstva, uz suglasnost ministra graditeljstva i prostornog uređenja donosi
+PRAVILNIK
+O ENERGETSKOM PREGLEDU ZA VELIKA PODUZEĆA
+Članak 1.
+(1) Ovim Pravilnikom propisuje se način provođenja energetskog pregleda za velika poduzeća (u daljnjem tekstu: energetski pregled), uvjeti izdavanja i ukidanja ovlaštenja za energetske preglede za velika poduzeća, sadržaj i način vođenja registra, sadržaj izvješća o energetskim pregledima za velika poduzeća i druge obveze vezane uz provođenje energetskog pregleda za velika poduzeća.
+(2) Odredbe ovoga Pravilnika koje se odnose na način provođenja energetskog pregleda iz stavka 1. ovoga članka na odgovarajući se način primjenjuju na poslovne cjeline, proizvodne procese i na energetske preglede ostalih poduzeća koja ne udovoljavaju uvjetima za velika poduzeća u skladu sa zakonom kojim se uređuje područje energetske učinkovitosti i ovim Pravilnikom.
+(3) Energetski pregled uključuje i energetski pregled povezanih i ovisnih društava velikih poduzeća.
+(4) Iznimno od stavka 3. ovoga članka, operatori mreže i operatori sustava koji su sastavni dio vertikalno ili horizontalno integriranog poduzeća, energetski pregled provode samostalno.
+Članak 2.
+Ovim se Pravilnikom u zakonodavstvo Republike Hrvatske prenosi Direktiva 2012/27/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o energetskoj učinkovitosti, izmjeni direktiva 2009/125/EZ i 2010/30/EU i stavljanju van snage direktiva 2004/8/EC i 2006/32/EC (Tekst značajan za EGP) (SL L 315, 14. 11. 2012.).
+Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju značenja utvrđena zakonom kojim se uređuje područje energetske učinkovitosti.
+(2) U ovom se Pravilniku koriste i pojmovi koji u smislu ovoga Pravilnika imaju sljedeća značenja:
+1. energenti – smatraju se ulazne količine plina, naftnih derivata, ugljena, obnovljivih izvora energije i sl. za transformaciju u energiju,
+2. građevina – je građenjem nastao i s tlom povezan sklop, izveden od svrhovito povezanih građevnih proizvoda sa ili bez instalacija, sklop s ugrađenim postrojenjem, samostalno postrojenje povezano s tlom ili sklop nastao građenjem,
+3. imenovana osoba – fizička osoba ovlaštena za obavljanje energetskog pregleda koja je zaposlena u pravnoj osobi ovlaštenoj za provedbu energetskog pregleda,
+4. Ministarstvo – ministarstvo nadležno za energetiku,
+5. ovlaštena osoba – fizička ili pravna osoba koja na temelju ovlaštenja Ministarstva provodi energetski pregled,
+6. odgovorna osoba – fizička ili pravna osoba koja naručuje provedbu energetskog pregleda odnosno osoba ovlaštena za zastupanje velikog poduzeća,
+7. sirovina – neobrađeni prirodni resurs koji se koristi kao materijal za obradu u proizvodnji,
+8. velika poduzeća – trgovačka društva koja ispunjavaju barem dva od slijedećih uvjeta: ukupna aktiva od najmanje 130.000.000,00 kuna, godišnji prihod od najmanje 260.000.000,00 kuna, prosječno najmanje 250 radnika tijekom poslovne godine,
+9. Zakon – Zakon o energetskoj učinkovitosti (»Narodne novine«, broj 127/2014),
+10. životni vijek mjere energetske učinkovitosti – razdoblje u kojem se primjenom mjere energetske učinkovitosti ostvaruju uštede energije, a koji je određen pravilnikom kojim se uređuje sustav za praćenje, mjerenje i verifikaciju ušteda energije.
+DUŽNOSTI VELIKIH PODUZEĆA ZA PROVOĐENJE ENERGETSKOG PREGLEDA
+Članak 4.
+(1) Velika poduzeća dužna su provesti energetski pregled na način utvrđen odredbama zakona kojim se uređuje područje energetske učinkovitosti i odredbama ovoga Pravilnika.
+(2) Velika poduzeća provode energetski pregled svake četiri godine.
+(3) Velika poduzeća koja uvedu sustav upravljanja energijom po normi HRN ISO 50001 na temelju certifikata izdanog od strane akreditiranog neovisnog tijela prema relevantnim europskim ili međunarodnim normama, nisu

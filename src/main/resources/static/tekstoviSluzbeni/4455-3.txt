@@ -1,0 +1,28 @@
+ stavljanje;
+– »usklađeno zakonodavstvo Unije« znači svako zakonodavstvo Unije kojim se usklađuju uvjeti za stavljanje proizvoda na tržište.
+Stavljanje na raspolaganje na tržištu i stavljanje u uporabu
+Članak 3.
+(1) Tlačna oprema i sklopovi smiju se staviti na raspolaganje na tržište i u uporabu samo ako zadovoljavaju zahtjeve ovoga Pravilnika, kada su pravilno ugrađeni i održavani te korišteni u predviđene svrhe.
+(2) Drugim propisima mogu se propisati i drugi zahtjevi koji se smatraju nužnima za osiguranje zaštite osoba i posebno radnika pri korištenju tlačne opreme ili sklopa, pod uvjetom da se odredbe tih propisa ne protive odredbama ovoga Pravilnika.
+(3) Na trgovačkim sajmovima, izložbama, predstavljanjima i drugim sličnim događajima ne smije se spriječiti izlaganje tlačne opreme ili sklopova koji nisu u skladu s ovim Pravilnikom, pod uvjetom da vidljiva oznaka jasno označuje kako se takva tlačna oprema ili sklopovi ne mogu staviti na raspolaganje na tržištu i/ili staviti u uporabu dokle god ne budu usklađeni. Tijekom predstavljanja moraju se poduzeti odgovarajuće sigurnosne mjere u skladu sa svim zahtjevima koje je utvrdilo nadležno inspekcijsko tijelo radi osiguranja sigurnosti osoba.
+Tehnički zahtjevi
+Članak 4.
+(1) Sljedeća tlačna oprema mora zadovoljiti osnovne sigurnosne zahtjeve iz Dodatka I. ovoga Pravilnika:
+– posude, osim onih iz drugog podstavka, za:
+1. plinove, ukapljene plinove, pod tlakom otopljene plinove, pare te one kapljevine kod kojih tlak pare na najvišoj dopuštenoj temperaturi prelazi 0,5 bara iznad standardnog atmosferskog tlaka (1013 mbar), u sljedećim granicama:
+a) za fluide Grupe 1. i volumena većeg od 1 L te umnoška PS i V većeg od 25 bar × L ili tlaka PS većeg od 200 bar (Dodatak II., dijagram 1. ovoga Pravilnika);
+b) za fluide Grupe 2. i volumena većeg od 1 L te umnoška PS i V većeg od 50 bar × L ili tlaka PS većeg od 1000 bar te svi prenosivi aparati za gašenje požara i boce za disanje (Dodatak II., dijagram 2. ovoga Pravilnika);
+2. kapljevine kod kojih tlak pare na najvišoj dopuštenoj temperaturi ne prelazi 0,5 bara iznad standardnog atmosferskog tlaka (1013 mbar) u sljedećim granicama:
+a) za fluide Grupe 1. i volumena većeg od 1 L te umnoška PS i V većeg od 200 bar × L ili tlaka PS većeg od 500 bar (Dodatak II., dijagram 3. ovoga Pravilnika);
+b) za fluide Grupe 2. i tlaka PS većeg od 10 bar te umnoška PS i V većeg od 10 000 bar × L ili tlaka PS većeg od 1000 bar (Dodatak II., dijagram 4. ovoga Pravilnika);
+– ložena ili na neki drugi način zagrijavana tlačna oprema kod koje postoji rizik od pregrijavanja, a koja je namijenjena za proizvodnju pare ili vrele vode na temperaturama većim od 110 °C i volumena većeg od 2 L te svi tlačni lonci za kuhanje (Dodatak II., dijagram 5. Ovoga Pravilnika);
+– cjevovodi namijenjeni za:
+1. plinove, ukapljene plinove, pod tlakom otopljene plinove, pare te one kapljevine kod kojih tlak pare na najvišoj dopuštenoj temperaturi prelazi 0,5 bar iznad standardnog atmosferskog tlaka (1013 mbar), u sljedećim granicama:
+a) za fluide Grupe 1. s DN većim od 25 (Dodatak II., dijagram 6. ovoga Pravilnika);
+b) za fluide Grupe 2. s DN većim od 32 te umnoškom PS i DN većim od 1000 bar (Dodatak II., dijagram 7. ovoga Pravilnika);
+2. kapljevine kod kojih tlak pare na najvišoj dopuštenoj temperaturi ne prelazi 0,5 bar iznad standardnog atmosferskog tlaka (1013 mbar) u sljedećim granicama:
+a) za fluide Grupe 1. s DN većim od 25 te umnoškom PS i DN većim od 2000 bar (Dodatak II., dijagram 8. ovoga Pravilnika);
+b) za fluide Grupe 2. i PS većim od 10 bar, a DN većim od 200 te umnoškom PS i DN većim od 5000 bar (Dodatak II., dijagram 9. ovoga Pravilnika).
+– sigurnosni i tlačni pribori namijenjen za opremu obuhvaćenu podstavcima 1., 2. i 3. uključujući i slučajeve kada je ta oprema dio sklopa.
+(2) Sljedeći sklopovi koji uključuju barem jedan element tlačne opreme iz stavka 1. moraju zadovoljavati osnovne sigurnosne zahtjeve iz Dodatka I. ovoga Pravilnika:
+– sklopovi namijenjeni za

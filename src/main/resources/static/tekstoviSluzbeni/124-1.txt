@@ -1,0 +1,30 @@
+ oni projekti u kojima je dva ili više korisnika uključeno u jedan zajednički projekt. Ulaganje se provodi na jednoj lokaciji (osim za ulaganja u nabavu gospodarskih vozila, pokretne opreme i poljoprivredne mehanizacije). Predmet ulaganja koriste svi korisnici zajedničkog projekta. Korisnici sklapaju Ugovor o poslovnoj suradnji kojim definiraju jednog korisnika koji će biti podnositelj Zahtjeva za potporu/isplatu u ime njih.
+n) »Biomasa« je biološki razgradiv dio proizvoda, otpada i ostataka biološkoga podrijetla iz poljoprivrede (uključujući tvari biljnoga i životinjskoga podrijetla), šumarstva i s njima povezanih proizvodnih djelatnosti uključujući ribarstvo i akvakulturu te biološki razgradiv dio industrijskoga i komunalnoga otpada.
+o) »Primarna poljoprivredna proizvodnja« je proizvodnja proizvoda bilinogojstva ili stočarstva te proizvoda prvog stupnja njihove prerade, bez obavljanja dodatnih radnji kojima bi se promijenila priroda tih proizvoda. Popis poljoprivrednih proizvoda naveden je u Prilogu I. ovoga Pravilnika.
+p) »Kraj ulaganja« je dan podnošenja konačnog Zahtjeva za isplatu.
+q) »Javna potpora« je svaki oblik potpore iz javnih izvora Republike Hrvatske i potpora iz proračuna Europskog poljoprivrednog fonda za ruralni razvoj (u daljnjem tekstu: EPFRR).
+r) »Intenzitet potpore« izražen je kao postotni udio javne potpore u prihvatljivim troškovima ulaganja.
+s) »Veliko poduzeće« je subjekt koji se bavi gospodarskom djelatnošću bez obzira na njegov pravni oblik, a koji sukladno kriterijima iz Priloga II. ovoga Pravilnika nije određen u kategoriju mikro, malih i srednjih poduzeća.
+t) »Standardni ekonomski rezultat« (engl. Standard Output – u daljnjem tekstu: SO) predstavlja jediničnu novčanu vrijednost proizvodnje poljoprivrednog proizvoda izraženu u proizvođačkim cijenama na pragu gospodarstva koja ne uključuju potpore i poreze.
+u) »Ekonomska veličina poljoprivrednog gospodarstva« je ukupni SO poljoprivrednog gospodarstva izražen u eurima.
+v) »Ukupni SO poljoprivrednog gospodarstva« je zbroj vrijednosti svih proizvodnji dobiven množenjem SO-a svake pojedine proizvodnje s odgovarajućim brojem jedinica proizvodnje.
+z) »Lista prihvatljivih troškova« je lista troškova prihvatljivih za sufinanciranje unutar podmjere 4.1, a objavljuje se uz Natječaj.
+(2) Ostali pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi uporabljeni u Uredbi (EU) br. 1305/2013).
+Članak 3.
+(1) Upravljačko tijelo Programa je Uprava za upravljanje EU fondom za ruralni razvoj, EU i međunarodnu suradnju (u daljnjem tekstu: Upravljačko tijelo), Ministarstva poljoprivrede (u daljnjem tekstu: Ministarstvo), u skladu s odredbom članka 66. Uredbe (EU) br. 1305/2013).
+(2) Operativnu provedbu Programa obavlja Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja).
+Članak 4.
+Sastavni dio ovoga Pravilnika čine:
+Prilog I. »Popis poljoprivrednih proizvoda obuhvaćenih Dodatkom I Ugovora o EU«,
+Prilog II. »Definicija mikro, malih i srednjih poduzeća (MSP-a)«,
+Prilog III. »Kriteriji odabira Zahtjeva za potporu«,
+Prilog IV. »Označavanje ulaganja sufinanciranih iz proračuna Europske unije«,
+Prilog V. »Specifični kriteriji za ulaganje u poljoprivrednu mehanizaciju«,
+Prilog VI. »Uputa za objavu poziva na dostavu ponuda«,
+Prilog VII. »Popis dokumentacije u slučajevima kad se provodi postupak javne nabave sukladno posebnim propisima koji uređuju to područje te način predaje dokumentacije iz postupka javne nabave na elektronskom mediju (CD-u/DVD-u)«,
+Prilog VIII. »Popis standarda Europske unije«.
+Članak 5.
+U okviru Podmjere 4.1. potpora se dodjeljuje za operacije:
+a) 4.1.1. Restrukturiranje, modernizacija i povećanje konkurentnosti poljoprivrednih gospodarstava (u daljnjem tekstu: Operacija 4.1.1.),
+b) 4.1.2. Zbrinjavanje, rukovanje i korištenje stajskog gnojiva u cilju smanjenja štetnog utjecaja na okoliš (u daljnjem tekstu: Operacija 4.1.2.) i
+c) 4.1.3. Korištenje obnovljivih izvora energije (u daljnjem

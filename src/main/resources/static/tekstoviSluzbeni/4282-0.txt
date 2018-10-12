@@ -1,0 +1,31 @@
+67 20.07.2016 Pravilnik o izmjenama i dopunama Pravilnika o načinu i rokovima provedbe mjera zaštite sigurnosti i cjelovitosti mreža i usluga
+HRVATSKA REGULATORNA AGENCIJA ZA MREŽNE DJELATNOSTI
+1631
+Na temelju članka 12. stavka 1. točke 1. i članka 99. stavka 9. Zakona o elektroničkim komunikacijama (»Narodne novine« 73/08, 90/11, 133/12, 80/13 i 71/14), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 13. srpnja 2016. donosi
+PRAVILNIK
+O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I ROKOVIMA PROVEDBE MJERA ZAŠTITE SIGURNOSTI I CJELOVITOSTI MREŽA I USLUGA
+Članak 1.
+Pravilnik o načinu i rokovima provedbe mjera zaštite sigurnosti i cjelovitosti mreža i usluga (NN br. 109/12, 33/13 i 126/13; dalje: Pravilnik), mijenja se na način da se u članku 1. riječ »Agencije« zamjenjuje se riječima »Hrvatske regulatorne agencije za mrežne djelatnosti (dalje: Agencija)».
+Članak 2.
+Članak 2. mijenja se i glasi:
+»U smislu ovog Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. informacijski sustav: komunikacijski, računalni ili drugi elektronički sustav u kojem se podaci obrađuju, pohranjuju ili prenose, tako da budu dostupni i upotrebljivi za ovlaštene korisnike,
+2. integritet (cjelovitost) mreže: skup tehničkih zahtjeva za procese, rad i izmjene u elektroničkoj komunikacijskoj mreži, u svrhu osiguravanja nesmetane uporabe međusobno povezanih elektroničkih komunikacijskih mreža, kao i pristupa tim mrežama te cjelovitosti podataka pohranjenih u elektroničkoj komunikacijskoj mreži,
+3. sigurnosni incident: događaj koji može uzrokovati narušavanje sigurnosti i/ili gubitak integriteta mreže koji može utjecati na rad elektroničkih komunikacijskih mreža i/ili usluga.«
+Članak 3.
+(1) U članku 3. na kraju stavka 1. dodaje se nova rečenica koja glasi:
+»Poduzete mjere osobito se provode kako bi se spriječio i umanjio utjecaj sigurnosnih incidenata na korisnike usluga i međusobno povezane elektroničke komunikacijske mreže.«
+(2) U članku 3. stavak 6. i stavak 7. se brišu.
+Članak 4
+Iza članka 3. dodaje se novi članak 3. a. koji glasi:
+»(1) Operator mora najmanje jednom godišnje provesti reviziju informacijskog sustava kako bi se utvrdilo jesu li ispunjene minimalne mjere sigurnosti iz Dodatka 1 ovog Pravilnika.
+(2) Nalaz revizije iz stavka 1. ovog članka, zajedno s planom uklanjanja uočenih nedostataka, potrebno je dostaviti Agenciji do 30. svibnja tekuće godine za prethodnu godinu.
+(3) Postupak revizije treba provoditi tako da se u obzir uzme značaj pojedinih dijelova informacijskog sustava za funkcioniranje cijelog sustava te rezultate prethodnih revizija. Reviziju mogu obavljati zaposlenici operatora koji nisu vezani za područje revizije i koji imaju odgovarajuće znanje i iskustvo ili vanjsko revizorsko tijelo.
+Članak 5.
+(1) U članku 4. stavak 1. mijenja se i glasi:
+»Operatori su obvezni obavijestiti Agenciju u slučaju neovlaštenog povezivanja s javnom komunikacijskom mrežom ili dijelom mreže te u slučaju kršenja sigurnosti ili integriteta javnih komunikacijskih usluga, koji su značajnije utjecali na obavljanje djelatnosti javnih komunikacijskih mreža i/ili usluga sukladno kriterijima za izvješćivanje iz Dodatka 2.«
+(2) U članku 4. stavak 5. mijenja se i glasi:
+»Agencija može zatražiti dopunu izvješća iz stavka 2. u svrhu praćenja određenog sigurnosnog incidenta te boljeg razumijevanja prirode nastalog sigurnosnog incidenta.«
+Članak 6.
+(1) Članak 5. mijenja se na način da se iza riječi »obvezni« dodaju riječi »bez odgode« te se točka 1. mijenja i glasi:
+»1. na odgovarajući način obavijestiti korisnike javnih komunikacijskih usluga o značajnijem prekidu pružanja javnih komunikacijskih mreža i/ili usluga, sukladno kriterijima za izvješćivanje iz Dodatka 2. Ako su ugrožene osnovne usluge kao što su glasovna usluga, SMS usluga ili usluga pristupa internetu, operatori moraju bez odgode objaviti informacije o nastalom značajnom incidentu na službenoj stranici. Informacije o značajnom incidentu moraju sadržavati opis područja

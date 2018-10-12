@@ -1,0 +1,34 @@
+
+– podatke o sušari: vrsta sušare (stacionarna/pokretna), metoda sušenja (izravna/neizravna), pogonsko gorivo (zemni plin, lož ulje, dizelsko gorivo, ostalo),
+– podatke o načinu stavljanja na tržište poljoprivrednih proizvoda,
+– zabilješka o obavljanju djelatnosti iz članka 6. ovoga Pravilnika u slučaju kada se na gospodarstvu obavlja jedna ili više djelatnosti iz tog članka i dodijeljeni identifikacijski broj sukladno članku 13. stavku 2. ovoga Pravilnika,
+– zabilješka o obavljanju djelatnosti iz članka 8. ovoga Pravilnika u slučaju kada se na gospodarstvu obavlja jedna ili više djelatnosti iz tog članka i dodijeljeni broj ovlaštenja sukladno stavku 3. ovoga članka.
+(2) Upisom u Registar iz stavka 1. ovoga članka posjedniku sušare se dodjeljuje identifikacijski broj koji se sastoji od sljedećih elemenata: MIBPG_JIBG_S, pri čemu veliko tiskano slovo »S« označava skraćenicu za Registar sušara.
+(3) Posjedniku sušare koji na gospodarstvu obavlja jednu ili više djelatnosti iz članka 8. ovoga Pravilnika i koji podliježe obvezi upisa u Registar ovlaštenih poljoprivrednika dodjeljuje se broj ovlaštenja koji se sastoji od sljedećih elemenata: MIBPG_JIBG_S_O_redni broj u Registru sušara, pri čemu veliko tiskano slovo »S« označava skraćenicu za Registar sušara, a veliko tiskano slovo »O« je oznaka za ovlaštenje.
+(4) Na temelju dodijeljenog broja ovlaštenja posjednik sušare upisuje se i u Registar ovlaštenih poljoprivrednika.
+Članak 15.
+(1) Registar ovlaštenih poljoprivrednika sadrži sljedeće podatke o poljoprivredniku:
+– naziv poljoprivrednika,
+– osobni identifikacijski broj (OIB) poljoprivrednika,
+– ime i prezime nositelja/odgovorne osobe,
+– adresa sjedišta poljoprivrednika (ulica, kućni broj, mjesto i poštanski broj, županija),
+– osobni identifikacijski broj (OIB) nositelja/odgovorne osobe poljoprivrednika,
+– matični identifikacijski broj poljoprivrednika (MIBPG),
+– jedinstveni identifikacijski broj gospodarstva (JIBG),
+– identifikacijska kartica gospodarstva (IKG),
+– adresa gospodarstva (ulica, kućni broj, mjesto i poštanski broj, županija),
+– jedna ili više djelatnosti iz članka 8. ovoga Pravilnika,
+– podatke o načinu stavljanja na tržište poljoprivrednih proizvoda,
+– zabilješka o obavljanju djelatnosti iz članka 6. ovoga Pravilnika, u slučaju kada se na gospodarstvu obavlja jedna ili više djelatnosti iz tog članka i dodijeljeni identifikacijski broj sukladno članku 13. stavku 2. ovoga Pravilnika,
+– zabilješka o obavljanju djelatnosti iz članka 7. ovoga Pravilnika ukoliko ovlašteni poljoprivrednik podliježe obvezi upisa u Registar sušara i dodijeljeni identifikacijski broj sukladno članku 14. stavku 2. ovoga Pravilnika,
+– broj ovlaštenja sukladno članku 13. stavku 3. ukoliko ovlašteni poljoprivrednik podliježe obvezi upisa u Registar primarnih proizvođača ili sukladno članku 14. stavku 3. ovoga Pravilnika ukoliko ovlašteni poljoprivrednik podliježe obvezi upisa u Registar sušara.
+(2) Poljoprivrednici upisani u Registar ovlaštenih poljoprivrednika istovremeno moraju biti upisani u Registar primarnih proizvođača ili u Registar sušara ovisno o djelatnostima koje obavljaju na gospodarstvu uz djelatnosti iz članka 8. ovoga Pravilnika.
+Članak 16.
+Ministarstvo ima mogućnost pregleda registara iz članaka 6., 7. i 8. ovoga Pravilnika koje vodi Agencija i ima pristup izvještajima dobivenim obradom njihove baze podataka.
+VII. NADZOR
+Članak 17.
+(1) Poljoprivrednici upisani u registre iz članaka 6., 7. i 8. ovoga Pravilnika podliježu inspekcijskom nadzoru i službenim kontrolama koje provode veterinarska inspekcija u skladu sa Zakonom o veterinarstvu i poljoprivredna inspekcija u skladu sa Zakonom o poljoprivredi.
+(2) Poljoprivrednici iz članaka 6. i 8. ovoga Pravilnika moraju podatke staviti na raspolaganje inspektorima iz stavka 1. ovoga članka u skladu s Prilogom I. dijelom A točkom II. podtočkom 1. Uredbe (EZ) br. 183/2005.
+VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 18.
+Prilozi I. i II. su tiskani u dodatku ovoga Pravilnika i njegov su

@@ -1,0 +1,91 @@
+66 15.06.2015 Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i rokovima za dostavu izvješća centra za socijalnu skrb i podružnice
+MINISTARSTVO SOCIJALNE POLITIKE I MLADIH
+1264
+Na temelju članka 144. stavak 2. Zakona o socijalnoj skrbi (»Narodne novine«, broj 157/13, 152/14), ministrica socijalne politike i mladih donosi
+PRAVILNIK
+O SADRŽAJU I NAČINU VOĐENJA EVIDENCIJE I DOKUMENTACIJE TE NAČINU I ROKOVIMA ZA DOSTAVU IZVJEŠĆA CENTRA ZA SOCIJALNU SKRB I PODRUŽNICE
+I. OPĆE ODREDBE
+Članak 1.
+Ovim Pravilnikom uređuje se sadržaj i način vođenja evidencije i dokumentacije te način i rokovi za dostavu izvješća centra za socijalnu skrb i podružnice (u daljnjem tekstu: »centar«) o korisnicima i o obavljanju djelatnosti u okviru djelokruga utvrđenog Zakonom o socijalnoj skrbi (u daljnjem tekstu: »Zakon«).
+Članak 2.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. Korisnici su osobe prema kojima centri poduzimaju radnje u okviru djelokruga utvrđenog na temelju zakona i drugih propisa iz područja nadležnosti centra.
+2. Oblici zaštite su prava koja se ostvaruju i mjere koje se poduzimaju u interesu korisnika temeljem zakona i drugih propisa iz područja nadležnosti centra.
+3. Stanje potrebe su činjenice i okolnosti zbog kojih se prema nekoj osobi poduzimaju aktivnosti radi primjene određenog oblika zaštite.
+4. Aktivnosti su radnje koje poduzimaju stručni radnici centra u postupku ostvarivanja i za vrijeme primjene oblika zaštite.
+5. Katalog podataka je skup mogućih stanja određene pojave koja su bitna za praćenje i vođenje statistike o tim pojavama. Katalog podataka vodi ministarstvo nadležno za poslove socijalne skrbi (u daljnjem tekstu: »Ministarstvo«) u sustavu za elektroničku obradu podataka.
+6. Evidencija je skup podataka o korisniku, članovima obitelji i osobama koje u odnosu na korisnika mogu imati neku ulogu opisanu u Katalogu podataka, o stanjima potrebe, o ostvarenim oblicima zaštite te o aktivnostima, sukladno Katalogu podataka.
+7. Dokumentacija je skup dokumenata kojima se dokazuju određene činjenice i okolnosti u odnosu na korisnika o kojem se vodi evidencija.
+II. SADRŽAJ EVIDENCIJE
+Članak 3.
+Evidencija sadrži:
+I. Podatke o korisniku:
+1. Osobne podatke:
+– osobno ime,
+– osobni identifikacijski broj,
+– rođeno prezime,
+– osobno ime oca,
+– osobno ime majke,
+– spol,
+– datum rođenja,
+– mjesto rođenja,
+– država rođenja,
+– prebivalište i poštanski broj,
+– boravište i poštanski broj,
+– državljanstvo/drugo državljanstvo,
+– nacionalnost,
+– bračno stanje,
+– vrsta i broj identifikacijske isprave.
+2. Podatke o socioekonomskom statusu:
+– kućanstvo,
+– struktura kućanstva,
+– radni status,
+– posebni status,
+– statusu sudionika u ratu,
+– roditelji,
+– osobe koje u odnosu na korisnika mogu imati neku ulogu.
+3. Podatke o obrazovanju:
+– vrsta škole,
+– način obrazovanja,
+– tip programa,
+– dostignuti stupanj obrazovanja.
+4. Podatke o zdravstvenom statusu:
+– oblik narušenog zdravlja,
+– okolnosti nastanka invalidnosti,
+– pokretljivost osobe s invaliditetom.
+5. Podatke o uvjetima stanovanja:
+– stambeni status,
+– način gradnje,
+– vlažnost,
+– položaj,
+– prikladnost,
+– način grijanja,
+– vrsta energenta,
+– instalacije u stanu.
+6. Podatke o prihodima:
+– oporezivi primici koji se smatraju dohotkom, umanjeni za iznos uplaćenog poreza i prireza te drugi primici.
+7. Podatke o troškovima:
+– troškovi.
+8. Podatke o imovini:
+– nekretnine,
+– pokretnine,
+– novčana sredstva,
+– novčane tražbine,
+– vrijednosni papiri,
+– dragocjenosti,
+– druga imovina.
+II. Podatke o stanju potrebe:
+– posebna obilježja,
+– podaci o rizičnom ponašanju.
+III. Podatke o ostvarenim oblicima zaštite:
+– ostvareno pravo,
+– poduzeta mjera,
+– cijena socijalne usluge,
+– izvor plaćanja cijene socijalne usluge,
+– trajanje (datum početka i datum završetka).
+IV. Podatke o aktivnostima:
+– poduzeta aktivnost.
+III. NAČIN VOĐENJA EVIDENCIJE
+Članak 4.
+(1) Evidencija se vodi u elektroničkom obliku u računalnom programu u vlasništvu Ministarstva.
+(2) Evidenciju vode 

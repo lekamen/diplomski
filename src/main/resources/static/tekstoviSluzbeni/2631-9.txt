@@ -1,0 +1,25 @@
+ provedbenih pravila i tehničkih normi, koje je usvojila Europska komisija kroz postupke odbora. Detaljni opis zajedničkih zahtjeva za pružanje usluga u zračnoj plovidbi definiran je u Uredbi (EZ) br. 1035/2011, nadzor sigurnosti u Uredbi (EZ) br. 1034/2011, a mehanizam za praćenje i upravljanje performansama za razdoblje RP2 (2015-2019) definiran je u Provedbenoj Uredbi (EU) br. 390/2013.
+Ovaj sveobuhvatni zakonodavni okvir značajno je unaprijedio restrukturiranje europskog zračnog prostora i usluge u zračnoj plovidbi uvođenjem, posebno kroz razdvajanje zakonodavnih dužnosti od pružanja usluga, puno veće fleksibilnosti za korištenje zračnog prostora u civilne i vojne svrhe, interoperabilnosti opreme, usklađene klasifikacije gornjeg zračnog prostora; zajedničkog programa naplate usluga u zračnoj plovidbi te zajedničkih uvjeta za izdavanje dozvola kontrolorima zračnog prometa. Uz to su utvrđene i ključne komponente strukture jedinstvenog europskog neba.
+3.2.6 Europska komisija razvila je Europski program sigurnosti (European Aviation Safety Programme – EASP). Na temelju EASP-a, EASA je razvila Europski plan sigurnosti zračnog prometa (European Aviation Safety Plan – EASp) u kojem je definirala regionalne pokazatelje sigurnosti i aktivnosti vezane uz njihovu provedbu uzimajući u obzir i GASP ciljane definirane na regionalnoj razini. EASp predstavlja svojevrsni »portfelj rizika« (risk portfolio) utemeljen na prikupljenim informacijama, identificiranim rizicima i prediktivnom pristupu, a koji su se zemlje članice EASA-e obvezale provoditi. Mjere definirane u EASp su podijeljene na tri područja: sistematska (systemic issues) i operativna pitanja (operational issues) te problematiku u nastajanju (emerging issues).
+3.2.7 Države članice EU-a, pa tako i Republika Hrvatska, u svojim Nacionalnim programima sigurnosti (State Safety Programme – SSP) trebaju implementirati europske smjernice.
+3.3 Odgovornosti i sveukupna odgovornost za Nacionalni program sigurnosti u Republici Hrvatskoj
+3.3.1 Vlada Republike Hrvatske je donijela Odluku o osnivanju Povjerenstva za upravljanje sigurnošću u zračnom prometu u svrhu uspostave i praćenja provedbe Nacionalnog programa sigurnosti, donošenja strateških odluka i smjernica te učinkovitog djelovanja na cjelokupni sustav sigurnosti zračnog prometa u Republici Hrvatskoj.
+3.3.2 Članovi Povjerenstva su:
+a) čelnik unutarnje ustrojstvene jedinice Ministarstva nadležne za civilno zrakoplovstvo
+b) direktor Hrvatske agencije za civilno zrakoplovstvo
+c) jedan predstavnik Agencije za istraživanje
+d) koordinator Nacionalnog programa sigurnosti u zračnom prometu
+e) dva predstavnika zrakoplovne industrije koje predlaže Hrvatska gospodarska komora
+f) jedan predstavnik kojeg predlaže ministarstvo nadležno za poslove obrane
+g) jedan predstavnik pružatelja usluga u zračnoj plovidbi kojeg predlaže pružatelj usluga u zračnoj plovidbi
+h) jedan predstavnik središnjeg tijela državne uprave nadležnog za poslove zaštite i spašavanja.
+3.3.3 Članove Povjerenstva predlaže ministar, a imenuje Vlada Republike Hrvatske.
+3.3.4 Vlada Republike Hrvatske, u cilju postizanja prihvatljive razine performanse sigurnosti u Republici Hrvatskoj, a na prijedlog Povjerenstva, u skladu s odgovarajućim ICAO dokumentima, donosi Nacionalni program sigurnosti u zračnom prometu.
+3.3.5 Poslovi i nadležnosti Povjerenstva u svezi s provedbom Nacionalnog programa sigurnosti su:
+– strateško upravljanje sigurnošću zračnog prometa na teritoriju i u zračnom prostoru Republike Hrvatske prema nacionalnim i međunarodnim zahtjevima i standardima
+– donošenje strateških odluka i smjernica
+– predlaganje neophodnih mjera za osiguravanje visokih standarda sigurnosti na državnoj razini
+– sustavno praćenje i koordiniranje provedbe Nacionalnog programa sigurnosti
+– predlaganje izmjena i dopuna Nacionalnog programa sigurnosti te izvješćivanje Vlade Republike Hrvatske o njihovoj provedbi
+– donošenje Plana sigurnosti
+– predlaganje prihvatljive razine performanse sigurnosti 

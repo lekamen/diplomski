@@ -1,0 +1,26 @@
+ 66.
+Predstečajni postupak ne utječe na:
+− pravo odvojenoga namirenja razlučnih i izlučnih vjerovnika
+− tražbine radnika i prijašnjih dužnikovih radnika iz radnoga odnosa u bruto iznosu, otpremnine do iznosa propisanoga zakonom odnosno kolektivnim ugovorom i tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti
+− mjere osiguranja u kaznenom postupku
+− porezne postupke utvrđivanja zlouporabe prava.
+Poslovanje dužnika od otvaranja predstečajnoga postupka
+Članak 67.
+(1) Od dana otvaranja predstečajnoga postupka do njegova završetka dužnik može obavljati samo plaćanja nužna za redovno poslovanje.
+(2) U razdoblju iz stavka 1. ovoga članka dužnik ne smije ispunjavati obveze nastale i dospjele prije otvaranja predstečajnoga postupka, osim obveza iz članka 29. stavka 2. ovoga Zakona.
+(3) Pravne poslove iz članka 29. stavka 3. ovoga Zakona dužnik može poduzimati samo na temelju prethodnoga odobrenja povjerenika ili suda ako povjerenik nije imenovan.
+(4) Pravni poslovi koje je dužnik poduzeo protivno stavku 3. ovoga članka nemaju pravni učinak prema vjerovnicima ako je treća osoba znala ili morala znati da poduzeti pravni posao prelazi okvire redovnoga poslovanja dužnika i da njegovo poduzimanje nije odobrio povjerenik ili sud ako povjerenik nije imenovan.
+(5) Mjenice i čekovi te drugi nalozi za plaćanje izdani prije otvaranja predstečajnoga postupka ne naplaćuju se na teret računa dužnika za vrijeme trajanja postupka, ali je dopušteno prezentiranje mjenica, s tim da će se na mjenici utvrditi datum (dan) prezentiranja i izdati potvrda da po mjenici nije plaćeno zato što je nad dužnikom otvoren predstečajni postupak.
+Zabrana pokretanja i vođenja parničnih, ovršnih, upravnih i postupaka osiguranja
+Članak 68.
+(1) Od dana otvaranja predstečajnoga postupka do njegova završetka nije dopušteno pokretanje parničnih, ovršnih, upravnih i postupaka osiguranja protiv dužnika.
+(2) Postupci iz stavka 1. ovoga članka koji su u tijeku prekidaju se danom otvaranja predstečajnoga postupka.
+(3) Prekinuti postupci iz stavka 2. ovoga članka nastavit će se na prijedlog vjerovnika:
+- nakon sklopljenog predstečajnog sporazuma – u odnosu na tražbine ili dio tražbina koje su u predstečajnom postupku osporene
+- nakon pravomoćnosti rješenja o obustavi predstečajnoga postupka.
+(4) Odredbe stavaka 1. i 2. ovoga članka ne primjenjuju se na postupke na koje predstečajni postupak ne utječe, kao ni na postupke radi ostvarenja tražbina koje su nastale nakon otvaranja predstečajnoga postupka.
+(5) U postupcima pred sudom u kojima je utvrđen prekid postupka zbog otvaranja predstečajnoga postupka i u kojima je, nakon toga, doneseno pravomoćno rješenje o potvrdi predstečajnoga sporazuma kojim je obuhvaćena tražbina vjerovnika sud će postupak nastaviti i odbaciti tužbu odnosno obustaviti ovrhu ili postupak osiguranja, osim u odnosu na tražbine ili dio tražbina koje su u predstečajnom postupku osporene.
+Postupanje Financijske agencije s osnovama za plaćanje nakon otvaranja predstečajnoga postupka
+Članak 69.
+(1) Od dana primitka rješenja o otvaranju predstečajnoga postupka Financijska agencija prestaje izvršavati sve osnove za plaćanje evidentirane u Očevidniku redoslijeda osnova za plaćanje na teret dužnika, osim obračuna neisplaćene plaće, naknade plaće i otpremnine i osnova za plaćanje koje se odnose na mjere osiguranja u kaznenom postupku.
+(2) Vjerovnik osnove za plaćanje na temelju koje se na novčanim sredstvima po računu dužnika pravne osobe treba provesti ili provodi ovrha radi naplate tražbine radnika i prijašnjeg radnika dužnika iz radnog odnosa u bruto iznosu ili tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti, odnosno radi tražbine koja je nastala nakon otvaranja predstečajnoga postupka, može zatražiti od povjerenika ili suda ako povjerenik nije imenovan, da naloži Financijskoj agenciji da nastavi s provedbom ovrhe po toj osnovi za plaćanje odnosno da provede ovrhu na novčanim sredstvima

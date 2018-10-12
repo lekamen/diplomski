@@ -1,0 +1,35 @@
+ Samoaktivirajući dimni signali navedeni u 2.2.1.3, moraju:
+.1 ispuštati ravnomjerno dim vrlo uočljive boje tijekom najmanje 15 minuta kada plutaju na mirnoj vodi;
+.2 ne smiju se eksplozivno paliti niti davati plamen za vrijeme ispuštanja dima;
+.3 ne smiju se gasiti na uzburkanom moru;
+.4 nastaviti ispuštati dim dok je potpuno uronjen u vodu najmanje 10 s; i
+.5 izdržati ispitivanje bacanjem u skladu sa 6.2.1.1.6.
+.6 imati uređaj za otpuštanje, tako da automatski otpusti i aktivira signal zajedno sa samoupaljivim svjetlom, ako su pričvršćeni za kolut za spašavanje mase manje od 4 kg.
+6.2.4 Plutajući konopi za spašavanje
+6.2.4.1 Plutajući konopi za spašavanje navedeni u 2.2.1.2, moraju:
+.1 ne smiju se odsukivati niti mrsiti;
+.2 imati promjer najmanje 8 mm;
+.3 imati prijekidnu čvrstoću ne manju od 5 kN.
+6.3 PRSLUCI ZA SPAŠAVANJE
+6.3.1 Opći zahtjevi
+6.3.1.1 Prsluk za spašavanje ne smije podržavati gorenje, ili nastaviti se rastapati nakon što je bio potpuno zahvaćen plamenom u trajanju od najmanje 2 sekunde.
+6.3.1.2 Prsluci za spašavanje moraju biti u tri veličine u skladu s tablicom 6.3.1.2-1. Ako prsluk za spašavanje u potpunosti udovoljava zahtjevima za dvije susjedne veličine, može se označiti s obje veličine, ali navedene veličine ne smiju se dijeliti. Na prslucima za spašavanje se mora označiti masa ili visina, ili i masa i visina, u skladu s tablicom 6.3.1.2-1.
+Tablica 6.3.1.2-1
+Označavanje ptsluka za spašavanje Dojenće Dijete Odrasla osoba Korisnikova veličina: Masa (kg) manje od 15 15 ili veća ali manje od 43 43 ili veća Visina (cm) manje od 100 100 ili veća ali manje od 155 155 ili veća
+6.3.1.3 Ako prsluk za spašavanje za odrasle nije predviđen za osobe mase do 140 kg i opsega prsnog koša 1,750 mm, mora se predvidjeti dodatno sredstvo za pričvršćenje za takve osobe.
+6.3.1.4 Karakteristike prsluka za spašavanje u vodi mora se evidentirati zbog usporedbe sa standardom za odgovarajuću veličinu prsluka za spašavanje, t.j. u odnosu na usporedno testno sredstvo (Reference Test Device)u skladu s preporukama rezolucije MSC.81(70) s izmjenama.
+6.3.1.5 Prsluk za spašavanje za odrasle mora biti tako izveden da:
+.1 najmanje 75% osoba koje nisu upoznate s korištenjem prsluka za spašavanje mogu pravilno obući prsluk za vrijeme od jedne minute bez pomoći, uputa ili prethodnog prikaza oblačenja;
+.2 nakon prikaza oblačenja, sve osobe mogu obući prsluk u roku od jedne minute, bez ičije pomoći;
+.3 je potpuno jasno da se prsluk za spašavanje može obuči samo na jedan način ili nepravilno i, ako je navučen nepravilno ne smije ugroziti nositelja;
+.4 način pričvršćenja prsluka za spašavanje mora biti jednostavan i brz i ne smije sezasnivati na vezivanju čvorova;
+.5 je udoban za nošenje; i
+.6 omogući skakanje u vodu s visine ne manje od 4,5 m držeći se za prsluk, i s visine ne manje od 1m držeći ruke iznad glave, bez tjelesnih povreda i bez spadanja ili oštećenja prsluka za spašavanje i pripadajuće opreme.
+6.3.1.6 Nakon ispitivanja u skladu s preporukama rezolucije MSC.81(70) s izmjenama na 12 osoba, prsluci za spašavanje za odrasle moraju imati dovoljan uzgon i stabilitet u mirnoj slatkoj vodi da:
+.1 mogu podići usta iscrpljene ili onesviještene osobe na visinu koja ne smije biti manja od visine određene RTD za odraslu osobu;
+.2 okrene tijelo onesviještene osobe s licem u vodi u položaj s ustima iznad vode u vremenu koje ne prelazi vrijeme određeno RTD, a broj osoba koje se nisu okrenule ne smije prelaziti broj određen RTD;
+.3 nagne tijelo unazad u odnosu na njegov okomiti položaj pod kutom ne manjim od određenog RTD minus 5°;
+.4 podigne glavu iznad horizontale tako da kut simetrale glave nij menji od predviđenoga RTD minus 5°; and
+.5 vrati osobu u stabilnu poziciju s licem gore nakon što je destabilizirana dok je plutala u zgrčenom položaju (.3).
+6.3.1.7 Prsluk za spašavanje za odrasle mora omogućiti osobi s navučenim prslukom da prepliva malu razdaljinu i da se ukrca u plovilo za preživljavanje.
+6.3.1.8 Prsluk za spašavanje za dojenčad ili

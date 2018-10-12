@@ -1,0 +1,31 @@
+ koji prethodi statusnoj promjeni
+3. dan prije prestanka obavljanja djelatnosti sukladno posebnim propisima ako je poduzetnik fizička osoba
+4. dan koji neposredno prethodi početku postupka likvidacije ili stečaja.
+(8) Poslovne knjige moraju se zaključiti najkasnije četiri mjeseca nakon završetka poslovne godine.
+(9) Zaključene poslovne knjige mogu se ponovno otvoriti samo prije odobravanja financijskih izvještaja, ako je to potrebno kako bi se osigurao istinit i fer prikaz financijskog položaja i uspješnosti poduzetnika.
+(10) Ako nije drukčije propisano posebnim zakonom, poduzetnik koji mijenja pravni oblik ne zaključuje svoje poslovne knjige zbog preoblikovanja.
+(11) Poduzetnik je dužan u izvještajnom razdoblju od dana ulaska u postupak likvidacije otvoriti poslovnu godinu te zatvoriti svoje poslovne knjige s danom zaključenja postupka likvidacije.
+Čuvanje poslovnih knjiga
+Članak 14.
+(1) Ako se poslovne knjige vode kao elektronički zapis, glavna knjiga mora se nakon zaključivanja na kraju poslovne godine zaštititi na način da u istoj nije moguća izmjena pojedinih ili svih njezinih dijelova ili listova, da je istu moguće u svakom trenutku otisnuti na papir i mora se potpisati elektroničkim potpisom sukladno propisu kojim se uređuje elektronički potpis ili se mora otisnuti na papir i uvezati na način da nije moguća izmjena pojedinih ili svih njezinih dijelova ili listova i mora je potpisati osoba ovlaštena za zastupanje poduzetnika.
+(2) Poslovne knjige čuvaju se, i to:
+1. dnevnik i glavna knjiga – najmanje jedanaest godina
+2. pomoćne knjige – najmanje jedanaest godina.
+(3) Poduzetnik može odlučiti čuvati poslovne knjige izvan područja Republike Hrvatske, ali samo u drugoj državi članici. U tom slučaju poduzetnik je u svakom trenutku odgovoran za poslovne knjige te mora tijelima nadležnim za nadzor na njihov zahtjev bez odgađanja omogućiti korištenje istih za potrebe nadzora. Poduzetnik koji poslovne knjige pohranjuje pomoću elektroničkih uređaja kojima se jamči online pristup podacima mora na zahtjev omogućiti tijelu koje obavlja nadzor pravo pristupa, preuzimanja i korištenja tih poslovnih knjiga.
+(4) Rok čuvanja poslovnih knjiga počinje teći zadnjeg dana poslovne godine na koju se iste odnose.
+IV. POPIS IMOVINE I OBVEZA
+Popis imovine i obveza
+Članak 15.
+(1) Poduzetnik mora na početku poslovanja popisati imovinu i obveze i navesti njihove pojedinačne vrijednosti u količinama i u novčanom iznosu.
+(2) Poduzetnik je dužan na kraju poslovne godine popisati imovinu i obveze i s popisanim stvarnim stanjem uskladiti knjigovodstveno stanje.
+(3) Osim popisa iz stavka 2. ovoga članka, poduzetnik mora popisati imovinu i obveze u slučajevima statusnih promjena, otvaranja stečajnog postupka ili pokretanja postupka likvidacije.
+V. STANDARDI FINANCIJSKOG IZVJEŠTAVANJA
+Hrvatski standardi financijskog izvještavanja i Međunarodni standardi financijskog izvještavanja
+Članak 16.
+(1) Hrvatski standardi financijskog izvještavanja su računovodstvena načela i pravila priznavanja, mjerenja i klasifikacije poslovnih događaja te sastavljanja i prezentiranja financijskih izvještaja koje donosi Odbor za standarde financijskog izvještavanja u skladu s ovim Zakonom i objavljuju se u »Narodnim novinama«.
+(2) Međunarodni standardi financijskog izvještavanja su međunarodni računovodstveni standardi kako su uređeni člankom 2. Uredbe (EZ) br. 1606/2002.
+Primjena standarda financijskog izvještavanja
+Članak 17.
+(1) Poduzetnik je dužan sastavljati i prezentirati godišnje financijske izvještaje primjenom Hrvatskih standarda financijskog izvještavanja ili Međunarodnih standarda financijskog izvještavanja sukladno odredbama ovoga Zakona.
+(2) Poduzetnici iz članka 5. stavaka 2., 3. i 4. ovoga Zakona te ostali poduzetnici koji se ne mogu razvrstati po kriterijima iz članka 5. ovoga Zakona, dužni su sastavljati i prezentirati godišnje financijske izvještaje primjenom Hrvatskih standarda financijskog izvještavanja.
+(3) Poduzetnici iz članka 5. stavka 5. ovoga Zakona i

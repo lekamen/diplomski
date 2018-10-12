@@ -1,0 +1,30 @@
+ ocijenio korisnički inspektorat, ovlašten od strane ministra nadležnog za gospodarstvo prema kriterijima utvrđenim u stavku 7. ovoga članka.
+(2) Tlačna oprema i sklopovi čiju je ocjenu sukladnosti donio korisnički inspektorat ne nosi oznaku CE.
+(3) Navedena tlačna oprema i sklopovi mogu se koristiti samo u objektima kojima upravlja grupacija u čijem je sastavu i korisnički inspektorat. Grupacija je dužna primijeniti odgovarajuće sigurnosne mjere koje se odnose na tehničke specifikacije za konstrukciju, proizvodnju, inspekciju, održavanje i uporabu tlačne opreme i sklopova.
+(4) Korisnički inspektorati djeluju isključivo za grupu u čijem su sastavu.
+(5) Postupci ocjenjivanja sukladnosti koje primjenjuju korisnički inspektorati jesu moduli A2, C2, F i G, kao što je utvrđeno u Dodatku III ovog Pravilnika.
+(6) Ministarstvo nadležno za gospodarstvo obavještava ostale države članice i Europsku komisiju koje je korisničke inspektorate ovlastilo i o poslovima koje im je povjerilo te za svaki korisnički inspektorat prilaže popis objekata koji ispunjavaju odredbe stavka 3 ovog članka.
+(7) Prilikom imenovanja korisničkih inspektorata ministarstvo nadležno za gospodarstvo primjenjuju zahtjeve utvrđene člankom 25. te se mora pobrinuti da grupacija u čijem je sastavu inspektorat primjenjuje kriterije iz druge rečenice stavka 3. ovog članka.
+EU izjava o sukladnosti
+Članak 17.
+(1) EU izjavom o sukladnosti potvrđuje se da su ispunjeni osnovni sigurnosni zahtjevi iz Dodatka I. ovoga Pravilnika.
+(2) EU izjava o sukladnosti mora imati strukturu obrasca iz Dodatka IV. ovoga Pravilnika, mora sadržavati elemente navedene u odgovarajućim postupcima ocjenjivanja sukladnosti iz Dodatka III. i mora se redovno ažurirati. Mora biti na hrvatskom jeziku ili prevedena na hrvatski jezik.
+(3) Kada se na tlačnu opremu ili sklop primjenjuje više akata Unije koji propisuju EU izjavu o sukladnosti, sastavlja se samo jedna EU izjava o sukladnosti za sve takve akte Unije. U toj izjavi navode se predmetni akti Unije zajedno s brojem njihove objave.
+(4) Sastavljanjem EU izjave o sukladnosti proizvođač preuzima odgovornost za sukladnost tlačne opreme ili sklopa sa zahtjevima iz ovog Pravilnika.
+Opća načela za stavljanje oznake CE
+Članak 18.
+Oznaka CE podliježe općim načelima utvrđenim u članku 30. Uredbe (EZ) br. 765/2008.
+Pravila i uvjeti za stavljanje oznake CE
+Članak 19.
+(1) Oznaka CE mora se staviti se na vidljivo mjesto te mora biti čitljiva i neizbrisiva na svakom:
+– elementu tlačne opreme iz članka 4. stavka 1 ovoga Pravilnika ili njegovoj pločici s tehničkim podacima;
+– svakom sklopu iz članka 4. stavka 2 ovoga Pravilnika ili njegovoj pločici s tehničkim podacima.
+Kada stavljanje oznake CE zbog prirode opreme ili sklopa nije moguće, oznaka se stavlja na pakiranje i na priložene dokumente.
+Element ili sklop tlačne opreme iz 1. i 2. prvog podstavka moraju biti završeni ili u stanju koje dopušta završno ocjenjivanje kao što je opisano u točki 3.2. Dodatka I. ovoga Pravilnika.
+(2) Oznaku CE nije potrebno staviti na svaki pojedini element tlačne opreme koji čini sklop. Pojedinačni elementi tlačne opreme koji već imaju oznaku CE prilikom ugradnje u sklop zadržavaju tu oznaku.
+(3) Oznaka CE mora se staviti prije nego što su tlačna oprema ili sklop stavljeni na tržište.
+(4) Uz oznaku CE mora se nalaziti identifikacijski broj prijavljenog tijela ako je to tijelo uključeno u fazu kontrole proizvodnje.
+Identifikacijski broj prijavljenog tijela mora staviti samo tijelo ili proizvođač odnosno njegov ovlašteni zastupnik prema uputama prijavljenog tijela.
+(5) Nakon oznake CE i po potrebi identifikacijskog broja iz stavka 4. može se staviti bilo koja druga oznaka kojom se označuje poseban rizik ili uporaba.
+(6) Nadležno inspekcijsko tijelo oslanja se na postojeće mehanizme kako bi osiguralo ispravnu primjenu režima kojim se uređuje stavljanje oznake CE i poduzima potrebne radnje u slučaju nepravilne uporabe te oznake.
+POGLAVLJE IV. PRIJAVLJIVANJE TIJELA ZA OCJENJIVANJE

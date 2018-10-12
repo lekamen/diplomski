@@ -1,0 +1,24 @@
+ ako su im dimenzije, prekidno opterećenje, otpornost na djelovanje atmosfere, rastezanje i stezanje najmanje jednake užetu od manile. Krajevi se moraju zaštititi od odsukavanja.
+6.20.7 Uređaji za spuštanje brze brodice za prikupljanje
+6.20.7.1 Svaki uređaj za spuštanje brze brodice za prikupljanje mora biti u skladu s 6.20.1 i 6.20.2 osim 6.20.2.10 i, dodatno, mora biti u skladu s ovim poglavljem.
+6.20.7.2 Uređaj za spuštanje mora biti opremljen uređajem koji poništava sile uslijed djelovanja valova kada se brza brodica spušta odnosno podiže. Uređaj mora uključiti elastični element koji ublažava udarne sile i svodi oscilacije na minimum.
+6.20.7.3 Vitlo mora biti opremljeno brzim automatskim uređajem koji osigurava stalnu zategnutost užeta za sva stanaja mora u kojima brza brodica za prikupljanje može djelovati.
+6.20.7.4 Kočnica vitla mora imati postupno djelovanje. Kada se brza brodica za prikupljanje spušta punom brzinom a vitlo se naglo zakoči, dodatna dinamička sila zaustavljanja koja se javlja u užetu ne smije prijeći 0.5 puta radno opterećenje uređaja za spuštanje.
+6.20.7.5 Brzina spuštanja brze brodice za prikupljanje s opremom i svim osobama ne smije prijeći 1 m/s. Bez obzira na zahtjeve točke 6.20.1.9, uređaj za spuštanje mora osigurati podizanje brze brodice za prikupljanje sa 6 osoba i opremom, brzinom ne manjom od 0.8 m/s. Uređaj mora, isto tako, podići brodicu s ukupnim brojem osoba, kako je izračunato u točki 6.13.2.
+6.20.8 Sustavi za napuštanje broda
+6.20.8.1 Klizna staza sustava za napuštanje broda mora omogućiti sigurno spuštanje osoba različite dobi, veličine i fizičkih sposobnosti, koje nose odobrene prsluke za spašavanje, od stanice za ukrcaj do plutajuće platforme ili plovila za preživljavanje.
+6.20.8.2 Čvrstoća i izvedba klizne staze i platforme moraju udovoljavati zahtjevima RO.
+6.20.8.3 Platforma, ako je predviđena, mora:
+.1 imati dostatan uzgon za radno opterećenje. Za slučaj napuhavajuće platforme, glavne uzgonske komore, koje u ovom slučaju uključuju napuhavajuće strukturne elemente sjedala i poda, moraju udovoljavati zahtjevima navedenim u 6.9 koji se temelje na kapacitetu platforme, osim ako se kapacitet dobiva dijeljenjem korisne površine navedene u 6.20.8.3.3 s 0,25.
+.2 biti stabilna na vodi i mora omogućiti sigurnu radnu površinu rukovateljima sustavom;
+.3 imati dostatnu površinu koja omogućava siguran ukrcaj u najmanje dvije splavi za spašavanje i na koju se može smjestiti, najmanje, broj osoba za koje se pretpostavlja da će istovremeno biti na platformi. Ova korisna površina platforme mora biti, najmanje, jednaka površini koja se dobije kada se 20% od ukupnog broja osoba za koje je odobren sustav za napuštanje broda, podijeli sa četiri, ili površini od 10 m2, što je veće. Međutim, RO može odobriti drukčiji raspored koji udovoljava svim propisanim zahtjevima izvedbe.
+.4 imati samodrenažu;
+.5 biti podijeljena tako da gubitak plina u jednoj komori ne smanjuje njenu uporabnu vrijednost kao sredstva za napuštanje. Uzgonske komore moraju biti podijeljene ili zaštićene od oštećenja koje može nastati u dodiru s bokom broda;
+.6 imati sustav za stabiliziranje, u skladu sa zahtjevima RO;
+.7 se moći zadržati užetom za privlačenje ili nekim drugim sustavom za održavanje položaja koji moraju biti tako izvedeni da se automatski premještaju i, ako je potrebno, da se mogu namjestiti prema položaju koji zahtijeva napuštanje; i
+.8 imati mjesta za pričvršćenje sidrenog užeta i užeta za privlačenje dovoljne čvrstoće da se može pričvrstiti najveća splav koja pripada sustavu.
+6.20.8.4 Ako klizna staza omogućava neposredan pristup u plovilo za preživljavanje, mora imati uređaj za brzo otpuštanje.
+6.20.8.5 Izvedba sustava za napuštanje broda
+Sustav za napuštanje broda mora:
+.1 biti takav da ga može otpustiti jedna osoba;
+.2 omogućiti ukupnom broju osoba za koje je namijenjen prebacivanje s broda u napuhavajuće splavi za spašavanje, u roku od 30 min kada se koristi na putničkom brodu i u roku od 10 min kada se koristi 

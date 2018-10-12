@@ -1,0 +1,54 @@
+125 18.11.2015 Pravilnik o sadržaju, načinu i roku dostave statističkih podataka o privremenom obavljanju poslova
+MINISTARSTVO RADA I MIROVINSKOGA SUSTAVA
+2383
+Na temelju članka 44. stavka 8. Zakona o radu (»Narodne novine«, broj 93/14), ministar rada i mirovinskoga sustava donosi
+PRAVILNIK
+O SADRŽAJU, NAČINU I ROKU DOSTAVE STATISTIČKIH PODATAKA O PRIVREMENOM OBAVLJANJU POSLOVA
+I. OPĆE ODREDBE
+Članak 1.
+Ovim se Pravilnikom uređuje sadržaj, način i rok u kojem je Agencija za privremeno zapošljavanje (u daljnjem tekstu: agencija) dužna ministarstvu nadležnom za rad (u daljnjem tekstu: ministarstvo) dostavljati statističke podatke o ustupljenim radnicima za privremeno obavljanje poslova.
+Članak 2.
+Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
+II. SADRŽAJ PODATAKA
+Članak 3.
+(1) Statistički podaci iz članka 1. ovoga Pravilnika sadrže:
+1) podatke o agenciji:
+– tvrtka, sjedište i osobni identifikacijski broj (u daljnjem tekstu: OIB)
+– broj potvrde o upisu agencije u evidenciju ministarstva
+2) podatke o korisniku:
+– tvrtka, sjedište i OIB te država, ako je agencija radnika ustupala korisniku u inozemstvo
+– brojčana oznaka područja djelatnosti korisnika (prema propisu o nacionalnoj klasifikaciji djelatnosti)
+3) podatke o ustupljenim radnicima:
+– ukupan broj radnika ustupljenih korisniku iskazan po spolu
+– broj radnika koji s agencijom imaju sklopljene ugovore o radu na određeno vrijeme i ugovore o radu na neodređeno vrijeme te broj radnika koji rade u nepunom radnom vremenu
+– ukupan broj radnika čiji ugovori o radu nisu trajali duže od vremena ustupanja
+– ukupan broj radnika čiji su ugovori o radu trajali neprekidno duže od dvanaest uzastopnih mjeseci
+– ukupan fond ugovorenih sati rada ustupljenih radnika za svaku kalendarsku godinu
+– prosječno razdoblje ustupanja kod pojedinog korisnika s nazivom poslova koje su ustupljeni radnici obavljali kod korisnika
+– iznos isplaćene prosječne bruto plaće za svaki posao
+– ukupan broj radnika kojima agencija isplaćuje druga materijalna prava uz naznaku tih prava (prijevoz, jubilarna nagrada, regres, nagrada za božićne blagdane i sl.)
+(2) Osim podataka iz stavka 1. ovoga članka, agencija može ministarstvu dostavljati i druge podatke za koje ocijeni da bi ministarstvu bili korisni, a ukazuju na probleme djelovanja agencija na tržištu rada.
+(3) Tijekom prikupljanja, obrade i korištenja podataka iz stavka 1. ovoga članka, agencija i ministarstvo su dužni postupati u skladu s posebnim propisom o zaštiti osobnih podataka.
+III. NAČIN DOSTAVE PODATAKA
+Članak 4.
+Za dostavljanje podataka propisanih ovim Pravilnikom, agencija može koristiti ogledni primjerak obrasca koji je u Prilogu ovoga Pravilnika.
+IV. ROK DOSTAVE PODATAKA
+Članak 5.
+Podatke propisane ovim Pravilnikom agencija je dužna ministarstvu dostavljati najkasnije do 1. ožujka tekuće godine za prethodnu godinu.
+V. PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 6.
+Stupanjem na snagu ovoga Pravilnika prestaje važiti Pravilnik o sadržaju, načinu i roku dostave statističkih podataka o privremenom obavljanju poslova (»Narodne novine«, broj 122/13).
+Članak 7.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 011-01/15-01/155
+Urbroj: 524-03-01-01/2-15-22
+Zagreb, 6. studenoga 2015.
+Ministar prof. dr. sc. Mirando Mrsić, dr. med., v. r.
+PRILOG
+OGLEDNI PRIMJERAK OBRASCA ZA DOSTAVU STATISTIČKIH PODATAKA O USTUPLJENIM RADNICIMA
+____________________________________ (tvrtka, sjedište i OIB agencije)
+____________________________________ (broj potvrde o upisu agencije u evidenciju ministarstva)
+MINISTARSTVO RADA I MIROVINSKOGA SUSTAVA
+______________________________, 10000 Zagreb
+PODACI O PRIVREMENOM OBAVLJANJU POSLOVA U __________ GODINI
+Podaci o tvrtci, sjedištu, OIB-u, te brojčanoj oznaci područja djelatnosti korisnika prema NKD, država (ustupanje u inozemstvo) Podaci o ustupljenim radnicima i njihovim materijalnim pravima Broj ustupljenih radnika

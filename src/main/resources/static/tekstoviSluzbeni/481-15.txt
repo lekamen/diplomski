@@ -1,0 +1,42 @@
+području;
+e. »Roboti«, kontrolori »robota«, »krajnje jedinice« koji imaju bilo koju od sljedećih značajki:
+1. posebno su namijenjeni vojnoj uporabi;
+2. uključuju sredstva za zaštitu hidrauličnih linija od puknuća uzrokovanih balističkim fragmentima (npr. uključuju samoljepljive linije) te koriste hidrauličke tekućine točke žarišta veće od 839 K (566 °C); ili
+3. posebno su konstruirani ili vrednovani za rad u okruženju elektromagnetskog impulsa (EMP);
+Tehnička napomena:
+Elektromagnetski impuls ne odnosi se na uzajamni nenamjerni utjecaj uzrokovan elektromagnetskom radijacijom obližnje opreme (npr. strojeva, naprava ili elektroničkih uređaja) ili udarom groma.
+f. »Knjižnice« (parametarske tehničke baze podataka) posebno konstruirane za vojnu uporabu s opremom koja podliježe kontroli prema Zajedničkom popisu robe vojne namjene EU-a;
+g. nuklearna oprema ili pogonska oprema, uključujući »nuklearne reaktore« posebno konstruirane za vojnu uporabu te posebno izrađene ili »modificirane« komponente za vojnu uporabu;
+h. oprema i materijal, presvučen ili tretiran za smanjivanje mogućnosti otkrivanja položaja, posebno izrađeni za vojnu uporabu, osim onih navedenih drugdje u Zajedničkom popisu robe vojne namjene EU-a;
+i. simulatori posebno izrađeni za vojne »nuklearne reaktore«;
+j. pokretne radionice posebno izrađene ili »modificirane« za servisiranje vojne opreme;
+k. terenski generatori posebno izrađeni ili »modificirani« za vojnu uporabu;
+l. spremnici, posebno izrađeni ili »modificirani« za vojnu uporabu;
+m. trajekti, osim onih navedenih drugdje u Zajedničkom popisu robe vojne namjene EU-a, mostovi i pontoni, posebno konstruirani za vojnu uporabu;
+n. pokusni modeli posebno konstruirani za »razvoj« stavki navedenih u ML4., ML6., ML9. ili
+ML10.;
+o. oprema za zaštitu od lasera (npr. za zaštitu očiju ili senzora) posebno konstruirani za vojnu uporabu.
+p. »gorivne ćelije« osim onih navedenih drugdje u Zajedničkom popisu robe vojne namjene EU-a, posebno izrađene ili »modificirane« za vojnu uporabu.
+Tehničke napomene:
+1. za potrebe ML17., izraz ‚knjižnica’ (parametarske tehničke baze podataka) znači skup tehničkih informacija vojne prirode, a upućivanje na njih može poboljšati izvedbu vojne opreme ili sustava.
+2. za potrebe ML17. »modificiran« znači bilo koja strukturna, električna, mehanička ili druga promjena koja nevojnom sredstvu daje vojne karakteristike ekvivalentne drugom sredstvu koje jest posebno izrađeno za vojnu uporabu.
+ML18.
+Oprema za izradu proizvoda i komponente kako slijedi:
+a. posebno projektirana ili modificirana »proizvodna« oprema za »izradu« proizvoda navedenih u Zajedničkom popisu robe vojne namjene EU-a, kao i za nju posebno konstruirane komponente;
+b. postrojenja posebno konstruirana za testiranje utjecaja okoliša te za to posebno konstruirana oprema, za certificiranje, kvalificiranje ili testiranje proizvoda navedenih u Zajedničkom popisu robe vojne namjene EU-a.
+Tehnička napomena:
+Za potrebe ML18., pojam ‚izrada’ uključuje kreiranje, ispitivanje, proizvodnju, testiranje i provjeru.
+Napomena: ML18.a. i ML18.b. uključuju sljedeću opremu:
+a. opremu za kontinuiranu nitraciju;
+b. pribor za centrifugalno testiranje ili opremu koja ima bilo koju od sljedećih značajki:
+1. pokreće je motor ili motori ukupne vrednovane konjske snage veće od 298 kW (400 KS);
+2. nosivost korisnog tereta od 113 kg ili više; ili
+3. mogućnost centrifugalnog ubrzanja od 8 g ili više kod nosivosti od 91 kg ili više;
+c. preše za dehidraciju;
+d. ekstrudere posebno izrađene ili modificirane za izvlačenje vojnog eksploziva;
+e. rezače za dimenzioniranje izvučenih eksplozivnih punjenja;
+f. bubnjeve za miješanje materijala promjera 1,85 m ili više te kapaciteta proizvodnje preko 227 kg;
+g. kontinuirane miksere za kruta barutna punjenja;
+h. fluidne mlinove za mljevenje i usitnjavanje sastojaka vojnih eksploziva;
+i. opremu za postizanje sferičnosti i ujednačene veličine čestica u metalnom prahu navedenima u ML8.c.8.;
+j. pretvarače konvekcijske struje za preradu 

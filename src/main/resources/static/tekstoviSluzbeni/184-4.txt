@@ -1,0 +1,53 @@
+ PRIHODA OD AUTOMATA ZA IGRE NA SREĆU
+1. Pojam igara na sreću na automatima
+Članak 18.
+(1) Igre na sreću na automatima jesu igre koje se igraju na elektromehaničkim ili elektroničkim uređajima programski upravljanima, a na kojima igrači uplatom određenog iznosa imaju mogućnost stjecanja dobitka koji ovisi o slučaju ili nekom drugom neizvjesnom događaju.
+(2) Igre na sreću iz stavka 1. ovoga članka mogu priređivati samo priređivači koji su stekli pravo priređivanja igara na sreću u casinima i igara na sreću na automatima.
+2. Postupak izrade dnevnog obračuna
+Članak 19.
+(1) Priređivač koji priređuje igre na sreću na automatima mora za pravilno utvrđivanje osnovice za obračun mjesečne naknade izrađivati dnevni obračun po pojedinom automatu za igre na sreću.
+(2) Dnevni obračun pojedinog automata za igre na sreću utvrđuje se tako da se iznos svih uplata umanji za iznos isplaćenih dobitaka igračima, a razlika predstavlja dnevni obračun za pojedini automat za igre na sreću. Automati s više sjedećih mjesta smatraju se zasebnom vrstom igre i za njih se vodi zaseban dnevni obračun.
+3. Oblik i sadržaj obveznih obrazaca za dnevni obračun prihoda od igara na sreću na automatima
+Članak 20.
+Priređivač koji priređuje igre na sreću na automatima dužan je za izradu dnevnog obračuna prihoda od igara na sreću na automatima voditi sljedeće obrasce:
+1. Dnevni obračun po pojedinom automatu za igre na sreću
+2. Obračun gotovine po pojedinom automatu za igre na sreću
+3. Blagajnički izvještaj
+Obrazac za dnevni obračun po pojedinom automatu za igre na sreću
+Članak 21.
+(1) Obrazac Dnevni obračun po pojedinom automatu za igre na sreću (obrazac br. 10) obvezno mora sadržavati sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. adresu prostora u kojemu se priređuju igre na sreću
+4. datum
+5. inventurni broj automata za igre na sreću
+6. serijski broj automata za igre na sreću
+7. ukupan ulaz u kunama
+8. ukupan izlaz u kunama
+9. jack-pot
+10. razliku (ulaz-izlaz-jack-pot).
+(2) Za obračun automata za igre na sreću s više sjedećih mjesta, priređivač je dužan izraditi zaseban obrazac za dnevni obračun, na obrascu propisanom stavkom 1. ovoga članka.
+(3) Obrazac Dnevni obračun po pojedinom automatu za igre na sreću mora biti numeriran, a potpisuju ga najmanje dvije ovlaštene osobe priređivača.
+(4) Priređivač koji je automate za igre na sreću povezao radi dobivanja kumulativnih dobitaka (jack-pot) dužan je voditi dnevnu evidenciju o eventualnom dobitku jack-pota i to na kojem je automatu ostvaren, datum kada je ostvaren i iznos dobitka.
+(5) Ako je priređivač povezao više automata za igre na sreću u jack-pot liniju, dužan je naznačiti u obrascu koji se automati za igre na sreću nalaze u jednoj jack-pot liniji.
+Obrazac br. 10 – Dnevni obračun po pojedinom automatu
+PODACI O TVRTKI I SJEDIŠTU DRUŠTVA ___________________
+OIB _______________________________________________
+ADRESA ___________________________________________
+DATUM __________
+DNEVNI OBRAČUN PO POJEDINOM AUTOMATU ZA IGRE NA SREĆU N°__
+Red. br. INVENTURNI BROJ AUTOMATA SERIJSKI BROJ AUTOMATA UKUPAN ULAZ UKUPAN IZLAZ JACK-POT RAZLIKA UKUPNO
+_______________________                         _______________________
+Ovlaštena osoba priređivača                          Ovlaštena osoba priređivača
+Obrazac obračun gotovine po pojedinom automatu
+Članak 22.
+(1) Obrazac Obračun gotovine po pojedinom automatu za igre na sreću (obrazac br. 11) sastavlja se prilikom izrade dnevnog obračuna na automatima za igre na sreću.
+(2) Obrazac Obračun gotovine po pojedinom automatu za igre na sreću obvezno mora sadržavati sljedeće:
+1. podatke o tvrtki i sjedištu društva
+2. osobni identifikacijski broj priređivača (OIB)
+3. adresu prostora u kojemu se priređuju igre na sreću
+4. datum
+5. inventurni broj automata za igre na sreću
+6. serijski broj automata za igre na sreću
+7. stanje gotovine.
+(3) Obrazac Obračun gotovine po pojedinom automatu za igre na sreću mora biti numeriran, a potpisuju ga

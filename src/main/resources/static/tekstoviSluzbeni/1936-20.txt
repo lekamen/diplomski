@@ -1,0 +1,28 @@
+ (»Narodne novine«, br. 63/12., 121/12. i 144/12.) i Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 133/13., 151/13., 20/14. i 107/14.) i ugovor o otkupu električne energije zajamčenom otkupnom cijenom iz članka 35. ovoga Zakona, nema pravo na poticaje u obliku tržišne premije sukladno odredbama ovoga Zakona za proizvodna postrojenja, odnosno proizvodne jedinice za koje ostvaruje pravo na poticaje.
+Natječaj za dodjelu tržišne premije
+Članak 31.
+(1) Pravo na sklapanje ugovora o premiji ostvaruju nositelji projekata koji su izbrani kao najpovoljniji ponuđači na javnom natječaju koji priprema i provodi operator tržišta električne energije najmanje jednom godišnje, javnim prikupljanjem ponuda.
+(2) Javni natječaj iz stavka 1. ovoga članka provodi se u slučaju raspoloživosti kvota za poticanje.
+(3) Na temelju provedenog javnog natječaja operator tržišta električne energije donosi odluku o odabiru najpovoljnijih ponuđača.
+(4) Pravo sudjelovanja na natječaju iz stavka 1. ovoga članka, u skladu s uvjetima utvrđenim u javnom pozivu za javno prikupljanje ponuda, ima nositelj projekta za izgradnju novog proizvodnog postrojenja, odnosno proizvodne jedinice.
+(5) Javni poziv za javno prikupljanje ponuda iz stavka 1. ovog članka mora minimalno sadržavati:
+1. odredbu o klasifikaciji proizvodnih postrojenja
+2. odredbu o maksimalnim referentnim vrijednostima (RV) iz članka 32. stavka 2. ovoga Zakona, prema klasifikaciji proizvodnih postrojenja
+3. odredbu da se najpovoljnijim ponuđačima smatraju nositelji projekta koji ispunjavaju natječajne uvjete čija je ponuđena referentna vrijednost manja ili jednaka maksimalnoj referentnoj vrijednosti iskazanoj u javnom pozivu, i koji su ponudili najnižu referentnu vrijednost
+4. odredbu da se najpovoljniji ponuđači biraju u granicama raspoložive kvote
+5. odredbu o instrumentima jamstva ozbiljnosti ponude.
+(6) Uvjete natječaja, rokove, način provedbe natječaja i sadržaj javnog poziva za javno prikupljanje ponuda te klasifikaciju proizvodnih postrojenja za koja će se provoditi javni natječaji utvrdit će ministar pravilnikom iz članka 25. ovoga Zakona.
+Ugovor o tržišnoj premiji
+Članak 32.
+(1) Temeljem odluke o odabiru najpovoljnijeg ponuđača iz članka 31. stavka 3. ovoga Zakona operator tržišta električne energije sklapa ugovor o tržišnoj premiji s nositeljem projekta.
+(2) Tržišna premija (TPi) za svako pojedino proizvodno postrojenje ili proizvodnu jedinicu u obračunskom razdoblju i računa se kao:
+TPi = RV– TCi
+gdje je:
+TCi – referentna tržišna cijena električne energije u obračunskom razdoblju, iskazana u kn/kWh
+RV – referentna vrijednost električne energije utvrđena ugovorom o tržišnoj premiji, iskazana u kn/kWh.
+Ako je izračunana vrijednost tržišne premije (TPi) negativna, tržišna premija jednaka je nuli.
+(3) Obračunsko razdoblje iz stavka 2. ovoga članka je jedan mjesec.
+(4) Iznose maksimalnih referentnih vrijednosti električne energije utvrđuje operator tržišta električne energije, na temelju metodologije za izračun maksimalnih referentnih vrijednosti električne energije propisane pravilnikom iz članka 25. ovoga Zakona, jednom godišnje i objavljuje na svojim mrežnim stranicama te koristi za potrebe provedbe natječaja iz članka 31. ovoga Zakona.
+(5) Iznos referentne tržišne cijene električne energije utvrđuje operator tržišta električne energije do 15. dana u tekućem mjesecu za prethodni mjesec, na temelju metodologije za izračun referentnih tržišnih cijena električne energije propisane pravilnikom iz članka 25. ovoga Zakona, i objavljuje na svojim mrežnim stranicama.
+(6) Metodologijom za izračun referentnih tržišnih cijena električne energije iz stavka 5. ovog članka utvrdit će se mehanizam koji će osigurati da povlašteni proizvođač električne energije nema pravo na poticaj tržišnom premijom u razdobljima kada su referentne tržišne cijene negativne.
+(7) Metodologijom za izračun referentnih tržišnih cijena za pojedine skupine

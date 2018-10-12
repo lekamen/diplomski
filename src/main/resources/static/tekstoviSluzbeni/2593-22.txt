@@ -1,0 +1,29 @@
+ određuje pri kojim uvjetima se primjenjuju pojedine oznake.
+Glava 6 PRAVILA PLOVIDBE
+POGLAVLJE I OPĆE ODREDBE
+Članak 6.01 – Definicije i područje primjene
+(1) Za potrebe ove Glave, upotrijebljeni izrazi imaju sljedeća značenja:
+a) »mimoilaženje« označava kada dva plovila plove u pravcima koji su izravno ili gotovo izravno suprotni,
+b) »pretjecanje« označava kada plovilo (plovilo koje pretječe) prilazi drugom plovilu (plovilo koje se pretječe) iz pravca koji se nalazi pod kutom većim od 22,5º iza poprečnice pretjecanog plovila i pretekne ga,
+c) »presijecanje pravaca kretanja« označava kada se dva plovila ne približavaju na isti način kako je to navedeno u točkama a) i b) ovoga stavka.
+(2) Ako nije drugačije naznačeno, za potrebe ove Glave, pravila koja se primjenjuju na plovila primjenjuju se i na sastave.
+(3) U Republici Hrvatskoj se primjenjuju i članci 11.07 i 11.08 ovoga Pravilnika.
+Članak 6.01 a) – Brzi brodovi
+Brzi brodovi moraju svim drugim plovilima ostaviti dovoljno prostora kako bi druga plovila mogla zadržati svoj pravac kretanja i kako bi mogla manevrirati. Brzi brodovi ne mogu zahtijevati od drugih plovila da im oslobode put.
+Članak 6.02 – Čamci: opća pravila
+(1) Za potrebe ove Glave, pod izrazom »čamac« podrazumijevaju se čamci koji plove samostalno i sastavi koji su sastavljeni isključivo od čamaca.
+(2) Čamci moraju ostaviti svim drugim plovilima, uključujući i brze brodove, dovoljno prostora kako bi ta plovila mogla zadržati svoj pravac kretanja i kako bi mogla manevrirati. Čamci ne mogu zahtijevati od tih plovila da im oslobode put.
+POGLAVLJE II MIMOILAŽENJE, PRESIJECANJE PRAVACA KRETANJA I PRETJECANJE
+Članak 6.03 – Opća načela
+(1) Mimoilaženje ili pretjecanje dozvoljeno je samo ako plovni put ima nedvojbeno dovoljnu širinu za istodobno prolaženje, vodeći računa o svim lokalnim okolnostima i o kretanju drugih plovila.
+(2) U sastavima, znakove koji su propisani člancima 3.17, 6.04 i 6.05 ovoga Pravilnika mora davati samo plovilo na kojem se nalazi zapovjednik sastava.
+(3) Plovila koja plove na pravcima koji isključuju svaku opasnost od sudara ne smiju mijenjati pravac ni brzinu na način koji bi mogao prouzročiti opasnost od sudara.
+(4) Zapovjednik koji uoči opasnost od sudara mora davati nizove vrlo kratkih zvučnih znakova.
+Članak 6.03 a) – Presijecanje pravaca kretanja
+(1) Kada dva plovila plove pravcima koji se presijecaju na način da postoji opasnost od sudara, plovilo koje vidi drugo plovilo na svojoj desnoj strani mora mu osloboditi put i, ako okolnosti to dozvoljavaju, izbjeći pravac kretanja koji prolazi i presijeca pravac kretanja drugog plovila ispred pramca tog plovila. Međutim, plovilo koje se nalazi na desnoj strani obilježenog plovnog puta mora zadržati svoj pravac. Ova odredba se ne primjenjuje na čamce u odnosu prema drugim plovilima.
+(2) Odredbe stavka 1. ovoga članka ne primjenjuju se kada je bilo koji od članaka 6.13, 6.14 i 6.16 ovoga Pravilnika primjenjiv.
+(3) Bez obzira na odredbe stavka 1. ovoga članka, u slučaju čamaca različitih kategorija, kada se pravci kretanja dva čamca presijecaju na takav način da postoji opasnost od sudara, tada motorni čamac mora osloboditi put svim drugim čamcima, a čamac koji nema motor i koji ne plovi pomoću jedara, mora osloboditi put čamcima koji plove pomoću jedara.
+(4) Bez obzira na odredbe stavka 1. ovoga članka, kada dvije jedrilice plove pravcima koji se presijecaju na takav način da postoji opasnost od sudara, jedna jedrilica mora osloboditi put drugoj jedrilici tako da:
+a) kada plovila jedre dobivajući vjetar s različitih strana, tada plovilo koje jedri dobivajući vjetar s lijeve strane mora osloboditi put drugom plovilu,
+b) kada dva plovila dobivaju vjetar s istih strana, ono koje se nalazi u privjetrini mora osloboditi put plovilu koje plovi u zavjetrini,
+c) kada plovilo koje dobiva vjetar s lijeve strane vidi drugo plovilo u privjetrini i ne može sa sigurnošću odrediti da li to drugo plovilo dobiva vjetar s lijeve ili s desne strane, prvo plovilo

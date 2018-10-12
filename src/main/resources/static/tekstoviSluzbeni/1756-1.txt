@@ -1,0 +1,33 @@
+ otpada sačinjava ključni broj otpada, naziv otpada i oznaka zapisa s odgovarajućom naznakom o karakterističnim opasnim svojstvima. Opasna svojstva otpada su označena sukladno Dodatku III. Zakona o održivom gospodarenju otpadom.
+(5) Katalog otpada je propisan Dodatkom I. ovoga Pravilnika.
+Kategorizacija za prekogranični promet otpadom
+Članak 4.
+Kategorizacija za prekogranični promet otpadom, propisana Dodatkom II. ovoga Pravilnika, sadrži: Zeleni popis otpada, Žuti popis otpada, kriterije klasifikacije otpada sa Zelenog popisa i kategorije otpada koje je potrebno nadzirati sukladno Prilogu I. Baselske konvencije.
+Količina određenog otpada koja se smatra neznatnom
+Članak 5.
+(1) Količina određenog otpada koja se smatra neznatnom, u nedozvoljenom prometu otpadom, je količina jedne ili više naizgled povezanih pošiljki otpada za koju se smatra da ne može trajnije ili u znatnoj mjeri ugroziti kakvoću zraka, tla, podzemlja, vode ili mora, ili u znatnoj mjeri ili na širem području ugroziti životinje, bilje ili gljive, ili ugroziti život ili zdravlje ljudi.
+(2) Količina određenog otpada koja se smatra neznatnom iz stavka 1. ovoga članka ovisi o svojstvu tvari sadržane u tom otpadu, a u svakom slučaju je manja od 1 000 kg opasnog otpada odnosno 10 000 kg neopasnog otpada.
+PRIJELAZNE I ZAVRŠNE ODREDBE
+Članak 6.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Uredba o kategorijama, vrstama i klasifikaciji otpada s katalogom otpada i listom opasnog otpada (»Narodne novine«, broj 50/05 i 39/09).
+Članak 7.
+Dodaci I. i II. tiskani su uz ovaj Pravilnik i njegov su sastavni dio.
+Članak 8.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+Klasa: 351-01/15-04/13
+Urbroj: 517-01-15-2
+Zagreb, 3. kolovoza 2015.
+Ministar Mihael Zmajlović, v. r.
+DODATAK I.
+KATALOG OTPADA
+1. KATEGORIZACIJA OTPADA, OSIM KATEGORIZACIJE ZA PREKOGRANIČNI PROMET OTPADOM
+1.1. Određivanje porijekla i mjesta nastanka otpada
+Porijeklo i mjesto nastanka otpada utvrđuje posjednik otpada koji je:
+1. proizvođač otpada na način da odredi lokaciju na kojoj je otpad nastao upisom odgovarajuće adrese organizacijske jedinice u Obrazac ONTO propisan posebnim propisom koji uređuje gospodarenje otpadom (u daljnjem tekstu Obrazac ONTO)
+2. osoba koja obavlja postupak gospodarenja otpadom:
+– u slučaju kad preuzme otpad od druge osobe na način da odredi osobu od koje je taj otpad preuzeo upisom odgovarajućeg broja pratećeg lista i odgovarajuće adrese organizacijske jedinice u Obrazac ONTO
+– prilikom postupanja s određenom količinom otpada koja uzrokuje promjenu ključnog broja tog otpada na način da u odgovarajuće Obrasce ONTO unese odgovarajuće navode s oznakama o ulazu odnosno izlazu otpada sukladno posebnom propisu koji uređuje gospodarenje otpadom.
+1.2. Određivanje grupe, podgrupe, vrste i svojstva otpada
+Grupa, podgrupa, vrsta i svojstvo otpada određuje se temeljem podataka o otpadu propisanih Popisom grupa i podgrupa, Popisom otpada te dostupnih podataka o vrsti industrije ili procesa u kojem je otpad nastao odnosno o vrsti tvari ili predmeta koja ima status otpada sukladno sljedećem hodogramu:
+1. Provjerava se sukladnost svih dostupnih informacija o otpadu, kojeg se kategorizira, s podatkom sadržanom u nazivu grupe, nazivu podgrupe i nazivu otpada, pri čemu se razmatraju samo grupe označene brojem od 1 do 12 i od 17 do 20, i ne razmatra se otpad označen ključnim brojem čije su zadnje dvije znamenke 99. Ukoliko, temeljem provedene provjere, postoji sukladnost svih navedenih informacija za ključni broj, prelazi se na točku 5. ovoga poglavlja, u protivnom prelazi se na točku 2. ovoga poglavlja.
+2. Provjerava se sukladnost svih dostupnih informacija o otpadu, kojeg se kategorizira, s podatkom sadržanim u nazivu grupe, nazivu podgrupe i nazivu otpada, pri čemu se razmatraju samo grupe označene brojem od 13 do 15. Ukoliko, temeljem provedene provjere, postoji sukladnost svih navedenih informacija za ključni broj, prelazi se na točku 5. ovoga poglavlja, u

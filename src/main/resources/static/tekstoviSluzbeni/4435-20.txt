@@ -1,0 +1,46 @@
+ dozvolu za taj MLZ i svoju sposobnost za obavljanje tih poslova je dokazao Agenciji.
+(5) Poslovi održavanja koje može obavljati pilot MLZ moraju kao takvi biti posebno označeni u programu održavanja zrakoplova iz članka 121. ovoga Pravilnika.
+Ovlast za održavanje
+Članak 123.
+(1) Agencija može ovlastiti pravnu ili fizičku osobu za obavljanje poslova održavanja MLZ.
+(2) Da bi stekla ovlast iz stavka 1. ovog članka, pravna osoba mora dokazati stručnost predloženog osoblja, postojanje procedura, dosljednost u njihovom provođenju te organizacijsku strukturu sa jasnom raspodjelom nadležnosti i odgovornosti. Strukturu, odgovornosti, opis procedura i kvalifikacije osoblja pravna osoba mora prikazati u organizacijskom priručniku koji odobrava Agencija u postupku izdavanja ovlasti.
+(3) Da bi stekla ovlast iz stavka 1. ovog članka fizička osoba mora dokazati stručnost i način rada prikazati u priručniku koji odobrava Agencija u postupku izdavanja ovlasti.
+Naredbe o plovidbenosti
+Članak 124.
+Naredbe o plovidbenosti koje izdaje Agencija mogu se odnositi i na MLZ ili na njih ugrađenu opremu.
+Servisna pisma (bilteni)
+Članak 125.
+Servisna pisma (biltene) koje izda proizvođač serijskog MLZ ili na njega ugrađene opreme, vlasnik odnosno operator MLZ je obvezan provesti ukoliko ih je proizvođač označio kao obvezne.
+Glava 6 IZMJENE MLZ
+Odobrenje izmjene MLZ
+Članak 126.
+(1) Projekt izmjene MLZ mora biti odobren od proizvođača tog MLZ.
+(2) Izmjene MLZ i njihov tijek moraju biti zabilježene u knjižici zrakoplova te listi preinaka zrakoplova.
+Ispitivanje nakon izmjene
+Članak 127.
+U slučaju potrebe za ispitivanjem MLZ nakon obavljanja izmjene, po završetku ispitivanja Agenciji se podnosi izvješće sastavljeno na temelju ishoda ispitivanja.
+DIO SEDMI ŽIROPLANI DO 560 KG
+Primjenjivi zahtjevi
+Članak 128.
+Kao zahtjevi za projektiranje, prihvaćanje, gradnju, izmjenu, kontinuiranu plovidbenost, održavanje i popravke žiroplana do 560 kilograma na odgovarajući način primjenjuju se zahtjevi iz Dijela šestog ovoga Pravilnika.
+DIO OSMI REPLIKE POVIJESNIH ILI BIVŠIH VOJNIH ZRAKOPLOVA
+Primjenjivi zahtjevi
+Članak 129.
+(1) Kao zahtjevi za projektiranje, odnosno nadopune i izmjene projekta, prihvaćanje, gradnju, izmjenu, kontinuiranu plovidbenost, održavanje i popravke replika povijesnih ili bivših vojnih zrakoplova na odgovarajući način primjenjuju se zahtjevi iz Dijela trećeg ovoga Pravilnika.
+(2) Iznimno od stavka 1.ovog članka Agencija može odobriti gradnju replike povijesnog ili bivšeg vojnog zrakoplova u skladu sa zahtjevima Dijela četvrtog ovoga Pravilnika, pod uvjetom da se radi o zrakoplovu nižih performansi i nižih tehnoloških zahtjeva. Takav zrakoplov smatrat će se amaterski građenim zrakoplovom.
+Označavanje zrakoplova
+Članak 130.
+(1) Na replici povijesnog ili bivšeg vojnog zrakoplova mora se, na vidljivom mjestu na vanjskoj strani zrakoplova, osim drugih propisanih oznaka, najmanje sa dvije strane, na postojan način nalaziti natpis velikim latiničnim slovima visine najmanje 50 mm, u boji koja je u jasnom kontrastu s bojom pozadine:
+»REPLIKA POVIJESNOG ZRAKOPLOVA – HISTORICAL AIRCRAFT REPLICA«
+odnosno
+»REPLIKA BIVŠEG VOJNOG ZRAKOPLOVA – EX-MILITARY AIRCRAFT REPLICA«.
+(2) U unutrašnjosti zrakoplova mora se na mjestu vidljivom pilotu i putnicima nalaziti natpis velikim latiničnim slovima, visine najmanje 10 mm, bijele boje na crvenoj podlozi:
+»OVAJ ZRAKOPLOV NIJE U SKLADU SA STANDARDNIM ZAHTJEVIMA ZA SIGURNOST ZRAKOPLOVA«
+»THIS AIRCRAFT DOES NOT COMPLY WITH STANDARD REQUIREMENTS FOR AIRCRAFT SAFETY«.
+DIO DEVETI SUSTAVI BESPILOTNIH ZRAKOPLOVA DO 150 KG
+Primjenjivi zahtjevi
+Članak 131.
+Kao zahtjevi za projektiranje, prihvaćanje, gradnju, izmjenu, kontinuiranu plovidbenost, održavanje i popravke sustava bespilotnih zrakoplova do 150 kilograma, na odgovarajući način primjenjuju se zahtjevi iz Dijela trećeg ovoga Pravilnika.
+Označavanje zrakoplova
+Članak 132.
+Na bespilotnom zrakoplovu mora se, osim drugih propisanih oznaka, na vidljivom mjestu na vanjskoj strani

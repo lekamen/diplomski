@@ -1,0 +1,38 @@
+ Odobrenje za oslobođenog korisnika izdaje se na neodređeno vrijeme.
+(7) Količina prirodnog plina koju koristi oslobođeni korisnik za obavljanje djelatnosti u smislu članka 101. stavka 1. Zakona za koje traži oslobođenje od plaćanja trošarine utvrđuje se za razdoblje koje ne može biti dulje od 12 mjeseci.
+(8) Oslobođeni korisnik obvezan je nadležni carinski ured obavijestiti o svim izmjenama podataka u odobrenju u roku od osam dana od dana nastanka promjene, odnosno od dana saznanja za izvršenu promjenu.
+(9) Odredbe članka 14. ovoga Pravilnika o utvrđivanju gubitaka ili manjkova primjenjuju se i na oslobođenog korisnika iz ovoga članka.
+Sadržaj i način vođenja evidencije oslobođenog korisnika
+Članak 133.
+(1) Oslobođeni korisnici moraju vodi evidencije za svaki pogon oslobođenog korisnika, i to podatke o:
+1. preuzetim količinama prirodnog plina bez plaćanja trošarine
+2. preuzetim količinama prirodnog plina s plaćenom trošarinom
+3. korištenim količinama prirodnog plina za namjene iz članka 101. stavka 1. Zakona
+4. proizvedenim količinama proizvoda u okviru svoje registrirane djelatnosti i
+5. izdanim računima za izvršene isporuke prirodnog plina.
+(2) Oslobođeni korisnik vodi evidencije iz stavka 1. ovoga članka na način da u svakom trenutku može iskazati stanje potrošnje prirodnog plina.
+(3) Oslobođeni korisnik može sam izabrati oblik i način vođenja evidencije ako takav oblik i način osigurava podatke iz stavka 1. ovoga članka.
+(4) Oslobođeni korisnik mora voditi i čuvati evidencije iz stavka 1. ovoga članka u pogonu oslobođenog korisnika.
+(5) Nadležni carinski ured može u bilo kojem trenutku zatražiti od oslobođenog korisnika uvid u evidenciju.
+Isporuka prirodnog plina oslobođenom korisniku
+Članak 134.
+(1) Opskrbljivač iz članka 96. stavka 1. točke 1. Zakona isporučuje prirodni plin oslobođenom korisniku bez obračunate trošarine pod sljedećim uvjetima:
+1. da se prirodni plin isporučuje na temelju ugovora o opskrbi prirodnog plina s oslobođenim korisnikom
+2. da oslobođeni korisnik prije preuzimanja prirodnog plina dostavi presliku odobrenja za oslobođenog korisnika i
+3. da prirodni plin otprema uz račun te da na računu upiše napomenu da je prirodni plin isporučen bez obračunate trošarine na temelju odobrenja oslobođenog korisnika, s pozivom na broj i datum odobrenja.
+(2) Opskrbljivač iz stavka 1. ovoga članka mora voditi evidenciju o isporučenim količinama prirodnog plina oslobođenim korisnicima te istu na traženje dostaviti nadležnom carinskom uredu.
+(3) Ukoliko oslobođeni korisnik mijenja opskrbljivača iz članka 96. stavka 1. točke 1. Zakona tada mora, uz ispunjenje uvjeta iz stavka 1. ovog članka, predati novom opskrbljivaču iz članka 96. stavka 1. točke 1. Zakona od prethodnog opskrbljivača ovjerenu izjavu o prethodno potrošenoj količini prirodnog plina oslobođenog plaćanja trošarine i preostaloj nepotrošenoj količini prirodnog plina oslobođenog plaćanja trošarine iz odobrenja za oslobođenog korisnika.
+Evidencije i mjesečna izvješća trošarinskih obveznika
+Članak 135.
+(1) Trošarinski obveznici iz članka 96. stavka 1. Zakona dužni su voditi evidencije o količinama prirodnog plina u MWh za:
+1. preuzete količine prirodnog plina
+2. preuzete količine prirodnog plina unesene iz druge države članice za vlastitu potrošnju
+3. preuzete količine prirodnog plina uvezene u Republiku Hrvatsku za vlastitu potrošnju
+4. proizvedene količine prirodnog plina za vlastitu potrošnju
+5. nabavljene (preuzete) količine prirodnog plina oslobođene plaćanja trošarine
+6. isporučene količine prirodnog plina krajnjem kupcu
+7. isporučene količine prirodnog plina oslobođene plaćanja trošarine
+8. isporučene količine prirodnog plina otpremljene u iznos/izvoz
+9. potrošene količine prirodnog plina za vlastitu potrošnju.
+(2) Evidencije iz stavka 1. ovoga članka vode se prema fizičkim ili pravnim osobama i prema obračunskim mjernim mjestima za preuzimanje, osim za isporučene količine krajnjim kupcima iz članka 101. stavka 1. točke 8. Zakona.
+(3) Evidencije iz

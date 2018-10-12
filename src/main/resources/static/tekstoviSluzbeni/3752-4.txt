@@ -1,0 +1,27 @@
+ 202 057-1 ETSI ES 202 057-1 Opseg problema vezan uz postupak prenosivosti broja ETSI ES 202 057-1 ETSI ES 202 057-1 Omjer neuspješnih poziva ETSI EG 201 769-1 ETSI TS 132 409 RFC 6076 ETSI EG 201 769-1 ETSI TS 132 409 RFC 6076
+OBRAZAC 1.
+IZVJEŠĆE O VRIJEDNOSTIMA POKAZATELJA RAZINE KAKVOĆE JAVNIH KOMUNIKACIJSKIH USLUGA U NEPOKRETNOJ ELEKTRONIČKOJ KOMUNIKACIJSKOJ MREŽI
+Naziv trgovačkog društva: __________________________________________________________________
+Podatci za period: od____________ do _____________
+Parametar Mjera Statistika 1.1 Vrijeme uspostave usluge na fiksnoj lokaciji za 95 % ostvarenih priključaka u promatranom razdoblju (dani) % uspostavljenih usluga do dogovorenog termina % vrijeme zaprimanja zahtjeva od..………………..do.…………... radnim danom od..………………..do.……………... subotom od.………………...do...……………. nedjeljom 1.2 Omjer kvarova po pristupnom vodu za 100 linija u promatranom periodu % 1.3 Vrijeme uklanjanja kvara za 80% kvarova (sati) za 95% kvarova (sati) % uklonjenih kvarova ciljanog dana % vrijeme zaprimanja prijava kvarova od.………………....do..…………. radnim danom od..………………...do...……………. subotom od..………………...do…………….... nedjeljom 1.4 Odzivno vrijeme službe za korisnike prosječno vrijeme odgovora u promatranom periodu (sekunde) % odgovorenih poziva u razdoblju do 20 sekundi % 1.5 Odzivno vrijeme za pristup popisu korisnika javne govorne usluge prosječno vrijeme odgovora u promatranom razdoblju (sekunde) % odgovorenih poziva u razdoblju do 20 sekundi % 1.6 Učestalost prigovora/pritužbi u svezi s ispravnosti računa % u promatranom razdoblju % 1.7 Učestalost prigovora/pritužbi u svezi s ispravnosti računa za korisnike unaprijed plaćene usluge (pre-paid korisnik) % u promatranom razdoblju % 1.8 Vrijeme uspostave internetske usluge prosječno vrijeme uspostave internetske usluge u promatranom razdoblju za dail-up (dani) prosječno vrijeme uspostave internetske usluge u promatranom razdoblju za širokopojasni pristup internetu (dani) 1.9 Opseg problema vezan uz postupak prenosivosti broja Broj odbijenih (i odgođenih) zahtjeva za prijenos broja podijeljen s ukupnim brojem podnesenih zahtjeva % 1.10 Omjer neuspješnih poziva % u promatranom razdoblju %
+Potpisom ovog obrasca potvrđujemo da su svi navedeni podaci istiniti i potpuni odnosno vjerodostojni. Za podatke i njihovu vjerodostojnost preuzimamo potpunu materijalnu i kaznenu odgovornost.
+Mjesto i datum:
+Žig Potpis odgovorne osobe
+Članak 13.
+Dodatak 4. u svom prvom dijelu i tablici 2. mijenja se i glasi:
+DODATAK 4.
+POKAZATELJI KAKVOĆE JAVNIH KOMUNIKACIJSKIH USLUGA U POKRETNOJ ELEKTRONIČKOJ KOMUNIKACIJSKOJ MREŽI
+Operatori javnih komunikacijskih usluga u pokretnoj elektroničkoj komunikacijskoj mreži moraju obavljati o vlastitom trošku mjerenja onih pokazatelja kakvoće usluge koji se nalaze u OBRASCU 2. koji utvrđuje Vijeće Agencije. Mjerenja pokazatelja kakvoće usluge obavljaju se na način i prema postupku utvrđenom ETSI standardom ES 202 057-1 te uputama EG 202 057-3 i TS 102 250-2, u skladu s Tablicom 2. Mjerenja pokazatelja kakvoće usluge, te obuhvaćaju:
+– odzivno vrijeme službe za korisnike (response time for operator services)
+– odzivno vrijeme za pristup popisu korisnika javne govorne usluge (response time for directory enquiry services)
+– učestalost prigovora/pritužbi u vezi s ispravnosti računa (bill corretness complaints)
+– učestalost prigovora/pritužbi u vezi s ispravnosti računa za korisnike unaprijed plaćene usluge (pre-paid korisnik) (prepaid account credit correctness complaints)
+– opseg problema vezan uz postupak prenosivosti broja (proportion of problems with number portability procedures)
+– omjer raskinutih veza (dropped call ratio)
+– omjer neuspješnih SMS poruka (SMS completion failure ratio)
+– omjer neuspješnih MMS poruka (MMS end-to-end failure ratio)
+– vrijeme prijenosa SMS poruka (SMS end-to-end delivery time)
+– vrijeme prijenosa MMS poruka (MMS end-to-end delivery time)
+– mrežna geografska dostupnost (network availability)
+Tablica 2.
+Naziv pokazatelja

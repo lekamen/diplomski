@@ -1,0 +1,26 @@
+ opskrbu električnom energijom te opće uvjete za korištenje mreže i opskrbu električnom energijom.
+(3) Novi opskrbljivač dužan je krajnjem kupcu prilikom potpisivanja zahtjeva iz stavka 1. ovoga članka uručiti uvjete opskrbljivača za opskrbu električnom energijom, kao i tarifni model i/ili komercijalne uvjete koji su predmet ugovora, što krajnji kupac potvrđuje svojim potpisom na zahtjevu za sklapanje novog ugovora o opskrbi.
+VI. PROVJERA USKLAĐENOSTI PODATAKA O KRAJNJEM KUPCU IZ KATEGORIJE PODUZETNIŠTVO I OBRAČUNSKOM MJERNOM MJESTU
+Članak 13.
+Novi opskrbljivač dužan je u roku od dva radna dana od dana zaprimanja urednog zahtjeva za sklapanje novog ugovora o opskrbi dostaviti operatoru sustava zahtjev za provjeru usklađenosti podataka koji sadrži:
+– ime i prezime, osobni identifikacijski broj (OIB), adresu i broj fiksnog/mobilnog telefona odnosno naziv pravne osobe, osobni identifikacijski broj (OIB), adresu i broj fiksnog/mobilnog telefona krajnjeg kupca,
+– broj i adresu obračunskog mjernog mjesta krajnjeg kupca,
+– jedinstvenu oznaku tarifnog modela iz članka 11. stavka 2. podstavka 3. ovih Pravila,
+– dan zaprimanja urednog zahtjeva krajnjeg kupca za sklapanje novog ugovora o opskrbi,
+– očekivani dan početka primjene novog ugovora o opskrbi.
+Članak 14.
+(1) Nakon što operator sustava od novog opskrbljivača zaprimi zahtjev za provjeru usklađenosti podataka, operator sustava utvrđuje da li su podaci o krajnjem kupcu i obračunskom mjernom mjestu iz zahtjeva za provjeru usklađenosti podataka usklađeni s podacima operatora sustava, i to:
+– osobni identifikacijski broj (OIB),
+– broj obračunskog mjernog mjesta i
+– jedinstvena oznaka tarifnog modela novog opskrbljivača,
+te provjerava da li za isto obračunsko mjerno mjesto već postoji neki drugi zahtjev za promjenu opskrbljivača.
+(2) Ako su podaci o krajnjem kupcu i obračunskom mjernom mjestu usklađeni s podacima operatora sustava, operator sustava dužan je u roku od tri radna dana od dana zaprimanja zahtjeva za provjeru usklađenosti podataka izdati novom opskrbljivaču potvrdu o usklađenosti podataka.
+(3) Ako podaci o krajnjem kupcu i obračunskom mjernom mjestu nisu usklađeni s podacima operatora sustava, operator sustava dužan je u roku od tri radna dana od dana zaprimanja zahtjeva za provjeru usklađenosti podataka o tome obavijestiti novog opskrbljivača te navesti koji podaci nisu usklađeni.
+(4) Novi opskrbljivač dužan je u roku od tri radna dana od dana zaprimanja obavijesti operatora sustava iz stavka 3. ovoga članka otkloniti nedostatke u zahtjevu za provjeru usklađenosti podataka i o tome obavijestiti operatora sustava, u protivnom, postupak promjene opskrbljivača se obustavlja.
+(5) Nakon što je novi opskrbljivač otklonio nedostatke u zahtjevu za provjeru usklađenosti podataka i o tome obavijestio operatora sustava, operator sustava dužan je u roku od tri radna dana od dana zaprimanja obavijesti novog opskrbljivača o otklanjanju nedostataka iz stavka 4. ovoga članaka izdati novom opskrbljivaču potvrdu o usklađenosti podataka.
+(6) Operator sustava dužan je novom opskrbljivaču do uključivo 24. u mjesecu koji prethodi mjesecu primjene novog ugovora o opskrbi dostaviti:
+– potvrdu o usklađenosti podataka i
+– mjerne podatke s obračunskog mjernog mjesta krajnjeg kupca, sukladno članku 11. stavku 3. ovih Pravila.
+(7) Ako operator sustava utvrdi da je na obračunskom mjernom mjestu krajnjeg kupca u tijeku postupak promjene opskrbljivača započet po drugom opskrbljivaču, postupak promjene opskrbljivača pokrenut po kasnijem zahtjevu za sklapanje ugovora o opskrbi se obustavlja.
+(8) U slučaju obustave postupka promjene opskrbljivača iz stavaka 4. i 7. ovoga članka, operator sustava dužan je o tome bez odlaganja, a najkasnije u roku od tri radna dana od dana obustave postupka, obavijestiti novog opskrbljivača.
+(9) Novi opskrbljivač dužan je u roku od tri radna dana od dana zaprimanja obavijesti iz stavka 8. ovoga članka obavijestiti krajnjeg kupca o obustavi postupka promjene opskrbljivača te

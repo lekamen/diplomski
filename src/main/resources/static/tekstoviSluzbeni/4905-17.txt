@@ -1,0 +1,77 @@
+ indicirane i efektivne snage motora;
+– Otklanjanje havarije na motoru i utvrđivanje uzroka havarije;
+– Proračun zaliha i potrošnje goriva i maziva;
+– Automatizacija motora u funkciji sigurnosti rada motornog postrojenja;
+BROJ SATI: TEORIJA = 8
+b) Brodska elektrotehnika i automatizacija pogona – usmeni ispit
+– Brodska električna centrala;
+– Akumulatori;
+– Istosmjerna struja;
+– Generatori istosmjerne struje;
+– Elektromotori istosmjerne struje;
+– Automatizacija u funkciji sigurnosti i zaštiti električnih strojeva i elektroinstalacija;
+– Elektroinstalacija;
+BROJ SATI: TEORIJA = 8
+c) Brodski pomoćni strojevi i uređaji – usmeni ispit
+– Podjela pomoćnih strojeva prema namjeni i vrsti pogona;
+– Brodske sisaljke – podjela;
+– Ventilatori za izmjenu zraka u strojarnici;
+– Separatori motornog ulja, goriva i zamuljene vode;
+– Izmjenjivači topline rashladne vode glavnog motora;
+– Grubi i fini čistači vode, goriva i ulja;
+– Posude pod tlakom za pokretanje glavnih motora;
+– Hidraulični kormilarski stroj;
+– Brodske instalacije, ventilske stanice, brzozaporni ventili;
+– Automatizacija pomoćnih motora u funkciji sigurnosti pogona;
+BROJ SATI: TEORIJA = 8
+Dio III. DOPUNSKA OSPOSOBLJENOST
+1. Za upravljanje plovilom uz pomoć radara
+– Opći pojmovi o radaru
+– Način rada radara
+– Frekvencije, snaga i rasprostiranje valova
+– Radarski sklopovi
+– Uključivanje radara
+– Podešavanje radara
+– Uklanjanje smetnji na radarskoj slici
+– Mogućnosti radara
+– Radarska slika i tumačenje objekata na zaslonu
+– Određivanje udaljenosti
+– Određivanje vlastite pozicije te pozicije pokretnih i nepokretnih objekata
+– Plovidba u zadanom kursu, te izbjegavanje sudara
+– Procjena ponašanja drugih sudionika u plovidbi
+– Smetnje na radarskoj slici koje uzrokuju okruženje, vlastito plovilo, te meteorološki uvjeti
+– Prednosti i nedostaci radara u navigaciji
+BROJ SATI: TEORIJA+ PRAKSA =10 (teorija 7 + praksa 3).
+2. Za rukovanje radiotelefonskim uređajem
+– Vrste radiopostaja
+– Dokumentacija za upotrebu radiopostaje i obvezni upisi
+– Propisi koji reguliraju uporabu radiopostaja, RAINWAT, priručnici
+– Testiranje uređaja, izlazna snaga odašiljača i smetnje signala
+– Napajanje radiouređaja i njegovo održavanje
+– Tablica kanala i frekvencije, tablica sricanja
+– Simplex i Duplex način rada, Dual Watch
+– Kategorija službe »plovilo-plovilo«
+– Kategorija službe »nautičke informacije«
+– Kategorija službe »plovilo-luka«
+– Kategorija službe »interna komunikacija«
+– Priprema poziva i pozivanje, komunikacijska forma
+– Disciplina komunikacije, odgovornost za rad s radiouređajima i obveze javljanja
+– Redoslijed prvenstva u radio-komunikaciji
+– Početak komunikacije opasnosti i odgovor na poziv
+– Režim rada na kanalima za opasnost, prosljeđivanje poruke i radio šutnja
+– Procedura komunikacije hitnosti
+– Procedura komunikacije sigurnosti
+BROJ SATI: TEORIJA + PRAKSA = 10 (teorija 5 + praksa 5).
+3. Za rukovanje plovnom dizalicom
+– Osnovni pojmovi o sili, mehaničkom radu, brzini snazi i energiji i o jedinicama za njihovo mjerenje
+– Pojam o brodskim linijama, njihovom značenju, i primjeni
+– Istisnina (deplasman), vlastita težina i nosivost plovila (definicije)
+– Koeficijent punoće istisnine i približni proračun istisnine i nosivosti plovila, kada su poznate glavne dimenzije trupa i koeficijent punoće istisnine.
+– Stabilna, labilna i indiferentna ravnoteža plovila, sa naročitim osvrtom na stabilitet plovnih dizalica
+– Osnovni pojmovi o pramčanoj i krmenoj pretezi plovnih dizalica – uzroci, nastajanje i posljedice (opisno)
+– Glavne vrste plovnih dizalica, (opis, glavne dimenzije, kapaciteti, prednosti i nedostaci).
+– Princip rada i glavni dijelovi četverotaktnog i dvotaktnog dizel-motora
+– Osnovno poznavanje električnih uređaja i instalacije na plovnoj dizalici,
+– Glavne vrste pomoćnih tehničkih plovila (opis, namjena i kapaciteti).
+– Glavni dizalični uređaji i oprema (vrste, opis i funkcioniranje)
+– Pojam o silama koje djeluju na glavne konstruktivne dijelove dizaličnih uređaja i o naprezanju i izdržljivosti

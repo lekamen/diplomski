@@ -1,0 +1,25 @@
+upravlja reciklažnim dvorištem o načinu povrata povratne naknade isplaćene potrošaču i plaćanju troškova preuzimanja otpadne ambalaže od pića.
+Članak 25.
+(1) Uputom o korištenju aparata za preuzimanje otpadne ambalaže Fond određuje tehničku specifikaciju i uvjete uporabe aparata za preuzimanje otpadne ambalaže, dimenzije otpadne ambalaže od pića koje se mogu preuzimati putem aparata za preuzimanje otpadne ambalaže te obavezni sadržaj Izvješća iz članka 24. stavka 8. ovoga Pravilnika, u roku od 30 dana od donošenja ovog Pravilnika.
+(2) Prodavatelj i osoba koja upravlja reciklažnim dvorištem može započeti preuzimanje otpadne ambalaže od pića putem aparata za preuzimanje otpadne ambalaže nakon što dokaže ispunjavanje uvjeta iz stavka 1. ovoga članka.
+Članak 26.
+(1) Otpadna ambalaža od pića prilikom preuzimanja kod prodavatelja mora biti ispražnjena od sadržaja, ne smije biti zgnječena ili uništena te bar-kod i oznaka sustava povratne naknade moraju biti jasno vidljivi i čitljivi.
+(2) Prodavatelj i osoba koja upravlja reciklažnim dvorištem odbiti će preuzimanje otpadne ambalaže od pića od potrošača koja ne ispunjava uvjete iz stavka 1. ovoga članka.
+(3) Preuzetu otpadnu ambalažu od pića prodavatelj i osoba koja upravlja reciklažnim dvorištem dužni su u svrhu sigurnog transporta staviti u spremnik po vrsti materijala i predavati ga sakupljaču zatvorenog i označenog sukladno uputama Fonda.
+(4) Sakupljač o svom trošku osigurava prodavatelju i osobi koja upravlja reciklažnim dvorištem spremnik i sigurnosnu vezicu za spremnik u koji se stavlja otpadna ambalaža od pića preuzeta putem aparata za preuzimanje otpadne ambalaže ili ručno.
+(5) Vrstu i veličinu spremnika i sigurnosnih vezica, način spremanja, zatvaranja i označavanja spremnika, postupanje sa spremnicima, praćenje toka spremnika te druga pitanja od značaja za sigurnu manipulaciju otpadnom ambalažom uređuje Fond uputom.
+(6) Uputu iz stavaka 3. i 5. ovoga članka Fond je dužan donijeti u roku od 30 dana od dana donošenja ovoga Pravilnika.
+Članak 27.
+(1) Prodavatelj i osoba koja upravlja reciklažnim dvorištem dužni su predati sakupljaču otpadnu ambalažu od pića preuzetu od potrošača.
+(2) Sakupljač je dužan na poziv prodavatelja i osobe koja upravlja reciklažnim dvorištem preuzeti otpadnu ambalažu od pića s područja sakupljanja za koje ima sklopljen ugovor o obavljanju usluge sakupljanja otpadne ambalaže i prevesti je do skladišta sakupljača u kojem se osigurava obavljanje poslova usluge sakupljanja sukladno provedenom javnom pozivu i sklopljenom ugovoru.
+Otpadna ambalaža koja je opasni otpad
+Članak 28.
+(1) Otpadna ambalaža koja je opasni otpad je otpadna ambalaža od ambalažnog materijala koji posjeduje jedno ili više svojstava opasnog otpada, otpadna ambalaža koja sadrži neuporabljivi proizvod koji sadrži opasne tvari u skladu s posebnim propisima koji uređuju kemikalije ili su u takvoj ambalaži ostaci tih tvari.
+(2) Smatra se da otpadna ambalaža ne sadrži ostatke opasnih tvari ako je u potpunosti ispražnjena ili obrađena na način da:
+– iz otpadne ambalaže ne kaplje, ne cijedi se i ne isipava se sadržaj,
+– s vanjske i unutarnje strane otpadne ambalaže nije moguće sastrugati niti obrisati bilo kakav sadržaj i
+– iz ambalaže u obliku raspršivača ne istječe plin niti se u raspršivaču pretače tekućina.
+(3) Odredbe stavka 2. ovoga članka ne odnose se na ambalažu koja je označena na jedan od sljedećih načina:
+– znakovima opasnosti »T+«, »T« ili »E« kojima se upozorava potrošača da se unutar takve ambalaže nalazi kemikalija koja je razvrstana kao vrlo otrovna, otrovna, karcinogena kemikalija skupine 1. i 2., mutagena kemikalija skupine 1. i 2., reproduktivno toksična kemikalija skupine 1. i 2. ili eksplozivna kemikalija, ili
+– jednim od sljedećih piktograma opasnosti:
+1. »GHS01« – koji upozorava potrošača da se unutar takve ambalaže nalazi kemikalija razvrstana u jednu od sljedećih kategorija opasnosti: eksploziv, samoreagirajuća tvar i smjesa tipa A i tipa B, organski peroksid tipa A i

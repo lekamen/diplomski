@@ -1,0 +1,25 @@
+
+(2) Kreditna institucija dužna je u roku od pet radnih dana od dana nastupa osiguranog slučaja dostaviti Agenciji svu dokumentaciju iz stavka 1. ovoga članka.
+IV. OSNOVNI ŽIVOTNI TROŠKOVI, ZAHTJEV I IZNOS SREDSTAVA POTREBNIH RADI POKRIVANJA OSNOVNIH ŽIVOTNIH TROŠKOVA
+Članak 6.
+Osnovnim životnim troškovima u smislu članka 18. stavka 3. Zakona smatraju se troškovi za prehranu, smještaj, odjeću i druge stvari za osobnu potrebu, troškovi za potrebe djece i mladeži koje proizlaze iz njihovog razvoja i odrastanja te odgoja i obrazovanja te troškovi za potrebe djece s teškoćama u razvoju i odraslih osoba s invaliditetom i dodatne potrebe koje proizlaze iz njihovog oštećenja zdravlja, odnosno invaliditeta.
+Članak 7.
+(1) U svrhu primjene članka 18. stavka 3. Zakona tijekom prijelaznog razdoblja iz članka 28. stavaka 1., 2. i 3. Zakona, iznos sredstava za pokriće osnovnih životnih troškova iz članka 6. ovoga Pravilnika koji će Agencija staviti na raspolaganje deponentu, od iznosa njegovih osiguranih depozita, iznosi dvije prosječne mjesečne isplaćene neto plaće po zaposlenom u pravnim osobama Republike Hrvatske objavljene od strane Državnog zavoda za statistiku.
+(2) Radi isplate sredstava za pokriće osnovnih životnih troškova iz stavka 1. ovoga članka, kreditna institucija dužna je na zahtjev Agencije odmah dostaviti Agenciji sve podatke o deponentu i njegovim osiguranim depozitima.
+Članak 8.
+Radi korištenja prava na isplatu iznosa iz članka 7. ovoga Pravilnika, deponent je dužan podnijeti zahtjev za pokriće osnovnih životnih troškova koji sadrži razlog iz članka 6. ovoga Pravilnika zbog kojeg se podnosi zahtjev te sljedeće podatke o deponentu: ime i prezime, datum i mjesto rođenja, adresu prebivališta, osobni identifikacijski broj te broj računa na koji će se izvršiti isplata.
+Članak 9.
+(1) Agencija će deponentu staviti na raspolaganje iznos sredstava za pokriće osnovnih životnih troškova iz članka 7. stavka 1. ovoga Pravilnika od iznosa njegovih osiguranih depozita u roku od pet radnih dana od dana podnošenja zahtjeva za pokriće osnovnih životnih troškova.
+(2) Agencija će isplaćeni iznos sredstava za pokriće osnovnih životnih troškova iz članka 7. stavka 1. ovoga Pravilnika oduzeti od iznosa osiguranog depozita tog deponenta koji je još potrebno isplatiti.
+V. OBLIK, SADRŽAJ I ROK ZA DOSTAVU IZVJEŠĆA O STANJU UKUPNIH I OSIGURANIH DEPOZITA ZA OBRAČUN PREMIJE
+Članak 10.
+(1) Sukladno članku 19. Zakona, kreditna institucija je dužna dostaviti Izvješće o stanju ukupnih i osiguranih depozita za obračun premije automatiziranom dostavom putem mrežne stranice Agencije.
+(2) Obvezni sadržaj Izvješća o stanju ukupnih i osiguranih depozita za obračun premije određen je obrascem Izvješća o stanju ukupnih i osiguranih depozita za obračun premije u Prilogu 2. koji je sastavni dio ovoga Pravilnika.
+(3) Obrazac Izvješća o stanju ukupnih i osiguranih depozita za obračun premije iz stavka 2. ovoga članka popunjava se sukladno Uputi iz Priloga 3. koji je sastavni dio ovoga Pravilnika.
+(4) Agencija tehničkom uputom detaljnije propisuje način automatizirane dostave podataka iz stavka 1. ovoga članka.
+Članak 11.
+(1) Depoziti u stranoj valuti iskazuju se u kunama po srednjem tečaju Hrvatske narodne banke na zadnji dan u mjesecu na koji se Izvješće o stanju ukupnih i osiguranih depozita za obračun premije odnosi.
+(2) Kreditna institucija dužna je dostavljati i druge informacije i podatke u svezi depozita na zahtjev Agencije sukladno članku 19. stavku 4. Zakona.
+Članak 12.
+Sukladno članku 21. stavku 6. Zakona kreditna institucija dužna je Agenciji mjesečno dostavljati Izvješće o stanju ukupnih i osiguranih depozita za obračun premije u roku od deset dana po isteku mjeseca na koji se Izvješće o stanju ukupnih i osiguranih depozita za obračun premije odnosi.
+VI. URAČUNAVANJE ZAJEDNIČKIH DEPOZITA, DEPOZITA DRUŠTAVA BEZ PRAVNE OSOBNOSTI I DEPOZITA PO POVJERENIČKIM RAČUNIMA U OSNOVICU ZA OBRAČUN PREMIJE I PODACI O DEPOZITIMA JEDINICA LOKALNE I PODRUČNE (REGIONALNE) 

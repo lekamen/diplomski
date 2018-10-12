@@ -1,0 +1,30 @@
+ i zaštitnih sustava, kada se počne primjenjivati samo to određeno zakonodavstvo Europske unije.
+1.2.8. Preopterećenje opreme
+Opasna preopterećenja opreme moraju biti spriječena tijekom postupka projektiranja, pomoću ugrađenih uređaja za mjerenje, regulaciju i upravljanje, kao što su prekostrujne isklopne naprave, uređaji za ograničavanje temperature, sklopka diferencijalnog tlaka, mjerila protoka, vremenski zavisni releji, kontrolnici brzine i/ili slični tipovi kontrolnih uređaja za nadzor.
+1.2.9. Sustav kućišta za zaštitu oklapanjem
+Ako su dijelovi koji mogu zapaliti eksplozivnu atmosferu smješteni u kućište, kućište mora izdržati tlak koji se razvije unutrašnjom eksplozijom eksplozivne smjese i spriječiti probojno paljenje eksplozivne atmosfere oko kućišta.
+1.3. Potencijalni uzročnici paljenja
+1.3.1. Opasnost koja proizlazi iz različitih uzročnika paljenja
+Moraju se spriječiti potencijalni uzročnici paljenja kao što su iskre, plamen, električni luk, visoka temperatura površine, akustička energija, optičko zračenje, elektromagnetski valovi i drugi izvori paljenja.
+1.3.2. Opasnost koja proizlazi iz statičkog elektriciteta
+Elektrostatski naboji sposobni za opasno izbijanje moraju se spriječiti poduzimanjem propisanih mjera.
+1.3.3. Opasnost koja proizlazi iz struje gubitaka i lutajućih struja
+Moraju biti spriječene struje neizjednačenih potencijala i gubitaka kroz vodljive dijelove opreme koji mogu prouzročiti na primjer pojavu opasne korozije, pregrijavanje površine ili iskre koje mogu biti uzročnik paljenja.
+1.3.4. Opasnost koja proizlazi iz pregrijavanja
+Već i tijekom postupka projektiranja se mora, koliko je to moguće, spriječiti pregrijavanje prouzročeno trenjem ili udarima, na primjer između materijala i dijelova u međusobnom dodiru dok se okreću ili zbog upada stranog tijela.
+1.3.5. Opasnost koja proizlazi iz izjednačenja tlaka
+Oprema i zaštitni sustavi moraju biti tako projektirani ili opremljeni ugrađenim uređajima za mjerenje, regulaciju i upravljanje da izjednačavanjem tlaka ispuhom ne izazivaju udarne valove ili kompresije koje mogu prouzročiti paljenje.
+1.4. Opasnost koja proizlazi iz vanjskih utjecaja
+1.4.1. Oprema i zaštitni sustavi moraju biti tako projektirani i izvedeni da su sposobni obavljati namijenjenu funkciju u potpunoj sigurnosti, uz promjenu uvjeta okoliša, kao i pod utjecajem vanjskih napona, vlage, vibracija, zagađenja i drugih vanjskih utjecaja, uzimajući u obzir granice radnih uvjeta što ih utvrdi proizvođač.
+1.4.2. Upotrijebljeni dijelovi opreme moraju odgovarati namijenjenim mehaničkim i termičkim naprezanjima i biti otporni na postojeće i predvidive agresivne supstancije.
+1.5. Zahtjevi za sigurnosne uređaje
+1.5.1. Sigurnosni uređaji moraju funkcionirati neovisno o mjernim i/ili upravljačkim uređajima potrebnima za normalan rad.
+Kvar sigurnosnih uređaja mora biti, koliko je to moguće, dovoljno brzo otkriven pomoću odgovarajućih tehničkih sredstava da bi se s velikom vjerojatnošću spriječila pojava opasnog stanja.
+Općenito se primjenjuje princip uočljivog kvara (samootkrivajući kvar).
+Upravljačke naredbe sigurnosti moraju općenito neposredno djelovati na odgovarajući upravljački sklopni uređaj bez posredne međuobrade aktivirajuće naredbe.
+1.5.2. U slučaju kvara sigurnosnog uređaja, uređaji i/ili sigurnosni sustavi moraju, gdje je to moguće, biti u stanju koje jamči sigurnost.
+1.5.3. Nužni isklop sigurnosnih uređaja mora biti, koliko je to moguće, opremljen samozaporom s resetom. Ponovni start za normalni rad mora biti moguć samo nakon namjernog oslobađanja samozapora resetiranjem.
+1.5.4. Upravljačke i pokazne jedinice
+Ako su upotrijebljene jedinice za upravljanje i pokazivanje odnosno promatranje, one moraju biti projektirane u skladu s ergometrijskim osnovama da bi se postigla najveća moguća razina radne sigurnosti s obzirom na rizik od eksplozije.
+1.5.5. Zahtjevi za mjerne uređaje namijenjene zaštiti od eksplozije
+Uređaji s mjernom funkcijom u opremi upotrijebljenoj u eksplozivnoj atmosferi

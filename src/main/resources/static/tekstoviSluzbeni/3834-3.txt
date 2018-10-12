@@ -1,0 +1,30 @@
+
+Prijenos prava na upis pojedinačnih ribolovnih alata i pripadajućih ribolovnih zona iz jedne povlastice u drugu povlasticu
+Članak 10.
+(1) Prijenos prava na upis pojedinačnih ribolovnih alata i pripadajućih ribolovnih zona iz jedne povlastice u drugu povlasticu dozvoljava se sukladno uvjetima propisanim ovim Pravilnikom i izvršit će se ukidanjem tog prava iz jedne povlastice i upisom tog istog prava u drugu povlasticu.
+(2) Prijenos prava upisa svih okružujućih mreža plivarica, povlačnih mreža koća i mreža potegača s pripadajućim ribolovnim zonama odobrit će se samo ukoliko se prijenos vrši na povlasticu u koju je upisano plovilo iste ili manje veličine u GT i iste ili manje snage porivnog stroja u kW od plovila koje je upisano u povlasticu s koje se to pravo prenosi.
+(3) Nije dozvoljen prijenos prava upisa neaktivnih ribolovnih alata i pripadajućih ribolovnih zona, bez obzira o kojim se ribolovnim alatima radi.
+(4) Iznimno od odredbi stavaka 2. i 3. ovoga članka, prijenos prava upisa plivarice tunolovke i plutajućeg parangala odobrava se sukladno propisu koji regulira ulov, uzgoj i promet plavoperajne tune.
+(5) Pod neaktivnim ribolovnim alatima iz stavka 3. ovoga članka smatraju se oni alati kojima je ribolov obavljan manje od 30 dana godišnje ili 150 dana u pet godina u razdoblju od 1. siječnja 2011. godine do 31. prosinca 2015.
+(6) Iznimno od stavka 3. ovoga članka dozvoljava se prijenos prava upisa neaktivnih alata iz jedne povlastice u drugu povlasticu istog vlasnika plovila pod uvjetom da se ne radi o neaktivnim alatima iz stavka 2. ovog članka.
+(7) Iznimno od stavka 5. ovoga članka, broj dana za određivanje aktivnosti ribolovnih alata kojima je propisom ograničeno obavljanje ribolova na manje od pola godine u cijelom ribolovnom moru, razmjerno će se smanjiti prema dopustivom razdoblju ribolova.
+(8) U slučaju da je u dvije povlastice istog vlasnika plovila upisan isti ribolovni alat s različitim pripadajućim ribolovnim zonama, na zahtjev vlasnika dozvoljava se za taj alat prijenos prava upisa ribolovnih zona s jedne povlastice na drugu povlasticu uz uvjet da se iz jedne od povlastica ribolovni alat briše.
+Pohranjivanje povlastice
+Članak 11.
+(1) Povlastica za ribolov pohranjuje se u Upisnik pohranjenih povlastica Ministarstva na zahtjev vlasnika plovila koji se podnosi u nadležnoj Ispostavi Ministarstva.
+(2) Vlasniku plovila Ministarstvo izdaje Potvrdu o pohranjivanju povlastice.
+(3) Zahtjev za preuzimanje pohranjene povlastice vlasnik plovila podnosi nadležnoj Ispostavi Ministarstva najkasnije 15 dana prije početka obavljanja gospodarskog ribolova ili isteka roka pohrane.
+(4) Povlastica za ribolov preuzima se iz pohrane na zahtjev vlasnika plovila u nadležnoj Ispostavi Ministarstva, što vlasnik plovila potvrđuje svojim potpisom o preuzimanju povlastice.
+(5) Iznimno od stavka 3. ovoga članka vlasnik plovila nije dužan preuzeti pohranjenu povlasticu u slučaju kada obavijesti Ministarstvo o namjeri prodaje povlastice putem javnog poziva prije isteka roka pohrane.
+Upisnik pohranjenih povlastica
+Članak 12.
+(1) Upisnik pohranjenih povlastica vodi se u elektroničkom obliku u bazi podataka pod nazivom »Upisnik pohranjenih povlastica«.
+(2) Ministarstvo po službenoj dužnosti upisuje u Upisnik pohranjenih povlastica sljedeće podatke:
+1. o pohranjenoj povlastici: klasifikacijsku oznaku, urudžbeni broj, te serijski broj povlastice,
+2. o plovilu za koje je izdana povlastica,
+3. o vlasniku i ovlašteniku povlastice izdane za navedeno plovilo,
+4. mjesto i datum pohranjivanja povlastice,
+5. napomene.
+Javni poziv o prijenosu povlastice
+Članak 13.
+(1) Vlasnik plovila na koje je izdana povlastica (u daljnjem tekstu: prodavatelj) može ponuditi na prodaju samo povlasticu, a o namjeri prijenosa same povlastice obvezan je izvijestiti Ministarstvo radi otkupa za prijenos povlastice u državno vlasništvo, odnosno prodaje povlastice putem Javnog poziva osobama zainteresiranima za otkup i prijenos prava iz povlastice (u daljnjem tekstu: ponuditelj).

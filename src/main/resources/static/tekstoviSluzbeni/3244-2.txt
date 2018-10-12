@@ -1,0 +1,22 @@
+ tržištu i/ili u uporabu samo ako zadovoljava zahtjeve propisane odredbama ovoga Pravilnika.
+(3) Mjerilo mora zadovoljavati propisane temperaturne granice, sukladno Tablici 1. iz Dodatka I., koje su za područje Republike Hrvatske utvrđene na:
+– gornja temperaturna granica: 40 °C;
+– donja temperaturna granica: -10 °C.
+Mogu se propisati i stupnjevi vlažnosti (sa ili bez kondenzacije), te da li je mjerilo namijenjeno za uporabu na otvorenom ili u zatvorenom prostoru.
+(4) Ako se za mjerilo definiraju različiti razredi točnosti:
+a) posebni dodaci, koji se odnose na pojedinu vrstu mjerila, pod naslovom »stavljanje u uporabu«, mogu naznačivati razred(e) točnosti koji se koriste za pojedine namjene mjerila;
+b) u ostalim slučajevima, središnje tijelo državne uprave nadležno za mjeriteljstvo može odrediti razrede točnosti koji se upotrebljavaju za posebnu namjenu, pod uvjetom da se nalaze unutar definiranih razreda točnosti koji su utvrđeni ovim Pravilnikom.
+U oba slučaja a) i b) može se koristiti mjerilo višeg razreda točnosti ako vlasnik mjerila tako odluči.
+(5) Na trgovačkim sajmovima, izložbama, javnim prezentacijama ili sličnim priredbama mogu se izlagati mjerila koja nisu u skladu s odredbama ovoga Pravilnika samo ako se vidljivom oznakom jasno označi njihova nesukladnost odnosno ne ispunjavanje propisanih uvjeta za stavljanje na tržište i/ili u uporabu.
+II. OBVEZE GOSPODARSKIH SUBJEKATA
+Obveze proizvođača
+Članak 9.
+(1) Kada stavlja svoje mjerilo na tržište i/ili ga stavlja u uporabu, proizvođač je obvezan osigurati da je mjerilo oblikovano i proizvedeno u skladu s temeljnim zahtjevima utvrđenim u Dodatku I. i u odgovarajućim posebnim dodacima koji se odnose na pojedinu vrstu mjerila.
+(2) Proizvođač je obvezan pripremiti tehničku dokumentaciju iz članka 19. ovoga Pravilnika i provesti ili osigurati provođenje primjenjivog postupka ocjenjivanja sukladnosti iz članka 18. ovoga Pravilnika.
+(3) Kada je postupkom ocjenjivanja sukladnosti iz stavka 2. ovoga članka dokazana sukladnost mjerila s propisanim zahtjevima ovoga Pravilnika, proizvođač je obvezan sastaviti pismenu EU izjavu o sukladnosti i staviti oznaku CE i dodatnu mjeriteljsku oznaku.
+(4) Proizvođač je obvezan čuvati tehničku dokumentaciju i EU izjavu o sukladnosti najmanje deset (10) godina od dana stavljanja mjerila na tržište.
+(5) Proizvođač je obvezan osigurati provođenje postupaka za održavanje sukladnosti serijske proizvodnje s odredbama ovoga Pravilnika. Pri tome moraju na primjeren način biti uzete u obzir promjene u oblikovanju ili značajkama mjerila te promjene u usklađenim normama, normativnim dokumentima ili drugim tehničkim specifikacijama koje su navedene u EU izjavi o sukladnosti mjerila.
+(6) Kada proizvođač to smatra prikladnim s obzirom na radne značajke mjerila, obvezan je uzimati uzorke mjerila koja su već stavljena na raspolaganje na tržištu, provoditi ispitivanja i, prema potrebi, voditi knjigu pritužbi te registar nesukladnih i opozvanih mjerila. O svakom takvom praćenju mora obavijestiti distributere.
+(7) Proizvođač je obvezan osigurati da mjerilo koje je stavio na tržište nosi broj tipa, partije ili serije ili koji drugi element koji omogućuje njegovu identifikaciju ili, kad to ne dopušta veličina ili narav mjerila, da se traženi podaci navedu na ambalaži ili u dokumentima koji prate mjerilo u skladu s Dodatkom I. točkom 9.2. ovoga Pravilnika.
+(8) Proizvođač je obvezan na mjerilu ili, kad to nije moguće, na njegovoj ambalaži ili u dokumentima koji prate mjerilo, navesti svoje ime, registrirani trgovački naziv ili registriranu trgovačku oznaku i adresu na kojoj je dostupan u skladu s Dodatkom I. točkom 9.2. ovoga Pravilnika. Adresa mora označavati jedinstveno mjesto na kojem je proizvođač dostupan. Kontakt podaci moraju biti na hrvatskom jeziku.
+(9) Proizvođač je obvezan osigurati da je uz mjerilo koje je stavio na tržište priložen primjerak EU izjave o sukladnosti te upute i podaci na hrvatskom jeziku u skladu s Dodatkom I. točkom 9.3. ovoga

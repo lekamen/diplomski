@@ -1,0 +1,22 @@
+ roku od 5 minuta, i ako su napuhavajućeg tipa, moraju biti napuhane sve vrijeme;
+.2 na mjestu pogodnom za spuštanje i podizanje;
+.3 smještene da ni brodica za prikupljanje niti njen smještaj ne ometa pripremu bilo kojeg plovila za preživljavanje na bilo kojem mjestu za spuštanje; i
+.4 ako je brodica za prikupljanje ujedno i brodica za spašavanje, u skladu sa zahtjevima navedenim u 2.7.
+2.9 SMJEŠTAJ SUSTAVA ZA NAPUŠTANJE BRODA
+2.9.1 Na bokovima broda ne smiju se nalaziti nikakvi otvori između stanice za ukrcaj u sustav za napuštanje broda i vodne linije broda pri najmanjem gazu broda osim prozora i okana neotvorivog tipa u skladu sa zahtjevima Pravila, Dio 17. – Protupožarna zaštita, 2.2.2.15, i moraju se predvidjeti sredstva za zaštitu sustava od bilo kojih izbočina.
+2.9.2 Sustavi za napuštanje broda moraju biti na takvom mjestu koje omogućuje sigurno otpuštanje, imajući posebno u vidu udaljenost od brodskog vijka i zakrivljenih mjesta na trupu tako da se, koliko je to praktički moguće, sustav otpušta niz ravni bok broda.
+2.9.3 Svaki sustav za napuštanje broda mora se smjestiti tako da prolaz, platforma ili njihov smještaj kao i uređaji za upravljanje ne ometaju rad bilo kojeg drugog sredstva za spašavanje na bilo kojoj stanici za spuštanje.
+2.9.4 Gdje je to primjenjivo, smještaj sustava na brodu mora osigurati zaštitu od oštećenja od velikog mora.
+2.10 UREĐAJI ZA SPUŠTANJE I DIZANJE PLOVILA ZA PREŽIVLJAVANJE
+2.10.1 Osim ako drugdje nije izričito drugačije kazano, uređaji za spuštanje i ukrcaj koji udovoljavaju zahtjevima 6.20 moraju se predvidjeti za sva plovila za preživljavanje osim za:
+.1 plovila za preživljavanje u koja se ukrcava s mjesta na palubi koje je manje od 4,5 m iznad vodne linije pri najmanjem gazu broda i koja imaju masu do 185 kg; ili
+.2 plovila za preživljavanje u koja se ukrcava s mjesta na palubi koje je manje od 4,5 m iznad vodne linije pri najmanjem gazu broda i koja su smještena za spuštanje izravno s mjesta smještaja uz nepovoljne uvjete trima do 10° i nagiba do 20° na bilo koju stranu broda; ili
+.3 plovila za preživljavanje koje brod ima kao višak iznad 200% od ukupnog broja osoba na brodu s masom do 185 kg; ili
+.4 plovila za preživljavanje koje brod ima kao višak iznad 200% od ukupnog broja osoba na brodu i koja su smještena za spuštanje izravno s mjesta smještaja uz nepovoljne uvjete trima do 10° i nagiba do 20° na bilo koju stranu broda; ili
+.5 plovila za preživljavanje koja se koriste zajedno sa sustavom za napuštanje broda u skladu sa 6.20.8 i koja su smještena za spuštanje izravno s mjesta smještaja uz nepovoljne uvjete trima do 10° i nagiba do 20° na bilo koju stranu broda.
+2.10.2 Svaka brodica za spašavanje mora imati uređaje za spuštanje i podizanje. Dodatno, mora postojati mogućnost zavješenja brodice za spašavanje kako bi se oslobodio uređaj za otpuštanje zbog održavanja.
+2.10.3 Uređaji za spuštanje i podizanje moraju omogućiti rukovatelju tim uređajima promatranje plovila za preživljavanje za vrijeme spuštanja, a brodice za spašavanje i za vrijeme podizanja.
+2.10.4 Za slična plovila za preživljavanje koja se nalaze na brodu smije se koristiti samo jedan tip uređaja za otpuštanje.
+2.10.5 Priprema i rukovanje plovilima za preživljavanje na bilo kojoj stanici za spuštanje ne smije ometati pripremu i rukovanje ostalim plovilima za preživljavanje, ili brodicom za prikupljanje na bilo kojoj drugoj stanici.
+2.10.6 Ako se koristi užad za zavješenje, ista mora biti dovoljno duga da plovilo za preživljavanje od mjesta smještaja dohvati vodu pri stanju najmanjeg gaza broda, uz nepovoljne uvjete trima do 10° i nagiba do 20° na bilo koju stranu.
+2.10.7 Za vrijeme pripremanja ili spuštanja plovila za preživljavanje, njegov uređaj za spuštanje i površina vode gdje će ono biti spušteno, moraju biti odgovarajuće osvijetljeni, iz izvora električne energije u nuždi, zahtjevanog pravilima RO (vidjeti Pravila za klasifikaciju brodova, Dio 12. – Električna oprema, 9 ili 19). Mjesta za ukrcaj zahtjevana u

@@ -1,0 +1,27 @@
+ jedna od tih iznimki.
+2.2.9. Praćenje promjena okolnosti
+Članak 28.
+Izvještajne financijske institucije obvezne su provesti postupke na osnovi kojih osoba u banci koja je zadužena za poslovanje sa strankama može utvrditi svaku promjenu okolnosti u odnosu na račun. Osobito ako osoba u banci zadužena za poslovanje sa strankama dobije obavijest da imatelj računa ima novu adresu za zaprimanje pismena u državi članici i drugoj jurisdikciji, izvještajne financijske institucije obvezne su novu adresu smatrati promjenom okolnosti i ako odluče primijeniti članak 19. ovoga Pravilnika, dužne su od imatelja računa prikupiti odgovarajuću dokumentaciju.
+2.2.10. Rokovi za postupke provjere računa i izvješćivanja
+Članak 29.
+(1) Provjera postojećih računa velike vrijednosti fizičkih osoba mora biti dovršena do 31. prosinca 2016. Provjera postojećih računa male vrijednosti fizičkih osoba mora biti dovršena do 31. prosinca 2017.
+(2) Svaki postojeći račun fizičke osobe za koji je utvrđeno da je račun o kojem se izvješćuje smatra se računom o kojem se izvješćuje u svim godinama koje slijede osim ako imatelj računa prestane biti osoba o kojoj se izvješćuje.
+3. Dubinska analiza novih računa fizičkih osoba
+3.1. Utvrđivanje novih računa fizičkih osoba
+3.1.1. Izjava o rezidentnosti
+Članak 30.
+(1) Ako fizička osoba otvara novi račun, izvještajne financijske institucije su prilikom otvaranja računa obvezne pribaviti izjavu o rezidentnosti imatelja računa.
+(2) Izjava o rezidentnosti imatelja računa iz stavka 1. ovoga članka može biti dio dokumentacije za potrebe otvaranja računa na osnovi koje izvještajne financijske institucije mogu utvrditi rezidentost imatelja računa u svrhu oporezivanja, te potvrditi opravdanost te izjave na temelju informacija koje su izvještajne financijske institucije pribavile kod otvaranja računa, uključujući svu dokumentaciju prikupljenu u skladu s propisima koji uređuju područje sprječavanja pranja novca i financiranja terorizma.
+(3) Izjava o rezidentnosti iz stavka 1. ovoga članka podrazumijeva izjavu imatelja računa kojom izjavljuje svoju rezidentnost u svrhu oporezivanja.
+3.1.2. Pojam rezidentnosti u državi članici i drugoj jurisdikciji
+Članak 31.
+Ako se na temelju izjave o rezidentnosti utvrdi da je imatelj računa rezident u svrhu oporezivanja u državi članici i drugoj jurisdikciji, izvještajne financijske institucije obvezne su račun smatrati računom o kojem se izvješćuje, a izjava o rezidentnosti imatelja računa mora sadržavati porezni identifikacijski broj imatelja računa s obzirom na tu državu članicu i drugu jurisdikciju, osim u slučaju da dotična država članica i druga jurisdikcija rezidentnosti ne izdaje porezni identifikacijski broj, te mora sadržavati datum rođenja.
+3.1.3. Promjena okolnosti
+Članak 32.
+(1) Ako se promijene okolnosti u odnosu na novi račun fizičke osobe na osnovi kojih izvještajne financijske institucije imaju saznanja ili razloga vjerovati da je izvorna izjava o rezidentnosti netočna ili nepouzdana, izvještajne financijske institucije se u tom slučaju ne mogu osloniti na izvornu izjavu o rezidentnosti i obvezne su pribaviti valjanu izjavu o rezidentnosti imatelja računa kojom se utvrđuje rezidentnost imatelja računa u svrhu oporezivanja.
+(2) Izvještajne financijske institucije obvezne su u roku 90 dana od promjene okolnosti iz stavka 1. ovoga članka pribaviti valjanu izjavu o rezidentnosti imatelja računa kojom se utvrđuje rezidentnost imatelja računa u svrhu oporezivanja.
+4. Dubinska analiza postojećih računa subjekata
+4.1. Utvrđivanje računa o kojima se izvješćuje
+4.1.1. Utvrđivanje iznosa na računima
+Članak 33.
+(1) Ako agregirano stanje ili vrijednost postojećeg računa subjekta na dan 31. prosinca 2015. ne premašuje kunski iznos koji odgovara iznosu od 250.000 USD, tada financijske institucije nisu obvezne provjeravati taj račun, utvrđivati ili prijavljivati isti kao račun o kojem se izvješćuje, sve dok agregirano stanje računa ili vrijednost ne bude veća od tog iznosa na posljednji dan u bilo 

@@ -1,0 +1,53 @@
+123 11.11.2015 Odluka o donošenju nastavnog plana i programa izborne nastave iz nastavnog predmeta Informatika za II., III. i IV. razred obrazovnog programa Opća gimnazija
+MINISTARSTVO ZNANOSTI, OBRAZOVANJA I SPORTA
+2351
+Na temelju članka 27. stavka 13. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, broj 87/2008, 86/2009, 92/2010, 105/2010, 90/2011, 16/2012, 86/2012, 126/2012, 94/2013 i 152/2014) ministar znanosti, obrazovanja i sporta donosi
+ODLUKU
+O DONOŠENJU NASTAVNOG PLANA I PROGRAMA IZBORNE NASTAVE IZ NASTAVNOG PREDMETA INFORMATIKA ZA II., III. I IV. RAZRED OBRAZOVNOG PROGRAMA OPĆA GIMNAZIJA
+I.
+Ovom Odlukom donosi se nastavni plan i program izborne nastave iz nastavnog predmeta Informatika za II., III. i IV. razred obrazovnog programa Opća gimnazija.
+II.
+Sadržaji nastavnog plana i programa izborne nastave iz nastavnog predmeta Informatika za II., III. i IV. razred obrazovnog programa Opća gimnazija sastavni su dio ove Odluke i postaju dio nastavnog plana i programa Opća gimnazija.
+III.
+Ova Odluka i nastavni plan i program izborne nastave iz nastavnog predmeta Informatika za II., III. i IV. razred obrazovnog programa Opća gimnazija objavit će se u »Narodnim novinama«.
+IV.
+Ova Odluka stupa na snagu osmoga dana od objave u »Narodnim novinama«, a primjenjivat će se od 2015./2016. školske godine.
+Klasa: 602-03/15-05/00044
+Urbroj: 533-25-15-0008
+Zagreb, 15. listopada 2015.
+Ministar prof. dr. sc. Vedran Mornar, v. r.
+NASTAVNI PLAN I PROGRAM IZBORNE NASTAVE IZ NASTAVNOG PREDMETA »INFORMATIKA« ZA OPĆU GIMNAZIJU 2. RAZRED
+Nastavni predmet: Informatika – izborni predmet
+Razred: 2. razred opće gimnazije
+Tjedni (ukupni) fond sati: 2 sata tjedno (70 sati godišnje)
+1. Uvod
+Cilj
+Usvojiti osnovna znanja i vještine o informatici i njenom razvoju radi stjecanja opće računalne pismenosti i kulture te razumijevanja civilizacijskog razvoja.
+Osposobiti učenike za osnovne uporabe računala, primjenskih programa te korištenje Interneta.
+Zadatci
+Nastavom informatike treba omogućiti učeniku:
+• razumijevanje obveza za postizanje uspjeha
+• definiranje pojma proračunske tablice
+• izradu proračunskih tablica
+• navođenje osnovne pojmove i dijelove aplikacije
+• primjenu oblikovanja na ćelijama i tablicama
+• prikazivanje podataka grafički
+• definiranje pojmova mreža, topologija
+• objašnjavanje funkcioniranja mreža računala
+• korištenje lokalne mreže
+• definiranje pojma Interneta i upoznavanje učenika s pravilima korištenja Interneta
+• primjenu znanja o globalnoj mreži korištenjem različitih usluga
+• upoznavanje učenike s HTML jezikom za izradu web stranica
+• primjenu osnovne strukture HTML dokumenta za oblikovanje web stranice
+• primjenu HTML naredbi za izradu tablica
+• primjenu HTML naredbi za izradu listi
+• primjenu HTML naredbi za umetanje slike
+• primjenu HTML naredbi za povezivanje
+• definiranje osnovnih pojmove u radu s bazom podataka
+• kreiranje osnovnih objekata u bazi podataka
+• primjenu osnovnih pravila za izradu baze podataka
+• kreiranje jednostavnih baza podataka
+• upotrijebiti osnovne formule i funkcije
+• prikazati podatke grafički
+2. Obrazovna postignuća i nastavni sadržaji
+Nastavna cjelina Očekivani rezultati Nastavni sadržaji 1. Proračunske tablice • definirati pojam proračunske tablice, izraditi proračunsku tablicu • nabrojiti i opisati osnovne pojmove i dijelove aplikacije • definirati pojam ćelije • primijeniti oblikovanja na ćelijama i tablicama • upotrijebiti osnovne formule i funkcije • prikazati podatke grafički – Uvod u proračunske tablice – Osnovni pojmovi i dijelovi aplikacije – Osnovne formule i funkcije – Grafički prikaz podataka 2. Mreže računala • definirati pojmove mreža, topologija, objasniti funkcioniranje mreže • koristiti lokalnu mrežu • objasniti pojam Interneta i upoznati pravila za korištenje Interneta • koristiti znanja o globalnoj mreži, primijeniti pravila korištenja – Osnovni pojmovi mreža računala – Primjena računalnih mreža – Primjena različitih usluga Interneta 3. Web-dizajn •

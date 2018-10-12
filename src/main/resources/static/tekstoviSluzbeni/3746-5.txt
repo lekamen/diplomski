@@ -1,0 +1,31 @@
+ IHO/HR standardom za izradu pomorskih navigacijskih publikacija, kako bi se osigurala ujednačenost publikacija iste namjene neovisno o izdavaču.
+Članak 28.
+Podjelu i slovo-brojčane oznake službenih pomorskih navigacijskih publikacija određuje Hrvatski hidrografski institut.
+Članak 29.
+(1) Izrada službenih pomorskih navigacijskih publikacija obuhvaća:
+− vizualizaciju, analiziranje i obradu podataka iz odgovarajuće baze podataka službenih pomorskih navigacijskih publikacija
+− definiranje i dopunjavanje sadržaja publikacije prema projektnom zadatku
+− definiranje sadržaja svakog kartografskog i grafičkog prikaza
+− kontrolu kvalitete
+− potvrđivanje podataka
+− pripremu za tisak
+− tisak publikacije
+− tehničko izvješće
+− pohranu i održavanje publikacije.
+(2) Postupci izrade službenih pomorskih navigacijskih publikacija opisani su uredničkim planom izrade i tehnološkim planom izrade službenih pomorskih navigacijskih publikacija koji se donose u skladu s aktom Hrvatskog hidrografskog instituta kojim se utvrđuje pisanje (projektiranje), izrada, tiskanje i održavanje pomorskih karata i publikacija.
+(3) Izrada službene pomorske navigacijske publikacije može biti izrada nove publikacije ili novoga izdanja.
+(4) Ravnatelj Hrvatskog hidrografskog instituta u skladu s godišnjim programom rada donosi rješenje za izradu službene pomorske navigacijske publikacije.
+V. IZDAVANJE SLUŽBENIH POMORSKIH NAVIGACIJSKIH KARATA I SLUŽBENIH POMORSKIH NAVIGACIJSKIH PUBLIKACIJA
+Članak 30.
+(1) Hrvatski hidrografski institut dužan je osigurati stalnu dostupnost službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija krajnjim korisnicima kroz sustavnu izdavačku djelatnost koja obuhvaća plansko i sustavno prikupljanje, obradu i prezentaciju podataka, te njihovo kontinuirano održavanje.
+(2) Sustavna izdavačka djelatnost iz stavka 1. ovoga članka osigurava se radom Hidrografsko-navigacijskog vijeća u skladu s Poslovnikom o radu Hidrografsko-navigacijskog vijeća.
+(3) Sustavna izdavačka djelatnost iz stavka 1. ovoga članka obavlja se radom Izdavačkog savjeta Hrvatskog hidrografskog instituta u skladu s Poslovnikom o radu Izdavačkog savjeta Hrvatskog hidrografskog instituta.
+VI. ODRŽAVANJE SLUŽBENIH POMORSKIH NAVIGACIJSKIH KARATA, SLUŽBENIH POMORSKIH NAVIGACIJSKIH PUBLIKACIJA I KARTOGRAFSKIH BAZA PODATAKA
+Članak 31.
+(1) Hrvatski hidrografski institut osigurava tehničke uvjete za kontinuirano održavanje hidrografskih i kartografskih baza podataka te službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija.
+(2) Hrvatski hidrografski institut osigurava održavanje izdanih službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija objavom njihovih izmjena i dopuna u službenoj pomorskoj navigacijskoj publikaciji »Oglas za pomorce«.
+(3) Hrvatski hidrografski institut izrađuje i provodi program provjere ispravnosti hidrografskih podataka i obnove službenih pomorskih navigacijskih karata i službenih pomorskih navigacijskih publikacija objavljivanjem novog izdanja ili nove naklade.
+(4) Osim provjere ispravnosti hidrografskih podataka Hrvatski hidrografski institut obavlja i potpunu obnovu hidrografskih podataka provođenjem nove potpune ili djelomične hidrografske izmjere.
+(5) Nova potpuna ili djelomična hidrografska izmjera provodi se u skladu s godišnjim programom rada Hrvatskog hidrografskog instituta, odnosno u skladu s posebnim programom rada kojega donosi Vlada Republike Hrvatske za razdoblje od pet godina.
+(6) Iznimno od odredbe stavka 4. ovoga članka, nova potpuna ili djelomična hidrografska izmjera može se obavljati i češće u područjima koja su zahtjevna u pogledu osiguranja hidrografsko-navigacijske sigurnosti pomorskog prometa te u priobalnim područjima koja podliježu učestalim promjenama uslijed građenja.
+(7) Detaljne postupke održavanja službenih pomorskih navigacijskih karata, službenih pomorskih navigacijskih publikacija i kartografskih baza podataka utvrđuje Hrvatski

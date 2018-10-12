@@ -1,0 +1,36 @@
+ oznake na pojedinoj ambalaži ili spremnicima odgovarajuće za tu svrhu.
+Ako ne postoji odgovarajući znak upozorenja na opasne kemijske tvari ili smjese, mora se koristiti odgovarajući piktogram opasnosti, kao što je utvrđeno u Prilogu V. Uredbi (EZ) broj 1272/2008 Europskog parlamenta i Vijeća.
+PRILOG II.
+OPĆI ZAHTJEVI ZA ZNAKOVE NA PLOČAMA
+1. Izgled
+1.1. U pogledu oblika i boje znakova na pločama primjenjuje se hrvatska norma HRN EN ISO 7010 – Grafički simboli – Sigurnosne boje i sigurnosni znakovi – Sigurnosni znakovi za mjesta rada i javne prostore, a minimalni opći zahtjeva za znakove na pločama uključujući oblik i boje znakova na pločama navedeni su u Prilogu III., u skladu s njihovom posebnom namjenom (znakovi na pločama koji označavaju zabranu, upozorenje, obvezno postupanje, put za izlaz u slučaju nužde, opremu za uporabu u slučaju nužde ili za gašenje požara).
+1.2. Piktogrami moraju biti jednostavni, zbog čega moraju sadržavati samo bitne elemente.
+1.3. Piktogrami se mogu malo razlikovati ili biti detaljniji nego što je predviđeno normom, ako usprkos tome jasno priopćavaju sadržaj te nije ni moguće krivo razumjeti njihovo značenje.
+1.4. Ploče moraju biti izrađene od materijala koji je otporan na udarce, vodu i vremenske utjecaje.
+1.5. Veličina ploče te kolorimetrijska i fotometrijska svojstva materijala, od kojih su izrađeni, moraju biti takvi da su znakovi na pločama cijelo vrijeme uporabe dobro vidljivi i raspoznatljivi.
+2. Uvjeti glede postavljanja
+2.1. Ploče moraju biti postavljene na primjerenoj visini od tla, koja odgovara liniji gledanja. Pri tome je potrebno uzeti u obzir postojeće prepreke pri dolasku u područje ugroženosti i u njegovoj neposrednoj blizini. Mjesto postavljanja ploče mora biti dobro osvijetljeno, lako dostupno i dobro vidljivo.
+Na mjestima sa slabom prirodnom osvijetljenošću, preporuča se uporaba fluorescentnih boja, refleksnih materijala i dodatna umjetna rasvjeta.
+2.2. Ploču treba odstraniti kada prestanu postojati okolnosti zbog kojih je bila postavljena.
+3. Znakovi koji se koriste na pločama
+3.1. Znakovi zabrane
+Bitne značajke:
+– okruglog oblika
+– crni piktogram na bijeloj pozadini, crveni obrub i dijagonalna crta (crveni dio treba zauzeti najmanje 35% površine znaka).
+Znakovi koji se koriste na pločama:
+Zabranjeno pušenje Zabranjeno pušenje i paljenje otvorene vatre Zabranjen pristup pješacima Zabranjeno gašenje vodom Zabranjeno piti vodu Zabranjen pristup neovlaštenim osobama Ne diraj Zabranjen pristup vozilima unutarnjeg prometa
+3.2. Znakovi upozorenja
+Bitne značajke:
+– trokutastog oblika
+– crni piktogram na žutoj pozadini s crnim obrubom (žuti dio treba zauzimati najmanje 50% površine znaka).
+Opasnost od požara Opasnost od eksplozivnog materijala Opasnost od otrovnog materijala Opasnost od korozivnog materijala Opasnost od radioaktivnog materijala Opasnost od visećeg tereta Opasnost od vozila unutarnjeg prometa Opasnost od električne struje Opća opasnost Opasnost od laserskih zraka Opasnost od oksidacijskog materijala Opasnost od neionizirajućeg zračenja Opasnost od jakog magnetskog polja Opasnost od zapreka Opasnost od pada Biološka opasnost Opasnost od niske temperature
+3.3. Znakovi za obvezno postupanje
+Bitne značajke:
+– okruglog oblika,
+– bijeli piktogram na plavoj pozadini (plavi dio mora zauzimati najmanje 50% površine znaka).
+Obvezno nošenje zaštitnih naočala Obvezno nošenje zaštitne kacige Obvezno nošenje zaštitnih slušalica Obvezno nošenje maske za disanje Obvezno nošenje zaštitne obuće Obvezno nošenje zaštitnih rukavica Obvezna uporaba zaštitne odjeće Obvezna uporaba štitnika za oči i lice Obvezna uporaba zaštitnog pojasa Obvezan prolaz za pješake Opći znak o obveznom postupanju (uz kojeg, kada je potrebno, stoji drugi znak)
+3.4. Znakovi za izlaz u slučaju nužde ili za prvu pomoć
+Bitne značajke:
+– pravokutnog ili kvadratnog oblika
+– bijeli piktogram na zelenoj pozadini (zeleni dio treba zauzimati najmanje 50% površine znaka)
+Put do izlaza u slučaju nužde U ovom smjeru

@@ -1,0 +1,21 @@
+ kočnica, ako je ugrađena, mora omogućiti zadržavanje vozila u mirovanju na uzbrdici ili nizbrdici, čak i kad vozač nije prisutan, pri čemu se držanje radnih dijelova kočnice u blokiranom stanju mora postići isključivo mehaničkim uređajem.
+(18) Vozač ostvaruje kočni učinak sa sjedala za vozača. Postavljanje automatskog mjenjačkog sklopa u parkirni položaj ne smatra se parkirnom kočnicom.
+(19) Parkirna kočnica mora osigurati nepokretnost vozila opterećenog do najveće dopuštene mase na nagibu od 18%, a da pritom vozilo nije kočeno na drugi način.
+(20) Sila kojom se djeluje na ručicu ili pedalu parkirne kočnice kod maksimalnog aktiviranja sustava kočenja, ne smije biti veća od 400 N.
+Članak 110.
+(1) Tehnički normativi učinkovitosti sustava kočenja vozila kategorije L, ako se ispituju na valjcima za ispitivanje kočne sile iznose:
+KATEGORIJA VOZILA RADNO KOČENJE POMOĆNO KOČENJE Koeficijent kočenja Sila aktiviranja Koeficijent kočenja Sila aktiviranja Nožno aktiviranje Ručno aktiviranje Nožno aktiviranje Ručno aktiviranje   z ≥ [%] F ≤ [daN] F ≤ [daN] z ≥ [%] F ≤ [daN] F ≤ [daN] L1, L2, L6 40 50 20 20 50 20 L3, L4, L5, L7 45 50 20 20 50 20
+(2) Normativi iz stavka 1. ovog članka primjenjuju se na vozila pod sljedećim uvjetima:
+– vozila se ispituju u statičkim uvjetima ispitivanja na valjcima za ispitivanje kočne sile
+– površina valjaka na kojima se ispituju kočnice mora biti dovoljnog koeficijenta trenja (µ ≥ 0,5)
+– temperatura diska ili vanjske površine bubnja kočnice ne smije iznositi više od 100 °C
+– kod ispitivanja vozila s dvostrukom ili višestrukom osovinom razina ispitivane osovine ne smije biti niža od ostalih osovina.
+(3) Normativi iz stavka 1. ovoga članka primjenjuju se tako da se zbroj sila kočenja na obodu svih kotača koje nastaju neposredno prije blokiranja kotača ili zbroj sila kočenja aktiviranih maksimalnim silama aktiviranja, podijeli s težinom vozila uvećanom za težinu tereta koji se nalazi na vozilu i pomnoži s konstantom 100. Dobiveni rezultat mora biti veći ili jednak propisanoj vrijednosti koeficijenta kočenja.
+(4) Razlika sila kočenja kod radnog kočenja na kotačima iste osovine ne smije biti veća od 25%, a kod pomoćnog kočenja 30%. Za izračunavanje postotka razlike sile kočenja na istoj osovini uzimaju se u obzir sile kočenja koje nastaju neposredno prije blokiranja kotača ili sile kočenja aktivirane maksimalnim silama aktiviranja. Za osnovicu izračunavanja postotka razlike sile kočenja kotača na istoj osovini uzima se u obzir veća sila kočenja.
+(5) Nejednolikost sile kočenja na kotaču ne smije biti veća od 20%. Postotak nejednolikosti sile kočenja izračunava se na približno polovici sile kočenja koja izaziva blokadu. Za osnovicu izračunavanja postotka nejednolikosti sile kočenja uzima se veća sila kočenja.
+3. Uređaji za osvjetljavanje ceste i svjetlosnu signalizaciju
+Članak 111.
+(1) Uređaji za osvjetljavanje ceste i svjetlosnu signalizaciju smiju emitirati sljedeće boje svjetlosti:
+Grupa uređaja Naziv sklopa Boja svjetla Dugo svjetlo bijela Uređaji za osvjetljavanje ceste Kratko svjetlo bijela Prednja svjetla za maglu bijela ili žuta Svjetlo za vožnju unatrag bijelo Pokretno svjetlo (reflektor) bijela Uređaji za označivanje vozila Prednja pozicijska svjetla bijela ili jantarna (samo prednja) Stražnja pozicijska svjetla crvena Stražnje svjetlo za maglu crvena Parkirna svjetla prednje bijelo, stražnje crveno Svjetlo registracijske pločice bijela Rotacijska i treptava svjetla jantarna, crvena ili plava Retroreflektirajuće površine crvena (samo straga ili bočna na stražnjem dijelu vozila), jantarna (samo bočna na prednjem dijelu vozila) Dnevna svjetla bijela Uređaji za davanje svjetlosnih znakova Kočna svjetla crvena Pokazivači smjera jantarna Uređaji za istodobno uključivanje svih pokazivača smjera jantarna
+(2) Udaljenost vanjskog ruba svjetleće površine od bočno najizbočenije točke vozila ne smije biti veća od 400 mm.
+(3) Udaljenost donjih rubova svjetlećih površina od površine ceste ne smije biti manja od

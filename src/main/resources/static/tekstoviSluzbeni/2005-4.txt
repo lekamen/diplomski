@@ -1,0 +1,46 @@
+ provjeriti elektronički dokument«.
+(4) Nakon isteka roka od 3 mjeseca dokumenti se brišu.
+(5) Elektronički zapis se sastoji od podataka propisanih za određenu ispravu koja se izdaje te kontrolnih podataka.
+(6) Kontrolni podaci sadrže:
+– naziv izdavatelja dokumenta;
+– vrijeme izdavanja dokumenta;
+– izdavatelja certifikata;
+– serijski broj certifikata;
+– algoritam potpisa;
+– broj zapisa;
+– kontrolni broj;
+– elektronički pečat;
+– informacije za provjeru dokumenta i
+– napomene kako provjeriti elektronički dokument.
+(7) Elektroničke usluge podržavaju slanje elektroničkog zapisa na elektroničku poštu koju upiše korisnik.
+VI. UVJETI I AKTIVNOSTI NUŽNI ZA POKRETANJE, IMPLEMENTACIJU I RAZVOJ PROJEKATA DRŽAVNE INFORMACIJSKE INFRASTRUKTURE
+Pokretanje, implementacija i razvoj projekata
+Članak 17.
+Projekti vezani uz državnu informacijsku infrastrukturu se pokreću, razvijaju i implementiraju upisom u Javni registar ProDII.
+Uključivanje u e-uslužni prostor Republike Hrvatske i Europsku uniju
+Članak 18.
+(1) Projekti vezani uz državnu informacijsku infrastrukturu se pokreću, implementiraju i razvijaju na način da osiguravaju povezivanje u hrvatski e-uslužni prostor:
+– definiraju osiguranje upravljanja projektom;
+– definiraju osiguranje upravljanja nadzorom i revizijom projekata;
+– definiraju potrebu za podatkovnim povezivanjem s drugim javnim registrima u Republici Hrvatskoj (razvoj web-servisa);
+– definiraju podatke koji su u sustavu koji se razvija autentični te potrebni drugim informacijskim sustavima u Republici Hrvatskoj (razvoj web-servisa);
+– definiraju veze i upis u Metaregistar, ukoliko se razvija novi javni registar;
+– definiraju otvaranje otvorenih podataka i metapodataka za ponovnu uporabu;
+– definiraju e-usluge koje sustav može pružati građanima kroz platformu e-Građani, a izgrađene sukladno standardima za e-usluge;
+– definiraju e-usluge koje sustav može pružati poslovnim subjektima kroz platformu e-Poslovanje kada se razvije i implementira;
+– definiraju uključivanje međunarodnih preporuka za pristupačnost;
+– definiraju način uključivanja edukacije zaposlenih/korisnika za korištenje sustava i
+– definiraju osiguranje vanjske revizije projekta.
+(2) Za povezivanje e-usluga u europski e-upravni informacijski prostor nužno je također:
+– definirati potrebe za podatkovnim povezivanjem s drugim javnim registrima u Europskoj uniji (u daljnjem tekstu: EU), npr. razvoj web-servisa;
+– definirati podatke koji su u sustavu koji se razvija autentični te potrebni drugim informacijskim sustavima u EU (razvoj web-servisa);
+– definirati e-usluge koje sustav može/treba pružati građanima EU kroz platformu e-Građani, a izgrađene sukladno standardima za e-usluge s korisničkim sučeljem na više jezika (minimalno engleski, a može i na drugim jezicima, ovisno o namjeni usluge) te
+– definirati e-usluge koje sustav može/treba pružati poslovnim subjektima EU kroz sustav e-Poslovanje s korisničkim sučeljem na više jezika (minimalno engleski, a može i na drugim jezicima, ovisno o namjeni usluge).
+Tehnički standardi
+Članak 19.
+(1) Nova programska rješenja razvijaju se uz korištenje infrastrukture utvrđene Katalogom sukladno članku 6. stavku 7. ove Uredbe.
+(2) Iznimno od stavka 1. ovog članka, ukoliko infrastruktura utvrđena Katalogom ne zadovoljava potrebe projekta, tijelo javnog sektora dostavlja obrazloženje središnjem tijelu državne uprave nadležnom za poslove e-Hrvatske koje će ga prezentirati Vijeću te će temeljem mišljenja Vijeća predložiti Vladi Republike Hrvatske donošenje odluke o odobrenju projekta.
+VII. METAREGISTAR
+Ustroj Metaregistra
+Članak 20.
+(1) Svrha Metaregistra je osiguravanje interoperabilnosti razmjene podataka i informacija o registrima, ustrojavanju registara, promjenama strukture registara, postojećim načinima njihovog povezivanja, a sve radi povećanja kvalitete javnih usluga i omogućavanja planiranja i provedbe projekata korištenjem podataka koji se već prikupljaju od strane drugog tijela javnog sektora sukladno propisima o državnoj

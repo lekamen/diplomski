@@ -1,0 +1,27 @@
+ elektronskom obliku u kojem su ispunjene sve stavke mora se zaključati najkasnije u roku od 48 sati od stvaranja na portalu.
+(8) Ako je transportni dokument ispunjen u papirnatom obliku, prijevoznik mora u roku od 48 sati od stvaranja transportnog dokumenta na portalu u potpunosti ispuniti i zaključati transportni dokument u elektronskom obliku.
+(9) Brojevi LOT-ova navedeni u transportnom dokumentu moraju odgovarati brojevima LOT-ova na ambalaži proizvoda ribarstva.
+(10) Postupak ispunjavanja transportnog dokumenta opisan je u uputama na portalu.
+Članak 7.
+(1) Transportni dokument ima jedinstveni serijski broj.
+(2) Za svaku seriju proizvoda ribarstva navodi se jedinstveni broj LOT-a.
+(3) Jedinstveni broj LOT-a sastoji se od:
+– oznake L;
+– oznake vrste dokumenta (LOG – elektronski očevidnik o gospodarskom ribolovu na moru, LB – očevidnik o gospodarskom ribolovu na moru, CR – izvješće o ulovu);
+– brojčane oznake koja se sastoji od zadnje dvije znamenke godine, pet zadnjih znamenki CFR broja plovila te u slučaju elektronskog očevidnika zadnje tri znamenke serijskog broja, odnosno u slučaju papirnatog očevidnika ili izvješća posljednje četiri znamenke serijskog broja očevidnika ili izvješća; i
+– FAO šifre vrste morskog organizma.
+(4) Jedinstveni broj LOT-a izdaje se na portalu nakon unosa obveznih podataka.
+(5) U slučaju stavka 2. članka 3., kada nije potrebno ispunjavati transportni dokument, proizvode ribarstva potrebno je označiti oznakom LOT-a sukladno stavku 3. ovoga članka.
+(6) Ako se ispunjava papirnati transportni dokument na temelju obveznih podataka navedenih u stavku 3. članka 6., na oznaci LOT-a potrebno je dodati FAO šifru vrste morskog organizma sukladno Tablici 2. iz Priloga I. Pravilnika o obliku, sadržaju i načinu vođenja i dostave očevidnika, iskrcajne deklaracije i izvješća o ulovu u gospodarskom ribolovu na moru.
+(7) U slučaju da transportnom dokumentu prethodi izvješće o ulovu, jedinstveni broj LOT-a sadrži i FAO šifru alata koji se nalazi iza FAO šifre vrste morskog organizma.
+Članak 8.
+(1) Za potrebe nadzora, ribarski inspektor može staviti plombu na prijevozno sredstvo s ciljem naknadne kontrole u odredišnom objektu.
+(2) Svaka plomba je označena serijskim brojem.
+Članak 9.
+Ovaj Pravilnik stupa na snagu 1. siječnja 2016. godine.
+Klasa: 011-02/15-01/54
+Urbroj: 525-13/1526-15-1
+Zagreb, 21. prosinca 2015.
+Ministar Tihomir Jakovina, v. r.
+PRILOG I.
+

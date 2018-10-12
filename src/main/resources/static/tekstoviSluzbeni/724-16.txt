@@ -1,0 +1,40 @@
+ odabere odgovarajuća funkcija i unese datum kalendara. Promjenu kalendara potrebno je evidentirati u sustavu eSpis.
+(3) Ako rješavatelj odredi rok, vrijeme održavanja rasprave i ročišta kada se spis u pisanom obliku nalazi u sudskoj pisarnici, učinit će to naredbom u sustavu eSpis. U tom slučaju, kao i u svim drugim slučajevima kada sudska pisarnica mora promijeniti prethodno unesen rok, vrijeme održavanja rasprave i ročišta, evidentirat će to u sustavu eSpis.
+Članak 106.
+(1) Službenik sudske pisarnice dužan je redovito u sustavu eSpis pratiti rokove u predmetima koji se nalaze u pisarnici i pravovremeno postupati po dostavnim naredbama i upozorenjima evidentiranim u sustavu eSpis.
+(2) Vađenje spisa iz kalendara evidentira se u sustavu eSpis.
+XXI. OSTALE ODREDBE O POSTUPANJU U SUSTAVU eSpis
+1. Dostavljanje spisa rješavateljima
+Članak 107.
+Prije dostave spisa u referadu na rješavanje kroz sustav eSpis sudska pisarnica je dužna u napomenu sustava eSpis upisati informaciju o provedbi naredbi i drugim bitnim pojedinostima (npr.: »dostavnica/povratnica nije vraćena«, »izvješće nije primljeno« i slično).
+Članak 108.
+(1) Ako se utvrdi da je podnesak pravodobno podnesen, u polje za primjedbu sustava eSpis upisat će se oznaka »pravodobno«.
+(2) Ako podnesak treba dostaviti na odlučivanje višem sudu ili izvanraspravnom vijeću, popratno izvješće unijet će se u sustav eSpis.
+(3) Kad se utvrdi da podnesak vezan za rok nije podnesen pravodobno, u polje za primjedbu sustava eSpis upisat će se oznaka »nepravodobno«.
+2. Kretanje spisa
+Članak 109.
+(1) Ako se spis privremeno dostavlja na uvid drugom sudu ili tijelu, sudska pisarnica će datum do kojeg spis treba biti vraćen, temelj i razloge privremenog dostavljanja spisa unijeti u sustav eSpis korištenjem funkcije »Spis izvan suda«.
+(2) Dostavljanje spisa drugom sudu evidentira se u sustavu eSpis korištenjem posebne funkcionalnosti.
+(3) Kada se spis dostavlja drugom sudu samo radi uvida, spis se ne dostavlja kroz sustav eSpis, nego se činjenica da je spis na uvidu kod drugog suda evidentira u sustavu eSpis korištenjem funkcionalnosti »Spis izvan suda«, uz naznaku roka do kojeg spis treba vratiti.
+3. Samostalan rad sudske pisarnice
+Članak 110.
+Sudska pisarnica, uz poslove propisane odredbama Sudskog poslovnika, obavlja samostalno sljedeće poslove:
+1. daje usmene i pisane obavijesti i izdaje potvrde iz sustava eSpis o činjenicama o kojima se vodi službeni popis,
+2. sastavlja zapisnike ili službene bilješke o kratkim priopćenjima i izjavama stranaka i drugih osoba o promjeni adrese, mjesta boravka, o danu primitka sudske odluke kad dostavnica ili povratnica nije vraćena ili kad nije jasno naznačen dan obavljene dostave i slično te naprijed navedene podatke upisuje na odgovarajuće mjesto u sustavu eSpis,
+3. obavlja uvid u službena glasila radi utvrđivanja jesu li objavljeni pojedini oglasi uz istovremeno stavljanje odgovarajuće bilješke u sustav eSpis.
+XXII. ČUVANJE SPISA
+Članak 111.
+(1) Na spise u sustavu eSpis primjenjuju se rokovi čuvanja propisani odredbama posebnih zakona ili odredbama Sudskog poslovnika.
+(2) Nakon uništavanja spisa u pisanom obliku, podaci o spisu brisati će se iz sustava eSpis, osim podataka o spisu upisanih u elektronički upisnik.
+1. Pohrana spisa u arhiv
+Članak 112.
+(1) Nakon pravomoćnog dovršetka postupka, naredba o pohrani spisa u arhiv evidentirat će se u sustavu eSpis.
+(2) Nakon izdvajanja priloženih spisa, primjedba o tome evidentirat će se u sustavu eSpis.
+2. Arhiv ureda predsjednika suda
+Članak 113.
+(1) U sustav eSpis izdvajanje spisa radi posebnog čuvanja unosi se u sustav kao svako drugo izdvajanje iz arhiva.
+(2) Arhiva predsjednika suda vodi se kao posebna arhiva u sustavu eSpis.
+3. Izdavanje spisa iz arhiva
+Članak 114.
+(1) Kad se spis izda iz arhiva, u sustavu eSpis administrator suda mu mijenja status iz »arhiviran« u »riješen«.
+(2) Spis koji je izdan iz arhiva dodjeljuje se u rad rješavatelju koji je za njega bio zadužen u sustavu eSpis prije arhiviranja.

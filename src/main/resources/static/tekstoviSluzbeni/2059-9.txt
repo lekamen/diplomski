@@ -1,0 +1,37 @@
+ dovoljno podudaraju s obilježjima procjenjivane nekretnine pri čemu se mogu koristiti lokalno izvedeni poredbeni pokazatelji.
+Poredbena metoda kod prodaje zemljišta i zgrada od strane javnopravnih tijela
+Članak 38.
+U slučaju da se radi o prodaji zemljišta i zgrada od strane javnopravnih tijela sukladno Priopćenju Komisije o elementima državne potpore kod prodaje zemljišta i zgrada od strane javnopravnih tijela (97/C 209/03) i da ne postoje poredbene kupoprodajne cijene za nekretninu koja je predmet procjene, dopušteno je u okviru poredbene metode koristiti najbolje ponude iz postupka ponude:
+1. ako je proveden »kvalificirani ponudbeni postupak«,
+2. ako se mogu isključiti neuobičajene ili osobne okolnosti s najvećim odstupanjem od -20% u odnosu na najbolju ponudu i
+3. ako se kupoprodaja može realizirati prema najboljoj obvezujućoj ponudi.
+VII. PRIHODOVNA METODA
+Općenito o prihodovnoj metodi
+Osnove za utvrđivanje prihodovne vrijednosti
+Članak 39.
+(1) U prihodovnoj metodi prihodovna vrijednost se utvrđuje na temelju prihoda koji se postižu na tržištu (održivi prihodi). Ako su prihodovni odnosi u dogledno vrijeme podložni značajnim odstupanjima ili značajno odstupaju od prihoda koji se postižu na tržištu, prihodovna vrijednost može se utvrditi i na temelju periodički različitih prihoda.
+(2) Prihodovna vrijednost izgrađenih zemljišta obuhvaća vrijednost zemljišta, vrijednost građevine i vrijednost uređaja.
+(3) Prihodovna vrijednost može se utvrditi na temelju:
+1. opće prihodovne metode (tzv. dvotračna prihodovna metoda),
+2. pojednostavljene prihodovne metode (tzv. jednotračna prihodovna metoda) i
+3. periodične prihodovne metode.
+Inačice prihodovne metode
+Opća prihodovna metoda
+Članak 40.
+(1) U općoj prihodovnoj metodi prihodovna vrijednost utvrđuje se na temelju prihoda koji se postižu na tržištu iz utvrđene vrijednosti zemljišta uvećane za kapitaliziranu razliku čistog prihoda i odgovarajućeg ukamaćivanja vrijednosti prema općenitom izrazu:
+PV = (PG – VZ × p/100) × M + VZ
+M = (qn–1)/qn(q–1)
+q = 1 + (p/100)
+PV = prihodovna vrijednost nekretnine; PG = čisti prihod građevine; VZ = vrijednost zemljišta; M = multiplikator; p = kamatna stopa nekretnine; n = predvidivi ostatak održivog vijeka korištenja građevine.
+(2) Za utvrđivanje iznosa ukamaćene vrijednosti zemljišta mjerodavna je kamatna stopa na nekretnine koja se uzima kao osnovica za kapitalizaciju. Kod utvrđivanja iznosa ukamaćene vrijednosti zemljišta ne uzimaju se u obzir djelomične površine koje se mogu samostalno koristiti.
+(3) Opća prihodovna metoda primjenjuje se kad treba izračunati vrijednost građevina odvojeno od vrijednosti zemljišta na temelju budućeg prihoda. U tom slučaju vrijednost zemljišta se utvrđuje primjenom poredbene metode. Vrijednost zemljišta i vrijednost građevine zajedno daju prihodovnu vrijednost izgrađene građevne čestice.
+Pojednostavljena prihodovna metoda
+Članak 41.
+(1) U pojednostavljenoj prihodovnoj metodi prihodovna vrijednost utvrđuje se iz kapitaliziranog čistog prihoda i utvrđene vrijednosti zemljišta koja se diskontira na dan vrednovanja uz izuzimanje vrijednosti samostalno iskoristivih djelomičnih površina prema općenitom izrazu:
+PV = PG × M + VZ/qn
+PV = prihodovna vrijednost nekretnine; PG = čisti prihod građevine; VZ = vrijednost zemljišta; M = multiplikator; n = predvidivi ostatak održivog vijeka korištenja građevine
+(2) Pojednostavljena prihodovna metoda se također primjenjuje kad treba izračunati vrijednost građevina odvojeno od vrijednosti zemljišta na temelju budućeg prihoda, pri čemu se vrijednost samostalno iskoristivih djelomičnih površina mora uzeti u obzir u punome iznosu.
+(3) U pojednostavljenoj prihodovnoj metodi diskontirana vrijednost zemljišta može se zanemariti kod predvidivog ostatka održivog vijeka korištenja građevina dužeg od 50 godina pa se izraz za jednotračnu prihodovnu metodu svodi na:
+PV = PG × M
+PV = prihodovna vrijednost nekretnine; PG = čisti prihod građevine; M = multiplikator;
+(4) U pojednostavljenoj

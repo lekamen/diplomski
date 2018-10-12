@@ -1,0 +1,36 @@
+ imovine jesu: kamate (za dane kredite i zajmove, po vrijednosnim papirima, na oročena sredstva i depozite po viđenju, zatezne kamate), pozitivne tečajne razlike, dividende, dobit trgovačkih društava, banaka i ostalih financijskih institucija.
+(3) Prihodi od nefinancijske imovine jesu: prihodi od zakupa i iznajmljivanja imovine te ostali prihodi od nefinancijske imovine.
+Članak 34.
+Skupina računa 35 – Prihodi od donacija, obuhvaćaju novac i drugu imovinu koju, bez obveze vraćanja ili protučinidbe, neprofitna organizacija dobije iz državnog proračuna, proračuna jedinica lokalne i područne (regionalne) samouprave, od inozemnih vlada i međunarodnih institucija, od trgovačkih društava i drugih pravnih osoba te od građana i kućanstava.
+Članak 35.
+(1) Skupina računa 36 – Ostali prihodi, sadrži prihode od naknade šteta i refundacija te prihode od prodaje dugotrajne nematerijalne i materijalne imovine. Unutar ove skupine evidentira se otpis obveza i naplaćena otpisana potraživanja.
+(2) Prodaja dugotrajne nematerijalne i materijalne imovine evidentira se zaduženjem odgovarajućeg računa potraživanja od kupaca u skupini 16 i odobrenjem računa prihoda od prodaje dugotrajne nematerijalne i materijalne imovine u skupini 36. Istovremeno se odobrava račun prodane dugotrajne materijalne i nematerijalne imovine u razredu 0 i zadužuju: odgovarajući račun ispravka vrijednosti imovine u razredu 0 i račun rashoda za prodanu dugotrajnu nematerijalnu i materijalnu imovinu – neotpisana vrijednost u skupini 46.
+Članak 36.
+Skupina računa 37 – Prihodi od povezanih neprofitnih organizacija, obuhvaća tekuće i/ili kapitalne prijenose koje neprofitna organizacija ostvari od drugih neprofitnih organizacija s kojima je povezana osnivačkim, odnosno drugim općim aktima.
+Članak 37.
+Skupina računa 39 – Raspored prihoda, sadrži račune za raspored rezultata koji služe za zaključivanje razreda 3 na kraju izvještajnog razdoblja.
+IId. RASHODI
+Članak 38.
+Rashodi se klasificiraju na sljedeće skupine računa:
+– 41 – Rashodi za radnike
+– 42 – Materijalni rashodi
+– 43 – Rashodi amortizacije
+– 44 – Financijski rashodi
+– 45 – Donacije
+– 46 – Ostali rashodi i
+– 47 – Rashodi vezani uz financiranje povezanih neprofitnih organizacija.
+Članak 39.
+(1) Skupina računa 41 – Rashodi za radnike, sadrži:
+– plaće (u bruto iznosu)
+– ostale rashode za radnike: bonus za uspješan rad, nagrade (jubilarne nagrade, prigodne godišnje nagrade, posebne nagrade i slično), darove (radnicima, djeci radnika i slično), otpremnine, naknade za bolest (za bolovanje duže od 90 dana), invalidnost i smrtni slučaj te
+– doprinose na plaće.
+(2) Plaće su naknade koje poslodavac isplaćuje radnicima za obavljeni rad.
+(3) Plaće za redovan rad obuhvaćaju plaće te naknade plaća: za bolovanja, godišnji odmor, plaćene izostanke i ostale naknade plaća (njega djeteta, vojna vježba i slično).
+(4) Plaće u naravi jesu dobra i usluge određene novčane vrijednosti koje neprofitna organizacija daje radnicima za obavljeni rad, a oni ih koriste u slobodno vrijeme i za zadovoljavanje vlastitih potreba.
+Članak 40.
+(1) Skupina računa 42 – Materijalni rashodi, obuhvaća troškove korištenja usluga i dobara potrebnih za redovno funkcioniranje i obavljanje djelatnosti.
+(2) Naknade troškova radnicima, uključuju rashode za službena putovanja, rashode za prijevoz, rad na terenu i odvojeni život te rashode za stručno usavršavanje radnika.
+(3) Naknade ostalim osobama izvan radnog odnosa, uključuju naknade za rad i davanja uz naknade za rad (porezi, doprinosi i sl.), naknade za službena putovanja te ostale naknade.
+(4) Tekuće i investicijsko održavanje, podrazumijeva kontinuirane aktivnosti kojima se imovina održava ili vraća u funkcionalno stanje, kao što su: servisiranje uređaja i opreme, uređenje unutarnjih i vanjskih zidova, popravci i zamjena dotrajalih dijelova, periodični remonti postrojenja i opreme i slično.
+Članak 41.
+(1) Skupina računa 43 – Rashodi amortizacije, obuhvaća trošak nabave dugotrajne imovine koja se amortizira u vijeku

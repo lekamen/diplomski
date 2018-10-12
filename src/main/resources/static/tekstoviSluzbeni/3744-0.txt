@@ -1,0 +1,35 @@
+42 04.05.2016 Pravilnik o sadržaju i načinu vođenja Registra jedinica za unutarnju reviziju i Registra ovlaštenih unutarnjih revizora za javni sektor
+MINISTARSTVO FINANCIJA
+1093
+Na temelju članka 41. stavka 2. točke g) i članka 45. stavka 1. točke g) Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15), ministar financija donosi
+PRAVILNIK
+O SADRŽAJU I NAČINU VOĐENJA REGISTRA JEDINICA ZA UNUTARNJU REVIZIJU I REGISTRA OVLAŠTENIH UNUTARNJIH REVIZORA ZA JAVNI SEKTOR
+I. UVODNE ODREDBE
+Članak 1.
+Ovim Pravilnikom propisuje se oblik i vođenje Registra jedinica za unutarnju reviziju i Registra ovlaštenih unutarnjih revizora za javni sektor (u daljnjem tekstu: registri), obveznici dostave podataka i upis podataka u registre, sadržaj registara i izvatka iz registra te provjera upisanih podataka u registrima.
+II. OBLIK I VOĐENJE REGISTARA
+Članak 2.
+(1) Registri su izvor informacija o uspostavljenim unutarnjim revizijama i ovlaštenim unutarnjim revizorima za javni sektor u Republici Hrvatskoj.
+(2) Registre u elektroničkom obliku vodi ustrojstvena jedinica Ministarstva financija nadležna za harmonizaciju aktivnosti razvoja sustava unutarnjih kontrola (u daljnjem tekstu: Središnja harmonizacijska jedinica).
+III. OBVEZNICI DOSTAVE PODATAKA I PODNOŠENJE ZAHTJEVA ZA UPIS PODATAKA U REGISTAR JEDINICA ZA UNUTARNJU REVIZIJU
+Članak 3.
+(1) Obveznici dostave podataka za Registar jedinica za unutarnju reviziju su institucije koje su uspostavile unutarnju reviziju sukladno odredbama Zakona o sustavu unutarnjih kontrola u javnom sektoru i temeljem njega donesenog pravilnika.
+(2) Iznimno od stavka 1. ovoga članka, podatke ne dostavljaju institucije koje imaju unutarnju reviziju uspostavljenu sporazumom o obavljanju poslova unutarnje revizije, već podatke dostavlja institucija koja temeljem sporazuma za njih obavlja poslove unutarnje revizije.
+(3) Upis podataka u Registar jedinica za unutarnju reviziju obavlja se na temelju zahtjeva za upis podataka u registar koji je sastavni dio ovoga Pravilnika, kao Prilog 1.
+(4) Zahtjev za upis podataka u Registar jedinica za unutarnju reviziju podnosi rukovoditelj unutarnje revizije, odnosno imenovani unutarnji revizor (u daljnjem tekstu: podnositelj zahtjeva).
+(5) Podnositelj zahtjeva obvezan je popuniti i podnijeti zahtjev za upis podataka u Registar jedinica za unutarnju reviziju u roku od osam radnih dana od nastanka promjene u podacima koji se upisuju u registar.
+(6) Zahtjev iz stavka 3. ovoga članka podnosi se na elektroničkom obrascu objavljenom na mrežnim stranicama Ministarstva financija, a podnositelj zahtjeva u obvezi je čuvati potpisani original.
+IV. UPIS PODATAKA U REGISTAR OVLAŠTENIH UNUTARNJIH REVIZORA ZA JAVNI SEKTOR
+Članak 4.
+(1) U Registar ovlaštenih unutarnjih revizora za javni sektor podaci se unose temeljem dokumentacije kroz koju Središnja harmonizacijska jedinica prati proces izobrazbe unutarnjih revizora za stjecanje zvanja ovlaštenoga unutarnjeg revizora za javni sektor.
+(2) Ako u toku godine unutarnji revizor privremeno prestane obavljati poslove na radnom mjestu u unutarnjoj reviziji ili promjeni radno mjesto obvezan je o tome pisanim podneskom obavijestiti Središnju harmonizacijsku jedinicu radi ažuriranja podataka u Registru ovlaštenih unutarnjih revizora za javni sektor.
+V. SADRŽAJ REGISTRA JEDINICA ZA UNUTARNJU REVIZIJU
+Članak 5.
+(1) Registar jedinica za unutarnju reviziju je elektronička evidencija svih uspostavljenih unutarnjih revizija u javnom sektoru Republike Hrvatske.
+(2) Uspostavljene unutarnje revizije iz stavka 1. ovoga članka su ustrojene neovisne jedinice za unutarnju reviziju, imenovani unutarnji revizori, osnovane zajedničke jedinice za unutarnju reviziju, unutarnje revizije uspostavljene sporazumom o obavljanju poslova unutarnje revizije.
+Članak 6.
+U Registar jedinica za unutarnju reviziju, upisuju se sljedeći podaci:
+a) naziv institucije
+b) osobni identifikacijski broj institucije
+c) način uspostave unutarnje revizije
+d) naziv i adresa

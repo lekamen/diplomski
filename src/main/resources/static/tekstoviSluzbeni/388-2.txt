@@ -1,0 +1,32 @@
+
+Članak 8.
+Praćenje potrošnje energenata i vode obuhvaća unaprijed definiran skup aktivnosti koji vlasniku i/ili korisniku ETC-a pruža informacije o potrošnji i troškovima energenata i vode, korištenju ETC-a, a nadležnim subjektima pruža podatke nužne za analizu lokalnih i nacionalnih potreba za energijom i vodom te definiranje potencijala za smanjenje potrošnje i troškova istih.
+Razine praćenja potrošnje energenata i vode
+Članak 9.
+(1) Mjesečno praćenje potrošnje odnosi se na kontrolu potrošnje energenata i vode putem izdanih računa od distributera i/ili opskrbljivača energijom za svako mjerno mjesto, usporedbu troškova i potrošnje s prethodnim razdobljima, referentnim godinama te ostalim indikativnim pokazateljima.
+(2) Opskrbljivači/distributeri energijom u ISGE šalju zaglavlje računa (podaci o objektu, tarifnoj grupi računa, periodu računa), pojedine stavke računa (naziv, količina, jedinična cijena pojedine stavke, iznos/postotak PDV-a) na način opisan u Uputama za slanje računa i očitanja daljinskim putem u ISGE sustav (ISGE Remote 2.0) iz Priloga 2 koji je sastavni dio ovog Pravilnika.
+(3) Nakon izravnog upisa računa opskrbljivača i/ili distributera u ISGE, energetski suradnik dužan je račune usporediti s potrošnjom u prethodnim razdobljima obavljajući tako nadzor i analizu izravnog upisa računa.
+Članak 10.
+(1) Tjedno praćenje potrošnje odnosi se na očitavanje i upis stanja brojača mjernih uređaja energenata i vode u ISGE.
+(2) Za zgrade koje se u jednakom ili sličnom režimu koriste sedam dana u tjednu, stanja brojača se očitavaju jednom tjedno, na početku radnog tjedna u ponedjeljak u 8 sati, i unose u ISGE.
+(3) Za zgrade koje se u različitom režimu koriste kroz radni tjedan i kroz vikend, stanja brojača se očitavaju dvaput tjedno, na kraju radnog tjedna u petak u 16 sati i na početku radnog tjedna u ponedjeljak u 8 sati, i upisuju u ISGE.
+Članak 11.
+(1) Satno praćenje potrošnje odnosi se na očitavanje i upis stanja brojača mjernih uređaja energenata i vode u ISGE putem uređaja za daljinsko mjerenje potrošnje, na satnoj razini.
+(2) Satno praćenje potrošnje potrebno je za ETC-e čiji je ukupni godišnji trošak potrošnje energije i vode jednak ili veći od 700.000,00 kuna ili je izveden kao kompleks.
+(3) Podaci iz sustava daljinskog mjerenja dostavljaju se u ISGE sukladno Uputama za slanje računa i očitanja daljinskim putem u ISGE sustav (ISGE Remote 2.0) iz Priloga 2 koji je sastavni dio ovog Pravilnika.
+(4) Na ETC-ima s organiziranim satnim praćenjem potrošnje nije potrebno organizirati tjedni režim praćenja potrošnje.
+Praćenje potrošnje za zgrade mješovite namjene i komplekse s više zgrada
+Članak 12.
+(1) Za zgrade s više zona i komplekse s više zgrada većih od 250 m2, a čiji su ukupni godišnji troškovi za energente i vodu veći od 400.000,00 kuna nužna je ugradnja kontrolnih brojila potrošnje energenata i vode te je nužno praćenje potrošnje u skladu sa Zakonom i ovim Pravilnikom.
+(2) Kontrolno brojilo ugrađuje se za svaku zonu zgrade s više zona.
+(3) Kontrolno brojilo ugrađuje se za svaku zgradu unutar kompleksa veću od 250 m2.
+Izvještavanje
+Članak 13.
+(1) Javni sektor dužan je periodički, a najmanje jednom godišnje analizirati potrošnju energije i vode u zgradama i javnoj rasvjeti i o tome izvijestiti APN putem Izvještaja o godišnjoj potrošnji energenata i vode iz Priloga 3 koji je sastavni dio ovog Pravilnika.
+(2) Imenovana osoba izvještava APN o svom imenovanju i imenovanju Energetskog savjetnika te o ETC-ima za koje je pojedini Energetski savjetnik zadužen, odmah po imenovanju te o svim naknadnim promjenama.
+(3) Izvještaji iz stavka 1. i stavka 2. ovoga članka šalju se elektroničkom poštom.
+Nacionalni informacijski sustav za gospodarenje energijom (ISGE)
+Članak 14.
+(1) Javni sektor je obavezan koristiti Nacionalni informacijski sustav za gospodarenje energijom (ISGE) kao alat SGE-a.
+(2) APN je odgovorna za vođenje, održavanje i kontinuirani razvoj ISGE-a.
+(3) Za organizaciju svih edukacija korisnika ISGE-a zadužena je

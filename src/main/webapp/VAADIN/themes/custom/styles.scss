@@ -1,0 +1,15 @@
+$v-font-family: 'Arial', sans-serif;
+$v-font-size: 14px;
+
+@import "../valo/valo";
+
+.custom {
+	@include valo;
+	
+	
+	.v-grid-cell.column-word-wrap {
+		white-space: normal;
+ 		overflow: hidden;
+ 		line-height: normal;
+	}
+}

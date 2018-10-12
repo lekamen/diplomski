@@ -1,0 +1,29 @@
+temelju međunarodnih normi
+(1) Ako ne postoje usklađene norme iz članka 12. ovoga Pravilnika, pretpostavlja se da, u svrhu njenog stavljanja na raspolaganje na tržištu prema članku 3. ili slobodnog kretanja prema članku 4. ovoga Pravilnika, zadovoljava bitne zahtjeve iz članka 3. i Dodatka I. ovoga Pravilnika i ona električna oprema koja je u skladu sa sigurnosnim odredbama međunarodnih normi koje je odredila Međunarodna elektrotehnička komisija (IEC) te za koju je primijenjen postupak objavljivanja predviđen u stavcima 2. i 3. ovoga članka.
+(2) O sigurnosnim odredbama iz stavka 1. ovoga članka Komisija će obavijestiti države članice. Komisija će nakon savjetovanja s državama članicama utvrditi sigurnosne odredbe, a posebno varijante koje preporučuje za objavljivanje.
+(3) Ministarstvo nadležno za gospodarstvo će u roku od tri mjeseca obavijestiti Komisiju o svojim primjedbama na sigurnosne odredbe, navodeći sigurnosne razloge zbog kojih one ne mogu biti prihvaćene.
+(4) U svrhu informiranja, upute na sigurnosne odredbe na koje nije bilo nikakvih primjedbi objavit će se u Službenom listu Europske unije.
+Članak 14.
+Pretpostavka sukladnosti na temelju nacionalnih normi
+Ako ne postoje usklađene norme iz članka 12. ovoga Pravilnika ili međunarodne norme iz članka 13. ovoga Pravilnika, pretpostavlja se da, u svrhu njenog stavljanja na raspolaganje na tržištu prema članku 3. ili slobodnog kretanja prema članku 4. ovoga Pravilnika, zadovoljava bitne zahtjeve iz članka 3. i Dodatka I. ovoga Pravilnika i ona električna oprema proizvedena u skladu sa sigurnosnim zahtjevima normi koje su na snazi u državi članici u kojoj je proizvedena i ako ta oprema osigurava razinu sigurnosti jednaku onoj koja se zahtijeva u Republici Hrvatskoj.
+Članak 15.
+EU izjava o sukladnosti
+(1) EU izjavom o sukladnosti potvrđuje se da su ispunjeni bitni sigurnosni zahtjevi iz članka 3. i Dodatka I. ovoga Pravilnika.
+(2) EU izjava o sukladnosti mora imati strukturu iz Dodatka IV. ovoga Pravilnika, mora sadržavati elemente određene u Modulu A iz Dodatka III. ovoga Pravilnika i redovno se ažurirati i biti na hrvatskom jeziku.
+(3) Kada se na električnu opremu primjenjuje više od jednog akta Unije kojim se zahtijeva EU izjava o sukladnosti, sastavlja se samo jedna EU izjava o sukladnosti u vezi sa svim takvim aktima Unije. Navedena izjava sadrži identifikaciju akata Unije uključujući pozivanja na njihovo objavljivanje.
+(4) Sastavljanjem EU izjave o sukladnosti proizvođač preuzima odgovornost za sukladnost električne opreme sa zahtjevima iz ovog Pravilnika.
+Članak 16.
+Opća načela za oznaku CE
+Za oznaku CE vrijede opća načela utvrđena člankom 30. Uredbe (EZ) br. 765/2008.
+Članak 17.
+Pravila i uvjeti za stavljanje oznake CE
+(1) Na električnoj opremi ili njezinoj deklaraciji oznaka CE mora biti vidljiva, čitljiva i neizbrisiva. Ako to nije moguće ili nije zajamčeno zbog same naravi električne opreme, oznaka se stavlja na pakiranje i u popratne dokumente.
+(2) Oznaka CE mora se staviti prije nego što je električna oprema stavljena na tržište.
+POGLAVLJE IV. NADZOR NAD TRŽIŠTEM I KONTROLA ELEKTRIČNE OPREME KOJA ULAZI NA TRŽIŠTE
+Članak 18.
+Primjena Uredbe (EZ) br. 765/2008
+Članak 15. stavak 3. i članci 16. do 29. Uredbe (EZ) br. 765/2008 primjenjuju se na električnu opremu.
+Članak 19.
+Postupak rukovanja električnom opremom koja predstavlja rizik na nacionalnoj razini
+(1) Inspekcijski nadzor nad stavljanjem na raspolaganje električne opreme na tržištu i uporabu sukladno Zakonu o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti obavljaju inspektori, u skladu s njihovim nadležnostima.
+(2) Ako nadležno inspekcijsko tijelo ima dovoljno razloga vjerovati da električna oprema obuhvaćena ovim Pravilnikom predstavlja rizik za zdravlje ili sigurnost osoba ili domaćih životinja ili imovine, tada ono provodi ocjenjivanje u cilju potvrde ispunjava li navedena električna oprema sve relevantne zahtjeve iz ovoga Pravilnika. Odgovarajući gospodarski subjekti prema potrebi surađuju s

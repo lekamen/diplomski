@@ -1,0 +1,33 @@
+ pričuve podružnice iz EU-a izračunavaju na osnovi vlastitih podataka i iskazuju u kunama.
+46.k Dnevno stanje računa koji ulaze u obvezu održavanja kunskog dijela obvezne pričuve, u smislu točke VIII. Odluke, iskazuje se u skladu s instrumentom A0201, koji je definiran Uputom za statističko i bonitetno izvješćivanje, uz obilježje »Valuta«: kuna.
+46.l Podružnice iz EU-a ne mogu devizni dio obvezne pričuve održavati za račun drugih banaka.
+46.m Točke Upute 1., 2., 3., 4., 12., 13., 16., 20., 21., 22., 23., 24., 25., 26., 27., 28., 29., 30., 34., 35., 36., 38., 39., 41., 45. i 46., koje se odnose na banke, na isti se način primjenjuju i na podružnice iz EU-a.
+46.n Točke Upute 6., 7., 8. i 11., koje se odnose na obrasce KOP 1, KOP 2, DOP 1 i DOP 2, na isti se način primjenjuju i na obrasce P-KOP 1, P-KOP 2, P-DOP 1 i P-DOP 2. Točke Upute 10., 11., 32., 33., 43. i 44., koje se odnose na obrazac DOP 3, na isti se način primjenjuju na banke i na podružnice iz EU-a, uz ograničenje navedeno u točki 46.l.
+46.o Prilog A Upute ne primjenjuje se na podružnice iz EU-a.
+46.p Podružnice iz EU-a likvidna devizna potraživanja, u smislu točke VIII. Odluke, iskazuju po instrumentima navedenima u nastavku, koji su definirani Uputom za statističko i bonitetno izvješćivanje:
+– A0101 Gotov novac
+– A0102 Čekovi i drugi instrumenti plaćanja
+– A0201 Računi za namiru kod HNB-a
+– A0206 Depoziti
+– A0209 Obratni repo krediti
+– A0231 Depoziti u otkaznom roku
+– A0301 Obveznice
+– A0302 Komercijalni zapisi
+– A0303 Blagajnički i trezorski zapisi
+– A0304 Certifikati o depozitu
+– A0307 Mjenice.
+Dnevno stanje svakog od navedenih instrumenata utvrđuje se u skladu sa slogom AA (iz Upute za statističko i bonitetno izvješćivanje), uz obilježje »Valuta«: sve valute osim kune i obilježje »Vrsta iznosa«: 1 + 2 – 7 + 8 + 10 + 12.
+Za instrumente A0206, A0209, A0231, A0301, A0302, A0303, A0304 i A0307 uključuju se protustranke koje pripadaju sektoru nerezidenta: 1210, 1220 i 1311.
+Za instrumente A0301, A0302, A0303, A0304 i A0307 uključuje se obilježje »Portfelj«: DRT, RZP, FVO i DDD.
+Za instrumente A0301, A0302, A0303, A0304 i A0307, obilježje »Portfelj«: FVO i DDD i za instrumente A0206, A0209 i A0231 uključuje se dio s preostalim rokom dospijeća do tri mjeseca.
+Dnevno stanje utvrđeno prema navedenim kriterijima u ovoj točki izračunava se agregirano za sve navedene protustranke i iskazuje u kunama primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi za pojedini dan.
+46.r Točke 1., 2., 3., 4. i 6. Priloga B Upute, koje se odnose na banke, na isti se način primjenjuju i na podružnice iz EU-a.
+Točka 5. Priloga B Upute primjenjuje se na podružnice iz EU-a, s iznimkom dijela rečenice koji glasi »u skladu s načinom njihova vrednovanja u Odluci o kontom planu za banke«.«
+II.
+Prvi obračun obvezne pričuve u skladu s ovim Dopunama Upute za provedbu Odluke o obveznoj pričuvi banke su obvezne dostaviti Hrvatskoj narodnoj banci 9. studenoga 2016., za obračunsko razdoblje od 1. do 31. listopada 2016.
+III.
+Ove Dopune Upute za provedbu Odluke o obveznoj pričuvi stupaju na snagu dan nakon dana objave u »Narodnim novinama«.
+O.br.: 318-020/10-16/BV
+Zagreb, 26. listopada 2016.
+Guverner Hrvatske narodne banke prof. dr. sc. Boris Vujčić, v. r.
+PRILOZI

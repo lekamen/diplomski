@@ -1,0 +1,27 @@
+ služi za njezino grijanje, hlađenje, ventilaciju, klimatizaciju, pripremu tople vode, osvjetljenje i proizvodnju električne energije;
+8. ukupna (bruto) podna površina zgrade je ukupna ploština svih razina poda zgrade. Uključuje ploštine podnih površina zatvorenog dijela zgrade sa svih strana, uključivo ploštine svih unutrašnjih i vanjskih graničnih elemenata (zidovi, vrata, prozori, ostakljene stijene). Razine poda mogu biti etaže koje su u cijelosti ili djelomično pod zemljom, iznad zemlje, potkrovlja, servisne etaže i skladišne etaže. Iskazuje se za svaku etažu, unutar koje se posebno iskazuju ploštine razina bitno različitih visina – npr. sportska dvorana u odnosu na niže servisne prostorije pored, u m2, zaokružena na dvije decimale;
+9. Zakon je Zakon o gradnji (»Narodne novine«, broj 153/13);
+10. zaposlena osoba je fizička osoba koja je zaposlena na neodređeno vrijeme u ovlaštenoj pravnoj osobi koja provodi radnje i postupke energetskog pregleda zgrade, energetskog certificiranja i redovitog pregleda sustava grijanja i sustava hlađenja ili klimatizacije u zgradi (u daljnjem tekstu: zaposlena osoba);
+11. zgrade s jednostavnim tehničkim sustavom jesu stambene i nestambene zgrade ukupne (bruto) podne površine zgrade manje ili jednake 400 m2 i koje su:
+– s pojedinačnim uređajima za pripremu potrošne tople vode i koje nisu opremljene sustavima grijanja, hlađenja, ventilacije
+– s lokalnim i centralnim izvorima topline za grijanje i pripremu potrošne tople vode nazivne snage kotla do 30 kW, bez posebnih sustava za povrat topline i bez korištenja alternativnih sustava
+– s pojedinačnim rashladnim uređajima
+– s lokalnim sustavima ventilacije bez dodatne obrade zraka i bez povrata topline
+– posebni dijelovi zgrade koji imaju zasebno mjerilo za grijanje, etažno plinsko grijanje, priključak na zajedničku kotlovnicu ili priključak na daljinsko grijanje;
+12. zgrade sa složenim tehničkim sustavom jesu sve ostale stambene i nestambene zgrade koje prema ovome Pravilniku nisu zgrade s jednostavnim tehničkim sustavom.
+Prilozi Pravilniku
+Članak 4.
+Ovaj Pravilnik sadrži sljedeće priloge:
+– Prilog 1A Obrazac zahtjeva za davanje ovlaštenja za energetsko certificiranje i energetski pregled zgrade i redovite preglede sustava grijanja i sustava hlađenja ili klimatizacije u zgradi za fizičke osobe,
+– Prilog 1B Obrazac zahtjeva za davanje ovlaštenja za energetsko certificiranje i energetski pregled zgrade i redovite preglede sustava grijanja i sustava hlađenja ili klimatizacije u zgradi za pravne osobe,
+– Prilog 1C Tablica za opis područja rada i iskustva u struci koja se prilaže uz zahtjev za davanje ovlaštenja,
+– Prilog 1D Obrazac izjave o zaposlenim osobama na neodređeno vrijeme i imenovanju osobe koja će potpisivati izvješća o energetskim pregledima zgrada, energetske certifikate zgrada i izvješća o redovitim pregledima sustava grijanja i sustava hlađenja i klimatizacije u zgradama,
+– Prilog 2 Sadržaj registra osoba ovlaštenih za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi – fizičke osobe,
+– Prilog 3 Sadržaj registra osoba ovlaštenih za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi – pravne osobe,
+– Prilog 4A Program osposobljavanja za osobe koje provode energetsko certificiranje i energetske preglede zgrade s jednostavnim tehničkim sustavom (Modul 1),
+– Prilog 4B Program osposobljavanja za osobe koje provode energetsko certificiranje i energetske preglede zgrada sa složenim tehničkim sustavom (Modul 2),
+– Prilog 4C Program usavršavanja za osobe koje provode energetske preglede i energetsko certificiranje zgrada,
+– Prilog 5 Obrazac zahtjeva za davanje suglasnosti za provođenje Programa izobrazbe,
+– Prilog 6 Obrazac izjave o zaposlenim osobama kod nositelja Programa izobrazbe,
+– Prilog 7 Sadržaj popisa osoba koje imaju suglasnost za provođenje Programa izobrazbe.
+II.

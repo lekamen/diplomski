@@ -1,0 +1,31 @@
+ dan vrednovanja ali se očekuje njihovo plaćanje u dogledno vrijeme, vrijednost zemljišta utvrđuje se kao da su doprinosi plaćeni.
+Multiplikator
+Članak 51.
+(1) Multiplikator (M) za utvrđivanje prihodovne vrijednosti je određen u tablici iz Priloga 14. koja je sastavni dio ovoga Pravilnika, prema predvidivom ostatku održivog vijeka korištenja građevine i prikladne kamatne stope na pojedinu vrstu nekretnine.
+(2) Korištenjem multiplikatora iz stavka 1. ovoga članka postupa se s faktorom sadašnje vrijednosti naknade u kojoj se anuitet plaća na kraju ugovorenog razdoblja odnosno na kraju održivog vijeka korištenja. Faktor sadašnje vrijednosti naknade može naći svoju primjenu i prigodom plaćanja anuiteta unaprijed koja se obavljaju mjesečno. U slučaju plaćanja anuiteta unaprijed za više mjeseci (primjerice tromjesečno, polugodišnje ili godišnje), mora se provesti prilagodba odgovarajućih multiplikatora.
+Dodatci i odbitci
+Članak 52.
+(1) Ukoliko prihodi ili troškovi prema važećim propisima nisu još uzeti u obzir, poput prihoda iz posebnih korištenja građevina ili drugih nekretnina ili troškova zbog propuštenog održavanja (zastoj u održavanju) kao i utjecaja prihoda putem posebnih obveza iz zakupa ili najma, potrebno je u odnosu na prihodovnu vrijednost uzeti u obzir odgovarajuće dodatke ili odbitke.
+(2) Ako su uočene građevinske štete ili nedostatci na građevini, tržišna vrijednost se treba utvrditi uzimanjem u obzir troškova njihovog uklanjanja kao i uzimanjem u obzir troškova za poboljšice, u tome se slučaju u odnosu na odgovarajuće planirano stanje građevine bez nedostataka utvrđuju:
+1. prihodi koji se postižu na tržištu
+2. troškovi gospodarenja koji se postižu na tržištu (poglavito visina troškova tekućeg održavanja) i
+3. produženi predvidivi ostatak održivog vijeka korištenja na temelju poboljšica.
+(3) Rezultat utvrđivanja tržišne vrijednosti se umanjuje za utvrđene troškove raščlanjene na mjere za tekuće održavanje i mjere za poboljšice.
+(4) Troškovi tekućeg održavanja iznimno se uzimaju u obzir kao umanjenje prihodovne vrijednosti nekretnine u punome iznosu samo u slučaju poduzimanja nužnih mjera.
+(5) U slučaju da se troškovi uklanjanja građevinskih šteta i nedostataka pojavljuju u natprosječnom iznosu, potrebno je provjeriti njihovu vjerodostojnost na temelju postojećeg stanja održavanja ili trenutnog uklanjanja.
+VIII. TROŠKOVNA METODA
+Općenito o troškovnoj metodi
+Osnove za utvrđivanje troškovne vrijednosti
+Članak 53.
+(1) U troškovnoj metodi utvrđuje se troškovna vrijednost nekretnine iz troškovne vrijednosti građevina i vrijednosti zemljišta. Opći vrijednosni odnosi na tržištu nekretnina uzimaju se u obzir posebno primjenom koeficijenata za prilagodbu troškovne vrijednosti.
+(2) Troškovna vrijednost građevina (bez vanjskih uređaja) proizlazi iz troškova gradnje uzimajući u obzir umanjenje vrijednosti zbog starosti građevina.
+(3) Troškovna vrijednost vanjskih građevinskih uređaja i drugih vanjskih uređaja, ako nije uključena u vrijednost zemljišta, utvrdit će se na temelju iskustvenih stopa ili na temelju normalnih troškova gradnje.
+(4) Procjene troškovnom metodom mogu se koristiti za utvrđivanje vrijednosti građevina ako su drugi pouzdani podatci nedostupni.
+Vrijednost zemljišta u troškovnoj metodi
+Članak 54.
+Vrijednost zemljišta u pravilu se dobiva primjenom poredbene metode. Odredbe za neizgrađena zemljišta primjenjuju se na odgovarajući način.
+Troškovi gradnje
+Općenito o troškovima gradnje
+Članak 55.
+(1) Za utvrđivanje troškova gradnje množe se normalni troškovi gradnje prema ploštini površine, volumenu ili drugoj odnosnoj jedinici s brojem odnosnih jedinica građevine.
+(2) Normalni troškovi gradnje su troškovi koji bi na tržištu nastali za građenje novih građevina. Pojedini dijelovi građevine, uređaji ili druge naprave koji nisu obuhvaćeni navedenim troškovima uzet će se u obzir dodatcima ili odbitcima ukoliko to odgovara uobičajenom poslovnom prometu. Normalnim troškovima gradnje pripadaju i obično nastali uzgredni

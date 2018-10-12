@@ -1,0 +1,59 @@
+32 20.03.2015 Pravilnik o elektroničkom zapisu podataka iz područja radnih odnosa
+MINISTARSTVO RADA I MIROVINSKOGA SUSTAVA
+667
+Na temelju članka 6. stavak 3. Zakona o radu (»Narodne novine« broj 93/14) ministar rada i mirovinskoga sustava donosi
+PRAVILNIK
+O ELEKTRONIČKOM ZAPISU PODATAKA IZ PODRUČJA RADNIH ODNOSA
+1. PREDMET PRAVILNIKA
+Članak 1.
+(1) Ovim se Pravilnikom propisuje sadržaj elektroničkog zapisa, izdavanje elektroničkog zapisa, ispravak podataka na elektroničkom zapisu, razmjena podataka između tijela s javnim ovlastima i vođenje evidencije o izdanim elektroničkim zapisima.
+(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.
+2. SADRŽAJ PODATAKA
+Članak 2.
+(1) Elektronički zapis sadrži sljedeće podatke:
+1) ime i prezime osobe/osiguranika,
+2) dan, mjesec i godinu rođenja,
+3) državljanstvo osobe/osiguranika,
+4) osobni broj osiguranika,
+5) osobni identifikacijski broj (OIB) osobe/osiguranika,
+6) temeljno obrazovanje:
+– naziv i sjedište obrazovne ustanove,
+– obrazovni program,
+– stečena kvalifikacija,
+– stupanj stručne spreme, odnosno vrsta i razina obrazovanja,
+– klasa i urudžbeni broj svjedodžbe/diplome.
+7) dodatno obrazovanje:
+– naziv i sjedište ustanove,
+– opis dodatnog obrazovanja,
+– klasa i urudžbeni broj dokumenta,
+– prestanak važenja.
+8) naziv i sjedište poslodavca/obveznika doprinosa,
+9) OIB poslodavca/obveznika doprinosa,
+10) registarski broj obveznika doprinosa,
+11) osnova osiguranja,
+12) početak osiguranja,
+13) prestanak osiguranja,
+14) radno vrijeme (broj sati dnevno),
+15) stvarna stručna sprema, odnosno vrsta i razina obrazovanja,
+16) potrebna stručna sprema, odnosno vrsta i razina obrazovanja,
+17) općina rada/prebivalište,
+18) ugovor o radu na neodređeno ili određeno vrijeme s punim ili nepunim radnim vremenom,
+19) trajanje staža osiguranja.
+(2) Podatke iz stavka 1. podstavka 3., 6., 7. i 15. ovoga članka, Hrvatski zavod za mirovinsko osiguranje (u daljnjem tekstu: Zavod) preuzima od drugih nadležnih tijela odnosno osiguranika, druge fizičke ili pravne osobe i tijela s javnim ovlastima, u skladu s posebnim propisima o zaštiti osobnih podataka, dok se ne osigura preuzimanje podataka iz temeljnog registra, elektroničkim putem.
+(3) Zavod i Hrvatski zavod za zapošljavanje neposredno evidentiraju podatak iz stavka 1. podstavka 6. ovoga članka na osnovi izvornika svjedodžbi i diploma nadležnih obrazovnih ustanova, a podatak iz stavka 1. podstavka 7. ovoga članka na osnovi izvornika dokumenata kojima se dokazuje neko dodatno obrazovanje.
+(4) U elektroničkom zapisu prikazuju se razdoblja osiguranja stečena po svim obveznim osnovama osiguranja i produženo osiguranje.
+3. IZDAVANJE ELEKTRONIČKOG ZAPISA
+Članak 3.
+(1) Elektronički zapis Zavod izdaje na zahtjev:
+1) osiguranika fizičke osobe, hrvatskog ili stranog državljanina koji je obvezno osiguran na mirovinsko osiguranje na temelju generacijske solidarnosti, u skladu s posebnim propisima koji uređuju mirovinsko osiguranje,
+2) fizičke osobe koja u Zavodu nema priznato svojstvo osiguranika iz podstavka 1. ovoga članka,
+3) tijela s javnim ovlastima, u skladu s posebnim propisima o zaštiti osobnih podataka.
+(2) Elektronički zapis izdaje se nakon podnesenog zahtjeva i sadrži sve podatke koji su u njega uneseni do dana izdavanja.
+(3) Osobe iz stavka 1. ovoga članka zahtjev za izdavanje elektroničkog zapisa podnose Zavodu u elektroničkom obliku, putem korisničkih stranica Zavoda.
+Članak 4.
+(1) Elektronički zapis dostavlja se podnositelju zahtjeva iz članka 3. stavka 1. ovoga Pravilnika putem korisničkih stranica Zavoda, odnosno elektroničkom poštom.
+(2) Vjerodostojnost elektroničkog zapisa iz stavka 1. ovoga članka može se provjeriti korištenjem kontrolnog broja, odnosno bar-koda na mrežnoj stranici Zavoda.
+(3) Elektronički zapis (sadržaj, forma) iz stavka 1. ovoga članka sastavni je dio ovoga Pravilnika.
+4. ISPRAVAK PODATAKA NA ELEKTRONIČKOM ZAPISU
+Članak 5.
+Podnositelj zahtjeva iz članka 3.
