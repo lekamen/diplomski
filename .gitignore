@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/java,vaadin,windows,eclipse,java-web
 
+!.mvn/wrapper/maven-wrapper.jar
+
 ### Eclipse ###
 
 .metadata
