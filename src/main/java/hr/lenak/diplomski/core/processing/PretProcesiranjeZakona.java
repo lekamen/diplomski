@@ -20,7 +20,6 @@ import hr.lenak.diplomski.web.util.Repositories;
 /**
  * Klasa dohvaća sve članke u HTML-obliku, extracta naslov i njihov sadržaj te ih sprema u datoteke (koje imaju 
  * max 4000 znakova).
- * Svi tekstovi su u resources/static/tekstoviSluzbeni
  */
 public class PretProcesiranjeZakona {
 
@@ -50,7 +49,7 @@ public class PretProcesiranjeZakona {
 	/**
 	 * Provjerava sadrži li HTML dokument element s klasom "story"
 	 */
-	private static boolean checkIfContainsStoryTag(String text) {
+	public static boolean checkIfContainsStoryTag(String text) {
 		Document doc = Jsoup.parse(text);
 		try {
 			doc.getElementsByClass("story").get(0);

@@ -1,4 +1,4 @@
-package hr.lenak.diplomski.core.model;
+package hr.lenak.diplomski.core.model.generated;
 
 import static com.querydsl.core.types.PathMetadataFactory.*;
 
@@ -8,6 +8,9 @@ import com.querydsl.core.types.PathMetadata;
 import javax.annotation.Generated;
 import com.querydsl.core.types.Path;
 import com.querydsl.core.types.dsl.PathInits;
+
+import hr.lenak.diplomski.core.model.TekstZakona;
+import hr.lenak.diplomski.core.model.Token;
 
 
 /**
@@ -27,6 +30,8 @@ public class QTekstZakona extends EntityPathBase<TekstZakona> {
     public final ListPath<Token, QToken> tokens = this.<Token, QToken>createList("tokens", Token.class, QToken.class, PathInits.DIRECT2);
 
     public final NumberPath<Long> tsiId = createNumber("tsiId", Long.class);
+
+    public final NumberPath<Integer> wordCount = createNumber("wordCount", Integer.class);
 
     public QTekstZakona(String variable) {
         super(TekstZakona.class, forVariable(variable));

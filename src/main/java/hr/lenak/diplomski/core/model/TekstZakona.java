@@ -16,7 +16,7 @@ public class TekstZakona implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
-	@SequenceGenerator(name="TEKST_ZAKONA_TEKSTZAKONAID_GENERATOR", sequenceName="SEQUENCEGENERATOR")
+	@SequenceGenerator(name="TEKST_ZAKONA_TEKSTZAKONAID_GENERATOR", sequenceName="TEKST_ZAKONA_SEQUENCEGENERATOR")
 	@GeneratedValue(strategy=GenerationType.SEQUENCE, generator="TEKST_ZAKONA_TEKSTZAKONAID_GENERATOR")
 	@Column(name="TEKST_ZAKONA_ID")
 	private Long tekstZakonaId;
@@ -26,6 +26,9 @@ public class TekstZakona implements Serializable {
 
 	@Column(name="TSI_ID")
 	private Long tsiId;
+	
+	@Column(name="WORD_COUNT")
+	private Integer wordCount;
 	
 	//bi-directional many-to-one association to Token
 	@OneToMany(mappedBy="tekstZakona")
@@ -58,6 +61,14 @@ public class TekstZakona implements Serializable {
 		this.tsiId = tsiId;
 	}
 	
+	public Integer getWordCount() {
+		return wordCount;
+	}
+
+	public void setWordCount(Integer wordCount) {
+		this.wordCount = wordCount;
+	}
+
 	public List<Token> getTokens() {
 		return this.tokens;
 	}

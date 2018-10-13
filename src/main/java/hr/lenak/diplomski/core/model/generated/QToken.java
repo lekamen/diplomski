@@ -1,4 +1,4 @@
-package hr.lenak.diplomski.core.model;
+package hr.lenak.diplomski.core.model.generated;
 
 import static com.querydsl.core.types.PathMetadataFactory.*;
 
@@ -8,6 +8,8 @@ import com.querydsl.core.types.PathMetadata;
 import javax.annotation.Generated;
 import com.querydsl.core.types.Path;
 import com.querydsl.core.types.dsl.PathInits;
+
+import hr.lenak.diplomski.core.model.Token;
 
 
 /**
@@ -25,6 +27,8 @@ public class QToken extends EntityPathBase<Token> {
     public final EnumPath<hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum> kategorija = createEnum("kategorija", hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum.class);
 
     public final StringPath lemma = createString("lemma");
+
+    public final NumberPath<Integer> position = createNumber("position", Integer.class);
 
     public final StringPath tag = createString("tag");
 

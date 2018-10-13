@@ -15,7 +15,7 @@ public class Token implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
-	@SequenceGenerator(name="TOKEN_TOKENID_GENERATOR", sequenceName="SEQUENCEGENERATOR")
+	@SequenceGenerator(name="TOKEN_TOKENID_GENERATOR", sequenceName="TOKEN_SEQUENCEGENERATOR")
 	@GeneratedValue(strategy=GenerationType.SEQUENCE, generator="TOKEN_TOKENID_GENERATOR")
 	@Column(name="TOKEN_ID")
 	private Long tokenId;
@@ -28,6 +28,9 @@ public class Token implements Serializable {
 
 	@Column(name="\"VALUE\"")
 	private String value;
+	
+	@Column(name="POSITION")
+	private Integer position;
 	
 	//bi-directional many-to-one association to TekstZakona
 	@ManyToOne
@@ -85,6 +88,14 @@ public class Token implements Serializable {
 		this.tekstZakona = tekstZakona;
 	}
 	
+	public Integer getPosition() {
+		return position;
+	}
+
+	public void setPosition(Integer position) {
+		this.position = position;
+	}
+
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

@@ -41,6 +41,10 @@ public class EclipseLinkJpaConfiguration extends JpaBaseConfiguration {
 		props.put("javax.persistence.validation.mode", "none");
 		props.put("eclipselink.weaving", "true");
 		props.put("eclipselink.weaving.changetracking", "false");
+		
+		props.put("eclipselink.jdbc.batch-writing", "JDBC");
+		props.put("eclipselink.jdbc.batch-writing.size", "1000");
+		props.put("eclipselink.cache.shared.default", "false");
 
 		props.put("eclipselink.logging.level", "INFO");
 		props.put("eclipselink.logging.level.sql", "FINE");

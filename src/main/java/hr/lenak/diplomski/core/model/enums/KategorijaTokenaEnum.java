@@ -15,7 +15,8 @@ public enum KategorijaTokenaEnum {
 	PARTICLE("Q"),
 	INTERJECTION("I"),
 	ABBREVIATION("Y"),
-	RESIDUAL("X");
+	RESIDUAL("X"),
+	PUNCTUATION("Z");
 	
 	private String value;
 	
