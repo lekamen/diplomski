@@ -6,6 +6,7 @@ import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
 
+import hr.lenak.diplomski.core.processing.NadjiKljucneRijeci;
 import hr.lenak.diplomski.core.processing.PretProcesiranjeZakona;
 import hr.lenak.diplomski.core.processing.UcitajTekstZakonaITokenUBazu;
 import hr.lenak.diplomski.web.ViewNames;
@@ -50,5 +51,8 @@ public class PocetnaView extends VerticalLayout implements View {
 		//ucitavanje u bazu
 		//UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
 		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
+		
+		NadjiKljucneRijeci keyWords = new NadjiKljucneRijeci();
+		keyWords.nadji();
 	}
 }

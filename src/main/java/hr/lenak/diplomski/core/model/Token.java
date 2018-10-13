@@ -95,6 +95,50 @@ public class Token implements Serializable {
 	public void setPosition(Integer position) {
 		this.position = position;
 	}
+	
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int hash = 17;
+		hash = hash * prime + (kategorija == null ? 0 : kategorija.hashCode());
+		hash = hash * prime + (lemma == null ? 0 : lemma.hashCode());
+		return hash;
+	}
+	
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Token other = (Token) obj;
+		if (kategorija == null) {
+			if (other.kategorija != null) {
+				return false;
+			}
+			else {
+				return this == obj;
+			}
+		}
+		else if (!kategorija.equals(other.kategorija))
+			return false;
+		
+		//kategorije su im jednake, sad još provjera lemme
+		if (lemma == null) {
+			if (other.lemma != null) {
+				return false;
+			}
+			else {
+				return this == obj;
+			}
+		}
+		else if (!lemma.equals(other.lemma)) {
+			return false;
+		}
+		return true;
+	}
 
 	@Override
 	public String toString() {
