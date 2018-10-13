@@ -1,9 +1,0 @@
- ako se u SMS poruci napiše dijakritički znak sustav ga odmah prepoznaje.
-Dakle, prema tehničkim specifikacijama sama uporaba dijakritičkih znakova dovodi do smanjenja mogućeg broja znakova po jednoj SMS poruci iz razloga što se radi o posebnim znakovima koji zahtijevaju drugačije kodiranje.
-S obzirom na navedeno, budući da tužiteljica niti ne osporava korištenje dijakritičkih znakova prilikom pisanja spornih poruka, sud smatra da je tuženik pravilnom primjenom materijalnog prava i na temelju pravilno utvrđenog činjeničnog stanja, primjenom odredbe članka 51. stavak 6. i stavak 8. Zakona o elektroničkim komunikacijama odbio zahtjev tužiteljice za rješavanje spora pri čemu nije povrijedio zakon na njenu štetu.
-Stoga prigovori tužiteljice iznijeti u ovoj upravnoj stvari nemaju utjecaja na zakonitost osporavane odluke tuženika od 29. listopada 2015. te je sud na temelju članka 57. stavka 1. Zakona o upravnim sporovima odlučio kao u izreci ove presude.
-Odluka o objavi presude u »Narodnim novinama« i na internetskim stranicama tuženika temelji se na odredbi članka 14. stavka 8. Zakona o elektroničkim komunikacijama.
-UPUTA O PRAVNOM LIJEKU
-Protiv ove presude dopuštena je žalba Visokom upravnom sudu Republike Hrvatske. Žalba se podnosi putem ovoga suda, u dovoljnom broju primjeraka za sud i sve stranke u sporu, u roku od 15 dana od dana dostave presude. Žalba odgađa izvršenje pobijane presude (članak 66. stavak 6. Zakona o upravnim sporovima).
-Poslovni broj: 7 UsI-982/16-6 Osijek, 31. kolovoza 2016.
-Sutkinja Blanka Sajter, v. r.

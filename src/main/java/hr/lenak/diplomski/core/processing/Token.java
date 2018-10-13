@@ -1,5 +1,7 @@
 package hr.lenak.diplomski.core.processing;
 
+import hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum;
+
 public class Token {
 
 	private String value;

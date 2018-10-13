@@ -1,6 +1,0 @@
- 17.a Devizni krediti od stranih financijskih institucija rn. 7492 17.b Devizni krediti od stranih država rn. 7494 17.c Devizni krediti od stranih trgovačkih društava rn. 7495 17.d Devizni krediti od stranih fizičkih osoba rn. 7496 18. Određene obveze u stranim sredstvima plaćanja (zbroj od red. br. 12 do red. br. 17)  
-aUključuju se samo oni devizni depoziti koji dospijevaju najkasnije za 3 mjeseca. Analitički računi koji završavaju s br. 9, ne uključuju se u izvješće. Također se uključuju devizni obratni repo poslovi koji dospijevaju najkasnije za 3 mjeseca, ako već nisu uključeni u navedeni račun.
-b Banka koja izdvaja devizni dio obvezne pričuve za sebe ili za sebe i za račun drugih banaka, prikazuje samo iznos deviznog dijela obvezne pričuve koji izdvaja za sebe.
-cUzimaju se u obzir samo oni vrijednosni papiri i drugi financijski instrumenti u devizama koji se drže do dospijeća i dužnički vrijednosni papiri kupljeni pri emisiji izravno od izdavatelja koji dospijevaju najkasnije za 3 mjeseca.
-dDefinicija pojma »ostale bankovne institucije« određena je Uputom za primjenu Kontnog plana za banke.
-eUključuju se i devizni repo poslovi ako već nisu uključeni u navedene račune.

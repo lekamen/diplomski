@@ -1,9 +1,0 @@
-
-(1)EINECS: European Inventory of Existing Chemical Substances (Europski registar postojećih kemijskih tvari).
-(2) CAS: CAS broj (Chemical Abstract Service Number).
-(3) mg/m3 = miligrami po kubičnom metru zraka pri 20°C i 101,3 kPa (760 mm Hg).
-(4) ppm = čestica volumena na milijun u zraku (ml/m3).
-(5) Mjereno ili izračunato za referentno razdoblje od osam sati.
-(6) Znatan doprinos ukupnom opterećenju tijela moguć izloženošću preko kože.
-(7) Frakcija koju je moguće udahnuti; ukoliko su prašine tvrdog drveta pomiješane s drugim vrstama drvene prašine, ova granična vrijednost odnosi se na sve vrste drvene prašine koje se nalaze u mješavini.
-[1] Popis nekih tvrdih drva može se naći u Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol. 62 – »Wood Dust and Formaldehyde« (Monografije o procjeni karcinogenih rizika za ljude, sv. 62 – »Drvena prašina i formaldehid«), kojeg je izdala International Agency for Research on Cancer (Međunarodna agencija za istraživanje raka), Lyon, 1995.

@@ -1,7 +1,0 @@
-stupac	stupac	Ncmsn
-8	8	Mdc
-ne	ne	Qz
-popunjava	popunjavati	Vmr3s
-se	sebe	Px--sa
-.	.	Z
-

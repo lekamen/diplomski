@@ -5,6 +5,9 @@
 mvnw
 mvnw.cmd
 
+src/main/resources/static/tekstoviSluzbeni/
+src/main/resources/static/tekstoviTagILema
+
 ### Eclipse ###
 
 .metadata

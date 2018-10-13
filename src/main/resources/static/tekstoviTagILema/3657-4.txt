@@ -1,9 +1,0 @@
-Ravnatelj	ravnatelj	Ncmsn
-dr.	dr.	Y
-sc.	sc.	Y
-Jadran	Jadran	Npmsn
-Perinić	Perinić	Npmsn
-,	,	Z
-v.	v.	Y
-r.	r.	Y
-

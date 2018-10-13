@@ -1,7 +1,0 @@
- iznosa posebnog poreza obračunatog za svaki pojedini predmet oporezivanja (to je iznos koji se zadužuje na poreznu karticu)
-22. UKUPNO OBRAČUNATI POSEBNI POREZ PRILIKOM UVOZA
-Polje 22. automatski se popunjava, to je podatak o iznosu ukupno obračunatog posebnog poreza na količine iskazane u svakom stupcu retka 17. ovoga obrasca, odnosno zbroj iznosa posebnog poreza obračunatog prilikom uvoza svakog pojedinog predmeta oporezivanja (ne zadužuje se na poreznu karticu s ovog obrasca, automatski se zadužuje prilikom uvoznog carinjenja)
-23. UKUPNO OBRAČUNATI POSEBNI POREZ
-Polje 23. automatski se popunjava, a to je podatak o iznosu ukupno obračunatog posebnog poreza tijekom izvještajnog razdoblja, odnosno zbroj iznosa posebnog poreza iskazanog u poljima 21. i 22. ovoga obrasca (ne zadužuje se na poreznu karticu)
-PRILOG 4.
-

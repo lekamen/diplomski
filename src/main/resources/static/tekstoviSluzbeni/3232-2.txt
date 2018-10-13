@@ -1,9 +1,0 @@
- prostor Zemljište Ostale nekretnine
-Napomena uz tablicu G.3 – navode se prijevozna sredstva (vozila, plovila i dr.) podnositelja zahtjeva i članova kućanstva. Ako ima više prijevoznih sredstava od predviđenih mjesta u tablici ostala se upisuju na poleđini zahtjeva.
-Tablica G.3 PODACI O PRIJEVOZNIM SREDSTVIMA
-Podaci o vozilima/plovilima: Vlasnik (ime i prezime) Vrsta, marka i tip, god. proizvodnje Registarska oznaka Vrijednost u kunama                       
-Napomena uz tablicu G.4 – unosi se iznos gotovine u domaćoj i stranoj valuti, štednja odnosno novčana sredstva na osobnim računima ili štednim knjižicama, vrijednosni papiri, poslovni udjeli i ostala imovina u tuzemstvu, mirovina, poslovni udjeli i ostala imovina u inozemstvu podnositelja zahtjeva i članova kućanstva.
-Tablica G.4 PODACI O OSTALOJ IMOVINI I PRIMICIMA
-Vrsta imovine/primitka (štednja, vrijednosni papiri, poslovni udjeli, mirovina i ostala imovina) Ime i prezime vlasnika/korisnika Iznos u kunama
-U ___________, ________                                              Potpis podnositelja zahtjeva
-                                                                                          _____________________

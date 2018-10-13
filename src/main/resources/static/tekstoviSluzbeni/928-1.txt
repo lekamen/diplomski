@@ -1,5 +1,0 @@
-F3 ili F4 za pirotehnička sredstva za vatromet 1., 2., 3., odnosno 4. kategorije
-– T1 ili T2 za pirotehnička sredstva za primjenu u kazalištima kategorije T1, odnosno T2,
-– P1 ili P2 za ostala pirotehnička sredstva kategorije P1, odnosno P2
-c) Broja obrade koji prijavljeno tijelo rabi za pirotehničko sredstvo.
-Struktura registracijskog broja je sljedeća: »XXXX-YY-ZZZZ ….«, pri čemu se XXXX odnosi na točku a), YY se odnosi na točku b) i ZZZZ … se odnosi na točku c).

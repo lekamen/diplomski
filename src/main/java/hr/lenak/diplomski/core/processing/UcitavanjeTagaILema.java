@@ -17,28 +17,34 @@ import java.util.stream.Stream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum;
+
 public class UcitavanjeTagaILema {
 	
-	private Logger log = LoggerFactory.getLogger(this.getClass());
-	private List<TekstZakona> tekstovi = new ArrayList<>();
-	private final Set<String> rucnoObradjeneDatoteke = new HashSet<String>(Arrays.asList("1103-2.txt",
+	private static Logger log = LoggerFactory.getLogger("UcitavanjeTagaILema");
+	private static List<TekstZakona> tekstovi;// = new ArrayList<>();
+	private static final Set<String> rucnoObradjeneDatoteke = new HashSet<String>(Arrays.asList("1103-2.txt",
 		"2342-7.txt", "2468-0.txt", "2586-0.txt", "4090-0.txt"));
 	
-	public UcitavanjeTagaILema() {
-		ucitajTagoveILeme();
+	static {
+		tekstovi = ucitajTagoveILeme();
 	}
 	
-	private void ucitajTagoveILeme() {
-		final String path = this.getClass().getClassLoader().getResource("static/tekstoviTest/").getFile();
+	public UcitavanjeTagaILema() {
+	}
+	
+	private static List<TekstZakona> ucitajTagoveILeme() {
+		tekstovi = new ArrayList<>();
+		final String path = UcitavanjeTagaILema.class.getClassLoader().getResource("static/tekstoviTest/").getFile();
 		try (Stream<Path> paths = Files.walk(Paths.get(new File(path).getPath()))) {
-		    paths.filter(Files::isRegularFile)
-		    	.forEach(this::obradiFile);
+		    paths.filter(Files::isRegularFile).forEach(UcitavanjeTagaILema::obradiFile);
 		} catch (IOException e) {
 			log.error("ucitajTagoveILeme", e);
 		}
+		return tekstovi;
 	}
 	
-	private void obradiFile(Path path) {
+	private static void obradiFile(Path path) {
 		try (BufferedReader br = new BufferedReader(new FileReader(path.toFile()))){
 			
 			String filename = path.getFileName().toString();
@@ -65,7 +71,7 @@ public class UcitavanjeTagaILema {
 		}
 	}
 	
-	private TekstZakona obradiFile(BufferedReader br, TekstZakona tekst, boolean isRucnoObradjena) throws IOException {
+	private static TekstZakona obradiFile(BufferedReader br, TekstZakona tekst, boolean isRucnoObradjena) throws IOException {
 		String sCurrentLine;
 		int valueIndex;
 		int lemmaIndex;
@@ -88,11 +94,17 @@ public class UcitavanjeTagaILema {
 			}
 			String[] fields = sCurrentLine.split("\t");
 			
+			if (fields[valueIndex].equals("»") || fields[valueIndex].equals("«")) {
+				System.out.println("ovdje");
+				continue;
+			}
+			
 			Token token = new Token();
 			token.setValue(fields[valueIndex]);
 			token.setLemma(fields[lemmaIndex]);
 			token.setTag(fields[tagIndex]);
-			token.setKategorija(KategorijaTokenaEnum.fromValue(token.getLemma().substring(0, 1)));
+			System.out.println("tag: " + token.getTag());
+			token.setKategorija(KategorijaTokenaEnum.fromValue(token.getTag().substring(0, 1)));
 			
 			tokeni.add(token);
 		}
