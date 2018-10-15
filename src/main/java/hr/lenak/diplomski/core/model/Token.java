@@ -107,12 +107,17 @@ public class Token implements Serializable {
 	
 	@Override
 	public boolean equals(Object obj) {
-		if (this == obj)
+		if (this == obj) {
 			return true;
-		if (obj == null)
+		}
+			
+		if (obj == null) {
 			return false;
-		if (getClass() != obj.getClass())
+		}
+			
+		if (getClass() != obj.getClass()) {
 			return false;
+		}
 		Token other = (Token) obj;
 		if (kategorija == null) {
 			if (other.kategorija != null) {
@@ -122,8 +127,10 @@ public class Token implements Serializable {
 				return this == obj;
 			}
 		}
-		else if (!kategorija.equals(other.kategorija))
+		else if (!kategorija.equals(other.kategorija)) {
 			return false;
+		}
+			
 		
 		//kategorije su im jednake, sad još provjera lemme
 		if (lemma == null) {
@@ -134,9 +141,12 @@ public class Token implements Serializable {
 				return this == obj;
 			}
 		}
-		else if (!lemma.equals(other.lemma)) {
-			return false;
+		else {
+			if (!lemma.equals(other.lemma)) {
+				return false;
+			}
 		}
+			
 		return true;
 	}
 

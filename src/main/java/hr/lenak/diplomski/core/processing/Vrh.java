@@ -33,7 +33,10 @@ public class Vrh {
 	
 	@Override
 	public boolean equals(Object obj) {
-		return token.equals(obj);
+		if (!(obj instanceof Vrh))
+			return false;
+		Vrh other = (Vrh) obj;
+		return token.equals(other.getToken());
 	}
 	
 	@Override

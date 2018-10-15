@@ -17,6 +17,22 @@ public class Brid {
 	public Vrh getDesni() {
 		return desni;
 	}
+	
+	public Vrh vratiSusjedniVrh(Vrh vrh) {
+		if (!isVrhNaBridu(vrh)) {
+			return null;
+		}
+		
+		if (lijevi.equals(vrh)) {
+			return desni;
+		}
+		//onda je desni ovaj vrh
+		return lijevi;
+	}
+	
+	public boolean isVrhNaBridu(Vrh vrh) {
+		return lijevi.equals(vrh) || desni.equals(vrh);
+	}
 
 	@Override
 	public int hashCode() {
