@@ -1,4 +1,4 @@
-package hr.lenak.diplomski.core.processing;
+package hr.lenak.diplomski.core.processing.textrank;
 
 import java.util.HashSet;
 import java.util.stream.Collectors;
@@ -27,7 +27,22 @@ public class Graf {
 	}
 	
 	public boolean dodajBrid(Brid brid) {
-		return bridovi.add(brid);
+		if (!bridovi.add(brid)) {
+			//brid već postoji, dodaj njegovu pojavu
+			nadjiBrid(brid).dodajPojavuBrida(brid);
+			return false;
+		}
+		
+		return true;
+	}
+	
+	private Brid nadjiBrid(Brid brid) {
+		for (Brid b : bridovi) {
+			if (b.equals(brid)) {
+				return b;
+			}
+		}
+		return null;
 	}
 	
 	public Vrh nadjiVrh(Vrh vrh) {
@@ -48,6 +63,16 @@ public class Graf {
 			}
 		}
 		return susjedi;
+	}
+	
+	public Integer getUkupnaSumaBridovaIzVrha(Vrh vrh) {
+		Integer suma = 0;
+		for (Brid brid : bridovi) {
+			if (brid.isVrhNaBridu(vrh)) {
+				suma += brid.getUkupanBroj();
+			}
+		}
+		return suma;
 	}
 	
 	public void ukloniVrhIBridove(Vrh vrh) {

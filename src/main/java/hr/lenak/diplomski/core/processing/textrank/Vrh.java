@@ -1,4 +1,4 @@
-package hr.lenak.diplomski.core.processing;
+package hr.lenak.diplomski.core.processing.textrank;
 
 import hr.lenak.diplomski.core.model.Token;
 

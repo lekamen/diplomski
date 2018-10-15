@@ -1,13 +1,20 @@
-package hr.lenak.diplomski.core.processing;
+package hr.lenak.diplomski.core.processing.textrank;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Brid {
 
 	private final Vrh lijevi;
 	private final Vrh desni;
+	
+	private List<Brid> svePojaveBrida = new ArrayList<Brid>();
 
 	public Brid(Vrh lijevi, Vrh desni) {
 		this.lijevi = lijevi;
 		this.desni = desni;
+		
+		svePojaveBrida.add(this);
 	}
 
 	public Vrh getLijevi() {
@@ -16,6 +23,14 @@ public class Brid {
 
 	public Vrh getDesni() {
 		return desni;
+	}
+	
+	public List<Brid> getSvePojaveBrida() {
+		return svePojaveBrida;
+	}
+	
+	public boolean dodajPojavuBrida(Brid brid) {
+		return svePojaveBrida.add(brid);
 	}
 	
 	public Vrh vratiSusjedniVrh(Vrh vrh) {
@@ -30,6 +45,9 @@ public class Brid {
 		return lijevi;
 	}
 	
+	public int getUkupanBroj() {
+		return svePojaveBrida.size();
+	}
 	public boolean isVrhNaBridu(Vrh vrh) {
 		return lijevi.equals(vrh) || desni.equals(vrh);
 	}
@@ -51,7 +69,7 @@ public class Brid {
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
-		sb.append("Brid[lijevi=").append(lijevi).append(",desni").append(desni).append("]");
+		sb.append("Brid[lijevi=").append(lijevi).append(",desni").append(desni).append(",pojave=").append(svePojaveBrida.size()).append("]");
 		return sb.toString();
 	}
 }

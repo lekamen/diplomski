@@ -53,6 +53,7 @@ public class PocetnaView extends VerticalLayout implements View {
 		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
 		
 		NadjiKljucneRijeci keyWords = new NadjiKljucneRijeci();
-		keyWords.nadji();
+		//keyWords.nadjiTextRank();();
+		keyWords.nadjiTfIdf();
 	}
 }
