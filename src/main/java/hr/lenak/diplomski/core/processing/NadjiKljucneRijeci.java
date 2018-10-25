@@ -25,6 +25,7 @@ public class NadjiKljucneRijeci {
 	//private static TekstZakona jedan;
 	private static Korpus korpus;
 	private static final int DEFAULT_TEXTRANK_WINDOW_SIZE = 2;
+	private static final int DEFAULT_TEXTRANK_MAX_WINDOW_SIZE = 5;
 	private static final int DEFAULT_TEXTRANK_BROJ_KLJUCNIH_RIJECI = 8;
 	private static final int DEFAULT_TFIDF_BROJ_KLJUCNIH_RIJECI = 8;
 	
@@ -87,31 +88,14 @@ public class NadjiKljucneRijeci {
 	}
 
 	private static List<KljucnaRijec> kljucneRijeciTextRank(List<Token> tokeni, int windowSize, int brojKljucnihRijeci) {
-
 		List<Vrh> vrhoviKandidati = GrafUtils.konstruirajGrafIPrimijeniAlgoritam(tokeni, windowSize, brojKljucnihRijeci * 2);
 		List<KljucnaRijec> kljucneRijeci = GrafUtils.spojiSusjedneKljucneRijeci(vrhoviKandidati, brojKljucnihRijeci);
 		return kljucneRijeci;
 	}
 	
 	private static List<KljucnaRijec> kljucneRijeciTextRankMultipleWindowSize(List<Token> tokeni, int brojKljucnihRijeci, int minN, int maxN) {
-		HashMap<KljucnaRijec, Double> finalneKljucneRijeci = new HashMap<>();
-		for (int i = minN; i <= maxN; i++) {
-			List<KljucnaRijec> kljucneRijeci = kljucneRijeciTextRank(tokeni, i, brojKljucnihRijeci);
-			for(KljucnaRijec rijec : kljucneRijeci) {
-				Double value = rijec.getVrijednost();
-
-				if (finalneKljucneRijeci.containsKey(rijec)) {
-					finalneKljucneRijeci.put(rijec, finalneKljucneRijeci.get(rijec) + value);
-				}
-				else {
-					finalneKljucneRijeci.put(rijec,  value);
-				}
-			}
-		}
-		
-		List<Map.Entry<KljucnaRijec, Double>> finals = new ArrayList<>(finalneKljucneRijeci.entrySet());
-		Collections.sort(finals, (o1, o2) -> o2.getValue().compareTo(o1.getValue()));
-		return finals.stream().map(e -> e.getKey()).collect(Collectors.toList()).subList(0, brojKljucnihRijeci);
+		List<Vrh> vrhoviFinal = GrafUtils.konstruirajGrafIPrimijeniAlgoritamMultipleWindowSize(tokeni, brojKljucnihRijeci, minN, maxN);
+		return GrafUtils.spojiSusjedneKljucneRijeci(vrhoviFinal, brojKljucnihRijeci);
 	}
 	
 	/**
@@ -143,7 +127,6 @@ public class NadjiKljucneRijeci {
 		nadjiTfIdf(DEFAULT_TFIDF_BROJ_KLJUCNIH_RIJECI);
 	}
 	
-	
 	/**
 	 * Poziv textrank-idf algoritma s defaultnim parametrima
 	 */
@@ -169,5 +152,33 @@ public class NadjiKljucneRijeci {
 			PostProcesiranje.spremiKljucneRijeciUBazu(VrstaAlgoritmaEnum.TEXTRANKIDF, 
 					tekstZakona.getTsiId(), tekstZakona.getBrojFilea(), tekstZakona.getTekstZakonaId(), kljucneRijeci);
 		}
+	}
+	
+	/**
+	 * Poziv textrank mul win - idf s varijabilnim parametrima
+	 */
+	public static void nadjiTextrankMulWinIdf(int minWindowSize, int maxWindowSize, int brojKljucnihRijeci) {
+		for (int i = 0; i < lista.size(); i++) {
+			TekstZakona tekstZakona = lista.get(i);
+			List<Token> tokeni = Repositories.tokenRepository.findByTekstZakona(tekstZakona);
+			
+			List<Vrh> vrhoviKandidati = GrafUtils.konstruirajGrafIPrimijeniAlgoritamMultipleWindowSize(tokeni, brojKljucnihRijeci, minWindowSize, maxWindowSize);
+			
+			korpus.calculateValueForListuVrhova(vrhoviKandidati);
+
+			Collections.sort(vrhoviKandidati, (o1, o2) -> o2.getValue().compareTo(o1.getValue())); 
+			int size = brojKljucnihRijeci * 2 > vrhoviKandidati.size() ? vrhoviKandidati.size() : brojKljucnihRijeci * 2;
+			List<KljucnaRijec> kljucneRijeci = GrafUtils.spojiSusjedneKljucneRijeci(vrhoviKandidati.subList(0, size), brojKljucnihRijeci);
+			
+			PostProcesiranje.spremiKljucneRijeciUBazu(VrstaAlgoritmaEnum.TEXTRANKMULWINIDF, 
+					tekstZakona.getTsiId(), tekstZakona.getBrojFilea(), tekstZakona.getTekstZakonaId(), kljucneRijeci);
+		}
+	}
+	
+	/**
+	 * Poziv textrank mul win - idf s defaultnim parametrima
+	 */
+	public static void nadjiTextrankMulWinIdf() {
+		nadjiTextrankMulWinIdf(DEFAULT_TEXTRANK_WINDOW_SIZE, DEFAULT_TEXTRANK_MAX_WINDOW_SIZE, DEFAULT_TEXTRANK_BROJ_KLJUCNIH_RIJECI);
 	}
 }

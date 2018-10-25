@@ -38,6 +38,9 @@ public class KljucneRijeciRepository extends QueryDslRepository<KljucneRijeci, L
 		case TEXTRANKIDF:
 			kr.setKwTextrankIdf(kljucneRijeci);
 			break;
+		case TEXTRANKMULWINIDF:
+			kr.setKwTextrankMulWinIdf(kljucneRijeci);
+			break;
 		}
 		update(kr);
 	}

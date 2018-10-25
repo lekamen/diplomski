@@ -33,6 +33,9 @@ public class KljucneRijeci implements Serializable {
 	
 	@Column(name="KW_TEXTRANK_IDF")
 	private String kwTextrankIdf;
+	
+	@Column(name="KW_TEXTRANK_MUL_WIN_IDF")
+	private String kwTextrankMulWinIdf;
 
 	@Column(name="TEKST_ZAKONA_ID")
 	private Long tekstZakonaId;
@@ -86,6 +89,14 @@ public class KljucneRijeci implements Serializable {
 
 	public void setKwTextrankIdf(String kwTextrankIdf) {
 		this.kwTextrankIdf = kwTextrankIdf;
+	}
+
+	public String getKwTextrankMulWinIdf() {
+		return kwTextrankMulWinIdf;
+	}
+
+	public void setKwTextrankMulWinIdf(String kwTextrankMulWinIdf) {
+		this.kwTextrankMulWinIdf = kwTextrankMulWinIdf;
 	}
 
 	public Long getTekstZakonaId() {

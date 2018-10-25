@@ -32,6 +32,8 @@ public class QKljucneRijeci extends EntityPathBase<KljucneRijeci> {
     public final StringPath kwTfidf = createString("kwTfidf");
     
     public final StringPath kwTextrankIdf = createString("kwTextrankIdf");
+    
+    public final StringPath kwTextrankMulWinIdf = createString("kwTextrankMulWinIdf");
 
     public final NumberPath<Long> tekstZakonaId = createNumber("tekstZakonaId", Long.class);
 

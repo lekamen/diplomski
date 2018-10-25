@@ -21,8 +21,6 @@ import hr.lenak.diplomski.core.processing.KljucnaRijec;
 public class GrafUtils {
 	
 	private static Logger log = LoggerFactory.getLogger(GrafUtils.class);
-	//public static final int N = 3;
-	//private static final int T = 20;
 	private static final int ITERATIONS = 30;
 	private static final double THRESHOLD = 0.0001;
 	private static final double D = 0.85;
@@ -39,7 +37,7 @@ public class GrafUtils {
 		Graf graf = GrafUtils.konstruirajGraf(tokeni, windowSize);
 		//log.debug(graf.toString());
 		
-		log.debug("uklanjanje nepovezanih");
+		//log.debug("uklanjanje nepovezanih");
 		
 		GrafUtils.makniNepovezaneVrhove(graf);
 		//log.debug(graf.toString());
@@ -260,6 +258,27 @@ public class GrafUtils {
 		}
 		Collections.sort(kljucneRijeci, (o1, o2) -> o2.getVrijednost().compareTo(o1.getVrijednost())); 
 		return kljucneRijeci.subList(0, brojKljucnihRijeci > kljucneRijeci.size() ? kljucneRijeci.size() : brojKljucnihRijeci);
+	}
+	
+	public static List<Vrh> konstruirajGrafIPrimijeniAlgoritamMultipleWindowSize(List<Token> tokeni, int brojKljucnihRijeci, int minN, int maxN) {
+		HashMap<Vrh, Double> finalneKljucneRijeci = new HashMap<>();
+		for (int i = minN; i <= maxN; i++) {
+			List<Vrh> vrhoviKandidati = GrafUtils.konstruirajGrafIPrimijeniAlgoritam(tokeni, i, brojKljucnihRijeci * 2);
+			for (Vrh vrh : vrhoviKandidati) {
+				Double value = vrh.getValue();
+				
+				if (finalneKljucneRijeci.containsKey(vrh)) {
+					finalneKljucneRijeci.put(vrh, finalneKljucneRijeci.get(vrh) + value);
+				}
+				else {
+					finalneKljucneRijeci.put(vrh, value);
+				}
+			}
+			
+		}
+		
+		finalneKljucneRijeci.forEach((vrh, value) -> vrh.setValue(value));
+		return new ArrayList<>(finalneKljucneRijeci.keySet());
 	}
 }
 
