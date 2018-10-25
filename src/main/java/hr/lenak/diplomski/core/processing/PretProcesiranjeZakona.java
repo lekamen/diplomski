@@ -66,7 +66,7 @@ public class PretProcesiranjeZakona {
 		for(int i = 0; i < lista.size(); i++) {
 			String tekst = new String(lista.get(i).getTekst(), Charset.forName("UTF-8"));
 			if (!checkIfContainsStoryTag(tekst)) {
-				log.debug("Id: " + lista.get(i).getTsiId() + " nema tag story"); //TODO: 434638L JE PRESKOČEN
+				log.debug("Id: " + lista.get(i).getTsiId() + " nema tag story");
 				continue;
 			}
 			writeInFile(parseText(tekst), String.valueOf(i));

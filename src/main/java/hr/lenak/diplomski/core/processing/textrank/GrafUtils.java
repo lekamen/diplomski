@@ -7,21 +7,22 @@ import static hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum.PUNCTUATI
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import hr.lenak.diplomski.core.model.Token;
+import hr.lenak.diplomski.core.processing.KljucnaRijec;
 
 public class GrafUtils {
 	
-	private Logger log = LoggerFactory.getLogger(this.getClass());
-	private static final int N = 3;
-	private static final int T = 20;
+	private static Logger log = LoggerFactory.getLogger(GrafUtils.class);
+	//public static final int N = 3;
+	//private static final int T = 20;
 	private static final int ITERATIONS = 30;
 	private static final double THRESHOLD = 0.0001;
 	private static final double D = 0.85;
@@ -34,7 +35,22 @@ public class GrafUtils {
 			"članak" /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
 	));
 	
-	public void makniNepovezaneVrhove(Graf graf) {
+	public static List<Vrh> konstruirajGrafIPrimijeniAlgoritam(List<Token> tokeni, int windowSize, int brojKljucnihRijeci) {
+		Graf graf = GrafUtils.konstruirajGraf(tokeni, windowSize);
+		//log.debug(graf.toString());
+		
+		log.debug("uklanjanje nepovezanih");
+		
+		GrafUtils.makniNepovezaneVrhove(graf);
+		//log.debug(graf.toString());
+		
+		GrafUtils.primijeniAlgoritamNaGraf(graf);
+		//log.debug(graf.toString());
+		
+		return GrafUtils.evaluirajRjesenje(graf, brojKljucnihRijeci);
+	}
+	
+	private static void makniNepovezaneVrhove(Graf graf) {
 		HashMap<Vrh, Boolean> visited = new HashMap<>();
 		HashSet<Vrh> vrhovi = graf.getVrhovi();
 		for (Vrh vrh : vrhovi) {
@@ -42,13 +58,11 @@ public class GrafUtils {
 		}
 		dfs(vrhovi.iterator().next(), visited, graf); //FIXME
 		List<Vrh> nepovezani = nadjiNepovezaneVrhove(graf, visited);
-		for (Vrh v : nepovezani) {
-			log.debug("nepovezani vrhovi " + v);
-		}
+
 		makniNepovezaneVrhove(graf, nepovezani);
 	}
 	
-	private void dfs(Vrh vrh, HashMap<Vrh, Boolean> visited, Graf graf){
+	private static void dfs(Vrh vrh, HashMap<Vrh, Boolean> visited, Graf graf){
 		if (visited.get(vrh)) {
 			return;
 		}
@@ -60,13 +74,13 @@ public class GrafUtils {
 		}
 	}
 	
-	private void makniNepovezaneVrhove(Graf graf, List<Vrh> nepovezani) {
+	private static void makniNepovezaneVrhove(Graf graf, List<Vrh> nepovezani) {
 		for (Vrh v : nepovezani) {
 			graf.ukloniVrhIBridove(v);
 		}
 	}
 	 
-	private List<Vrh> nadjiNepovezaneVrhove(Graf graf, HashMap<Vrh, Boolean> visited){
+	private static List<Vrh> nadjiNepovezaneVrhove(Graf graf, HashMap<Vrh, Boolean> visited){
 		List<Vrh> nepovezaniVrhovi = new ArrayList<>();
 		for(Vrh v : graf.getVrhovi()) {
 			if (visited.get(v) == false) {
@@ -76,7 +90,7 @@ public class GrafUtils {
 		return nepovezaniVrhovi;
 	}
 	
-	public Graf konstruirajGraf(List<Token> tokeni) {
+	private static Graf konstruirajGraf(List<Token> tokeni, int windowSize) {
 		Graf graf = new Graf();
 		for (int i = 0; i < tokeni.size(); i++) {
 			Token t = tokeni.get(i);
@@ -91,19 +105,15 @@ public class GrafUtils {
 			}
 			//ubaci token u graf
 			Vrh vrh = new Vrh(t);
-			boolean isDodan = graf.dodajVrh(vrh);
-			if (!isDodan) {
-				//zbog brida treba popraviti referencu na vrh koji je već unutra
-				vrh = graf.nadjiVrh(vrh);
-			}
-			napraviBridoveZaVrh(i, vrh, tokeni, graf);
+			vrh = graf.dodajVrh(vrh);
+			napraviBridoveZaVrh(i, vrh, tokeni, graf, windowSize);
 		}
 		
 		return graf;
 	}
 	
-	private void napraviBridoveZaVrh(int pozicija, Vrh trenutni, List<Token> tokeni, Graf graf) {
-		for (int i = 1; i <= N; i++) {
+	private static void napraviBridoveZaVrh(int pozicija, Vrh trenutni, List<Token> tokeni, Graf graf, int window) {
+		for (int i = 1; i <= window; i++) {
 			int pos = pozicija - i;
 			if (pos < 0) {
 				break;
@@ -131,20 +141,20 @@ public class GrafUtils {
 		}
 	}
 	
-	private boolean tokenEndsSentence(Token t) {
+	private static boolean tokenEndsSentence(Token t) {
 		return t.getKategorija() == PUNCTUATION && (t.getLemma().equals(".") || t.getLemma().equals("?") || t.getLemma().equals("!"));
 	}
 	
-	private boolean passesSyntacticFilter(Token t) {
+	private static boolean passesSyntacticFilter(Token t) {
 		//dopuštamo imenice koje nisu vlastite i pridjeve
 		return (t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE;
 	}
 	
-	private boolean isInForbiddenWords(Token t) {
+	private static boolean isInForbiddenWords(Token t) {
 		return forbiddenWords.contains(t.getLemma());
 	}
 	
-	public Graf primijeniAlgoritamNaGraf(Graf graf) {
+	private static Graf primijeniAlgoritamNaGraf(Graf graf) {
 		HashSet<Vrh> vrhovi = graf.getVrhovi();
 		for (int i = 0; i < ITERATIONS; i++) {
 			for (Vrh vrh : vrhovi) {
@@ -174,7 +184,7 @@ public class GrafUtils {
 		return graf;
 	}
 	
-	private Double izracunajSumuSusjeda(HashSet<Vrh> susjedi, Graf graf) {
+	private static Double izracunajSumuSusjeda(HashSet<Vrh> susjedi, Graf graf) {
 		Double sum = 0D;
 		for (Vrh susjed : susjedi) {
 			//sum += (1D / graf.getUkupnaSumaBridovaIzVrha(susjed)) * susjed.getValue();
@@ -183,54 +193,73 @@ public class GrafUtils {
 		return sum;
 	}
 	
-	public List<Vrh> evaluirajRjesenje(Graf graf) {
+	private static List<Vrh> evaluirajRjesenje(Graf graf, int brojKljucnihRijeci) {
 		ArrayList<Vrh> vrhovi = new ArrayList<Vrh>(graf.getVrhovi());
-		Collections.sort(vrhovi, new Comparator<Vrh>() {
-			@Override
-			public int compare(Vrh o1, Vrh o2) {
-				return o1.getValue().compareTo(o2.getValue());
-			}
-		});
+		Collections.sort(vrhovi, (o1, o2) -> o2.getValue().compareTo(o1.getValue()));
 		ArrayList<Vrh> kandidati = new ArrayList<>();
-		for (int i = vrhovi.size() - 1; i >= Math.max(0, vrhovi.size() - T); i--) {
+		for (int i = 0; i < Math.min(vrhovi.size(), brojKljucnihRijeci); i++) {
 			kandidati.add(vrhovi.get(i));
 		}
 		return kandidati;
 	}
 	
-	public List<String> spojiSusjedneKljucneRijeci(List<Vrh> vrhoviKandidati) {
+	public static List<KljucnaRijec> spojiSusjedneKljucneRijeci(List<Vrh> vrhoviKandidati, int brojKljucnihRijeci) {
 		//sortiraj ih po poziciji u tekstu - ako su neki susjedni, spoji u jednu kljucnu rijec
-		Collections.sort(vrhoviKandidati, new Comparator<Vrh>() {
-			@Override
-			public int compare(Vrh o1, Vrh o2) {
-				return o1.getToken().getPosition().compareTo(o2.getToken().getPosition());
-			}
-		});
-		
+		List<Token> svePojaveSvihKljucnihRijeci = new ArrayList<Token>();
+		vrhoviKandidati.stream().forEach(vrh -> svePojaveSvihKljucnihRijeci.addAll(vrh.getSvePojaveVrha()));
+		Collections.sort(svePojaveSvihKljucnihRijeci, (o1, o2) -> o1.getPosition().compareTo(o2.getPosition()));
+
 		int i = 0;
-		int n = vrhoviKandidati.size();
-		List<String> kljucneRijeci = new ArrayList<>();
+		int n = svePojaveSvihKljucnihRijeci.size();
+		Set<Token> posjeceneKljucneRijeci = new HashSet<>();
+		List<KljucnaRijec> kljucneRijeci = new ArrayList<>();
 		while (i < n) {
-			int position = vrhoviKandidati.get(i).getToken().getPosition();
-			String kljucnaRijec = vrhoviKandidati.get(i).getToken().getLemma();
+			Token trenutniToken = svePojaveSvihKljucnihRijeci.get(i);
 			
-			if (i < n -1) {
-				int next = vrhoviKandidati.get(i + 1).getToken().getPosition();
+			if (posjeceneKljucneRijeci.contains(trenutniToken)) {
+				i++;
+				continue;
+			}
+			
+			posjeceneKljucneRijeci.add(trenutniToken);
+			
+			int position = trenutniToken.getPosition();
+			String keyword = svePojaveSvihKljucnihRijeci.get(i).getLemma();
+			Double vrijednost = vrhoviKandidati.get(vrhoviKandidati.indexOf(new Vrh(trenutniToken))).getValue();
+			if (i < n - 1) {
+				int next = svePojaveSvihKljucnihRijeci.get(i + 1).getPosition();
 				while (next == position + 1) {
-					kljucnaRijec += " " + vrhoviKandidati.get(i + 1).getToken().getLemma();
+					Token iduciToken = svePojaveSvihKljucnihRijeci.get(i + 1);
+					
+					if (posjeceneKljucneRijeci.contains(iduciToken)) {
+						i++;
+						if (i >= n - 1) {
+							break;
+						}
+						next = svePojaveSvihKljucnihRijeci.get(i + 1).getPosition();
+						continue;
+					}
+					posjeceneKljucneRijeci.add(iduciToken);
+					
+					keyword += " " + iduciToken.getLemma();
+					vrijednost += vrhoviKandidati.get(vrhoviKandidati.indexOf(new Vrh(iduciToken))).getValue();
 					position = next;
 					i++;
 					if (i >= n - 1) {
 						break;
 					}
-					next = vrhoviKandidati.get(i + 1).getToken().getPosition();
+					next = svePojaveSvihKljucnihRijeci.get(i + 1).getPosition();
 				}
 			}
-			
-			kljucneRijeci.add(kljucnaRijec);
+			kljucneRijeci.add(new KljucnaRijec(keyword, vrijednost));
 			i++;
 		}
-		return kljucneRijeci;
+		
+		for (KljucnaRijec s : kljucneRijeci) {
+			System.out.println("kljucne rijeci: " + s);
+		}
+		Collections.sort(kljucneRijeci, (o1, o2) -> o2.getVrijednost().compareTo(o1.getVrijednost())); 
+		return kljucneRijeci.subList(0, brojKljucnihRijeci > kljucneRijeci.size() ? kljucneRijeci.size() : brojKljucnihRijeci);
 	}
 }
 

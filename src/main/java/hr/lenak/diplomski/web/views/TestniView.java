@@ -2,6 +2,9 @@ package hr.lenak.diplomski.web.views;
 
 import static hr.lenak.diplomski.web.views.TestniView.TESTNI_VIEW;
 
+import java.util.Collections;
+import java.util.List;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,30 +26,35 @@ public class TestniView extends VerticalLayout implements View {
 	private Logger log = LoggerFactory.getLogger(this.getClass());
 	
 
+	private List<TekstoviSluzbeni> lista;
 	@Override
 	public void enter(ViewChangeEvent event) {
 		View.super.enter(event);
 		log.debug("Otvara se view: {}", this.getClass().getSimpleName());
-		
+
+		lista = Repositories.tekstoviSluzbeniRepository.findAllNajmanji();
+		Collections.sort(lista, (o1, o2) -> {
+			Integer l1 = o1.getTekst().length;
+			Integer l2 = o2.getTekst().length;
+			return l1.compareTo(l2);
+		});
 		createComponents();
 		composeView();
 	}
 	
-	private void createComponents() {	
+	private void createComponents() {
 		
-		addComponent(new Label("test"));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434271L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434272L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434273L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434274L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434275L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434276L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434277L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434278L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434279L)));
-		addComponent(addPanel(Repositories.tekstoviSluzbeniRepository.findById(434280L)));
-
-		
+		for (int i = 0; i < 10; i++) {
+			addComponent(addPanelRaw(lista.get(i)));
+			addComponent(addPanel(lista.get(i)));
+		}	
+	}
+	
+	private Panel addPanelRaw(TekstoviSluzbeni t) {
+		Label l = new Label(new String(t.getTekst()));
+		l.setWidth(900, Unit.PIXELS);
+		Panel p = new Panel(l);
+		return p;
 	}
 	
 	private Panel addPanel(TekstoviSluzbeni t) {

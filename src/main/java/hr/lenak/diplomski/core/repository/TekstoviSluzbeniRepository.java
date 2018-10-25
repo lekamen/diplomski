@@ -25,5 +25,11 @@ public class TekstoviSluzbeniRepository extends QueryDslRepository<TekstoviSluzb
 			.orderBy(tekstoviSluzbeni.tsiId.asc())
 			.fetch();
 	}
+	
+	public List<TekstoviSluzbeni> findAllNajmanji() {
+		return select(tekstoviSluzbeni)
+			.from(tekstoviSluzbeni)
+			.fetch();
+	}
 
 }

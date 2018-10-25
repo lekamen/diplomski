@@ -22,8 +22,19 @@ public class Graf {
 		this.bridovi = bridovi;
 	}
 	
-	public boolean dodajVrh(Vrh vrh) {
-		return vrhovi.add(vrh);
+	/** Metoda dodaje i vraća novi vrh, ili vraća već postojeći ukoliko je vrh u grafu */
+	public Vrh dodajVrh(Vrh vrh) {
+		boolean isNoviVrh = vrhovi.add(vrh);
+		Vrh vrhToReturn;
+		if (isNoviVrh) {
+			vrh.povecajPojavuUDokumentu(vrh);
+			vrhToReturn = vrh;
+		}
+		else {
+			vrhToReturn = nadjiVrh(vrh);
+			vrhToReturn.povecajPojavuUDokumentu(vrh);
+		}
+		return vrhToReturn;
 	}
 	
 	public boolean dodajBrid(Brid brid) {

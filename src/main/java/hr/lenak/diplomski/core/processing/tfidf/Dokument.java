@@ -2,17 +2,23 @@ package hr.lenak.diplomski.core.processing.tfidf;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
-import java.util.stream.Collectors;
+
+import hr.lenak.diplomski.core.model.TekstZakona;
+import hr.lenak.diplomski.core.model.Token;
+import hr.lenak.diplomski.core.processing.KljucnaRijec;
 
 
 public class Dokument {
 
 	private HashSet<Rijec> rijeci = new HashSet<>();
 	private Rijec najcescaRijecUDokumentu;
-	private static final int BROJ_KLJUCNIH_RIJECI = 8;
+	private TekstZakona tekstZakona;
+	
+	public Dokument(TekstZakona tekstZakona) {
+		this.tekstZakona = tekstZakona;
+	}
 
 	public HashSet<Rijec> getRijeci() {
 		return rijeci;
@@ -25,10 +31,10 @@ public class Dokument {
 	public boolean dodajRijec(Rijec rijec) {
 		boolean isNovaRijec = rijeci.add(rijec);
 		if (isNovaRijec) {
-			rijec.povecajPojavuUDokumentu();
+			rijec.povecajPojavuUDokumentu(rijec);
 		}
 		else {
-			pronadjiRijec(rijec).povecajPojavuUDokumentu();
+			pronadjiRijec(rijec).povecajPojavuUDokumentu(rijec);
 		}
 		return isNovaRijec;
 	}
@@ -44,12 +50,7 @@ public class Dokument {
 	
 	private Rijec nadjiNajcescuRijecUDokumentu() {
 		ArrayList<Rijec> sorted = new ArrayList<Rijec>(rijeci);
-		Collections.sort(sorted, new Comparator<Rijec>() {
-			@Override
-			public int compare(Rijec o1, Rijec o2) {
-				return o2.getPojaveUDokumentu().compareTo(o1.getPojaveUDokumentu());
-			}
-		});
+		Collections.sort(sorted, (o1, o2) -> o2.getPojaveUDokumentu().compareTo(o1.getPojaveUDokumentu()));
 		najcescaRijecUDokumentu = sorted.get(0);
 		return najcescaRijecUDokumentu;
 	}
@@ -61,23 +62,22 @@ public class Dokument {
 		}
 	}
 
-	public List<String> returnKeywords() {
+	public List<KljucnaRijec> returnKeywords(int brojKljucnihRijeci) {
 		for (Rijec rijec : rijeci) {
 			rijec.setResult(rijec.getTf() * rijec.getIdf());
 		}
 		List<Rijec> sorted = new ArrayList<>(rijeci);
-		Collections.sort(sorted, new Comparator<Rijec>() {
-			@Override
-			public int compare(Rijec o1, Rijec o2) {
-				return o2.getResult().compareTo(o1.getResult());
-			}
-		});
-		return sorted.subList(0, BROJ_KLJUCNIH_RIJECI).stream()
-			.map(rijec -> rijec.getToken().getLemma()).collect(Collectors.toList());
+		Collections.sort(sorted, (o1, o2) -> o2.getResult().compareTo(o1.getResult()));
+			
+		return TfIdfUtils.spojiSusjedneKljucneRijeci(sorted.subList(0, brojKljucnihRijeci * 2 > sorted.size() ? sorted.size() : brojKljucnihRijeci * 2), brojKljucnihRijeci);
 	}
 	
 	public boolean sadrziRijec(Rijec rijec) {
 		return rijeci.contains(rijec);
+	}
+	
+	public boolean sadrziToken(Token token) {
+		return sadrziRijec(new Rijec(token));
 	}
 	
 	public Rijec getNajcescaRijecUDokumentu() {
@@ -87,6 +87,28 @@ public class Dokument {
 		return najcescaRijecUDokumentu;
 	}
 	
+	public TekstZakona getTekstZakona() {
+		return tekstZakona;
+	}
+
+	public void setTekstZakona(TekstZakona tekstZakona) {
+		this.tekstZakona = tekstZakona;
+	}
+	
+	@Override
+	public int hashCode() {
+		return tekstZakona.hashCode();
+	}
+	
+	@Override
+	public boolean equals(Object obj) {
+		if (!(obj instanceof Dokument)) {
+			return false;
+		}
+		Dokument other = (Dokument) obj;
+		return tekstZakona.equals(other.tekstZakona);
+	}
+
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

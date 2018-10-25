@@ -3,5 +3,6 @@
 	<persistence-unit name="diplomski">
 		<class>hr.lenak.diplomski.core.model.TekstZakona</class>
 		<class>hr.lenak.diplomski.core.model.Token</class>
+		<class>hr.lenak.diplomski.core.model.KljucneRijeci</class>
 	</persistence-unit>
 </persistence>

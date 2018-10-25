@@ -3,6 +3,7 @@ package hr.lenak.diplomski.web.util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import hr.lenak.diplomski.core.repository.KljucneRijeciRepository;
 import hr.lenak.diplomski.core.repository.NarodneNovineRepository;
 import hr.lenak.diplomski.core.repository.SluzbeniDijeloviRepository;
 import hr.lenak.diplomski.core.repository.TekstZakonaRepository;
@@ -19,6 +20,7 @@ public class Repositories {
 	public static TipoviDokumenataRepository tipoviDokumenataRepository;
 	public static TekstZakonaRepository tekstZakonaRepository;
 	public static TokenRepository tokenRepository;
+	public static KljucneRijeciRepository kljucneRijeciRepository;
 	
 	@Autowired
 	public Repositories(
@@ -27,7 +29,8 @@ public class Repositories {
 		TekstoviSluzbeniRepository tekstoviSluzbeniRepository,
 		TipoviDokumenataRepository tipoviDokumenataRepository,
 		TekstZakonaRepository tekstZakonaRepository,
-		TokenRepository tokenRepository
+		TokenRepository tokenRepository,
+		KljucneRijeciRepository kljucneRijeciRepository
 	) {
 		Repositories.narodneNovineRepository = narodneNovineRepository;
 		Repositories.sluzbeniDijeloviRepository = sluzbeniDijeloviRepository;
@@ -35,5 +38,6 @@ public class Repositories {
 		Repositories.tipoviDokumenataRepository = tipoviDokumenataRepository;
 		Repositories.tekstZakonaRepository = tekstZakonaRepository;
 		Repositories.tokenRepository = tokenRepository;
+		Repositories.kljucneRijeciRepository = kljucneRijeciRepository;
 	}
 }

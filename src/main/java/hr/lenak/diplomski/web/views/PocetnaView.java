@@ -48,12 +48,17 @@ public class PocetnaView extends VerticalLayout implements View {
 		//pretprocesiranje zakona
 		//PretProcesiranjeZakona.saveAllElementsInFiles();
 		
+		//poziv web servisa, obavljen van ovog projekta
+		
 		//ucitavanje u bazu
 		//UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
 		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
 		
-		NadjiKljucneRijeci keyWords = new NadjiKljucneRijeci();
-		//keyWords.nadjiTextRank();();
-		keyWords.nadjiTfIdf();
+		//keyWords.nadjiTextRank();
+		NadjiKljucneRijeci.nadjiTextRank(2, 8);
+		//keyWords.nadjiTextRankMultipleWindowSize(2, 5);
+		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
+		NadjiKljucneRijeci.nadjiTfIdf(8);
+		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
 	}
 }

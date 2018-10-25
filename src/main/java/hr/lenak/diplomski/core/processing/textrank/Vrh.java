@@ -1,11 +1,17 @@
 package hr.lenak.diplomski.core.processing.textrank;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import hr.lenak.diplomski.core.model.Token;
 
 public class Vrh {
 
 	private Token token;
 	private Double value = 1D;
+	
+	/** Lista koja pamti sve pojave ovog vrha u dokumentu **/
+	private List<Token> svePojaveVrha = new ArrayList<>();
 	
 	public Vrh() {}
 	
@@ -26,6 +32,14 @@ public class Vrh {
 		this.value = value;
 	}
 	
+	public List<Token> getSvePojaveVrha() {
+		return svePojaveVrha;
+	}
+	
+	public void povecajPojavuUDokumentu(Vrh vrh) {
+		svePojaveVrha.add(vrh.getToken());
+	}
+
 	@Override
 	public int hashCode() {
 		return token.hashCode();

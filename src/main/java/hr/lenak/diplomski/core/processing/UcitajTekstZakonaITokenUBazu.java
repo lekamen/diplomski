@@ -44,7 +44,7 @@ public class UcitajTekstZakonaITokenUBazu {
 	public static void ucitajTekstZakona() {
 		for(int i = 0; i < lista.size(); i++) {
 			if (!checkIfContainsStoryTag(new String(lista.get(i).getTekst(), Charset.forName("UTF-8")))) {
-				log.debug("Id: " + lista.get(i).getTsiId() + " nema tag story"); //TODO: 434638L JE PRESKOČEN
+				log.debug("Id: " + lista.get(i).getTsiId() + " nema tag story");
 				continue;
 			}
 			TekstZakona tekst = new TekstZakona();

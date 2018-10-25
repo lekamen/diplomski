@@ -153,7 +153,8 @@ public class Token implements Serializable {
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
-		sb.append("Token[value=").append(value)
+		sb.append("Token[position=").append(position)
+			.append(",value=").append(value)
 			.append(",kategorija=").append(kategorija)
 			.append(",lemma=").append(lemma)
 			.append(",tag=").append(tag).append("]");

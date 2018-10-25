@@ -1,5 +1,8 @@
 package hr.lenak.diplomski.core.processing.tfidf;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import hr.lenak.diplomski.core.model.Token;
 
 public class Rijec {
@@ -9,6 +12,9 @@ public class Rijec {
 	private Double tf;
 	private Double idf;
 	private Double result;
+	
+	/** Lista koja pamti sve pojave ove riječi u dokumentu **/
+	private List<Token> svePojaveRijeci = new ArrayList<Token>();
 	
 	public Rijec(Token token) {
 		this.token = token;
@@ -37,8 +43,9 @@ public class Rijec {
 	public Integer getPojaveUDokumentu() {
 		return pojaveUDokumentu;
 	}
-	public void povecajPojavuUDokumentu() {
+	public void povecajPojavuUDokumentu(Rijec rijec) {
 		pojaveUDokumentu++;
+		svePojaveRijeci.add(rijec.getToken());
 	}
 	public Integer getPojaveUKorpusu() {
 		return pojaveUKorpusu;
@@ -46,6 +53,11 @@ public class Rijec {
 	public void setPojaveUKorpusu(Integer pojaveUKorpusu) {
 		this.pojaveUKorpusu = pojaveUKorpusu;
 	}
+	
+	public List<Token> getSvePojaveRijeci() {
+		return svePojaveRijeci;
+	}
+	
 	@Override
 	public int hashCode() {
 		return token.hashCode();
