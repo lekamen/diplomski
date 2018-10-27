@@ -6,10 +6,12 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.List;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import hr.lenak.diplomski.core.model.NarodneNovine;
 
 @Repository
+@Transactional
 public class NarodneNovineRepository extends QueryDslRepository<NarodneNovine, Long>{
 
 	public List<NarodneNovine> findAll() {

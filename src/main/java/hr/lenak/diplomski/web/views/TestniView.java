@@ -46,13 +46,8 @@ public class TestniView extends VerticalLayout implements View {
 	}
 	
 	private void createComponents() {
-		
-//		for (int i = 0; i < 10; i++) {
-//			addComponent(addPanelRaw(lista.get(i)));
-//			addComponent(addPanel(lista.get(i)));
-//		}	
-		
-		TekstZakona tekst = Repositories.tekstZakonaRepository.findByBrojFilea(98);
+			
+		TekstZakona tekst = Repositories.tekstZakonaRepository.findByBrojFilea(28);
 		TekstoviSluzbeni ts = Repositories.tekstoviSluzbeniRepository.findById(tekst.getTsiId());
 		KljucneRijeci kr = Repositories.kljucneRijeciRepository.findKljucneRijeci(tekst.getTsiId(), tekst.getBrojFilea(), tekst.getTekstZakonaId());
 		

@@ -5,10 +5,9 @@ import java.util.List;
 
 import hr.lenak.diplomski.core.model.Token;
 
-public class Rijec {
+public class TfRijec {
 	private Token token;
 	private Integer pojaveUDokumentu = 0;
-	private Integer pojaveUKorpusu = 0;
 	private Double tf;
 	private Double idf;
 	private Double result;
@@ -16,7 +15,7 @@ public class Rijec {
 	/** Lista koja pamti sve pojave ove riječi u dokumentu **/
 	private List<Token> svePojaveRijeci = new ArrayList<Token>();
 	
-	public Rijec(Token token) {
+	public TfRijec(Token token) {
 		this.token = token;
 	}
 	public Token getToken() {
@@ -43,17 +42,14 @@ public class Rijec {
 	public Integer getPojaveUDokumentu() {
 		return pojaveUDokumentu;
 	}
-	public void povecajPojavuUDokumentu(Rijec rijec) {
+	public void setPojaveUDokumentu(Integer pojaveUDokumentu) {
+		this.pojaveUDokumentu = pojaveUDokumentu;
+	}
+	public void povecajPojavuUDokumentu(TfRijec rijec) {
 		pojaveUDokumentu++;
 		svePojaveRijeci.add(rijec.getToken());
 	}
-	public Integer getPojaveUKorpusu() {
-		return pojaveUKorpusu;
-	}
-	public void setPojaveUKorpusu(Integer pojaveUKorpusu) {
-		this.pojaveUKorpusu = pojaveUKorpusu;
-	}
-	
+
 	public List<Token> getSvePojaveRijeci() {
 		return svePojaveRijeci;
 	}
@@ -65,9 +61,9 @@ public class Rijec {
 	
 	@Override
 	public boolean equals(Object obj) {
-		if (!(obj instanceof Rijec))
+		if (!(obj instanceof TfRijec))
 			return false;
-		Rijec other = (Rijec) obj;
+		TfRijec other = (TfRijec) obj;
 		return token.equals(other.getToken());
 	}
 	
@@ -76,7 +72,6 @@ public class Rijec {
 		StringBuilder sb = new StringBuilder();
 		sb.append("Rijec[token=").append(token)
 			.append(",pojaveUDokumentu=").append(pojaveUDokumentu)
-			.append(",pojaveUKorpusu=").append(pojaveUKorpusu)
 			.append(",tf=").append(tf)
 			.append(",idf=").append(idf).append("]");
 		

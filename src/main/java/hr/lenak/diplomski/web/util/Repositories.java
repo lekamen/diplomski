@@ -3,9 +3,12 @@ package hr.lenak.diplomski.web.util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import hr.lenak.diplomski.core.repository.DokumentRepository;
 import hr.lenak.diplomski.core.repository.KljucneRijeciRepository;
 import hr.lenak.diplomski.core.repository.NarodneNovineRepository;
+import hr.lenak.diplomski.core.repository.RijecRepository;
 import hr.lenak.diplomski.core.repository.SluzbeniDijeloviRepository;
+import hr.lenak.diplomski.core.repository.SvePojaveRijeciRepository;
 import hr.lenak.diplomski.core.repository.TekstZakonaRepository;
 import hr.lenak.diplomski.core.repository.TekstoviSluzbeniRepository;
 import hr.lenak.diplomski.core.repository.TipoviDokumenataRepository;
@@ -21,6 +24,9 @@ public class Repositories {
 	public static TekstZakonaRepository tekstZakonaRepository;
 	public static TokenRepository tokenRepository;
 	public static KljucneRijeciRepository kljucneRijeciRepository;
+	public static DokumentRepository dokumentRepository;
+	public static RijecRepository rijecRepository;
+	public static SvePojaveRijeciRepository svePojaveRijeciRepository;
 	
 	@Autowired
 	public Repositories(
@@ -30,7 +36,10 @@ public class Repositories {
 		TipoviDokumenataRepository tipoviDokumenataRepository,
 		TekstZakonaRepository tekstZakonaRepository,
 		TokenRepository tokenRepository,
-		KljucneRijeciRepository kljucneRijeciRepository
+		KljucneRijeciRepository kljucneRijeciRepository,
+		DokumentRepository dokumentRepository,
+		RijecRepository rijecRepository,
+		SvePojaveRijeciRepository svePojaveRijeciRepository
 	) {
 		Repositories.narodneNovineRepository = narodneNovineRepository;
 		Repositories.sluzbeniDijeloviRepository = sluzbeniDijeloviRepository;
@@ -39,5 +48,8 @@ public class Repositories {
 		Repositories.tekstZakonaRepository = tekstZakonaRepository;
 		Repositories.tokenRepository = tokenRepository;
 		Repositories.kljucneRijeciRepository = kljucneRijeciRepository;
+		Repositories.dokumentRepository = dokumentRepository;
+		Repositories.rijecRepository = rijecRepository;
+		Repositories.svePojaveRijeciRepository = svePojaveRijeciRepository;
 	}
 }

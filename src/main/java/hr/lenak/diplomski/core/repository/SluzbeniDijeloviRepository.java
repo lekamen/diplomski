@@ -5,11 +5,13 @@ import static hr.lenak.diplomski.core.model.generated.QSluzbeniDijelovi.sluzbeni
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import hr.lenak.diplomski.core.model.NarodneNovine;
 import hr.lenak.diplomski.core.model.SluzbeniDijelovi;
 
 @Repository
+@Transactional
 public class SluzbeniDijeloviRepository extends QueryDslRepository<SluzbeniDijelovi, Long>{
 
 	public List<SluzbeniDijelovi> findByKriterij(String naslov, String donositelj, NarodneNovine novine, String sortIndex) {

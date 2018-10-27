@@ -5,11 +5,13 @@ import static hr.lenak.diplomski.core.model.generated.QTekstoviSluzbeni.tekstovi
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import hr.lenak.diplomski.core.model.SluzbeniDijelovi;
 import hr.lenak.diplomski.core.model.TekstoviSluzbeni;
 
 @Repository
+@Transactional
 public class TekstoviSluzbeniRepository extends QueryDslRepository<TekstoviSluzbeni, Long>{
 	
 	public List<TekstoviSluzbeni> findBySluzbeniDio(SluzbeniDijelovi sd) {
@@ -25,11 +27,4 @@ public class TekstoviSluzbeniRepository extends QueryDslRepository<TekstoviSluzb
 			.orderBy(tekstoviSluzbeni.tsiId.asc())
 			.fetch();
 	}
-	
-	public List<TekstoviSluzbeni> findAllNajmanji() {
-		return select(tekstoviSluzbeni)
-			.from(tekstoviSluzbeni)
-			.fetch();
-	}
-
 }

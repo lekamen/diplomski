@@ -10,25 +10,25 @@ import hr.lenak.diplomski.core.model.Token;
 import hr.lenak.diplomski.core.processing.KljucnaRijec;
 
 
-public class Dokument {
+public class TfDokument {
 
-	private HashSet<Rijec> rijeci = new HashSet<>();
-	private Rijec najcescaRijecUDokumentu;
+	private HashSet<TfRijec> rijeci = new HashSet<>();
+	private TfRijec najcescaRijecUDokumentu;
 	private TekstZakona tekstZakona;
 	
-	public Dokument(TekstZakona tekstZakona) {
+	public TfDokument(TekstZakona tekstZakona) {
 		this.tekstZakona = tekstZakona;
 	}
 
-	public HashSet<Rijec> getRijeci() {
+	public HashSet<TfRijec> getRijeci() {
 		return rijeci;
 	}
 
-	public void setRijeci(HashSet<Rijec> rijeci) {
+	public void setRijeci(HashSet<TfRijec> rijeci) {
 		this.rijeci = rijeci;
 	}
 	
-	public boolean dodajRijec(Rijec rijec) {
+	public boolean dodajRijec(TfRijec rijec) {
 		boolean isNovaRijec = rijeci.add(rijec);
 		if (isNovaRijec) {
 			rijec.povecajPojavuUDokumentu(rijec);
@@ -39,8 +39,8 @@ public class Dokument {
 		return isNovaRijec;
 	}
 	
-	public Rijec pronadjiRijec(Rijec rijec) {
-		for (Rijec r : rijeci) {
+	public TfRijec pronadjiRijec(TfRijec rijec) {
+		for (TfRijec r : rijeci) {
 			if (r.equals(rijec)) {
 				return r;
 			}
@@ -48,43 +48,37 @@ public class Dokument {
 		return null;
 	}
 	
-	private Rijec nadjiNajcescuRijecUDokumentu() {
-		ArrayList<Rijec> sorted = new ArrayList<Rijec>(rijeci);
+	private TfRijec nadjiNajcescuRijecUDokumentu() {
+		ArrayList<TfRijec> sorted = new ArrayList<TfRijec>(rijeci);
 		Collections.sort(sorted, (o1, o2) -> o2.getPojaveUDokumentu().compareTo(o1.getPojaveUDokumentu()));
 		najcescaRijecUDokumentu = sorted.get(0);
 		return najcescaRijecUDokumentu;
 	}
 	
 	public void calculateTfsZaRijeci() {
-		for (Rijec rijec : rijeci) {
+		for (TfRijec rijec : rijeci) {
 			Double tf = 0.5 + 0.5 * ((double)rijec.getPojaveUDokumentu()/getNajcescaRijecUDokumentu().getPojaveUDokumentu());
 			rijec.setTf(tf);
 		}
 	}
 
-	public List<KljucnaRijec> returnKeywords(int brojKljucnihRijeci) {
-		for (Rijec rijec : rijeci) {
-			rijec.setResult(rijec.getTf() * rijec.getIdf());
-		}
-		List<Rijec> sorted = new ArrayList<>(rijeci);
-		Collections.sort(sorted, (o1, o2) -> o2.getResult().compareTo(o1.getResult()));
-			
-		return TfIdfUtils.spojiSusjedneKljucneRijeci(sorted.subList(0, brojKljucnihRijeci * 2 > sorted.size() ? sorted.size() : brojKljucnihRijeci * 2), brojKljucnihRijeci);
-	}
-	
-	public boolean sadrziRijec(Rijec rijec) {
+	public boolean sadrziRijec(TfRijec rijec) {
 		return rijeci.contains(rijec);
 	}
 	
 	public boolean sadrziToken(Token token) {
-		return sadrziRijec(new Rijec(token));
+		return sadrziRijec(new TfRijec(token));
 	}
 	
-	public Rijec getNajcescaRijecUDokumentu() {
+	public TfRijec getNajcescaRijecUDokumentu() {
 		if (najcescaRijecUDokumentu == null) {
 			return nadjiNajcescuRijecUDokumentu();
 		}
 		return najcescaRijecUDokumentu;
+	}
+	
+	public void setNajcescaRijecUDokumentu(TfRijec najcescaRijecUDokumentu) {
+		this.najcescaRijecUDokumentu = najcescaRijecUDokumentu;
 	}
 	
 	public TekstZakona getTekstZakona() {
@@ -102,10 +96,10 @@ public class Dokument {
 	
 	@Override
 	public boolean equals(Object obj) {
-		if (!(obj instanceof Dokument)) {
+		if (!(obj instanceof TfDokument)) {
 			return false;
 		}
-		Dokument other = (Dokument) obj;
+		TfDokument other = (TfDokument) obj;
 		return tekstZakona.equals(other.tekstZakona);
 	}
 
@@ -113,7 +107,7 @@ public class Dokument {
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
 		sb.append("Dokument[rijeci=[\n");
-		for (Rijec r : rijeci) {
+		for (TfRijec r : rijeci) {
 			sb.append(r).append(",\n");
 		}
 		sb.append("]]");

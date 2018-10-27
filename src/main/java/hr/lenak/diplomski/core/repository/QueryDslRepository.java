@@ -7,14 +7,11 @@ import javax.persistence.PersistenceContext;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.querydsl.core.Tuple;
 import com.querydsl.core.types.Expression;
 import com.querydsl.jpa.impl.JPAQuery;
 
-
-@Transactional
 @SuppressWarnings("unchecked")
 public class QueryDslRepository<E, ID> {
 
@@ -35,18 +32,15 @@ public class QueryDslRepository<E, ID> {
 	}
 	
 	public E update(E entity) {
-		log.debug("Update entiteta: {}", entity);
 		return em.merge(entity);
 	}
 	
 	public E create(E entity) {
-		log.debug("Kreiranje entiteta: {}", entity);
 		em.persist(entity);
 		return entity;
 	}
 
 	public void delete(E entity) {
-		log.debug("Delete entiteta: {}", entity);
 		Object id = em.getEntityManagerFactory().getPersistenceUnitUtil().getIdentifier(entity);
 		em.remove(em.getReference(entityClass, id));
 	}

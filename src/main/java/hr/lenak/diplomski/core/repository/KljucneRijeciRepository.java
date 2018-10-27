@@ -5,12 +5,14 @@ import static hr.lenak.diplomski.core.model.generated.QKljucneRijeci.kljucneRije
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import hr.lenak.diplomski.core.model.KljucneRijeci;
 import hr.lenak.diplomski.core.processing.VrstaAlgoritmaEnum;
 
 
 @Repository
+@Transactional
 public class KljucneRijeciRepository extends QueryDslRepository<KljucneRijeci, Long> {
 
 	public KljucneRijeci findKljucneRijeci(Long tsiId, Integer brojFilea, Long tekstZakonaId) {

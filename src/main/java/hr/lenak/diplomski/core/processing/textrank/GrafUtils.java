@@ -35,15 +35,8 @@ public class GrafUtils {
 	
 	public static List<Vrh> konstruirajGrafIPrimijeniAlgoritam(List<Token> tokeni, int windowSize, int brojKljucnihRijeci) {
 		Graf graf = GrafUtils.konstruirajGraf(tokeni, windowSize);
-		//log.debug(graf.toString());
-		
-		//log.debug("uklanjanje nepovezanih");
-		
 		GrafUtils.makniNepovezaneVrhove(graf);
-		//log.debug(graf.toString());
-		
 		GrafUtils.primijeniAlgoritamNaGraf(graf);
-		//log.debug(graf.toString());
 		
 		return GrafUtils.evaluirajRjesenje(graf, brojKljucnihRijeci);
 	}
@@ -145,7 +138,9 @@ public class GrafUtils {
 	
 	private static boolean passesSyntacticFilter(Token t) {
 		//dopuštamo imenice koje nisu vlastite i pridjeve
-		return (t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE;
+		//lemma mora biti != null
+		return t.getLemma() != null &&
+			((t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE);
 	}
 	
 	private static boolean isInForbiddenWords(Token t) {
@@ -170,11 +165,6 @@ public class GrafUtils {
 				if (errorRate < THRESHOLD) {
 					//konvergencija postignuta, prekini računanje
 					log.debug("KONVERGENCIJA POSTIGNUTA u iteraciji " + i + " za riječ " + vrh);
-					log.debug("value vrh " + vrh.getValue() + " error rate " + errorRate + " suma susjeda " + sum);
-					HashSet<Vrh> susjedi = graf.nadjiSusjedeZaVrh(vrh);
-					for(Vrh v : susjedi) {
-						log.debug("susjed: " + v.getToken().getLemma() + " vrijednost " + v.getValue() + " size " + graf.nadjiSusjedeZaVrh(v).size());
-					}
 					return graf;
 				}
 			}
@@ -185,7 +175,6 @@ public class GrafUtils {
 	private static Double izracunajSumuSusjeda(HashSet<Vrh> susjedi, Graf graf) {
 		Double sum = 0D;
 		for (Vrh susjed : susjedi) {
-			//sum += (1D / graf.getUkupnaSumaBridovaIzVrha(susjed)) * susjed.getValue();
 			sum += (1D / graf.nadjiSusjedeZaVrh(susjed).size()) * susjed.getValue();
 		}
 		return sum;
@@ -252,10 +241,7 @@ public class GrafUtils {
 			kljucneRijeci.add(new KljucnaRijec(keyword, vrijednost));
 			i++;
 		}
-		
-		for (KljucnaRijec s : kljucneRijeci) {
-			System.out.println("kljucne rijeci: " + s);
-		}
+
 		Collections.sort(kljucneRijeci, (o1, o2) -> o2.getVrijednost().compareTo(o1.getVrijednost())); 
 		return kljucneRijeci.subList(0, brojKljucnihRijeci > kljucneRijeci.size() ? kljucneRijeci.size() : brojKljucnihRijeci);
 	}

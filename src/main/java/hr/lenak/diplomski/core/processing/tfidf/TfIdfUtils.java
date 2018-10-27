@@ -8,14 +8,17 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
 
+import hr.lenak.diplomski.core.model.Rijec;
 import hr.lenak.diplomski.core.model.TekstZakona;
 import hr.lenak.diplomski.core.model.Token;
 import hr.lenak.diplomski.core.processing.KljucnaRijec;
+import hr.lenak.diplomski.web.util.Repositories;
 
 public class TfIdfUtils {
-	public static Dokument konstruirajDokument(List<Token> tokeni, TekstZakona tekstZakona) {
-		Dokument dokument = new Dokument(tekstZakona);
+	public static TfDokument konstruirajDokument(List<Token> tokeni, TekstZakona tekstZakona) {
+		TfDokument dokument = new TfDokument(tekstZakona);
 		for (int i = 0; i < tokeni.size(); i++) {
 			Token t = tokeni.get(i);
 			//prodji sintakticki filter
@@ -23,7 +26,7 @@ public class TfIdfUtils {
 				continue;
 			}
 
-			Rijec rijec = new Rijec(t);
+			TfRijec rijec = new TfRijec(t);
 			dokument.dodajRijec(rijec);
 		}
 		
@@ -32,14 +35,18 @@ public class TfIdfUtils {
 	
 	private static boolean passesSyntacticFilter(Token t) {
 		//dopuštamo imenice koje nisu vlastite i pridjeve
-		return (t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE;
+		//lemma mora biti != null
+		return t.getLemma() != null &&
+			((t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE);
 	}
 	
 	
 	public static List<KljucnaRijec> spojiSusjedneKljucneRijeci(List<Rijec> rijeciKandidati, int brojKljucnihRijeci) {
 		//sortiraj ih po poziciji u tekstu - ako su neki susjedni, spoji u jednu kljucnu rijec
 		List<Token> svePojaveSvihKljucnihRijeci = new ArrayList<Token>();
-		rijeciKandidati.stream().forEach(rijec -> svePojaveSvihKljucnihRijeci.addAll(rijec.getSvePojaveRijeci()));
+		rijeciKandidati.stream().forEach(rijec -> svePojaveSvihKljucnihRijeci.addAll(
+				Repositories.svePojaveRijeciRepository.findAllPojaveRijeciForPrviToken(rijec.getTokenId())
+					.stream().map(spr -> spr.getTokenDrugi()).collect(Collectors.toList())));
 		Collections.sort(svePojaveSvihKljucnihRijeci, (o1, o2) -> o1.getPosition().compareTo(o2.getPosition()));
 
 		int i = 0;
@@ -58,7 +65,8 @@ public class TfIdfUtils {
 			
 			int position = trenutniToken.getPosition();
 			String keyword = svePojaveSvihKljucnihRijeci.get(i).getLemma();
-			Double vrijednost = rijeciKandidati.get(rijeciKandidati.indexOf(new Rijec(trenutniToken))).getResult();
+			
+			Double vrijednost = rijeciKandidati.get(rijeciKandidati.indexOf(new Rijec().setToken(trenutniToken))).getResult();
 			if (i < n - 1) {
 				int next = svePojaveSvihKljucnihRijeci.get(i + 1).getPosition();
 				while (next == position + 1) {
@@ -75,7 +83,7 @@ public class TfIdfUtils {
 					posjeceneKljucneRijeci.add(iduciToken);
 					
 					keyword += " " + iduciToken.getLemma();
-					vrijednost += rijeciKandidati.get(rijeciKandidati.indexOf(new Rijec(iduciToken))).getResult();
+					vrijednost += rijeciKandidati.get(rijeciKandidati.indexOf(new Rijec().setToken(iduciToken))).getResult();
 					position = next;
 					i++;
 					if (i >= n - 1) {
@@ -87,11 +95,14 @@ public class TfIdfUtils {
 			kljucneRijeci.add(new KljucnaRijec(keyword, vrijednost));
 			i++;
 		}
-		
-		for (KljucnaRijec s : kljucneRijeci) {
-			System.out.println("kljucne rijeci: " + s);
-		}
+
 		Collections.sort(kljucneRijeci, (o1, o2) -> o2.getVrijednost().compareTo(o1.getVrijednost())); 
 		return kljucneRijeci.subList(0, brojKljucnihRijeci > kljucneRijeci.size() ? kljucneRijeci.size() : brojKljucnihRijeci);
 	}
+	
+	public static List<KljucnaRijec> findKeywords(List<Rijec> rijeci, int brojKljucnihRijeci) {
+		Collections.sort(rijeci, (o1, o2) -> o2.getResult().compareTo(o1.getResult()));
+		return TfIdfUtils.spojiSusjedneKljucneRijeci(rijeci.subList(0, brojKljucnihRijeci * 2 > rijeci.size() ? rijeci.size() : brojKljucnihRijeci * 2), brojKljucnihRijeci);
+	}
+	
 }

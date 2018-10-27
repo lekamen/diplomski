@@ -29,7 +29,7 @@
 		<appender-ref ref="FILE" />
 	</root>
 
-	<logger level="DEBUG" name="Eclipselink" />
+	<logger level="DEBUG" name="EclipseLink" />
 	<logger level="INFO"  name="org.springframework" />
 	<logger level="TRACE" name="hr.lenak.diplomski" />
 

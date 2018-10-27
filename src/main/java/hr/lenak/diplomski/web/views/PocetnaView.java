@@ -6,12 +6,17 @@ import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
 
+import hr.lenak.diplomski.core.model.TekstZakona;
 import hr.lenak.diplomski.core.processing.NadjiKljucneRijeci;
 import hr.lenak.diplomski.core.processing.PretProcesiranjeZakona;
+import hr.lenak.diplomski.core.processing.SpremiKorpusUBazu;
 import hr.lenak.diplomski.core.processing.UcitajTekstZakonaITokenUBazu;
 import hr.lenak.diplomski.web.ViewNames;
+import hr.lenak.diplomski.web.util.Repositories;
 
 import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
+
+import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,6 +28,12 @@ public class PocetnaView extends VerticalLayout implements View {
 	private Logger log = LoggerFactory.getLogger(this.getClass());
 	
 	private Label label;
+	
+	private static List<TekstZakona> lista;
+	
+	static {
+		lista = Repositories.tekstZakonaRepository.findAll();
+	}
 	
 	@Override
 	public void enter(ViewChangeEvent event) {
@@ -54,12 +65,12 @@ public class PocetnaView extends VerticalLayout implements View {
 		//UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
 		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
 		
-		//keyWords.nadjiTextRank();
-		//NadjiKljucneRijeci.nadjiTextRank(2, 8);
-		//keyWords.nadjiTextRankMultipleWindowSize(2, 5);
-		//NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
-		//NadjiKljucneRijeci.nadjiTfIdf(8);
-		//NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
-		//NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
+//		SpremiKorpusUBazu.spremi(lista);
+		NadjiKljucneRijeci.setLista(lista);
+		NadjiKljucneRijeci.nadjiTextRank(2, 8);
+//		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
+//		NadjiKljucneRijeci.nadjiTfIdf(8);
+//		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
+//		NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
 	}
 }
