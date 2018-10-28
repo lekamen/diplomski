@@ -10,7 +10,7 @@ public class SpremiKorpusUBazu {
 	private static Korpus korpus;
 
 	public static void spremi(List<TekstZakona> lista) {
-		korpus = new Korpus(lista);
-		korpus.calculateIdfsZaSveRijeci(lista);
+		//korpus = new Korpus(lista);
+		Korpus.calculateIdfsZaSveRijeci(lista);
 	}
 }

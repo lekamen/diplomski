@@ -16,8 +16,8 @@ import hr.lenak.diplomski.web.util.Repositories;
 public class Korpus {
 
 	private static final double ACCURACY = 1e-6;
-	private Logger log = LoggerFactory.getLogger(this.getClass());
-	private int N;
+	private static  Logger log = LoggerFactory.getLogger(Korpus.class);
+	private static int N;
 	
 	public Korpus(List<TekstZakona> lista) {
 		N = lista.size();
@@ -35,16 +35,12 @@ public class Korpus {
 		}
 	}
 	
-	public void calculateIdfsZaSveRijeci(List<TekstZakona> lista) {
+	public static void calculateIdfsZaSveRijeci(List<TekstZakona> lista) {
 		for (TekstZakona tz : lista) {
 			List<Rijec> rijeci = Repositories.rijecRepository.findAllRijeciForTekstZakona(tz.getTekstZakonaId());
 			for (Rijec rijec : rijeci) {
-				int pojaveUKorpusu = 0;
-				for(TekstZakona dokument : lista) {
-					if (dokumentSadrziRijec(dokument, rijec)) {
-						pojaveUKorpusu++;
-					}
-				}
+				
+				int pojaveUKorpusu = Repositories.tokenRepository.getBrojPojavaUKorpusuZaRijec(rijec).intValue();
 				rijec.setPojaveUKorpusu(pojaveUKorpusu);
 				
 				Double idf = Math.log10((double)N / pojaveUKorpusu);
@@ -61,7 +57,7 @@ public class Korpus {
 		}
 	}
 	
-	public boolean dokumentSadrziRijec(TekstZakona dokument, Rijec rijec) {
+	public static boolean dokumentSadrziRijec(TekstZakona dokument, Rijec rijec) {
 		List<Rijec> rijeci = Repositories.rijecRepository.findAllRijeciForTekstZakona(dokument.getTekstZakonaId());
 		return rijeci.contains(rijec);
 	}

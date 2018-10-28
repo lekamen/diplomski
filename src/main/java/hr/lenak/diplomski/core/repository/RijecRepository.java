@@ -9,9 +9,9 @@ import org.springframework.transaction.annotation.Transactional;
 import hr.lenak.diplomski.core.model.Rijec;
 
 @Repository
-@Transactional
 public class RijecRepository extends QueryDslRepository<Rijec, Long> {
 	
+	@Transactional
 	public List<Rijec> findAllRijeciForTekstZakona(Long tekstZakonaId) {
 		return select(rijec)
 			.from(rijec)

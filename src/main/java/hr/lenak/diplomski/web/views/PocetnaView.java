@@ -32,7 +32,7 @@ public class PocetnaView extends VerticalLayout implements View {
 	private static List<TekstZakona> lista;
 	
 	static {
-		lista = Repositories.tekstZakonaRepository.findAll();
+		lista = Repositories.tekstZakonaRepository.findAll().subList(0, 501);
 	}
 	
 	@Override
@@ -65,12 +65,12 @@ public class PocetnaView extends VerticalLayout implements View {
 		//UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
 		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
 		
-//		SpremiKorpusUBazu.spremi(lista);
+		//SpremiKorpusUBazu.spremi(lista);
 		NadjiKljucneRijeci.setLista(lista);
 		NadjiKljucneRijeci.nadjiTextRank(2, 8);
-//		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
-//		NadjiKljucneRijeci.nadjiTfIdf(8);
-//		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
-//		NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
+		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
+		NadjiKljucneRijeci.nadjiTfIdf(8);
+		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
+		NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
 	}
 }
