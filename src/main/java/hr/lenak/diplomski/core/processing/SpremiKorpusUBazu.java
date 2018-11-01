@@ -7,10 +7,8 @@ import hr.lenak.diplomski.core.processing.tfidf.Korpus;
 
 public class SpremiKorpusUBazu {
 
-	private static Korpus korpus;
-
 	public static void spremi(List<TekstZakona> lista) {
-		//korpus = new Korpus(lista);
+		Korpus.inicijalizirajDokumente(lista);
 		Korpus.calculateIdfsZaSveRijeci(lista);
 	}
 }

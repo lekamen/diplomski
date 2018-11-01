@@ -5,7 +5,6 @@ import static hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum.NOUN;
 import static hr.lenak.diplomski.core.model.enums.KategorijaTokenaEnum.PUNCTUATION;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -24,14 +23,6 @@ public class GrafUtils {
 	private static final int ITERATIONS = 30;
 	private static final double THRESHOLD = 0.0001;
 	private static final double D = 0.85;
-	private static final HashSet<String> forbiddenWords = new HashSet<>(Arrays.asList(
-			"urbroj", /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-			"klasa", /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-			"republika", /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-			"vlada", /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-			"zakon", /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-			"članak" /* pojavljuje se u svakom zakonu, nebitna za sadržaj */
-	));
 	
 	public static List<Vrh> konstruirajGrafIPrimijeniAlgoritam(List<Token> tokeni, int windowSize, int brojKljucnihRijeci) {
 		Graf graf = GrafUtils.konstruirajGraf(tokeni, windowSize);
@@ -42,25 +33,43 @@ public class GrafUtils {
 	}
 	
 	private static void makniNepovezaneVrhove(Graf graf) {
-		HashMap<Vrh, Boolean> visited = new HashMap<>();
-		HashSet<Vrh> vrhovi = graf.getVrhovi();
-		for (Vrh vrh : vrhovi) {
-			visited.put(vrh, false);
-		}
-		dfs(vrhovi.iterator().next(), visited, graf); //FIXME
-		List<Vrh> nepovezani = nadjiNepovezaneVrhove(graf, visited);
-
+		List<Vrh> nepovezani = nadjiNepovezaneVrhove(graf);
 		makniNepovezaneVrhove(graf, nepovezani);
 	}
 	
-	private static void dfs(Vrh vrh, HashMap<Vrh, Boolean> visited, Graf graf){
+	private static List<Vrh> nadjiNepovezaneVrhove(Graf graf) {
+		HashMap<Vrh, Boolean> visited = new HashMap<>();
+		List<List<Vrh>> komponente = new ArrayList<>();
+		
+		List<Vrh> vrhovi = graf.getVrhovi();
+		vrhovi.forEach(vrh -> visited.put(vrh, false));
+		
+		for(Vrh vrh : vrhovi) {
+			if (!visited.get(vrh)) {
+				List<Vrh> komponenta = new ArrayList<>();
+				dfs(vrh, visited, graf, komponenta);
+				komponente.add(komponenta);
+			}
+		}
+		
+		//izdvajamo najvecu komponentu
+		komponente.remove(Collections.max(komponente, (k1, k2) -> Integer.compare(k1.size(), k2.size())));
+		//ostatak stavljamo u listu za brisanje
+		List<Vrh> nepovezaniVrhovi = new ArrayList<>();
+		komponente.forEach(komponenta -> nepovezaniVrhovi.addAll(komponenta));
+		return nepovezaniVrhovi;
+	}
+	
+	private static void dfs(Vrh vrh, HashMap<Vrh, Boolean> visited, Graf graf, List<Vrh> komponenta){
 		if (visited.get(vrh)) {
 			return;
 		}
 		visited.put(vrh, true);
+		komponenta.add(vrh);
+		
 		for (Vrh v : graf.nadjiSusjedeZaVrh(vrh)) {
 			if (visited.get(v).equals(false)) {
-				dfs(v, visited, graf);
+				dfs(v, visited, graf, komponenta);
 			}
 		}
 	}
@@ -70,17 +79,7 @@ public class GrafUtils {
 			graf.ukloniVrhIBridove(v);
 		}
 	}
-	 
-	private static List<Vrh> nadjiNepovezaneVrhove(Graf graf, HashMap<Vrh, Boolean> visited){
-		List<Vrh> nepovezaniVrhovi = new ArrayList<>();
-		for(Vrh v : graf.getVrhovi()) {
-			if (visited.get(v) == false) {
-				nepovezaniVrhovi.add(v);
-			}
-		}
-		return nepovezaniVrhovi;
-	}
-	
+
 	private static Graf konstruirajGraf(List<Token> tokeni, int windowSize) {
 		Graf graf = new Graf();
 		for (int i = 0; i < tokeni.size(); i++) {
@@ -90,16 +89,13 @@ public class GrafUtils {
 			if (!passesSyntacticFilter(t)) {
 				continue;
 			}
-			//zbog specifičnosti zakona izbacuju se neke riječi iz grafa
-			if (isInForbiddenWords(t)) {
-				continue;
-			}
+
 			//ubaci token u graf
 			Vrh vrh = new Vrh(t);
 			vrh = graf.dodajVrh(vrh);
 			napraviBridoveZaVrh(i, vrh, tokeni, graf, windowSize);
 		}
-		
+
 		return graf;
 	}
 	
@@ -123,10 +119,7 @@ public class GrafUtils {
 			if (trenutni.getToken().equals(susjed)) {
 				continue;
 			}
-			//provjera se mora izvršiti zbog dodavanja zabranjenih riječi
-			if (graf.nadjiVrh(new Vrh(susjed)) == null) {
-				continue;
-			}
+			
 			//susjed je u grafu, napravi brid
 			graf.dodajBrid(new Brid(trenutni, graf.nadjiVrh(new Vrh(susjed))));
 		}
@@ -143,12 +136,8 @@ public class GrafUtils {
 			((t.getKategorija() == NOUN && !t.getTag().startsWith("Np"))  || t.getKategorija() == ADJECTIVE);
 	}
 	
-	private static boolean isInForbiddenWords(Token t) {
-		return forbiddenWords.contains(t.getLemma());
-	}
-	
 	private static Graf primijeniAlgoritamNaGraf(Graf graf) {
-		HashSet<Vrh> vrhovi = graf.getVrhovi();
+		ArrayList<Vrh> vrhovi = graf.getVrhovi();
 		for (int i = 0; i < ITERATIONS; i++) {
 			for (Vrh vrh : vrhovi) {
 				Double oldValue = vrh.getValue();

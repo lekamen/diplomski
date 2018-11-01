@@ -47,29 +47,34 @@ public class TestniView extends VerticalLayout implements View {
 	
 	private void createComponents() {
 			
-		TekstZakona tekst = Repositories.tekstZakonaRepository.findByBrojFilea(28);
+		TekstZakona tekst = Repositories.tekstZakonaRepository.findByBrojFilea(107);
 		TekstoviSluzbeni ts = Repositories.tekstoviSluzbeniRepository.findById(tekst.getTsiId());
 		KljucneRijeci kr = Repositories.kljucneRijeciRepository.findKljucneRijeci(tekst.getTsiId(), tekst.getBrojFilea(), tekst.getTekstZakonaId());
 		
 		VerticalLayout kljucneRijeci = new VerticalLayout();
 		Label textRankLabel = new Label(kr.getKwTextrank());
 		textRankLabel.setWidth(400, Unit.PIXELS);
+		kljucneRijeci.addComponent(new Label("textrank"));
 		kljucneRijeci.addComponent(new Panel(textRankLabel));
 		
 		Label textRankMulWinLabel = new Label(kr.getKwTextrankMulWinSize());
 		textRankMulWinLabel.setWidth(400, Unit.PIXELS);
+		kljucneRijeci.addComponent(new Label("textrank mul win size"));
 		kljucneRijeci.addComponent(new Panel(textRankMulWinLabel));
 		
 		Label tfidfLabel = new Label(kr.getKwTfidf());
 		tfidfLabel.setWidth(400, Unit.PIXELS);
+		kljucneRijeci.addComponent(new Label("tfidf"));
 		kljucneRijeci.addComponent(new Panel(tfidfLabel));
 		
 		Label textRankIdfLabel = new Label(kr.getKwTextrankIdf());
 		textRankIdfLabel.setWidth(400, Unit.PIXELS);
+		kljucneRijeci.addComponent(new Label("textrank idf"));
 		kljucneRijeci.addComponent(new Panel(textRankIdfLabel));
 		
 		Label textRankMulWinIdfLabel = new Label(kr.getKwTextrankMulWinIdf());
 		textRankMulWinIdfLabel.setWidth(400, Unit.PIXELS);
+		kljucneRijeci.addComponent(new Label("textrank mul win idf"));
 		kljucneRijeci.addComponent(new Panel(textRankMulWinIdfLabel));
 		
 		Label l = new Label(new String(ts.getTekst()), ContentMode.HTML);
@@ -81,21 +86,7 @@ public class TestniView extends VerticalLayout implements View {
 		
 		addComponent(layout);
 	}
-	
-	private Panel addPanelRaw(TekstoviSluzbeni t) {
-		Label l = new Label(new String(t.getTekst()));
-		l.setWidth(900, Unit.PIXELS);
-		Panel p = new Panel(l);
-		return p;
-	}
-	
-	private Panel addPanel(TekstoviSluzbeni t) {
-		Label l = new Label(new String(t.getTekst()), ContentMode.HTML);
-		l.setWidth(900, Unit.PIXELS);
-		Panel p = new Panel(l);
-		return p;
-	}
-	
+
 	private void composeView() {
 	}
 }

@@ -46,9 +46,8 @@ public class NadjiKljucneRijeci {
 			List<Token> tokeni = Repositories.tokenRepository.findByTekstZakona(tekstZakona);
 			List<Vrh> vrhoviKandidati = GrafUtils.konstruirajGrafIPrimijeniAlgoritam(tokeni, windowSize, brojKljucnihRijeci * 2);
 			List<KljucnaRijec> kljucneRijeci = GrafUtils.spojiSusjedneKljucneRijeci(vrhoviKandidati, brojKljucnihRijeci);
-
 			PostProcesiranje.spremiKljucneRijeciUBazu(VrstaAlgoritmaEnum.TEXTRANK, 
-					tekstZakona.getTsiId(), tekstZakona.getBrojFilea(), tekstZakona.getTekstZakonaId(), kljucneRijeci);
+				tekstZakona.getTsiId(), tekstZakona.getBrojFilea(), tekstZakona.getTekstZakonaId(), kljucneRijeci);
 			log.debug("gotov textrank, za " + tekstZakona.getBrojFilea());
 		}
 	}

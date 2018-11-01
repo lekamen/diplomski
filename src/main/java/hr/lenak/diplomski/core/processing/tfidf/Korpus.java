@@ -18,13 +18,10 @@ public class Korpus {
 	private static final double ACCURACY = 1e-6;
 	private static  Logger log = LoggerFactory.getLogger(Korpus.class);
 	private static int N;
-	
-	public Korpus(List<TekstZakona> lista) {
+
+	public static void inicijalizirajDokumente(List<TekstZakona> lista) {
 		N = lista.size();
-		inicijalizirajDokumente(lista);
-	}
-	
-	private void inicijalizirajDokumente(List<TekstZakona> lista) {
+		
 		for (TekstZakona tekstZakona : lista) {
 			List<Token> tokeni = Repositories.tokenRepository.findByTekstZakona(tekstZakona);
 			TfDokument dokument = konstruirajDokument(tokeni, tekstZakona);

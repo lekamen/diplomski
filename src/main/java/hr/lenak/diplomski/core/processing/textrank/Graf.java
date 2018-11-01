@@ -1,18 +1,19 @@
 package hr.lenak.diplomski.core.processing.textrank;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.stream.Collectors;
 
 
 public class Graf {
 
-	HashSet<Vrh> vrhovi = new HashSet<>();
-	HashSet<Brid> bridovi = new HashSet<>();
+	ArrayList<Vrh> vrhovi = new ArrayList<Vrh>();
+	HashSet<Brid> bridovi = new HashSet<Brid>();
 	
-	public HashSet<Vrh> getVrhovi() {
+	public ArrayList<Vrh> getVrhovi() {
 		return vrhovi;
 	}
-	public void setVrhovi(HashSet<Vrh> vrhovi) {
+	public void setVrhovi(ArrayList<Vrh> vrhovi) {
 		this.vrhovi = vrhovi;
 	}
 	public HashSet<Brid> getBridovi() {
@@ -24,38 +25,26 @@ public class Graf {
 	
 	/** Metoda dodaje i vraća novi vrh, ili vraća već postojeći ukoliko je vrh u grafu */
 	public Vrh dodajVrh(Vrh vrh) {
-		boolean isNoviVrh = vrhovi.add(vrh);
+		boolean postojiVrh = vrhovi.contains(vrh);
+
 		Vrh vrhToReturn;
-		if (isNoviVrh) {
-			vrh.povecajPojavuUDokumentu(vrh);
-			vrhToReturn = vrh;
-		}
-		else {
+		if (postojiVrh) {
 			vrhToReturn = nadjiVrh(vrh);
 			vrhToReturn.povecajPojavuUDokumentu(vrh);
 		}
+		else {
+			vrhovi.add(vrh);
+			vrh.povecajPojavuUDokumentu(vrh);
+			vrhToReturn = vrh;
+		}
+		
 		return vrhToReturn;
 	}
 	
 	public boolean dodajBrid(Brid brid) {
-		if (!bridovi.add(brid)) {
-			//brid već postoji, dodaj njegovu pojavu
-			nadjiBrid(brid).dodajPojavuBrida(brid);
-			return false;
-		}
-		
-		return true;
+		return bridovi.add(brid);
 	}
-	
-	private Brid nadjiBrid(Brid brid) {
-		for (Brid b : bridovi) {
-			if (b.equals(brid)) {
-				return b;
-			}
-		}
-		return null;
-	}
-	
+
 	public Vrh nadjiVrh(Vrh vrh) {
 		for (Vrh v : vrhovi) {
 			if (v.equals(vrh)) {
@@ -66,7 +55,7 @@ public class Graf {
 	}
 	
 	public HashSet<Vrh> nadjiSusjedeZaVrh(Vrh vrh) {
-		HashSet<Vrh> susjedi = new HashSet<>();
+		HashSet<Vrh> susjedi = new HashSet<Vrh>();
 		for (Brid brid : bridovi) {
 			Vrh susjed = brid.vratiSusjedniVrh(vrh);
 			if (susjed != null) {
@@ -75,22 +64,12 @@ public class Graf {
 		}
 		return susjedi;
 	}
-	
-	public Integer getUkupnaSumaBridovaIzVrha(Vrh vrh) {
-		Integer suma = 0;
-		for (Brid brid : bridovi) {
-			if (brid.isVrhNaBridu(vrh)) {
-				suma += brid.getUkupanBroj();
-			}
-		}
-		return suma;
-	}
-	
+
 	public void ukloniVrhIBridove(Vrh vrh) {
 		vrhovi.remove(vrh);
-		bridovi = bridovi.stream().filter(brid -> !brid.isVrhNaBridu(vrh)).collect(Collectors.toCollection(HashSet::new));
+		bridovi = bridovi.stream().filter(brid -> !brid.isVrhNaBridu(vrh)).collect(Collectors.toCollection(HashSet<Brid>::new));
 	}
-	
+
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

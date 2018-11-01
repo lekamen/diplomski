@@ -16,6 +16,7 @@ import hr.lenak.diplomski.web.util.Repositories;
 
 import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
 
+import java.util.Arrays;
 import java.util.List;
 
 import org.slf4j.Logger;
@@ -32,7 +33,7 @@ public class PocetnaView extends VerticalLayout implements View {
 	private static List<TekstZakona> lista;
 	
 	static {
-		lista = Repositories.tekstZakonaRepository.findAll().subList(0, 501);
+		lista = Repositories.tekstZakonaRepository.findAll();
 	}
 	
 	@Override
@@ -67,9 +68,9 @@ public class PocetnaView extends VerticalLayout implements View {
 		
 		//SpremiKorpusUBazu.spremi(lista);
 		NadjiKljucneRijeci.setLista(lista);
-		NadjiKljucneRijeci.nadjiTextRank(2, 8);
-		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
-		NadjiKljucneRijeci.nadjiTfIdf(8);
+		//NadjiKljucneRijeci.nadjiTextRank(2, 8);
+		//NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
+		//NadjiKljucneRijeci.nadjiTfIdf(8);
 		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
 		NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
 	}

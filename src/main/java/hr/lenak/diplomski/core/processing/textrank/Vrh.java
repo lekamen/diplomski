@@ -12,9 +12,7 @@ public class Vrh {
 	
 	/** Lista koja pamti sve pojave ovog vrha u dokumentu **/
 	private List<Token> svePojaveVrha = new ArrayList<>();
-	
-	public Vrh() {}
-	
+
 	public Vrh(Token token) {
 		this.token = token;
 	}
