@@ -9,6 +9,7 @@ import com.vaadin.ui.VerticalLayout;
 import hr.lenak.diplomski.core.model.TekstZakona;
 import hr.lenak.diplomski.core.processing.NadjiKljucneRijeci;
 import hr.lenak.diplomski.core.processing.PretProcesiranjeZakona;
+import hr.lenak.diplomski.core.processing.RacunajMedjusobneSlicnosti;
 import hr.lenak.diplomski.core.processing.SpremiKorpusUBazu;
 import hr.lenak.diplomski.core.processing.UcitajTekstZakonaITokenUBazu;
 import hr.lenak.diplomski.web.ViewNames;
@@ -16,7 +17,6 @@ import hr.lenak.diplomski.web.util.Repositories;
 
 import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
 
-import java.util.Arrays;
 import java.util.List;
 
 import org.slf4j.Logger;
@@ -30,12 +30,6 @@ public class PocetnaView extends VerticalLayout implements View {
 	
 	private Label label;
 	
-	private static List<TekstZakona> lista;
-	
-	static {
-		lista = Repositories.tekstZakonaRepository.findAll();
-	}
-	
 	@Override
 	public void enter(ViewChangeEvent event) {
 		View.super.enter(event);
@@ -43,7 +37,8 @@ public class PocetnaView extends VerticalLayout implements View {
 		createComponents();
 		composeView();
 		
-		processing();
+		//processing();
+		//evaluate();
 	}
 	
 	private void createComponents() {
@@ -58,20 +53,27 @@ public class PocetnaView extends VerticalLayout implements View {
 	
 	private void processing() {
 		//pretprocesiranje zakona
-		//PretProcesiranjeZakona.saveAllElementsInFiles();
+		PretProcesiranjeZakona.saveAllElementsInFiles();
 		
 		//poziv web servisa, obavljen van ovog projekta
 		
 		//ucitavanje u bazu
-		//UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
-		//UcitajTekstZakonaITokenUBazu.ucitajTokene();
+		UcitajTekstZakonaITokenUBazu.ucitajTekstZakona();
+		UcitajTekstZakonaITokenUBazu.ucitajTokene();
 		
-		//SpremiKorpusUBazu.spremi(lista);
+		List<TekstZakona> lista =  Repositories.tekstZakonaRepository.findAll();
+		
+		SpremiKorpusUBazu.spremi(lista);
 		NadjiKljucneRijeci.setLista(lista);
-		//NadjiKljucneRijeci.nadjiTextRank(2, 8);
-		//NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
-		//NadjiKljucneRijeci.nadjiTfIdf(8);
+		NadjiKljucneRijeci.nadjiTextRank(2, 8);
+		NadjiKljucneRijeci.nadjiTextRankMultipleWindowSize(8, 2, 5);
+		NadjiKljucneRijeci.nadjiTfIdf(8);
 		NadjiKljucneRijeci.nadjiTextrankIdf(2, 8);
 		NadjiKljucneRijeci.nadjiTextrankMulWinIdf(2, 5, 8);
+	}
+	
+	private void evaluate() {
+		RacunajMedjusobneSlicnosti.setLista(Repositories.tekstZakonaRepository.findAll());
+		RacunajMedjusobneSlicnosti.racunajSlicnosti();
 	}
 }

@@ -12,6 +12,7 @@ import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.shared.ui.ContentMode;
 import com.vaadin.spring.annotation.SpringView;
+import com.vaadin.ui.ComboBox;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Panel;
@@ -46,43 +47,68 @@ public class TestniView extends VerticalLayout implements View {
 	}
 	
 	private void createComponents() {
-			
-		TekstZakona tekst = Repositories.tekstZakonaRepository.findByBrojFilea(107);
-		TekstoviSluzbeni ts = Repositories.tekstoviSluzbeniRepository.findById(tekst.getTsiId());
-		KljucneRijeci kr = Repositories.kljucneRijeciRepository.findKljucneRijeci(tekst.getTsiId(), tekst.getBrojFilea(), tekst.getTekstZakonaId());
+		
+		ComboBox<TekstZakona> tzCombo = new ComboBox<>();
+		tzCombo.setItems(Repositories.tekstZakonaRepository.findAll());
+		tzCombo.setItemCaptionGenerator(tz -> tz.getBrojFilea().toString());		
+		
+		addComponent(tzCombo);
+
 		
 		VerticalLayout kljucneRijeci = new VerticalLayout();
-		Label textRankLabel = new Label(kr.getKwTextrank());
+		Label textRankLabel = new Label();
 		textRankLabel.setWidth(400, Unit.PIXELS);
 		kljucneRijeci.addComponent(new Label("textrank"));
 		kljucneRijeci.addComponent(new Panel(textRankLabel));
 		
-		Label textRankMulWinLabel = new Label(kr.getKwTextrankMulWinSize());
+		Label textRankMulWinLabel = new Label();
 		textRankMulWinLabel.setWidth(400, Unit.PIXELS);
 		kljucneRijeci.addComponent(new Label("textrank mul win size"));
 		kljucneRijeci.addComponent(new Panel(textRankMulWinLabel));
 		
-		Label tfidfLabel = new Label(kr.getKwTfidf());
+		Label tfidfLabel = new Label();
 		tfidfLabel.setWidth(400, Unit.PIXELS);
 		kljucneRijeci.addComponent(new Label("tfidf"));
 		kljucneRijeci.addComponent(new Panel(tfidfLabel));
 		
-		Label textRankIdfLabel = new Label(kr.getKwTextrankIdf());
+		Label textRankIdfLabel = new Label();
 		textRankIdfLabel.setWidth(400, Unit.PIXELS);
 		kljucneRijeci.addComponent(new Label("textrank idf"));
 		kljucneRijeci.addComponent(new Panel(textRankIdfLabel));
 		
-		Label textRankMulWinIdfLabel = new Label(kr.getKwTextrankMulWinIdf());
+		Label textRankMulWinIdfLabel = new Label();
 		textRankMulWinIdfLabel.setWidth(400, Unit.PIXELS);
 		kljucneRijeci.addComponent(new Label("textrank mul win idf"));
 		kljucneRijeci.addComponent(new Panel(textRankMulWinIdfLabel));
 		
-		Label l = new Label(new String(ts.getTekst()), ContentMode.HTML);
+		Label l = new Label();
+		l.setContentMode(ContentMode.HTML);
+		l.setWidth(750, Unit.PIXELS);
+		
+		Label raw = new Label();
 		l.setWidth(750, Unit.PIXELS);
 		
 		HorizontalLayout layout = new HorizontalLayout();
 		layout.addComponent(kljucneRijeci);
-		layout.addComponent(new Panel(l));
+		layout.addComponent(new VerticalLayout(new Panel(l), new Panel(raw)));
+		
+		tzCombo.addValueChangeListener(e -> {
+			
+			TekstZakona tz = e.getValue();
+			if (tz != null) {
+				TekstoviSluzbeni ts = Repositories.tekstoviSluzbeniRepository.findById(tz.getTsiId());
+				KljucneRijeci kr = Repositories.kljucneRijeciRepository.findKljucneRijeci(tz.getTsiId(), tz.getBrojFilea(), tz.getTekstZakonaId());
+				
+				textRankLabel.setValue(kr.getKwTextrank());
+				textRankMulWinLabel.setValue(kr.getKwTextrankMulWinSize());
+				tfidfLabel.setValue(kr.getKwTfidf());
+				textRankIdfLabel.setValue(kr.getKwTextrankIdf());
+				textRankMulWinIdfLabel.setValue(kr.getKwTextrankMulWinIdf());
+				
+				l.setValue(new String(ts.getTekst()));
+				raw.setValue(new String(ts.getTekst()));
+			}
+		});
 		
 		addComponent(layout);
 	}
