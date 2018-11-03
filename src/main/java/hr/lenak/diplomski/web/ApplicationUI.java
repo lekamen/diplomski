@@ -5,6 +5,7 @@ import java.util.Locale;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.vaadin.annotations.Theme;
+import com.vaadin.server.Page;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.spring.annotation.SpringUI;
 import com.vaadin.spring.navigator.SpringNavigator;
@@ -14,7 +15,6 @@ import com.vaadin.ui.VerticalLayout;
 @SpringUI
 @Theme("custom")
 public class ApplicationUI extends UI {
-	
 
 	@Autowired
 	private SpringNavigator navigator;
@@ -23,9 +23,7 @@ public class ApplicationUI extends UI {
 	protected void init(VaadinRequest request) {
 		setLocale(new Locale("hr", "HR"));
 		
-		getTooltipConfiguration().setOpenDelay(300);
-		getTooltipConfiguration().setQuickOpenDelay(200);
-		
+		Page.getCurrent().setTitle("Diplomski");
 
 		VerticalLayout application = new VerticalLayout();
 		application.setSpacing(false);

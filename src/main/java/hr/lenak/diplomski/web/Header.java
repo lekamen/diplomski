@@ -3,7 +3,8 @@ package hr.lenak.diplomski.web;
 import static hr.lenak.diplomski.web.views.NarodneNovineView.NARODNE_NOVINE_VIEW;
 import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
 import static hr.lenak.diplomski.web.views.SluzbeniDijeloviView.SLUZBENI_DIJELOVI_VIEW;
-import static hr.lenak.diplomski.web.views.TestniView.TESTNI_VIEW;
+import static hr.lenak.diplomski.web.views.PregledDokumenataView.PREGLED_DOKUMENATA_VIEW;
+import static hr.lenak.diplomski.web.views.PretragaPoKljucnimRijecimaView.PRETRAGA_PO_KLJUCNIM_RIJECIMA_VIEW;
 
 import com.vaadin.server.ExternalResource;
 import com.vaadin.ui.HorizontalLayout;
@@ -14,7 +15,8 @@ public class Header extends HorizontalLayout {
 	private Link pocetnaLink;
 	private Link narodneNovineLink;
 	private Link sluzbeniDijeloviLink;
-	private Link testLink;
+	private Link pregledDokumenataLink;
+	private Link pretragaPoKljucnimRijecimaLink;
 	
 	public Header() {
 		createComponents();
@@ -25,7 +27,8 @@ public class Header extends HorizontalLayout {
 		pocetnaLink = new Link("Pocetna", new ExternalResource("#!" + POCETNA_VIEW));
 		narodneNovineLink = new Link("Narodne novine", new ExternalResource("#!" + NARODNE_NOVINE_VIEW));
 		sluzbeniDijeloviLink = new Link("Službeni dijelovi", new ExternalResource("#!" + SLUZBENI_DIJELOVI_VIEW));
-		testLink = new Link("Test", new ExternalResource("#!" + TESTNI_VIEW));
+		pregledDokumenataLink = new Link("Pregled dokumenata", new ExternalResource("#!" + PREGLED_DOKUMENATA_VIEW));
+		pretragaPoKljucnimRijecimaLink = new Link("Pretraga po ključnim riječima", new ExternalResource("#!" + PRETRAGA_PO_KLJUCNIM_RIJECIMA_VIEW));
 	}
 	
 	private void composeView() {
@@ -35,6 +38,7 @@ public class Header extends HorizontalLayout {
 		addComponent(pocetnaLink);
 		addComponent(narodneNovineLink);
 		addComponent(sluzbeniDijeloviLink);
-		addComponent(testLink);
+		addComponent(pregledDokumenataLink);
+		addComponent(pretragaPoKljucnimRijecimaLink);
 	}
 }
