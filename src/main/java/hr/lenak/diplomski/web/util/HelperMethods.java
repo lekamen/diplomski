@@ -29,6 +29,7 @@ public class HelperMethods {
 	public static int getTableLength() {
 		return applicationProperties.getTableLength();
 	}
+	
 	public static String showInvalidBinderFields(List<ValidationResult> errors) {
 		StringBuilder builder = new StringBuilder();
 		for (ValidationResult error : errors) {

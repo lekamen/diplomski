@@ -48,13 +48,13 @@ public class EclipseLinkJpaConfiguration extends JpaBaseConfiguration {
 		props.put("eclipselink.jdbc.batch-writing.size", "1000");
 		props.put("eclipselink.cache.shared.default", "false");
 
-		props.put("eclipselink.logging.level", "off");
-		props.put("eclipselink.logging.level.sql", "off");
-//		props.put("eclipselink.logging.parameters", "true");
-//		props.put("eclipselink.logging.session", "false");
-//		props.put("eclipselink.logging.connection", "false");
-//		props.put("eclipselink.logging.thread", "false");
-//		props.put("eclipselink.logging.level.cache", "FINEST");
+		props.put("eclipselink.logging.level", "FINE");
+		props.put("eclipselink.logging.level.sql", "FINER");
+		props.put("eclipselink.logging.parameters", "true");
+		props.put("eclipselink.logging.session", "false");
+		props.put("eclipselink.logging.connection", "false");
+		props.put("eclipselink.logging.thread", "false");
+		props.put("eclipselink.logging.level.cache", "FINEST");
 		props.put("eclipselink.logging.logger", EclipseLinkLog.class.getName());
         return props;
     }

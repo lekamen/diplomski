@@ -4,6 +4,7 @@ import static hr.lenak.diplomski.core.model.generated.QTekstZakona.tekstZakona;
 
 import java.util.List;
 
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -20,6 +21,7 @@ public class TekstZakonaRepository extends QueryDslRepository<TekstZakona, Long>
 			.fetchOne();
 	}
 	
+	@Cacheable(cacheNames = "tekstoviZakona")
 	public List<TekstZakona> findAll() {
 		return select(tekstZakona)
 			.from(tekstZakona)

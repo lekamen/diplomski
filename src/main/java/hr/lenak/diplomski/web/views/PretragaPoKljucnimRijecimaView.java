@@ -12,12 +12,14 @@ import org.slf4j.LoggerFactory;
 import com.vaadin.data.Binder;
 import com.vaadin.data.TreeData;
 import com.vaadin.data.provider.TreeDataProvider;
+import com.vaadin.event.ShortcutAction.KeyCode;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.Grid.SelectionMode;
 import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
 import com.vaadin.ui.Notification.Type;
 import com.vaadin.ui.TextField;
@@ -31,6 +33,7 @@ import hr.lenak.diplomski.web.dialogs.DetaljiSluzbenogTekstaDialog;
 import hr.lenak.diplomski.web.util.HelperMethods;
 import hr.lenak.diplomski.web.util.PythonModule;
 import hr.lenak.diplomski.web.util.RezultatiPretrage;
+import hr.lenak.diplomski.web.util.Styles;
 
 @SpringView(name = PRETRAGA_PO_KLJUCNIM_RIJECIMA_VIEW)
 public class PretragaPoKljucnimRijecimaView extends VerticalLayout implements View {
@@ -57,17 +60,24 @@ public class PretragaPoKljucnimRijecimaView extends VerticalLayout implements Vi
 	
 
 	private void createComponents() {
-		pretragaText = new TextField("Pretraži po ključnim riječima");
+		pretragaText = new TextField("Pretraži po ključnim riječima:");
 		pretragaText.setWidth(60, Unit.PERCENTAGE);
+		pretragaText.addStyleName(Styles.CUSTOM);
 		binder.forField(pretragaText).bind(KriterijPretrage::getKljucneRijeci, KriterijPretrage::setKljucneRijeci);
 
 		traziButton = new Button("Traži");
+		traziButton.addStyleName(Styles.CUSTOM);
+		traziButton.setClickShortcut(KeyCode.ENTER);
 		traziButton.addClickListener((e) -> novaPretraga());
 		
 		detaljiButton = new Button("Detalji");
+		detaljiButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
 		detaljiButton.addClickListener((e) -> otvoriDetaljeTeksta());
+		
 		inicijalizirajRootItems();
+		
 		rezultatiGrid = new TreeGrid<>();
+		rezultatiGrid.addStyleName(Styles.CUSTOM);
 		rezultatiGrid.setSelectionMode(SelectionMode.SINGLE);
 		rezultatiGrid.addColumn(this::getCaption);
 		
@@ -86,7 +96,9 @@ public class PretragaPoKljucnimRijecimaView extends VerticalLayout implements Vi
 		setSpacing(true);
 		setMargin(false);
 		
-		setCaption("Pretraga po ključnim riječima");
+		Label nasLabel = new Label("Pretraga po ključnim riječima");
+		nasLabel.addStyleName(Styles.TITLE);
+		addComponent(nasLabel);
 		
 		VerticalLayout pretragaLayout = new VerticalLayout();
 		pretragaLayout.setSpacing(true);

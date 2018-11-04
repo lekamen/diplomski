@@ -117,6 +117,17 @@
 		    <artifactId>jsoup</artifactId>
 		    <version>1.8.3</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.vaadin/vaadin-icons -->
+		<dependency>
+		    <groupId>com.vaadin</groupId>
+		    <artifactId>vaadin-icons</artifactId>
+		    <version>3.0.2</version>
+		</dependency>
+		<dependency>
+		   <groupId>com.github.appreciated</groupId>
+		   <artifactId>material</artifactId>
+		   <version>1.1.8</version>
+		</dependency>
 	</dependencies>
 
 	<dependencyManagement>
@@ -130,6 +141,13 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+	
+	<repositories>
+		<repository>
+		   <id>vaadin-addons</id>
+		   <url>http://maven.vaadin.com/vaadin-addons</url>
+		</repository>
+	</repositories>
 
 	<build>
 		<plugins>

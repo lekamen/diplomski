@@ -11,10 +11,12 @@ import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.shared.ui.ContentMode;
 import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.ui.ComboBox;
+import com.vaadin.ui.ComboBox.CaptionFilter;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Panel;
 import com.vaadin.ui.VerticalLayout;
+import com.vaadin.ui.ComboBox.CaptionFilter;
 
 import hr.lenak.diplomski.core.model.KljucneRijeci;
 import hr.lenak.diplomski.core.model.TekstZakona;
@@ -22,6 +24,7 @@ import hr.lenak.diplomski.core.model.TekstoviSluzbeni;
 import hr.lenak.diplomski.web.ViewNames;
 import hr.lenak.diplomski.web.util.HelperMethods;
 import hr.lenak.diplomski.web.util.Repositories;
+import hr.lenak.diplomski.web.util.Styles;
 
 @SpringView(name = PREGLED_DOKUMENATA_VIEW)
 public class PregledDokumenataView extends VerticalLayout implements View {
@@ -48,6 +51,7 @@ public class PregledDokumenataView extends VerticalLayout implements View {
 	private void createComponents() {
 		tzCombo = new ComboBox<>();
 		tzCombo.setWidth(95, Unit.PERCENTAGE);
+		tzCombo.addStyleName(Styles.CUSTOM);
 		tzCombo.setItems(Repositories.tekstZakonaRepository.findAll());
 		tzCombo.setItemCaptionGenerator(tz -> getCaption(tz));		
 		
@@ -77,6 +81,11 @@ public class PregledDokumenataView extends VerticalLayout implements View {
 	private void composeView() {
 		setWidth(100, Unit.PERCENTAGE);
 		setMargin(false);
+		
+		Label nasLabel = new Label("Pregled dokumenata");
+		nasLabel.addStyleName(Styles.TITLE);
+		addComponent(nasLabel);
+		
 		addComponent(tzCombo);
 
 		VerticalLayout kljucneRijeci = new VerticalLayout();

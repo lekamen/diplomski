@@ -9,6 +9,16 @@
 	<service>
 		<jsr107:defaults enable-management="false" enable-statistics="false" />
 	</service>
+	
+	<cache alias="tekstoviZakona">
+		<value-type>java.util.List</value-type>
+		<expiry>
+			<ttl unit="days">1</ttl>
+		</expiry>
+		<resources>
+			<heap unit="entries">1</heap>
+		</resources>
+	</cache>
 
 	<cache alias="kljucneRijeci">
 		<value-type>java.util.List</value-type>

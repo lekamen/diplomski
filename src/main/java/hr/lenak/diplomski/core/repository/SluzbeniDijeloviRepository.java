@@ -14,14 +14,13 @@ import hr.lenak.diplomski.core.model.SluzbeniDijelovi;
 @Transactional
 public class SluzbeniDijeloviRepository extends QueryDslRepository<SluzbeniDijelovi, Long>{
 
-	public List<SluzbeniDijelovi> findByKriterij(String naslov, String donositelj, NarodneNovine novine, String sortIndex) {
+	public List<SluzbeniDijelovi> findByKriterij(String naslov, String donositelj, NarodneNovine novine) {
 		return select(sluzbeniDijelovi)
 			.from(sluzbeniDijelovi)
 			.where(
 				naslov != null ? sluzbeniDijelovi.naslov.containsIgnoreCase(naslov) : null,
 				donositelj != null ? sluzbeniDijelovi.donositelj.containsIgnoreCase(donositelj) : null,
-				novine != null ? sluzbeniDijelovi.narodneNovine.eq(novine) : null,
-				sortIndex != null ? sluzbeniDijelovi.sortIndex.containsIgnoreCase(sortIndex) : null
+				novine != null ? sluzbeniDijelovi.narodneNovine.eq(novine) : null
 			)
 			.fetch();
 	}

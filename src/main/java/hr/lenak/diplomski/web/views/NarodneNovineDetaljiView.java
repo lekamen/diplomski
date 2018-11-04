@@ -5,7 +5,6 @@ import static hr.lenak.diplomski.web.util.Converters.LOCALDATETIME_TO_LOCALDATE_
 import static hr.lenak.diplomski.web.util.Styles.COLUMN_WORD_WRAP;
 import static hr.lenak.diplomski.web.views.NarodneNovineDetaljiView.NARODNE_NOVINE_DETALJI_VIEW;
 import static hr.lenak.diplomski.web.views.NarodneNovineView.NARODNE_NOVINE_VIEW;
-import static hr.lenak.diplomski.web.views.PocetnaView.POCETNA_VIEW;
 import static hr.lenak.diplomski.web.views.SluzbeniDijeloviDetaljiView.SLUZBENI_DIJELOVI_DETALJI_VIEW;
 
 import java.util.List;
@@ -27,8 +26,10 @@ import hr.lenak.diplomski.core.model.NarodneNovine;
 import hr.lenak.diplomski.core.model.SluzbeniDijelovi;
 import hr.lenak.diplomski.web.ViewNames;
 import hr.lenak.diplomski.web.util.Repositories;
+import hr.lenak.diplomski.web.util.Styles;
 
 import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
 import com.vaadin.ui.TextField;
 import com.vaadin.ui.VerticalLayout;
 
@@ -37,7 +38,6 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 	public static final String NARODNE_NOVINE_DETALJI_VIEW = ViewNames.NARODNE_NOVINE_DETALJI_VIEW;
 	private Logger log = LoggerFactory.getLogger(this.getClass());
 	
-	private TextField idText;
 	private TextField brojText;
 	private DateField date;
 	private Button detaljiButton;
@@ -55,14 +55,14 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 
 		String nnId = event.getParameterMap().get("nnId");
 		if (nnId == null) {
-			event.getNavigator().navigateTo(POCETNA_VIEW);
+			event.getNavigator().navigateTo(NARODNE_NOVINE_VIEW);
 			log.debug("Nepostojeci parametar");
 			return;
 		}
 		
 		novine = Repositories.narodneNovineRepository.findById(Long.valueOf(nnId));
 		if (novine == null) {
-			event.getNavigator().navigateTo(POCETNA_VIEW);
+			event.getNavigator().navigateTo(NARODNE_NOVINE_VIEW);
 			log.debug("Neispravan parametar");
 			return;
 		}
@@ -75,32 +75,30 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 	}
 	
 	private void createComponents() {
-		
-		idText = new TextField("Id");
-		idText.setWidth(100, Unit.PERCENTAGE);
-		binder.forField(idText).withConverter(Long::valueOf, String::valueOf).bind(NarodneNovine::getNnId, NarodneNovine::setNnId);
-		
-		brojText = new TextField("Broj");
+		brojText = new TextField();
+		brojText.addStyleName(Styles.CUSTOM);
 		brojText.setWidth(100, Unit.PERCENTAGE);
 		binder.forField(brojText).withConverter(DECIMAL_TO_STRING_CONVERTER).bind(NarodneNovine::getBroj, null);
 		
-		date = new DateField("Datum izdanja");
+		date = new DateField();
+		date.addStyleName(Styles.CUSTOM);
 		date.setWidth(100, Unit.PERCENTAGE);
 		binder.forField(date).withConverter(LOCALDATETIME_TO_LOCALDATE_CONVERTER).bind(NarodneNovine::getDatumIzdanja, null);
 		
 		detaljiButton = new Button("Detalji");
+		detaljiButton.addStyleName(Styles.CUSTOM);
 		detaljiButton.addClickListener((e) -> detaljiSluzbenogDijela());
 		detaljiButton.setEnabled(false);
 		
 		dijeloviGrid = new Grid<>();
-		dijeloviGrid.setRowHeight(180);
 		dijeloviGrid.setSelectionMode(SelectionMode.SINGLE);
-		dijeloviGrid.setWidth(832, Unit.PIXELS);
-		dijeloviGrid.addColumn(SluzbeniDijelovi::getNaslov).setCaption("Naslov").setWidth(450)
+		dijeloviGrid.setWidth(90, Unit.PERCENTAGE);
+		dijeloviGrid.setRowHeight(60);
+		dijeloviGrid.addColumn(SluzbeniDijelovi::getDonositelj).setCaption("Donositelj").setWidth(320)
 			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
-		dijeloviGrid.addColumn(SluzbeniDijelovi::getDonositelj).setCaption("Donositelj").setWidth(270)
+		dijeloviGrid.addColumn(SluzbeniDijelovi::getNaslov).setCaption("Naslov")
 			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
-		dijeloviGrid.addColumn(SluzbeniDijelovi::getSortIndex).setCaption("Sort indeks").setWidth(110);
+
 		dijeloviGrid.getSelectionModel().addSelectionListener(click -> {
 			Optional<SluzbeniDijelovi> opt = click.getFirstSelectedItem();
 			if (opt.isPresent()) {
@@ -115,19 +113,25 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 		dijeloviGrid.setHeightByRows(dijelovi.size());
 		
 		povratakButton = new Button("Povratak");
+		povratakButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
 		povratakButton.addClickListener(e -> getUI().getNavigator().navigateTo(NARODNE_NOVINE_VIEW));
 	}
 	
 	private void composeView() {
-		setWidthUndefined();
+		setWidth(100, Unit.PERCENTAGE);
 		setSpacing(true);
 		setMargin(false);
 		
-		setCaption("Narodne novine detalji detalji");
+		Label naslovLabel = new Label("Narodne novine detalji");
+		naslovLabel.addStyleName(Styles.TITLE);
+		addComponent(naslovLabel);
 		
-		addComponent(new HorizontalLayout(idText));
-		addComponent(new HorizontalLayout(brojText));
-		addComponent(new HorizontalLayout(date));
+		Label brojLabel = new Label("Broj");
+		brojLabel.addStyleName(Styles.ALIGN_RIGHT);
+		
+		Label datumIzdanjaLabel = new Label("Datum izdanja");
+		datumIzdanjaLabel.addStyleName(Styles.ALIGN_RIGHT);
+		addComponent(new HorizontalLayout(brojLabel, brojText, datumIzdanjaLabel, date));
 		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(dijeloviGrid);
 		addComponent(new HorizontalLayout(povratakButton));

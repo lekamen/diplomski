@@ -12,23 +12,26 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.vaadin.data.Binder;
+import com.vaadin.event.ShortcutAction.KeyCode;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.spring.annotation.SpringView;
+import com.vaadin.ui.Alignment;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.ComboBox;
 import com.vaadin.ui.Grid;
 import com.vaadin.ui.Grid.SelectionMode;
 import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
 import com.vaadin.ui.Notification.Type;
 
-import hr.lenak.diplomski.ApplicationProperties;
 import hr.lenak.diplomski.core.model.NarodneNovine;
 import hr.lenak.diplomski.core.model.SluzbeniDijelovi;
 import hr.lenak.diplomski.web.ViewNames;
 import hr.lenak.diplomski.web.util.HelperMethods;
 import hr.lenak.diplomski.web.util.Repositories;
+import hr.lenak.diplomski.web.util.Styles;
 
 import com.vaadin.ui.TextField;
 import com.vaadin.ui.VerticalLayout;
@@ -39,10 +42,9 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 	public static final String SLUZBENI_DIJELOVI_VIEW = ViewNames.SLUZBENI_DIJELOVI_VIEW;
 	private Logger log = LoggerFactory.getLogger(this.getClass());
 	
-	private TextField naslovText;
-	private TextField donositeljText;
 	private ComboBox<NarodneNovine> novineCombo;
-	private TextField sortIndexText;
+	private TextField donositeljText;
+	private TextField naslovText;
 	
 	private Button traziButton;
 	private Button ponistiButton;
@@ -65,42 +67,46 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 	}
 	
 	private void createComponents() {
-		naslovText = new TextField("Naslov");
-		naslovText.setWidth(100, Unit.PERCENTAGE);
-		binder.forField(naslovText).bind(KriterijPretrage::getNaslov, KriterijPretrage::setNaslov);
-		
-		donositeljText = new TextField("Donositelj");
-		donositeljText.setWidth(100, Unit.PERCENTAGE);
-		binder.forField(donositeljText).bind(KriterijPretrage::getDonositelj, KriterijPretrage::setDonositelj);
 		
 		novineCombo = createNovineCombo();
+		novineCombo.addStyleName(Styles.CUSTOM);
 		binder.forField(novineCombo).bind(KriterijPretrage::getNovine, KriterijPretrage::setNovine);
 		
-		sortIndexText = new TextField("Sort indeks");
-		sortIndexText.setWidth(100, Unit.PERCENTAGE);
-		binder.forField(sortIndexText).bind(KriterijPretrage::getSortIndex, KriterijPretrage::setSortIndex);
-		
+		donositeljText = new TextField();
+		donositeljText.addStyleName(Styles.CUSTOM);
+		donositeljText.setWidth(400, Unit.PIXELS);
+		binder.forField(donositeljText).bind(KriterijPretrage::getDonositelj, KriterijPretrage::setDonositelj);
+
+		naslovText = new TextField();
+		naslovText.addStyleName(Styles.CUSTOM);
+		naslovText.setWidth(850, Unit.PIXELS);
+		binder.forField(naslovText).bind(KriterijPretrage::getNaslov, KriterijPretrage::setNaslov);
+
 		traziButton = new Button("Traži");
+		traziButton.addStyleName(Styles.CUSTOM);
+		traziButton.setClickShortcut(KeyCode.ENTER);
 		traziButton.addClickListener((e) -> novaPretraga());
 		
 		ponistiButton = new Button("Poništi");
+		ponistiButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
 		ponistiButton.addClickListener((e) -> ponistiPretragu());
 
 		detaljiButton = new Button("Detalji");
+		detaljiButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
 		detaljiButton.addClickListener((e) -> detaljiSluzbenogDijela());
 		detaljiButton.setEnabled(false);
 		
 		rezultatiGrid = new Grid<>();
-		rezultatiGrid.setRowHeight(180);
 		rezultatiGrid.setHeightByRows(getTableLength());
 		rezultatiGrid.setSelectionMode(SelectionMode.SINGLE);
-		rezultatiGrid.setWidth(1000, Unit.PIXELS);
-		rezultatiGrid.addColumn(SluzbeniDijelovi::getNaslov).setCaption("Naslov").setWidth(450)
-			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
+		rezultatiGrid.setWidth(95, Unit.PERCENTAGE);
+		rezultatiGrid.setRowHeight(60);
+		rezultatiGrid.addColumn(this::getNovineCaption).setCaption("Novine").setWidth(180);
 		rezultatiGrid.addColumn(SluzbeniDijelovi::getDonositelj).setCaption("Donositelj").setWidth(270)
 			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
-		rezultatiGrid.addColumn(this::getNovineCaption).setCaption("Novine").setWidth(180);
-		rezultatiGrid.addColumn(SluzbeniDijelovi::getSortIndex).setCaption("Sort indeks").setWidth(110);
+		rezultatiGrid.addColumn(SluzbeniDijelovi::getNaslov).setCaption("Naslov")
+			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
+		
 		rezultatiGrid.getSelectionModel().addSelectionListener(click -> {
 			Optional<SluzbeniDijelovi> opt = click.getFirstSelectedItem();
 			if (opt.isPresent()) {
@@ -113,23 +119,39 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 	}
 	
 	private void composeView() {
-		//setWidth(100, Unit.PERCENTAGE);
-		setWidthUndefined();
+		setWidth(100, Unit.PERCENTAGE);
 		setSpacing(true);
 		setMargin(false);
 		
-		setCaption("Službeni dijelovi");
+		Label nasLabel = new Label("Službeni dijelovi");
+		nasLabel.addStyleName(Styles.TITLE);
+		addComponent(nasLabel);
 		
 		VerticalLayout pretragaLayout = new VerticalLayout();
 		pretragaLayout.setSpacing(true);
+		pretragaLayout.setWidth(100, Unit.PERCENTAGE);
 		HorizontalLayout prviRed = new HorizontalLayout();
-		prviRed.addComponents(naslovText, donositeljText);
+		Label novineLabel = new Label("Narodne novine");
+		novineLabel.addStyleName(Styles.ALIGN_RIGHT);
+		novineLabel.setWidth(150, Unit.PIXELS);
+		Label donositeljLabel = new Label("Donositelj");
+		donositeljLabel.addStyleName(Styles.ALIGN_RIGHT);
+		donositeljLabel.setWidth(150, Unit.PIXELS);
+		prviRed.addComponents(novineLabel, novineCombo, donositeljLabel, donositeljText);
+		
 		HorizontalLayout drugiRed = new HorizontalLayout();
-		drugiRed.addComponents(novineCombo, sortIndexText);
+		Label naslovLabel = new Label("Naslov");
+		naslovLabel.addStyleName(Styles.ALIGN_RIGHT);
+		naslovLabel.setWidth(150, Unit.PIXELS);
+		drugiRed.addComponents(naslovLabel, naslovText);
 		pretragaLayout.addComponents(prviRed, drugiRed);
 		
+		HorizontalLayout spaceLayout = new HorizontalLayout();
+		spaceLayout.setWidth(50, Unit.PIXELS);
+		pretragaLayout.addComponents(new HorizontalLayout(spaceLayout, traziButton, ponistiButton));
+		
 		addComponent(pretragaLayout);
-		addComponent(new HorizontalLayout(traziButton, ponistiButton));
+		//addComponent();
 		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(rezultatiGrid);
 	}
@@ -161,16 +183,16 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 	private void izvrsiPretragu() {
 		
 		List<SluzbeniDijelovi> lista = Repositories.sluzbeniDijeloviRepository.findByKriterij(
-			kriterijPretrage.getNaslov(), kriterijPretrage.getDonositelj(), kriterijPretrage.getNovine(), kriterijPretrage.getSortIndex());
+			kriterijPretrage.getNaslov(), kriterijPretrage.getDonositelj(), kriterijPretrage.getNovine());
 		
 		rezultatiGrid.setItems(lista);
 	}
 	
 	private ComboBox<NarodneNovine> createNovineCombo() {
-		ComboBox<NarodneNovine> combo = new ComboBox<>("Narodne novine");
+		ComboBox<NarodneNovine> combo = new ComboBox<>();
 		combo.setItems(Repositories.narodneNovineRepository.findAll());
 		combo.setItemCaptionGenerator(this::getNovineCaption);
-		combo.setWidth(100, Unit.PERCENTAGE);
+		combo.setWidth(300, Unit.PIXELS);
 		return combo;
 	}
 	
@@ -186,7 +208,6 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 		private String naslov;
 		private String donositelj;
 		private NarodneNovine novine;
-		private String sortIndex;
 
 		public String getNaslov() {
 			return naslov;
@@ -205,12 +226,6 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 		}
 		public void setNovine(NarodneNovine novine) {
 			this.novine = novine;
-		}
-		public String getSortIndex() {
-			return sortIndex;
-		}
-		public void setSortIndex(String sortIndex) {
-			this.sortIndex = sortIndex;
 		}
 	}
 }

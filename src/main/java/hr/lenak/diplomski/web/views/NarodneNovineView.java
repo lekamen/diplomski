@@ -15,14 +15,18 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.vaadin.data.Binder;
+import com.vaadin.event.ShortcutAction.KeyCode;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
+import com.vaadin.server.Sizeable.Unit;
 import com.vaadin.spring.annotation.SpringView;
+import com.vaadin.ui.Alignment;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.DateField;
 import com.vaadin.ui.Grid;
 import com.vaadin.ui.Grid.SelectionMode;
 import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
 import com.vaadin.ui.Notification.Type;
 
@@ -31,6 +35,7 @@ import hr.lenak.diplomski.core.model.NarodneNovine;
 import hr.lenak.diplomski.web.ViewNames;
 import hr.lenak.diplomski.web.util.HelperMethods;
 import hr.lenak.diplomski.web.util.Repositories;
+import hr.lenak.diplomski.web.util.Styles;
 
 import com.vaadin.ui.TextField;
 import com.vaadin.ui.VerticalLayout;
@@ -67,32 +72,39 @@ public class NarodneNovineView extends VerticalLayout implements View {
 	}
 	
 	private void createComponents() {
-		brojText = new TextField("Broj");
-		brojText.setWidth(100, Unit.PERCENTAGE);
+		brojText = new TextField();
+		brojText.setStyleName(Styles.CUSTOM);
+		brojText.setWidth(200, Unit.PIXELS);
 		binder.forField(brojText).withConverter(DECIMAL_TO_STRING_CONVERTER).bind(KriterijPretrage::getBroj, KriterijPretrage::setBroj);
 		
-		odDate = new DateField("Od");
+		odDate = new DateField();
+		odDate.setStyleName(Styles.CUSTOM);
 		odDate.setWidth(100, Unit.PERCENTAGE);
 		binder.forField(odDate).withConverter(LOCALDATETIME_TO_LOCALDATE_CONVERTER).bind(KriterijPretrage::getOdDate, KriterijPretrage::setOdDate);
 		
-		doDate = new DateField("Do");
+		doDate = new DateField();
+		doDate.setStyleName(Styles.CUSTOM);
 		doDate.setWidth(100, Unit.PERCENTAGE);
 		binder.forField(doDate).withConverter(LOCALDATETIME_TO_LOCALDATE_CONVERTER).bind(KriterijPretrage::getDoDate, KriterijPretrage::setDoDate);
 
 		traziButton = new Button("Traži");
+		traziButton.setStyleName(Styles.CUSTOM);
+		traziButton.setClickShortcut(KeyCode.ENTER);
 		traziButton.addClickListener((e) -> novaPretraga());
 		
 		ponistiButton = new Button("Poništi");
+		ponistiButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
 		ponistiButton.addClickListener((e) -> ponistiPretragu());
 
 		detaljiButton = new Button("Detalji");
+		detaljiButton.setStyleName(Styles.CUSTOM);
 		detaljiButton.addClickListener((e) -> detaljiNarodnihNovina());
 		detaljiButton.setEnabled(false);
 		
 		rezultatiGrid = new Grid<>();
 		rezultatiGrid.setHeightByRows(getTableLength());
 		rezultatiGrid.setSelectionMode(SelectionMode.SINGLE);
-		rezultatiGrid.setWidth(1000, Unit.PIXELS);
+		rezultatiGrid.setWidth(800, Unit.PIXELS);
 		rezultatiGrid.addColumn(NarodneNovine::getBroj).setCaption("Broj");
 		rezultatiGrid.addColumn(novine -> HelperMethods.formatDate(novine.getDatumIzdanja())).setCaption("Datum");
 		rezultatiGrid.getSelectionModel().addSelectionListener(click -> {
@@ -109,18 +121,33 @@ public class NarodneNovineView extends VerticalLayout implements View {
 	private void composeView() {
 		setWidthUndefined();
 		setSpacing(true);
-		setMargin(false);
+		setMargin(true);
 		
-		setCaption("Narodne novine");
+		Label naslovLabel = new Label("Narodne novine");
+		naslovLabel.addStyleName(Styles.TITLE);
+		addComponent(naslovLabel);
 		
+		Label brojLabel = new Label("Broj");
+		brojLabel.addStyleName(Styles.ALIGN_RIGHT);
+		brojLabel.setWidth(150, Unit.PIXELS);
+		Label odLabel = new Label("Od");
+		odLabel.addStyleName(Styles.ALIGN_RIGHT);
+		odLabel.setWidth(150, Unit.PIXELS);
+		Label doLabel = new Label("Do");
+		doLabel.addStyleName(Styles.ALIGN_RIGHT);
+		doLabel.setWidth(70, Unit.PIXELS);
 		VerticalLayout pretragaLayout = new VerticalLayout();
 		pretragaLayout.setSpacing(true);
-		pretragaLayout.addComponents(brojText, odDate, doDate);
+		pretragaLayout.addComponents(new HorizontalLayout(brojLabel, brojText), new HorizontalLayout(odLabel, odDate, doLabel, doDate));
 		
+		HorizontalLayout spaceLayout = new HorizontalLayout();
+		spaceLayout.setWidth(100, Unit.PIXELS);
+		
+		pretragaLayout.addComponent(new HorizontalLayout(spaceLayout, traziButton, ponistiButton));
 		addComponent(pretragaLayout);
-		addComponent(new HorizontalLayout(traziButton, ponistiButton));
 		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(rezultatiGrid);
+		
 	}
 	
 	private void novaPretraga() {

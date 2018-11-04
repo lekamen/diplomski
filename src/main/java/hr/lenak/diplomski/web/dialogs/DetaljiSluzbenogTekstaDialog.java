@@ -7,6 +7,7 @@ import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.vaadin.event.ShortcutAction.KeyCode;
 import com.vaadin.shared.ui.ContentMode;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Panel;
@@ -28,7 +29,9 @@ public class DetaljiSluzbenogTekstaDialog extends VerticalLayout{
 		window.setWidth(70, Unit.PERCENTAGE);
 		window.setContent(new DetaljiSluzbenogTekstaDialog(tekstSluzbeni));
 		window.center();
+		window.addCloseShortcut(KeyCode.ESCAPE);
 		UI.getCurrent().addWindow(window);
+		window.focus();
 		return window;
 	}
 	
@@ -50,7 +53,6 @@ public class DetaljiSluzbenogTekstaDialog extends VerticalLayout{
 		setSpacing(true);
 		setMargin(false);
 		
-		setCaption("Pregled službenog teksta");
 		addComponent(tekstPanel);
 	}
 

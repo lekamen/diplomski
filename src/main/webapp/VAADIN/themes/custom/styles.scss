@@ -1,15 +1,74 @@
-$v-font-family: 'Arial', sans-serif;
-$v-font-size: 14px;
+$mat-background-color: #fafafa;
+$mat-custom-color: #009688;
 
-@import "../valo/valo";
+$v-loading-indicator-color: #00baa9;
+
+@import "../material/material.scss"; 
+@import "../../../VAADIN/addons/vaadin-icons/vaadin-icons.scss";
 
 .custom {
-	@include valo;
-	
+	@include material;
+	@include vaadin-icons;
 	
 	.v-grid-cell.column-word-wrap {
 		white-space: normal;
  		overflow: hidden;
  		line-height: normal;
+	}
+	
+	.header {
+		background: #009688;
+	}
+	
+	.v-link {
+		color: white;
+	}
+	
+	.v-link a:hover {
+		color: #00baa9;
+	}
+	
+	.v-datefield-popup .v-datefield-calendarpanel-day:hover {
+		color: #009688;
+	}
+	
+	.v-datefield-popup .v-datefield-calendarpanel-day.v-datefield-calendarpanel-day-selected, .custom .v-datefield-popup .v-datefield-calendarpanel-day.v-datefield-calendarpanel-day-selected:hover {
+		color: #b7d8ef;
+		background: #009688;
+		border: none;
+		font-weight: 600;
+	}
+	
+	.v-label.title {
+		font-size: 24px;
+		font-weight: 600;
+		color: #009688;
+	}
+	
+	.v-treegrid-row-selected  > .v-treegrid-cell {
+		background: #009688;
+		color: #b7d8ef;
+		text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.05);
+		border-color: #009688;
+	}
+
+	.v-treegrid-row-selected  > .v-treegrid-cell-focused:before {
+		border-color: #009688;
+	}
+
+	.v-treegrid-editor {
+		border-color: #009688;
+	}
+	
+	.v-treegrid-row-focused::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		border: 2px solid #009688;
+		display: none;
+		pointer-events: none;
 	}
 }
