@@ -49,8 +49,8 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 	private Button traziButton;
 	private Button ponistiButton;
 	
-	private Button detaljiButton;
 	private Grid<SluzbeniDijelovi> rezultatiGrid;
+	private Button detaljiButton;
 	
 	private Binder<KriterijPretrage> binder = new Binder<>(KriterijPretrage.class);
 	private KriterijPretrage kriterijPretrage = new KriterijPretrage();
@@ -151,9 +151,8 @@ public class SluzbeniDijeloviView extends VerticalLayout implements View {
 		pretragaLayout.addComponents(new HorizontalLayout(spaceLayout, traziButton, ponistiButton));
 		
 		addComponent(pretragaLayout);
-		//addComponent();
-		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(rezultatiGrid);
+		addComponent(new HorizontalLayout(detaljiButton));
 	}
 	
 	private void novaPretraga() {

@@ -18,9 +18,7 @@ import com.vaadin.data.Binder;
 import com.vaadin.event.ShortcutAction.KeyCode;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
-import com.vaadin.server.Sizeable.Unit;
 import com.vaadin.spring.annotation.SpringView;
-import com.vaadin.ui.Alignment;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.DateField;
 import com.vaadin.ui.Grid;
@@ -30,7 +28,6 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.Notification;
 import com.vaadin.ui.Notification.Type;
 
-import hr.lenak.diplomski.ApplicationProperties;
 import hr.lenak.diplomski.core.model.NarodneNovine;
 import hr.lenak.diplomski.web.ViewNames;
 import hr.lenak.diplomski.web.util.HelperMethods;
@@ -53,8 +50,8 @@ public class NarodneNovineView extends VerticalLayout implements View {
 	private Button traziButton;
 	private Button ponistiButton;
 	
-	private Button detaljiButton;
 	private Grid<NarodneNovine> rezultatiGrid;
+	private Button detaljiButton;
 	
 	private Binder<KriterijPretrage> binder = new Binder<>(KriterijPretrage.class);
 	private KriterijPretrage kriterijPretrage = new KriterijPretrage();
@@ -123,7 +120,7 @@ public class NarodneNovineView extends VerticalLayout implements View {
 		setSpacing(true);
 		setMargin(true);
 		
-		Label naslovLabel = new Label("Narodne novine");
+		Label naslovLabel = new Label("Narodne novine, službeni list RH");
 		naslovLabel.addStyleName(Styles.TITLE);
 		addComponent(naslovLabel);
 		
@@ -145,9 +142,8 @@ public class NarodneNovineView extends VerticalLayout implements View {
 		
 		pretragaLayout.addComponent(new HorizontalLayout(spaceLayout, traziButton, ponistiButton));
 		addComponent(pretragaLayout);
-		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(rezultatiGrid);
-		
+		addComponent(new HorizontalLayout(detaljiButton));		
 	}
 	
 	private void novaPretraga() {

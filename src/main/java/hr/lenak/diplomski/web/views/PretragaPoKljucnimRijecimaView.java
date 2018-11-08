@@ -43,8 +43,8 @@ public class PretragaPoKljucnimRijecimaView extends VerticalLayout implements Vi
 	
 	private TextField pretragaText;
 	private Button traziButton;
-	private Button detaljiButton;
 	private TreeGrid<RezultatiPretrage> rezultatiGrid;
+	private Button detaljiButton;
 	private List<RezultatiPretrage> rootItems;
 	
 	private Binder<KriterijPretrage> binder = new Binder<>(KriterijPretrage.class);
@@ -106,8 +106,8 @@ public class PretragaPoKljucnimRijecimaView extends VerticalLayout implements Vi
 		
 		addComponent(pretragaLayout);
 		addComponent(new HorizontalLayout(traziButton));
-		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(rezultatiGrid);
+		addComponent(new HorizontalLayout(detaljiButton));
 	}
 	
 	private void novaPretraga() {

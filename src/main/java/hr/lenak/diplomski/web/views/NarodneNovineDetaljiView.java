@@ -2,6 +2,7 @@ package hr.lenak.diplomski.web.views;
 
 import static hr.lenak.diplomski.web.util.Converters.DECIMAL_TO_STRING_CONVERTER;
 import static hr.lenak.diplomski.web.util.Converters.LOCALDATETIME_TO_LOCALDATE_CONVERTER;
+import static hr.lenak.diplomski.web.util.HelperMethods.getTableLength;
 import static hr.lenak.diplomski.web.util.Styles.COLUMN_WORD_WRAP;
 import static hr.lenak.diplomski.web.views.NarodneNovineDetaljiView.NARODNE_NOVINE_DETALJI_VIEW;
 import static hr.lenak.diplomski.web.views.NarodneNovineView.NARODNE_NOVINE_VIEW;
@@ -40,8 +41,8 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 	
 	private TextField brojText;
 	private DateField date;
-	private Button detaljiButton;
 	private Grid<SluzbeniDijelovi> dijeloviGrid;
+	private Button detaljiButton;
 	
 	private Button povratakButton;
 	private NarodneNovine novine;
@@ -94,6 +95,7 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 		dijeloviGrid.setSelectionMode(SelectionMode.SINGLE);
 		dijeloviGrid.setWidth(90, Unit.PERCENTAGE);
 		dijeloviGrid.setRowHeight(60);
+		dijeloviGrid.setHeightByRows(getTableLength());
 		dijeloviGrid.addColumn(SluzbeniDijelovi::getDonositelj).setCaption("Donositelj").setWidth(320)
 			.setStyleGenerator(colRef -> COLUMN_WORD_WRAP);
 		dijeloviGrid.addColumn(SluzbeniDijelovi::getNaslov).setCaption("Naslov")
@@ -110,7 +112,6 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 		});
 		List<SluzbeniDijelovi> dijelovi = Repositories.sluzbeniDijeloviRepository.findByNarodneNovine(novine);
 		dijeloviGrid.setItems(dijelovi);
-		dijeloviGrid.setHeightByRows(dijelovi.size());
 		
 		povratakButton = new Button("Povratak");
 		povratakButton.addStyleNames(Styles.CUSTOM, Styles.BORDER);
@@ -132,8 +133,8 @@ public class NarodneNovineDetaljiView extends VerticalLayout implements View {
 		Label datumIzdanjaLabel = new Label("Datum izdanja");
 		datumIzdanjaLabel.addStyleName(Styles.ALIGN_RIGHT);
 		addComponent(new HorizontalLayout(brojLabel, brojText, datumIzdanjaLabel, date));
-		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(dijeloviGrid);
+		addComponent(new HorizontalLayout(detaljiButton));
 		addComponent(new HorizontalLayout(povratakButton));
 	}
 
